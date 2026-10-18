@@ -1,0 +1,62 @@
+# ---------------- AYARLAR ----------------
+settings:
+  model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
+  min_score: 4              # 1-5 arası; düşürürsen daha çok haber gelir
+  max_posts_per_run: 8      # bir çalışmada en fazla kaç haber gönderilsin
+  max_age_hours: 6          # bundan eski haberler gönderilmez
+
+# ---------------- KAYNAKLAR ----------------
+# Sıra önemli: aynı haber birden fazla sitede çıkarsa listede ÜSTTEKİ kaynak seçilir.
+# handle = paylaşımın altındaki "📰 @..." satırı. "# doğrula" yazanları X'te kontrol et.
+# feeds boşsa veya çalışmazsa bot sitenin RSS'ini kendisi bulmaya çalışır,
+# bulamazsa Google News yedeğini kullanır.
+sources:
+  - name: Sky Sports F1
+    handle: "@SkySportsF1"
+    site: https://www.skysports.com/f1
+    feeds: [https://www.skysports.com/rss/12433]
+
+  - name: The Race
+    handle: "@wearetherace"        # doğrula
+    site: https://www.the-race.com
+    feeds: [https://www.the-race.com/feed/]
+
+  - name: Autosport
+    handle: "@autosport"
+    site: https://www.autosport.com/f1/
+    feeds: [https://www.autosport.com/rss/f1/news/]
+
+  - name: Motorsport.com Italia
+    handle: "@msportitalia"        # doğrula
+    site: https://it.motorsport.com/f1/
+    feeds: [https://it.motorsport.com/rss/f1/news/]
+
+  - name: RacingNews365
+    handle: "@RacingNews365"
+    site: https://racingnews365.com
+    feeds: [https://racingnews365.com/feed/news.xml]
+
+  - name: RacingNews365 NL
+    handle: "@RacingNews365NL"     # doğrula
+    site: https://racingnews365.nl
+    feeds: [https://racingnews365.nl/feed/news.xml]
+
+  - name: Motorsport Week
+    handle: "@MotorsportWeek"
+    site: https://www.motorsportweek.com
+    feeds: [https://www.motorsportweek.com/feed/]
+
+  - name: PlanetF1
+    handle: "@Planet_F1"           # doğrula
+    site: https://www.planetf1.com
+    feeds: [https://www.planetf1.com/feed]
+
+  - name: GPblog
+    handle: "@GPblog"              # doğrula
+    site: https://www.gpblog.com/en
+    feeds: []
+
+  - name: GPFans
+    handle: "@GPFans_Global"       # doğrula
+    site: https://www.gpfans.com/en/
+    feeds: []
