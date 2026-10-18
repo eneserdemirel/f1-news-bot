@@ -2,7 +2,7 @@ name: F1 News Bot
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # her 20 dakikada bir
+    - cron: "*/5 * * * *"    # 5 dakikada bir uyanır; gate.py normal günlerde 20 dakikada bir çalıştırır
   workflow_dispatch:          # elle çalıştırma
     inputs:
       mode:
@@ -25,14 +25,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Çalışma zamanı kontrolü
+        id: gate
+        run: python3 gate.py
+
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
           cache: pip
 
-      - run: pip install -r requirements.txt
+      - if: steps.gate.outputs.run == 'true'
+        run: pip install -r requirements.txt
 
       - name: Botu çalıştır
+        if: steps.gate.outputs.run == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -40,11 +47,11 @@ jobs:
         run: python bot.py --mode "${{ github.event.inputs.mode || 'run' }}"
 
       - name: Görülen haberleri kaydet
-        if: always()
+        if: always() && steps.gate.outputs.run == 'true'
         run: |
           git config user.name "f1-news-bot"
           git config user.email "f1-news-bot@users.noreply.github.com"
-          git add state/seen.json
+          git add state/
           git diff --cached --quiet && exit 0
           git commit -m "Update seen state"
           git pull --rebase
