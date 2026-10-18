@@ -32,8 +32,8 @@ HEADERS = {
     "Accept": "application/rss+xml, application/atom+xml, application/xml, "
               "text/xml, text/html;q=0.9, */*;q=0.8",
 }
-TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-TG_CHAT = os.environ.get("TELEGRAM_CHAT_ID", "")
+TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+TG_CHAT = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 PREFIX = "🚨 | "
 
 # ---------------------------------------------------------------- prompts
@@ -253,7 +253,11 @@ def collect(cfg, state, report=None):
 def ask_claude(client, model, prompt, max_tokens):
     resp = client.messages.create(model=model, max_tokens=max_tokens,
                                   messages=[{"role": "user", "content": prompt}])
-    return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
+    text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
+    if not text.strip():
+        kinds = [getattr(b, "type", "?") for b in resp.content]
+        raise ValueError(f"Claude boş cevap döndü (stop_reason={resp.stop_reason}, bloklar={kinds})")
+    return text
 
 
 def extract_json(text, opener):
@@ -273,7 +277,7 @@ def triage(client, model, items, recent_titles):
         lines = "\n".join(f'{i}. [{it["source"]}] {it["title"]} | {it["summary"][:250]}'
                           for i, it in enumerate(chunk))
         prompt = TRIAGE_PROMPT.replace("<<RECENT>>", recent).replace("<<ITEMS>>", lines)
-        for d in extract_json(ask_claude(client, model, prompt, 4000), "["):
+        for d in extract_json(ask_claude(client, model, prompt, 8000), "["):
             i = int(d.get("i", -1))
             if 0 <= i < len(chunk):
                 results[chunk[i]["id"]] = {
@@ -319,14 +323,14 @@ def fix_prefix(s):
 def write_post(client, model, it, text):
     prompt = (WRITE_PROMPT.replace("<<SOURCE>>", it["source"])
               .replace("<<TITLE>>", it["title"]).replace("<<TEXT>>", text))
-    data = extract_json(ask_claude(client, model, prompt, 1500), "{")
+    data = extract_json(ask_claude(client, model, prompt, 4000), "{")
     n = len(data.get("post_en", ""))
     if n > 400:  # bir kez kısaltma iste
         retry = (prompt + f"\n\nYour previous post_en was {n} characters, over the limit. "
                  f"Previous answer:\n{json.dumps(data, ensure_ascii=False)}\n"
                  "Rewrite it so post_en is at most 400 characters (280 if it is a single simple "
                  "fact), keeping every rule. Return only JSON.")
-        data = extract_json(ask_claude(client, model, retry, 1500), "{")
+        data = extract_json(ask_claude(client, model, retry, 4000), "{")
     data["post_en"] = fix_prefix(data.get("post_en"))
     data["post_tr"] = fix_prefix(data.get("post_tr"))
     return data
