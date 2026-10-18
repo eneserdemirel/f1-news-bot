@@ -4,12 +4,19 @@ settings:
   min_score: 4              # 1-5 arası; düşürürsen daha çok haber gelir
   max_posts_per_run: 8      # bir çalışmada en fazla kaç haber gönderilsin
   max_age_hours: 6          # bundan eski haberler gönderilmez
+  trend_window_min: 45      # "yükselen haber" için bakılan süre (dakika)
+  trend_min_sources: 4      # bu sürede bu kadar farklı kaynak yazarsa 🔥 alarmı
+  normal_interval_min: 20   # normal günlerde kontrol aralığı (dakika)
+  race_interval_min: 5      # yarış haftasonunda kontrol aralığı (dakika)
+  race_weekend: auto        # auto = takvime göre, on = hep açık, off = hep kapalı
 
 # ---------------- KAYNAKLAR ----------------
 # Sıra önemli: aynı haber birden fazla sitede çıkarsa listede ÜSTTEKİ kaynak seçilir.
 # handle = paylaşımın altındaki "📰 @..." satırı. "# doğrula" yazanları X'te kontrol et.
 # feeds boşsa veya çalışmazsa bot sitenin RSS'ini kendisi bulmaya çalışır,
 # bulamazsa Google News yedeğini kullanır.
+# lang = haberin dili (en, it, de, es, nl). discover: false = site genel spor sitesiyse
+# otomatik RSS bulmayı kapatır, tüm sporlar gelmesin diye.
 sources:
   - name: Sky Sports F1
     handle: "@SkySportsF1"
@@ -60,3 +67,43 @@ sources:
     handle: "@GPFans_Global"       # doğrula
     site: https://www.gpfans.com/en/
     feeds: []
+
+  # ---------- Haberi ilk veren yabancı kaynaklar ----------
+  - name: Corriere dello Sport
+    handle: "@CorSport"            # doğrula
+    site: https://www.corrieredellosport.it/formula-1
+    lang: it
+    discover: false
+    gnews_query: 'site:corrieredellosport.it "Formula 1"'
+    feeds: [https://www.corrieredellosport.it/rss/formula-1]
+
+  - name: Gazzetta dello Sport
+    handle: "@Gazzetta_it"         # doğrula
+    site: https://www.gazzetta.it/Formula-1/
+    lang: it
+    discover: false
+    gnews_query: 'site:gazzetta.it "Formula 1"'
+    feeds: [https://www.gazzetta.it/rss/formula-1.xml]
+
+  - name: Motorsport-Total
+    handle: "@MST_com"             # doğrula
+    site: https://www.motorsport-total.com/formel-1/
+    lang: de
+    gnews_query: 'site:motorsport-total.com "Formel 1"'
+    feeds: []
+
+  - name: Auto Motor und Sport
+    handle: "@ams_formel1"         # doğrula
+    site: https://www.auto-motor-und-sport.de/formel-1/
+    lang: de
+    discover: false
+    gnews_query: 'site:auto-motor-und-sport.de "Formel 1"'
+    feeds: [https://www.auto-motor-und-sport.de/formel-1/feed/]
+
+  - name: AS
+    handle: "@diarioas"            # doğrula
+    site: https://as.com/motor/formula_1/
+    lang: es
+    discover: false
+    gnews_query: 'site:as.com "Fórmula 1"'
+    feeds: [https://feeds.as.com/mrss-s/pages/as/site/as.com/section/motor/subsection/formula_1/]
