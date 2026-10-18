@@ -18,6 +18,20 @@ settings:
 # lang = haberin dili (en, it, de, es, nl). discover: false = site genel spor sitesiyse
 # otomatik RSS bulmayı kapatır, tüm sporlar gelmesin diye.
 sources:
+  # ---------- Resmi kaynaklar ----------
+  - name: Formula 1
+    handle: "@F1"
+    site: https://www.formula1.com/en/latest
+    feeds: [https://www.formula1.com/en/latest/all.xml]
+
+  - name: FIA
+    handle: "@fia"
+    site: https://www.fia.com/news
+    discover: false
+    gnews_query: 'site:fia.com "Formula 1"'
+    feeds: []
+
+  # ---------- Haber siteleri ----------
   - name: Sky Sports F1
     handle: "@SkySportsF1"
     site: https://www.skysports.com/f1
