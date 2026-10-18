@@ -13,7 +13,7 @@ import re
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, urlunparse
+from urllib.parse import quote_plus, urljoin, urlparse, urlunparse
 
 import feedparser
 import requests
@@ -35,13 +35,20 @@ HEADERS = {
 TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TG_CHAT = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 PREFIX = "🚨 | "
+GNEWS_LANG = {
+    "en": "hl=en-GB&gl=GB&ceid=GB:en",
+    "it": "hl=it&gl=IT&ceid=IT:it",
+    "de": "hl=de&gl=DE&ceid=DE:de",
+    "es": "hl=es&gl=ES&ceid=ES:es",
+    "nl": "hl=nl&gl=NL&ceid=NL:nl",
+}
 
 # ---------------------------------------------------------------- prompts
 TRIAGE_PROMPT = """You are the news editor of a fast Formula 1 breaking-news account.
-Below are new headlines from several sites (some may be in Italian or Dutch).
+New headlines come from several sites, some in Italian, German, Spanish or Dutch.
 
-Stories already posted in the last 48 hours:
-<<RECENT>>
+Stories already tracked in the last 24 hours ([posted] = already published by us):
+<<STORIES>>
 
 New items:
 <<ITEMS>>
@@ -57,9 +64,13 @@ For EVERY new item return one JSON object with:
    3 = moderately interesting
    2 = minor quotes, previews, routine updates
    1 = filler, opinion pieces, listicles, quizzes, betting, merchandise,
-       or NOT about Formula 1 (other series, road cars)
-- "group": a number; items about the same story get the same group number
-- "already_posted": true if it is the same story as one already posted with no significant new development
+       or NOT about Formula 1 (other series, road cars, other sports)
+- "story": the id of the tracked story this item is about (e.g. "S12"), or a new label
+  "N1", "N2", ... if it is a new story. Items in this list about the same new story share the same N label.
+  Different angles or reactions to the same event belong to the same story.
+- "title": for a new story, a short neutral English label of max 12 words; otherwise ""
+- "update": true only if the story is marked [posted] AND this item adds a significant new
+  development (official confirmation, verdict, new key fact); otherwise false
 Return only a JSON array, nothing else."""
 
 WRITE_PROMPT = """You write ready-to-post Formula 1 news updates for a social media account.
@@ -118,18 +129,22 @@ def load_state():
         with open(STATE_PATH, encoding="utf-8") as f:
             st = json.load(f)
     st.setdefault("initialized", False)
-    st.setdefault("seen", {})    # haber id -> ilk görülme zamanı
-    st.setdefault("sent", [])    # son 48 saatte gönderilen hikayeler
-    st.setdefault("feeds", {})   # kaynak adı -> çalışan RSS adresi
+    st.setdefault("seen", {})        # haber id -> ilk görülme zamanı
+    st.setdefault("stories", {})     # hikaye id -> bilgiler
+    st.setdefault("story_seq", 0)
+    st.setdefault("feeds", {})       # kaynak adı -> çalışan RSS adresi
+    st.setdefault("calendar", [])    # [başlangıç, bitiş, yarış adı]
     st.setdefault("last_alert", "")
+    st.pop("sent", None)             # eski sürümden kalan alan
     return st
 
 
 def save_state(st):
     seen_cut = now() - timedelta(days=14)
     st["seen"] = {k: v for k, v in st["seen"].items() if datetime.fromisoformat(v) > seen_cut}
-    sent_cut = now() - timedelta(hours=48)
-    st["sent"] = [s for s in st["sent"] if datetime.fromisoformat(s["time"]) > sent_cut]
+    story_cut = now() - timedelta(hours=48)
+    st["stories"] = {k: v for k, v in st["stories"].items()
+                     if datetime.fromisoformat(v["last"]) > story_cut}
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(st, f, ensure_ascii=False, indent=1)
@@ -178,10 +193,12 @@ def discover_feeds(site):
     return found
 
 
-def google_news_feed(site):
-    domain = urlparse(site).netloc
+def google_news_feed(src):
+    domain = urlparse(src["site"]).netloc
     domain = domain[4:] if domain.startswith("www.") else domain
-    return f"https://news.google.com/rss/search?q=site:{domain}+when:1d&hl=en-GB&gl=GB&ceid=GB:en"
+    query = src.get("gnews_query") or f"site:{domain}"
+    lang = GNEWS_LANG.get(src.get("lang", "en"), GNEWS_LANG["en"])
+    return f"https://news.google.com/rss/search?q={quote_plus(query + ' when:1d')}&{lang}"
 
 
 def get_entries(src, state):
@@ -196,14 +213,15 @@ def get_entries(src, state):
         if entries:
             state["feeds"][name] = url
             return entries, url, "ok"
-    for url in discover_feeds(src["site"]):
-        if url in candidates:
-            continue
-        entries = parse_feed(url)
-        if entries:
-            state["feeds"][name] = url
-            return entries, url, "discovered"
-    url = google_news_feed(src["site"])
+    if src.get("discover", True):
+        for url in discover_feeds(src["site"]):
+            if url in candidates:
+                continue
+            entries = parse_feed(url)
+            if entries:
+                state["feeds"][name] = url
+                return entries, url, "discovered"
+    url = google_news_feed(src)
     entries = parse_feed(url)
     if entries:
         return entries, url, "google"
@@ -242,11 +260,50 @@ def collect(cfg, state, report=None):
         log(f"{src['name']}: {len(entries)} haber [{status}] {url or ''}")
         if report is not None:
             report.append((src["name"], len(entries), status))
-        for e in entries[:40]:
+        dated = sorted(entries, key=lambda e: entry_time(e) or datetime.min.replace(tzinfo=timezone.utc),
+                       reverse=True)
+        for e in dated[:40]:
             it = make_item(e, src, prio)
             if it["title"]:
                 items.setdefault(it["id"], it)
     return list(items.values())
+
+
+# ---------------------------------------------------------------- yarış takvimi
+def refresh_calendar(state):
+    """Yarış takvimini günde bir kez günceller (Jolpica / Ergast verisi)."""
+    last = state.get("calendar_updated")
+    if last and now() - datetime.fromisoformat(last) < timedelta(hours=24):
+        return
+    try:
+        r = http_get("https://api.jolpi.ca/ergast/f1/current.json")
+        races = r.json()["MRData"]["RaceTable"]["Races"]
+
+        def dt(d):
+            t = d.get("time", "12:00:00Z").replace("Z", "+00:00")
+            return datetime.fromisoformat(f'{d["date"]}T{t}')
+
+        cal = []
+        for race in races:
+            race_start = dt(race)
+            first = dt(race["FirstPractice"]) if "FirstPractice" in race else race_start - timedelta(days=2)
+            cal.append([(first - timedelta(hours=6)).isoformat(),
+                        (race_start + timedelta(hours=12)).isoformat(), race.get("raceName", "")])
+        state["calendar"] = cal
+        state["calendar_updated"] = now().isoformat()
+        log(f"Takvim güncellendi: {len(cal)} yarış")
+    except Exception as e:
+        log(f"Takvim alınamadı: {e}")
+
+
+def race_status(cfg, state):
+    mode = str(cfg.get("settings", {}).get("race_weekend", "auto")).lower()
+    current = next((c for c in state["calendar"]
+                    if datetime.fromisoformat(c[0]) <= now() <= datetime.fromisoformat(c[1])), None)
+    upcoming = next((c for c in sorted(state["calendar"])
+                     if datetime.fromisoformat(c[0]) > now()), None)
+    active = mode == "on" or (mode == "auto" and current is not None)
+    return active, current, upcoming
 
 
 # ---------------------------------------------------------------- Claude
@@ -269,38 +326,83 @@ def extract_json(text, opener):
     return json.loads(text[start:end + 1])
 
 
-def triage(client, model, items, recent_titles):
+def triage(client, model, items, stories):
+    """Her haber için puan, hikaye ve gelişme bilgisini döndürür."""
+    recent = sorted(stories.items(), key=lambda kv: kv[1]["last"], reverse=True)[:80]
+    story_txt = "\n".join(f'{sid} {"[posted] " if s["posted"] else ""}{s["title"]}'
+                           for sid, s in recent) or "(none)"
     results = {}
-    recent = "\n".join(f"- {t}" for t in recent_titles[-80:]) or "(none)"
     for c in range(0, len(items), 50):
         chunk = items[c:c + 50]
         lines = "\n".join(f'{i}. [{it["source"]}] {it["title"]} | {it["summary"][:250]}'
                           for i, it in enumerate(chunk))
-        prompt = TRIAGE_PROMPT.replace("<<RECENT>>", recent).replace("<<ITEMS>>", lines)
+        prompt = TRIAGE_PROMPT.replace("<<STORIES>>", story_txt).replace("<<ITEMS>>", lines)
         for d in extract_json(ask_claude(client, model, prompt, 8000), "["):
             i = int(d.get("i", -1))
             if 0 <= i < len(chunk):
                 results[chunk[i]["id"]] = {
                     "score": int(d.get("score", 1)),
-                    "group": f'{c}-{d.get("group", i)}',
-                    "posted": bool(d.get("already_posted", False)),
+                    "story": str(d.get("story", "")).strip() or f"N-solo-{i}",
+                    "title": (d.get("title") or "").strip(),
+                    "update": bool(d.get("update", False)),
+                    "chunk": c,
                 }
     return results
 
 
-def select(items, tri, min_score, max_posts):
-    """Her hikayeden tek haber: en yüksek puanlı, eşitse listede üstte olan kaynak."""
-    best = {}
+def assign_stories(state, items, tri):
+    """Triage sonuçlarını kalıcı hikayelere bağlar, kaynak zamanlarını kaydeder."""
+    stories, new_ids = state["stories"], {}
     for it in items:
         r = tri.get(it["id"])
-        if not r or r["posted"] or r["score"] < min_score:
+        if not r:
             continue
-        it["score"] = r["score"]
-        cur = best.get(r["group"])
+        key = r["story"]
+        if key in stories:
+            sid = key
+        else:
+            nk = (r["chunk"], key)
+            if nk not in new_ids:
+                state["story_seq"] += 1
+                sid = f"S{state['story_seq']}"
+                new_ids[nk] = sid
+                stories[sid] = {"title": r["title"] or it["title"], "first": now().isoformat(),
+                                "sources": {}, "posted": False, "alerted": False}
+            sid = new_ids[nk]
+        s = stories[sid]
+        t = (it["time"] or now()).isoformat()
+        prev = s["sources"].get(it["source"])
+        s["sources"][it["source"]] = min(prev, t) if prev else t
+        s["last"] = now().isoformat()
+        it.update(score=r["score"], story=sid, update=r["update"])
+
+
+def trending_count(story, window_min):
+    cut = now() - timedelta(minutes=window_min)
+    return sum(1 for t in story["sources"].values() if datetime.fromisoformat(t) >= cut)
+
+
+def select(items, state, s):
+    """Her hikayeden en iyi haberi seçer: yeni hikayeler, yükselenler ve önemli gelişmeler."""
+    min_score, window = s.get("min_score", 4), s.get("trend_window_min", 45)
+    trend_min = s.get("trend_min_sources", 4)
+    best = {}
+    for it in items:
+        if "story" not in it:
+            continue
+        story = state["stories"][it["story"]]
+        trending = trending_count(story, window) >= trend_min
+        if story["posted"]:
+            ok = it["update"] and it["score"] >= min_score
+        else:
+            ok = it["score"] >= min_score or (trending and it["score"] >= 3)
+        if not ok:
+            continue
+        cur = best.get(it["story"])
         if cur is None or (it["score"], -it["priority"]) > (cur["score"], -cur["priority"]):
-            best[r["group"]] = it
+            best[it["story"]] = it
     chosen = sorted(best.values(), key=lambda x: (-x["score"], x["priority"]))
-    return chosen[:max_posts]
+    return chosen[: s.get("max_posts_per_run", 8)]
 
 
 def article_text(it):
@@ -363,11 +465,12 @@ def alert(state, msg, hours=3):
     tg_send("⚠️ " + html.escape(msg))
 
 
-def format_msg(it, p):
+def format_msg(it, p, header=""):
     e = html.escape
     handle = e(it["handle"])
     en, tr = p["post_en"], p["post_tr"]
-    msg = (f'🖼 Görsel başlığı: <code>{e(p.get("title_en", ""))}</code> · '
+    msg = (header +
+           f'🖼 Görsel başlığı: <code>{e(p.get("title_en", ""))}</code> · '
            f'<code>{e(p.get("title_tr", ""))}</code>\n\n'
            f'<pre>{e(en)}\n\n📰 {handle}</pre>\n\n'
            f'🇹🇷\n<pre>{e(tr)}\n\n📰 {handle}</pre>\n\n'
@@ -380,12 +483,22 @@ def format_msg(it, p):
     return msg
 
 
+def trend_line(story, window):
+    names = sorted(story["sources"], key=lambda n: story["sources"][n])
+    first = names[0] if names else "?"
+    return (f"🔥 <b>YÜKSELEN HABER</b> · son {window} dk'da {trending_count(story, window)} kaynak\n"
+            f"İlk veren: {html.escape(first)} · Diğerleri: {html.escape(', '.join(names[1:]))}\n\n")
+
+
 # ---------------------------------------------------------------- modes
 def run(cfg, state):
     s = cfg.get("settings", {})
     model = s.get("model", "claude-haiku-5-5")
+    window = s.get("trend_window_min", 45)
+    refresh_calendar(state)
     items = collect(cfg, state)
     stamp = now().isoformat()
+    state["last_run"] = stamp
 
     if not state["initialized"]:  # ilk çalışma: mevcut haberleri gönderme, sadece işaretle
         for it in items:
@@ -406,28 +519,43 @@ def run(cfg, state):
 
     client = Anthropic()
     try:
-        tri = triage(client, model, fresh, [x["title"] for x in state["sent"]])
+        tri = triage(client, model, fresh, state["stories"])
     except Exception as e:
         for it in fresh:  # kaybolmasın, sonraki çalışmada tekrar denensin
             state["seen"].pop(it["id"], None)
         alert(state, f"Haber puanlama başarısız: {e}")
         return
+    assign_stories(state, fresh, tri)
 
-    chosen = select(fresh, tri, s.get("min_score", 4), s.get("max_posts_per_run", 8))
+    chosen = select(fresh, state, s)
     log(f"Seçilen: {len(chosen)}")
+    trend_min = s.get("trend_min_sources", 4)
     for it in chosen:
+        story = state["stories"][it["story"]]
+        header = ""
+        if trending_count(story, window) >= trend_min and not story["alerted"]:
+            header = trend_line(story, window)
+            story["alerted"] = True
+        elif story["posted"]:
+            header = "🔄 <b>GELİŞME</b>\n\n"
         try:
             p = write_post(client, model, it, article_text(it))
-            tg_send(format_msg(it, p))
-            state["sent"].append({"title": f'{p.get("title_en", "")}: {it["title"]}', "time": stamp})
+            tg_send(format_msg(it, p, header))
         except Exception as e:
             log(f"Özet hatası: {e}")
-            tg_send(f'⚠️ Özet üretilemedi: <a href="{html.escape(it["link"], quote=True)}">'
+            tg_send(header + f'⚠️ Özet üretilemedi: <a href="{html.escape(it["link"], quote=True)}">'
                     f'{html.escape(it["title"])}</a>')
-            state["sent"].append({"title": it["title"], "time": stamp})
+        story["posted"] = True
+
+    # Daha önce paylaşılmış ama şimdi yükselen hikayeler için kısa uyarı
+    for sid, story in state["stories"].items():
+        if story["posted"] and not story["alerted"] and trending_count(story, window) >= trend_min:
+            story["alerted"] = True
+            tg_send(trend_line(story, window) + f"Paylaştığın haber büyüyor: {html.escape(story['title'])}")
 
 
 def test(cfg, state):
+    refresh_calendar(state)
     report = []
     items = collect(cfg, state, report)
     icon = {"ok": "✅", "discovered": "✅", "google": "🟡", "fail": "❌"}
@@ -437,6 +565,12 @@ def test(cfg, state):
     lines = ["<b>Kaynak testi</b>"]
     for name, n, status in report:
         lines.append(f"{icon[status]} {html.escape(name)}: {n} haber{note.get(status, '')}")
+    active, current, upcoming = race_status(cfg, state)
+    if active:
+        lines.append(f"\n🏁 Yarış haftasonu modu: AÇIK ({html.escape(current[2] if current else 'elle açıldı')})")
+    else:
+        nxt = f" · sonraki: {html.escape(upcoming[2])} ({upcoming[0][:10]})" if upcoming else ""
+        lines.append(f"\n🏁 Yarış haftasonu modu: kapalı{nxt}")
     tg_send("\n".join(lines))
 
     dated = sorted([i for i in items if i["time"]], key=lambda x: x["time"], reverse=True)
