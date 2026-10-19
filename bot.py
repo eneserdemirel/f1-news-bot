@@ -55,16 +55,17 @@ New items:
 
 For EVERY new item return one JSON object with:
 - "i": the item number
-- "score": importance 1-5 for an F1 breaking-news account
-   5 = major breaking news: confirmed driver or team principal moves, contracts, sackings,
-       big penalties or disqualifications, serious crashes or injuries, legal cases,
-       official FIA/F1 decisions, race or qualifying results
-   4 = significant: credible reports about the above, important technical or rule changes,
-       notable statements from key figures on hot topics
-   3 = moderately interesting
-   2 = minor quotes, previews, routine updates
-   1 = filler, opinion pieces, listicles, quizzes, betting, merchandise,
-       or NOT about Formula 1 (other series, road cars, other sports)
+- "score": importance 1-10 for an F1 breaking-news account
+   10 = huge breaking news: confirmed driver or team principal moves, sackings, title decided,
+        serious crashes or injuries
+    9 = major official news: contract signings, big penalties or disqualifications,
+        official FIA/F1 decisions, legal cases, race or qualifying results
+    8 = credible reports from major outlets about the above, important technical or rule changes
+    7 = notable statements from key figures on hot topics, significant team news
+    5-6 = moderately interesting news
+    3-4 = minor quotes, previews, routine updates
+    1-2 = filler, opinion pieces, listicles, quizzes, betting, merchandise,
+          or NOT about Formula 1 (other series, road cars, other sports)
 - "story": the id of the tracked story this item is about (e.g. "S12"), or a new label
   "N1", "N2", ... if it is a new story. Items in this list about the same new story share the same N label.
   Different angles or reactions to the same event belong to the same story.
@@ -105,8 +106,11 @@ Rules:
    - "title_tr": the Turkish equivalent of the title
    - "original_source": if the article says the news first came from another outlet
      (e.g. "via Corriere dello Sport"), that outlet's name; otherwise ""
+   - "status": "official" if the article reports an official announcement or a statement by
+     the people/teams/bodies directly involved (team, driver, FIA, F1, court); "report" if it is
+     a media report, rumour or claim attributed to unnamed sources or another outlet
 Return only JSON:
-{"type": "...", "post_en": "...", "post_tr": "...", "title_en": "...", "title_tr": "...", "original_source": "..."}"""
+{"type": "...", "post_en": "...", "post_tr": "...", "title_en": "...", "title_tr": "...", "original_source": "...", "status": "..."}"""
 
 
 # ---------------------------------------------------------------- helpers
@@ -384,8 +388,8 @@ def trending_count(story, window_min):
 
 def select(items, state, s):
     """Her hikayeden en iyi haberi seçer: yeni hikayeler, yükselenler ve önemli gelişmeler."""
-    min_score, window = s.get("min_score", 4), s.get("trend_window_min", 45)
-    trend_min = s.get("trend_min_sources", 4)
+    min_score, window = s.get("min_score", 7), s.get("trend_window_min", 45)
+    trend_min, trend_score = s.get("trend_min_sources", 4), s.get("trend_min_score", 5)
     best = {}
     for it in items:
         if "story" not in it:
@@ -395,7 +399,7 @@ def select(items, state, s):
         if story["posted"]:
             ok = it["update"] and it["score"] >= min_score
         else:
-            ok = it["score"] >= min_score or (trending and it["score"] >= 3)
+            ok = it["score"] >= min_score or (trending and it["score"] >= trend_score)
         if not ok:
             continue
         cur = best.get(it["story"])
@@ -405,11 +409,22 @@ def select(items, state, s):
     return chosen[: s.get("max_posts_per_run", 8)]
 
 
+def cover_image(page_html, base):
+    soup = BeautifulSoup(page_html, "html.parser")
+    for attrs in ({"property": "og:image"}, {"name": "og:image"}, {"name": "twitter:image"},
+                  {"property": "twitter:image"}):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content", "").strip():
+            return urljoin(base, tag["content"].strip())
+    return ""
+
+
 def article_text(it):
     txt = ""
     try:
         r = http_get(it["link"])
         txt = trafilatura.extract(r.text, include_comments=False, include_tables=False) or ""
+        it["image"] = cover_image(r.text, r.url)
     except Exception as e:
         log(f"  makale okunamadı: {e}")
     if len(txt) < 300:  # okunamadıysa RSS özetiyle devam
@@ -439,14 +454,17 @@ def write_post(client, model, it, text):
 
 
 # ---------------------------------------------------------------- Telegram
-def tg_send(text):
+def tg_send(text, image=""):
+    """Mesaj gönderir; image verilirse kapak görseli mesajın üstünde büyük önizleme olarak görünür."""
     if not (TG_TOKEN and TG_CHAT):
         log("Telegram ayarları eksik. Mesaj:\n" + text)
         return
+    preview = ({"url": image, "prefer_large_media": True, "show_above_text": True}
+               if image else {"is_disabled": True})
     for _ in range(3):
         r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
                           json={"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML",
-                                "disable_web_page_preview": True}, timeout=20)
+                                "link_preview_options": preview}, timeout=20)
         if r.status_code == 429:
             time.sleep(r.json().get("parameters", {}).get("retry_after", 5) + 1)
             continue
@@ -469,13 +487,16 @@ def format_msg(it, p, header=""):
     e = html.escape
     handle = e(it["handle"])
     en, tr = p["post_en"], p["post_tr"]
-    msg = (header +
+    status = {"official": "✅ <b>Resmi</b>", "report": "🟡 <b>İddia / Haber</b>"}.get(p.get("status"), "")
+    if p.get("type") == "quote":
+        status = "💬 <b>Demeç</b>"
+    msg = (header + (status + "\n" if status else "") +
            f'🖼 Görsel başlığı: <code>{e(p.get("title_en", ""))}</code> · '
            f'<code>{e(p.get("title_tr", ""))}</code>\n\n'
            f'<pre>{e(en)}\n\n📰 {handle}</pre>\n\n'
            f'🇹🇷\n<pre>{e(tr)}\n\n📰 {handle}</pre>\n\n'
            f'🔗 <a href="{e(it["link"], quote=True)}">{e(it["source"])}</a>'
-           f' · {len(en)} karakter · önem {it.get("score", "-")}/5')
+           f' · {len(en)} karakter · önem {it.get("score", "-")}/10')
     if p.get("original_source"):
         msg += f'\n↪️ Haberin ilk kaynağı: {e(p["original_source"])}'
     if len(en) > 400:
@@ -540,7 +561,7 @@ def run(cfg, state):
             header = "🔄 <b>GELİŞME</b>\n\n"
         try:
             p = write_post(client, model, it, article_text(it))
-            tg_send(format_msg(it, p, header))
+            tg_send(format_msg(it, p, header), it.get("image", ""))
         except Exception as e:
             log(f"Özet hatası: {e}")
             tg_send(header + f'⚠️ Özet üretilemedi: <a href="{html.escape(it["link"], quote=True)}">'
@@ -578,7 +599,7 @@ def test(cfg, state):
         it = dated[0]
         model = cfg.get("settings", {}).get("model", "claude-haiku-5-5")
         p = write_post(Anthropic(), model, it, article_text(it))
-        tg_send("<b>Örnek özet (en yeni haber):</b>\n\n" + format_msg(it, p))
+        tg_send("<b>Örnek özet (en yeni haber):</b>\n\n" + format_msg(it, p), it.get("image", ""))
 
 
 def main():
