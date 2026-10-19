@@ -705,7 +705,10 @@
   "367dc62115ed4da5": "2026-10-19T19:59:02.073844+00:00",
   "50013fc50e972ebd": "2026-10-19T20:33:36.289975+00:00",
   "dde424c52ba88fa9": "2026-10-19T20:33:36.289975+00:00",
-  "d291669490f45e98": "2026-10-19T20:33:36.289975+00:00"
+  "d291669490f45e98": "2026-10-19T20:33:36.289975+00:00",
+  "0100a2dcb011959c": "2026-10-19T21:06:09.298480+00:00",
+  "0e18758dcb4c82ed": "2026-10-19T21:06:09.298480+00:00",
+  "1dbfd5090c71d889": "2026-10-19T21:06:09.298480+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2263,9 +2266,39 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T20:33:39.891105+00:00"
+  },
+  "S150": {
+   "title": "United States Grand Prix betting guide and latest odds",
+   "first": "2026-10-19T21:06:11.999979+00:00",
+   "sources": {
+    "Formula 1": "2026-10-19T21:06:11.999991+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T21:06:11.999994+00:00"
+  },
+  "S151": {
+   "title": "FIA World Motor Sport Council focuses on rally and grassroots affordability",
+   "first": "2026-10-19T21:06:12.000001+00:00",
+   "sources": {
+    "FIA": "2026-10-19T16:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T21:06:12.000006+00:00"
+  },
+  "S152": {
+   "title": "United States Grand Prix weather forecast for Austin",
+   "first": "2026-10-19T21:06:12.000010+00:00",
+   "sources": {
+    "GPblog": "2026-10-19T21:01:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T21:06:12.000014+00:00"
   }
  },
- "story_seq": 149,
+ "story_seq": 152,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2384,5 +2417,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T20:33:36.289975+00:00"
+ "last_run": "2026-10-19T21:06:09.298480+00:00"
 }
