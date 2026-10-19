@@ -702,7 +702,10 @@
   "d6bfcd26ff231cd8": "2026-10-19T19:20:52.761510+00:00",
   "b6ead0f090382698": "2026-10-19T19:20:52.761510+00:00",
   "b945cd4f7df6914d": "2026-10-19T19:59:02.073844+00:00",
-  "367dc62115ed4da5": "2026-10-19T19:59:02.073844+00:00"
+  "367dc62115ed4da5": "2026-10-19T19:59:02.073844+00:00",
+  "50013fc50e972ebd": "2026-10-19T20:33:36.289975+00:00",
+  "dde424c52ba88fa9": "2026-10-19T20:33:36.289975+00:00",
+  "d291669490f45e98": "2026-10-19T20:33:36.289975+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1393,7 +1396,7 @@
    },
    "posted": true,
    "alerted": false,
-   "last": "2026-10-19T12:52:09.877651+00:00"
+   "last": "2026-10-19T20:33:39.891084+00:00"
   },
   "S67": {
    "title": "Horner says Red Bull bosses still called him after 2026 wins",
@@ -1779,7 +1782,7 @@
    },
    "posted": true,
    "alerted": true,
-   "last": "2026-10-19T19:59:04.103185+00:00"
+   "last": "2026-10-19T20:33:39.891096+00:00"
   },
   "S103": {
    "title": "Verstappen compares Red Bull's past turnaround with current form",
@@ -2250,9 +2253,19 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T19:20:55.355036+00:00"
+  },
+  "S149": {
+   "title": "Bortoleto says he seeks Verstappen's advice during gaming sessions",
+   "first": "2026-10-19T20:33:39.891101+00:00",
+   "sources": {
+    "GPFans": "2026-10-19T20:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T20:33:39.891105+00:00"
   }
  },
- "story_seq": 148,
+ "story_seq": 149,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2371,5 +2384,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T19:59:02.073844+00:00"
+ "last_run": "2026-10-19T20:33:36.289975+00:00"
 }
