@@ -660,7 +660,15 @@
   "4a4eb2fb65403afe": "2026-10-19T14:21:54.324459+00:00",
   "94021afa9cb10fc4": "2026-10-19T14:21:54.324459+00:00",
   "75ebb9a6d71ec79c": "2026-10-19T14:21:54.324459+00:00",
-  "37d2369dd9d6b7db": "2026-10-19T14:21:54.324459+00:00"
+  "37d2369dd9d6b7db": "2026-10-19T14:21:54.324459+00:00",
+  "62de574120b44b62": "2026-10-19T15:06:16.514874+00:00",
+  "6a9e34b4e4e98548": "2026-10-19T15:06:16.514874+00:00",
+  "be507863be0ee696": "2026-10-19T15:06:16.514874+00:00",
+  "00afc6a2841b9a04": "2026-10-19T15:06:16.514874+00:00",
+  "2dd6a78fd0f75cd7": "2026-10-19T15:06:16.514874+00:00",
+  "e1ad88c75c5d31ed": "2026-10-19T15:06:16.514874+00:00",
+  "a7d15d984385dcfc": "2026-10-19T15:06:16.514874+00:00",
+  "c713f3fe7716e599": "2026-10-19T15:06:16.514874+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1439,11 +1447,12 @@
    "sources": {
     "GPblog": "2026-10-19T06:31:00+00:00",
     "GPFans": "2026-10-19T06:59:00+00:00",
-    "RacingNews365": "2026-10-19T10:49:00+00:00"
+    "RacingNews365": "2026-10-19T10:49:00+00:00",
+    "RacingNews365 NL": "2026-10-19T14:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
-   "last": "2026-10-19T10:54:43.202941+00:00"
+   "last": "2026-10-19T15:06:23.382007+00:00"
   },
   "S76": {
    "title": "Opel Corsa B GSi classic photo gallery",
@@ -1726,11 +1735,12 @@
     "Motorsport-Total": "2026-10-19T11:04:49+00:00",
     "Formula 1": "2026-10-19T12:07:14.254062+00:00",
     "GPblog": "2026-10-19T13:01:00+00:00",
-    "Motorsport Week": "2026-10-19T14:02:58+00:00"
+    "Motorsport Week": "2026-10-19T14:02:58+00:00",
+    "Gazzetta dello Sport": "2026-10-19T14:48:45+00:00"
    },
    "posted": true,
    "alerted": true,
-   "last": "2026-10-19T14:22:01.836682+00:00"
+   "last": "2026-10-19T15:06:23.382033+00:00"
   },
   "S103": {
    "title": "Verstappen compares Red Bull's past turnaround with current form",
@@ -1880,11 +1890,12 @@
    "sources": {
     "RacingNews365": "2026-10-19T13:27:00+00:00",
     "RacingNews365 NL": "2026-10-19T13:29:00+00:00",
-    "Formula 1": "2026-10-19T14:22:01.836642+00:00"
+    "Formula 1": "2026-10-19T14:22:01.836642+00:00",
+    "Motorsport Week": "2026-10-19T14:27:13+00:00"
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T14:22:01.836645+00:00"
+   "last": "2026-10-19T15:06:23.382013+00:00"
   },
   "S118": {
    "title": "Ralf Schumacher says Red Bull and Verstappen have improved",
@@ -1965,9 +1976,49 @@
    "posted": true,
    "alerted": false,
    "last": "2026-10-19T14:22:01.836709+00:00"
+  },
+  "S126": {
+   "title": "Formula E CEO open to Verstappen partnership talks",
+   "first": "2026-10-19T15:06:23.381951+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-19T14:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T15:06:23.381998+00:00"
+  },
+  "S127": {
+   "title": "Mansell recalls being given last rites after karting crash",
+   "first": "2026-10-19T15:06:23.382024+00:00",
+   "sources": {
+    "GPblog": "2026-10-19T14:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T15:06:23.382029+00:00"
+  },
+  "S128": {
+   "title": "Antonelli outside top three in unofficial sprint standings",
+   "first": "2026-10-19T15:06:23.382037+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-19T14:54:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T15:06:23.382041+00:00"
+  },
+  "S129": {
+   "title": "Motorsport-Total Formel 1 history section index page",
+   "first": "2026-10-19T15:06:23.382044+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-19T14:37:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T15:06:23.382047+00:00"
   }
  },
- "story_seq": 125,
+ "story_seq": 129,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2086,5 +2137,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T14:21:54.324459+00:00"
+ "last_run": "2026-10-19T15:06:16.514874+00:00"
 }
