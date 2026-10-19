@@ -674,7 +674,10 @@
   "bd0cd0fa8cf611c7": "2026-10-19T15:50:08.949143+00:00",
   "f209edaa06e9be4c": "2026-10-19T15:50:08.949143+00:00",
   "b9a9286cd30cfdca": "2026-10-19T15:50:08.949143+00:00",
-  "86f4457a6361260b": "2026-10-19T15:50:08.949143+00:00"
+  "86f4457a6361260b": "2026-10-19T15:50:08.949143+00:00",
+  "2db910e9039f81e6": "2026-10-19T16:15:56.690862+00:00",
+  "a6d6b774d8673021": "2026-10-19T16:15:56.690862+00:00",
+  "44d2a1ed5cb59279": "2026-10-19T16:15:56.690862+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1903,7 +1906,7 @@
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T15:50:15.055857+00:00"
+   "last": "2026-10-19T16:15:59.983526+00:00"
   },
   "S118": {
    "title": "Ralf Schumacher says Red Bull and Verstappen have improved",
@@ -2045,9 +2048,29 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T15:50:15.055840+00:00"
+  },
+  "S132": {
+   "title": "Verstappen says F1 paddock is becoming a zoo",
+   "first": "2026-10-19T16:15:59.983532+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-19T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-19T16:15:59.983537+00:00"
+  },
+  "S133": {
+   "title": "Anniversary retrospective on Mike Hawthorn's 1958 title",
+   "first": "2026-10-19T16:15:59.983540+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-19T16:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T16:15:59.983543+00:00"
   }
  },
- "story_seq": 131,
+ "story_seq": 133,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2166,5 +2189,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T15:50:08.949143+00:00"
+ "last_run": "2026-10-19T16:15:56.690862+00:00"
 }
