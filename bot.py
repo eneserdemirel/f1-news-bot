@@ -209,8 +209,9 @@ def get_entries(src, state):
     """Sırayla: daha önce çalışan feed -> config'teki feed'ler -> otomatik bulma -> Google News."""
     name = src["name"]
     candidates = []
-    if state["feeds"].get(name):
-        candidates.append(state["feeds"][name])
+    cached = state["feeds"].get(name)
+    if cached and (cached in (src.get("feeds") or []) or src.get("discover", True)):
+        candidates.append(cached)  # ayarlardan çıkarılmış eski bir adresi kullanma
     candidates += [u for u in (src.get("feeds") or []) if u not in candidates]
     for url in candidates:
         entries = parse_feed(url)
