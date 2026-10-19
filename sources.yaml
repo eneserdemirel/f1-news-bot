@@ -1,7 +1,8 @@
 # ---------------- AYARLAR ----------------
 settings:
   model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
-  min_score: 4              # 1-5 arası; düşürürsen daha çok haber gelir
+  min_score: 7              # 1-10 arası; bu puan ve üstü gönderilir, düşürürsen daha çok haber gelir
+  trend_min_score: 5        # yükselen haberlerde (🔥) gönderim için yeterli puan
   max_posts_per_run: 8      # bir çalışmada en fazla kaç haber gönderilsin
   max_age_hours: 6          # bundan eski haberler gönderilmez
   trend_window_min: 45      # "yükselen haber" için bakılan süre (dakika)
