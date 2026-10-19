@@ -240,6 +240,8 @@ def entry_time(e):
 def make_item(e, src, priority):
     link = e.get("link") or ""
     title = clean_text(e.get("title"))
+    if "news.google.com" in link:  # Google News başlıklarındaki " - Site Adı" ekini temizle
+        title = re.sub(r"(^|\s+)-\s+[^-]+$", "", title).strip()
     key = norm_link(link) if link else title.lower()
     return {
         "id": hashlib.sha1(key.encode()).hexdigest()[:16],
