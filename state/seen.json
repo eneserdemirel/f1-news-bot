@@ -684,7 +684,12 @@
   "e66d229ab50e4eb7": "2026-10-19T16:57:55.237140+00:00",
   "5d776670302e8bf6": "2026-10-19T16:57:55.237140+00:00",
   "818d44f3db1fd8ed": "2026-10-19T16:57:55.237140+00:00",
-  "ad2946b1647dc5d0": "2026-10-19T16:57:55.237140+00:00"
+  "ad2946b1647dc5d0": "2026-10-19T16:57:55.237140+00:00",
+  "68a4d8dc6e6c6329": "2026-10-19T17:31:10.819359+00:00",
+  "df86651b1d618de9": "2026-10-19T17:31:10.819359+00:00",
+  "c47d6b44f75b722f": "2026-10-19T17:31:10.819359+00:00",
+  "967d15ac4080fc9f": "2026-10-19T17:31:10.819359+00:00",
+  "84f11ad850bb5801": "2026-10-19T17:31:10.819359+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2117,9 +2122,49 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T16:58:00.070876+00:00"
+  },
+  "S138": {
+   "title": "Piastri says McLaren lacks 'magic answers' in title defence",
+   "first": "2026-10-19T17:31:14.753975+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-19T17:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-19T17:31:14.753991+00:00"
+  },
+  "S139": {
+   "title": "Norris backtracks on critical remarks about rivals, Dutch outlet reports",
+   "first": "2026-10-19T17:31:14.753997+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-19T17:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T17:31:14.754001+00:00"
+  },
+  "S140": {
+   "title": "Komatsu praises Oliver Bearman as ready to be team leader",
+   "first": "2026-10-19T17:31:14.754005+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-19T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-19T17:31:14.754008+00:00"
+  },
+  "S141": {
+   "title": "Mercedes reports revenue rise and multi-million dividend",
+   "first": "2026-10-19T17:31:14.754011+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-19T17:01:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T17:31:14.754014+00:00"
   }
  },
- "story_seq": 137,
+ "story_seq": 141,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2238,5 +2283,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T16:57:55.237140+00:00"
+ "last_run": "2026-10-19T17:31:10.819359+00:00"
 }
