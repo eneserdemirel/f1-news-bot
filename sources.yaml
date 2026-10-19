@@ -29,7 +29,7 @@ sources:
     handle: "@fia"
     site: https://www.fia.com/news
     discover: false
-    gnews_query: 'site:fia.com "Formula 1"'
+    gnews_query: 'site:fia.com/news "Formula 1"'
     feeds: []
 
   # ---------- Haber siteleri ----------
@@ -97,14 +97,14 @@ sources:
     site: https://www.gazzetta.it/Formula-1/
     lang: it
     discover: false
-    gnews_query: 'site:gazzetta.it "Formula 1"'
-    feeds: [https://www.gazzetta.it/rss/formula-1.xml]
+    gnews_query: 'site:gazzetta.it/Formula-1'
+    feeds: []                      # sitenin F1 RSS'i eski haberler veriyor, Google News kullanılıyor
 
   - name: Motorsport-Total
     handle: "@MST_com"             # doğrula
     site: https://www.motorsport-total.com/formel-1/
     lang: de
-    gnews_query: 'site:motorsport-total.com "Formel 1"'
+    gnews_query: 'site:motorsport-total.com/formel-1'
     feeds: []
 
   - name: Auto Motor und Sport
@@ -112,8 +112,8 @@ sources:
     site: https://www.auto-motor-und-sport.de/formel-1/
     lang: de
     discover: false
-    gnews_query: 'site:auto-motor-und-sport.de "Formel 1"'
-    feeds: [https://www.auto-motor-und-sport.de/formel-1/feed/]
+    gnews_query: 'site:auto-motor-und-sport.de/formel-1'
+    feeds: []
 
   - name: AS
     handle: "@diarioas"            # doğrula
