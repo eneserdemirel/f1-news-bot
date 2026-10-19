@@ -578,7 +578,13 @@
   "1753a59da09f6b2f": "2026-10-19T08:14:05.804584+00:00",
   "c952c974a218b62b": "2026-10-19T08:14:05.804584+00:00",
   "699e78aeee8579f8": "2026-10-19T08:14:05.804584+00:00",
-  "56bc0a3b66a1fff1": "2026-10-19T08:14:05.804584+00:00"
+  "56bc0a3b66a1fff1": "2026-10-19T08:14:05.804584+00:00",
+  "a32134074764349a": "2026-10-19T08:59:32.460113+00:00",
+  "ec10f7309991ba46": "2026-10-19T08:59:32.460113+00:00",
+  "b58a286d4cb122ee": "2026-10-19T08:59:32.460113+00:00",
+  "e5002619e656a744": "2026-10-19T08:59:32.460113+00:00",
+  "fddb50a16686f1d5": "2026-10-19T08:59:32.460113+00:00",
+  "d8f2fde65e1dae35": "2026-10-19T08:59:32.460113+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1240,7 +1246,7 @@
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T07:25:58.540021+00:00"
+   "last": "2026-10-19T08:59:37.475725+00:00"
   },
   "S65": {
    "title": "Tom Hart named Verstappen's new Red Bull race engineer",
@@ -1419,11 +1425,12 @@
    "title": "Horner says Verstappen still seeks father Jos's approval",
    "first": "2026-10-19T08:14:14.025656+00:00",
    "sources": {
-    "GPblog": "2026-10-19T08:00:00+00:00"
+    "GPblog": "2026-10-19T08:00:00+00:00",
+    "PlanetF1": "2026-10-19T08:41:11+00:00"
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T08:14:14.025660+00:00"
+   "last": "2026-10-19T08:59:37.475705+00:00"
   },
   "S83": {
    "title": "Wolff says rival competition worries him more than Ferrari or Red Bull",
@@ -1454,9 +1461,49 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T08:14:14.025690+00:00"
+  },
+  "S86": {
+   "title": "Saudi students' STEM racing team wins world finals in Singapore",
+   "first": "2026-10-19T08:59:37.475670+00:00",
+   "sources": {
+    "Autosport": "2026-10-19T08:37:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T08:59:37.475687+00:00"
+  },
+  "S87": {
+   "title": "Juncadella responds to social media criticism after Barcelona 6 Hours",
+   "first": "2026-10-19T08:59:37.475694+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-19T08:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T08:59:37.475699+00:00"
+  },
+  "S88": {
+   "title": "McLaren to auction Hamilton, Senna and Pitt F1 cars",
+   "first": "2026-10-19T08:59:37.475709+00:00",
+   "sources": {
+    "GPFans": "2026-10-19T08:57:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T08:59:37.475713+00:00"
+  },
+  "S89": {
+   "title": "Analysis of what is going wrong at Aston Martin and Honda",
+   "first": "2026-10-19T08:59:37.475716+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-19T08:29:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T08:59:37.475720+00:00"
   }
  },
- "story_seq": 85,
+ "story_seq": 89,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -1575,5 +1622,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T08:14:05.804584+00:00"
+ "last_run": "2026-10-19T08:59:32.460113+00:00"
 }
