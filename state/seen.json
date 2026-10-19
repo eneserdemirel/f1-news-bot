@@ -677,7 +677,14 @@
   "86f4457a6361260b": "2026-10-19T15:50:08.949143+00:00",
   "2db910e9039f81e6": "2026-10-19T16:15:56.690862+00:00",
   "a6d6b774d8673021": "2026-10-19T16:15:56.690862+00:00",
-  "44d2a1ed5cb59279": "2026-10-19T16:15:56.690862+00:00"
+  "44d2a1ed5cb59279": "2026-10-19T16:15:56.690862+00:00",
+  "3e2ee34822130aaa": "2026-10-19T16:57:55.237140+00:00",
+  "72660ee3b09b927d": "2026-10-19T16:57:55.237140+00:00",
+  "859bdfd9d2014571": "2026-10-19T16:57:55.237140+00:00",
+  "e66d229ab50e4eb7": "2026-10-19T16:57:55.237140+00:00",
+  "5d776670302e8bf6": "2026-10-19T16:57:55.237140+00:00",
+  "818d44f3db1fd8ed": "2026-10-19T16:57:55.237140+00:00",
+  "ad2946b1647dc5d0": "2026-10-19T16:57:55.237140+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1266,7 +1273,7 @@
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T09:38:57.386058+00:00"
+   "last": "2026-10-19T16:58:00.070857+00:00"
   },
   "S58": {
    "title": "Full time schedule for 2026 United States Grand Prix",
@@ -1902,11 +1909,13 @@
     "RacingNews365 NL": "2026-10-19T13:29:00+00:00",
     "Formula 1": "2026-10-19T14:22:01.836642+00:00",
     "Motorsport Week": "2026-10-19T14:27:13+00:00",
-    "Motorsport-Total": "2026-10-19T15:39:05+00:00"
+    "Motorsport-Total": "2026-10-19T15:39:05+00:00",
+    "Sky Sports F1": "2026-10-19T16:27:00+00:00",
+    "GPblog": "2026-10-19T16:48:00+00:00"
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T16:15:59.983526+00:00"
+   "last": "2026-10-19T16:58:00.070867+00:00"
   },
   "S118": {
    "title": "Ralf Schumacher says Red Bull and Verstappen have improved",
@@ -2068,9 +2077,49 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T16:15:59.983543+00:00"
+  },
+  "S134": {
+   "title": "Vowles says budget cap created a two-tier grid",
+   "first": "2026-10-19T16:58:00.070848+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-19T16:30:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-19T16:58:00.070853+00:00"
+  },
+  "S135": {
+   "title": "Dakar Rally 2027 route changed over Middle East unrest",
+   "first": "2026-10-19T16:58:00.070860+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-19T16:24:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T16:58:00.070864+00:00"
+  },
+  "S136": {
+   "title": "Horner says Verstappen camp pushed for Perez-friendly Red Bull development",
+   "first": "2026-10-19T16:58:00.070869+00:00",
+   "sources": {
+    "GPFans": "2026-10-19T16:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-19T16:58:00.070872+00:00"
+  },
+  "S137": {
+   "title": "Bortoleto interview on Audi's chances of future title",
+   "first": "2026-10-19T16:58:00.070874+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-19T16:44:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-19T16:58:00.070876+00:00"
   }
  },
- "story_seq": 133,
+ "story_seq": 137,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2189,5 +2238,5 @@
   ]
  ],
  "calendar_updated": "2026-10-18T21:09:27.189351+00:00",
- "last_run": "2026-10-19T16:15:56.690862+00:00"
+ "last_run": "2026-10-19T16:57:55.237140+00:00"
 }
