@@ -560,6 +560,25 @@ def top_google(n):
     return out[:n]
 
 
+def translate_titles(cfg, titles):
+    """Başlıkları tek seferde Türkçeye çevirir; hata olursa orijinallerini döndürür."""
+    if not titles:
+        return titles
+    prompt = ("Aşağıdaki F1 haber başlıklarını doğal Türkçe haber başlıklarına çevir. İsimleri olduğu "
+              "gibi bırak, anlamı değiştirme, bilgi ekleme. Aynı sırayla, sadece bir JSON metin dizisi "
+              "döndür.\n" + json.dumps(titles, ensure_ascii=False))
+    try:
+        model = cfg.get("settings", {}).get("model", "claude-haiku-5-5")
+        text = ask_claude(Anthropic(), model, prompt, 2000, thinking=False)
+        text = re.sub(r"```(?:json)?", "", text)
+        out = json.loads(text[text.find("["): text.rfind("]") + 1])
+        if isinstance(out, list) and len(out) == len(titles) and all(isinstance(x, str) for x in out):
+            return [x.strip() or t for x, t in zip(out, titles)]
+    except Exception as e:
+        log(f"Başlık çevirisi başarısız: {e}")
+    return titles
+
+
 def maybe_send_digest(cfg, state):
     s = cfg.get("settings", {})
     every, n = s.get("digest_interval_min", 30), s.get("digest_size", 5)
@@ -568,29 +587,31 @@ def maybe_send_digest(cfg, state):
     last = state.get("last_digest")
     if last and now() - datetime.fromisoformat(last) < timedelta(minutes=every - 3):
         return
+    state["last_digest"] = now().isoformat()
     window = s.get("digest_window_min", 120)
     own, google = top_own(cfg, state, n, window), top_google(n)
+    if not own and not google:
+        return
+    key = hashlib.sha1(json.dumps([[o[2] for o in own], google], ensure_ascii=False).encode()).hexdigest()
+    if key == state.get("last_digest_key"):  # liste değişmediyse tekrar gönderme (çeviri de yapılmaz)
+        log("Gündem listesi değişmedi, gönderilmedi")
+        return
+    state["last_digest_key"] = key
+    tr = translate_titles(cfg, [o[2] for o in own] + [g[0] for g in google])
+    own_tr, google_tr = tr[:len(own)], tr[len(own):]
     e = html.escape
     parts = []
     if own:
         lines = [f"📊 <b>Gündem · ilk {len(own)}</b> (son {window // 60} saatte en çok yazılanlar)"]
-        for i, (count, _, title, srcs) in enumerate(own, 1):
+        for i, ((count, _, _, srcs), title) in enumerate(zip(own, own_tr), 1):
             more = f" +{len(srcs) - 3}" if len(srcs) > 3 else ""
             lines.append(f"{i}. {e(title)}\n    <i>{e(', '.join(srcs[:3]))}{more} · {count} site</i>")
         parts.append("\n".join(lines))
     if google:
-        lines = [f"🔎 <b>Google News · öne çıkanlar</b>"]
-        for i, (title, src) in enumerate(google, 1):
+        lines = ["🔎 <b>Google News · öne çıkanlar</b>"]
+        for i, ((_, src), title) in enumerate(zip(google, google_tr), 1):
             lines.append(f"{i}. {e(title)}" + (f"\n    <i>{e(src)}</i>" if src else ""))
         parts.append("\n".join(lines))
-    state["last_digest"] = now().isoformat()
-    if not parts:
-        return
-    key = hashlib.sha1("|".join(parts).encode()).hexdigest()
-    if key == state.get("last_digest_key"):  # liste değişmediyse tekrar gönderme
-        log("Gündem listesi değişmedi, gönderilmedi")
-        return
-    state["last_digest_key"] = key
     tg_send("\n\n".join(parts))
 
 
