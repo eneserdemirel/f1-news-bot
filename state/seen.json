@@ -810,7 +810,14 @@
   "09e83b06286b450a": "2026-10-20T10:43:46.805954+00:00",
   "64ffbd175b430456": "2026-10-20T10:43:46.805954+00:00",
   "8faadd2bdc045d3d": "2026-10-20T10:43:46.805954+00:00",
-  "7a4319b4629b8627": "2026-10-20T10:43:46.805954+00:00"
+  "7a4319b4629b8627": "2026-10-20T10:43:46.805954+00:00",
+  "e5b18e5713c27740": "2026-10-20T11:15:04.079982+00:00",
+  "30ab7a6cfa4f7310": "2026-10-20T11:15:04.079982+00:00",
+  "e2e76265cbca1e9b": "2026-10-20T11:15:04.079982+00:00",
+  "b971f68f89f867f9": "2026-10-20T11:15:04.079982+00:00",
+  "140cb58b17f6b444": "2026-10-20T11:15:04.079982+00:00",
+  "1e435f4f696011ec": "2026-10-20T11:15:04.079982+00:00",
+  "20f2b95b60e5c510": "2026-10-20T11:15:04.079982+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2832,17 +2839,97 @@
    "title": "Alonso auctions exclusive ride in Barcelona",
    "first": "2026-10-20T10:43:48.858721+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-20T10:41:05+00:00"
+    "Motorsport-Total": "2026-10-20T10:41:05+00:00",
+    "Formula 1": "2026-10-20T11:15:06.272514+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Fernando Alonso versteigert exklusive Mitfahrt in Barcelona - Motorsport-Total.com"
+    "Motorsport-Total": "Fernando Alonso versteigert exklusive Mitfahrt in Barcelona - Motorsport-Total.com",
+    "Formula 1": "What could ‘formidable’ Red Bull achieve after resurgence?"
    },
-   "last": "2026-10-20T10:43:48.858724+00:00"
+   "last": "2026-10-20T11:15:06.272529+00:00"
+  },
+  "S187": {
+   "title": "Horner says he felt sorry for Vasseur over rumours",
+   "first": "2026-10-20T11:15:06.272535+00:00",
+   "sources": {
+    "The Race": "2026-10-20T10:59:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "'I felt sorry for Fred' - Horner on Ferrari team boss rumours"
+   },
+   "last": "2026-10-20T11:15:06.272540+00:00"
+  },
+  "S188": {
+   "title": "Coronel comments on Verstappen's influence on GT3 racing",
+   "first": "2026-10-20T11:15:06.272544+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-20T10:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Coronel ziet Max Verstappen-olievlek in GT3: \"Dat slaat nergens op\""
+   },
+   "last": "2026-10-20T11:15:06.272548+00:00"
+  },
+  "S189": {
+   "title": "Haas's Rafael Câmara seen as potential money-maker",
+   "first": "2026-10-20T11:15:06.272551+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-20T10:42:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Haas' new signing Rafael Câmara could be its next F1 'money-printing machine'"
+   },
+   "last": "2026-10-20T11:15:06.272555+00:00"
+  },
+  "S190": {
+   "title": "Red Bull faces key 2027 driver decision at Racing Bulls",
+   "first": "2026-10-20T11:15:06.272557+00:00",
+   "sources": {
+    "Crash.net": "2026-10-20T11:14:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "The huge F1 driver dilemma decision facing Red Bull for 2027"
+   },
+   "last": "2026-10-20T11:15:06.272560+00:00"
+  },
+  "S191": {
+   "title": "Antonelli meets Wembanyama, height difference highlighted",
+   "first": "2026-10-20T11:15:06.272562+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-20T11:00:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi Antonelli incontra Wembanyama: la differenza d'altezza è impressionante"
+   },
+   "last": "2026-10-20T11:15:06.272566+00:00"
+  },
+  "S192": {
+   "title": "Ferrari brings update package to Austin after doubts",
+   "first": "2026-10-20T11:15:06.272568+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-20T10:45:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Update-Paket nach Sorgen doch bereit: Ferrari rüstet für Austin auf - Motorsport-Total.com"
+   },
+   "last": "2026-10-20T11:15:06.272571+00:00"
   }
  },
- "story_seq": 186,
+ "story_seq": 192,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2961,7 +3048,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T10:43:46.805954+00:00",
- "last_digest": "2026-10-20T10:43:57.647043+00:00",
- "last_digest_key": "a7198b78331f522491c0730d25c0f3931a7ad481"
+ "last_run": "2026-10-20T11:15:04.079982+00:00",
+ "last_digest": "2026-10-20T11:15:10.417181+00:00",
+ "last_digest_key": "907a9c536c3c34c3954b72f177740a5df8ea9a43"
 }
