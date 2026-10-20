@@ -857,7 +857,14 @@
   "d40ff48cbe00009d": "2026-10-20T14:36:02.942711+00:00",
   "4ff6d0fef42e8d47": "2026-10-20T14:36:02.942711+00:00",
   "f6793311df58e3ea": "2026-10-20T14:36:02.942711+00:00",
-  "9dc825926108c026": "2026-10-20T14:36:02.942711+00:00"
+  "9dc825926108c026": "2026-10-20T14:36:02.942711+00:00",
+  "d133f8a135250c9d": "2026-10-20T15:15:04.201712+00:00",
+  "cf9a19941264e97a": "2026-10-20T15:15:04.201712+00:00",
+  "05c45ab0d7c2d408": "2026-10-20T15:15:04.201712+00:00",
+  "3c63fb8e37659081": "2026-10-20T15:15:04.201712+00:00",
+  "9db44a44cf3fbdd8": "2026-10-20T15:15:04.201712+00:00",
+  "2600838a2ef8a16e": "2026-10-20T15:15:04.201712+00:00",
+  "f3361646c8bdb185": "2026-10-20T15:15:04.201712+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2463,7 +2470,10 @@
    },
    "posted": false,
    "alerted": false,
-   "last": "2026-10-19T21:06:11.999994+00:00"
+   "last": "2026-10-20T15:15:09.212236+00:00",
+   "titles": {
+    "Formula 1": "The 5 drivers most likely to win the United States GP"
+   }
   },
   "S151": {
    "title": "FIA World Motor Sport Council focuses on rally and grassroots affordability",
@@ -2711,15 +2721,17 @@
    "first": "2026-10-20T08:58:22.628107+00:00",
    "sources": {
     "RacingNews365 NL": "2026-10-20T08:40:00+00:00",
-    "Motorsport Week": "2026-10-20T11:27:33+00:00"
+    "Motorsport Week": "2026-10-20T11:27:33+00:00",
+    "Gazzetta dello Sport": "2026-10-20T14:57:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "McLaren verkoopt vijf iconische Formule 1-auto's",
-    "Motorsport Week": "Ayrton Senna F1 title-winning cars part of McLaren collection sale"
+    "Motorsport Week": "Ayrton Senna F1 title-winning cars part of McLaren collection sale",
+    "Gazzetta dello Sport": "Volete guidare una F.1? La McLaren vende 5 macchine storiche che hanno corso il Mondiale!"
    },
-   "last": "2026-10-20T11:53:03.516836+00:00"
+   "last": "2026-10-20T15:15:09.212259+00:00"
   },
   "S173": {
    "title": "Leclerc says he is preparing for becoming a father",
@@ -3008,14 +3020,16 @@
    "title": "Colton Herta to drive Cadillac in US GP first practice",
    "first": "2026-10-20T11:53:03.516840+00:00",
    "sources": {
-    "GPblog": "2026-10-20T11:45:00+00:00"
+    "GPblog": "2026-10-20T11:45:00+00:00",
+    "PlanetF1": "2026-10-20T14:41:29+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Home crowd can once again cheer for an American driver at F1 US Grand Prix"
+    "GPblog": "Home crowd can once again cheer for an American driver at F1 US Grand Prix",
+    "PlanetF1": "Herta set for F1 drive at the US Grand Prix"
    },
-   "last": "2026-10-20T11:53:03.516844+00:00"
+   "last": "2026-10-20T15:15:09.212255+00:00"
   },
   "S195": {
    "title": "Expert analysis of Verstappen's Singapore radio failure",
@@ -3165,29 +3179,31 @@
    "title": "Horner says Mercedes finds life easier without him",
    "first": "2026-10-20T14:36:08.934574+00:00",
    "sources": {
-    "Sky Sports F1": "2026-10-20T15:20:00+00:00"
+    "Sky Sports F1": "2026-10-20T12:44:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Horner: Wolff and Mercedes finding life easier without me"
    },
-   "last": "2026-10-20T14:36:08.934590+00:00"
+   "last": "2026-10-20T15:15:09.212246+00:00"
   },
   "S206": {
    "title": "Cadillac unveils cowboy-themed livery for Austin",
    "first": "2026-10-20T14:36:08.934604+00:00",
    "sources": {
     "RacingNews365": "2026-10-20T14:20:00+00:00",
-    "RacingNews365 NL": "2026-10-20T14:15:00+00:00"
+    "RacingNews365 NL": "2026-10-20T14:15:00+00:00",
+    "Sky Sports F1": "2026-10-20T16:00:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "RacingNews365": "Cadillac ride into Austin with special cowboy US Grand Prix livery",
-    "RacingNews365 NL": "Cadillac viert eerste rodeo met speciale livery voor Austin"
+    "RacingNews365 NL": "Cadillac viert eerste rodeo met speciale livery voor Austin",
+    "Sky Sports F1": "Cadillac reveal cowboy-themed livery for United States GP"
    },
-   "last": "2026-10-20T14:36:08.934622+00:00"
+   "last": "2026-10-20T15:15:09.212241+00:00"
   },
   "S207": {
    "title": "Red Bull F1 Academy car gets American-themed livery",
@@ -3214,9 +3230,35 @@
     "GPFans": "US Grand Prix set for staggering $1billion impact as F1 arrives in Austin"
    },
    "last": "2026-10-20T14:36:08.934647+00:00"
+  },
+  "S209": {
+   "title": "Red Bull and Audi floor stay trick banned for 2027",
+   "first": "2026-10-20T15:15:09.212212+00:00",
+   "sources": {
+    "Formula 1": "2026-10-20T15:15:09.212226+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Why Red Bull and Audi’s floor stay trick is banned for 2027"
+   },
+   "last": "2026-10-20T15:15:09.212229+00:00"
+  },
+  "S210": {
+   "title": "Horner explains the reasons he left Red Bull",
+   "first": "2026-10-20T15:15:09.212248+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-10-20T12:36:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Horner explains the reasons behind why he left Red Bull"
+   },
+   "last": "2026-10-20T15:15:09.212252+00:00"
   }
  },
- "story_seq": 208,
+ "story_seq": 210,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3335,7 +3377,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T14:36:02.942711+00:00",
- "last_digest": "2026-10-20T14:36:10.465867+00:00",
- "last_digest_key": "50d7cf5ea4f7f649620dd892334a6058ccef8207"
+ "last_run": "2026-10-20T15:15:04.201712+00:00",
+ "last_digest": "2026-10-20T15:15:14.129453+00:00",
+ "last_digest_key": "3591ed43f8ab75b6b7d6b542b2edc1355b82c1e7"
 }
