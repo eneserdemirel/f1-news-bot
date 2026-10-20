@@ -1,9 +1,8 @@
 # ---------------- AYARLAR ----------------
 settings:
   model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
-  min_score: 6              # 1-10 arası; diğer kaynaklarda bu puan ve üstü gönderilir
-                            # (send_all: true olan kaynaklardan F1 haberlerinin hepsi gelir)
-  trend_min_score: 6        # yükselen haberlerde (🔥) gönderim için yeterli puan
+  min_score: 4              # 1-10 arası; tüm kaynaklarda bu puan ve üstü gönderilir
+  trend_min_score: 4        # yükselen haberlerde (🔥) gönderim için yeterli puan
   max_posts_per_run: 20     # bir çalışmada en fazla kaç haber gönderilsin
   triage_effort: low        # puanlama için modelin çaba seviyesi (low = ucuz ve hızlı)
   max_age_hours: 6          # bundan eski haberler gönderilmez
@@ -45,7 +44,6 @@ sources:
 
   - name: The Race
     handle: "@wearetherace"        # doğrula
-    send_all: true
     site: https://www.the-race.com
     feeds: [https://www.the-race.com/feed/]
 
@@ -72,7 +70,6 @@ sources:
   - name: Motorsport Week
     handle: "@MotorsportWeek"
     site: https://www.motorsportweek.com
-    send_all: true
     discover: false
     feeds: [https://www.motorsportweek.com/tag/f1/feed/]   # sadece F1 etiketi
 
@@ -83,7 +80,6 @@ sources:
 
   - name: GPblog
     handle: "@GPblog"              # doğrula
-    send_all: true
     site: https://www.gpblog.com/en
     feeds: []
 
@@ -95,7 +91,6 @@ sources:
   - name: Crash.net
     handle: "@crash_net"           # doğrula
     site: https://www.crash.net/f1
-    send_all: true
     discover: false
     gnews_query: 'site:crash.net/f1'
     feeds: [https://www.crash.net/rss/f1]
