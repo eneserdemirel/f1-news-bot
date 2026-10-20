@@ -725,7 +725,14 @@
   "dcfce7d2d2411c52": "2026-10-20T06:11:02.451390+00:00",
   "c692e2e1fc44319c": "2026-10-20T06:11:02.451390+00:00",
   "91be397935b76e58": "2026-10-20T06:11:02.451390+00:00",
-  "0f83a7bcb6d553be": "2026-10-20T06:11:02.451390+00:00"
+  "0f83a7bcb6d553be": "2026-10-20T06:11:02.451390+00:00",
+  "434190998d27cc94": "2026-10-20T07:00:22.364626+00:00",
+  "8b5d04a84a5883d9": "2026-10-20T07:00:22.364626+00:00",
+  "927fed86a74953d1": "2026-10-20T07:00:22.364626+00:00",
+  "596857de4cac98bc": "2026-10-20T07:00:22.364626+00:00",
+  "bdec22bcfc3a1cff": "2026-10-20T07:00:22.364626+00:00",
+  "e3d3cc1e651677e9": "2026-10-20T07:00:22.364626+00:00",
+  "d5886cf64ff456dc": "2026-10-20T07:00:22.364626+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1913,11 +1920,12 @@
    "title": "Horner sees history repeating itself with Adrian Newey",
    "first": "2026-10-19T12:07:14.254133+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-19T11:58:04+00:00"
+    "Motorsport-Total": "2026-10-19T11:58:04+00:00",
+    "GPFans": "2026-10-20T06:59:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
-   "last": "2026-10-19T13:36:58.792403+00:00"
+   "last": "2026-10-20T07:00:27.063936+00:00"
   },
   "S114": {
    "title": "F1 Middle East races decision update amid US elections",
@@ -2376,9 +2384,59 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-20T05:38:33.075655+00:00"
+  },
+  "S159": {
+   "title": "Gary Anderson analyses design differences between Red Bull and Mercedes",
+   "first": "2026-10-20T07:00:27.063899+00:00",
+   "sources": {
+    "The Race": "2026-10-20T06:51:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-20T07:00:27.063918+00:00"
+  },
+  "S160": {
+   "title": "Leclerc says Ferrari lacks a 'raw' ingredient to win more",
+   "first": "2026-10-20T07:00:27.063922+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-20T06:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-20T07:00:27.063926+00:00"
+  },
+  "S161": {
+   "title": "Retrospective on Verstappen's 2017 US Grand Prix overtaking attempt",
+   "first": "2026-10-20T07:00:27.063929+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-20T06:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "last": "2026-10-20T07:00:27.063932+00:00"
+  },
+  "S162": {
+   "title": "Ralf Schumacher says Hamilton is part of Ferrari power struggle",
+   "first": "2026-10-20T07:00:27.063938+00:00",
+   "sources": {
+    "GPFans": "2026-10-20T06:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-20T07:00:27.063941+00:00"
+  },
+  "S163": {
+   "title": "Horner recalls Alonso nearly joining Red Bull in 2007",
+   "first": "2026-10-20T07:00:27.063942+00:00",
+   "sources": {
+    "AS": "2026-10-20T06:15:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "last": "2026-10-20T07:00:27.063945+00:00"
   }
  },
- "story_seq": 158,
+ "story_seq": 163,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2497,5 +2555,5 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T06:11:02.451390+00:00"
+ "last_run": "2026-10-20T07:00:22.364626+00:00"
 }
