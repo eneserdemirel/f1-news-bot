@@ -72,7 +72,7 @@ For EVERY new item return one JSON object with:
 - "title": for a new story, a short neutral English label of max 12 words; otherwise ""
 - "update": true only if the story is marked [posted] AND this item adds a significant new
   development (official confirmation, verdict, new key fact); otherwise false
-Return only a JSON array, nothing else."""
+Return exactly ONE JSON array that contains the objects for all items, and nothing else."""
 
 WRITE_PROMPT = """Bir Formula 1 haber hesabı için Türkçe paylaşım metni yazıyorsun.
 
@@ -343,12 +343,32 @@ def ask_claude(client, model, prompt, max_tokens, effort="low", thinking=True):
 
 
 def extract_json(text, opener):
+    """Cevaptaki JSON'u esnek şekilde okur: tek dizi, birden fazla dizi ya da satır satır nesneler."""
     text = re.sub(r"```(?:json)?", "", text)
-    closer = "]" if opener == "[" else "}"
-    start, end = text.find(opener), text.rfind(closer)
-    if start == -1 or end == -1:
-        raise ValueError("JSON bulunamadı: " + text[:200])
-    return json.loads(text[start:end + 1])
+    dec, found, i = json.JSONDecoder(), [], 0
+    while i < len(text):
+        starts = [p for p in (text.find("[", i), text.find("{", i)) if p != -1]
+        if not starts:
+            break
+        j = min(starts)
+        try:
+            obj, i = dec.raw_decode(text, j)
+            found.append(obj)
+        except ValueError:
+            i = j + 1
+    if opener == "[":
+        out = []
+        for obj in found:
+            out.extend(o for o in (obj if isinstance(obj, list) else [obj]) if isinstance(o, dict))
+        if out:
+            return out
+    else:
+        for obj in found:
+            if isinstance(obj, dict):
+                return obj
+            if isinstance(obj, list) and obj and isinstance(obj[0], dict):
+                return obj[0]
+    raise ValueError("JSON bulunamadı: " + text[:200])
 
 
 def triage(client, model, items, stories, effort="low"):
