@@ -534,7 +534,7 @@ def run(cfg, state):
             header = "🔄 <b>GELİŞME</b>\n\n"
         try:
             p = write_post(client, model, it)
-            tg_send(format_msg(it, p, header), it.get("image", ""))
+            tg_send(format_msg(it, p, header))
         except Exception as e:
             log(f"Özet hatası: {e}")
             tg_send(header + f'⚠️ Özet üretilemedi: <a href="{html.escape(it["link"], quote=True)}">'
@@ -572,7 +572,7 @@ def test(cfg, state):
         it = dated[0]
         model = cfg.get("settings", {}).get("model", "claude-haiku-5-5")
         p = write_post(Anthropic(), model, it)
-        tg_send("<b>Örnek özet (en yeni haber):</b>\n\n" + format_msg(it, p), it.get("image", ""))
+        tg_send("<b>Örnek özet (en yeni haber):</b>\n\n" + format_msg(it, p))
 
 
 def main():
