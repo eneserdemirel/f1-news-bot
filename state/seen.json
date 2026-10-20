@@ -917,7 +917,8 @@
   "ce8f2b262049056a": "2026-10-20T20:08:17.349897+00:00",
   "7f657d29320fa2a6": "2026-10-20T20:08:17.349897+00:00",
   "73cd556107fe0d89": "2026-10-20T20:45:09.867379+00:00",
-  "b74d746e9b9e1a78": "2026-10-20T21:16:01.880121+00:00"
+  "b74d746e9b9e1a78": "2026-10-20T21:16:01.880121+00:00",
+  "037e2cc064310c27": "2026-10-20T21:53:28.638806+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -977,76 +978,6 @@
    "alerted": false,
    "last": "2026-10-20T04:29:20.161016+00:00"
   },
-  "S20": {
-   "title": "Drivers improvise after losing radio during races",
-   "first": "2026-10-18T21:41:51.150584+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150614+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150618+00:00"
-  },
-  "S21": {
-   "title": "Rwanda agreement and its place in African F1 history",
-   "first": "2026-10-18T21:41:51.150625+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150628+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150631+00:00"
-  },
-  "S22": {
-   "title": "Laurent Mekies's early impact at Red Bull",
-   "first": "2026-10-18T21:41:51.150635+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150638+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150639+00:00"
-  },
-  "S23": {
-   "title": "F1 team pecking order shifts during 2026 season",
-   "first": "2026-10-18T21:41:51.150643+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150645+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150647+00:00"
-  },
-  "S24": {
-   "title": "Brown says Piastri returning to his best form",
-   "first": "2026-10-18T21:41:51.150649+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150651+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150653+00:00"
-  },
-  "S25": {
-   "title": "Alba Larsen returns to F1 Academy with Ferrari for 2027",
-   "first": "2026-10-18T21:41:51.150656+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150658+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150659+00:00"
-  },
-  "S26": {
-   "title": "Top 10 driver and team combinations in F1 history",
-   "first": "2026-10-18T21:41:51.150663+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150665+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150666+00:00"
-  },
   "S27": {
    "title": "Haas signs Rafael Camara for 2027",
    "first": "2026-10-18T21:41:51.150669+00:00",
@@ -1057,26 +988,6 @@
    "posted": true,
    "alerted": false,
    "last": "2026-10-19T09:38:57.386077+00:00"
-  },
-  "S28": {
-   "title": "Current F1 driver contract lengths explained",
-   "first": "2026-10-18T21:41:51.150675+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150677+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150679+00:00"
-  },
-  "S29": {
-   "title": "Jack Miller criticises Marc Marquez over rules",
-   "first": "2026-10-18T21:41:51.150687+00:00",
-   "sources": {
-    "GPblog": "2026-10-18T21:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T21:41:51.150692+00:00"
   },
   "S30": {
    "title": "Montoya blames McLaren papaya rules for Singapore Sprint crash",
@@ -3451,9 +3362,22 @@
     "GPblog": "Why McLaren may already have a ready-made Piastri successor at no extra cost"
    },
    "last": "2026-10-20T21:16:03.854237+00:00"
+  },
+  "S229": {
+   "title": "Toprak Razgatlioglu out of MotoGP season after crash",
+   "first": "2026-10-20T21:53:30.517745+00:00",
+   "sources": {
+    "GPblog": "2026-10-20T21:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Australian Grand Prix hit by shock withdrawal of multiple world champion"
+   },
+   "last": "2026-10-20T21:53:30.517763+00:00"
   }
  },
- "story_seq": 228,
+ "story_seq": 229,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3571,8 +3495,8 @@
    "Abu Dhabi Grand Prix"
   ]
  ],
- "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T21:16:01.880121+00:00",
- "last_digest": "2026-10-20T21:16:07.153881+00:00",
+ "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
+ "last_run": "2026-10-20T21:53:28.638806+00:00",
+ "last_digest": "2026-10-20T21:53:30.518261+00:00",
  "last_digest_key": "412e828b35d1004ddd2ada1b50fcd87ae0e529bb"
 }
