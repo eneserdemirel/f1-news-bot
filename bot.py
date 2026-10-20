@@ -589,7 +589,7 @@ def maybe_send_digest(cfg, state):
         return
     state["last_digest"] = now().isoformat()
     window = s.get("digest_window_min", 120)
-    own, google = top_own(cfg, state, n, window), top_google(n)
+    own, google = top_own(cfg, state, n, window), []  # Google News bölümü kaldırıldı
     if not own and not google:
         return
     key = hashlib.sha1(json.dumps([[o[2] for o in own], google], ensure_ascii=False).encode()).hexdigest()
