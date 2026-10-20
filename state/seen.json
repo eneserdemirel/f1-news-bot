@@ -901,7 +901,12 @@
   "08c5a8f6920ee8a2": "2026-10-20T18:14:13.765654+00:00",
   "126d1a44f57f41b5": "2026-10-20T18:14:13.765654+00:00",
   "c4eeff680593a2ad": "2026-10-20T18:14:13.765654+00:00",
-  "15e7e5bafaa2a531": "2026-10-20T18:14:13.765654+00:00"
+  "15e7e5bafaa2a531": "2026-10-20T18:14:13.765654+00:00",
+  "292019c05a3d6c92": "2026-10-20T19:01:26.406746+00:00",
+  "d5802781f0708402": "2026-10-20T19:01:26.406746+00:00",
+  "96c1b7bb9c17cd5b": "2026-10-20T19:01:26.406746+00:00",
+  "8a84abe770d19a0f": "2026-10-20T19:01:26.406746+00:00",
+  "f43c7cca4bb66cec": "2026-10-20T19:01:26.406746+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2715,7 +2720,7 @@
     "RacingNews365 NL": "Rechtszaak barst los in Texas voor GP Verenigde Staten",
     "Motorsport Week": "Former F1 supplier lodges court case ahead of US GP"
    },
-   "last": "2026-10-20T17:12:06.266437+00:00"
+   "last": "2026-10-20T19:01:31.930693+00:00"
   },
   "S168": {
    "title": "Barcelona to host major motorsport event in 2027 during F1 break",
@@ -2903,15 +2908,17 @@
    "first": "2026-10-20T10:09:00.362884+00:00",
    "sources": {
     "AS": "2026-10-20T09:57:25+00:00",
-    "RacingNews365": "2026-10-20T14:33:00+00:00"
+    "RacingNews365": "2026-10-20T14:33:00+00:00",
+    "GPblog": "2026-10-20T19:00:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
     "AS": "Verstappen vale por dos",
-    "RacingNews365": "Can Max Verstappen continue unexpected resurgence with emphatic statement?"
+    "RacingNews365": "Can Max Verstappen continue unexpected resurgence with emphatic statement?",
+    "GPblog": "F1 analyst sees Verstappen instilling fear in rivals after strong comeback"
    },
-   "last": "2026-10-20T14:36:08.934599+00:00"
+   "last": "2026-10-20T19:01:31.930699+00:00"
   },
   "S182": {
    "title": "Aston Martin joins padel court with Padeltek collaboration",
@@ -3321,14 +3328,16 @@
    "title": "Horner explains the reasons he left Red Bull",
    "first": "2026-10-20T15:15:09.212248+00:00",
    "sources": {
-    "Sky Sports F1": "2026-10-20T12:36:00+00:00"
+    "Sky Sports F1": "2026-10-20T12:36:00+00:00",
+    "GPFans": "2026-10-20T18:58:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Sky Sports F1": "Horner explains the reasons behind why he left Red Bull"
+    "Sky Sports F1": "Horner explains the reasons behind why he left Red Bull",
+    "GPFans": "Helmut Marko issues stinging rebuke in fresh Red Bull F1 row"
    },
-   "last": "2026-10-20T15:15:09.212252+00:00"
+   "last": "2026-10-20T19:01:31.930704+00:00"
   },
   "S211": {
    "title": "FIA president insists Qatar and Abu Dhabi GPs will go ahead",
@@ -3484,9 +3493,35 @@
     "Motorsport-Total": "Isack Hadjar: Sprintrennen haben nur etwas mit \"Glück\" zu tun - Motorsport-Total.com"
    },
    "last": "2026-10-20T18:14:19.371201+00:00"
+  },
+  "S222": {
+   "title": "Colton Herta eyes IndyCar return amid 2027 uncertainty",
+   "first": "2026-10-20T19:01:31.930667+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-20T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Colton Herta makes IndyCar admission amid F1 and F2 uncertainty"
+   },
+   "last": "2026-10-20T19:01:31.930685+00:00"
+  },
+  "S223": {
+   "title": "WEC chiefs discuss possible Alonso or Verstappen endurance racing",
+   "first": "2026-10-20T19:01:31.930707+00:00",
+   "sources": {
+    "AS": "2026-10-20T18:15:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "“¿Alonso o Verstappen en el WEC? La realidad no es si quieren, es cuándo”"
+   },
+   "last": "2026-10-20T19:01:31.930711+00:00"
   }
  },
- "story_seq": 221,
+ "story_seq": 223,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3605,7 +3640,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T18:14:13.765654+00:00",
- "last_digest": "2026-10-20T18:14:21.032082+00:00",
- "last_digest_key": "6818234aa0f9c6fceb01d455bc8d876679737e97"
+ "last_run": "2026-10-20T19:01:26.406746+00:00",
+ "last_digest": "2026-10-20T19:01:38.334237+00:00",
+ "last_digest_key": "a6b709570913b34655a433fd1b9eb050dda6fd25"
 }
