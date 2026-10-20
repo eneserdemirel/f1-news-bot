@@ -890,7 +890,11 @@
   "6fd594297ce13747": "2026-10-20T17:12:00.501304+00:00",
   "47da36ceadfab02b": "2026-10-20T17:12:00.501304+00:00",
   "ca78490fa3d8f2ef": "2026-10-20T17:12:00.501304+00:00",
-  "b8ecba67190e5127": "2026-10-20T17:12:00.501304+00:00"
+  "b8ecba67190e5127": "2026-10-20T17:12:00.501304+00:00",
+  "b2fbc252bb6953ed": "2026-10-20T17:43:57.079081+00:00",
+  "11a70b84e2504417": "2026-10-20T17:43:57.079081+00:00",
+  "ebb5e587f6cf4259": "2026-10-20T17:43:57.079081+00:00",
+  "1b05157babf70a97": "2026-10-20T17:43:57.079081+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3315,16 +3319,22 @@
    "sources": {
     "The Race": "2026-10-20T15:31:28+00:00",
     "PlanetF1": "2026-10-20T15:46:29+00:00",
-    "Crash.net": "2026-10-20T16:56:35+00:00"
+    "Crash.net": "2026-10-20T16:56:35+00:00",
+    "Autosport": "2026-10-20T17:10:41+00:00",
+    "RacingNews365 NL": "2026-10-20T17:30:00+00:00",
+    "AS": "2026-10-20T17:18:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "FIA adamant Qatar and Abu Dhabi GPs will go ahead",
     "PlanetF1": "FIA President confirms Qatar and Abu Dhabi ‘are going to happen’ as ‘risk’ disputed",
-    "Crash.net": "FIA boss insists Qatar and Abu Dhabi F1 races “are going to happen”"
+    "Crash.net": "FIA boss insists Qatar and Abu Dhabi F1 races “are going to happen”",
+    "Autosport": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
+    "RacingNews365 NL": "FIA houdt vast aan seizoensfinale in Midden-Oosten",
+    "AS": "La FIA dice que la F1 viajará a Catar y Abu Dhabi"
    },
-   "last": "2026-10-20T17:12:06.266453+00:00"
+   "last": "2026-10-20T17:43:59.783111+00:00"
   },
   "S212": {
    "title": "Pirelli says Austin resurfacing shifts focus to tyre wear",
@@ -3431,9 +3441,22 @@
     "RacingNews365 NL": "Red Bull is terug in de strijd om zeges, maar COTA vormt nieuwe test"
    },
    "last": "2026-10-20T17:12:06.266431+00:00"
+  },
+  "S220": {
+   "title": "FIA opens new remote operations centre at Biggin Hill",
+   "first": "2026-10-20T17:43:59.783074+00:00",
+   "sources": {
+    "FIA": "2026-10-20T15:16:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "FIA Opens New Remote Operations Centre at Biggin Hill Ushering in a New Era for F1 Race Management"
+   },
+   "last": "2026-10-20T17:43:59.783094+00:00"
   }
  },
- "story_seq": 219,
+ "story_seq": 220,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3552,7 +3575,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T17:12:00.501304+00:00",
- "last_digest": "2026-10-20T17:12:07.845441+00:00",
- "last_digest_key": "560107d4779c899f8e59dcf17eb4e3a56d2edd4f"
+ "last_run": "2026-10-20T17:43:57.079081+00:00",
+ "last_digest": "2026-10-20T17:44:02.032958+00:00",
+ "last_digest_key": "b1cf70934dc021e4f056c7b746292b3c0a21ab7d"
 }
