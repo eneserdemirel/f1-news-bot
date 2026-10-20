@@ -90,7 +90,9 @@ Kurallar:
 2. Haber esas olarak birinin sözleriyse şu biçimi kullan: 🚨 | İsim: "alıntı"
    Alıntının en önemli kısmını anlamını değiştirmeden Türkçeye çevir; düşünceyi yarıda kesme
    (merak uyandırmak için kesik bırakma), uzun da tutma. Sadece metinde geçen sözleri kullan.
-3. Tek bir basit bilgiyse en fazla 280 karakter, birden fazla önemli detay varsa en fazla 400
+3. Özet yoksa ya da başlığı tekrar ediyorsa SADECE başlıktaki bilgiyi aktar: en fazla 200 karakter,
+   başlıkta geçmeyen hiçbir isim, sayı, tarih veya olay ekleme; tahmin yürütme.
+   Tek bir basit bilgiyse en fazla 280 karakter, birden fazla önemli detay varsa en fazla 400
    karakter. "🚨 | " dahil 400'ü asla geçme.
 4. Metin tam olarak "🚨 | " ile başlasın. Hashtag, başka emoji, link veya kaynak satırı ekleme.
 5. "type": alıntıysa "quote", değilse "news".
@@ -236,7 +238,7 @@ def make_item(e, src, priority):
         "priority": priority,
         "title": title,
         "link": link,
-        "summary": clean_text(e.get("summary") or e.get("description"), 1000),
+        "summary": "" if "news.google.com" in link else clean_text(e.get("summary") or e.get("description"), 1000),
         "time": entry_time(e),
         "image": feed_image(e),
         "send_all": bool(src.get("send_all")),
@@ -678,6 +680,7 @@ def process(cfg, state):
             header = "🔄 <b>GELİŞME</b>\n\n"
         try:
             p = write_post(client, model, it)
+            log(f"  gönderildi: [{it['source']}] {it['title'][:90]} | {it['link']} | özet {len(it['summary'])} krk")
             tg_send(format_msg(it, p, header))
         except Exception as e:
             log(f"Özet hatası: {e}")
