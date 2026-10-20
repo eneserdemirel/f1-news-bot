@@ -906,7 +906,11 @@
   "d5802781f0708402": "2026-10-20T19:01:26.406746+00:00",
   "96c1b7bb9c17cd5b": "2026-10-20T19:01:26.406746+00:00",
   "8a84abe770d19a0f": "2026-10-20T19:01:26.406746+00:00",
-  "f43c7cca4bb66cec": "2026-10-20T19:01:26.406746+00:00"
+  "f43c7cca4bb66cec": "2026-10-20T19:01:26.406746+00:00",
+  "69ef88fcaea5f7c3": "2026-10-20T19:37:27.087128+00:00",
+  "8ee01c0f11fa6170": "2026-10-20T19:37:27.087128+00:00",
+  "e44faf07a8c8ced1": "2026-10-20T19:37:27.087128+00:00",
+  "515e4ff565f8bccb": "2026-10-20T19:37:27.087128+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3148,14 +3152,16 @@
    "title": "COTA bumps issue returns ahead of US GP, Verstappen gearbox status unclear",
    "first": "2026-10-20T12:25:49.556462+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-10-20T12:15:00+00:00"
+    "RacingNews365 NL": "2026-10-20T12:15:00+00:00",
+    "GPblog": "2026-10-20T19:31:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Rugpijndossier F1 terug van nooit weggeweest; bestelstatus Verstappen onbekend"
+    "RacingNews365 NL": "Rugpijndossier F1 terug van nooit weggeweest; bestelstatus Verstappen onbekend",
+    "GPblog": "Verstappen fears he may need a 'new spine' after worrying Austin discovery"
    },
-   "last": "2026-10-20T12:25:49.556479+00:00"
+   "last": "2026-10-20T19:37:30.160135+00:00"
   },
   "S199": {
    "title": "Alpine 2024 Formula 1 car to be auctioned as collector's item",
@@ -3348,7 +3354,8 @@
     "Crash.net": "2026-10-20T16:56:35+00:00",
     "Autosport": "2026-10-20T17:10:41+00:00",
     "RacingNews365 NL": "2026-10-20T17:30:00+00:00",
-    "AS": "2026-10-20T17:18:08+00:00"
+    "AS": "2026-10-20T17:18:08+00:00",
+    "Gazzetta dello Sport": "2026-10-20T19:30:10+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -3358,9 +3365,10 @@
     "Crash.net": "FIA boss insists Qatar and Abu Dhabi F1 races “are going to happen”",
     "Autosport": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
     "RacingNews365 NL": "FIA houdt vast aan seizoensfinale in Midden-Oosten",
-    "AS": "La FIA dice que la F1 viajará a Catar y Abu Dhabi"
+    "AS": "La FIA dice que la F1 viajará a Catar y Abu Dhabi",
+    "Gazzetta dello Sport": "Ben Sulayem: \"I GP in Qatar e ad Abu Dhabi? Si faranno, è sicuro. Non lascerei la mia famiglia lì...\""
    },
-   "last": "2026-10-20T17:43:59.783111+00:00"
+   "last": "2026-10-20T19:37:30.160142+00:00"
   },
   "S212": {
    "title": "Pirelli says Austin resurfacing shifts focus to tyre wear",
@@ -3519,9 +3527,22 @@
     "AS": "“¿Alonso o Verstappen en el WEC? La realidad no es si quieren, es cuándo”"
    },
    "last": "2026-10-20T19:01:31.930711+00:00"
+  },
+  "S224": {
+   "title": "Piastri admits he has no magic answer to season limitations",
+   "first": "2026-10-20T19:37:30.160108+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-20T19:07:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri's worrying 'no magic' admission as he accepts season-long limitations"
+   },
+   "last": "2026-10-20T19:37:30.160126+00:00"
   }
  },
- "story_seq": 223,
+ "story_seq": 224,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3640,7 +3661,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T19:01:26.406746+00:00",
- "last_digest": "2026-10-20T19:01:38.334237+00:00",
- "last_digest_key": "a6b709570913b34655a433fd1b9eb050dda6fd25"
+ "last_run": "2026-10-20T19:37:27.087128+00:00",
+ "last_digest": "2026-10-20T19:37:34.921888+00:00",
+ "last_digest_key": "e0e29e8bfa982ba07700da5ba7d7f033d0492d6a"
 }
