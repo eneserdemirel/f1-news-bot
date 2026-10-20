@@ -875,7 +875,12 @@
   "0795a851dec01dc5": "2026-10-20T15:54:12.378574+00:00",
   "e2ea53cdab122e53": "2026-10-20T15:54:12.378574+00:00",
   "d1cb9dc51690076a": "2026-10-20T15:54:12.378574+00:00",
-  "7fd1fdb3e3d223b4": "2026-10-20T15:54:12.378574+00:00"
+  "7fd1fdb3e3d223b4": "2026-10-20T15:54:12.378574+00:00",
+  "9f92a58b8743f809": "2026-10-20T16:28:09.233036+00:00",
+  "0fcbd6b1dd355775": "2026-10-20T16:28:09.233036+00:00",
+  "b639deaaec1c4217": "2026-10-20T16:28:09.233036+00:00",
+  "e70c63c7a26973ab": "2026-10-20T16:28:09.233036+00:00",
+  "eeb9fa0c5bc2e80e": "2026-10-20T16:28:09.233036+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1864,12 +1869,13 @@
     "GPblog": "2026-10-19T09:30:00+00:00",
     "GPFans": "2026-10-20T07:45:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
-   "last": "2026-10-20T14:36:08.934617+00:00",
+   "last": "2026-10-20T16:28:10.833007+00:00",
    "titles": {
     "GPFans": "Leclerc opens up on GT battles with Max Verstappen after Portimao fight",
-    "RacingNews365 NL": "Lulham grapt over GT-race met Verstappen: \"Iedereen wilde mij uit de auto hebben!\""
+    "RacingNews365 NL": "Lulham grapt over GT-race met Verstappen: \"Iedereen wilde mij uit de auto hebben!\"",
+    "GPblog": "Verstappen debriefs adventure: 'That made me more nervous than driving in F1'"
    }
   },
   "S93": {
@@ -2442,13 +2448,15 @@
    "first": "2026-10-19T18:42:47.101860+00:00",
    "sources": {
     "PlanetF1": "2026-10-19T18:17:47+00:00",
-    "Motorsport-Total": "2026-10-20T15:16:03+00:00"
+    "Motorsport-Total": "2026-10-20T15:16:03+00:00",
+    "RacingNews365": "2026-10-20T16:10:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
-   "last": "2026-10-20T15:54:20.570729+00:00",
+   "last": "2026-10-20T16:28:10.832983+00:00",
    "titles": {
-    "Motorsport-Total": "Max Verstappen: Red-Bull-Probleme in diesem Jahr ganz andere als 2025 - Motorsport-Total.com"
+    "Motorsport-Total": "Max Verstappen: Red-Bull-Probleme in diesem Jahr ganz andere als 2025 - Motorsport-Total.com",
+    "RacingNews365": "Who is Tom Hart, Max Verstappen's new race engineer?"
    }
   },
   "S147": {
@@ -2775,14 +2783,16 @@
    "title": "COTA attempts record for biggest cowboy hat ahead of US GP",
    "first": "2026-10-20T08:58:22.628126+00:00",
    "sources": {
-    "GPFans": "2026-10-20T08:57:00+00:00"
+    "GPFans": "2026-10-20T08:57:00+00:00",
+    "Motorsport-Total": "2026-10-20T16:02:09+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "GPFans": "F1 US Grand Prix targets bizarre world record with giant new Austin attraction"
+    "GPFans": "F1 US Grand Prix targets bizarre world record with giant new Austin attraction",
+    "Motorsport-Total": "Cadillac: Austin-Heimrennen mit Upgrades, Sonderlackierung und Herta - Motorsport-Total.com"
    },
-   "last": "2026-10-20T08:58:22.628130+00:00"
+   "last": "2026-10-20T16:28:10.833019+00:00"
   },
   "S175": {
    "title": "Marcin Budkowski shaping Cadillac's next chapter as team principal",
@@ -3326,9 +3336,35 @@
     "RacingNews365 NL": "Horner klapt uit school over geheime Red Bull-ontmoeting met Hamilton"
    },
    "last": "2026-10-20T15:54:20.570706+00:00"
+  },
+  "S214": {
+   "title": "Palmer says Antonelli's 2026 title could still be a challenge",
+   "first": "2026-10-20T16:28:10.832994+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-20T16:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli gewaarschuwd na Verstappen-opmars: \"Dan wordt het lastig...\""
+   },
+   "last": "2026-10-20T16:28:10.833000+00:00"
+  },
+  "S215": {
+   "title": "Motorsport-Total generic F1 index page",
+   "first": "2026-10-20T16:28:10.833011+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-20T16:05:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel 1 bei Motorsport-Total.com - F1-News und mehr - Motorsport-Total.com"
+   },
+   "last": "2026-10-20T16:28:10.833015+00:00"
   }
  },
- "story_seq": 213,
+ "story_seq": 215,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3447,7 +3483,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T15:54:12.378574+00:00",
- "last_digest": "2026-10-20T15:54:30.262620+00:00",
- "last_digest_key": "709c21360da6cb8d700a08f66663f2d16aa0c893"
+ "last_run": "2026-10-20T16:28:09.233036+00:00",
+ "last_digest": "2026-10-20T16:28:15.455184+00:00",
+ "last_digest_key": "c97b73e3688e9788d8a46021d14b675b1573117f"
 }
