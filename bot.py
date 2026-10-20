@@ -72,6 +72,8 @@ For EVERY new item return one JSON object with:
 - "title": for a new story, a short neutral English label of max 12 words; otherwise ""
 - "update": true only if the story is marked [posted] AND this item adds a significant new
   development (official confirmation, verdict, new key fact); otherwise false
+- "f1": true if the item is about Formula 1 (its drivers, teams, people, races, rules or business),
+  false for other series, road cars or other sports
 Return exactly ONE JSON array that contains the objects for all items, and nothing else."""
 
 WRITE_PROMPT = """Bir Formula 1 haber hesabı için Türkçe paylaşım metni yazıyorsun.
@@ -237,6 +239,8 @@ def make_item(e, src, priority):
         "summary": clean_text(e.get("summary") or e.get("description"), 1000),
         "time": entry_time(e),
         "image": feed_image(e),
+        "send_all": bool(src.get("send_all")),
+        "lang": src.get("lang", "en"),
     }
 
 
@@ -390,6 +394,7 @@ def triage(client, model, items, stories, effort="low"):
                     "story": str(d.get("story", "")).strip() or f"N-solo-{i}",
                     "title": (d.get("title") or "").strip(),
                     "update": bool(d.get("update", False)),
+                    "f1": bool(d.get("f1", int(d.get("score", 1)) >= 3)),
                     "chunk": c,
                 }
     return results
@@ -418,8 +423,9 @@ def assign_stories(state, items, tri):
         t = (it["time"] or now()).isoformat()
         prev = s["sources"].get(it["source"])
         s["sources"][it["source"]] = min(prev, t) if prev else t
+        s.setdefault("titles", {}).setdefault(it["source"], it["title"])
         s["last"] = now().isoformat()
-        it.update(score=r["score"], story=sid, update=r["update"])
+        it.update(score=r["score"], story=sid, update=r["update"], f1=r["f1"])
 
 
 def trending_count(story, window_min):
@@ -437,17 +443,18 @@ def select(items, state, s):
             continue
         story = state["stories"][it["story"]]
         trending = trending_count(story, window) >= trend_min
+        always = it.get("send_all") and it.get("f1", True)  # bu kaynaklardan F1 haberlerinin hepsi
         if story["posted"]:
-            ok = it["update"] and it["score"] >= min_score
+            ok = it["update"] and (it["score"] >= min_score or always)
         else:
-            ok = it["score"] >= min_score or (trending and it["score"] >= trend_score)
+            ok = it["score"] >= min_score or always or (trending and it["score"] >= trend_score)
         if not ok:
             continue
         cur = best.get(it["story"])
         if cur is None or (it["score"], -it["priority"]) > (cur["score"], -cur["priority"]):
             best[it["story"]] = it
     chosen = sorted(best.values(), key=lambda x: (-x["score"], x["priority"]))
-    return chosen[: s.get("max_posts_per_run", 15)]
+    return chosen[: s.get("max_posts_per_run", 20)]
 
 
 def fix_prefix(s):
@@ -522,8 +529,82 @@ def trend_line(story, window):
             f"İlk veren: {html.escape(first)} · Diğerleri: {html.escape(', '.join(names[1:]))}\n\n")
 
 
+# ---------------------------------------------------------------- gündem listesi (ilk 5)
+def top_own(cfg, state, n, window_min):
+    """Son X dakikada en çok farklı sitenin yazdığı F1 hikayeleri."""
+    en_sources = [x["name"] for x in cfg["sources"] if x.get("lang", "en") == "en"]
+    ranked = []
+    for story in state["stories"].values():
+        count = trending_count(story, window_min)
+        if count < 2:
+            continue
+        titles = story.get("titles", {})
+        src_names = sorted(story["sources"], key=lambda k: story["sources"][k])
+        title = next((titles[x] for x in en_sources if x in titles), None) or \
+            next(iter(titles.values()), story["title"])
+        ranked.append((count, story["last"], title, src_names))
+    ranked.sort(key=lambda r: r[1], reverse=True)   # eşitlikte en güncel olan önce
+    ranked.sort(key=lambda r: -r[0])
+    return ranked[:n]
+
+
+def top_google(n):
+    url = ("https://news.google.com/rss/search?q=" + quote_plus('"Formula 1" OR F1 when:1d')
+           + "&" + GNEWS_LANG["en"])
+    out = []
+    for e in parse_feed(url)[: n * 2]:
+        title = re.sub(r"\s+-\s+[^-]+$", "", clean_text(e.get("title"))).strip()
+        src = (e.get("source") or {}).get("title", "") if isinstance(e.get("source"), dict) else ""
+        if title and title not in [t for t, _ in out]:
+            out.append((title, src))
+    return out[:n]
+
+
+def maybe_send_digest(cfg, state):
+    s = cfg.get("settings", {})
+    every, n = s.get("digest_interval_min", 30), s.get("digest_size", 5)
+    if not every:
+        return
+    last = state.get("last_digest")
+    if last and now() - datetime.fromisoformat(last) < timedelta(minutes=every - 3):
+        return
+    window = s.get("digest_window_min", 120)
+    own, google = top_own(cfg, state, n, window), top_google(n)
+    e = html.escape
+    parts = []
+    if own:
+        lines = [f"📊 <b>Gündem · ilk {len(own)}</b> (son {window // 60} saatte en çok yazılanlar)"]
+        for i, (count, _, title, srcs) in enumerate(own, 1):
+            more = f" +{len(srcs) - 3}" if len(srcs) > 3 else ""
+            lines.append(f"{i}. {e(title)}\n    <i>{e(', '.join(srcs[:3]))}{more} · {count} site</i>")
+        parts.append("\n".join(lines))
+    if google:
+        lines = [f"🔎 <b>Google News · öne çıkanlar</b>"]
+        for i, (title, src) in enumerate(google, 1):
+            lines.append(f"{i}. {e(title)}" + (f"\n    <i>{e(src)}</i>" if src else ""))
+        parts.append("\n".join(lines))
+    state["last_digest"] = now().isoformat()
+    if not parts:
+        return
+    key = hashlib.sha1("|".join(parts).encode()).hexdigest()
+    if key == state.get("last_digest_key"):  # liste değişmediyse tekrar gönderme
+        log("Gündem listesi değişmedi, gönderilmedi")
+        return
+    state["last_digest_key"] = key
+    tg_send("\n\n".join(parts))
+
+
 # ---------------------------------------------------------------- modes
 def run(cfg, state):
+    process(cfg, state)
+    if state["initialized"]:
+        try:
+            maybe_send_digest(cfg, state)
+        except Exception as e:
+            log(f"Gündem listesi hatası: {e}")
+
+
+def process(cfg, state):
     s = cfg.get("settings", {})
     model = s.get("model", "claude-haiku-5-5")
     window = s.get("trend_window_min", 45)
