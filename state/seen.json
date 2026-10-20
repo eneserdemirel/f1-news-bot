@@ -798,7 +798,13 @@
   "c05085ef09da57d3": "2026-10-20T09:33:22.337654+00:00",
   "ba8168d2d8460c65": "2026-10-20T09:33:22.337654+00:00",
   "f3c71ca78ad3514f": "2026-10-20T09:33:22.337654+00:00",
-  "b0d8e38b082bedb0": "2026-10-20T09:33:22.337654+00:00"
+  "b0d8e38b082bedb0": "2026-10-20T09:33:22.337654+00:00",
+  "fe14c12c3750e0a7": "2026-10-20T10:08:54.960655+00:00",
+  "6e9a298f9c7396bd": "2026-10-20T10:08:54.960655+00:00",
+  "47f2d645f54fcf59": "2026-10-20T10:08:54.960655+00:00",
+  "d5ae374a153be3ad": "2026-10-20T10:08:54.960655+00:00",
+  "f3d3ec5c2213ef84": "2026-10-20T10:08:54.960655+00:00",
+  "adc55ff5e10eb12a": "2026-10-20T10:08:54.960655+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1494,11 +1500,17 @@
    "sources": {
     "GPFans": "2026-10-19T05:15:00+00:00",
     "RacingNews365": "2026-10-19T07:15:00+00:00",
-    "RacingNews365 NL": "2026-10-19T12:45:00+00:00"
+    "RacingNews365 NL": "2026-10-19T12:45:00+00:00",
+    "Motorsport Week": "2026-10-20T09:00:00+00:00",
+    "Crash.net": "2026-10-20T09:50:52+00:00"
    },
    "posted": true,
    "alerted": false,
-   "last": "2026-10-19T20:33:39.891084+00:00"
+   "last": "2026-10-20T10:09:00.362866+00:00",
+   "titles": {
+    "Motorsport Week": "Christian Horner reveals sensational Mercedes F1 offer bombshell",
+    "Crash.net": "Christian Horner claims Lewis Hamilton wanted Red Bull move in ‘secret meeting’"
+   }
   },
   "S67": {
    "title": "Horner says Red Bull bosses still called him after 2026 wins",
@@ -2703,9 +2715,61 @@
     "Crash.net": "Christian Horner addresses controversial call to Michael Masi during Abu Dhabi 2021 F1 title decider"
    },
    "last": "2026-10-20T09:33:25.747597+00:00"
+  },
+  "S178": {
+   "title": "Anniversary of Verstappen-Norris fight and Ferrari 1-2 milestone",
+   "first": "2026-10-20T10:09:00.362829+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-20T09:40:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Verstappen-Norris fight fundamentally alters F1 as Ferrari hit milestone for latest time"
+   },
+   "last": "2026-10-20T10:09:00.362847+00:00"
+  },
+  "S179": {
+   "title": "Verstappen points to Hadjar as Red Bull's next number one",
+   "first": "2026-10-20T10:09:00.362858+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-20T09:51:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Red Bull’s next number one? Verstappen points to Hadjar"
+   },
+   "last": "2026-10-20T10:09:00.362862+00:00"
+  },
+  "S180": {
+   "title": "Lawson holds live concert before Austin weekend",
+   "first": "2026-10-20T10:09:00.362879+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-20T10:02:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Liam Lawson: Live-Konzert statt Renncockpit vor dem Austin-Wochenende - Motorsport-Total.com"
+   },
+   "last": "2026-10-20T10:09:00.362882+00:00"
+  },
+  "S181": {
+   "title": "Verstappen's back-to-back wins make him third repeat winner this season",
+   "first": "2026-10-20T10:09:00.362884+00:00",
+   "sources": {
+    "AS": "2026-10-20T09:57:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "Verstappen vale por dos"
+   },
+   "last": "2026-10-20T10:09:00.362887+00:00"
   }
  },
- "story_seq": 177,
+ "story_seq": 181,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -2824,7 +2888,7 @@
   ]
  ],
  "calendar_updated": "2026-10-19T21:38:57.618873+00:00",
- "last_run": "2026-10-20T09:33:22.337654+00:00",
- "last_digest": "2026-10-20T09:33:27.225824+00:00",
- "last_digest_key": "cf3f7b2ea9db60c657b83b2fb77e8ceb73150f3b"
+ "last_run": "2026-10-20T10:08:54.960655+00:00",
+ "last_digest": "2026-10-20T10:09:00.363310+00:00",
+ "last_digest_key": "7048cda1541b4e6ec3192f4f535fb56ea10a1262"
 }
