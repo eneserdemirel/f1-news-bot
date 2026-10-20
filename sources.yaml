@@ -1,9 +1,10 @@
 # ---------------- AYARLAR ----------------
 settings:
   model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
-  min_score: 3              # 1-10 arası; 3 = F1 dışı ve dolgu içerik hariç tüm haberler
-  trend_min_score: 5        # yükselen haberlerde (🔥) gönderim için yeterli puan
-  max_posts_per_run: 15     # bir çalışmada en fazla kaç haber gönderilsin
+  min_score: 6              # 1-10 arası; diğer kaynaklarda bu puan ve üstü gönderilir
+                            # (send_all: true olan kaynaklardan F1 haberlerinin hepsi gelir)
+  trend_min_score: 6        # yükselen haberlerde (🔥) gönderim için yeterli puan
+  max_posts_per_run: 20     # bir çalışmada en fazla kaç haber gönderilsin
   triage_effort: low        # puanlama için modelin çaba seviyesi (low = ucuz ve hızlı)
   max_age_hours: 6          # bundan eski haberler gönderilmez
   trend_window_min: 45      # "yükselen haber" için bakılan süre (dakika)
@@ -11,6 +12,9 @@ settings:
   normal_interval_min: 10   # normal günlerde kontrol aralığı (dakika)
   race_interval_min: 5      # yarış haftasonunda kontrol aralığı (dakika)
   race_weekend: auto        # auto = takvime göre, on = hep açık, off = hep kapalı
+  digest_interval_min: 30   # gündem ilk 5 listesinin aralığı (0 = kapalı)
+  digest_window_min: 120    # gündem listesi için bakılan süre (dakika)
+  digest_size: 5            # listede kaç haber olsun
 
 # ---------------- KAYNAKLAR ----------------
 # Sıra önemli: aynı haber birden fazla sitede çıkarsa listede ÜSTTEKİ kaynak seçilir.
@@ -41,6 +45,7 @@ sources:
 
   - name: The Race
     handle: "@wearetherace"        # doğrula
+    send_all: true
     site: https://www.the-race.com
     feeds: [https://www.the-race.com/feed/]
 
@@ -67,7 +72,9 @@ sources:
   - name: Motorsport Week
     handle: "@MotorsportWeek"
     site: https://www.motorsportweek.com
-    feeds: [https://www.motorsportweek.com/feed/]
+    send_all: true
+    discover: false
+    feeds: [https://www.motorsportweek.com/tag/f1/feed/]   # sadece F1 etiketi
 
   - name: PlanetF1
     handle: "@Planet_F1"           # doğrula
@@ -76,6 +83,7 @@ sources:
 
   - name: GPblog
     handle: "@GPblog"              # doğrula
+    send_all: true
     site: https://www.gpblog.com/en
     feeds: []
 
@@ -83,6 +91,14 @@ sources:
     handle: "@GPFans_Global"       # doğrula
     site: https://www.gpfans.com/en/
     feeds: []
+
+  - name: Crash.net
+    handle: "@crash_net"           # doğrula
+    site: https://www.crash.net/f1
+    send_all: true
+    discover: false
+    gnews_query: 'site:crash.net/f1'
+    feeds: [https://www.crash.net/rss/f1]
 
   # ---------- Haberi ilk veren yabancı kaynaklar ----------
   - name: Corriere dello Sport
