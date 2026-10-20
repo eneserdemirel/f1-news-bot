@@ -11,6 +11,7 @@ import json
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote_plus, urljoin, urlparse, urlunparse
@@ -76,29 +77,27 @@ For EVERY new item return one JSON object with:
   false for other series, road cars or other sports
 Return exactly ONE JSON array that contains the objects for all items, and nothing else."""
 
-WRITE_PROMPT = """Bir Formula 1 haber hesabı için Türkçe paylaşım metni yazıyorsun.
+WRITE_PROMPT = """Bir Formula 1 haberini Türkçe özetliyorsun.
 
 Kaynak site: <<SOURCE>>
 Başlık: <<TITLE>>
-Sitenin verdiği kısa özet:
+Haber metni:
+<metin>
 <<TEXT>>
+</metin>
 
 Kurallar:
-1. Sadece başlıkta ve özette yazanlara tamamen sadık kal. Olmayan bilgi, yorum, tahmin veya
-   abartı ekleme. Haber bir iddia ya da başka bir yayına dayanıyorsa bunu belirt
-   ("... göre", "iddiaya göre").
-2. Haber esas olarak birinin sözleriyse şu biçimi kullan: 🚨 | İsim: "alıntı"
-   Alıntının en önemli kısmını anlamını değiştirmeden Türkçeye çevir; düşünceyi yarıda kesme
-   (merak uyandırmak için kesik bırakma), uzun da tutma. Sadece metinde geçen sözleri kullan.
-3. Özet yoksa ya da başlığı tekrar ediyorsa SADECE başlıktaki bilgiyi aktar: en fazla 200 karakter,
-   başlıkta geçmeyen hiçbir isim, sayı, tarih veya olay ekleme; tahmin yürütme.
-   Tek bir basit bilgiyse en fazla 280 karakter, birden fazla önemli detay varsa en fazla 400
-   karakter. "🚨 | " dahil 400'ü asla geçme.
-4. Metin tam olarak "🚨 | " ile başlasın. Hashtag, başka emoji, link veya kaynak satırı ekleme.
-5. "type": alıntıysa "quote", değilse "news".
-6. "status": resmi bir açıklama veya doğrudan ilgili kişinin/takımın/FIA'nın sözüyse
-   "official"; medya haberi, iddia veya isimsiz kaynaklara dayanıyorsa "report".
-Sadece JSON döndür: {"type": "...", "post_tr": "...", "status": "..."}"""
+1. Haberi gerektiği kadar özetle: basit bir haberse 1-2 cümle, detaylı bir haberse önemli bilgilerin
+   hepsini içeren kısa bir paragraf (en fazla yaklaşık 700 karakter).
+2. Sadece metinde yazanlara tamamen sadık kal. Metinde olmayan bilgi, yorum veya tahmin ekleme.
+   Metin sadece bir başlıktan ibaretse sadece başlıktaki bilgiyi aktar.
+3. Haberde önemli bir demeç varsa en önemli kısmını anlamını değiştirmeden Türkçeye çevir ve
+   kimin söylediğini belirterek tırnak içinde ekle. Sadece metinde geçen sözleri kullan.
+4. Metin "🚨 | " ile başlasın. Hashtag, link veya kaynak satırı ekleme.
+5. "official": haber resmi bir duyuru ya da resmi açıklamaysa (takım, FIA, F1, mahkeme vb. tarafından
+   resmen açıklanmış) true, değilse false.
+Sadece JSON döndür: {"post_tr": "...", "official": true}"""
+
 
 # ---------------------------------------------------------------- helpers
 def now():
@@ -436,27 +435,19 @@ def trending_count(story, window_min):
 
 
 def select(items, state, s):
-    """Her hikayeden en iyi haberi seçer: yeni hikayeler, yükselenler ve önemli gelişmeler."""
-    min_score, window = s.get("min_score", 3), s.get("trend_window_min", 45)
-    trend_min, trend_score = s.get("trend_min_sources", 4), s.get("trend_min_score", 5)
+    """Önem puanına bakmadan: daha önce gönderilmemiş her F1 hikayesinden bir haber, artı önemli gelişmeler."""
     best = {}
     for it in items:
-        if "story" not in it:
+        if "story" not in it or not it.get("f1", True):
             continue
         story = state["stories"][it["story"]]
-        trending = trending_count(story, window) >= trend_min
-        always = it.get("send_all") and it.get("f1", True)  # bu kaynaklardan F1 haberlerinin hepsi
-        if story["posted"]:
-            ok = it["update"] and (it["score"] >= min_score or always)
-        else:
-            ok = it["score"] >= min_score or always or (trending and it["score"] >= trend_score)
-        if not ok:
+        if story["posted"] and not it["update"]:
             continue
         cur = best.get(it["story"])
         if cur is None or (it["score"], -it["priority"]) > (cur["score"], -cur["priority"]):
             best[it["story"]] = it
-    chosen = sorted(best.values(), key=lambda x: (-x["score"], x["priority"]))
-    return chosen[: s.get("max_posts_per_run", 20)]
+    chosen = sorted(best.values(), key=lambda x: (x["time"] or now()))  # eskiden yeniye
+    return chosen[: s.get("max_posts_per_run", 40)]
 
 
 def fix_prefix(s):
@@ -464,17 +455,25 @@ def fix_prefix(s):
     return s if s.startswith(PREFIX) else PREFIX + s.lstrip("🚨| ").strip()
 
 
-def write_post(client, model, it):
-    text = it["summary"] or "(özet yok, sadece başlık var)"
+def article_text(it):
+    """Makalenin tamamını okur; okunamazsa (ör. Google News linkleri) RSS özetine döner."""
+    txt = ""
+    if "news.google.com" not in it["link"]:
+        try:
+            r = http_get(it["link"])
+            txt = trafilatura.extract(r.text, include_comments=False, include_tables=False) or ""
+        except Exception as e:
+            log(f"  makale okunamadı: {it['link']} ({e})")
+    if len(txt) < 300:
+        txt = (it["summary"] + "\n" + txt).strip()
+    return txt[:8000]
+
+
+def write_post(client, model, it, effort="medium"):
+    text = article_text(it) or "(metin yok, sadece başlık var)"
     prompt = (WRITE_PROMPT.replace("<<SOURCE>>", it["source"])
               .replace("<<TITLE>>", it["title"]).replace("<<TEXT>>", text))
-    data = extract_json(ask_claude(client, model, prompt, 1500, thinking=False), "{")
-    n = len(data.get("post_tr", ""))
-    if n > 400:  # bir kez kısaltma iste
-        retry = (prompt + f"\n\nÖnceki metin {n} karakterdi, sınırı aşıyor. Önceki cevap:\n"
-                 f"{json.dumps(data, ensure_ascii=False)}\nKuralları koruyarak en fazla 400 karaktere "
-                 "kısalt. Sadece JSON döndür.")
-        data = extract_json(ask_claude(client, model, retry, 1500, thinking=False), "{")
+    data = extract_json(ask_claude(client, model, prompt, 3000, effort=effort, thinking=False), "{")
     data["post_tr"] = fix_prefix(data.get("post_tr"))
     return data
 
@@ -511,17 +510,8 @@ def alert(state, msg, hours=3):
 
 def format_msg(it, p, header=""):
     e = html.escape
-    tr = p["post_tr"]
-    status = {"official": "✅ <b>Resmi</b>", "report": "🟡 <b>İddia / Haber</b>"}.get(p.get("status"), "")
-    if p.get("type") == "quote":
-        status = "💬 <b>Demeç</b>"
-    msg = (header + (status + "\n" if status else "") +
-           f'<pre>{e(tr)}\n\n📰 {e(it["handle"])}</pre>\n'
-           f'🔗 <a href="{e(it["link"], quote=True)}">{e(it["source"])}</a>'
-           f' · {len(tr)} karakter · önem {it.get("score", "-")}/10')
-    if len(tr) > 400:
-        msg += "\n⚠️ 400 karakteri aşıyor, kısaltman gerekebilir"
-    return msg
+    official = "✅ <b>Resmi</b>\n" if p.get("official") is True else ""
+    return f'{official}<pre>{e(p["post_tr"])}</pre>\n🔗 {e(it["link"])}'
 
 
 def trend_line(story, window):
@@ -669,30 +659,25 @@ def process(cfg, state):
 
     chosen = select(fresh, state, s)
     log(f"Seçilen: {len(chosen)}")
-    trend_min = s.get("trend_min_sources", 4)
-    for it in chosen:
-        story = state["stories"][it["story"]]
-        header = ""
-        if trending_count(story, window) >= trend_min and not story["alerted"]:
-            header = trend_line(story, window)
-            story["alerted"] = True
-        elif story["posted"]:
-            header = "🔄 <b>GELİŞME</b>\n\n"
-        try:
-            p = write_post(client, model, it)
-            log(f"  gönderildi: [{it['source']}] {it['title'][:90]} | {it['link']} | özet {len(it['summary'])} krk")
-            tg_send(format_msg(it, p, header))
-        except Exception as e:
-            log(f"Özet hatası: {e}")
-            tg_send(header + f'⚠️ Özet üretilemedi: <a href="{html.escape(it["link"], quote=True)}">'
-                    f'{html.escape(it["title"])}</a>')
-        story["posted"] = True
+    effort = s.get("write_effort", "medium")
 
-    # Daha önce paylaşılmış ama şimdi yükselen hikayeler için kısa uyarı
-    for sid, story in state["stories"].items():
-        if story["posted"] and not story["alerted"] and trending_count(story, window) >= trend_min:
-            story["alerted"] = True
-            tg_send(trend_line(story, window) + f"Paylaştığın haber büyüyor: {html.escape(story['title'])}")
+    def make(it):
+        try:
+            return it, write_post(client, model, it, effort), None
+        except Exception as e:
+            return it, None, e
+
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        results = list(pool.map(make, chosen))
+    for it, p, err in results:
+        story = state["stories"][it["story"]]
+        if p:
+            log(f"  gönderildi: [{it['source']}] {it['title'][:90]} | {it['link']}")
+            tg_send(format_msg(it, p))
+        else:
+            log(f"Özet hatası: {err}")
+            tg_send(f'⚠️ Özet üretilemedi: {html.escape(it["title"])}\n🔗 {html.escape(it["link"])}')
+        story["posted"] = True
 
 
 def test(cfg, state):
@@ -718,7 +703,7 @@ def test(cfg, state):
     if dated:
         it = dated[0]
         model = cfg.get("settings", {}).get("model", "claude-haiku-5-5")
-        p = write_post(Anthropic(), model, it)
+        p = write_post(Anthropic(), model, it, cfg.get("settings", {}).get("write_effort", "medium"))
         tg_send("<b>Örnek özet (en yeni haber):</b>\n\n" + format_msg(it, p))
 
 
