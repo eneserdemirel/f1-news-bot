@@ -918,7 +918,8 @@
   "7f657d29320fa2a6": "2026-10-20T20:08:17.349897+00:00",
   "73cd556107fe0d89": "2026-10-20T20:45:09.867379+00:00",
   "b74d746e9b9e1a78": "2026-10-20T21:16:01.880121+00:00",
-  "037e2cc064310c27": "2026-10-20T21:53:28.638806+00:00"
+  "037e2cc064310c27": "2026-10-20T21:53:28.638806+00:00",
+  "e7e2d62e8bd563ea": "2026-10-20T22:22:22.996238+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -988,16 +989,6 @@
    "posted": true,
    "alerted": false,
    "last": "2026-10-19T09:38:57.386077+00:00"
-  },
-  "S30": {
-   "title": "Montoya blames McLaren papaya rules for Singapore Sprint crash",
-   "first": "2026-10-18T22:06:23.199933+00:00",
-   "sources": {
-    "GPblog": "2026-10-18T22:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-18T22:06:23.199951+00:00"
   },
   "S31": {
    "title": "VW T-Roc 1.5 eTSI road car test review",
@@ -3375,9 +3366,22 @@
     "GPblog": "Australian Grand Prix hit by shock withdrawal of multiple world champion"
    },
    "last": "2026-10-20T21:53:30.517763+00:00"
+  },
+  "S230": {
+   "title": "Lawson rises in power rankings after Singapore Grand Prix showing",
+   "first": "2026-10-20T22:22:24.667026+00:00",
+   "sources": {
+    "GPblog": "2026-10-20T22:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Lawson climbs above F1's biggest names after yet another strong showing"
+   },
+   "last": "2026-10-20T22:22:24.667044+00:00"
   }
  },
- "story_seq": 229,
+ "story_seq": 230,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3496,7 +3500,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-20T21:53:28.638806+00:00",
- "last_digest": "2026-10-20T21:53:30.518261+00:00",
+ "last_run": "2026-10-20T22:22:22.996238+00:00",
+ "last_digest": "2026-10-20T22:22:26.522403+00:00",
  "last_digest_key": "412e828b35d1004ddd2ada1b50fcd87ae0e529bb"
 }
