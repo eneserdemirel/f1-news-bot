@@ -1,10 +1,11 @@
 # ---------------- AYARLAR ----------------
 settings:
   model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
-  min_score: 4              # 1-10 arası; tüm kaynaklarda bu puan ve üstü gönderilir
+  min_score: 1              # artık kullanılmıyor: önem puanına bakılmadan tüm F1 haberleri gelir
   trend_min_score: 4        # yükselen haberlerde (🔥) gönderim için yeterli puan
-  max_posts_per_run: 20     # bir çalışmada en fazla kaç haber gönderilsin
-  triage_effort: low        # puanlama için modelin çaba seviyesi (low = ucuz ve hızlı)
+  max_posts_per_run: 40     # bir çalışmada en fazla kaç haber gönderilsin
+  triage_effort: medium     # tekrarları ayıklarken modelin çaba seviyesi
+  write_effort: medium      # özet yazarken modelin çaba seviyesi
   max_age_hours: 6          # bundan eski haberler gönderilmez
   trend_window_min: 45      # "yükselen haber" için bakılan süre (dakika)
   trend_min_sources: 4      # bu sürede bu kadar farklı kaynak yazarsa 🔥 alarmı
@@ -96,6 +97,13 @@ sources:
     feeds: [https://www.crash.net/rss/f1]
 
   # ---------- Haberi ilk veren yabancı kaynaklar ----------
+  - name: FormulaPassion
+    handle: "@FormulaPassion"      # doğrula
+    site: https://www.formulapassion.it/f1/
+    lang: it
+    discover: false
+    feeds: [https://www.formulapassion.it/category/f1/feed/]
+
   - name: Corriere dello Sport
     handle: "@CorSport"            # doğrula
     site: https://www.corrieredellosport.it/formula-1
