@@ -252,6 +252,24 @@ def feed_image(e):
     return ""
 
 
+# F1 dışı serileri yapay zekaya hiç göndermeden elemek için basit kelime filtresi
+OTHER_SERIES = ["motogp", "moto2", "moto3", "superbike", "wsbk", "formula e", "formel e", "fórmula e",
+                "indycar", "nascar", "wec", "le mans", "imsa", "dtm", "wrc", "rally", "rallye", "dakar",
+                "gt world challenge", "elms", "supercars", "extreme e", "karting"]
+F1_WORDS = ["f1", "formula 1", "formula one", "formel 1", "formula uno", "fórmula 1", "grand prix",
+            "verstappen", "hamilton", "leclerc", "norris", "piastri", "russell", "antonelli",
+            "alonso", "stroll", "gasly", "colapinto", "albon", "sainz", "ocon", "bearman", "hulkenberg",
+            "hülkenberg", "bortoleto", "lawson", "hadjar", "lindblad", "perez", "pérez", "bottas",
+            "ferrari", "mercedes", "red bull", "mclaren", "aston martin", "alpine", "williams", "haas",
+            "racing bulls", "sauber", "cadillac", "wolff", "horner", "vasseur", "zak brown", "mekies"]
+
+
+def looks_non_f1(it):
+    text = f' {it["title"]} {it["summary"][:300]} '.lower()
+    return (any(k in text for k in OTHER_SERIES)
+            and not any(re.search(rf"(?<![a-z]){re.escape(k)}(?![a-z])", text) for k in F1_WORDS))
+
+
 def collect(cfg, state, report=None):
     items = {}
     for prio, src in enumerate(cfg["sources"]):
@@ -507,7 +525,11 @@ def run(cfg, state):
     fresh = [it for it in new if it["time"] is None or now() - it["time"] <= max_age]
     for it in new:
         state["seen"][it["id"]] = stamp
-    log(f"Yeni: {len(new)} | taze: {len(fresh)}")
+    skipped = [it for it in fresh if looks_non_f1(it)]
+    fresh = [it for it in fresh if not looks_non_f1(it)]
+    log(f"Yeni: {len(new)} | taze: {len(fresh)} | F1 dışı diye elenen: {len(skipped)}")
+    for it in skipped:
+        log(f"  elendi: [{it['source']}] {it['title'][:80]}")
     if not fresh:
         return
 
