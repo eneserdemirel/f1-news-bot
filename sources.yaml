@@ -1,13 +1,14 @@
 # ---------------- AYARLAR ----------------
 settings:
   model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
-  min_score: 6              # 1-10 arası; bu puan ve üstü gönderilir, düşürürsen daha çok haber gelir
+  min_score: 3              # 1-10 arası; 3 = F1 dışı ve dolgu içerik hariç tüm haberler
   trend_min_score: 5        # yükselen haberlerde (🔥) gönderim için yeterli puan
-  max_posts_per_run: 8      # bir çalışmada en fazla kaç haber gönderilsin
+  max_posts_per_run: 15     # bir çalışmada en fazla kaç haber gönderilsin
+  triage_effort: low        # puanlama için modelin çaba seviyesi (low = ucuz ve hızlı)
   max_age_hours: 6          # bundan eski haberler gönderilmez
   trend_window_min: 45      # "yükselen haber" için bakılan süre (dakika)
   trend_min_sources: 4      # bu sürede bu kadar farklı kaynak yazarsa 🔥 alarmı
-  normal_interval_min: 20   # normal günlerde kontrol aralığı (dakika)
+  normal_interval_min: 10   # normal günlerde kontrol aralığı (dakika)
   race_interval_min: 5      # yarış haftasonunda kontrol aralığı (dakika)
   race_weekend: auto        # auto = takvime göre, on = hep açık, off = hep kapalı
 
