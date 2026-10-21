@@ -1191,7 +1191,10 @@
   "7ae70334745b5c0c": "2026-10-21T17:35:26.584550+00:00",
   "9382ef2251f485f1": "2026-10-21T17:45:27.011234+00:00",
   "e5db2c8b4342d325": "2026-10-21T17:55:24.756698+00:00",
-  "a74989c3f9e1b5e2": "2026-10-21T17:55:24.756698+00:00"
+  "a74989c3f9e1b5e2": "2026-10-21T17:55:24.756698+00:00",
+  "6e9c5603529331ab": "2026-10-21T18:05:26.263959+00:00",
+  "da83722a0e8cf590": "2026-10-21T18:05:26.263959+00:00",
+  "02e946f1db3eb6b1": "2026-10-21T18:05:26.263959+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1305,17 +1308,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T18:42:47.101844+00:00"
-  },
-  "S85": {
-   "title": "Driver rejects Ferrari move, saying it does not fit",
-   "first": "2026-10-19T08:14:14.025687+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-19T08:01:42+00:00",
-    "Gazzetta dello Sport": "2026-10-19T17:53:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T18:02:34.629864+00:00"
   },
   "S86": {
    "title": "Saudi students' STEM racing team wins world finals in Singapore",
@@ -1449,36 +1441,6 @@
    "titles": {
     "Motorsport-Total": "Mercedes: Neuer Hightech-Rennanzug feiert Premiere in Singapur - Motorsport-Total.com"
    }
-  },
-  "S142": {
-   "title": "Horner explains his true feelings on Lawson's Red Bull demotion",
-   "first": "2026-10-19T18:02:34.629811+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T18:02:34.629828+00:00"
-  },
-  "S143": {
-   "title": "Horner reveals Red Bull almost fired him in 2006",
-   "first": "2026-10-19T18:02:34.629833+00:00",
-   "sources": {
-    "GPblog": "2026-10-19T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T18:02:34.629851+00:00"
-  },
-  "S144": {
-   "title": "Norris at risk of becoming F1's worst champion in decades",
-   "first": "2026-10-19T18:02:34.629855+00:00",
-   "sources": {
-    "GPFans": "2026-10-19T17:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T18:02:34.629859+00:00"
   },
   "S145": {
    "title": "Williams to name 2027 car FW50 for 50th anniversary",
@@ -4102,9 +4064,48 @@
     "RacingNews365 NL": "Norris 'een beetje bang' in nieuwe super-McLaren op Portimão"
    },
    "last": "2026-10-21T17:55:27.444182+00:00"
+  },
+  "S335": {
+   "title": "Lawson handed backing to keep Racing Bulls seat",
+   "first": "2026-10-21T18:05:29.777688+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-21T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson handed emphatic backing to keep Racing Bulls F1 seat"
+   },
+   "last": "2026-10-21T18:05:29.777709+00:00"
+  },
+  "S336": {
+   "title": "Pundit comments on Lawson's Racing Bulls uncertainty",
+   "first": "2026-10-21T18:05:29.777715+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T18:02:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson’s Racing Bulls uncertainty baffles F1 pundit"
+   },
+   "last": "2026-10-21T18:05:29.777721+00:00"
+  },
+  "S337": {
+   "title": "Schumacher says Hamilton must integrate into Ferrari",
+   "first": "2026-10-21T18:05:29.777725+00:00",
+   "sources": {
+    "GPblog": "2026-10-21T18:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "'Hamilton needs to stop behaving like this and integrate himself into the team'"
+   },
+   "last": "2026-10-21T18:05:29.777729+00:00"
   }
  },
- "story_seq": 334,
+ "story_seq": 337,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4223,7 +4224,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T17:55:24.756698+00:00",
- "last_digest": "2026-10-21T17:35:29.999267+00:00",
+ "last_run": "2026-10-21T18:05:26.263959+00:00",
+ "last_digest": "2026-10-21T18:05:34.184978+00:00",
  "last_digest_key": "9b0e7506d2622519f29eb84811722990d7f15fee"
 }
