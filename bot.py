@@ -67,9 +67,15 @@ For EVERY new item return one JSON object with:
     3-4 = minor quotes, previews, routine updates
     1-2 = filler, opinion pieces, listicles, quizzes, betting, merchandise,
           or NOT about Formula 1 (other series, road cars, other sports)
-- "story": the id of the tracked story this item is about (e.g. "S12"), or a new label
-  "N1", "N2", ... if it is a new story. Items in this list about the same new story share the same N label.
-  Different angles or reactions to the same event belong to the same story.
+- "story": the id of a tracked story (e.g. "S12") ONLY if this item reports the SAME specific news:
+  the same event, announcement, decision or result, or the same statement by the same person on the
+  same subject. Otherwise give a new label "N1", "N2", ... Items in this list that report the same
+  new news share the same N label.
+  These are DIFFERENT stories even when they share a driver, team or topic: statements by different
+  people (e.g. one driver's comment and another driver's comment on the same issue), different claims
+  or revelations from the same book, interview or press conference, an analysis, column or opinion
+  piece versus the news itself, a preview versus a result, a new development versus older news.
+  When unsure, treat it as a new story: a missed news item is worse than a near-duplicate.
 - "title": for a new story, a short neutral English label of max 12 words; otherwise ""
 - "update": true only if the story is marked [posted] AND this item adds a significant new
   development (official confirmation, verdict, new key fact); otherwise false
@@ -87,16 +93,20 @@ Haber metni:
 </metin>
 
 Kurallar:
-1. Haberi gerektiği kadar özetle: basit bir haberse 1-2 cümle, detaylı bir haberse önemli bilgilerin
-   hepsini içeren kısa bir paragraf (en fazla yaklaşık 700 karakter).
-2. Sadece metinde yazanlara tamamen sadık kal. Metinde olmayan bilgi, yorum veya tahmin ekleme.
+1. "title_tr": haberin özünü veren kısa bir Türkçe başlık (en fazla yaklaşık 10 kelime). Haberi
+   olduğu gibi söylesin; merak uyandırmak için bilgiyi saklama, abartma, emoji kullanma.
+2. "post_tr": haberin Türkçe özeti, başlığın altına gelecek. Başlığı aynen tekrar etme. Basit bir
+   haberse 1-2 cümle, detaylı bir haberse en önemli bilgileri içeren kısa bir paragraf
+   (en fazla yaklaşık 500 karakter). Önemli bilgileri atma ama ikinci planda kalan arka plan
+   bilgilerini ve tekrarları çıkar.
+3. Sadece metinde yazanlara tamamen sadık kal. Metinde olmayan bilgi, yorum veya tahmin ekleme.
    Metin sadece bir başlıktan ibaretse sadece başlıktaki bilgiyi aktar.
-3. Haberde önemli bir demeç varsa en önemli kısmını anlamını değiştirmeden Türkçeye çevir ve
-   kimin söylediğini belirterek tırnak içinde ekle. Sadece metinde geçen sözleri kullan.
-4. Metin "🚨 | " ile başlasın. Hashtag, link veya kaynak satırı ekleme.
-5. "official": haber resmi bir duyuru ya da resmi açıklamaysa (takım, FIA, F1, mahkeme vb. tarafından
+4. Haberde önemli bir demeç varsa en önemli kısmını anlamını değiştirmeden Türkçeye çevir ve
+   kimin söylediğini belirterek özete tırnak içinde ekle. Sadece metinde geçen sözleri kullan.
+5. Hashtag, emoji, link veya kaynak satırı ekleme.
+6. "official": haber resmi bir duyuru ya da resmi açıklamaysa (takım, FIA, F1, mahkeme vb. tarafından
    resmen açıklanmış) true, değilse false.
-Sadece JSON döndür: {"post_tr": "...", "official": true}"""
+Sadece JSON döndür: {"title_tr": "...", "post_tr": "...", "official": true}"""
 
 
 # ---------------------------------------------------------------- helpers
@@ -376,7 +386,7 @@ def extract_json(text, opener):
     raise ValueError("JSON bulunamadı: " + text[:200])
 
 
-def triage(client, model, items, stories, effort="low"):
+def triage(client, model, items, stories, effort="low", tag="a"):
     """Her haber için puan, hikaye ve gelişme bilgisini döndürür."""
     recent = sorted(stories.items(), key=lambda kv: kv[1]["last"], reverse=True)[:80]
     story_txt = "\n".join(f'{sid} {"[posted] " if s["posted"] else ""}{s["title"]}'
@@ -396,7 +406,7 @@ def triage(client, model, items, stories, effort="low"):
                     "title": (d.get("title") or "").strip(),
                     "update": bool(d.get("update", False)),
                     "f1": bool(d.get("f1", int(d.get("score", 1)) >= 3)),
-                    "chunk": c,
+                    "chunk": f"{tag}{c}",
                 }
     return results
 
@@ -446,13 +456,17 @@ def select(items, state, s):
         cur = best.get(it["story"])
         if cur is None or (it["score"], -it["priority"]) > (cur["score"], -cur["priority"]):
             best[it["story"]] = it
-    chosen = sorted(best.values(), key=lambda x: (x["time"] or now()))  # eskiden yeniye
-    return chosen[: s.get("max_posts_per_run", 40)]
+    return sorted(best.values(), key=lambda x: (x["time"] or now()))  # eskiden yeniye
 
 
 def fix_prefix(s):
     s = (s or "").strip()
     return s if s.startswith(PREFIX) else PREFIX + s.lstrip("🚨| ").strip()
+
+
+def tr_upper(s):
+    """Türkçe büyük harf: i -> İ, ı -> I (Python'un upper() fonksiyonu i'yi I yapar)."""
+    return s.replace("i", "İ").replace("ı", "I").upper()
 
 
 def article_text(it):
@@ -474,7 +488,10 @@ def write_post(client, model, it, effort="medium"):
     prompt = (WRITE_PROMPT.replace("<<SOURCE>>", it["source"])
               .replace("<<TITLE>>", it["title"]).replace("<<TEXT>>", text))
     data = extract_json(ask_claude(client, model, prompt, 3000, effort=effort, thinking=False), "{")
-    data["post_tr"] = fix_prefix(data.get("post_tr"))
+    body = (data.get("post_tr") or "").strip().lstrip("🚨| ").strip()
+    title = (data.get("title_tr") or "").strip().lstrip("🚨| ").strip().rstrip(".")
+    # Paylaşım metni: "🚨 | BÜYÜK HARFLİ BAŞLIK", boş satır, özet
+    data["post_tr"] = f"{PREFIX}{tr_upper(title)}\n\n{body}" if title else fix_prefix(body)
     return data
 
 
@@ -648,16 +665,32 @@ def process(cfg, state):
         return
 
     client = Anthropic()
+    t_effort = s.get("triage_effort", "low")
     try:
-        tri = triage(client, model, fresh, state["stories"], s.get("triage_effort", "low"))
+        tri = triage(client, model, fresh, state["stories"], t_effort)
     except Exception as e:
         for it in fresh:  # kaybolmasın, sonraki çalışmada tekrar denensin
             state["seen"].pop(it["id"], None)
         alert(state, f"Haber puanlama başarısız: {e}")
         return
+    missing = [it for it in fresh if it["id"] not in tri]
+    if missing:  # model bazı haberleri cevapsız bıraktıysa onları bir kez daha sor
+        log(f"Puanlamada atlanan {len(missing)} haber tekrar soruluyor")
+        try:
+            tri.update(triage(client, model, missing, state["stories"], t_effort, tag="b"))
+        except Exception as e:
+            log(f"Tekrar puanlama başarısız: {e}")
+    for it in fresh:
+        if it["id"] not in tri:  # yine cevap yoksa kaybolmasın, sonraki çalışmada tekrar denensin
+            state["seen"].pop(it["id"], None)
+            log(f"  puanlanamadı, sonra denenecek: [{it['source']}] {it['title'][:80]}")
     assign_stories(state, fresh, tri)
 
     chosen = select(fresh, state, s)
+    cap = s.get("max_posts_per_run", 40)
+    for it in chosen[cap:]:  # sınırı aşanlar kaybolmasın, sonraki çalışmada gönderilsin
+        state["seen"].pop(it["id"], None)
+    chosen = chosen[:cap]
     log(f"Seçilen: {len(chosen)}")
     effort = s.get("write_effort", "medium")
 
