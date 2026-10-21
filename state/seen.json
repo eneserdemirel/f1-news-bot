@@ -1107,7 +1107,9 @@
   "3e3cedd16431be3c": "2026-10-21T12:44:41.249899+00:00",
   "1baa8cfd5ecff539": "2026-10-21T12:54:44.497371+00:00",
   "f9f83e37bd095c7a": "2026-10-21T12:54:44.497371+00:00",
-  "b850aeb26970020b": "2026-10-21T13:04:46.145183+00:00"
+  "b850aeb26970020b": "2026-10-21T13:04:46.145183+00:00",
+  "54848f9115ffecb4": "2026-10-21T13:15:05.252372+00:00",
+  "8cb6a07b627aa702": "2026-10-21T13:15:05.252372+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3680,9 +3682,35 @@
     "Motorsport-Total": "Red Bull setzt auf KI: Wie Oracle die Rennstrategie verändert - Motorsport-Total.com"
    },
    "last": "2026-10-21T13:04:48.495011+00:00"
+  },
+  "S289": {
+   "title": "Austin circuit responds to Verstappen's 'new backbone' bumps joke",
+   "first": "2026-10-21T13:15:09.558139+00:00",
+   "sources": {
+    "GPblog": "2026-10-21T12:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Austin addressed after Verstappen joked about ordering a ‘new backbone’"
+   },
+   "last": "2026-10-21T13:15:09.558156+00:00"
+  },
+  "S290": {
+   "title": "Mercedes warns Red Bull and Ferrari of a real fight ahead",
+   "first": "2026-10-21T13:15:09.558162+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-21T13:05:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mercedes warnt vor Red Bull und Ferrari: \"Ein echter Kampf\" steht bevor - Motorsport-Total.com"
+   },
+   "last": "2026-10-21T13:15:09.558167+00:00"
   }
  },
- "story_seq": 288,
+ "story_seq": 290,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3801,7 +3829,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T13:04:46.145183+00:00",
+ "last_run": "2026-10-21T13:15:05.252372+00:00",
  "last_digest": "2026-10-21T13:04:50.448642+00:00",
  "last_digest_key": "1b11b878f875ce82df6babf8bda0e91d3696b584"
 }
