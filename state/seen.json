@@ -994,7 +994,26 @@
   "e755043e95ba0d8c": "2026-10-21T09:29:34.566416+00:00",
   "18da6fa683753ca6": "2026-10-21T09:29:34.566416+00:00",
   "4660c09f25c36e74": "2026-10-21T09:29:34.566416+00:00",
-  "4cc728c61824f84f": "2026-10-21T09:29:34.566416+00:00"
+  "4cc728c61824f84f": "2026-10-21T09:29:34.566416+00:00",
+  "7eaac46447e4c72d": "2026-10-21T10:04:44.371759+00:00",
+  "a7dc26533bac14ed": "2026-10-21T10:04:44.371759+00:00",
+  "324441aa0cce9007": "2026-10-21T10:04:44.371759+00:00",
+  "3f488951aa86afab": "2026-10-21T10:04:44.371759+00:00",
+  "e25c59c4de522904": "2026-10-21T10:04:44.371759+00:00",
+  "63964815f19e0161": "2026-10-21T10:04:44.371759+00:00",
+  "387fdaec3b7bf77b": "2026-10-21T10:04:44.371759+00:00",
+  "a475b5476af8ec20": "2026-10-21T10:04:44.371759+00:00",
+  "47df030b210a3920": "2026-10-21T10:04:44.371759+00:00",
+  "959c1fea3bffa365": "2026-10-21T10:04:44.371759+00:00",
+  "37e96762ec566117": "2026-10-21T10:04:44.371759+00:00",
+  "6cfcea5d776a0cbf": "2026-10-21T10:04:44.371759+00:00",
+  "cce20710d9bd9406": "2026-10-21T10:04:44.371759+00:00",
+  "0c0e90c2980b406e": "2026-10-21T10:04:44.371759+00:00",
+  "7177fed5cebb8443": "2026-10-21T10:04:44.371759+00:00",
+  "84740fe0e988159b": "2026-10-21T10:04:44.371759+00:00",
+  "a86c4c8b380f0a60": "2026-10-21T10:04:44.371759+00:00",
+  "76dd43a2b0ab593f": "2026-10-21T10:04:44.371759+00:00",
+  "299fc9733169ae80": "2026-10-21T10:04:44.371759+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1011,7 +1030,8 @@
   "AS": "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/motor/subsection/formula_1/",
   "Formula 1": "https://www.formula1.com/en/latest/all.xml",
   "Crash.net": "https://www.crash.net/rss/f1",
-  "FormulaPassion": "https://www.formulapassion.it/category/f1/feed/"
+  "FormulaPassion": "https://www.formulapassion.it/category/f1/feed/",
+  "PlanetF1": "https://www.planetf1.com/rss"
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
@@ -1034,17 +1054,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-20T04:29:20.161016+00:00"
-  },
-  "S27": {
-   "title": "Haas signs Rafael Camara for 2027",
-   "first": "2026-10-18T21:41:51.150669+00:00",
-   "sources": {
-    "Formula 1": "2026-10-18T21:41:51.150671+00:00",
-    "GPblog": "2026-10-19T09:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T09:38:57.386077+00:00"
   },
   "S57": {
    "title": "Analysis of Kimi Antonelli's 2026 title permutations before US GP",
@@ -1230,16 +1239,6 @@
     "AS": "Tregua entre Aston y Honda hasta la esperada evolución de 2027",
     "Motorsport Week": "Fernando Alonso calls for Honda investigation amid ongoing complaints"
    }
-  },
-  "S90": {
-   "title": "Vasseur says top four teams remain tightly grouped, not Red Bull alone",
-   "first": "2026-10-19T09:38:57.386032+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T09:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T09:38:57.386050+00:00"
   },
   "S91": {
    "title": "Norris accepts McLaren directives after Singapore clash with Piastri",
@@ -3037,14 +3036,16 @@
    "title": "Mercedes quote on pit stops, context unclear",
    "first": "2026-10-21T04:51:06.958951+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-21T04:31:04+00:00"
+    "Motorsport-Total": "2026-10-21T04:31:04+00:00",
+    "Crash.net": "2026-10-21T09:54:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Mercedes: \"Leute, die seit 15 Jahren keinen Boxenstopp gemacht hatten\" - Motorsport-Total.com"
+    "Motorsport-Total": "Mercedes: \"Leute, die seit 15 Jahren keinen Boxenstopp gemacht hatten\" - Motorsport-Total.com",
+    "Crash.net": "Mercedes crew for Singapore GP hadn't done a pit stop \"for 15 years\", team claims"
    },
-   "last": "2026-10-21T04:51:06.958956+00:00"
+   "last": "2026-10-21T10:04:51.868280+00:00"
   },
   "S233": {
    "title": "Norris says his new status gives his voice more weight",
@@ -3093,14 +3094,14 @@
    "title": "Norris reportedly makes bid for F2 entry",
    "first": "2026-10-21T06:38:17.264195+00:00",
    "sources": {
-    "PlanetF1": "2026-10-21T06:01:33+00:00"
+    "PlanetF1": "2026-10-21T05:58:30+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Update as Norris makes F2 entry bid"
    },
-   "last": "2026-10-21T06:38:17.264201+00:00"
+   "last": "2026-10-21T10:04:51.868264+00:00"
   },
   "S237": {
    "title": "Italian government considers Sepang returning to F1 calendar",
@@ -3269,9 +3270,113 @@
     "Crash.net": "Christian Horner blames Helmut Marko for Red Bull junior failures"
    },
    "last": "2026-10-21T09:29:42.643782+00:00"
+  },
+  "S249": {
+   "title": "Honda to reach major F1 milestone at US Grand Prix",
+   "first": "2026-10-21T10:04:51.868202+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-21T09:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Honda to reach major F1 milestone at 'demanding' US Grand Prix"
+   },
+   "last": "2026-10-21T10:04:51.868220+00:00"
+  },
+  "S250": {
+   "title": "Palmer predicts Verstappen and Red Bull on 2027 front row",
+   "first": "2026-10-21T10:04:51.868226+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-21T09:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen en Red Bull krijgen plaats op eerste rij voor 2027"
+   },
+   "last": "2026-10-21T10:04:51.868231+00:00"
+  },
+  "S251": {
+   "title": "Verstappen clarifies stance on Qatar and Abu Dhabi races",
+   "first": "2026-10-21T10:04:51.868235+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-21T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Max Verstappen issues clear message on F1 racing in Middle East"
+   },
+   "last": "2026-10-21T10:04:51.868239+00:00"
+  },
+  "S252": {
+   "title": "Horner jabs at Guenther Steiner over Drive to Survive fame",
+   "first": "2026-10-21T10:04:51.868242+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T09:37:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Christian Horner takes a jab at Guenther Steiner over his Drive to Survive fame"
+   },
+   "last": "2026-10-21T10:04:51.868246+00:00"
+  },
+  "S253": {
+   "title": "Verstappen jokes about COTA bumps and new spine",
+   "first": "2026-10-21T10:04:51.868248+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T08:02:48+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen raises COTA concerns with ‘new spine’ jibe"
+   },
+   "last": "2026-10-21T10:04:51.868252+00:00"
+  },
+  "S254": {
+   "title": "FIA president wants V8 engine rules decided within months",
+   "first": "2026-10-21T10:04:51.868255+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T07:03:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA president targets V8 engine rules decision within months"
+   },
+   "last": "2026-10-21T10:04:51.868258+00:00"
+  },
+  "S255": {
+   "title": "Horner book claims secret Hamilton meeting before Red Bull talk",
+   "first": "2026-10-21T10:04:51.868266+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T05:10:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘Secret’ Lewis Hamilton meeting in new Christian Horner book claim"
+   },
+   "last": "2026-10-21T10:04:51.868270+00:00"
+  },
+  "S256": {
+   "title": "Antonelli plans risky title celebration if he wins",
+   "first": "2026-10-21T10:04:51.868272+00:00",
+   "sources": {
+    "GPFans": "2026-10-21T09:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Kimi Antonelli reveals risky plan for F1 title celebrations: 'You need to have big balls to do that'"
+   },
+   "last": "2026-10-21T10:04:51.868276+00:00"
   }
  },
- "story_seq": 248,
+ "story_seq": 256,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3390,7 +3495,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T09:29:34.566416+00:00",
- "last_digest": "2026-10-21T09:29:47.761328+00:00",
- "last_digest_key": "56190b9584b1c03fad332f9664010f4b860cb0b7"
+ "last_run": "2026-10-21T10:04:44.371759+00:00",
+ "last_digest": "2026-10-21T10:05:03.649949+00:00",
+ "last_digest_key": "11544121bd034d918aaeb93c174eb90366da1037"
 }
