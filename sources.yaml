@@ -77,7 +77,7 @@ sources:
   - name: PlanetF1
     handle: "@Planet_F1"           # doğrula
     site: https://www.planetf1.com
-    feeds: [https://www.planetf1.com/feed]
+    feeds: [https://www.planetf1.com/rss]          # eski /feed adresi 404 veriyor
 
   - name: GPblog
     handle: "@GPblog"              # doğrula
