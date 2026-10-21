@@ -1152,7 +1152,10 @@
   "9ab39fbfc133ddb0": "2026-10-21T14:54:44.135086+00:00",
   "9dd6e53a0166bf47": "2026-10-21T15:04:46.913440+00:00",
   "1f7aff1d4f5c4401": "2026-10-21T15:04:46.913440+00:00",
-  "1d2d992b9c4e4f0b": "2026-10-21T15:04:46.913440+00:00"
+  "1d2d992b9c4e4f0b": "2026-10-21T15:04:46.913440+00:00",
+  "35ff0324cbe57923": "2026-10-21T15:14:44.067208+00:00",
+  "08b3b5e67f265dc8": "2026-10-21T15:14:44.067208+00:00",
+  "ebce10458ae6e606": "2026-10-21T15:14:44.067208+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1461,46 +1464,6 @@
    "posted": true,
    "alerted": false,
    "last": "2026-10-19T15:50:15.055851+00:00"
-  },
-  "S126": {
-   "title": "Formula E CEO open to Verstappen partnership talks",
-   "first": "2026-10-19T15:06:23.381951+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T14:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T15:06:23.381998+00:00"
-  },
-  "S127": {
-   "title": "Mansell recalls being given last rites after karting crash",
-   "first": "2026-10-19T15:06:23.382024+00:00",
-   "sources": {
-    "GPblog": "2026-10-19T14:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T15:06:23.382029+00:00"
-  },
-  "S128": {
-   "title": "Antonelli outside top three in unofficial sprint standings",
-   "first": "2026-10-19T15:06:23.382037+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-19T14:54:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T15:06:23.382041+00:00"
-  },
-  "S129": {
-   "title": "Motorsport-Total Formel 1 history section index page",
-   "first": "2026-10-19T15:06:23.382044+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-19T14:37:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T15:06:23.382047+00:00"
   },
   "S130": {
    "title": "Wolff takes blame for Hamilton-Rosberg micromanagement",
@@ -3743,14 +3706,16 @@
    "title": "Watanabe explains why Honda rotates technicians across roles",
    "first": "2026-10-21T14:14:43.441305+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-10-21T14:00:54+00:00"
+    "Motorsport.com Italia": "2026-10-21T14:00:54+00:00",
+    "Motorsport-Total": "2026-10-21T15:09:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Watanabe: \"Ecco perché Honda ruota i propri tecnici cambiandone spesso le mansioni\""
+    "Motorsport.com Italia": "F1 | Watanabe: \"Ecco perché Honda ruota i propri tecnici cambiandone spesso le mansioni\"",
+    "Motorsport-Total": "Warum Honda seine Formel-1-Ingenieure immer wieder austauscht - Motorsport-Total.com"
    },
-   "last": "2026-10-21T14:14:43.441322+00:00"
+   "last": "2026-10-21T15:14:47.599448+00:00"
   },
   "S296": {
    "title": "Jos Verstappen coaching grandchildren as future drivers",
@@ -3883,9 +3848,35 @@
     "Motorsport.com Italia": "Hockenheim in trattativa con la F1 nonostante finanziamenti pubblici \"praticamente pari a zero\""
    },
    "last": "2026-10-21T15:04:51.143768+00:00"
+  },
+  "S306": {
+   "title": "F1 and Leica team up on £7300 camera",
+   "first": "2026-10-21T15:14:47.599414+00:00",
+   "sources": {
+    "The Race": "2026-10-21T15:08:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 and Leica team up to release a £7300 camera"
+   },
+   "last": "2026-10-21T15:14:47.599431+00:00"
+  },
+  "S307": {
+   "title": "Antonelli hand-washes his car to relax before races",
+   "first": "2026-10-21T15:14:47.599437+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-21T15:09:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi Antonelli, il segreto per staccare dalla F1? Lavare l'auto a mano: \"Mi rilassa prima delle gare\""
+   },
+   "last": "2026-10-21T15:14:47.599443+00:00"
   }
  },
- "story_seq": 305,
+ "story_seq": 307,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4004,7 +3995,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T15:04:46.913440+00:00",
+ "last_run": "2026-10-21T15:14:44.067208+00:00",
  "last_digest": "2026-10-21T15:04:54.237547+00:00",
  "last_digest_key": "6513585da39cab022d7cccec0438ac38ec35bc1d"
 }
