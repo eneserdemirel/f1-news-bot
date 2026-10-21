@@ -1015,7 +1015,8 @@
   "76dd43a2b0ab593f": "2026-10-21T10:04:44.371759+00:00",
   "299fc9733169ae80": "2026-10-21T10:04:44.371759+00:00",
   "65d4e8aa8b564c75": "2026-10-21T10:15:00.537499+00:00",
-  "dc535b8c00b707ee": "2026-10-21T10:15:00.537499+00:00"
+  "dc535b8c00b707ee": "2026-10-21T10:15:00.537499+00:00",
+  "cdfd5164ce248443": "2026-10-21T10:24:44.465184+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1104,18 +1105,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T11:28:00.388679+00:00"
-  },
-  "S65": {
-   "title": "Tom Hart named Verstappen's new Red Bull race engineer",
-   "first": "2026-10-19T05:52:15.085512+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T05:25:00+00:00",
-    "RacingNews365 NL": "2026-10-19T07:30:00+00:00",
-    "PlanetF1": "2026-10-19T09:52:54+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T10:17:05.465831+00:00"
   },
   "S66": {
    "title": "Horner claims Mercedes wanted him before signing Wolff",
@@ -1271,16 +1260,6 @@
     "GPblog": "Verstappen debriefs adventure: 'That made me more nervous than driving in F1'"
    }
   },
-  "S93": {
-   "title": "Alonso says Honda deserves another chance in F1",
-   "first": "2026-10-19T10:17:05.465812+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T10:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T10:17:05.465816+00:00"
-  },
   "S94": {
    "title": "Iker Lecuona replaces injured Aldeguer at Australian MotoGP",
    "first": "2026-10-19T10:17:05.465823+00:00",
@@ -1291,36 +1270,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T10:54:43.202994+00:00"
-  },
-  "S95": {
-   "title": "Bortolotti faces disqualification risk, Grasser keeps second place",
-   "first": "2026-10-19T10:17:05.465838+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-19T09:54:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T10:17:05.465841+00:00"
-  },
-  "S96": {
-   "title": "Fiat launches Koala sister model to electric Ente",
-   "first": "2026-10-19T10:17:05.465856+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-19T10:07:54+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T10:17:05.465859+00:00"
-  },
-  "S97": {
-   "title": "Skoda releases 3D-printable accessory templates for models",
-   "first": "2026-10-19T10:17:05.465861+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-19T10:02:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T10:17:05.465864+00:00"
   },
   "S98": {
    "title": "Origins of the Hamilton-Verstappen rivalry explained",
@@ -2578,15 +2527,17 @@
    "first": "2026-10-20T13:16:21.520862+00:00",
    "sources": {
     "GPblog": "2026-10-20T13:00:00+00:00",
-    "FormulaPassion": "2026-10-21T09:00:00+00:00"
+    "FormulaPassion": "2026-10-21T09:00:00+00:00",
+    "Sky Sports F1": "2026-10-21T10:09:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Antonelli and Russell to use same package at COTA as championship leader gets first match point",
-    "FormulaPassion": "Wolff: “In Texas con entrambe le Mercedes aggiornate, i rivali stanno crescendo non possiamo restare fermi”"
+    "FormulaPassion": "Wolff: “In Texas con entrambe le Mercedes aggiornate, i rivali stanno crescendo non possiamo restare fermi”",
+    "Sky Sports F1": "Mercedes confirm car plans for US GP after unusual Singapore split"
    },
-   "last": "2026-10-21T09:29:42.643793+00:00"
+   "last": "2026-10-21T10:24:48.117258+00:00"
   },
   "S202": {
    "title": "MotoGP bikes to hold demonstration laps at F1 US Grand Prix",
@@ -3512,7 +3463,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T10:15:00.537499+00:00",
+ "last_run": "2026-10-21T10:24:44.465184+00:00",
  "last_digest": "2026-10-21T10:05:03.649949+00:00",
  "last_digest_key": "11544121bd034d918aaeb93c174eb90366da1037"
 }
