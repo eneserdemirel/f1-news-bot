@@ -1147,7 +1147,9 @@
   "7ee0e1192c090b4b": "2026-10-21T14:34:59.153901+00:00",
   "9727b33e5b97b576": "2026-10-21T14:45:03.532408+00:00",
   "6ef0ae1f9f55ea68": "2026-10-21T14:45:03.532408+00:00",
-  "32bdf193e3bffaba": "2026-10-21T14:45:03.532408+00:00"
+  "32bdf193e3bffaba": "2026-10-21T14:45:03.532408+00:00",
+  "ad53a8df1c7147f8": "2026-10-21T14:54:44.135086+00:00",
+  "9ab39fbfc133ddb0": "2026-10-21T14:54:44.135086+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3837,9 +3839,35 @@
     "GPblog": "Toto Wolff makes surprising admission about Lewis Hamilton's influence"
    },
    "last": "2026-10-21T14:45:07.272538+00:00"
+  },
+  "S303": {
+   "title": "Feature on how F1 drivers and strategists tackle COTA",
+   "first": "2026-10-21T14:54:46.837738+00:00",
+   "sources": {
+    "Formula 1": "2026-10-21T14:54:46.837753+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How F1 drivers and strategists tackle the Circuit of The Americas"
+   },
+   "last": "2026-10-21T14:54:46.837756+00:00"
+  },
+  "S304": {
+   "title": "Verstappen and Red Bull aim at McLaren ahead of US GP",
+   "first": "2026-10-21T14:54:46.837761+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-21T14:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen richt met Red Bull pijlen op McLaren"
+   },
+   "last": "2026-10-21T14:54:46.837767+00:00"
   }
  },
- "story_seq": 302,
+ "story_seq": 304,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3958,7 +3986,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T14:45:03.532408+00:00",
+ "last_run": "2026-10-21T14:54:44.135086+00:00",
  "last_digest": "2026-10-21T14:35:08.499251+00:00",
  "last_digest_key": "e872ec04fcf0fda3f374e72d8cbc5f00eed62de8"
 }
