@@ -1208,7 +1208,11 @@
   "bb0d53105b7c68a4": "2026-10-21T19:55:24.078606+00:00",
   "279c718cd24f0dad": "2026-10-21T20:05:45.772768+00:00",
   "bb051c62f92f0d53": "2026-10-21T20:05:45.772768+00:00",
-  "c0d383e6c5e9164c": "2026-10-21T20:05:45.772768+00:00"
+  "c0d383e6c5e9164c": "2026-10-21T20:05:45.772768+00:00",
+  "8e1dca3f2303ec81": "2026-10-21T20:15:53.117230+00:00",
+  "a037e0ec93d1436a": "2026-10-21T20:15:53.117230+00:00",
+  "e8a5a6d70b4ac55a": "2026-10-21T20:15:53.117230+00:00",
+  "3e68666c3bb84fc4": "2026-10-21T20:15:53.117230+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2375,7 +2379,7 @@
     "RacingNews365": "FIA president disputes Middle East 'risk' as F1 decision looms",
     "GPFans": "FIA president defiant over ending 2026 F1 season in Abu Dhabi"
    },
-   "last": "2026-10-21T19:25:28.185603+00:00"
+   "last": "2026-10-21T20:15:59.701722+00:00"
   },
   "S212": {
    "title": "Pirelli says Austin resurfacing shifts focus to tyre wear",
@@ -4159,10 +4163,36 @@
    "titles": {
     "GPblog": "FIA sets out 2028 U-turn on controversial F1 race distance change"
    },
-   "last": "2026-10-21T20:05:49.710179+00:00"
+   "last": "2026-10-21T20:15:59.701713+00:00"
+  },
+  "S344": {
+   "title": "Ferrari unveils one-off 'blueprint' livery for Texas race",
+   "first": "2026-10-21T20:15:59.701683+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-21T20:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Ferrari unveil fresh F1 livery in special one-off 'blueprint' design"
+   },
+   "last": "2026-10-21T20:15:59.701704+00:00"
+  },
+  "S345": {
+   "title": "Son of F1 veteran dreams of showdown with Verstappen",
+   "first": "2026-10-21T20:15:59.701726+00:00",
+   "sources": {
+    "GPblog": "2026-10-21T18:04:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Son of F1 veteran dreams of a showdown with Verstappen"
+   },
+   "last": "2026-10-21T20:15:59.701732+00:00"
   }
  },
- "story_seq": 343,
+ "story_seq": 345,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4281,7 +4311,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T20:05:45.772768+00:00",
+ "last_run": "2026-10-21T20:15:53.117230+00:00",
  "last_digest": "2026-10-21T20:05:55.871281+00:00",
  "last_digest_key": "9b0e7506d2622519f29eb84811722990d7f15fee"
 }
