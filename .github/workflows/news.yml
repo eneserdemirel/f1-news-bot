@@ -1,12 +1,16 @@
 name: F1 News Bot
 
+# GitHub'ın zamanlayıcısı sık aralıklarda güvenilir değil (10 dk yerine 30-50 dk'da bir tetikliyordu).
+# Bu yüzden bot tek bir iş içinde ~5,5 saat boyunca döngüde çalışır ve her turda sources.yaml'daki
+# aralığa göre bekler (normalde 10 dk, yarış haftasonunda 5 dk). Zamanlayıcı sadece döngü bitince
+# yenisini başlatmak için var: aynı anda tek döngü çalışır, yenisi sırada bekler.
 on:
   schedule:
-    - cron: "*/5 * * * *"    # 5 dakikada bir uyanır; gate.py normal günlerde 20 dakikada bir çalıştırır
+    - cron: "*/30 * * * *"
   workflow_dispatch:          # elle çalıştırma
     inputs:
       mode:
-        description: "run = normal, test = kaynak testi + örnek özet"
+        description: "run = normal (döngü), test = kaynak testi + örnek özet"
         type: choice
         options: [run, test]
         default: run
@@ -15,44 +19,52 @@ permissions:
   contents: write
 
 concurrency:
-  group: f1-news-bot
+  group: f1-news-bot-${{ github.event.inputs.mode == 'test' && 'test' || 'loop' }}
   cancel-in-progress: false
 
 jobs:
   bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 350
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Çalışma zamanı kontrolü
-        id: gate
-        run: python3 gate.py
-
       - uses: actions/setup-python@v5
-        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
           cache: pip
 
-      - if: steps.gate.outputs.run == 'true'
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
-      - name: Botu çalıştır
-        if: steps.gate.outputs.run == 'true'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python bot.py --mode "${{ github.event.inputs.mode || 'run' }}"
+      - name: Kaynak testi
+        if: github.event.inputs.mode == 'test'
+        run: python bot.py --mode test
 
-      - name: Görülen haberleri kaydet
-        if: always() && steps.gate.outputs.run == 'true'
+      - name: Botu döngüde çalıştır
+        if: github.event.inputs.mode != 'test'
         run: |
           git config user.name "f1-news-bot"
           git config user.email "f1-news-bot@users.noreply.github.com"
-          git add state/
-          git diff --cached --quiet && exit 0
-          git commit -m "Update seen state"
-          git pull --rebase
-          git push
+          end=$(( $(date +%s) + 320 * 60 ))
+          while true; do
+            start=$(date +%s)
+            git pull --rebase --quiet || { git rebase --abort 2>/dev/null; echo "git pull başarısız"; }
+            python bot.py --mode run || echo "Bot bu turda hata verdi, sonraki turda tekrar denenecek"
+            git add state/
+            if ! git diff --cached --quiet; then
+              git commit --quiet -m "Update seen state"
+              { git pull --rebase --quiet && git push --quiet; } || { git rebase --abort 2>/dev/null; echo "Kayıt gönderilemedi, sonraki turda tekrar denenecek"; }
+            fi
+            interval=$(python3 gate.py || echo 10)
+            next=$(( start + interval * 60 ))
+            if [ "$next" -ge "$end" ]; then break; fi
+            wait=$(( next - $(date +%s) ))
+            if [ "$wait" -gt 0 ]; then
+              echo "Sonraki kontrol $interval dk aralıkla, $wait sn sonra"
+              sleep "$wait"
+            fi
+          done
