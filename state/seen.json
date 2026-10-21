@@ -1157,7 +1157,10 @@
   "08b3b5e67f265dc8": "2026-10-21T15:14:44.067208+00:00",
   "ebce10458ae6e606": "2026-10-21T15:14:44.067208+00:00",
   "f50482066e4d7a85": "2026-10-21T15:15:48.451402+00:00",
-  "25b398b5bee0e807": "2026-10-21T15:15:48.451402+00:00"
+  "25b398b5bee0e807": "2026-10-21T15:15:48.451402+00:00",
+  "19e8900f6a79fb5e": "2026-10-21T15:25:27.651500+00:00",
+  "bf6b7dfd0c3da6fc": "2026-10-21T15:25:27.651500+00:00",
+  "82a8e392d7f83500": "2026-10-21T15:25:27.651500+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3889,9 +3892,48 @@
     "GPFans": "Snubbed F1 track set to host historic race for rival series"
    },
    "last": "2026-10-21T15:15:52.132510+00:00"
+  },
+  "S309": {
+   "title": "Verstappen hotlap video at Circuit of the Americas",
+   "first": "2026-10-21T15:25:30.890056+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-21T15:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Zien: Hotlap 'Max Verstappen' op circuit Verenigde Staten"
+   },
+   "last": "2026-10-21T15:25:30.890078+00:00"
+  },
+  "S310": {
+   "title": "Vasseur wants another solid Ferrari performance at Austin",
+   "first": "2026-10-21T15:25:30.890084+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-21T15:06:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “Ad Austin vogliamo un’altra prestazione solida, sfruttiamo al massimo la SF-26”"
+   },
+   "last": "2026-10-21T15:25:30.890090+00:00"
+  },
+  "S311": {
+   "title": "Motorsport-Total item with no readable content",
+   "first": "2026-10-21T15:25:30.890094+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-21T14:33:17+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-10-21T15:25:30.890099+00:00"
   }
  },
- "story_seq": 308,
+ "story_seq": 311,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4010,7 +4052,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T15:15:48.451402+00:00",
+ "last_run": "2026-10-21T15:25:27.651500+00:00",
  "last_digest": "2026-10-21T15:04:54.237547+00:00",
  "last_digest_key": "6513585da39cab022d7cccec0438ac38ec35bc1d"
 }
