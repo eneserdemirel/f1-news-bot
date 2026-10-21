@@ -1134,7 +1134,12 @@
   "07e6b25deaabbf16": "2026-10-21T14:05:07.035507+00:00",
   "6905e709beb81fd8": "2026-10-21T14:05:07.035507+00:00",
   "ebe7b1f7c8e04e42": "2026-10-21T14:05:07.035507+00:00",
-  "cdd343b5253e6f33": "2026-10-21T14:14:40.908141+00:00"
+  "cdd343b5253e6f33": "2026-10-21T14:14:40.908141+00:00",
+  "1f940a190d1811d4": "2026-10-21T14:24:41.351701+00:00",
+  "637bdfdbc4daaea6": "2026-10-21T14:24:41.351701+00:00",
+  "7fb44871ca237ada": "2026-10-21T14:24:41.351701+00:00",
+  "8147156e85974a11": "2026-10-21T14:24:41.351701+00:00",
+  "32ad86ec09e1a893": "2026-10-21T14:24:41.351701+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1261,19 +1266,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T18:42:47.101844+00:00"
-  },
-  "S81": {
-   "title": "Mercedes clarifies W17 upgrade decision for US Grand Prix",
-   "first": "2026-10-19T08:14:14.025648+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-19T07:26:11+00:00",
-    "Motorsport-Total": "2026-10-19T09:41:04+00:00",
-    "RacingNews365": "2026-10-19T11:50:00+00:00",
-    "GPFans": "2026-10-19T14:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T14:22:01.836702+00:00"
   },
   "S83": {
    "title": "Wolff says rival competition worries him more than Ferrari or Red Bull",
@@ -1446,16 +1438,6 @@
    "alerted": false,
    "last": "2026-10-19T16:58:00.070867+00:00"
   },
-  "S121": {
-   "title": "F1 fan contest offering Las Vegas VIP trip",
-   "first": "2026-10-19T14:22:01.836619+00:00",
-   "sources": {
-    "Formula 1": "2026-10-19T14:22:01.836634+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T14:22:01.836637+00:00"
-  },
   "S122": {
    "title": "Hamilton-Ferrari difficult conversation urged; Verstappen verdict podcast",
    "first": "2026-10-19T14:22:01.836656+00:00",
@@ -1466,36 +1448,6 @@
    "posted": true,
    "alerted": false,
    "last": "2026-10-19T15:50:15.055851+00:00"
-  },
-  "S123": {
-   "title": "Hamilton gives blunt assessment of common track feature",
-   "first": "2026-10-19T14:22:01.836686+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-19T14:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T14:22:01.836690+00:00"
-  },
-  "S124": {
-   "title": "PlanetF1 generic news index page",
-   "first": "2026-10-19T14:22:01.836693+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-19T13:09:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T14:22:01.836697+00:00"
-  },
-  "S125": {
-   "title": "Horner calls for rethink on F1 team spending levels",
-   "first": "2026-10-19T14:22:01.836705+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-19T14:03:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T14:22:01.836709+00:00"
   },
   "S126": {
    "title": "Formula E CEO open to Verstappen partnership talks",
@@ -2679,7 +2631,7 @@
     "PlanetF1": "‘Secret’ Lewis Hamilton meeting in new Christian Horner book claim",
     "Motorsport Week": "Christian Horner makes seismic Lewis Hamilton Red Bull claim"
    },
-   "last": "2026-10-21T12:14:45.682114+00:00"
+   "last": "2026-10-21T14:24:46.910769+00:00"
   },
   "S214": {
    "title": "Palmer says Antonelli's 2026 title could still be a challenge",
@@ -2949,7 +2901,7 @@
     "RacingNews365": "Lando Norris reveals 'bias' as new status confirms F1 weight",
     "Motorsport Week": "‘I’m biased towards drivers and fans’: Norris on his GPDA voice"
    },
-   "last": "2026-10-21T13:44:45.748690+00:00"
+   "last": "2026-10-21T14:24:46.910764+00:00"
   },
   "S234": {
    "title": "Ralf Schumacher says Hamilton is caught in Ferrari power struggle",
@@ -3232,15 +3184,17 @@
    "first": "2026-10-21T10:04:51.868255+00:00",
    "sources": {
     "PlanetF1": "2026-10-21T07:03:39+00:00",
-    "Crash.net": "2026-10-21T11:56:59+00:00"
+    "Crash.net": "2026-10-21T11:56:59+00:00",
+    "Motorsport Week": "2026-10-21T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "FIA president targets V8 engine rules decision within months",
-    "Crash.net": "FIA boss outlines timeline for F1 V8 framework being agreed"
+    "Crash.net": "FIA boss outlines timeline for F1 V8 framework being agreed",
+    "Motorsport Week": "FIA President Mohammed Ben Sulayem confident 2030 V8 return “ will be agreed” soon"
    },
-   "last": "2026-10-21T12:05:20.452200+00:00"
+   "last": "2026-10-21T14:24:46.910757+00:00"
   },
   "S255": {
    "title": "Horner book claims secret Hamilton meeting before Red Bull talk",
@@ -3780,9 +3734,35 @@
     "Motorsport.com Italia": "F1 | Watanabe: \"Ecco perché Honda ruota i propri tecnici cambiandone spesso le mansioni\""
    },
    "last": "2026-10-21T14:14:43.441322+00:00"
+  },
+  "S296": {
+   "title": "Jos Verstappen coaching grandchildren as future drivers",
+   "first": "2026-10-21T14:24:46.910732+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-21T14:16:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Opa Jos stoomt nieuwe generatie Verstappens klaar: \"De beste leermeester\""
+   },
+   "last": "2026-10-21T14:24:46.910750+00:00"
+  },
+  "S297": {
+   "title": "Mercedes hires astronaut Reid Wiseman as F1 team ambassador",
+   "first": "2026-10-21T14:24:46.910773+00:00",
+   "sources": {
+    "Crash.net": "2026-10-21T14:16:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Mercedes hires moon mission astronaut for F1 team role"
+   },
+   "last": "2026-10-21T14:24:46.910777+00:00"
   }
  },
- "story_seq": 295,
+ "story_seq": 297,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3901,7 +3881,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T14:14:40.908141+00:00",
+ "last_run": "2026-10-21T14:24:41.351701+00:00",
  "last_digest": "2026-10-21T14:05:15.275552+00:00",
  "last_digest_key": "54f4d091d1991a1b312c59383689dbd8c2ff0a31"
 }
