@@ -1178,7 +1178,10 @@
   "01818c15614906e9": "2026-10-21T16:25:23.408238+00:00",
   "c17244148b1e0eb5": "2026-10-21T16:35:28.795962+00:00",
   "c3be4f86b4433f9d": "2026-10-21T16:35:28.795962+00:00",
-  "8b2608066f9efb0f": "2026-10-21T16:35:28.795962+00:00"
+  "8b2608066f9efb0f": "2026-10-21T16:35:28.795962+00:00",
+  "46fb99fddfbc5ee9": "2026-10-21T16:45:26.103304+00:00",
+  "2818286d81264129": "2026-10-21T16:45:26.103304+00:00",
+  "dba8a3dc0f40e4c2": "2026-10-21T16:45:26.103304+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4049,9 +4052,48 @@
     "GPFans": "Lewis Hamilton’s former race engineer is a changed man: ‘He’s enjoying it now’"
    },
    "last": "2026-10-21T16:35:31.842415+00:00"
+  },
+  "S325": {
+   "title": "FIA publishes schedule of US GP press conferences",
+   "first": "2026-10-21T16:45:30.582893+00:00",
+   "sources": {
+    "FIA": "2026-10-21T16:19:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "F1 - 2026 United States GP Schedule of Press Conferences"
+   },
+   "last": "2026-10-21T16:45:30.582912+00:00"
+  },
+  "S326": {
+   "title": "FIA extends power unit component leeway to 2027 and 2028",
+   "first": "2026-10-21T16:45:30.582919+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-21T16:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "FIA scraps removal of F1 power unit rule change after tweaks to regulations"
+   },
+   "last": "2026-10-21T16:45:30.582924+00:00"
+  },
+  "S327": {
+   "title": "Ferrari reveals special race suits for US Grand Prix",
+   "first": "2026-10-21T16:45:30.582928+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-21T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Ferrari shows off special race suits for the F1 US GP"
+   },
+   "last": "2026-10-21T16:45:30.582933+00:00"
   }
  },
- "story_seq": 324,
+ "story_seq": 327,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4170,7 +4212,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T16:35:28.795962+00:00",
+ "last_run": "2026-10-21T16:45:26.103304+00:00",
  "last_digest": "2026-10-21T16:35:36.769728+00:00",
  "last_digest_key": "ba4806d2fefa6f4378e9638b8e4da42cfe25125d"
 }
