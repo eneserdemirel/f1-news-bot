@@ -1197,7 +1197,11 @@
   "02e946f1db3eb6b1": "2026-10-21T18:05:26.263959+00:00",
   "aadc805bd750c376": "2026-10-21T18:15:26.038912+00:00",
   "df87de7837f32947": "2026-10-21T18:25:32.555022+00:00",
-  "112330528e17d0b4": "2026-10-21T18:35:24.694481+00:00"
+  "112330528e17d0b4": "2026-10-21T18:35:24.694481+00:00",
+  "b3257ca1492d90fc": "2026-10-21T18:45:43.742808+00:00",
+  "8ff4bbf25f53e749": "2026-10-21T18:45:43.742808+00:00",
+  "c275dbc412d308c6": "2026-10-21T18:45:43.742808+00:00",
+  "acb933978975de47": "2026-10-21T18:45:43.742808+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1301,28 +1305,6 @@
     "FormulaPassion": "Il retroscena: Horner e la trattativa segreta con Lauda per diventare il team principal Mercedes"
    }
   },
-  "S79": {
-   "title": "Horner says Red Bull's second driver role was an impossible mission",
-   "first": "2026-10-19T08:14:14.025609+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-19T08:05:11+00:00",
-    "RacingNews365 NL": "2026-10-19T18:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T18:42:47.101844+00:00"
-  },
-  "S86": {
-   "title": "Saudi students' STEM racing team wins world finals in Singapore",
-   "first": "2026-10-19T08:59:37.475670+00:00",
-   "sources": {
-    "Autosport": "2026-10-19T08:37:56+00:00",
-    "Motorsport-Total": "2026-10-19T18:06:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T18:42:47.101869+00:00"
-  },
   "S89": {
    "title": "Analysis of what is going wrong at Aston Martin and Honda",
    "first": "2026-10-19T08:59:37.475716+00:00",
@@ -1419,17 +1401,6 @@
    "posted": true,
    "alerted": false,
    "last": "2026-10-20T07:00:27.063936+00:00"
-  },
-  "S115": {
-   "title": "Colton Herta confirms Indy 500 goal amid Cadillac F1 uncertainty",
-   "first": "2026-10-19T12:52:09.877655+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-19T12:47:36+00:00",
-    "RacingNews365": "2026-10-19T18:14:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T18:42:47.101833+00:00"
   },
   "S116": {
    "title": "Mercedes debuts new OMP breathable race suit in Singapore",
@@ -3183,16 +3154,18 @@
    "sources": {
     "Formula 1": "2026-10-21T11:14:47.607533+00:00",
     "RacingNews365": "2026-10-21T11:45:00+00:00",
-    "PlanetF1": "2026-10-21T14:39:12+00:00"
+    "PlanetF1": "2026-10-21T14:39:12+00:00",
+    "GPblog": "2026-10-21T16:38:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "What is the weather forecast for the United States Grand Prix?",
     "RacingNews365": "2026 F1 United States Grand Prix - Austin weather forecast",
-    "PlanetF1": "United States Grand Prix weather: What is the risk of rain at COTA this weekend?"
+    "PlanetF1": "United States Grand Prix weather: What is the risk of rain at COTA this weekend?",
+    "GPblog": "Austin GP weather forecast: Will rain disrupt the United States Grand Prix?"
    },
-   "last": "2026-10-21T14:45:07.272530+00:00"
+   "last": "2026-10-21T18:45:47.406959+00:00"
   },
   "S269": {
    "title": "Kelly Piquet shares Halloween photos with Verstappen",
@@ -3899,7 +3872,7 @@
    "titles": {
     "GPblog": "Hamilton and Antonelli called up by the FIA at the United States Grand Prix"
    },
-   "last": "2026-10-21T16:25:26.889134+00:00"
+   "last": "2026-10-21T18:45:47.406965+00:00"
   },
   "S322": {
    "title": "Criticism of Charles Leclerc over 'pointless things' remarks",
@@ -4003,7 +3976,7 @@
    "titles": {
     "GPblog": "Horner admits popular F1 figure left him with 'quite scary' first impression"
    },
-   "last": "2026-10-21T17:05:27.961586+00:00"
+   "last": "2026-10-21T18:45:47.406952+00:00"
   },
   "S330": {
    "title": "Ralf Schumacher criticises Christian Horner over book promotion",
@@ -4134,9 +4107,22 @@
     "RacingNews365 NL": "Coronel bombardeert Verstappen tot grote favoriet voor Austin"
    },
    "last": "2026-10-21T18:35:27.486285+00:00"
+  },
+  "S340": {
+   "title": "Hamilton accused of trying to overshadow team at Ferrari",
+   "first": "2026-10-21T18:45:47.406922+00:00",
+   "sources": {
+    "GPblog": "2026-10-21T18:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton accused of 'trying to overshadow everyone and be the boss' at Ferrari"
+   },
+   "last": "2026-10-21T18:45:47.406942+00:00"
   }
  },
- "story_seq": 339,
+ "story_seq": 340,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4255,7 +4241,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T18:35:24.694481+00:00",
+ "last_run": "2026-10-21T18:45:43.742808+00:00",
  "last_digest": "2026-10-21T18:35:30.635844+00:00",
  "last_digest_key": "9b0e7506d2622519f29eb84811722990d7f15fee"
 }
