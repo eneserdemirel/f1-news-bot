@@ -75,6 +75,8 @@ For EVERY new item return one JSON object with:
   people (e.g. one driver's comment and another driver's comment on the same issue), different claims
   or revelations from the same book, interview or press conference, an analysis, column or opinion
   piece versus the news itself, a preview versus a result, a new development versus older news.
+  But the same news reported by different outlets is the SAME story, even with different wording,
+  headline or angle: compare with the headlines listed under each tracked story.
   When unsure, treat it as a new story: a missed news item is worse than a near-duplicate.
 - "title": for a new story, a short neutral English label of max 12 words; otherwise ""
 - "update": true only if the story is marked [posted] AND this item adds a significant new
@@ -389,8 +391,10 @@ def extract_json(text, opener):
 def triage(client, model, items, stories, effort="low", tag="a"):
     """Her haber için puan, hikaye ve gelişme bilgisini döndürür."""
     recent = sorted(stories.items(), key=lambda kv: kv[1]["last"], reverse=True)[:80]
-    story_txt = "\n".join(f'{sid} {"[posted] " if s["posted"] else ""}{s["title"]}'
-                           for sid, s in recent) or "(none)"
+    def story_line(sid, s):  # hikaye etiketi + sitelerin başlıkları (eşleştirme için)
+        heads = " || ".join(t[:110] for t in list(dict.fromkeys(s.get("titles", {}).values()))[:3])
+        return f'{sid} {"[posted] " if s["posted"] else ""}{s["title"]}' + (f" | headlines: {heads}" if heads else "")
+    story_txt = "\n".join(story_line(sid, s) for sid, s in recent) or "(none)"
     results = {}
     for c in range(0, len(items), 50):
         chunk = items[c:c + 50]
