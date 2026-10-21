@@ -1166,7 +1166,9 @@
   "786779a9f02d977a": "2026-10-21T15:35:28.123483+00:00",
   "e39f5fa62124e4a2": "2026-10-21T15:35:28.123483+00:00",
   "43fc65e61af821a5": "2026-10-21T15:35:28.123483+00:00",
-  "9d773f8116715561": "2026-10-21T15:45:23.261064+00:00"
+  "9d773f8116715561": "2026-10-21T15:45:23.261064+00:00",
+  "bd33ce620b9aedfb": "2026-10-21T15:55:23.552365+00:00",
+  "1c410178f44d30b6": "2026-10-21T15:55:23.552365+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1270,19 +1272,6 @@
     "FormulaPassion": "Il retroscena: Horner e la trattativa segreta con Lauda per diventare il team principal Mercedes"
    }
   },
-  "S75": {
-   "title": "Horner says contact with Helmut Marko has ended",
-   "first": "2026-10-19T07:25:58.540009+00:00",
-   "sources": {
-    "GPblog": "2026-10-19T06:31:00+00:00",
-    "GPFans": "2026-10-19T06:59:00+00:00",
-    "RacingNews365": "2026-10-19T10:49:00+00:00",
-    "RacingNews365 NL": "2026-10-19T14:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T15:50:15.055846+00:00"
-  },
   "S79": {
    "title": "Horner says Red Bull's second driver role was an impossible mission",
    "first": "2026-10-19T08:14:14.025609+00:00",
@@ -1293,17 +1282,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T18:42:47.101844+00:00"
-  },
-  "S83": {
-   "title": "Wolff says rival competition worries him more than Ferrari or Red Bull",
-   "first": "2026-10-19T08:14:14.025674+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-19T07:30:06+00:00",
-    "Sky Sports F1": "2026-10-19T16:14:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T15:50:15.055811+00:00"
   },
   "S85": {
    "title": "Driver rejects Ferrari move, saying it does not fit",
@@ -1464,37 +1442,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-19T16:58:00.070867+00:00"
-  },
-  "S122": {
-   "title": "Hamilton-Ferrari difficult conversation urged; Verstappen verdict podcast",
-   "first": "2026-10-19T14:22:01.836656+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T14:00:00+00:00",
-    "GPFans": "2026-10-19T15:29:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T15:50:15.055851+00:00"
-  },
-  "S130": {
-   "title": "Wolff takes blame for Hamilton-Rosberg micromanagement",
-   "first": "2026-10-19T15:50:15.055824+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T15:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T15:50:15.055830+00:00"
-  },
-  "S131": {
-   "title": "Palmer surprised by Verstappen and Red Bull's strong US GP form",
-   "first": "2026-10-19T15:50:15.055835+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-19T15:10:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T15:50:15.055840+00:00"
   },
   "S132": {
    "title": "Verstappen says F1 paddock is becoming a zoo",
@@ -3691,14 +3638,16 @@
    "title": "Date set for appeal in Massa case against Ecclestone, F1 and FIA",
    "first": "2026-10-21T14:05:10.734330+00:00",
    "sources": {
-    "RacingNews365": "2026-10-21T14:03:00+00:00"
+    "RacingNews365": "2026-10-21T14:03:00+00:00",
+    "RacingNews365 NL": "2026-10-21T15:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Date set for appeal in £64 million Felipe Massa court case against Bernie Ecclestone, F1, and FIA"
+    "RacingNews365": "Date set for appeal in £64 million Felipe Massa court case against Bernie Ecclestone, F1, and FIA",
+    "RacingNews365 NL": "Zaak Massa tegen Ecclestone, FIA en F1 krijgt vervolg in 2027"
    },
-   "last": "2026-10-21T14:05:10.734347+00:00"
+   "last": "2026-10-21T15:55:26.788108+00:00"
   },
   "S294": {
    "title": "Leclerc jokes about stroller practice before baby arrives",
@@ -3989,9 +3938,22 @@
     "Motorsport Week": "Isack Hadjar deems more Sprints added to the F1 calendar ‘disappointing’"
    },
    "last": "2026-10-21T15:45:25.090178+00:00"
+  },
+  "S316": {
+   "title": "Motorsport-Total F1 business section page with no readable content",
+   "first": "2026-10-21T15:55:26.788119+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-21T15:47:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Business-News - Motorsport-Total.com"
+   },
+   "last": "2026-10-21T15:55:26.788125+00:00"
   }
  },
- "story_seq": 315,
+ "story_seq": 316,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4110,7 +4072,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T15:45:23.261064+00:00",
+ "last_run": "2026-10-21T15:55:23.552365+00:00",
  "last_digest": "2026-10-21T15:35:37.769013+00:00",
  "last_digest_key": "ff33cef15a65664bf6dba5652cdee3dc7dc7fd9d"
 }
