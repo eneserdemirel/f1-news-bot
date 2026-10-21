@@ -1013,7 +1013,9 @@
   "84740fe0e988159b": "2026-10-21T10:04:44.371759+00:00",
   "a86c4c8b380f0a60": "2026-10-21T10:04:44.371759+00:00",
   "76dd43a2b0ab593f": "2026-10-21T10:04:44.371759+00:00",
-  "299fc9733169ae80": "2026-10-21T10:04:44.371759+00:00"
+  "299fc9733169ae80": "2026-10-21T10:04:44.371759+00:00",
+  "65d4e8aa8b564c75": "2026-10-21T10:15:00.537499+00:00",
+  "dc535b8c00b707ee": "2026-10-21T10:15:00.537499+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2744,7 +2746,8 @@
     "Gazzetta dello Sport": "2026-10-20T19:30:10+00:00",
     "Motorsport-Total": "2026-10-21T06:28:41+00:00",
     "Motorsport.com Italia": "2026-10-21T07:57:38+00:00",
-    "FormulaPassion": "2026-10-21T07:30:00+00:00"
+    "FormulaPassion": "2026-10-21T07:30:00+00:00",
+    "GPblog": "2026-10-21T10:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -2758,9 +2761,10 @@
     "Gazzetta dello Sport": "Ben Sulayem: \"I GP in Qatar e ad Abu Dhabi? Si faranno, è sicuro. Non lascerei la mia famiglia lì...\"",
     "Motorsport-Total": "FIA-Präsident: Lage in Katar und Abu Dhabi ist völlig unbedenklich - Motorsport-Total.com",
     "Motorsport.com Italia": "F1 | La FIA rassicura che si correrà in Qatar e ad Abu Dhabi: \"Oggi la situazione è tranquilla\"",
-    "FormulaPassion": "Ben Sulayem conferma i GP in Qatar e ad Abu Dhabi: “I miei figli sono negli Emirati Arabi Uniti, non metto nessuno in pericolo”"
+    "FormulaPassion": "Ben Sulayem conferma i GP in Qatar e ad Abu Dhabi: “I miei figli sono negli Emirati Arabi Uniti, non metto nessuno in pericolo”",
+    "GPblog": "FIA boss Ben Sulayem reveals stance on 2026 Qatar and Abu Dhabi Grands Prix"
    },
-   "last": "2026-10-21T08:12:37.501942+00:00"
+   "last": "2026-10-21T10:15:03.325285+00:00"
   },
   "S212": {
    "title": "Pirelli says Austin resurfacing shifts focus to tyre wear",
@@ -3374,9 +3378,22 @@
     "GPFans": "Kimi Antonelli reveals risky plan for F1 title celebrations: 'You need to have big balls to do that'"
    },
    "last": "2026-10-21T10:04:51.868276+00:00"
+  },
+  "S257": {
+   "title": "Ceccarelli proposes monitoring driver temperatures at hot races",
+   "first": "2026-10-21T10:15:03.325258+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-21T10:00:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Proposta Ceccarelli: \"Perché non controllare la temperatura dei piloti per studiare i GP caldi?\""
+   },
+   "last": "2026-10-21T10:15:03.325276+00:00"
   }
  },
- "story_seq": 256,
+ "story_seq": 257,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3495,7 +3512,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T10:04:44.371759+00:00",
+ "last_run": "2026-10-21T10:15:00.537499+00:00",
  "last_digest": "2026-10-21T10:05:03.649949+00:00",
  "last_digest_key": "11544121bd034d918aaeb93c174eb90366da1037"
 }
