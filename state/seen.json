@@ -1183,7 +1183,9 @@
   "2818286d81264129": "2026-10-21T16:45:26.103304+00:00",
   "dba8a3dc0f40e4c2": "2026-10-21T16:45:26.103304+00:00",
   "e4f33b6e91e0212f": "2026-10-21T16:55:24.233977+00:00",
-  "a63924218ee66f56": "2026-10-21T16:55:24.233977+00:00"
+  "a63924218ee66f56": "2026-10-21T16:55:24.233977+00:00",
+  "ff4b2946bf26259e": "2026-10-21T17:05:25.141137+00:00",
+  "8105f29fd2616c16": "2026-10-21T17:05:25.141137+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1441,62 +1443,6 @@
    "titles": {
     "Motorsport-Total": "Mercedes: Neuer Hightech-Rennanzug feiert Premiere in Singapur - Motorsport-Total.com"
    }
-  },
-  "S117": {
-   "title": "Haas unveils special livery for US Grand Prix",
-   "first": "2026-10-19T13:36:58.792352+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T13:27:00+00:00",
-    "RacingNews365 NL": "2026-10-19T13:29:00+00:00",
-    "Formula 1": "2026-10-19T14:22:01.836642+00:00",
-    "Motorsport Week": "2026-10-19T14:27:13+00:00",
-    "Motorsport-Total": "2026-10-19T15:39:05+00:00",
-    "Sky Sports F1": "2026-10-19T16:27:00+00:00",
-    "GPblog": "2026-10-19T16:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T16:58:00.070867+00:00"
-  },
-  "S134": {
-   "title": "Vowles says budget cap created a two-tier grid",
-   "first": "2026-10-19T16:58:00.070848+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-19T16:30:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T16:58:00.070853+00:00"
-  },
-  "S135": {
-   "title": "Dakar Rally 2027 route changed over Middle East unrest",
-   "first": "2026-10-19T16:58:00.070860+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-19T16:24:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T16:58:00.070864+00:00"
-  },
-  "S136": {
-   "title": "Horner says Verstappen camp pushed for Perez-friendly Red Bull development",
-   "first": "2026-10-19T16:58:00.070869+00:00",
-   "sources": {
-    "GPFans": "2026-10-19T16:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T16:58:00.070872+00:00"
-  },
-  "S137": {
-   "title": "Bortoleto interview on Audi's chances of future title",
-   "first": "2026-10-19T16:58:00.070874+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-19T16:44:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T16:58:00.070876+00:00"
   },
   "S138": {
    "title": "Piastri says McLaren lacks 'magic answers' in title defence",
@@ -4097,9 +4043,35 @@
     "Motorsport Week": "Ferrari shows off special race suits for the F1 US GP"
    },
    "last": "2026-10-21T16:45:30.582933+00:00"
+  },
+  "S328": {
+   "title": "PlanetF1 podcast episode on Verstappen GT3 and Rwanda",
+   "first": "2026-10-21T17:05:27.961553+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T17:03:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "The Final Sector: Verstappen’s GT3 exploits; behind the scenes in Rwanda"
+   },
+   "last": "2026-10-21T17:05:27.961574+00:00"
+  },
+  "S329": {
+   "title": "Horner jokes about Guenther Steiner's F1 record and first impression",
+   "first": "2026-10-21T17:05:27.961580+00:00",
+   "sources": {
+    "GPblog": "2026-10-21T17:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Horner admits popular F1 figure left him with 'quite scary' first impression"
+   },
+   "last": "2026-10-21T17:05:27.961586+00:00"
   }
  },
- "story_seq": 327,
+ "story_seq": 329,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4218,7 +4190,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T16:55:24.233977+00:00",
- "last_digest": "2026-10-21T16:35:36.769728+00:00",
- "last_digest_key": "ba4806d2fefa6f4378e9638b8e4da42cfe25125d"
+ "last_run": "2026-10-21T17:05:25.141137+00:00",
+ "last_digest": "2026-10-21T17:05:31.635944+00:00",
+ "last_digest_key": "eee6286cca5cd54236cfe817f56415118c3c8dfb"
 }
