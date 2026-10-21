@@ -1212,7 +1212,8 @@
   "8e1dca3f2303ec81": "2026-10-21T20:15:53.117230+00:00",
   "a037e0ec93d1436a": "2026-10-21T20:15:53.117230+00:00",
   "e8a5a6d70b4ac55a": "2026-10-21T20:15:53.117230+00:00",
-  "3e68666c3bb84fc4": "2026-10-21T20:15:53.117230+00:00"
+  "3e68666c3bb84fc4": "2026-10-21T20:15:53.117230+00:00",
+  "db3c4d4da3ca407c": "2026-10-21T20:36:12.549648+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1466,16 +1467,6 @@
    "posted": false,
    "alerted": false,
    "last": "2026-10-20T05:38:33.075664+00:00"
-  },
-  "S149": {
-   "title": "Bortoleto says he seeks Verstappen's advice during gaming sessions",
-   "first": "2026-10-19T20:33:39.891101+00:00",
-   "sources": {
-    "GPFans": "2026-10-19T20:29:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T20:33:39.891105+00:00"
   },
   "S150": {
    "title": "United States Grand Prix betting guide and latest odds",
@@ -4190,9 +4181,22 @@
     "GPblog": "Son of F1 veteran dreams of a showdown with Verstappen"
    },
    "last": "2026-10-21T20:15:59.701732+00:00"
+  },
+  "S346": {
+   "title": "Antonelli meets NBA superstar before US Grand Prix",
+   "first": "2026-10-21T20:36:15.707028+00:00",
+   "sources": {
+    "GPFans": "2026-10-21T20:29:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Kimi Antonelli meets NBA superstar nearly two feet taller than him before US Grand Prix"
+   },
+   "last": "2026-10-21T20:36:15.707045+00:00"
   }
  },
- "story_seq": 345,
+ "story_seq": 346,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4311,7 +4315,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T20:26:10.532401+00:00",
- "last_digest": "2026-10-21T20:05:55.871281+00:00",
+ "last_run": "2026-10-21T20:36:12.549648+00:00",
+ "last_digest": "2026-10-21T20:36:19.123920+00:00",
  "last_digest_key": "9b0e7506d2622519f29eb84811722990d7f15fee"
 }
