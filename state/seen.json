@@ -948,7 +948,18 @@
   "c2f10bbbfb6cf81e": "2026-10-21T05:20:52.443689+00:00",
   "f975f34a3a724c9a": "2026-10-21T05:20:52.443689+00:00",
   "efa3ab785eb9f29a": "2026-10-21T05:20:52.443689+00:00",
-  "37200082346ae3b6": "2026-10-21T05:57:17.942380+00:00"
+  "37200082346ae3b6": "2026-10-21T05:57:17.942380+00:00",
+  "2bc1a6993f6bf3a0": "2026-10-21T06:38:07.111046+00:00",
+  "91ed6984dd45bd35": "2026-10-21T06:38:07.111046+00:00",
+  "b943687a80cfa348": "2026-10-21T06:38:07.111046+00:00",
+  "0b619d02b21135af": "2026-10-21T06:38:07.111046+00:00",
+  "5bc975042e8b72a4": "2026-10-21T06:38:07.111046+00:00",
+  "7d5bffe05c09516c": "2026-10-21T06:38:07.111046+00:00",
+  "25049fd5a9084885": "2026-10-21T06:38:07.111046+00:00",
+  "45a0b804b7f46cb7": "2026-10-21T06:38:07.111046+00:00",
+  "800fbf65f720749c": "2026-10-21T06:38:07.111046+00:00",
+  "fe261208dc5d9c3e": "2026-10-21T06:38:07.111046+00:00",
+  "38648268b3d922c9": "2026-10-21T06:38:07.111046+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1067,16 +1078,6 @@
    "alerted": false,
    "last": "2026-10-19T08:14:14.025664+00:00"
   },
-  "S61": {
-   "title": "Tesla Roadster second generation model and test overview page",
-   "first": "2026-10-19T04:34:57.630308+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-19T02:23:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T06:28:29.071999+00:00"
-  },
   "S62": {
    "title": "Sky Sports US GP talking points on Hamilton, Norris and title",
    "first": "2026-10-19T05:14:39.697491+00:00",
@@ -1120,67 +1121,19 @@
     "RacingNews365 NL": "2026-10-19T12:45:00+00:00",
     "Motorsport Week": "2026-10-20T09:00:00+00:00",
     "Crash.net": "2026-10-20T09:50:52+00:00",
-    "GPblog": "2026-10-21T05:01:00+00:00"
+    "GPblog": "2026-10-21T05:01:00+00:00",
+    "FormulaPassion": "2026-10-21T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
-   "last": "2026-10-21T05:20:58.796170+00:00",
+   "last": "2026-10-21T06:38:17.264238+00:00",
    "titles": {
     "Motorsport Week": "Christian Horner reveals sensational Mercedes F1 offer bombshell",
     "Crash.net": "Christian Horner claims Lewis Hamilton wanted Red Bull move in ‘secret meeting’",
     "GPFans": "Christian Horner takes swipe at Mercedes over George Russell treatment",
-    "GPblog": "Horner reveals he nearly became Mercedes boss instead of Toto Wolff"
+    "GPblog": "Horner reveals he nearly became Mercedes boss instead of Toto Wolff",
+    "FormulaPassion": "Il retroscena: Horner e la trattativa segreta con Lauda per diventare il team principal Mercedes"
    }
-  },
-  "S67": {
-   "title": "Horner says Red Bull bosses still called him after 2026 wins",
-   "first": "2026-10-19T06:28:29.071934+00:00",
-   "sources": {
-    "The Race": "2026-10-19T06:04:29+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-19T06:28:29.071952+00:00"
-  },
-  "S68": {
-   "title": "Hamilton criticises F1's weaker track limits enforcement",
-   "first": "2026-10-19T06:28:29.071958+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-19T06:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T06:28:29.071964+00:00"
-  },
-  "S69": {
-   "title": "Red Bull chases top three in constructors' championship",
-   "first": "2026-10-19T06:28:29.071968+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-19T06:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T06:28:29.071972+00:00"
-  },
-  "S70": {
-   "title": "Alonso filmed testing Dakar rally car in Morocco",
-   "first": "2026-10-19T06:28:29.071976+00:00",
-   "sources": {
-    "GPblog": "2026-10-19T06:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T06:28:29.071980+00:00"
-  },
-  "S71": {
-   "title": "Former rival praises Hamilton after 2021 Abu Dhabi defeat",
-   "first": "2026-10-19T06:28:29.071983+00:00",
-   "sources": {
-    "GPFans": "2026-10-19T06:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-19T06:28:29.071987+00:00"
   },
   "S72": {
    "title": "Verstappen questioned over knowledge of Red Bull update when signing",
@@ -1372,13 +1325,15 @@
     "PlanetF1": "2026-10-19T09:32:54+00:00",
     "GPblog": "2026-10-19T12:00:00+00:00",
     "RacingNews365 NL": "2026-10-20T07:30:00+00:00",
-    "RacingNews365": "2026-10-20T15:15:00+00:00"
+    "RacingNews365": "2026-10-20T15:15:00+00:00",
+    "AS": "2026-10-21T05:50:20+00:00"
    },
    "posted": true,
    "alerted": false,
-   "last": "2026-10-20T15:54:20.570697+00:00",
+   "last": "2026-10-21T06:38:17.264248+00:00",
    "titles": {
-    "RacingNews365": "Lance Stroll offers damning Honda verdict in Aston Martin update"
+    "RacingNews365": "Lance Stroll offers damning Honda verdict in Aston Martin update",
+    "AS": "Tregua entre Aston y Honda hasta la esperada evolución de 2027"
    }
   },
   "S90": {
@@ -2549,7 +2504,8 @@
     "Formula 1": "2026-10-20T15:54:20.570668+00:00",
     "RacingNews365": "2026-10-20T18:00:00+00:00",
     "PlanetF1": "2026-10-20T14:02:56+00:00",
-    "GPblog": "2026-10-20T18:01:00+00:00"
+    "GPblog": "2026-10-20T18:01:00+00:00",
+    "GPFans": "2026-10-21T06:14:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -2558,22 +2514,25 @@
     "Formula 1": "HINCHCLIFFE: Why Lawson deserves to keep his seat at Racing Bulls",
     "RacingNews365": "The Red Bull figures who will ultimately decide Liam Lawson F1 future",
     "PlanetF1": "Horner addresses Liam Lawson and Co. in telling Red Bull admission",
-    "GPblog": "Red Bull warned against sacrificing Liam Lawson for rising junior star"
+    "GPblog": "Red Bull warned against sacrificing Liam Lawson for rising junior star",
+    "GPFans": "Red Bull risk making another Liam Lawson mistake with 2027 F1 decision"
    },
-   "last": "2026-10-20T18:14:19.371187+00:00"
+   "last": "2026-10-21T06:38:17.264213+00:00"
   },
   "S191": {
    "title": "Antonelli meets Wembanyama, height difference highlighted",
    "first": "2026-10-20T11:15:06.272562+00:00",
    "sources": {
-    "Gazzetta dello Sport": "2026-10-20T11:00:40+00:00"
+    "Gazzetta dello Sport": "2026-10-20T11:00:40+00:00",
+    "GPblog": "2026-10-21T06:31:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "Gazzetta dello Sport": "Kimi Antonelli incontra Wembanyama: la differenza d'altezza è impressionante"
+    "Gazzetta dello Sport": "Kimi Antonelli incontra Wembanyama: la differenza d'altezza è impressionante",
+    "GPblog": "Antonelli makes F1 title ambitions clear amid unexpected NBA encounter"
    },
-   "last": "2026-10-20T11:15:06.272566+00:00"
+   "last": "2026-10-21T06:38:17.264207+00:00"
   },
   "S192": {
    "title": "Ferrari brings update package to Austin after doubts",
@@ -2870,7 +2829,8 @@
     "Autosport": "2026-10-20T17:10:41+00:00",
     "RacingNews365 NL": "2026-10-20T17:30:00+00:00",
     "AS": "2026-10-20T17:18:08+00:00",
-    "Gazzetta dello Sport": "2026-10-20T19:30:10+00:00"
+    "Gazzetta dello Sport": "2026-10-20T19:30:10+00:00",
+    "Motorsport-Total": "2026-10-21T06:28:41+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -2881,9 +2841,10 @@
     "Autosport": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
     "RacingNews365 NL": "FIA houdt vast aan seizoensfinale in Midden-Oosten",
     "AS": "La FIA dice que la F1 viajará a Catar y Abu Dhabi",
-    "Gazzetta dello Sport": "Ben Sulayem: \"I GP in Qatar e ad Abu Dhabi? Si faranno, è sicuro. Non lascerei la mia famiglia lì...\""
+    "Gazzetta dello Sport": "Ben Sulayem: \"I GP in Qatar e ad Abu Dhabi? Si faranno, è sicuro. Non lascerei la mia famiglia lì...\"",
+    "Motorsport-Total": "FIA-Präsident: Lage in Katar und Abu Dhabi ist völlig unbedenklich - Motorsport-Total.com"
    },
-   "last": "2026-10-20T19:37:30.160142+00:00"
+   "last": "2026-10-21T06:38:17.264243+00:00"
   },
   "S212": {
    "title": "Pirelli says Austin resurfacing shifts focus to tyre wear",
@@ -3181,17 +3142,73 @@
    "title": "Ralf Schumacher says Hamilton is caught in Ferrari power struggle",
    "first": "2026-10-21T05:57:19.592014+00:00",
    "sources": {
-    "GPFans": "2026-10-21T05:30:00+00:00"
+    "GPFans": "2026-10-21T05:30:00+00:00",
+    "FormulaPassion": "2026-10-21T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Lewis Hamilton 'power struggle' claim as Ferrari plan 2027 change - F1 News Today"
+    "GPFans": "Lewis Hamilton 'power struggle' claim as Ferrari plan 2027 change - F1 News Today",
+    "FormulaPassion": "Ralf Schumacher: “Hamilton in Ferrari vuole fare il capo mettendo tutti in ombra. Deve smetterla”"
    },
-   "last": "2026-10-21T05:57:19.592031+00:00"
+   "last": "2026-10-21T06:38:17.264233+00:00"
+  },
+  "S235": {
+   "title": "Red Bull plans major overhaul, technical director Waché interview",
+   "first": "2026-10-21T06:38:17.264160+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-21T06:00:00+00:00",
+    "RacingNews365 NL": "2026-10-21T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Exclusive: Red Bull commit to major F1 overhaul in bid to win back titles",
+    "RacingNews365 NL": "Red Bull onthult hoeveel onderdelen meegaan naar F1-auto van 2027"
+   },
+   "last": "2026-10-21T06:38:17.264190+00:00"
+  },
+  "S236": {
+   "title": "Norris reportedly makes bid for F2 entry",
+   "first": "2026-10-21T06:38:17.264195+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-21T06:01:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Update as Norris makes F2 entry bid"
+   },
+   "last": "2026-10-21T06:38:17.264201+00:00"
+  },
+  "S237": {
+   "title": "Italian government considers Sepang returning to F1 calendar",
+   "first": "2026-10-21T06:38:17.264217+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-21T06:00:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "GP Malesia, pensiero stupendo del governo: Sepang rientra nel calendario F1 alternandosi con altre piste?"
+   },
+   "last": "2026-10-21T06:38:17.264221+00:00"
+  },
+  "S238": {
+   "title": "FIA prepares countermeasures for reduced overtaking with 2027 engines",
+   "first": "2026-10-21T06:38:17.264224+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-21T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Rischio sorpassi in calo con i motori 2027: le contromisure della FIA"
+   },
+   "last": "2026-10-21T06:38:17.264228+00:00"
   }
  },
- "story_seq": 234,
+ "story_seq": 238,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -3310,7 +3327,7 @@
   ]
  ],
  "calendar_updated": "2026-10-20T21:53:17.377323+00:00",
- "last_run": "2026-10-21T05:57:17.942380+00:00",
- "last_digest": "2026-10-21T05:57:23.542229+00:00",
- "last_digest_key": "1fc787190a4dc0b068d751e670bce64fc29ecdd2"
+ "last_run": "2026-10-21T06:38:07.111046+00:00",
+ "last_digest": "2026-10-21T06:38:28.144525+00:00",
+ "last_digest_key": "2eed2c63f231d6b55b226d327e230bfe36a753f0"
 }
