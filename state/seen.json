@@ -1576,7 +1576,9 @@
   "976f680c48bb4b53": "2026-10-22T18:02:01.802005+00:00",
   "9a669c17ac50b52c": "2026-10-22T18:09:04.771388+00:00",
   "6d5a737b7dff0cde": "2026-10-22T18:09:04.771388+00:00",
-  "1aaa8b7e4975784f": "2026-10-22T18:09:04.771388+00:00"
+  "1aaa8b7e4975784f": "2026-10-22T18:09:04.771388+00:00",
+  "3aa7db6048f5fc73": "2026-10-22T18:19:06.731256+00:00",
+  "879e1beb200ba8ce": "2026-10-22T18:19:06.731256+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2053,19 +2055,6 @@
     "RacingNews365 NL": "FIA-president wil herhaling van controverse rond Masi voorkomen"
    },
    "last": "2026-10-22T07:37:36.464017+00:00"
-  },
-  "S221": {
-   "title": "Hadjar says sprint races are mostly about luck",
-   "first": "2026-10-20T18:14:19.371196+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T18:04:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Isack Hadjar: Sprintrennen haben nur etwas mit \"Glück\" zu tun - Motorsport-Total.com"
-   },
-   "last": "2026-10-20T18:14:19.371201+00:00"
   },
   "S222": {
    "title": "Colton Herta eyes IndyCar return amid 2027 uncertainty",
@@ -6011,14 +6000,16 @@
    "title": "Colapinto backs Verstappen's stance against F1 online abuse",
    "first": "2026-10-22T17:19:07.158726+00:00",
    "sources": {
-    "GPblog": "2026-10-22T17:15:00+00:00"
+    "GPblog": "2026-10-22T17:15:00+00:00",
+    "RacingNews365 NL": "2026-10-22T18:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Colapinto pleased to see Verstappen address growing F1 abuse problem"
+    "GPblog": "Colapinto pleased to see Verstappen address growing F1 abuse problem",
+    "RacingNews365 NL": "Colapinto wijst naar statement Verstappen in betoog over online haat"
    },
-   "last": "2026-10-22T18:02:10.300510+00:00"
+   "last": "2026-10-22T18:19:11.055048+00:00"
   },
   "S513": {
    "title": "How to watch the 2026 US Grand Prix for free",
@@ -6162,9 +6153,22 @@
     "GPblog": "Marko makes clear who Racing Bulls should pick between Lawson and Tsolov"
    },
    "last": "2026-10-22T18:09:08.240717+00:00"
+  },
+  "S524": {
+   "title": "Early betting value picks for United States Grand Prix",
+   "first": "2026-10-22T18:19:11.055019+00:00",
+   "sources": {
+    "Formula 1": "2026-10-22T18:19:11.055035+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Best value early odds for the United States Grand Prix"
+   },
+   "last": "2026-10-22T18:19:11.055040+00:00"
   }
  },
- "story_seq": 523,
+ "story_seq": 524,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -6283,7 +6287,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T18:09:04.771388+00:00",
+ "last_run": "2026-10-22T18:19:06.731256+00:00",
  "last_digest": "2026-10-22T18:09:14.664875+00:00",
  "last_digest_key": "004ac76fa2a08befb99ec3bacd4440df69da3f6e"
 }
