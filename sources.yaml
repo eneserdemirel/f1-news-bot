@@ -1,7 +1,7 @@
 # ---------------- AYARLAR ----------------
 settings:
   model: claude-haiku-5-5   # özet ve puanlama için kullanılan model
-  min_score: 1              # artık kullanılmıyor: önem puanına bakılmadan tüm F1 haberleri gelir
+  min_score: 3              # 1-10 arası; 1-2 (dolgu, liste, bahis, F1 dışı) elenir, 3 ve üstü gelir
   trend_min_score: 4        # yükselen haberlerde (🔥) gönderim için yeterli puan
   max_posts_per_run: 40     # bir çalışmada en fazla kaç haber gönderilsin
   triage_effort: medium     # tekrarları ayıklarken modelin çaba seviyesi
