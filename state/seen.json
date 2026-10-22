@@ -1293,7 +1293,10 @@
   "b256ebf0655b24c2": "2026-10-22T07:27:32.584293+00:00",
   "57051b3a7af9176c": "2026-10-22T07:27:32.584293+00:00",
   "17b3c685480ff996": "2026-10-22T07:27:32.584293+00:00",
-  "7721e41400c3fcd8": "2026-10-22T07:27:32.584293+00:00"
+  "7721e41400c3fcd8": "2026-10-22T07:27:32.584293+00:00",
+  "0a89391d2e5169ce": "2026-10-22T07:37:32.041169+00:00",
+  "5405327fb60a3541": "2026-10-22T07:37:32.041169+00:00",
+  "af7f8ff6f527a595": "2026-10-22T07:37:32.041169+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2389,15 +2392,17 @@
    "first": "2026-10-20T17:43:59.783074+00:00",
    "sources": {
     "FIA": "2026-10-20T15:16:00+00:00",
-    "Motorsport-Total": "2026-10-21T07:10:39+00:00"
+    "Motorsport-Total": "2026-10-21T07:10:39+00:00",
+    "RacingNews365 NL": "2026-10-22T07:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FIA": "FIA Opens New Remote Operations Centre at Biggin Hill Ushering in a New Era for F1 Race Management",
-    "Motorsport-Total": "FIA eröffnet neue F1-Kommandozentrale: Was sich jetzt ändern soll - Motorsport-Total.com"
+    "Motorsport-Total": "FIA eröffnet neue F1-Kommandozentrale: Was sich jetzt ändern soll - Motorsport-Total.com",
+    "RacingNews365 NL": "FIA-president wil herhaling van controverse rond Masi voorkomen"
    },
-   "last": "2026-10-21T07:27:28.889799+00:00"
+   "last": "2026-10-22T07:37:36.464017+00:00"
   },
   "S221": {
    "title": "Hadjar says sprint races are mostly about luck",
@@ -4626,9 +4631,22 @@
     "ESPN F1": "Baker Mayfield back at practice"
    },
    "last": "2026-10-22T07:27:35.732744+00:00"
+  },
+  "S387": {
+   "title": "FIA makes key decision ahead of United States Grand Prix",
+   "first": "2026-10-22T07:37:36.464028+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-22T07:35:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA makes key decision for United States Grand Prix"
+   },
+   "last": "2026-10-22T07:37:36.464035+00:00"
   }
  },
- "story_seq": 386,
+ "story_seq": 387,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4747,7 +4765,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T07:27:32.584293+00:00",
- "last_digest": "2026-10-22T07:07:37.449570+00:00",
+ "last_run": "2026-10-22T07:37:32.041169+00:00",
+ "last_digest": "2026-10-22T07:37:42.964299+00:00",
  "last_digest_key": "c334eaa0bfc827dd9c376d62e78d1192b6f99036"
 }
