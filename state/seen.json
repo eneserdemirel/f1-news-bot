@@ -1287,7 +1287,13 @@
   "adea3477621b52a8": "2026-10-22T07:17:30.336171+00:00",
   "009e6dcabef26f90": "2026-10-22T07:17:30.336171+00:00",
   "9a037ce7bcffe8be": "2026-10-22T07:17:30.336171+00:00",
-  "72cb9d4e3e4fb466": "2026-10-22T07:17:30.336171+00:00"
+  "72cb9d4e3e4fb466": "2026-10-22T07:17:30.336171+00:00",
+  "981b42f742938a28": "2026-10-22T07:27:32.584293+00:00",
+  "3bbf2aca615374f7": "2026-10-22T07:27:32.584293+00:00",
+  "b256ebf0655b24c2": "2026-10-22T07:27:32.584293+00:00",
+  "57051b3a7af9176c": "2026-10-22T07:27:32.584293+00:00",
+  "17b3c685480ff996": "2026-10-22T07:27:32.584293+00:00",
+  "7721e41400c3fcd8": "2026-10-22T07:27:32.584293+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2848,16 +2854,18 @@
    "sources": {
     "PlanetF1": "2026-10-21T07:03:39+00:00",
     "Crash.net": "2026-10-21T11:56:59+00:00",
-    "Motorsport Week": "2026-10-21T14:00:00+00:00"
+    "Motorsport Week": "2026-10-21T14:00:00+00:00",
+    "RacingNews365": "2026-10-22T07:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "FIA president targets V8 engine rules decision within months",
     "Crash.net": "FIA boss outlines timeline for F1 V8 framework being agreed",
-    "Motorsport Week": "FIA President Mohammed Ben Sulayem confident 2030 V8 return “ will be agreed” soon"
+    "Motorsport Week": "FIA President Mohammed Ben Sulayem confident 2030 V8 return “ will be agreed” soon",
+    "RacingNews365": "FIA president puts fresh timeline on V8 return decision for F1"
    },
-   "last": "2026-10-21T15:04:51.143776+00:00"
+   "last": "2026-10-22T07:27:35.732752+00:00"
   },
   "S255": {
    "title": "Horner book claims secret Hamilton meeting before Red Bull talk",
@@ -4592,9 +4600,35 @@
     "ESPN F1": "Athletics bet on youth with 31-year-old Taylor Smith to lead baseball operations"
    },
    "last": "2026-10-22T07:17:38.231108+00:00"
+  },
+  "S385": {
+   "title": "Ronaldo leads tributes to Kvaratskhelia after ACL injury",
+   "first": "2026-10-22T07:27:35.732707+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T06:33:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cristiano Ronaldo leads Khvicha Kvaratskhelia tributes after ACL injury"
+   },
+   "last": "2026-10-22T07:27:35.732732+00:00"
+  },
+  "S386": {
+   "title": "Baker Mayfield back at practice",
+   "first": "2026-10-22T07:27:35.732738+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T01:53:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Baker Mayfield back at practice"
+   },
+   "last": "2026-10-22T07:27:35.732744+00:00"
   }
  },
- "story_seq": 384,
+ "story_seq": 386,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4713,7 +4747,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T07:17:30.336171+00:00",
+ "last_run": "2026-10-22T07:27:32.584293+00:00",
  "last_digest": "2026-10-22T07:07:37.449570+00:00",
  "last_digest_key": "c334eaa0bfc827dd9c376d62e78d1192b6f99036"
 }
