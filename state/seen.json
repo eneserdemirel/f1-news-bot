@@ -1685,7 +1685,12 @@
   "fe5d8aed0882563e": "2026-10-22T22:09:02.821851+00:00",
   "c4f8222a75f976f3": "2026-10-22T22:19:02.636851+00:00",
   "c8c601e53a627c59": "2026-10-22T22:19:02.636851+00:00",
-  "18ed4c941d2657f3": "2026-10-22T22:19:02.636851+00:00"
+  "18ed4c941d2657f3": "2026-10-22T22:19:02.636851+00:00",
+  "0e4a214eb4f8d25a": "2026-10-22T22:29:40.092264+00:00",
+  "9948ab3e82fcb256": "2026-10-22T22:29:40.092264+00:00",
+  "df1b6e22bbd458e1": "2026-10-22T22:29:40.092264+00:00",
+  "65b12d25c13809d5": "2026-10-22T22:29:40.092264+00:00",
+  "f060305b059e3368": "2026-10-22T22:29:40.092264+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2096,19 +2101,6 @@
     "RacingNews365 NL": "FIA-president wil herhaling van controverse rond Masi voorkomen"
    },
    "last": "2026-10-22T07:37:36.464017+00:00"
-  },
-  "S230": {
-   "title": "Lawson rises in power rankings after Singapore Grand Prix showing",
-   "first": "2026-10-20T22:22:24.667026+00:00",
-   "sources": {
-    "GPblog": "2026-10-20T22:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Lawson climbs above F1's biggest names after yet another strong showing"
-   },
-   "last": "2026-10-20T22:22:24.667044+00:00"
   },
   "S231": {
    "title": "Wolff expects Red Bull to fight fully for 2027 title",
@@ -7076,9 +7068,74 @@
     "ESPN F1": "Source: Seahawks TE Elijah Arroyo is undergoing shoulder surgery today and will miss the rest of the season."
    },
    "last": "2026-10-22T22:19:05.688078+00:00"
+  },
+  "S596": {
+   "title": "Bournemouth 3-0 Milan player stats",
+   "first": "2026-10-22T22:29:46.162511+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T19:14:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bournemouth 3-0 Milan (Oct 22, 2026) Player Stats"
+   },
+   "last": "2026-10-22T22:29:46.162530+00:00"
+  },
+  "S597": {
+   "title": "Haaland set to return for Man City",
+   "first": "2026-10-22T22:29:46.162535+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T17:42:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Erling Haaland set to return with Man City 'hungry' to continue perfect start"
+   },
+   "last": "2026-10-22T22:29:46.162539+00:00"
+  },
+  "S598": {
+   "title": "Verstappen warns of spinal damage risk from Austin bumps",
+   "first": "2026-10-22T22:29:46.162542+00:00",
+   "sources": {
+    "The Race": "2026-10-22T22:25:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Verstappen’s spinal damage fears from ‘out of control’ F1 bumps"
+   },
+   "last": "2026-10-22T22:29:46.162545+00:00"
+  },
+  "S599": {
+   "title": "Feature on how Antonelli will handle title pressure",
+   "first": "2026-10-22T22:29:46.162547+00:00",
+   "sources": {
+    "Autosport": "2026-10-22T22:20:25+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "How Antonelli will manage the pressure as F1 coronation looms"
+   },
+   "last": "2026-10-22T22:29:46.162549+00:00"
+  },
+  "S600": {
+   "title": "Motorsport-Total F1 Grand Prix reports index page",
+   "first": "2026-10-22T22:29:46.162551+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-22T20:47:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Grand-Prix-Berichte - Motorsport-Total.com"
+   },
+   "last": "2026-10-22T22:29:46.162554+00:00"
   }
  },
- "story_seq": 595,
+ "story_seq": 600,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -7197,7 +7254,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-22T22:19:38.117504+00:00",
+ "last_run": "2026-10-22T22:29:40.092264+00:00",
  "last_digest": "2026-10-22T22:09:10.764621+00:00",
  "last_digest_key": "8e292f1c5304b6dec94ee41e0832d2e5736873d1"
 }
