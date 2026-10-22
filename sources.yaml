@@ -38,6 +38,12 @@ sources:
     feeds: []
 
   # ---------- Haber siteleri ----------
+  - name: ESPN F1
+    handle: "@ESPNF1"
+    site: https://www.espn.com/f1/
+    discover: false
+    feeds: [https://www.espn.com/espn/rss/f1/news]
+
   - name: Sky Sports F1
     handle: "@SkySportsF1"
     site: https://www.skysports.com/f1
