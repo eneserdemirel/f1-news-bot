@@ -1394,7 +1394,9 @@
   "5c84e18eaf87cfee": "2026-10-22T11:37:31.286140+00:00",
   "6a2d72d53d233492": "2026-10-22T11:37:31.286140+00:00",
   "5d93fde946c27c73": "2026-10-22T11:47:35.588253+00:00",
-  "46f3d5fb7998fc6a": "2026-10-22T11:47:35.588253+00:00"
+  "46f3d5fb7998fc6a": "2026-10-22T11:47:35.588253+00:00",
+  "a01c1189e28a1980": "2026-10-22T11:57:30.985288+00:00",
+  "9e0cbbc0a4fc6b93": "2026-10-22T11:57:30.985288+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1766,45 +1768,6 @@
     "PlanetF1": "Herta set for F1 drive at the US Grand Prix"
    },
    "last": "2026-10-20T15:15:09.212255+00:00"
-  },
-  "S195": {
-   "title": "Expert analysis of Verstappen's Singapore radio failure",
-   "first": "2026-10-20T11:53:03.516848+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T11:22:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Expertin: Was der Funkausfall in Singapur über Max Verstappen verrät - Motorsport-Total.com"
-   },
-   "last": "2026-10-20T11:53:03.516852+00:00"
-  },
-  "S196": {
-   "title": "Ferrari forgoes a clever Red Bull trick, AMS reports",
-   "first": "2026-10-20T11:53:03.516854+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-20T11:04:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Warum Ferrari auf diesen cleveren Red-Bull-Trick verzichtet"
-   },
-   "last": "2026-10-20T11:53:03.516858+00:00"
-  },
-  "S197": {
-   "title": "Hamilton posts big-wave surfing video from Bali",
-   "first": "2026-10-20T11:53:03.516860+00:00",
-   "sources": {
-    "AS": "2026-10-20T11:29:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "AS": "Lewis Hamilton publica un vídeo surfeando una ola considerable en Bali"
-   },
-   "last": "2026-10-20T11:53:03.516864+00:00"
   },
   "S198": {
    "title": "COTA bumps issue returns ahead of US GP, Verstappen gearbox status unclear",
@@ -5025,9 +4988,22 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-10-22T11:37:35.586951+00:00"
+  },
+  "S430": {
+   "title": "Departing F1 driver suggests unusual future engine rules",
+   "first": "2026-10-22T11:57:34.401389+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-22T11:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Departing F1 driver tells sport where to go with future rules"
+   },
+   "last": "2026-10-22T11:57:34.401411+00:00"
   }
  },
- "story_seq": 429,
+ "story_seq": 430,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -5146,7 +5122,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T11:47:35.588253+00:00",
+ "last_run": "2026-10-22T11:57:30.985288+00:00",
  "last_digest": "2026-10-22T11:37:42.208627+00:00",
  "last_digest_key": "5cf94a29f731fd8a1c9ef37373efc8b57beefc9b"
 }
