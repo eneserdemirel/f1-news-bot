@@ -1224,7 +1224,11 @@
   "b0a279d0d4baafee": "2026-10-22T02:27:08.058907+00:00",
   "c82fecf77aea7814": "2026-10-22T04:06:53.683132+00:00",
   "022c207d8d76bd0f": "2026-10-22T04:26:50.811055+00:00",
-  "83b806bdd7318a6f": "2026-10-22T04:36:50.699699+00:00"
+  "83b806bdd7318a6f": "2026-10-22T04:36:50.699699+00:00",
+  "edcfeafa49d75e5d": "2026-10-22T05:06:46.367104+00:00",
+  "7b2772c3ece2f69f": "2026-10-22T05:06:46.367104+00:00",
+  "45bcbee3db4962ee": "2026-10-22T05:06:46.367104+00:00",
+  "676f33b51d6f6edb": "2026-10-22T05:06:46.367104+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1471,26 +1475,6 @@
    "titles": {
     "Formula 1": "The 5 drivers most likely to win the United States GP"
    }
-  },
-  "S155": {
-   "title": "Verstappen criticises illogical sprint format ahead of 2027 calendar",
-   "first": "2026-10-20T05:05:16.491258+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-20T04:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-20T05:05:16.491278+00:00"
-  },
-  "S156": {
-   "title": "Horner says Red Bull evaluated Russell, Norris and Piastri before F1",
-   "first": "2026-10-20T05:05:16.491284+00:00",
-   "sources": {
-    "GPblog": "2026-10-20T05:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-20T05:05:16.491289+00:00"
   },
   "S157": {
    "title": "Russell explains running older Mercedes spec in Singapore",
@@ -4182,14 +4166,16 @@
    "title": "2026 United States Grand Prix start time published",
    "first": "2026-10-22T04:06:55.620950+00:00",
    "sources": {
-    "RacingNews365": "2026-10-22T04:00:00+00:00"
+    "RacingNews365": "2026-10-22T04:00:00+00:00",
+    "RacingNews365 NL": "2026-10-22T05:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "2026 F1 United States Grand Prix - Austin start time"
+    "RacingNews365": "2026 F1 United States Grand Prix - Austin start time",
+    "RacingNews365 NL": "Hoe laat begint de F1 GP Verenigde Staten 2026?"
    },
-   "last": "2026-10-22T04:06:55.620969+00:00"
+   "last": "2026-10-22T05:06:50.095565+00:00"
   },
   "S350": {
    "title": "Marcin Budkowski on how his former F1 job helps as TV expert",
@@ -4216,9 +4202,48 @@
     "RacingNews365": "Max Verstappen handed Red Bull boost with 'no weakness' verdict"
    },
    "last": "2026-10-22T04:36:53.195660+00:00"
+  },
+  "S352": {
+   "title": "Sky analysis on McLaren upgrades to counter Red Bull threat",
+   "first": "2026-10-22T05:06:50.095540+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-10-22T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Can McLaren 'up their game' to respond to Red Bull threat?"
+   },
+   "last": "2026-10-22T05:06:50.095559+00:00"
+  },
+  "S353": {
+   "title": "PlanetF1 US Grand Prix predictions and driver picks",
+   "first": "2026-10-22T05:06:50.095568+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-22T05:01:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "US GP Predictions: Hamilton magic or misery, Verstappen glory and an apology to Antonelli"
+   },
+   "last": "2026-10-22T05:06:50.095571+00:00"
+  },
+  "S354": {
+   "title": "Marko says Antonelli has outclassed Russell at Mercedes",
+   "first": "2026-10-22T05:06:50.095574+00:00",
+   "sources": {
+    "GPblog": "2026-10-22T05:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marko makes ruthless Mercedes comparison as Antonelli leaves Russell in the shade"
+   },
+   "last": "2026-10-22T05:06:50.095576+00:00"
   }
  },
- "story_seq": 351,
+ "story_seq": 354,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4337,7 +4362,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T04:56:48.822991+00:00",
- "last_digest": "2026-10-22T04:36:56.973314+00:00",
- "last_digest_key": "6cf5834c6b4243a20769adac7b2615ea0b68d3db"
+ "last_run": "2026-10-22T05:06:46.367104+00:00",
+ "last_digest": "2026-10-22T05:06:54.400624+00:00",
+ "last_digest_key": "8f9ffff792e705ef7a301d445430e649b623753f"
 }
