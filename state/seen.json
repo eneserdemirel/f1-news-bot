@@ -1239,7 +1239,9 @@
   "9b1129ef20a8bac3": "2026-10-22T06:06:49.657279+00:00",
   "adb328525f981a1d": "2026-10-22T06:16:50.699629+00:00",
   "af2a548cd2b06fd1": "2026-10-22T06:16:50.699629+00:00",
-  "a243511211b28247": "2026-10-22T06:16:50.699629+00:00"
+  "a243511211b28247": "2026-10-22T06:16:50.699629+00:00",
+  "88ed5f04e6742c97": "2026-10-22T06:26:56.765853+00:00",
+  "101e95b76d68181e": "2026-10-22T06:26:56.765853+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4065,16 +4067,18 @@
    "sources": {
     "RacingNews365": "2026-10-21T20:05:00+00:00",
     "Formula 1": "2026-10-21T20:56:17.431102+00:00",
-    "GPblog": "2026-10-21T21:03:00+00:00"
+    "GPblog": "2026-10-21T21:03:00+00:00",
+    "RacingNews365 NL": "2026-10-22T06:25:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Ferrari unveil fresh F1 livery in special one-off 'blueprint' design",
     "Formula 1": "Ferrari become latest team to unveil special livery for US GP",
-    "GPblog": "Ferrari reveals special livery for the F1 United States Grand Prix"
+    "GPblog": "Ferrari reveals special livery for the F1 United States Grand Prix",
+    "RacingNews365 NL": "Ferrari transformeert Formule 1-auto in rijdende blauwdruk"
    },
-   "last": "2026-10-22T02:27:12.240905+00:00"
+   "last": "2026-10-22T06:26:59.886195+00:00"
   },
   "S345": {
    "title": "Son of F1 veteran dreams of showdown with Verstappen",
@@ -4337,9 +4341,22 @@
     "AS": "Un invitado incómodo en la fiesta de Antonelli"
    },
    "last": "2026-10-22T06:16:55.449119+00:00"
+  },
+  "S365": {
+   "title": "RacingNews365 review of Christian Horner's memoir Drive",
+   "first": "2026-10-22T06:26:59.886167+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-22T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "'Drive' - a review of Christian Horner's long-awaited F1 memoir"
+   },
+   "last": "2026-10-22T06:26:59.886188+00:00"
   }
  },
- "story_seq": 364,
+ "story_seq": 365,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4458,7 +4475,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T06:16:50.699629+00:00",
+ "last_run": "2026-10-22T06:26:56.765853+00:00",
  "last_digest": "2026-10-22T06:06:56.219699+00:00",
  "last_digest_key": "8f9ffff792e705ef7a301d445430e649b623753f"
 }
