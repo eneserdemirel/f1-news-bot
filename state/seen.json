@@ -1471,7 +1471,11 @@
   "4ba4900c1b759af3": "2026-10-22T14:58:17.530815+00:00",
   "645e26b5c3b56227": "2026-10-22T14:58:17.530815+00:00",
   "8f4f130022a67d93": "2026-10-22T14:58:17.530815+00:00",
-  "0854a6662e099f2e": "2026-10-22T14:58:17.530815+00:00"
+  "0854a6662e099f2e": "2026-10-22T14:58:17.530815+00:00",
+  "3f4a850454fee0a1": "2026-10-22T15:08:16.501856+00:00",
+  "5c47ed08d7da11a2": "2026-10-22T15:08:16.501856+00:00",
+  "bce7b72a9f18ce09": "2026-10-22T15:08:16.501856+00:00",
+  "0ec670b7e3f6374c": "2026-10-22T15:08:16.501856+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1768,7 +1772,8 @@
     "Autosport": "2026-10-21T08:52:58+00:00",
     "RacingNews365 NL": "2026-10-21T09:00:00+00:00",
     "RacingNews365": "2026-10-21T10:50:00+00:00",
-    "GPblog": "2026-10-21T13:31:00+00:00"
+    "GPblog": "2026-10-21T13:31:00+00:00",
+    "Auto Motor und Sport": "2026-10-22T14:48:51+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -1779,9 +1784,10 @@
     "Autosport": "FIA set to close F1 cost cap loophole with new rules",
     "RacingNews365 NL": "FIA grijpt stevig in om maas in budgetplafond te dichten",
     "RacingNews365": "FIA introduces strict new rule to shut F1 budget cap loophole",
-    "GPblog": "FIA introduces strict rules to prevent ‘tricks’ within the cost cap regulations"
+    "GPblog": "FIA introduces strict rules to prevent ‘tricks’ within the cost cap regulations",
+    "Auto Motor und Sport": "Formel 1: Wegen Kostendeckel - F1-Mitarbeiter müssen sich künftig abschotten"
    },
-   "last": "2026-10-21T14:05:10.734356+00:00"
+   "last": "2026-10-22T15:08:20.597379+00:00"
   },
   "S194": {
    "title": "Colton Herta to drive Cadillac in US GP first practice",
@@ -5563,9 +5569,37 @@
     "ESPN F1": "JJ Watt lands new deal as full-time CBS lead analyst replacement for Tony Romo"
    },
    "last": "2026-10-22T14:58:21.923203+00:00"
+  },
+  "S475": {
+   "title": "Freddie Slater to make FP1 debut with Audi in Mexico and Brazil",
+   "first": "2026-10-22T15:08:20.597339+00:00",
+   "sources": {
+    "Formula 1": "2026-10-22T15:08:20.597355+00:00",
+    "Autosport": "2026-10-22T15:02:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Slater to make FP1 debut with Audi in Mexico City and Sao Paulo",
+    "Autosport": "Slater set for F1 practice debut with Audi at Mexico"
+   },
+   "last": "2026-10-22T15:08:20.597374+00:00"
+  },
+  "S476": {
+   "title": "Chelsea vs Tottenham match preview and team news",
+   "first": "2026-10-22T15:08:20.597363+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T15:04:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chelsea vs Tottenham: TV channel, how to watch in UK, kick-off time, live stream, team news, referee, predicted line-ups"
+   },
+   "last": "2026-10-22T15:08:20.597369+00:00"
   }
  },
- "story_seq": 474,
+ "story_seq": 476,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -5684,7 +5718,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T14:58:17.530815+00:00",
- "last_digest": "2026-10-22T14:38:21.881312+00:00",
- "last_digest_key": "fcb00616e22be3f3ce69b0854546a5b749a04bc4"
+ "last_run": "2026-10-22T15:08:16.501856+00:00",
+ "last_digest": "2026-10-22T15:08:25.091324+00:00",
+ "last_digest_key": "b1d7afb9bd0ae51b5fb4560435077df564221cb8"
 }
