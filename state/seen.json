@@ -1466,7 +1466,12 @@
   "3ee5b9b67f0e2e8c": "2026-10-22T14:38:17.111790+00:00",
   "6041803e534b8889": "2026-10-22T14:38:17.111790+00:00",
   "9f46969c22aaf3aa": "2026-10-22T14:38:17.111790+00:00",
-  "34ab9364d0724e2d": "2026-10-22T14:48:15.067307+00:00"
+  "34ab9364d0724e2d": "2026-10-22T14:48:15.067307+00:00",
+  "97272a9359793b81": "2026-10-22T14:58:17.530815+00:00",
+  "4ba4900c1b759af3": "2026-10-22T14:58:17.530815+00:00",
+  "645e26b5c3b56227": "2026-10-22T14:58:17.530815+00:00",
+  "8f4f130022a67d93": "2026-10-22T14:58:17.530815+00:00",
+  "0854a6662e099f2e": "2026-10-22T14:58:17.530815+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3413,15 +3418,17 @@
    "first": "2026-10-21T15:35:32.659136+00:00",
    "sources": {
     "RacingNews365": "2026-10-21T15:25:00+00:00",
-    "PlanetF1": "2026-10-22T11:42:14+00:00"
+    "PlanetF1": "2026-10-22T11:42:14+00:00",
+    "AS": "2026-10-22T14:56:22+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "McLaren confirm 'modest' changes in 'stronger' warning to F1 rivals",
-    "PlanetF1": "McLaren MCL40 upgrades confirmed for United States GP with key issues targeted"
+    "PlanetF1": "McLaren MCL40 upgrades confirmed for United States GP with key issues targeted",
+    "AS": "McLaren busca otra oportunidad"
    },
-   "last": "2026-10-22T11:47:41.168007+00:00"
+   "last": "2026-10-22T14:58:21.923214+00:00"
   },
   "S315": {
    "title": "Hadjar calls additional sprint races to calendar disappointing",
@@ -4004,7 +4011,8 @@
     "FormulaPassion": "2026-10-22T05:00:00+00:00",
     "Autosport": "2026-10-22T11:04:27+00:00",
     "Motorsport-Total": "2026-10-22T11:39:01+00:00",
-    "Crash.net": "2026-10-22T12:35:13+00:00"
+    "Crash.net": "2026-10-22T12:35:13+00:00",
+    "RacingNews365 NL": "2026-10-22T14:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -4012,9 +4020,10 @@
     "FormulaPassion": "Horner: “Dopo Singapore Mintzlaff ha chiamato per ringraziarmi. Considero le vittorie di quest’anno un mio traguardo”",
     "Autosport": "Horner reveals Red Bull call to thank him for F1 engine project after maiden win",
     "Motorsport-Total": "Horner nach Anruf von Red-Bull-Bossen: \"Anders als vor 15 Monaten ...\" - Motorsport-Total.com",
-    "Crash.net": "Christian Horner reveals touching Red Bull gesture after 2026 Bahrain GP win"
+    "Crash.net": "Christian Horner reveals touching Red Bull gesture after 2026 Bahrain GP win",
+    "RacingNews365 NL": "Horner ontving eervol Red Bull-belletje na waanzinnige mijlpaal Verstappen"
    },
-   "last": "2026-10-22T12:48:25.404447+00:00"
+   "last": "2026-10-22T14:58:21.923209+00:00"
   },
   "S358": {
    "title": "Watanabe describes Honda-Aston Martin engine and chassis teamwork",
@@ -5515,9 +5524,48 @@
     "ESPN F1": "Party like it's 1982? What baseball looked like during Brewers' last World Series"
    },
    "last": "2026-10-22T14:48:16.953021+00:00"
+  },
+  "S472": {
+   "title": "Penguins' Ben Kindel returns to Pittsburgh after medical emergency",
+   "first": "2026-10-22T14:58:21.923166+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T14:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Penguins' Ben Kindel back in Pittsburgh after medical emergency"
+   },
+   "last": "2026-10-22T14:58:21.923187+00:00"
+  },
+  "S473": {
+   "title": "Villanova to exit Philadelphia's Big 5 basketball series",
+   "first": "2026-10-22T14:58:21.923192+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T14:34:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Villanova to exit Philadelphia's Big 5 basketball series"
+   },
+   "last": "2026-10-22T14:58:21.923197+00:00"
+  },
+  "S474": {
+   "title": "JJ Watt signs as full-time CBS lead analyst replacing Tony Romo",
+   "first": "2026-10-22T14:58:21.923200+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T14:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "JJ Watt lands new deal as full-time CBS lead analyst replacement for Tony Romo"
+   },
+   "last": "2026-10-22T14:58:21.923203+00:00"
   }
  },
- "story_seq": 471,
+ "story_seq": 474,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -5636,7 +5684,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T14:48:15.067307+00:00",
+ "last_run": "2026-10-22T14:58:17.530815+00:00",
  "last_digest": "2026-10-22T14:38:21.881312+00:00",
  "last_digest_key": "fcb00616e22be3f3ce69b0854546a5b749a04bc4"
 }
