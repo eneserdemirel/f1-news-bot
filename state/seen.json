@@ -1332,7 +1332,10 @@
   "32e2b773efab6785": "2026-10-22T08:27:31.942549+00:00",
   "e26cdf7bcd123df2": "2026-10-22T08:27:31.942549+00:00",
   "f99bab2d78328081": "2026-10-22T08:37:37.841013+00:00",
-  "81c91a22bcaac56a": "2026-10-22T08:37:37.841013+00:00"
+  "81c91a22bcaac56a": "2026-10-22T08:37:37.841013+00:00",
+  "c4c7d5bcb692a9bf": "2026-10-22T08:47:30.562467+00:00",
+  "0a09d1966ee78f08": "2026-10-22T08:47:30.562467+00:00",
+  "f043f9dde27bd914": "2026-10-22T08:47:30.562467+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4778,9 +4781,35 @@
     "RacingNews365": "Helmut Marko lashes out at Christian Horner: 'An embarrassment'"
    },
    "last": "2026-10-22T08:37:40.880710+00:00"
+  },
+  "S400": {
+   "title": "Facts, stats and trivia guide for the 2026 US Grand Prix",
+   "first": "2026-10-22T08:47:35.078081+00:00",
+   "sources": {
+    "Formula 1": "2026-10-22T08:47:35.078097+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Facts, stats and trivia ahead of the 2026 United States GP"
+   },
+   "last": "2026-10-22T08:47:35.078110+00:00"
+  },
+  "S401": {
+   "title": "Verstappen can equal Hamilton's Austin win record this weekend",
+   "first": "2026-10-22T08:47:35.078115+00:00",
+   "sources": {
+    "GPblog": "2026-10-22T08:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Max Verstappen can equal Lewis Hamilton's long-standing Austin record this weekend"
+   },
+   "last": "2026-10-22T08:47:35.078120+00:00"
   }
  },
- "story_seq": 399,
+ "story_seq": 401,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4899,7 +4928,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T08:37:37.841013+00:00",
+ "last_run": "2026-10-22T08:47:30.562467+00:00",
  "last_digest": "2026-10-22T08:37:47.248562+00:00",
  "last_digest_key": "7e47dea55c8123ae9bc64aaacd7ce4a0764839bc"
 }
