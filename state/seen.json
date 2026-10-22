@@ -1573,7 +1573,10 @@
   "6dbf0c5b86b0b28e": "2026-10-22T18:02:01.802005+00:00",
   "f454343cf10e0663": "2026-10-22T18:02:01.802005+00:00",
   "5062d0ecbdba077c": "2026-10-22T18:02:01.802005+00:00",
-  "976f680c48bb4b53": "2026-10-22T18:02:01.802005+00:00"
+  "976f680c48bb4b53": "2026-10-22T18:02:01.802005+00:00",
+  "9a669c17ac50b52c": "2026-10-22T18:09:04.771388+00:00",
+  "6d5a737b7dff0cde": "2026-10-22T18:09:04.771388+00:00",
+  "1aaa8b7e4975784f": "2026-10-22T18:09:04.771388+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6120,9 +6123,48 @@
     "GPblog": "Verstappen's Austin chances weighed up after Pirelli tyre selection"
    },
    "last": "2026-10-22T18:02:10.300547+00:00"
+  },
+  "S521": {
+   "title": "Live coverage of United States GP weekend build-up",
+   "first": "2026-10-22T18:09:08.240662+00:00",
+   "sources": {
+    "Formula 1": "2026-10-22T18:09:08.240681+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "LIVE COVERAGE: Build-up to the United States GP weekend"
+   },
+   "last": "2026-10-22T18:09:08.240687+00:00"
+  },
+  "S522": {
+   "title": "Analysis of Man United turmoil blame (Carrick, players, Ratcliffe)",
+   "first": "2026-10-22T18:09:08.240695+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T17:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Who's to blame for Man United mess: Carrick, the players ... Ratcliffe?"
+   },
+   "last": "2026-10-22T18:09:08.240704+00:00"
+  },
+  "S523": {
+   "title": "Marko says Racing Bulls should promote Tsolov over Lawson",
+   "first": "2026-10-22T18:09:08.240710+00:00",
+   "sources": {
+    "GPblog": "2026-10-22T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marko makes clear who Racing Bulls should pick between Lawson and Tsolov"
+   },
+   "last": "2026-10-22T18:09:08.240717+00:00"
   }
  },
- "story_seq": 520,
+ "story_seq": 523,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -6241,7 +6283,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T18:02:01.802005+00:00",
- "last_digest": "2026-10-22T17:39:20.555497+00:00",
- "last_digest_key": "139e81e8697088ca610194335ecd754ca511eae2"
+ "last_run": "2026-10-22T18:09:04.771388+00:00",
+ "last_digest": "2026-10-22T18:09:14.664875+00:00",
+ "last_digest_key": "004ac76fa2a08befb99ec3bacd4440df69da3f6e"
 }
