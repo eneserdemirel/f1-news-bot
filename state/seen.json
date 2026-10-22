@@ -1299,7 +1299,10 @@
   "af7f8ff6f527a595": "2026-10-22T07:37:32.041169+00:00",
   "82ab195ef4aedb76": "2026-10-22T07:47:32.095589+00:00",
   "6cfe30973c1a6211": "2026-10-22T07:47:32.095589+00:00",
-  "a7d34a15956b5b3c": "2026-10-22T07:47:32.095589+00:00"
+  "a7d34a15956b5b3c": "2026-10-22T07:47:32.095589+00:00",
+  "3f398a17c688c238": "2026-10-22T07:57:35.319417+00:00",
+  "caa6c91575b99728": "2026-10-22T07:57:35.319417+00:00",
+  "2dee8222dd9cc5ba": "2026-10-22T07:57:35.319417+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4065,7 +4068,9 @@
     "RacingNews365": "2026-10-21T20:05:00+00:00",
     "Formula 1": "2026-10-21T20:56:17.431102+00:00",
     "GPblog": "2026-10-21T21:03:00+00:00",
-    "RacingNews365 NL": "2026-10-22T06:25:00+00:00"
+    "RacingNews365 NL": "2026-10-22T06:25:00+00:00",
+    "Motorsport.com Italia": "2026-10-22T07:43:53+00:00",
+    "Motorsport-Total": "2026-10-22T07:55:02+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -4073,9 +4078,11 @@
     "RacingNews365": "Ferrari unveil fresh F1 livery in special one-off 'blueprint' design",
     "Formula 1": "Ferrari become latest team to unveil special livery for US GP",
     "GPblog": "Ferrari reveals special livery for the F1 United States Grand Prix",
-    "RacingNews365 NL": "Ferrari transformeert Formule 1-auto in rijdende blauwdruk"
+    "RacingNews365 NL": "Ferrari transformeert Formule 1-auto in rijdende blauwdruk",
+    "Motorsport.com Italia": "F1 | Ferrari: ad Austin una livrea ai raggi X per raccontare come nasce una monoposto",
+    "Motorsport-Total": "Ferrari überrascht mit Sonderdesign: Was hinter der neuen Folierung steckt - Motorsport-Total.com"
    },
-   "last": "2026-10-22T06:26:59.886195+00:00"
+   "last": "2026-10-22T07:57:38.492374+00:00"
   },
   "S345": {
    "title": "Son of F1 veteran dreams of showdown with Verstappen",
@@ -4652,9 +4659,22 @@
     "ESPN F1": "Warriors' Yaxel Lendeborg: 'Lost all respect' for Luka Doncic"
    },
    "last": "2026-10-22T07:47:34.911002+00:00"
+  },
+  "S389": {
+   "title": "Man United considering defensive clearout in summer",
+   "first": "2026-10-22T07:57:38.492335+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T07:47:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Man United consider defensive clearout in summer"
+   },
+   "last": "2026-10-22T07:57:38.492358+00:00"
   }
  },
- "story_seq": 388,
+ "story_seq": 389,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4773,7 +4793,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T07:47:32.095589+00:00",
+ "last_run": "2026-10-22T07:57:35.319417+00:00",
  "last_digest": "2026-10-22T07:37:42.964299+00:00",
  "last_digest_key": "c334eaa0bfc827dd9c376d62e78d1192b6f99036"
 }
