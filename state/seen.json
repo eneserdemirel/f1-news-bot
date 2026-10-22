@@ -1622,7 +1622,12 @@
   "1383552635a0d828": "2026-10-22T19:59:07.292596+00:00",
   "44f73f86d0fd72ae": "2026-10-22T19:59:07.292596+00:00",
   "7a77c496933c77f1": "2026-10-22T19:59:07.292596+00:00",
-  "a25aaa25eb133524": "2026-10-22T19:59:07.292596+00:00"
+  "a25aaa25eb133524": "2026-10-22T19:59:07.292596+00:00",
+  "abcc20c1c94af3ca": "2026-10-22T20:09:05.120314+00:00",
+  "7e418d268ad39479": "2026-10-22T20:09:05.120314+00:00",
+  "1ea5688d5efb71dc": "2026-10-22T20:09:05.120314+00:00",
+  "1c159bb7f3e34b35": "2026-10-22T20:09:05.120314+00:00",
+  "cfb3208ec2da52f5": "2026-10-22T20:09:05.120314+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1985,19 +1990,6 @@
    },
    "last": "2026-10-21T14:24:46.910769+00:00"
   },
-  "S215": {
-   "title": "Motorsport-Total generic F1 index page",
-   "first": "2026-10-20T16:28:10.833011+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T16:05:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Formel 1 bei Motorsport-Total.com - F1-News und mehr - Motorsport-Total.com"
-   },
-   "last": "2026-10-20T20:08:22.229032+00:00"
-  },
   "S218": {
    "title": "Perez calls cost cap spending rule unfair ahead of vote",
    "first": "2026-10-20T17:12:06.266418+00:00",
@@ -2046,32 +2038,6 @@
     "RacingNews365 NL": "FIA-president wil herhaling van controverse rond Masi voorkomen"
    },
    "last": "2026-10-22T07:37:36.464017+00:00"
-  },
-  "S225": {
-   "title": "Verstappen stance as contentious new rule is dropped",
-   "first": "2026-10-20T20:08:22.228981+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-20T20:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen issues clear F1 stance as contentious new rule to be dropped - RacingNews365 Review"
-   },
-   "last": "2026-10-20T20:08:22.229000+00:00"
-  },
-  "S226": {
-   "title": "Piastri odds ahead of US Grand Prix",
-   "first": "2026-10-20T20:08:22.229014+00:00",
-   "sources": {
-    "GPFans": "2026-10-20T19:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Oscar Piastri faces stark McLaren verdict ahead of US Grand Prix"
-   },
-   "last": "2026-10-20T20:08:22.229020+00:00"
   },
   "S227": {
    "title": "Daniel Ricciardo teases plans during US Grand Prix weekend",
@@ -6436,14 +6402,16 @@
    "title": "Sainz doubts F1 will finish 2026 season in Middle East",
    "first": "2026-10-22T19:39:08.827580+00:00",
    "sources": {
-    "Autosport": "2026-10-22T19:28:20+00:00"
+    "Autosport": "2026-10-22T19:28:20+00:00",
+    "The Race": "2026-10-22T20:07:29+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "Sainz yet to be \"convinced\" that F1 2026 will finish in the Middle East"
+    "Autosport": "Sainz yet to be \"convinced\" that F1 2026 will finish in the Middle East",
+    "The Race": "'Very difficult' to be convinced Middle East races go ahead - Sainz"
    },
-   "last": "2026-10-22T19:39:08.827599+00:00"
+   "last": "2026-10-22T20:09:12.199348+00:00"
   },
   "S549": {
    "title": "Antonelli says title fight 'not over yet' ahead of Austin",
@@ -6553,14 +6521,18 @@
    "title": "Hamilton explains failed split-second Singapore strategy gamble",
    "first": "2026-10-22T19:59:12.982512+00:00",
    "sources": {
-    "Crash.net": "2026-10-22T19:53:02+00:00"
+    "Crash.net": "2026-10-22T19:53:02+00:00",
+    "Sky Sports F1": "2026-10-22T20:47:00+00:00",
+    "GPblog": "2026-10-22T20:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Lewis Hamilton explains his failed “split-second” Singapore strategy gamble"
+    "Crash.net": "Lewis Hamilton explains his failed “split-second” Singapore strategy gamble",
+    "Sky Sports F1": "Hamilton gives insight into costly decision to override strategy call in Singapore",
+    "GPblog": "Hamilton recalls exact moment he realised Singapore GP gamble was wrong"
    },
-   "last": "2026-10-22T19:59:12.982517+00:00"
+   "last": "2026-10-22T20:09:12.199365+00:00"
   },
   "S558": {
    "title": "Hamilton praises Antonelli and says he deserves the title",
@@ -6574,9 +6546,35 @@
     "Corriere dello Sport": "L'ammissione di Hamilton: \"Giusto che mi abbiano sostituito con Antonelli\""
    },
    "last": "2026-10-22T19:59:12.982524+00:00"
+  },
+  "S559": {
+   "title": "Hamilton reportedly delays F1 retirement amid African race push",
+   "first": "2026-10-22T20:09:12.199354+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-22T20:03:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton 'forced' to delay F1 retirement after major decision"
+   },
+   "last": "2026-10-22T20:09:12.199360+00:00"
+  },
+  "S560": {
+   "title": "Bortoleto dreams of world title with Audi",
+   "first": "2026-10-22T20:09:12.199369+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-22T20:02:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Weltmeister mit Audi? Bortoleto träumt vom Märchen mit den vier Ringen - Motorsport-Total.com"
+   },
+   "last": "2026-10-22T20:09:12.199373+00:00"
   }
  },
- "story_seq": 558,
+ "story_seq": 560,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -6695,7 +6693,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T19:59:07.292596+00:00",
- "last_digest": "2026-10-22T19:39:14.008647+00:00",
- "last_digest_key": "9baf92c82bb86001adb2c0a3d5d7c8bd327a159a"
+ "last_run": "2026-10-22T20:09:05.120314+00:00",
+ "last_digest": "2026-10-22T20:09:18.337025+00:00",
+ "last_digest_key": "4e3c21317f5f414c401231e7f8bf8b4ecb9237c8"
 }
