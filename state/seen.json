@@ -1543,7 +1543,12 @@
   "a9f496d90f939509": "2026-10-22T17:29:06.362958+00:00",
   "dcb9fb52a24378c1": "2026-10-22T17:29:06.362958+00:00",
   "e737d0ed4c0484f8": "2026-10-22T17:39:08.120371+00:00",
-  "ef78374ef25fcdc4": "2026-10-22T17:39:08.120371+00:00"
+  "ef78374ef25fcdc4": "2026-10-22T17:39:08.120371+00:00",
+  "46503b660411df87": "2026-10-22T17:49:05.677015+00:00",
+  "cc1bbf87afaae58c": "2026-10-22T17:49:05.677015+00:00",
+  "e9cb1adee496e0ca": "2026-10-22T17:49:05.677015+00:00",
+  "5a1a157c24f8c1df": "2026-10-22T17:49:05.677015+00:00",
+  "64f2253ebd0d729a": "2026-10-22T17:49:05.677015+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4173,7 +4178,7 @@
    "titles": {
     "ESPN F1": "OFI Crete vs. Leverkusen (22 Oct, 2026) Live Score"
    },
-   "last": "2026-10-22T07:17:38.231054+00:00"
+   "last": "2026-10-22T17:49:10.308704+00:00"
   },
   "S377": {
    "title": "ESPN Global generic page",
@@ -5734,14 +5739,16 @@
    "title": "Aston Martin confirms Stroll replaced in Mexico City FP1",
    "first": "2026-10-22T16:18:23.192044+00:00",
    "sources": {
-    "RacingNews365": "2026-10-22T16:10:00+00:00"
+    "RacingNews365": "2026-10-22T16:10:00+00:00",
+    "PlanetF1": "2026-10-22T17:45:14+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Aston Martin confirm Mexico City first practice driver replacement"
+    "RacingNews365": "Aston Martin confirm Mexico City first practice driver replacement",
+    "PlanetF1": "Lance Stroll to miss Mexican GP FP1 as Aston Martin reserve steps in"
    },
-   "last": "2026-10-22T16:18:23.192048+00:00"
+   "last": "2026-10-22T17:49:10.308727+00:00"
   },
   "S495": {
    "title": "Kim Kardashian hints at Lewis Hamilton on TV show",
@@ -5877,14 +5884,16 @@
    "title": "Norris at risk of unprecedented fate as 2026 champion",
    "first": "2026-10-22T16:48:24.775349+00:00",
    "sources": {
-    "GPblog": "2026-10-22T16:45:00+00:00"
+    "GPblog": "2026-10-22T16:45:00+00:00",
+    "Motorsport-Total": "2026-10-22T17:42:28+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Lando Norris risks becoming first F1 champion in 29 years to suffer this fate"
+    "GPblog": "Lando Norris risks becoming first F1 champion in 29 years to suffer this fate",
+    "Motorsport-Total": "Weltmeister Lando Norris droht die schlechteste Titelverteidigung seit 1997 - Motorsport-Total.com"
    },
-   "last": "2026-10-22T16:48:24.775352+00:00"
+   "last": "2026-10-22T17:49:10.308741+00:00"
   },
   "S506": {
    "title": "Horner reveals Hamilton wanted Red Bull move in 2012",
@@ -6004,9 +6013,35 @@
     "RacingNews365 NL": "Aston Martin laat Horner-claims over Newey links liggen"
    },
    "last": "2026-10-22T17:39:12.852267+00:00"
+  },
+  "S515": {
+   "title": "Verstappen streak triggers 'sense of resignation' among rivals",
+   "first": "2026-10-22T17:49:10.308714+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-22T17:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen statistic triggering ‘sense of resignation’ among F1 rivals"
+   },
+   "last": "2026-10-22T17:49:10.308721+00:00"
+  },
+  "S516": {
+   "title": "Opinion: Antonelli title trap, only Verstappen wins",
+   "first": "2026-10-22T17:49:10.308731+00:00",
+   "sources": {
+    "GPFans": "2026-10-22T17:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Kimi Antonelli is falling into an F1 title trap and only Max Verstappen wins"
+   },
+   "last": "2026-10-22T17:49:10.308735+00:00"
   }
  },
- "story_seq": 514,
+ "story_seq": 516,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -6125,7 +6160,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T17:39:08.120371+00:00",
+ "last_run": "2026-10-22T17:49:05.677015+00:00",
  "last_digest": "2026-10-22T17:39:20.555497+00:00",
  "last_digest_key": "139e81e8697088ca610194335ecd754ca511eae2"
 }
