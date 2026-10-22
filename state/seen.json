@@ -1704,7 +1704,9 @@
   "69425fffbc87e4be": "2026-10-22T23:09:41.462799+00:00",
   "92a10c73d7d0cc55": "2026-10-22T23:19:40.226900+00:00",
   "07c0c48e3dc67a00": "2026-10-22T23:19:40.226900+00:00",
-  "ddcb7d63a4360bf5": "2026-10-22T23:29:41.052714+00:00"
+  "ddcb7d63a4360bf5": "2026-10-22T23:29:41.052714+00:00",
+  "af6504bf9a3dc266": "2026-10-22T23:39:44.127418+00:00",
+  "ac791ebec1a49893": "2026-10-22T23:39:44.127418+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7114,15 +7116,17 @@
    "first": "2026-10-22T22:29:46.162542+00:00",
    "sources": {
     "The Race": "2026-10-22T22:25:53+00:00",
-    "Crash.net": "2026-10-22T23:11:18+00:00"
+    "Crash.net": "2026-10-22T23:11:18+00:00",
+    "Sky Sports F1": "2026-10-23T00:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Verstappen’s spinal damage fears from ‘out of control’ F1 bumps",
-    "Crash.net": "Max Verstappen reveals spinal damage fears from “out of control” COTA F1 track bumps"
+    "Crash.net": "Max Verstappen reveals spinal damage fears from “out of control” COTA F1 track bumps",
+    "Sky Sports F1": "Verstappen criticises 'unacceptable' COTA surface amid concerns over injury"
    },
-   "last": "2026-10-22T23:19:42.947820+00:00"
+   "last": "2026-10-22T23:39:47.164175+00:00"
   },
   "S599": {
    "title": "Feature on how Antonelli will handle title pressure",
@@ -7292,9 +7296,22 @@
     "ESPN F1": "2026 'College GameDay' Week 8: Houston vs. Utah"
    },
    "last": "2026-10-22T23:29:42.701683+00:00"
+  },
+  "S612": {
+   "title": "Borac vs KuPS Kuopio player stats (football, not F1)",
+   "first": "2026-10-22T23:39:47.164147+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T19:46:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Borac vs. KuPS Kuopio (22 de Oct., 2026) Estadísticas de jugadores"
+   },
+   "last": "2026-10-22T23:39:47.164168+00:00"
   }
  },
- "story_seq": 611,
+ "story_seq": 612,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -7413,7 +7430,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-22T23:29:41.052714+00:00",
- "last_digest": "2026-10-22T23:09:50.316446+00:00",
- "last_digest_key": "8b424226ab4442a9617a483794ab88bd83e1d7f2"
+ "last_run": "2026-10-22T23:39:44.127418+00:00",
+ "last_digest": "2026-10-22T23:39:47.164537+00:00",
+ "last_digest_key": "5a420a21ea7b35b2505fc498c12742d28266fac8"
 }
