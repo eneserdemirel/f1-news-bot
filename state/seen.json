@@ -1434,7 +1434,8 @@
   "22cad82e6d784ebf": "2026-10-22T13:08:16.510755+00:00",
   "2eff92fa9f5d3ff5": "2026-10-22T13:08:16.510755+00:00",
   "8b5d2d39c9f3e6bc": "2026-10-22T13:08:16.510755+00:00",
-  "72b2feccdae432da": "2026-10-22T13:08:16.510755+00:00"
+  "72b2feccdae432da": "2026-10-22T13:08:16.510755+00:00",
+  "dbae26fe283543a2": "2026-10-22T13:18:16.050843+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1538,20 +1539,6 @@
     "GPblog": "Verstappen debriefs adventure: 'That made me more nervous than driving in F1'"
    }
   },
-  "S145": {
-   "title": "Williams to name 2027 car FW50 for 50th anniversary",
-   "first": "2026-10-19T18:42:47.101849+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-19T18:00:00+00:00",
-    "AS": "2026-10-20T12:52:53+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "last": "2026-10-20T13:16:21.520881+00:00",
-   "titles": {
-    "AS": "Sainz piensa en grande"
-   }
-  },
   "S146": {
    "title": "Horner on Verstappen's needs and RB22 turnaround",
    "first": "2026-10-19T18:42:47.101860+00:00",
@@ -1630,23 +1617,6 @@
     "Motorsport Week": "Former F1 supplier lodges court case ahead of US GP"
    },
    "last": "2026-10-20T19:01:31.930693+00:00"
-  },
-  "S168": {
-   "title": "Barcelona to host major motorsport event in 2027 during F1 break",
-   "first": "2026-10-20T08:18:07.795682+00:00",
-   "sources": {
-    "Crash.net": "2026-10-20T08:06:00+00:00",
-    "RacingNews365": "2026-10-20T08:45:00+00:00",
-    "PlanetF1": "2026-10-20T12:18:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Barcelona set to host surprise major motorsport event after F1 calendar rotation",
-    "RacingNews365": "Barcelona to fill looming F1 void as eye-catching contract signed - report",
-    "PlanetF1": "IndyCar set for Barcelona debut after F1 calendar change"
-   },
-   "last": "2026-10-20T13:16:21.520857+00:00"
   },
   "S172": {
    "title": "McLaren to auction five iconic F1 cars",
@@ -5309,9 +5279,22 @@
     "Auto Motor und Sport": "Kostenlos anschauen: Darum geht es neuen Sebastian-Vettel-Doku"
    },
    "last": "2026-10-22T13:08:22.282401+00:00"
+  },
+  "S453": {
+   "title": "Mercedes new front wing update at COTA analysed",
+   "first": "2026-10-22T13:18:20.097655+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-22T13:07:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mercedes bringt neuen Frontflügel: Warum das Update so wichtig ist - Motorsport-Total.com"
+   },
+   "last": "2026-10-22T13:18:20.097673+00:00"
   }
  },
- "story_seq": 452,
+ "story_seq": 453,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -5430,7 +5413,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T13:08:16.510755+00:00",
+ "last_run": "2026-10-22T13:18:16.050843+00:00",
  "last_digest": "2026-10-22T13:08:25.060549+00:00",
  "last_digest_key": "fcb00616e22be3f3ce69b0854546a5b749a04bc4"
 }
