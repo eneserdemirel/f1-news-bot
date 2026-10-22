@@ -1359,7 +1359,10 @@
   "77bf27130b14b21b": "2026-10-22T09:57:33.707662+00:00",
   "b8be7cf4cf556af3": "2026-10-22T10:07:30.834315+00:00",
   "98f75fc047997a5e": "2026-10-22T10:07:30.834315+00:00",
-  "992243102cf0dd3e": "2026-10-22T10:07:30.834315+00:00"
+  "992243102cf0dd3e": "2026-10-22T10:07:30.834315+00:00",
+  "7813001173863a55": "2026-10-22T10:17:35.231662+00:00",
+  "93b7618d603f18e7": "2026-10-22T10:17:35.231662+00:00",
+  "b48c92ee1e7fdbfa": "2026-10-22T10:17:35.231662+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1619,45 +1622,6 @@
     "GPFans": "F1 2027 grid with Ferrari prodigy CONFIRMED and three seats still open"
    },
    "last": "2026-10-20T10:43:48.858719+00:00"
-  },
-  "S178": {
-   "title": "Anniversary of Verstappen-Norris fight and Ferrari 1-2 milestone",
-   "first": "2026-10-20T10:09:00.362829+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-20T09:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Verstappen-Norris fight fundamentally alters F1 as Ferrari hit milestone for latest time"
-   },
-   "last": "2026-10-20T10:09:00.362847+00:00"
-  },
-  "S179": {
-   "title": "Verstappen points to Hadjar as Red Bull's next number one",
-   "first": "2026-10-20T10:09:00.362858+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-20T09:51:26+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Red Bull’s next number one? Verstappen points to Hadjar"
-   },
-   "last": "2026-10-20T10:09:00.362862+00:00"
-  },
-  "S180": {
-   "title": "Lawson holds live concert before Austin weekend",
-   "first": "2026-10-20T10:09:00.362879+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T10:02:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Liam Lawson: Live-Konzert statt Renncockpit vor dem Austin-Wochenende - Motorsport-Total.com"
-   },
-   "last": "2026-10-20T10:09:00.362882+00:00"
   },
   "S181": {
    "title": "Verstappen's back-to-back wins make him third repeat winner this season",
@@ -1994,7 +1958,7 @@
     "GPFans": "Mercedes boss confirms plans for upgrades at US Grand Prix after Antonelli tease",
     "RacingNews365": "Mercedes detail latest F1 approach after unusual car experiment"
    },
-   "last": "2026-10-22T09:37:39.521750+00:00"
+   "last": "2026-10-22T10:17:38.754506+00:00"
   },
   "S202": {
    "title": "MotoGP bikes to hold demonstration laps at F1 US Grand Prix",
@@ -4749,14 +4713,16 @@
    "title": "Verstappen can equal Hamilton's Austin win record this weekend",
    "first": "2026-10-22T08:47:35.078115+00:00",
    "sources": {
-    "GPblog": "2026-10-22T08:45:00+00:00"
+    "GPblog": "2026-10-22T08:45:00+00:00",
+    "RacingNews365 NL": "2026-10-22T10:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Max Verstappen can equal Lewis Hamilton's long-standing Austin record this weekend"
+    "GPblog": "Max Verstappen can equal Lewis Hamilton's long-standing Austin record this weekend",
+    "RacingNews365 NL": "Verstappen op jacht naar evenaring Hamilton-record"
    },
-   "last": "2026-10-22T08:47:35.078120+00:00"
+   "last": "2026-10-22T10:17:38.754497+00:00"
   },
   "S402": {
    "title": "Retrospective on 2023 Austin Hamilton and Leclerc disqualifications",
@@ -4902,9 +4868,22 @@
     "ESPN F1": "Miami Dolphins, New York Jets have clear plans for future success"
    },
    "last": "2026-10-22T10:07:33.324543+00:00"
+  },
+  "S413": {
+   "title": "Caleb Williams and Chicago sports friends feature",
+   "first": "2026-10-22T10:17:38.754464+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T10:08:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Inside Caleb Williams' group of famous Chicago sports friends"
+   },
+   "last": "2026-10-22T10:17:38.754487+00:00"
   }
  },
- "story_seq": 412,
+ "story_seq": 413,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -5023,7 +5002,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T10:07:30.834315+00:00",
+ "last_run": "2026-10-22T10:17:35.231662+00:00",
  "last_digest": "2026-10-22T10:07:33.325079+00:00",
  "last_digest_key": "683648cfd93cefc39f27c3eeb3dfddd17b6e6469"
 }
