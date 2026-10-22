@@ -1578,7 +1578,11 @@
   "6d5a737b7dff0cde": "2026-10-22T18:09:04.771388+00:00",
   "1aaa8b7e4975784f": "2026-10-22T18:09:04.771388+00:00",
   "3aa7db6048f5fc73": "2026-10-22T18:19:06.731256+00:00",
-  "879e1beb200ba8ce": "2026-10-22T18:19:06.731256+00:00"
+  "879e1beb200ba8ce": "2026-10-22T18:19:06.731256+00:00",
+  "beed0737bcd94121": "2026-10-22T18:29:02.077327+00:00",
+  "2fba50bf2028d952": "2026-10-22T18:29:02.077327+00:00",
+  "395cebe52e8fc5ad": "2026-10-22T18:29:02.077327+00:00",
+  "c1c557b6483c84b5": "2026-10-22T18:29:02.077327+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6166,9 +6170,48 @@
     "Formula 1": "Best value early odds for the United States Grand Prix"
    },
    "last": "2026-10-22T18:19:11.055040+00:00"
+  },
+  "S525": {
+   "title": "Retrospective on Taylor Swift's 2016 Austin F1 performance",
+   "first": "2026-10-22T18:29:06.219187+00:00",
+   "sources": {
+    "Formula 1": "2026-10-22T18:29:06.219202+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "When Taylor Swift performed at the United States GP weekend"
+   },
+   "last": "2026-10-22T18:29:06.219206+00:00"
+  },
+  "S526": {
+   "title": "Alonso says Aston Martin understands its problems but can't disclose all",
+   "first": "2026-10-22T18:29:06.219212+00:00",
+   "sources": {
+    "GPblog": "2026-10-22T18:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Alonso makes intriguing Aston Martin admission: 'We cannot tell you everything'"
+   },
+   "last": "2026-10-22T18:29:06.219217+00:00"
+  },
+  "S527": {
+   "title": "McLaren puts historic Senna, Hamilton, Berger and Piastri cars up for auction",
+   "first": "2026-10-22T18:29:06.219222+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-10-22T18:24:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Le storiche McLaren di Senna, Hamilton, Berger e Piastri all'asta: il prezzo è altissimo"
+   },
+   "last": "2026-10-22T18:29:06.219228+00:00"
   }
  },
- "story_seq": 524,
+ "story_seq": 527,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -6287,7 +6330,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T18:19:06.731256+00:00",
+ "last_run": "2026-10-22T18:29:02.077327+00:00",
  "last_digest": "2026-10-22T18:09:14.664875+00:00",
  "last_digest_key": "004ac76fa2a08befb99ec3bacd4440df69da3f6e"
 }
