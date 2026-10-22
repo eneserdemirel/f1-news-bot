@@ -67,17 +67,9 @@ For EVERY new item return one JSON object with:
     3-4 = minor quotes, previews, routine updates
     1-2 = filler, opinion pieces, listicles, quizzes, betting, merchandise,
           or NOT about Formula 1 (other series, road cars, other sports)
-- "story": the id of a tracked story (e.g. "S12") ONLY if this item reports the SAME specific news:
-  the same event, announcement, decision or result, or the same statement by the same person on the
-  same subject. Otherwise give a new label "N1", "N2", ... Items in this list that report the same
-  new news share the same N label.
-  These are DIFFERENT stories even when they share a driver, team or topic: statements by different
-  people (e.g. one driver's comment and another driver's comment on the same issue), different claims
-  or revelations from the same book, interview or press conference, an analysis, column or opinion
-  piece versus the news itself, a preview versus a result, a new development versus older news.
-  But the same news reported by different outlets is the SAME story, even with different wording,
-  headline or angle: compare with the headlines listed under each tracked story.
-  When unsure, treat it as a new story: a missed news item is worse than a near-duplicate.
+- "story": the id of the tracked story this item is about (e.g. "S12"), or a new label
+  "N1", "N2", ... if it is a new story. Items in this list about the same new story share the same N label.
+  Different angles or reactions to the same event belong to the same story.
 - "title": for a new story, a short neutral English label of max 12 words; otherwise ""
 - "update": true only if the story is marked [posted] AND this item adds a significant new
   development (official confirmation, verdict, new key fact); otherwise false
@@ -95,17 +87,14 @@ Haber metni:
 </metin>
 
 Kurallar:
-1. "title_tr": haberin özünü veren kısa bir Türkçe başlık (en fazla yaklaşık 10 kelime). Haberi
-   olduğu gibi söylesin; merak uyandırmak için bilgiyi saklama, abartma, emoji kullanma.
-2. "post_tr": haberin Türkçe özeti, başlığın altına gelecek. Başlığı aynen tekrar etme. Basit bir
-   haberse 1-2 cümle, detaylı bir haberse en önemli bilgileri içeren kısa bir paragraf
-   (en fazla yaklaşık 500 karakter). Önemli bilgileri atma ama ikinci planda kalan arka plan
-   bilgilerini ve tekrarları çıkar.
-3. Sadece metinde yazanlara tamamen sadık kal. Metinde olmayan bilgi, yorum veya tahmin ekleme.
+1. Haberi gerektiği kadar özetle: basit bir haberse 1-2 cümle, detaylı bir haberse önemli bilgilerin
+   hepsini içeren kısa bir paragraf (en fazla yaklaşık 700 karakter).
+2. Sadece metinde yazanlara tamamen sadık kal. Metinde olmayan bilgi, yorum veya tahmin ekleme.
    Metin sadece bir başlıktan ibaretse sadece başlıktaki bilgiyi aktar.
-4. Haberde önemli bir demeç varsa en önemli kısmını anlamını değiştirmeden Türkçeye çevir ve
-   kimin söylediğini belirterek özete tırnak içinde ekle. Sadece metinde geçen sözleri kullan.
-5. Hashtag, emoji, link veya kaynak satırı ekleme.
+3. Haberde önemli bir demeç varsa en önemli kısmını anlamını değiştirmeden Türkçeye çevir ve
+   kimin söylediğini belirterek tırnak içinde ekle. Sadece metinde geçen sözleri kullan.
+4. Metin "🚨 | " ile başlasın. Hashtag, link veya kaynak satırı ekleme.
+5. "title_tr": haberin başlığını anlamını değiştirmeden doğal bir Türkçe haber başlığına çevir.
 6. "official": haber resmi bir duyuru ya da resmi açıklamaysa (takım, FIA, F1, mahkeme vb. tarafından
    resmen açıklanmış) true, değilse false.
 Sadece JSON döndür: {"title_tr": "...", "post_tr": "...", "official": true}"""
@@ -388,13 +377,12 @@ def extract_json(text, opener):
     raise ValueError("JSON bulunamadı: " + text[:200])
 
 
-def triage(client, model, items, stories, effort="low", tag="a"):
+def triage(client, model, items, stories, effort="low"):
     """Her haber için puan, hikaye ve gelişme bilgisini döndürür."""
-    recent = sorted(stories.items(), key=lambda kv: kv[1]["last"], reverse=True)[:80]
-    def story_line(sid, s):  # hikaye etiketi + sitelerin başlıkları (eşleştirme için)
-        heads = " || ".join(t[:110] for t in list(dict.fromkeys(s.get("titles", {}).values()))[:3])
-        return f'{sid} {"[posted] " if s["posted"] else ""}{s["title"]}' + (f" | headlines: {heads}" if heads else "")
-    story_txt = "\n".join(story_line(sid, s) for sid, s in recent) or "(none)"
+    recent = sorted(stories.items(), key=lambda kv: kv[1]["last"], reverse=True)[:200]
+    story_txt = "\n".join(f'{sid} {"[posted] " if s["posted"] else ""}{s["title"]}'
+                           f' | {next(iter(s.get("titles", {}).values()), "")[:90]}'
+                           for sid, s in recent) or "(none)"
     results = {}
     for c in range(0, len(items), 50):
         chunk = items[c:c + 50]
@@ -410,7 +398,7 @@ def triage(client, model, items, stories, effort="low", tag="a"):
                     "title": (d.get("title") or "").strip(),
                     "update": bool(d.get("update", False)),
                     "f1": bool(d.get("f1", int(d.get("score", 1)) >= 3)),
-                    "chunk": f"{tag}{c}",
+                    "chunk": c,
                 }
     return results
 
@@ -448,6 +436,85 @@ def trending_count(story, window_min):
     return sum(1 for t in story["sources"].values() if datetime.fromisoformat(t) >= cut)
 
 
+DEDUP_PROMPT = """You check a Formula 1 news feed for duplicates.
+
+Already sent in the last 36 hours:
+<<SENT>>
+
+New candidates:
+<<NEW>>
+
+A candidate is a DUPLICATE if it reports the same news as an already-sent item or as an EARLIER
+candidate in the list: the same event, announcement, decision, quote or claim, even if it comes from
+a different site, is in a different language, or is worded or angled differently.
+It is NOT a duplicate if it reports a genuinely new development (official confirmation of an earlier
+rumour, a verdict, a new statement by a different person, a new fact).
+Return only a JSON array with one object per duplicate candidate: {"c": candidate number, "dup_of": "S123" or "C2"}.
+Return [] if there are no duplicates."""
+
+
+def _words(t):
+    return {w for w in re.findall(r"[a-zà-ÿ0-9]+", (t or "").lower()) if len(w) > 3}
+
+
+def dedupe(client, model, chosen, state, effort="medium"):
+    """Gönderilmeden önce son kontrol: daha önce gönderilmiş ya da listede tekrar eden haberleri ayıklar."""
+    if not chosen:
+        return chosen
+    cut = now() - timedelta(hours=36)
+    sent = [(sid, st) for sid, st in state["stories"].items()
+            if st["posted"] and datetime.fromisoformat(st["last"]) > cut]
+    # 1) ücretsiz kontrol: neredeyse aynı başlık daha önce gönderildiyse
+    keep = []
+    for it in chosen:
+        w = _words(it["title"])
+        twin = None
+        for sid, st in sent:
+            for t in st.get("titles", {}).values():
+                o = _words(t)
+                if w and o and len(w & o) / len(w | o) >= 0.6 and sid != it["story"]:
+                    twin = sid
+                    break
+            if twin:
+                break
+        if twin:
+            log(f"  tekrar (başlık benzer, {twin}): {it['title'][:80]}")
+            state["stories"][it["story"]]["posted"] = True
+        else:
+            keep.append(it)
+    if not keep:
+        return keep
+    # 2) Claude ile anlam kontrolü
+    sent_txt = "\n".join(f'{sid}: {st["title"]} | {next(iter(st.get("titles", {}).values()), "")[:90]}'
+                          for sid, st in sorted(sent, key=lambda kv: kv[1]["last"], reverse=True)[:250]) or "(none)"
+    new_txt = "\n".join(f'C{i}: [{it["source"]}] {it["title"]} | {it["summary"][:200]}' for i, it in enumerate(keep))
+    prompt = DEDUP_PROMPT.replace("<<SENT>>", sent_txt).replace("<<NEW>>", new_txt)
+    try:
+        dups = extract_json(ask_claude(client, model, prompt, 4000, effort=effort), "[")
+    except Exception as e:
+        if "JSON bulunamadı" in str(e):
+            dups = []
+        else:
+            log(f"Tekrar kontrolü başarısız, hepsi gönderilecek: {e}")
+            return keep
+    drop = set()
+    for d in dups:
+        try:
+            c = int(str(d.get("c", "")).lstrip("Cc"))
+        except ValueError:
+            continue
+        if 0 <= c < len(keep) and keep[c]["story"] != d.get("dup_of"):
+            drop.add(c)
+    out = []
+    for i, it in enumerate(keep):
+        if i in drop:
+            log(f"  tekrar (anlam): {it['title'][:80]}")
+            state["stories"][it["story"]]["posted"] = True
+        else:
+            out.append(it)
+    return out
+
+
 def select(items, state, s):
     """Önem puanına bakmadan: daha önce gönderilmemiş her F1 hikayesinden bir haber, artı önemli gelişmeler."""
     best = {}
@@ -460,17 +527,13 @@ def select(items, state, s):
         cur = best.get(it["story"])
         if cur is None or (it["score"], -it["priority"]) > (cur["score"], -cur["priority"]):
             best[it["story"]] = it
-    return sorted(best.values(), key=lambda x: (x["time"] or now()))  # eskiden yeniye
+    chosen = sorted(best.values(), key=lambda x: (x["time"] or now()))  # eskiden yeniye
+    return chosen[: s.get("max_posts_per_run", 40)]
 
 
 def fix_prefix(s):
     s = (s or "").strip()
     return s if s.startswith(PREFIX) else PREFIX + s.lstrip("🚨| ").strip()
-
-
-def tr_upper(s):
-    """Türkçe büyük harf: i -> İ, ı -> I (Python'un upper() fonksiyonu i'yi I yapar)."""
-    return s.replace("i", "İ").replace("ı", "I").upper()
 
 
 def article_text(it):
@@ -492,10 +555,7 @@ def write_post(client, model, it, effort="medium"):
     prompt = (WRITE_PROMPT.replace("<<SOURCE>>", it["source"])
               .replace("<<TITLE>>", it["title"]).replace("<<TEXT>>", text))
     data = extract_json(ask_claude(client, model, prompt, 3000, effort=effort, thinking=False), "{")
-    body = (data.get("post_tr") or "").strip().lstrip("🚨| ").strip()
-    title = (data.get("title_tr") or "").strip().lstrip("🚨| ").strip().rstrip(".")
-    # Paylaşım metni: "🚨 | BÜYÜK HARFLİ BAŞLIK", boş satır, özet
-    data["post_tr"] = f"{PREFIX}{tr_upper(title)}\n\n{body}" if title else fix_prefix(body)
+    data["post_tr"] = fix_prefix(data.get("post_tr"))
     return data
 
 
@@ -532,7 +592,8 @@ def alert(state, msg, hours=3):
 def format_msg(it, p, header=""):
     e = html.escape
     official = "✅ <b>Resmi</b>\n" if p.get("official") is True else ""
-    return f'{official}<pre>{e(p["post_tr"])}</pre>\n🔗 {e(it["link"])}'
+    title = (p.get("title_tr") or it["title"]).strip()
+    return f'{official}<b>{e(title)}</b>\n<pre>{e(p["post_tr"])}</pre>\n🔗 {e(it["link"])}'
 
 
 def trend_line(story, window):
@@ -669,32 +730,17 @@ def process(cfg, state):
         return
 
     client = Anthropic()
-    t_effort = s.get("triage_effort", "low")
     try:
-        tri = triage(client, model, fresh, state["stories"], t_effort)
+        tri = triage(client, model, fresh, state["stories"], s.get("triage_effort", "low"))
     except Exception as e:
         for it in fresh:  # kaybolmasın, sonraki çalışmada tekrar denensin
             state["seen"].pop(it["id"], None)
         alert(state, f"Haber puanlama başarısız: {e}")
         return
-    missing = [it for it in fresh if it["id"] not in tri]
-    if missing:  # model bazı haberleri cevapsız bıraktıysa onları bir kez daha sor
-        log(f"Puanlamada atlanan {len(missing)} haber tekrar soruluyor")
-        try:
-            tri.update(triage(client, model, missing, state["stories"], t_effort, tag="b"))
-        except Exception as e:
-            log(f"Tekrar puanlama başarısız: {e}")
-    for it in fresh:
-        if it["id"] not in tri:  # yine cevap yoksa kaybolmasın, sonraki çalışmada tekrar denensin
-            state["seen"].pop(it["id"], None)
-            log(f"  puanlanamadı, sonra denenecek: [{it['source']}] {it['title'][:80]}")
     assign_stories(state, fresh, tri)
 
     chosen = select(fresh, state, s)
-    cap = s.get("max_posts_per_run", 40)
-    for it in chosen[cap:]:  # sınırı aşanlar kaybolmasın, sonraki çalışmada gönderilsin
-        state["seen"].pop(it["id"], None)
-    chosen = chosen[:cap]
+    chosen = dedupe(client, model, chosen, state, s.get("triage_effort", "medium"))
     log(f"Seçilen: {len(chosen)}")
     effort = s.get("write_effort", "medium")
 
