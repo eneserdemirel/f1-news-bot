@@ -1582,7 +1582,12 @@
   "beed0737bcd94121": "2026-10-22T18:29:02.077327+00:00",
   "2fba50bf2028d952": "2026-10-22T18:29:02.077327+00:00",
   "395cebe52e8fc5ad": "2026-10-22T18:29:02.077327+00:00",
-  "c1c557b6483c84b5": "2026-10-22T18:29:02.077327+00:00"
+  "c1c557b6483c84b5": "2026-10-22T18:29:02.077327+00:00",
+  "c17a8fac89a9c0e8": "2026-10-22T18:39:02.219435+00:00",
+  "7dac464218d559ce": "2026-10-22T18:39:02.219435+00:00",
+  "54e2e3de74ff31d3": "2026-10-22T18:39:02.219435+00:00",
+  "bdd44299118872da": "2026-10-22T18:39:02.219435+00:00",
+  "ce3a5e2fe6fbd339": "2026-10-22T18:39:02.219435+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5603,15 +5608,17 @@
    "first": "2026-10-22T15:38:20.299973+00:00",
    "sources": {
     "RacingNews365": "2026-10-22T15:33:00+00:00",
-    "RacingNews365 NL": "2026-10-22T15:30:00+00:00"
+    "RacingNews365 NL": "2026-10-22T15:30:00+00:00",
+    "PlanetF1": "2026-10-22T18:37:32+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Renault agrees sale of former F1 engine headquarters",
-    "RacingNews365 NL": "Renault verkoopt voormalige F1-motorfabriek"
+    "RacingNews365 NL": "Renault verkoopt voormalige F1-motorfabriek",
+    "PlanetF1": "Renault’s historic F1 engine factory faces uncertain future after major decision"
    },
-   "last": "2026-10-22T15:38:20.299984+00:00"
+   "last": "2026-10-22T18:39:07.150657+00:00"
   },
   "S483": {
    "title": "Verstappen and Red Bull eye McLaren in constructors' third-place battle",
@@ -6209,9 +6216,61 @@
     "Corriere dello Sport": "Le storiche McLaren di Senna, Hamilton, Berger e Piastri all'asta: il prezzo è altissimo"
    },
    "last": "2026-10-22T18:29:06.219228+00:00"
+  },
+  "S528": {
+   "title": "SA side wins through rain, nerves and late drama",
+   "first": "2026-10-22T18:39:07.150606+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T18:32:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "SA flex their championship mettle through rain, nerves and late drama"
+   },
+   "last": "2026-10-22T18:39:07.150623+00:00"
+  },
+  "S529": {
+   "title": "Ravens' Hendrickson comments on facing Bengals",
+   "first": "2026-10-22T18:39:07.150630+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T17:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ravens' Hendrickson on facing Bengals - 'It's not about me'"
+   },
+   "last": "2026-10-22T18:39:07.150636+00:00"
+  },
+  "S530": {
+   "title": "Mike Locksley on Maryland firing and coaching options",
+   "first": "2026-10-22T18:39:07.150640+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T17:04:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mike Locksley 'at peace' with Maryland firing, open to NFL, college OC jobs"
+   },
+   "last": "2026-10-22T18:39:07.150644+00:00"
+  },
+  "S531": {
+   "title": "Colapinto video statement urging end to fan online abuse",
+   "first": "2026-10-22T18:39:07.150648+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-22T18:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Franco Colapinto explains 'last act' behind 'hate side' condemnation video"
+   },
+   "last": "2026-10-22T18:39:07.150652+00:00"
   }
  },
- "story_seq": 527,
+ "story_seq": 531,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -6330,7 +6389,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T18:29:02.077327+00:00",
- "last_digest": "2026-10-22T18:09:14.664875+00:00",
- "last_digest_key": "004ac76fa2a08befb99ec3bacd4440df69da3f6e"
+ "last_run": "2026-10-22T18:39:02.219435+00:00",
+ "last_digest": "2026-10-22T18:39:17.087806+00:00",
+ "last_digest_key": "3d8e4039f0b6a68247769529836ff2547eda5989"
 }
