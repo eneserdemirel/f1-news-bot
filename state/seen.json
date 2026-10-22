@@ -1407,7 +1407,10 @@
   "86e058e7df7c30b0": "2026-10-22T12:18:15.459038+00:00",
   "8a03e6ce96724b79": "2026-10-22T12:18:15.459038+00:00",
   "c28aa457a850c2c9": "2026-10-22T12:18:15.459038+00:00",
-  "ee70b0badf086c75": "2026-10-22T12:18:15.459038+00:00"
+  "ee70b0badf086c75": "2026-10-22T12:18:15.459038+00:00",
+  "376f78d863790a22": "2026-10-22T12:28:16.200455+00:00",
+  "8189e338823af87a": "2026-10-22T12:28:16.200455+00:00",
+  "b709bfba74af354f": "2026-10-22T12:28:16.200455+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1725,21 +1728,6 @@
    },
    "last": "2026-10-21T12:05:20.452192+00:00"
   },
-  "S192": {
-   "title": "Ferrari brings update package to Austin after doubts",
-   "first": "2026-10-20T11:15:06.272568+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T10:45:08+00:00",
-    "GPFans": "2026-10-20T11:57:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Update-Paket nach Sorgen doch bereit: Ferrari rüstet für Austin auf - Motorsport-Total.com",
-    "GPFans": "Ferrari plot key 2027 F1 car change as new details emerge"
-   },
-   "last": "2026-10-20T12:25:49.556488+00:00"
-  },
   "S193": {
    "title": "FIA separates F1 teams from other projects to stop information sharing",
    "first": "2026-10-20T11:53:03.516793+00:00",
@@ -1798,19 +1786,6 @@
     "GPFans": "Max Verstappen reveals COTA track concern ahead of US Grand Prix"
    },
    "last": "2026-10-21T19:55:27.507208+00:00"
-  },
-  "S199": {
-   "title": "Alpine 2024 Formula 1 car to be auctioned as collector's item",
-   "first": "2026-10-20T12:25:49.556493+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T12:02:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Auktion: Alpine-Formel-1-Auto von 2024 wird zum Sammlerstück - Motorsport-Total.com"
-   },
-   "last": "2026-10-20T12:25:49.556497+00:00"
   },
   "S200": {
    "title": "F1 to reverse 2027 shortened race distances in 2028",
@@ -4054,7 +4029,7 @@
     "Autosport": "Horner reveals Red Bull call to thank him for F1 engine project after maiden win",
     "Motorsport-Total": "Horner nach Anruf von Red-Bull-Bossen: \"Anders als vor 15 Monaten ...\" - Motorsport-Total.com"
    },
-   "last": "2026-10-22T11:47:41.168023+00:00"
+   "last": "2026-10-22T12:28:20.393689+00:00"
   },
   "S358": {
    "title": "Watanabe describes Honda-Aston Martin engine and chassis teamwork",
@@ -5107,9 +5082,35 @@
     "Auto Motor und Sport": "Formel 1: Warum verscherbelt McLaren sein F1-Tafelsilber?"
    },
    "last": "2026-10-22T12:18:21.786380+00:00"
+  },
+  "S438": {
+   "title": "NFL fantasy football playbook for Week 7",
+   "first": "2026-10-22T12:28:20.393656+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T12:22:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy playbook: NFL Week 7 Shadow Reports, lineup locks and projected scores"
+   },
+   "last": "2026-10-22T12:28:20.393674+00:00"
+  },
+  "S439": {
+   "title": "Texas college football season outlook with Sarkisian and Manning",
+   "first": "2026-10-22T12:28:20.393678+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Can Steve Sarkisian and Arch Manning save Texas' season?"
+   },
+   "last": "2026-10-22T12:28:20.393683+00:00"
   }
  },
- "story_seq": 437,
+ "story_seq": 439,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -5228,7 +5229,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T12:18:15.459038+00:00",
+ "last_run": "2026-10-22T12:28:16.200455+00:00",
  "last_digest": "2026-10-22T12:08:26.787669+00:00",
  "last_digest_key": "bf77eb733f43e407677b5fe19e4182d5764956d1"
 }
