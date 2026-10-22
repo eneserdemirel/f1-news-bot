@@ -1223,7 +1223,8 @@
   "8abb34438478491c": "2026-10-22T02:27:08.058907+00:00",
   "b0a279d0d4baafee": "2026-10-22T02:27:08.058907+00:00",
   "c82fecf77aea7814": "2026-10-22T04:06:53.683132+00:00",
-  "022c207d8d76bd0f": "2026-10-22T04:26:50.811055+00:00"
+  "022c207d8d76bd0f": "2026-10-22T04:26:50.811055+00:00",
+  "83b806bdd7318a6f": "2026-10-22T04:36:50.699699+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1245,26 +1246,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S7": {
-   "title": "Motorsport-Total latest updates index page",
-   "first": "2026-10-18T21:11:45.937435+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-18T19:42:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-20T04:29:20.161024+00:00"
-  },
-  "S11": {
-   "title": "Motorsport-Total all news index page",
-   "first": "2026-10-18T21:11:45.937458+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-18T16:43:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-20T04:29:20.161016+00:00"
-  },
   "S57": {
    "title": "Analysis of Kimi Antonelli's 2026 title permutations before US GP",
    "first": "2026-10-19T04:34:57.630263+00:00",
@@ -1490,16 +1471,6 @@
    "titles": {
     "Formula 1": "The 5 drivers most likely to win the United States GP"
    }
-  },
-  "S154": {
-   "title": "Why Mercedes has no rotating rear wing yet",
-   "first": "2026-10-20T04:29:20.160983+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-20T03:56:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "last": "2026-10-20T04:29:20.161006+00:00"
   },
   "S155": {
    "title": "Verstappen criticises illogical sprint format ahead of 2027 calendar",
@@ -4232,9 +4203,22 @@
     "Motorsport-Total": "Marcin Budkowski: So hilft ihm sein ehemaliger Job als TV-Experte - Motorsport-Total.com"
    },
    "last": "2026-10-22T04:26:52.869265+00:00"
+  },
+  "S351": {
+   "title": "Verstappen says Red Bull has no weakness ahead of Austin",
+   "first": "2026-10-22T04:36:53.195638+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-22T04:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen handed Red Bull boost with 'no weakness' verdict"
+   },
+   "last": "2026-10-22T04:36:53.195660+00:00"
   }
  },
- "story_seq": 350,
+ "story_seq": 351,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -4353,7 +4337,7 @@
   ]
  ],
  "calendar_updated": "2026-10-21T21:56:01.195296+00:00",
- "last_run": "2026-10-22T04:26:50.811055+00:00",
- "last_digest": "2026-10-22T04:06:59.238497+00:00",
+ "last_run": "2026-10-22T04:36:50.699699+00:00",
+ "last_digest": "2026-10-22T04:36:56.973314+00:00",
  "last_digest_key": "6cf5834c6b4243a20769adac7b2615ea0b68d3db"
 }
