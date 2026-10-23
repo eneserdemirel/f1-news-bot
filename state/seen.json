@@ -2198,7 +2198,9 @@
   "3d34dcb380353a15": "2026-10-23T22:22:24.502210+00:00",
   "77981879c2f6d055": "2026-10-23T22:27:28.349463+00:00",
   "e17b0c0f41dbde32": "2026-10-23T22:27:28.349463+00:00",
-  "6b6d5ed48314dcc1": "2026-10-23T22:27:28.349463+00:00"
+  "6b6d5ed48314dcc1": "2026-10-23T22:27:28.349463+00:00",
+  "987402f018b3ea28": "2026-10-23T22:32:24.736586+00:00",
+  "bd0fbd09fa68da47": "2026-10-23T22:32:24.736586+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9916,9 +9918,35 @@
     "Motorsport.com Italia": "F1 | Austin, Libere 2: Leclerc resta davanti in un venerdì da leone, ma Antonelli è vicinissimo. Max 3°"
    },
    "last": "2026-10-23T22:27:33.118938+00:00"
+  },
+  "S879": {
+   "title": "Verstappen says Red Bull dilemma is never easy in Austin practice",
+   "first": "2026-10-23T22:32:28.124481+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-23T22:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen in Red Bull-spagaat: \"Dat is nooit makkelijk\""
+   },
+   "last": "2026-10-23T22:32:28.124500+00:00"
+  },
+  "S880": {
+   "title": "Cadillac's Budkowski tight-lipped on Ocon 2027 reserve role",
+   "first": "2026-10-23T22:32:28.124507+00:00",
+   "sources": {
+    "GPblog": "2026-10-23T22:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Cadillac's cryptic Esteban Ocon response raises doubts over 2027 line-up"
+   },
+   "last": "2026-10-23T22:32:28.124512+00:00"
   }
  },
- "story_seq": 878,
+ "story_seq": 880,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10037,7 +10065,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-23T22:27:28.349463+00:00",
+ "last_run": "2026-10-23T22:32:24.736586+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10221,6 +10249,16 @@
   {
    "t": "2026-10-23T22:02:41.031766+00:00",
    "title": "Leclerc FP2'de zirvede, Russell FIA incelemesinden kurtuldu",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-23T22:32:34.586787+00:00",
+   "title": "Verstappen: Red Bull'da uyum bulmak bu pistte hiçbir zaman kolay değil",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-23T22:32:35.117029+00:00",
+   "title": "Cadillac'ın Ocon yanıtı 2027 kadrosuna dair soru işaretleri yarattı",
    "source": "GPblog"
   }
  ]
