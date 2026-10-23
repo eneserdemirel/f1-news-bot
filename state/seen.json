@@ -1961,7 +1961,9 @@
   "2ccf05d8a270d5b5": "2026-10-23T13:46:04.307896+00:00",
   "a254cdbc6a11c54e": "2026-10-23T13:51:05.782876+00:00",
   "0da77c71358bb7b3": "2026-10-23T13:56:03.586915+00:00",
-  "84e8f8019a5d0b63": "2026-10-23T14:01:44.292352+00:00"
+  "84e8f8019a5d0b63": "2026-10-23T14:01:44.292352+00:00",
+  "cfc91cb9a508975d": "2026-10-23T14:06:49.923044+00:00",
+  "297d51c78984cf51": "2026-10-23T14:06:49.923044+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2332,19 +2334,6 @@
     "RacingNews365 NL": "Zaak Massa tegen Ecclestone, FIA en F1 krijgt vervolg in 2027"
    },
    "last": "2026-10-21T20:05:49.710161+00:00"
-  },
-  "S294": {
-   "title": "Leclerc jokes about stroller practice before baby arrives",
-   "first": "2026-10-21T14:05:10.734360+00:00",
-   "sources": {
-    "GPblog": "2026-10-21T11:54:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Leclerc jokes about stroller practice before baby arrives"
-   },
-   "last": "2026-10-21T14:05:10.734364+00:00"
   },
   "S295": {
    "title": "Watanabe explains why Honda rotates technicians across roles",
@@ -8804,9 +8793,35 @@
     "Motorsport Week": "Lewis Hamilton praises Mercedes for ‘puzzle piece’ treatment of Kimi Antonelli amid looming F1 triumph"
    },
    "last": "2026-10-23T13:46:09.093531+00:00"
+  },
+  "S770": {
+   "title": "ESPN preview of the all-dome World Series 'roofball' format",
+   "first": "2026-10-23T14:06:52.427449+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T14:01:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Welcome to 'roofball': Your guide to an all-dome World Series"
+   },
+   "last": "2026-10-23T14:06:52.427466+00:00"
+  },
+  "S771": {
+   "title": "IndyCar confirms Barcelona debut for 2027 after F1 calendar shift",
+   "first": "2026-10-23T14:06:52.427472+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-23T14:03:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "IndyCar confirms Barcelona debut after F1 calendar shift"
+   },
+   "last": "2026-10-23T14:06:52.427478+00:00"
   }
  },
- "story_seq": 769,
+ "story_seq": 771,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8925,7 +8940,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T14:01:44.292352+00:00",
+ "last_run": "2026-10-23T14:06:49.923044+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
