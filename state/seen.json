@@ -1763,7 +1763,12 @@
   "34c3a41c3764b1dd": "2026-10-23T05:10:24.640136+00:00",
   "f037de6f9d9ecbfc": "2026-10-23T05:20:24.062453+00:00",
   "33ad44eeed0da618": "2026-10-23T05:20:24.062453+00:00",
-  "7437468b089eab23": "2026-10-23T05:20:24.062453+00:00"
+  "7437468b089eab23": "2026-10-23T05:20:24.062453+00:00",
+  "9da9f38014d4cdc8": "2026-10-23T05:30:26.453219+00:00",
+  "bae4cde79c9c6689": "2026-10-23T05:30:26.453219+00:00",
+  "a08c20c24264205b": "2026-10-23T05:30:26.453219+00:00",
+  "b7d26d0bf3ada8a8": "2026-10-23T05:30:26.453219+00:00",
+  "02c44d152e3e8213": "2026-10-23T05:30:26.453219+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7665,7 +7670,7 @@
    "titles": {
     "ESPN F1": "Caleb Williams, Bears find just enough to hold off Pats"
    },
-   "last": "2026-10-23T04:20:25.041243+00:00"
+   "last": "2026-10-23T05:30:34.029986+00:00"
   },
   "S636": {
    "title": "Bears TE Cole Kmet exits Patriots win with knee injury",
@@ -7822,9 +7827,61 @@
     "ESPN F1": "Kings 3-2 Islanders (Oct 22, 2026) Game Recap"
    },
    "last": "2026-10-23T05:20:27.367342+00:00"
+  },
+  "S648": {
+   "title": "Bezzecchi collision with wallaby and Phillip Island practice top",
+   "first": "2026-10-23T05:30:34.029996+00:00",
+   "sources": {
+    "The Race": "2026-10-23T05:22:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Bezzecchi has bizarre collision then tops practice"
+   },
+   "last": "2026-10-23T05:30:34.030003+00:00"
+  },
+  "S649": {
+   "title": "Leclerc reveals notebook insight on Hamilton's influence",
+   "first": "2026-10-23T05:30:34.030008+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-23T05:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Charles Leclerc airs 'notebook' revelation on Lewis Hamilton: 'More than ever'"
+   },
+   "last": "2026-10-23T05:30:34.030013+00:00"
+  },
+  "S650": {
+   "title": "Horner reveals Red Bull role in axed driver's full-time return",
+   "first": "2026-10-23T05:30:34.030017+00:00",
+   "sources": {
+    "GPFans": "2026-10-23T05:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Christian Horner makes financial reveal as Red Bull star prepared to exit - F1 News Today"
+   },
+   "last": "2026-10-23T05:30:34.030021+00:00"
+  },
+  "S651": {
+   "title": "Hamilton praises Red Bull's upgrade and corner speed",
+   "first": "2026-10-23T05:30:34.030025+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T05:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton: “L’aggiornamento vale meno di un decimo, Red Bull impressionante, ci ha preso in curva e in rettilineo ci dà 3-4 decimi”"
+   },
+   "last": "2026-10-23T05:30:34.030028+00:00"
   }
  },
- "story_seq": 647,
+ "story_seq": 651,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -7943,7 +8000,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T05:20:24.062453+00:00",
+ "last_run": "2026-10-23T05:30:26.453219+00:00",
  "last_digest": "2026-10-23T05:10:36.555704+00:00",
  "last_digest_key": "1a187898f9ebd66bd7b05dc2579cd7445112e6fe"
 }
