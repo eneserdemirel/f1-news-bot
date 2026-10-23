@@ -1821,7 +1821,10 @@
   "0809ca50b77f4f34": "2026-10-23T08:20:25.304217+00:00",
   "2980d023c1680bd4": "2026-10-23T08:20:25.304217+00:00",
   "17cbd685f4dfaeb5": "2026-10-23T08:20:25.304217+00:00",
-  "d404fed6a7ce88e9": "2026-10-23T08:20:25.304217+00:00"
+  "d404fed6a7ce88e9": "2026-10-23T08:20:25.304217+00:00",
+  "f45b930908b66c33": "2026-10-23T08:30:22.220081+00:00",
+  "a36b0600a05f5062": "2026-10-23T08:30:22.220081+00:00",
+  "9e22584637578a7e": "2026-10-23T08:30:22.220081+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8264,9 +8267,35 @@
     "AS": "“El chasis del Aston a veces ha sido el mejor de la zona media”"
    },
    "last": "2026-10-23T08:20:32.333959+00:00"
+  },
+  "S689": {
+   "title": "Norris worried by Red Bull's growing gap over McLaren",
+   "first": "2026-10-23T08:30:25.256223+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-23T08:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull-opmars baart Norris zorgen: \"De achterstand is zo groot...\""
+   },
+   "last": "2026-10-23T08:30:25.256245+00:00"
+  },
+  "S690": {
+   "title": "Stroll stats show heavy DNF count in 2026 F1 season",
+   "first": "2026-10-23T08:30:25.256251+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-23T08:20:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lance Stroll myth debunked in the midst of DNF-laden F1 2026"
+   },
+   "last": "2026-10-23T08:30:25.256258+00:00"
   }
  },
- "story_seq": 688,
+ "story_seq": 690,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8385,7 +8414,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T08:20:25.304217+00:00",
+ "last_run": "2026-10-23T08:30:22.220081+00:00",
  "last_digest": "2026-10-23T08:10:33.042048+00:00",
  "last_digest_key": "06dd38eea2de4d45faad6cf3863f0e4480ba4383"
 }
