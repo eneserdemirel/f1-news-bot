@@ -2009,7 +2009,9 @@
   "55875b60593c1f80": "2026-10-23T15:46:43.423718+00:00",
   "2a0dcc2614738cfb": "2026-10-23T15:51:46.969445+00:00",
   "5887e597ce27ab8f": "2026-10-23T15:51:46.969445+00:00",
-  "303dfe76ce7302d6": "2026-10-23T15:51:46.969445+00:00"
+  "303dfe76ce7302d6": "2026-10-23T15:51:46.969445+00:00",
+  "105cb451aad3cfb4": "2026-10-23T15:56:45.527032+00:00",
+  "e3c6eadfa106ff1e": "2026-10-23T15:56:45.527032+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2436,19 +2438,6 @@
     "AS": "McLaren busca otra oportunidad"
    },
    "last": "2026-10-22T14:58:21.923214+00:00"
-  },
-  "S316": {
-   "title": "Motorsport-Total F1 business section page with no readable content",
-   "first": "2026-10-21T15:55:26.788119+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-21T15:47:32+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Formel-1-Business-News - Motorsport-Total.com"
-   },
-   "last": "2026-10-21T15:55:26.788125+00:00"
   },
   "S317": {
    "title": "Wolff praises Red Bull's season revival and Verstappen's wins",
@@ -8968,9 +8957,35 @@
     "ESPN F1": "Fantasy's greatest tight end enshrined in ESPN Fantasy Football Hall of Fame"
    },
    "last": "2026-10-23T15:51:49.155195+00:00"
+  },
+  "S796": {
+   "title": "Fever president Kelly Krauskopf steps down after second stint",
+   "first": "2026-10-23T15:56:48.111236+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T14:52:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fever president Kelly Krauskopf steps down after 2nd stint"
+   },
+   "last": "2026-10-23T15:56:48.111253+00:00"
+  },
+  "S797": {
+   "title": "Marko identifies Red Bull's 2026 weak spot in comments",
+   "first": "2026-10-23T15:56:48.111259+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-23T15:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Marko wijst achilleshiel Red Bull aan: \"Typisch!\""
+   },
+   "last": "2026-10-23T15:56:48.111265+00:00"
   }
  },
- "story_seq": 795,
+ "story_seq": 797,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9089,7 +9104,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T15:51:46.969445+00:00",
+ "last_run": "2026-10-23T15:56:45.527032+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 15:00",
@@ -9119,6 +9134,11 @@
    "t": "2026-10-23T15:46:52.614499+00:00",
    "title": "Verstappen omurgasında hasar olduğunu açıkladı, COTA pistini eleştirdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-23T15:56:53.287450+00:00",
+   "title": "Marko: Red Bull'un akilles topuğu şasi, \"Tipik Red Bull!\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
