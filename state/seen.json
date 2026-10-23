@@ -2213,7 +2213,9 @@
   "7522a7123cf4302c": "2026-10-23T22:47:27.920425+00:00",
   "2cad0c5445b954e4": "2026-10-23T22:47:27.920425+00:00",
   "95b5ac4409e6b9f6": "2026-10-23T22:57:27.552499+00:00",
-  "d9e4f559cc55d865": "2026-10-23T22:57:27.552499+00:00"
+  "d9e4f559cc55d865": "2026-10-23T22:57:27.552499+00:00",
+  "316c3ad1913cae22": "2026-10-23T23:02:25.523900+00:00",
+  "367d44815d5044dd": "2026-10-23T23:02:25.523900+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7468,16 +7470,18 @@
    "sources": {
     "RacingNews365": "2026-10-23T09:30:00+00:00",
     "Motorsport Week": "2026-10-23T15:16:47+00:00",
-    "Motorsport-Total": "2026-10-23T20:37:11+00:00"
+    "Motorsport-Total": "2026-10-23T20:37:11+00:00",
+    "GPblog": "2026-10-23T23:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Daniel Ricciardo joins Austin guests for special Liam Lawson concert",
     "Motorsport Week": "Daniel Ricciardo makes Austin appearance at Liam Lawson concert ahead of F1 US GP",
-    "Motorsport-Total": "Mit Daniel Ricciardo im Publikum: Live-Konzert von Liam Lawson in Austin - Motorsport-Total.com"
+    "Motorsport-Total": "Mit Daniel Ricciardo im Publikum: Live-Konzert von Liam Lawson in Austin - Motorsport-Total.com",
+    "GPblog": "Liam Lawson welcomes special guest Daniel Ricciardo to Austin concert"
    },
-   "last": "2026-10-23T20:42:31.584985+00:00"
+   "last": "2026-10-23T23:02:28.655208+00:00"
   },
   "S702": {
    "title": "US Grand Prix start times and TV coverage guide",
@@ -10056,9 +10060,22 @@
     "Crash.net": "Mercedes drops latest verdict on troublesome F1 upgrade after crunch US GP test"
    },
    "last": "2026-10-23T22:57:31.100268+00:00"
+  },
+  "S888": {
+   "title": "Verstappen describes balancing challenge on bumpy Austin circuit",
+   "first": "2026-10-23T23:02:28.655182+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-23T22:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen details 'bumpy' balancing act ahead of United States GP"
+   },
+   "last": "2026-10-23T23:02:28.655199+00:00"
   }
  },
- "story_seq": 887,
+ "story_seq": 888,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10177,7 +10194,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-23T22:57:27.552499+00:00",
+ "last_run": "2026-10-23T23:02:25.523900+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10387,6 +10404,11 @@
    "t": "2026-10-23T22:57:35.764329+00:00",
    "title": "Mercedes, sorunlu F1 yükseltmesi hakkında yeni değerlendirmesini paylaştı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-23T23:02:36.869896+00:00",
+   "title": "Verstappen, Austin'deki pist yüzeyi nedeniyle zorlu bir setup dengesi bulmaya çalıştığını söyledi",
+   "source": "RacingNews365"
   }
  ]
 }
