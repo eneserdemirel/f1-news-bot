@@ -2221,7 +2221,10 @@
   "e0835b939ffcad81": "2026-10-23T23:12:23.983583+00:00",
   "00de148084a302db": "2026-10-23T23:12:23.983583+00:00",
   "51caeeb623e04c9c": "2026-10-23T23:22:24.224942+00:00",
-  "5742541d8bf7b88f": "2026-10-23T23:27:27.526440+00:00"
+  "5742541d8bf7b88f": "2026-10-23T23:27:27.526440+00:00",
+  "a4bea4a235cc8072": "2026-10-23T23:32:25.257334+00:00",
+  "81d99310eef537db": "2026-10-23T23:32:25.257334+00:00",
+  "f354193f6cc5be6c": "2026-10-23T23:32:25.257334+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10071,14 +10074,16 @@
    "title": "Verstappen describes balancing challenge on bumpy Austin circuit",
    "first": "2026-10-23T23:02:28.655182+00:00",
    "sources": {
-    "RacingNews365": "2026-10-23T22:58:00+00:00"
+    "RacingNews365": "2026-10-23T22:58:00+00:00",
+    "GPblog": "2026-10-23T23:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Max Verstappen details 'bumpy' balancing act ahead of United States GP"
+    "RacingNews365": "Max Verstappen details 'bumpy' balancing act ahead of United States GP",
+    "GPblog": "Verstappen identifies Red Bull setup problem after United States GP practice"
    },
-   "last": "2026-10-23T23:02:28.655199+00:00"
+   "last": "2026-10-23T23:32:30.033298+00:00"
   },
   "S889": {
    "title": "Dallas Cowboys cheerleaders unionize and begin collective bargaining",
@@ -10157,9 +10162,35 @@
     "ESPN F1": "Michigan QB Tommy Carr, grandson of ex-coach, to get first start, source confirms"
    },
    "last": "2026-10-23T23:27:29.371894+00:00"
+  },
+  "S895": {
+   "title": "Antonelli says Mercedes upgrades show steps forward at COTA",
+   "first": "2026-10-23T23:32:30.033261+00:00",
+   "sources": {
+    "Formula 1": "2026-10-23T23:32:30.033276+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Antonelli explains ‘steps forward’ with Mercedes’ upgrades"
+   },
+   "last": "2026-10-23T23:32:30.033280+00:00"
+  },
+  "S896": {
+   "title": "Blanchet and Hirata share lead in Bermuda event",
+   "first": "2026-10-23T23:32:30.033285+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T22:42:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chandler Blanchet and Kensei Hirata share the lead in Bermuda"
+   },
+   "last": "2026-10-23T23:32:30.033291+00:00"
   }
  },
- "story_seq": 894,
+ "story_seq": 896,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10278,7 +10309,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-23T23:27:27.526440+00:00",
+ "last_run": "2026-10-23T23:32:25.257334+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10498,6 +10529,11 @@
    "t": "2026-10-23T23:12:34.790931+00:00",
    "title": "McLaren, düşen formu sürerken 2026'nın son güncellemelerini hedefliyor",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-10-23T23:32:34.598078+00:00",
+   "title": "Antonelli, Mercedes'in güncellemelerindeki 'ileri adımları' anlattı",
+   "source": "Formula 1"
   }
  ]
 }
