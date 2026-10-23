@@ -1796,7 +1796,9 @@
   "b495d972d416261f": "2026-10-23T07:10:22.334894+00:00",
   "974824239ab0c4f6": "2026-10-23T07:10:22.334894+00:00",
   "946674ba864a408e": "2026-10-23T07:10:22.334894+00:00",
-  "1b2f0b9efd0e1002": "2026-10-23T07:20:26.289899+00:00"
+  "1b2f0b9efd0e1002": "2026-10-23T07:20:26.289899+00:00",
+  "faed23e15d79bc43": "2026-10-23T07:30:23.200478+00:00",
+  "e8880dba90891889": "2026-10-23T07:30:23.200478+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2222,21 +2224,6 @@
    },
    "last": "2026-10-21T10:04:51.868264+00:00"
   },
-  "S238": {
-   "title": "FIA prepares countermeasures for reduced overtaking with 2027 engines",
-   "first": "2026-10-21T06:38:17.264224+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-21T06:00:00+00:00",
-    "PlanetF1": "2026-10-21T07:06:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Rischio sorpassi in calo con i motori 2027: le contromisure della FIA",
-    "PlanetF1": "FIA president reveals when F1 could take its next big engine step"
-   },
-   "last": "2026-10-21T07:27:28.889792+00:00"
-  },
   "S239": {
    "title": "McLaren holds talks after Norris-Piastri Singapore clash",
    "first": "2026-10-21T07:27:28.889773+00:00",
@@ -2251,32 +2238,6 @@
     "Crash.net": "Lando Norris makes “better decisions” vow as McLaren draws line under Singapore clash"
    },
    "last": "2026-10-21T08:55:11.100969+00:00"
-  },
-  "S240": {
-   "title": "F1 and Leica partner on camera product",
-   "first": "2026-10-21T07:27:28.889780+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-21T06:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "F1 breaks into unexpected market with 'inspired' new product and partnership"
-   },
-   "last": "2026-10-21T07:27:28.889784+00:00"
-  },
-  "S241": {
-   "title": "Retrospective on Verstappen's 2019 Austin clash with Ferrari",
-   "first": "2026-10-21T07:27:28.889786+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-21T06:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen trekt fel van leer tegen Ferrari: \"Stoppen met valsspelen\" - Terugblik"
-   },
-   "last": "2026-10-21T07:27:28.889788+00:00"
   },
   "S242": {
    "title": "Piero Ferrari open to future Antonelli move to Ferrari",
@@ -8105,9 +8066,35 @@
     "GPblog": "Here's when Mercedes could win their ninth F1 Constructors' title"
    },
    "last": "2026-10-23T07:10:28.473437+00:00"
+  },
+  "S672": {
+   "title": "Thunder 96-84 Nuggets NBA game recap",
+   "first": "2026-10-23T07:30:27.348969+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T04:49:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thunder 96-84 Nuggets (Oct 22, 2026) Game Recap"
+   },
+   "last": "2026-10-23T07:30:27.348988+00:00"
+  },
+  "S673": {
+   "title": "Hamilton vows to continuously challenge Ferrari despite Singapore error",
+   "first": "2026-10-23T07:30:27.348994+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-23T07:20:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton will ‘continuously challenge’ Ferrari despite Singapore strategy error"
+   },
+   "last": "2026-10-23T07:30:27.349000+00:00"
   }
  },
- "story_seq": 671,
+ "story_seq": 673,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8226,7 +8213,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T07:20:26.289899+00:00",
+ "last_run": "2026-10-23T07:30:23.200478+00:00",
  "last_digest": "2026-10-23T07:10:36.786658+00:00",
  "last_digest_key": "06dd38eea2de4d45faad6cf3863f0e4480ba4383"
 }
