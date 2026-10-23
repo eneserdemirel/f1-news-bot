@@ -147,6 +147,8 @@ def save_state(st):
     story_cut = now() - timedelta(hours=48)
     st["stories"] = {k: v for k, v in st["stories"].items()
                      if datetime.fromisoformat(v["last"]) > story_cut}
+    log_cut = now() - timedelta(days=3)
+    st["sent_log"] = [x for x in st.get("sent_log", []) if datetime.fromisoformat(x["t"]) > log_cut]
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(st, f, ensure_ascii=False, indent=1)
@@ -709,13 +711,55 @@ def maybe_send_digest(cfg, state):
 
 
 # ---------------------------------------------------------------- modes
+def daily_digest(cfg, state):
+    """Belirlenen saatlerde (varsayılan 15:00 ve 22:00, Türkiye saati) o aralıkta gönderilen
+    tüm haberlerin başlıklarını kaynaklarıyla birlikte listeler."""
+    s = cfg.get("settings", {})
+    times = s.get("digest_times", ["15:00", "22:00"])
+    if not times:
+        return
+    tz = timezone(timedelta(hours=s.get("tz_offset_hours", 3)))
+    local_now = now().astimezone(tz)
+    slots = []
+    for d in (local_now.date() - timedelta(days=1), local_now.date()):
+        for hm in times:
+            h, m = map(int, hm.split(":"))
+            slots.append(datetime(d.year, d.month, d.day, h, m, tzinfo=tz))
+    due = max((x for x in slots if x <= local_now), default=None)
+    if due is None:
+        return
+    key = due.strftime("%Y-%m-%d %H:%M")
+    if "last_digest_slot" not in state:  # ilk kurulum: geçmiş için boş liste gönderme
+        state["last_digest_slot"], state["last_digest_at"] = key, now().isoformat()
+        return
+    if state.get("last_digest_slot") == key:
+        return
+    prev = max((x for x in slots if x < due), default=due - timedelta(hours=12))
+    since = datetime.fromisoformat(state["last_digest_at"]) if state.get("last_digest_at") else prev
+    entries = [x for x in state.get("sent_log", []) if datetime.fromisoformat(x["t"]) > since]
+    state["last_digest_slot"], state["last_digest_at"] = key, now().isoformat()
+    label = "Gün ortası" if due.hour < 18 else "Gün sonu"
+    head = f"📋 <b>{label} özeti</b> · {since.astimezone(tz):%H:%M}–{due:%H:%M} · {len(entries)} haber"
+    if not entries:
+        tg_send(head + "\n\nBu aralıkta gönderilen haber yok.")
+        return
+    lines = [f"{i}. {html.escape(x['title'])} ({html.escape(x['source'])})" for i, x in enumerate(entries, 1)]
+    msg = head + "\n"
+    for line in lines:  # Telegram mesaj sınırı için gerekirse böl
+        if len(msg) + len(line) + 1 > 3900:
+            tg_send(msg)
+            msg = ""
+        msg += "\n" + line
+    tg_send(msg)
+
+
 def run(cfg, state):
     process(cfg, state)
     if state["initialized"]:
         try:
-            maybe_send_digest(cfg, state)
+            daily_digest(cfg, state)
         except Exception as e:
-            log(f"Gündem listesi hatası: {e}")
+            log(f"Günlük özet hatası: {e}")
 
 
 def process(cfg, state):
@@ -792,6 +836,8 @@ def process(cfg, state):
         if p:
             log(f"  gönderildi: [{it['source']}] {it['title'][:90]} | {it['link']}")
             tg_send(format_msg(it, p))
+            state.setdefault("sent_log", []).append(
+                {"t": now().isoformat(), "title": (p.get("title_tr") or it["title"]).strip(), "source": it["source"]})
         else:
             log(f"Özet hatası: {err}")
             tg_send(f'⚠️ Özet üretilemedi: {html.escape(it["title"])}\n🔗 {html.escape(it["link"])}')
