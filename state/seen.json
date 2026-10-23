@@ -1929,7 +1929,9 @@
   "3adae93efc4159bc": "2026-10-23T12:31:07.200932+00:00",
   "fd8ccbbdcea4eeb4": "2026-10-23T12:31:07.200932+00:00",
   "129cf0f1a1159edc": "2026-10-23T12:36:03.638899+00:00",
-  "2d65accce073688a": "2026-10-23T12:36:03.638899+00:00"
+  "2d65accce073688a": "2026-10-23T12:36:03.638899+00:00",
+  "8d80863e59eca42f": "2026-10-23T12:46:08.409757+00:00",
+  "f8a9a5c32c717b86": "2026-10-23T12:46:08.409757+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2347,19 +2349,6 @@
     "PlanetF1": "Qatar GP circuit issues update as planned F1 slot approaches"
    },
    "last": "2026-10-21T13:24:44.633175+00:00"
-  },
-  "S286": {
-   "title": "Raikkonen 'on this day' record retrospective from 2018 US GP",
-   "first": "2026-10-21T12:44:43.241821+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-21T12:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Raikkonen smashes longstanding F1 records on date of greatest triumph"
-   },
-   "last": "2026-10-21T12:44:43.241839+00:00"
   },
   "S287": {
    "title": "Lusail track issues fresh F1 and MotoGP update amid war",
@@ -7256,15 +7245,17 @@
    "first": "2026-10-23T05:10:30.548403+00:00",
    "sources": {
     "RacingNews365 NL": "2026-10-23T05:00:00+00:00",
-    "PlanetF1": "2026-10-23T09:46:15+00:00"
+    "PlanetF1": "2026-10-23T09:46:15+00:00",
+    "Crash.net": "2026-10-23T12:38:34+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Verstappen haalt uit na online haat aan adres Lulham",
-    "PlanetF1": "Max Verstappen tells online abusers to ‘eff off’ in defence of Chris Lulham"
+    "PlanetF1": "Max Verstappen tells online abusers to ‘eff off’ in defence of Chris Lulham",
+    "Crash.net": "Max Verstappen issues strong message to trolls over abuse of GT team-mate"
    },
-   "last": "2026-10-23T09:51:12.326482+00:00"
+   "last": "2026-10-23T12:46:11.835829+00:00"
   },
   "S646": {
    "title": "Hamilton jokes and advises Antonelli to slow down at FIA presser",
@@ -8680,9 +8671,22 @@
     "PlanetF1": "Alonso provides Aston Martin investigation update after Singapore woes"
    },
    "last": "2026-10-23T12:36:08.007946+00:00"
+  },
+  "S753": {
+   "title": "FIA race control remote assist room '3.0' iteration rolled out",
+   "first": "2026-10-23T12:46:11.835802+00:00",
+   "sources": {
+    "The Race": "2026-10-23T12:44:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "'3.0' - How F1's post-2021 race control aid has changed"
+   },
+   "last": "2026-10-23T12:46:11.835821+00:00"
   }
  },
- "story_seq": 752,
+ "story_seq": 753,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8801,7 +8805,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T12:41:04.362616+00:00",
+ "last_run": "2026-10-23T12:46:08.409757+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
