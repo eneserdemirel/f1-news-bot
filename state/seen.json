@@ -2176,7 +2176,9 @@
   "f051f00ef6ad346c": "2026-10-23T21:47:28.725322+00:00",
   "9f72d6c90918010e": "2026-10-23T21:47:28.725322+00:00",
   "1accd8a961468934": "2026-10-23T21:47:28.725322+00:00",
-  "05f059c0c4ee737f": "2026-10-23T21:52:25.376626+00:00"
+  "05f059c0c4ee737f": "2026-10-23T21:52:25.376626+00:00",
+  "ac51ede8e35edebe": "2026-10-23T22:02:32.167498+00:00",
+  "3c6d46df1babd116": "2026-10-23T22:02:32.167498+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9818,9 +9820,35 @@
     "ESPN F1": "Estadísticas de Goles de Wellington Phoenix FC"
    },
    "last": "2026-10-23T21:47:34.810822+00:00"
+  },
+  "S875": {
+   "title": "Indiana Fever fire GM Amber Cox after president's exit",
+   "first": "2026-10-23T22:02:37.050426+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T21:49:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Indiana Fever fire GM Amber Cox in wake of president's exit, sources say"
+   },
+   "last": "2026-10-23T22:02:37.050445+00:00"
+  },
+  "S876": {
+   "title": "Leclerc tops US GP FP2 ahead of Antonelli and Verstappen",
+   "first": "2026-10-23T22:02:37.050450+00:00",
+   "sources": {
+    "GPblog": "2026-10-23T21:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Leclerc continues upward trend in FP2 as Ferrari updates boost Austin hopes"
+   },
+   "last": "2026-10-23T22:02:37.050456+00:00"
   }
  },
- "story_seq": 874,
+ "story_seq": 876,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9938,8 +9966,8 @@
    "Abu Dhabi Grand Prix"
   ]
  ],
- "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T21:57:27.472285+00:00",
+ "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
+ "last_run": "2026-10-23T22:02:32.167498+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10119,6 +10147,11 @@
    "t": "2026-10-23T21:47:40.609593+00:00",
    "title": "Russell, Leclerc'i pistten ittiği iddiasıyla ceza almadan kurtuldu",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-23T22:02:41.031766+00:00",
+   "title": "Leclerc FP2'de zirvede, Russell FIA incelemesinden kurtuldu",
+   "source": "GPblog"
   }
  ]
 }
