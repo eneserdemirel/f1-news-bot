@@ -1707,7 +1707,9 @@
   "ddcb7d63a4360bf5": "2026-10-22T23:29:41.052714+00:00",
   "af6504bf9a3dc266": "2026-10-22T23:39:44.127418+00:00",
   "ac791ebec1a49893": "2026-10-22T23:39:44.127418+00:00",
-  "ca985f823db059ba": "2026-10-22T23:59:43.751010+00:00"
+  "ca985f823db059ba": "2026-10-22T23:59:43.751010+00:00",
+  "156a2a2cc1ec4579": "2026-10-23T00:29:41.429486+00:00",
+  "b637ce42abe486cb": "2026-10-23T00:29:41.429486+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7310,9 +7312,35 @@
     "ESPN F1": "Borac vs. KuPS Kuopio (22 de Oct., 2026) Estadísticas de jugadores"
    },
    "last": "2026-10-22T23:39:47.164168+00:00"
+  },
+  "S613": {
+   "title": "Stephen Vogt returns to Guardians in 2027, shuns Mariners rumors",
+   "first": "2026-10-23T00:29:44.572999+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-22T22:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stephen Vogt back to Guardians in '27, shuns Mariners rumors"
+   },
+   "last": "2026-10-23T00:29:44.573015+00:00"
+  },
+  "S614": {
+   "title": "Recap of day one of the 2026 US Grand Prix weekend",
+   "first": "2026-10-23T00:29:44.573019+00:00",
+   "sources": {
+    "The Race": "2026-10-23T00:21:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Everything we learned on day one of F1's 2026 US GP"
+   },
+   "last": "2026-10-23T00:29:44.573023+00:00"
   }
  },
- "story_seq": 612,
+ "story_seq": 614,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -7431,7 +7459,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T00:19:39.674626+00:00",
+ "last_run": "2026-10-23T00:29:41.429486+00:00",
  "last_digest": "2026-10-23T00:09:40.998138+00:00",
  "last_digest_key": "1a187898f9ebd66bd7b05dc2579cd7445112e6fe"
 }
