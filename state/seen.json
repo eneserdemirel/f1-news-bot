@@ -1760,7 +1760,10 @@
   "db21940ac6911fe8": "2026-10-23T05:10:24.640136+00:00",
   "501377285df97b04": "2026-10-23T05:10:24.640136+00:00",
   "3c024b6a01fa86f8": "2026-10-23T05:10:24.640136+00:00",
-  "34c3a41c3764b1dd": "2026-10-23T05:10:24.640136+00:00"
+  "34c3a41c3764b1dd": "2026-10-23T05:10:24.640136+00:00",
+  "f037de6f9d9ecbfc": "2026-10-23T05:20:24.062453+00:00",
+  "33ad44eeed0da618": "2026-10-23T05:20:24.062453+00:00",
+  "7437468b089eab23": "2026-10-23T05:20:24.062453+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6647,16 +6650,18 @@
    "sources": {
     "RacingNews365": "2026-10-22T20:03:00+00:00",
     "ESPN F1": "2026-10-22T21:44:00+00:00",
-    "Crash.net": "2026-10-23T05:00:00+00:00"
+    "Crash.net": "2026-10-23T05:00:00+00:00",
+    "PlanetF1": "2026-10-23T05:18:52+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Lewis Hamilton 'forced' to delay F1 retirement after major decision",
     "ESPN F1": "Lewis Hamilton 'forced' to keep driving into mid-40s to achieve 'dream' of racing in Africa",
-    "Crash.net": "Lewis Hamilton “forced to stay a lot longer” after getting big F1 wish"
+    "Crash.net": "Lewis Hamilton “forced to stay a lot longer” after getting big F1 wish",
+    "PlanetF1": "Lewis Hamilton reveals African Grand Prix dream as he vows to extend F1 career"
    },
-   "last": "2026-10-23T05:10:30.548423+00:00"
+   "last": "2026-10-23T05:20:27.367351+00:00"
   },
   "S560": {
    "title": "Bortoleto dreams of world title with Audi",
@@ -7404,14 +7409,16 @@
    "title": "MotoGP Phillip Island practice: crashes and Marquez fastest",
    "first": "2026-10-23T00:49:41.735114+00:00",
    "sources": {
-    "The Race": "2026-10-23T00:41:30+00:00"
+    "The Race": "2026-10-23T00:41:30+00:00",
+    "GPblog": "2026-10-23T05:10:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "The Race": "Phillip Island MotoGP practice: Big crashes and Marquez fastest"
+    "The Race": "Phillip Island MotoGP practice: Big crashes and Marquez fastest",
+    "GPblog": "MotoGP Practice Results | Kanagroo and Marquez crash cause red flags"
    },
-   "last": "2026-10-23T00:49:41.735132+00:00"
+   "last": "2026-10-23T05:20:27.367358+00:00"
   },
   "S617": {
    "title": "Kentucky RB CJ Baxter set to return vs. Vandy",
@@ -7802,9 +7809,22 @@
     "GPblog": "Hamilton sparks laughter with 'slow down' advice to soon-to-be F1 champion Antonelli"
    },
    "last": "2026-10-23T05:10:30.548418+00:00"
+  },
+  "S647": {
+   "title": "Kings 3-2 Islanders NHL game recap",
+   "first": "2026-10-23T05:20:27.367324+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T03:53:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kings 3-2 Islanders (Oct 22, 2026) Game Recap"
+   },
+   "last": "2026-10-23T05:20:27.367342+00:00"
   }
  },
- "story_seq": 646,
+ "story_seq": 647,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -7923,7 +7943,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T05:10:24.640136+00:00",
+ "last_run": "2026-10-23T05:20:24.062453+00:00",
  "last_digest": "2026-10-23T05:10:36.555704+00:00",
  "last_digest_key": "1a187898f9ebd66bd7b05dc2579cd7445112e6fe"
 }
