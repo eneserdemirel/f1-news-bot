@@ -2098,7 +2098,13 @@
   "46c06c145f77b916": "2026-10-23T19:01:46.460674+00:00",
   "c35de70e0de9b8f6": "2026-10-23T19:01:46.460674+00:00",
   "cc0db3b5bd3c77b8": "2026-10-23T19:01:46.460674+00:00",
-  "80b40f4158f0ec24": "2026-10-23T19:01:46.460674+00:00"
+  "80b40f4158f0ec24": "2026-10-23T19:01:46.460674+00:00",
+  "7f74d4504e53c936": "2026-10-23T19:06:56.264456+00:00",
+  "c06aeb824c136580": "2026-10-23T19:06:56.264456+00:00",
+  "913f2a772b3cff1d": "2026-10-23T19:06:56.264456+00:00",
+  "930cd3daf92e0fe5": "2026-10-23T19:06:56.264456+00:00",
+  "8d9ca32ff14c9a38": "2026-10-23T19:06:56.264456+00:00",
+  "3399f997deef01f8": "2026-10-23T19:06:56.264456+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2542,19 +2548,6 @@
     "GPblog": "Toto Wolff reveals he is already 'vetting' his own replacements in Mercedes succession plan"
    },
    "last": "2026-10-22T18:02:10.300516+00:00"
-  },
-  "S342": {
-   "title": "Early betting Bet Builder for United States Grand Prix",
-   "first": "2026-10-21T19:05:33.456686+00:00",
-   "sources": {
-    "Formula 1": "2026-10-21T19:05:33.456702+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Our early Bet Builder for the United States Grand Prix"
-   },
-   "last": "2026-10-21T19:05:33.456706+00:00"
   },
   "S343": {
    "title": "FIA sets 2028 return to usual race distance",
@@ -7416,14 +7409,16 @@
    "title": "Hamilton rejects Hadjar's claim Verstappen would dominate in Ferrari",
    "first": "2026-10-23T09:11:11.113838+00:00",
    "sources": {
-    "PlanetF1": "2026-10-23T09:02:33+00:00"
+    "PlanetF1": "2026-10-23T09:02:33+00:00",
+    "GPblog": "2026-10-23T19:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Lewis Hamilton and Charles Leclerc reject ‘nonsense’ Ferrari claim"
+    "PlanetF1": "Lewis Hamilton and Charles Leclerc reject ‘nonsense’ Ferrari claim",
+    "GPblog": "Hamilton rejects Hadjar's Ferrari claim: 'We have very different opinions there'"
    },
-   "last": "2026-10-23T09:11:11.113843+00:00"
+   "last": "2026-10-23T19:07:01.206045+00:00"
   },
   "S698": {
    "title": "Russell asked whether his driving style cost him 2026 title",
@@ -8650,7 +8645,7 @@
    "titles": {
     "ESPN F1": "The New Jersey Devils are in advanced talks to acquire Connor Hellebuyck, per sources."
    },
-   "last": "2026-10-23T15:21:50.916638+00:00"
+   "last": "2026-10-23T19:07:01.206039+00:00"
   },
   "S789": {
    "title": "Michael Carrick says he fully backs himself as Man United boss",
@@ -9241,14 +9236,14 @@
    "title": "Dale Brown, LSU's winningest basketball coach, dies at 90",
    "first": "2026-10-23T19:01:51.929792+00:00",
    "sources": {
-    "ESPN F1": "2026-10-23T18:58:29+00:00"
+    "ESPN F1": "2026-10-23T18:58:14+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Dale Brown, LSU's winningest basketball coach, dies at 90"
    },
-   "last": "2026-10-23T19:01:51.929809+00:00"
+   "last": "2026-10-23T19:07:01.206032+00:00"
   },
   "S831": {
    "title": "PSG-Lyon moved to Monday amid Paris protests",
@@ -9262,9 +9257,35 @@
     "ESPN F1": "PSG-Lyon match moved to Monday amid Paris protests, NFL game"
    },
    "last": "2026-10-23T19:01:51.929822+00:00"
+  },
+  "S832": {
+   "title": "Ipswich vs Nottingham Forest team stats page",
+   "first": "2026-10-23T19:07:01.206003+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T19:02:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats"
+   },
+   "last": "2026-10-23T19:07:01.206022+00:00"
+  },
+  "S833": {
+   "title": "Analysis of whether FIA's test solves software fiasco",
+   "first": "2026-10-23T19:07:01.206050+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-23T18:57:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Ist das die Lösung gegen das Software-Fiasko aus Malaysia?"
+   },
+   "last": "2026-10-23T19:07:01.206055+00:00"
   }
  },
- "story_seq": 831,
+ "story_seq": 833,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9383,7 +9404,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T19:01:46.460674+00:00",
+ "last_run": "2026-10-23T19:06:56.264456+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
