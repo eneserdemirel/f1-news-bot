@@ -2139,7 +2139,11 @@
   "a28fd16f8a941d5e": "2026-10-23T20:17:24.069674+00:00",
   "3612cdf63942ee36": "2026-10-23T20:27:25.172756+00:00",
   "1cc7b3f8bd76ca62": "2026-10-23T20:27:25.172756+00:00",
-  "a79cd7c281ae04a9": "2026-10-23T20:27:25.172756+00:00"
+  "a79cd7c281ae04a9": "2026-10-23T20:27:25.172756+00:00",
+  "fe0ac32800c95811": "2026-10-23T20:32:26.615413+00:00",
+  "5e02f7fb52b6c114": "2026-10-23T20:32:26.615413+00:00",
+  "c3fc208dadfda710": "2026-10-23T20:32:26.615413+00:00",
+  "eb384c744fb31638": "2026-10-23T20:32:26.615413+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8952,7 +8956,8 @@
     "RacingNews365": "2026-10-23T18:05:00+00:00",
     "PlanetF1": "2026-10-23T19:00:30+00:00",
     "Motorsport-Total": "2026-10-23T19:58:47+00:00",
-    "Crash.net": "2026-10-23T20:20:09+00:00"
+    "Crash.net": "2026-10-23T20:20:09+00:00",
+    "GPFans": "2026-10-23T20:28:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -8961,9 +8966,10 @@
     "RacingNews365": "Toto Wolff's son Jack involved in scary karting crash",
     "PlanetF1": "Toto Wolff’s son Jack escapes injury after terrifying karting crash in Italy",
     "Motorsport-Total": "Sohn von Toto Wolff: Schwerer Unfall bei Kartrennen in Italien - Motorsport-Total.com",
-    "Crash.net": "Toto Wolff's son Jack escapes major injury after scary go-kart crash"
+    "Crash.net": "Toto Wolff's son Jack escapes major injury after scary go-kart crash",
+    "GPFans": "Toto Wolff's son walks away unhurt after suffering big karting crash"
    },
-   "last": "2026-10-23T20:27:27.804868+00:00"
+   "last": "2026-10-23T20:32:31.841057+00:00"
   },
   "S817": {
    "title": "Szafnauer reveals he was offered Cadillac team principal role",
@@ -9443,14 +9449,16 @@
    "title": "Newey responds to Horner memoir passages on Renault years",
    "first": "2026-10-23T20:12:47.001306+00:00",
    "sources": {
-    "GPblog": "2026-10-23T20:10:00+00:00"
+    "GPblog": "2026-10-23T20:10:00+00:00",
+    "Crash.net": "2026-10-23T20:31:27+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Horner's new book prompts Adrian Newey to reveal where they currently stand"
+    "GPblog": "Horner's new book prompts Adrian Newey to reveal where they currently stand",
+    "Crash.net": "Adrian Newey responds to Christian Horner criticism and addresses relationship"
    },
-   "last": "2026-10-23T20:12:47.001311+00:00"
+   "last": "2026-10-23T20:32:31.841063+00:00"
   },
   "S850": {
    "title": "Ole Miss punishments for ex-assistant's violations (college football)",
@@ -9490,9 +9498,35 @@
     "RacingNews365": "Zak Brown addresses Lando Norris-Oscar Piastri talks after nightmare clash"
    },
    "last": "2026-10-23T20:27:27.804862+00:00"
+  },
+  "S853": {
+   "title": "Lawson responds to Horner book claim he was promoted too early",
+   "first": "2026-10-23T20:32:31.841031+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-23T20:29:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson responds to Christian Horner book release after ‘promoted too early’ claim"
+   },
+   "last": "2026-10-23T20:32:31.841048+00:00"
+  },
+  "S854": {
+   "title": "Ferrari gains downforce but struggles on straights in Austin FP1 analysis",
+   "first": "2026-10-23T20:32:31.841068+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T20:21:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Austin indizi FP1: Ferrari guadagna carico ma soffre tanto sul dritto. Verstappen è già il riferimento"
+   },
+   "last": "2026-10-23T20:32:31.841073+00:00"
   }
  },
- "story_seq": 852,
+ "story_seq": 854,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9611,7 +9645,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T20:27:25.172756+00:00",
+ "last_run": "2026-10-23T20:32:26.615413+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -9751,6 +9785,16 @@
    "t": "2026-10-23T20:12:55.201680+00:00",
    "title": "Newey, Horner'ın kitabının ardından Renault dönemini ve ilişkilerini anlattı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-23T20:32:43.143312+00:00",
+   "title": "Austin FP1: Ferrari viraj performansında iyi, düz hatta büyük kayıp",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-23T20:32:43.740463+00:00",
+   "title": "Liam Lawson, Horner'ın 'erken terfi' iddiasına yanıt verdi",
+   "source": "PlanetF1"
   }
  ]
 }
