@@ -2230,7 +2230,11 @@
   "4559379d96d677f5": "2026-10-23T23:42:30.004074+00:00",
   "69ee8618a99ead12": "2026-10-23T23:42:30.004074+00:00",
   "8526c9e11c4df46b": "2026-10-23T23:47:24.706625+00:00",
-  "3b7ccb58f0cba3a7": "2026-10-23T23:47:24.706625+00:00"
+  "3b7ccb58f0cba3a7": "2026-10-23T23:47:24.706625+00:00",
+  "4ca1d1b378d1f3fd": "2026-10-23T23:52:27.012728+00:00",
+  "72195c0531a0bc3b": "2026-10-23T23:52:27.012728+00:00",
+  "25c62e055883b2e1": "2026-10-23T23:52:27.012728+00:00",
+  "54571a699ccf00ce": "2026-10-23T23:52:27.012728+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9855,16 +9859,18 @@
    "sources": {
     "GPblog": "2026-10-23T21:28:00+00:00",
     "RacingNews365": "2026-10-23T21:40:00+00:00",
-    "Crash.net": "2026-10-23T21:44:34+00:00"
+    "Crash.net": "2026-10-23T21:44:34+00:00",
+    "PlanetF1": "2026-10-23T23:47:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Russell learns FIA fate following bizarre Leclerc near-miss",
     "RacingNews365": "George Russell escapes punishment at first F1-title showdown",
-    "Crash.net": "George Russell gets rare warning for Charles Leclerc US GP practice near-miss"
+    "Crash.net": "George Russell gets rare warning for Charles Leclerc US GP practice near-miss",
+    "PlanetF1": "FIA explains George Russell decision after Leclerc United States GP incident"
    },
-   "last": "2026-10-23T22:07:34.795311+00:00"
+   "last": "2026-10-23T23:52:33.353787+00:00"
   },
   "S874": {
    "title": "Wellington Phoenix FC goal statistics page",
@@ -10123,14 +10129,16 @@
    "title": "Norris says McLaren chasing perfection, final upgrades a step behind",
    "first": "2026-10-23T23:12:27.458942+00:00",
    "sources": {
-    "Autosport": "2026-10-23T23:04:52+00:00"
+    "Autosport": "2026-10-23T23:04:52+00:00",
+    "Motorsport-Total": "2026-10-23T23:47:42+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "McLaren's aims for its final F1 2026 upgrades amid decline in form"
+    "Autosport": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
+    "Motorsport-Total": "\"Hinken einen Schritt hinterher\": Was McLaren mit seinem Update lösen will - Motorsport-Total.com"
    },
-   "last": "2026-10-23T23:12:27.458961+00:00"
+   "last": "2026-10-23T23:52:33.353793+00:00"
   },
   "S892": {
    "title": "Analysis of why Ferrari are favourites for Austin GP",
@@ -10214,14 +10222,16 @@
    "title": "Honda left without factory MotoGP riders at Phillip Island",
    "first": "2026-10-23T23:42:35.092048+00:00",
    "sources": {
-    "GPblog": "2026-10-23T23:40:00+00:00"
+    "GPblog": "2026-10-23T23:40:00+00:00",
+    "The Race": "2026-10-23T23:49:15+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "GPblog": "Honda left without factory riders at Phillip Island GP as Luca Marini withdraws"
+    "GPblog": "Honda left without factory riders at Phillip Island GP as Luca Marini withdraws",
+    "The Race": "Works Honda team runs out of riders for Australian GP"
    },
-   "last": "2026-10-23T23:42:35.092055+00:00"
+   "last": "2026-10-23T23:52:33.353764+00:00"
   },
   "S899": {
    "title": "Boye Mafe proud of his culture",
@@ -10235,9 +10245,22 @@
     "ESPN F1": "Boye Mafe's proud of his culture"
    },
    "last": "2026-10-23T23:47:26.780110+00:00"
+  },
+  "S900": {
+   "title": "Leclerc says Ferrari's Austin upgrades work and balance is key",
+   "first": "2026-10-23T23:52:33.353774+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-23T23:47:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Leclerc sorride: novità promosse, ma la vera chiave è aver trovato subito un buon bilanciamento"
+   },
+   "last": "2026-10-23T23:52:33.353780+00:00"
   }
  },
- "story_seq": 899,
+ "story_seq": 900,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10356,7 +10379,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-23T23:47:24.706625+00:00",
+ "last_run": "2026-10-23T23:52:27.012728+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10586,6 +10609,16 @@
    "t": "2026-10-23T23:37:37.091064+00:00",
    "title": "Lawson: Austin'de ilk viraj bir 'piyango', hayatta kalmak şans işi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-23T23:52:39.952017+00:00",
+   "title": "Leclerc: Yeni paket iyi, ama asıl kazanç hızlı bulunan denge",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-23T23:52:40.556679+00:00",
+   "title": "FIA, Russell'ın Leclerc olayındaki kararını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
