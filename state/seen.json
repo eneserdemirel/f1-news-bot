@@ -1917,7 +1917,12 @@
   "020ae274402b38d1": "2026-10-23T12:06:06.472559+00:00",
   "fd9e5be9f8647ec8": "2026-10-23T12:06:06.472559+00:00",
   "9d188fa3d9b6b611": "2026-10-23T12:11:06.802049+00:00",
-  "a3333dc24cbe523f": "2026-10-23T12:16:03.849651+00:00"
+  "a3333dc24cbe523f": "2026-10-23T12:16:03.849651+00:00",
+  "d5ddcdf352908b14": "2026-10-23T12:21:10.058419+00:00",
+  "87e97ffce8a67e08": "2026-10-23T12:21:10.058419+00:00",
+  "b7c9fb507bfa5d46": "2026-10-23T12:21:10.058419+00:00",
+  "22765cfdafddfaf0": "2026-10-23T12:21:10.058419+00:00",
+  "e578664f4c8f8c9b": "2026-10-23T12:21:10.058419+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5824,7 +5829,8 @@
     "GPblog": "2026-10-22T19:15:00+00:00",
     "Motorsport-Total": "2026-10-22T19:10:05+00:00",
     "RacingNews365 NL": "2026-10-22T19:20:00+00:00",
-    "FormulaPassion": "2026-10-23T04:20:00+00:00"
+    "FormulaPassion": "2026-10-23T04:20:00+00:00",
+    "Motorsport Week": "2026-10-23T12:10:48+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -5832,9 +5838,10 @@
     "GPblog": "'If you put Verstappen in the Ferrari, he would have won the race with more margin'",
     "Motorsport-Total": "Keine Angst vor Max Verstappen? Isack Hadjar schätzt sich \"glücklich\" - Motorsport-Total.com",
     "RacingNews365 NL": "Hadjar spreekt Red Bull-claim tegen: \"Als Verstappen in de Ferrari had gezeten...\"",
-    "FormulaPassion": "Hadjar: “Verstappen con la Ferrari a Singapore avrebbe vinto con un distacco ancora maggiore”"
+    "FormulaPassion": "Hadjar: “Verstappen con la Ferrari a Singapore avrebbe vinto con un distacco ancora maggiore”",
+    "Motorsport Week": "Isack Hadjar issues bold Ferrari claim after dominant Max Verstappen Singapore win"
    },
-   "last": "2026-10-23T04:50:30.742219+00:00"
+   "last": "2026-10-23T12:21:14.032721+00:00"
   },
   "S542": {
    "title": "Roddy Gayle Jr. cleared for fifth college basketball season",
@@ -8597,9 +8604,48 @@
     "FormulaPassion": "Giri da leader nel 2026: Leclerc primo (per ora) tra i non Mercedes, ne ha il triplo di Hamilton. Eppure…"
    },
    "last": "2026-10-23T12:16:05.665896+00:00"
+  },
+  "S746": {
+   "title": "NBA season debuts: what worked and what didn't",
+   "first": "2026-10-23T12:21:14.032676+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What worked (and didn't) in 12 NBA season debuts: LeBron, LaMelo, more stars"
+   },
+   "last": "2026-10-23T12:21:14.032696+00:00"
+  },
+  "S747": {
+   "title": "Aaron Rodgers backs NFL on Paris game holding",
+   "first": "2026-10-23T12:21:14.032702+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T10:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Steelers' Aaron Rodgers backs NFL on holding Paris game despite recent unrest"
+   },
+   "last": "2026-10-23T12:21:14.032707+00:00"
+  },
+  "S748": {
+   "title": "Hideki Matsui hired as Yomiuri Giants manager",
+   "first": "2026-10-23T12:21:14.032711+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T10:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hideki Matsui hired as manager of Japan's Yomiuri Giants"
+   },
+   "last": "2026-10-23T12:21:14.032715+00:00"
   }
  },
- "story_seq": 745,
+ "story_seq": 748,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8718,7 +8764,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T12:16:03.849651+00:00",
+ "last_run": "2026-10-23T12:21:10.058419+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
