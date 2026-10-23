@@ -1790,7 +1790,12 @@
   "b1d49f4f4470a821": "2026-10-23T06:40:28.602646+00:00",
   "6be8a973191ff8d5": "2026-10-23T06:50:22.398945+00:00",
   "639dbdad37147eb2": "2026-10-23T07:00:24.933007+00:00",
-  "2a7d3647bb5a0647": "2026-10-23T07:00:24.933007+00:00"
+  "2a7d3647bb5a0647": "2026-10-23T07:00:24.933007+00:00",
+  "6034b5c557c935c3": "2026-10-23T07:10:22.334894+00:00",
+  "077120a3d673e657": "2026-10-23T07:10:22.334894+00:00",
+  "b495d972d416261f": "2026-10-23T07:10:22.334894+00:00",
+  "974824239ab0c4f6": "2026-10-23T07:10:22.334894+00:00",
+  "946674ba864a408e": "2026-10-23T07:10:22.334894+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6395,14 +6400,16 @@
    "title": "McLaren decides not to punish Norris for Singapore Piastri collision",
    "first": "2026-10-22T19:29:13.227177+00:00",
    "sources": {
-    "The Race": "2026-10-22T19:25:44+00:00"
+    "The Race": "2026-10-22T19:25:44+00:00",
+    "Crash.net": "2026-10-23T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "McLaren opts not to punish Norris for Piastri Singapore collision"
+    "The Race": "McLaren opts not to punish Norris for Piastri Singapore collision",
+    "Crash.net": "Lando Norris goes unpunished after McLaren Singapore clash review"
    },
-   "last": "2026-10-22T19:29:13.227181+00:00"
+   "last": "2026-10-23T07:10:28.473443+00:00"
   },
   "S546": {
    "title": "Auto Motor und Sport article with no readable content",
@@ -6572,7 +6579,8 @@
     "GPblog": "2026-10-22T20:00:00+00:00",
     "The Race": "2026-10-22T20:34:54+00:00",
     "Motorsport.com Italia": "2026-10-22T21:06:08+00:00",
-    "Formula 1": "2026-10-22T21:29:08.805024+00:00"
+    "Formula 1": "2026-10-22T21:29:08.805024+00:00",
+    "RacingNews365 NL": "2026-10-23T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -6582,9 +6590,10 @@
     "GPblog": "Hamilton recalls exact moment he realised Singapore GP gamble was wrong",
     "The Race": "Hamilton explains why he overruled Ferrari in Singapore",
     "Motorsport.com Italia": "F1 | Hamilton torna su Singapore: \"Ho scelto io, non mi basta un 3° posto. Il mio compito è stimolare il team\"",
-    "Formula 1": "Hamilton reflects on Singapore mistakes ahead of US GP"
+    "Formula 1": "Hamilton reflects on Singapore mistakes ahead of US GP",
+    "RacingNews365 NL": "Hamilton neemt verantwoordelijkheid voor cruciale misser"
    },
-   "last": "2026-10-22T21:39:09.934533+00:00"
+   "last": "2026-10-23T07:10:28.473427+00:00"
   },
   "S558": {
    "title": "Hamilton praises Antonelli and says he deserves the title",
@@ -6821,16 +6830,18 @@
    "sources": {
     "RacingNews365 NL": "2026-10-22T20:58:00+00:00",
     "RacingNews365": "2026-10-22T21:47:00+00:00",
-    "Autosport": "2026-10-22T22:04:03+00:00"
+    "Autosport": "2026-10-22T22:04:03+00:00",
+    "Motorsport-Total": "2026-10-23T07:02:19+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Verstappen luidt noodklok: \"Kaarten dit al jaren aan!\"",
     "RacingNews365": "Max Verstappen fires 'out of control' criticism over USGP circuit",
-    "Autosport": "Verstappen warns COTA bumps are “unacceptable” and “out of control”"
+    "Autosport": "Verstappen warns COTA bumps are “unacceptable” and “out of control”",
+    "Motorsport-Total": "Bodenwellen in Austin: Situation gerät \"außer Kontrolle\" laut Verstappen - Motorsport-Total.com"
    },
-   "last": "2026-10-22T22:09:06.557890+00:00"
+   "last": "2026-10-23T07:10:28.473448+00:00"
   },
   "S576": {
    "title": "Bournemouth 3-0 Milan match game analysis",
@@ -8065,9 +8076,35 @@
     "GPFans": "George Russell warned he will never fight for F1 world championship: 'He will not have another chance'"
    },
    "last": "2026-10-23T07:00:27.448285+00:00"
+  },
+  "S670": {
+   "title": "F1 and FIA warned over premature Middle East decision",
+   "first": "2026-10-23T07:10:28.473398+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-23T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 and FIA warned over 'relatively premature' Middle East decision"
+   },
+   "last": "2026-10-23T07:10:28.473417+00:00"
+  },
+  "S671": {
+   "title": "Mercedes close to ninth constructors' title",
+   "first": "2026-10-23T07:10:28.473432+00:00",
+   "sources": {
+    "GPblog": "2026-10-23T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Here's when Mercedes could win their ninth F1 Constructors' title"
+   },
+   "last": "2026-10-23T07:10:28.473437+00:00"
   }
  },
- "story_seq": 669,
+ "story_seq": 671,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8186,7 +8223,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T07:00:24.933007+00:00",
- "last_digest": "2026-10-23T06:40:34.278526+00:00",
+ "last_run": "2026-10-23T07:10:22.334894+00:00",
+ "last_digest": "2026-10-23T07:10:36.786658+00:00",
  "last_digest_key": "06dd38eea2de4d45faad6cf3863f0e4480ba4383"
 }
