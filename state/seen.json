@@ -1804,7 +1804,10 @@
   "2e94aad26c934c2e": "2026-10-23T07:40:26.516949+00:00",
   "b019a9fb66d7c025": "2026-10-23T07:40:26.516949+00:00",
   "96827665f040b5e7": "2026-10-23T07:40:26.516949+00:00",
-  "a0c69c9c851e4ee4": "2026-10-23T07:40:26.516949+00:00"
+  "a0c69c9c851e4ee4": "2026-10-23T07:40:26.516949+00:00",
+  "1738f7906cc98d35": "2026-10-23T07:50:24.260553+00:00",
+  "368adf2aa797bff7": "2026-10-23T07:50:24.260553+00:00",
+  "6224c45c37c7469f": "2026-10-23T07:50:24.260553+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3828,15 +3831,17 @@
    "first": "2026-10-22T05:26:53.305584+00:00",
    "sources": {
     "FormulaPassion": "2026-10-22T05:00:00+00:00",
-    "GPblog": "2026-10-22T08:01:00+00:00"
+    "GPblog": "2026-10-22T08:01:00+00:00",
+    "GPFans": "2026-10-23T07:43:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Aggiornamenti Ferrari: un rischio da correre per il 2027",
-    "GPblog": "Leclerc points to Ferrari's 'raw performance' deficit on 2026 rivals ahead of Austin GP"
+    "GPblog": "Leclerc points to Ferrari's 'raw performance' deficit on 2026 rivals ahead of Austin GP",
+    "GPFans": "Charles Leclerc says Ferrari 'not at the level' of rivals in brutal verdict on 2026 struggles"
    },
-   "last": "2026-10-22T18:02:10.300556+00:00"
+   "last": "2026-10-23T07:50:27.917858+00:00"
   },
   "S357": {
    "title": "Horner says Red Bull's 2026 wins are his personal milestone",
@@ -8163,9 +8168,35 @@
     "GPblog": "Future MotoGP rivals embroiled in bitter feud after shocking teammate accusation"
    },
    "last": "2026-10-23T07:40:32.271657+00:00"
+  },
+  "S679": {
+   "title": "New Zealand vs India second T20I match preview",
+   "first": "2026-10-23T07:50:27.917820+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T07:41:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Match Preview New Zealand vs India, 2nd T20I 2026"
+   },
+   "last": "2026-10-23T07:50:27.917840+00:00"
+  },
+  "S680": {
+   "title": "Arsenal's struggles in the WSL season",
+   "first": "2026-10-23T07:50:27.917846+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T07:13:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal are enduring a dismal WSL campaign. Here's how to fix it"
+   },
+   "last": "2026-10-23T07:50:27.917852+00:00"
   }
  },
- "story_seq": 678,
+ "story_seq": 680,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8284,7 +8315,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T07:40:26.516949+00:00",
+ "last_run": "2026-10-23T07:50:24.260553+00:00",
  "last_digest": "2026-10-23T07:40:40.354553+00:00",
  "last_digest_key": "06dd38eea2de4d45faad6cf3863f0e4480ba4383"
 }
