@@ -1963,7 +1963,10 @@
   "0da77c71358bb7b3": "2026-10-23T13:56:03.586915+00:00",
   "84e8f8019a5d0b63": "2026-10-23T14:01:44.292352+00:00",
   "cfc91cb9a508975d": "2026-10-23T14:06:49.923044+00:00",
-  "297d51c78984cf51": "2026-10-23T14:06:49.923044+00:00"
+  "297d51c78984cf51": "2026-10-23T14:06:49.923044+00:00",
+  "479128ba5e0deca6": "2026-10-23T14:11:45.805735+00:00",
+  "081ac07eb75ec2c0": "2026-10-23T14:11:45.805735+00:00",
+  "e6325f8847722e6b": "2026-10-23T14:11:45.805735+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4893,7 +4896,7 @@
     "Autosport": "Renault to sell former F1 engine facility in Viry",
     "Motorsport-Total": "Renault verkauft F1-Motorenstandort: Was wird aus den Mitarbeitern? - Motorsport-Total.com"
    },
-   "last": "2026-10-23T13:31:11.353749+00:00"
+   "last": "2026-10-23T14:11:51.926573+00:00"
   },
   "S483": {
    "title": "Verstappen and Red Bull eye McLaren in constructors' third-place battle",
@@ -5048,16 +5051,18 @@
    "sources": {
     "RacingNews365": "2026-10-22T16:10:00+00:00",
     "PlanetF1": "2026-10-22T17:45:14+00:00",
-    "Formula 1": "2026-10-23T08:51:15.622300+00:00"
+    "Formula 1": "2026-10-23T08:51:15.622300+00:00",
+    "Motorsport Week": "2026-10-23T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Aston Martin confirm Mexico City first practice driver replacement",
     "PlanetF1": "Lance Stroll to miss Mexican GP FP1 as Aston Martin reserve steps in",
-    "Formula 1": "Crawford set for Mexico City FP1 outing with Aston Martin"
+    "Formula 1": "Crawford set for Mexico City FP1 outing with Aston Martin",
+    "Motorsport Week": "Jak Crawford to get behind the wheel for Aston Martin in Mexico"
    },
-   "last": "2026-10-23T08:51:15.622318+00:00"
+   "last": "2026-10-23T14:11:51.926565+00:00"
   },
   "S495": {
    "title": "Kim Kardashian hints at Lewis Hamilton on TV show",
@@ -8819,9 +8824,22 @@
     "PlanetF1": "IndyCar confirms Barcelona debut after F1 calendar shift"
    },
    "last": "2026-10-23T14:06:52.427478+00:00"
+  },
+  "S772": {
+   "title": "Leclerc hopes Ferrari's Austin upgrade package mirrors Red Bull's gains",
+   "first": "2026-10-23T14:11:51.926538+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-23T14:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Leclerc hoopt voorbeeld te nemen aan Red Bull"
+   },
+   "last": "2026-10-23T14:11:51.926556+00:00"
   }
  },
- "story_seq": 771,
+ "story_seq": 772,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8940,7 +8958,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T14:06:49.923044+00:00",
+ "last_run": "2026-10-23T14:11:45.805735+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
