@@ -1966,7 +1966,9 @@
   "297d51c78984cf51": "2026-10-23T14:06:49.923044+00:00",
   "479128ba5e0deca6": "2026-10-23T14:11:45.805735+00:00",
   "081ac07eb75ec2c0": "2026-10-23T14:11:45.805735+00:00",
-  "e6325f8847722e6b": "2026-10-23T14:11:45.805735+00:00"
+  "e6325f8847722e6b": "2026-10-23T14:11:45.805735+00:00",
+  "56dbaa02d5a66b45": "2026-10-23T14:16:47.793332+00:00",
+  "78d1d9a12e83759d": "2026-10-23T14:16:47.793332+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8816,14 +8818,16 @@
    "title": "IndyCar confirms Barcelona debut for 2027 after F1 calendar shift",
    "first": "2026-10-23T14:06:52.427472+00:00",
    "sources": {
-    "PlanetF1": "2026-10-23T14:03:15+00:00"
+    "PlanetF1": "2026-10-23T14:03:15+00:00",
+    "RacingNews365": "2026-10-23T14:13:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "IndyCar confirms Barcelona debut after F1 calendar shift"
+    "PlanetF1": "IndyCar confirms Barcelona debut after F1 calendar shift",
+    "RacingNews365": "Historic F1 circuit set for remarkable 2027 motorsport arrival"
    },
-   "last": "2026-10-23T14:06:52.427478+00:00"
+   "last": "2026-10-23T14:16:51.814089+00:00"
   },
   "S772": {
    "title": "Leclerc hopes Ferrari's Austin upgrade package mirrors Red Bull's gains",
@@ -8837,9 +8841,22 @@
     "RacingNews365 NL": "Leclerc hoopt voorbeeld te nemen aan Red Bull"
    },
    "last": "2026-10-23T14:11:51.926556+00:00"
+  },
+  "S773": {
+   "title": "Freddie Slater to drive Audi in Mexico and Brazil FP1 sessions",
+   "first": "2026-10-23T14:16:51.814098+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Freddie Slater nelle FP1 dei GP del Messico e Brasile con Audi"
+   },
+   "last": "2026-10-23T14:16:51.814104+00:00"
   }
  },
- "story_seq": 772,
+ "story_seq": 773,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8958,7 +8975,10 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T14:11:45.805735+00:00",
+ "last_run": "2026-10-23T14:16:47.793332+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
- "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
+ "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
+ "last_digest_slot": "2026-10-23 15:00",
+ "last_digest_at": "2026-10-23T14:16:52.879633+00:00",
+ "sent_log": []
 }
