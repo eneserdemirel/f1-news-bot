@@ -1922,7 +1922,10 @@
   "87e97ffce8a67e08": "2026-10-23T12:21:10.058419+00:00",
   "b7c9fb507bfa5d46": "2026-10-23T12:21:10.058419+00:00",
   "22765cfdafddfaf0": "2026-10-23T12:21:10.058419+00:00",
-  "e578664f4c8f8c9b": "2026-10-23T12:21:10.058419+00:00"
+  "e578664f4c8f8c9b": "2026-10-23T12:21:10.058419+00:00",
+  "607a28b8515cba16": "2026-10-23T12:26:04.260732+00:00",
+  "58327019672d67e8": "2026-10-23T12:26:04.260732+00:00",
+  "fefff9869698ce9c": "2026-10-23T12:26:04.260732+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2340,32 +2343,6 @@
     "PlanetF1": "Qatar GP circuit issues update as planned F1 slot approaches"
    },
    "last": "2026-10-21T13:24:44.633175+00:00"
-  },
-  "S284": {
-   "title": "Analysis of Antonelli-Mercedes balance and Ferrari, Verstappen threat",
-   "first": "2026-10-21T12:24:50.813741+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-21T12:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Che equilibrio dietro il binomio Kimi-Mercedes: Ferrari, 2° posto nel Costruttori blindato, ma occhio a Verstappen…"
-   },
-   "last": "2026-10-21T12:24:50.813746+00:00"
-  },
-  "S285": {
-   "title": "McLaren says Austin likely a better track for its car",
-   "first": "2026-10-21T12:24:50.813750+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-21T12:15:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "McLaren: Austin \"wahrscheinlich eine bessere Strecke für unser Auto\" - Motorsport-Total.com"
-   },
-   "last": "2026-10-21T12:24:50.813754+00:00"
   },
   "S286": {
    "title": "Raikkonen 'on this day' record retrospective from 2018 US GP",
@@ -7991,15 +7968,17 @@
    "first": "2026-10-23T09:21:10.288184+00:00",
    "sources": {
     "Autosport": "2026-10-23T09:17:33+00:00",
-    "GPblog": "2026-10-23T11:05:00+00:00"
+    "GPblog": "2026-10-23T11:05:00+00:00",
+    "RacingNews365 NL": "2026-10-23T12:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
-    "GPblog": "Lando Norris joins Max Verstappen in COTA complaints after headache tablet revelation"
+    "GPblog": "Lando Norris joins Max Verstappen in COTA complaints after headache tablet revelation",
+    "RacingNews365 NL": "Norris sluit zich aan bij Verstappen: \"Moet pijnstillers nemen!\""
    },
-   "last": "2026-10-23T11:11:19.151588+00:00"
+   "last": "2026-10-23T12:26:06.771365+00:00"
   },
   "S700": {
    "title": "Verstappen and Red Bull joke about Singapore radio problems",
@@ -8643,9 +8622,35 @@
     "ESPN F1": "Hideki Matsui hired as manager of Japan's Yomiuri Giants"
    },
    "last": "2026-10-23T12:21:14.032715+00:00"
+  },
+  "S749": {
+   "title": "College hoops teams gaining and losing transfer talent",
+   "first": "2026-10-23T12:26:06.771327+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T12:21:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Men's college hoops teams that gained -- and lost -- most transfer talent"
+   },
+   "last": "2026-10-23T12:26:06.771348+00:00"
+  },
+  "S750": {
+   "title": "Conte says no advanced Man United negotiations",
+   "first": "2026-10-23T12:26:06.771354+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T12:07:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Antonio Conte: 'No negotiations at advanced stage' amid Man United link"
+   },
+   "last": "2026-10-23T12:26:06.771358+00:00"
   }
  },
- "story_seq": 748,
+ "story_seq": 750,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8764,7 +8769,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T12:21:10.058419+00:00",
+ "last_run": "2026-10-23T12:26:04.260732+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
