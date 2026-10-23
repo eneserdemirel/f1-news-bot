@@ -12,7 +12,9 @@ settings:
   normal_interval_min: 10   # normal günlerde kontrol aralığı (dakika)
   race_interval_min: 5      # yarış haftasonunda kontrol aralığı (dakika)
   race_weekend: auto        # auto = takvime göre, on = hep açık, off = hep kapalı
-  digest_interval_min: 30   # gündem ilk 5 listesinin aralığı (0 = kapalı)
+  digest_interval_min: 0    # eski gündem listesi kapalı
+  digest_times: ["15:00", "22:00"]   # gönderilen haberlerin başlık listesi (Türkiye saati)
+  tz_offset_hours: 3
   digest_window_min: 120    # gündem listesi için bakılan süre (dakika)
   digest_size: 5            # listede kaç haber olsun
 
