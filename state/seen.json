@@ -1940,7 +1940,13 @@
   "f7f0470aedfd96ec": "2026-10-23T13:06:06.739372+00:00",
   "81eec2eeabce9bf3": "2026-10-23T13:06:06.739372+00:00",
   "e9071775c4a031f7": "2026-10-23T13:06:06.739372+00:00",
-  "02bf282351c086db": "2026-10-23T13:11:09.539927+00:00"
+  "02bf282351c086db": "2026-10-23T13:11:09.539927+00:00",
+  "57ca01ea1cde012f": "2026-10-23T13:21:08.225582+00:00",
+  "73e24f67f0a0ca57": "2026-10-23T13:21:08.225582+00:00",
+  "3548e1b6befd0262": "2026-10-23T13:21:08.225582+00:00",
+  "96d0dbc252564ffe": "2026-10-23T13:21:08.225582+00:00",
+  "760b2c802f72de97": "2026-10-23T13:21:08.225582+00:00",
+  "f08733b8b27ec3d1": "2026-10-23T13:21:08.225582+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6510,14 +6516,16 @@
    "title": "Leclerc names bigger goal than P2 in Teams' Championship",
    "first": "2026-10-22T22:19:05.688039+00:00",
    "sources": {
-    "Formula 1": "2026-10-22T22:19:05.688054+00:00"
+    "Formula 1": "2026-10-22T22:19:05.688054+00:00",
+    "FormulaPassion": "2026-10-23T13:10:30+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Leclerc names bigger goal than P2 in Teams’ Championship"
+    "Formula 1": "Leclerc names bigger goal than P2 in Teams’ Championship",
+    "FormulaPassion": "Leclerc: “Più importante vincere qualche gara che il secondo posto nei costruttori”"
    },
-   "last": "2026-10-22T22:19:05.688058+00:00"
+   "last": "2026-10-23T13:21:14.012543+00:00"
   },
   "S594": {
    "title": "Boston College RB Evan Dickens out for season",
@@ -7868,15 +7876,17 @@
    "first": "2026-10-23T08:51:15.622343+00:00",
    "sources": {
     "The Race": "2026-10-23T08:46:32+00:00",
-    "RacingNews365 NL": "2026-10-23T11:10:00+00:00"
+    "RacingNews365 NL": "2026-10-23T11:10:00+00:00",
+    "RacingNews365": "2026-10-23T13:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "F1's plan to slash car weight revealed",
-    "RacingNews365 NL": "FIA deelt verregaande plannen voor 2030-auto's: \"Onder de 700 kilogram\""
+    "RacingNews365 NL": "FIA deelt verregaande plannen voor 2030-auto's: \"Onder de 700 kilogram\"",
+    "RacingNews365": "FIA detail ambitious plans to lower F1 car weight in rules overhaul"
    },
-   "last": "2026-10-23T11:11:19.151582+00:00"
+   "last": "2026-10-23T13:21:14.012537+00:00"
   },
   "S695": {
    "title": "Former Honda engineer explains why Aston Martin PU is weakest",
@@ -8738,9 +8748,61 @@
     "ESPN F1": "Jay-Z's greatest sports lyrics, ranked ahead of his SoFi Stadium show"
    },
    "last": "2026-10-23T13:11:11.416266+00:00"
+  },
+  "S760": {
+   "title": "UFC Yan vs. Dvalishvili 3 fight preview",
+   "first": "2026-10-23T13:21:14.012497+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T13:15:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "After two opposite fights, what should be expected from Yan vs. Dvalishvili 3"
+   },
+   "last": "2026-10-23T13:21:14.012519+00:00"
+  },
+  "S761": {
+   "title": "Utah Utes coach Morgan Scalley profile",
+   "first": "2026-10-23T13:21:14.012525+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Utah Utes first-year coach Morgan Scalley leading with love"
+   },
+   "last": "2026-10-23T13:21:14.012531+00:00"
+  },
+  "S762": {
+   "title": "Alonso says Honda deserves another chance after failed 2026 engine",
+   "first": "2026-10-23T13:21:14.012546+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Alonso ora coccola Honda: “Abbiamo iniziato con il piede sbagliato, ma merita un’altra chance”"
+   },
+   "last": "2026-10-23T13:21:14.012550+00:00"
+  },
+  "S763": {
+   "title": "Sainz clarifies doubts over Qatar and Abu Dhabi GPs",
+   "first": "2026-10-23T13:21:14.012553+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T12:58:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Sainz costretto a chiarire dopo aver messo in dubbio i GP di Qatar e Abu Dhabi"
+   },
+   "last": "2026-10-23T13:21:14.012557+00:00"
   }
  },
- "story_seq": 759,
+ "story_seq": 763,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8859,7 +8921,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T13:16:03.423343+00:00",
+ "last_run": "2026-10-23T13:21:08.225582+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
