@@ -1981,7 +1981,9 @@
   "d65334e9eaa00033": "2026-10-23T14:36:43.812325+00:00",
   "2d19552a8403e4a8": "2026-10-23T14:41:50.274746+00:00",
   "243c10293e1aae92": "2026-10-23T14:41:50.274746+00:00",
-  "1ea7fed1b7e0a641": "2026-10-23T14:41:50.274746+00:00"
+  "1ea7fed1b7e0a641": "2026-10-23T14:41:50.274746+00:00",
+  "1b01d56a4d7ce9e7": "2026-10-23T14:46:48.648835+00:00",
+  "08084fc039b4a3b8": "2026-10-23T14:46:48.648835+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2361,32 +2363,6 @@
     "GPblog": "Verstappen hints at more to come after Red Bull's stunning turnaround"
    },
    "last": "2026-10-22T02:27:12.240900+00:00"
-  },
-  "S301": {
-   "title": "George Russell hints at off-track struggles behind Singapore win",
-   "first": "2026-10-21T14:45:07.272503+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-21T14:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "George Russell drops hint on personal struggles vital 2025 F1 success"
-   },
-   "last": "2026-10-21T14:45:07.272522+00:00"
-  },
-  "S302": {
-   "title": "Toto Wolff makes surprising admission on Lewis Hamilton's influence",
-   "first": "2026-10-21T14:45:07.272534+00:00",
-   "sources": {
-    "GPblog": "2026-10-21T12:43:44+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Toto Wolff makes surprising admission about Lewis Hamilton's influence"
-   },
-   "last": "2026-10-21T14:45:07.272538+00:00"
   },
   "S303": {
    "title": "Feature on how F1 drivers and strategists tackle COTA",
@@ -7975,15 +7951,17 @@
    "first": "2026-10-23T10:31:13.545396+00:00",
    "sources": {
     "RacingNews365": "2026-10-23T10:20:00+00:00",
-    "GPblog": "2026-10-23T12:31:00+00:00"
+    "GPblog": "2026-10-23T12:31:00+00:00",
+    "RacingNews365 NL": "2026-10-23T14:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Max Verstappen addresses prospect at being forced to take unwanted F1 penalty",
-    "GPblog": "Max Verstappen weighs up first engine penalty of 2026 F1 season"
+    "GPblog": "Max Verstappen weighs up first engine penalty of 2026 F1 season",
+    "RacingNews365 NL": "Verstappen houdt optie tot mogelijke gridstraf open"
    },
-   "last": "2026-10-23T12:36:08.007955+00:00"
+   "last": "2026-10-23T14:46:52.054327+00:00"
   },
   "S712": {
    "title": "Antonelli and Mercedes must regain harmony for 2027",
@@ -8889,9 +8867,22 @@
     "ESPN F1": "Musah is back in Milan, back in midfield and back in contention for the USMNT"
    },
    "last": "2026-10-23T14:31:54.075031+00:00"
+  },
+  "S781": {
+   "title": "Live coverage of Austin GP FP1 session",
+   "first": "2026-10-23T14:46:52.054337+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T14:29:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "F1 GP Stati Uniti 2026, FP1: le prime libere del weekend a Austin iniziano alle 19.30 – DIRETTA"
+   },
+   "last": "2026-10-23T14:46:52.054345+00:00"
   }
  },
- "story_seq": 780,
+ "story_seq": 781,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9010,7 +9001,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T14:41:50.274746+00:00",
+ "last_run": "2026-10-23T14:46:48.648835+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 15:00",
@@ -9020,6 +9011,11 @@
    "t": "2026-10-23T14:26:51.305694+00:00",
    "title": "Carlos Sainz: Çok fazla yarış taraftarları F1'den bıktırabilir",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-23T14:47:01.616270+00:00",
+   "title": "F1 ABD GP 2026 serbest antrenman 1 canlı yayını bu akşam başlıyor",
+   "source": "FormulaPassion"
   }
  ]
 }
