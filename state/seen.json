@@ -2113,7 +2113,11 @@
   "061accc78205f87d": "2026-10-23T19:22:27.531103+00:00",
   "db0ba240572428a2": "2026-10-23T19:22:27.531103+00:00",
   "b40a536c573c630e": "2026-10-23T19:22:27.531103+00:00",
-  "4c24030568aa440c": "2026-10-23T19:22:27.531103+00:00"
+  "4c24030568aa440c": "2026-10-23T19:22:27.531103+00:00",
+  "14ab65c3f4011ff7": "2026-10-23T19:32:27.806067+00:00",
+  "0366307751ee02dd": "2026-10-23T19:32:27.806067+00:00",
+  "b69dbf7263c693c0": "2026-10-23T19:32:27.806067+00:00",
+  "6adf7b12ddfb0a1e": "2026-10-23T19:32:27.806067+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9056,7 +9060,8 @@
     "The Race": "2026-10-23T18:25:11+00:00",
     "RacingNews365 NL": "2026-10-23T18:50:00+00:00",
     "Formula 1": "2026-10-23T19:12:31.373996+00:00",
-    "Crash.net": "2026-10-23T19:13:11+00:00"
+    "Crash.net": "2026-10-23T19:13:11+00:00",
+    "FormulaPassion": "2026-10-23T19:18:12+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9066,9 +9071,10 @@
     "The Race": "Three drivers get grid penalties at F1's US GP",
     "RacingNews365 NL": "Meerdere F1-coureurs ontvangen gridstraf voor GP Verenigde Staten",
     "Formula 1": "Lindblad, Colapinto and Bortoleto to take penalties for US GP",
-    "Crash.net": "Three F1 drivers handed grid penalties for US Grand Prix"
+    "Crash.net": "Three F1 drivers handed grid penalties for US Grand Prix",
+    "FormulaPassion": "Austin: penalità in griglia per Bortoleto, Colapinto e Lindblad"
    },
-   "last": "2026-10-23T19:17:27.603101+00:00"
+   "last": "2026-10-23T19:32:34.612065+00:00"
   },
   "S819": {
    "title": "Baker Mayfield returns for Bucs; Egbuka and Goedeke out",
@@ -9376,9 +9382,48 @@
     "Motorsport-Total": "Verstappen eigentlich Schnellster: So kam Leclerc in Austin auf Platz 1 - Motorsport-Total.com"
    },
    "last": "2026-10-23T19:22:34.611368+00:00"
+  },
+  "S840": {
+   "title": "Cadillac plans to help Herta earn final super licence point",
+   "first": "2026-10-23T19:32:34.612030+00:00",
+   "sources": {
+    "GPblog": "2026-10-23T19:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Cadillac wants to help Herta earn the final point for an F1 super licence"
+   },
+   "last": "2026-10-23T19:32:34.612048+00:00"
+  },
+  "S841": {
+   "title": "Wolff says updated Mercedes is nervous and they don't know why",
+   "first": "2026-10-23T19:32:34.612054+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T19:28:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "La Mercedes aggiornata è ‘nervosa’, anche Wolff è preoccupato: “Abbiamo sbagliato e non sappiamo dove”"
+   },
+   "last": "2026-10-23T19:32:34.612059+00:00"
+  },
+  "S842": {
+   "title": "Live coverage of US GP FP2 practice session",
+   "first": "2026-10-23T19:32:34.612070+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T19:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "F1 GP Stati Uniti 2026, FP2: attesa per le simulazioni gara, si riparte alle 23.00 – DIRETTA"
+   },
+   "last": "2026-10-23T19:32:34.612094+00:00"
   }
  },
- "story_seq": 839,
+ "story_seq": 842,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9497,7 +9542,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T19:27:24.061717+00:00",
+ "last_run": "2026-10-23T19:32:27.806067+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -9597,6 +9642,26 @@
    "t": "2026-10-23T19:12:36.995825+00:00",
    "title": "Lindblad, Colapinto ve Bortoleto ABD GP'de grid cezası alacak",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-23T19:32:45.401869+00:00",
+   "title": "F1 ABD GP 2026 FP2 canlı yayını 23.00'te başlıyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-23T19:32:45.939070+00:00",
+   "title": "Austin GP'de Bortoleto, Colapinto ve Lindblad'a grid cezası",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-23T19:32:46.507845+00:00",
+   "title": "Cadillac, Herta'nın F1 süper lisansı için son puanı kazanmasına yardım etmek istiyor",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-23T19:32:47.130501+00:00",
+   "title": "Mercedes'in yeni güncellemesi 'nervöz', Wolff endişeli: \"Yanlış yaptık ama nerede olduğunu bilmiyoruz\"",
+   "source": "FormulaPassion"
   }
  ]
 }
