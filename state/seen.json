@@ -1851,7 +1851,12 @@
   "9090677faa66a0da": "2026-10-23T09:41:09.222643+00:00",
   "609d335864c53bfb": "2026-10-23T09:41:09.222643+00:00",
   "cdb3b91d7c79c213": "2026-10-23T09:51:08.921384+00:00",
-  "bc609e024eb1fb84": "2026-10-23T09:51:08.921384+00:00"
+  "bc609e024eb1fb84": "2026-10-23T09:51:08.921384+00:00",
+  "b13213414a95ccde": "2026-10-23T10:01:05.978737+00:00",
+  "a8d9a6389692c9f1": "2026-10-23T10:01:05.978737+00:00",
+  "fb0c7e2caf1cea5f": "2026-10-23T10:01:05.978737+00:00",
+  "6fdb980ed168d617": "2026-10-23T10:01:05.978737+00:00",
+  "84c5db5960231cb1": "2026-10-23T10:01:05.978737+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7680,15 +7685,17 @@
    "first": "2026-10-23T05:10:30.548413+00:00",
    "sources": {
     "GPblog": "2026-10-23T05:01:00+00:00",
-    "Motorsport-Total": "2026-10-23T08:32:04+00:00"
+    "Motorsport-Total": "2026-10-23T08:32:04+00:00",
+    "RacingNews365 NL": "2026-10-23T09:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Hamilton sparks laughter with 'slow down' advice to soon-to-be F1 champion Antonelli",
-    "Motorsport-Total": "Was Lewis Hamilton Antonelli vor dem Titelgewinn rät: \"Mach langsamer!\" - Motorsport-Total.com"
+    "Motorsport-Total": "Was Lewis Hamilton Antonelli vor dem Titelgewinn rät: \"Mach langsamer!\" - Motorsport-Total.com",
+    "RacingNews365 NL": "Hamilton grapt met advies voor Antonelli: \"Doe rustig aan!\""
    },
-   "last": "2026-10-23T09:11:11.113857+00:00"
+   "last": "2026-10-23T10:01:10.141090+00:00"
   },
   "S647": {
    "title": "Kings 3-2 Islanders NHL game recap",
@@ -8421,9 +8428,48 @@
     "AS": "¿A qué hora es el GP de Estados Unidos de F1? Canal TV, horarios y dónde ver la carrera en Austin en directo"
    },
    "last": "2026-10-23T09:51:12.326501+00:00"
+  },
+  "S703": {
+   "title": "Pirates vs African Stars live score page",
+   "first": "2026-10-23T10:01:10.141052+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T08:45:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "O Pirates vs. African Stars (23 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-23T10:01:10.141072+00:00"
+  },
+  "S704": {
+   "title": "Bearman says he will stay at Haas for 2027",
+   "first": "2026-10-23T10:01:10.141079+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-23T09:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oliver Bearman issues firm declaration over F1 future amid new contract delay"
+   },
+   "last": "2026-10-23T10:01:10.141083+00:00"
+  },
+  "S705": {
+   "title": "Russell names key difference making Antonelli better",
+   "first": "2026-10-23T10:01:10.141093+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-23T09:00:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Warum Antonelli besser ist: Russell nennt den entscheidenden Unterschied - Motorsport-Total.com"
+   },
+   "last": "2026-10-23T10:01:10.141098+00:00"
   }
  },
- "story_seq": 702,
+ "story_seq": 705,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8542,7 +8588,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T09:51:08.921384+00:00",
+ "last_run": "2026-10-23T10:01:05.978737+00:00",
  "last_digest": "2026-10-23T09:41:19.553425+00:00",
  "last_digest_key": "137bd887b1106c08d39f667f9b401e1427383cde"
 }
