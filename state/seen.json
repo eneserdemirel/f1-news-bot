@@ -2209,7 +2209,9 @@
   "fc3b530f8e7239f1": "2026-10-23T22:42:23.609534+00:00",
   "34d74697a4ad5ef4": "2026-10-23T22:42:23.609534+00:00",
   "e0076b01011070ec": "2026-10-23T22:42:23.609534+00:00",
-  "10778866bfc1edb2": "2026-10-23T22:42:23.609534+00:00"
+  "10778866bfc1edb2": "2026-10-23T22:42:23.609534+00:00",
+  "7522a7123cf4302c": "2026-10-23T22:47:27.920425+00:00",
+  "2cad0c5445b954e4": "2026-10-23T22:47:27.920425+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9886,7 +9888,8 @@
     "AS": "2026-10-23T22:07:10+00:00",
     "Formula 1": "2026-10-23T22:22:26.334469+00:00",
     "ESPN F1": "2026-10-23T22:22:12+00:00",
-    "FormulaPassion": "2026-10-23T22:04:42+00:00"
+    "FormulaPassion": "2026-10-23T22:04:42+00:00",
+    "FIA": "2026-10-23T22:33:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9904,9 +9907,10 @@
     "AS": "Leclerc se enchufa, Aston cede y Williams “es un desastre”",
     "Formula 1": "Leclerc sets the pace in FP2 at the United States GP",
     "ESPN F1": "Ferrari's Charles Leclerc sets pace in second practice from Kimi Antonelli at United States Grand Prix",
-    "FormulaPassion": "GP Stati Uniti 2026 – Classifica FP2: Leclerc resta davanti, Antonelli è vicinissimo. Ma Verstappen (3°) fa paura a tutti"
+    "FormulaPassion": "GP Stati Uniti 2026 – Classifica FP2: Leclerc resta davanti, Antonelli è vicinissimo. Ma Verstappen (3°) fa paura a tutti",
+    "FIA": "F1 – Leclerc continues to set the pace in Austin ahead of Antonelli and Verstappen"
    },
-   "last": "2026-10-23T22:42:28.868729+00:00"
+   "last": "2026-10-23T22:47:31.239290+00:00"
   },
   "S877": {
    "title": "Stuttgart 2-3 Gladbach player stats page",
@@ -10011,9 +10015,22 @@
     "RacingNews365": "Mercedes claim 'really bad' USGP if Kimi Antonelli wins F1 crown in Austin"
    },
    "last": "2026-10-23T22:42:28.868722+00:00"
+  },
+  "S885": {
+   "title": "Zak Brown predicts busy stewards day over track limits",
+   "first": "2026-10-23T22:47:31.239303+00:00",
+   "sources": {
+    "GPblog": "2026-10-23T22:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 drivers face major new track limits challenge at United States Grand Prix"
+   },
+   "last": "2026-10-23T22:47:31.239311+00:00"
   }
  },
- "story_seq": 884,
+ "story_seq": 885,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10132,7 +10149,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-23T22:42:23.609534+00:00",
+ "last_run": "2026-10-23T22:47:27.920425+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10332,6 +10349,11 @@
    "t": "2026-10-23T22:42:34.067616+00:00",
    "title": "Mercedes: Antonelli Austin'de şampiyon olursa 'çok kötü' bir yarış olur",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-23T22:47:35.794205+00:00",
+   "title": "Brown: ABD GP'de pist sınırı sorunu büyük olabilir",
+   "source": "GPblog"
   }
  ]
 }
