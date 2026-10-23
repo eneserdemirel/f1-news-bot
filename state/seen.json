@@ -2057,7 +2057,9 @@
   "69a2d12b3eff5488": "2026-10-23T18:06:48.866703+00:00",
   "4bbc747308e2a1d8": "2026-10-23T18:06:48.866703+00:00",
   "3479945227911bca": "2026-10-23T18:06:48.866703+00:00",
-  "d5904aea92c0413f": "2026-10-23T18:06:48.866703+00:00"
+  "d5904aea92c0413f": "2026-10-23T18:06:48.866703+00:00",
+  "e97ef5c2aa19c2ce": "2026-10-23T18:11:45.104198+00:00",
+  "67d039bcb4f47f7c": "2026-10-23T18:11:45.104198+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9052,14 +9054,16 @@
    "title": "Toto Wolff's son involved in frightening kart crash",
    "first": "2026-10-23T17:31:48.137470+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-10-23T17:20:00+00:00"
+    "RacingNews365 NL": "2026-10-23T17:20:00+00:00",
+    "RacingNews365": "2026-10-23T18:05:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Zoon Toto Wolff betrokken bij angstaanjagende kartcrash"
+    "RacingNews365 NL": "Zoon Toto Wolff betrokken bij angstaanjagende kartcrash",
+    "RacingNews365": "Toto Wolff's son Jack involved in scary karting crash"
    },
-   "last": "2026-10-23T17:31:48.137476+00:00"
+   "last": "2026-10-23T18:11:48.930421+00:00"
   },
   "S817": {
    "title": "Szafnauer reveals he was offered Cadillac team principal role",
@@ -9127,9 +9131,22 @@
     "ESPN F1": "Fantasy football rankings for Week 7: Kicker"
    },
    "last": "2026-10-23T18:06:53.105231+00:00"
+  },
+  "S822": {
+   "title": "Empty Motorsport-Total item with no content",
+   "first": "2026-10-23T18:11:48.930432+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-23T17:10:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-10-23T18:11:48.930439+00:00"
   }
  },
- "story_seq": 821,
+ "story_seq": 822,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9248,7 +9265,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T18:06:48.866703+00:00",
+ "last_run": "2026-10-23T18:11:45.104198+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 15:00",
@@ -9317,6 +9334,11 @@
   {
    "t": "2026-10-23T18:06:57.941680+00:00",
    "title": "Üç F1 pilotuna Amerika GP'sinde ızgara cezası verildi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-23T18:11:54.691799+00:00",
+   "title": "Toto Wolff'un oğlu Jack korkutucu bir karting kazası geçirdi",
    "source": "RacingNews365"
   }
  ]
