@@ -1916,7 +1916,8 @@
   "eb9faeb6b9142eae": "2026-10-23T12:01:07.877790+00:00",
   "020ae274402b38d1": "2026-10-23T12:06:06.472559+00:00",
   "fd9e5be9f8647ec8": "2026-10-23T12:06:06.472559+00:00",
-  "9d188fa3d9b6b611": "2026-10-23T12:11:06.802049+00:00"
+  "9d188fa3d9b6b611": "2026-10-23T12:11:06.802049+00:00",
+  "a3333dc24cbe523f": "2026-10-23T12:16:03.849651+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -1957,23 +1958,6 @@
     "RacingNews365": "Kimi Antonelli handed 'really tricky' warning as first title-clinching opportunity awaits",
     "Corriere dello Sport": "GP Austin, come vedere il primo match point Mondiale di Antonelli: tutti gli orari del weekend"
    }
-  },
-  "S187": {
-   "title": "Horner says he felt sorry for Vasseur over rumours",
-   "first": "2026-10-20T11:15:06.272535+00:00",
-   "sources": {
-    "The Race": "2026-10-20T10:59:03+00:00",
-    "GPFans": "2026-10-21T06:58:00+00:00",
-    "Motorsport-Total": "2026-10-21T08:41:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "'I felt sorry for Fred' - Horner on Ferrari team boss rumours",
-    "GPFans": "Christian Horner reveals unintended fallout from Ferrari F1 comments",
-    "Motorsport-Total": "Horner stellt klar: Habe mich bei Ferrari nicht selbst ins Spiel gebracht - Motorsport-Total.com"
-   },
-   "last": "2026-10-21T12:14:45.682135+00:00"
   },
   "S193": {
    "title": "FIA separates F1 teams from other projects to stop information sharing",
@@ -2336,32 +2320,6 @@
     "GPblog": "Verstappen could take a different strategic route in Austin thanks to Pirelli’s tyre selection"
    },
    "last": "2026-10-22T07:17:38.231114+00:00"
-  },
-  "S281": {
-   "title": "Fred Vesti on his unusual route to Mercedes junior role",
-   "first": "2026-10-21T12:14:45.682087+00:00",
-   "sources": {
-    "Formula 1": "2026-10-21T12:14:45.682101+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Vesti on the unusual way he became a Mercedes Junior driver"
-   },
-   "last": "2026-10-21T12:14:45.682105+00:00"
-  },
-  "S282": {
-   "title": "Waché explains cause of Verstappen's RB22 degradation",
-   "first": "2026-10-21T12:14:45.682118+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-21T12:12:49+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Red Bull technical director reveals cause of Max Verstappen’s RB22 degradation issues"
-   },
-   "last": "2026-10-21T12:14:45.682123+00:00"
   },
   "S283": {
    "title": "Qatar circuit boss gives readiness update as double header nears",
@@ -8626,9 +8584,22 @@
     "ESPN F1": "Fantasy football last-minute pickups: Cooper Jr., Rodgers among top options"
    },
    "last": "2026-10-23T12:11:09.295159+00:00"
+  },
+  "S745": {
+   "title": "Leclerc leads laps in 2026, stats piece on non-Mercedes leader",
+   "first": "2026-10-23T12:16:05.665875+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-23T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Giri da leader nel 2026: Leclerc primo (per ora) tra i non Mercedes, ne ha il triplo di Hamilton. Eppure…"
+   },
+   "last": "2026-10-23T12:16:05.665896+00:00"
   }
  },
- "story_seq": 744,
+ "story_seq": 745,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8747,7 +8718,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T12:11:06.802049+00:00",
+ "last_run": "2026-10-23T12:16:03.849651+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
