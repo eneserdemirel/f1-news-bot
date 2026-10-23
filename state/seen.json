@@ -1949,7 +1949,11 @@
   "f08733b8b27ec3d1": "2026-10-23T13:21:08.225582+00:00",
   "dab1af2f6f5d5137": "2026-10-23T13:31:06.825293+00:00",
   "9e160a1d02a2dafa": "2026-10-23T13:31:06.825293+00:00",
-  "2dfb7ab522d5565e": "2026-10-23T13:36:03.485525+00:00"
+  "2dfb7ab522d5565e": "2026-10-23T13:36:03.485525+00:00",
+  "84a16e909856fc1d": "2026-10-23T13:41:07.889834+00:00",
+  "7761c5de9bb0c1b4": "2026-10-23T13:41:07.889834+00:00",
+  "ee13f63890af3c69": "2026-10-23T13:41:07.889834+00:00",
+  "38cd5e82fe9c6df1": "2026-10-23T13:41:07.889834+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6023,7 +6027,8 @@
     "RacingNews365": "2026-10-22T20:03:00+00:00",
     "ESPN F1": "2026-10-22T21:44:00+00:00",
     "Crash.net": "2026-10-23T05:00:00+00:00",
-    "PlanetF1": "2026-10-23T05:18:52+00:00"
+    "PlanetF1": "2026-10-23T05:18:52+00:00",
+    "Corriere dello Sport": "2026-10-23T13:31:15+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -6031,9 +6036,10 @@
     "RacingNews365": "Lewis Hamilton 'forced' to delay F1 retirement after major decision",
     "ESPN F1": "Lewis Hamilton 'forced' to keep driving into mid-40s to achieve 'dream' of racing in Africa",
     "Crash.net": "Lewis Hamilton “forced to stay a lot longer” after getting big F1 wish",
-    "PlanetF1": "Lewis Hamilton reveals African Grand Prix dream as he vows to extend F1 career"
+    "PlanetF1": "Lewis Hamilton reveals African Grand Prix dream as he vows to extend F1 career",
+    "Corriere dello Sport": "Hamilton non si ritirerà a breve: \"Voglio correre al GP del Ruanda anche se...\""
    },
-   "last": "2026-10-23T05:20:27.367351+00:00"
+   "last": "2026-10-23T13:41:12.936107+00:00"
   },
   "S560": {
    "title": "Bortoleto dreams of world title with Audi",
@@ -8176,7 +8182,7 @@
    "titles": {
     "ESPN F1": "Third-longest standing manager in England loses his job"
    },
-   "last": "2026-10-23T10:51:14.118351+00:00"
+   "last": "2026-10-23T13:41:12.936101+00:00"
   },
   "S719": {
    "title": "Marko praises Verstappen's GT World Challenge activities",
@@ -8790,9 +8796,35 @@
     "RacingNews365 NL": "Verstappen rekent zich niet rijk in Austin: \"Dat weet je maar nooit\""
    },
    "last": "2026-10-23T13:36:07.617553+00:00"
+  },
+  "S766": {
+   "title": "England cricket selection debate after defeat, Brook defends Rashid omission",
+   "first": "2026-10-23T13:41:12.936062+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T13:36:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Brook defends Rashid omission after England fail to defend 429"
+   },
+   "last": "2026-10-23T13:41:12.936081+00:00"
+  },
+  "S767": {
+   "title": "Jaguars LT Harrison out for season with torn ACL",
+   "first": "2026-10-23T13:41:12.936087+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T11:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Jaguars LT Harrison out for season after surgery reveals torn ACL"
+   },
+   "last": "2026-10-23T13:41:12.936093+00:00"
   }
  },
- "story_seq": 765,
+ "story_seq": 767,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -8911,7 +8943,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T13:36:03.485525+00:00",
+ "last_run": "2026-10-23T13:41:07.889834+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44"
 }
