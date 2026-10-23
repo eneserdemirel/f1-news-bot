@@ -2120,7 +2120,10 @@
   "6adf7b12ddfb0a1e": "2026-10-23T19:32:27.806067+00:00",
   "b5b67ab88d88b715": "2026-10-23T19:37:30.436154+00:00",
   "afed5411e8eef496": "2026-10-23T19:42:24.275027+00:00",
-  "f28206731af56a5b": "2026-10-23T19:42:24.275027+00:00"
+  "f28206731af56a5b": "2026-10-23T19:42:24.275027+00:00",
+  "b433653b43fea3fb": "2026-10-23T19:47:28.549785+00:00",
+  "9cd53137a2f41bb6": "2026-10-23T19:47:28.549785+00:00",
+  "13be20ca376774f1": "2026-10-23T19:47:28.549785+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5363,7 +5366,8 @@
     "PlanetF1": "2026-10-22T20:35:23+00:00",
     "Crash.net": "2026-10-22T20:32:45+00:00",
     "Motorsport-Total": "2026-10-22T20:38:25+00:00",
-    "GPblog": "2026-10-23T08:00:00+00:00"
+    "GPblog": "2026-10-23T08:00:00+00:00",
+    "GPFans": "2026-10-23T19:46:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -5373,9 +5377,10 @@
     "PlanetF1": "Carlos Sainz questions F1’s Middle East finale as Qatar and Abu Dhabi face uncertainty",
     "Crash.net": "Carlos Sainz casts doubt on F1 season ending in Middle East with ‘premature’ verdict",
     "Motorsport-Total": "Sainz skeptisch: Formel 1 kann Finale im Nahen Osten noch nicht garantieren - Motorsport-Total.com",
-    "GPblog": "Carlos Sainz questions confidence over F1's Middle East finale with ‘premature’ verdict"
+    "GPblog": "Carlos Sainz questions confidence over F1's Middle East finale with ‘premature’ verdict",
+    "GPFans": "F1 star admits it's 'difficult to be convinced' on Middle East races as US elections loom"
    },
-   "last": "2026-10-23T08:10:27.581689+00:00"
+   "last": "2026-10-23T19:47:32.737682+00:00"
   },
   "S549": {
    "title": "Antonelli says title fight 'not over yet' ahead of Austin",
@@ -9180,7 +9185,8 @@
     "Formula 1": "2026-10-23T18:56:55.542387+00:00",
     "Motorsport.com Italia": "2026-10-23T18:50:51+00:00",
     "FormulaPassion": "2026-10-23T18:33:49+00:00",
-    "Gazzetta dello Sport": "2026-10-23T19:07:30+00:00"
+    "Gazzetta dello Sport": "2026-10-23T19:07:30+00:00",
+    "FIA": "2026-10-23T19:38:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9202,9 +9208,10 @@
     "Formula 1": "Leclerc fastest in first practice for the United States GP",
     "Motorsport.com Italia": "F1 | Austin, Libere 1: Leclerc davanti a tutti con la Ferrari evoluta, ma Max è molto vicino",
     "FormulaPassion": "GP Stati Uniti 2026 – Classifica FP1: Leclerc-Verstappen, sfida lanciata: 84 millesimi a dividerli. 5° Antonelli",
-    "Gazzetta dello Sport": "GP Usa, Leclerc detta il passo nelle libere 1 davanti a Verstappen e Norris. Antonelli è quinto"
+    "Gazzetta dello Sport": "GP Usa, Leclerc detta il passo nelle libere 1 davanti a Verstappen e Norris. Antonelli è quinto",
+    "FIA": "F1- Leclerc tops opening practice for US Grand Prix ahead of Verstappen and Norris"
    },
-   "last": "2026-10-23T19:11:48.221684+00:00"
+   "last": "2026-10-23T19:47:32.737647+00:00"
   },
   "S826": {
    "title": "Colts' Tyler Warren to miss second game with groin injury",
@@ -9452,9 +9459,22 @@
     "Motorsport-Total": "Carlos Sainz: Williams-Management hat gesagt, wir sollen sofort alles ändern - Motorsport-Total.com"
    },
    "last": "2026-10-23T19:42:27.807579+00:00"
+  },
+  "S845": {
+   "title": "Brundle praises Verstappen and Red Bull's rapid F1 rise",
+   "first": "2026-10-23T19:47:32.737663+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-23T19:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Brundle maakt diepe buiging voor 'gelukkige' Verstappen"
+   },
+   "last": "2026-10-23T19:47:32.737675+00:00"
   }
  },
- "story_seq": 844,
+ "story_seq": 845,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9573,7 +9593,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T19:42:24.275027+00:00",
+ "last_run": "2026-10-23T19:47:28.549785+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -9693,6 +9713,11 @@
    "t": "2026-10-23T19:32:47.130501+00:00",
    "title": "Mercedes'in yeni güncellemesi 'nervöz', Wolff endişeli: \"Yanlış yaptık ama nerede olduğunu bilmiyoruz\"",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-23T19:47:39.165749+00:00",
+   "title": "Brundle, Verstappen'in formunu övdü: \"Hâlâ dövülmesi gereken adam\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
