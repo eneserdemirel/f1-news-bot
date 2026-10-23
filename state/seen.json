@@ -1999,7 +1999,11 @@
   "94d358b4b9094da1": "2026-10-23T15:26:46.821836+00:00",
   "2f88cffda45efa78": "2026-10-23T15:26:46.821836+00:00",
   "8f2db2e9965c9793": "2026-10-23T15:26:46.821836+00:00",
-  "7ec81f3fc08491c7": "2026-10-23T15:31:49.469759+00:00"
+  "7ec81f3fc08491c7": "2026-10-23T15:31:49.469759+00:00",
+  "65d93f489ddb7f8f": "2026-10-23T15:41:48.066124+00:00",
+  "59fa9eba57e102c0": "2026-10-23T15:41:48.066124+00:00",
+  "527ec1211c32435b": "2026-10-23T15:41:48.066124+00:00",
+  "0409f8fef9452924": "2026-10-23T15:41:48.066124+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8896,9 +8900,39 @@
     "GPblog": "Hamilton and Leclerc handed massive boost with updates for the United States GP"
    },
    "last": "2026-10-23T15:31:54.508364+00:00"
+  },
+  "S791": {
+   "title": "Caps' Vincent Desharnais out 4-6 weeks after appendectomy",
+   "first": "2026-10-23T15:41:56.125858+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T15:22:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Caps' Vincent Desharnais out 4-6 weeks after appendectomy"
+   },
+   "last": "2026-10-23T15:41:56.125876+00:00"
+  },
+  "S792": {
+   "title": "Red Bull brings aero update and reliability tweak to Austin",
+   "first": "2026-10-23T15:41:56.125882+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-23T15:32:00+00:00",
+    "PlanetF1": "2026-10-23T15:36:48+00:00",
+    "Crash.net": "2026-10-23T15:38:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull wedt op twee paarden met updates voor GP Verenigde Staten",
+    "PlanetF1": "Red Bull continue push with new front wing FIA confirms",
+    "Crash.net": "F1 teams’ United States GP upgrades revealed after Lewis Hamilton’s Ferrari pessimism"
+   },
+   "last": "2026-10-23T15:41:56.125899+00:00"
   }
  },
- "story_seq": 790,
+ "story_seq": 792,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9017,7 +9051,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T15:36:44.482370+00:00",
+ "last_run": "2026-10-23T15:41:48.066124+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 15:00",
@@ -9037,6 +9071,11 @@
    "t": "2026-10-23T15:26:56.145699+00:00",
    "title": "Mercedes'in rakipleri ABD GP'de yeni güncellemelerle geri dönüyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-23T15:42:01.061177+00:00",
+   "title": "Red Bull yeni ön kanatla gelişimi sürdürüyor, FIA onayladı",
+   "source": "PlanetF1"
   }
  ]
 }
