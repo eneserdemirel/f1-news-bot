@@ -2217,7 +2217,9 @@
   "316c3ad1913cae22": "2026-10-23T23:02:25.523900+00:00",
   "367d44815d5044dd": "2026-10-23T23:02:25.523900+00:00",
   "453e671268c58953": "2026-10-23T23:07:27.394853+00:00",
-  "9329a82947fff6ae": "2026-10-23T23:07:27.394853+00:00"
+  "9329a82947fff6ae": "2026-10-23T23:07:27.394853+00:00",
+  "e0835b939ffcad81": "2026-10-23T23:12:23.983583+00:00",
+  "00de148084a302db": "2026-10-23T23:12:23.983583+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10101,9 +10103,35 @@
     "ESPN F1": "South Carolina adds Jordyn Palmer to top women's basketball recruiting class"
    },
    "last": "2026-10-23T23:07:29.231875+00:00"
+  },
+  "S891": {
+   "title": "Norris says McLaren chasing perfection, final upgrades a step behind",
+   "first": "2026-10-23T23:12:27.458942+00:00",
+   "sources": {
+    "Autosport": "2026-10-23T23:04:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "McLaren's aims for its final F1 2026 upgrades amid decline in form"
+   },
+   "last": "2026-10-23T23:12:27.458961+00:00"
+  },
+  "S892": {
+   "title": "Analysis of why Ferrari are favourites for Austin GP",
+   "first": "2026-10-23T23:12:27.458967+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-23T23:07:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Warum Ferrari auf einmal Top-Favorit in Austin ist"
+   },
+   "last": "2026-10-23T23:12:27.458973+00:00"
   }
  },
- "story_seq": 890,
+ "story_seq": 892,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10222,7 +10250,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-23T23:07:27.394853+00:00",
+ "last_run": "2026-10-23T23:12:23.983583+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -10437,6 +10465,11 @@
    "t": "2026-10-23T23:02:36.869896+00:00",
    "title": "Verstappen, Austin'deki pist yüzeyi nedeniyle zorlu bir setup dengesi bulmaya çalıştığını söyledi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-23T23:12:34.790931+00:00",
+   "title": "McLaren, düşen formu sürerken 2026'nın son güncellemelerini hedefliyor",
+   "source": "Autosport"
   }
  ]
 }
