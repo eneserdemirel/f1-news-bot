@@ -2129,7 +2129,9 @@
   "0919456b0af65dfe": "2026-10-23T19:57:31.730400+00:00",
   "6ff2d8b13bcc6155": "2026-10-23T20:02:26.477724+00:00",
   "cfa0487fe570c444": "2026-10-23T20:02:26.477724+00:00",
-  "ff0e497778592d03": "2026-10-23T20:02:26.477724+00:00"
+  "ff0e497778592d03": "2026-10-23T20:02:26.477724+00:00",
+  "6c141c11994ee493": "2026-10-23T20:07:37.153960+00:00",
+  "60ac2176b73c6afc": "2026-10-23T20:07:37.153960+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2384,21 +2386,6 @@
    },
    "last": "2026-10-22T07:17:38.231114+00:00"
   },
-  "S293": {
-   "title": "Date set for appeal in Massa case against Ecclestone, F1 and FIA",
-   "first": "2026-10-21T14:05:10.734330+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-21T14:03:00+00:00",
-    "RacingNews365 NL": "2026-10-21T15:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Date set for appeal in £64 million Felipe Massa court case against Bernie Ecclestone, F1, and FIA",
-    "RacingNews365 NL": "Zaak Massa tegen Ecclestone, FIA en F1 krijgt vervolg in 2027"
-   },
-   "last": "2026-10-21T20:05:49.710161+00:00"
-  },
   "S299": {
    "title": "Verstappen eager for third straight win, says Austin fun",
    "first": "2026-10-21T14:35:03.950116+00:00",
@@ -2505,25 +2492,6 @@
     "RacingNews365": "All the one-off F1 liveries for a special-look United States Grand Prix"
    },
    "last": "2026-10-22T14:38:21.880961+00:00"
-  },
-  "S320": {
-   "title": "Aston Martin adds celebratory colour shades to US GP livery",
-   "first": "2026-10-21T16:15:31.014730+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-21T16:13:00+00:00",
-    "RacingNews365 NL": "2026-10-21T16:30:00+00:00",
-    "Formula 1": "2026-10-21T16:55:27.741681+00:00",
-    "AS": "2026-10-21T19:44:54+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Aston Martin uncover celebratory livery tweak for US Grand Prix",
-    "RacingNews365 NL": "Aston Martin volgt trend met eigen speciale kleurstelling",
-    "Formula 1": "Aston Martin reveal special livery for United States Grand Prix",
-    "AS": "Nueva decoración de Aston Martin"
-   },
-   "last": "2026-10-21T20:05:49.710185+00:00"
   },
   "S330": {
    "title": "Ralf Schumacher criticises Christian Horner over book promotion",
@@ -9418,16 +9386,18 @@
    "sources": {
     "FormulaPassion": "2026-10-23T19:05:00+00:00",
     "RacingNews365": "2026-10-23T19:55:00+00:00",
-    "GPblog": "2026-10-23T20:01:00+00:00"
+    "GPblog": "2026-10-23T20:01:00+00:00",
+    "RacingNews365 NL": "2026-10-23T20:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "F1 GP Stati Uniti 2026, FP2: attesa per le simulazioni gara, si riparte alle 23.00 – DIRETTA",
     "RacingNews365": "LIVE: 2026 F1 United States Grand Prix - Austin Free Practice 2",
-    "GPblog": "F1 LIVE | Follow FP2 of the United States Grand Prix here"
+    "GPblog": "F1 LIVE | Follow FP2 of the United States Grand Prix here",
+    "RacingNews365 NL": "Live tweede vrije training F1 GP Verenigde Staten 2026"
    },
-   "last": "2026-10-23T20:02:31.085741+00:00"
+   "last": "2026-10-23T20:07:39.661585+00:00"
   },
   "S843": {
    "title": "Falcons throwback logo lacks viral stripe pattern",
@@ -9467,9 +9437,22 @@
     "RacingNews365 NL": "Brundle maakt diepe buiging voor 'gelukkige' Verstappen"
    },
    "last": "2026-10-23T19:47:32.737675+00:00"
+  },
+  "S846": {
+   "title": "Cam Skattebo set to return to Giants RB rotation",
+   "first": "2026-10-23T20:07:39.661559+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T19:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'"
+   },
+   "last": "2026-10-23T20:07:39.661577+00:00"
   }
  },
- "story_seq": 845,
+ "story_seq": 846,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -9588,7 +9571,7 @@
   ]
  ],
  "calendar_updated": "2026-10-22T21:58:50.542350+00:00",
- "last_run": "2026-10-23T20:02:26.477724+00:00",
+ "last_run": "2026-10-23T20:07:37.153960+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
