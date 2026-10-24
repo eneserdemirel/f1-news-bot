@@ -2386,7 +2386,9 @@
   "bd6df87ef8b1d647": "2026-10-24T07:44:23.964433+00:00",
   "42abf523482c6073": "2026-10-24T07:44:23.964433+00:00",
   "d20925e67f190100": "2026-10-24T07:54:23.373272+00:00",
-  "06f8e5cc1ef87f02": "2026-10-24T07:59:25.409076+00:00"
+  "06f8e5cc1ef87f02": "2026-10-24T07:59:25.409076+00:00",
+  "615dbbf1c6cd9e7a": "2026-10-24T08:04:23.786523+00:00",
+  "d8243e844b25c7ab": "2026-10-24T08:04:23.786523+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9908,14 +9910,16 @@
    "title": "Leclerc says Ferrari's Austin upgrades work and balance is key",
    "first": "2026-10-23T23:52:33.353774+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-10-23T23:47:13+00:00"
+    "Motorsport.com Italia": "2026-10-23T23:47:13+00:00",
+    "Crash.net": "2026-10-24T08:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Leclerc sorride: novità promosse, ma la vera chiave è aver trovato subito un buon bilanciamento"
+    "Motorsport.com Italia": "F1 | Leclerc sorride: novità promosse, ma la vera chiave è aver trovato subito un buon bilanciamento",
+    "Crash.net": "Charles Leclerc casts judgement on much-hyped Ferrari US GP upgrade"
    },
-   "last": "2026-10-23T23:52:33.353780+00:00"
+   "last": "2026-10-24T08:04:29.335602+00:00"
   },
   "S901": {
    "title": "NHL trade grades for Hellebuyck to Devils",
@@ -10942,9 +10946,22 @@
     "RacingNews365": "Charles Leclerc airs US GP qualifying worry after 'outstanding' Friday"
    },
    "last": "2026-10-24T07:54:26.903401+00:00"
+  },
+  "S979": {
+   "title": "Newey clarifies Lawrence Stroll did meet Honda in Japan",
+   "first": "2026-10-24T08:04:29.335579+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-24T08:03:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lawrence Stroll Honda meeting clarified by Newey"
+   },
+   "last": "2026-10-24T08:04:29.335595+00:00"
   }
  },
- "story_seq": 978,
+ "story_seq": 979,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11063,7 +11080,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T07:59:25.409076+00:00",
+ "last_run": "2026-10-24T08:04:23.786523+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11408,6 +11425,11 @@
    "t": "2026-10-24T07:44:38.518405+00:00",
    "title": "Leclerc, Verstappen ve rakiplere karşı temkinli: \"Küçük farkı gördüğümde...\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T08:04:32.900241+00:00",
+   "title": "Newey: Stroll'un Honda ile toplantısı planlanmış bir yönetici görüşmesiydi",
+   "source": "PlanetF1"
   }
  ]
 }
