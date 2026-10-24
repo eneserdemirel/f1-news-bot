@@ -2437,7 +2437,9 @@
   "bf87f12547ca2f96": "2026-10-24T10:24:22.150567+00:00",
   "35f33bd14130d951": "2026-10-24T10:29:27.695335+00:00",
   "a3da8be020b760c9": "2026-10-24T10:44:21.998137+00:00",
-  "b369e32b49d8cee0": "2026-10-24T10:44:21.998137+00:00"
+  "b369e32b49d8cee0": "2026-10-24T10:44:21.998137+00:00",
+  "9b2b9cd789ac63b2": "2026-10-24T10:49:25.426492+00:00",
+  "78f5a270b2ca20c9": "2026-10-24T10:49:25.426492+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10977,14 +10979,16 @@
    "title": "207 track limit violations recorded in Friday practice",
    "first": "2026-10-24T10:24:28.065628+00:00",
    "sources": {
-    "RacingNews365": "2026-10-24T10:20:00+00:00"
+    "RacingNews365": "2026-10-24T10:20:00+00:00",
+    "GPFans": "2026-10-24T10:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "F1 drivers guilty of stunning number of infractions in United States GP practice"
+    "RacingNews365": "F1 drivers guilty of stunning number of infractions in United States GP practice",
+    "GPFans": "FIA announce 207 deleted laps at US Grand Prix in savage crackdown on F1 drivers"
    },
-   "last": "2026-10-24T10:24:28.065632+00:00"
+   "last": "2026-10-24T10:49:28.367536+00:00"
   },
   "S1007": {
    "title": "Honda engine problems despite second ADUO upgrade",
@@ -11037,9 +11041,22 @@
     "RacingNews365 NL": "Antonelli vreest voor bekende valkuil: \"Gewoon lastig\""
    },
    "last": "2026-10-24T10:44:26.227081+00:00"
+  },
+  "S1011": {
+   "title": "Boye Mafe feature on game-day silent messages",
+   "first": "2026-10-24T10:49:28.367511+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T10:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Inside the silent messages Boye Mafe sends every game day"
+   },
+   "last": "2026-10-24T10:49:28.367529+00:00"
   }
  },
- "story_seq": 1010,
+ "story_seq": 1011,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11158,7 +11175,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T10:44:21.998137+00:00",
+ "last_run": "2026-10-24T10:49:25.426492+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11558,6 +11575,11 @@
    "t": "2026-10-24T10:24:34.189869+00:00",
    "title": "ABD GP antrenmanlarında 207 tur süresi track limit ihlali nedeniyle silindi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T10:49:33.517304+00:00",
+   "title": "ABD Grand Prix'sinde FIA 207 turu iptal etti",
+   "source": "GPFans"
   }
  ]
 }
