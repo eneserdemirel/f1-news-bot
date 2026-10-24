@@ -2888,7 +2888,10 @@
   "b16fbdb6a4186570": "2026-10-24T23:46:09.854287+00:00",
   "da7ec01c3432b54a": "2026-10-24T23:46:09.854287+00:00",
   "590a97ab6f0df22e": "2026-10-24T23:46:09.854287+00:00",
-  "33a96ce245d03b32": "2026-10-24T23:46:09.854287+00:00"
+  "33a96ce245d03b32": "2026-10-24T23:46:09.854287+00:00",
+  "99a89cdc021e6683": "2026-10-24T23:51:07.051420+00:00",
+  "3d5a8e8d8d2d54af": "2026-10-24T23:51:07.051420+00:00",
+  "50a6377d2c9cdb0f": "2026-10-24T23:51:07.051420+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10662,7 +10665,7 @@
     "PlanetF1": "FIA launches Isack Hadjar investigation after United States GP incident",
     "RacingNews365": "Isack Hadjar summoned to F1 stewards after bizarre practice incident"
    },
-   "last": "2026-10-24T21:41:13.806198+00:00"
+   "last": "2026-10-24T23:51:10.318033+00:00"
   },
   "S1149": {
    "title": "IndyCar announces 2027 calendar move coinciding with F1 Austin",
@@ -11956,14 +11959,16 @@
    "title": "Norris frustrated after qualifying eighth, says he did a very bad job",
    "first": "2026-10-24T23:31:10.158638+00:00",
    "sources": {
-    "Autosport": "2026-10-24T23:26:49+00:00"
+    "Autosport": "2026-10-24T23:26:49+00:00",
+    "Formula 1": "2026-10-24T23:51:10.318000+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "Norris frustrated after United States GP qualifying: \"I did a very bad job\""
+    "Autosport": "Norris frustrated after United States GP qualifying: \"I did a very bad job\"",
+    "Formula 1": "‘I just did a c*** job’ – Norris on his Qualifying performance"
    },
-   "last": "2026-10-24T23:31:10.158658+00:00"
+   "last": "2026-10-24T23:51:10.318016+00:00"
   },
   "S1244": {
    "title": "Alijah Prosser interception vs Central Arkansas (college football)",
@@ -12094,9 +12099,22 @@
     "ESPN F1": "John Love kicks 37-yard field goal"
    },
    "last": "2026-10-24T23:46:15.879516+00:00"
+  },
+  "S1254": {
+   "title": "Raiders' pass rush inconsistency analysis (NFL)",
+   "first": "2026-10-24T23:51:10.318023+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T22:30:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How come the Raiders' pass rush is so inconsistent?"
+   },
+   "last": "2026-10-24T23:51:10.318027+00:00"
   }
  },
- "story_seq": 1253,
+ "story_seq": 1254,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12215,7 +12233,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T23:46:09.854287+00:00",
+ "last_run": "2026-10-24T23:51:07.051420+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12995,6 +13013,11 @@
    "t": "2026-10-24T23:41:19.251923+00:00",
    "title": "Antonelli, COTA'da pole aldı; Mercedes'teki gelişmeleri değerlendirdi",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-10-24T23:51:14.634700+00:00",
+   "title": "Hadjar, ABD GP'deki tehlikeli sürüş nedeniyle FIA'dan uyarı aldı",
+   "source": "PlanetF1"
   }
  ]
 }
