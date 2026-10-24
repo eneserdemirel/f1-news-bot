@@ -2391,7 +2391,10 @@
   "d8243e844b25c7ab": "2026-10-24T08:04:23.786523+00:00",
   "d5813ccbd1202aee": "2026-10-24T08:09:24.841656+00:00",
   "457c56da69e778ee": "2026-10-24T08:09:24.841656+00:00",
-  "d46e047519839393": "2026-10-24T08:09:24.841656+00:00"
+  "d46e047519839393": "2026-10-24T08:09:24.841656+00:00",
+  "d082b6843556c2c6": "2026-10-24T08:19:24.655862+00:00",
+  "aa4b408c4d5d07de": "2026-10-24T08:19:24.655862+00:00",
+  "6416ac899199b2de": "2026-10-24T08:19:24.655862+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2633,19 +2636,6 @@
    },
    "last": "2026-10-22T14:38:21.880961+00:00"
   },
-  "S330": {
-   "title": "Ralf Schumacher criticises Christian Horner over book promotion",
-   "first": "2026-10-21T17:15:33.326784+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-21T17:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Schumacher rekent af met Horner: \"Hij is zo van de wereld, dat hij het niet doorheeft\""
-   },
-   "last": "2026-10-22T08:17:38.155250+00:00"
-  },
   "S341": {
    "title": "Wolff reportedly vetting successors for his Mercedes roles",
    "first": "2026-10-21T18:55:28.216250+00:00",
@@ -2854,34 +2844,6 @@
     "ESPN F1": "Transfer rumors, news: Man United consider defensive clearout in summer"
    },
    "last": "2026-10-22T12:08:20.521627+00:00"
-  },
-  "S390": {
-   "title": "Red Bull Powertrains' rise from concept to F1 race winner",
-   "first": "2026-10-22T08:07:34.800157+00:00",
-   "sources": {
-    "The Race": "2026-10-22T08:02:23+00:00",
-    "RacingNews365": "2026-10-22T08:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "The full story of Red Bull's biggest-ever F1 gamble",
-    "RacingNews365": "Red Bull handed 'pretty cool' verdict after striking first-year success"
-   },
-   "last": "2026-10-22T08:17:38.155241+00:00"
-  },
-  "S391": {
-   "title": "F1 top teams set up thrilling 2027 battle after Mercedes dominance",
-   "first": "2026-10-22T08:17:38.155214+00:00",
-   "sources": {
-    "Formula 1": "2026-10-22T08:17:38.155229+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "F1's leading teams setting up thrilling 2027 battle"
-   },
-   "last": "2026-10-22T08:17:38.155233+00:00"
   },
   "S392": {
    "title": "Ranking college football's best 60 receivers of the last 50 years",
@@ -10993,17 +10955,45 @@
    "title": "Red Bull focus on two areas after positive Austin start",
    "first": "2026-10-24T08:09:28.174296+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-24T08:05:28+00:00"
+    "Motorsport-Total": "2026-10-24T08:05:28+00:00",
+    "Autosport": "2026-10-24T08:12:42+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Red Bull: Fokus auf zwei Bereiche nach \"positivem\" Start ins Austin-Wochenende - Motorsport-Total.com"
+    "Motorsport-Total": "Red Bull: Fokus auf zwei Bereiche nach \"positivem\" Start ins Austin-Wochenende - Motorsport-Total.com",
+    "Autosport": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin"
    },
-   "last": "2026-10-24T08:09:28.174300+00:00"
+   "last": "2026-10-24T08:19:28.504357+00:00"
+  },
+  "S983": {
+   "title": "Antonelli says Mercedes regained pace in Austin Friday practice",
+   "first": "2026-10-24T08:19:28.504367+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-24T08:13:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli, Mercedes ritrova il passo ad Austin: la sfida è centrare la finestra della W17"
+   },
+   "last": "2026-10-24T08:19:28.504372+00:00"
+  },
+  "S984": {
+   "title": "Antonelli jokes he doesn't remember Vettel record he could break",
+   "first": "2026-10-24T08:19:28.504376+00:00",
+   "sources": {
+    "Crash.net": "2026-10-24T08:10:55+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Kimi Antonelli makes hilarious admission about breaking Sebastian Vettel F1 record"
+   },
+   "last": "2026-10-24T08:19:28.504380+00:00"
   }
  },
- "story_seq": 982,
+ "story_seq": 984,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11122,7 +11112,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T08:14:22.851537+00:00",
+ "last_run": "2026-10-24T08:19:24.655862+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11472,6 +11462,16 @@
    "t": "2026-10-24T08:04:32.900241+00:00",
    "title": "Newey: Stroll'un Honda ile toplantısı planlanmış bir yönetici görüşmesiydi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T08:19:36.130437+00:00",
+   "title": "Antonelli, Vettel'in F1 rekorunu kırabileceğini hatırlamadığını itiraf etti",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-24T08:19:36.667662+00:00",
+   "title": "Antonelli, Austin'de Mercedes'in temposunu yakaladı",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
