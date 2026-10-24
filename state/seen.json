@@ -2505,7 +2505,9 @@
   "5bdcb72e4d112804": "2026-10-24T13:54:54.362344+00:00",
   "8c51fdf5d89cb4cf": "2026-10-24T13:54:54.362344+00:00",
   "a08a74a17dca8072": "2026-10-24T13:54:54.362344+00:00",
-  "77c34654d2e311e1": "2026-10-24T13:54:54.362344+00:00"
+  "77c34654d2e311e1": "2026-10-24T13:54:54.362344+00:00",
+  "f69a56eae899275b": "2026-10-24T13:59:57.913237+00:00",
+  "af4230e47e494cbd": "2026-10-24T13:59:57.913237+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2568,31 +2570,6 @@
     "GPblog": "Ferrari vice-chairman weighs up Antonelli move: 'Maybe one day it will happen'"
    },
    "last": "2026-10-22T18:02:10.300561+00:00"
-  },
-  "S268": {
-   "title": "US Grand Prix weather forecast released",
-   "first": "2026-10-21T11:14:47.607520+00:00",
-   "sources": {
-    "Formula 1": "2026-10-21T11:14:47.607533+00:00",
-    "RacingNews365": "2026-10-21T11:45:00+00:00",
-    "PlanetF1": "2026-10-21T14:39:12+00:00",
-    "GPblog": "2026-10-21T16:38:06+00:00",
-    "RacingNews365 NL": "2026-10-22T10:50:00+00:00",
-    "FormulaPassion": "2026-10-22T12:00:00+00:00",
-    "GPFans": "2026-10-22T13:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "What is the weather forecast for the United States Grand Prix?",
-    "RacingNews365": "2026 F1 United States Grand Prix - Austin weather forecast",
-    "PlanetF1": "United States Grand Prix weather: What is the risk of rain at COTA this weekend?",
-    "GPblog": "Austin GP weather forecast: Will rain disrupt the United States Grand Prix?",
-    "RacingNews365 NL": "Weerbericht Formule 1 Grand Prix Verenigde Staten 2026",
-    "FormulaPassion": "Austin: sole e caldo nel ‘rodeo’ della F1",
-    "GPFans": "F1 US Grand Prix weather forecast: Latest from Austin, Texas"
-   },
-   "last": "2026-10-22T13:58:19.935484+00:00"
   },
   "S313": {
    "title": "OMP explains technology behind special liveries and lightweight suits",
@@ -2961,19 +2938,6 @@
     "ESPN F1": "Harry Brook smashes fastest double-century in ODIs"
    },
    "last": "2026-10-22T14:18:20.478937+00:00"
-  },
-  "S463": {
-   "title": "Vowles calls for cost cap change to let small teams invest more",
-   "first": "2026-10-22T13:58:19.935487+00:00",
-   "sources": {
-    "AS": "2026-10-22T13:55:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "“Con el techo de gasto hemos ido a peor”"
-   },
-   "last": "2026-10-22T13:58:19.935491+00:00"
   },
   "S464": {
    "title": "Bruno Guimarães describes sleepless nights over Arsenal move",
@@ -11065,9 +11029,35 @@
     "ESPN F1": "Sources: Mississippi State eyes return for QB Taylor, RB Bothwell"
    },
    "last": "2026-10-24T13:54:57.083122+00:00"
+  },
+  "S1051": {
+   "title": "Paula Moltzan wins giant slalom opener, Shiffrin 7th",
+   "first": "2026-10-24T14:00:00.243830+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T13:34:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Paula Moltzan wins giant slalom opener, Mikaela Shiffrin settles for 7th"
+   },
+   "last": "2026-10-24T14:00:00.243850+00:00"
+  },
+  "S1052": {
+   "title": "Hamilton reveals when he realised Singapore Ferrari error",
+   "first": "2026-10-24T14:00:00.243855+00:00",
+   "sources": {
+    "GPFans": "2026-10-24T13:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton reveals moment he knew he made catastrophic Ferrari error"
+   },
+   "last": "2026-10-24T14:00:00.243860+00:00"
   }
  },
- "story_seq": 1050,
+ "story_seq": 1052,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11186,7 +11176,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T13:54:54.362344+00:00",
+ "last_run": "2026-10-24T13:59:57.913237+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
