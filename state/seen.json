@@ -2451,7 +2451,9 @@
   "b00c1d2efc11d577": "2026-10-24T11:24:53.831725+00:00",
   "4db977eb40325883": "2026-10-24T11:49:55.477354+00:00",
   "259d1664bb643286": "2026-10-24T11:49:55.477354+00:00",
-  "48ca34b495eb62e6": "2026-10-24T11:54:57.243225+00:00"
+  "48ca34b495eb62e6": "2026-10-24T11:54:57.243225+00:00",
+  "745e66d7a4c3af75": "2026-10-24T11:59:54.787487+00:00",
+  "f570961434a064cb": "2026-10-24T11:59:54.787487+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2922,19 +2924,6 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-10-22T21:29:08.805082+00:00"
-  },
-  "S430": {
-   "title": "Departing F1 driver suggests unusual future engine rules",
-   "first": "2026-10-22T11:57:34.401389+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-22T11:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Departing F1 driver tells sport where to go with future rules"
-   },
-   "last": "2026-10-22T11:57:34.401411+00:00"
   },
   "S431": {
    "title": "Unibet boosted odds on Verstappen US GP podium",
@@ -10958,14 +10947,14 @@
    "title": "NFL House in Paris closes ahead of street protests",
    "first": "2026-10-24T11:20:01.183180+00:00",
    "sources": {
-    "ESPN F1": "2026-10-24T11:17:40+00:00"
+    "ESPN F1": "2026-10-24T10:56:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "NFL House in Paris closes ahead of street protests in French capital"
    },
-   "last": "2026-10-24T11:20:01.183190+00:00"
+   "last": "2026-10-24T11:59:58.957734+00:00"
   },
   "S1014": {
    "title": "Verstappen gives unusual review of Horner's autobiography at Austin",
@@ -11018,9 +11007,22 @@
     "RacingNews365 NL": "Ford mijmert over emotionele mijlpaal Verstappen: \"Er waren zeker tranen\""
    },
    "last": "2026-10-24T11:54:59.668184+00:00"
+  },
+  "S1018": {
+   "title": "GPFans opinion: F1 desperate for Antonelli US GP title",
+   "first": "2026-10-24T11:59:58.957744+00:00",
+   "sources": {
+    "GPFans": "2026-10-24T11:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 will be DESPERATE for Kimi Antonelli to win the world title at the US Grand Prix, this is why"
+   },
+   "last": "2026-10-24T11:59:58.957750+00:00"
   }
  },
- "story_seq": 1017,
+ "story_seq": 1018,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11139,11 +11141,11 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T11:54:57.243225+00:00",
+ "last_run": "2026-10-24T11:59:54.787487+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-10-23 22:00",
- "last_digest_at": "2026-10-23T19:01:56.795487+00:00",
+ "last_digest_slot": "2026-10-24 15:00",
+ "last_digest_at": "2026-10-24T12:00:05.449659+00:00",
  "sent_log": [
   {
    "t": "2026-10-23T14:26:51.305694+00:00",
@@ -11554,6 +11556,11 @@
    "t": "2026-10-24T11:55:04.692348+00:00",
    "title": "Ford, Verstappen'in zaferini ve duygusal anı anlatıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T12:00:05.449256+00:00",
+   "title": "Antonelli'nin dünya şampiyonluğu ABD GP'de kesinleşebilir, F1 bunu istiyor",
+   "source": "GPFans"
   }
  ]
 }
