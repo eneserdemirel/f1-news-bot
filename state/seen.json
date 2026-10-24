@@ -2344,7 +2344,10 @@
   "64013311a759ef5b": "2026-10-24T05:33:38.882123+00:00",
   "ae02e725eb091907": "2026-10-24T05:43:42.395985+00:00",
   "2ba5a7df6c55b901": "2026-10-24T05:43:42.395985+00:00",
-  "4ad6ebf208636a81": "2026-10-24T05:49:22.927234+00:00"
+  "4ad6ebf208636a81": "2026-10-24T05:49:22.927234+00:00",
+  "2991b1f4509e09f6": "2026-10-24T06:04:26.327367+00:00",
+  "a6b795ec37a70a46": "2026-10-24T06:04:26.327367+00:00",
+  "f961e9b8815aca81": "2026-10-24T06:04:26.327367+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10734,14 +10737,16 @@
    "title": "Austin US GP qualifying start time announced",
    "first": "2026-10-24T04:08:42.784528+00:00",
    "sources": {
-    "RacingNews365": "2026-10-24T04:00:00+00:00"
+    "RacingNews365": "2026-10-24T04:00:00+00:00",
+    "RacingNews365 NL": "2026-10-24T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "2026 F1 United States Grand Prix - Austin qualifying start time today"
+    "RacingNews365": "2026 F1 United States Grand Prix - Austin qualifying start time today",
+    "RacingNews365 NL": "Hoe laat begint de kwalificatie voor de F1 GP Verenigde Staten 2026?"
    },
-   "last": "2026-10-24T04:08:42.784534+00:00"
+   "last": "2026-10-24T06:04:29.157371+00:00"
   },
   "S941": {
    "title": "Analysis: Norris rivals Verstappen and Leclerc in Austin long runs",
@@ -10937,9 +10942,35 @@
     "RacingNews365 NL": "Brown waarschuwt Verstappen en co: \"Sneller dan klok doet vermoeden\""
    },
    "last": "2026-10-24T05:43:44.915759+00:00"
+  },
+  "S956": {
+   "title": "Texas AD clarifies AI use on failed key play",
+   "first": "2026-10-24T06:04:29.157346+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T02:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida"
+   },
+   "last": "2026-10-24T06:04:29.157364+00:00"
+  },
+  "S957": {
+   "title": "Hamilton admits Red Bull 'proved me wrong'",
+   "first": "2026-10-24T06:04:29.157375+00:00",
+   "sources": {
+    "Crash.net": "2026-10-24T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton’s major Red Bull confession: “They proved me wrong”"
+   },
+   "last": "2026-10-24T06:04:29.157379+00:00"
   }
  },
- "story_seq": 955,
+ "story_seq": 957,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11058,7 +11089,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T05:59:22.327714+00:00",
+ "last_run": "2026-10-24T06:04:26.327367+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
