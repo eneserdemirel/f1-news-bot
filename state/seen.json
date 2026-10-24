@@ -2541,7 +2541,10 @@
   "c0ff3e1145a401c8": "2026-10-24T15:14:56.898839+00:00",
   "12d206926974d582": "2026-10-24T15:19:56.982121+00:00",
   "194edf827adadd0e": "2026-10-24T15:19:56.982121+00:00",
-  "dd66ddec4700a7ac": "2026-10-24T15:19:56.982121+00:00"
+  "dd66ddec4700a7ac": "2026-10-24T15:19:56.982121+00:00",
+  "cf5bc31ce798ca64": "2026-10-24T15:25:02.828284+00:00",
+  "5213e7d8d523f18d": "2026-10-24T15:25:02.828284+00:00",
+  "b3dbcf1646277f2d": "2026-10-24T15:25:02.828284+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11109,9 +11112,48 @@
     "Motorsport Week": "Adrian Newey responds to Christian Horner ‘abandon ship’ comments"
    },
    "last": "2026-10-24T15:20:00.511660+00:00"
+  },
+  "S1077": {
+   "title": "Indiana RB Khobie Martin returns vs Michigan (college football)",
+   "first": "2026-10-24T15:25:07.858951+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T14:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources - Indiana RB Khobie Martin to return vs. Michigan"
+   },
+   "last": "2026-10-24T15:25:07.858966+00:00"
+  },
+  "S1078": {
+   "title": "Man City lose 100% Premier League record at Aston Villa",
+   "first": "2026-10-24T15:25:07.858970+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T13:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man City lose 100% Premier League record with defeat at Aston Villa"
+   },
+   "last": "2026-10-24T15:25:07.858974+00:00"
+  },
+  "S1079": {
+   "title": "Herta earns another superlicence point at US GP FP1",
+   "first": "2026-10-24T15:25:07.858976+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T15:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Colton Herta closing in on F1 superlicence as magic points tally within reach"
+   },
+   "last": "2026-10-24T15:25:07.858979+00:00"
   }
  },
- "story_seq": 1076,
+ "story_seq": 1079,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11230,7 +11272,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T15:19:56.982121+00:00",
+ "last_run": "2026-10-24T15:25:02.828284+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11760,6 +11802,11 @@
    "t": "2026-10-24T15:00:05.902082+00:00",
    "title": "Freddie Hunt, babası James Hunt'ın 1976 şampiyonluğunu ve mirasını anlatıyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-24T15:25:12.992656+00:00",
+   "title": "Colton Herta, F1 superlicence için 40 puana bir adım kaldı",
+   "source": "RacingNews365"
   }
  ]
 }
