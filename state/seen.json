@@ -2306,7 +2306,10 @@
   "0f7dd1ab54ae49f1": "2026-10-24T03:38:38.600833+00:00",
   "33517c4d234d0982": "2026-10-24T03:38:38.600833+00:00",
   "09fd320f3aea5284": "2026-10-24T03:48:39.097354+00:00",
-  "e214f7231312acd6": "2026-10-24T03:48:39.097354+00:00"
+  "e214f7231312acd6": "2026-10-24T03:48:39.097354+00:00",
+  "0377d97fbc37e1bc": "2026-10-24T03:53:41.301927+00:00",
+  "4e45a7ffba725328": "2026-10-24T03:53:41.301927+00:00",
+  "3f4a8191679c2f9e": "2026-10-24T03:53:41.301927+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10772,9 +10775,35 @@
     "ESPN F1": "Fever fire GM, president steps down: What's next for Clark and Indiana?"
    },
    "last": "2026-10-24T03:48:42.054521+00:00"
+  },
+  "S937": {
+   "title": "Walker Kessler alley-oop jam (ESPN, NBA)",
+   "first": "2026-10-24T03:53:43.397229+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T03:35:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Walker Kessler takes flight for alley-oop jam"
+   },
+   "last": "2026-10-24T03:53:43.397247+00:00"
+  },
+  "S938": {
+   "title": "Trevor Megill strikeout seals Brewers Game 1 World Series win",
+   "first": "2026-10-24T03:53:43.397253+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T03:33:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Trevor Megill's strikeout seals a Game 1 win for the Brewers"
+   },
+   "last": "2026-10-24T03:53:43.397258+00:00"
   }
  },
- "story_seq": 936,
+ "story_seq": 938,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10893,7 +10922,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T03:48:39.097354+00:00",
+ "last_run": "2026-10-24T03:53:41.301927+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
