@@ -2868,7 +2868,10 @@
   "ce33ade0e6fa2096": "2026-10-24T23:11:09.186960+00:00",
   "0238758afbb3fa73": "2026-10-24T23:16:09.456309+00:00",
   "b92cf57bc9a6ca47": "2026-10-24T23:16:09.456309+00:00",
-  "fdb73777d63ae131": "2026-10-24T23:21:07.964314+00:00"
+  "fdb73777d63ae131": "2026-10-24T23:21:07.964314+00:00",
+  "6e7cac4f8dd6114d": "2026-10-24T23:26:09.304322+00:00",
+  "31887021ed8da5fe": "2026-10-24T23:26:09.304322+00:00",
+  "1e60b5adf753fbf5": "2026-10-24T23:26:09.304322+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11908,9 +11911,48 @@
     "ESPN F1": "LaNorris Sellers runs for 4-yard TD"
    },
    "last": "2026-10-24T23:21:09.831786+00:00"
+  },
+  "S1240": {
+   "title": "FIA post-qualifying press conference transcript for US GP",
+   "first": "2026-10-24T23:26:14.311929+00:00",
+   "sources": {
+    "FIA": "2026-10-24T22:52:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "F1 - 2026 United States Grand Prix Post-Qualifying Press Conference Transcript"
+   },
+   "last": "2026-10-24T23:26:14.311946+00:00"
+  },
+  "S1241": {
+   "title": "Jorge Martin injury update and possible early return",
+   "first": "2026-10-24T23:26:14.311950+00:00",
+   "sources": {
+    "The Race": "2026-10-24T23:24:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Martin injury update hints he'll target an early return"
+   },
+   "last": "2026-10-24T23:26:14.311954+00:00"
+  },
+  "S1242": {
+   "title": "Vasseur says Ferrari can do much better in US GP race",
+   "first": "2026-10-24T23:26:14.311956+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-24T23:20:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Vasseur: \"Siamo a mezzo decimo dalla prima fila, ma in gara possiamo fare molto meglio\""
+   },
+   "last": "2026-10-24T23:26:14.311960+00:00"
   }
  },
- "story_seq": 1239,
+ "story_seq": 1242,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12029,7 +12071,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T23:21:07.964314+00:00",
+ "last_run": "2026-10-24T23:26:09.304322+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12784,6 +12826,11 @@
    "t": "2026-10-24T23:16:16.151497+00:00",
    "title": "FIA, ABD GP'deki Audi incelemelerinin sonucunu açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T23:26:19.137532+00:00",
+   "title": "Vasseur: Ferrari pole'a yarım onda yakın, yarışta daha iyisini yapabiliriz",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
