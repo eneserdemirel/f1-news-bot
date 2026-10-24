@@ -2891,7 +2891,10 @@
   "33a96ce245d03b32": "2026-10-24T23:46:09.854287+00:00",
   "99a89cdc021e6683": "2026-10-24T23:51:07.051420+00:00",
   "3d5a8e8d8d2d54af": "2026-10-24T23:51:07.051420+00:00",
-  "50a6377d2c9cdb0f": "2026-10-24T23:51:07.051420+00:00"
+  "50a6377d2c9cdb0f": "2026-10-24T23:51:07.051420+00:00",
+  "8086dff9824015de": "2026-10-24T23:56:07.742555+00:00",
+  "4ea545dadc278157": "2026-10-24T23:56:07.742555+00:00",
+  "9fce3c0b6d45ec7a": "2026-10-24T23:56:07.742555+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11835,15 +11838,17 @@
    "first": "2026-10-24T23:06:14.508299+00:00",
    "sources": {
     "FormulaPassion": "2026-10-24T22:58:05+00:00",
-    "RacingNews365": "2026-10-24T23:37:00+00:00"
+    "RacingNews365": "2026-10-24T23:37:00+00:00",
+    "Formula 1": "2026-10-24T23:56:11.784332+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Wolff stregato da Antonelli: “Giro magico, mi ha lasciato senza parole”",
-    "RacingNews365": "Toto Wolff shocked after latest 'beyond incomprehensible' Kimi Antonelli feat"
+    "RacingNews365": "Toto Wolff shocked after latest 'beyond incomprehensible' Kimi Antonelli feat",
+    "Formula 1": "Bemused Wolff celebrates Antonelli’s ‘miracle lap’ in the US"
    },
-   "last": "2026-10-24T23:46:15.879520+00:00"
+   "last": "2026-10-24T23:56:11.784335+00:00"
   },
   "S1235": {
    "title": "Leclerc furious over overloaded front wing in radio",
@@ -12112,9 +12117,35 @@
     "ESPN F1": "How come the Raiders' pass rush is so inconsistent?"
    },
    "last": "2026-10-24T23:51:10.318027+00:00"
+  },
+  "S1255": {
+   "title": "Russell reflects on Austin qualifying struggles after starting sixth",
+   "first": "2026-10-24T23:56:11.784311+00:00",
+   "sources": {
+    "Formula 1": "2026-10-24T23:56:11.784325+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Russell reflects on Austin Qualifying struggles"
+   },
+   "last": "2026-10-24T23:56:11.784328+00:00"
+  },
+  "S1256": {
+   "title": "Norris blames McLaren as impossible car after qualifying",
+   "first": "2026-10-24T23:56:11.784338+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-24T23:52:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lando Norris slates ‘impossible’ McLaren after tough United States qualifying"
+   },
+   "last": "2026-10-24T23:56:11.784342+00:00"
   }
  },
- "story_seq": 1254,
+ "story_seq": 1256,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12233,7 +12264,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T23:51:07.051420+00:00",
+ "last_run": "2026-10-24T23:56:07.742555+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13018,6 +13049,11 @@
    "t": "2026-10-24T23:51:14.634700+00:00",
    "title": "Hadjar, ABD GP'deki tehlikeli sürüş nedeniyle FIA'dan uyarı aldı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T23:56:17.729315+00:00",
+   "title": "Russell, Austin sıralama turlarındaki zorlukları anlattı",
+   "source": "Formula 1"
   }
  ]
 }
