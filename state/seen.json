@@ -2428,7 +2428,9 @@
   "e0e25319af71b144": "2026-10-24T09:44:22.972507+00:00",
   "ba4716b3fb54b0df": "2026-10-24T09:59:25.024132+00:00",
   "fbfc5bcba8026de1": "2026-10-24T10:04:28.136318+00:00",
-  "41e9e72567605ae8": "2026-10-24T10:09:26.789717+00:00"
+  "41e9e72567605ae8": "2026-10-24T10:09:26.789717+00:00",
+  "65aa7e45fcb03a9a": "2026-10-24T10:14:22.769959+00:00",
+  "f07dd18786322e6b": "2026-10-24T10:14:22.769959+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8210,16 +8212,18 @@
    "sources": {
     "The Race": "2026-10-23T16:38:51+00:00",
     "Crash.net": "2026-10-23T17:51:59+00:00",
-    "FormulaPassion": "2026-10-23T19:55:27+00:00"
+    "FormulaPassion": "2026-10-23T19:55:27+00:00",
+    "PlanetF1": "2026-10-24T10:11:54+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Ferrari's biggest F1 upgrade of 2026 revealed at US GP",
     "Crash.net": "Ferrari’s ‘impressive’ last aero upgrade of 2026 F1 season explained",
-    "FormulaPassion": "Ferrari spinge, ecco gli aggiornamenti: cosa è cambiato"
+    "FormulaPassion": "Ferrari spinge, ecco gli aggiornamenti: cosa è cambiato",
+    "PlanetF1": "Revealed: The truth behind Ferrari’s Austin upgrade and Leclerc’s P1 pace"
    },
-   "last": "2026-10-23T20:02:31.085753+00:00"
+   "last": "2026-10-24T10:14:27.679307+00:00"
   },
   "S804": {
    "title": "Sam Franklin wins appeal, spitting suspension reduced to fine",
@@ -10988,9 +10992,22 @@
     "ESPN F1": "Will Niners have edge with ex-Falcons coach facing Penix?"
    },
    "last": "2026-10-24T10:09:28.187809+00:00"
+  },
+  "S1004": {
+   "title": "Hezemans says Red Bull can keep rising, Verstappen a contender in Austin",
+   "first": "2026-10-24T10:14:27.679280+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-24T10:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen als kanshebber naar voren geschoven in Austin: \"Ben er vrij zeker van!\""
+   },
+   "last": "2026-10-24T10:14:27.679299+00:00"
   }
  },
- "story_seq": 1003,
+ "story_seq": 1004,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11109,7 +11126,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T10:09:26.789717+00:00",
+ "last_run": "2026-10-24T10:14:22.769959+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11498,6 +11515,11 @@
   {
    "t": "2026-10-24T09:44:31.683636+00:00",
    "title": "Montoya, Hadjar'ı savunuyor: \"Her şey Verstappen'in istediğine göre şekilleniyor\"",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T10:14:33.447852+00:00",
+   "title": "Verstappen Austin'de podyum favorisi olarak öne çıktı",
    "source": "RacingNews365 NL"
   }
  ]
