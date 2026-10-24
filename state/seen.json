@@ -2448,7 +2448,9 @@
   "78d9c55d3cdd7596": "2026-10-24T11:19:58.337872+00:00",
   "7b9231907f4f0f1f": "2026-10-24T11:19:58.337872+00:00",
   "1a65a50eb0104206": "2026-10-24T11:19:58.337872+00:00",
-  "b00c1d2efc11d577": "2026-10-24T11:24:53.831725+00:00"
+  "b00c1d2efc11d577": "2026-10-24T11:24:53.831725+00:00",
+  "4db977eb40325883": "2026-10-24T11:49:55.477354+00:00",
+  "259d1664bb643286": "2026-10-24T11:49:55.477354+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10976,9 +10978,35 @@
     "RacingNews365": "Max Verstappen offers sharp and unusual Christian Horner book 'review'"
    },
    "last": "2026-10-24T11:20:01.183197+00:00"
+  },
+  "S1015": {
+   "title": "Katsuragawa ties course record at Genesis Championship (golf)",
+   "first": "2026-10-24T11:49:58.172319+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T11:32:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Yuto Katsuragawa ties course record, leads Genesis Championship"
+   },
+   "last": "2026-10-24T11:49:58.172339+00:00"
+  },
+  "S1016": {
+   "title": "Ocon's management reportedly sounds out Cadillac for 2027 seat",
+   "first": "2026-10-24T11:49:58.172344+00:00",
+   "sources": {
+    "GPblog": "2026-10-24T11:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ocon knocks on Cadillac’s door in search of an F1 seat for 2027"
+   },
+   "last": "2026-10-24T11:49:58.172349+00:00"
   }
  },
- "story_seq": 1014,
+ "story_seq": 1016,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11097,7 +11125,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T11:45:01.136464+00:00",
+ "last_run": "2026-10-24T11:49:55.477354+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
