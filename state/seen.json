@@ -2419,7 +2419,10 @@
   "7bd133b8b41b34e1": "2026-10-24T09:09:45.787071+00:00",
   "7e06027aac694344": "2026-10-24T09:29:25.270107+00:00",
   "ae0c9a69890ce68e": "2026-10-24T09:29:25.270107+00:00",
-  "234420eb82a81e2e": "2026-10-24T09:29:25.270107+00:00"
+  "234420eb82a81e2e": "2026-10-24T09:29:25.270107+00:00",
+  "81a1018a35387998": "2026-10-24T09:34:22.994733+00:00",
+  "12f4cef1e27d716f": "2026-10-24T09:34:22.994733+00:00",
+  "069e79d1e974db91": "2026-10-24T09:34:22.994733+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9270,15 +9273,17 @@
    "first": "2026-10-23T21:22:27.682495+00:00",
    "sources": {
     "The Race": "2026-10-23T21:18:22+00:00",
-    "Crash.net": "2026-10-24T07:00:00+00:00"
+    "Crash.net": "2026-10-24T07:00:00+00:00",
+    "RacingNews365": "2026-10-24T09:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Newey on Honda progress 'disappointment' and signs for 2027",
-    "Crash.net": "Adrian Newey reveals harsh Honda truth and progress ‘disappointment’"
+    "Crash.net": "Adrian Newey reveals harsh Honda truth and progress ‘disappointment’",
+    "RacingNews365": "Adrian Newey issues Honda 'truth' in Red Bull-Aston Martin comparison"
    },
-   "last": "2026-10-24T07:04:27.133164+00:00"
+   "last": "2026-10-24T09:34:27.883724+00:00"
   },
   "S872": {
    "title": "Browns RBs Judkins and Sampson expected to play",
@@ -10985,9 +10990,35 @@
     "Crash.net": "George Russell admits F1 2026 has “tested my character” as Antonelli closes in on title"
    },
    "last": "2026-10-24T09:29:28.726933+00:00"
+  },
+  "S998": {
+   "title": "Buffalo vs. Fordham college football live game page",
+   "first": "2026-10-24T09:34:27.883689+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T05:49:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Buffalo vs. Fordham 22/11/26 - Mira Juego en vivo"
+   },
+   "last": "2026-10-24T09:34:27.883707+00:00"
+  },
+  "S999": {
+   "title": "Honda's unexpected upgraded power unit issue at Singapore",
+   "first": "2026-10-24T09:34:27.883713+00:00",
+   "sources": {
+    "Autosport": "2026-10-24T09:30:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "The unexpected issue Honda faced with upgraded F1 power unit"
+   },
+   "last": "2026-10-24T09:34:27.883719+00:00"
   }
  },
- "story_seq": 997,
+ "story_seq": 999,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11106,7 +11137,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T09:29:25.270107+00:00",
+ "last_run": "2026-10-24T09:34:22.994733+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
