@@ -2832,7 +2832,13 @@
   "e2dda0344a31c378": "2026-10-24T22:31:08.219658+00:00",
   "4bd36f1ff331145f": "2026-10-24T22:31:08.219658+00:00",
   "ea7a930dba26b35b": "2026-10-24T22:31:08.219658+00:00",
-  "869ad6214adf0a71": "2026-10-24T22:31:08.219658+00:00"
+  "869ad6214adf0a71": "2026-10-24T22:31:08.219658+00:00",
+  "50e1b50bc51d16b5": "2026-10-24T22:36:10.428132+00:00",
+  "8e72af76c62699ce": "2026-10-24T22:36:10.428132+00:00",
+  "a72eb5b656b8217d": "2026-10-24T22:36:10.428132+00:00",
+  "08a0b6c995a54e90": "2026-10-24T22:36:10.428132+00:00",
+  "13514b5be43c4755": "2026-10-24T22:36:10.428132+00:00",
+  "a0523bcb11233245": "2026-10-24T22:36:10.428132+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10878,7 +10884,8 @@
     "Formula 1": "2026-10-24T22:26:15.414542+00:00",
     "Sky Sports F1": "2026-10-24T23:00:00+00:00",
     "Motorsport.com Italia": "2026-10-24T22:21:58+00:00",
-    "ESPN F1": "2026-10-24T22:26:54+00:00"
+    "ESPN F1": "2026-10-24T22:26:54+00:00",
+    "FormulaPassion": "2026-10-24T22:16:03+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10897,9 +10904,10 @@
     "Formula 1": "Antonelli seizes pole position for the United States GP",
     "Sky Sports F1": "Antonelli takes surprise pole to boost chances of sealing title in USA",
     "Motorsport.com Italia": "F1 | Antonelli magico ad Austin: batte Verstappen e si prende la pole. Leclerc 4°",
-    "ESPN F1": "Kimi Antonelli takes pole in bid to seal world title at United States Grand Prix"
+    "ESPN F1": "Kimi Antonelli takes pole in bid to seal world title at United States Grand Prix",
+    "FormulaPassion": "GP Stati Uniti 2026, griglia di partenza: Antonelli magico! Batte Verstappen e si prende la pole. Ferrari si spegne: 4°e 5°"
    },
-   "last": "2026-10-24T22:31:13.186764+00:00"
+   "last": "2026-10-24T22:36:17.381914+00:00"
   },
   "S1158": {
    "title": "Nuno Espírito Santo says West Ham played with hesitation",
@@ -11656,9 +11664,61 @@
     "RacingNews365 NL": "Antonelli waakt voor Verstappen na pole in Austin"
    },
    "last": "2026-10-24T22:31:13.186760+00:00"
+  },
+  "S1216": {
+   "title": "Mason Lindberg 41-yard college football field goal",
+   "first": "2026-10-24T22:36:17.381873+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T22:30:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mason Lindberg makes 41-yard field goal"
+   },
+   "last": "2026-10-24T22:36:17.381889+00:00"
+  },
+  "S1217": {
+   "title": "Antonelli wary of Red Bull threat ahead of title chance",
+   "first": "2026-10-24T22:36:17.381893+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T22:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli wary of Red Bull threat as maiden F1 title chance intensifies"
+   },
+   "last": "2026-10-24T22:36:17.381898+00:00"
+  },
+  "S1218": {
+   "title": "Antonelli jokes avoiding track limits was his qualifying achievement",
+   "first": "2026-10-24T22:36:17.381901+00:00",
+   "sources": {
+    "GPblog": "2026-10-24T22:31:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli jokes about \"biggest achievement\" after unexpected US Grand Prix pole position"
+   },
+   "last": "2026-10-24T22:36:17.381904+00:00"
+  },
+  "S1219": {
+   "title": "Full US GP starting grid after 60-place penalty",
+   "first": "2026-10-24T22:36:17.381906+00:00",
+   "sources": {
+    "Crash.net": "2026-10-24T22:33:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "F1 US Grand Prix: Full starting grid after huge 60-place penalty"
+   },
+   "last": "2026-10-24T22:36:17.381909+00:00"
   }
  },
- "story_seq": 1215,
+ "story_seq": 1219,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11777,7 +11837,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T22:31:08.219658+00:00",
+ "last_run": "2026-10-24T22:36:10.428132+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12477,6 +12537,16 @@
    "t": "2026-10-24T22:31:20.559931+00:00",
    "title": "Antonelli Austin'de pole aldı, Verstappen'i geçti",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T22:36:24.572646+00:00",
+   "title": "Antonelli, Austin'de pole alarak şampiyonluk şansını artırdı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T22:36:24.974901+00:00",
+   "title": "Antonelli, Amerika GP'de pole pozisyonu aldı",
+   "source": "GPblog"
   }
  ]
 }
