@@ -2444,7 +2444,10 @@
   "aa1014f224698e0b": "2026-10-24T11:04:59.304375+00:00",
   "00ba396ee6a538f5": "2026-10-24T11:04:59.304375+00:00",
   "b0d636722a256b18": "2026-10-24T11:09:55.118313+00:00",
-  "ea0fe74034eaa6e4": "2026-10-24T11:09:55.118313+00:00"
+  "ea0fe74034eaa6e4": "2026-10-24T11:09:55.118313+00:00",
+  "78d9c55d3cdd7596": "2026-10-24T11:19:58.337872+00:00",
+  "7b9231907f4f0f1f": "2026-10-24T11:19:58.337872+00:00",
+  "1a65a50eb0104206": "2026-10-24T11:19:58.337872+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2876,19 +2879,6 @@
     "PlanetF1": "Horner reveals Russell approach after Wolff’s Verstappen pursuit"
    },
    "last": "2026-10-22T18:02:10.300521+00:00"
-  },
-  "S423": {
-   "title": "Formula 1 Higher or Lower game promotion for 2027 tickets",
-   "first": "2026-10-22T11:17:34.223135+00:00",
-   "sources": {
-    "Formula 1": "2026-10-22T11:17:34.223150+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Play our new Higher or Lower game for your chance to win 2027 Grand Prix tickets"
-   },
-   "last": "2026-10-22T11:17:34.223154+00:00"
   },
   "S424": {
    "title": "Marathon runner Ruti Aga banned for fake prescription",
@@ -10996,9 +10986,35 @@
     "Motorsport-Total": "Charles Leclerc wird Vater: Lässt der Ferrari-Pilot dafür sogar ein Rennen aus? - Motorsport-Total.com"
    },
    "last": "2026-10-24T11:09:57.988143+00:00"
+  },
+  "S1013": {
+   "title": "NFL House in Paris closes ahead of street protests",
+   "first": "2026-10-24T11:20:01.183180+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T11:17:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL House in Paris closes ahead of street protests in French capital"
+   },
+   "last": "2026-10-24T11:20:01.183190+00:00"
+  },
+  "S1014": {
+   "title": "Verstappen gives unusual review of Horner's autobiography at Austin",
+   "first": "2026-10-24T11:20:01.183194+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T11:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen offers sharp and unusual Christian Horner book 'review'"
+   },
+   "last": "2026-10-24T11:20:01.183197+00:00"
   }
  },
- "story_seq": 1012,
+ "story_seq": 1014,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11117,7 +11133,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T11:14:57.374386+00:00",
+ "last_run": "2026-10-24T11:19:58.337872+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11522,6 +11538,11 @@
    "t": "2026-10-24T10:49:33.517304+00:00",
    "title": "ABD Grand Prix'sinde FIA 207 turu iptal etti",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-24T11:20:06.621033+00:00",
+   "title": "Verstappen, Horner'ın kitabı hakkında 'kitap okumam' dedi",
+   "source": "RacingNews365"
   }
  ]
 }
