@@ -2677,7 +2677,11 @@
   "8f3546f89dbf137c": "2026-10-24T18:50:37.469571+00:00",
   "27661e06059daaef": "2026-10-24T18:50:37.469571+00:00",
   "1000ed09157d44a6": "2026-10-24T18:55:36.701865+00:00",
-  "7df38449cf9fa268": "2026-10-24T18:55:36.701865+00:00"
+  "7df38449cf9fa268": "2026-10-24T18:55:36.701865+00:00",
+  "7372e1f077d737be": "2026-10-24T19:00:34.852159+00:00",
+  "6d01dc47a85637d7": "2026-10-24T19:00:34.852159+00:00",
+  "0690818666b7b80a": "2026-10-24T19:00:34.852159+00:00",
+  "32f466a62fee61d7": "2026-10-24T19:00:34.852159+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2835,19 +2839,6 @@
    },
    "last": "2026-10-23T09:41:13.922920+00:00"
   },
-  "S532": {
-   "title": "England fail to capitalise on Harry Brook's double-century",
-   "first": "2026-10-22T18:49:10.984620+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T18:29:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "England let Brook's double helping of brilliance go to waste"
-   },
-   "last": "2026-10-22T18:59:09.350409+00:00"
-  },
   "S533": {
    "title": "Alonso dismisses rumours of Dakar move outside F1",
    "first": "2026-10-22T18:49:10.984654+00:00",
@@ -2862,32 +2853,6 @@
     "RacingNews365": "Fernando Alonso addresses surprise Dakar test after denying race entry"
    },
    "last": "2026-10-22T19:19:12.637821+00:00"
-  },
-  "S535": {
-   "title": "Seahawks RB Zach Charbonnet activated off PUP list",
-   "first": "2026-10-22T18:59:09.350418+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T18:17:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Seahawks RB Zach Charbonnet activated off PUP list"
-   },
-   "last": "2026-10-22T18:59:09.350425+00:00"
-  },
-  "S536": {
-   "title": "Hamilton warned over risky Ferrari future gamble after Singapore",
-   "first": "2026-10-22T18:59:09.350429+00:00",
-   "sources": {
-    "GPFans": "2026-10-22T18:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton warned over dangerous Ferrari gamble: 'A very worrying path'"
-   },
-   "last": "2026-10-22T18:59:09.350434+00:00"
   },
   "S537": {
    "title": "Bournemouth vs. Milan team stats page (not F1)",
@@ -11029,15 +10994,17 @@
    "first": "2026-10-24T18:40:39.799517+00:00",
    "sources": {
     "The Race": "2026-10-24T18:39:28+00:00",
-    "Autosport": "2026-10-24T18:42:14+00:00"
+    "Autosport": "2026-10-24T18:42:14+00:00",
+    "Formula 1": "2026-10-24T19:00:41.071061+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Ferrari completes US GP practice sweep",
-    "Autosport": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3"
+    "Autosport": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
+    "Formula 1": "Hamilton goes fastest in final practice for the US GP"
    },
-   "last": "2026-10-24T18:50:44.120582+00:00"
+   "last": "2026-10-24T19:00:41.071080+00:00"
   },
   "S1127": {
    "title": "Garrett Bass-Sulpizio 12-yard TD pass to Brendan Lee",
@@ -11108,17 +11075,45 @@
    "title": "Hamilton avoids late FP3 clash with Bortoleto, FIA investigates",
    "first": "2026-10-24T18:55:39.272191+00:00",
    "sources": {
-    "GPblog": "2026-10-24T18:53:00+00:00"
+    "GPblog": "2026-10-24T18:53:00+00:00",
+    "RacingNews365 NL": "2026-10-24T18:56:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Hamilton narrowly avoids collision late in FP3 as FIA launches investigation"
+    "GPblog": "Hamilton narrowly avoids collision late in FP3 as FIA launches investigation",
+    "RacingNews365 NL": "Hamilton en Bortoleto op het matje geroepen na derde training Austin"
    },
-   "last": "2026-10-24T18:55:39.272197+00:00"
+   "last": "2026-10-24T19:00:41.071103+00:00"
+  },
+  "S1133": {
+   "title": "Lille vs Lens live score page (football)",
+   "first": "2026-10-24T19:00:41.071085+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T18:55:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lille vs. Lens (Oct 30, 2026) Live Score"
+   },
+   "last": "2026-10-24T19:00:41.071090+00:00"
+  },
+  "S1134": {
+   "title": "Audi drivers Bortoleto and Hulkenberg face stewards after practice",
+   "first": "2026-10-24T19:00:41.071094+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T18:56:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Audi facing double investigation after United States GP practice woe"
+   },
+   "last": "2026-10-24T19:00:41.071098+00:00"
   }
  },
- "story_seq": 1132,
+ "story_seq": 1134,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11237,11 +11232,11 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T18:55:36.701865+00:00",
+ "last_run": "2026-10-24T19:00:34.852159+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-10-24 15:00",
- "last_digest_at": "2026-10-24T12:00:05.449659+00:00",
+ "last_digest_slot": "2026-10-24 22:00",
+ "last_digest_at": "2026-10-24T19:00:46.479614+00:00",
  "sent_log": [
   {
    "t": "2026-10-23T14:26:51.305694+00:00",
@@ -11867,6 +11862,11 @@
    "t": "2026-10-24T18:55:43.871762+00:00",
    "title": "Hamilton, FP3'te Bortoleto ile kıl payı çarpışmadan kurtuldu",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-24T19:00:46.479222+00:00",
+   "title": "Audi, ABD GP antrenman sorunları sonrası çifte soruşturmayla karşı karşıya",
+   "source": "RacingNews365"
   }
  ]
 }
