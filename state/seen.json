@@ -2855,7 +2855,8 @@
   "453385c68741c8ef": "2026-10-24T22:51:07.309266+00:00",
   "254e6d0948568562": "2026-10-24T22:51:07.309266+00:00",
   "9dc3bc108b46fd4e": "2026-10-24T22:56:10.432759+00:00",
-  "7a5feec0aaf80607": "2026-10-24T22:56:10.432759+00:00"
+  "7a5feec0aaf80607": "2026-10-24T22:56:10.432759+00:00",
+  "00ed6f0e0ada6ca4": "2026-10-24T23:01:08.332825+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3238,19 +3239,6 @@
     "PlanetF1": "Max Verstappen reveals spine scan findings amid COTA bumps concerns"
    },
    "last": "2026-10-24T04:58:40.216392+00:00"
-  },
-  "S605": {
-   "title": "Luke Woodhouse nine-dart leg opens European Championship darts",
-   "first": "2026-10-22T22:59:42.901884+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T22:51:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luke Woodhouse throws nine-dart leg to kick-off European Championship in Dortmund"
-   },
-   "last": "2026-10-22T22:59:42.901902+00:00"
   },
   "S606": {
    "title": "Mercedes delays upgraded engine debut past US Grand Prix",
@@ -11826,9 +11814,22 @@
     "PlanetF1": "FIA confirms decision after double Mercedes, Piastri US GP investigation"
    },
    "last": "2026-10-24T22:56:13.973382+00:00"
+  },
+  "S1231": {
+   "title": "Sainz calls two Austin bumps unacceptable after 17th-place finish",
+   "first": "2026-10-24T23:01:10.836814+00:00",
+   "sources": {
+    "AS": "2026-10-24T22:48:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "“Hay dos baches en la pista que son inaceptables”"
+   },
+   "last": "2026-10-24T23:01:10.836829+00:00"
   }
  },
- "story_seq": 1230,
+ "story_seq": 1231,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11947,7 +11948,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T22:56:10.432759+00:00",
+ "last_run": "2026-10-24T23:01:08.332825+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12672,6 +12673,11 @@
    "t": "2026-10-24T22:56:18.820206+00:00",
    "title": "FIA, Mercedes ve Piastri'nin ABD GP soruşturmasında karar verdi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T23:01:14.345577+00:00",
+   "title": "Sainz Austin'de 17. oldu, iki çukura tepki gösterdi",
+   "source": "AS"
   }
  ]
 }
