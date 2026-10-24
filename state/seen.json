@@ -2407,7 +2407,13 @@
   "071e58b767fb01b6": "2026-10-24T08:59:26.992397+00:00",
   "0065aa620ef3acb3": "2026-10-24T08:59:26.992397+00:00",
   "227bcfa1df882b04": "2026-10-24T08:59:26.992397+00:00",
-  "f540ebdaf160ce93": "2026-10-24T08:59:26.992397+00:00"
+  "f540ebdaf160ce93": "2026-10-24T08:59:26.992397+00:00",
+  "0b964923fc8eb941": "2026-10-24T09:04:22.126321+00:00",
+  "7e623bf9e7929d25": "2026-10-24T09:04:22.126321+00:00",
+  "0d9cf1d0b0fab706": "2026-10-24T09:04:22.126321+00:00",
+  "7704007754a12a23": "2026-10-24T09:04:22.126321+00:00",
+  "19b7256bbb0d7a8c": "2026-10-24T09:04:22.126321+00:00",
+  "824b1d4cc6561b2d": "2026-10-24T09:04:22.126321+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10919,9 +10925,74 @@
     "RacingNews365": "Kimi Antonelli makes important point over Austin F1 track limits battle"
    },
    "last": "2026-10-24T08:49:27.460607+00:00"
+  },
+  "S990": {
+   "title": "Chelsea, Bayern, Barcelona linked with Brighton defender",
+   "first": "2026-10-24T09:04:27.080392+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T09:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Chelsea, Bayern, Barcelona battle for Brighton defender"
+   },
+   "last": "2026-10-24T09:04:27.080410+00:00"
+  },
+  "S991": {
+   "title": "Premier League live updates: Aston Villa vs Man City",
+   "first": "2026-10-24T09:04:27.080415+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T08:36:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Premier League live updates: Aston Villa host league leaders Man City"
+   },
+   "last": "2026-10-24T09:04:27.080420+00:00"
+  },
+  "S992": {
+   "title": "Opinion: other sports too obsessed with copying F1's success",
+   "first": "2026-10-24T09:04:27.080423+00:00",
+   "sources": {
+    "The Race": "2026-10-24T09:00:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Sports must ditch 'obsession' over F1's success"
+   },
+   "last": "2026-10-24T09:04:27.080427+00:00"
+  },
+  "S993": {
+   "title": "Vasseur says Ferrari title chances depend on qualifying, six-way fight",
+   "first": "2026-10-24T09:04:27.080430+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-24T08:56:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “Vincere? Vediamo prima le qualifiche, sarà una lotta a 6”"
+   },
+   "last": "2026-10-24T09:04:27.080433+00:00"
+  },
+  "S994": {
+   "title": "Hamilton says different set-up direction felt uncomfortable in Austin practice",
+   "first": "2026-10-24T09:04:27.080436+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-24T08:36:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton: “Abbiamo provato una direzione diversa di set-up, ma non ero a mio agio”"
+   },
+   "last": "2026-10-24T09:04:27.080439+00:00"
   }
  },
- "story_seq": 989,
+ "story_seq": 994,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11040,7 +11111,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T08:59:26.992397+00:00",
+ "last_run": "2026-10-24T09:04:22.126321+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11410,6 +11481,16 @@
    "t": "2026-10-24T08:49:33.844015+00:00",
    "title": "Antonelli: Austin'de pist sınırı mücadelesi zorlu, asfalt çok",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T09:04:35.971935+00:00",
+   "title": "Hamilton: Farklı set-up denedik ama araçta rahat hissetmedim",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-24T09:04:36.557664+00:00",
+   "title": "Vasseur: Zafer için önce sıralamaya bakacağız, 6 araç arasında mücadele olacak",
+   "source": "FormulaPassion"
   }
  ]
 }
