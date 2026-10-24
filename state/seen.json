@@ -2563,7 +2563,9 @@
   "f4eda13018300119": "2026-10-24T16:04:59.710304+00:00",
   "02ecaa8ca87f631e": "2026-10-24T16:09:55.576971+00:00",
   "6eece61cbe4a7fc9": "2026-10-24T16:09:55.576971+00:00",
-  "c803cc16ad05dcc7": "2026-10-24T16:09:55.576971+00:00"
+  "c803cc16ad05dcc7": "2026-10-24T16:09:55.576971+00:00",
+  "7c19b3ef5e0d1556": "2026-10-24T16:14:58.512771+00:00",
+  "549cb4ac82e9e7af": "2026-10-24T16:14:58.512771+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10621,14 +10623,16 @@
    "title": "Bearman says Ferrari will have big say on Haas future",
    "first": "2026-10-24T13:40:02.726181+00:00",
    "sources": {
-    "PlanetF1": "2026-10-24T13:35:02+00:00"
+    "PlanetF1": "2026-10-24T13:35:02+00:00",
+    "Crash.net": "2026-10-24T16:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Ferrari to have ‘big say’ as Bearman discusses Haas F1 future"
+    "PlanetF1": "Ferrari to have ‘big say’ as Bearman discusses Haas F1 future",
+    "Crash.net": "Oliver Bearman admits Ferrari will have a 'big say' in his F1 future"
    },
-   "last": "2026-10-24T13:40:02.726185+00:00"
+   "last": "2026-10-24T16:15:01.804140+00:00"
   },
   "S1049": {
    "title": "Hadjar receives left-field advice to close gap to Verstappen",
@@ -11149,9 +11153,22 @@
     "ESPN F1": "Michael Carrick provides Man United injury updates, demands mental preparation"
    },
    "last": "2026-10-24T16:09:58.171793+00:00"
+  },
+  "S1089": {
+   "title": "IndyCar considers Alonso as guest for Barcelona debut",
+   "first": "2026-10-24T16:15:01.804147+00:00",
+   "sources": {
+    "AS": "2026-10-24T15:58:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Barcelona podría tener una estrella invitada: “Yo propondría a Alonso”"
+   },
+   "last": "2026-10-24T16:15:01.804152+00:00"
   }
  },
- "story_seq": 1088,
+ "story_seq": 1089,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11270,7 +11287,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T16:09:55.576971+00:00",
+ "last_run": "2026-10-24T16:14:58.512771+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11825,6 +11842,11 @@
    "t": "2026-10-24T16:05:10.637316+00:00",
    "title": "Antonelli'nin yükselişi Hülkenberg'i etkiledi: \"Müthiş bir hikâye\"",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T16:15:05.707673+00:00",
+   "title": "Barcelona'da konuk yıldız olabilir: \"Ben Alonso'yu önerirdim\"",
+   "source": "AS"
   }
  ]
 }
