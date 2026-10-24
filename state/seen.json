@@ -2430,7 +2430,11 @@
   "fbfc5bcba8026de1": "2026-10-24T10:04:28.136318+00:00",
   "41e9e72567605ae8": "2026-10-24T10:09:26.789717+00:00",
   "65aa7e45fcb03a9a": "2026-10-24T10:14:22.769959+00:00",
-  "f07dd18786322e6b": "2026-10-24T10:14:22.769959+00:00"
+  "f07dd18786322e6b": "2026-10-24T10:14:22.769959+00:00",
+  "3a47fef63b6d5b70": "2026-10-24T10:24:22.150567+00:00",
+  "a25c8f3c1ba45d77": "2026-10-24T10:24:22.150567+00:00",
+  "5a3862b75c140797": "2026-10-24T10:24:22.150567+00:00",
+  "bf87f12547ca2f96": "2026-10-24T10:24:22.150567+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9152,16 +9156,18 @@
    "sources": {
     "The Race": "2026-10-23T21:18:22+00:00",
     "Crash.net": "2026-10-24T07:00:00+00:00",
-    "RacingNews365": "2026-10-24T09:30:00+00:00"
+    "RacingNews365": "2026-10-24T09:30:00+00:00",
+    "Motorsport.com Italia": "2026-10-24T10:20:18+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Newey on Honda progress 'disappointment' and signs for 2027",
     "Crash.net": "Adrian Newey reveals harsh Honda truth and progress ‘disappointment’",
-    "RacingNews365": "Adrian Newey issues Honda 'truth' in Red Bull-Aston Martin comparison"
+    "RacingNews365": "Adrian Newey issues Honda 'truth' in Red Bull-Aston Martin comparison",
+    "Motorsport.com Italia": "F1 | Aston Martin, Newey ammette le difficoltà Honda: “Anche loro delusi dai progressi”"
    },
-   "last": "2026-10-24T09:34:27.883724+00:00"
+   "last": "2026-10-24T10:24:28.065624+00:00"
   },
   "S872": {
    "title": "Browns RBs Judkins and Sampson expected to play",
@@ -10963,9 +10969,48 @@
     "RacingNews365 NL": "Verstappen als kanshebber naar voren geschoven in Austin: \"Ben er vrij zeker van!\""
    },
    "last": "2026-10-24T10:14:27.679299+00:00"
+  },
+  "S1005": {
+   "title": "Lakers 125-117 Clippers NBA game recap",
+   "first": "2026-10-24T10:24:28.065598+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T04:44:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lakers 125-117 Clippers (Oct 23, 2026) Game Recap"
+   },
+   "last": "2026-10-24T10:24:28.065617+00:00"
+  },
+  "S1006": {
+   "title": "207 track limit violations recorded in Friday practice",
+   "first": "2026-10-24T10:24:28.065628+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T10:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 drivers guilty of stunning number of infractions in United States GP practice"
+   },
+   "last": "2026-10-24T10:24:28.065632+00:00"
+  },
+  "S1007": {
+   "title": "Honda engine problems despite second ADUO upgrade",
+   "first": "2026-10-24T10:24:28.065635+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-24T10:17:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Trotz zweitem ADUO-Upgrade: Ungeahnte Probleme für Honda und seinen Motor - Motorsport-Total.com"
+   },
+   "last": "2026-10-24T10:24:28.065639+00:00"
   }
  },
- "story_seq": 1004,
+ "story_seq": 1007,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11084,7 +11129,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T10:19:25.287810+00:00",
+ "last_run": "2026-10-24T10:24:22.150567+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11479,6 +11524,11 @@
    "t": "2026-10-24T10:14:33.447852+00:00",
    "title": "Verstappen Austin'de podyum favorisi olarak öne çıktı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T10:24:34.189869+00:00",
+   "title": "ABD GP antrenmanlarında 207 tur süresi track limit ihlali nedeniyle silindi",
+   "source": "RacingNews365"
   }
  ]
 }
