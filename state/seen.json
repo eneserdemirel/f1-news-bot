@@ -2861,7 +2861,11 @@
   "4e1593d7fa9f0521": "2026-10-24T23:06:10.574450+00:00",
   "ff3c6e490bb0699b": "2026-10-24T23:06:10.574450+00:00",
   "c3895fafa0d1fbfd": "2026-10-24T23:06:10.574450+00:00",
-  "4920b89f96a08962": "2026-10-24T23:06:10.574450+00:00"
+  "4920b89f96a08962": "2026-10-24T23:06:10.574450+00:00",
+  "f74d43eec2f3dae9": "2026-10-24T23:11:09.186960+00:00",
+  "5b92aa2856088d38": "2026-10-24T23:11:09.186960+00:00",
+  "a4f8036b460968c6": "2026-10-24T23:11:09.186960+00:00",
+  "ce33ade0e6fa2096": "2026-10-24T23:11:09.186960+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3263,32 +3267,6 @@
     "Auto Motor und Sport": "Formel 1: Deshalb verzichtet Mercedes in Austin auf sein Update am Motor"
    },
    "last": "2026-10-23T14:36:46.124335+00:00"
-  },
-  "S607": {
-   "title": "Russell reflects on 2026 season's challenges and resilience",
-   "first": "2026-10-22T23:09:44.571514+00:00",
-   "sources": {
-    "Formula 1": "2026-10-22T23:09:44.571530+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Russell on how 2026 has ‘tested my character and resilience’"
-   },
-   "last": "2026-10-22T23:09:44.571533+00:00"
-  },
-  "S608": {
-   "title": "Hoffenheim 3-0 Lyon team stats",
-   "first": "2026-10-22T23:09:44.571538+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T19:14:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hoffenheim 3-0 Lyon (Oct 22, 2026) Team Stats"
-   },
-   "last": "2026-10-22T23:09:44.571542+00:00"
   },
   "S609": {
    "title": "Norris says Antonelli is two levels above Russell",
@@ -11655,14 +11633,16 @@
    "title": "Antonelli jokes avoiding track limits was his qualifying achievement",
    "first": "2026-10-24T22:36:17.381901+00:00",
    "sources": {
-    "GPblog": "2026-10-24T22:31:00+00:00"
+    "GPblog": "2026-10-24T22:31:00+00:00",
+    "Crash.net": "2026-10-24T23:06:35+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Antonelli jokes about \"biggest achievement\" after unexpected US Grand Prix pole position"
+    "GPblog": "Antonelli jokes about \"biggest achievement\" after unexpected US Grand Prix pole position",
+    "Crash.net": "Kimi Antonelli jokes avoiding track limits his “biggest achievement” after US GP pole"
    },
-   "last": "2026-10-24T22:36:17.381904+00:00"
+   "last": "2026-10-24T23:11:13.265115+00:00"
   },
   "S1219": {
    "title": "Full US GP starting grid after 60-place penalty",
@@ -11884,9 +11864,37 @@
     "FormulaPassion": "Furia Leclerc, team radio al vetriolo: “L’ala anteriore è troppo carica, ca**o! È una m***a”"
    },
    "last": "2026-10-24T23:06:14.508306+00:00"
+  },
+  "S1236": {
+   "title": "Liam Lawson explains skipping final Q3 run at US GP",
+   "first": "2026-10-24T23:11:13.265085+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T23:07:00+00:00",
+    "GPblog": "2026-10-24T23:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson explains decision to abandon Q3 participation at US GP",
+    "GPblog": "Liam Lawson admits frustration over Racing Bulls decision in US GP qualifying"
+   },
+   "last": "2026-10-24T23:11:13.265111+00:00"
+  },
+  "S1237": {
+   "title": "Hamilton and Leclerc explain Ferrari's US GP qualifying pace drop",
+   "first": "2026-10-24T23:11:13.265118+00:00",
+   "sources": {
+    "Crash.net": "2026-10-24T22:38:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Where did Ferrari's pace go? Lewis Hamilton and Charles Leclerc explain US GP qualifying slip"
+   },
+   "last": "2026-10-24T23:11:13.265122+00:00"
   }
  },
- "story_seq": 1235,
+ "story_seq": 1237,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12005,7 +12013,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T23:06:10.574450+00:00",
+ "last_run": "2026-10-24T23:11:09.186960+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12745,6 +12753,16 @@
    "t": "2026-10-24T23:06:19.838501+00:00",
    "title": "Wolff, Antonelli'nin Austin'deki pole turunu övdü",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-24T23:11:19.845366+00:00",
+   "title": "Ferrari'nin hızı nerede kayboldu? Leclerc ve Hamilton açıkladı",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-24T23:11:20.268822+00:00",
+   "title": "Liam Lawson, ABD GP'de Q3'e katılmama kararını açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
