@@ -2636,7 +2636,9 @@
   "d0c42aaf57ba2172": "2026-10-24T18:05:33.664851+00:00",
   "5088b1c10c334297": "2026-10-24T18:05:33.664851+00:00",
   "47925a65174ca3fe": "2026-10-24T18:15:34.803391+00:00",
-  "1dd05a44d95b9150": "2026-10-24T18:15:34.803391+00:00"
+  "1dd05a44d95b9150": "2026-10-24T18:15:34.803391+00:00",
+  "812168fa9b1d80a9": "2026-10-24T18:25:33.135187+00:00",
+  "c70aa22eab4e9bea": "2026-10-24T18:25:33.135187+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11026,7 +11028,7 @@
    "titles": {
     "ESPN F1": "Mavericks' Cooper Flagg out for home opener with mild left shoulder sprain"
    },
-   "last": "2026-10-24T18:15:36.845971+00:00"
+   "last": "2026-10-24T18:25:36.601656+00:00"
   },
   "S1120": {
    "title": "Caden Veltkamp throws 1-yard touchdown",
@@ -11040,9 +11042,22 @@
     "ESPN F1": "Caden Veltkamp throws 1-yard touchdown"
    },
    "last": "2026-10-24T18:15:36.845979+00:00"
+  },
+  "S1121": {
+   "title": "Herta could replace Bottas at Cadillac for 2027",
+   "first": "2026-10-24T18:25:36.601667+00:00",
+   "sources": {
+    "The Race": "2026-10-24T18:23:31+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Herta could replace Bottas at Cadillac in F1 2027"
+   },
+   "last": "2026-10-24T18:25:36.601671+00:00"
   }
  },
- "story_seq": 1120,
+ "story_seq": 1121,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11161,7 +11176,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T18:20:36.495241+00:00",
+ "last_run": "2026-10-24T18:25:33.135187+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11766,6 +11781,11 @@
    "t": "2026-10-24T18:05:44.323875+00:00",
    "title": "Bortoleto'ya ikinci güç ünitesi değişikliği nedeniyle dev grid cezası",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T18:25:41.147708+00:00",
+   "title": "Herta, 2027'de Bottas'ın yerini alabilir",
+   "source": "The Race"
   }
  ]
 }
