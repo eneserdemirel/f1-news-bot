@@ -2442,7 +2442,9 @@
   "78f5a270b2ca20c9": "2026-10-24T10:49:25.426492+00:00",
   "2739ff51e89c1793": "2026-10-24T10:54:21.848681+00:00",
   "aa1014f224698e0b": "2026-10-24T11:04:59.304375+00:00",
-  "00ba396ee6a538f5": "2026-10-24T11:04:59.304375+00:00"
+  "00ba396ee6a538f5": "2026-10-24T11:04:59.304375+00:00",
+  "b0d636722a256b18": "2026-10-24T11:09:55.118313+00:00",
+  "ea0fe74034eaa6e4": "2026-10-24T11:09:55.118313+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2530,21 +2532,6 @@
     "GPFans": "F1 US Grand Prix weather forecast: Latest from Austin, Texas"
    },
    "last": "2026-10-22T13:58:19.935484+00:00"
-  },
-  "S308": {
-   "title": "Barcelona to host rival open-wheel series in 2027",
-   "first": "2026-10-21T15:15:52.132503+00:00",
-   "sources": {
-    "GPFans": "2026-10-21T15:15:00+00:00",
-    "FormulaPassion": "2026-10-22T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Snubbed F1 track set to host historic race for rival series",
-    "FormulaPassion": "Barcellona senza la F1 nel 2027: possibile arrivo della IndyCar per colmare il vuoto"
-   },
-   "last": "2026-10-22T11:07:44.486574+00:00"
   },
   "S313": {
    "title": "OMP explains technology behind special liveries and lightweight suits",
@@ -2808,19 +2795,6 @@
    },
    "last": "2026-10-22T17:19:07.158756+00:00"
   },
-  "S412": {
-   "title": "Miami Dolphins and New York Jets future plans feature",
-   "first": "2026-10-22T10:07:33.324520+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T10:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Miami Dolphins, New York Jets have clear plans for future success"
-   },
-   "last": "2026-10-22T11:07:44.486519+00:00"
-  },
   "S413": {
    "title": "Caleb Williams and Chicago sports friends feature",
    "first": "2026-10-22T10:17:38.754464+00:00",
@@ -2873,19 +2847,6 @@
    },
    "last": "2026-10-22T12:48:25.404396+00:00"
   },
-  "S418": {
-   "title": "Six games in, Rams undisciplined or unlucky?",
-   "first": "2026-10-22T11:07:44.486530+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T10:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Six games in, are the Rams undisciplined or unlucky?"
-   },
-   "last": "2026-10-22T11:07:44.486536+00:00"
-  },
   "S419": {
    "title": "Verstappen offers old-fashioned fix for deciding lap time",
    "first": "2026-10-22T11:07:44.486549+00:00",
@@ -2915,32 +2876,6 @@
     "PlanetF1": "Horner reveals Russell approach after Wolff’s Verstappen pursuit"
    },
    "last": "2026-10-22T18:02:10.300521+00:00"
-  },
-  "S421": {
-   "title": "Ferrari goes all-in on one card for Austin win",
-   "first": "2026-10-22T11:07:44.486577+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-22T11:00:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ferrari setzt in Austin alles auf eine Karte: Reicht es für den Sieg? - Motorsport-Total.com"
-   },
-   "last": "2026-10-22T11:07:44.486581+00:00"
-  },
-  "S422": {
-   "title": "Retrospective on what happened in Schumacher's final Ferrari race",
-   "first": "2026-10-22T11:07:44.486584+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-22T06:39:39+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ferrari-Abschied 2006: Was im letzten Rennen von \"Schumi\" passierte - Motorsport-Total.com"
-   },
-   "last": "2026-10-22T11:07:44.486588+00:00"
   },
   "S423": {
    "title": "Formula 1 Higher or Lower game promotion for 2027 tickets",
@@ -4845,7 +4780,7 @@
     "Motorsport-Total": "\"Gezwungen, viel länger zu bleiben\": Hamilton mit 45 noch in der Formel 1? - Motorsport-Total.com",
     "GPFans": "Lewis Hamilton 'forced' to stay in F1 until he is 45 by huge announcement"
    },
-   "last": "2026-10-24T07:59:27.712864+00:00"
+   "last": "2026-10-24T11:09:57.988151+00:00"
   },
   "S560": {
    "title": "Bortoleto dreams of world title with Audi",
@@ -11048,9 +10983,22 @@
     "ESPN F1": "Inside the silent messages Boye Mafe sends every game day"
    },
    "last": "2026-10-24T10:49:28.367529+00:00"
+  },
+  "S1012": {
+   "title": "Leclerc becoming a father, may miss a race",
+   "first": "2026-10-24T11:09:57.988122+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-24T11:06:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Charles Leclerc wird Vater: Lässt der Ferrari-Pilot dafür sogar ein Rennen aus? - Motorsport-Total.com"
+   },
+   "last": "2026-10-24T11:09:57.988143+00:00"
   }
  },
- "story_seq": 1011,
+ "story_seq": 1012,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11169,7 +11117,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T11:04:59.304375+00:00",
+ "last_run": "2026-10-24T11:09:55.118313+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
