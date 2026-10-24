@@ -2483,7 +2483,10 @@
   "48d3bab8f93ea915": "2026-10-24T12:49:55.413186+00:00",
   "b0c21fec2264e1c9": "2026-10-24T12:54:56.519435+00:00",
   "929acca8e98395bc": "2026-10-24T12:54:56.519435+00:00",
-  "9e0ad28eec432c5f": "2026-10-24T12:59:59.338517+00:00"
+  "9e0ad28eec432c5f": "2026-10-24T12:59:59.338517+00:00",
+  "fa7ff35d870a2195": "2026-10-24T13:04:55.774085+00:00",
+  "44802569248c9686": "2026-10-24T13:04:55.774085+00:00",
+  "55c12f00af56d2e0": "2026-10-24T13:04:55.774085+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10397,7 +10400,7 @@
    "titles": {
     "ESPN F1": "Amen Thompson blocks Wemby to seal the game"
    },
-   "last": "2026-10-24T08:44:23.263619+00:00"
+   "last": "2026-10-24T13:05:00.651803+00:00"
   },
   "S989": {
    "title": "Antonelli says Austin track layout contributes to track limit violations",
@@ -11056,9 +11059,35 @@
     "GPFans": "Channel 4 F1 highlights today: How to watch the 2026 US Grand Prix FREE in the UK"
    },
    "last": "2026-10-24T13:00:01.597421+00:00"
+  },
+  "S1039": {
+   "title": "Cadillac boss dodges driver line-up question, fuelling 2027 intrigue",
+   "first": "2026-10-24T13:05:00.651813+00:00",
+   "sources": {
+    "Autosport": "2026-10-24T13:00:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question"
+   },
+   "last": "2026-10-24T13:05:00.651818+00:00"
+  },
+  "S1040": {
+   "title": "McLaren technical director praises new upgrade package in Austin",
+   "first": "2026-10-24T13:05:00.651821+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-24T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "McLaren velt veelbelovend oordeel over nieuw upgradepakket"
+   },
+   "last": "2026-10-24T13:05:00.651825+00:00"
   }
  },
- "story_seq": 1038,
+ "story_seq": 1040,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11177,7 +11206,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T12:59:59.338517+00:00",
+ "last_run": "2026-10-24T13:04:55.774085+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11632,6 +11661,11 @@
    "t": "2026-10-24T13:00:07.048295+00:00",
    "title": "Channel 4, 2026 ABD Grand Prix'sini İngiltere'de ücretsiz özetlerle yayınlayacak",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-24T13:05:08.267790+00:00",
+   "title": "McLaren yeni yükseltme paketinden umut verici sonuçlar aldığını söyledi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
