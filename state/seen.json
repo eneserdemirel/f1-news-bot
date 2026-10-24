@@ -2810,7 +2810,13 @@
   "d7430bd78e541562": "2026-10-24T22:11:05.897651+00:00",
   "2736a9ee5ba2c319": "2026-10-24T22:11:05.897651+00:00",
   "5d724ee3fc90a807": "2026-10-24T22:11:05.897651+00:00",
-  "800eb1392d3ac74e": "2026-10-24T22:11:05.897651+00:00"
+  "800eb1392d3ac74e": "2026-10-24T22:11:05.897651+00:00",
+  "e3dbd4f59be746ac": "2026-10-24T22:16:10.354429+00:00",
+  "421fd82dda912bb1": "2026-10-24T22:16:10.354429+00:00",
+  "47f186ca360fc75f": "2026-10-24T22:16:10.354429+00:00",
+  "c377998eaf44250b": "2026-10-24T22:16:10.354429+00:00",
+  "8dd9e6672656837e": "2026-10-24T22:16:10.354429+00:00",
+  "6ad05bfc70d216e8": "2026-10-24T22:16:10.354429+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10914,7 +10920,9 @@
     "The Race": "2026-10-24T22:08:43+00:00",
     "RacingNews365 NL": "2026-10-24T22:03:00+00:00",
     "Motorsport Week": "2026-10-24T22:02:37+00:00",
-    "Crash.net": "2026-10-24T21:06:02+00:00"
+    "Crash.net": "2026-10-24T21:06:02+00:00",
+    "Motorsport-Total": "2026-10-24T22:10:05+00:00",
+    "AS": "2026-10-24T22:09:30+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10926,9 +10934,11 @@
     "The Race": "F1 2026 United States Grand Prix qualifying results",
     "RacingNews365 NL": "Uitslag kwalificatie F1 GP Verenigde Staten 2026",
     "Motorsport Week": "F1 2026 US Grand Prix – Qualifying Results",
-    "Crash.net": "F1 US Grand Prix: Full qualifying results"
+    "Crash.net": "F1 US Grand Prix: Full qualifying results",
+    "Motorsport-Total": "Trotz Fehler in Q3: Antonelli reicht eine schnelle Runde zur Austin-Pole! - Motorsport-Total.com",
+    "AS": "Bola de campeonato, fiasco de Ferrari y sorpresa de Alonso"
    },
-   "last": "2026-10-24T22:11:12.441333+00:00"
+   "last": "2026-10-24T22:16:15.561664+00:00"
   },
   "S1158": {
    "title": "Nuno Espírito Santo says West Ham played with hesitation",
@@ -11553,9 +11563,35 @@
     "Gazzetta dello Sport": "Kimi Antonelli fa retromarcia e sbatte contro la recinzione, un errore non previsto"
    },
    "last": "2026-10-24T22:11:12.441340+00:00"
+  },
+  "S1206": {
+   "title": "Packers activate RB Josh Jacobs for 2026 debut",
+   "first": "2026-10-24T22:16:15.561617+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T20:14:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Packers activate RB Josh Jacobs for 2026 debut"
+   },
+   "last": "2026-10-24T22:16:15.561637+00:00"
+  },
+  "S1207": {
+   "title": "Preview of US GP race with Antonelli title scenarios",
+   "first": "2026-10-24T22:16:15.561655+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-10-24T22:08:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "GP Austin, la gara: l'orario, come vederla, le combinazioni per il trionfo di Antonelli e la griglia di partenza"
+   },
+   "last": "2026-10-24T22:16:15.561658+00:00"
   }
  },
- "story_seq": 1205,
+ "story_seq": 1207,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11674,7 +11710,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T22:11:05.897651+00:00",
+ "last_run": "2026-10-24T22:16:10.354429+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
