@@ -2819,7 +2819,15 @@
   "6ad05bfc70d216e8": "2026-10-24T22:16:10.354429+00:00",
   "79d5883c562c9917": "2026-10-24T22:21:06.086238+00:00",
   "025ab6c17785dd8f": "2026-10-24T22:21:06.086238+00:00",
-  "f917c71a5588b11d": "2026-10-24T22:21:06.086238+00:00"
+  "f917c71a5588b11d": "2026-10-24T22:21:06.086238+00:00",
+  "27ccc12ef94a2cbc": "2026-10-24T22:26:10.660859+00:00",
+  "608585a3ee571999": "2026-10-24T22:26:10.660859+00:00",
+  "f1f129da4df0ab8c": "2026-10-24T22:26:10.660859+00:00",
+  "8768f94bdd23f8a2": "2026-10-24T22:26:10.660859+00:00",
+  "727a96f8ee9c53ed": "2026-10-24T22:26:10.660859+00:00",
+  "1e1aa5320e0c9ca8": "2026-10-24T22:26:10.660859+00:00",
+  "4347257663dc519a": "2026-10-24T22:26:10.660859+00:00",
+  "62d79bd0742a11f1": "2026-10-24T22:26:10.660859+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10913,7 +10921,10 @@
     "Crash.net": "2026-10-24T21:06:02+00:00",
     "Motorsport-Total": "2026-10-24T22:10:05+00:00",
     "AS": "2026-10-24T22:09:30+00:00",
-    "Autosport": "2026-10-24T22:15:50+00:00"
+    "Autosport": "2026-10-24T22:15:50+00:00",
+    "Formula 1": "2026-10-24T22:26:15.414542+00:00",
+    "Sky Sports F1": "2026-10-24T23:00:00+00:00",
+    "Motorsport.com Italia": "2026-10-24T22:21:58+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10928,9 +10939,12 @@
     "Crash.net": "F1 US Grand Prix: Full qualifying results",
     "Motorsport-Total": "Trotz Fehler in Q3: Antonelli reicht eine schnelle Runde zur Austin-Pole! - Motorsport-Total.com",
     "AS": "Bola de campeonato, fiasco de Ferrari y sorpresa de Alonso",
-    "Autosport": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth"
+    "Autosport": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
+    "Formula 1": "Antonelli seizes pole position for the United States GP",
+    "Sky Sports F1": "Antonelli takes surprise pole to boost chances of sealing title in USA",
+    "Motorsport.com Italia": "F1 | Antonelli magico ad Austin: batte Verstappen e si prende la pole. Leclerc 4°"
    },
-   "last": "2026-10-24T22:21:09.355402+00:00"
+   "last": "2026-10-24T22:26:15.414590+00:00"
   },
   "S1158": {
    "title": "Nuno Espírito Santo says West Ham played with hesitation",
@@ -11586,14 +11600,16 @@
    "title": "Verstappen says Q3 car bounced like a kangaroo",
    "first": "2026-10-24T22:21:09.355413+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-10-24T22:13:00+00:00"
+    "RacingNews365 NL": "2026-10-24T22:13:00+00:00",
+    "RacingNews365": "2026-10-24T22:22:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Verstappen blijft verbaasd achter: \"Auto stuiterde als een kangoeroe!\""
+    "RacingNews365 NL": "Verstappen blijft verbaasd achter: \"Auto stuiterde als een kangoeroe!\"",
+    "RacingNews365": "Max Verstappen bemoans hat-trick near-miss thanks to Red Bull 'kangaroo'"
    },
-   "last": "2026-10-24T22:21:09.355417+00:00"
+   "last": "2026-10-24T22:26:15.414593+00:00"
   },
   "S1209": {
    "title": "Four key takeaways after US GP qualifying",
@@ -11607,9 +11623,48 @@
     "GPblog": "The four key takeaways after qualifying for the United States Grand Prix"
    },
    "last": "2026-10-24T22:21:09.355425+00:00"
+  },
+  "S1210": {
+   "title": "Devils 3-1 Kings NHL game recap",
+   "first": "2026-10-24T22:26:15.414565+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T22:21:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Devils 3-1 Kings (24 Oct, 2026) Game Recap"
+   },
+   "last": "2026-10-24T22:26:15.414569+00:00"
+  },
+  "S1211": {
+   "title": "Dalton Smith retains WBC belt over Puello",
+   "first": "2026-10-24T22:26:15.414572+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T22:07:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dalton Smith beats Alberto Puello in thrilling split decision to retain WBC belt"
+   },
+   "last": "2026-10-24T22:26:15.414575+00:00"
+  },
+  "S1212": {
+   "title": "Gabarri Johnson 14-yard TD pass to Aukerman",
+   "first": "2026-10-24T22:26:15.414578+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T20:43:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gabarri Johnson throws 14-yard TD pass to Cayden Aukerman"
+   },
+   "last": "2026-10-24T22:26:15.414580+00:00"
   }
  },
- "story_seq": 1209,
+ "story_seq": 1212,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11728,7 +11783,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T22:21:06.086238+00:00",
+ "last_run": "2026-10-24T22:26:10.660859+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
