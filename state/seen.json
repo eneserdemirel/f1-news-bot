@@ -2638,7 +2638,8 @@
   "47925a65174ca3fe": "2026-10-24T18:15:34.803391+00:00",
   "1dd05a44d95b9150": "2026-10-24T18:15:34.803391+00:00",
   "812168fa9b1d80a9": "2026-10-24T18:25:33.135187+00:00",
-  "c70aa22eab4e9bea": "2026-10-24T18:25:33.135187+00:00"
+  "c70aa22eab4e9bea": "2026-10-24T18:25:33.135187+00:00",
+  "6dd51b65d641299a": "2026-10-24T18:30:37.241472+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2832,45 +2833,6 @@
     "PlanetF1": "Helmut Marko opts for ‘difficult’ Liam Lawson decision amid Racing Bulls uncertainty"
    },
    "last": "2026-10-22T21:09:10.538878+00:00"
-  },
-  "S525": {
-   "title": "Retrospective on Taylor Swift's 2016 Austin F1 performance",
-   "first": "2026-10-22T18:29:06.219187+00:00",
-   "sources": {
-    "Formula 1": "2026-10-22T18:29:06.219202+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "When Taylor Swift performed at the United States GP weekend"
-   },
-   "last": "2026-10-22T18:29:06.219206+00:00"
-  },
-  "S526": {
-   "title": "Alonso says Aston Martin understands its problems but can't disclose all",
-   "first": "2026-10-22T18:29:06.219212+00:00",
-   "sources": {
-    "GPblog": "2026-10-22T18:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Alonso makes intriguing Aston Martin admission: 'We cannot tell you everything'"
-   },
-   "last": "2026-10-22T18:29:06.219217+00:00"
-  },
-  "S527": {
-   "title": "McLaren puts historic Senna, Hamilton, Berger and Piastri cars up for auction",
-   "first": "2026-10-22T18:29:06.219222+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-10-22T18:24:03+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Le storiche McLaren di Senna, Hamilton, Berger e Piastri all'asta: il prezzo è altissimo"
-   },
-   "last": "2026-10-22T18:29:06.219228+00:00"
   },
   "S528": {
    "title": "SA side wins through rain, nerves and late drama",
@@ -11055,9 +11017,22 @@
     "The Race": "Herta could replace Bottas at Cadillac in F1 2027"
    },
    "last": "2026-10-24T18:25:36.601671+00:00"
+  },
+  "S1122": {
+   "title": "Norris says he should be allowed to drink what he wants",
+   "first": "2026-10-24T18:30:40.974787+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-24T18:26:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Norris über Coca-Cola-Affäre in Madrid: \"Sollte trinken dürfen, was ich will\" - Motorsport-Total.com"
+   },
+   "last": "2026-10-24T18:30:40.974807+00:00"
   }
  },
- "story_seq": 1121,
+ "story_seq": 1122,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11176,7 +11151,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T18:25:33.135187+00:00",
+ "last_run": "2026-10-24T18:30:37.241472+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11786,6 +11761,11 @@
    "t": "2026-10-24T18:25:41.147708+00:00",
    "title": "Herta, 2027'de Bottas'ın yerini alabilir",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-24T18:30:45.588507+00:00",
+   "title": "Norris, Madrid'deki Coca-Cola olayı hakkında konuştu",
+   "source": "Motorsport-Total"
   }
  ]
 }
