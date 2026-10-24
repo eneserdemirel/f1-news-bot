@@ -2309,7 +2309,10 @@
   "e214f7231312acd6": "2026-10-24T03:48:39.097354+00:00",
   "0377d97fbc37e1bc": "2026-10-24T03:53:41.301927+00:00",
   "4e45a7ffba725328": "2026-10-24T03:53:41.301927+00:00",
-  "3f4a8191679c2f9e": "2026-10-24T03:53:41.301927+00:00"
+  "3f4a8191679c2f9e": "2026-10-24T03:53:41.301927+00:00",
+  "1ef39b2e5058d3ef": "2026-10-24T04:08:40.418031+00:00",
+  "f5df04de4c1179d7": "2026-10-24T04:08:40.418031+00:00",
+  "f3fb495f8b65d467": "2026-10-24T04:08:40.418031+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10801,9 +10804,35 @@
     "ESPN F1": "Trevor Megill's strikeout seals a Game 1 win for the Brewers"
    },
    "last": "2026-10-24T03:53:43.397258+00:00"
+  },
+  "S939": {
+   "title": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
+   "first": "2026-10-24T04:08:42.784498+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-23T22:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Seahawks rule out RB Zach Charbonnet vs. Chiefs"
+   },
+   "last": "2026-10-24T04:08:42.784519+00:00"
+  },
+  "S940": {
+   "title": "Austin US GP qualifying start time announced",
+   "first": "2026-10-24T04:08:42.784528+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T04:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "2026 F1 United States Grand Prix - Austin qualifying start time today"
+   },
+   "last": "2026-10-24T04:08:42.784534+00:00"
   }
  },
- "story_seq": 938,
+ "story_seq": 940,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10922,7 +10951,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T04:03:47.955492+00:00",
+ "last_run": "2026-10-24T04:08:40.418031+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11207,6 +11236,11 @@
    "t": "2026-10-24T01:13:41.999746+00:00",
    "title": "Hadjar, Austin'de set-up değişiklikleri sonrası Red Bull'u 'kullanılamaz' buldu",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-24T04:08:48.249903+00:00",
+   "title": "2026 ABD Grand Prix'si sıralama turları bugün saat 16:00'da",
+   "source": "RacingNews365"
   }
  ]
 }
