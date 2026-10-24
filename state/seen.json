@@ -2513,7 +2513,9 @@
   "ea9e9b0e4251c77c": "2026-10-24T14:09:57.489599+00:00",
   "883c6eb9f87dc4fe": "2026-10-24T14:14:58.357972+00:00",
   "af44526ae8c4ad5a": "2026-10-24T14:14:58.357972+00:00",
-  "af886043f0dcf202": "2026-10-24T14:14:58.357972+00:00"
+  "af886043f0dcf202": "2026-10-24T14:14:58.357972+00:00",
+  "a797307a9b92f87b": "2026-10-24T14:19:56.791042+00:00",
+  "d50866a280818c63": "2026-10-24T14:19:56.791042+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2906,19 +2908,6 @@
    },
    "last": "2026-10-22T18:02:10.300565+00:00"
   },
-  "S445": {
-   "title": "Man United players given Thursday off after Como thrashing",
-   "first": "2026-10-22T12:48:25.404422+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T10:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United players get Thursday day off despite Como thrashing - sources"
-   },
-   "last": "2026-10-22T14:18:20.478949+00:00"
-  },
   "S450": {
    "title": "UFC 333 preview and picks for featherweight and bantamweight titles",
    "first": "2026-10-22T13:08:22.282357+00:00",
@@ -2931,32 +2920,6 @@
     "ESPN F1": "UFC 333 preview and picks for featherweight, men's bantamweight titles"
    },
    "last": "2026-10-22T16:48:24.775342+00:00"
-  },
-  "S462": {
-   "title": "Harry Brook smashes fastest double-century in ODIs",
-   "first": "2026-10-22T13:58:19.935453+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T13:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Harry Brook smashes fastest double-century in ODIs"
-   },
-   "last": "2026-10-22T14:18:20.478937+00:00"
-  },
-  "S465": {
-   "title": "Honda's Watanabe admits strain in Aston Martin relationship",
-   "first": "2026-10-22T14:18:20.478953+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-22T14:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Honda-topman geeft toe: \"Relatie met Aston Martin op de proef gesteld\""
-   },
-   "last": "2026-10-22T14:18:20.478958+00:00"
   },
   "S466": {
    "title": "F1 Fan1 contest offers Las Vegas GP VIP trip",
@@ -10544,14 +10507,16 @@
    "title": "Verstappen gives unusual review of Horner's autobiography at Austin",
    "first": "2026-10-24T11:20:01.183194+00:00",
    "sources": {
-    "RacingNews365": "2026-10-24T11:10:00+00:00"
+    "RacingNews365": "2026-10-24T11:10:00+00:00",
+    "GPblog": "2026-10-24T14:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Max Verstappen offers sharp and unusual Christian Horner book 'review'"
+    "RacingNews365": "Max Verstappen offers sharp and unusual Christian Horner book 'review'",
+    "GPblog": "Max Verstappen gives blunt verdict on Christian Horner's book: 'That is all in the past'"
    },
-   "last": "2026-10-24T11:20:01.183197+00:00"
+   "last": "2026-10-24T14:19:59.968154+00:00"
   },
   "S1015": {
    "title": "Katsuragawa ties course record at Genesis Championship (golf)",
@@ -11091,9 +11056,22 @@
     "ESPN F1": "Everton vs. Newcastle (Oct 29, 2026) Odds and Spread"
    },
    "last": "2026-10-24T14:15:03.403704+00:00"
+  },
+  "S1056": {
+   "title": "Curtis Jones compares Serie A pace with Liverpool style (football)",
+   "first": "2026-10-24T14:19:59.968124+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T13:19:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Curtis Jones: Serie A too slow? Inter arrival explains Liverpool similarity"
+   },
+   "last": "2026-10-24T14:19:59.968146+00:00"
   }
  },
- "story_seq": 1055,
+ "story_seq": 1056,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11212,7 +11190,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T14:14:58.357972+00:00",
+ "last_run": "2026-10-24T14:19:56.791042+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
