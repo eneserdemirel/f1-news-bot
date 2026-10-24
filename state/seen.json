@@ -2323,7 +2323,12 @@
   "4dfa32ae46ebd856": "2026-10-24T04:53:40.759380+00:00",
   "595604835f9ec0d4": "2026-10-24T04:58:38.061324+00:00",
   "f50e055f911c36c7": "2026-10-24T04:58:38.061324+00:00",
-  "c92728ca5f1dfb90": "2026-10-24T04:58:38.061324+00:00"
+  "c92728ca5f1dfb90": "2026-10-24T04:58:38.061324+00:00",
+  "82eab35a04238696": "2026-10-24T05:03:42.240980+00:00",
+  "435d00a53e55a207": "2026-10-24T05:03:42.240980+00:00",
+  "f8b1234f8219ed2e": "2026-10-24T05:03:42.240980+00:00",
+  "e1ad2c13c5a96462": "2026-10-24T05:03:42.240980+00:00",
+  "cb23b83b2dc03be7": "2026-10-24T05:03:42.240980+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5583,7 +5588,8 @@
     "Crash.net": "2026-10-23T05:00:00+00:00",
     "PlanetF1": "2026-10-23T05:18:52+00:00",
     "Corriere dello Sport": "2026-10-23T13:31:15+00:00",
-    "Sky Sports F1": "2026-10-23T18:30:00+00:00"
+    "Sky Sports F1": "2026-10-23T18:30:00+00:00",
+    "Motorsport-Total": "2026-10-24T05:00:05+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -5593,9 +5599,10 @@
     "Crash.net": "Lewis Hamilton “forced to stay a lot longer” after getting big F1 wish",
     "PlanetF1": "Lewis Hamilton reveals African Grand Prix dream as he vows to extend F1 career",
     "Corriere dello Sport": "Hamilton non si ritirerà a breve: \"Voglio correre al GP del Ruanda anche se...\"",
-    "Sky Sports F1": "Hamilton eyes staying in F1 into 2030s to race in African GP"
+    "Sky Sports F1": "Hamilton eyes staying in F1 into 2030s to race in African GP",
+    "Motorsport-Total": "\"Gezwungen, viel länger zu bleiben\": Hamilton mit 45 noch in der Formel 1? - Motorsport-Total.com"
    },
-   "last": "2026-10-23T18:46:58.679134+00:00"
+   "last": "2026-10-24T05:03:46.829277+00:00"
   },
   "S560": {
    "title": "Bortoleto dreams of world title with Audi",
@@ -9078,7 +9085,8 @@
     "PlanetF1": "2026-10-23T19:00:30+00:00",
     "Motorsport-Total": "2026-10-23T19:58:47+00:00",
     "Crash.net": "2026-10-23T20:20:09+00:00",
-    "GPFans": "2026-10-23T20:28:00+00:00"
+    "GPFans": "2026-10-23T20:28:00+00:00",
+    "GPblog": "2026-10-24T05:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9088,9 +9096,10 @@
     "PlanetF1": "Toto Wolff’s son Jack escapes injury after terrifying karting crash in Italy",
     "Motorsport-Total": "Sohn von Toto Wolff: Schwerer Unfall bei Kartrennen in Italien - Motorsport-Total.com",
     "Crash.net": "Toto Wolff's son Jack escapes major injury after scary go-kart crash",
-    "GPFans": "Toto Wolff's son walks away unhurt after suffering big karting crash"
+    "GPFans": "Toto Wolff's son walks away unhurt after suffering big karting crash",
+    "GPblog": "Toto Wolff’s son involved in scary karting crash"
    },
-   "last": "2026-10-23T20:32:31.841057+00:00"
+   "last": "2026-10-24T05:03:46.829261+00:00"
   },
   "S817": {
    "title": "Szafnauer reveals he was offered Cadillac team principal role",
@@ -10871,9 +10880,35 @@
     "ESPN F1": "Patrick Smith picks off Virginia Cavaliers"
    },
    "last": "2026-10-24T04:53:43.082470+00:00"
+  },
+  "S945": {
+   "title": "Jerami Grant fights off defender for and-1",
+   "first": "2026-10-24T05:03:46.829235+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T03:27:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jerami Grant fights off defender for and-1"
+   },
+   "last": "2026-10-24T05:03:46.829252+00:00"
+  },
+  "S946": {
+   "title": "Norris says 'plenty of words' exchanged at McLaren after Singapore",
+   "first": "2026-10-24T05:03:46.829266+00:00",
+   "sources": {
+    "Crash.net": "2026-10-24T05:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lando Norris confirms “plenty of words” exchanged at McLaren since Singapore clash"
+   },
+   "last": "2026-10-24T05:03:46.829271+00:00"
   }
  },
- "story_seq": 944,
+ "story_seq": 946,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10992,7 +11027,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T04:58:38.061324+00:00",
+ "last_run": "2026-10-24T05:03:42.240980+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11292,6 +11327,11 @@
    "t": "2026-10-24T04:58:44.036425+00:00",
    "title": "Verstappen, COTA'daki tümsekleri \"kontrolden çıkmış\" olarak niteledi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T05:03:51.713193+00:00",
+   "title": "Norris: Singapur'dan sonra McLaren'da çok sert sözler edildi",
+   "source": "Crash.net"
   }
  ]
 }
