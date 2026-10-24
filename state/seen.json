@@ -2711,7 +2711,11 @@
   "885fa8243bbc4a7e": "2026-10-24T19:20:34.269369+00:00",
   "5e3b4c0c72567dab": "2026-10-24T19:20:34.269369+00:00",
   "788133623b9a4cf4": "2026-10-24T19:20:34.269369+00:00",
-  "b9b38dcda329bcf4": "2026-10-24T19:20:34.269369+00:00"
+  "b9b38dcda329bcf4": "2026-10-24T19:20:34.269369+00:00",
+  "080e9db6a4bf4d9c": "2026-10-24T19:25:37.556292+00:00",
+  "947d885e99a2a0d3": "2026-10-24T19:25:37.556292+00:00",
+  "f38d908fda37d996": "2026-10-24T19:25:37.556292+00:00",
+  "a1b2cdfd00cf1f22": "2026-10-24T19:25:37.556292+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11318,9 +11322,61 @@
     "RacingNews365 NL": "Verstappen onthult fysieke problemen: \"Het is gewoon grijs!\""
    },
    "last": "2026-10-24T19:20:39.551658+00:00"
+  },
+  "S1153": {
+   "title": "Cole Palmer sent off, Chelsea red card milestone",
+   "first": "2026-10-24T19:25:41.256848+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T19:22:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cole Palmer sent off for first time, Chelsea reach unwanted red card milestone"
+   },
+   "last": "2026-10-24T19:25:41.256869+00:00"
+  },
+  "S1154": {
+   "title": "Tottenham boss criticises WSL refereeing after Arsenal penalty",
+   "first": "2026-10-24T19:25:41.256873+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T15:45:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tottenham boss: WSL refereeing 'has got worse' after dubious Arsenal penalty"
+   },
+   "last": "2026-10-24T19:25:41.256878+00:00"
+  },
+  "S1155": {
+   "title": "McLaren brings diffuser and other upgrades to Austin",
+   "first": "2026-10-24T19:25:41.256882+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-24T19:18:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "McLaren non molla: ecco gli aggiornamenti di Austin"
+   },
+   "last": "2026-10-24T19:25:41.256885+00:00"
+  },
+  "S1156": {
+   "title": "Live blog for US GP qualifying session",
+   "first": "2026-10-24T19:25:41.256887+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-24T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "F1 GP Stati Uniti 2026, qualifiche: la Ferrari sogna di tornare in pole dopo le libere, la Q1 inizia alle 23.00 – DIRETTA"
+   },
+   "last": "2026-10-24T19:25:41.256891+00:00"
   }
  },
- "story_seq": 1152,
+ "story_seq": 1156,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11439,7 +11495,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T19:20:34.269369+00:00",
+ "last_run": "2026-10-24T19:25:37.556292+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12084,6 +12140,11 @@
    "t": "2026-10-24T19:20:46.091303+00:00",
    "title": "FIA, ABD GP'deki olay sonrası Isack Hadjar'ı soruşturuyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T19:25:48.551545+00:00",
+   "title": "Ferrari, Austin'de pole pozisyonuna geri dönmeyi hedefliyor",
+   "source": "FormulaPassion"
   }
  ]
 }
