@@ -2347,7 +2347,9 @@
   "4ad6ebf208636a81": "2026-10-24T05:49:22.927234+00:00",
   "2991b1f4509e09f6": "2026-10-24T06:04:26.327367+00:00",
   "a6b795ec37a70a46": "2026-10-24T06:04:26.327367+00:00",
-  "f961e9b8815aca81": "2026-10-24T06:04:26.327367+00:00"
+  "f961e9b8815aca81": "2026-10-24T06:04:26.327367+00:00",
+  "79d3dd93f1906835": "2026-10-24T06:09:23.783493+00:00",
+  "990a49b48910aa8a": "2026-10-24T06:09:23.783493+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2781,19 +2783,6 @@
     "GPblog": "Horner reveals unexpected thank-you call from Red Bull 15 months after dismissal"
    },
    "last": "2026-10-22T18:49:10.984665+00:00"
-  },
-  "S361": {
-   "title": "Ralf Schumacher says Verstappen will enjoy Antonelli rivalry",
-   "first": "2026-10-22T06:06:52.627225+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-22T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Schumacher prijst Verstappen om 'sterke eigenschap'"
-   },
-   "last": "2026-10-22T06:06:52.627246+00:00"
   },
   "S362": {
    "title": "Horner reveals Niki Lauda tried to lure him to Mercedes",
@@ -10968,9 +10957,35 @@
     "Crash.net": "Lewis Hamilton’s major Red Bull confession: “They proved me wrong”"
    },
    "last": "2026-10-24T06:04:29.157379+00:00"
+  },
+  "S958": {
+   "title": "Bortoleto says COTA falls below F1 standards over bumps",
+   "first": "2026-10-24T06:09:27.571178+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-24T06:04:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Drivers critical of ‘below F1 standards’ Circuit of the Americas"
+   },
+   "last": "2026-10-24T06:09:27.571198+00:00"
+  },
+  "S959": {
+   "title": "Newey sets out demands on Honda as Aston Martin boss",
+   "first": "2026-10-24T06:09:27.571203+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-24T06:02:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Diese Forderungen stellt Aston-Martin-Teamchef Adrian Newey an Honda"
+   },
+   "last": "2026-10-24T06:09:27.571208+00:00"
   }
  },
- "story_seq": 957,
+ "story_seq": 959,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11089,7 +11104,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T06:04:26.327367+00:00",
+ "last_run": "2026-10-24T06:09:23.783493+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11404,6 +11419,16 @@
    "t": "2026-10-24T05:43:51.507021+00:00",
    "title": "Brown: Norris'in tur süresi göründüğünden daha hızlı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T06:09:33.129087+00:00",
+   "title": "Adrian Newey, Honda'dan talep ettiklerini açıkladı",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-10-24T06:09:33.686040+00:00",
+   "title": "Sürücüler Austin pistini \"F1 standartlarının altında\" bulduğunu söyledi",
+   "source": "PlanetF1"
   }
  ]
 }
