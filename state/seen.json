@@ -2652,7 +2652,16 @@
   "1aca63017c7a4967": "2026-10-24T18:35:57.926523+00:00",
   "aef16a2b7b9d2574": "2026-10-24T18:35:57.926523+00:00",
   "0e2e436ccf26ef71": "2026-10-24T18:35:57.926523+00:00",
-  "445a461e0ba82798": "2026-10-24T18:35:57.926523+00:00"
+  "445a461e0ba82798": "2026-10-24T18:35:57.926523+00:00",
+  "fe1c626294748a44": "2026-10-24T18:40:33.507991+00:00",
+  "041d1e66dbd31cee": "2026-10-24T18:40:33.507991+00:00",
+  "a27f1952dcfdb63c": "2026-10-24T18:40:33.507991+00:00",
+  "e621b5ec0d96947b": "2026-10-24T18:40:33.507991+00:00",
+  "fa2a5f4d371fc9d2": "2026-10-24T18:40:33.507991+00:00",
+  "8aa27d5664d89f3f": "2026-10-24T18:40:33.507991+00:00",
+  "9f1ec9dd3b994aa8": "2026-10-24T18:40:33.507991+00:00",
+  "933aab9280cb6f50": "2026-10-24T18:40:33.507991+00:00",
+  "d790352bd03f9b09": "2026-10-24T18:40:33.507991+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2859,32 +2868,6 @@
     "ESPN F1": "SA flex their championship mettle through rain, nerves and late drama"
    },
    "last": "2026-10-22T18:49:10.984648+00:00"
-  },
-  "S529": {
-   "title": "Ravens' Hendrickson comments on facing Bengals",
-   "first": "2026-10-22T18:39:07.150630+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T17:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ravens' Hendrickson on facing Bengals - 'It's not about me'"
-   },
-   "last": "2026-10-22T18:39:07.150636+00:00"
-  },
-  "S530": {
-   "title": "Mike Locksley on Maryland firing and coaching options",
-   "first": "2026-10-22T18:39:07.150640+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-22T17:04:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mike Locksley 'at peace' with Maryland firing, open to NFL, college OC jobs"
-   },
-   "last": "2026-10-22T18:39:07.150644+00:00"
   },
   "S531": {
    "title": "Colapinto video statement urging end to fan online abuse",
@@ -11063,16 +11046,20 @@
    "sources": {
     "RacingNews365 NL": "2026-10-24T18:30:00+00:00",
     "PlanetF1": "2026-10-24T18:34:46+00:00",
-    "GPblog": "2026-10-24T18:31:00+00:00"
+    "GPblog": "2026-10-24T18:30:00+00:00",
+    "RacingNews365": "2026-10-24T18:30:00+00:00",
+    "Crash.net": "2026-10-24T18:35:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Verstappen in Ferrari-sandwich in afsluitende training Austin",
     "PlanetF1": "United States GP: Hamilton tops FP3 as Leclerc suffers from track limits",
-    "GPblog": "Hamilton tops final Austin practice ahead of Verstappen and Leclerc"
+    "GPblog": "Hamilton tops final Austin practice ahead of Verstappen and Leclerc",
+    "RacingNews365": "2026 F1 United States Grand Prix - Austin Free Practice 3 results",
+    "Crash.net": "Lewis Hamilton heads Max Verstappen in final US GP practice dominated by track limits"
    },
-   "last": "2026-10-24T18:36:08.783353+00:00"
+   "last": "2026-10-24T18:40:39.799565+00:00"
   },
   "S1125": {
    "title": "Verstappen says he doesn't read Horner's book",
@@ -11086,9 +11073,22 @@
     "GPblog": "Max Verstappen gives blunt response to Christian Horner claims: 'I don't read books'"
    },
    "last": "2026-10-24T18:36:08.783373+00:00"
+  },
+  "S1126": {
+   "title": "Ferrari completes a full sweep of US GP practice times",
+   "first": "2026-10-24T18:40:39.799517+00:00",
+   "sources": {
+    "The Race": "2026-10-24T18:39:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Ferrari completes US GP practice sweep"
+   },
+   "last": "2026-10-24T18:40:39.799536+00:00"
   }
  },
- "story_seq": 1125,
+ "story_seq": 1126,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11207,7 +11207,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T18:35:57.926523+00:00",
+ "last_run": "2026-10-24T18:40:33.507991+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
