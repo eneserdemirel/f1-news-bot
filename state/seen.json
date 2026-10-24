@@ -2590,7 +2590,10 @@
   "2cb0f481032bbbce": "2026-10-24T17:10:35.842825+00:00",
   "3a4ea67f02ed3862": "2026-10-24T17:10:35.842825+00:00",
   "4b019aab66ae1949": "2026-10-24T17:15:34.600061+00:00",
-  "0ef122ec2e4ccc71": "2026-10-24T17:15:34.600061+00:00"
+  "0ef122ec2e4ccc71": "2026-10-24T17:15:34.600061+00:00",
+  "bae5ac3b26710dc3": "2026-10-24T17:20:38.449868+00:00",
+  "d007fff457cdd793": "2026-10-24T17:20:38.449868+00:00",
+  "6f785c6120e85e36": "2026-10-24T17:20:38.449868+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2728,21 +2731,6 @@
     "GPblog": "Helmut Marko slams Christian Horner over book release timing: “Incomprehensible”"
    },
    "last": "2026-10-22T18:02:10.300551+00:00"
-  },
-  "S411": {
-   "title": "Marko calls Horner's claims a 'collection of untruths'",
-   "first": "2026-10-22T09:57:37.030220+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-22T09:55:18+00:00",
-    "Crash.net": "2026-10-22T17:14:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Helmut Marko calls Christian Horner’s claims a ‘collection of untruths’",
-    "Crash.net": "Helmut Marko hits back at Christian Horner for “collection of untruths” amid bitter feud"
-   },
-   "last": "2026-10-22T17:19:07.158756+00:00"
   },
   "S419": {
    "title": "Verstappen offers old-fashioned fix for deciding lap time",
@@ -10739,7 +10727,8 @@
     "GPblog": "2026-10-24T16:31:00+00:00",
     "Sky Sports F1": "2026-10-24T18:05:00+00:00",
     "PlanetF1": "2026-10-24T17:07:05+00:00",
-    "AS": "2026-10-24T17:12:00+00:00"
+    "AS": "2026-10-24T17:12:00+00:00",
+    "Formula 1": "2026-10-24T17:20:41.039977+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10751,9 +10740,10 @@
     "GPblog": "F1 LIVE | Follow FP3 of the United States Grand Prix here",
     "Sky Sports F1": "United States GP: Rivals seek to hit back at Ferrari in crucial final practice LIVE!",
     "PlanetF1": "United States GP LIVE: FP3 as it happens from Circuit of The Americas",
-    "AS": "Libres 3 GP Estados Unidos F1, en directo: Alonso y Sainz hoy en Austin, en vivo"
+    "AS": "Libres 3 GP Estados Unidos F1, en directo: Alonso y Sainz hoy en Austin, en vivo",
+    "Formula 1": "LIVE COVERAGE: Third practice in the United States"
    },
-   "last": "2026-10-24T17:15:36.798737+00:00"
+   "last": "2026-10-24T17:20:41.039997+00:00"
   },
   "S1076": {
    "title": "Newey responds to Horner's 'abandon ship' comments",
@@ -11105,9 +11095,35 @@
     "PlanetF1": "FIA announces US Grand Prix changes after huge 207 deletions"
    },
    "last": "2026-10-24T17:10:42.038623+00:00"
+  },
+  "S1103": {
+   "title": "Arsenal 2-0 Everton player stats",
+   "first": "2026-10-24T17:20:41.040002+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T14:24:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal 2-0 Everton (Oct 24, 2026) Player Stats"
+   },
+   "last": "2026-10-24T17:20:41.040008+00:00"
+  },
+  "S1104": {
+   "title": "Russell describes last-resort tactic in Antonelli title fight",
+   "first": "2026-10-24T17:20:41.040012+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T17:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "George Russell reveals hilarious last-resort tactic in Kimi Antonelli title fight"
+   },
+   "last": "2026-10-24T17:20:41.040016+00:00"
   }
  },
- "story_seq": 1102,
+ "story_seq": 1104,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11226,7 +11242,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T17:15:34.600061+00:00",
+ "last_run": "2026-10-24T17:20:38.449868+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11811,6 +11827,11 @@
    "t": "2026-10-24T17:10:49.298992+00:00",
    "title": "FIA, 207 tur silinmesinin ardından ABD GP'de pist sınırlarını gevşetti",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T17:20:45.925125+00:00",
+   "title": "Russell, Antonelli'yi şampiyonada durdurmak için şaka yollu bir plan açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
