@@ -2364,7 +2364,10 @@
   "274dd0072111900f": "2026-10-24T06:59:25.916661+00:00",
   "1943c56b4f28f684": "2026-10-24T06:59:25.916661+00:00",
   "0e70b47d947cb1f2": "2026-10-24T07:04:24.531151+00:00",
-  "22b10e4c5fa81007": "2026-10-24T07:04:24.531151+00:00"
+  "22b10e4c5fa81007": "2026-10-24T07:04:24.531151+00:00",
+  "aa1a741b7c32d19c": "2026-10-24T07:09:22.174347+00:00",
+  "ef0533102823b034": "2026-10-24T07:09:22.174347+00:00",
+  "6895931da4373675": "2026-10-24T07:09:22.174347+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2830,19 +2833,6 @@
     "GPFans": "F1 star told to quit the sport - 'stay home and go cycling'"
    },
    "last": "2026-10-22T20:29:07.414434+00:00"
-  },
-  "S368": {
-   "title": "Horner says Red Bull helped fund Albon's Williams return",
-   "first": "2026-10-22T07:07:32.127846+00:00",
-   "sources": {
-    "GPFans": "2026-10-22T06:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner reveals key role in F1 driver transfer after axe: 'We contributed financially'"
-   },
-   "last": "2026-10-22T07:07:32.127872+00:00"
   },
   "S369": {
    "title": "Trail Blazers fans cheer Damian Lillard on his return",
@@ -10049,15 +10039,17 @@
    "first": "2026-10-23T23:12:27.458942+00:00",
    "sources": {
     "Autosport": "2026-10-23T23:04:52+00:00",
-    "Motorsport-Total": "2026-10-23T23:47:42+00:00"
+    "Motorsport-Total": "2026-10-23T23:47:42+00:00",
+    "RacingNews365 NL": "2026-10-24T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
-    "Motorsport-Total": "\"Hinken einen Schritt hinterher\": Was McLaren mit seinem Update lösen will - Motorsport-Total.com"
+    "Motorsport-Total": "\"Hinken einen Schritt hinterher\": Was McLaren mit seinem Update lösen will - Motorsport-Total.com",
+    "RacingNews365 NL": "Norris in zak en as: \"Staan een stap achter Red Bull en Ferrari\""
    },
-   "last": "2026-10-23T23:52:33.353793+00:00"
+   "last": "2026-10-24T07:09:26.963266+00:00"
   },
   "S892": {
    "title": "Analysis of why Ferrari are favourites for Austin GP",
@@ -11056,9 +11048,35 @@
     "RacingNews365": "Isack Hadjar reveals 'disaster' ahead of United States GP: 'Completely killed'"
    },
    "last": "2026-10-24T07:04:27.133157+00:00"
+  },
+  "S968": {
+   "title": "Andretti praises Antonelli and comments on Leclerc and Hamilton",
+   "first": "2026-10-24T07:09:26.963275+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-24T07:06:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "F1, Andretti fa il tifo: \"Kimi esalta, ha tutto per diventare un grande\". E su Leclerc e Hamilton..."
+   },
+   "last": "2026-10-24T07:09:26.963280+00:00"
+  },
+  "S969": {
+   "title": "Newey says Honda further behind than Red Bull's 2019 start",
+   "first": "2026-10-24T07:09:26.963283+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-24T07:07:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Newey: Honda ist 2026 weiter zurück als 2019 am Beginn der Red-Bull-Ära - Motorsport-Total.com"
+   },
+   "last": "2026-10-24T07:09:26.963287+00:00"
   }
  },
- "story_seq": 967,
+ "story_seq": 969,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11177,7 +11195,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T07:04:24.531151+00:00",
+ "last_run": "2026-10-24T07:09:22.174347+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
