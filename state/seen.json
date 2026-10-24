@@ -2400,7 +2400,8 @@
   "8a7c01cd77a417a2": "2026-10-24T08:29:25.083072+00:00",
   "20c6f3ff6f12da93": "2026-10-24T08:34:23.035595+00:00",
   "3d762fff4d423d5b": "2026-10-24T08:34:23.035595+00:00",
-  "075827da95f7f808": "2026-10-24T08:44:21.843084+00:00"
+  "075827da95f7f808": "2026-10-24T08:44:21.843084+00:00",
+  "ec417c7927f67558": "2026-10-24T08:49:23.925668+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2839,19 +2840,6 @@
     "GPblog": "Helmut Marko slams Christian Horner over book release timing: “Incomprehensible”"
    },
    "last": "2026-10-22T18:02:10.300551+00:00"
-  },
-  "S400": {
-   "title": "Facts, stats and trivia guide for the 2026 US Grand Prix",
-   "first": "2026-10-22T08:47:35.078081+00:00",
-   "sources": {
-    "Formula 1": "2026-10-22T08:47:35.078097+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Facts, stats and trivia ahead of the 2026 United States GP"
-   },
-   "last": "2026-10-22T08:47:35.078110+00:00"
   },
   "S401": {
    "title": "Verstappen can equal Hamilton's Austin win record this weekend",
@@ -10936,9 +10924,22 @@
     "ESPN F1": "Amen Thompson blocks Wemby to seal the game"
    },
    "last": "2026-10-24T08:44:23.263619+00:00"
+  },
+  "S989": {
+   "title": "Antonelli says Austin track layout contributes to track limit violations",
+   "first": "2026-10-24T08:49:27.460590+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T08:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli makes important point over Austin F1 track limits battle"
+   },
+   "last": "2026-10-24T08:49:27.460607+00:00"
   }
  },
- "story_seq": 988,
+ "story_seq": 989,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11057,7 +11058,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T08:44:21.843084+00:00",
+ "last_run": "2026-10-24T08:49:23.925668+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11422,6 +11423,11 @@
    "t": "2026-10-24T08:24:32.761130+00:00",
    "title": "Bortoleto, Verstappen'i destekledi: \"Gerçekten çok sert\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T08:49:33.844015+00:00",
+   "title": "Antonelli: Austin'de pist sınırı mücadelesi zorlu, asfalt çok",
+   "source": "RacingNews365"
   }
  ]
 }
