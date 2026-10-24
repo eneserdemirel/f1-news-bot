@@ -2314,7 +2314,10 @@
   "f5df04de4c1179d7": "2026-10-24T04:08:40.418031+00:00",
   "f3fb495f8b65d467": "2026-10-24T04:08:40.418031+00:00",
   "a8cac7de3bdbd455": "2026-10-24T04:23:39.452718+00:00",
-  "1736ef07d4e796f7": "2026-10-24T04:28:39.869717+00:00"
+  "1736ef07d4e796f7": "2026-10-24T04:28:39.869717+00:00",
+  "a67150b2baf6e9a0": "2026-10-24T04:33:42.790132+00:00",
+  "2e4b79e7b0d689af": "2026-10-24T04:33:42.790132+00:00",
+  "7cd1d92e97603a67": "2026-10-24T04:33:42.790132+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10315,14 +10318,16 @@
    "title": "Norris finds McLaren hard to maximise in Austin running",
    "first": "2026-10-24T00:07:31.736574+00:00",
    "sources": {
-    "Formula 1": "2026-10-24T00:07:31.736588+00:00"
+    "Formula 1": "2026-10-24T00:07:31.736588+00:00",
+    "RacingNews365": "2026-10-24T04:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Why Norris found it 'very difficult' to maximise the McLaren"
+    "Formula 1": "Why Norris found it 'very difficult' to maximise the McLaren",
+    "RacingNews365": "Lando Norris highlights 'impossible' McLaren challenge after Austin struggle"
    },
-   "last": "2026-10-24T00:07:31.736592+00:00"
+   "last": "2026-10-24T04:33:46.803403+00:00"
   },
   "S903": {
    "title": "49ers injury report: Evans, Bosa, Samuel out vs. Atlanta",
@@ -10819,9 +10824,22 @@
     "RacingNews365": "2026 F1 United States Grand Prix - Austin qualifying start time today"
    },
    "last": "2026-10-24T04:08:42.784534+00:00"
+  },
+  "S941": {
+   "title": "Analysis: Norris rivals Verstappen and Leclerc in Austin long runs",
+   "first": "2026-10-24T04:33:46.803414+00:00",
+   "sources": {
+    "GPblog": "2026-10-24T04:32:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Norris faster than Verstappen and Leclerc in Austin long-run comparison"
+   },
+   "last": "2026-10-24T04:33:46.803421+00:00"
   }
  },
- "story_seq": 940,
+ "story_seq": 941,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -10940,7 +10958,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T04:28:39.869717+00:00",
+ "last_run": "2026-10-24T04:33:42.790132+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-23 22:00",
@@ -11230,6 +11248,11 @@
    "t": "2026-10-24T04:08:48.249903+00:00",
    "title": "2026 ABD Grand Prix'si sıralama turları bugün saat 16:00'da",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T04:33:51.910396+00:00",
+   "title": "Norris, Austin'de long-run karşılaştırmasında Verstappen ve Leclerc'in önünde",
+   "source": "GPblog"
   }
  ]
 }
