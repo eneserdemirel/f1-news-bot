@@ -2492,7 +2492,12 @@
   "bb6ae59ef92b6c54": "2026-10-24T13:09:58.637608+00:00",
   "32bdb6b4b70bd013": "2026-10-24T13:29:58.235963+00:00",
   "dba800a713f42f48": "2026-10-24T13:35:00.232682+00:00",
-  "74b60fa9119ec7f7": "2026-10-24T13:35:00.232682+00:00"
+  "74b60fa9119ec7f7": "2026-10-24T13:35:00.232682+00:00",
+  "f0b943baf59cdb84": "2026-10-24T13:39:57.091573+00:00",
+  "caaf9dbbdc1d5304": "2026-10-24T13:39:57.091573+00:00",
+  "bcd9e0e34a889ae8": "2026-10-24T13:39:57.091573+00:00",
+  "81741563df85b00f": "2026-10-24T13:39:57.091573+00:00",
+  "8b95c67e29d19f78": "2026-10-24T13:39:57.091573+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -2935,32 +2940,6 @@
     "ESPN F1": "UFC 333 preview and picks for featherweight, men's bantamweight titles"
    },
    "last": "2026-10-22T16:48:24.775342+00:00"
-  },
-  "S458": {
-   "title": "Marko praises Verstappen's comeback from home",
-   "first": "2026-10-22T13:38:20.649526+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-22T13:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Marko trekt hoopvolle Verstappen-conclusie na grootse comeback"
-   },
-   "last": "2026-10-22T13:38:20.649545+00:00"
-  },
-  "S459": {
-   "title": "Perez says his children are decisive for F1 future",
-   "first": "2026-10-22T13:38:20.649550+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-22T13:30:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Sergio Perez über seine F1-Zukunft: \"Meine Kinder sind entscheidend\" - Motorsport-Total.com"
-   },
-   "last": "2026-10-22T13:38:20.649555+00:00"
   },
   "S460": {
    "title": "Adobe makes first F1 move with Alpine AI partnership",
@@ -10951,14 +10930,16 @@
    "title": "Cadillac boss dodges driver line-up question, fuelling 2027 intrigue",
    "first": "2026-10-24T13:05:00.651813+00:00",
    "sources": {
-    "Autosport": "2026-10-24T13:00:02+00:00"
+    "Autosport": "2026-10-24T13:00:02+00:00",
+    "Motorsport-Total": "2026-10-24T13:30:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question"
+    "Autosport": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
+    "Motorsport-Total": "Cadillac lässt Tür offen: Cockpit von Bottas für 2027 doch nicht sicher? - Motorsport-Total.com"
    },
-   "last": "2026-10-24T13:05:00.651818+00:00"
+   "last": "2026-10-24T13:40:02.726189+00:00"
   },
   "S1040": {
    "title": "McLaren technical director praises new upgrade package in Austin",
@@ -11037,9 +11018,48 @@
     "GPblog": "COTA boss answers Max Verstappen's bump criticism: Turn 1 'not acceptable in my mind'"
    },
    "last": "2026-10-24T13:35:03.071249+00:00"
+  },
+  "S1046": {
+   "title": "RB Leipzig vs Elversberg team stats page",
+   "first": "2026-10-24T13:40:02.726149+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T13:31:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "RB Leipzig vs. Elversberg (Oct 24, 2026) Team Stats"
+   },
+   "last": "2026-10-24T13:40:02.726169+00:00"
+  },
+  "S1047": {
+   "title": "Verstappen's feel for RB22 problem in Austin FP1 praised",
+   "first": "2026-10-24T13:40:02.726174+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-24T13:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen valt opnieuw op met gigantisch oog voor detail"
+   },
+   "last": "2026-10-24T13:40:02.726178+00:00"
+  },
+  "S1048": {
+   "title": "Bearman says Ferrari will have big say on Haas future",
+   "first": "2026-10-24T13:40:02.726181+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-24T13:35:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari to have ‘big say’ as Bearman discusses Haas F1 future"
+   },
+   "last": "2026-10-24T13:40:02.726185+00:00"
   }
  },
- "story_seq": 1045,
+ "story_seq": 1048,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11158,7 +11178,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T13:35:00.232682+00:00",
+ "last_run": "2026-10-24T13:39:57.091573+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11628,6 +11648,16 @@
    "t": "2026-10-24T13:35:08.511477+00:00",
    "title": "Red Bull'da Lawson'ın geleceği: Racing Bulls'un iki yüzü",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-24T13:40:09.730191+00:00",
+   "title": "Verstappen, detaylı geri bildirimiyle yine dikkat çekti",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-24T13:40:10.281513+00:00",
+   "title": "Bearman: Haas'ta kalmak istiyorum, Ferrari'nin sözü büyük",
+   "source": "PlanetF1"
   }
  ]
 }
