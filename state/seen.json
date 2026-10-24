@@ -2772,7 +2772,9 @@
   "409254dc5a84c9b8": "2026-10-24T20:50:34.480032+00:00",
   "2911c99156b3ed92": "2026-10-24T20:50:34.480032+00:00",
   "152e6496f41fca35": "2026-10-24T20:50:34.480032+00:00",
-  "f510cbe9ab543d02": "2026-10-24T20:50:34.480032+00:00"
+  "f510cbe9ab543d02": "2026-10-24T20:50:34.480032+00:00",
+  "a351a619b1e9cc15": "2026-10-24T20:55:41.697810+00:00",
+  "f0ce9df8689633cf": "2026-10-24T20:55:41.697810+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11003,7 +11005,7 @@
     "PlanetF1": "FIA launches Isack Hadjar investigation after United States GP incident",
     "RacingNews365": "Isack Hadjar summoned to F1 stewards after bizarre practice incident"
    },
-   "last": "2026-10-24T19:40:39.448706+00:00"
+   "last": "2026-10-24T20:55:43.932078+00:00"
   },
   "S1149": {
    "title": "IndyCar announces 2027 calendar move coinciding with F1 Austin",
@@ -11542,9 +11544,22 @@
     "GPblog": "Lawson has few words for Horner after damning Red Bull comments"
    },
    "last": "2026-10-24T20:50:39.943575+00:00"
+  },
+  "S1189": {
+   "title": "Vikings activate RB Jordan Mason off injured reserve",
+   "first": "2026-10-24T20:55:43.932049+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T20:49:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Vikings activate RB Jordan Mason off injured reserve"
+   },
+   "last": "2026-10-24T20:55:43.932070+00:00"
   }
  },
- "story_seq": 1188,
+ "story_seq": 1189,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11663,7 +11678,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T20:50:34.480032+00:00",
+ "last_run": "2026-10-24T20:55:41.697810+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -12323,6 +12338,11 @@
    "t": "2026-10-24T20:20:42.745551+00:00",
    "title": "Verstappen, ABD GP sıralama turları öncesi güçlü destek gördü",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-24T20:55:48.340445+00:00",
+   "title": "Hadjar, Albon ile yaşanan kavganın ardından FIA'dan cezasını aldı",
+   "source": "GPblog"
   }
  ]
 }
