@@ -2675,7 +2675,9 @@
   "ed037956c55ab3cc": "2026-10-24T18:50:37.469571+00:00",
   "f4910f03ec07ae5e": "2026-10-24T18:50:37.469571+00:00",
   "8f3546f89dbf137c": "2026-10-24T18:50:37.469571+00:00",
-  "27661e06059daaef": "2026-10-24T18:50:37.469571+00:00"
+  "27661e06059daaef": "2026-10-24T18:50:37.469571+00:00",
+  "1000ed09157d44a6": "2026-10-24T18:55:36.701865+00:00",
+  "7df38449cf9fa268": "2026-10-24T18:55:36.701865+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10989,7 +10991,8 @@
     "Motorsport-Total": "2026-10-24T18:41:28+00:00",
     "AS": "2026-10-24T18:37:15+00:00",
     "Sky Sports F1": "2026-10-24T19:41:00+00:00",
-    "FormulaPassion": "2026-10-24T18:36:46+00:00"
+    "FormulaPassion": "2026-10-24T18:36:46+00:00",
+    "Motorsport Week": "2026-10-24T18:35:49+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11003,9 +11006,10 @@
     "Motorsport-Total": "Wieder Tracklimits-Chaos in FT3: Leclerc Schnellster, aber Bestzeit für Hamilton - Motorsport-Total.com",
     "AS": "Ferrari lo tiene a tiro",
     "Sky Sports F1": "Hamilton fastest from Verstappen ahead of US GP Qualifying",
-    "FormulaPassion": "GP Stati Uniti 2026 – Classifica FP3: Ferrari padrona (per ora): Hamilton 1°, Leclerc 3°. In mezzo c’è sempre Verstappen"
+    "FormulaPassion": "GP Stati Uniti 2026 – Classifica FP3: Ferrari padrona (per ora): Hamilton 1°, Leclerc 3°. In mezzo c’è sempre Verstappen",
+    "Motorsport Week": "F1 2026 US GP – FP3 Results"
    },
-   "last": "2026-10-24T18:50:44.120585+00:00"
+   "last": "2026-10-24T18:55:39.272180+00:00"
   },
   "S1125": {
    "title": "Verstappen says he doesn't read Horner's book",
@@ -11099,9 +11103,22 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-10-24T18:50:44.120595+00:00"
+  },
+  "S1132": {
+   "title": "Hamilton avoids late FP3 clash with Bortoleto, FIA investigates",
+   "first": "2026-10-24T18:55:39.272191+00:00",
+   "sources": {
+    "GPblog": "2026-10-24T18:53:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton narrowly avoids collision late in FP3 as FIA launches investigation"
+   },
+   "last": "2026-10-24T18:55:39.272197+00:00"
   }
  },
- "story_seq": 1131,
+ "story_seq": 1132,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11220,7 +11237,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T18:50:37.469571+00:00",
+ "last_run": "2026-10-24T18:55:36.701865+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11845,6 +11862,11 @@
    "t": "2026-10-24T18:50:47.898519+00:00",
    "title": "Christian Horner: Abu Dhabi 2021, kitabım için mükemmel bir başlangıçtı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-24T18:55:43.871762+00:00",
+   "title": "Hamilton, FP3'te Bortoleto ile kıl payı çarpışmadan kurtuldu",
+   "source": "GPblog"
   }
  ]
 }
