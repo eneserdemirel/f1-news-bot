@@ -2480,7 +2480,9 @@
   "e0c352c58eff91e4": "2026-10-24T12:29:56.892327+00:00",
   "c4e90a49945dd7cb": "2026-10-24T12:45:00.453838+00:00",
   "551fbf23580e7c5a": "2026-10-24T12:49:55.413186+00:00",
-  "48d3bab8f93ea915": "2026-10-24T12:49:55.413186+00:00"
+  "48d3bab8f93ea915": "2026-10-24T12:49:55.413186+00:00",
+  "b0c21fec2264e1c9": "2026-10-24T12:54:56.519435+00:00",
+  "929acca8e98395bc": "2026-10-24T12:54:56.519435+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11051,9 +11053,24 @@
     "GPblog": "Helmut Marko raises major question over George Russell's F1 future title chances"
    },
    "last": "2026-10-24T12:49:59.101914+00:00"
+  },
+  "S1037": {
+   "title": "Anniversary feature on 1976 Japanese GP Hunt-Lauda title decider",
+   "first": "2026-10-24T12:54:59.737040+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T12:50:00+00:00",
+    "Motorsport-Total": "2026-10-24T12:52:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Niki Lauda 'hands' F1 rival world championship glory with stunning decision",
+    "Motorsport-Total": "24. Oktober 1976: Das Drama von Fuji, das James Hunt zum Weltmeister machte - Motorsport-Total.com"
+   },
+   "last": "2026-10-24T12:54:59.737065+00:00"
   }
  },
- "story_seq": 1036,
+ "story_seq": 1037,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11172,7 +11189,7 @@
   ]
  ],
  "calendar_updated": "2026-10-23T22:02:15.644805+00:00",
- "last_run": "2026-10-24T12:49:55.413186+00:00",
+ "last_run": "2026-10-24T12:54:56.519435+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 15:00",
@@ -11617,6 +11634,11 @@
    "t": "2026-10-24T12:50:03.513778+00:00",
    "title": "Lando Norris, soğutma odasındaki kola tartışmasının sonucunu açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-24T12:55:04.450523+00:00",
+   "title": "Niki Lauda, 1976 Japonya GP'de Hunt'a şampiyonluğu bıraktı",
+   "source": "RacingNews365"
   }
  ]
 }
