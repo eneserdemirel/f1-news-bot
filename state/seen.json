@@ -3442,7 +3442,12 @@
   "3482e55036ee4a7b": "2026-10-25T22:48:45.433917+00:00",
   "0258bc2ae079c414": "2026-10-25T22:53:57.967063+00:00",
   "abf9814b517a81db": "2026-10-25T22:53:57.967063+00:00",
-  "0dc851dfac11eb8e": "2026-10-25T22:53:57.967063+00:00"
+  "0dc851dfac11eb8e": "2026-10-25T22:53:57.967063+00:00",
+  "ecfdd442a3281308": "2026-10-25T22:58:44.533370+00:00",
+  "ed72b6ac72a577cd": "2026-10-25T22:58:44.533370+00:00",
+  "97174eff1d6ef7d3": "2026-10-25T22:58:44.533370+00:00",
+  "f6a743734f73cf21": "2026-10-25T22:58:44.533370+00:00",
+  "f69faa40af728739": "2026-10-25T22:58:44.533370+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4022,32 +4027,6 @@
     "GPblog": "F1 drivers face major new track limits challenge at United States Grand Prix"
    },
    "last": "2026-10-24T00:27:57.003535+00:00"
-  },
-  "S886": {
-   "title": "LIV Golf's Scott O'Neil given $6.3M before bankruptcy filing",
-   "first": "2026-10-23T22:57:31.100237+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T22:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LIV Golf's Scott O'Neil given $6.3M before bankruptcy protection filing"
-   },
-   "last": "2026-10-23T22:57:31.100256+00:00"
-  },
-  "S887": {
-   "title": "Mercedes gives verdict on troubled upgrade after key US GP test",
-   "first": "2026-10-23T22:57:31.100262+00:00",
-   "sources": {
-    "Crash.net": "2026-10-23T22:55:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Mercedes drops latest verdict on troublesome F1 upgrade after crunch US GP test"
-   },
-   "last": "2026-10-23T22:57:31.100268+00:00"
   },
   "S888": {
    "title": "Verstappen describes balancing challenge on bumpy Austin circuit",
@@ -12563,15 +12542,17 @@
    "first": "2026-10-25T20:23:49.726359+00:00",
    "sources": {
     "GPblog": "2026-10-25T20:20:00+00:00",
-    "RacingNews365": "2026-10-25T20:26:00+00:00"
+    "RacingNews365": "2026-10-25T20:26:00+00:00",
+    "PlanetF1": "2026-10-25T22:54:46+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Blow for Russell as FIA stewards hand out penalty at United States GP",
-    "RacingNews365": "George Russell handed damaging early United States GP penalty"
+    "RacingNews365": "George Russell handed damaging early United States GP penalty",
+    "PlanetF1": "FIA explains mitigating circumstances behind Russell US GP penalty decision"
    },
-   "last": "2026-10-25T20:33:53.786833+00:00"
+   "last": "2026-10-25T22:58:48.280065+00:00"
   },
   "S1512": {
    "title": "Vikings 16-10 Colts NFL game recap",
@@ -13015,7 +12996,7 @@
    "titles": {
     "ESPN F1": "Hurricanes reach one-year, $3M deal with Alexander Nikishin"
    },
-   "last": "2026-10-25T22:13:56.116345+00:00"
+   "last": "2026-10-25T22:58:48.280026+00:00"
   },
   "S1544": {
    "title": "Verstappen radio rant blames tyres and pit stop after US GP",
@@ -13302,9 +13283,48 @@
     "Crash.net": "George Russell brutally honest after tough US GP: 'It was rubbish'"
    },
    "last": "2026-10-25T22:54:02.460937+00:00"
+  },
+  "S1566": {
+   "title": "Pacers vs. Nets (Oct 25) box score",
+   "first": "2026-10-25T22:58:48.280037+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T22:19:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pacers vs. Nets (25 Oct, 2026) Box Score"
+   },
+   "last": "2026-10-25T22:58:48.280043+00:00"
+  },
+  "S1567": {
+   "title": "Luka Doncic three-pointer against Utah Jazz",
+   "first": "2026-10-25T22:58:48.280047+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T22:19:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic nails the 3-pointer vs. Utah Jazz"
+   },
+   "last": "2026-10-25T22:58:48.280052+00:00"
+  },
+  "S1568": {
+   "title": "Joe Marchant recalled to England squad",
+   "first": "2026-10-25T22:58:48.280055+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T19:09:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Joe Marchant gets England recall as Steve Borthwick faces midfield injury headache"
+   },
+   "last": "2026-10-25T22:58:48.280060+00:00"
   }
  },
- "story_seq": 1565,
+ "story_seq": 1568,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13423,7 +13443,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T22:53:57.967063+00:00",
+ "last_run": "2026-10-25T22:58:44.533370+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14633,6 +14653,11 @@
    "t": "2026-10-25T22:54:08.823218+00:00",
    "title": "Hadjar, Verstappen ile yaşanan gergin anın perde arkasını anlattı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-25T22:58:53.114361+00:00",
+   "title": "FIA, Russell'ın ABD GP cezasındaki hafifletici nedenleri açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
