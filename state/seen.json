@@ -3223,7 +3223,10 @@
   "bb4f4a2375989983": "2026-10-25T16:23:07.710316+00:00",
   "8ee3ccf78800c7a7": "2026-10-25T16:28:13.254932+00:00",
   "ecfec4d497ddd45c": "2026-10-25T16:28:13.254932+00:00",
-  "fd7fb1a46ae9e5a6": "2026-10-25T16:33:10.651828+00:00"
+  "fd7fb1a46ae9e5a6": "2026-10-25T16:33:10.651828+00:00",
+  "32c45755db1e8c13": "2026-10-25T16:38:07.078249+00:00",
+  "ce7551b95f91d01e": "2026-10-25T16:38:07.078249+00:00",
+  "2610def5d56b2568": "2026-10-25T16:38:07.078249+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12581,9 +12584,48 @@
     "Crash.net": "Lewis Hamilton reveals the heartwarming gift he bought for Kim Kardashian's kids"
    },
    "last": "2026-10-25T16:33:12.327892+00:00"
+  },
+  "S1457": {
+   "title": "Italian analysis of US GP tyre strategies with Soft and Medium",
+   "first": "2026-10-25T16:38:11.543183+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-25T16:30:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | GP Stati Uniti, strategie: con poco degrado si va verso un pitstop con Soft e Medium. Viceversa, ecco le Hard"
+   },
+   "last": "2026-10-25T16:38:11.543200+00:00"
+  },
+  "S1458": {
+   "title": "Verstappen could be mathematically eliminated from title fight in Austin",
+   "first": "2026-10-25T16:38:11.543206+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Officiële 'uitschakeling' dreigt voor Verstappen in Austin"
+   },
+   "last": "2026-10-25T16:38:11.543231+00:00"
+  },
+  "S1459": {
+   "title": "Stroll confirmed to start US GP from pit lane after engine changes",
+   "first": "2026-10-25T16:38:11.543236+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T16:34:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Aston Martin pit lane start confirmed at United States Grand Prix"
+   },
+   "last": "2026-10-25T16:38:11.543241+00:00"
   }
  },
- "story_seq": 1456,
+ "story_seq": 1459,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12702,7 +12744,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T16:33:10.651828+00:00",
+ "last_run": "2026-10-25T16:38:07.078249+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13762,6 +13804,16 @@
    "t": "2026-10-25T16:08:11.055358+00:00",
    "title": "Rafael Camara, Antonelli'nin başarısından motivasyon alıyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-25T16:38:18.241668+00:00",
+   "title": "Verstappen, Austin'de matematiksel olarak elenebilir",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-25T16:38:18.786879+00:00",
+   "title": "Stroll, ABD Grand Prix'sinde pit lane'den start alacak",
+   "source": "GPblog"
   }
  ]
 }
