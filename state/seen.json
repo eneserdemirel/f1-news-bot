@@ -3439,7 +3439,10 @@
   "33b865bbeef97c38": "2026-10-25T22:43:49.041851+00:00",
   "61fc78ebc8cc6264": "2026-10-25T22:43:49.041851+00:00",
   "526d2d8e177249b7": "2026-10-25T22:48:45.433917+00:00",
-  "3482e55036ee4a7b": "2026-10-25T22:48:45.433917+00:00"
+  "3482e55036ee4a7b": "2026-10-25T22:48:45.433917+00:00",
+  "0258bc2ae079c414": "2026-10-25T22:53:57.967063+00:00",
+  "abf9814b517a81db": "2026-10-25T22:53:57.967063+00:00",
+  "0dc851dfac11eb8e": "2026-10-25T22:53:57.967063+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12436,7 +12439,7 @@
     "Gazzetta dello Sport": "Formula 1, Kimi Antonelli vince il Gp di Austin: l'ultimo giro. Gli highlights",
     "Sky Sports F1": "United States Grand Prix | Race highlights"
    },
-   "last": "2026-10-25T22:38:52.905555+00:00"
+   "last": "2026-10-25T22:54:02.460945+00:00"
   },
   "S1502": {
    "title": "Hamilton says Austin race will be really tough for Ferrari",
@@ -13273,9 +13276,35 @@
     "GPblog": "Verstappen wants an explanation from Red Bull: “That wasn’t what we agreed”"
    },
    "last": "2026-10-25T22:48:51.181350+00:00"
+  },
+  "S1564": {
+   "title": "Hadjar explains confusion behind radio exchange with Verstappen",
+   "first": "2026-10-25T22:54:02.460905+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T22:51:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hadjar reveals untold details of tense Verstappen moment during US GP"
+   },
+   "last": "2026-10-25T22:54:02.460925+00:00"
+  },
+  "S1565": {
+   "title": "Russell calls US GP pace 'rubbish' and admits confusion",
+   "first": "2026-10-25T22:54:02.460931+00:00",
+   "sources": {
+    "Crash.net": "2026-10-25T22:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "George Russell brutally honest after tough US GP: 'It was rubbish'"
+   },
+   "last": "2026-10-25T22:54:02.460937+00:00"
   }
  },
- "story_seq": 1563,
+ "story_seq": 1565,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13394,7 +13423,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T22:48:45.433917+00:00",
+ "last_run": "2026-10-25T22:53:57.967063+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14593,6 +14622,16 @@
   {
    "t": "2026-10-25T22:48:58.362274+00:00",
    "title": "Verstappen, Red Bull'dan lastik stratejisi için açıklama istiyor",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-25T22:54:08.316405+00:00",
+   "title": "Russell, ABD GP'deki kötü performansı sonrası: 'Berbattı'",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-25T22:54:08.823218+00:00",
+   "title": "Hadjar, Verstappen ile yaşanan gergin anın perde arkasını anlattı",
    "source": "GPblog"
   }
  ]
