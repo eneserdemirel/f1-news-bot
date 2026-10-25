@@ -2938,7 +2938,9 @@
   "54d14e72189283eb": "2026-10-25T01:06:07.828489+00:00",
   "ac9608bbb196d911": "2026-10-25T01:06:07.828489+00:00",
   "4be8176b399e4f08": "2026-10-25T01:06:07.828489+00:00",
-  "ee8f4a964e01fdc8": "2026-10-25T01:11:12.054645+00:00"
+  "ee8f4a964e01fdc8": "2026-10-25T01:11:12.054645+00:00",
+  "7836a61509794f14": "2026-10-25T01:16:06.573634+00:00",
+  "c4fe2264afbed98e": "2026-10-25T01:16:06.573634+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12604,9 +12606,35 @@
     "Sky Sports F1": "'Not realistic' - Can Wolff's assessment of Antonelli's title chance be trusted?"
    },
    "last": "2026-10-25T01:06:10.434399+00:00"
+  },
+  "S1291": {
+   "title": "Josh Hoover and No. 6 Indiana beat Michigan in overtime",
+   "first": "2026-10-25T01:16:09.338400+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-24T19:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Josh Hoover, No. 6 Indiana hold off Michigan for overtime win"
+   },
+   "last": "2026-10-25T01:16:09.338416+00:00"
+  },
+  "S1292": {
+   "title": "Hülkenberg misses Austin top 10 despite slipstream help",
+   "first": "2026-10-25T01:16:09.338421+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-25T01:10:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Trotz Windschatten-Hilfe: Nico Hülkenberg verpasst die Top 10 - Motorsport-Total.com"
+   },
+   "last": "2026-10-25T01:16:09.338425+00:00"
   }
  },
- "story_seq": 1290,
+ "story_seq": 1292,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12725,7 +12753,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T01:11:12.054645+00:00",
+ "last_run": "2026-10-25T01:16:06.573634+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13550,6 +13578,11 @@
    "t": "2026-10-25T01:06:17.074591+00:00",
    "title": "Wolff: Antonelli'nin şampiyonluk şansı \"gerçekçi değil\"",
    "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-10-25T01:16:13.038025+00:00",
+   "title": "Hülkenberg, slipstream desteğine rağmen ilk 10'u kaçırdı",
+   "source": "Motorsport-Total"
   }
  ]
 }
