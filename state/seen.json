@@ -3291,7 +3291,10 @@
   "456af41c8718ef29": "2026-10-25T18:18:11.654908+00:00",
   "16a14222d4947695": "2026-10-25T18:18:11.654908+00:00",
   "644a54bb67cba8c1": "2026-10-25T18:23:05.503999+00:00",
-  "88991c352348c56a": "2026-10-25T18:23:05.503999+00:00"
+  "88991c352348c56a": "2026-10-25T18:23:05.503999+00:00",
+  "6c539abc3f6f02fc": "2026-10-25T18:28:11.905302+00:00",
+  "a4b66344fd97ef5b": "2026-10-25T18:28:11.905302+00:00",
+  "1d5e9f4e0aae4afa": "2026-10-25T18:28:11.905302+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12719,9 +12722,35 @@
     "AS": "Campos Racing levanta otro título y Granada sube al podio"
    },
    "last": "2026-10-25T18:23:08.403823+00:00"
+  },
+  "S1482": {
+   "title": "Verstappen plans to make life difficult for Antonelli in Austin",
+   "first": "2026-10-25T18:28:15.130681+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T18:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen has more than just victory on his mind ahead of United States GP"
+   },
+   "last": "2026-10-25T18:28:15.130699+00:00"
+  },
+  "S1483": {
+   "title": "Mercedes chief admits team doesn't want Antonelli to win in Austin",
+   "first": "2026-10-25T18:28:15.130704+00:00",
+   "sources": {
+    "GPFans": "2026-10-25T18:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Mercedes chief admits team doesn't want Antonelli to win F1 title at US Grand Prix"
+   },
+   "last": "2026-10-25T18:28:15.130710+00:00"
   }
  },
- "story_seq": 1481,
+ "story_seq": 1483,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12840,7 +12869,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T18:23:05.503999+00:00",
+ "last_run": "2026-10-25T18:28:11.905302+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13930,6 +13959,11 @@
    "t": "2026-10-25T18:23:15.324256+00:00",
    "title": "Verstappen'in ABD GP'de Antonelli ve Mercedes'e umut vermesi bekleniyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-25T18:28:21.419241+00:00",
+   "title": "Verstappen, ABD GP öncesi Antonelli'yi zorlamaya kararlı",
+   "source": "GPblog"
   }
  ]
 }
