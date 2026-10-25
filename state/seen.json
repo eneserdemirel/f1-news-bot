@@ -3193,7 +3193,8 @@
   "3b908fa437b724a9": "2026-10-25T14:48:10.157801+00:00",
   "acee6c72344d6a61": "2026-10-25T14:48:10.157801+00:00",
   "27d29ea054315192": "2026-10-25T14:53:08.756058+00:00",
-  "a5b55b5a47ea5879": "2026-10-25T15:03:11.014067+00:00"
+  "a5b55b5a47ea5879": "2026-10-25T15:03:11.014067+00:00",
+  "a0aeaeea4a148ab1": "2026-10-25T15:13:08.775940+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3526,19 +3527,6 @@
     "Formula 1": "LIVE COVERAGE: First practice for the United States GP"
    },
    "last": "2026-10-23T17:21:50.672826+00:00"
-  },
-  "S786": {
-   "title": "Knicks coaches await rings; staffers hit by phishing scam",
-   "first": "2026-10-23T15:11:51.839223+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T15:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Knicks coaches waiting on rings; staffers hit by phishing offer, per report"
-   },
-   "last": "2026-10-23T15:11:51.839241+00:00"
   },
   "S787": {
    "title": "Marko calls Horner's autobiography embarrassing, full of low-level lies",
@@ -12514,9 +12502,22 @@
     "ESPN F1": "DK Metcalf's 51-yard catch sets up a Darnell Washington TD"
    },
    "last": "2026-10-25T14:53:10.153411+00:00"
+  },
+  "S1440": {
+   "title": "Live blog coverage of the 2026 US Grand Prix race",
+   "first": "2026-10-25T15:13:11.544790+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-25T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "F1 GP Stati Uniti 2026, gara: Antonelli dalla pole position per il primo match point, la partenza è alle 21.00 – DIRETTA"
+   },
+   "last": "2026-10-25T15:13:11.544807+00:00"
   }
  },
- "story_seq": 1439,
+ "story_seq": 1440,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12635,7 +12636,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T15:08:06.365763+00:00",
+ "last_run": "2026-10-25T15:13:08.775940+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13660,6 +13661,11 @@
    "t": "2026-10-25T14:48:15.932426+00:00",
    "title": "Alonso, son şampiyonluğunun üzerinden 20 yıl geçmesine rağmen hâlâ aç gözlü görünüyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-25T15:13:19.752264+00:00",
+   "title": "Antonelli, Austin'de pole pozisyonundan başlayacak",
+   "source": "FormulaPassion"
   }
  ]
 }
