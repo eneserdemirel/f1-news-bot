@@ -3120,7 +3120,8 @@
   "5bdd12abe01c1dc4": "2026-10-25T11:02:29.401857+00:00",
   "75ab63b7da966c13": "2026-10-25T11:07:27.072955+00:00",
   "fd7afb6e7251bc9a": "2026-10-25T11:07:27.072955+00:00",
-  "e3db46352e8786ad": "2026-10-25T11:07:27.072955+00:00"
+  "e3db46352e8786ad": "2026-10-25T11:07:27.072955+00:00",
+  "24c28248a52dad0c": "2026-10-25T11:12:30.465070+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12905,9 +12906,22 @@
     "The Race": "2026 Australian Grand Prix MotoGP rider rankings"
    },
    "last": "2026-10-25T11:07:31.977418+00:00"
+  },
+  "S1401": {
+   "title": "Alonso comments on Aston Martin's true pace before US GP",
+   "first": "2026-10-25T11:12:31.932050+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-25T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Fernando Alonso admits Aston Martin’s true pace ahead of F1 US GP"
+   },
+   "last": "2026-10-25T11:12:31.932067+00:00"
   }
  },
- "story_seq": 1400,
+ "story_seq": 1401,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13026,7 +13040,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T11:07:27.072955+00:00",
+ "last_run": "2026-10-25T11:12:30.465070+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13986,6 +14000,11 @@
    "t": "2026-10-25T11:02:43.651604+00:00",
    "title": "Vasseur, Ferrari'nin sıralama turundaki düşüşünü rüzgâra bağlamayı reddetti",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-25T11:12:36.751253+00:00",
+   "title": "Alonso: Aston Martin'in gerçek temposu 13. sıradaki konumunun gerisinde",
+   "source": "Motorsport Week"
   }
  ]
 }
