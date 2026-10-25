@@ -3247,7 +3247,11 @@
   "4842c70a8525191d": "2026-10-25T17:33:08.437937+00:00",
   "31f186777b73246f": "2026-10-25T17:33:08.437937+00:00",
   "ae5dec029bcae98c": "2026-10-25T17:38:05.626500+00:00",
-  "6e441a53ebd19c70": "2026-10-25T17:38:05.626500+00:00"
+  "6e441a53ebd19c70": "2026-10-25T17:38:05.626500+00:00",
+  "1768fa9edcafec6a": "2026-10-25T17:43:09.621176+00:00",
+  "e6d884d7c95e5471": "2026-10-25T17:43:09.621176+00:00",
+  "492b72e5ba499a22": "2026-10-25T17:43:09.621176+00:00",
+  "df593df0382cdfa7": "2026-10-25T17:43:09.621176+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10321,15 +10325,17 @@
    "first": "2026-10-25T02:01:11.487037+00:00",
    "sources": {
     "Formula 1": "2026-10-25T02:01:11.487054+00:00",
-    "GPblog": "2026-10-25T15:15:00+00:00"
+    "GPblog": "2026-10-25T15:15:00+00:00",
+    "FormulaPassion": "2026-10-25T17:16:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "What are the tyre strategy options for the United States GP?",
-    "GPblog": "Max Verstappen holds advantage as Pirelli lay out tyre strategies for US GP"
+    "GPblog": "Max Verstappen holds advantage as Pirelli lay out tyre strategies for US GP",
+    "FormulaPassion": "Strategie Pirelli: per Antonelli una sola sosta da non sbagliare"
    },
-   "last": "2026-10-25T15:18:13.999978+00:00"
+   "last": "2026-10-25T17:43:13.881463+00:00"
   },
   "S1301": {
    "title": "Giannis Antetokounmpo fouls out as Heat fall to 0-3",
@@ -12597,7 +12603,7 @@
    "titles": {
     "ESPN F1": "Oregon has fired offensive coordinator Drew Mehringer. The..."
    },
-   "last": "2026-10-25T17:38:08.352135+00:00"
+   "last": "2026-10-25T17:43:13.881429+00:00"
   },
   "S1471": {
    "title": "Hamilton observes Antonelli as he takes on F1 burden",
@@ -12611,9 +12617,35 @@
     "RacingNews365": "Lewis Hamilton makes Kimi Antonelli observation after assuming huge F1 'burden'"
    },
    "last": "2026-10-25T17:38:08.352148+00:00"
+  },
+  "S1472": {
+   "title": "Liverpool 2-0 Brighton final score",
+   "first": "2026-10-25T17:43:13.881440+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T16:24:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Liverpool 2-0 Brighton (Oct 25, 2026) Final Score"
+   },
+   "last": "2026-10-25T17:43:13.881446+00:00"
+  },
+  "S1473": {
+   "title": "Honda reaches 500th F1 Grand Prix weekend",
+   "first": "2026-10-25T17:43:13.881451+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T17:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Honda's bijzondere route naar 500 Grands Prix"
+   },
+   "last": "2026-10-25T17:43:13.881456+00:00"
   }
  },
- "story_seq": 1471,
+ "story_seq": 1473,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12732,7 +12764,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T17:38:05.626500+00:00",
+ "last_run": "2026-10-25T17:43:09.621176+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13807,6 +13839,11 @@
    "t": "2026-10-25T17:38:14.953734+00:00",
    "title": "Hamilton, Antonelli'nin genç yaşta F1 yükünü üstlenişini övdü",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-25T17:43:18.702556+00:00",
+   "title": "Honda, 500. Formula 1 Grand Prix'sine ulaşıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
