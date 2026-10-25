@@ -2934,7 +2934,10 @@
   "f2f93c0a5ccfa447": "2026-10-25T00:56:05.801225+00:00",
   "0bd01ab25a5bea1a": "2026-10-25T01:01:16.494234+00:00",
   "94372dfd37a5d938": "2026-10-25T01:01:16.494234+00:00",
-  "765976ed1b466e32": "2026-10-25T01:01:16.494234+00:00"
+  "765976ed1b466e32": "2026-10-25T01:01:16.494234+00:00",
+  "54d14e72189283eb": "2026-10-25T01:06:07.828489+00:00",
+  "ac9608bbb196d911": "2026-10-25T01:06:07.828489+00:00",
+  "4be8176b399e4f08": "2026-10-25T01:06:07.828489+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12559,9 +12562,48 @@
     "PlanetF1": "Jeremy Clarkson chastised over controversial Franco Colapinto joke"
    },
    "last": "2026-10-25T01:01:22.590925+00:00"
+  },
+  "S1288": {
+   "title": "Nolan Hauser 49-yard college field goal",
+   "first": "2026-10-25T01:06:10.434367+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T00:57:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nolan Hauser makes 49-yard field goal"
+   },
+   "last": "2026-10-25T01:06:10.434386+00:00"
+  },
+  "S1289": {
+   "title": "Cameran Brown 3-yard college TD pass to DJ Riles",
+   "first": "2026-10-25T01:06:10.434390+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T00:56:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cameran Brown throws 3-yard TD pass to DJ Riles"
+   },
+   "last": "2026-10-25T01:06:10.434394+00:00"
+  },
+  "S1290": {
+   "title": "Wolff says Antonelli's Drivers' title chance is 'not realistic'",
+   "first": "2026-10-25T01:06:10.434396+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-10-25T01:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "'Not realistic' - Can Wolff's assessment of Antonelli's title chance be trusted?"
+   },
+   "last": "2026-10-25T01:06:10.434399+00:00"
   }
  },
- "story_seq": 1287,
+ "story_seq": 1290,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12680,7 +12722,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T01:01:16.494234+00:00",
+ "last_run": "2026-10-25T01:06:07.828489+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13500,6 +13542,11 @@
    "t": "2026-10-25T01:01:28.146769+00:00",
    "title": "Jeremy Clarkson, Franco Colapinto hakkındaki tartışmalı şakası nedeniyle eleştirildi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-25T01:06:17.074591+00:00",
+   "title": "Wolff: Antonelli'nin şampiyonluk şansı \"gerçekçi değil\"",
+   "source": "Sky Sports F1"
   }
  ]
 }
