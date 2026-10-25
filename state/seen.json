@@ -3317,7 +3317,9 @@
   "70964cf38253cba8": "2026-10-25T19:08:43.661776+00:00",
   "569b716da8f3731c": "2026-10-25T19:13:45.744773+00:00",
   "89b4800ac7e0a910": "2026-10-25T19:18:45.266664+00:00",
-  "5da1ba4c38fb0c37": "2026-10-25T19:18:45.266664+00:00"
+  "5da1ba4c38fb0c37": "2026-10-25T19:18:45.266664+00:00",
+  "c9c36b3d04a3ddf3": "2026-10-25T19:23:46.415156+00:00",
+  "e54c9e2a1c4e195a": "2026-10-25T19:23:46.415156+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3824,58 +3826,6 @@
     "GPblog": "Red Bull tests new brakes in Austin to give Max Verstappen an edge"
    },
    "last": "2026-10-24T05:33:40.789024+00:00"
-  },
-  "S836": {
-   "title": "AC Milan condemn racist abuse of Mike Maignan after red card",
-   "first": "2026-10-23T19:22:34.611322+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T18:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AC Milan condemn racist abuse of Mike Maignan after red card vs. Bournemouth"
-   },
-   "last": "2026-10-23T19:22:34.611340+00:00"
-  },
-  "S837": {
-   "title": "Packers linebacker Zaire Franklin out Sunday with shin injury",
-   "first": "2026-10-23T19:22:34.611346+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T16:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Packers linebacker Zaire Franklin out Sunday with shin injury"
-   },
-   "last": "2026-10-23T19:22:34.611352+00:00"
-  },
-  "S838": {
-   "title": "Stephen A. says Sarkisian pacifying Arch Manning",
-   "first": "2026-10-23T19:22:34.611356+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T15:03:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why Stephen A. believes Sarkisian has been 'pacifying' Arch Manning"
-   },
-   "last": "2026-10-23T19:22:34.611361+00:00"
-  },
-  "S839": {
-   "title": "Verstappen was actually fastest in Austin FP1, Leclerc P1 explained",
-   "first": "2026-10-23T19:22:34.611364+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-23T18:37:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Verstappen eigentlich Schnellster: So kam Leclerc in Austin auf Platz 1 - Motorsport-Total.com"
-   },
-   "last": "2026-10-23T19:22:34.611368+00:00"
   },
   "S840": {
    "title": "Cadillac plans to help Herta earn final super licence point",
@@ -12850,9 +12800,35 @@
     "ESPN F1": "Man United are stuck with their underperforming players no matter who's manager"
    },
    "last": "2026-10-25T19:18:48.240568+00:00"
+  },
+  "S1496": {
+   "title": "Who could replace Dave Aranda as Baylor head coach",
+   "first": "2026-10-25T19:23:49.821959+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T17:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Who could replace Aranda at Baylor? What are roster, recruiting priorities?"
+   },
+   "last": "2026-10-25T19:23:49.821978+00:00"
+  },
+  "S1497": {
+   "title": "Red Bull replaces two Verstappen car components before US GP",
+   "first": "2026-10-25T19:23:49.821983+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T19:17:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen’s Red Bull worked on again before race start in Austin"
+   },
+   "last": "2026-10-25T19:23:49.821987+00:00"
   }
  },
- "story_seq": 1495,
+ "story_seq": 1497,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12971,7 +12947,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T19:18:45.266664+00:00",
+ "last_run": "2026-10-25T19:23:46.415156+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14075,6 +14051,11 @@
   {
    "t": "2026-10-25T18:48:54.638480+00:00",
    "title": "Hadjar, US GP öncesi Red Bull'un Antonelli karşısındaki avantajını işaret etti",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-25T19:23:53.207147+00:00",
+   "title": "Verstappen'in Red Bull'u Austin'de yarış öncesi yeniden çalıştı",
    "source": "GPblog"
   }
  ]
