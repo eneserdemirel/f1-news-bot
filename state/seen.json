@@ -3333,7 +3333,8 @@
   "f0c769d4e7d91b94": "2026-10-25T19:43:48.354955+00:00",
   "7d42d2ea1ca997e2": "2026-10-25T19:43:48.354955+00:00",
   "c6080df5c8bfbc60": "2026-10-25T19:48:44.777520+00:00",
-  "787c57064f2417b2": "2026-10-25T19:48:44.777520+00:00"
+  "787c57064f2417b2": "2026-10-25T19:48:44.777520+00:00",
+  "fb5c1e7aaa86f0e3": "2026-10-25T19:53:45.867497+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12847,9 +12848,22 @@
     "Motorsport-Total": "\"Alles gut, alles gut\": Toto Wolff gibt nach Crash von Sohn Jack Entwarnung - Motorsport-Total.com"
    },
    "last": "2026-10-25T19:48:48.372771+00:00"
+  },
+  "S1504": {
+   "title": "Gademan wins again in Austin, moves to second in standings",
+   "first": "2026-10-25T19:53:51.522097+00:00",
+   "sources": {
+    "Formula 1": "2026-10-25T19:53:51.522114+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Gademan grabs second win with assured Austin drive"
+   },
+   "last": "2026-10-25T19:53:51.522117+00:00"
   }
  },
- "story_seq": 1503,
+ "story_seq": 1504,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12968,7 +12982,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T19:48:44.777520+00:00",
+ "last_run": "2026-10-25T19:53:45.867497+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14088,6 +14102,11 @@
    "t": "2026-10-25T19:48:53.192571+00:00",
    "title": "Toto Wolff, oğlu Jack'in kazasının ardından endişeleri giderdi",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-25T19:53:56.867429+00:00",
+   "title": "Gademan, Austin'de sezonun ikinci galibiyetini aldı",
+   "source": "Formula 1"
   }
  ]
 }
