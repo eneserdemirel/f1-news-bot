@@ -3496,7 +3496,12 @@
   "30b7f55725b0a3d3": "2026-10-25T23:48:47.878444+00:00",
   "ccdefc19959c4cc1": "2026-10-25T23:48:47.878444+00:00",
   "894a79eb929348d8": "2026-10-25T23:48:47.878444+00:00",
-  "bdcf9913c5dd5e78": "2026-10-25T23:49:35.907010+00:00"
+  "bdcf9913c5dd5e78": "2026-10-25T23:49:35.907010+00:00",
+  "609ce9119751231a": "2026-10-25T23:54:31.891387+00:00",
+  "912d088636325b61": "2026-10-25T23:54:31.891387+00:00",
+  "1f32a43a007c34d9": "2026-10-25T23:54:31.891387+00:00",
+  "81d73a76e4dcb306": "2026-10-25T23:54:31.891387+00:00",
+  "434e1196c055509d": "2026-10-25T23:54:31.891387+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4095,21 +4100,6 @@
     "Motorsport-Total": "Antonelli sieht Fortschritte: Mercedes kommt mit den Updates besser zurecht - Motorsport-Total.com"
    },
    "last": "2026-10-24T08:54:28.116753+00:00"
-  },
-  "S898": {
-   "title": "Honda left without factory MotoGP riders at Phillip Island",
-   "first": "2026-10-23T23:42:35.092048+00:00",
-   "sources": {
-    "GPblog": "2026-10-23T23:40:00+00:00",
-    "The Race": "2026-10-23T23:49:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Honda left without factory riders at Phillip Island GP as Luca Marini withdraws",
-    "The Race": "Works Honda team runs out of riders for Australian GP"
-   },
-   "last": "2026-10-23T23:52:33.353764+00:00"
   },
   "S900": {
    "title": "Leclerc says Ferrari's Austin upgrades work and balance is key",
@@ -13060,15 +13050,17 @@
    "first": "2026-10-25T22:33:56.395194+00:00",
    "sources": {
     "RacingNews365": "2026-10-25T22:28:00+00:00",
-    "Crash.net": "2026-10-25T23:20:00+00:00"
+    "Crash.net": "2026-10-25T23:20:00+00:00",
+    "PlanetF1": "2026-10-25T23:51:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Toto Wolff reveals sneaky office chat with Kimi Antonelli ahead of USGP victory",
-    "Crash.net": "Toto Wolff reveals what Kimi Antonelli told him before the US Grand Prix"
+    "Crash.net": "Toto Wolff reveals what Kimi Antonelli told him before the US Grand Prix",
+    "PlanetF1": "Wolff lifts the lid on ‘weird’ Kimi Antonelli US GP admission"
    },
-   "last": "2026-10-25T23:23:50.388698+00:00"
+   "last": "2026-10-25T23:54:37.105705+00:00"
   },
   "S1555": {
    "title": "Red Bull's Mekies says Verstappen's Austin race was complicated",
@@ -13303,14 +13295,16 @@
    "title": "Leclerc says he is unlocking F1 2026 car, could have troubled Antonelli",
    "first": "2026-10-25T23:13:49.047889+00:00",
    "sources": {
-    "FormulaPassion": "2026-10-25T22:55:00+00:00"
+    "FormulaPassion": "2026-10-25T22:55:00+00:00",
+    "Motorsport.com Italia": "2026-10-25T23:51:16+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Leclerc: “Passi avanti, mi sto sbloccando con queste F1 2026, partendo più avanti avrei potuto dare fastidio ad Antonelli”"
+    "FormulaPassion": "Leclerc: “Passi avanti, mi sto sbloccando con queste F1 2026, partendo più avanti avrei potuto dare fastidio ad Antonelli”",
+    "Motorsport.com Italia": "F1 | Leclerc: \"Stiamo facendo passi avanti: spero che entro fine anno vinceremo uno, due, tre o cinque GP\""
    },
-   "last": "2026-10-25T23:13:49.047909+00:00"
+   "last": "2026-10-25T23:54:37.105700+00:00"
   },
   "S1573": {
    "title": "Falcons' Kendal Daniels seals win with interception",
@@ -13612,9 +13606,48 @@
     "ESPN F1": "Estadísticas del partido Wildcats vs. Phoenix (24 de Ene., 2027)"
    },
    "last": "2026-10-25T23:49:37.753074+00:00"
+  },
+  "S1596": {
+   "title": "Bledisloe Cup reverts to three-Test format in 2027",
+   "first": "2026-10-25T23:54:37.105656+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T23:52:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bledisloe Cup to revert to three-Test format in 2027"
+   },
+   "last": "2026-10-25T23:54:37.105672+00:00"
+  },
+  "S1597": {
+   "title": "Broncos beat Cardinals 30-16 in NFL recap",
+   "first": "2026-10-25T23:54:37.105678+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T23:46:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Broncos 30-16 Cardinals (Oct 25, 2026) Game Recap"
+   },
+   "last": "2026-10-25T23:54:37.105683+00:00"
+  },
+  "S1598": {
+   "title": "Colts' Steichen not considering benching Daniel Jones",
+   "first": "2026-10-25T23:54:37.105688+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T23:09:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colts' Shane Steichen says he's not considering benching QB Daniel Jones"
+   },
+   "last": "2026-10-25T23:54:37.105694+00:00"
   }
  },
- "story_seq": 1595,
+ "story_seq": 1598,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13733,7 +13766,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T23:49:35.907010+00:00",
+ "last_run": "2026-10-25T23:54:31.891387+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
