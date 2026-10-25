@@ -3167,7 +3167,10 @@
   "18c58884d9dda6a5": "2026-10-25T13:18:06.679408+00:00",
   "5b94a42c34433167": "2026-10-25T13:28:09.971338+00:00",
   "edb907fc0e83245e": "2026-10-25T13:28:09.971338+00:00",
-  "1dd77e0cb63e25f4": "2026-10-25T13:28:09.971338+00:00"
+  "1dd77e0cb63e25f4": "2026-10-25T13:28:09.971338+00:00",
+  "a6d00cee2efad526": "2026-10-25T13:33:07.342573+00:00",
+  "e9f5b561b7e85aa5": "2026-10-25T13:33:07.342573+00:00",
+  "4b4e4d18b324bfff": "2026-10-25T13:33:07.342573+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3622,19 +3625,6 @@
     "ESPN F1": "Men's college hoops teams that gained -- and lost -- most transfer talent"
    },
    "last": "2026-10-23T14:21:52.635898+00:00"
-  },
-  "S764": {
-   "title": "World Series biggest storylines preview (baseball, not F1)",
-   "first": "2026-10-23T13:31:11.353721+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T13:10:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What are the biggest storylines of the World Series?"
-   },
-   "last": "2026-10-23T13:31:11.353741+00:00"
   },
   "S765": {
    "title": "Verstappen cautious about Austin win chances after Singapore double",
@@ -10449,16 +10439,18 @@
    "sources": {
     "PlanetF1": "2026-10-24T23:52:46+00:00",
     "Motorsport.com Italia": "2026-10-25T10:30:15+00:00",
-    "Motorsport-Total": "2026-10-25T08:23:49+00:00"
+    "Motorsport-Total": "2026-10-25T08:23:49+00:00",
+    "GPblog": "2026-10-25T13:32:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Lando Norris slates ‘impossible’ McLaren after tough United States qualifying",
     "Motorsport.com Italia": "F1 | McLaren, quarta fila ad Austin. Norris: \"La macchina più difficile che abbia mai guidato\"",
-    "Motorsport-Total": "Lando Norris nach Austin-Qualifying: \"Albtraum\", den McLaren abzustimmen - Motorsport-Total.com"
+    "Motorsport-Total": "Lando Norris nach Austin-Qualifying: \"Albtraum\", den McLaren abzustimmen - Motorsport-Total.com",
+    "GPblog": "Norris says McLaren had front-row pace but was the hardest car he has ever driven"
    },
-   "last": "2026-10-25T10:47:40.494301+00:00"
+   "last": "2026-10-25T13:33:13.343116+00:00"
   },
   "S1257": {
    "title": "RacingNews365 qualifying review video covering Verstappen and Ocon",
@@ -12729,9 +12721,35 @@
     "GPFans": "Jeremy Clarkson slams F1 celebrity culture with blunt Kim Kardashian verdict"
    },
    "last": "2026-10-25T13:28:12.407052+00:00"
+  },
+  "S1427": {
+   "title": "Leclerc says Ferrari must fix major SF-26 problem after qualifying",
+   "first": "2026-10-25T13:33:13.343081+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T13:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Leclerc zet Ferrari aan het werk na mislukte kwalificatie"
+   },
+   "last": "2026-10-25T13:33:13.343098+00:00"
+  },
+  "S1428": {
+   "title": "Hamilton dismisses COTA bumps concerns, says his back is fine",
+   "first": "2026-10-25T13:33:13.343104+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-25T13:28:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Hamilton dismisses COTA bumps as Verstappen raises concerns over his spine"
+   },
+   "last": "2026-10-25T13:33:13.343110+00:00"
   }
  },
- "story_seq": 1426,
+ "story_seq": 1428,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12850,7 +12868,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T13:28:09.971338+00:00",
+ "last_run": "2026-10-25T13:33:07.342573+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
