@@ -3016,7 +3016,11 @@
   "02f24b81320f05e9": "2026-10-25T05:11:50.590136+00:00",
   "dff679f6cf8a04ed": "2026-10-25T05:11:50.590136+00:00",
   "d4f550c4d87641d7": "2026-10-25T05:11:50.590136+00:00",
-  "d5d22b6e6925f285": "2026-10-25T05:16:49.234257+00:00"
+  "d5d22b6e6925f285": "2026-10-25T05:16:49.234257+00:00",
+  "404d21e149fb808e": "2026-10-25T05:21:51.472061+00:00",
+  "3d69c0f644413846": "2026-10-25T05:21:51.472061+00:00",
+  "227478ddecbb63ed": "2026-10-25T05:21:51.472061+00:00",
+  "524fc2839d9dc3a0": "2026-10-25T05:21:51.472061+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3408,21 +3412,6 @@
    },
    "last": "2026-10-23T14:56:48.593976+00:00"
   },
-  "S616": {
-   "title": "MotoGP Phillip Island practice: crashes and Marquez fastest",
-   "first": "2026-10-23T00:49:41.735114+00:00",
-   "sources": {
-    "The Race": "2026-10-23T00:41:30+00:00",
-    "GPblog": "2026-10-23T05:10:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "The Race": "Phillip Island MotoGP practice: Big crashes and Marquez fastest",
-    "GPblog": "MotoGP Practice Results | Kanagroo and Marquez crash cause red flags"
-   },
-   "last": "2026-10-23T05:20:27.367358+00:00"
-  },
   "S627": {
    "title": "Cavs coach Atkinson comments on failed LeBron deal",
    "first": "2026-10-23T01:49:46.248864+00:00",
@@ -3522,19 +3511,6 @@
     "RacingNews365 NL": "Hamilton grapt met advies voor Antonelli: \"Doe rustig aan!\""
    },
    "last": "2026-10-23T10:01:10.141090+00:00"
-  },
-  "S647": {
-   "title": "Kings 3-2 Islanders NHL game recap",
-   "first": "2026-10-23T05:20:27.367324+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T03:53:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kings 3-2 Islanders (Oct 22, 2026) Game Recap"
-   },
-   "last": "2026-10-23T05:20:27.367342+00:00"
   },
   "S648": {
    "title": "Bezzecchi collision with wallaby and Phillip Island practice top",
@@ -12214,14 +12190,16 @@
    "title": "The Race: winners and losers from US GP qualifying analysis",
    "first": "2026-10-25T00:46:09.464933+00:00",
    "sources": {
-    "The Race": "2026-10-25T00:43:08+00:00"
+    "The Race": "2026-10-25T00:43:08+00:00",
+    "PlanetF1": "2026-10-25T05:16:39+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Winners and losers from US GP F1 qualifying 2026"
+    "The Race": "Winners and losers from US GP F1 qualifying 2026",
+    "PlanetF1": "Winners and losers from the 2026 United States Grand Prix Qualifying"
    },
-   "last": "2026-10-25T00:46:09.464937+00:00"
+   "last": "2026-10-25T05:21:55.705714+00:00"
   },
   "S1281": {
    "title": "Rockets vs. Hawks NBA box score",
@@ -13067,9 +13045,48 @@
     "Auto Motor und Sport": "Formel 1: Warum Audi in Austin auf Punkte hoffen darf"
    },
    "last": "2026-10-25T05:16:51.629933+00:00"
+  },
+  "S1346": {
+   "title": "Flames 4-1 Red Wings NHL game recap",
+   "first": "2026-10-25T05:21:55.705672+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T05:19:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Flames 4-1 Red Wings (25 Oct, 2026) Game Recap"
+   },
+   "last": "2026-10-25T05:21:55.705692+00:00"
+  },
+  "S1347": {
+   "title": "Wild 5-1 Kraken NHL game recap",
+   "first": "2026-10-25T05:21:55.705697+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T05:09:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wild 5-1 Kraken (25 Oct, 2026) Game Recap"
+   },
+   "last": "2026-10-25T05:21:55.705702+00:00"
+  },
+  "S1348": {
+   "title": "Grimsby vs. Stockport live score page",
+   "first": "2026-10-25T05:21:55.705705+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T03:44:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grimsby vs. Stockport (25 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-25T05:21:55.705709+00:00"
   }
  },
- "story_seq": 1345,
+ "story_seq": 1348,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13188,7 +13205,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T05:16:49.234257+00:00",
+ "last_run": "2026-10-25T05:21:51.472061+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
