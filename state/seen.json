@@ -3425,7 +3425,10 @@
   "08df0d6120f24718": "2026-10-25T22:23:44.487447+00:00",
   "211bbee976b10686": "2026-10-25T22:28:46.795263+00:00",
   "35e724383cf3f3ba": "2026-10-25T22:28:46.795263+00:00",
-  "0c3f84d9393a7947": "2026-10-25T22:28:46.795263+00:00"
+  "0c3f84d9393a7947": "2026-10-25T22:28:46.795263+00:00",
+  "30d8522b05c744c3": "2026-10-25T22:33:50.982789+00:00",
+  "35a9af75980beab2": "2026-10-25T22:33:50.982789+00:00",
+  "517e9ad550223189": "2026-10-25T22:33:50.982789+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3996,19 +3999,6 @@
     "FormulaPassion": "La nuova Ferrari piace a Leclerc: è sfida con Max e Kimi"
    },
    "last": "2026-10-23T23:37:31.686678+00:00"
-  },
-  "S879": {
-   "title": "Verstappen says Red Bull dilemma is never easy in Austin practice",
-   "first": "2026-10-23T22:32:28.124481+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-23T22:25:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen in Red Bull-spagaat: \"Dat is nooit makkelijk\""
-   },
-   "last": "2026-10-23T22:32:28.124500+00:00"
   },
   "S880": {
    "title": "Cadillac's Budkowski tight-lipped on Ocon 2027 reserve role",
@@ -12930,7 +12920,8 @@
     "Corriere dello Sport": "2026-10-25T21:40:12+00:00",
     "RacingNews365": "2026-10-25T21:45:00+00:00",
     "GPblog": "2026-10-25T21:59:00+00:00",
-    "FormulaPassion": "2026-10-25T22:05:00+00:00"
+    "FormulaPassion": "2026-10-25T22:05:00+00:00",
+    "Autosport": "2026-10-25T22:31:48+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12938,9 +12929,10 @@
     "Corriere dello Sport": "Antonelli campione del Mondo in Messico se... Tutte le combinazioni per il trionfo di Kimi",
     "RacingNews365": "How Kimi Antonelli can win the F1 title in Mexican Grand Prix",
     "GPblog": "F1 title within reach: What Antonelli needs to become champion in Mexico",
-    "FormulaPassion": "In Messico basteranno due punti ad Antonelli per festeggiare il titolo Mondiale Piloti"
+    "FormulaPassion": "In Messico basteranno due punti ad Antonelli per festeggiare il titolo Mondiale Piloti",
+    "Autosport": "The maths behind Antonelli becoming F1 world champion at Mexico GP"
    },
-   "last": "2026-10-25T22:13:56.116378+00:00"
+   "last": "2026-10-25T22:33:56.395184+00:00"
   },
   "S1534": {
    "title": "Antonelli on verge of breaking F1 record books after Austin win",
@@ -13209,9 +13201,35 @@
     "AS": "Una encerrona en la salida compromete a Sainz"
    },
    "last": "2026-10-25T22:28:49.907700+00:00"
+  },
+  "S1554": {
+   "title": "Wolff shares office chat with Antonelli before Austin win",
+   "first": "2026-10-25T22:33:56.395194+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-25T22:28:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff reveals sneaky office chat with Kimi Antonelli ahead of USGP victory"
+   },
+   "last": "2026-10-25T22:33:56.395200+00:00"
+  },
+  "S1555": {
+   "title": "Red Bull's Mekies says Verstappen's Austin race was complicated",
+   "first": "2026-10-25T22:33:56.395204+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T22:24:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull verklaart 'ingewikkelde' race Verstappen"
+   },
+   "last": "2026-10-25T22:33:56.395208+00:00"
   }
  },
- "story_seq": 1553,
+ "story_seq": 1555,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13330,7 +13348,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T22:28:46.795263+00:00",
+ "last_run": "2026-10-25T22:33:50.982789+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14495,6 +14513,16 @@
    "t": "2026-10-25T22:28:57.100254+00:00",
    "title": "Lindblad'ın hatalı manevrası Sainz'ı zor durumda bıraktı",
    "source": "AS"
+  },
+  {
+   "t": "2026-10-25T22:34:02.600578+00:00",
+   "title": "Red Bull, Verstappen'in zorlu yarışını açıkladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-25T22:34:03.088280+00:00",
+   "title": "Wolff, Antonelli'nin ABD GP öncesi ofisine gelip sakin olduğunu anlattı",
+   "source": "RacingNews365"
   }
  ]
 }
