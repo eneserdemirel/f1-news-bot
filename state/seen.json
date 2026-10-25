@@ -3205,7 +3205,9 @@
   "c509afd78682df53": "2026-10-25T15:38:08.822446+00:00",
   "d8cd8db5571dbc6b": "2026-10-25T15:38:08.822446+00:00",
   "61f398c611a50f22": "2026-10-25T15:48:12.299129+00:00",
-  "b56d842704fc3c05": "2026-10-25T15:53:05.727918+00:00"
+  "b56d842704fc3c05": "2026-10-25T15:53:05.727918+00:00",
+  "98f254260f9657d2": "2026-10-25T15:58:07.069716+00:00",
+  "df0a81ac037e2299": "2026-10-25T15:58:07.069716+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3601,32 +3603,6 @@
     "ESPN F1": "Arsenal's Mikel Arteta admits Bukayo Saka injury signs are 'not good'"
    },
    "last": "2026-10-23T16:31:51.495612+00:00"
-  },
-  "S796": {
-   "title": "Fever president Kelly Krauskopf steps down after second stint",
-   "first": "2026-10-23T15:56:48.111236+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T14:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fever president Kelly Krauskopf steps down after 2nd stint"
-   },
-   "last": "2026-10-23T15:56:48.111253+00:00"
-  },
-  "S797": {
-   "title": "Marko identifies Red Bull's 2026 weak spot in comments",
-   "first": "2026-10-23T15:56:48.111259+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-23T15:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Marko wijst achilleshiel Red Bull aan: \"Typisch!\""
-   },
-   "last": "2026-10-23T15:56:48.111265+00:00"
   },
   "S798": {
    "title": "Ferrari reportedly has standby replacement if Leclerc misses races",
@@ -12559,9 +12535,35 @@
     "Gazzetta dello Sport": "Formula 1"
    },
    "last": "2026-10-25T15:48:14.511683+00:00"
+  },
+  "S1448": {
+   "title": "Gazzetta analysis: Ferrari and Red Bull closer than ever in Austin",
+   "first": "2026-10-25T15:58:11.061382+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-25T15:53:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Ferrari e Red Bull, strategie per migliorarsi lontane, ma ad Austin sono più vicine che mai"
+   },
+   "last": "2026-10-25T15:58:11.061403+00:00"
+  },
+  "S1449": {
+   "title": "Ricciardo plays harmonica for fans, who are delighted",
+   "first": "2026-10-25T15:58:11.061409+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-25T15:53:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Daniel Ricciardo greift zur Mundharmonika: Fans sind begeistert - Motorsport-Total.com"
+   },
+   "last": "2026-10-25T15:58:11.061415+00:00"
   }
  },
- "story_seq": 1447,
+ "story_seq": 1449,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12680,7 +12682,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T15:53:05.727918+00:00",
+ "last_run": "2026-10-25T15:58:07.069716+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13725,6 +13727,11 @@
    "t": "2026-10-25T15:38:16.599448+00:00",
    "title": "Verstappen, Antonelli'nin yaşına rağmen gösterdiği başarıyı övdü",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-25T15:58:15.979102+00:00",
+   "title": "Ferrari ve Red Bull, Austin'de birbirlerine her zamankinden yakın",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
