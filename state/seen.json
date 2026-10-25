@@ -3337,7 +3337,9 @@
   "fb5c1e7aaa86f0e3": "2026-10-25T19:53:45.867497+00:00",
   "da9db4408b773f71": "2026-10-25T19:58:45.134496+00:00",
   "3d0caa43c2ce14cf": "2026-10-25T20:03:47.630616+00:00",
-  "5680fe7cc43e815d": "2026-10-25T20:03:47.630616+00:00"
+  "5680fe7cc43e815d": "2026-10-25T20:03:47.630616+00:00",
+  "a9b644dcbe7ff4d0": "2026-10-25T20:13:46.159501+00:00",
+  "c98f917e30ef2dcd": "2026-10-25T20:13:46.159501+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3870,19 +3872,6 @@
     "Motorsport-Total": "Was hinter dem \"Weniger-als-eine-Zehntel\"-Update von Ferrari steckt - Motorsport-Total.com"
    },
    "last": "2026-10-23T21:42:29.769706+00:00"
-  },
-  "S848": {
-   "title": "Cadillac blames brake failures for early struggles",
-   "first": "2026-10-23T20:12:47.001296+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-23T20:09:10+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Cadillac blame brake failures for continued F1 struggles"
-   },
-   "last": "2026-10-23T20:12:47.001302+00:00"
   },
   "S849": {
    "title": "Newey responds to Horner memoir passages on Renault years",
@@ -12877,9 +12866,35 @@
     "ESPN F1": "Sparta Rotterdam vs. Ajax 25/10/26 - Mira Partido en vivo"
    },
    "last": "2026-10-25T20:03:50.994120+00:00"
+  },
+  "S1507": {
+   "title": "Sixers sit Embiid with plantar fasciitis management",
+   "first": "2026-10-25T20:13:50.963921+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T20:10:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sixers overrule Embiid, sit center with plantar fasciitis management"
+   },
+   "last": "2026-10-25T20:13:50.963939+00:00"
+  },
+  "S1508": {
+   "title": "Antonelli leads at Turn 1 as Verstappen and Leclerc battle at US GP start",
+   "first": "2026-10-25T20:13:50.963945+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T20:07:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen and Leclerc engage thrilling battle as Antonelli makes dream start"
+   },
+   "last": "2026-10-25T20:13:50.963951+00:00"
   }
  },
- "story_seq": 1506,
+ "story_seq": 1508,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12998,7 +13013,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T20:08:45.264049+00:00",
+ "last_run": "2026-10-25T20:13:46.159501+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14123,6 +14138,11 @@
    "t": "2026-10-25T19:53:56.867429+00:00",
    "title": "Gademan, Austin'de sezonun ikinci galibiyetini aldı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-25T20:13:55.971845+00:00",
+   "title": "Verstappen ve Leclerc heyecanlı mücadele verirken Antonelli harika bir start aldı",
+   "source": "GPblog"
   }
  ]
 }
