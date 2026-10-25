@@ -3060,7 +3060,10 @@
   "3dc7e846878caff1": "2026-10-25T07:46:50.961555+00:00",
   "e4c3e0b79df7789b": "2026-10-25T08:01:49.891268+00:00",
   "40c130850ed0c647": "2026-10-25T08:07:57.512473+00:00",
-  "956d61e858fc55f4": "2026-10-25T08:07:57.512473+00:00"
+  "956d61e858fc55f4": "2026-10-25T08:07:57.512473+00:00",
+  "ad90a291bd5c16d4": "2026-10-25T08:18:05.760271+00:00",
+  "5d48fb98cfb9a23f": "2026-10-25T08:18:05.760271+00:00",
+  "409f69d8e62971ca": "2026-10-25T08:18:05.760271+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12922,9 +12925,37 @@
     "PlanetF1": "FIA confirms massive 80-place grid penalty for the United States GP"
    },
    "last": "2026-10-25T08:08:02.808519+00:00"
+  },
+  "S1371": {
+   "title": "How to watch the US GP live on TV",
+   "first": "2026-10-25T08:18:11.630352+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T08:15:00+00:00",
+    "AS": "2026-10-25T08:10:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Zo kijk je de F1 Grand Prix Verenigde Staten live op tv",
+    "AS": "¿A qué hora es el GP de Estados Unidos de F1? TV, horario, cómo y dónde ver la carrera desde Austin en vivo"
+   },
+   "last": "2026-10-25T08:18:11.630384+00:00"
+  },
+  "S1372": {
+   "title": "Hamilton admits Ferrari has significant disadvantage to rivals",
+   "first": "2026-10-25T08:18:11.630373+00:00",
+   "sources": {
+    "GPFans": "2026-10-25T08:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton admits 'significant' Ferrari disadvantage after being blown away by F1 rivals"
+   },
+   "last": "2026-10-25T08:18:11.630378+00:00"
   }
  },
- "story_seq": 1370,
+ "story_seq": 1372,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13043,7 +13074,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T08:13:07.087876+00:00",
+ "last_run": "2026-10-25T08:18:05.760271+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13938,6 +13969,16 @@
    "t": "2026-10-25T08:08:08.320861+00:00",
    "title": "Bortoleto, ABD GP'de 80 sıra cezası aldı, grid'in en sonundan başlayacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-25T08:18:17.463762+00:00",
+   "title": "Verstappen ve Antonelli'nin ABD GP'de şampiyonluk mücadelesi, Viaplay'de canlı izleme",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-25T08:18:17.839395+00:00",
+   "title": "Hamilton: Ferrari, Mercedes ve Red Bull'a karşı önemli bir dezavantajda",
+   "source": "GPFans"
   }
  ]
 }
