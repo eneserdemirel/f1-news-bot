@@ -3136,7 +3136,10 @@
   "295d101c56e97898": "2026-10-25T11:37:30.495105+00:00",
   "b2d008a098d1fe93": "2026-10-25T11:37:30.495105+00:00",
   "209dfd6ebf27a86d": "2026-10-25T11:37:30.495105+00:00",
-  "4761b3e7a2afb811": "2026-10-25T11:37:30.495105+00:00"
+  "4761b3e7a2afb811": "2026-10-25T11:37:30.495105+00:00",
+  "86132eabbb9c3e74": "2026-10-25T11:42:27.233499+00:00",
+  "4e1fbfe650f2c2c0": "2026-10-25T11:42:27.233499+00:00",
+  "2e8c0ced2f7d7cb0": "2026-10-25T11:42:27.233499+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3648,32 +3651,6 @@
     "ESPN F1": "2026 CFB Player Rank - The top 25 players at midseason"
    },
    "last": "2026-10-23T11:46:09.314949+00:00"
-  },
-  "S729": {
-   "title": "FIA announces ban on hidden development war for 2027",
-   "first": "2026-10-23T11:41:25.346062+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-23T11:35:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Why the FIA has announced it is banning a hidden F1 development war in 2027"
-   },
-   "last": "2026-10-23T11:41:25.346067+00:00"
-  },
-  "S730": {
-   "title": "Ferrari drivers downplay Austin upgrade worth half a tenth",
-   "first": "2026-10-23T11:41:25.346070+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-23T11:35:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ferrari-Piloten relativieren Austin-Update: Bringt eine halbe Zehntelsekunde - Motorsport-Total.com"
-   },
-   "last": "2026-10-23T11:41:25.346075+00:00"
   },
   "S731": {
    "title": "Rays-Brewers World Series preview and odds",
@@ -12893,14 +12870,14 @@
    "title": "Cam Skattebo expected to resume lead RB role for Giants",
    "first": "2026-10-25T11:22:31.000329+00:00",
    "sources": {
-    "ESPN F1": "2026-10-25T11:18:00+00:00"
+    "ESPN F1": "2026-10-25T11:12:41+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Sources: Cam Skattebo expected to resume role as Giants' lead RB vs. Texans"
    },
-   "last": "2026-10-25T11:22:31.000334+00:00"
+   "last": "2026-10-25T11:42:30.421100+00:00"
   },
   "S1404": {
    "title": "Leclerc's untelevised rant over tyres after Austin qualifying",
@@ -12992,9 +12969,35 @@
     "Motorsport-Total": "Party-Plan gegen den Teamkollegen: So will Russell Antonellis WM verhindern - Motorsport-Total.com"
    },
    "last": "2026-10-25T11:37:34.579988+00:00"
+  },
+  "S1411": {
+   "title": "Derrick Henry mentors Jets RB Braelon Allen",
+   "first": "2026-10-25T11:42:30.421111+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T10:25:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Derrick Henry has taken Jets RB Braelon Allen under his wing"
+   },
+   "last": "2026-10-25T11:42:30.421117+00:00"
+  },
+  "S1412": {
+   "title": "Bortoleto pulls down Hülkenberg's trousers in front of fans",
+   "first": "2026-10-25T11:42:30.421121+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-25T11:36:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Fiese Aktion! Bortoleto zieht Audi-Kollege Hülkenberg vor Fans die Hose herunter - Motorsport-Total.com"
+   },
+   "last": "2026-10-25T11:42:30.421127+00:00"
   }
  },
- "story_seq": 1410,
+ "story_seq": 1412,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13113,7 +13116,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T11:37:30.495105+00:00",
+ "last_run": "2026-10-25T11:42:27.233499+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -14093,6 +14096,11 @@
    "t": "2026-10-25T11:32:34.895670+00:00",
    "title": "Alonso: \"Sürpriz bir olumlu gelişme, daha az acı çekiyoruz\"",
    "source": "AS"
+  },
+  {
+   "t": "2026-10-25T11:42:33.907996+00:00",
+   "title": "Bortoleto, Audi takım arkadaşı Hülkenberg'i taraftarların önünde şaka yaparak pantolonunu indirdi",
+   "source": "Motorsport-Total"
   }
  ]
 }
