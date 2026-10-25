@@ -3058,7 +3058,9 @@
   "5f66e3b5f7a2b2fe": "2026-10-25T07:36:52.064750+00:00",
   "acadb9eeacb2d9b9": "2026-10-25T07:41:51.416533+00:00",
   "3dc7e846878caff1": "2026-10-25T07:46:50.961555+00:00",
-  "e4c3e0b79df7789b": "2026-10-25T08:01:49.891268+00:00"
+  "e4c3e0b79df7789b": "2026-10-25T08:01:49.891268+00:00",
+  "40c130850ed0c647": "2026-10-25T08:07:57.512473+00:00",
+  "956d61e858fc55f4": "2026-10-25T08:07:57.512473+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12907,9 +12909,35 @@
     "RacingNews365 NL": "Verstappen countert circuitbaas Austin: \"Dan kan hij niet meer lopen!\""
    },
    "last": "2026-10-25T08:01:52.440563+00:00"
+  },
+  "S1369": {
+   "title": "Colapinto's management condemns Clarkson's remark as unacceptable",
+   "first": "2026-10-25T08:08:02.808494+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-25T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Jeremy Clarkson branded 'unacceptable' after Franco Colapinto remark"
+   },
+   "last": "2026-10-25T08:08:02.808507+00:00"
+  },
+  "S1370": {
+   "title": "FIA confirms 80-place grid penalty for US GP",
+   "first": "2026-10-25T08:08:02.808513+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-25T08:04:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA confirms massive 80-place grid penalty for the United States GP"
+   },
+   "last": "2026-10-25T08:08:02.808519+00:00"
   }
  },
- "story_seq": 1368,
+ "story_seq": 1370,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13028,7 +13056,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T08:03:03.934834+00:00",
+ "last_run": "2026-10-25T08:07:57.512473+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13918,6 +13946,11 @@
    "t": "2026-10-25T08:01:58.621861+00:00",
    "title": "Verstappen, Austin pistindeki hobbeleri sert sözlerle eleştirdi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-25T08:08:08.320861+00:00",
+   "title": "Bortoleto, ABD GP'de 80 sıra cezası aldı, grid'in en sonundan başlayacak",
+   "source": "PlanetF1"
   }
  ]
 }
