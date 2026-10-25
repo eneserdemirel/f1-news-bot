@@ -3391,7 +3391,13 @@
   "4b92a52012ccc1be": "2026-10-25T21:53:52.764581+00:00",
   "98059195a9bf525c": "2026-10-25T21:53:52.764581+00:00",
   "b74527e404b8805e": "2026-10-25T21:53:52.764581+00:00",
-  "3521112a721f61b5": "2026-10-25T21:53:52.764581+00:00"
+  "3521112a721f61b5": "2026-10-25T21:53:52.764581+00:00",
+  "8564ad96e9ab0fdb": "2026-10-25T21:58:45.966032+00:00",
+  "ac0657ccee74faf7": "2026-10-25T21:58:45.966032+00:00",
+  "80ccfdf3ea5e8833": "2026-10-25T21:58:45.966032+00:00",
+  "bca707da3cfb93fc": "2026-10-25T21:58:45.966032+00:00",
+  "601a26101715ed51": "2026-10-25T21:58:45.966032+00:00",
+  "31dd30ff36b82ae3": "2026-10-25T21:58:45.966032+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12486,7 +12492,9 @@
     "Crash.net": "2026-10-25T21:41:56+00:00",
     "AS": "2026-10-25T21:41:38+00:00",
     "RacingNews365": "2026-10-25T21:40:00+00:00",
-    "Motorsport-Total": "2026-10-25T21:42:36+00:00"
+    "Motorsport-Total": "2026-10-25T21:42:36+00:00",
+    "Formula 1": "2026-10-25T21:58:53.051595+00:00",
+    "Motorsport.com Italia": "2026-10-25T21:50:02+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12499,9 +12507,11 @@
     "Crash.net": "Kimi Antonelli takes US Grand Prix win but made to wait for F1 title",
     "AS": "Victoria de casi campeón",
     "RacingNews365": "2026 F1 United States Grand Prix - Austin results",
-    "Motorsport-Total": "Kimi Antonelli gewinnt in Austin: Jetzt fehlen nur noch zwei Punkte! - Motorsport-Total.com"
+    "Motorsport-Total": "Kimi Antonelli gewinnt in Austin: Jetzt fehlen nur noch zwei Punkte! - Motorsport-Total.com",
+    "Formula 1": "Antonelli surges to dominant victory in United States GP",
+    "Motorsport.com Italia": "F1 | Antonelli domina ad Austin ed è a un passo dal titolo. A podio Leclerc e Verstappen"
    },
-   "last": "2026-10-25T21:53:58.721184+00:00"
+   "last": "2026-10-25T21:58:53.051643+00:00"
   },
   "S1502": {
    "title": "Hamilton says Austin race will be really tough for Ferrari",
@@ -12967,9 +12977,61 @@
     "RacingNews365": "2026 F1 championship standings after the United States Grand Prix"
    },
    "last": "2026-10-25T21:53:58.721152+00:00"
+  },
+  "S1537": {
+   "title": "Texas' Trevor Goosby suffers season-ending knee injury",
+   "first": "2026-10-25T21:58:53.051616+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T21:49:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources -- Texas' Trevor Goosby has season-ending knee injury"
+   },
+   "last": "2026-10-25T21:58:53.051622+00:00"
+  },
+  "S1538": {
+   "title": "Connelly column on college football Week 8 winners and losers",
+   "first": "2026-10-25T21:58:53.051626+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T21:33:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Connelly on Week 8: Who in college football can -- and can't -- be trusted"
+   },
+   "last": "2026-10-25T21:58:53.051630+00:00"
+  },
+  "S1539": {
+   "title": "Michael Carrick unsure about Man United future after Bournemouth loss",
+   "first": "2026-10-25T21:58:53.051634+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T17:59:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Carrick unsure on Man United future after wretched Bournemouth defeat"
+   },
+   "last": "2026-10-25T21:58:53.051637+00:00"
+  },
+  "S1540": {
+   "title": "Verstappen seeks answers after third place in US GP",
+   "first": "2026-10-25T21:58:53.051646+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T21:52:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen zoekt naar antwoorden: \"Dat pakte niet goed uit\""
+   },
+   "last": "2026-10-25T21:58:53.051649+00:00"
   }
  },
- "story_seq": 1536,
+ "story_seq": 1540,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13088,7 +13150,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T21:53:52.764581+00:00",
+ "last_run": "2026-10-25T21:58:45.966032+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14233,6 +14295,11 @@
    "t": "2026-10-25T21:44:07.730967+00:00",
    "title": "Antonelli, Meksika'da şampiyonluğu garantileyebilir",
    "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-10-25T21:58:59.469128+00:00",
+   "title": "Verstappen cevap arıyor: \"Bu sefer iyi sonuç vermedi\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
