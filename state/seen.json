@@ -3289,7 +3289,9 @@
   "732ac2746bb50647": "2026-10-25T18:13:09.530774+00:00",
   "04b5c378431aa742": "2026-10-25T18:18:11.654908+00:00",
   "456af41c8718ef29": "2026-10-25T18:18:11.654908+00:00",
-  "16a14222d4947695": "2026-10-25T18:18:11.654908+00:00"
+  "16a14222d4947695": "2026-10-25T18:18:11.654908+00:00",
+  "644a54bb67cba8c1": "2026-10-25T18:23:05.503999+00:00",
+  "88991c352348c56a": "2026-10-25T18:23:05.503999+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3704,19 +3706,6 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-10-24T03:48:42.054530+00:00"
-  },
-  "S824": {
-   "title": "Drivers explain why they love the Austin circuit",
-   "first": "2026-10-23T18:21:51.814563+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-23T18:18:36+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "\"Aufregendste Strecke der Saison\": Warum die Formel-1-Fahrer Austin lieben - Motorsport-Total.com"
-   },
-   "last": "2026-10-23T18:21:51.814581+00:00"
   },
   "S825": {
    "title": "Leclerc tops Austin FP1 as Ferrari upgrades show early promise",
@@ -12704,9 +12693,35 @@
     "ESPN F1": "Monaco 1-1 Lille (Oct 25, 2026) Player Stats"
    },
    "last": "2026-10-25T18:18:14.517038+00:00"
+  },
+  "S1480": {
+   "title": "Verstappen seen as key to Hamilton and Russell's title hopes",
+   "first": "2026-10-25T18:23:08.403782+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-25T18:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen backed to hand Lewis Hamilton and George Russell a stay of execution"
+   },
+   "last": "2026-10-25T18:23:08.403808+00:00"
+  },
+  "S1481": {
+   "title": "Campos Racing and Palmowski win Austin support-series title",
+   "first": "2026-10-25T18:23:08.403817+00:00",
+   "sources": {
+    "AS": "2026-10-25T18:01:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "Campos Racing levanta otro título y Granada sube al podio"
+   },
+   "last": "2026-10-25T18:23:08.403823+00:00"
   }
  },
- "story_seq": 1479,
+ "story_seq": 1481,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12825,7 +12840,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T18:18:11.654908+00:00",
+ "last_run": "2026-10-25T18:23:05.503999+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13910,6 +13925,11 @@
    "t": "2026-10-25T17:48:15.052077+00:00",
    "title": "Schumacher, Antonelli'ye uyarıda bulundu: Büyüklük için kanıtlaması gerek",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-25T18:23:15.324256+00:00",
+   "title": "Verstappen'in ABD GP'de Antonelli ve Mercedes'e umut vermesi bekleniyor",
+   "source": "RacingNews365"
   }
  ]
 }
