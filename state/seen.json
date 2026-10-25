@@ -3451,7 +3451,9 @@
   "71e037294955ecea": "2026-10-25T23:03:49.038652+00:00",
   "dcb8f8753de5b8ae": "2026-10-25T23:03:49.038652+00:00",
   "6aecc07a97ddb935": "2026-10-25T23:08:46.529754+00:00",
-  "90859baaa41fc2e0": "2026-10-25T23:08:46.529754+00:00"
+  "90859baaa41fc2e0": "2026-10-25T23:08:46.529754+00:00",
+  "84db996a8c34658b": "2026-10-25T23:13:46.030307+00:00",
+  "e544a6e0d401b4eb": "2026-10-25T23:13:46.030307+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4076,19 +4078,6 @@
     "RacingNews365 NL": "Norris in zak en as: \"Staan een stap achter Red Bull en Ferrari\""
    },
    "last": "2026-10-24T07:09:26.963266+00:00"
-  },
-  "S892": {
-   "title": "Analysis of why Ferrari are favourites for Austin GP",
-   "first": "2026-10-23T23:12:27.458967+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-23T23:07:16+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Warum Ferrari auf einmal Top-Favorit in Austin ist"
-   },
-   "last": "2026-10-23T23:12:27.458973+00:00"
   },
   "S893": {
    "title": "Newey says Honda are behind, cites Aston Martin progress buzz",
@@ -13354,9 +13343,22 @@
     "Motorsport.com Italia": "F1 | Antonelli, il titolo è a due punti: \"Vediamo i frutti delle novità. Ora vogliamo chiudere in bellezza\""
    },
    "last": "2026-10-25T23:08:50.289992+00:00"
+  },
+  "S1572": {
+   "title": "Leclerc says he is unlocking F1 2026 car, could have troubled Antonelli",
+   "first": "2026-10-25T23:13:49.047889+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-25T22:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Leclerc: “Passi avanti, mi sto sbloccando con queste F1 2026, partendo più avanti avrei potuto dare fastidio ad Antonelli”"
+   },
+   "last": "2026-10-25T23:13:49.047909+00:00"
   }
  },
- "story_seq": 1571,
+ "story_seq": 1572,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13475,7 +13477,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T23:08:46.529754+00:00",
+ "last_run": "2026-10-25T23:13:46.030307+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14695,6 +14697,11 @@
    "t": "2026-10-25T23:03:57.577718+00:00",
    "title": "Antonelli, ABD GP'sini kazanarak şampiyonluğa yaklaştı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-25T23:13:57.424513+00:00",
+   "title": "Leclerc: Yeni F1 2026 araçlarında kendimi buluyorum, Antonelli'ye zorluk çıkarabilirdim",
+   "source": "FormulaPassion"
   }
  ]
 }
