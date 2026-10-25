@@ -3198,7 +3198,10 @@
   "946a7b96df894aad": "2026-10-25T15:18:11.285053+00:00",
   "0405929f96a991ce": "2026-10-25T15:18:11.285053+00:00",
   "7a67104fbd8139e6": "2026-10-25T15:28:08.501969+00:00",
-  "3712c06378a8e897": "2026-10-25T15:28:08.501969+00:00"
+  "3712c06378a8e897": "2026-10-25T15:28:08.501969+00:00",
+  "6aeb7009e665446a": "2026-10-25T15:33:04.899735+00:00",
+  "ecb8b7ef41e980e7": "2026-10-25T15:33:04.899735+00:00",
+  "4f3b67a57144dea3": "2026-10-25T15:33:04.899735+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12534,9 +12537,35 @@
     "GPFans": "F1 fan killed in horror hit-and-run in Texas never got to meet his baby son"
    },
    "last": "2026-10-25T15:28:11.028303+00:00"
+  },
+  "S1443": {
+   "title": "Jalen Duren out at least two weeks with hamstring strain",
+   "first": "2026-10-25T15:33:08.200250+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T15:18:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pistons C Jalen Duren out at least two weeks with hamstring strain"
+   },
+   "last": "2026-10-25T15:33:08.200269+00:00"
+  },
+  "S1444": {
+   "title": "Sunday morning weather forecast for Austin US GP",
+   "first": "2026-10-25T15:33:08.200275+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-25T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Sunday morning Austin weather update for F1 United States GP"
+   },
+   "last": "2026-10-25T15:33:08.200281+00:00"
   }
  },
- "story_seq": 1442,
+ "story_seq": 1444,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12655,7 +12684,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T15:28:08.501969+00:00",
+ "last_run": "2026-10-25T15:33:04.899735+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13690,6 +13719,11 @@
    "t": "2026-10-25T15:28:15.385354+00:00",
    "title": "F1 hayranı Teksas'ta hit-and-run kazasında hayatını kaybetti, bebek oğlunu hiç göremedi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-25T15:33:14.539701+00:00",
+   "title": "2026 ABD GP öncesi Austin hava durumu: rüzgar ve sıcaklık",
+   "source": "RacingNews365"
   }
  ]
 }
