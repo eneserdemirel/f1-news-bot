@@ -3201,7 +3201,9 @@
   "3712c06378a8e897": "2026-10-25T15:28:08.501969+00:00",
   "6aeb7009e665446a": "2026-10-25T15:33:04.899735+00:00",
   "ecb8b7ef41e980e7": "2026-10-25T15:33:04.899735+00:00",
-  "4f3b67a57144dea3": "2026-10-25T15:33:04.899735+00:00"
+  "4f3b67a57144dea3": "2026-10-25T15:33:04.899735+00:00",
+  "c509afd78682df53": "2026-10-25T15:38:08.822446+00:00",
+  "d8cd8db5571dbc6b": "2026-10-25T15:38:08.822446+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12563,9 +12565,35 @@
     "RacingNews365": "Sunday morning Austin weather update for F1 United States GP"
    },
    "last": "2026-10-25T15:33:08.200281+00:00"
+  },
+  "S1445": {
+   "title": "Inter Milan 2-1 Fiorentina team stats page",
+   "first": "2026-10-25T15:38:11.160825+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T12:05:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Inter Milan 2-1 Fiorentina (Oct 25, 2026) Team Stats"
+   },
+   "last": "2026-10-25T15:38:11.160842+00:00"
+  },
+  "S1446": {
+   "title": "Verstappen praises Antonelli's maturity as he nears F1 title",
+   "first": "2026-10-25T15:38:11.160848+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen maakt diepe buiging voor Antonelli: \"Zo knap op die leeftijd!\""
+   },
+   "last": "2026-10-25T15:38:11.160854+00:00"
   }
  },
- "story_seq": 1444,
+ "story_seq": 1446,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12684,7 +12712,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T15:33:04.899735+00:00",
+ "last_run": "2026-10-25T15:38:08.822446+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13724,6 +13752,11 @@
    "t": "2026-10-25T15:33:14.539701+00:00",
    "title": "2026 ABD GP öncesi Austin hava durumu: rüzgar ve sıcaklık",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-25T15:38:16.599448+00:00",
+   "title": "Verstappen, Antonelli'nin yaşına rağmen gösterdiği başarıyı övdü",
+   "source": "RacingNews365 NL"
   }
  ]
 }
