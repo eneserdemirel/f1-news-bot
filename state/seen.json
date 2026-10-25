@@ -3321,7 +3321,10 @@
   "c9c36b3d04a3ddf3": "2026-10-25T19:23:46.415156+00:00",
   "e54c9e2a1c4e195a": "2026-10-25T19:23:46.415156+00:00",
   "90bfb041a4f5d1c7": "2026-10-25T19:28:43.291284+00:00",
-  "fcfbc1fedd274f2c": "2026-10-25T19:28:43.291284+00:00"
+  "fcfbc1fedd274f2c": "2026-10-25T19:28:43.291284+00:00",
+  "567cca61745a8fe1": "2026-10-25T19:33:47.883877+00:00",
+  "b1d7332771b8ec38": "2026-10-25T19:33:47.883877+00:00",
+  "dc43ed7bd8575973": "2026-10-25T19:33:47.883877+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3841,19 +3844,6 @@
     "GPblog": "Cadillac wants to help Herta earn the final point for an F1 super licence"
    },
    "last": "2026-10-24T00:27:57.003582+00:00"
-  },
-  "S841": {
-   "title": "Wolff says updated Mercedes is nervous and they don't know why",
-   "first": "2026-10-23T19:32:34.612054+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-23T19:28:26+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "La Mercedes aggiornata è ‘nervosa’, anche Wolff è preoccupato: “Abbiamo sbagliato e non sappiamo dove”"
-   },
-   "last": "2026-10-23T19:32:34.612059+00:00"
   },
   "S842": {
    "title": "Live coverage of US GP FP2 practice session",
@@ -11779,14 +11769,16 @@
    "title": "Sainz jokes about Austin bumps needing ibuprofen",
    "first": "2026-10-25T12:07:35.252940+00:00",
    "sources": {
-    "FormulaPassion": "2026-10-25T12:00:00+00:00"
+    "FormulaPassion": "2026-10-25T12:00:00+00:00",
+    "GPblog": "2026-10-25T19:28:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Sainz: “Dossi come la Dakar, serve l’ibuprofene…” e Hamilton scherza: “Ho 41 anni e la mia schiena sta benissimo”"
+    "FormulaPassion": "Sainz: “Dossi come la Dakar, serve l’ibuprofene…” e Hamilton scherza: “Ho 41 anni e la mia schiena sta benissimo”",
+    "GPblog": "Another F1 driver joins Verstappen in needing painkillers to cope with Austin bumps"
    },
-   "last": "2026-10-25T12:07:35.252944+00:00"
+   "last": "2026-10-25T19:33:51.593220+00:00"
   },
   "S1419": {
    "title": "Hamilton predicts Red Bulls and Ferraris hard to beat in Austin",
@@ -12072,7 +12064,8 @@
     "RacingNews365 NL": "2026-10-25T19:00:00+00:00",
     "GPblog": "2026-10-25T19:01:00+00:00",
     "Crash.net": "2026-10-25T19:00:00+00:00",
-    "AS": "2026-10-25T19:12:01+00:00"
+    "AS": "2026-10-25T19:12:01+00:00",
+    "PlanetF1": "2026-10-25T19:32:32+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12084,9 +12077,10 @@
     "RacingNews365 NL": "Live race F1 GP Verenigde Staten 2026",
     "GPblog": "F1 LIVE | Follow the F1 United States Grand Prix here",
     "Crash.net": "F1 United States Grand Prix LIVE: Race updates from COTA",
-    "AS": "Carrera GP Estados Unidos F1, en directo: última hora de Alonso y Sainz hoy en Austin, en vivo"
+    "AS": "Carrera GP Estados Unidos F1, en directo: última hora de Alonso y Sainz hoy en Austin, en vivo",
+    "PlanetF1": "United States GP LIVE: Race updates through all 56 laps in Austin"
    },
-   "last": "2026-10-25T19:13:48.574252+00:00"
+   "last": "2026-10-25T19:33:51.593214+00:00"
   },
   "S1441": {
    "title": "NFL execs rank top five MVP candidates entering Week 7",
@@ -12830,9 +12824,22 @@
     "GPblog": "Verstappen’s Red Bull worked on again before race start in Austin"
    },
    "last": "2026-10-25T19:23:49.821987+00:00"
+  },
+  "S1498": {
+   "title": "Lommel SK vs KAA Gent live score page",
+   "first": "2026-10-25T19:33:51.593164+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T18:25:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lommel SK vs. KAA Gent (Nov 1, 2026) Live Score"
+   },
+   "last": "2026-10-25T19:33:51.593207+00:00"
   }
  },
- "story_seq": 1497,
+ "story_seq": 1498,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12951,7 +12958,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T19:28:43.291284+00:00",
+ "last_run": "2026-10-25T19:33:47.883877+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
