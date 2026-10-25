@@ -2944,7 +2944,8 @@
   "0044a26bf4ad4f37": "2026-10-25T01:26:06.572896+00:00",
   "a385d23cf7c63f5d": "2026-10-25T01:31:09.666252+00:00",
   "b0eb88cccb5d5de5": "2026-10-25T01:36:05.871740+00:00",
-  "58db1b691b52e062": "2026-10-25T01:36:05.871740+00:00"
+  "58db1b691b52e062": "2026-10-25T01:36:05.871740+00:00",
+  "87083ae0ed25616c": "2026-10-25T01:41:17.151409+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12573,9 +12574,22 @@
     "The Race": "Why another Ferrari pole bid faltered"
    },
    "last": "2026-10-25T01:36:09.718781+00:00"
+  },
+  "S1296": {
+   "title": "Albon fears disc problems from extreme Austin bumps",
+   "first": "2026-10-25T01:41:19.165533+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-25T01:36:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Wegen extremer Bodenwellen in Austin: Albon fürchtet Bandscheiben-Probleme - Motorsport-Total.com"
+   },
+   "last": "2026-10-25T01:41:19.165551+00:00"
   }
  },
- "story_seq": 1295,
+ "story_seq": 1296,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12694,7 +12708,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T01:36:05.871740+00:00",
+ "last_run": "2026-10-25T01:41:17.151409+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13523,6 +13537,11 @@
   {
    "t": "2026-10-25T01:16:13.038025+00:00",
    "title": "Hülkenberg, slipstream desteğine rağmen ilk 10'u kaçırdı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-25T01:41:22.559384+00:00",
+   "title": "Albon, Austin'deki aşırı zıplayan pist yüzeyinden bel fıtığı riski nedeniyle endişeli",
    "source": "Motorsport-Total"
   }
  ]
