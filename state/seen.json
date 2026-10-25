@@ -3064,7 +3064,9 @@
   "ad90a291bd5c16d4": "2026-10-25T08:18:05.760271+00:00",
   "5d48fb98cfb9a23f": "2026-10-25T08:18:05.760271+00:00",
   "409f69d8e62971ca": "2026-10-25T08:18:05.760271+00:00",
-  "f20e95ae010f4915": "2026-10-25T08:37:55.477842+00:00"
+  "f20e95ae010f4915": "2026-10-25T08:37:55.477842+00:00",
+  "52c9757ff23b3fb3": "2026-10-25T08:43:04.148616+00:00",
+  "aa4f6a1009def161": "2026-10-25T08:43:04.148616+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3544,19 +3546,6 @@
     "GPFans": "Max Verstappen slams 'nonsense' debate started by Red Bull team-mate"
    },
    "last": "2026-10-24T14:59:58.302477+00:00"
-  },
-  "S691": {
-   "title": "Betting picks and race outlook for Austin Grand Prix",
-   "first": "2026-10-23T08:40:28.443769+00:00",
-   "sources": {
-    "Formula 1": "2026-10-23T08:40:28.443786+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "What could turn the race on its head in Austin?"
-   },
-   "last": "2026-10-23T08:40:28.443790+00:00"
   },
   "S692": {
    "title": "Norris says McLaren drivers still allowed to race each other",
@@ -11169,16 +11158,18 @@
    "sources": {
     "Autosport": "2026-10-24T23:26:49+00:00",
     "Formula 1": "2026-10-24T23:51:10.318000+00:00",
-    "Crash.net": "2026-10-25T01:05:42+00:00"
+    "Crash.net": "2026-10-25T01:05:42+00:00",
+    "RacingNews365 NL": "2026-10-25T08:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Norris frustrated after United States GP qualifying: \"I did a very bad job\"",
     "Formula 1": "‘I just did a c*** job’ – Norris on his Qualifying performance",
-    "Crash.net": "Lando Norris blames himself for “terrible job” after track limits woe in US GP qualifying"
+    "Crash.net": "Lando Norris blames himself for “terrible job” after track limits woe in US GP qualifying",
+    "RacingNews365 NL": "Norris foetert na 'verschrikkelijk' resultaat: \"Ik hoor op P2 te staan!\""
    },
-   "last": "2026-10-25T00:06:21.981419+00:00"
+   "last": "2026-10-25T08:43:08.085604+00:00"
   },
   "S1244": {
    "title": "Alijah Prosser interception vs Central Arkansas (college football)",
@@ -12878,9 +12869,22 @@
     "GPFans": "Lewis Hamilton admits 'significant' Ferrari disadvantage after being blown away by F1 rivals"
    },
    "last": "2026-10-25T08:18:11.630378+00:00"
+  },
+  "S1373": {
+   "title": "Hamilton jokes Antonelli should slow down, says he deserves title",
+   "first": "2026-10-25T08:43:08.085612+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-25T08:40:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton jokes Kimi Antonelli should ‘slow down’ as F1 title looms"
+   },
+   "last": "2026-10-25T08:43:08.085618+00:00"
   }
  },
- "story_seq": 1372,
+ "story_seq": 1373,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12999,7 +13003,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T08:37:55.477842+00:00",
+ "last_run": "2026-10-25T08:43:04.148616+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
