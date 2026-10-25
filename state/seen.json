@@ -2894,7 +2894,11 @@
   "50a6377d2c9cdb0f": "2026-10-24T23:51:07.051420+00:00",
   "8086dff9824015de": "2026-10-24T23:56:07.742555+00:00",
   "4ea545dadc278157": "2026-10-24T23:56:07.742555+00:00",
-  "9fce3c0b6d45ec7a": "2026-10-24T23:56:07.742555+00:00"
+  "9fce3c0b6d45ec7a": "2026-10-24T23:56:07.742555+00:00",
+  "6f2a5fdf92d2f88e": "2026-10-25T00:01:06.239949+00:00",
+  "14dd787a0752442d": "2026-10-25T00:01:06.239949+00:00",
+  "2bf06d17411da305": "2026-10-25T00:01:06.239949+00:00",
+  "fa30d6d53fce8d70": "2026-10-25T00:01:06.239949+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11560,14 +11564,14 @@
    "title": "NC State fires football coach Dave Doeren",
    "first": "2026-10-24T22:31:13.186743+00:00",
    "sources": {
-    "ESPN F1": "2026-10-24T22:26:50+00:00"
+    "ESPN F1": "2026-10-24T22:16:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "NC State fires Dave Doeren amid 3-4 start in 14th season"
    },
-   "last": "2026-10-24T22:31:13.186748+00:00"
+   "last": "2026-10-25T00:01:12.984052+00:00"
   },
   "S1214": {
    "title": "Justice Haynes 15-yard rushing TD",
@@ -12143,9 +12147,35 @@
     "PlanetF1": "Lando Norris slates ‘impossible’ McLaren after tough United States qualifying"
    },
    "last": "2026-10-24T23:56:11.784342+00:00"
+  },
+  "S1257": {
+   "title": "RacingNews365 qualifying review video covering Verstappen and Ocon",
+   "first": "2026-10-25T00:01:12.984062+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-24T23:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen suffers Red Bull 'kangaroo' return as Esteban Ocon exploring F1 options – RacingNews365 Review"
+   },
+   "last": "2026-10-25T00:01:12.984066+00:00"
+  },
+  "S1258": {
+   "title": "Mercedes celebrates Antonelli's pole, says 'game over' for rivals",
+   "first": "2026-10-25T00:01:12.984069+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-24T23:54:17+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mercedes jubelt über Antonelli-Pole: \"Game over für alle anderen!\" - Motorsport-Total.com"
+   },
+   "last": "2026-10-25T00:01:12.984073+00:00"
   }
  },
- "story_seq": 1256,
+ "story_seq": 1258,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12264,7 +12294,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-24T23:56:07.742555+00:00",
+ "last_run": "2026-10-25T00:01:06.239949+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13054,6 +13084,11 @@
    "t": "2026-10-24T23:56:17.729315+00:00",
    "title": "Russell, Austin sıralama turlarındaki zorlukları anlattı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-25T00:01:18.000454+00:00",
+   "title": "Mercedes, Antonelli'nin pole pozisyonu sonrası coştu",
+   "source": "Motorsport-Total"
   }
  ]
 }
