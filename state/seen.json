@@ -3067,7 +3067,8 @@
   "f20e95ae010f4915": "2026-10-25T08:37:55.477842+00:00",
   "52c9757ff23b3fb3": "2026-10-25T08:43:04.148616+00:00",
   "aa4f6a1009def161": "2026-10-25T08:43:04.148616+00:00",
-  "a19046d43f1e0c30": "2026-10-25T08:53:03.518438+00:00"
+  "a19046d43f1e0c30": "2026-10-25T08:53:03.518438+00:00",
+  "131770074c924383": "2026-10-25T08:58:13.836792+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12834,9 +12835,22 @@
     "RacingNews365": "Lando Norris makes astonishing claim over Austin F1 qualifying struggles"
    },
    "last": "2026-10-25T08:53:05.807922+00:00"
+  },
+  "S1375": {
+   "title": "Helmut Marko slams Christian Horner's book and denies allegation",
+   "first": "2026-10-25T08:58:15.451372+00:00",
+   "sources": {
+    "GPFans": "2026-10-25T08:56:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Helmut Marko slams Christian Horner book and sets record straight on deeply personal allegation"
+   },
+   "last": "2026-10-25T08:58:15.451390+00:00"
   }
  },
- "story_seq": 1374,
+ "story_seq": 1375,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12955,7 +12969,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T08:53:03.518438+00:00",
+ "last_run": "2026-10-25T08:58:13.836792+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13859,6 +13873,11 @@
   {
    "t": "2026-10-25T08:18:17.839395+00:00",
    "title": "Hamilton: Ferrari, Mercedes ve Red Bull'a karşı önemli bir dezavantajda",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-10-25T08:58:20.043409+00:00",
+   "title": "Marko, Horner'ın kitabını sert eleştirdi ve kişisel bir iddiayı yanıtladı",
    "source": "GPFans"
   }
  ]
