@@ -3151,7 +3151,11 @@
   "c9d6025bb75350ce": "2026-10-25T12:07:30.175313+00:00",
   "b5572ed7dd2b1dde": "2026-10-25T12:07:30.175313+00:00",
   "35d6839372aefeaa": "2026-10-25T12:12:27.108523+00:00",
-  "d23332fd91dfa654": "2026-10-25T12:17:30.448615+00:00"
+  "d23332fd91dfa654": "2026-10-25T12:17:30.448615+00:00",
+  "df25ce69b219990f": "2026-10-25T12:27:30.602967+00:00",
+  "01e9564184c67f20": "2026-10-25T12:27:30.602967+00:00",
+  "4c99429c1fc004fd": "2026-10-25T12:27:30.602967+00:00",
+  "02495350de276834": "2026-10-25T12:27:30.602967+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3683,19 +3687,6 @@
     "ESPN F1": "Men's college hoops teams that gained -- and lost -- most transfer talent"
    },
    "last": "2026-10-23T14:21:52.635898+00:00"
-  },
-  "S750": {
-   "title": "Conte says no advanced Man United negotiations",
-   "first": "2026-10-23T12:26:06.771354+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-23T12:07:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Antonio Conte: 'No negotiations at advanced stage' amid Man United link"
-   },
-   "last": "2026-10-23T12:26:06.771358+00:00"
   },
   "S751": {
    "title": "Peres Jepchirchir suspended in doping case",
@@ -12224,14 +12215,16 @@
    "title": "FIA confirms 80-place grid penalty for US GP",
    "first": "2026-10-25T08:08:02.808513+00:00",
    "sources": {
-    "PlanetF1": "2026-10-25T08:04:43+00:00"
+    "PlanetF1": "2026-10-25T08:04:43+00:00",
+    "GPFans": "2026-10-25T12:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "FIA confirms massive 80-place grid penalty for the United States GP"
+    "PlanetF1": "FIA confirms massive 80-place grid penalty for the United States GP",
+    "GPFans": "FIA confirms staggering 80-place grid penalty for F1 star at US Grand Prix"
    },
-   "last": "2026-10-25T08:08:02.808519+00:00"
+   "last": "2026-10-25T12:27:34.729778+00:00"
   },
   "S1371": {
    "title": "How to watch the US GP live on TV",
@@ -12813,14 +12806,14 @@
    "title": "Rams optimistic Puka Nacua will play vs. Raiders",
    "first": "2026-10-25T11:57:31.919899+00:00",
    "sources": {
-    "ESPN F1": "2026-10-25T11:54:03+00:00"
+    "ESPN F1": "2026-10-25T11:53:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Rams optimistic that star WR Puka Nacua will play vs. Raiders, source says"
    },
-   "last": "2026-10-25T11:57:31.919919+00:00"
+   "last": "2026-10-25T12:27:34.729757+00:00"
   },
   "S1416": {
    "title": "Autosport analysis of Red Bull's progress in Austin qualifying",
@@ -12873,9 +12866,22 @@
     "RacingNews365": "Lewis Hamilton makes 'hard to compete' claim in Red Bull Austin prediction"
    },
    "last": "2026-10-25T12:17:32.278598+00:00"
+  },
+  "S1420": {
+   "title": "Premier League live updates: Man United vs Bournemouth, Liverpool vs Brighton",
+   "first": "2026-10-25T12:27:34.729766+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T10:01:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Premier League live updates: Man United face Bournemouth, Liverpool host Brighton"
+   },
+   "last": "2026-10-25T12:27:34.729772+00:00"
   }
  },
- "story_seq": 1419,
+ "story_seq": 1420,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12994,7 +13000,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T12:22:27.359013+00:00",
+ "last_run": "2026-10-25T12:27:30.602967+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
