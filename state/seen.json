@@ -2909,7 +2909,10 @@
   "a938a3d9357d1067": "2026-10-25T00:06:14.738228+00:00",
   "36ba6cbc2917b2d2": "2026-10-25T00:06:14.738228+00:00",
   "0f1ede5fe2ccfe7a": "2026-10-25T00:06:14.738228+00:00",
-  "82225b341df2a4b1": "2026-10-25T00:06:14.738228+00:00"
+  "82225b341df2a4b1": "2026-10-25T00:06:14.738228+00:00",
+  "7b45feef8ed8ee0e": "2026-10-25T00:11:07.016712+00:00",
+  "56d06b2edbb7f258": "2026-10-25T00:11:07.016712+00:00",
+  "fe5e03e29c58c44a": "2026-10-25T00:11:07.016712+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11507,7 +11510,8 @@
     "RacingNews365 NL": "2026-10-24T22:13:00+00:00",
     "RacingNews365": "2026-10-24T22:22:00+00:00",
     "GPblog": "2026-10-24T22:46:00+00:00",
-    "Crash.net": "2026-10-24T23:41:44+00:00"
+    "Crash.net": "2026-10-24T23:41:44+00:00",
+    "Motorsport-Total": "2026-10-25T00:06:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11515,9 +11519,10 @@
     "RacingNews365 NL": "Verstappen blijft verbaasd achter: \"Auto stuiterde als een kangoeroe!\"",
     "RacingNews365": "Max Verstappen bemoans hat-trick near-miss thanks to Red Bull 'kangaroo'",
     "GPblog": "Verstappen disappointed with 'poor' Q3 in Austin and reveals sudden problem",
-    "Crash.net": "Max Verstappen reveals where US GP pole went begging in “bad” Q3"
+    "Crash.net": "Max Verstappen reveals where US GP pole went begging in “bad” Q3",
+    "Motorsport-Total": "\"Wie ein Känguru\": Verstappen hadert mit verpasster Pole in Austin - Motorsport-Total.com"
    },
-   "last": "2026-10-24T23:46:15.879528+00:00"
+   "last": "2026-10-25T00:11:11.079862+00:00"
   },
   "S1209": {
    "title": "Four key takeaways after US GP qualifying",
@@ -12305,9 +12310,35 @@
     "FormulaPassion": "Kimi funambolo, fa funzionare la Mercedes: la Ferrari spreca tutto"
    },
    "last": "2026-10-25T00:06:21.981423+00:00"
+  },
+  "S1268": {
+   "title": "UCF fans storm field after BYU 2OT win",
+   "first": "2026-10-25T00:11:11.079828+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T00:00:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UCF fans storm field after BYU's incomplete pass seals 2OT win"
+   },
+   "last": "2026-10-25T00:11:11.079849+00:00"
+  },
+  "S1269": {
+   "title": "Antonelli wants clean air after Turn 1 in US GP",
+   "first": "2026-10-25T00:11:11.079853+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-25T00:06:57+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli: \"Sono molto felice di questa pole e domani vorrei essere in aria pulita dopo curva 1\""
+   },
+   "last": "2026-10-25T00:11:11.079857+00:00"
   }
  },
- "story_seq": 1267,
+ "story_seq": 1269,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12426,7 +12457,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T00:06:14.738228+00:00",
+ "last_run": "2026-10-25T00:11:07.016712+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13226,6 +13257,11 @@
    "t": "2026-10-25T00:06:29.091590+00:00",
    "title": "Alisha Palmowski, 2026 F1 Academy şampiyonu oldu",
    "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-10-25T00:11:17.722882+00:00",
+   "title": "Antonelli: Pole'den memnunum, yarın ilk virajdan sonra temiz hava istiyorum",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
