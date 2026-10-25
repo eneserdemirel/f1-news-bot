@@ -3026,7 +3026,10 @@
   "16614ec5162708f4": "2026-10-25T05:36:48.354035+00:00",
   "17b8314f3998bb5f": "2026-10-25T05:41:50.117924+00:00",
   "5224173c168303a4": "2026-10-25T06:01:51.033229+00:00",
-  "90937f9d26d38d45": "2026-10-25T06:01:51.033229+00:00"
+  "90937f9d26d38d45": "2026-10-25T06:01:51.033229+00:00",
+  "c360277d4c2a7ab6": "2026-10-25T06:06:48.269861+00:00",
+  "d23e9f428e45950b": "2026-10-25T06:06:48.269861+00:00",
+  "40748cff096a3ed9": "2026-10-25T06:06:48.269861+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12133,14 +12136,16 @@
    "title": "Clarkson chastised over joke about Colapinto",
    "first": "2026-10-25T01:01:22.590921+00:00",
    "sources": {
-    "PlanetF1": "2026-10-24T23:55:49+00:00"
+    "PlanetF1": "2026-10-24T23:55:49+00:00",
+    "Crash.net": "2026-10-25T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Jeremy Clarkson chastised over controversial Franco Colapinto joke"
+    "PlanetF1": "Jeremy Clarkson chastised over controversial Franco Colapinto joke",
+    "Crash.net": "Jeremy Clarkson causes controversy with Franco Colapinto and Kim Kardashian comments in chaotic Sky Sports F1 interview"
    },
-   "last": "2026-10-25T01:01:22.590925+00:00"
+   "last": "2026-10-25T06:06:54.817263+00:00"
   },
   "S1288": {
    "title": "Nolan Hauser 49-yard college field goal",
@@ -12999,9 +13004,35 @@
     "FormulaPassion": "Telemetria: Antonelli pole da campione, Ferrari tradita da temperature e motore"
    },
    "last": "2026-10-25T06:01:54.368494+00:00"
+  },
+  "S1354": {
+   "title": "Verstappen names Red Bull advantage for Austin race win fight",
+   "first": "2026-10-25T06:06:54.817228+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-25T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen stipt cruciaal Red Bull-pluspunt aan in strijd voor overwinning"
+   },
+   "last": "2026-10-25T06:06:54.817247+00:00"
+  },
+  "S1355": {
+   "title": "Analysis of Verstappen's two advantages for Austin race",
+   "first": "2026-10-25T06:06:54.817252+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-25T06:02:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Kimi Antonelli has pole, but Max Verstappen has two key advantages for Austin"
+   },
+   "last": "2026-10-25T06:06:54.817257+00:00"
   }
  },
- "story_seq": 1353,
+ "story_seq": 1355,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13120,7 +13151,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T06:01:51.033229+00:00",
+ "last_run": "2026-10-25T06:06:48.269861+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13985,6 +14016,16 @@
    "t": "2026-10-25T06:01:59.644828+00:00",
    "title": "Andretti: Hamilton zor sezonun ardından şampiyon gibi toparlandı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-25T06:07:01.811964+00:00",
+   "title": "Verstappen, Antonelli'nin Ardından İkinci Sırada Kaldı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-25T06:07:02.157022+00:00",
+   "title": "Antonelli pole aldı, Verstappen Austin'de iki önemli avantaja sahip",
+   "source": "PlanetF1"
   }
  ]
 }
