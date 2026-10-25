@@ -3299,7 +3299,10 @@
   "a569b84c9ffed9e0": "2026-10-25T18:33:05.408549+00:00",
   "d46dae8f2c7615e1": "2026-10-25T18:33:05.408549+00:00",
   "69e859979d8b64a1": "2026-10-25T18:33:05.408549+00:00",
-  "327f3cdee2c1930d": "2026-10-25T18:38:43.372927+00:00"
+  "327f3cdee2c1930d": "2026-10-25T18:38:43.372927+00:00",
+  "c2225e279103457d": "2026-10-25T18:48:43.015568+00:00",
+  "4a652e4d9e770886": "2026-10-25T18:48:43.015568+00:00",
+  "04ae6462611e4acb": "2026-10-25T18:48:43.015568+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10987,15 +10990,17 @@
    "first": "2026-10-25T06:06:54.817252+00:00",
    "sources": {
     "PlanetF1": "2026-10-25T06:02:38+00:00",
-    "RacingNews365": "2026-10-25T16:20:00+00:00"
+    "RacingNews365": "2026-10-25T16:20:00+00:00",
+    "RacingNews365 NL": "2026-10-25T18:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Kimi Antonelli has pole, but Max Verstappen has two key advantages for Austin",
-    "RacingNews365": "Max Verstappen holds key advantage as Kimi Antonelli plays first championship point"
+    "RacingNews365": "Max Verstappen holds key advantage as Kimi Antonelli plays first championship point",
+    "RacingNews365 NL": "Verstappen heeft ideale strategische troef in jacht op zege in Austin"
    },
-   "last": "2026-10-25T16:23:11.173148+00:00"
+   "last": "2026-10-25T18:48:49.056505+00:00"
   },
   "S1356": {
    "title": "Kucherov passes Stamkos as Lightning's career points leader",
@@ -12777,9 +12782,35 @@
     "ESPN F1": "2026-27 English Premier League Standings"
    },
    "last": "2026-10-25T18:38:44.958204+00:00"
+  },
+  "S1489": {
+   "title": "ESPN college football SP+ rankings for 138 FBS teams",
+   "first": "2026-10-25T18:48:49.056479+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T14:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 college football SP+ rankings for all 138 FBS teams"
+   },
+   "last": "2026-10-25T18:48:49.056497+00:00"
+  },
+  "S1490": {
+   "title": "Hadjar identifies Red Bull advantage over Antonelli before US GP",
+   "first": "2026-10-25T18:48:49.056509+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T18:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Isack Hadjar pinpoints Red Bull advantage over Antonelli ahead of crucial US GP"
+   },
+   "last": "2026-10-25T18:48:49.056523+00:00"
   }
  },
- "story_seq": 1488,
+ "story_seq": 1490,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12898,7 +12929,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T18:43:45.553971+00:00",
+ "last_run": "2026-10-25T18:48:43.015568+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
@@ -13998,6 +14029,11 @@
    "t": "2026-10-25T18:33:12.442184+00:00",
    "title": "Leclerc, Ferrari'yi bir sonraki olaya karşı uyardı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-25T18:48:54.638480+00:00",
+   "title": "Hadjar, US GP öncesi Red Bull'un Antonelli karşısındaki avantajını işaret etti",
+   "source": "GPblog"
   }
  ]
 }
