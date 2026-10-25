@@ -3465,7 +3465,10 @@
   "e8d1128baf981970": "2026-10-25T23:18:45.385088+00:00",
   "ec7a205d5db3487c": "2026-10-25T23:18:45.385088+00:00",
   "ed09eedfb183e682": "2026-10-25T23:18:45.385088+00:00",
-  "3066430e04e45999": "2026-10-25T23:18:45.385088+00:00"
+  "3066430e04e45999": "2026-10-25T23:18:45.385088+00:00",
+  "d1dedc7dfea58a90": "2026-10-25T23:23:46.026012+00:00",
+  "66ad63cd57339898": "2026-10-25T23:23:46.026012+00:00",
+  "bb1ad0d0fcd1cb27": "2026-10-25T23:23:46.026012+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4090,19 +4093,6 @@
     "RacingNews365 NL": "Norris in zak en as: \"Staan een stap achter Red Bull en Ferrari\""
    },
    "last": "2026-10-24T07:09:26.963266+00:00"
-  },
-  "S893": {
-   "title": "Newey says Honda are behind, cites Aston Martin progress buzz",
-   "first": "2026-10-23T23:22:27.391851+00:00",
-   "sources": {
-    "Formula 1": "2026-10-23T23:22:27.391864+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Newey assesses Honda progress amid ‘buzz’ at Aston Martin"
-   },
-   "last": "2026-10-23T23:22:27.391868+00:00"
   },
   "S894": {
    "title": "Michigan QB Tommy Carr to get first start, per source",
@@ -13126,14 +13116,16 @@
    "title": "Wolff shares office chat with Antonelli before Austin win",
    "first": "2026-10-25T22:33:56.395194+00:00",
    "sources": {
-    "RacingNews365": "2026-10-25T22:28:00+00:00"
+    "RacingNews365": "2026-10-25T22:28:00+00:00",
+    "Crash.net": "2026-10-25T23:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Toto Wolff reveals sneaky office chat with Kimi Antonelli ahead of USGP victory"
+    "RacingNews365": "Toto Wolff reveals sneaky office chat with Kimi Antonelli ahead of USGP victory",
+    "Crash.net": "Toto Wolff reveals what Kimi Antonelli told him before the US Grand Prix"
    },
-   "last": "2026-10-25T22:33:56.395200+00:00"
+   "last": "2026-10-25T23:23:50.388698+00:00"
   },
   "S1555": {
    "title": "Red Bull's Mekies says Verstappen's Austin race was complicated",
@@ -13397,7 +13389,7 @@
    "titles": {
     "ESPN F1": "Kylian Mbappé scores 100th goal for Real Madrid in dramatic Clásico win"
    },
-   "last": "2026-10-25T23:18:50.626463+00:00"
+   "last": "2026-10-25T23:23:50.388676+00:00"
   },
   "S1575": {
    "title": "ESPN FC live stream listing for 25/10/26",
@@ -13411,9 +13403,22 @@
     "ESPN F1": "ESPN FC (25/10/26) - Stream en vivo"
    },
    "last": "2026-10-25T23:18:50.626474+00:00"
+  },
+  "S1576": {
+   "title": "Hamilton blames balance problem for slow US GP early stints",
+   "first": "2026-10-25T23:23:50.388687+00:00",
+   "sources": {
+    "GPblog": "2026-10-25T23:18:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton reveals \"subtle difference\" between his Ferrari and Leclerc's after tough US GP"
+   },
+   "last": "2026-10-25T23:23:50.388692+00:00"
   }
  },
- "story_seq": 1575,
+ "story_seq": 1576,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13532,7 +13537,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T23:18:45.385088+00:00",
+ "last_run": "2026-10-25T23:23:46.026012+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14757,6 +14762,11 @@
    "t": "2026-10-25T23:13:57.424513+00:00",
    "title": "Leclerc: Yeni F1 2026 araçlarında kendimi buluyorum, Antonelli'ye zorluk çıkarabilirdim",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-25T23:23:55.116344+00:00",
+   "title": "Hamilton, ABD GP'deki Ferrari ile Leclerc'in arabası arasındaki \"ince farkı\" açıkladı",
+   "source": "GPblog"
   }
  ]
 }
