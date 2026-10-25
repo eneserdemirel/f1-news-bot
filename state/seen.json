@@ -3186,7 +3186,10 @@
   "685b8faeadb262d7": "2026-10-25T14:33:23.014967+00:00",
   "7ed148ca486955da": "2026-10-25T14:33:23.014967+00:00",
   "94860a7a9cf82fcd": "2026-10-25T14:38:07.985946+00:00",
-  "c994c6b78e69c604": "2026-10-25T14:38:07.985946+00:00"
+  "c994c6b78e69c604": "2026-10-25T14:38:07.985946+00:00",
+  "bf20bdb412589cad": "2026-10-25T14:43:07.490940+00:00",
+  "645f14b0cb321a9d": "2026-10-25T14:43:07.490940+00:00",
+  "5409ed9f48985c9e": "2026-10-25T14:43:07.490940+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10429,7 +10432,8 @@
     "Motorsport-Total": "2026-10-25T00:28:00+00:00",
     "RacingNews365 NL": "2026-10-25T07:20:00+00:00",
     "GPblog": "2026-10-25T08:30:00+00:00",
-    "Crash.net": "2026-10-25T11:04:01+00:00"
+    "Crash.net": "2026-10-25T11:04:01+00:00",
+    "RacingNews365": "2026-10-25T14:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10437,9 +10441,10 @@
     "Motorsport-Total": "Hadjar auf P3: Bis Q3 war Austin \"eine Katastrophe von einem Wochenende\" - Motorsport-Total.com",
     "RacingNews365 NL": "Hadjar keert tij met Red Bull: \"We stonden er mijlenver achter!\"",
     "GPblog": "Hadjar rues missed front row after ‘disaster’ weekend despite P3 in qualifying",
-    "Crash.net": "Why Isack Hadjar’s COTA F1 weekend has been “a disaster”"
+    "Crash.net": "Why Isack Hadjar’s COTA F1 weekend has been “a disaster”",
+    "RacingNews365": "Isack Hadjar explains 'gutted' emotion despite Austin 'disaster' recovery"
    },
-   "last": "2026-10-25T11:07:31.977427+00:00"
+   "last": "2026-10-25T14:43:10.253064+00:00"
   },
   "S1278": {
    "title": "Lucas Carneiro makes 46-yard field goal",
@@ -12544,9 +12549,35 @@
     "ESPN F1": "Bruno Fernandes left out by Man United after Michael Carrick criticism"
    },
    "last": "2026-10-25T14:33:26.307021+00:00"
+  },
+  "S1436": {
+   "title": "Neymar sent off under Vinícius Júnior rule",
+   "first": "2026-10-25T14:43:10.253029+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T14:02:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Neymar fury after he's sent off under 'Vinícius Júnior rule'"
+   },
+   "last": "2026-10-25T14:43:10.253046+00:00"
+  },
+  "S1437": {
+   "title": "Enzo Maresca says Man City must be more clinical",
+   "first": "2026-10-25T14:43:10.253052+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T14:02:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man City must be 'more clinical,' Enzo Maresca demands"
+   },
+   "last": "2026-10-25T14:43:10.253057+00:00"
   }
  },
- "story_seq": 1435,
+ "story_seq": 1437,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12665,7 +12696,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T14:38:07.985946+00:00",
+ "last_run": "2026-10-25T14:43:07.490940+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
