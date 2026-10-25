@@ -3315,7 +3315,9 @@
   "2179a0069446241b": "2026-10-25T19:08:43.661776+00:00",
   "d84959e940a4d927": "2026-10-25T19:08:43.661776+00:00",
   "70964cf38253cba8": "2026-10-25T19:08:43.661776+00:00",
-  "569b716da8f3731c": "2026-10-25T19:13:45.744773+00:00"
+  "569b716da8f3731c": "2026-10-25T19:13:45.744773+00:00",
+  "89b4800ac7e0a910": "2026-10-25T19:18:45.266664+00:00",
+  "5da1ba4c38fb0c37": "2026-10-25T19:18:45.266664+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9086,7 +9088,8 @@
     "RacingNews365": "2026-10-25T06:20:00+00:00",
     "GPFans": "2026-10-25T07:30:00+00:00",
     "RacingNews365 NL": "2026-10-25T07:40:00+00:00",
-    "GPblog": "2026-10-25T11:57:00+00:00"
+    "GPblog": "2026-10-25T11:57:00+00:00",
+    "Formula 1": "2026-10-25T19:18:48.240540+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9095,9 +9098,10 @@
     "RacingNews365": "Heavily adjusted 2026 F1 United States Grand Prix starting grid after major penalties",
     "GPFans": "F1 2026 US Grand Prix starting grid with all FIA penalties applied",
     "RacingNews365 NL": "Aangepaste startopstelling F1 GP Verenigde Staten 2026 na meerdere gridstraffen",
-    "GPblog": "US Grand Prix starting grid shaken up after various power unit grid penalties"
+    "GPblog": "US Grand Prix starting grid shaken up after various power unit grid penalties",
+    "Formula 1": "OFFICIAL GRID: Who starts where for the United States Grand Prix"
    },
-   "last": "2026-10-25T19:08:48.103971+00:00"
+   "last": "2026-10-25T19:18:48.240556+00:00"
   },
   "S1220": {
    "title": "Red Bull positive about Verstappen's second place in US GP qualifying",
@@ -12833,9 +12837,22 @@
     "ESPN F1": "Time, place unclear for Game 6 of Valkyries-Dream WNBA Finals"
    },
    "last": "2026-10-25T19:08:48.103964+00:00"
+  },
+  "S1495": {
+   "title": "Man United stuck with underperforming players regardless of manager",
+   "first": "2026-10-25T19:18:48.240563+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T18:13:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United are stuck with their underperforming players no matter who's manager"
+   },
+   "last": "2026-10-25T19:18:48.240568+00:00"
   }
  },
- "story_seq": 1494,
+ "story_seq": 1495,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12954,7 +12971,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T19:13:45.744773+00:00",
+ "last_run": "2026-10-25T19:18:45.266664+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
