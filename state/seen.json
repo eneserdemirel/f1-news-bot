@@ -3210,7 +3210,13 @@
   "df0a81ac037e2299": "2026-10-25T15:58:07.069716+00:00",
   "6d8121040a0a2b2e": "2026-10-25T16:03:13.579041+00:00",
   "a8186dc95153714f": "2026-10-25T16:03:13.579041+00:00",
-  "67d0b7e5a6a205e1": "2026-10-25T16:08:04.893878+00:00"
+  "67d0b7e5a6a205e1": "2026-10-25T16:08:04.893878+00:00",
+  "ac17420d56c9aef9": "2026-10-25T16:13:09.623083+00:00",
+  "6ed7e1a36049063f": "2026-10-25T16:13:09.623083+00:00",
+  "d57152c40c31fa2b": "2026-10-25T16:13:09.623083+00:00",
+  "a454ca9684607294": "2026-10-25T16:13:09.623083+00:00",
+  "07611af32d3d7550": "2026-10-25T16:13:09.623083+00:00",
+  "2e45eca585e4e101": "2026-10-25T16:13:09.623083+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10372,16 +10378,18 @@
    "sources": {
     "PlanetF1": "2026-10-24T23:55:49+00:00",
     "Crash.net": "2026-10-25T06:00:00+00:00",
-    "FormulaPassion": "2026-10-25T11:20:00+00:00"
+    "FormulaPassion": "2026-10-25T11:20:00+00:00",
+    "Motorsport Week": "2026-10-25T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Jeremy Clarkson chastised over controversial Franco Colapinto joke",
     "Crash.net": "Jeremy Clarkson causes controversy with Franco Colapinto and Kim Kardashian comments in chaotic Sky Sports F1 interview",
-    "FormulaPassion": "Jeremy Clarkson nella bufera per una battuta su Colapinto e sulla contesa per le isole Falkland/Malvinas"
+    "FormulaPassion": "Jeremy Clarkson nella bufera per una battuta su Colapinto e sulla contesa per le isole Falkland/Malvinas",
+    "Motorsport Week": "Jeremy Clarkson faces backlash for Franco Colapinto comments"
    },
-   "last": "2026-10-25T11:37:34.579978+00:00"
+   "last": "2026-10-25T16:13:14.194441+00:00"
   },
   "S1288": {
    "title": "Nolan Hauser 49-yard college field goal",
@@ -12366,7 +12374,7 @@
    "titles": {
     "ESPN F1": "Neymar fury after he's sent off under 'Vinícius Júnior rule'"
    },
-   "last": "2026-10-25T14:43:10.253046+00:00"
+   "last": "2026-10-25T16:13:14.194418+00:00"
   },
   "S1437": {
    "title": "Enzo Maresca says Man City must be more clinical",
@@ -12562,9 +12570,48 @@
     "PlanetF1": "How Kimi Antonelli ‘motivates’ F1’s newest rookie"
    },
    "last": "2026-10-25T16:08:07.173305+00:00"
+  },
+  "S1452": {
+   "title": "Man United pressure grows under Carrick after Bournemouth defeat",
+   "first": "2026-10-25T16:13:14.194391+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T15:59:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Carrick pressure grows, Bournemouth run riot at Man United"
+   },
+   "last": "2026-10-25T16:13:14.194409+00:00"
+  },
+  "S1453": {
+   "title": "Arteta on Arsenal's set-piece dominance",
+   "first": "2026-10-25T16:13:14.194423+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T13:37:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal unlocked key to set-piece dominance - Mikel Arteta"
+   },
+   "last": "2026-10-25T16:13:14.194428+00:00"
+  },
+  "S1454": {
+   "title": "Chiefs-Seahawks betting tips and prop plays",
+   "first": "2026-10-25T16:13:14.194432+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T11:21:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How to bet Chiefs-Seahawks: Analysis, tips and top prop plays"
+   },
+   "last": "2026-10-25T16:13:14.194436+00:00"
   }
  },
- "story_seq": 1451,
+ "story_seq": 1454,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12683,7 +12730,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T16:08:04.893878+00:00",
+ "last_run": "2026-10-25T16:13:09.623083+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 15:00",
