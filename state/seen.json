@@ -2988,7 +2988,10 @@
   "34e6919a681bde13": "2026-10-25T03:26:50.136385+00:00",
   "cf6a7d82c91bd42c": "2026-10-25T03:26:50.136385+00:00",
   "fabda25ac09246a4": "2026-10-25T03:31:49.286226+00:00",
-  "7d955221a1dceaec": "2026-10-25T03:31:49.286226+00:00"
+  "7d955221a1dceaec": "2026-10-25T03:31:49.286226+00:00",
+  "f2c0fe0194e1716f": "2026-10-25T03:36:50.095575+00:00",
+  "082b6f827d5ef905": "2026-10-25T03:36:50.095575+00:00",
+  "6d2d42f7efd522e1": "2026-10-25T03:36:50.095575+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12857,9 +12860,48 @@
     "GPblog": "Wet weather flips MotoGP schedule on its head with two races cancelled"
    },
    "last": "2026-10-25T03:31:51.047900+00:00"
+  },
+  "S1325": {
+   "title": "Lawson sacrificed his Q3 run to help Lindblad's grid",
+   "first": "2026-10-25T03:36:53.679730+00:00",
+   "sources": {
+    "Formula 1": "2026-10-25T03:36:53.679746+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How Lawson helped Lindblad by sacrificing his Q3 run"
+   },
+   "last": "2026-10-25T03:36:53.679750+00:00"
+  },
+  "S1326": {
+   "title": "Albon says Williams can't fix core qualifying problems",
+   "first": "2026-10-25T03:36:53.679754+00:00",
+   "sources": {
+    "Formula 1": "2026-10-25T03:36:53.679757+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "‘We can’t fix core problems' – Albon on Williams' Qualifying"
+   },
+   "last": "2026-10-25T03:36:53.679760+00:00"
+  },
+  "S1327": {
+   "title": "Gianni Spetic kicks 33-yard college field goal",
+   "first": "2026-10-25T03:36:53.679763+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T03:19:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gianni Spetic kicks 33-yard field goal"
+   },
+   "last": "2026-10-25T03:36:53.679767+00:00"
   }
  },
- "story_seq": 1324,
+ "story_seq": 1327,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12978,7 +13020,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T03:31:49.286226+00:00",
+ "last_run": "2026-10-25T03:36:50.095575+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -13817,6 +13859,11 @@
   {
    "t": "2026-10-25T02:01:15.136635+00:00",
    "title": "Amerika GP'de lastik stratejisi seçenekleri neler?",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-25T03:36:58.153689+00:00",
+   "title": "Albon: \"Temel sorunları düzeltemiyoruz\"; Williams Austin'de Q1'de elendi",
    "source": "Formula 1"
   }
  ]
