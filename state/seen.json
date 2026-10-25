@@ -3126,7 +3126,8 @@
   "5d0a3f75bf5a123a": "2026-10-25T11:22:27.435441+00:00",
   "cbf5e9eced852898": "2026-10-25T11:22:27.435441+00:00",
   "52fce7479bb7b694": "2026-10-25T11:22:27.435441+00:00",
-  "ba268b3f396a3503": "2026-10-25T11:22:27.435441+00:00"
+  "ba268b3f396a3503": "2026-10-25T11:22:27.435441+00:00",
+  "d0b5bf8950dd783d": "2026-10-25T11:27:32.036028+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12924,9 +12925,22 @@
     "PlanetF1": "Charles Leclerc’s untelevised furious Ferrari rant after qualifying disappointment in Austin"
    },
    "last": "2026-10-25T11:22:31.000344+00:00"
+  },
+  "S1405": {
+   "title": "Piastri warns Austin bumps are motocross-like",
+   "first": "2026-10-25T11:27:34.012262+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-25T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oscar Piastri offers 'motocross' warning over major Austin F1 bump"
+   },
+   "last": "2026-10-25T11:27:34.012280+00:00"
   }
  },
- "story_seq": 1404,
+ "story_seq": 1405,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13045,7 +13059,7 @@
   ]
  ],
  "calendar_updated": "2026-10-24T22:05:58.343250+00:00",
- "last_run": "2026-10-25T11:22:27.435441+00:00",
+ "last_run": "2026-10-25T11:27:32.036028+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-24 22:00",
@@ -14015,6 +14029,11 @@
    "t": "2026-10-25T11:22:36.121378+00:00",
    "title": "Leclerc, Austin'de sıralama turlarındaki hayal kırıklığının ardından Ferrari'ye öfkeyle çıktı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-25T11:27:39.239492+00:00",
+   "title": "Piastri, Austin'deki tümsekleri motocross atlayışına benzetti",
+   "source": "RacingNews365"
   }
  ]
 }
