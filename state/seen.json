@@ -3735,7 +3735,13 @@
   "04bc42880fcc92cd": "2026-10-26T12:21:08.044879+00:00",
   "5917a61c22ff5e96": "2026-10-26T12:21:08.044879+00:00",
   "3621cf7aa8679d6f": "2026-10-26T12:31:09.174861+00:00",
-  "ec2534caa5c88407": "2026-10-26T12:31:09.174861+00:00"
+  "ec2534caa5c88407": "2026-10-26T12:31:09.174861+00:00",
+  "60d070fc1128c381": "2026-10-26T12:41:07.870342+00:00",
+  "703209412b8b7bf2": "2026-10-26T12:41:07.870342+00:00",
+  "bfb9ee427c3f0082": "2026-10-26T12:41:07.870342+00:00",
+  "4d2a40bef06ce2b3": "2026-10-26T12:41:07.870342+00:00",
+  "8c242ae2aacd8267": "2026-10-26T12:41:07.870342+00:00",
+  "09a29645476a3a8b": "2026-10-26T12:41:07.870342+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11967,7 +11973,8 @@
     "AS": "2026-10-26T07:12:20+00:00",
     "RacingNews365": "2026-10-26T08:00:00+00:00",
     "GPFans": "2026-10-26T08:43:00+00:00",
-    "PlanetF1": "2026-10-26T11:15:06+00:00"
+    "PlanetF1": "2026-10-26T11:15:06+00:00",
+    "RacingNews365 NL": "2026-10-26T12:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11981,9 +11988,10 @@
     "AS": "Alonso: “El nivel de los pilotos de atrás es muy bajo”",
     "RacingNews365": "Fernando Alonso slates 'back of the grid' drivers after Alex Albon collision",
     "GPFans": "Fernando Alonso launches scathing attack on F1 rivals after US Grand Prix incident",
-    "PlanetF1": "Alonso takes ‘very low’ driver quality shot after Albon US GP clash"
+    "PlanetF1": "Alonso takes ‘very low’ driver quality shot after Albon US GP clash",
+    "RacingNews365 NL": "Alonso schoffeert concurrentie na botsing Albon: \"Zéér laag\""
    },
-   "last": "2026-10-26T11:21:12.229322+00:00"
+   "last": "2026-10-26T12:41:13.278129+00:00"
   },
   "S1612": {
    "title": "RacingNews365 review of Verstappen's frustration in Austin",
@@ -13255,7 +13263,7 @@
    "titles": {
     "Motorsport-Total": "Fotostrecke: Austin: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
    },
-   "last": "2026-10-26T11:21:12.229329+00:00"
+   "last": "2026-10-26T12:41:13.278144+00:00"
   },
   "S1708": {
    "title": "Vasseur says Ferrari had the pace to win in Austin",
@@ -13518,9 +13526,61 @@
     "The Race": "US GP struggled before. Now Austin is the image of F1's growth"
    },
    "last": "2026-10-26T12:31:11.772917+00:00"
+  },
+  "S1728": {
+   "title": "Rays look to Junior Caminero's bat and leadership in World Series",
+   "first": "2026-10-26T12:41:13.278094+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T11:21:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rays looking to Junior Caminero's bat, leadership in World Series"
+   },
+   "last": "2026-10-26T12:41:13.278113+00:00"
+  },
+  "S1729": {
+   "title": "James Trafford tipped as No.1 by Leeds boss",
+   "first": "2026-10-26T12:41:13.278117+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T10:46:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "New England No.1? James Trafford tipped by Leeds boss"
+   },
+   "last": "2026-10-26T12:41:13.278122+00:00"
+  },
+  "S1730": {
+   "title": "Ted Cruz booed on F1 podium at US Grand Prix",
+   "first": "2026-10-26T12:41:13.278131+00:00",
+   "sources": {
+    "Crash.net": "2026-10-26T12:34:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Donald Trump ally Ted Cruz brutally booed on F1 podium after US Grand Prix"
+   },
+   "last": "2026-10-26T12:41:13.278134+00:00"
+  },
+  "S1731": {
+   "title": "Gazzetta column: Antonelli dominates while midfield battles intensify",
+   "first": "2026-10-26T12:41:13.278136+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-26T12:37:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Il paradosso della F1: Antonelli domina ma dietro è bagarre totale! Che Mondiale sarebbe senza Kimi?"
+   },
+   "last": "2026-10-26T12:41:13.278139+00:00"
   }
  },
- "story_seq": 1727,
+ "story_seq": 1731,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13639,7 +13699,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T12:31:09.174861+00:00",
+ "last_run": "2026-10-26T12:41:07.870342+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
@@ -15119,6 +15179,16 @@
    "t": "2026-10-26T12:31:15.666208+00:00",
    "title": "Austin GP, F1'in Amerika'daki büyümesinin simgesi oldu",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-26T12:41:18.702773+00:00",
+   "title": "Ted Cruz, ABD Grand Prix podyumunda yuhalandı",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-26T12:41:19.113111+00:00",
+   "title": "Antonelli domine ediyor, arkada ise çekişme sürüyor",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
