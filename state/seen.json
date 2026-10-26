@@ -3674,7 +3674,10 @@
   "629d9fcde96c5136": "2026-10-26T09:20:15.529702+00:00",
   "88d402b39065c833": "2026-10-26T09:20:15.529702+00:00",
   "c98ede54c4c2b53d": "2026-10-26T09:30:20.492918+00:00",
-  "7290193fbda8b92e": "2026-10-26T09:30:20.492918+00:00"
+  "7290193fbda8b92e": "2026-10-26T09:30:20.492918+00:00",
+  "865c73fb4b23da76": "2026-10-26T09:40:39.254530+00:00",
+  "4c030cb17a0162f1": "2026-10-26T09:40:39.254530+00:00",
+  "c3480d01e1ac5412": "2026-10-26T09:40:39.254530+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3995,32 +3998,6 @@
     "ESPN F1": "Premier League live updates: Aston Villa host league leaders Man City"
    },
    "last": "2026-10-24T13:54:57.083138+00:00"
-  },
-  "S998": {
-   "title": "Buffalo vs. Fordham college football live game page",
-   "first": "2026-10-24T09:34:27.883689+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T05:49:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Buffalo vs. Fordham 22/11/26 - Mira Juego en vivo"
-   },
-   "last": "2026-10-24T09:34:27.883707+00:00"
-  },
-  "S999": {
-   "title": "Honda's unexpected upgraded power unit issue at Singapore",
-   "first": "2026-10-24T09:34:27.883713+00:00",
-   "sources": {
-    "Autosport": "2026-10-24T09:30:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "The unexpected issue Honda faced with upgraded F1 power unit"
-   },
-   "last": "2026-10-24T09:34:27.883719+00:00"
   },
   "S1000": {
    "title": "Mumbai Indians elevate Pollard to head coach for IPL 2027",
@@ -11048,7 +11025,7 @@
     "RacingNews365": "George Russell handed damaging early United States GP penalty",
     "PlanetF1": "FIA explains mitigating circumstances behind Russell US GP penalty decision"
    },
-   "last": "2026-10-26T09:10:27.778492+00:00"
+   "last": "2026-10-26T09:40:45.930355+00:00"
   },
   "S1512": {
    "title": "Vikings 16-10 Colts NFL game recap",
@@ -12794,16 +12771,18 @@
    "sources": {
     "ESPN F1": "2026-10-26T01:52:00+00:00",
     "RacingNews365": "2026-10-26T08:50:00+00:00",
-    "Crash.net": "2026-10-26T09:24:15+00:00"
+    "Crash.net": "2026-10-26T09:24:15+00:00",
+    "RacingNews365 NL": "2026-10-26T09:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "ESPN F1": "Max Verstappen jokes Red Bull should ditch 'disaster' team radio after U.S. GP",
     "RacingNews365": "Max Verstappen makes 'sign language' proposal after latest radio 'disaster'",
-    "Crash.net": "Max Verstappen rues Red Bull \"disaster\": 'Maybe we should use sign language'"
+    "Crash.net": "Max Verstappen rues Red Bull \"disaster\": 'Maybe we should use sign language'",
+    "RacingNews365 NL": "Verstappen reageert cynisch op terugkerend Red Bull-probleem"
    },
-   "last": "2026-10-26T09:30:23.423420+00:00"
+   "last": "2026-10-26T09:40:45.930348+00:00"
   },
   "S1639": {
    "title": "Quinn Priester's uncle pilots Brewers' flight to Florida",
@@ -13497,9 +13476,22 @@
     "ESPN F1": "Transfer rumors, news: Man United eye Branthwaite amid defensive rebuild"
    },
    "last": "2026-10-26T09:30:23.423412+00:00"
+  },
+  "S1692": {
+   "title": "Lamonato analysis of Leclerc's lap that cost Austin win",
+   "first": "2026-10-26T09:40:45.930323+00:00",
+   "sources": {
+    "Formula 1": "2026-10-26T09:40:45.930336+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The single lap that cost Leclerc a shot at victory in Austin"
+   },
+   "last": "2026-10-26T09:40:45.930340+00:00"
   }
  },
- "story_seq": 1691,
+ "story_seq": 1692,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13618,7 +13610,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T09:30:20.492918+00:00",
+ "last_run": "2026-10-26T09:40:39.254530+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
