@@ -3653,7 +3653,12 @@
   "57b419069fa71a7b": "2026-10-26T08:20:17.070987+00:00",
   "91ef9e2cd670d417": "2026-10-26T08:20:17.070987+00:00",
   "db7de5a4618d0726": "2026-10-26T08:20:17.070987+00:00",
-  "770c167928017e13": "2026-10-26T08:20:17.070987+00:00"
+  "770c167928017e13": "2026-10-26T08:20:17.070987+00:00",
+  "2b00ce940ec0f017": "2026-10-26T08:30:21.828755+00:00",
+  "6af2028fc6ab668c": "2026-10-26T08:30:21.828755+00:00",
+  "783bdde759936cad": "2026-10-26T08:30:21.828755+00:00",
+  "1bbc41fee7c09413": "2026-10-26T08:30:21.828755+00:00",
+  "c0a7beecf7c27b4d": "2026-10-26T08:30:21.828755+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3967,32 +3972,6 @@
     "GPblog": "Kimi Antonelli gives hilarious response over breaking Sebastian Vettel's F1 title record"
    },
    "last": "2026-10-24T18:36:08.783367+00:00"
-  },
-  "S985": {
-   "title": "Bortoleto echoes Verstappen on 'really intense' COTA bumps after practice",
-   "first": "2026-10-24T08:24:26.897969+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-24T08:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Bortoleto echoot Verstappen: \"Het is echt heel heftig\""
-   },
-   "last": "2026-10-24T08:24:26.897986+00:00"
-  },
-  "S986": {
-   "title": "Empty ESPN Deportes item with no content",
-   "first": "2026-10-24T08:29:28.365961+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T05:33:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "ESPN Deportes"
-   },
-   "last": "2026-10-24T08:29:28.365979+00:00"
   },
   "S987": {
    "title": "Antonelli says FP1 seat fit was off but updated car encouraging",
@@ -13403,14 +13382,16 @@
    "title": "Leclerc praises Verstappen's start battle in Austin",
    "first": "2026-10-26T07:15:25.781501+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-10-26T07:10:00+00:00"
+    "RacingNews365 NL": "2026-10-26T07:10:00+00:00",
+    "FormulaPassion": "2026-10-26T08:24:40+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Leclerc verwonderd door Verstappen: \"Max is een beest!\""
+    "RacingNews365 NL": "Leclerc verwonderd door Verstappen: \"Max is een beest!\"",
+    "FormulaPassion": "Leclerc sul duello con Verstappen: “In pista è un animale. So che non mi lascerà spazio e io farò lo stesso con lui”"
    },
-   "last": "2026-10-26T07:15:25.781507+00:00"
+   "last": "2026-10-26T08:30:26.299710+00:00"
   },
   "S1675": {
    "title": "MIT vs. Harvard live match page (not F1)",
@@ -13476,9 +13457,61 @@
     "PlanetF1": "2026 United States Grand Prix Driver Ratings: Absolute perfection"
    },
    "last": "2026-10-26T08:20:24.639796+00:00"
+  },
+  "S1680": {
+   "title": "Jermaine Pennant hospitalised after dog attack",
+   "first": "2026-10-26T08:30:26.299674+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T08:25:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jermaine Pennant hospitalised by dog attack"
+   },
+   "last": "2026-10-26T08:30:26.299692+00:00"
+  },
+  "S1681": {
+   "title": "Analysis of Antonelli's Austin win and title proximity",
+   "first": "2026-10-26T08:30:26.299698+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-26T08:25:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli, ad Austin la vittoria più pesante: il mondiale è a due passi"
+   },
+   "last": "2026-10-26T08:30:26.299704+00:00"
+  },
+  "S1682": {
+   "title": "F1 podcast discusses Austin GP stories",
+   "first": "2026-10-26T08:30:26.299715+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-26T08:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "American Beauty e le altre storie da Austin: I Doppiati F1 Podcast – VIDEO"
+   },
+   "last": "2026-10-26T08:30:26.299719+00:00"
+  },
+  "S1683": {
+   "title": "Antonelli's one-stop tyre strategy credited to engineer Bono",
+   "first": "2026-10-26T08:30:26.299723+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-26T08:14:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli mago delle gomme, c’è (anche) lo zampino di Bono"
+   },
+   "last": "2026-10-26T08:30:26.299727+00:00"
   }
  },
- "story_seq": 1679,
+ "story_seq": 1683,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13597,7 +13630,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T08:20:17.070987+00:00",
+ "last_run": "2026-10-26T08:30:21.828755+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -14962,6 +14995,16 @@
    "t": "2026-10-26T08:20:28.676676+00:00",
    "title": "Antonelli ABD GP'de dominant galibiyet aldı; Leclerc ikinci",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-26T08:30:36.170456+00:00",
+   "title": "Antonelli'nin Austin zaferinde lastik stratejisi ve Bono'nun katkısı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-26T08:30:36.726861+00:00",
+   "title": "Antonelli Austin'de zafer kazandı, şampiyonluğa iki puan kaldı",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
