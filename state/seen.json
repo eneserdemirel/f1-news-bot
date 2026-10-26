@@ -3798,7 +3798,12 @@
   "f548aece82295039": "2026-10-26T14:51:13.342911+00:00",
   "6fdaba1c83a2bf79": "2026-10-26T14:51:13.342911+00:00",
   "35a9b1ebf0c9589b": "2026-10-26T15:01:21.042006+00:00",
-  "be262867b0a8d041": "2026-10-26T15:01:21.042006+00:00"
+  "be262867b0a8d041": "2026-10-26T15:01:21.042006+00:00",
+  "de386b36babeb2fc": "2026-10-26T15:11:11.032596+00:00",
+  "d331c47829f9ea14": "2026-10-26T15:11:11.032596+00:00",
+  "17a01b33a0023175": "2026-10-26T15:11:11.032596+00:00",
+  "770976f12c14b925": "2026-10-26T15:11:11.032596+00:00",
+  "b59aeebda8503813": "2026-10-26T15:11:11.032596+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3820,25 +3825,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S803": {
-   "title": "Ferrari's bigger-than-admitted US GP upgrade revealed by The Race",
-   "first": "2026-10-23T16:41:58.475029+00:00",
-   "sources": {
-    "The Race": "2026-10-23T16:38:51+00:00",
-    "Crash.net": "2026-10-23T17:51:59+00:00",
-    "FormulaPassion": "2026-10-23T19:55:27+00:00",
-    "PlanetF1": "2026-10-24T10:11:54+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Ferrari's biggest F1 upgrade of 2026 revealed at US GP",
-    "Crash.net": "Ferrari’s ‘impressive’ last aero upgrade of 2026 F1 season explained",
-    "FormulaPassion": "Ferrari spinge, ecco gli aggiornamenti: cosa è cambiato",
-    "PlanetF1": "Revealed: The truth behind Ferrari’s Austin upgrade and Leclerc’s P1 pace"
-   },
-   "last": "2026-10-24T15:10:04.118752+00:00"
-  },
   "S818": {
    "title": "FIA confirms first grid penalties for US GP power unit allocations",
    "first": "2026-10-23T17:56:50.762401+00:00",
@@ -4059,19 +4045,6 @@
     "GPblog": "Mercedes makes decisive call on new front wing at the US Grand Prix"
    },
    "last": "2026-10-24T18:36:08.783380+00:00"
-  },
-  "S1071": {
-   "title": "Newey says he and Horner remain friends despite book",
-   "first": "2026-10-24T15:05:03.629643+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-24T15:02:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Adrian Newey: Christian Horner und ich bleiben Freunde - trotz des Buches - Motorsport-Total.com"
-   },
-   "last": "2026-10-24T15:05:03.629648+00:00"
   },
   "S1072": {
    "title": "Utah student misses two kicks, forfeits $1 million",
@@ -11535,7 +11508,8 @@
     "GPFans": "2026-10-26T08:43:00+00:00",
     "PlanetF1": "2026-10-26T11:15:06+00:00",
     "RacingNews365 NL": "2026-10-26T12:30:00+00:00",
-    "Motorsport Week": "2026-10-26T14:00:00+00:00"
+    "Motorsport Week": "2026-10-26T14:00:00+00:00",
+    "Auto Motor und Sport": "2026-10-26T15:07:14+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11551,9 +11525,10 @@
     "GPFans": "Fernando Alonso launches scathing attack on F1 rivals after US Grand Prix incident",
     "PlanetF1": "Alonso takes ‘very low’ driver quality shot after Albon US GP clash",
     "RacingNews365 NL": "Alonso schoffeert concurrentie na botsing Albon: \"Zéér laag\"",
-    "Motorsport Week": "Fernando Alonso takes aim at ‘low quality’ driver Alex Albon after US GP clash"
+    "Motorsport Week": "Fernando Alonso takes aim at ‘low quality’ driver Alex Albon after US GP clash",
+    "Auto Motor und Sport": "„Qualität der Fahrer ist zu schlecht“"
    },
-   "last": "2026-10-26T14:21:20.432604+00:00"
+   "last": "2026-10-26T15:11:16.854496+00:00"
   },
   "S1612": {
    "title": "RacingNews365 review of Verstappen's frustration in Austin",
@@ -12820,7 +12795,7 @@
    "titles": {
     "RacingNews365 NL": "Verstappen heeft eerste tiende winst voor Mexico al op zak"
    },
-   "last": "2026-10-26T11:21:12.229312+00:00"
+   "last": "2026-10-26T15:11:16.854464+00:00"
   },
   "S1707": {
    "title": "Motorsport-Total publishes Austin driver ratings with Marc Surer",
@@ -13694,9 +13669,48 @@
     "FormulaPassion": "Il retroscena: Hamilton è partito con 12 click in meno sull’ala anteriore rispetto al suo assetto ideale"
    },
    "last": "2026-10-26T15:01:25.661496+00:00"
+  },
+  "S1774": {
+   "title": "Red Bull reveals debris damage on Verstappen's car in Austin",
+   "first": "2026-10-26T15:11:16.854473+00:00",
+   "sources": {
+    "GPblog": "2026-10-26T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Red Bull reveals hidden damage on Verstappen's car behind Austin pace drop"
+   },
+   "last": "2026-10-26T15:11:16.854478+00:00"
+  },
+  "S1775": {
+   "title": "High rake seen as overlooked weakness of 2026 regulations",
+   "first": "2026-10-26T15:11:16.854481+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-26T15:08:57+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "High Rake: Der wenig beachtete Schwachpunkt des Reglements 2026 - Motorsport-Total.com"
+   },
+   "last": "2026-10-26T15:11:16.854485+00:00"
+  },
+  "S1776": {
+   "title": "Horner wants fans allowed to the pit wall for new experience",
+   "first": "2026-10-26T15:11:16.854488+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-26T15:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Horner fordert neues Fanerlebnis: Zuschauer sollen an die Boxenmauer - Motorsport-Total.com"
+   },
+   "last": "2026-10-26T15:11:16.854491+00:00"
   }
  },
- "story_seq": 1773,
+ "story_seq": 1776,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13815,7 +13829,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T15:01:21.042006+00:00",
+ "last_run": "2026-10-26T15:11:11.032596+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
@@ -15360,6 +15374,21 @@
    "t": "2026-10-26T15:01:34.411484+00:00",
    "title": "Hamilton, Austin'de ön kanat ayarını ideal seviyenin 12 klik gerisinde başladı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-26T15:11:21.904990+00:00",
+   "title": "Red Bull: Verstappen'in Austin'deki temposu düşüşünde gizli hasar vardı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-26T15:11:22.334399+00:00",
+   "title": "Horner, taraftarların pit duvarına inmesini istiyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-26T15:11:22.738661+00:00",
+   "title": "2026 Reglamanındaki Yüksek Rake Sorunu",
+   "source": "Motorsport-Total"
   }
  ]
 }
