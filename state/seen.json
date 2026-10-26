@@ -3733,7 +3733,9 @@
   "814f0925f61288fa": "2026-10-26T12:11:09.560889+00:00",
   "df792d96a64da25f": "2026-10-26T12:21:08.044879+00:00",
   "04bc42880fcc92cd": "2026-10-26T12:21:08.044879+00:00",
-  "5917a61c22ff5e96": "2026-10-26T12:21:08.044879+00:00"
+  "5917a61c22ff5e96": "2026-10-26T12:21:08.044879+00:00",
+  "3621cf7aa8679d6f": "2026-10-26T12:31:09.174861+00:00",
+  "ec2534caa5c88407": "2026-10-26T12:31:09.174861+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3937,19 +3939,6 @@
    },
    "last": "2026-10-24T13:54:57.083138+00:00"
   },
-  "S1008": {
-   "title": "Antonelli recovers from loose seat to finish FP2 second",
-   "first": "2026-10-24T10:29:30.863275+00:00",
-   "sources": {
-    "GPblog": "2026-10-24T10:24:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "How Antonelli recovered from a seat issue to get within a tenth of Leclerc on title weekend"
-   },
-   "last": "2026-10-24T12:27:05.688040+00:00"
-  },
   "S1014": {
    "title": "Verstappen gives unusual review of Horner's autobiography at Austin",
    "first": "2026-10-24T11:20:01.183194+00:00",
@@ -4007,71 +3996,6 @@
     "ESPN F1": "NHL Tonight: Previewing Ducks-Flyers revenge matinee, plus 11 other Saturday games"
    },
    "last": "2026-10-24T13:54:57.083134+00:00"
-  },
-  "S1029": {
-   "title": "Norris and Piastri laugh off Singapore crash at US GP",
-   "first": "2026-10-24T12:20:10.397474+00:00",
-   "sources": {
-    "GPblog": "2026-10-24T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Norris and Piastri laugh off Singapore crash: 'Wanted to spice things up'"
-   },
-   "last": "2026-10-24T12:27:05.688031+00:00"
-  },
-  "S1030": {
-   "title": "Fernando Mendoza embraces role as Raiders' Hispanic QB",
-   "first": "2026-10-24T12:27:05.688015+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T10:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fernando Mendoza is embracing being Raiders' latest Hispanic QB"
-   },
-   "last": "2026-10-24T12:27:05.688026+00:00"
-  },
-  "S1031": {
-   "title": "Norris sees tough COTA challenge, hints at McLaren secret weapon",
-   "first": "2026-10-24T12:27:05.688042+00:00",
-   "sources": {
-    "GPblog": "2026-10-24T09:25:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Norris sees 'tough' challenge ahead, but McLaren driver has secret weapon at his disposal"
-   },
-   "last": "2026-10-24T12:27:05.688044+00:00"
-  },
-  "S1032": {
-   "title": "NFL Week 7 predictions, picks and fantasy sleepers",
-   "first": "2026-10-24T12:30:00.734591+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T10:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more"
-   },
-   "last": "2026-10-24T12:30:00.734611+00:00"
-  },
-  "S1033": {
-   "title": "Norris and Russell explain revealed secret Red Bull simulator test",
-   "first": "2026-10-24T12:30:00.734615+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-24T12:25:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Lando Norris en George Russell verklaren nieuw onthulde Red Bull-test"
-   },
-   "last": "2026-10-24T12:30:00.734619+00:00"
   },
   "S1034": {
    "title": "ESPN piece on 2001 Miami Hurricanes as college football great",
@@ -13568,9 +13492,35 @@
     "RacingNews365": "2026 F1 United States Grand Prix - Austin Driver Ratings"
    },
    "last": "2026-10-26T12:21:11.707627+00:00"
+  },
+  "S1726": {
+   "title": "Chelsea backs Mike Penders, says Xabi Alonso",
+   "first": "2026-10-26T12:31:11.772893+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T12:27:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chelsea will 'keep confidence' in Mike Penders - Xabi Alonso"
+   },
+   "last": "2026-10-26T12:31:11.772909+00:00"
+  },
+  "S1727": {
+   "title": "Feature on Austin GP and F1's growth in North America",
+   "first": "2026-10-26T12:31:11.772913+00:00",
+   "sources": {
+    "The Race": "2026-10-26T12:23:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "US GP struggled before. Now Austin is the image of F1's growth"
+   },
+   "last": "2026-10-26T12:31:11.772917+00:00"
   }
  },
- "story_seq": 1725,
+ "story_seq": 1727,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13689,7 +13639,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T12:21:08.044879+00:00",
+ "last_run": "2026-10-26T12:31:09.174861+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
@@ -15164,6 +15114,11 @@
    "t": "2026-10-26T12:11:20.213503+00:00",
    "title": "McLaren'da kriz: son 4 yarışta 49 puan, Red Bull ile eşitlendi",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-26T12:31:15.666208+00:00",
+   "title": "Austin GP, F1'in Amerika'daki büyümesinin simgesi oldu",
+   "source": "The Race"
   }
  ]
 }
