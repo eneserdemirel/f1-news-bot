@@ -3747,7 +3747,13 @@
   "0a077cdd574257a4": "2026-10-26T13:01:08.786944+00:00",
   "f2dc9200b0f338a8": "2026-10-26T13:01:08.786944+00:00",
   "f1d5d1713d376509": "2026-10-26T13:01:08.786944+00:00",
-  "aa5a041a3d5bb954": "2026-10-26T13:01:08.786944+00:00"
+  "aa5a041a3d5bb954": "2026-10-26T13:01:08.786944+00:00",
+  "93e5cce8d71c4738": "2026-10-26T13:11:14.687902+00:00",
+  "132b4a5912a07b8f": "2026-10-26T13:11:14.687902+00:00",
+  "b40f89d060c372c6": "2026-10-26T13:11:14.687902+00:00",
+  "bbe90070d79dbd25": "2026-10-26T13:11:14.687902+00:00",
+  "53907db208552f67": "2026-10-26T13:11:14.687902+00:00",
+  "416682cb1c73f809": "2026-10-26T13:11:14.687902+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3909,19 +3915,6 @@
     "GPblog": "Kimi Antonelli gives hilarious response over breaking Sebastian Vettel's F1 title record"
    },
    "last": "2026-10-24T18:36:08.783367+00:00"
-  },
-  "S988": {
-   "title": "Amen Thompson blocks Wemby to seal the game",
-   "first": "2026-10-24T08:44:23.263603+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T04:22:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Amen Thompson blocks Wemby to seal the game"
-   },
-   "last": "2026-10-24T13:05:00.651803+00:00"
   },
   "S989": {
    "title": "Antonelli says Austin track layout contributes to track limit violations",
@@ -4085,19 +4078,6 @@
     "ESPN F1": "Bayern Munich's Vincent Kompany 'stable,' but could be away for 'weeks' after collapsing"
    },
    "last": "2026-10-24T13:54:57.083129+00:00"
-  },
-  "S1042": {
-   "title": "Arsenal vs Everton Premier League live updates",
-   "first": "2026-10-24T13:10:01.575907+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T12:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arsenal vs Everton LIVE: Premier League updates from Emirates Stadium"
-   },
-   "last": "2026-10-24T13:10:01.575912+00:00"
   },
   "S1043": {
    "title": "Anthony Gordon rated out of 10 for Barcelona start",
@@ -13586,9 +13566,74 @@
     "GPFans": "Honda chief makes fresh F1 vow despite Aston Martin struggles"
    },
    "last": "2026-10-26T13:01:12.133935+00:00"
+  },
+  "S1735": {
+   "title": "76ers vs Pacers live match page (not F1)",
+   "first": "2026-10-26T13:11:19.283005+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T08:41:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "En Español-Philadelphia 76ers vs. Indiana Pacers 28/10/26 - Mira Juego en vivo"
+   },
+   "last": "2026-10-26T13:11:19.283028+00:00"
+  },
+  "S1736": {
+   "title": "Flick rejects excuses after Barcelona El Clásico loss (football)",
+   "first": "2026-10-26T13:11:19.283032+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T08:29:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Flick 'not accepting excuses' after Barcelona's El Clásico defeat"
+   },
+   "last": "2026-10-26T13:11:19.283037+00:00"
+  },
+  "S1737": {
+   "title": "Hamilton explains Ferrari radio message about checking Leclerc's car",
+   "first": "2026-10-26T13:11:19.283040+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-26T13:03:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Hamilton explains Ferrari radio message after asking team to check Leclerc’s car"
+   },
+   "last": "2026-10-26T13:11:19.283043+00:00"
+  },
+  "S1738": {
+   "title": "Marquez Qatar MotoGP dispute and Tardozzi defence (MotoGP)",
+   "first": "2026-10-26T13:11:19.283046+00:00",
+   "sources": {
+    "GPblog": "2026-10-26T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez at centre of Qatar MotoGP dispute as Ducati boss speaks out"
+   },
+   "last": "2026-10-26T13:11:19.283049+00:00"
+  },
+  "S1739": {
+   "title": "Gasly reflects on US GP 10th place after Lawson contact",
+   "first": "2026-10-26T13:11:19.283052+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-26T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Gasly concretizza il 10° posto: “Date le circostanze, credo sia un buon risultato”"
+   },
+   "last": "2026-10-26T13:11:19.283055+00:00"
   }
  },
- "story_seq": 1734,
+ "story_seq": 1739,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13707,7 +13752,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T13:01:08.786944+00:00",
+ "last_run": "2026-10-26T13:11:14.687902+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
@@ -15212,6 +15257,16 @@
    "t": "2026-10-26T13:01:19.355195+00:00",
    "title": "Norris, McLaren'ın tek pit stoplu stratejisinin tutması için dua ettiğini söyledi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-26T13:11:23.919479+00:00",
+   "title": "Gasly 10. sırada bitirdi, puan kazandı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-26T13:11:24.336895+00:00",
+   "title": "Hamilton, Leclerc'nin araç kurulumunu kontrol ettirdi, telsiz mesajını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
