@@ -3904,7 +3904,8 @@
   "b5512268f5b6a18d": "2026-10-26T19:32:05.337680+00:00",
   "a9ddec9d1038da95": "2026-10-26T19:32:05.337680+00:00",
   "64dab1a0e9b5165e": "2026-10-26T19:42:08.393264+00:00",
-  "bd298901820aa7da": "2026-10-26T19:42:08.393264+00:00"
+  "bd298901820aa7da": "2026-10-26T19:42:08.393264+00:00",
+  "475a28d1b0512b25": "2026-10-26T19:52:10.432198+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4254,58 +4255,6 @@
    },
    "last": "2026-10-25T02:21:19.279450+00:00"
   },
-  "S1160": {
-   "title": "UD Castellonense fixtures list",
-   "first": "2026-10-24T19:45:36.365169+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T19:12:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UD Castellonense Fixtures"
-   },
-   "last": "2026-10-24T19:45:36.365189+00:00"
-  },
-  "S1161": {
-   "title": "UD Castellonense 2026 results page",
-   "first": "2026-10-24T19:45:36.365193+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T19:12:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UD Castellonense 2026 Results"
-   },
-   "last": "2026-10-24T19:45:36.365197+00:00"
-  },
-  "S1162": {
-   "title": "Jax Leatherwood throws 52-yard touchdown pass",
-   "first": "2026-10-24T19:45:36.365200+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T19:09:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jax Leatherwood connects for 52-yard TD pass"
-   },
-   "last": "2026-10-24T19:45:36.365203+00:00"
-  },
-  "S1163": {
-   "title": "Gabe Passini throws 2-yard touchdown pass",
-   "first": "2026-10-24T19:45:36.365205+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T17:44:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gabe Passini throws 2-yard touchdown"
-   },
-   "last": "2026-10-24T19:45:36.365208+00:00"
-  },
   "S1164": {
    "title": "Lamar Jackson downgraded to out vs Bengals",
    "first": "2026-10-24T19:50:39.808363+00:00",
@@ -4331,45 +4280,6 @@
     "ESPN F1": "Atlanta Dream vs. Golden State Valkyries - Game Highlights"
    },
    "last": "2026-10-24T20:15:48.550129+00:00"
-  },
-  "S1166": {
-   "title": "Kayla Thornton and-1 highlight for Valkyries",
-   "first": "2026-10-24T19:50:39.808399+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T19:10:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kayla Thornton fights off defender for a Valkyries and-1"
-   },
-   "last": "2026-10-24T19:50:39.808402+00:00"
-  },
-  "S1167": {
-   "title": "Napoli 3-3 AS Roma final result",
-   "first": "2026-10-24T19:50:39.808404+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T16:49:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Napoli 3-3 AS Roma (Oct 24, 2026) Team Stats"
-   },
-   "last": "2026-10-24T19:50:39.808407+00:00"
-  },
-  "S1168": {
-   "title": "Antonelli struggles with road Mercedes during filming",
-   "first": "2026-10-24T19:50:39.808410+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-24T19:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Antonelli gaat de mist in tijdens opnames in peperdure Mercedes"
-   },
-   "last": "2026-10-24T19:50:39.808414+00:00"
   },
   "S1169": {
    "title": "Jadyn Glasser 9-yard TD pass to Langston Lewis",
@@ -13533,9 +13443,22 @@
     "ESPN F1": "MLB tests out restricted OF shifts in effort to up offense"
    },
    "last": "2026-10-26T19:42:10.051585+00:00"
+  },
+  "S1842": {
+   "title": "Analysis: Hamilton's struggles against Leclerc at Ferrari become a trend",
+   "first": "2026-10-26T19:52:13.414725+00:00",
+   "sources": {
+    "GPFans": "2026-10-26T19:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton's worrying Ferrari trend exposed as Leclerc problem deepens"
+   },
+   "last": "2026-10-26T19:52:13.414743+00:00"
   }
  },
- "story_seq": 1841,
+ "story_seq": 1842,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13654,17 +13577,12 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T19:42:08.393264+00:00",
+ "last_run": "2026-10-26T19:52:10.432198+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-23T19:47:39.165749+00:00",
-   "title": "Brundle, Verstappen'in formunu övdü: \"Hâlâ dövülmesi gereken adam\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-23T20:12:54.022797+00:00",
    "title": "Ferrari'nin ABD GP güncellemelerinin arkasındaki nedenler",
@@ -15249,6 +15167,11 @@
    "t": "2026-10-26T19:32:16.223579+00:00",
    "title": "Aston Martin, Red Bull ile motor görüşmelerini yalanlamadı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-26T19:52:20.542572+00:00",
+   "title": "Hamilton'ın Leclerc sorunu Ferrari'de büyüyor",
+   "source": "GPFans"
   }
  ]
 }
