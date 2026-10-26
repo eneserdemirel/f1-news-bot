@@ -3805,7 +3805,12 @@
   "770976f12c14b925": "2026-10-26T15:11:11.032596+00:00",
   "b59aeebda8503813": "2026-10-26T15:11:11.032596+00:00",
   "c040c7d28a1bc564": "2026-10-26T15:21:08.680701+00:00",
-  "60aa74af8582e603": "2026-10-26T15:21:08.680701+00:00"
+  "60aa74af8582e603": "2026-10-26T15:21:08.680701+00:00",
+  "222acac1751ba7dd": "2026-10-26T15:31:14.352853+00:00",
+  "f26b9bc18a6b501e": "2026-10-26T15:31:14.352853+00:00",
+  "e4d2744cb3ba3558": "2026-10-26T15:31:14.352853+00:00",
+  "f783a7de42e8ae1b": "2026-10-26T15:31:14.352853+00:00",
+  "415d28364ce05a7d": "2026-10-26T15:31:14.352853+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4115,32 +4120,6 @@
     "ESPN F1": "Sources - Indiana RB Khobie Martin to return vs. Michigan"
    },
    "last": "2026-10-24T20:10:40.934066+00:00"
-  },
-  "S1078": {
-   "title": "Man City lose 100% Premier League record at Aston Villa",
-   "first": "2026-10-24T15:25:07.858970+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T13:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man City lose 100% Premier League record with defeat at Aston Villa"
-   },
-   "last": "2026-10-24T15:25:07.858974+00:00"
-  },
-  "S1079": {
-   "title": "Herta earns another superlicence point at US GP FP1",
-   "first": "2026-10-24T15:25:07.858976+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-24T15:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Colton Herta closing in on F1 superlicence as magic points tally within reach"
-   },
-   "last": "2026-10-24T15:25:07.858979+00:00"
   },
   "S1080": {
    "title": "Rybakina to face Leylah Fernandez in Ningbo Open final",
@@ -13684,9 +13663,74 @@
     "Motorsport-Total": "Horner fordert neues Fanerlebnis: Zuschauer sollen an die Boxenmauer - Motorsport-Total.com"
    },
    "last": "2026-10-26T15:11:16.854491+00:00"
+  },
+  "S1777": {
+   "title": "Giants backfield situation analysis (NFL)",
+   "first": "2026-10-26T15:31:20.007747+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T15:04:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What to make of the Giants' backfield situation"
+   },
+   "last": "2026-10-26T15:31:20.007767+00:00"
+  },
+  "S1778": {
+   "title": "Chase Brown fantasy starting RB outlook (NFL)",
+   "first": "2026-10-26T15:31:20.007771+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T14:51:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Is Chase Brown still a starting fantasy RB?"
+   },
+   "last": "2026-10-26T15:31:20.007775+00:00"
+  },
+  "S1779": {
+   "title": "Hadjar's post-race Sky interview delayed for bleeping",
+   "first": "2026-10-26T15:31:20.007777+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-26T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Scheldende Hadjar zorgt voor opvallend moment tijdens interview"
+   },
+   "last": "2026-10-26T15:31:20.007780+00:00"
+  },
+  "S1780": {
+   "title": "Hadjar angry about bad start that lost Red Bull positions",
+   "first": "2026-10-26T15:31:20.007783+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-26T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hadjar dal sogno podio alla delusione: “Sono arrabbiato per la partenza, abbiamo regalato posizioni alle Ferrari”"
+   },
+   "last": "2026-10-26T15:31:20.007785+00:00"
+  },
+  "S1781": {
+   "title": "Honda's Orihara outlines 2027 upgrade roadmap",
+   "first": "2026-10-26T15:31:20.007788+00:00",
+   "sources": {
+    "AS": "2026-10-26T15:15:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "La hoja de ruta de Honda"
+   },
+   "last": "2026-10-26T15:31:20.007791+00:00"
   }
  },
- "story_seq": 1776,
+ "story_seq": 1781,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13805,17 +13849,12 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T15:21:08.680701+00:00",
+ "last_run": "2026-10-26T15:31:14.352853+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
  "last_digest_at": "2026-10-26T12:01:34.353453+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-23T15:26:56.145699+00:00",
-   "title": "Mercedes'in rakipleri ABD GP'de yeni güncellemelerle geri dönüyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-23T15:42:01.061177+00:00",
    "title": "Red Bull yeni ön kanatla gelişimi sürdürüyor, FIA onayladı",
@@ -15365,6 +15404,21 @@
    "t": "2026-10-26T15:11:22.738661+00:00",
    "title": "2026 Reglamanındaki Yüksek Rake Sorunu",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-26T15:31:28.686401+00:00",
+   "title": "Hadjar podyum hayalinin söndüğünü açıkladı: Kötü start pozisyon kaybettirdi",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-26T15:31:29.110432+00:00",
+   "title": "Honda'dan 2027 için yol haritası: İlk yarışta gelişim, yaz aylarında büyük adım",
+   "source": "AS"
+  },
+  {
+   "t": "2026-10-26T15:31:29.537787+00:00",
+   "title": "Hadjar, Austin'de hayal kırıklığını gizlemedi; röportajda küfürler bip sesiyle örtüldü",
+   "source": "RacingNews365 NL"
   }
  ]
 }
