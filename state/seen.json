@@ -3646,7 +3646,9 @@
   "1c145a84c8b31f6f": "2026-10-26T07:50:55.655331+00:00",
   "4fb3d46afcd0ee01": "2026-10-26T07:50:55.655331+00:00",
   "e726af194ff1b2a3": "2026-10-26T07:50:55.655331+00:00",
-  "95b9d7de25c18c36": "2026-10-26T08:00:18.289947+00:00"
+  "95b9d7de25c18c36": "2026-10-26T08:00:18.289947+00:00",
+  "50f707fc8a4fe886": "2026-10-26T08:10:18.277742+00:00",
+  "c8826265c5b0c25d": "2026-10-26T08:10:18.277742+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3863,21 +3865,6 @@
    },
    "last": "2026-10-24T08:54:28.116753+00:00"
   },
-  "S900": {
-   "title": "Leclerc says Ferrari's Austin upgrades work and balance is key",
-   "first": "2026-10-23T23:52:33.353774+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-23T23:47:13+00:00",
-    "Crash.net": "2026-10-24T08:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Leclerc sorride: novità promosse, ma la vera chiave è aver trovato subito un buon bilanciamento",
-    "Crash.net": "Charles Leclerc casts judgement on much-hyped Ferrari US GP upgrade"
-   },
-   "last": "2026-10-24T08:04:29.335602+00:00"
-  },
   "S913": {
    "title": "Williams' strange US GP practice run plan explained",
    "first": "2026-10-24T01:03:41.469610+00:00",
@@ -3960,45 +3947,6 @@
     "FormulaPassion": "Leclerc: “Restiamo cauti, senza nutrire aspettative troppo alte per le qualifiche”"
    },
    "last": "2026-10-24T09:09:49.350145+00:00"
-  },
-  "S979": {
-   "title": "Newey clarifies Lawrence Stroll did meet Honda in Japan",
-   "first": "2026-10-24T08:04:29.335579+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-24T08:03:22+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lawrence Stroll Honda meeting clarified by Newey"
-   },
-   "last": "2026-10-24T08:04:29.335595+00:00"
-  },
-  "S980": {
-   "title": "Ziaire Williams slam dunk clip",
-   "first": "2026-10-24T08:09:28.174266+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T03:58:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ziaire Williams elevates for slam dunk"
-   },
-   "last": "2026-10-24T08:09:28.174283+00:00"
-  },
-  "S981": {
-   "title": "Brewers 3-2 Rays World Series game recap",
-   "first": "2026-10-24T08:09:28.174288+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T03:54:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brewers 3-2 Rays (Oct 23, 2026) Game Recap"
-   },
-   "last": "2026-10-24T08:09:28.174293+00:00"
   },
   "S982": {
    "title": "Red Bull focus on two areas after positive Austin start",
@@ -12643,7 +12591,8 @@
     "GPblog": "2026-10-26T06:00:00+00:00",
     "Sky Sports F1": "2026-10-26T01:00:00+00:00",
     "Autosport": "2026-10-26T06:14:23+00:00",
-    "AS": "2026-10-26T07:12:20+00:00"
+    "AS": "2026-10-26T07:12:20+00:00",
+    "RacingNews365": "2026-10-26T08:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12654,9 +12603,10 @@
     "GPblog": "Alonso fumes after Albon US GP clash: \"The quality of drivers at the back is very low\"",
     "Sky Sports F1": "'Quality of drivers very low' - Alonso criticises Albon after clash",
     "Autosport": "Alonso criticises quality of F1 backmarkers after Albon clash at United States GP",
-    "AS": "Alonso: “El nivel de los pilotos de atrás es muy bajo”"
+    "AS": "Alonso: “El nivel de los pilotos de atrás es muy bajo”",
+    "RacingNews365": "Fernando Alonso slates 'back of the grid' drivers after Alex Albon collision"
    },
-   "last": "2026-10-26T07:50:58.976025+00:00"
+   "last": "2026-10-26T08:10:22.753906+00:00"
   },
   "S1612": {
    "title": "RacingNews365 review of Verstappen's frustration in Austin",
@@ -13506,9 +13456,22 @@
     "PlanetF1": "Data reveals genius Ferrari call at United States GP"
    },
    "last": "2026-10-26T07:40:19.060485+00:00"
+  },
+  "S1677": {
+   "title": "RacingNews365 analysis of Verstappen's failed two-stop strategy at Austin",
+   "first": "2026-10-26T08:10:22.753917+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-26T08:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Geïrriteerde Verstappen fileert Red Bull-plan in Austin"
+   },
+   "last": "2026-10-26T08:10:22.753923+00:00"
   }
  },
- "story_seq": 1676,
+ "story_seq": 1677,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13627,7 +13590,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T08:00:18.289947+00:00",
+ "last_run": "2026-10-26T08:10:18.277742+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
