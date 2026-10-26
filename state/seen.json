@@ -3616,7 +3616,9 @@
   "959dc078356fcc01": "2026-10-26T07:15:19.921256+00:00",
   "2b960c21186170dc": "2026-10-26T07:15:19.921256+00:00",
   "a256430048a0d23b": "2026-10-26T07:20:33.598519+00:00",
-  "40e346b4645a0c13": "2026-10-26T07:20:33.598519+00:00"
+  "40e346b4645a0c13": "2026-10-26T07:20:33.598519+00:00",
+  "5f9cb84a28f969fb": "2026-10-26T07:35:14.175392+00:00",
+  "d809bc005bc18362": "2026-10-26T07:35:14.175392+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3965,19 +3967,6 @@
     "GPblog": "Championship contender declared unfit for Sunday after heavy crash"
    },
    "last": "2026-10-24T07:39:53.421445+00:00"
-  },
-  "S972": {
-   "title": "Giannis Antetokounmpo scores 36 in loss to Heat",
-   "first": "2026-10-24T07:34:27.237624+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T03:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giannis Antetokounmpo stays hot with 36 in loss, confident 0-2 Heat will click"
-   },
-   "last": "2026-10-24T07:34:27.237645+00:00"
   },
   "S973": {
    "title": "Horner reveals what Red Bull told him after Verstappen triumph",
@@ -13282,14 +13271,16 @@
    "title": "RacingNews365 publishes full Mexico City GP weekend time schedule",
    "first": "2026-10-26T05:04:38.626732+00:00",
    "sources": {
-    "RacingNews365": "2026-10-26T05:00:00+00:00"
+    "RacingNews365": "2026-10-26T05:00:00+00:00",
+    "GPblog": "2026-10-26T07:31:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "2026 F1 Mexican Grand Prix - Mexico City Time Schedule"
+    "RacingNews365": "2026 F1 Mexican Grand Prix - Mexico City Time Schedule",
+    "GPblog": "F1 Mexican GP 2026: All session times and full weekend schedule"
    },
-   "last": "2026-10-26T05:04:38.626751+00:00"
+   "last": "2026-10-26T07:35:17.938702+00:00"
   },
   "S1653": {
    "title": "Seahawks beat Chiefs as Smith-Njigba leads offense, defense stifles",
@@ -13576,9 +13567,22 @@
     "RacingNews365 NL": "Leclerc verwonderd door Verstappen: \"Max is een beest!\""
    },
    "last": "2026-10-26T07:15:25.781507+00:00"
+  },
+  "S1675": {
+   "title": "MIT vs. Harvard live match page (not F1)",
+   "first": "2026-10-26T07:35:17.938676+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T02:07:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "MIT vs. Harvard 2/11/26 - Mira Juego en vivo"
+   },
+   "last": "2026-10-26T07:35:17.938694+00:00"
   }
  },
- "story_seq": 1674,
+ "story_seq": 1675,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13697,7 +13701,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T07:30:17.887389+00:00",
+ "last_run": "2026-10-26T07:35:14.175392+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
