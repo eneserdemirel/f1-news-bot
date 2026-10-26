@@ -3822,7 +3822,9 @@
   "c9e0e87c2a5f2bc6": "2026-10-26T16:02:05.200444+00:00",
   "ec2aef201287d709": "2026-10-26T16:02:05.200444+00:00",
   "0cd1e2425d2060e4": "2026-10-26T16:02:05.200444+00:00",
-  "bb25b67c6721ef8d": "2026-10-26T16:02:05.200444+00:00"
+  "bb25b67c6721ef8d": "2026-10-26T16:02:05.200444+00:00",
+  "36483027af52e16d": "2026-10-26T16:12:06.174627+00:00",
+  "9879079010cb9299": "2026-10-26T16:12:06.174627+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3973,23 +3975,6 @@
    },
    "last": "2026-10-24T18:36:08.783384+00:00"
   },
-  "S1037": {
-   "title": "Anniversary feature on 1976 Japanese GP Hunt-Lauda title decider",
-   "first": "2026-10-24T12:54:59.737040+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-24T12:50:00+00:00",
-    "Motorsport-Total": "2026-10-24T12:52:19+00:00",
-    "RacingNews365 NL": "2026-10-24T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Niki Lauda 'hands' F1 rival world championship glory with stunning decision",
-    "Motorsport-Total": "24. Oktober 1976: Das Drama von Fuji, das James Hunt zum Weltmeister machte - Motorsport-Total.com",
-    "RacingNews365 NL": "Niki Lauda 'schenkt' James Hunt wereldtitel met verbluffende beslissing - terugblik"
-   },
-   "last": "2026-10-24T16:05:05.349839+00:00"
-  },
   "S1039": {
    "title": "Cadillac boss dodges driver line-up question, fuelling 2027 intrigue",
    "first": "2026-10-24T13:05:00.651813+00:00",
@@ -4038,19 +4023,6 @@
     "Crash.net": "Oliver Bearman admits Ferrari will have a 'big say' in his F1 future"
    },
    "last": "2026-10-24T16:15:01.804140+00:00"
-  },
-  "S1067": {
-   "title": "Infantino says vast majority support his FIFA re-election bid",
-   "first": "2026-10-24T14:55:03.300563+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T12:34:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gianni Infantino: 'Vast majority' support bid for FIFA re-election"
-   },
-   "last": "2026-10-24T16:09:58.171785+00:00"
   },
   "S1070": {
    "title": "Mercedes to run new front wing on both cars for rest of Austin weekend",
@@ -4120,19 +4092,6 @@
    },
    "last": "2026-10-24T20:10:40.934066+00:00"
   },
-  "S1080": {
-   "title": "Rybakina to face Leylah Fernandez in Ningbo Open final",
-   "first": "2026-10-24T15:35:05.968373+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T15:21:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Top-ranked Elena Rybakina to play Leylah Fernandez in Ningbo Open final"
-   },
-   "last": "2026-10-24T16:09:58.171775+00:00"
-  },
   "S1081": {
    "title": "Verstappen and FIA reportedly discuss Austin track bumps",
    "first": "2026-10-24T15:35:05.968396+00:00",
@@ -4158,45 +4117,6 @@
     "ESPN F1": "UFC 333 live results, analysis for Volkanovski vs. Evloev, Yan vs. Dvalishvili"
    },
    "last": "2026-10-24T19:15:45.990935+00:00"
-  },
-  "S1086": {
-   "title": "Flick says El Clasico is the best game football offers",
-   "first": "2026-10-24T16:05:05.349807+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T15:36:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Flick: El Clásico is the best game football offers"
-   },
-   "last": "2026-10-24T16:05:05.349826+00:00"
-  },
-  "S1087": {
-   "title": "Antonelli's rise described as a 'hell of a story' before title bid",
-   "first": "2026-10-24T16:05:05.349830+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-24T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli rise branded 'hell of a story' ahead of potential F1 title party"
-   },
-   "last": "2026-10-24T16:05:05.349834+00:00"
-  },
-  "S1088": {
-   "title": "Michael Carrick gives Man United injury updates and mental preparation comments",
-   "first": "2026-10-24T16:09:58.171789+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T14:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michael Carrick provides Man United injury updates, demands mental preparation"
-   },
-   "last": "2026-10-24T16:09:58.171793+00:00"
   },
   "S1089": {
    "title": "IndyCar considers Alonso as guest for Barcelona debut",
@@ -13774,9 +13694,35 @@
     "PlanetF1": "Max Verstappen challenges COTA owner to drive his F1 car over Austin bumps"
    },
    "last": "2026-10-26T16:02:09.621491+00:00"
+  },
+  "S1788": {
+   "title": "Ralphie Albert to lead England Under-19 tour of Pakistan",
+   "first": "2026-10-26T16:12:09.050908+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T16:09:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ralphie Albert to lead England Under-19 tour of Pakistan"
+   },
+   "last": "2026-10-26T16:12:09.050926+00:00"
+  },
+  "S1789": {
+   "title": "F1 drivers not calling for Qatar and Abu Dhabi cancellations",
+   "first": "2026-10-26T16:12:09.050931+00:00",
+   "sources": {
+    "GPblog": "2026-10-26T16:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 drivers not demanding cancellation of Qatar and Abu Dhabi races"
+   },
+   "last": "2026-10-26T16:12:09.050936+00:00"
   }
  },
- "story_seq": 1787,
+ "story_seq": 1789,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13895,7 +13841,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T16:02:05.200444+00:00",
+ "last_run": "2026-10-26T16:12:06.174627+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
@@ -15455,6 +15401,11 @@
    "t": "2026-10-26T16:02:14.157818+00:00",
    "title": "F1, WRC ve BTCC araçları St James's Motoring Spectacle'da öne çıkacak",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-26T16:12:13.148575+00:00",
+   "title": "F1 pilotları Katar ve Abu Dabi yarışlarının iptalini talep etmiyor",
+   "source": "GPblog"
   }
  ]
 }
