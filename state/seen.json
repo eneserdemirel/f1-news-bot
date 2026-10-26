@@ -3860,7 +3860,13 @@
   "d60db1eb2f6a9662": "2026-10-26T17:22:04.003739+00:00",
   "08cfbd330f03f977": "2026-10-26T17:22:04.003739+00:00",
   "1d22f2adabb27121": "2026-10-26T17:22:04.003739+00:00",
-  "277dc16de946db0e": "2026-10-26T17:22:04.003739+00:00"
+  "277dc16de946db0e": "2026-10-26T17:22:04.003739+00:00",
+  "e92d95f46c5a9bd1": "2026-10-26T17:32:31.469707+00:00",
+  "1ed13ba5d2d680e8": "2026-10-26T17:32:31.469707+00:00",
+  "5cc04047e4aad480": "2026-10-26T17:32:31.469707+00:00",
+  "9122d9e44136511c": "2026-10-26T17:32:31.469707+00:00",
+  "c74eaf0084f04e82": "2026-10-26T17:32:31.469707+00:00",
+  "62720af41ba55a1c": "2026-10-26T17:32:31.469707+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4086,19 +4092,6 @@
     "ESPN F1": "Dortmund vs. Frankfurt (Oct 24, 2026) Team Stats"
    },
    "last": "2026-10-24T20:15:48.550133+00:00"
-  },
-  "S1094": {
-   "title": "Kansas State QB Avery Johnson out vs. Arizona State",
-   "first": "2026-10-24T16:45:36.651387+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T16:42:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources - Kansas State QB Avery Johnson out vs. Arizona St."
-   },
-   "last": "2026-10-24T17:30:38.308788+00:00"
   },
   "S1099": {
    "title": "Red Bull reverses Hadjar set-up change after 'undriveable' complaint",
@@ -9740,16 +9733,18 @@
    "sources": {
     "GPblog": "2026-10-25T20:20:00+00:00",
     "RacingNews365": "2026-10-25T20:26:00+00:00",
-    "PlanetF1": "2026-10-25T22:54:46+00:00"
+    "PlanetF1": "2026-10-25T22:54:46+00:00",
+    "FormulaPassion": "2026-10-26T17:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Blow for Russell as FIA stewards hand out penalty at United States GP",
     "RacingNews365": "George Russell handed damaging early United States GP penalty",
-    "PlanetF1": "FIA explains mitigating circumstances behind Russell US GP penalty decision"
+    "PlanetF1": "FIA explains mitigating circumstances behind Russell US GP penalty decision",
+    "FormulaPassion": "Russell, penalità troppo severa? Gli steward non ci stanno: “Abbiamo considerato anche le attenuanti”"
    },
-   "last": "2026-10-26T09:40:45.930355+00:00"
+   "last": "2026-10-26T17:32:37.629046+00:00"
   },
   "S1512": {
    "title": "Vikings 16-10 Colts NFL game recap",
@@ -13794,9 +13789,61 @@
     "GPblog": "Verstappen delivers angry radio outburst after near-miss with Perez: 'What an idiot!'"
    },
    "last": "2026-10-26T17:22:08.497926+00:00"
+  },
+  "S1810": {
+   "title": "Florida QB1 decision delayed until later in week",
+   "first": "2026-10-26T17:32:37.629002+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T16:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Florida won't name Philo or Jones as QB1 until later in week"
+   },
+   "last": "2026-10-26T17:32:37.629018+00:00"
+  },
+  "S1811": {
+   "title": "NFL Week 8 betting lines and totals published",
+   "first": "2026-10-26T17:32:37.629024+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T15:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 8 betting odds: Lines and totals for every game"
+   },
+   "last": "2026-10-26T17:32:37.629028+00:00"
+  },
+  "S1812": {
+   "title": "Russell lacked answers for 'rubbish' pace in Austin",
+   "first": "2026-10-26T17:32:37.629031+00:00",
+   "sources": {
+    "The Race": "2026-10-26T17:23:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "The brutal Mercedes contrasts behind Russell's 'rubbish' pace"
+   },
+   "last": "2026-10-26T17:32:37.629035+00:00"
+  },
+  "S1813": {
+   "title": "Stella explains asking Piastri to let Norris pass",
+   "first": "2026-10-26T17:32:37.629038+00:00",
+   "sources": {
+    "Autosport": "2026-10-26T17:20:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP"
+   },
+   "last": "2026-10-26T17:32:37.629041+00:00"
   }
  },
- "story_seq": 1809,
+ "story_seq": 1813,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13915,7 +13962,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T17:22:04.003739+00:00",
+ "last_run": "2026-10-26T17:32:31.469707+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
@@ -15515,6 +15562,11 @@
    "t": "2026-10-26T17:22:16.879216+00:00",
    "title": "Verstappen, Perez'le yaşanan tehlikeli an sonrası telsizde öfkelendi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-26T17:32:43.675205+00:00",
+   "title": "Norris, Piastri'ye karşı \"çok uyumlu\" olması sayesinde ABD GP'de avantaj kazandı",
+   "source": "Autosport"
   }
  ]
 }
