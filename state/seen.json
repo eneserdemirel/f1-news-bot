@@ -3712,7 +3712,11 @@
   "b83428a808804d35": "2026-10-26T11:31:09.634527+00:00",
   "da1e0dc6e4d4bb3f": "2026-10-26T11:31:09.634527+00:00",
   "02299bb2d3ebf028": "2026-10-26T11:31:09.634527+00:00",
-  "2b8de7ae584b1762": "2026-10-26T11:31:09.634527+00:00"
+  "2b8de7ae584b1762": "2026-10-26T11:31:09.634527+00:00",
+  "fd842f8f2adb3865": "2026-10-26T11:41:11.610439+00:00",
+  "37a6a52d4eea2047": "2026-10-26T11:41:11.610439+00:00",
+  "063e12c4411a32df": "2026-10-26T11:41:11.610439+00:00",
+  "0d332d4788dc8a6e": "2026-10-26T11:41:11.610439+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11261,14 +11265,16 @@
    "title": "Explainer on when Antonelli can clinch 2026 title",
    "first": "2026-10-25T22:03:54.663428+00:00",
    "sources": {
-    "PlanetF1": "2026-10-25T21:45:10+00:00"
+    "PlanetF1": "2026-10-25T21:45:10+00:00",
+    "Formula 1": "2026-10-26T11:41:16.847491+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "UPDATED: When can Kimi Antonelli win the F1 2026 World Championship?"
+    "PlanetF1": "UPDATED: When can Kimi Antonelli win the F1 2026 World Championship?",
+    "Formula 1": "When is the earliest Antonelli could win the title?"
    },
-   "last": "2026-10-25T22:03:54.663433+00:00"
+   "last": "2026-10-26T11:41:16.847509+00:00"
   },
   "S1543": {
    "title": "Hurricanes sign Alexander Nikishin to one-year deal",
@@ -13567,9 +13573,48 @@
     "Auto Motor und Sport": "Formel 1: GP USA: Punktabzug für Antonelli-Gegner"
    },
    "last": "2026-10-26T11:31:17.496165+00:00"
+  },
+  "S1713": {
+   "title": "ESPN College Football Week 8 playoff and bowl projections",
+   "first": "2026-10-26T11:41:16.847514+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T11:36:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026-27 Week 8 College Football Playoff, bowl projections"
+   },
+   "last": "2026-10-26T11:41:16.847520+00:00"
+  },
+  "S1714": {
+   "title": "Colapinto responds to Clarkson's US GP nationality comments",
+   "first": "2026-10-26T11:41:16.847523+00:00",
+   "sources": {
+    "Crash.net": "2026-10-26T11:31:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Franco Colapinto responds to Jeremy Clarkson’s nationality comments"
+   },
+   "last": "2026-10-26T11:41:16.847527+00:00"
+  },
+  "S1715": {
+   "title": "Motorsport-Total F1 opinion and columns section page",
+   "first": "2026-10-26T11:41:16.847530+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-26T11:37:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Meinung: Kommentare & Kolumnen der Redaktion - Motorsport-Total.com"
+   },
+   "last": "2026-10-26T11:41:16.847533+00:00"
   }
  },
- "story_seq": 1712,
+ "story_seq": 1715,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13688,7 +13733,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T11:31:09.634527+00:00",
+ "last_run": "2026-10-26T11:41:11.610439+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -15133,6 +15178,11 @@
    "t": "2026-10-26T11:31:30.606626+00:00",
    "title": "Ferrari başkanı McLaren'ı ziyaret etti, Stella iddiaları gündemde",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-26T11:41:21.444180+00:00",
+   "title": "Colapinto, Clarkson'ın milliyet yorumlarına yanıt verdi",
+   "source": "Crash.net"
   }
  ]
 }
