@@ -3608,7 +3608,8 @@
   "16be91eba4aa48c8": "2026-10-26T06:40:14.524793+00:00",
   "4acda3aa89c89011": "2026-10-26T06:50:17.778449+00:00",
   "b391337b2268b847": "2026-10-26T06:50:17.778449+00:00",
-  "b1dba00f1d25a80b": "2026-10-26T06:55:19.159802+00:00"
+  "b1dba00f1d25a80b": "2026-10-26T06:55:19.159802+00:00",
+  "40823a3d20c750f1": "2026-10-26T07:00:15.129115+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3934,19 +3935,6 @@
    },
    "last": "2026-10-24T12:15:01.236807+00:00"
   },
-  "S947": {
-   "title": "Grizzlies erase late deficit to beat Warriors",
-   "first": "2026-10-24T05:08:50.100783+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T04:58:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Grizzlies erase late deficit and beat the Warriors"
-   },
-   "last": "2026-10-24T06:59:27.589981+00:00"
-  },
   "S954": {
    "title": "Newey admits 'pain and frustration' in Horner book response",
    "first": "2026-10-24T05:28:47.245698+00:00",
@@ -3989,19 +3977,6 @@
     "GPblog": "George Russell reveals truth behind Horner's Red Bull approach"
    },
    "last": "2026-10-24T07:39:53.421433+00:00"
-  },
-  "S966": {
-   "title": "Pelicans vs. Nuggets pregame preview",
-   "first": "2026-10-24T06:59:27.589953+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T06:54:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pelicans vs. Nuggets (25 Oct, 2026) Pregame"
-   },
-   "last": "2026-10-24T06:59:27.589972+00:00"
   },
   "S967": {
    "title": "Hadjar describes miserable COTA day, 'completely killed'",
@@ -13633,9 +13608,22 @@
     "FormulaPassion": "Antonelli campione spavaldo, Leclerc l’altro vincitore"
    },
    "last": "2026-10-26T06:50:20.995282+00:00"
+  },
+  "S1672": {
+   "title": "Autosport analysis of two recurring Verstappen and Red Bull issues in Austin",
+   "first": "2026-10-26T07:00:19.330010+00:00",
+   "sources": {
+    "Autosport": "2026-10-26T06:57:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP"
+   },
+   "last": "2026-10-26T07:00:19.330028+00:00"
   }
  },
- "story_seq": 1671,
+ "story_seq": 1672,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13754,7 +13742,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T06:55:19.159802+00:00",
+ "last_run": "2026-10-26T07:00:15.129115+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -15094,6 +15082,11 @@
    "t": "2026-10-26T06:40:23.327377+00:00",
    "title": "Hadjar, FIA kuralını eleştirdi: \"Hiçbir fikriniz yoktu!\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-26T07:00:25.154476+00:00",
+   "title": "Verstappen ve Red Bull'u Austin'de engelleyen iki tekrarlayan sorun",
+   "source": "Autosport"
   }
  ]
 }
