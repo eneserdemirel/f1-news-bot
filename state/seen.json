@@ -3871,7 +3871,10 @@
   "0cd646955f9b2821": "2026-10-26T17:42:08.233499+00:00",
   "32c5b514d3862eab": "2026-10-26T17:52:07.750009+00:00",
   "c16e11021db27f67": "2026-10-26T17:52:07.750009+00:00",
-  "ceda772cc2c26fce": "2026-10-26T17:52:07.750009+00:00"
+  "ceda772cc2c26fce": "2026-10-26T17:52:07.750009+00:00",
+  "f4fc0da7728adb5e": "2026-10-26T18:02:05.807983+00:00",
+  "7fc6db5cff87e32b": "2026-10-26T18:02:05.807983+00:00",
+  "5b7a4c0e539b253a": "2026-10-26T18:02:05.807983+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12036,7 +12039,8 @@
     "RacingNews365 NL": "2026-10-26T08:50:00+00:00",
     "Motorsport-Total": "2026-10-26T10:28:19+00:00",
     "PlanetF1": "2026-10-26T10:40:47+00:00",
-    "Motorsport Week": "2026-10-26T12:00:00+00:00"
+    "Motorsport Week": "2026-10-26T12:00:00+00:00",
+    "GPblog": "2026-10-26T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12044,9 +12048,10 @@
     "RacingNews365 NL": "Russell hekelt 'belachelijke' tijdstraf in Austin: \"Maar minste van mijn zorgen...\"",
     "Motorsport-Total": "George Russell: Die Strafe gegen mich war \"ein bisschen lächerlich\" - Motorsport-Total.com",
     "PlanetF1": "Russell reacts to ‘bit ridiculous’ FIA penalty at United States GP",
-    "Motorsport Week": "George Russell slams ‘ridiculous’ penalty at F1 United States GP"
+    "Motorsport Week": "George Russell slams ‘ridiculous’ penalty at F1 United States GP",
+    "GPblog": "Russell slams 'ridiculous' FIA penalty after disastrous United States GP"
    },
-   "last": "2026-10-26T12:21:11.707634+00:00"
+   "last": "2026-10-26T18:02:10.071626+00:00"
   },
   "S1688": {
    "title": "Hamilton expresses frustration over missed chances at US GP",
@@ -13766,9 +13771,22 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-10-26T17:52:12.587537+00:00"
+  },
+  "S1819": {
+   "title": "Newlands to host early December fixture, per ESPN",
+   "first": "2026-10-26T18:02:10.071601+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T17:13:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "It's as big as it gets as Newlands welcomes early Dezemba"
+   },
+   "last": "2026-10-26T18:02:10.071619+00:00"
   }
  },
- "story_seq": 1818,
+ "story_seq": 1819,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13887,17 +13905,12 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T17:52:07.750009+00:00",
+ "last_run": "2026-10-26T18:02:05.807983+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
  "last_digest_at": "2026-10-26T12:01:34.353453+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-23T17:56:55.189647+00:00",
-   "title": "FIA, ABD GP öncesi ilk grid cezalarını doğruladı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-23T18:06:57.941680+00:00",
    "title": "Üç F1 pilotuna Amerika GP'sinde ızgara cezası verildi",
