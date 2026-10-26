@@ -3526,7 +3526,8 @@
   "49023cef68203b79": "2026-10-26T00:14:32.309867+00:00",
   "8acaa1b974067e23": "2026-10-26T00:14:32.309867+00:00",
   "1049c334c9e2129d": "2026-10-26T00:14:32.309867+00:00",
-  "dbe6d0ee04bc168c": "2026-10-26T00:14:32.309867+00:00"
+  "dbe6d0ee04bc168c": "2026-10-26T00:14:32.309867+00:00",
+  "aaf13c321eeb805c": "2026-10-26T00:19:34.215534+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4155,19 +4156,6 @@
     "RacingNews365": "Lando Norris highlights 'impossible' McLaren challenge after Austin struggle"
    },
    "last": "2026-10-24T04:33:46.803403+00:00"
-  },
-  "S904": {
-   "title": "Leclerc warns Ferrari will struggle to keep top spot in Austin",
-   "first": "2026-10-24T00:17:28.180960+00:00",
-   "sources": {
-    "Formula 1": "2026-10-24T00:17:28.180974+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Leclerc warns against ‘high expectations’ at US GP"
-   },
-   "last": "2026-10-24T00:17:28.180978+00:00"
   },
   "S905": {
    "title": "Hamilton praises Red Bull responding to Hadjar's Ferrari verdict",
@@ -13836,9 +13824,22 @@
     "RacingNews365": "Max Verstappen left frustrated as Kimi Antonelli set for Mexico title party – RacingNews365 Review"
    },
    "last": "2026-10-26T00:04:38.479804+00:00"
+  },
+  "S1613": {
+   "title": "Red Bull moves ahead of McLaren in constructors' standings on countback",
+   "first": "2026-10-26T00:19:37.012536+00:00",
+   "sources": {
+    "GPblog": "2026-10-26T00:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen’s difficult race takes a surprising turn for Red Bull"
+   },
+   "last": "2026-10-26T00:19:37.012554+00:00"
   }
  },
- "story_seq": 1612,
+ "story_seq": 1613,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13957,7 +13958,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T00:14:32.309867+00:00",
+ "last_run": "2026-10-26T00:19:34.215534+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -15237,6 +15238,11 @@
    "t": "2026-10-26T00:04:45.313302+00:00",
    "title": "Alonso, Albon'u US GP'de 'düşük kaliteli' diyerek eleştirdi",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-26T00:19:42.194116+00:00",
+   "title": "Verstappen'in zorlu yarışı Red Bull için beklenmedik bir döneme girdi",
+   "source": "GPblog"
   }
  ]
 }
