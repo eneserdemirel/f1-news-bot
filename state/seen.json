@@ -3602,7 +3602,8 @@
   "639020c10a015595": "2026-10-26T06:20:14.129913+00:00",
   "ee1679a80240b18f": "2026-10-26T06:20:14.129913+00:00",
   "bcf47992ba55e8ff": "2026-10-26T06:25:17.661619+00:00",
-  "fd819a1067575e72": "2026-10-26T06:25:17.661619+00:00"
+  "fd819a1067575e72": "2026-10-26T06:25:17.661619+00:00",
+  "624f28817bb7749d": "2026-10-26T06:30:13.823990+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3698,23 +3699,6 @@
     "GPFans": "Max Verstappen slams 'nonsense' debate started by Red Bull team-mate"
    },
    "last": "2026-10-24T14:59:58.302477+00:00"
-  },
-  "S697": {
-   "title": "Hamilton rejects Hadjar's claim Verstappen would dominate in Ferrari",
-   "first": "2026-10-23T09:11:11.113838+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-23T09:02:33+00:00",
-    "GPblog": "2026-10-23T19:01:00+00:00",
-    "GPFans": "2026-10-24T06:29:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton and Charles Leclerc reject ‘nonsense’ Ferrari claim",
-    "GPblog": "Hamilton rejects Hadjar's Ferrari claim: 'We have very different opinions there'",
-    "GPFans": "Lewis Hamilton and Charles Leclerc hit out at 'nonsense' Red Bull claim"
-   },
-   "last": "2026-10-24T06:29:24.524947+00:00"
   },
   "S803": {
    "title": "Ferrari's bigger-than-admitted US GP upgrade revealed by The Race",
@@ -13619,9 +13603,22 @@
     "ESPN F1": "Morkel wants Bhuvneshwar to 'block the expectation factor out'"
    },
    "last": "2026-10-26T06:20:17.437074+00:00"
+  },
+  "S1667": {
+   "title": "Aston Martin won't confirm 2027 driver lineup; Stroll discusses Honda issues",
+   "first": "2026-10-26T06:30:16.153175+00:00",
+   "sources": {
+    "GPFans": "2026-10-26T06:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Aston Martin bombshell revealed as F1 team refuses to confirm 2027 driver lineup - F1 News Today"
+   },
+   "last": "2026-10-26T06:30:16.153193+00:00"
   }
  },
- "story_seq": 1666,
+ "story_seq": 1667,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13740,7 +13737,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T06:25:17.661619+00:00",
+ "last_run": "2026-10-26T06:30:13.823990+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -15070,6 +15067,11 @@
    "t": "2026-10-26T06:05:26.541964+00:00",
    "title": "Verstappen: Dengeli bir araba, bu pistte zirve için yeterli değil",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-26T06:30:24.741027+00:00",
+   "title": "Aston Martin'den sarsıcı açıklama: Stroll, Honda motoruyla ilgili gerçeği anlattı",
+   "source": "GPFans"
   }
  ]
 }
