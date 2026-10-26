@@ -3514,7 +3514,15 @@
   "e0331381d8b5a8d0": "2026-10-25T23:59:34.546989+00:00",
   "ad25a9bfc293dfa9": "2026-10-25T23:59:34.546989+00:00",
   "6f171f480746f01a": "2026-10-25T23:59:34.546989+00:00",
-  "c924b5c317f7c706": "2026-10-25T23:59:34.546989+00:00"
+  "c924b5c317f7c706": "2026-10-25T23:59:34.546989+00:00",
+  "cfd4f29f290d553c": "2026-10-26T00:04:32.464653+00:00",
+  "fdb282e70c06ecc1": "2026-10-26T00:04:32.464653+00:00",
+  "591804153726b066": "2026-10-26T00:04:32.464653+00:00",
+  "eda3163e28317aae": "2026-10-26T00:04:32.464653+00:00",
+  "431f4884adc8ee01": "2026-10-26T00:04:32.464653+00:00",
+  "e76b6beee5cfe743": "2026-10-26T00:04:32.464653+00:00",
+  "aa15e623de50d491": "2026-10-26T00:04:32.464653+00:00",
+  "d3ded9dfedd16c00": "2026-10-26T00:04:32.464653+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12091,7 +12099,7 @@
    "titles": {
     "ESPN F1": "Gary Neville: Michael Carrick exit 'probably necessary' for Man United"
    },
-   "last": "2026-10-25T18:33:09.000941+00:00"
+   "last": "2026-10-26T00:04:38.479748+00:00"
   },
   "S1486": {
    "title": "Lecce vs Juventus team stats",
@@ -13485,14 +13493,16 @@
    "title": "Lawson says beeping software issue distracted him in race",
    "first": "2026-10-25T23:43:57.056597+00:00",
    "sources": {
-    "RacingNews365": "2026-10-25T23:41:00+00:00"
+    "RacingNews365": "2026-10-25T23:41:00+00:00",
+    "GPblog": "2026-10-26T00:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Liam Lawson reveals latest F1 software issue: 'The thing was beeping in my ear'"
+    "RacingNews365": "Liam Lawson reveals latest F1 software issue: 'The thing was beeping in my ear'",
+    "GPblog": "Lawson reveals US GP software glitch that left him fearing he was breaking the rules"
    },
-   "last": "2026-10-25T23:43:57.056600+00:00"
+   "last": "2026-10-26T00:04:38.479809+00:00"
   },
   "S1587": {
    "title": "Analysis: Antonelli's win and Ferrari's missed chance in Austin",
@@ -13745,14 +13755,16 @@
    "title": "Hamilton reveals mistake that cost US GP podium",
    "first": "2026-10-25T23:59:41.445682+00:00",
    "sources": {
-    "Crash.net": "2026-10-25T23:59:55+00:00"
+    "Crash.net": "2026-10-25T23:59:55+00:00",
+    "Motorsport.com Italia": "2026-10-25T23:59:40+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Lewis Hamilton reveals the mistake that cost him a podium at the US Grand Prix"
+    "Crash.net": "Lewis Hamilton reveals the mistake that cost him a podium at the US Grand Prix",
+    "Motorsport.com Italia": "F1 | Hamilton 4°: “Abbiamo sbagliato il setup dell’ala, senza sarei stato in lotta. Ma ci sono aspetti positivi”"
    },
-   "last": "2026-10-25T23:59:41.445686+00:00"
+   "last": "2026-10-26T00:04:38.479797+00:00"
   },
   "S1607": {
    "title": "Leclerc says Ferrari lacks consistency after P2",
@@ -13766,9 +13778,74 @@
     "Motorsport-Total": "Charles Leclerc nach Platz zwei in Austin: Ferrari fehlt noch die Konstanz - Motorsport-Total.com"
    },
    "last": "2026-10-25T23:59:41.445698+00:00"
+  },
+  "S1608": {
+   "title": "Sonia Mehta scores goal",
+   "first": "2026-10-26T00:04:38.479758+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T23:57:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sonia Mehta nets goal"
+   },
+   "last": "2026-10-26T00:04:38.479765+00:00"
+  },
+  "S1609": {
+   "title": "Rams 35-21 Raiders NFL game recap",
+   "first": "2026-10-26T00:04:38.479770+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T23:53:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rams 35-21 Raiders (Oct 25, 2026) Game Recap"
+   },
+   "last": "2026-10-26T00:04:38.479775+00:00"
+  },
+  "S1610": {
+   "title": "Greg Dulcich fantasy football outlook",
+   "first": "2026-10-26T00:04:38.479779+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-25T23:53:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why fantasy managers should be excited about Greg Dulcich"
+   },
+   "last": "2026-10-26T00:04:38.479784+00:00"
+  },
+  "S1611": {
+   "title": "Alonso criticises Albon's driver quality after US GP collision",
+   "first": "2026-10-26T00:04:38.479787+00:00",
+   "sources": {
+    "The Race": "2026-10-26T00:00:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Alonso slams 'low-quality' Albon for US GP"
+   },
+   "last": "2026-10-26T00:04:38.479792+00:00"
+  },
+  "S1612": {
+   "title": "RacingNews365 review of Verstappen's frustration in Austin",
+   "first": "2026-10-26T00:04:38.479800+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-26T00:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen left frustrated as Kimi Antonelli set for Mexico title party – RacingNews365 Review"
+   },
+   "last": "2026-10-26T00:04:38.479804+00:00"
   }
  },
- "story_seq": 1607,
+ "story_seq": 1612,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13887,7 +13964,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-25T23:59:34.546989+00:00",
+ "last_run": "2026-10-26T00:04:32.464653+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -15157,6 +15234,16 @@
    "t": "2026-10-25T23:59:48.744490+00:00",
    "title": "Hamilton, ABD GP'de podyumu kaçıran hatayı açıkladı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-26T00:04:44.950270+00:00",
+   "title": "Verstappen stratejiye tepki gösterdi; Antonelli Meksika'da şampiyonluğa koşuyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-26T00:04:45.313302+00:00",
+   "title": "Alonso, Albon'u US GP'de 'düşük kaliteli' diyerek eleştirdi",
+   "source": "The Race"
   }
  ]
 }
