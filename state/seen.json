@@ -3658,7 +3658,9 @@
   "6af2028fc6ab668c": "2026-10-26T08:30:21.828755+00:00",
   "783bdde759936cad": "2026-10-26T08:30:21.828755+00:00",
   "1bbc41fee7c09413": "2026-10-26T08:30:21.828755+00:00",
-  "c0a7beecf7c27b4d": "2026-10-26T08:30:21.828755+00:00"
+  "c0a7beecf7c27b4d": "2026-10-26T08:30:21.828755+00:00",
+  "ce43459b959cde3d": "2026-10-26T08:40:17.855245+00:00",
+  "3d9068e7c4a688ab": "2026-10-26T08:40:17.855245+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -3972,19 +3974,6 @@
     "GPblog": "Kimi Antonelli gives hilarious response over breaking Sebastian Vettel's F1 title record"
    },
    "last": "2026-10-24T18:36:08.783367+00:00"
-  },
-  "S987": {
-   "title": "Antonelli says FP1 seat fit was off but updated car encouraging",
-   "first": "2026-10-24T08:34:27.936669+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-24T08:21:53+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli: “Nelle FP1 non avevo il sedile fissato bene, i progressi sulla vettura aggiornata sono incoraggianti”"
-   },
-   "last": "2026-10-24T08:34:27.936687+00:00"
   },
   "S988": {
    "title": "Amen Thompson blocks Wemby to seal the game",
@@ -13509,9 +13498,35 @@
     "FormulaPassion": "Antonelli mago delle gomme, c’è (anche) lo zampino di Bono"
    },
    "last": "2026-10-26T08:30:26.299727+00:00"
+  },
+  "S1684": {
+   "title": "Kieron Pollard opts out of SA20 Joburg Super Kings deal",
+   "first": "2026-10-26T08:40:20.739494+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T08:32:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "SA20: Pollard opts out of Joburg Super Kings deal"
+   },
+   "last": "2026-10-26T08:40:20.739511+00:00"
+  },
+  "S1685": {
+   "title": "Fittipaldi praises Antonelli's pressure handling and inspiring potential",
+   "first": "2026-10-26T08:40:20.739517+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-26T08:36:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Fittipaldi: \"Kimi veloce e bravo sotto pressione. Ispirerà i bambini, come feci io con Piquet, Senna e...\""
+   },
+   "last": "2026-10-26T08:40:20.739523+00:00"
   }
  },
- "story_seq": 1683,
+ "story_seq": 1685,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13630,7 +13645,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T08:30:21.828755+00:00",
+ "last_run": "2026-10-26T08:40:17.855245+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-25 22:00",
@@ -15005,6 +15020,11 @@
    "t": "2026-10-26T08:30:36.726861+00:00",
    "title": "Antonelli Austin'de zafer kazandı, şampiyonluğa iki puan kaldı",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-26T08:40:24.404140+00:00",
+   "title": "Fittipaldi: Kimi, baskı altında hızlı ve yetenekli",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
