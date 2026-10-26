@@ -3754,7 +3754,13 @@
   "bbe90070d79dbd25": "2026-10-26T13:11:14.687902+00:00",
   "53907db208552f67": "2026-10-26T13:11:14.687902+00:00",
   "416682cb1c73f809": "2026-10-26T13:11:14.687902+00:00",
-  "f153aafc2923fa9d": "2026-10-26T13:21:10.414909+00:00"
+  "f153aafc2923fa9d": "2026-10-26T13:21:10.414909+00:00",
+  "60f1550ce88e8c49": "2026-10-26T13:31:11.769405+00:00",
+  "2f87eee839c68902": "2026-10-26T13:31:11.769405+00:00",
+  "38c9f7446db14e50": "2026-10-26T13:31:11.769405+00:00",
+  "e73673f750c4d69c": "2026-10-26T13:31:11.769405+00:00",
+  "4db497ff79ad0565": "2026-10-26T13:31:11.769405+00:00",
+  "e9869213597ffa82": "2026-10-26T13:31:11.769405+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4079,19 +4085,6 @@
     "ESPN F1": "Bayern Munich's Vincent Kompany 'stable,' but could be away for 'weeks' after collapsing"
    },
    "last": "2026-10-24T13:54:57.083129+00:00"
-  },
-  "S1043": {
-   "title": "Anthony Gordon rated out of 10 for Barcelona start",
-   "first": "2026-10-24T13:10:01.575914+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T12:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Anthony Gordon delivers rating out of 10 for his start at Barcelona"
-   },
-   "last": "2026-10-24T13:30:00.097380+00:00"
   },
   "S1044": {
    "title": "Lawson's strong form creates a headache for Red Bull's Racing Bulls",
@@ -11997,14 +11990,16 @@
    "title": "Winners and losers from US Grand Prix",
    "first": "2026-10-26T00:29:37.701715+00:00",
    "sources": {
-    "The Race": "2026-10-26T00:26:10+00:00"
+    "The Race": "2026-10-26T00:26:10+00:00",
+    "PlanetF1": "2026-10-26T13:28:23+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Winners and losers from F1's 2026 United States Grand Prix"
+    "The Race": "Winners and losers from F1's 2026 United States Grand Prix",
+    "PlanetF1": "Winners and losers from the 2026 United States Grand Prix"
    },
-   "last": "2026-10-26T00:29:37.701720+00:00"
+   "last": "2026-10-26T13:31:17.919654+00:00"
   },
   "S1617": {
    "title": "Red Bull drivers anger as Antonelli nears title",
@@ -13645,9 +13640,61 @@
     "RacingNews365 NL": "Verstappen oogst lof van internationale media: \"Een koekje van eigen deeg!\""
    },
    "last": "2026-10-26T13:21:12.577134+00:00"
+  },
+  "S1741": {
+   "title": "Gary Neville says some Man United players aren't professional",
+   "first": "2026-10-26T13:31:17.919616+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T11:32:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gary Neville: 'Some Man United players aren't that professional'"
+   },
+   "last": "2026-10-26T13:31:17.919634+00:00"
+  },
+  "S1742": {
+   "title": "What we learned about Rays and Brewers early in World Series",
+   "first": "2026-10-26T13:31:17.919638+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T11:21:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What we've learned about Rays, Brewers early in World Series"
+   },
+   "last": "2026-10-26T13:31:17.919642+00:00"
+  },
+  "S1743": {
+   "title": "Analysis of what the 2026 US GP revealed about teams",
+   "first": "2026-10-26T13:31:17.919644+00:00",
+   "sources": {
+    "The Race": "2026-10-26T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Everything we learned from F1's 2026 United States Grand Prix"
+   },
+   "last": "2026-10-26T13:31:17.919649+00:00"
+  },
+  "S1744": {
+   "title": "Wolff reflects on Antonelli's rise and defends him from critics",
+   "first": "2026-10-26T13:31:17.919656+00:00",
+   "sources": {
+    "GPblog": "2026-10-26T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff eyes tequila-fuelled celebrations for Antonelli's maiden F1 title"
+   },
+   "last": "2026-10-26T13:31:17.919658+00:00"
   }
  },
- "story_seq": 1740,
+ "story_seq": 1744,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13766,7 +13813,7 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T13:21:10.414909+00:00",
+ "last_run": "2026-10-26T13:31:11.769405+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
