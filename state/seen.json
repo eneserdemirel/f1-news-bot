@@ -3792,7 +3792,11 @@
   "f90dc7d256ee1e13": "2026-10-26T14:41:10.707662+00:00",
   "713a04cadd869d8f": "2026-10-26T14:41:10.707662+00:00",
   "1c4240fe47149d09": "2026-10-26T14:41:10.707662+00:00",
-  "7d9a7720d1eb9858": "2026-10-26T14:41:10.707662+00:00"
+  "7d9a7720d1eb9858": "2026-10-26T14:41:10.707662+00:00",
+  "39d4bd8f13cf6725": "2026-10-26T14:51:13.342911+00:00",
+  "adde666e52b620e4": "2026-10-26T14:51:13.342911+00:00",
+  "f548aece82295039": "2026-10-26T14:51:13.342911+00:00",
+  "6fdaba1c83a2bf79": "2026-10-26T14:51:13.342911+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4048,19 +4052,6 @@
     "Crash.net": "Oliver Bearman admits Ferrari will have a 'big say' in his F1 future"
    },
    "last": "2026-10-24T16:15:01.804140+00:00"
-  },
-  "S1065": {
-   "title": "Latest weather forecast for US GP qualifying and race",
-   "first": "2026-10-24T14:49:58.762300+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-24T14:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Laatste weerupdate F1 GP Verenigde Staten 2026"
-   },
-   "last": "2026-10-24T14:49:58.762322+00:00"
   },
   "S1066": {
    "title": "Malik Beasley negotiating plea deal in gambling case",
@@ -11916,14 +11907,16 @@
    "title": "Wolff calls Antonelli's Austin win his best race",
    "first": "2026-10-26T01:44:34.602632+00:00",
    "sources": {
-    "Formula 1": "2026-10-26T01:44:34.602645+00:00"
+    "Formula 1": "2026-10-26T01:44:34.602645+00:00",
+    "RacingNews365 NL": "2026-10-26T14:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Wolff hails Antonelli’s ‘best race’ in Austin"
+    "Formula 1": "Wolff hails Antonelli’s ‘best race’ in Austin",
+    "RacingNews365 NL": "Wolff jubelt over Antonelli: \"Gewoon uitzonderlijk!\""
    },
-   "last": "2026-10-26T01:44:34.602649+00:00"
+   "last": "2026-10-26T14:51:18.688411+00:00"
   },
   "S1635": {
    "title": "Jalen Williams injured in Thunder game",
@@ -13446,7 +13439,7 @@
    "titles": {
     "ESPN F1": "Real Madrid to end Ballon d'Or boycott with Kylian Mbappé nominated - sources"
    },
-   "last": "2026-10-26T14:01:17.175825+00:00"
+   "last": "2026-10-26T14:51:18.688398+00:00"
   },
   "S1750": {
    "title": "Albon responds to Alonso's 'back of the grid' gibe",
@@ -13707,9 +13700,35 @@
     "The Race": "Edd Straw's 2026 United States Grand Prix F1 driver rankings"
    },
    "last": "2026-10-26T14:41:15.703436+00:00"
+  },
+  "S1770": {
+   "title": "Gareth Batty leaves Surrey to join CSK coaching staff",
+   "first": "2026-10-26T14:51:18.688369+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T14:47:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gareth Batty leaves Surrey to join CSK coaching staff"
+   },
+   "last": "2026-10-26T14:51:18.688388+00:00"
+  },
+  "S1771": {
+   "title": "Bearman questions stewards' penalty after US GP attack",
+   "first": "2026-10-26T14:51:18.688401+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-26T14:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oliver Bearman questions 'crazy' stewards decision after launching F1 attack"
+   },
+   "last": "2026-10-26T14:51:18.688406+00:00"
   }
  },
- "story_seq": 1769,
+ "story_seq": 1771,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13828,17 +13847,12 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T14:41:10.707662+00:00",
+ "last_run": "2026-10-26T14:51:13.342911+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
  "last_digest_at": "2026-10-26T12:01:34.353453+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-23T14:47:01.616270+00:00",
-   "title": "F1 ABD GP 2026 serbest antrenman 1 canlı yayını bu akşam başlıyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-23T15:26:56.145699+00:00",
    "title": "Mercedes'in rakipleri ABD GP'de yeni güncellemelerle geri dönüyor",
@@ -15368,6 +15382,11 @@
    "t": "2026-10-26T14:31:24.444617+00:00",
    "title": "Mercedes, Antonelli'yi ABD GP'deki utanç verici hatası nedeniyle trollüyor",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-26T14:51:24.338117+00:00",
+   "title": "Bearman, US GP'deki 10 saniyelik cezayı \"çılgınca\" buldu",
+   "source": "RacingNews365"
   }
  ]
 }
