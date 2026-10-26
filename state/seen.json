@@ -3930,7 +3930,9 @@
   "bbe2c424f03cb9eb": "2026-10-26T21:32:41.485331+00:00",
   "454d38af0307cc96": "2026-10-26T21:42:45.108825+00:00",
   "44b44c0ba140e5b9": "2026-10-26T21:52:41.180712+00:00",
-  "1c2c00f7b4e819c3": "2026-10-26T21:52:41.180712+00:00"
+  "1c2c00f7b4e819c3": "2026-10-26T21:52:41.180712+00:00",
+  "de5edfd2d4eb06d0": "2026-10-26T22:02:39.029945+00:00",
+  "13013b04c54e53bb": "2026-10-26T22:02:39.029945+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11317,14 +11319,16 @@
    "title": "Wolff hits back at Helmut Marko over Russell criticism",
    "first": "2026-10-26T12:01:18.790104+00:00",
    "sources": {
-    "PlanetF1": "2026-10-26T11:59:03+00:00"
+    "PlanetF1": "2026-10-26T11:59:03+00:00",
+    "GPblog": "2026-10-26T22:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Toto Wolff hits back at ‘Austrian not so buddy’ Helmut Marko over Russell claim"
+    "PlanetF1": "Toto Wolff hits back at ‘Austrian not so buddy’ Helmut Marko over Russell claim",
+    "GPblog": "Wolff defends Russell after brutal verdict from \"Austrian not so buddy\" Marko"
    },
-   "last": "2026-10-26T20:52:43.932148+00:00"
+   "last": "2026-10-26T22:02:42.016709+00:00"
   },
   "S1720": {
    "title": "Lawson scores ninth place and third straight top-10 finish",
@@ -13205,9 +13209,22 @@
     "ESPN F1": "U de Chile vs. Everton CD (26 Oct, 2026) Live Score"
    },
    "last": "2026-10-26T21:52:43.466935+00:00"
+  },
+  "S1864": {
+   "title": "Blues condemn hateful fan messages at home game",
+   "first": "2026-10-26T22:02:42.016683+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T21:58:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Blues condemn 'vile messages of hate' by fans at recent home game"
+   },
+   "last": "2026-10-26T22:02:42.016701+00:00"
   }
  },
- "story_seq": 1863,
+ "story_seq": 1864,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13326,17 +13343,12 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T21:52:41.180712+00:00",
+ "last_run": "2026-10-26T22:02:39.029945+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-23T22:02:41.031766+00:00",
-   "title": "Leclerc FP2'de zirvede, Russell FIA incelemesinden kurtuldu",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-23T22:32:34.586787+00:00",
    "title": "Verstappen: Red Bull'da uyum bulmak bu pistte hiçbir zaman kolay değil",
