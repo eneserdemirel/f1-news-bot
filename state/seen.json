@@ -3817,7 +3817,12 @@
   "9a4446104dc92f12": "2026-10-26T15:42:04.887484+00:00",
   "65354ec762395a66": "2026-10-26T15:42:04.887484+00:00",
   "d710cad1a20aaa38": "2026-10-26T15:42:04.887484+00:00",
-  "365d89d372b7c0a7": "2026-10-26T15:42:04.887484+00:00"
+  "365d89d372b7c0a7": "2026-10-26T15:42:04.887484+00:00",
+  "14779559b502216f": "2026-10-26T16:02:05.200444+00:00",
+  "c9e0e87c2a5f2bc6": "2026-10-26T16:02:05.200444+00:00",
+  "ec2aef201287d709": "2026-10-26T16:02:05.200444+00:00",
+  "0cd1e2425d2060e4": "2026-10-26T16:02:05.200444+00:00",
+  "bb25b67c6721ef8d": "2026-10-26T16:02:05.200444+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4059,19 +4064,6 @@
     "GPblog": "Mercedes makes decisive call on new front wing at the US Grand Prix"
    },
    "last": "2026-10-24T18:36:08.783380+00:00"
-  },
-  "S1073": {
-   "title": "Aston Villa 2-1 Man City match analysis",
-   "first": "2026-10-24T15:15:00.472927+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-24T13:41:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Aston Villa 2-1 Man City (24 Oct, 2026) Game Analysis"
-   },
-   "last": "2026-10-24T15:55:02.655891+00:00"
   },
   "S1075": {
    "title": "Austin US GP FP3 live coverage",
@@ -12676,16 +12668,18 @@
    "sources": {
     "RacingNews365": "2026-10-26T10:30:00+00:00",
     "RacingNews365 NL": "2026-10-26T10:40:00+00:00",
-    "GPblog": "2026-10-26T11:00:00+00:00"
+    "GPblog": "2026-10-26T11:00:00+00:00",
+    "Crash.net": "2026-10-26T15:52:37+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Former F1 supplier targeting stunning grand prix comeback",
     "RacingNews365 NL": "Grote naam lonkt naar een terugkeer in F1",
-    "GPblog": "'Pirelli's F1 dominance at risk as old rival prepares sensational comeback'"
+    "GPblog": "'Pirelli's F1 dominance at risk as old rival prepares sensational comeback'",
+    "Crash.net": "Former F1 tyre supplier plots surprise comeback after two decades"
    },
-   "last": "2026-10-26T12:51:12.302687+00:00"
+   "last": "2026-10-26T16:02:09.621496+00:00"
   },
   "S1704": {
    "title": "Mekies admits Red Bull cannot explain Verstappen and Hadjar radio failures",
@@ -13728,9 +13722,61 @@
     "GPblog": "Verstappen's telling reaction as Antonelli raises Red Bull's Austin problems"
    },
    "last": "2026-10-26T15:42:10.051721+00:00"
+  },
+  "S1784": {
+   "title": "US senators urge NBA to review Rwanda partnership",
+   "first": "2026-10-26T16:02:09.621452+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T16:01:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "U.S. senators call on NBA to reevaluate Rwanda partnership"
+   },
+   "last": "2026-10-26T16:02:09.621470+00:00"
+  },
+  "S1785": {
+   "title": "Lamar Jackson and Ravens' identity crisis analysis",
+   "first": "2026-10-26T16:02:09.621474+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T15:52:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Can Lamar Jackson solve the Ravens' historic identity crisis?"
+   },
+   "last": "2026-10-26T16:02:09.621479+00:00"
+  },
+  "S1786": {
+   "title": "Williams F1 car featured at St James's Motoring Spectacle",
+   "first": "2026-10-26T16:02:09.621482+00:00",
+   "sources": {
+    "The Race": "2026-10-26T15:56:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1, WRC and BTCC cars headline St James’s Motoring Spectacle"
+   },
+   "last": "2026-10-26T16:02:09.621486+00:00"
+  },
+  "S1787": {
+   "title": "Verstappen challenges COTA owner to drive F1 car over bumps",
+   "first": "2026-10-26T16:02:09.621488+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-26T15:52:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen challenges COTA owner to drive his F1 car over Austin bumps"
+   },
+   "last": "2026-10-26T16:02:09.621491+00:00"
   }
  },
- "story_seq": 1783,
+ "story_seq": 1787,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13849,22 +13895,12 @@
   ]
  ],
  "calendar_updated": "2026-10-25T22:08:35.890357+00:00",
- "last_run": "2026-10-26T15:52:13.519109+00:00",
+ "last_run": "2026-10-26T16:02:05.200444+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 15:00",
  "last_digest_at": "2026-10-26T12:01:34.353453+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-23T15:56:53.287450+00:00",
-   "title": "Marko: Red Bull'un akilles topuğu şasi, \"Tipik Red Bull!\"",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-10-23T16:01:59.358970+00:00",
-   "title": "Leclerc baba olacak, Ferrari'nin yedek pilotu Beganovic hazır beklemede",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-23T16:21:58.993354+00:00",
    "title": "Russell, Mercedes'in sendelemesini yaşayan güncellemesini eleştirdi",
@@ -15414,6 +15450,11 @@
    "t": "2026-10-26T15:42:15.378800+00:00",
    "title": "Verstappen, Antonelli'nin Red Bull'un Austin sorunlarını hatırlatmasına sessiz tepki verdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-26T16:02:14.157818+00:00",
+   "title": "F1, WRC ve BTCC araçları St James's Motoring Spectacle'da öne çıkacak",
+   "source": "The Race"
   }
  ]
 }
