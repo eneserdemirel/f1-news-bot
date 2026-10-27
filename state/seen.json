@@ -4210,7 +4210,12 @@
   "e657da9944f6acea": "2026-10-27T16:04:50.339507+00:00",
   "1b23cb4e18036af1": "2026-10-27T16:04:50.339507+00:00",
   "587ffab48a0ed6eb": "2026-10-27T16:14:49.464358+00:00",
-  "3c0573aeb9e0e168": "2026-10-27T16:14:49.464358+00:00"
+  "3c0573aeb9e0e168": "2026-10-27T16:14:49.464358+00:00",
+  "77772d59c67e889d": "2026-10-27T16:24:47.942750+00:00",
+  "dd3388abb49fd6b5": "2026-10-27T16:24:47.942750+00:00",
+  "bdc49ac155bfc049": "2026-10-27T16:24:47.942750+00:00",
+  "8ad62aea6c31a4a6": "2026-10-27T16:24:47.942750+00:00",
+  "e303afb0598971ef": "2026-10-27T16:24:47.942750+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4467,19 +4472,6 @@
     "RacingNews365 NL": "Verstappen sorteert voor op feestje met Antonelli: \"Dat gaan we vieren!\""
    },
    "last": "2026-10-25T18:18:14.517047+00:00"
-  },
-  "S1396": {
-   "title": "Katsuragawa wins Genesis Championship golf title",
-   "first": "2026-10-25T11:02:37.351537+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T10:52:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Yuto Katsuragawa wins Genesis Championship for second DP World Tour title"
-   },
-   "last": "2026-10-25T16:18:09.969252+00:00"
   },
   "S1399": {
    "title": "Vasseur rejects excuses for Ferrari qualifying flop",
@@ -11350,14 +11342,16 @@
    "title": "Hadjar explains radio misunderstanding with Verstappen in Austin",
    "first": "2026-10-27T07:34:03.164261+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-27T07:25:02+00:00"
+    "Motorsport-Total": "2026-10-27T07:25:02+00:00",
+    "RacingNews365 NL": "2026-10-27T16:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Isack Hadjar: So erklärt er das Funk-Missverständnis mit Verstappen in Austin - Motorsport-Total.com"
+    "Motorsport-Total": "Isack Hadjar: So erklärt er das Funk-Missverständnis mit Verstappen in Austin - Motorsport-Total.com",
+    "RacingNews365 NL": "Hadjar verklaart verwarring na Red Bull-teamorders"
    },
-   "last": "2026-10-27T07:34:03.164265+00:00"
+   "last": "2026-10-27T16:24:54.280779+00:00"
   },
   "S1954": {
    "title": "Beijing vs. Jeonbuk live score (football)",
@@ -12423,15 +12417,17 @@
    "first": "2026-10-27T14:14:52.734934+00:00",
    "sources": {
     "RacingNews365": "2026-10-27T14:10:00+00:00",
-    "GPblog": "2026-10-27T14:30:00+00:00"
+    "GPblog": "2026-10-27T14:30:00+00:00",
+    "FormulaPassion": "2026-10-27T16:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Williams protege gets latest F1 practice outing in double swap",
-    "GPblog": "Williams confirm Albon and Sainz will give up seats at upcoming F1 races"
+    "GPblog": "Williams confirm Albon and Sainz will give up seats at upcoming F1 races",
+    "FormulaPassion": "Williams, quanta fiducia in Browning: disputa le FP1 anche in Messico e Brasile"
    },
-   "last": "2026-10-27T14:34:57.844331+00:00"
+   "last": "2026-10-27T16:24:54.280795+00:00"
   },
   "S2034": {
    "title": "Austin US GP TV ratings on Sky and ServusTV",
@@ -12917,9 +12913,48 @@
     "Crash.net": "The overlooked F1 battle more intriguing than inevitable title outcome"
    },
    "last": "2026-10-27T16:14:51.726635+00:00"
+  },
+  "S2071": {
+   "title": "Stella says McLaren will get payback for Spanish GP incident",
+   "first": "2026-10-27T16:24:54.280754+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-27T16:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren still waiting for Lando Norris 'compensation'"
+   },
+   "last": "2026-10-27T16:24:54.280770+00:00"
+  },
+  "S2072": {
+   "title": "Frederik Vesti reportedly considered for Cadillac 2027 seat",
+   "first": "2026-10-27T16:24:54.280783+00:00",
+   "sources": {
+    "GPblog": "2026-10-27T16:22:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Cadillac has another candidate in mind besides Herta to replace Bottas"
+   },
+   "last": "2026-10-27T16:24:54.280789+00:00"
+  },
+  "S2073": {
+   "title": "Perez 19th and Bottas retires as Cadillac struggle in Austin",
+   "first": "2026-10-27T16:24:54.280799+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-27T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Cadillac in grave difficoltà anche ad Austin. Perez: “Weekend piuttosto complicato”"
+   },
+   "last": "2026-10-27T16:24:54.280803+00:00"
   }
  },
- "story_seq": 2070,
+ "story_seq": 2073,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13038,22 +13073,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T16:14:49.464358+00:00",
+ "last_run": "2026-10-27T16:24:47.942750+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
  "last_digest_at": "2026-10-27T12:04:03.996502+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T16:15:05.707673+00:00",
-   "title": "Barcelona'da konuk yıldız olabilir: \"Ben Alonso'yu önerirdim\"",
-   "source": "AS"
-  },
-  {
-   "t": "2026-10-24T16:20:42.026003+00:00",
-   "title": "Russell, Austin'de zorlu bir sınavla karşı karşıya: \"Rekabet çok güçlüydü\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-24T16:55:39.989210+00:00",
    "title": "Red Bull, Hadjar'ın 'sürülemez' dediği RB22'de ayar değişikliğini geri almak zorunda kaldı",
@@ -14493,6 +14518,21 @@
    "t": "2026-10-27T15:54:59.519485+00:00",
    "title": "Leclerc Austin'de Ferrari'nin podyum kralı Schumacher'in ardından ikinci",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-27T16:25:05.146341+00:00",
+   "title": "Cadillac Austin'de de zorlanıyor; Perez: \"Oldukça zor bir hafta sonuydu\"",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-27T16:25:05.681526+00:00",
+   "title": "McLaren, Norris için hâlâ 'tazminat' bekliyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-27T16:25:06.187537+00:00",
+   "title": "Cadillac, Bottas'ın yerine Herta dışında bir aday daha düşünüyor",
+   "source": "GPblog"
   }
  ]
 }
