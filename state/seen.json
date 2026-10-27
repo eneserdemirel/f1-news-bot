@@ -4157,7 +4157,11 @@
   "b582c9c7b60189f8": "2026-10-27T13:54:49.955191+00:00",
   "098f6693e56e5623": "2026-10-27T13:54:49.955191+00:00",
   "fef437ac57f6f2dd": "2026-10-27T13:54:49.955191+00:00",
-  "e85ccb2c75645c2a": "2026-10-27T14:04:48.594539+00:00"
+  "e85ccb2c75645c2a": "2026-10-27T14:04:48.594539+00:00",
+  "994e5e8174f851bf": "2026-10-27T14:14:49.178028+00:00",
+  "5fb1a9e27ee0e25f": "2026-10-27T14:14:49.178028+00:00",
+  "eab49c0497638042": "2026-10-27T14:14:49.178028+00:00",
+  "e216df9d8529e225": "2026-10-27T14:14:49.178028+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4562,19 +4566,6 @@
    },
    "last": "2026-10-25T19:33:51.593220+00:00"
   },
-  "S1430": {
-   "title": "Man United vs. Bournemouth team stats page",
-   "first": "2026-10-25T14:08:11.549976+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T14:04:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United vs. Bournemouth (Oct 25, 2026) Team Stats"
-   },
-   "last": "2026-10-25T14:08:11.549994+00:00"
-  },
   "S1431": {
    "title": "Liverpool vs. Brighton team stats page",
    "first": "2026-10-25T14:08:11.550000+00:00",
@@ -4600,19 +4591,6 @@
     "ESPN F1": "NFL, NFLPA handling joint review of Jalen Hurts' blood clot diagnosis"
    },
    "last": "2026-10-25T14:23:07.073281+00:00"
-  },
-  "S1433": {
-   "title": "Verstappen hopeful for Austin race from second on grid",
-   "first": "2026-10-25T14:13:09.386986+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-25T14:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen heeft goede hoop op succes in Austin"
-   },
-   "last": "2026-10-25T14:13:09.386992+00:00"
   },
   "S1434": {
    "title": "Stroll quantifies Aston Martin's time loss from Honda engine",
@@ -12671,9 +12649,61 @@
     "FormulaPassion": "Il singolare nuovo investimento di Helmut Marko: un’intelligenza artificiale per far parlare dall’aldilà"
    },
    "last": "2026-10-27T13:54:54.716473+00:00"
+  },
+  "S2032": {
+   "title": "CF Calamocha vs. Europa live score",
+   "first": "2026-10-27T14:14:52.734912+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T10:03:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "CF Calamocha vs. Europa (Oct 27, 2026) Live Score"
+   },
+   "last": "2026-10-27T14:14:52.734928+00:00"
+  },
+  "S2033": {
+   "title": "Williams gives protege extra FP1 outing in driver swap",
+   "first": "2026-10-27T14:14:52.734934+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-27T14:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Williams protege gets latest F1 practice outing in double swap"
+   },
+   "last": "2026-10-27T14:14:52.734940+00:00"
+  },
+  "S2034": {
+   "title": "Austin US GP TV ratings on Sky and ServusTV",
+   "first": "2026-10-27T14:14:52.734944+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-27T14:02:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "TV-Quoten Austin: Sky und ServusTV über Saisonschnitt, aber ... - Motorsport-Total.com"
+   },
+   "last": "2026-10-27T14:14:52.734949+00:00"
+  },
+  "S2035": {
+   "title": "Cadillac customer team blocked Ferrari double podium in Austin",
+   "first": "2026-10-27T14:14:52.734953+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-27T14:03:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: So verhinderte ausgerechnet Kundenteam Cadillac das Ferrari-Doppelpodium"
+   },
+   "last": "2026-10-27T14:14:52.734957+00:00"
   }
  },
- "story_seq": 2031,
+ "story_seq": 2035,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12792,7 +12822,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T14:04:48.594539+00:00",
+ "last_run": "2026-10-27T14:14:49.178028+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
@@ -14252,6 +14282,16 @@
    "t": "2026-10-27T13:55:01.325265+00:00",
    "title": "Newey, Horner'ın 2014 iddialarına yanıt verdi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-27T14:14:59.199537+00:00",
+   "title": "Ferrari'nin çifte podyumunu müşteri takım Cadillac engelledi",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-10-27T14:14:59.720605+00:00",
+   "title": "Williams, Luke Browning'e iki ek FP1 çalışması verdi",
+   "source": "RacingNews365"
   }
  ]
 }
