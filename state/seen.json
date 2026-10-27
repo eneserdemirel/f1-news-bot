@@ -4043,7 +4043,10 @@
   "fbfac89b0b508670": "2026-10-27T07:33:57.893358+00:00",
   "8ddadaae73130c76": "2026-10-27T07:33:57.893358+00:00",
   "9a579be999d7e02b": "2026-10-27T07:33:57.893358+00:00",
-  "2de1e23b9f4bd09e": "2026-10-27T07:33:57.893358+00:00"
+  "2de1e23b9f4bd09e": "2026-10-27T07:33:57.893358+00:00",
+  "a1276a6623f645f9": "2026-10-27T07:44:00.859839+00:00",
+  "584857d2cc7f54a8": "2026-10-27T07:44:00.859839+00:00",
+  "91da67f2901927d9": "2026-10-27T07:44:00.859839+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4448,19 +4451,6 @@
    },
    "last": "2026-10-25T10:47:40.494313+00:00"
   },
-  "S1365": {
-   "title": "Suns 131-122 Warriors NBA game recap",
-   "first": "2026-10-25T07:36:57.235572+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T04:44:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Suns 131-122 Warriors (Oct 24, 2026) Game Recap"
-   },
-   "last": "2026-10-25T07:36:57.235592+00:00"
-  },
   "S1366": {
    "title": "Leclerc says tyres explain Ferrari's Q3 pace loss",
    "first": "2026-10-25T07:36:57.235598+00:00",
@@ -4475,19 +4465,6 @@
     "FormulaPassion": "Leclerc: “2 gradi in meno e per noi è stato come passare dal giorno alla notte”"
    },
    "last": "2026-10-25T09:33:08.760408+00:00"
-  },
-  "S1367": {
-   "title": "76ers' Brown says no beef with Tatum, jabs PR team",
-   "first": "2026-10-25T07:41:52.914252+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T04:01:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "76ers' Brown claims no beef, but says Tatum has 'hell of a PR team'"
-   },
-   "last": "2026-10-25T07:41:52.914271+00:00"
   },
   "S1368": {
    "title": "Verstappen hits back at Austin circuit boss over bumps",
@@ -12396,9 +12373,48 @@
     "Motorsport-Total": "Isack Hadjar: So erklärt er das Funk-Missverständnis mit Verstappen in Austin - Motorsport-Total.com"
    },
    "last": "2026-10-27T07:34:03.164265+00:00"
+  },
+  "S1954": {
+   "title": "Beijing vs. Jeonbuk live score (football)",
+   "first": "2026-10-27T07:44:02.992424+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T07:25:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Beijing vs. Jeonbuk (27 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-27T07:44:02.992441+00:00"
+  },
+  "S1955": {
+   "title": "Jackson Chourio becomes Brewers superstar in October (MLB)",
+   "first": "2026-10-27T07:44:02.992447+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T07:13:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How Jackson Chourio became a Brewers superstar in October"
+   },
+   "last": "2026-10-27T07:44:02.992453+00:00"
+  },
+  "S1956": {
+   "title": "Bradford vs. Peterborough live score (football)",
+   "first": "2026-10-27T07:44:02.992457+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T03:46:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bradford vs. Peterborough (27 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-27T07:44:02.992463+00:00"
   }
  },
- "story_seq": 1953,
+ "story_seq": 1956,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12517,17 +12533,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T07:33:57.893358+00:00",
+ "last_run": "2026-10-27T07:44:00.859839+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T07:39:56.869651+00:00",
-   "title": "Horner, Verstappen zaferinin ardından Red Bull'un ona ne söylediğini açıkladı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-24T07:44:38.518405+00:00",
    "title": "Leclerc, Verstappen ve rakiplere karşı temkinli: \"Küçük farkı gördüğümde...\"",
