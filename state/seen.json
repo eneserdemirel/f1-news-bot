@@ -4053,7 +4053,9 @@
   "c0bef0b411ebfbc7": "2026-10-27T08:03:59.680618+00:00",
   "056d6e09a6682761": "2026-10-27T08:03:59.680618+00:00",
   "f4fc259c216d582b": "2026-10-27T08:03:59.680618+00:00",
-  "b980d09360cd3fb6": "2026-10-27T08:13:59.265107+00:00"
+  "b980d09360cd3fb6": "2026-10-27T08:13:59.265107+00:00",
+  "5a92dd43ab03fc3b": "2026-10-27T08:23:58.795447+00:00",
+  "dc8d715dfdeb5a91": "2026-10-27T08:23:58.795447+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4533,21 +4535,6 @@
     "GPFans": "FIA confirms staggering 80-place grid penalty for F1 star at US Grand Prix"
    },
    "last": "2026-10-25T12:27:34.729778+00:00"
-  },
-  "S1371": {
-   "title": "How to watch the US GP live on TV",
-   "first": "2026-10-25T08:18:11.630352+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-25T08:15:00+00:00",
-    "AS": "2026-10-25T08:10:23+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Zo kijk je de F1 Grand Prix Verenigde Staten live op tv",
-    "AS": "¿A qué hora es el GP de Estados Unidos de F1? TV, horario, cómo y dónde ver la carrera desde Austin en vivo"
-   },
-   "last": "2026-10-25T08:18:11.630384+00:00"
   },
   "S1372": {
    "title": "Hamilton admits Ferrari has significant disadvantage to rivals",
@@ -12499,9 +12486,35 @@
     "ESPN F1": "Albie Morkel, Mohit Sharma and Gareth Batty appointed CSK assistant coaches"
    },
    "last": "2026-10-27T08:14:01.006195+00:00"
+  },
+  "S1963": {
+   "title": "Kylian Mbappé dropped by Chinese brands after alleged dictator comment",
+   "first": "2026-10-27T08:24:01.266571+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T08:16:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kylian Mbappé dropped by Chinese brands after alleged dictator comment"
+   },
+   "last": "2026-10-27T08:24:01.266589+00:00"
+  },
+  "S1964": {
+   "title": "Antonelli says he will likely keep number 12 in 2027",
+   "first": "2026-10-27T08:24:01.266595+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-27T08:10:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli niente numero 1 nel 2027? “Penso che continuerò con il 12”"
+   },
+   "last": "2026-10-27T08:24:01.266601+00:00"
   }
  },
- "story_seq": 1962,
+ "story_seq": 1964,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12620,22 +12633,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T08:13:59.265107+00:00",
+ "last_run": "2026-10-27T08:23:58.795447+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T08:19:36.130437+00:00",
-   "title": "Antonelli, Vettel'in F1 rekorunu kırabileceğini hatırlamadığını itiraf etti",
-   "source": "Crash.net"
-  },
-  {
-   "t": "2026-10-24T08:19:36.667662+00:00",
-   "title": "Antonelli, Austin'de Mercedes'in temposunu yakaladı",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-10-24T08:24:32.761130+00:00",
    "title": "Bortoleto, Verstappen'i destekledi: \"Gerçekten çok sert\"",
@@ -14075,6 +14078,11 @@
    "t": "2026-10-27T08:04:13.294885+00:00",
    "title": "Leclerc, Verstappen'i ilk turda geçişini anlattı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-27T08:24:05.911223+00:00",
+   "title": "Antonelli 2027'de 1 numarayı değil 12 numarayı seçeceğini söyledi",
+   "source": "FormulaPassion"
   }
  ]
 }
