@@ -3961,7 +3961,10 @@
   "c8a3f77eb96066d9": "2026-10-27T00:22:41.458394+00:00",
   "cecfdcc5a8f228d2": "2026-10-27T00:32:42.238942+00:00",
   "57ec09c4d7122132": "2026-10-27T00:32:42.238942+00:00",
-  "aa3199e8f21cdae3": "2026-10-27T00:32:42.238942+00:00"
+  "aa3199e8f21cdae3": "2026-10-27T00:32:42.238942+00:00",
+  "662e40158a64c4eb": "2026-10-27T00:42:39.256586+00:00",
+  "7c73526b26efc69c": "2026-10-27T00:42:39.256586+00:00",
+  "65f702ae9847b59f": "2026-10-27T00:42:39.256586+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4386,32 +4389,6 @@
    },
    "last": "2026-10-25T01:11:14.068552+00:00"
   },
-  "S1275": {
-   "title": "UT Rio Grande Valley vs. Central Arkansas college football highlights",
-   "first": "2026-10-25T00:36:16.782151+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T00:28:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UT Rio Grande Valley Vaqueros vs. Central Arkansas Bears: Full Highlights"
-   },
-   "last": "2026-10-25T00:36:16.782170+00:00"
-  },
-  "S1276": {
-   "title": "RacingNews365 review: Antonelli surprise, Verstappen kangaroo, title scenario",
-   "first": "2026-10-25T00:36:16.782174+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-25T00:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli shocks Mercedes as Max Verstappen wrestles Red Bull ‘kangaroo’"
-   },
-   "last": "2026-10-25T00:36:16.782177+00:00"
-  },
   "S1277": {
    "title": "Hadjar reflects on P3 after Austin weekend was a disaster until Q3",
    "first": "2026-10-25T00:36:16.782180+00:00",
@@ -4432,19 +4409,6 @@
     "RacingNews365": "Isack Hadjar explains 'gutted' emotion despite Austin 'disaster' recovery"
    },
    "last": "2026-10-25T14:43:10.253064+00:00"
-  },
-  "S1278": {
-   "title": "Lucas Carneiro makes 46-yard field goal",
-   "first": "2026-10-25T00:41:14.508254+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T00:12:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lucas Carneiro makes 46-yard field goal"
-   },
-   "last": "2026-10-25T00:41:14.508272+00:00"
   },
   "S1279": {
    "title": "Jared Curtis throws 3-yard TD pass to Jayvontay Conner",
@@ -12656,9 +12620,48 @@
     "ESPN F1": "Zaccharie Risacher with the massive stuff at the rim"
    },
    "last": "2026-10-27T00:32:45.251975+00:00"
+  },
+  "S1886": {
+   "title": "Caleb Wilson dunk denies Celtics",
+   "first": "2026-10-27T00:42:41.787981+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T23:55:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Caleb Wilson denies Boston Celtics with stuff"
+   },
+   "last": "2026-10-27T00:42:41.787999+00:00"
+  },
+  "S1887": {
+   "title": "Mitchell Robinson slam dunk highlight",
+   "first": "2026-10-27T00:42:41.788005+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T23:51:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mitchell Robinson gets up for the beautiful slam dunk"
+   },
+   "last": "2026-10-27T00:42:41.788010+00:00"
+  },
+  "S1888": {
+   "title": "Panthers' Taylor Moton to have season-ending ankle surgery",
+   "first": "2026-10-27T00:42:41.788013+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T23:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Panthers RT Taylor Moton to undergo season-ending ankle surgery"
+   },
+   "last": "2026-10-27T00:42:41.788018+00:00"
   }
  },
- "story_seq": 1885,
+ "story_seq": 1888,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12777,22 +12780,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T00:32:42.238942+00:00",
+ "last_run": "2026-10-27T00:42:39.256586+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T00:33:43.039156+00:00",
-   "title": "Austin'de Cuma antrenmanları: takımların açıklamaları",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-10-24T00:33:43.548136+00:00",
-   "title": "Ferrari, dörtlü mücadele şekillenirken öne geçebilecek mi?",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-24T00:43:44.990974+00:00",
    "title": "Austin longrun'larında Leclerc ve Verstappen önde, Mercedes zorlanıyor",
