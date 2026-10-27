@@ -4344,7 +4344,8 @@
   "1e22cb62cfe7dd8b": "2026-10-27T22:25:29.743406+00:00",
   "bc6527589b5d9998": "2026-10-27T22:25:29.743406+00:00",
   "c303e127bad6461d": "2026-10-27T22:35:29.625719+00:00",
-  "cc6d42b87ac71c59": "2026-10-27T22:35:29.625719+00:00"
+  "cc6d42b87ac71c59": "2026-10-27T22:35:29.625719+00:00",
+  "77a71de96752a826": "2026-10-27T22:46:02.636091+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4703,19 +4704,6 @@
    },
    "last": "2026-10-25T23:48:55.286197+00:00"
   },
-  "S1556": {
-   "title": "Leclerc named Driver of the Day after US GP drive to P2",
-   "first": "2026-10-25T22:38:52.905527+00:00",
-   "sources": {
-    "Formula 1": "2026-10-25T22:38:52.905544+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Leclerc your US GP Driver of the Day after fighting drive to P2"
-   },
-   "last": "2026-10-25T22:38:52.905547+00:00"
-  },
   "S1557": {
    "title": "Mexico GP dates, times and TV coverage for Antonelli title bid",
    "first": "2026-10-25T22:38:52.905572+00:00",
@@ -4739,32 +4727,6 @@
    },
    "last": "2026-10-26T12:01:18.790057+00:00"
   },
-  "S1558": {
-   "title": "Man Utd 1-1 Man City match analysis",
-   "first": "2026-10-25T22:43:53.127274+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T20:17:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man Utd 1-1 Man City (Oct 25, 2026) Game Analysis"
-   },
-   "last": "2026-10-25T22:43:53.127293+00:00"
-  },
-  "S1559": {
-   "title": "Jacksonville vs. Florida International live match page",
-   "first": "2026-10-25T22:43:53.127299+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T17:24:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jacksonville vs. Florida International 3/11/26 - Mira Juego en vivo"
-   },
-   "last": "2026-10-25T22:43:53.127305+00:00"
-  },
   "S1560": {
    "title": "Antonelli says he won't discuss title until it's over",
    "first": "2026-10-25T22:43:53.127308+00:00",
@@ -4779,19 +4741,6 @@
     "Gazzetta dello Sport": "Kimi: \"Mondiale? Voglio chiudere in bellezza\". Wolff: \"Se vinciamo in Messico festa con tequila\""
    },
    "last": "2026-10-25T23:18:50.626483+00:00"
-  },
-  "S1561": {
-   "title": "Wolff says Antonelli's title is result of nine years of work",
-   "first": "2026-10-25T22:43:53.127315+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-25T22:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli quasi campione, Wolff: “È il frutto di un lavoro di nove anni iniziato nei kart”"
-   },
-   "last": "2026-10-25T22:43:53.127319+00:00"
   },
   "S1562": {
    "title": "Hadjar demands Red Bull redesign, says he is 'pissed off'",
@@ -12927,9 +12876,22 @@
     "ESPN F1": "Doeren leaves NC State 'with no grudges,' will always be rooting for Wolfpack"
    },
    "last": "2026-10-27T22:35:32.407643+00:00"
+  },
+  "S2171": {
+   "title": "New Orioles GM Jared Banner vows to build winner in Baltimore",
+   "first": "2026-10-27T22:46:04.222571+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T22:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "New Orioles GM Jared Banner vows to build winner in Baltimore"
+   },
+   "last": "2026-10-27T22:46:04.222595+00:00"
   }
  },
- "story_seq": 2170,
+ "story_seq": 2171,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13048,32 +13010,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-27T22:36:05.419037+00:00",
+ "last_run": "2026-10-27T22:46:02.636091+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T22:36:24.572646+00:00",
-   "title": "Antonelli, Austin'de pole alarak şampiyonluk şansını artırdı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-24T22:36:24.974901+00:00",
-   "title": "Antonelli, Amerika GP'de pole pozisyonu aldı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-10-24T22:41:18.934264+00:00",
-   "title": "F1 2026: Norris McLaren'daki sıralama düellosunu kazanıyor",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-10-24T22:41:19.351532+00:00",
-   "title": "Red Bull, Verstappen'in ikinci olmasının ardından olumlu bir sonuca vardı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-24T22:56:18.820206+00:00",
    "title": "FIA, Mercedes ve Piastri'nin ABD GP soruşturmasında karar verdi",
