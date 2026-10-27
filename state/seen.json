@@ -4100,7 +4100,9 @@
   "38777ec7e0045b29": "2026-10-27T10:53:58.921590+00:00",
   "f88d1c5388492e5f": "2026-10-27T10:53:58.921590+00:00",
   "044703da5e6a6460": "2026-10-27T11:04:01.164849+00:00",
-  "a546d0b759b04121": "2026-10-27T11:04:01.164849+00:00"
+  "a546d0b759b04121": "2026-10-27T11:04:01.164849+00:00",
+  "f5b367c6724604ce": "2026-10-27T11:14:03.137146+00:00",
+  "8bf3cc50ffa4bf60": "2026-10-27T11:14:03.137146+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4247,25 +4249,6 @@
     "GPFans": "Lando Norris slams McLaren with brutal dig after US Grand Prix thrashing"
    },
    "last": "2026-10-25T19:28:46.960951+00:00"
-  },
-  "S1266": {
-   "title": "Analysis of Ferrari's Austin qualifying disappointment theories",
-   "first": "2026-10-25T00:06:21.981413+00:00",
-   "sources": {
-    "Autosport": "2026-10-24T23:58:33+00:00",
-    "Motorsport Week": "2026-10-25T06:00:00+00:00",
-    "Motorsport.com Italia": "2026-10-25T09:00:38+00:00",
-    "FormulaPassion": "2026-10-25T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment",
-    "Motorsport Week": "Lewis Hamilton pinpoints major Ferrari flaw after US GP qualifying drop-off",
-    "Motorsport.com Italia": "F1 | Ferrari, il mistero della Q3: Leclerc perde il passo, Hamilton accusa la power unit",
-    "FormulaPassion": "Hamilton: “In rettilineo quando noi tagliamo potenza, gli altri continuano a spingere”"
-   },
-   "last": "2026-10-25T11:07:31.977433+00:00"
   },
   "S1277": {
    "title": "Hadjar reflects on P3 after Austin weekend was a disaster until Q3",
@@ -4572,32 +4555,6 @@
     "GPblog": "Vasseur shuts down excuse for Ferrari's US GP Qualifying: 'That would be bulls**t'"
    },
    "last": "2026-10-25T17:53:42.397024+00:00"
-  },
-  "S1400": {
-   "title": "MotoGP rider rankings for cancelled Phillip Island Grand Prix",
-   "first": "2026-10-25T11:07:31.977402+00:00",
-   "sources": {
-    "The Race": "2026-10-25T11:04:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "The Race": "2026 Australian Grand Prix MotoGP rider rankings"
-   },
-   "last": "2026-10-25T11:07:31.977418+00:00"
-  },
-  "S1401": {
-   "title": "Alonso comments on Aston Martin's true pace before US GP",
-   "first": "2026-10-25T11:12:31.932050+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-25T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Fernando Alonso admits Aston Martin’s true pace ahead of F1 US GP"
-   },
-   "last": "2026-10-25T11:12:31.932067+00:00"
   },
   "S1402": {
    "title": "Browns DT Maliek Collins signs two-year extension worth $30 million",
@@ -12551,9 +12508,35 @@
     "GPFans": "F1 star breaks silence after Jeremy Clarkson comments cause controversy"
    },
    "last": "2026-10-27T11:04:03.563298+00:00"
+  },
+  "S1993": {
+   "title": "Vasseur seeks answers on Ferrari's Q3 qualifying mystery in Austin",
+   "first": "2026-10-27T11:14:07.617585+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-27T11:08:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari’s Q3 mystery leaves Fred Vasseur searching for answers"
+   },
+   "last": "2026-10-27T11:14:07.617606+00:00"
+  },
+  "S1994": {
+   "title": "Data analysis explains Russell's large deficit to teammate",
+   "first": "2026-10-27T11:14:07.617611+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-27T11:03:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Russell-Rätsel: Das sagen die Daten zum riesigen Rückstand"
+   },
+   "last": "2026-10-27T11:14:07.617617+00:00"
   }
  },
- "story_seq": 1992,
+ "story_seq": 1994,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12672,7 +12655,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T11:04:01.164849+00:00",
+ "last_run": "2026-10-27T11:14:03.137146+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
@@ -14137,6 +14120,11 @@
    "t": "2026-10-27T10:54:07.508278+00:00",
    "title": "Red Bull, Verstappen için test edilen yeni fren diskini tanıtıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-27T11:14:14.267319+00:00",
+   "title": "Russell'ın büyük geride kalma sorunu: Veriler ne diyor?",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
