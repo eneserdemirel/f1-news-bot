@@ -4058,7 +4058,11 @@
   "dc8d715dfdeb5a91": "2026-10-27T08:23:58.795447+00:00",
   "3de7b35d159bf4e4": "2026-10-27T08:33:59.874358+00:00",
   "56ffdf1063562b6b": "2026-10-27T08:43:59.889515+00:00",
-  "edcbb2207feb5519": "2026-10-27T08:43:59.889515+00:00"
+  "edcbb2207feb5519": "2026-10-27T08:43:59.889515+00:00",
+  "fb26bfe683dd1647": "2026-10-27T08:53:59.059013+00:00",
+  "d4e10c524323c15a": "2026-10-27T08:53:59.059013+00:00",
+  "f803c834c8430a1b": "2026-10-27T08:53:59.059013+00:00",
+  "979e75c636ce540f": "2026-10-27T08:53:59.059013+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4553,19 +4557,6 @@
     "RacingNews365 NL": "Hamilton kijkt met open mond naar Red Bull: \"Ze blijven maar gaan!\""
    },
    "last": "2026-10-25T16:03:17.317898+00:00"
-  },
-  "S1374": {
-   "title": "Norris makes astonishing claim about Austin qualifying struggles",
-   "first": "2026-10-25T08:53:05.807904+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-25T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris makes astonishing claim over Austin F1 qualifying struggles"
-   },
-   "last": "2026-10-25T08:53:05.807922+00:00"
   },
   "S1375": {
    "title": "Helmut Marko slams Christian Horner's book and denies allegation",
@@ -11613,7 +11604,7 @@
    "titles": {
     "ESPN F1": "Warriors vs. Nuggets (27 Oct, 2026) Box Score"
    },
-   "last": "2026-10-27T02:23:20.417839+00:00"
+   "last": "2026-10-27T08:54:05.761964+00:00"
   },
   "S1897": {
    "title": "Luke Vogeler 29-yard field goal",
@@ -12533,17 +12524,45 @@
    "title": "Norris says McLaren now clearly only fourth-best team",
    "first": "2026-10-27T08:44:02.660555+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-27T08:32:37+00:00"
+    "Motorsport-Total": "2026-10-27T08:32:37+00:00",
+    "RacingNews365": "2026-10-27T08:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Lando Norris: McLaren \"ziemlich offensichtlich\" nur noch viertbestes Team - Motorsport-Total.com"
+    "Motorsport-Total": "Lando Norris: McLaren \"ziemlich offensichtlich\" nur noch viertbestes Team - Motorsport-Total.com",
+    "RacingNews365": "Lando Norris hands McLaren brutal 'nowhere' verdict: 'We need a lot more'"
    },
-   "last": "2026-10-27T08:44:02.660561+00:00"
+   "last": "2026-10-27T08:54:05.761972+00:00"
+  },
+  "S1968": {
+   "title": "Jockey hospitalised in horsebox, racecourse fined",
+   "first": "2026-10-27T08:54:05.761936+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T08:51:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jockey taken to hospital in horsebox, racecourse fined"
+   },
+   "last": "2026-10-27T08:54:05.761954+00:00"
+  },
+  "S1969": {
+   "title": "Wolff mocks FIA stewards with smoking remark over Russell penalty",
+   "first": "2026-10-27T08:54:05.761976+00:00",
+   "sources": {
+    "GPFans": "2026-10-27T08:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Toto Wolff takes brutal dig at FIA stewards with bizarre smoking remark"
+   },
+   "last": "2026-10-27T08:54:05.761981+00:00"
   }
  },
- "story_seq": 1967,
+ "story_seq": 1969,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12662,17 +12681,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T08:43:59.889515+00:00",
+ "last_run": "2026-10-27T08:53:59.059013+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T08:49:33.844015+00:00",
-   "title": "Antonelli: Austin'de pist sınırı mücadelesi zorlu, asfalt çok",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T09:04:35.971935+00:00",
    "title": "Hamilton: Farklı set-up denedik ama araçta rahat hissetmedim",
@@ -14117,6 +14131,11 @@
    "t": "2026-10-27T08:44:08.308588+00:00",
    "title": "Lando Norris: McLaren artık açıkça dördüncü en iyi takım",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-27T08:54:11.068483+00:00",
+   "title": "Toto Wolff, FIA hakemlerini sigara şakasıyla eleştirdi",
+   "source": "GPFans"
   }
  ]
 }
