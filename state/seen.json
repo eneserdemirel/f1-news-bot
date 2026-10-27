@@ -4294,7 +4294,9 @@
   "47604dd09ff7a59d": "2026-10-27T19:15:29.393026+00:00",
   "359801bb5a7d8b2c": "2026-10-27T19:15:29.393026+00:00",
   "8a5406fad9d12a3b": "2026-10-27T19:15:29.393026+00:00",
-  "69d8f106b270f30d": "2026-10-27T19:26:03.670697+00:00"
+  "69d8f106b270f30d": "2026-10-27T19:26:03.670697+00:00",
+  "9090f1714ada6df4": "2026-10-27T19:35:30.490508+00:00",
+  "6307ae5083ff0cab": "2026-10-27T19:35:30.490508+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4316,55 +4318,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S1256": {
-   "title": "Norris blames McLaren as impossible car after qualifying",
-   "first": "2026-10-24T23:56:11.784338+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-24T23:52:46+00:00",
-    "Motorsport.com Italia": "2026-10-25T10:30:15+00:00",
-    "Motorsport-Total": "2026-10-25T08:23:49+00:00",
-    "GPblog": "2026-10-25T13:32:00+00:00",
-    "GPFans": "2026-10-25T19:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lando Norris slates ‘impossible’ McLaren after tough United States qualifying",
-    "Motorsport.com Italia": "F1 | McLaren, quarta fila ad Austin. Norris: \"La macchina più difficile che abbia mai guidato\"",
-    "Motorsport-Total": "Lando Norris nach Austin-Qualifying: \"Albtraum\", den McLaren abzustimmen - Motorsport-Total.com",
-    "GPblog": "Norris says McLaren had front-row pace but was the hardest car he has ever driven",
-    "GPFans": "Lando Norris slams McLaren with brutal dig after US Grand Prix thrashing"
-   },
-   "last": "2026-10-25T19:28:46.960951+00:00"
-  },
-  "S1418": {
-   "title": "Sainz jokes about Austin bumps needing ibuprofen",
-   "first": "2026-10-25T12:07:35.252940+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-25T12:00:00+00:00",
-    "GPblog": "2026-10-25T19:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Sainz: “Dossi come la Dakar, serve l’ibuprofene…” e Hamilton scherza: “Ho 41 anni e la mia schiena sta benissimo”",
-    "GPblog": "Another F1 driver joins Verstappen in needing painkillers to cope with Austin bumps"
-   },
-   "last": "2026-10-25T19:33:51.593220+00:00"
-  },
-  "S1431": {
-   "title": "Liverpool vs. Brighton team stats page",
-   "first": "2026-10-25T14:08:11.550000+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T14:02:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Liverpool vs. Brighton (Oct 25, 2026) Team Stats"
-   },
-   "last": "2026-10-25T19:28:46.960940+00:00"
-  },
   "S1435": {
    "title": "Bruno Fernandes left out by Man United after Carrick criticism",
    "first": "2026-10-25T14:33:26.307003+00:00",
@@ -4464,19 +4417,6 @@
     "ESPN F1": "Gary Neville: Michael Carrick exit 'probably necessary' for Man United"
    },
    "last": "2026-10-26T00:04:38.479748+00:00"
-  },
-  "S1498": {
-   "title": "Lommel SK vs KAA Gent live score page",
-   "first": "2026-10-25T19:33:51.593164+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T18:25:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lommel SK vs. KAA Gent (Nov 1, 2026) Live Score"
-   },
-   "last": "2026-10-25T19:33:51.593207+00:00"
   },
   "S1499": {
    "title": "Shadab shuts out noise in knock for the ages",
@@ -12992,9 +12932,35 @@
     "ESPN F1": "WTGL Standings"
    },
    "last": "2026-10-27T19:15:33.309592+00:00"
+  },
+  "S2130": {
+   "title": "Ezequiel Ponce scores for Elche in football match",
+   "first": "2026-10-27T19:35:34.123566+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T19:29:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ezequiel Ponce gets on the scoresheet for Elche"
+   },
+   "last": "2026-10-27T19:35:34.123584+00:00"
+  },
+  "S2131": {
+   "title": "Colton Herta to earn superlicence in Cadillac Mexico FP1 outing",
+   "first": "2026-10-27T19:35:34.123589+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-27T19:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Colton Herta set to finally earn superlicence with latest Cadillac F1 outing"
+   },
+   "last": "2026-10-27T19:35:34.123594+00:00"
   }
  },
- "story_seq": 2129,
+ "story_seq": 2131,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13113,17 +13079,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T19:26:03.670697+00:00",
+ "last_run": "2026-10-27T19:35:30.490508+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T19:30:49.408360+00:00",
-   "title": "Isack Hadjar, pratikteki olay nedeniyle F1 hakemlerine çağrıldı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T20:20:42.745551+00:00",
    "title": "Verstappen, ABD GP sıralama turları öncesi güçlü destek gördü",
@@ -14573,6 +14534,11 @@
    "t": "2026-10-27T19:05:41.878876+00:00",
    "title": "Verstappen Meksika GP'nin ilk antrenmanında direksiyon başına geçmeyecek",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-27T19:35:39.886299+00:00",
+   "title": "Colton Herta, Cadillac ile F1 superlicense'a bir adım daha yaklaştı",
+   "source": "RacingNews365"
   }
  ]
 }
