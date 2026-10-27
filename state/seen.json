@@ -4141,7 +4141,10 @@
   "4c63806a0dccad08": "2026-10-27T13:04:48.904488+00:00",
   "6245f12be455c6ea": "2026-10-27T13:04:48.904488+00:00",
   "2259b54ed99a256a": "2026-10-27T13:04:48.904488+00:00",
-  "2149d8200e6d85c9": "2026-10-27T13:04:48.904488+00:00"
+  "2149d8200e6d85c9": "2026-10-27T13:04:48.904488+00:00",
+  "f1077de3c9ce72f1": "2026-10-27T13:14:50.125019+00:00",
+  "413228b621380c6d": "2026-10-27T13:14:50.125019+00:00",
+  "5fe3cf785b82bb45": "2026-10-27T13:14:50.125019+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11475,16 +11478,18 @@
    "sources": {
     "PlanetF1": "2026-10-27T07:11:15+00:00",
     "GPblog": "2026-10-27T07:30:00+00:00",
-    "GPFans": "2026-10-27T09:57:00+00:00"
+    "GPFans": "2026-10-27T09:57:00+00:00",
+    "Motorsport Week": "2026-10-27T12:59:29+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "‘Pissed off’ Hadjar demands Red Bull redesign after US GP struggles",
     "GPblog": "Hadjar demands change at Red Bull after poor start: 'It's too fragile'",
-    "GPFans": "Isack Hadjar demands Red Bull redesign after US Grand Prix nightmare: 'Starting to p*** me off'"
+    "GPFans": "Isack Hadjar demands Red Bull redesign after US Grand Prix nightmare: 'Starting to p*** me off'",
+    "Motorsport Week": "Isack Hadjar delivers verdict on ‘fragile’ Red Bull clutch problem"
    },
-   "last": "2026-10-27T10:04:04.217554+00:00"
+   "last": "2026-10-27T13:14:53.479387+00:00"
   },
   "S1936": {
    "title": "Red Bull promise review after Verstappen's strategy complaint",
@@ -12603,9 +12608,35 @@
     "PlanetF1": "Mercedes face upgrade puzzle as Toto Wolff reveals what is holding the W17 back"
    },
    "last": "2026-10-27T13:04:56.036778+00:00"
+  },
+  "S2020": {
+   "title": "Naomi Osaka advances to second round in Tokyo",
+   "first": "2026-10-27T13:14:53.479349+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T13:04:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Naomi Osaka moves into 2nd round in Tokyo, in front of home fans"
+   },
+   "last": "2026-10-27T13:14:53.479368+00:00"
+  },
+  "S2021": {
+   "title": "Red Bull ambassador Calum Nicholas defends Verstappen US GP strategy",
+   "first": "2026-10-27T13:14:53.479374+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-27T13:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull-ambassadeur verdedigt 'gewaagde keuze' bij Verstappen"
+   },
+   "last": "2026-10-27T13:14:53.479379+00:00"
   }
  },
- "story_seq": 2019,
+ "story_seq": 2021,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12724,17 +12755,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T13:04:48.904488+00:00",
+ "last_run": "2026-10-27T13:14:50.125019+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
  "last_digest_at": "2026-10-27T12:04:03.996502+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T13:05:08.267790+00:00",
-   "title": "McLaren yeni yükseltme paketinden umut verici sonuçlar aldığını söyledi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-24T13:35:07.982816+00:00",
    "title": "COTA patronu Verstappen'in tümsek eleştirisine yanıt verdi: 1. viraj 'kabul edilemez'",
@@ -14194,6 +14220,11 @@
    "t": "2026-10-27T13:05:02.536175+00:00",
    "title": "Mercedes'in W17 güncellemesi henüz beklenen performansı vermiyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-27T13:15:01.151319+00:00",
+   "title": "Red Bull elçisi Verstappen'in 'cesur tercihini' savundu",
+   "source": "RacingNews365 NL"
   }
  ]
 }
