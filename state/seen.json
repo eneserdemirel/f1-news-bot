@@ -4182,7 +4182,12 @@
   "e55d64643193fdbe": "2026-10-27T15:04:49.277097+00:00",
   "2cb5dd9e1b92f3b2": "2026-10-27T15:04:49.277097+00:00",
   "d0060dfb03ebe1ec": "2026-10-27T15:04:49.277097+00:00",
-  "8cade89f16656805": "2026-10-27T15:04:49.277097+00:00"
+  "8cade89f16656805": "2026-10-27T15:04:49.277097+00:00",
+  "4547384ef6178c0c": "2026-10-27T15:14:51.313144+00:00",
+  "6521e0c9897033aa": "2026-10-27T15:14:51.313144+00:00",
+  "fd389d005e1480de": "2026-10-27T15:14:51.313144+00:00",
+  "77aac408acca4fe7": "2026-10-27T15:14:51.313144+00:00",
+  "d2ca8ff15c83716a": "2026-10-27T15:14:51.313144+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8421,16 +8426,18 @@
    "sources": {
     "PlanetF1": "2026-10-26T11:59:03+00:00",
     "GPblog": "2026-10-26T22:00:00+00:00",
-    "RacingNews365 NL": "2026-10-27T12:15:00+00:00"
+    "RacingNews365 NL": "2026-10-27T12:15:00+00:00",
+    "Crash.net": "2026-10-27T15:05:22+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Toto Wolff hits back at ‘Austrian not so buddy’ Helmut Marko over Russell claim",
     "GPblog": "Wolff defends Russell after brutal verdict from \"Austrian not so buddy\" Marko",
-    "RacingNews365 NL": "Wolff reageert op 'niet zo goede makker' Marko: \"Dat heeft hij wél in zich'"
+    "RacingNews365 NL": "Wolff reageert op 'niet zo goede makker' Marko: \"Dat heeft hij wél in zich'",
+    "Crash.net": "Toto Wolff's blunt response to Helmut Marko's claim George Russell is 'no longer number one'"
    },
-   "last": "2026-10-27T12:24:52.171199+00:00"
+   "last": "2026-10-27T15:14:57.514085+00:00"
   },
   "S1720": {
    "title": "Lawson scores ninth place and third straight top-10 finish",
@@ -12766,9 +12773,61 @@
     "GPblog": "Formula 1 awaits U.S. election results before deciding on season finale"
    },
    "last": "2026-10-27T15:04:55.843215+00:00"
+  },
+  "S2049": {
+   "title": "Adebayo says critics scapegoat him for Heat's start",
+   "first": "2026-10-27T15:14:57.514039+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T15:12:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bam Adebayo says critics 'make me the scapegoat' for Heat's winless start"
+   },
+   "last": "2026-10-27T15:14:57.514052+00:00"
+  },
+  "S2050": {
+   "title": "Mitchell Lawrie eyes darts prize versus Luke Littler",
+   "first": "2026-10-27T15:14:57.514058+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T15:12:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mitchell Lawrie, 15, eyes £501,000 'Beat Luke Littler' darts triumph"
+   },
+   "last": "2026-10-27T15:14:57.514062+00:00"
+  },
+  "S2051": {
+   "title": "NZC revives single-ball rule for Ford Trophy trial",
+   "first": "2026-10-27T15:14:57.514066+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T14:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NZC revives single-ball rule for Ford Trophy trial"
+   },
+   "last": "2026-10-27T15:14:57.514072+00:00"
+  },
+  "S2052": {
+   "title": "Hamilton explains Friday practice role in missing US GP podium",
+   "first": "2026-10-27T15:14:57.514075+00:00",
+   "sources": {
+    "Autosport": "2026-10-27T15:00:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "The role Friday practice played in Hamilton failing to achieve a podium at the US GP"
+   },
+   "last": "2026-10-27T15:14:57.514080+00:00"
   }
  },
- "story_seq": 2048,
+ "story_seq": 2052,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12887,7 +12946,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T15:04:49.277097+00:00",
+ "last_run": "2026-10-27T15:14:51.313144+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
