@@ -3975,7 +3975,9 @@
   "a5f7b96c70485646": "2026-10-27T02:03:19.505583+00:00",
   "a3206cae7cac9f97": "2026-10-27T02:13:18.996804+00:00",
   "2adc1fcc80bf300a": "2026-10-27T02:23:19.078324+00:00",
-  "86089dd35038c9da": "2026-10-27T02:33:24.077282+00:00"
+  "86089dd35038c9da": "2026-10-27T02:33:24.077282+00:00",
+  "d2628ec36308fd13": "2026-10-27T02:43:19.238119+00:00",
+  "e850558082fd2132": "2026-10-27T02:43:19.238119+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4403,19 +4405,6 @@
     "ESPN F1": "Giannis Antetokounmpo fouls out vs. Hornets as Heat tumble to 0-3"
    },
    "last": "2026-10-25T05:11:54.109005+00:00"
-  },
-  "S1312": {
-   "title": "Maple Leafs 7-2 Oilers (25 Oct, 2026) Game Recap",
-   "first": "2026-10-25T02:36:07.927231+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T02:32:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Maple Leafs 7-2 Oilers (25 Oct, 2026) Game Recap"
-   },
-   "last": "2026-10-25T02:36:07.927248+00:00"
   },
   "S1313": {
    "title": "Kenny Minchey 1-yard TD run in college football",
@@ -12312,9 +12301,35 @@
     "ESPN F1": "Warriors vs. Nuggets (27 Oct, 2026) Box Score"
    },
    "last": "2026-10-27T02:23:20.417839+00:00"
+  },
+  "S1897": {
+   "title": "Luke Vogeler 29-yard field goal",
+   "first": "2026-10-27T02:43:21.007329+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T02:36:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luke Vogeler kicks 29-yard field goal"
+   },
+   "last": "2026-10-27T02:43:21.007349+00:00"
+  },
+  "S1898": {
+   "title": "Walter Clayton Jr. and-1 basket highlight",
+   "first": "2026-10-27T02:43:21.007353+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T01:42:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Walter Clayton Jr. with the and-1 bucket"
+   },
+   "last": "2026-10-27T02:43:21.007358+00:00"
   }
  },
- "story_seq": 1896,
+ "story_seq": 1898,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12433,7 +12448,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T02:33:24.077282+00:00",
+ "last_run": "2026-10-27T02:43:19.238119+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
