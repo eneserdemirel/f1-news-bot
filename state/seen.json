@@ -3964,7 +3964,10 @@
   "aa3199e8f21cdae3": "2026-10-27T00:32:42.238942+00:00",
   "662e40158a64c4eb": "2026-10-27T00:42:39.256586+00:00",
   "7c73526b26efc69c": "2026-10-27T00:42:39.256586+00:00",
-  "65f702ae9847b59f": "2026-10-27T00:42:39.256586+00:00"
+  "65f702ae9847b59f": "2026-10-27T00:42:39.256586+00:00",
+  "1f6ebb6aa4d3d3ab": "2026-10-27T00:52:41.971556+00:00",
+  "b46efc89483de8dd": "2026-10-27T00:52:41.971556+00:00",
+  "b737ba474c8a0153": "2026-10-27T00:52:41.971556+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4410,19 +4413,6 @@
    },
    "last": "2026-10-25T14:43:10.253064+00:00"
   },
-  "S1279": {
-   "title": "Jared Curtis throws 3-yard TD pass to Jayvontay Conner",
-   "first": "2026-10-25T00:46:09.464911+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T00:40:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jared Curtis throws 3-yard TD pass to Jayvontay Conner"
-   },
-   "last": "2026-10-25T00:46:09.464929+00:00"
-  },
   "S1280": {
    "title": "The Race: winners and losers from US GP qualifying analysis",
    "first": "2026-10-25T00:46:09.464933+00:00",
@@ -4437,45 +4427,6 @@
     "PlanetF1": "Winners and losers from the 2026 United States Grand Prix Qualifying"
    },
    "last": "2026-10-25T05:21:55.705714+00:00"
-  },
-  "S1281": {
-   "title": "Rockets vs. Hawks NBA box score",
-   "first": "2026-10-25T00:51:10.790020+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T00:49:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rockets vs. Hawks (25 Oct, 2026) Box Score"
-   },
-   "last": "2026-10-25T00:51:10.790039+00:00"
-  },
-  "S1282": {
-   "title": "Louisiana Tech vs. Old Dominion college football recap",
-   "first": "2026-10-25T00:51:10.790043+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T00:47:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Louisiana Tech 26-0 Old Dominion (Oct 24, 2026) Game Recap"
-   },
-   "last": "2026-10-25T00:51:10.790047+00:00"
-  },
-  "S1283": {
-   "title": "Riders react to MotoGP leaving Phillip Island",
-   "first": "2026-10-25T00:51:10.790049+00:00",
-   "sources": {
-    "GPblog": "2026-10-25T01:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "MotoGP Phillip Island exit sparks emotional tributes from Bagnaia and Miller"
-   },
-   "last": "2026-10-25T00:51:10.790052+00:00"
   },
   "S1284": {
    "title": "Burnley vs. Portsmouth odds and spread preview",
@@ -12659,9 +12610,48 @@
     "ESPN F1": "Panthers RT Taylor Moton to undergo season-ending ankle surgery"
    },
    "last": "2026-10-27T00:42:41.788018+00:00"
+  },
+  "S1889": {
+   "title": "Pacers' Ben Sheppard to undergo knee surgery for torn meniscus",
+   "first": "2026-10-27T00:52:45.572190+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T00:48:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pacers' Ben Sheppard to undergo surgery for torn meniscus"
+   },
+   "last": "2026-10-27T00:52:45.572207+00:00"
+  },
+  "S1890": {
+   "title": "Ballon d'Or 2026 how to watch, nominees and voting explainer",
+   "first": "2026-10-27T00:52:45.572212+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T19:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ballon d'Or 2026: How to watch, list of nominees, all awards, how the voting works"
+   },
+   "last": "2026-10-27T00:52:45.572217+00:00"
+  },
+  "S1891": {
+   "title": "NBA Today daily show stream listing",
+   "first": "2026-10-27T00:52:45.572221+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-26T19:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lun. 10/26 - NBA Today (26/10/26) - Stream en vivo"
+   },
+   "last": "2026-10-27T00:52:45.572225+00:00"
   }
  },
- "story_seq": 1888,
+ "story_seq": 1891,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12780,17 +12770,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T00:42:39.256586+00:00",
+ "last_run": "2026-10-27T00:52:41.971556+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T00:43:44.990974+00:00",
-   "title": "Austin longrun'larında Leclerc ve Verstappen önde, Mercedes zorlanıyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-24T00:58:46.489972+00:00",
    "title": "COTA cuma antrenmanlarında kazananlar ve kaybedenler",
