@@ -4206,7 +4206,9 @@
   "e7b7012b6ad98380": "2026-10-27T15:44:50.284899+00:00",
   "cbaeb7b6a0e98dd2": "2026-10-27T15:44:50.284899+00:00",
   "ef7863a212f0586a": "2026-10-27T15:54:48.628524+00:00",
-  "5c5f960fe893558c": "2026-10-27T15:54:48.628524+00:00"
+  "5c5f960fe893558c": "2026-10-27T15:54:48.628524+00:00",
+  "e657da9944f6acea": "2026-10-27T16:04:50.339507+00:00",
+  "1b23cb4e18036af1": "2026-10-27T16:04:50.339507+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4417,21 +4419,6 @@
    },
    "last": "2026-10-25T18:03:11.748158+00:00"
   },
-  "S1372": {
-   "title": "Hamilton admits Ferrari has significant disadvantage to rivals",
-   "first": "2026-10-25T08:18:11.630373+00:00",
-   "sources": {
-    "GPFans": "2026-10-25T08:15:00+00:00",
-    "RacingNews365 NL": "2026-10-25T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton admits 'significant' Ferrari disadvantage after being blown away by F1 rivals",
-    "RacingNews365 NL": "Hamilton kijkt met open mond naar Red Bull: \"Ze blijven maar gaan!\""
-   },
-   "last": "2026-10-25T16:03:17.317898+00:00"
-  },
   "S1381": {
    "title": "COTA owner Bobby Epstein responds to driver bumps criticism",
    "first": "2026-10-25T09:48:09.669935+00:00",
@@ -4606,32 +4593,6 @@
     "PlanetF1": "United States GP LIVE: Race updates through all 56 laps in Austin"
    },
    "last": "2026-10-25T19:38:46.175224+00:00"
-  },
-  "S1448": {
-   "title": "Gazzetta analysis: Ferrari and Red Bull closer than ever in Austin",
-   "first": "2026-10-25T15:58:11.061382+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-25T15:53:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Ferrari e Red Bull, strategie per migliorarsi lontane, ma ad Austin sono più vicine che mai"
-   },
-   "last": "2026-10-25T15:58:11.061403+00:00"
-  },
-  "S1449": {
-   "title": "Ricciardo plays harmonica for fans, who are delighted",
-   "first": "2026-10-25T15:58:11.061409+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-25T15:53:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Daniel Ricciardo greift zur Mundharmonika: Fans sind begeistert - Motorsport-Total.com"
-   },
-   "last": "2026-10-25T15:58:11.061415+00:00"
   },
   "S1450": {
    "title": "Leclerc warns Hamilton ahead of US GP Turn 1 battle",
@@ -8355,7 +8316,8 @@
     "PlanetF1": "2026-10-26T11:59:03+00:00",
     "GPblog": "2026-10-26T22:00:00+00:00",
     "RacingNews365 NL": "2026-10-27T12:15:00+00:00",
-    "Crash.net": "2026-10-27T15:05:22+00:00"
+    "Crash.net": "2026-10-27T15:05:22+00:00",
+    "Sky Sports F1": "2026-10-27T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -8363,9 +8325,10 @@
     "PlanetF1": "Toto Wolff hits back at ‘Austrian not so buddy’ Helmut Marko over Russell claim",
     "GPblog": "Wolff defends Russell after brutal verdict from \"Austrian not so buddy\" Marko",
     "RacingNews365 NL": "Wolff reageert op 'niet zo goede makker' Marko: \"Dat heeft hij wél in zich'",
-    "Crash.net": "Toto Wolff's blunt response to Helmut Marko's claim George Russell is 'no longer number one'"
+    "Crash.net": "Toto Wolff's blunt response to Helmut Marko's claim George Russell is 'no longer number one'",
+    "Sky Sports F1": "Wolff rejects Marko's doubts over Russell's future F1 title hopes"
    },
-   "last": "2026-10-27T15:14:57.514085+00:00"
+   "last": "2026-10-27T16:04:53.430440+00:00"
   },
   "S1720": {
    "title": "Lawson scores ninth place and third straight top-10 finish",
@@ -12952,9 +12915,22 @@
     "FormulaPassion": "Leclerc, una Austin speciale: è 2° tra i piloti Ferrari a podio"
    },
    "last": "2026-10-27T15:54:52.081080+00:00"
+  },
+  "S2068": {
+   "title": "Analysis of Verstappen's Austin tyre strategy critique",
+   "first": "2026-10-27T16:04:53.430450+00:00",
+   "sources": {
+    "GPblog": "2026-10-27T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen's Austin strategy critique analysed: what the numbers reveal"
+   },
+   "last": "2026-10-27T16:04:53.430457+00:00"
   }
  },
- "story_seq": 2067,
+ "story_seq": 2068,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13073,7 +13049,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T15:54:48.628524+00:00",
+ "last_run": "2026-10-27T16:04:50.339507+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
