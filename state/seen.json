@@ -4204,7 +4204,9 @@
   "454e99f6b98b4a6c": "2026-10-27T15:44:50.284899+00:00",
   "7a802e73f8fb5345": "2026-10-27T15:44:50.284899+00:00",
   "e7b7012b6ad98380": "2026-10-27T15:44:50.284899+00:00",
-  "cbaeb7b6a0e98dd2": "2026-10-27T15:44:50.284899+00:00"
+  "cbaeb7b6a0e98dd2": "2026-10-27T15:44:50.284899+00:00",
+  "ef7863a212f0586a": "2026-10-27T15:54:48.628524+00:00",
+  "5c5f960fe893558c": "2026-10-27T15:54:48.628524+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4604,19 +4606,6 @@
     "PlanetF1": "United States GP LIVE: Race updates through all 56 laps in Austin"
    },
    "last": "2026-10-25T19:38:46.175224+00:00"
-  },
-  "S1447": {
-   "title": "Empty Gazzetta dello Sport Formula 1 section item with no content",
-   "first": "2026-10-25T15:48:14.511665+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-25T13:54:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Formula 1"
-   },
-   "last": "2026-10-25T15:48:14.511683+00:00"
   },
   "S1448": {
    "title": "Gazzetta analysis: Ferrari and Red Bull closer than ever in Austin",
@@ -12937,9 +12926,35 @@
     "ESPN F1": "If Clásico win is any indication, Mourinho's Madrid might just be special again"
    },
    "last": "2026-10-27T15:44:56.781732+00:00"
+  },
+  "S2066": {
+   "title": "Behrens, who developed NBA Cares, to leave NBA league office",
+   "first": "2026-10-27T15:54:52.081049+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T15:26:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Behrens, who developed NBA Cares, to leave league office"
+   },
+   "last": "2026-10-27T15:54:52.081068+00:00"
+  },
+  "S2067": {
+   "title": "Leclerc second-most podiums among Ferrari drivers after Austin",
+   "first": "2026-10-27T15:54:52.081074+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-27T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Leclerc, una Austin speciale: è 2° tra i piloti Ferrari a podio"
+   },
+   "last": "2026-10-27T15:54:52.081080+00:00"
   }
  },
- "story_seq": 2065,
+ "story_seq": 2067,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13058,22 +13073,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T15:44:50.284899+00:00",
+ "last_run": "2026-10-27T15:54:48.628524+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
  "last_digest_at": "2026-10-27T12:04:03.996502+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T15:50:06.423813+00:00",
-   "title": "Red Bull kalifikasyon simülasyonlarında favori görünüyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-10-24T15:50:06.966562+00:00",
-   "title": "Sky'ın devri sonrası Almanya'da F1 yayınlarında büyük değişiklik",
-   "source": "GPFans"
-  },
   {
    "t": "2026-10-24T16:05:10.637316+00:00",
    "title": "Antonelli'nin yükselişi Hülkenberg'i etkiledi: \"Müthiş bir hikâye\"",
@@ -14523,6 +14528,11 @@
    "t": "2026-10-27T15:45:04.756162+00:00",
    "title": "Gabriele Minì, Messico'da FP1'de Alpine ile F1 debütünü yapacak",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-27T15:54:59.519485+00:00",
+   "title": "Leclerc Austin'de Ferrari'nin podyum kralı Schumacher'in ardından ikinci",
+   "source": "FormulaPassion"
   }
  ]
 }
