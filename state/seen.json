@@ -4016,7 +4016,9 @@
   "4bea613e3aa06049": "2026-10-27T06:03:19.483628+00:00",
   "019bb7ab3ffe27d8": "2026-10-27T06:03:19.483628+00:00",
   "9d3e82b290c6fa9f": "2026-10-27T06:03:19.483628+00:00",
-  "d94d36830cfe0cc8": "2026-10-27T06:13:19.620921+00:00"
+  "d94d36830cfe0cc8": "2026-10-27T06:13:19.620921+00:00",
+  "72c44c3d5be304cd": "2026-10-27T06:23:19.007453+00:00",
+  "58fc9d90781d9b40": "2026-10-27T06:23:19.007453+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4443,19 +4445,6 @@
     "RacingNews365 NL": "Verstappen heeft ideale strategische troef in jacht op zege in Austin"
    },
    "last": "2026-10-25T18:48:49.056505+00:00"
-  },
-  "S1360": {
-   "title": "College Football Playoff top 12 projection after Week 8",
-   "first": "2026-10-25T06:16:50.738835+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T05:59:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "College Football Playoff top 12 projection after Week 8"
-   },
-   "last": "2026-10-25T06:16:50.738853+00:00"
   },
   "S1361": {
    "title": "Houston vs Minnesota college soccer team stats",
@@ -12169,9 +12158,35 @@
     "PlanetF1": "Toto Wolff quizzed on Mercedes driver disparity at US GP"
    },
    "last": "2026-10-27T06:13:22.816878+00:00"
+  },
+  "S1932": {
+   "title": "Magic vs. Raptors pregame preview (NBA)",
+   "first": "2026-10-27T06:23:23.033712+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T06:07:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Magic vs. Raptors (28 Oct, 2026) Pregame"
+   },
+   "last": "2026-10-27T06:23:23.033730+00:00"
+  },
+  "S1933": {
+   "title": "Hamilton says a US GP problem cost him a better finish",
+   "first": "2026-10-27T06:23:23.033735+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-27T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton spies costly issue Ferrari must 'get on top of'"
+   },
+   "last": "2026-10-27T06:23:23.033740+00:00"
   }
  },
- "story_seq": 1931,
+ "story_seq": 1933,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12290,17 +12305,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T06:13:19.620921+00:00",
+ "last_run": "2026-10-27T06:23:19.007453+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T06:14:32.423337+00:00",
-   "title": "Verstappen, Antonelli'yi tehdit eden sezon sonu yükselişiyle dikkat çekiyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T06:34:31.480647+00:00",
    "title": "Russell, Horner'ın Red Bull yaklaşımını taktik olarak nitelendirdi",
