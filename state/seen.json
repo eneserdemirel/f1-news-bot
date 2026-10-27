@@ -4342,7 +4342,9 @@
   "e5f98ca54c4d9e20": "2026-10-27T22:15:32.223364+00:00",
   "d772131be324b6c7": "2026-10-27T22:25:29.743406+00:00",
   "1e22cb62cfe7dd8b": "2026-10-27T22:25:29.743406+00:00",
-  "bc6527589b5d9998": "2026-10-27T22:25:29.743406+00:00"
+  "bc6527589b5d9998": "2026-10-27T22:25:29.743406+00:00",
+  "c303e127bad6461d": "2026-10-27T22:35:29.625719+00:00",
+  "cc6d42b87ac71c59": "2026-10-27T22:35:29.625719+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4652,19 +4654,6 @@
    },
    "last": "2026-10-26T01:14:33.426690+00:00"
   },
-  "S1551": {
-   "title": "Lars Eller scores in an NHL hockey game",
-   "first": "2026-10-25T22:28:49.907662+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T21:51:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lars Eller lights the lamp"
-   },
-   "last": "2026-10-25T22:28:49.907680+00:00"
-  },
   "S1552": {
    "title": "Analysis of Verstappen and Red Bull's setbacks in Austin",
    "first": "2026-10-25T22:28:49.907686+00:00",
@@ -4681,19 +4670,6 @@
     "Auto Motor und Sport": "Formel 1: Verstappen wütet gegen Red Bull: Das lief alles schief in Austin"
    },
    "last": "2026-10-26T09:20:19.921250+00:00"
-  },
-  "S1553": {
-   "title": "Sainz damaged front wing in Lindblad start incident, finished 18th",
-   "first": "2026-10-25T22:28:49.907695+00:00",
-   "sources": {
-    "AS": "2026-10-25T22:27:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Una encerrona en la salida compromete a Sainz"
-   },
-   "last": "2026-10-25T22:28:49.907700+00:00"
   },
   "S1554": {
    "title": "Wolff shares office chat with Antonelli before Austin win",
@@ -12925,9 +12901,35 @@
     "ESPN F1": "Torino vs. Como (Oct 27, 2026) Live Score"
    },
    "last": "2026-10-27T22:25:33.327184+00:00"
+  },
+  "S2169": {
+   "title": "Arsenal stunned in Carabao Cup loss to Fleetwood Town",
+   "first": "2026-10-27T22:35:32.407617+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T22:31:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal stunned in Carabao Cup loss to 4th-tier Fleetwood Town"
+   },
+   "last": "2026-10-27T22:35:32.407633+00:00"
+  },
+  "S2170": {
+   "title": "Doeren leaves NC State with no grudges",
+   "first": "2026-10-27T22:35:32.407639+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T21:49:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Doeren leaves NC State 'with no grudges,' will always be rooting for Wolfpack"
+   },
+   "last": "2026-10-27T22:35:32.407643+00:00"
   }
  },
- "story_seq": 2168,
+ "story_seq": 2170,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13046,17 +13048,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-27T22:25:29.743406+00:00",
+ "last_run": "2026-10-27T22:35:29.625719+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T22:31:20.559931+00:00",
-   "title": "Antonelli Austin'de pole aldı, Verstappen'i geçti",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-24T22:36:24.572646+00:00",
    "title": "Antonelli, Austin'de pole alarak şampiyonluk şansını artırdı",
