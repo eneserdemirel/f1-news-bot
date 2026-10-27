@@ -4062,7 +4062,9 @@
   "fb26bfe683dd1647": "2026-10-27T08:53:59.059013+00:00",
   "d4e10c524323c15a": "2026-10-27T08:53:59.059013+00:00",
   "f803c834c8430a1b": "2026-10-27T08:53:59.059013+00:00",
-  "979e75c636ce540f": "2026-10-27T08:53:59.059013+00:00"
+  "979e75c636ce540f": "2026-10-27T08:53:59.059013+00:00",
+  "7529a90bf5e76412": "2026-10-27T09:04:01.423675+00:00",
+  "cf5ae3aabc343050": "2026-10-27T09:04:01.423675+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4557,19 +4559,6 @@
     "RacingNews365 NL": "Hamilton kijkt met open mond naar Red Bull: \"Ze blijven maar gaan!\""
    },
    "last": "2026-10-25T16:03:17.317898+00:00"
-  },
-  "S1375": {
-   "title": "Helmut Marko slams Christian Horner's book and denies allegation",
-   "first": "2026-10-25T08:58:15.451372+00:00",
-   "sources": {
-    "GPFans": "2026-10-25T08:56:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Helmut Marko slams Christian Horner book and sets record straight on deeply personal allegation"
-   },
-   "last": "2026-10-25T08:58:15.451390+00:00"
   },
   "S1376": {
    "title": "Russell details how his COTA qualifying lap unravelled",
@@ -12560,9 +12549,35 @@
     "GPFans": "Toto Wolff takes brutal dig at FIA stewards with bizarre smoking remark"
    },
    "last": "2026-10-27T08:54:05.761981+00:00"
+  },
+  "S1970": {
+   "title": "Honda outlines development roadmap amid Aston Martin power unit deficit",
+   "first": "2026-10-27T09:04:03.844414+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-27T09:02:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Honda reveals development ‘road map’ amid Aston Martin deficit"
+   },
+   "last": "2026-10-27T09:04:03.844432+00:00"
+  },
+  "S1971": {
+   "title": "Jos Verstappen denies being seriously ill after online speculation",
+   "first": "2026-10-27T09:04:03.844438+00:00",
+   "sources": {
+    "GPblog": "2026-10-27T08:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Former Formula 1 driver Jos Verstappen is not seriously ill"
+   },
+   "last": "2026-10-27T09:04:03.844444+00:00"
   }
  },
- "story_seq": 1969,
+ "story_seq": 1971,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12681,7 +12696,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T08:53:59.059013+00:00",
+ "last_run": "2026-10-27T09:04:01.423675+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
@@ -14136,6 +14151,11 @@
    "t": "2026-10-27T08:54:11.068483+00:00",
    "title": "Toto Wolff, FIA hakemlerini sigara şakasıyla eleştirdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-27T09:04:08.960383+00:00",
+   "title": "Jos Verstappen ciddi şekilde hasta değil",
+   "source": "GPblog"
   }
  ]
 }
