@@ -4114,7 +4114,12 @@
   "0d273f2a00ae575c": "2026-10-27T11:33:58.665263+00:00",
   "34a00fd2ccafdb16": "2026-10-27T11:44:00.280699+00:00",
   "d6ded8afc6145f4b": "2026-10-27T11:44:00.280699+00:00",
-  "598cc724ab587fab": "2026-10-27T11:44:00.280699+00:00"
+  "598cc724ab587fab": "2026-10-27T11:44:00.280699+00:00",
+  "9eee260acacebe04": "2026-10-27T11:54:01.662001+00:00",
+  "a62e6b9f1bf49a8d": "2026-10-27T11:54:01.662001+00:00",
+  "583b2ac36c449b7e": "2026-10-27T11:54:01.662001+00:00",
+  "0d7d0dc6d4b7631a": "2026-10-27T11:54:01.662001+00:00",
+  "f7c1e9896bfcbc28": "2026-10-27T11:54:01.662001+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4565,19 +4570,6 @@
     "ESPN F1": "Sources: Colts face big decisions on star players as NFL trade deadline looms"
    },
    "last": "2026-10-25T14:03:07.232120+00:00"
-  },
-  "S1414": {
-   "title": "Pakistan bowl first, with Razaullah and Crocombe making debuts",
-   "first": "2026-10-25T11:47:31.591135+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T08:12:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pakistan bowl, Razaullah and Henry Crocombe to debut"
-   },
-   "last": "2026-10-25T11:47:31.591141+00:00"
   },
   "S1415": {
    "title": "Rams optimistic Puka Nacua will play vs. Raiders",
@@ -12509,9 +12501,48 @@
     "RacingNews365 NL": "Ferrari dreigt met F1-exit om omstreden motorplan"
    },
    "last": "2026-10-27T11:44:04.144070+00:00"
+  },
+  "S2004": {
+   "title": "College Football Playoff bubble watch after Week 8",
+   "first": "2026-10-27T11:54:04.641562+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T11:33:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "College Football Playoff Bubble Watch after Week 8"
+   },
+   "last": "2026-10-27T11:54:04.641581+00:00"
+  },
+  "S2005": {
+   "title": "NFL Week 8 power rankings and offseason adds",
+   "first": "2026-10-27T11:54:04.641587+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T11:14:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds"
+   },
+   "last": "2026-10-27T11:54:04.641593+00:00"
+  },
+  "S2006": {
+   "title": "Extent of damage to Alonso's Aston Martin in Austin revealed",
+   "first": "2026-10-27T11:54:04.641598+00:00",
+   "sources": {
+    "Crash.net": "2026-10-27T11:50:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "True extent of damage that ruined Fernando Alonso’s US GP revealed"
+   },
+   "last": "2026-10-27T11:54:04.641603+00:00"
   }
  },
- "story_seq": 2003,
+ "story_seq": 2006,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12630,7 +12661,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T11:44:00.280699+00:00",
+ "last_run": "2026-10-27T11:54:01.662001+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
@@ -14110,6 +14141,11 @@
    "t": "2026-10-27T11:44:09.069001+00:00",
    "title": "Ferrari, standart motor planına karşı F1'den çekilmekle tehdit etti",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-27T11:54:09.411347+00:00",
+   "title": "Alonso'nun Austin'deki yarışını mahveden hasarın gerçek boyutu ortaya çıktı",
+   "source": "Crash.net"
   }
  ]
 }
