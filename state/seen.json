@@ -4234,7 +4234,12 @@
   "94c9075e55374044": "2026-10-27T17:04:51.192792+00:00",
   "abb86bc0ead4a33a": "2026-10-27T17:04:51.192792+00:00",
   "13bdeda4406fd0d4": "2026-10-27T17:04:51.192792+00:00",
-  "daed8aede9f90302": "2026-10-27T17:04:51.192792+00:00"
+  "daed8aede9f90302": "2026-10-27T17:04:51.192792+00:00",
+  "4d760e11406ffe7a": "2026-10-27T17:14:51.216817+00:00",
+  "bee3a637b6a85b96": "2026-10-27T17:14:51.216817+00:00",
+  "32ca043d61e2b1f3": "2026-10-27T17:14:51.216817+00:00",
+  "6e57be9d194e43e8": "2026-10-27T17:14:51.216817+00:00",
+  "f2cdc68c8267b805": "2026-10-27T17:14:51.216817+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4680,19 +4685,6 @@
    },
    "last": "2026-10-25T17:53:42.397044+00:00"
   },
-  "S1461": {
-   "title": "Antonelli trading card sold for nearly 900,000 euros",
-   "first": "2026-10-25T17:03:08.562770+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-25T16:59:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Kimi ha già vinto il Mondiale... delle figurine: venduta una sua card a quasi 900mila euro"
-   },
-   "last": "2026-10-25T17:08:09.271560+00:00"
-  },
   "S1462": {
    "title": "Steelers 16-10 Saints NFL game recap",
    "first": "2026-10-25T17:08:09.271533+00:00",
@@ -4705,19 +4697,6 @@
     "ESPN F1": "Steelers 16-10 Saints (Oct 25, 2026) Game Recap"
    },
    "last": "2026-10-25T23:18:50.626468+00:00"
-  },
-  "S1463": {
-   "title": "Ford's Mark Rushbrook praises Verstappen and stays vague on ambitions",
-   "first": "2026-10-25T17:13:07.452627+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-25T17:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ford geheimzinnig over ambities met 'geweldige' Verstappen"
-   },
-   "last": "2026-10-25T17:13:07.452646+00:00"
   },
   "S1464": {
    "title": "Aaron Rodgers ties Peyton Manning for TD passes milestone",
@@ -11099,14 +11078,16 @@
    "title": "Red Bull promise review after Verstappen's strategy complaint",
    "first": "2026-10-27T07:24:07.946201+00:00",
    "sources": {
-    "RacingNews365": "2026-10-27T07:10:00+00:00"
+    "RacingNews365": "2026-10-27T07:10:00+00:00",
+    "Motorsport Week": "2026-10-27T17:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Red Bull promise 'review' after Max Verstappen strategy complaint"
+    "RacingNews365": "Red Bull promise 'review' after Max Verstappen strategy complaint",
+    "Motorsport Week": "Max Verstappen makes bold Red Bull strategy claim after US GP podium"
    },
-   "last": "2026-10-27T07:24:07.946219+00:00"
+   "last": "2026-10-27T17:14:58.489960+00:00"
   },
   "S1937": {
    "title": "Jolyon Palmer praises Lawson, hints at Red Bull future",
@@ -11253,7 +11234,7 @@
    "titles": {
     "ESPN F1": "Hamburg vs. Frankfurt (27 Oct, 2026) Live Score"
    },
-   "last": "2026-10-27T07:34:03.164217+00:00"
+   "last": "2026-10-27T17:14:58.489937+00:00"
   },
   "S1948": {
    "title": "Llanera vs. Ponferradina live score",
@@ -12322,14 +12303,16 @@
    "title": "Norris clarifies McLaren US GP strategy disagreement claim",
    "first": "2026-10-27T13:44:55.340440+00:00",
    "sources": {
-    "PlanetF1": "2026-10-27T13:35:32+00:00"
+    "PlanetF1": "2026-10-27T13:35:32+00:00",
+    "Motorsport Week": "2026-10-27T16:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Lando Norris clears up claim over McLaren US GP strategy disagreement"
+    "PlanetF1": "Lando Norris clears up claim over McLaren US GP strategy disagreement",
+    "Motorsport Week": "Lando Norris refutes F1 US GP McLaren strategy disagreement"
    },
-   "last": "2026-10-27T13:44:55.340444+00:00"
+   "last": "2026-10-27T17:14:58.489967+00:00"
   },
   "S2028": {
    "title": "Bearman calls his US GP 10-second penalty excessive and inconsistent",
@@ -13120,9 +13103,35 @@
     "RacingNews365 NL": "Red Bull reageert op Aston Martin-geruchten na 'ongewenste positieve publiciteit'"
    },
    "last": "2026-10-27T17:04:57.779729+00:00"
+  },
+  "S2088": {
+   "title": "Alpine allowed Sky Sports F1 into US GP practice",
+   "first": "2026-10-27T17:14:58.489946+00:00",
+   "sources": {
+    "The Race": "2026-10-27T17:12:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Why one team let Sky breach F1's 'most sacred' connection"
+   },
+   "last": "2026-10-27T17:14:58.489953+00:00"
+  },
+  "S2089": {
+   "title": "Analysis: Antonelli's US GP win does not solve Mercedes problems",
+   "first": "2026-10-27T17:14:58.489971+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-27T17:04:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mercedes-Update: Warum der Antonelli-Sieg noch nicht alle Probleme löst - Motorsport-Total.com"
+   },
+   "last": "2026-10-27T17:14:58.489975+00:00"
   }
  },
- "story_seq": 2087,
+ "story_seq": 2089,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13241,22 +13250,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T17:04:51.192792+00:00",
+ "last_run": "2026-10-27T17:14:51.216817+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
  "last_digest_at": "2026-10-27T12:04:03.996502+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T17:10:48.832145+00:00",
-   "title": "Cadillac, 2027 pilot kadrosu belirsizken boşta pilotlarla temas halinde",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-10-24T17:10:49.298992+00:00",
-   "title": "FIA, 207 tur silinmesinin ardından ABD GP'de pist sınırlarını gevşetti",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-24T17:20:45.925125+00:00",
    "title": "Russell, Antonelli'yi şampiyonada durdurmak için şaka yollu bir plan açıkladı",
@@ -14711,6 +14710,16 @@
    "t": "2026-10-27T16:54:59.119982+00:00",
    "title": "Liberty Media CEO'su tartışmalı sözleri nedeniyle tepki topluyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-27T17:15:05.964531+00:00",
+   "title": "Mercedes güncellemesi: Antonelli'nin galibiyeti tüm sorunları çözmüyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-27T17:15:06.538060+00:00",
+   "title": "Alpine, Sky'ın Gasly ile canlı radyo bağlantısını kurmasına izin verdi",
+   "source": "The Race"
   }
  ]
 }
