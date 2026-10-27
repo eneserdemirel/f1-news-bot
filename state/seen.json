@@ -4225,7 +4225,9 @@
   "15f709726096d69a": "2026-10-27T16:44:49.832850+00:00",
   "4cedcbcee9b3d71a": "2026-10-27T16:44:49.832850+00:00",
   "c475fdd57eb87617": "2026-10-27T16:44:49.832850+00:00",
-  "9922253c40968e9b": "2026-10-27T16:44:49.832850+00:00"
+  "9922253c40968e9b": "2026-10-27T16:44:49.832850+00:00",
+  "8992805521a26e64": "2026-10-27T16:54:50.560488+00:00",
+  "020e6b0e8db27e97": "2026-10-27T16:54:50.560488+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13042,9 +13044,22 @@
     "AS": "El inicio del GEN4, en peligro"
    },
    "last": "2026-10-27T16:44:53.665921+00:00"
+  },
+  "S2082": {
+   "title": "Liberty Media CEO Derek Chang faces fan backlash over comments",
+   "first": "2026-10-27T16:54:53.109638+00:00",
+   "sources": {
+    "GPFans": "2026-10-27T16:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Liberty Media CEO faces backlash after controversial comments: 'They're destroying F1'"
+   },
+   "last": "2026-10-27T16:54:53.109655+00:00"
   }
  },
- "story_seq": 2081,
+ "story_seq": 2082,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13163,7 +13178,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T16:44:49.832850+00:00",
+ "last_run": "2026-10-27T16:54:50.560488+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
@@ -14638,6 +14653,11 @@
    "t": "2026-10-27T16:44:57.602763+00:00",
    "title": "Perez, Meksika GP için Meksika kültürünü yansıtan yeni kask tasarımını açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-27T16:54:59.119982+00:00",
+   "title": "Liberty Media CEO'su tartışmalı sözleri nedeniyle tepki topluyor",
+   "source": "GPFans"
   }
  ]
 }
