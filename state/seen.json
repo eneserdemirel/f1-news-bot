@@ -4161,7 +4161,11 @@
   "994e5e8174f851bf": "2026-10-27T14:14:49.178028+00:00",
   "5fb1a9e27ee0e25f": "2026-10-27T14:14:49.178028+00:00",
   "eab49c0497638042": "2026-10-27T14:14:49.178028+00:00",
-  "e216df9d8529e225": "2026-10-27T14:14:49.178028+00:00"
+  "e216df9d8529e225": "2026-10-27T14:14:49.178028+00:00",
+  "42b897bb2c188a47": "2026-10-27T14:24:51.697962+00:00",
+  "8827a6a3dc190f2e": "2026-10-27T14:24:51.697962+00:00",
+  "b6b31a4f9040ceec": "2026-10-27T14:24:51.697962+00:00",
+  "65a9ce93055e1596": "2026-10-27T14:24:51.697962+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4578,19 +4582,6 @@
     "ESPN F1": "Liverpool vs. Brighton (Oct 25, 2026) Team Stats"
    },
    "last": "2026-10-25T19:28:46.960940+00:00"
-  },
-  "S1432": {
-   "title": "NFLPA and NFL joint review of Jalen Hurts blood clot",
-   "first": "2026-10-25T14:13:09.386960+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T14:05:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL, NFLPA handling joint review of Jalen Hurts' blood clot diagnosis"
-   },
-   "last": "2026-10-25T14:23:07.073281+00:00"
   },
   "S1434": {
    "title": "Stroll quantifies Aston Martin's time loss from Honda engine",
@@ -11547,7 +11538,7 @@
    "titles": {
     "ESPN F1": "Llanera vs. Ponferradina (27 Oct, 2026) Live Score"
    },
-   "last": "2026-10-27T07:34:03.164225+00:00"
+   "last": "2026-10-27T14:24:56.832999+00:00"
   },
   "S1949": {
    "title": "Al-Seeb Club vs. East Bengal live score",
@@ -11864,14 +11855,16 @@
    "title": "Hulkenberg finishes P11 again as Audi miss points in Austin",
    "first": "2026-10-27T09:14:03.855676+00:00",
    "sources": {
-    "Formula 1": "2026-10-27T09:14:03.855692+00:00"
+    "Formula 1": "2026-10-27T09:14:03.855692+00:00",
+    "Motorsport-Total": "2026-10-27T13:20:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "'More than a bad start' cost Audi after another P11 finish"
+    "Formula 1": "'More than a bad start' cost Audi after another P11 finish",
+    "Motorsport-Total": "Audi hadert mit P11: Punkte nach Startproblem bei Hülkenberg verpasst - Motorsport-Total.com"
    },
-   "last": "2026-10-27T09:14:03.855696+00:00"
+   "last": "2026-10-27T14:24:56.833031+00:00"
   },
   "S1973": {
    "title": "Analysis of whether thin Mexico air can help Ferrari win",
@@ -12701,9 +12694,35 @@
     "Auto Motor und Sport": "Formel 1: So verhinderte ausgerechnet Kundenteam Cadillac das Ferrari-Doppelpodium"
    },
    "last": "2026-10-27T14:14:52.734957+00:00"
+  },
+  "S2036": {
+   "title": "Ranking Premier League teams' money-per-points after Man City case",
+   "first": "2026-10-27T14:24:56.833009+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T09:49:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ranked: Every Premier League team's money-per-points (after Man City cheated)"
+   },
+   "last": "2026-10-27T14:24:56.833015+00:00"
+  },
+  "S2037": {
+   "title": "Albon says Williams must analyse Alonso duel but lacks pace",
+   "first": "2026-10-27T14:24:56.833020+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-27T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Albon: “Analizzeremo i duelli con Alonso, ma ci manca ancora ritmo”"
+   },
+   "last": "2026-10-27T14:24:56.833025+00:00"
   }
  },
- "story_seq": 2035,
+ "story_seq": 2037,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12822,7 +12841,7 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T14:14:49.178028+00:00",
+ "last_run": "2026-10-27T14:24:51.697962+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
