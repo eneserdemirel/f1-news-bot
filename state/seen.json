@@ -4087,7 +4087,11 @@
   "98b879e83e9bc5b4": "2026-10-27T10:14:00.826352+00:00",
   "849aa3f201d19e39": "2026-10-27T10:14:00.826352+00:00",
   "0c21a6d7c6e34f21": "2026-10-27T10:23:59.543929+00:00",
-  "a4a01168fb659bd8": "2026-10-27T10:23:59.543929+00:00"
+  "a4a01168fb659bd8": "2026-10-27T10:23:59.543929+00:00",
+  "bed39275e90cff2f": "2026-10-27T10:33:59.217276+00:00",
+  "38199ea9addbbd46": "2026-10-27T10:33:59.217276+00:00",
+  "6b761b656345cd8b": "2026-10-27T10:33:59.217276+00:00",
+  "4c0ba6f2470f018e": "2026-10-27T10:33:59.217276+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12617,9 +12621,61 @@
     "Formula 1": "Mexico City Grand Prix betting guide and latest odds"
    },
    "last": "2026-10-27T10:24:01.322808+00:00"
+  },
+  "S1982": {
+   "title": "Darul Ta'zim vs. Port FC live score",
+   "first": "2026-10-27T10:34:03.188410+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T10:21:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Darul Ta'zim vs. Port FC (27 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-27T10:34:03.188429+00:00"
+  },
+  "S1983": {
+   "title": "Bucks poke fun at Rays after World Series loss",
+   "first": "2026-10-27T10:34:03.188436+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T05:18:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Milwaukee Bucks poke fun at Rays' World Series loss, Heat's 0-4 start in postgame jab"
+   },
+   "last": "2026-10-27T10:34:03.188442+00:00"
+  },
+  "S1984": {
+   "title": "Sainz baffled by no penalty for Lindblad start incident",
+   "first": "2026-10-27T10:34:03.188446+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-27T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Carlos Sainz stunned by Arvid Lindblad penalty escape: 'Pretty nasty moment'"
+   },
+   "last": "2026-10-27T10:34:03.188452+00:00"
+  },
+  "S1985": {
+   "title": "Antonelli concerned by Verstappen's early pit stop in Austin",
+   "first": "2026-10-27T10:34:03.188455+00:00",
+   "sources": {
+    "GPblog": "2026-10-27T10:31:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli admits Verstappen's early pit stop left him concerned in Austin"
+   },
+   "last": "2026-10-27T10:34:03.188459+00:00"
   }
  },
- "story_seq": 1981,
+ "story_seq": 1985,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12738,17 +12794,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T10:23:59.543929+00:00",
+ "last_run": "2026-10-27T10:33:59.217276+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T10:24:34.189869+00:00",
-   "title": "ABD GP antrenmanlarında 207 tur süresi track limit ihlali nedeniyle silindi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T10:49:33.517304+00:00",
    "title": "ABD Grand Prix'sinde FIA 207 turu iptal etti",
@@ -14192,6 +14243,11 @@
   {
    "t": "2026-10-27T10:04:09.549973+00:00",
    "title": "Max Verstappen'in serveti ve 2026 kazancı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-27T10:34:10.908993+00:00",
+   "title": "Sainz, Lindblad'ın cezasız kalmasına şaştı",
    "source": "RacingNews365"
   }
  ]
