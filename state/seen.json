@@ -4102,7 +4102,11 @@
   "044703da5e6a6460": "2026-10-27T11:04:01.164849+00:00",
   "a546d0b759b04121": "2026-10-27T11:04:01.164849+00:00",
   "f5b367c6724604ce": "2026-10-27T11:14:03.137146+00:00",
-  "8bf3cc50ffa4bf60": "2026-10-27T11:14:03.137146+00:00"
+  "8bf3cc50ffa4bf60": "2026-10-27T11:14:03.137146+00:00",
+  "5096244317fbc07e": "2026-10-27T11:23:58.296685+00:00",
+  "faa41795a180bae0": "2026-10-27T11:23:58.296685+00:00",
+  "9512dc55cc678fd2": "2026-10-27T11:23:58.296685+00:00",
+  "35bcb7edb66e8f84": "2026-10-27T11:23:58.296685+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4326,19 +4330,6 @@
    },
    "last": "2026-10-25T11:32:31.466124+00:00"
   },
-  "S1347": {
-   "title": "Wild 5-1 Kraken NHL game recap",
-   "first": "2026-10-25T05:21:55.705697+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T05:09:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wild 5-1 Kraken (25 Oct, 2026) Game Recap"
-   },
-   "last": "2026-10-25T11:17:31.853616+00:00"
-  },
   "S1350": {
    "title": "Hamilton disagrees with Verstappen's criticism of COTA bumps",
    "first": "2026-10-25T05:36:53.040778+00:00",
@@ -4555,19 +4546,6 @@
     "GPblog": "Vasseur shuts down excuse for Ferrari's US GP Qualifying: 'That would be bulls**t'"
    },
    "last": "2026-10-25T17:53:42.397024+00:00"
-  },
-  "S1402": {
-   "title": "Browns DT Maliek Collins signs two-year extension worth $30 million",
-   "first": "2026-10-25T11:22:31.000302+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T11:19:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Browns DT Maliek Collins lands 2-year extension worth $30 million, agent says"
-   },
-   "last": "2026-10-25T11:22:31.000322+00:00"
   },
   "S1403": {
    "title": "Cam Skattebo expected to resume lead RB role for Giants",
@@ -12330,15 +12308,17 @@
    "first": "2026-10-27T09:54:02.517102+00:00",
    "sources": {
     "Autosport": "2026-10-27T09:46:28+00:00",
-    "Crash.net": "2026-10-27T10:10:09+00:00"
+    "Crash.net": "2026-10-27T10:10:09+00:00",
+    "RacingNews365": "2026-10-27T11:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Red Bull explains why Verstappen and Hadjar's 'silly' problems won't all be fixed in 2026",
-    "Crash.net": "Max Verstappen made to wait for fix to Red Bull’s ‘complex’ F1 problem"
+    "Crash.net": "Max Verstappen made to wait for fix to Red Bull’s ‘complex’ F1 problem",
+    "RacingNews365": "Red Bull explain 'painful' issue that will not be fixed until next F1 season"
    },
-   "last": "2026-10-27T10:14:04.855752+00:00"
+   "last": "2026-10-27T11:24:03.258183+00:00"
   },
   "S1980": {
    "title": "Josh Allen goal line rushing best-ever listicle question",
@@ -12396,14 +12376,16 @@
    "title": "Sainz baffled by no penalty for Lindblad start incident",
    "first": "2026-10-27T10:34:03.188446+00:00",
    "sources": {
-    "RacingNews365": "2026-10-27T10:30:00+00:00"
+    "RacingNews365": "2026-10-27T10:30:00+00:00",
+    "Motorsport-Total": "2026-10-27T11:15:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Carlos Sainz stunned by Arvid Lindblad penalty escape: 'Pretty nasty moment'"
+    "RacingNews365": "Carlos Sainz stunned by Arvid Lindblad penalty escape: 'Pretty nasty moment'",
+    "Motorsport-Total": "Carlos Sainz: Verstehe nicht, warum Lindblad dafür nicht bestraft wurde - Motorsport-Total.com"
    },
-   "last": "2026-10-27T10:34:03.188452+00:00"
+   "last": "2026-10-27T11:24:03.258199+00:00"
   },
   "S1985": {
    "title": "Antonelli concerned by Verstappen's early pit stop in Austin",
@@ -12534,9 +12516,35 @@
     "Auto Motor und Sport": "Formel 1: Russell-Rätsel: Das sagen die Daten zum riesigen Rückstand"
    },
    "last": "2026-10-27T11:14:07.617617+00:00"
+  },
+  "S1995": {
+   "title": "Jake Paul rules out Tommy Fury and Ngannou boxing return",
+   "first": "2026-10-27T11:24:03.258154+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T09:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jake Paul rules out Tommy Fury, Francis Ngannou for boxing return"
+   },
+   "last": "2026-10-27T11:24:03.258174+00:00"
+  },
+  "S1996": {
+   "title": "Ocon reports front-locking and high-speed understeer problems at Haas",
+   "first": "2026-10-27T11:24:03.258188+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-27T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ocon: “Continuiamo ad avere problemi di bloccaggio all’anteriore e sottosterzo ad alta velocità”"
+   },
+   "last": "2026-10-27T11:24:03.258193+00:00"
   }
  },
- "story_seq": 1994,
+ "story_seq": 1996,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12655,17 +12663,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T11:14:03.137146+00:00",
+ "last_run": "2026-10-27T11:23:58.296685+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T11:20:06.621033+00:00",
-   "title": "Verstappen, Horner'ın kitabı hakkında 'kitap okumam' dedi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T11:55:04.692348+00:00",
    "title": "Ford, Verstappen'in zaferini ve duygusal anı anlatıyor",
@@ -14125,6 +14128,11 @@
    "t": "2026-10-27T11:14:14.267319+00:00",
    "title": "Russell'ın büyük geride kalma sorunu: Veriler ne diyor?",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-10-27T11:24:11.265471+00:00",
+   "title": "Ocon: Yüksek hızda ön blokaj ve alttan kayma sorunları devam ediyor",
+   "source": "FormulaPassion"
   }
  ]
 }
