@@ -4335,7 +4335,9 @@
   "d74c12fb6c23f2ac": "2026-10-27T21:25:34.761726+00:00",
   "0b2af9319f5cc7ce": "2026-10-27T21:25:34.761726+00:00",
   "38cd703145c990c6": "2026-10-27T21:35:28.246956+00:00",
-  "cc2664d423330cd4": "2026-10-27T21:35:28.246956+00:00"
+  "cc2664d423330cd4": "2026-10-27T21:35:28.246956+00:00",
+  "5c1a71ddae90b66d": "2026-10-27T21:45:28.225794+00:00",
+  "a62d0c5062fdc399": "2026-10-27T21:45:28.225794+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4502,19 +4504,6 @@
     "ESPN F1": "Browns 27-24 Titans (Oct 25, 2026) Game Recap"
    },
    "last": "2026-10-25T21:48:52.181518+00:00"
-  },
-  "S1531": {
-   "title": "Virginia vs. Boston College live match page (not F1)",
-   "first": "2026-10-25T21:38:46.788957+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Virginia vs. Boston College 25/10/26 - Mira Juego en vivo"
-   },
-   "last": "2026-10-25T21:38:46.788976+00:00"
   },
   "S1532": {
    "title": "Antonelli title still pending after US GP win, Russell and Hamilton scenarios",
@@ -13011,9 +13000,35 @@
     "GPFans": "F1 legend Lewis Hamilton reveals cute gift to Kim Kardashian's children"
    },
    "last": "2026-10-27T21:35:31.759000+00:00"
+  },
+  "S2164": {
+   "title": "Rijnsburgse vs. FC Den Bosch live score",
+   "first": "2026-10-27T21:45:30.189759+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T20:06:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rijnsburgse vs. FC Den Bosch (27 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-27T21:45:30.189778+00:00"
+  },
+  "S2165": {
+   "title": "Sassuolo 2-6 Lazio player stats",
+   "first": "2026-10-27T21:45:30.189782+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T18:20:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sassuolo 2-6 Lazio (Oct 27, 2026) Player Stats"
+   },
+   "last": "2026-10-27T21:45:30.189787+00:00"
   }
  },
- "story_seq": 2163,
+ "story_seq": 2165,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13132,17 +13147,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T21:35:28.246956+00:00",
+ "last_run": "2026-10-27T21:45:28.225794+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T21:41:18.303386+00:00",
-   "title": "Hadjar'a Albon'a yönelik 'misilleme' hareketi nedeniyle uyarı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T22:11:15.938162+00:00",
    "title": "Kimi Antonelli geri vites yaparken bariyere çarptı",
