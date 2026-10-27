@@ -4046,7 +4046,10 @@
   "2de1e23b9f4bd09e": "2026-10-27T07:33:57.893358+00:00",
   "a1276a6623f645f9": "2026-10-27T07:44:00.859839+00:00",
   "584857d2cc7f54a8": "2026-10-27T07:44:00.859839+00:00",
-  "91da67f2901927d9": "2026-10-27T07:44:00.859839+00:00"
+  "91da67f2901927d9": "2026-10-27T07:44:00.859839+00:00",
+  "78616b584981fe78": "2026-10-27T07:53:59.196391+00:00",
+  "6580d9b8cf4cee7d": "2026-10-27T07:53:59.196391+00:00",
+  "73c0253cf8d1f1af": "2026-10-27T07:53:59.196391+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12412,9 +12415,48 @@
     "ESPN F1": "Bradford vs. Peterborough (27 Oct, 2026) Live Score"
    },
    "last": "2026-10-27T07:44:02.992463+00:00"
+  },
+  "S1957": {
+   "title": "Antonelli's Mexico GP path to clinching the 2026 title",
+   "first": "2026-10-27T07:54:04.224984+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-27T07:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Zo pakt Antonelli de F1-wereldtitel in Mexico"
+   },
+   "last": "2026-10-27T07:54:04.225002+00:00"
+  },
+  "S1958": {
+   "title": "Hamilton on Ferrari's 'pivotal moment' in development",
+   "first": "2026-10-27T07:54:04.225007+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-27T07:44:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton expands on ‘pivotal moment’ at Ferrari and his role within it"
+   },
+   "last": "2026-10-27T07:54:04.225013+00:00"
+  },
+  "S1959": {
+   "title": "Damon Hill warns Russell may struggle to recover from Antonelli defeat",
+   "first": "2026-10-27T07:54:04.225017+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-27T07:28:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Russell demolito da Antonelli, Hill lo avverte: “Sarà difficile riprendersi e puntare al titolo in futuro. Kimi è fenomenale”"
+   },
+   "last": "2026-10-27T07:54:04.225022+00:00"
   }
  },
- "story_seq": 1956,
+ "story_seq": 1959,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12533,17 +12575,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T07:44:00.859839+00:00",
+ "last_run": "2026-10-27T07:53:59.196391+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-26 22:00",
  "last_digest_at": "2026-10-26T19:02:24.420130+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T07:44:38.518405+00:00",
-   "title": "Leclerc, Verstappen ve rakiplere karşı temkinli: \"Küçük farkı gördüğümde...\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-24T08:04:32.900241+00:00",
    "title": "Newey: Stroll'un Honda ile toplantısı planlanmış bir yönetici görüşmesiydi",
@@ -13978,6 +14015,11 @@
    "t": "2026-10-27T07:24:24.710111+00:00",
    "title": "Red Bull, Liam Lawson'a açık mesaj gönderdi: 'Bir yarış daha, bir galibiyet daha'",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-27T07:54:14.042240+00:00",
+   "title": "Damon Hill: Russell bu darbeden toparlanmakta zorlanabilir, Antonelli fenomen",
+   "source": "FormulaPassion"
   }
  ]
 }
