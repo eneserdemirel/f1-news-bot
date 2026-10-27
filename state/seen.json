@@ -4263,7 +4263,13 @@
   "3f5e05a3dee1150d": "2026-10-27T18:05:32.481537+00:00",
   "8659de1922d80569": "2026-10-27T18:05:32.481537+00:00",
   "6860630b7bd4464f": "2026-10-27T18:05:32.481537+00:00",
-  "96ca418317b484d5": "2026-10-27T18:05:32.481537+00:00"
+  "96ca418317b484d5": "2026-10-27T18:05:32.481537+00:00",
+  "284e2d3e197884b1": "2026-10-27T18:15:27.769512+00:00",
+  "d344f0481856fb9f": "2026-10-27T18:15:27.769512+00:00",
+  "fa947a642964c566": "2026-10-27T18:15:27.769512+00:00",
+  "e36680e60de6b60a": "2026-10-27T18:15:27.769512+00:00",
+  "29283d6666414fbe": "2026-10-27T18:15:27.769512+00:00",
+  "abfc21a261feb005": "2026-10-27T18:15:27.769512+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4431,19 +4437,6 @@
    },
    "last": "2026-10-25T19:38:46.175224+00:00"
   },
-  "S1453": {
-   "title": "Arteta on Arsenal's set-piece dominance",
-   "first": "2026-10-25T16:13:14.194423+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T13:37:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arsenal unlocked key to set-piece dominance - Mikel Arteta"
-   },
-   "last": "2026-10-25T18:08:12.650860+00:00"
-  },
   "S1458": {
    "title": "Verstappen could be mathematically eliminated from title fight in Austin",
    "first": "2026-10-25T16:38:11.543206+00:00",
@@ -4488,19 +4481,6 @@
     "ESPN F1": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes"
    },
    "last": "2026-10-25T19:43:53.726391+00:00"
-  },
-  "S1470": {
-   "title": "Oregon fires offensive coordinator Drew Mehringer",
-   "first": "2026-10-25T17:38:08.352111+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T17:34:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Oregon has fired offensive coordinator Drew Mehringer. The..."
-   },
-   "last": "2026-10-25T18:13:10.935976+00:00"
   },
   "S1477": {
    "title": "Man United 0-3 Bournemouth game analysis",
@@ -12284,15 +12264,17 @@
    "first": "2026-10-27T15:24:54.918879+00:00",
    "sources": {
     "RacingNews365": "2026-10-27T15:11:00+00:00",
-    "Motorsport.com Italia": "2026-10-27T15:34:55+00:00"
+    "Motorsport.com Italia": "2026-10-27T15:34:55+00:00",
+    "Motorsport Week": "2026-10-27T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Franco Colapinto steps aside at Alpine for F1 debutant in Mexico FP1",
-    "Motorsport.com Italia": "Gabriele Minì debutta in F1 con Alpine nelle FP1 in Messico: \"È un sogno che si avvera\""
+    "Motorsport.com Italia": "Gabriele Minì debutta in F1 con Alpine nelle FP1 in Messico: \"È un sogno che si avvera\"",
+    "Motorsport Week": "Alpine to hand junior talent debut 2026 F1 outing in Mexico"
    },
-   "last": "2026-10-27T15:44:56.781737+00:00"
+   "last": "2026-10-27T18:15:31.959878+00:00"
   },
   "S2054": {
    "title": "Feature on why Mercedes skipped Drive to Survive",
@@ -12890,7 +12872,7 @@
    "titles": {
     "ESPN F1": "Gary Neville: 'Really surprised' but 'happy' Michael Carrick set to continue as Man United boss"
    },
-   "last": "2026-10-27T17:45:36.201422+00:00"
+   "last": "2026-10-27T18:15:31.959873+00:00"
   },
   "S2100": {
    "title": "Fornaroli to run McLaren FP1 in Mexico and Brazil",
@@ -12997,9 +12979,61 @@
     "ESPN F1": "Napoli coach Massimiliano Allegri will not appeal touchline ban"
    },
    "last": "2026-10-27T18:05:35.997341+00:00"
+  },
+  "S2108": {
+   "title": "Elche vs. Valencia odds and spread",
+   "first": "2026-10-27T18:15:31.959827+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T18:13:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Elche vs. Valencia (Nov 1, 2026) Odds and Spread"
+   },
+   "last": "2026-10-27T18:15:31.959844+00:00"
+  },
+  "S2109": {
+   "title": "SG Sonnenhof vs. Augsburg live score",
+   "first": "2026-10-27T18:15:31.959849+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T18:10:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "SG Sonnenhof vs. Augsburg (27 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-27T18:15:31.959855+00:00"
+  },
+  "S2110": {
+   "title": "Sassuolo vs. Lazio live score",
+   "first": "2026-10-27T18:15:31.959858+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T17:47:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sassuolo vs. Lazio (27 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-27T18:15:31.959862+00:00"
+  },
+  "S2111": {
+   "title": "Musheer century and partnership in cricket",
+   "first": "2026-10-27T18:15:31.959864+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T17:38:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Century-maker, partnership-breaker: Musheer does it with bat and ball"
+   },
+   "last": "2026-10-27T18:15:31.959867+00:00"
   }
  },
- "story_seq": 2107,
+ "story_seq": 2111,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13118,17 +13152,12 @@
   ]
  ],
  "calendar_updated": "2026-10-26T22:12:27.998569+00:00",
- "last_run": "2026-10-27T18:05:32.481537+00:00",
+ "last_run": "2026-10-27T18:15:27.769512+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 15:00",
  "last_digest_at": "2026-10-27T12:04:03.996502+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-24T18:05:44.323875+00:00",
-   "title": "Bortoleto'ya ikinci güç ünitesi değişikliği nedeniyle dev grid cezası",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-24T18:25:41.147708+00:00",
    "title": "Herta, 2027'de Bottas'ın yerini alabilir",
