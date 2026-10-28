@@ -4738,7 +4738,11 @@
   "2b731c66f01457da": "2026-10-28T18:17:58.450902+00:00",
   "d416df3bd77fde7a": "2026-10-28T18:17:58.450902+00:00",
   "698193f2115255c4": "2026-10-28T18:17:58.450902+00:00",
-  "771ccbdbc27c3ebc": "2026-10-28T18:27:55.105064+00:00"
+  "771ccbdbc27c3ebc": "2026-10-28T18:27:55.105064+00:00",
+  "c1b517441b10df3d": "2026-10-28T18:37:56.989656+00:00",
+  "07b05dd21a4acdd2": "2026-10-28T18:37:56.989656+00:00",
+  "6f9987ee2612682a": "2026-10-28T18:37:56.989656+00:00",
+  "82c7c9b96f413c31": "2026-10-28T18:37:56.989656+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4897,19 +4901,6 @@
    },
    "last": "2026-10-27T12:44:53.828670+00:00"
   },
-  "S1784": {
-   "title": "US senators urge NBA to review Rwanda partnership",
-   "first": "2026-10-26T16:02:09.621452+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T16:01:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "U.S. senators call on NBA to reevaluate Rwanda partnership"
-   },
-   "last": "2026-10-26T18:32:08.786431+00:00"
-  },
   "S1817": {
    "title": "Horner reveals his role in Hamilton's 2012 Mercedes move",
    "first": "2026-10-26T17:52:12.587525+00:00",
@@ -4963,19 +4954,6 @@
     "ESPN F1": "Fantasy risers and fallers: Time to trade away Ty Jerome, drop Draymond Green?"
    },
    "last": "2026-10-26T21:42:47.269813+00:00"
-  },
-  "S1826": {
-   "title": "Rafael Nadal to play Las Vegas exhibition in February",
-   "first": "2026-10-26T18:32:08.786435+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T16:44:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Retired Rafael Nadal to play in Las Vegas exhibition in February"
-   },
-   "last": "2026-10-26T18:32:08.786439+00:00"
   },
   "S1827": {
    "title": "WNBA Finals Game 6 scheduled as Thursday matinee at State Farm",
@@ -10574,7 +10552,7 @@
    "titles": {
     "ESPN F1": "Brazil vs. Poland (28 Oct, 2026) Live Score"
    },
-   "last": "2026-10-28T08:36:42.433462+00:00"
+   "last": "2026-10-28T18:38:00.815283+00:00"
   },
   "S2246": {
    "title": "Gasly scores points despite damage from Bearman contact in Austin",
@@ -11444,14 +11422,16 @@
    "title": "Norris admits he is not the best in front of media",
    "first": "2026-10-28T13:17:15.900429+00:00",
    "sources": {
-    "Motorsport Week": "2026-10-28T13:00:00+00:00"
+    "Motorsport Week": "2026-10-28T13:00:00+00:00",
+    "GPblog": "2026-10-28T18:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport Week": "Lando Norris takes accountability for recent F1 media clashes"
+    "Motorsport Week": "Lando Norris takes accountability for recent F1 media clashes",
+    "GPblog": "Lando Norris makes staggering claim as he addresses his public mistakes"
    },
-   "last": "2026-10-28T16:18:05.305974+00:00"
+   "last": "2026-10-28T18:38:00.815295+00:00"
   },
   "S2311": {
    "title": "Kuyt named Fenerbahçe interim coach",
@@ -12603,9 +12583,35 @@
     "ESPN F1": "Spurs vs. Jazz (29 Oct, 2026) Live Score"
    },
    "last": "2026-10-28T18:27:57.564071+00:00"
+  },
+  "S2396": {
+   "title": "Early Bet Builder picks for Mexico City GP",
+   "first": "2026-10-28T18:38:00.815253+00:00",
+   "sources": {
+    "Formula 1": "2026-10-28T18:38:00.815272+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Our early Bet Builder picks for the Mexico City GP"
+   },
+   "last": "2026-10-28T18:38:00.815275+00:00"
+  },
+  "S2397": {
+   "title": "Devin Cooley profile as interesting hockey figure",
+   "first": "2026-10-28T18:38:00.815287+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Devin Cooley is the most interesting man in hockey"
+   },
+   "last": "2026-10-28T18:38:00.815290+00:00"
   }
  },
- "story_seq": 2395,
+ "story_seq": 2397,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12724,22 +12730,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T18:27:55.105064+00:00",
+ "last_run": "2026-10-28T18:37:56.989656+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 15:00",
  "last_digest_at": "2026-10-28T12:08:05.541503+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T18:28:21.419241+00:00",
-   "title": "Verstappen, ABD GP öncesi Antonelli'yi zorlamaya kararlı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-10-25T18:33:12.442184+00:00",
-   "title": "Leclerc, Ferrari'yi bir sonraki olaya karşı uyardı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-25T18:48:54.638480+00:00",
    "title": "Hadjar, US GP öncesi Red Bull'un Antonelli karşısındaki avantajını işaret etti",
