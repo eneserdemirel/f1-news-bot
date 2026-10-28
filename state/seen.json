@@ -4463,7 +4463,9 @@
   "7ae23e67fd12ec7a": "2026-10-28T09:07:12.401086+00:00",
   "8e7b51c9ede8989f": "2026-10-28T09:07:12.401086+00:00",
   "23d213be3976d4e6": "2026-10-28T09:07:12.401086+00:00",
-  "e940861ded0bdd45": "2026-10-28T09:07:12.401086+00:00"
+  "e940861ded0bdd45": "2026-10-28T09:07:12.401086+00:00",
+  "5ee95fdb9876ef12": "2026-10-28T09:17:13.272150+00:00",
+  "522ca088a46fdddb": "2026-10-28T09:17:13.272150+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4807,45 +4809,6 @@
     "GPblog": "Russell slams 'ridiculous' FIA penalty after disastrous United States GP"
    },
    "last": "2026-10-26T18:02:10.071626+00:00"
-  },
-  "S1688": {
-   "title": "Hamilton expresses frustration over missed chances at US GP",
-   "first": "2026-10-26T09:10:27.778503+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-26T08:44:19+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hamilton: “È tutto un avrei potuto, avrei dovuto, sarebbe potuto essere…”"
-   },
-   "last": "2026-10-26T09:10:27.778510+00:00"
-  },
-  "S1689": {
-   "title": "Analysis of Antonelli and Mercedes versus Ferrari at Austin",
-   "first": "2026-10-26T09:10:27.778514+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-26T08:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Austin: Antonelli e Mercedes da campioni, Leclerc e Ferrari da applausi"
-   },
-   "last": "2026-10-26T09:10:27.778519+00:00"
-  },
-  "S1690": {
-   "title": "Liam Lawson's sleep feature after US GP",
-   "first": "2026-10-26T09:10:27.778523+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-26T09:06:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Wer letzte Nacht am besten geschlafen hat: Liam Lawson - Motorsport-Total.com"
-   },
-   "last": "2026-10-26T09:10:27.778528+00:00"
   },
   "S1691": {
    "title": "Man United eye Branthwaite amid defensive rebuild",
@@ -8848,16 +8811,18 @@
    "sources": {
     "GPFans": "2026-10-27T11:00:00+00:00",
     "Motorsport Week": "2026-10-27T12:28:38+00:00",
-    "GPblog": "2026-10-27T17:15:00+00:00"
+    "GPblog": "2026-10-27T17:15:00+00:00",
+    "Motorsport-Total": "2026-10-28T09:11:29+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPFans": "F1 star breaks silence after Jeremy Clarkson comments cause controversy",
     "Motorsport Week": "Franco Colapinto responds to ‘unacceptable’ Jeremy Clarkson comment",
-    "GPblog": "Colapinto breaks silence on Jeremy Clarkson's controversial F1 joke"
+    "GPblog": "Colapinto breaks silence on Jeremy Clarkson's controversial F1 joke",
+    "Motorsport-Total": "Colapinto reagiert auf Eklat-Statement von Jeremy Clarkson - Motorsport-Total.com"
    },
-   "last": "2026-10-27T17:24:53.675080+00:00"
+   "last": "2026-10-28T09:17:16.206412+00:00"
   },
   "S1993": {
    "title": "Vasseur seeks answers on Ferrari's Q3 qualifying mystery in Austin",
@@ -12311,9 +12276,22 @@
     "Corriere dello Sport": "Allerta in Formula 1 per i Gp mediorientali: cosa cambia con una gara in meno per Antonelli e cosa c’entra Imola"
    },
    "last": "2026-10-28T09:07:20.583334+00:00"
+  },
+  "S2254": {
+   "title": "Leclerc sets Ferrari target after US GP upgrades",
+   "first": "2026-10-28T09:17:16.206387+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-28T09:13:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Charles Leclerc sets Ferrari target after US GP upgrades"
+   },
+   "last": "2026-10-28T09:17:16.206404+00:00"
   }
  },
- "story_seq": 2253,
+ "story_seq": 2254,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12432,7 +12410,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T09:07:12.401086+00:00",
+ "last_run": "2026-10-28T09:17:13.272150+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
@@ -13737,6 +13715,11 @@
    "t": "2026-10-28T09:07:47.559759+00:00",
    "title": "Orta Doğu GP'leri için F1'de alarm: Antonelli'nin kazanımı ve İmola'nın rolü",
    "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-10-28T09:17:20.821561+00:00",
+   "title": "Leclerc, US GP güncellemelerinin ardından Ferrari için hedef koydu",
+   "source": "PlanetF1"
   }
  ]
 }
