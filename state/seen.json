@@ -4438,7 +4438,12 @@
   "9ff5b6027e1fa4b4": "2026-10-28T07:56:36.546583+00:00",
   "888e455b26e4a920": "2026-10-28T07:56:36.546583+00:00",
   "03fb7f558f2c6a13": "2026-10-28T07:56:36.546583+00:00",
-  "a15195cbd051205d": "2026-10-28T07:56:36.546583+00:00"
+  "a15195cbd051205d": "2026-10-28T07:56:36.546583+00:00",
+  "cc88556da63b981f": "2026-10-28T08:06:38.304000+00:00",
+  "db0756258238e89b": "2026-10-28T08:06:38.304000+00:00",
+  "e59c4aacabca4c12": "2026-10-28T08:06:38.304000+00:00",
+  "244657db6f84bd5f": "2026-10-28T08:06:38.304000+00:00",
+  "360ff5c3b4390d76": "2026-10-28T08:06:38.304000+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12211,9 +12216,74 @@
     "ESPN F1": "Arsenal vs. Benfica (28 Oct, 2026) Live Score"
    },
    "last": "2026-10-28T07:56:38.545766+00:00"
+  },
+  "S2239": {
+   "title": "Reus FCR vs. Barakaldo live score (football)",
+   "first": "2026-10-28T08:06:43.389310+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T07:48:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Reus FCR vs. Barakaldo (28 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-28T08:06:43.389328+00:00"
+  },
+  "S2240": {
+   "title": "Audi appoints significant senior figure to F1 project",
+   "first": "2026-10-28T08:06:43.389334+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-28T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Audi make significant senior appointment as debut F1 season nears end"
+   },
+   "last": "2026-10-28T08:06:43.389339+00:00"
+  },
+  "S2241": {
+   "title": "Hadjar warned over Verstappen team orders after radio row",
+   "first": "2026-10-28T08:06:43.389344+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-28T08:05:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Isack Hadjar warned over Max Verstappen team orders after Red Bull radio row"
+   },
+   "last": "2026-10-28T08:06:43.389348+00:00"
+  },
+  "S2242": {
+   "title": "Hamilton gets boost from Ferrari upgrade at US GP",
+   "first": "2026-10-28T08:06:43.389352+00:00",
+   "sources": {
+    "GPFans": "2026-10-28T07:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton gets major boost as Ferrari pull off genius F1 upgrade trick"
+   },
+   "last": "2026-10-28T08:06:43.389356+00:00"
+  },
+  "S2243": {
+   "title": "Photo gallery of F1 engines from 1950 to 2030",
+   "first": "2026-10-28T08:06:43.389359+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-28T08:04:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Fotostrecke: Die Motoren der Formel 1 von 1950 bis 2030 - Motorsport-Total.com"
+   },
+   "last": "2026-10-28T08:06:43.389363+00:00"
   }
  },
- "story_seq": 2238,
+ "story_seq": 2243,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12332,17 +12402,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T07:56:36.546583+00:00",
+ "last_run": "2026-10-28T08:06:38.304000+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T08:01:58.621861+00:00",
-   "title": "Verstappen, Austin pistindeki hobbeleri sert sözlerle eleştirdi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-25T08:08:08.320861+00:00",
    "title": "Bortoleto, ABD GP'de 80 sıra cezası aldı, grid'in en sonundan başlayacak",
@@ -13622,6 +13687,21 @@
    "t": "2026-10-28T07:46:44.496888+00:00",
    "title": "Verstappen'e 2024 Meksika GP'de çifte tıkanma cezası verildi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-28T08:06:50.527190+00:00",
+   "title": "Ferrari'nin güncellemesi Hamilton'a büyük destek sağladı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-10-28T08:06:50.899424+00:00",
+   "title": "Audi, Thomas Fuhr'u yeni CEO olarak atadı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-28T08:06:51.279463+00:00",
+   "title": "Hadjar, Red Bull radyo tartışması sonrası Verstappen takım emri konusunda uyarılabilir",
+   "source": "PlanetF1"
   }
  ]
 }
