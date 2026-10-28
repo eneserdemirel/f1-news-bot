@@ -4474,7 +4474,9 @@
   "cbf9d9db7923ec1a": "2026-10-28T09:37:16.090207+00:00",
   "a82151855af44361": "2026-10-28T09:37:16.090207+00:00",
   "eda5d5f3164730b3": "2026-10-28T09:47:12.504416+00:00",
-  "e8fc7217239895ce": "2026-10-28T09:47:12.504416+00:00"
+  "e8fc7217239895ce": "2026-10-28T09:47:12.504416+00:00",
+  "c157bb2d4daad7d1": "2026-10-28T09:57:12.921025+00:00",
+  "1121217a6a405132": "2026-10-28T09:57:12.921025+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4801,19 +4803,6 @@
     "GPblog": "Russell slams 'ridiculous' FIA penalty after disastrous United States GP"
    },
    "last": "2026-10-26T18:02:10.071626+00:00"
-  },
-  "S1693": {
-   "title": "ESPN New York NY GameDay clip on Jets must-win",
-   "first": "2026-10-26T09:50:22.451599+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T04:21:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Best of ESPN New York (Clips) - NY GameDay Hour 1: A must win for the Jets"
-   },
-   "last": "2026-10-26T09:50:22.451616+00:00"
   },
   "S1694": {
    "title": "Russell seeks Mercedes investigation as title race nears end",
@@ -12311,9 +12300,35 @@
     "Motorsport.com Italia": "F1 | Antonelli e la forza di rimanere pragmatici: aspetta di fare la storia restando se stesso"
    },
    "last": "2026-10-28T09:37:20.212840+00:00"
+  },
+  "S2259": {
+   "title": "Sabres 2-0 Sharks NHL game recap",
+   "first": "2026-10-28T09:57:15.777530+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T05:31:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sabres 2-0 Sharks (Oct 27, 2026) Game Recap"
+   },
+   "last": "2026-10-28T09:57:15.777549+00:00"
+  },
+  "S2260": {
+   "title": "Aston Martin publicly rejects Honda exit rumours",
+   "first": "2026-10-28T09:57:15.777555+00:00",
+   "sources": {
+    "GPFans": "2026-10-28T09:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Aston Martin respond to Honda exit rumours with bold F1 statement"
+   },
+   "last": "2026-10-28T09:57:15.777561+00:00"
   }
  },
- "story_seq": 2258,
+ "story_seq": 2260,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12432,22 +12447,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T09:47:12.504416+00:00",
+ "last_run": "2026-10-28T09:57:12.921025+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T09:48:18.342298+00:00",
-   "title": "Antonelli pole aldı, ilk F1 şampiyonluk fırsatı yakaladı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-25T09:48:18.674369+00:00",
-   "title": "COTA patronu, sürücülerin pist eleştirilerine yanıt verdi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-25T10:23:16.168505+00:00",
    "title": "F1, 2026 ABD GP için Texas esintili kupasını tanıttı",
@@ -13732,6 +13737,11 @@
    "t": "2026-10-28T09:37:25.154328+00:00",
    "title": "Ferrari'nin Austin'deki yükseltme paketinde neler var?",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-28T09:57:20.210405+00:00",
+   "title": "Aston Martin, Honda ortaklığının süreceğini açıkladı",
+   "source": "GPFans"
   }
  ]
 }
