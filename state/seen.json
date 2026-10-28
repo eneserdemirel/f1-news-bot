@@ -4490,7 +4490,14 @@
   "e330aad2025da6d6": "2026-10-28T10:27:12.510926+00:00",
   "2fe515db747b6485": "2026-10-28T10:27:12.510926+00:00",
   "c26663cf272cf38e": "2026-10-28T10:37:15.779226+00:00",
-  "ececeb22749edd26": "2026-10-28T10:37:15.779226+00:00"
+  "ececeb22749edd26": "2026-10-28T10:37:15.779226+00:00",
+  "ac44cce107961f3d": "2026-10-28T10:47:21.740231+00:00",
+  "84a67f421592dd09": "2026-10-28T10:47:21.740231+00:00",
+  "8abcad0b721ce591": "2026-10-28T10:47:21.740231+00:00",
+  "079a33edddf099c5": "2026-10-28T10:47:21.740231+00:00",
+  "344cbf9989a8c2e6": "2026-10-28T10:47:21.740231+00:00",
+  "e91df24fd0a4eb93": "2026-10-28T10:47:21.740231+00:00",
+  "0dece591821d80c0": "2026-10-28T10:47:21.740231+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4857,19 +4864,6 @@
    },
    "last": "2026-10-26T11:21:12.229289+00:00"
   },
-  "S1702": {
-   "title": "Mekies says Red Bull frustrated by third place in Austin",
-   "first": "2026-10-26T10:41:10.615930+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-26T10:32:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Red Bull, il podio di Verstappen non basta più: Mekies spiega cosa manca per vincere"
-   },
-   "last": "2026-10-26T10:41:10.615936+00:00"
-  },
   "S1703": {
    "title": "Bridgestone reportedly targeting F1 return as tyre supplier",
    "first": "2026-10-26T10:41:10.615938+00:00",
@@ -4888,19 +4882,6 @@
     "Crash.net": "Former F1 tyre supplier plots surprise comeback after two decades"
    },
    "last": "2026-10-26T17:02:39.213805+00:00"
-  },
-  "S1704": {
-   "title": "Mekies admits Red Bull cannot explain Verstappen and Hadjar radio failures",
-   "first": "2026-10-26T10:41:10.615945+00:00",
-   "sources": {
-    "GPblog": "2026-10-26T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Red Bull admits it cannot explain radio failures after Verstappen's sign language jibe"
-   },
-   "last": "2026-10-26T10:41:10.615948+00:00"
   },
   "S1705": {
    "title": "Lando Norris sleep feature after US GP",
@@ -10964,16 +10945,18 @@
    "sources": {
     "GPblog": "2026-10-27T21:15:00+00:00",
     "GPFans": "2026-10-28T07:15:00+00:00",
-    "PlanetF1": "2026-10-28T08:44:53+00:00"
+    "PlanetF1": "2026-10-28T08:44:53+00:00",
+    "Crash.net": "2026-10-28T10:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "F1 Today: Verstappen enjoys big financial boost as Russell sits out in Mexico",
     "GPFans": "Max Verstappen's staggering fortune revealed as F1 star climbs wealth rankings",
-    "PlanetF1": "George Russell to miss Mexican Grand Prix FP1 as Vesti steps in"
+    "PlanetF1": "George Russell to miss Mexican Grand Prix FP1 as Vesti steps in",
+    "Crash.net": "Mercedes announces George Russell to be replaced for Mexican GP FP1"
    },
-   "last": "2026-10-28T08:46:43.128213+00:00"
+   "last": "2026-10-28T10:47:26.762509+00:00"
   },
   "S2162": {
    "title": "ESPN NFL trade deadline grades including Quenton Nelson deal",
@@ -12379,17 +12362,71 @@
    "title": "Brundle praises Verstappen's overtake on Norris at US GP",
    "first": "2026-10-28T10:37:19.444556+00:00",
    "sources": {
-    "GPblog": "2026-10-28T10:30:00+00:00"
+    "GPblog": "2026-10-28T10:30:00+00:00",
+    "RacingNews365 NL": "2026-10-28T10:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Max Verstappen leaves Brundle in awe: 'It was pure Max'"
+    "GPblog": "Max Verstappen leaves Brundle in awe: 'It was pure Max'",
+    "RacingNews365 NL": "Brundle tovert glimlach op gezicht Verstappen: \"Dat was Max op zijn best!\""
    },
-   "last": "2026-10-28T10:37:19.444569+00:00"
+   "last": "2026-10-28T10:47:26.762503+00:00"
+  },
+  "S2269": {
+   "title": "Gamba Osaka vs Buriram live score",
+   "first": "2026-10-28T10:47:26.762423+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T10:43:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gamba Osaka vs. Buriram (28 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-28T10:47:26.762443+00:00"
+  },
+  "S2270": {
+   "title": "Kashima vs Pohang Steelers live score",
+   "first": "2026-10-28T10:47:26.762472+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T10:43:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kashima vs. Pohang Steelers (28 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-28T10:47:26.762478+00:00"
+  },
+  "S2271": {
+   "title": "NFL Week 8 latest intel and fantasy tips",
+   "first": "2026-10-28T10:47:26.762483+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T10:42:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing"
+   },
+   "last": "2026-10-28T10:47:26.762488+00:00"
+  },
+  "S2272": {
+   "title": "Erasmus names six uncapped players for Nations Championship",
+   "first": "2026-10-28T10:47:26.762492+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T10:36:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rassie Erasmus names six uncapped players for South Africa's Nations Championship Tests"
+   },
+   "last": "2026-10-28T10:47:26.762496+00:00"
   }
  },
- "story_seq": 2268,
+ "story_seq": 2272,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12508,7 +12545,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T10:37:15.779226+00:00",
+ "last_run": "2026-10-28T10:47:21.740231+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
