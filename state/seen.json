@@ -4698,7 +4698,10 @@
   "f0b42481767779d3": "2026-10-28T17:17:58.015022+00:00",
   "1d1f1c019a11f46f": "2026-10-28T17:17:58.015022+00:00",
   "c87c0ab7f0136334": "2026-10-28T17:17:58.015022+00:00",
-  "fb8b0f3627770770": "2026-10-28T17:17:58.015022+00:00"
+  "fb8b0f3627770770": "2026-10-28T17:17:58.015022+00:00",
+  "d6dcddbae3f322d3": "2026-10-28T17:27:55.785726+00:00",
+  "772dba32e050cdc6": "2026-10-28T17:27:55.785726+00:00",
+  "e669cd2e577db969": "2026-10-28T17:27:55.785726+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4720,25 +4723,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S1458": {
-   "title": "Verstappen could be mathematically eliminated from title fight in Austin",
-   "first": "2026-10-25T16:38:11.543206+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-25T16:30:00+00:00",
-    "GPblog": "2026-10-25T23:30:00+00:00",
-    "FormulaPassion": "2026-10-26T16:00:00+00:00",
-    "AS": "2026-10-26T17:01:57+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Officiële 'uitschakeling' dreigt voor Verstappen in Austin",
-    "GPblog": "Verstappen Suffers a Blow in Austin He Hasn’t Experienced Since 2020",
-    "FormulaPassion": "Verstappen, statistica folle: per la prima volta da 2184 giorni è fuori dalla corsa al titolo",
-    "AS": "Verstappen se queda fuera"
-   },
-   "last": "2026-10-26T17:22:08.497931+00:00"
-  },
   "S1511": {
    "title": "Russell handed five-second penalty at US GP after Piastri incident",
    "first": "2026-10-25T20:23:49.726359+00:00",
@@ -4886,21 +4870,6 @@
    },
    "last": "2026-10-26T21:32:43.880752+00:00"
   },
-  "S1733": {
-   "title": "Norris says he was praying McLaren's US GP strategy gamble would work",
-   "first": "2026-10-26T13:01:12.133923+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-26T13:00:00+00:00",
-    "Motorsport Week": "2026-10-26T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris was 'praying' for intervention for McLaren F1 gamble to succeed",
-    "Motorsport Week": "‘I was praying’: Norris rues safety car timing after Austin one-stop gamble"
-   },
-   "last": "2026-10-26T17:22:08.497917+00:00"
-  },
   "S1760": {
    "title": "Verstappen's new race engineer assessed after US GP",
    "first": "2026-10-26T14:21:20.432607+00:00",
@@ -4943,32 +4912,6 @@
     "ESPN F1": "U.S. senators call on NBA to reevaluate Rwanda partnership"
    },
    "last": "2026-10-26T18:32:08.786431+00:00"
-  },
-  "S1788": {
-   "title": "Ralphie Albert to lead England Under-19 tour of Pakistan",
-   "first": "2026-10-26T16:12:09.050908+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T16:09:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ralphie Albert to lead England Under-19 tour of Pakistan"
-   },
-   "last": "2026-10-26T17:22:08.497906+00:00"
-  },
-  "S1809": {
-   "title": "Verstappen radio outburst after near-miss with Perez",
-   "first": "2026-10-26T17:22:08.497922+00:00",
-   "sources": {
-    "GPblog": "2026-10-26T17:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen delivers angry radio outburst after near-miss with Perez: 'What an idiot!'"
-   },
-   "last": "2026-10-26T17:22:08.497926+00:00"
   },
   "S1810": {
    "title": "Florida QB1 decision delayed until later in week",
@@ -10613,7 +10556,8 @@
     "RacingNews365": "2026-10-28T12:30:00+00:00",
     "Gazzetta dello Sport": "2026-10-28T13:25:20+00:00",
     "Motorsport-Total": "2026-10-28T14:51:04+00:00",
-    "Auto Motor und Sport": "2026-10-28T13:59:24+00:00"
+    "Auto Motor und Sport": "2026-10-28T13:59:24+00:00",
+    "Motorsport Week": "2026-10-28T17:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10623,9 +10567,10 @@
     "RacingNews365": "Kimi Antonelli reveals if he will choose driver number '1' as F1 champion",
     "Gazzetta dello Sport": "Antonelli come Senna e Lauda: correrà con il numero 12 anche da campione del mondo",
     "Motorsport-Total": "Kimi Antonelli: Neue Startnummer als Formel-1-Weltmeister? - Motorsport-Total.com",
-    "Auto Motor und Sport": "Formel 1: Überraschende Entscheidung: Kimi Antonelli verrät Startnummer für 2027"
+    "Auto Motor und Sport": "Formel 1: Überraschende Entscheidung: Kimi Antonelli verrät Startnummer für 2027",
+    "Motorsport Week": "Kimi Antonelli makes 2027 clarification amid F1 title prospects at Mexico City GP"
    },
-   "last": "2026-10-28T15:08:03.516580+00:00"
+   "last": "2026-10-28T17:28:00.448932+00:00"
   },
   "S2235": {
    "title": "Retrospective on Verstappen's 2024 Mexico penalty and Norris title fight",
@@ -12497,9 +12442,35 @@
     "Motorsport-Total": "Max Verstappen: WM-Titel wird Kimi Antonelli noch besser machen - Motorsport-Total.com"
    },
    "last": "2026-10-28T17:18:02.505657+00:00"
+  },
+  "S2372": {
+   "title": "Five storylines to watch ahead of Mexico City GP",
+   "first": "2026-10-28T17:28:00.448896+00:00",
+   "sources": {
+    "Formula 1": "2026-10-28T17:28:00.448914+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "5 storylines we're excited about ahead of the Mexico City GP"
+   },
+   "last": "2026-10-28T17:28:00.448917+00:00"
+  },
+  "S2373": {
+   "title": "Copa del Rey matches postponed after Toledo train crash",
+   "first": "2026-10-28T17:28:00.448922+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T13:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wednesday's Copa Del Rey matches postponed after fatal Toledo train crash"
+   },
+   "last": "2026-10-28T17:28:00.448927+00:00"
   }
  },
- "story_seq": 2371,
+ "story_seq": 2373,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12618,7 +12589,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T17:17:58.015022+00:00",
+ "last_run": "2026-10-28T17:27:55.785726+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 15:00",
@@ -14038,6 +14009,11 @@
    "t": "2026-10-28T17:18:10.123258+00:00",
    "title": "Verstappen: Dünya şampiyonluğu Antonelli'yi daha da iyi yapacak",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-28T17:28:04.813210+00:00",
+   "title": "Meksika GP öncesi 5 önemli konu: Antonelli şampiyonluğa yaklaşıyor",
+   "source": "Formula 1"
   }
  ]
 }
