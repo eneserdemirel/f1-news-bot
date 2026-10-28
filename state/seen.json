@@ -4379,7 +4379,9 @@
   "415fc0174686b030": "2026-10-28T03:16:16.973538+00:00",
   "b870838b91a50b89": "2026-10-28T03:26:02.419256+00:00",
   "ee5506df4c8fb78e": "2026-10-28T03:26:02.419256+00:00",
-  "6e67308d1b503fd5": "2026-10-28T03:26:02.419256+00:00"
+  "6e67308d1b503fd5": "2026-10-28T03:26:02.419256+00:00",
+  "7359b9a4fe6593c6": "2026-10-28T03:36:04.328063+00:00",
+  "904f27ce79021fce": "2026-10-28T03:36:04.328063+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4630,19 +4632,6 @@
    },
    "last": "2026-10-26T08:20:24.639803+00:00"
   },
-  "S1582": {
-   "title": "Giants beat Texans in overtime with Skattebo leading",
-   "first": "2026-10-25T23:43:57.056564+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-25T23:40:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cam Skattebo and Co. answer John Harbaugh's call, lead Giants to OT win"
-   },
-   "last": "2026-10-26T03:34:39.622334+00:00"
-  },
   "S1606": {
    "title": "Hamilton reveals mistake that cost US GP podium",
    "first": "2026-10-25T23:59:41.445682+00:00",
@@ -4798,19 +4787,6 @@
     "Sky Sports F1": "Verstappen fumes at Red Bull radio dropouts during races"
    },
    "last": "2026-10-26T13:01:12.133912+00:00"
-  },
-  "S1646": {
-   "title": "Matthew Stafford makes history with three-TD game for Rams",
-   "first": "2026-10-26T03:29:40.081636+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T02:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Matthew Stafford makes history after 3-TD showing for Rams"
-   },
-   "last": "2026-10-26T03:29:40.081654+00:00"
   },
   "S1647": {
    "title": "Solihull Moors fixture calendar page (not F1)",
@@ -12118,9 +12094,35 @@
     "ESPN F1": "Espanyol, with Watt among owners, sack González after loss to 4th-tier side"
    },
    "last": "2026-10-28T03:26:04.710745+00:00"
+  },
+  "S2198": {
+   "title": "Knicks assistant coach Chris Jent steps away for personal reasons",
+   "first": "2026-10-28T03:36:06.997312+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T00:42:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Knicks assistant coach Chris Jent steps away for personal reasons"
+   },
+   "last": "2026-10-28T03:36:06.997333+00:00"
+  },
+  "S2199": {
+   "title": "Unclear MLB item from ESPN, no F1 content",
+   "first": "2026-10-28T03:36:06.997340+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-27T23:28:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "MLB - ESPN"
+   },
+   "last": "2026-10-28T03:36:06.997345+00:00"
   }
  },
- "story_seq": 2197,
+ "story_seq": 2199,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12239,7 +12241,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T03:26:02.419256+00:00",
+ "last_run": "2026-10-28T03:36:04.328063+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
