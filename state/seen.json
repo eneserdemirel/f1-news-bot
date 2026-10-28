@@ -4418,7 +4418,16 @@
   "f190691ba7fb4b50": "2026-10-28T07:16:38.155008+00:00",
   "2dec2464bef3a97c": "2026-10-28T07:16:38.155008+00:00",
   "7c6d3424fbaad69a": "2026-10-28T07:16:38.155008+00:00",
-  "a811d9ffc4cdb6c9": "2026-10-28T07:16:38.155008+00:00"
+  "a811d9ffc4cdb6c9": "2026-10-28T07:16:38.155008+00:00",
+  "932d04c8ee244436": "2026-10-28T07:26:44.541733+00:00",
+  "8777514d079ef8ed": "2026-10-28T07:26:44.541733+00:00",
+  "6b9c3867fbe81059": "2026-10-28T07:26:44.541733+00:00",
+  "788c4626ab4781fc": "2026-10-28T07:26:44.541733+00:00",
+  "17080a7c48d848fa": "2026-10-28T07:26:44.541733+00:00",
+  "43c287cdad6acaa7": "2026-10-28T07:26:44.541733+00:00",
+  "69080d65e8f51cea": "2026-10-28T07:26:44.541733+00:00",
+  "6d4f4fd1654f24e8": "2026-10-28T07:26:44.541733+00:00",
+  "fbd2227e32ab9af7": "2026-10-28T07:26:44.541733+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4532,23 +4541,6 @@
     "Sky Sports F1": "Mexico City GP: UK schedule and how to watch on Sky Sports"
    },
    "last": "2026-10-26T12:01:18.790057+00:00"
-  },
-  "S1563": {
-   "title": "Verstappen says Red Bull tyre strategy was not agreed beforehand",
-   "first": "2026-10-25T22:48:51.181345+00:00",
-   "sources": {
-    "GPblog": "2026-10-25T22:43:00+00:00",
-    "RacingNews365": "2026-10-26T06:20:00+00:00",
-    "FormulaPassion": "2026-10-26T07:18:53+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen wants an explanation from Red Bull: “That wasn’t what we agreed”",
-    "RacingNews365": "Irritated Max Verstappen criticises Red Bull: 'That wasn't agreed'",
-    "FormulaPassion": "Verstappen battuto si arrabbia col team: “La strategia non era quella concordata. Dovremo chiarire”"
-   },
-   "last": "2026-10-26T07:20:36.043318+00:00"
   },
   "S1572": {
    "title": "Leclerc says he is unlocking F1 2026 car, could have troubled Antonelli",
@@ -12093,9 +12085,61 @@
     "AS": "Otro tiro al palo en Ferrari"
    },
    "last": "2026-10-28T07:16:45.093358+00:00"
+  },
+  "S2227": {
+   "title": "Ayesha Curry stars in Roku holiday rom-com",
+   "first": "2026-10-28T07:26:48.038003+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T02:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ayesha Curry to star in holiday rom-com 'Second Chance Holiday,' premiering on Roku"
+   },
+   "last": "2026-10-28T07:26:48.038022+00:00"
+  },
+  "S2228": {
+   "title": "Newey admits Aston Martin high-rake design error",
+   "first": "2026-10-28T07:26:48.038029+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-28T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Flop Aston Martin, non solo Honda: Newey ammette un errore di fondo"
+   },
+   "last": "2026-10-28T07:26:48.038034+00:00"
+  },
+  "S2229": {
+   "title": "Wolff says Russell only half a second off Antonelli",
+   "first": "2026-10-28T07:26:48.038038+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-28T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Wolff su Russell: “Non è più lento di mezzo secondo rispetto ad Antonelli. E può vincere nel 2027”"
+   },
+   "last": "2026-10-28T07:26:48.038043+00:00"
+  },
+  "S2230": {
+   "title": "Andretti praises Antonelli after meeting in Austin paddock",
+   "first": "2026-10-28T07:26:48.038047+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-28T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Andretti esalta Antonelli: “Questo ragazzo è una cannonata”"
+   },
+   "last": "2026-10-28T07:26:48.038051+00:00"
   }
  },
- "story_seq": 2226,
+ "story_seq": 2230,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12214,17 +12258,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T07:16:38.155008+00:00",
+ "last_run": "2026-10-28T07:26:44.541733+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T07:16:55.325218+00:00",
-   "title": "Antonelli, Austin'de PR çekiminde Mercedes ile bariyere çarptı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-25T08:01:58.621861+00:00",
    "title": "Verstappen, Austin pistindeki hobbeleri sert sözlerle eleştirdi",
@@ -13484,6 +13523,21 @@
    "t": "2026-10-28T07:06:44.608090+00:00",
    "title": "Hadjar, Red Bull'da Verstappen'le zorlanıyor: \"Canı sıkılmaya başladı\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-28T07:26:57.789547+00:00",
+   "title": "Aston Martin, Newey'nin ana tasarım hatasını kabul etti",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-28T07:26:58.158907+00:00",
+   "title": "Wolff, Russell'ı savundu: \"Antonelli'den yarım saniye yavaş değil\"",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-28T07:26:58.529388+00:00",
+   "title": "Andretti, Antonelli'yi övdü: \"Bu genç bir cannonata\"",
+   "source": "FormulaPassion"
   }
  ]
 }
