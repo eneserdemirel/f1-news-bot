@@ -4569,7 +4569,11 @@
   "6952344d152a771a": "2026-10-28T12:07:49.409606+00:00",
   "48122fc084895e72": "2026-10-28T12:07:49.409606+00:00",
   "769ee3db2ae8c8c3": "2026-10-28T12:07:49.409606+00:00",
-  "230bdc5aa626fc31": "2026-10-28T12:07:49.409606+00:00"
+  "230bdc5aa626fc31": "2026-10-28T12:07:49.409606+00:00",
+  "fc459c2bebfd2a4a": "2026-10-28T12:17:45.530179+00:00",
+  "22e3085b157fd386": "2026-10-28T12:17:45.530179+00:00",
+  "bf47c885626cb5b6": "2026-10-28T12:17:45.530179+00:00",
+  "0217d791ff9dc3c3": "2026-10-28T12:17:45.530179+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4918,32 +4922,6 @@
     "Sky Sports F1": "Wolff rejects Marko's doubts over Russell's future F1 title hopes"
    },
    "last": "2026-10-27T16:04:53.430440+00:00"
-  },
-  "S1722": {
-   "title": "F1 2026 teammate qualifying and race head-to-head comparison",
-   "first": "2026-10-26T12:11:12.524803+00:00",
-   "sources": {
-    "Formula 1": "2026-10-26T12:11:12.524823+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "The 2026 Qualifying and race head-to-heads so far"
-   },
-   "last": "2026-10-26T12:11:12.524827+00:00"
-  },
-  "S1723": {
-   "title": "McLaren's 2026 points slump analysed against Red Bull, Ferrari and Mercedes",
-   "first": "2026-10-26T12:11:12.524832+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-26T12:03:20+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | McLaren, la crisi è nei numeri: 49 punti in quattro gare e Red Bull agganciata"
-   },
-   "last": "2026-10-26T12:11:12.524839+00:00"
   },
   "S1724": {
    "title": "Hamilton says Ferrari must improve before regularly fighting for wins",
@@ -11794,7 +11772,8 @@
     "RacingNews365 NL": "2026-10-28T09:00:00+00:00",
     "Auto Motor und Sport": "2026-10-28T09:02:40+00:00",
     "AS": "2026-10-28T09:50:33+00:00",
-    "PlanetF1": "2026-10-28T12:02:26+00:00"
+    "PlanetF1": "2026-10-28T12:02:26+00:00",
+    "Motorsport Week": "2026-10-28T12:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11804,9 +11783,10 @@
     "RacingNews365 NL": "Audi slaat slag met ervaren kracht uit Mercedes-hoek",
     "Auto Motor und Sport": "Formel 1: Audi verpflichtet Ex-Mercedes-Mann als neuen Motoren-Chef",
     "AS": "Audi suma un nuevo líder para la F1",
-    "PlanetF1": "Audi lands major signing in ex-Mercedes F1 engine chief"
+    "PlanetF1": "Audi lands major signing in ex-Mercedes F1 engine chief",
+    "Motorsport Week": "Audi names new CEO as debut F1 season comes to a close"
    },
-   "last": "2026-10-28T12:07:58.593292+00:00"
+   "last": "2026-10-28T12:17:50.826052+00:00"
   },
   "S2241": {
    "title": "Hadjar warned over Verstappen team orders after radio row",
@@ -12261,14 +12241,16 @@
    "title": "Hamilton pinpoints where he lost out in Verstappen fight",
    "first": "2026-10-28T11:07:40.337723+00:00",
    "sources": {
-    "RacingNews365": "2026-10-28T11:00:00+00:00"
+    "RacingNews365": "2026-10-28T11:00:00+00:00",
+    "GPblog": "2026-10-28T12:05:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Lewis Hamilton pinpoints where he lost out on 'awesome' Max Verstappen fight"
+    "RacingNews365": "Lewis Hamilton pinpoints where he lost out on 'awesome' Max Verstappen fight",
+    "GPblog": "Hamilton rues missing out on Verstappen battle: 'Would've been awesome'"
    },
-   "last": "2026-10-28T11:17:16.956891+00:00"
+   "last": "2026-10-28T12:17:50.826058+00:00"
   },
   "S2275": {
    "title": "F1 driver plans to launch a junior academy",
@@ -12477,9 +12459,35 @@
     "GPblog": "LN4 Fusion project handed massive boost with latest announcement"
    },
    "last": "2026-10-28T12:07:58.593308+00:00"
+  },
+  "S2291": {
+   "title": "Moon astronaut says F1 is ahead of NASA",
+   "first": "2026-10-28T12:17:50.826016+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T09:18:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'They smoke us': Why a moon astronaut thinks F1 is ahead of NASA"
+   },
+   "last": "2026-10-28T12:17:50.826034+00:00"
+  },
+  "S2292": {
+   "title": "Vanderbilt vs Kentucky live score",
+   "first": "2026-10-28T12:17:50.826040+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T08:59:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Vanderbilt vs. #12 Kentucky 28/10/26 - Mira Juego en vivo"
+   },
+   "last": "2026-10-28T12:17:50.826046+00:00"
   }
  },
- "story_seq": 2290,
+ "story_seq": 2292,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12598,17 +12606,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T12:07:49.409606+00:00",
+ "last_run": "2026-10-28T12:17:45.530179+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 15:00",
  "last_digest_at": "2026-10-28T12:08:05.541503+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T12:17:38.626537+00:00",
-   "title": "Hamilton: Red Bull'un motor avantajı rekabeti zorlaştırıyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-25T13:18:12.995428+00:00",
    "title": "COTA'nın Turn 1 kulübü ve ikinci pist planları",
@@ -13898,6 +13901,16 @@
    "t": "2026-10-28T12:08:05.541072+00:00",
    "title": "McLaren, Austin'deki zorlukların ardından yeni güncellemeler planlıyor",
    "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-10-28T12:17:56.622193+00:00",
+   "title": "Ay astronotu, F1'in NASA'nın önünde olduğunu düşünüyor",
+   "source": "ESPN F1"
+  },
+  {
+   "t": "2026-10-28T12:17:56.985156+00:00",
+   "title": "Audi yeni CEO'sunu açıkladı: Thomas Fuhr 1 Kasım'da göreve başlıyor",
+   "source": "Motorsport Week"
   }
  ]
 }
