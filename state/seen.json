@@ -4793,7 +4793,9 @@
   "88283808aed0fc3f": "2026-10-28T21:28:31.926052+00:00",
   "ab4ed61c37731145": "2026-10-28T21:28:31.926052+00:00",
   "37f97d72dc5d625a": "2026-10-28T21:28:31.926052+00:00",
-  "70976c86169e3d63": "2026-10-28T21:28:31.926052+00:00"
+  "70976c86169e3d63": "2026-10-28T21:28:31.926052+00:00",
+  "dce07f5efcf97809": "2026-10-28T21:38:32.079020+00:00",
+  "6399362c3f8872c8": "2026-10-28T21:38:32.079020+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4906,21 +4908,6 @@
     "Sky Sports F1": "Wolff rejects Marko's doubts over Russell's future F1 title hopes"
    },
    "last": "2026-10-27T16:04:53.430440+00:00"
-  },
-  "S1730": {
-   "title": "Ted Cruz booed on F1 podium at US Grand Prix",
-   "first": "2026-10-26T12:41:13.278131+00:00",
-   "sources": {
-    "Crash.net": "2026-10-26T12:34:51+00:00",
-    "GPFans": "2026-10-26T21:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Donald Trump ally Ted Cruz brutally booed on F1 podium after US Grand Prix",
-    "GPFans": "Donald Trump ally humiliated as F1 fans erupt in boos at US Grand Prix"
-   },
-   "last": "2026-10-26T21:32:43.880752+00:00"
   },
   "S1760": {
    "title": "Verstappen's new race engineer assessed after US GP",
@@ -12651,14 +12638,16 @@
    "title": "Brundle gives verdict on Piastri's struggles at Austin",
    "first": "2026-10-28T21:08:40.026414+00:00",
    "sources": {
-    "GPblog": "2026-10-28T21:02:00+00:00"
+    "GPblog": "2026-10-28T21:02:00+00:00",
+    "GPFans": "2026-10-28T21:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Brundle issues clear verdict on Oscar Piastri's ongoing struggles"
+    "GPblog": "Brundle issues clear verdict on Oscar Piastri's ongoing struggles",
+    "GPFans": "Martin Brundle makes 'painful' admission about Oscar Piastri F1 decline"
    },
-   "last": "2026-10-28T21:08:40.026419+00:00"
+   "last": "2026-10-28T21:38:34.655351+00:00"
   },
   "S2431": {
    "title": "Bournemouth vs. Aston Villa player stats (non-F1 match)",
@@ -12711,9 +12700,22 @@
     "ESPN F1": "Milan 2-4 Bologna (Oct 28, 2026) Player Stats"
    },
    "last": "2026-10-28T21:28:36.331525+00:00"
+  },
+  "S2435": {
+   "title": "Coach says Real Madrid undervalued due to Barcelona rivalry",
+   "first": "2026-10-28T21:38:34.655325+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T21:37:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Real Madrid undervalued due to 'worst enemy' Barcelona, coach insists"
+   },
+   "last": "2026-10-28T21:38:34.655342+00:00"
   }
  },
- "story_seq": 2434,
+ "story_seq": 2435,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12832,7 +12834,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T21:28:31.926052+00:00",
+ "last_run": "2026-10-28T21:38:32.079020+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
