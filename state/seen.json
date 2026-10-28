@@ -4777,7 +4777,10 @@
   "df6d1fbdf5b803c0": "2026-10-28T20:28:32.968899+00:00",
   "2ba4f9aff38bf7fc": "2026-10-28T20:38:33.535825+00:00",
   "bb623fed30246fce": "2026-10-28T20:38:33.535825+00:00",
-  "fd19e06ead723069": "2026-10-28T20:38:33.535825+00:00"
+  "fd19e06ead723069": "2026-10-28T20:38:33.535825+00:00",
+  "bb479cc0d6998701": "2026-10-28T20:48:34.950976+00:00",
+  "845add48c5d4d91c": "2026-10-28T20:48:34.950976+00:00",
+  "7f5168539828eaf7": "2026-10-28T20:48:34.950976+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10988,15 +10991,17 @@
    "first": "2026-10-28T12:37:17.647872+00:00",
    "sources": {
     "Formula 1": "2026-10-28T12:37:17.647886+00:00",
-    "RacingNews365": "2026-10-28T18:05:00+00:00"
+    "RacingNews365": "2026-10-28T18:05:00+00:00",
+    "GPFans": "2026-10-28T20:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Ricciardo opens up on the ‘humiliation’ he felt amid F1 exit",
-    "RacingNews365": "Daniel Ricciardo reflects on F1 exit 'humiliation' with surprise Red Bull stance"
+    "RacingNews365": "Daniel Ricciardo reflects on F1 exit 'humiliation' with surprise Red Bull stance",
+    "GPFans": "Daniel Ricciardo opens up on 'hiding from the humiliation' after F1 axe"
    },
-   "last": "2026-10-28T18:08:04.747172+00:00"
+   "last": "2026-10-28T20:48:37.747772+00:00"
   },
   "S2300": {
    "title": "Jeff Saturday on Colts trading Quenton Nelson",
@@ -12667,9 +12672,35 @@
     "ESPN F1": "Man City vs. Brighton (28 Oct, 2026) Live Score"
    },
    "last": "2026-10-28T20:38:37.426464+00:00"
+  },
+  "S2424": {
+   "title": "Rays' Drew Rasmussen to start World Series Game 5 on short rest",
+   "first": "2026-10-28T20:48:37.747736+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T20:05:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rays ace Drew Rasmussen to start World Series Game 5 on short rest"
+   },
+   "last": "2026-10-28T20:48:37.747752+00:00"
+  },
+  "S2425": {
+   "title": "Lyonnes vs. Inter Milan team stats",
+   "first": "2026-10-28T20:48:37.747759+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T20:03:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lyonnes vs. Inter Milan (Oct 28, 2026) Team Stats"
+   },
+   "last": "2026-10-28T20:48:37.747765+00:00"
   }
  },
- "story_seq": 2423,
+ "story_seq": 2425,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12788,7 +12819,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T20:38:33.535825+00:00",
+ "last_run": "2026-10-28T20:48:34.950976+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
