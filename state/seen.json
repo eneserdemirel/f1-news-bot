@@ -4582,7 +4582,10 @@
   "0eb98a699d419851": "2026-10-28T12:27:27.536589+00:00",
   "b0e390cc9de1f2fe": "2026-10-28T12:27:27.536589+00:00",
   "af4eabefe0a3a56e": "2026-10-28T12:27:27.536589+00:00",
-  "acc877651845c7a2": "2026-10-28T12:27:27.536589+00:00"
+  "acc877651845c7a2": "2026-10-28T12:27:27.536589+00:00",
+  "7955aba1cbeaf6af": "2026-10-28T12:37:12.709210+00:00",
+  "4fe9c8d262c1f8ab": "2026-10-28T12:37:12.709210+00:00",
+  "d4bd4299e3954fa9": "2026-10-28T12:37:12.709210+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4944,32 +4947,6 @@
     "GPblog": "Hamilton knows exactly what Ferrari need to become F1 title contenders in 2027"
    },
    "last": "2026-10-26T17:02:39.213815+00:00"
-  },
-  "S1726": {
-   "title": "Chelsea backs Mike Penders, says Xabi Alonso",
-   "first": "2026-10-26T12:31:11.772893+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T12:27:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chelsea will 'keep confidence' in Mike Penders - Xabi Alonso"
-   },
-   "last": "2026-10-26T12:31:11.772909+00:00"
-  },
-  "S1727": {
-   "title": "Feature on Austin GP and F1's growth in North America",
-   "first": "2026-10-26T12:31:11.772913+00:00",
-   "sources": {
-    "The Race": "2026-10-26T12:23:51+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "US GP struggled before. Now Austin is the image of F1's growth"
-   },
-   "last": "2026-10-26T12:31:11.772917+00:00"
   },
   "S1728": {
    "title": "Rays look to Junior Caminero's bat and leadership in World Series",
@@ -11684,15 +11661,17 @@
    "first": "2026-10-28T07:36:47.556059+00:00",
    "sources": {
     "GPblog": "2026-10-28T07:30:00+00:00",
-    "RacingNews365 NL": "2026-10-28T08:30:00+00:00"
+    "RacingNews365 NL": "2026-10-28T08:30:00+00:00",
+    "RacingNews365": "2026-10-28T12:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Antonelli reveals whether he will use No. 1 after winning maiden F1 title",
-    "RacingNews365 NL": "Antonelli wijkt af van Verstappen met zeldzaam besluit"
+    "RacingNews365 NL": "Antonelli wijkt af van Verstappen met zeldzaam besluit",
+    "RacingNews365": "Kimi Antonelli reveals if he will choose driver number '1' as F1 champion"
    },
-   "last": "2026-10-28T12:07:58.593325+00:00"
+   "last": "2026-10-28T12:37:17.647910+00:00"
   },
   "S2235": {
    "title": "Retrospective on Verstappen's 2024 Mexico penalty and Norris title fight",
@@ -12561,9 +12540,35 @@
     "FormulaPassion": "Antonelli-Russell come Hamilton-Rosberg? In Messico potrebbero eguagliare il record di podi consecutivi del 2014"
    },
    "last": "2026-10-28T12:27:32.288784+00:00"
+  },
+  "S2299": {
+   "title": "Ricciardo opens up on humiliation over F1 exit",
+   "first": "2026-10-28T12:37:17.647872+00:00",
+   "sources": {
+    "Formula 1": "2026-10-28T12:37:17.647886+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Ricciardo opens up on the ‘humiliation’ he felt amid F1 exit"
+   },
+   "last": "2026-10-28T12:37:17.647890+00:00"
+  },
+  "S2300": {
+   "title": "Jeff Saturday on Colts trading Quenton Nelson",
+   "first": "2026-10-28T12:37:17.647896+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T12:22:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Jeff Saturday is not surprised about Colts trading Quenton Nelson"
+   },
+   "last": "2026-10-28T12:37:17.647902+00:00"
   }
  },
- "story_seq": 2298,
+ "story_seq": 2300,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12682,7 +12687,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T12:27:27.536589+00:00",
+ "last_run": "2026-10-28T12:37:12.709210+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 15:00",
@@ -13997,6 +14002,11 @@
    "t": "2026-10-28T12:27:37.676356+00:00",
    "title": "Schumacher: Hadjar, Marko'nun ayrılmasıyla şanslı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-28T12:37:21.413069+00:00",
+   "title": "Ricciardo, F1'den ayrılışındaki 'aşağılanma' hissini anlatıyor",
+   "source": "Formula 1"
   }
  ]
 }
