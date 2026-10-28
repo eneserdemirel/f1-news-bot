@@ -4443,7 +4443,10 @@
   "db0756258238e89b": "2026-10-28T08:06:38.304000+00:00",
   "e59c4aacabca4c12": "2026-10-28T08:06:38.304000+00:00",
   "244657db6f84bd5f": "2026-10-28T08:06:38.304000+00:00",
-  "360ff5c3b4390d76": "2026-10-28T08:06:38.304000+00:00"
+  "360ff5c3b4390d76": "2026-10-28T08:06:38.304000+00:00",
+  "2e69b52315da24af": "2026-10-28T08:16:36.969746+00:00",
+  "53ffffa0a64f5a88": "2026-10-28T08:16:36.969746+00:00",
+  "567d292441289f29": "2026-10-28T08:16:36.969746+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4770,19 +4773,6 @@
     "GPblog": "Leclerc reveals what makes Verstappen so difficult to fight: 'Max is an animal on track'"
    },
    "last": "2026-10-26T17:02:39.213797+00:00"
-  },
-  "S1677": {
-   "title": "RacingNews365 analysis of Verstappen's failed two-stop strategy at Austin",
-   "first": "2026-10-26T08:10:22.753917+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-26T08:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Geïrriteerde Verstappen fileert Red Bull-plan in Austin"
-   },
-   "last": "2026-10-26T08:10:22.753923+00:00"
   },
   "S1678": {
    "title": "ESPN NFL Week 7 winners and losers column",
@@ -12234,14 +12224,16 @@
    "title": "Audi appoints significant senior figure to F1 project",
    "first": "2026-10-28T08:06:43.389334+00:00",
    "sources": {
-    "RacingNews365": "2026-10-28T08:00:00+00:00"
+    "RacingNews365": "2026-10-28T08:00:00+00:00",
+    "Motorsport-Total": "2026-10-28T08:04:46+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Audi make significant senior appointment as debut F1 season nears end"
+    "RacingNews365": "Audi make significant senior appointment as debut F1 season nears end",
+    "Motorsport-Total": "Formel-1-Motorenabteilung von Audi bekommt neuen Geschäftsführer - Motorsport-Total.com"
    },
-   "last": "2026-10-28T08:06:43.389339+00:00"
+   "last": "2026-10-28T08:16:41.290376+00:00"
   },
   "S2241": {
    "title": "Hadjar warned over Verstappen team orders after radio row",
@@ -12281,9 +12273,24 @@
     "Motorsport-Total": "Fotostrecke: Die Motoren der Formel 1 von 1950 bis 2030 - Motorsport-Total.com"
    },
    "last": "2026-10-28T08:06:43.389363+00:00"
+  },
+  "S2244": {
+   "title": "FIA and AWS partnership to use AI in F1 regulation design",
+   "first": "2026-10-28T08:16:41.290342+00:00",
+   "sources": {
+    "The Race": "2026-10-28T08:06:40+00:00",
+    "Autosport": "2026-10-28T08:00:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "AI will help design future F1 cars in new FIA/AWS deal",
+    "Autosport": "FIA announces new partnership to help drive future F1 regulations"
+   },
+   "last": "2026-10-28T08:16:41.290370+00:00"
   }
  },
- "story_seq": 2243,
+ "story_seq": 2244,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12402,17 +12409,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T08:06:38.304000+00:00",
+ "last_run": "2026-10-28T08:16:36.969746+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T08:08:08.320861+00:00",
-   "title": "Bortoleto, ABD GP'de 80 sıra cezası aldı, grid'in en sonundan başlayacak",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-25T08:18:17.463762+00:00",
    "title": "Verstappen ve Antonelli'nin ABD GP'de şampiyonluk mücadelesi, Viaplay'de canlı izleme",
@@ -13702,6 +13704,11 @@
    "t": "2026-10-28T08:06:51.279463+00:00",
    "title": "Hadjar, Red Bull radyo tartışması sonrası Verstappen takım emri konusunda uyarılabilir",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-28T08:16:44.877799+00:00",
+   "title": "FIA ile AWS arasındaki yeni anlaşmayla yapay zeka gelecekteki F1 araçlarının tasarımında yer alacak",
+   "source": "The Race"
   }
  ]
 }
