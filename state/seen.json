@@ -4585,7 +4585,9 @@
   "acc877651845c7a2": "2026-10-28T12:27:27.536589+00:00",
   "7955aba1cbeaf6af": "2026-10-28T12:37:12.709210+00:00",
   "4fe9c8d262c1f8ab": "2026-10-28T12:37:12.709210+00:00",
-  "d4bd4299e3954fa9": "2026-10-28T12:37:12.709210+00:00"
+  "d4bd4299e3954fa9": "2026-10-28T12:37:12.709210+00:00",
+  "19679ee402352245": "2026-10-28T12:47:14.567849+00:00",
+  "c3f15aabdeb1bb6c": "2026-10-28T12:47:14.567849+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4871,19 +4873,6 @@
    },
    "last": "2026-10-27T07:03:23.636453+00:00"
   },
-  "S1707": {
-   "title": "Motorsport-Total publishes Austin driver ratings with Marc Surer",
-   "first": "2026-10-26T11:21:12.229325+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-26T11:15:48+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Fotostrecke: Austin: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
-   },
-   "last": "2026-10-26T12:41:13.278144+00:00"
-  },
   "S1714": {
    "title": "Colapinto responds to Clarkson's US GP nationality comments",
    "first": "2026-10-26T11:41:16.847523+00:00",
@@ -4948,32 +4937,6 @@
    },
    "last": "2026-10-26T17:02:39.213815+00:00"
   },
-  "S1728": {
-   "title": "Rays look to Junior Caminero's bat and leadership in World Series",
-   "first": "2026-10-26T12:41:13.278094+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T11:21:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rays looking to Junior Caminero's bat, leadership in World Series"
-   },
-   "last": "2026-10-26T12:41:13.278113+00:00"
-  },
-  "S1729": {
-   "title": "James Trafford tipped as No.1 by Leeds boss",
-   "first": "2026-10-26T12:41:13.278117+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T10:46:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "New England No.1? James Trafford tipped by Leeds boss"
-   },
-   "last": "2026-10-26T12:41:13.278122+00:00"
-  },
   "S1730": {
    "title": "Ted Cruz booed on F1 podium at US Grand Prix",
    "first": "2026-10-26T12:41:13.278131+00:00",
@@ -4988,19 +4951,6 @@
     "GPFans": "Donald Trump ally humiliated as F1 fans erupt in boos at US Grand Prix"
    },
    "last": "2026-10-26T21:32:43.880752+00:00"
-  },
-  "S1731": {
-   "title": "Gazzetta column: Antonelli dominates while midfield battles intensify",
-   "first": "2026-10-26T12:41:13.278136+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-26T12:37:03+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Il paradosso della F1: Antonelli domina ma dietro è bagarre totale! Che Mondiale sarebbe senza Kimi?"
-   },
-   "last": "2026-10-26T12:41:13.278139+00:00"
   },
   "S1732": {
    "title": "ESPN NFL Week 7 preview column (not F1)",
@@ -12566,9 +12516,35 @@
     "ESPN F1": "Why Jeff Saturday is not surprised about Colts trading Quenton Nelson"
    },
    "last": "2026-10-28T12:37:17.647902+00:00"
+  },
+  "S2301": {
+   "title": "The Cong-Viettel vs FC Seoul live score",
+   "first": "2026-10-28T12:47:16.558774+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T12:40:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The Cong-Viettel vs. FC Seoul (28 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-28T12:47:16.558793+00:00"
+  },
+  "S2302": {
+   "title": "Ranking the top 25 NFL trade deadline candidates",
+   "first": "2026-10-28T12:47:16.558799+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T11:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits"
+   },
+   "last": "2026-10-28T12:47:16.558805+00:00"
   }
  },
- "story_seq": 2300,
+ "story_seq": 2302,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12687,7 +12663,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T12:37:12.709210+00:00",
+ "last_run": "2026-10-28T12:47:14.567849+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 15:00",
