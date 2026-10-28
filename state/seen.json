@@ -4459,7 +4459,11 @@
   "2f878f30a3fe8f2c": "2026-10-28T08:56:37.420910+00:00",
   "d3b0fbe918f69380": "2026-10-28T08:57:18.803781+00:00",
   "dd551b38cde412d2": "2026-10-28T08:57:18.803781+00:00",
-  "e1de3dbfd1035eab": "2026-10-28T08:57:18.803781+00:00"
+  "e1de3dbfd1035eab": "2026-10-28T08:57:18.803781+00:00",
+  "7ae23e67fd12ec7a": "2026-10-28T09:07:12.401086+00:00",
+  "8e7b51c9ede8989f": "2026-10-28T09:07:12.401086+00:00",
+  "23d213be3976d4e6": "2026-10-28T09:07:12.401086+00:00",
+  "e940861ded0bdd45": "2026-10-28T09:07:12.401086+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12121,15 +12125,19 @@
    "first": "2026-10-28T08:06:43.389334+00:00",
    "sources": {
     "RacingNews365": "2026-10-28T08:00:00+00:00",
-    "Motorsport-Total": "2026-10-28T08:04:46+00:00"
+    "Motorsport-Total": "2026-10-28T08:04:46+00:00",
+    "RacingNews365 NL": "2026-10-28T09:00:00+00:00",
+    "Auto Motor und Sport": "2026-10-28T09:02:40+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Audi make significant senior appointment as debut F1 season nears end",
-    "Motorsport-Total": "Formel-1-Motorenabteilung von Audi bekommt neuen Geschäftsführer - Motorsport-Total.com"
+    "Motorsport-Total": "Formel-1-Motorenabteilung von Audi bekommt neuen Geschäftsführer - Motorsport-Total.com",
+    "RacingNews365 NL": "Audi slaat slag met ervaren kracht uit Mercedes-hoek",
+    "Auto Motor und Sport": "Formel 1: Audi verpflichtet Ex-Mercedes-Mann als neuen Motoren-Chef"
    },
-   "last": "2026-10-28T08:16:41.290376+00:00"
+   "last": "2026-10-28T09:07:20.583340+00:00"
   },
   "S2241": {
    "title": "Hadjar warned over Verstappen team orders after radio row",
@@ -12277,9 +12285,35 @@
     "ESPN F1": "Wild 3-1 Mammoth (Oct 27, 2026) Game Recap"
    },
    "last": "2026-10-28T08:57:20.615813+00:00"
+  },
+  "S2252": {
+   "title": "Mekies responds to Verstappen's 'not agreed' strategy claim",
+   "first": "2026-10-28T09:07:20.583318+00:00",
+   "sources": {
+    "GPblog": "2026-10-28T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mekies responds to Verstappen's 'not agreed' claim with clear verdict"
+   },
+   "last": "2026-10-28T09:07:20.583325+00:00"
+  },
+  "S2253": {
+   "title": "UK government travel advice on Middle East GPs affects calendar",
+   "first": "2026-10-28T09:07:20.583329+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-10-28T09:01:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Allerta in Formula 1 per i Gp mediorientali: cosa cambia con una gara in meno per Antonelli e cosa c’entra Imola"
+   },
+   "last": "2026-10-28T09:07:20.583334+00:00"
   }
  },
- "story_seq": 2251,
+ "story_seq": 2253,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12398,17 +12432,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T08:57:18.803781+00:00",
+ "last_run": "2026-10-28T09:07:12.401086+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
  "last_digest_at": "2026-10-27T19:05:41.879311+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T08:58:20.043409+00:00",
-   "title": "Marko, Horner'ın kitabını sert eleştirdi ve kişisel bir iddiayı yanıtladı",
-   "source": "GPFans"
-  },
   {
    "t": "2026-10-25T09:18:18.566339+00:00",
    "title": "Russell, COTA sıralamasında çığ gibi büyüyen hataları anlattı",
@@ -13693,6 +13722,21 @@
    "t": "2026-10-28T08:46:48.302015+00:00",
    "title": "Gasly, Bearman ile temasa rağmen hasarlı Alpine ile puan aldı",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-28T09:07:46.701879+00:00",
+   "title": "Audi, Thomas Fuhr'u F1 krachtbron ekibinin yeni CEO'su olarak atadı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-28T09:07:47.113286+00:00",
+   "title": "Mekies, Verstappen'in 'strateji anlaşılmadı' iddiasına yanıt verdi",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-28T09:07:47.559759+00:00",
+   "title": "Orta Doğu GP'leri için F1'de alarm: Antonelli'nin kazanımı ve İmola'nın rolü",
+   "source": "Corriere dello Sport"
   }
  ]
 }
