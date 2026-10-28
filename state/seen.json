@@ -4450,7 +4450,10 @@
   "75bc7dc73dbf7550": "2026-10-28T08:26:39.489734+00:00",
   "f81e4ef13f29f72a": "2026-10-28T08:26:39.489734+00:00",
   "50d770025d0b39f0": "2026-10-28T08:36:38.176073+00:00",
-  "83e7d33f57aa13b8": "2026-10-28T08:36:38.176073+00:00"
+  "83e7d33f57aa13b8": "2026-10-28T08:36:38.176073+00:00",
+  "dd997638b5218595": "2026-10-28T08:46:37.210130+00:00",
+  "9363ed45d96f0932": "2026-10-28T08:46:37.210130+00:00",
+  "c489b75a9b0120eb": "2026-10-28T08:46:37.210130+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4771,32 +4774,6 @@
     "ESPN F1": "Jermaine Pennant hospitalised by dog attack"
    },
    "last": "2026-10-26T08:50:21.205201+00:00"
-  },
-  "S1684": {
-   "title": "Kieron Pollard opts out of SA20 Joburg Super Kings deal",
-   "first": "2026-10-26T08:40:20.739494+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T08:32:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "SA20: Pollard opts out of Joburg Super Kings deal"
-   },
-   "last": "2026-10-26T08:40:20.739511+00:00"
-  },
-  "S1685": {
-   "title": "Fittipaldi praises Antonelli's pressure handling and inspiring potential",
-   "first": "2026-10-26T08:40:20.739517+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-26T08:36:59+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Fittipaldi: \"Kimi veloce e bravo sotto pressione. Ispirerà i bambini, come feci io con Piquet, Senna e...\""
-   },
-   "last": "2026-10-26T08:40:20.739523+00:00"
   },
   "S1686": {
    "title": "Vasseur says Ferrari lost Austin win in qualifying, regrets it",
@@ -10336,7 +10313,7 @@
    "titles": {
     "GPFans": "Kimi Antonelli set for big payday bonus as F1 championship looms"
    },
-   "last": "2026-10-27T17:45:36.201440+00:00"
+   "last": "2026-10-28T08:46:43.128220+00:00"
   },
   "S2102": {
    "title": "Alpine trailing as best of the rest in 2026",
@@ -11114,15 +11091,17 @@
    "first": "2026-10-27T21:25:40.595747+00:00",
    "sources": {
     "GPblog": "2026-10-27T21:15:00+00:00",
-    "GPFans": "2026-10-28T07:15:00+00:00"
+    "GPFans": "2026-10-28T07:15:00+00:00",
+    "PlanetF1": "2026-10-28T08:44:53+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "F1 Today: Verstappen enjoys big financial boost as Russell sits out in Mexico",
-    "GPFans": "Max Verstappen's staggering fortune revealed as F1 star climbs wealth rankings"
+    "GPFans": "Max Verstappen's staggering fortune revealed as F1 star climbs wealth rankings",
+    "PlanetF1": "George Russell to miss Mexican Grand Prix FP1 as Vesti steps in"
    },
-   "last": "2026-10-28T07:16:45.093341+00:00"
+   "last": "2026-10-28T08:46:43.128213+00:00"
   },
   "S2162": {
    "title": "ESPN NFL trade deadline grades including Quenton Nelson deal",
@@ -12225,9 +12204,22 @@
     "ESPN F1": "Brazil vs. Poland (28 Oct, 2026) Live Score"
    },
    "last": "2026-10-28T08:36:42.433462+00:00"
+  },
+  "S2246": {
+   "title": "Gasly scores points despite damage from Bearman contact in Austin",
+   "first": "2026-10-28T08:46:43.128185+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-28T08:40:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Alpine: Gasly a punti nonostante i tanti danni nel contatto con Bearman. 10 i punti di carico persi"
+   },
+   "last": "2026-10-28T08:46:43.128203+00:00"
   }
  },
- "story_seq": 2245,
+ "story_seq": 2246,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12346,7 +12338,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T08:36:38.176073+00:00",
+ "last_run": "2026-10-28T08:46:37.210130+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
@@ -13636,6 +13628,11 @@
    "t": "2026-10-28T08:16:44.877799+00:00",
    "title": "FIA ile AWS arasındaki yeni anlaşmayla yapay zeka gelecekteki F1 araçlarının tasarımında yer alacak",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-28T08:46:48.302015+00:00",
+   "title": "Gasly, Bearman ile temasa rağmen hasarlı Alpine ile puan aldı",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
