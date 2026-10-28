@@ -4780,7 +4780,11 @@
   "fd19e06ead723069": "2026-10-28T20:38:33.535825+00:00",
   "bb479cc0d6998701": "2026-10-28T20:48:34.950976+00:00",
   "845add48c5d4d91c": "2026-10-28T20:48:34.950976+00:00",
-  "7f5168539828eaf7": "2026-10-28T20:48:34.950976+00:00"
+  "7f5168539828eaf7": "2026-10-28T20:48:34.950976+00:00",
+  "7fecc6dd7912d186": "2026-10-28T20:58:38.344581+00:00",
+  "4ff0274ebe038de4": "2026-10-28T20:58:38.344581+00:00",
+  "fde7ea111f69bf05": "2026-10-28T20:58:38.344581+00:00",
+  "49c6fc5b9979e307": "2026-10-28T20:58:38.344581+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5005,19 +5009,6 @@
     "ESPN F1": "Sevilla vs. Osasuna (Oct 26, 2026) Team Stats"
    },
    "last": "2026-10-27T00:02:43.443487+00:00"
-  },
-  "S1853": {
-   "title": "Cadillac F1 owner Mark Walter seeking $700m for LA Sparks",
-   "first": "2026-10-26T20:52:43.932157+00:00",
-   "sources": {
-    "GPFans": "2026-10-26T20:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 team owner looking to sell franchise for record $700m"
-   },
-   "last": "2026-10-26T20:52:43.932179+00:00"
   },
   "S1854": {
    "title": "Kirk Cousins to remain Raiders' starting QB vs. Jets",
@@ -12698,9 +12689,48 @@
     "ESPN F1": "Lyonnes vs. Inter Milan (Oct 28, 2026) Team Stats"
    },
    "last": "2026-10-28T20:48:37.747765+00:00"
+  },
+  "S2426": {
+   "title": "Mason & Ireland show segment on flopping fouls",
+   "first": "2026-10-28T20:58:41.319376+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T20:54:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mason & Ireland - HR 1: Flopping Fouls"
+   },
+   "last": "2026-10-28T20:58:41.319395+00:00"
+  },
+  "S2427": {
+   "title": "Bournemouth vs. Aston Villa team stats",
+   "first": "2026-10-28T20:58:41.319403+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T20:00:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bournemouth vs. Aston Villa (Oct 28, 2026) Team Stats"
+   },
+   "last": "2026-10-28T20:58:41.319410+00:00"
+  },
+  "S2428": {
+   "title": "Vowles admits 2027 car work set Williams back this season",
+   "first": "2026-10-28T20:58:41.319415+00:00",
+   "sources": {
+    "AS": "2026-10-28T20:53:01+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "El sacrificio de Williams"
+   },
+   "last": "2026-10-28T20:58:41.319420+00:00"
   }
  },
- "story_seq": 2425,
+ "story_seq": 2428,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12819,17 +12849,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T20:48:34.950976+00:00",
+ "last_run": "2026-10-28T20:58:38.344581+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
  "last_digest_at": "2026-10-28T19:08:08.108435+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T20:53:54.079688+00:00",
-   "title": "Verstappen, Red Bull'un Hadjar stratejisini eleştirdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-25T21:44:07.252036+00:00",
    "title": "Antonelli ABD GP'yi kazandı ama şampiyonluk için bekleyiş sürüyor",
@@ -14269,6 +14294,11 @@
    "t": "2026-10-28T20:08:44.817914+00:00",
    "title": "Ferrari, Meksika FP1'de Beganovic'i sahaya sürüyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-28T20:58:45.335441+00:00",
+   "title": "Williams, 2027 için yapılan çalışmalar nedeniyle bu sezon geriledi",
+   "source": "AS"
   }
  ]
 }
