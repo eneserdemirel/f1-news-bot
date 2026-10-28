@@ -4411,7 +4411,9 @@
   "e2b375d66667e3e4": "2026-10-28T06:36:36.980036+00:00",
   "c24d199f4f72011b": "2026-10-28T06:46:41.152370+00:00",
   "6680fb5005799bbc": "2026-10-28T06:56:38.345691+00:00",
-  "9d2a3d0e714cb1e4": "2026-10-28T06:56:38.345691+00:00"
+  "9d2a3d0e714cb1e4": "2026-10-28T06:56:38.345691+00:00",
+  "929a705856b0c615": "2026-10-28T07:06:36.114202+00:00",
+  "7fdce052d338f39a": "2026-10-28T07:06:36.114202+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4513,33 +4515,6 @@
     "FormulaPassion": "Russell, penalità troppo severa? Gli steward non ci stanno: “Abbiamo considerato anche le attenuanti”"
    },
    "last": "2026-10-26T17:32:37.629046+00:00"
-  },
-  "S1533": {
-   "title": "Italian analysis of Antonelli title combinations in Mexico",
-   "first": "2026-10-25T21:43:59.879844+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-10-25T21:40:12+00:00",
-    "RacingNews365": "2026-10-25T21:45:00+00:00",
-    "GPblog": "2026-10-25T21:59:00+00:00",
-    "FormulaPassion": "2026-10-25T22:05:00+00:00",
-    "Autosport": "2026-10-25T22:31:48+00:00",
-    "Crash.net": "2026-10-25T22:34:00+00:00",
-    "Motorsport-Total": "2026-10-26T06:11:25+00:00",
-    "Sky Sports F1": "2026-10-26T01:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Antonelli campione del Mondo in Messico se... Tutte le combinazioni per il trionfo di Kimi",
-    "RacingNews365": "How Kimi Antonelli can win the F1 title in Mexican Grand Prix",
-    "GPblog": "F1 title within reach: What Antonelli needs to become champion in Mexico",
-    "FormulaPassion": "In Messico basteranno due punti ad Antonelli per festeggiare il titolo Mondiale Piloti",
-    "Autosport": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
-    "Crash.net": "How Kimi Antonelli can become F1 world champion at the Mexico City Grand Prix",
-    "Motorsport-Total": "So kann Kimi Antonelli schon in Mexiko Formel-1-Weltmeister werden - Motorsport-Total.com",
-    "Sky Sports F1": "How Antonelli can win world title at Mexico City GP"
-   },
-   "last": "2026-10-26T07:05:19.879521+00:00"
   },
   "S1542": {
    "title": "Explainer on when Antonelli can clinch 2026 title",
@@ -4823,19 +4798,6 @@
     "Motorsport Week": "Toto Wolff hails Kimi Antonelli’s ‘race of a champion’ as Mercedes chase Russell’s struggles"
    },
    "last": "2026-10-26T15:32:15.072571+00:00"
-  },
-  "S1672": {
-   "title": "Autosport analysis of two recurring Verstappen and Red Bull issues in Austin",
-   "first": "2026-10-26T07:00:19.330010+00:00",
-   "sources": {
-    "Autosport": "2026-10-26T06:57:41+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP"
-   },
-   "last": "2026-10-26T07:00:19.330028+00:00"
   },
   "S1673": {
    "title": "Antonelli explains 'blocking out the noise' approach to title push",
@@ -12115,9 +12077,35 @@
     "ESPN F1": "Sacramento Kings vs. San Antonio Spurs: Game Highlights"
    },
    "last": "2026-10-28T06:56:41.603217+00:00"
+  },
+  "S2222": {
+   "title": "Trail Blazers 136-129 Lakers game recap",
+   "first": "2026-10-28T07:06:39.005791+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T06:17:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Trail Blazers 136-129 Lakers (Oct 27, 2026) Game Recap"
+   },
+   "last": "2026-10-28T07:06:39.005808+00:00"
+  },
+  "S2223": {
+   "title": "Dutch analysis of Hadjar's frustrating US GP and Verstappen comparison",
+   "first": "2026-10-28T07:06:39.005814+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-28T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Hadjar worstelt met Verstappen bij Red Bull: \"Begint te knagen\""
+   },
+   "last": "2026-10-28T07:06:39.005820+00:00"
   }
  },
- "story_seq": 2221,
+ "story_seq": 2223,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12236,7 +12224,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T06:56:38.345691+00:00",
+ "last_run": "2026-10-28T07:06:36.114202+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
@@ -13506,6 +13494,11 @@
    "t": "2026-10-28T06:06:51.708153+00:00",
    "title": "McLaren, Piastri'ye Norris'i geçirme talimatının nedenini açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-28T07:06:44.608090+00:00",
+   "title": "Hadjar, Red Bull'da Verstappen'le zorlanıyor: \"Canı sıkılmaya başladı\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
