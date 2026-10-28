@@ -4431,7 +4431,8 @@
   "1d9c55a08b0559b0": "2026-10-28T07:36:41.946206+00:00",
   "2003dc2485bc0ad0": "2026-10-28T07:36:41.946206+00:00",
   "b8034887743b5b89": "2026-10-28T07:36:41.946206+00:00",
-  "964859d54ad416d3": "2026-10-28T07:36:41.946206+00:00"
+  "964859d54ad416d3": "2026-10-28T07:36:41.946206+00:00",
+  "b733e515e4a6232e": "2026-10-28T07:46:38.133600+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4773,19 +4774,6 @@
     "GPblog": "Leclerc reveals what makes Verstappen so difficult to fight: 'Max is an animal on track'"
    },
    "last": "2026-10-26T17:02:39.213797+00:00"
-  },
-  "S1676": {
-   "title": "Data suggests alternative Ferrari strategy could have challenged Antonelli",
-   "first": "2026-10-26T07:40:19.060466+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-26T07:36:15+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Data reveals genius Ferrari call at United States GP"
-   },
-   "last": "2026-10-26T07:40:19.060485+00:00"
   },
   "S1677": {
    "title": "RacingNews365 analysis of Verstappen's failed two-stop strategy at Austin",
@@ -12180,9 +12168,22 @@
     "GPblog": "Antonelli reveals whether he will use No. 1 after winning maiden F1 title"
    },
    "last": "2026-10-28T07:36:47.556063+00:00"
+  },
+  "S2235": {
+   "title": "Retrospective on Verstappen's 2024 Mexico penalty and Norris title fight",
+   "first": "2026-10-28T07:46:40.517203+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-28T07:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen dubbel op de vingers getikt, Norris slaat flinke slag in titelstrijd - terugblik"
+   },
+   "last": "2026-10-28T07:46:40.517222+00:00"
   }
  },
- "story_seq": 2234,
+ "story_seq": 2235,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12301,7 +12302,7 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T07:36:41.946206+00:00",
+ "last_run": "2026-10-28T07:46:38.133600+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-27 22:00",
@@ -13586,6 +13587,11 @@
    "t": "2026-10-28T07:36:55.608883+00:00",
    "title": "Hamilton, Ferrari rakiplerinin sıralamada gizli hız sakladığına inanıyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-28T07:46:44.496888+00:00",
+   "title": "Verstappen'e 2024 Meksika GP'de çifte tıkanma cezası verildi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
