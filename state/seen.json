@@ -4662,7 +4662,9 @@
   "ebbfa28e7d4a16a9": "2026-10-28T15:37:58.621848+00:00",
   "26ee665684684c7c": "2026-10-28T15:37:58.621848+00:00",
   "8e50c627333462ea": "2026-10-28T15:37:58.621848+00:00",
-  "98223bd872807d6b": "2026-10-28T15:37:58.621848+00:00"
+  "98223bd872807d6b": "2026-10-28T15:37:58.621848+00:00",
+  "85320d00cf2dd32f": "2026-10-28T15:47:58.196561+00:00",
+  "3913bb7d6135a3c7": "2026-10-28T15:47:58.196561+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -4945,19 +4947,6 @@
     "Motorsport Week": "‘I was praying’: Norris rues safety car timing after Austin one-stop gamble"
    },
    "last": "2026-10-26T17:22:08.497917+00:00"
-  },
-  "S1741": {
-   "title": "Gary Neville says some Man United players aren't professional",
-   "first": "2026-10-26T13:31:17.919616+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-26T11:14:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gary Neville: 'Some Man United players aren't that professional'"
-   },
-   "last": "2026-10-26T15:42:10.051707+00:00"
   },
   "S1744": {
    "title": "Wolff reflects on Antonelli's rise and defends him from critics",
@@ -12595,9 +12584,35 @@
     "RacingNews365": "Max Verstappen delivers 'average' Red Bull verdict after US GP struggle"
    },
    "last": "2026-10-28T15:38:03.360914+00:00"
+  },
+  "S2350": {
+   "title": "Verstappen says Red Bull Mexico performance hard to predict",
+   "first": "2026-10-28T15:48:00.341553+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-28T15:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen waarschuwt voor lastige GP Mexico"
+   },
+   "last": "2026-10-28T15:48:00.341572+00:00"
+  },
+  "S2351": {
+   "title": "Analysis: Red Bull launch weakness could hurt Verstappen in Mexico",
+   "first": "2026-10-28T15:48:00.341576+00:00",
+   "sources": {
+    "GPblog": "2026-10-28T15:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Red Bull's unfixable problem could hurt Verstappen more in Mexico than anywhere else"
+   },
+   "last": "2026-10-28T15:48:00.341580+00:00"
   }
  },
- "story_seq": 2349,
+ "story_seq": 2351,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12716,17 +12731,12 @@
   ]
  ],
  "calendar_updated": "2026-10-27T22:15:17.781356+00:00",
- "last_run": "2026-10-28T15:37:58.621848+00:00",
+ "last_run": "2026-10-28T15:47:58.196561+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 15:00",
  "last_digest_at": "2026-10-28T12:08:05.541503+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-25T15:38:16.599448+00:00",
-   "title": "Verstappen, Antonelli'nin yaşına rağmen gösterdiği başarıyı övdü",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-25T15:58:15.979102+00:00",
    "title": "Ferrari ve Red Bull, Austin'de birbirlerine her zamankinden yakın",
@@ -14106,6 +14116,11 @@
    "t": "2026-10-28T15:38:10.097173+00:00",
    "title": "Verstappen, ABD GP'deki kötü performansı için \"ortalama\" değerlendirmesi yaptı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-28T15:48:07.223742+00:00",
+   "title": "Verstappen, Meksika GP'sinin zorlu olacağını uyarıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
