@@ -5074,7 +5074,9 @@
   "64f73c37b0448c71": "2026-10-29T12:30:53.056042+00:00",
   "745db43343f06291": "2026-10-29T12:30:53.056042+00:00",
   "5d45ebf7838d2017": "2026-10-29T12:30:53.056042+00:00",
-  "8676b0890972ccc1": "2026-10-29T12:30:53.056042+00:00"
+  "8676b0890972ccc1": "2026-10-29T12:30:53.056042+00:00",
+  "f894db37d93e33b2": "2026-10-29T12:40:55.104119+00:00",
+  "1a9b3fe9e9e449d8": "2026-10-29T12:40:55.104119+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5420,19 +5422,6 @@
     "FormulaPassion": "Fondo, deflettori e bargeboard distrutti: ecco come era ridotta la macchina di Alonso ad Austin"
    },
    "last": "2026-10-27T17:24:53.675086+00:00"
-  },
-  "S2012": {
-   "title": "Will Buxton rumour on Cadillac's 2027 F1 driver line-up",
-   "first": "2026-10-27T12:34:52.353764+00:00",
-   "sources": {
-    "Crash.net": "2026-10-27T12:32:48+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Will Buxton shares F1 rumour amid ongoing Cadillac 2027 driver mystery"
-   },
-   "last": "2026-10-27T12:34:52.353781+00:00"
   },
   "S2013": {
    "title": "Bearman says he doesn't regret US GP collision move",
@@ -13898,9 +13887,35 @@
     "GPblog": "'MotoGP riders demand guarantees for Qatar GP as decision looms'"
    },
    "last": "2026-10-29T12:30:59.012085+00:00"
+  },
+  "S2648": {
+   "title": "RacingNews365 seeks new editor-in-chief job vacancy",
+   "first": "2026-10-29T12:40:59.361085+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T12:36:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Vacature: Hoofdredacteur RacingNews365"
+   },
+   "last": "2026-10-29T12:40:59.361103+00:00"
+  },
+  "S2649": {
+   "title": "Horner warned he is tarnishing his Red Bull legacy",
+   "first": "2026-10-29T12:40:59.361109+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-29T12:33:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘Tasteless’ – Christian Horner warned he is tarnishing his Red Bull legacy"
+   },
+   "last": "2026-10-29T12:40:59.361114+00:00"
   }
  },
- "story_seq": 2647,
+ "story_seq": 2649,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14019,17 +14034,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T12:30:53.056042+00:00",
+ "last_run": "2026-10-29T12:40:55.104119+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
  "last_digest_at": "2026-10-29T12:00:58.908263+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T12:31:15.666208+00:00",
-   "title": "Austin GP, F1'in Amerika'daki büyümesinin simgesi oldu",
-   "source": "The Race"
-  },
   {
    "t": "2026-10-26T12:41:18.702773+00:00",
    "title": "Ted Cruz, ABD Grand Prix podyumunda yuhalandı",
@@ -15414,6 +15424,11 @@
    "t": "2026-10-29T12:31:07.205560+00:00",
    "title": "Verstappen, Red Bull'un Mexico City'deki başarı anahtarını açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-29T12:41:03.751561+00:00",
+   "title": "Ralf Schumacher, Horner'ın Marko hakkındaki sözlerini \"tatsız\" buldu",
+   "source": "PlanetF1"
   }
  ]
 }
