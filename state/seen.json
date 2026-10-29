@@ -4850,7 +4850,10 @@
   "b141e49461e2a967": "2026-10-29T00:08:32.820838+00:00",
   "1b6e1aa8b0dceb19": "2026-10-29T00:08:32.820838+00:00",
   "6a2a2d5f326a9353": "2026-10-29T00:08:32.820838+00:00",
-  "b57320147e854d00": "2026-10-29T00:18:31.675490+00:00"
+  "b57320147e854d00": "2026-10-29T00:18:31.675490+00:00",
+  "3e544650ea46bd9b": "2026-10-29T00:28:34.242032+00:00",
+  "9a58dc7caef253f0": "2026-10-29T00:28:34.242032+00:00",
+  "b55615071be9813d": "2026-10-29T00:28:34.242032+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13017,9 +13020,48 @@
     "ESPN F1": "Pascal Siakam finishes inside for the Pacers"
    },
    "last": "2026-10-29T00:18:33.047415+00:00"
+  },
+  "S2477": {
+   "title": "Toronto vs. D.C. United live score",
+   "first": "2026-10-29T00:28:36.199002+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T00:23:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Toronto vs. D.C. United (28 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-29T00:28:36.199021+00:00"
+  },
+  "S2478": {
+   "title": "Mavericks exercise Risacher's 2027-28 contract option",
+   "first": "2026-10-29T00:28:36.199027+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T23:24:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mavericks exercise 2027-28 option on Zaccharie Risacher deal"
+   },
+   "last": "2026-10-29T00:28:36.199033+00:00"
+  },
+  "S2479": {
+   "title": "Genoa 2-0 Juventus player stats",
+   "first": "2026-10-29T00:28:36.199037+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-28T20:01:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Genoa 2-0 Juventus (Oct 28, 2026) Player Stats"
+   },
+   "last": "2026-10-29T00:28:36.199042+00:00"
   }
  },
- "story_seq": 2476,
+ "story_seq": 2479,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13138,17 +13180,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T00:18:31.675490+00:00",
+ "last_run": "2026-10-29T00:28:34.242032+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
  "last_digest_at": "2026-10-28T19:08:08.108435+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T00:19:42.194116+00:00",
-   "title": "Verstappen'in zorlu yarışı Red Bull için beklenmedik bir döneme girdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-26T01:24:56.731577+00:00",
    "title": "Antonelli, COTA'da Verstappen'den çekindiğini itiraf etti",
