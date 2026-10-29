@@ -5169,7 +5169,11 @@
   "d9486c84bba0f2c9": "2026-10-29T16:51:29.541438+00:00",
   "e4630e57afd191cf": "2026-10-29T16:51:29.541438+00:00",
   "f3e4ebfcf794b03e": "2026-10-29T16:51:29.541438+00:00",
-  "5bfa0427e1d4812d": "2026-10-29T16:51:29.541438+00:00"
+  "5bfa0427e1d4812d": "2026-10-29T16:51:29.541438+00:00",
+  "3f08f8ba29980d44": "2026-10-29T17:01:29.749378+00:00",
+  "1a86ffdc69830d2e": "2026-10-29T17:01:29.749378+00:00",
+  "2c439e348e7ce094": "2026-10-29T17:01:29.749378+00:00",
+  "f3570309214c2577": "2026-10-29T17:01:29.749378+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5429,19 +5433,6 @@
     "RacingNews365": "Charles Leclerc voices Ferrari concern after identifying key victory-costing moment"
    },
    "last": "2026-10-28T11:07:40.337739+00:00"
-  },
-  "S2082": {
-   "title": "Liberty Media CEO Derek Chang faces fan backlash over comments",
-   "first": "2026-10-27T16:54:53.109638+00:00",
-   "sources": {
-    "GPFans": "2026-10-27T16:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Liberty Media CEO faces backlash after controversial comments: 'They're destroying F1'"
-   },
-   "last": "2026-10-27T16:54:53.109655+00:00"
   },
   "S2083": {
    "title": "ESPN Tournament Challenge age requirement question",
@@ -13853,7 +13844,9 @@
     "RacingNews365 NL": "2026-10-29T16:35:00+00:00",
     "GPblog": "2026-10-29T16:30:00+00:00",
     "Motorsport.com Italia": "2026-10-29T16:44:06+00:00",
-    "RacingNews365": "2026-10-29T16:41:00+00:00"
+    "RacingNews365": "2026-10-29T16:41:00+00:00",
+    "PlanetF1": "2026-10-29T16:59:17+00:00",
+    "Crash.net": "2026-10-29T16:52:45+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13861,25 +13854,42 @@
     "RacingNews365 NL": "Antonelli mist eerste dag in Mexico",
     "GPblog": "Kimi Antonelli calls in sick ahead of the Mexico City GP and given permission to skip media day",
     "Motorsport.com Italia": "F1 | Antonelli indisposto in Messico: salta il media-day, Mercedes lo aspetta domani in pista",
-    "RacingNews365": "Kimi Antonelli misses Mexico City media day as 'viral illness' revealed"
+    "RacingNews365": "Kimi Antonelli misses Mexico City media day as 'viral illness' revealed",
+    "PlanetF1": "Kimi Antonelli faces unexpected Mexico GP setback with F1 title within reach",
+    "Crash.net": "Kimi Antonelli and Valtteri Bottas skip Mexico GP F1 media duties with illness"
    },
-   "last": "2026-10-29T16:51:34.605555+00:00"
+   "last": "2026-10-29T17:01:34.555055+00:00"
   },
   "S2715": {
    "title": "Bottas misses Mexico City media day through illness",
    "first": "2026-10-29T16:51:34.605561+00:00",
    "sources": {
-    "GPblog": "2026-10-29T16:45:00+00:00"
+    "GPblog": "2026-10-29T16:45:00+00:00",
+    "RacingNews365": "2026-10-29T16:48:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Valtteri Bottas joins Kimi Antonelli in missing Mexico media duties through illness"
+    "GPblog": "Valtteri Bottas joins Kimi Antonelli in missing Mexico media duties through illness",
+    "RacingNews365": "Second F1 driver ruled out of Mexico media day as illness confirmed"
    },
-   "last": "2026-10-29T16:51:34.605566+00:00"
+   "last": "2026-10-29T17:01:34.555043+00:00"
+  },
+  "S2716": {
+   "title": "Cooper Pratt World Series bat in Baseball Hall of Fame",
+   "first": "2026-10-29T17:01:34.555015+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T15:39:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How Cooper Pratt's World Series Game 5 bat ended up in the Baseball Hall of Fame"
+   },
+   "last": "2026-10-29T17:01:34.555035+00:00"
   }
  },
- "story_seq": 2715,
+ "story_seq": 2716,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13998,7 +14008,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T16:51:29.541438+00:00",
+ "last_run": "2026-10-29T17:01:29.749378+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
