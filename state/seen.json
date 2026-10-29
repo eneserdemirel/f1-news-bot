@@ -4969,7 +4969,12 @@
   "67eb789ba79d8bed": "2026-10-29T07:00:10.321824+00:00",
   "d4476706024cd33f": "2026-10-29T07:10:03.910034+00:00",
   "18a790ff62439e16": "2026-10-29T07:10:03.910034+00:00",
-  "fdfeedc073fd7ee8": "2026-10-29T07:10:03.910034+00:00"
+  "fdfeedc073fd7ee8": "2026-10-29T07:10:03.910034+00:00",
+  "958184ab564374fd": "2026-10-29T07:20:01.598547+00:00",
+  "d95651d192e0db0b": "2026-10-29T07:20:01.598547+00:00",
+  "e5c7e2b63b80be17": "2026-10-29T07:20:01.598547+00:00",
+  "26ff91f55ed9651a": "2026-10-29T07:20:01.598547+00:00",
+  "460dddf5919b8ab5": "2026-10-29T07:20:01.598547+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13647,9 +13652,61 @@
     "GPblog": "F1 fans blast Liberty Media CEO who says you don't need to watch every F1 race to be a fan"
    },
    "last": "2026-10-29T07:10:07.043605+00:00"
+  },
+  "S2568": {
+   "title": "Al Khaleej vs. Al Hazem live score",
+   "first": "2026-10-29T07:20:05.492310+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T04:17:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Al Khaleej vs. Al Hazem (29 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-29T07:20:05.492330+00:00"
+  },
+  "S2569": {
+   "title": "Analysis of Piastri's new 2026 struggles versus Norris",
+   "first": "2026-10-29T07:20:05.492336+00:00",
+   "sources": {
+    "The Race": "2026-10-29T07:16:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "'Superpower' neutered - Piastri’s fresh F1 struggles explained"
+   },
+   "last": "2026-10-29T07:20:05.492342+00:00"
+  },
+  "S2570": {
+   "title": "Hadjar scolded after angry Red Bull team radio outburst",
+   "first": "2026-10-29T07:20:05.492347+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-29T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Isack Hadjar scolded after raging Red Bull team radio outburst"
+   },
+   "last": "2026-10-29T07:20:05.492352+00:00"
+  },
+  "S2571": {
+   "title": "Marko gives Racing Bulls verdict on Liam Lawson's future",
+   "first": "2026-10-29T07:20:05.492355+00:00",
+   "sources": {
+    "GPFans": "2026-10-29T07:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Helmut Marko delivers fresh blow to Liam Lawson with Racing Bulls verdict"
+   },
+   "last": "2026-10-29T07:20:05.492359+00:00"
   }
  },
- "story_seq": 2567,
+ "story_seq": 2571,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13768,22 +13825,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T07:10:03.910034+00:00",
+ "last_run": "2026-10-29T07:20:01.598547+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
  "last_digest_at": "2026-10-28T19:08:08.108435+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T07:15:32.257028+00:00",
-   "title": "Antonelli, zihnini dış gürültüden uzak tutma yöntemini anlattı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-26T07:15:32.811145+00:00",
-   "title": "Leclerc, Verstappen'i 'bir canavar' olarak tanımladı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-26T07:40:25.744756+00:00",
    "title": "Veriler Ferrari'nin Amerika GP'deki dahice strateji kararını ortaya koyuyor",
@@ -15108,6 +15155,16 @@
    "t": "2026-10-29T07:10:13.012708+00:00",
    "title": "Liberty Media CEO'su: Her yarışı izlemek taraftar olmak için şart değil",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-29T07:20:16.632808+00:00",
+   "title": "Marko'dan Lawson'a yeni darbe: Racing Bulls kararında Tsolov'u tercih etti",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-10-29T07:20:17.187784+00:00",
+   "title": "Piastri'nin F1'deki yeni zorlukları: 'Süper gücü' köreltildi",
+   "source": "The Race"
   }
  ]
 }
