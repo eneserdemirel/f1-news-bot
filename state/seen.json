@@ -5225,7 +5225,10 @@
   "52c20f6f7fd03c06": "2026-10-29T19:31:28.312269+00:00",
   "5f5c0373ad13290b": "2026-10-29T19:42:46.304345+00:00",
   "673a0eb49d9bf974": "2026-10-29T19:42:46.304345+00:00",
-  "92323bc786ace3e7": "2026-10-29T19:42:46.304345+00:00"
+  "92323bc786ace3e7": "2026-10-29T19:42:46.304345+00:00",
+  "11d29f8a7659455d": "2026-10-29T19:51:32.111953+00:00",
+  "c55a79733514acf0": "2026-10-29T19:51:32.111953+00:00",
+  "a1e675ea6329d4fe": "2026-10-29T19:51:32.111953+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5280,23 +5283,6 @@
     "Motorsport-Total": "Colapinto reagiert auf Eklat-Statement von Jeremy Clarkson - Motorsport-Total.com"
    },
    "last": "2026-10-28T09:17:16.206412+00:00"
-  },
-  "S2031": {
-   "title": "Helmut Marko invests in AI start-up that lets people 'speak from beyond'",
-   "first": "2026-10-27T13:54:54.716468+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-27T13:30:00+00:00",
-    "GPblog": "2026-10-27T18:00:00+00:00",
-    "GPFans": "2026-10-27T19:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Il singolare nuovo investimento di Helmut Marko: un’intelligenza artificiale per far parlare dall’aldilà",
-    "GPblog": "Marko puts money in eerie AI project allowing people to speak after death",
-    "GPFans": "F1 legend Helmut Marko is betting on life after death - with AI"
-   },
-   "last": "2026-10-27T19:45:35.533361+00:00"
   },
   "S2053": {
    "title": "Colapinto steps aside for Mexico FP1, debutant replaces him",
@@ -5481,32 +5467,6 @@
     "GPblog": "Cadillac hands Herta new opportunity to secure key milestone"
    },
    "last": "2026-10-27T20:25:31.966447+00:00"
-  },
-  "S2132": {
-   "title": "Jazz's Jaren Jackson Jr. out 6-8 weeks with knee injury",
-   "first": "2026-10-27T19:45:35.533324+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T19:39:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jazz's Jaren Jackson Jr. (knee) out 6-8 weeks, sources say"
-   },
-   "last": "2026-10-27T19:45:35.533343+00:00"
-  },
-  "S2133": {
-   "title": "Giants place Tyrone Tracy Jr. on IR with hamstring injury",
-   "first": "2026-10-27T19:45:35.533349+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T19:35:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giants place RB Tyrone Tracy Jr. on IR with hamstring injury"
-   },
-   "last": "2026-10-27T19:45:35.533355+00:00"
   },
   "S2134": {
    "title": "Union Berlin vs Cologne odds and spread",
@@ -13752,9 +13712,48 @@
     "Motorsport-Total": "Toto Wolff: Leute verstehen nicht, wie viel wir in Antonelli investiert haben - Motorsport-Total.com"
    },
    "last": "2026-10-29T19:42:49.377058+00:00"
+  },
+  "S2751": {
+   "title": "Russell says he has never seen such performance swings at Mercedes",
+   "first": "2026-10-29T19:51:37.434278+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T19:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Russell blijft verbaasd achter: \"Nog nooit meegemaakt!\""
+   },
+   "last": "2026-10-29T19:51:37.434295+00:00"
+  },
+  "S2752": {
+   "title": "Alonso doubles down on backmarker quality criticism, says reaction proves point",
+   "first": "2026-10-29T19:51:37.434301+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T19:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Alonso says reaction to his verdict on quality of F1 drivers 'tells you everything'"
+   },
+   "last": "2026-10-29T19:51:37.434308+00:00"
+  },
+  "S2753": {
+   "title": "Carlos Sainz comments on driving on asphalt at Asturias tribute",
+   "first": "2026-10-29T19:51:37.434311+00:00",
+   "sources": {
+    "AS": "2026-10-29T17:57:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "Carlos Sainz: “La conducción en asfalto es muy bestia”"
+   },
+   "last": "2026-10-29T19:51:37.434316+00:00"
   }
  },
- "story_seq": 2750,
+ "story_seq": 2753,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13873,7 +13872,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T19:42:46.304345+00:00",
+ "last_run": "2026-10-29T19:51:32.111953+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -15268,6 +15267,16 @@
    "t": "2026-10-29T19:42:52.729053+00:00",
    "title": "Toto Wolff: İnsanlar Antonelli'ye ne kadar yatırım yaptığımızı anlamıyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T19:51:44.806948+00:00",
+   "title": "Alonso: Rakiplerinin tepkisi, F1 sürücülerinin kalitesi hakkındaki görüşünü doğruluyor",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-29T19:51:45.170337+00:00",
+   "title": "Russell şaşkın: Bu seviyede tutarsızlığı hiç yaşamadım",
+   "source": "RacingNews365 NL"
   }
  ]
 }
