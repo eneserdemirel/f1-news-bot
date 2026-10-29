@@ -5178,7 +5178,9 @@
   "e08416f35dafb093": "2026-10-29T17:11:30.876027+00:00",
   "64080568eb4ea584": "2026-10-29T17:11:30.876027+00:00",
   "4b542079d64082dc": "2026-10-29T17:11:30.876027+00:00",
-  "ef684044dce57937": "2026-10-29T17:11:30.876027+00:00"
+  "ef684044dce57937": "2026-10-29T17:11:30.876027+00:00",
+  "2f52f59e8cfa2bc5": "2026-10-29T17:21:30.158873+00:00",
+  "bb8b0f3b678af82c": "2026-10-29T17:21:30.158873+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5200,34 +5202,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S1936": {
-   "title": "Red Bull promise review after Verstappen's strategy complaint",
-   "first": "2026-10-27T07:24:07.946201+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-27T07:10:00+00:00",
-    "Motorsport Week": "2026-10-27T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Red Bull promise 'review' after Max Verstappen strategy complaint",
-    "Motorsport Week": "Max Verstappen makes bold Red Bull strategy claim after US GP podium"
-   },
-   "last": "2026-10-27T17:14:58.489960+00:00"
-  },
-  "S1947": {
-   "title": "Hamburg vs. Frankfurt live score",
-   "first": "2026-10-27T07:34:03.164213+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T07:25:12+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hamburg vs. Frankfurt (27 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-27T17:14:58.489937+00:00"
-  },
   "S1981": {
    "title": "Mexico City Grand Prix betting guide and latest odds",
    "first": "2026-10-27T10:24:01.322790+00:00",
@@ -5289,21 +5263,6 @@
     "FormulaPassion": "Fondo, deflettori e bargeboard distrutti: ecco come era ridotta la macchina di Alonso ad Austin"
    },
    "last": "2026-10-27T17:24:53.675086+00:00"
-  },
-  "S2027": {
-   "title": "Norris clarifies McLaren US GP strategy disagreement claim",
-   "first": "2026-10-27T13:44:55.340440+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-27T13:35:32+00:00",
-    "Motorsport Week": "2026-10-27T16:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lando Norris clears up claim over McLaren US GP strategy disagreement",
-    "Motorsport Week": "Lando Norris refutes F1 US GP McLaren strategy disagreement"
-   },
-   "last": "2026-10-27T17:14:58.489967+00:00"
   },
   "S2031": {
    "title": "Helmut Marko invests in AI start-up that lets people 'speak from beyond'",
@@ -5440,32 +5399,6 @@
     "Crash.net": "Red Bull responds to surprise Aston Martin engine supply rumours"
    },
    "last": "2026-10-28T11:07:40.337759+00:00"
-  },
-  "S2088": {
-   "title": "Alpine allowed Sky Sports F1 into US GP practice",
-   "first": "2026-10-27T17:14:58.489946+00:00",
-   "sources": {
-    "The Race": "2026-10-27T17:12:39+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Why one team let Sky breach F1's 'most sacred' connection"
-   },
-   "last": "2026-10-27T17:14:58.489953+00:00"
-  },
-  "S2089": {
-   "title": "Analysis: Antonelli's US GP win does not solve Mercedes problems",
-   "first": "2026-10-27T17:14:58.489971+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-27T17:04:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Mercedes-Update: Warum der Antonelli-Sieg noch nicht alle Probleme löst - Motorsport-Total.com"
-   },
-   "last": "2026-10-27T17:14:58.489975+00:00"
   },
   "S2090": {
    "title": "Clemson's Dabo Swinney still believes in team after third loss",
@@ -13833,9 +13766,35 @@
     "ESPN F1": "How Cooper Pratt's World Series Game 5 bat ended up in the Baseball Hall of Fame"
    },
    "last": "2026-10-29T17:01:34.555035+00:00"
+  },
+  "S2717": {
+   "title": "Notre Dame CB DJ McKinney out with ankle injury",
+   "first": "2026-10-29T17:21:32.622189+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T17:13:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Notre Dame CB DJ McKinney out extended period with ankle injury"
+   },
+   "last": "2026-10-29T17:21:32.622207+00:00"
+  },
+  "S2718": {
+   "title": "Colorado QB Lewis hospitalized after medical emergency",
+   "first": "2026-10-29T17:21:32.622213+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T17:13:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colorado QB Lewis suffers medical emergency, hospitalized"
+   },
+   "last": "2026-10-29T17:21:32.622218+00:00"
   }
  },
- "story_seq": 2716,
+ "story_seq": 2718,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13954,17 +13913,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T17:11:30.876027+00:00",
+ "last_run": "2026-10-29T17:21:30.158873+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
  "last_digest_at": "2026-10-29T12:00:58.908263+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T17:12:17.746949+00:00",
-   "title": "Hadjar, yarışın yarısında yanlış motor haritasında kaldı",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-10-26T17:22:16.388306+00:00",
    "title": "Verstappen şampiyonluk yarışının dışında kaldı",
