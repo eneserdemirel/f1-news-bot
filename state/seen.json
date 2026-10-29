@@ -5187,7 +5187,12 @@
   "a780c5aa10fa7e00": "2026-10-29T17:41:29.025963+00:00",
   "2b745427c9906ec7": "2026-10-29T17:41:29.025963+00:00",
   "5013905dbb057be9": "2026-10-29T17:41:29.025963+00:00",
-  "1f134c9e059fc019": "2026-10-29T17:41:29.025963+00:00"
+  "1f134c9e059fc019": "2026-10-29T17:41:29.025963+00:00",
+  "0ea462b1954c1e54": "2026-10-29T17:51:29.754801+00:00",
+  "d4d1662a8df3193a": "2026-10-29T17:51:29.754801+00:00",
+  "2549c60e7b26a300": "2026-10-29T17:51:29.754801+00:00",
+  "84acc172a2e28555": "2026-10-29T17:51:29.754801+00:00",
+  "2adde8a6928e849d": "2026-10-29T17:51:29.754801+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5418,32 +5423,6 @@
    },
    "last": "2026-10-27T18:45:35.376204+00:00"
   },
-  "S2097": {
-   "title": "Sassuolo vs. Fiorentina odds and spread",
-   "first": "2026-10-27T17:45:36.201388+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T17:40:58+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sassuolo vs. Fiorentina (Nov 2, 2026) Odds and Spread"
-   },
-   "last": "2026-10-27T17:45:36.201406+00:00"
-  },
-  "S2098": {
-   "title": "Vozinha's Ballon d'Or night feature",
-   "first": "2026-10-27T17:45:36.201411+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T17:28:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vozinha's Ballon d'Or night a perfect moment for soccer's dreamers"
-   },
-   "last": "2026-10-27T17:45:36.201416+00:00"
-  },
   "S2099": {
    "title": "Gary Neville reacts to Carrick staying at Man United",
    "first": "2026-10-27T17:45:36.201419+00:00",
@@ -5486,19 +5465,6 @@
     "GPFans": "Kimi Antonelli set for big payday bonus as F1 championship looms"
    },
    "last": "2026-10-28T08:46:43.128220+00:00"
-  },
-  "S2102": {
-   "title": "Alpine trailing as best of the rest in 2026",
-   "first": "2026-10-27T17:45:36.201442+00:00",
-   "sources": {
-    "AS": "2026-10-27T17:31:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Alpine se queda atrás"
-   },
-   "last": "2026-10-27T17:45:36.201445+00:00"
   },
   "S2103": {
    "title": "Lawson unsure of Racing Bulls 2027 future",
@@ -12793,15 +12759,17 @@
    "first": "2026-10-29T12:40:59.361109+00:00",
    "sources": {
     "PlanetF1": "2026-10-29T12:33:38+00:00",
-    "Crash.net": "2026-10-29T12:58:07+00:00"
+    "Crash.net": "2026-10-29T12:58:07+00:00",
+    "GPblog": "2026-10-29T17:46:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "‘Tasteless’ – Christian Horner warned he is tarnishing his Red Bull legacy",
-    "Crash.net": "Christian Horner slammed as “tasteless” over Helmut Marko comments"
+    "Crash.net": "Christian Horner slammed as “tasteless” over Helmut Marko comments",
+    "GPblog": "Schumacher says Horner is 'ruining all his own work' with 'tasteless' comments"
    },
-   "last": "2026-10-29T13:10:58.041957+00:00"
+   "last": "2026-10-29T17:51:34.848352+00:00"
   },
   "S2650": {
    "title": "New Zealand seek answers as India's batting juggernaut rolls on",
@@ -13108,14 +13076,16 @@
    "title": "Imola to show Mexico GP on big screen for Antonelli fans",
    "first": "2026-10-29T14:31:00.152252+00:00",
    "sources": {
-    "FormulaPassion": "2026-10-29T14:00:00+00:00"
+    "FormulaPassion": "2026-10-29T14:00:00+00:00",
+    "Corriere dello Sport": "2026-10-29T17:42:20+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Febbre Antonelli: maxischermo all’Autodromo di Imola per il GP Città del Messico"
+    "FormulaPassion": "Febbre Antonelli: maxischermo all’Autodromo di Imola per il GP Città del Messico",
+    "Corriere dello Sport": "Imola tifa Antonelli: pronto il maxischermo per il Gran Premio del Messico"
    },
-   "last": "2026-10-29T14:31:00.152256+00:00"
+   "last": "2026-10-29T17:51:34.848367+00:00"
   },
   "S2674": {
    "title": "NFL Week 8 Jaguars and Lions 'Rivalries' uniforms",
@@ -13766,9 +13736,48 @@
     "Motorsport-Total": "Mentalcoach warnt Russell: \"Darf den Status des Verlierers nicht akzeptieren\" - Motorsport-Total.com"
    },
    "last": "2026-10-29T17:41:33.995659+00:00"
+  },
+  "S2722": {
+   "title": "Duckett records and England's win in Pakistan",
+   "first": "2026-10-29T17:51:34.848318+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T17:49:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stats - Duckett's records, England's first win in Pakistan since 2005"
+   },
+   "last": "2026-10-29T17:51:34.848334+00:00"
+  },
+  "S2723": {
+   "title": "Gary Neville urges Glazers to sell Man United stakes",
+   "first": "2026-10-29T17:51:34.848340+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T12:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gary Neville tells the Glazers to sell their stakes in Manchester United"
+   },
+   "last": "2026-10-29T17:51:34.848346+00:00"
+  },
+  "S2724": {
+   "title": "Ralf Schumacher's flight makes emergency stop after tyre burst",
+   "first": "2026-10-29T17:51:34.848356+00:00",
+   "sources": {
+    "GPFans": "2026-10-29T17:44:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Former F1 driver Ralf Schumacher suffers huge plane scare after emergency stop: 'One of the tyres burst'"
+   },
+   "last": "2026-10-29T17:51:34.848361+00:00"
   }
  },
- "story_seq": 2721,
+ "story_seq": 2724,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13887,7 +13896,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T17:41:29.025963+00:00",
+ "last_run": "2026-10-29T17:51:29.754801+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
@@ -15267,6 +15276,11 @@
    "t": "2026-10-29T17:41:38.561872+00:00",
    "title": "Mental koç Russell'a uyardı: \"Kaybeden statüsünü kabul etmemeli\"",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T17:51:39.108098+00:00",
+   "title": "Ralf Schumacher'in uçağı kalkış sırasında lastik patlaması nedeniyle acil durdu",
+   "source": "GPFans"
   }
  ]
 }
