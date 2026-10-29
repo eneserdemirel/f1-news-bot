@@ -5222,7 +5222,10 @@
   "21672178ff8d4ba4": "2026-10-29T19:31:28.312269+00:00",
   "826008e7e77aedcc": "2026-10-29T19:31:28.312269+00:00",
   "104f19d62e257c97": "2026-10-29T19:31:28.312269+00:00",
-  "52c20f6f7fd03c06": "2026-10-29T19:31:28.312269+00:00"
+  "52c20f6f7fd03c06": "2026-10-29T19:31:28.312269+00:00",
+  "5f5c0373ad13290b": "2026-10-29T19:42:46.304345+00:00",
+  "673a0eb49d9bf974": "2026-10-29T19:42:46.304345+00:00",
+  "92323bc786ace3e7": "2026-10-29T19:42:46.304345+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5463,19 +5466,6 @@
     "GPFans": "Lewis Hamilton denied podium by Ferrari's 'ludicrous' strategy"
    },
    "last": "2026-10-28T06:36:39.192724+00:00"
-  },
-  "S2130": {
-   "title": "Ezequiel Ponce scores for Elche in football match",
-   "first": "2026-10-27T19:35:34.123566+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T19:29:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ezequiel Ponce gets on the scoresheet for Elche"
-   },
-   "last": "2026-10-27T19:35:34.123584+00:00"
   },
   "S2131": {
    "title": "Colton Herta to earn superlicence in Cadillac Mexico FP1 outing",
@@ -13723,9 +13713,48 @@
     "AS": "Alonso abronca a Albon: “Y el que se de por aludido...”"
    },
    "last": "2026-10-29T19:31:33.384232+00:00"
+  },
+  "S2748": {
+   "title": "Ancelotti names Brazil squad for Japan and Singapore friendlies",
+   "first": "2026-10-29T19:42:49.377020+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T19:31:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Carlo Ancelotti continues Brazil 'renewal' with squad for Japan, Singapore friendlies"
+   },
+   "last": "2026-10-29T19:42:49.377037+00:00"
+  },
+  "S2749": {
+   "title": "Allisha Gray and Dream beat Valkyries, force WNBA Finals Game 7",
+   "first": "2026-10-29T19:42:49.377043+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T19:16:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Allisha Gray, Dream beat Valkyries, force Game 7 of WNBA Finals"
+   },
+   "last": "2026-10-29T19:42:49.377049+00:00"
+  },
+  "S2750": {
+   "title": "Wolff says people don't grasp how much Mercedes invested in Antonelli",
+   "first": "2026-10-29T19:42:49.377053+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-29T19:09:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Toto Wolff: Leute verstehen nicht, wie viel wir in Antonelli investiert haben - Motorsport-Total.com"
+   },
+   "last": "2026-10-29T19:42:49.377058+00:00"
   }
  },
- "story_seq": 2747,
+ "story_seq": 2750,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13844,17 +13873,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T19:31:28.312269+00:00",
+ "last_run": "2026-10-29T19:42:46.304345+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T19:32:16.223579+00:00",
-   "title": "Aston Martin, Red Bull ile motor görüşmelerini yalanlamadı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-26T19:52:20.542572+00:00",
    "title": "Hamilton'ın Leclerc sorunu Ferrari'de büyüyor",
@@ -15239,6 +15263,11 @@
    "t": "2026-10-29T19:31:39.560212+00:00",
    "title": "Ricciardo, Red Bull'a dönüş hayalinin tükenmişlik yarattığını itiraf etti",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-29T19:42:52.729053+00:00",
+   "title": "Toto Wolff: İnsanlar Antonelli'ye ne kadar yatırım yaptığımızı anlamıyor",
+   "source": "Motorsport-Total"
   }
  ]
 }
