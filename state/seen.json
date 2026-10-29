@@ -4996,7 +4996,12 @@
   "0801eae9b6f9268f": "2026-10-29T09:00:04.805232+00:00",
   "ef5c2a8b120ea58f": "2026-10-29T09:00:04.805232+00:00",
   "bec99cbe6d41a113": "2026-10-29T09:00:04.805232+00:00",
-  "952e7335488f4071": "2026-10-29T09:00:04.805232+00:00"
+  "952e7335488f4071": "2026-10-29T09:00:04.805232+00:00",
+  "44bb5c5295f1cab8": "2026-10-29T09:10:02.746000+00:00",
+  "397667e5cd977307": "2026-10-29T09:10:02.746000+00:00",
+  "7da3426e729476c1": "2026-10-29T09:10:02.746000+00:00",
+  "1e86f8711520bad4": "2026-10-29T09:10:02.746000+00:00",
+  "718679adf7a282a5": "2026-10-29T09:10:02.746000+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13598,9 +13603,74 @@
     "RacingNews365": "Helmut Marko spies something 'only Red Bull can achieve' in F1"
    },
    "last": "2026-10-29T09:00:07.809674+00:00"
+  },
+  "S2589": {
+   "title": "Doubts raised over whether MotoGP Qatar race can go ahead",
+   "first": "2026-10-29T09:10:08.142720+00:00",
+   "sources": {
+    "The Race": "2026-10-29T09:07:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Fresh doubts and meetings over MotoGP Qatar race"
+   },
+   "last": "2026-10-29T09:10:08.142739+00:00"
+  },
+  "S2590": {
+   "title": "Mexico GP preview: new asphalt and graining are key unknowns",
+   "first": "2026-10-29T09:10:08.142746+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-29T09:02:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | GP del Messico: asfalto nuovo e graining sono le incognite di questa edizione"
+   },
+   "last": "2026-10-29T09:10:08.142751+00:00"
+  },
+  "S2591": {
+   "title": "Russell, Leclerc and Perez called up for Mexico City press conference",
+   "first": "2026-10-29T09:10:08.142756+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T09:03:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Russell and Leclerc called up by the FIA at the Mexico City Grand Prix"
+   },
+   "last": "2026-10-29T09:10:08.142760+00:00"
+  },
+  "S2592": {
+   "title": "Wolff reveals Maldonado Williams win helped him get Mercedes job",
+   "first": "2026-10-29T09:10:08.142764+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-29T09:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Wolff packt aus: Maldonado-Sieg bei Williams verhalf ihm zum Mercedes-Job - Motorsport-Total.com"
+   },
+   "last": "2026-10-29T09:10:08.142768+00:00"
+  },
+  "S2593": {
+   "title": "F1 drivers forced to sit out Mexico practice due to driver swaps",
+   "first": "2026-10-29T09:10:08.142771+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-29T09:03:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Fahrer-Wechsel - Diese F1-Stars müssen in Mexiko aussetzen"
+   },
+   "last": "2026-10-29T09:10:08.142775+00:00"
   }
  },
- "story_seq": 2588,
+ "story_seq": 2593,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13719,22 +13789,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T09:00:04.805232+00:00",
+ "last_run": "2026-10-29T09:10:02.746000+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
  "last_digest_at": "2026-10-28T19:08:08.108435+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T09:00:34.570471+00:00",
-   "title": "Ferrari Austin'de kaçan zaferin pişmanlığını yaşadı",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-10-26T09:00:35.149817+00:00",
-   "title": "Russell, Austin'deki 5 saniyelik ceza için 'biraz saçma' dedi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-26T09:50:28.125857+00:00",
    "title": "Russell, Mercedes ile Amerika GP'deki yavaşlığını incelemek istiyor",
@@ -15074,6 +15134,16 @@
    "t": "2026-10-29T09:00:15.296706+00:00",
    "title": "Marko: Red Bull'un başardığı bu dönüş yalnızca Red Bull'a özgü",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-29T09:10:14.882451+00:00",
+   "title": "Wolff: Maldonado'nun Williams'taki galibiyeti Mercedes transferini sağladı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T09:10:15.452796+00:00",
+   "title": "Meksika GP'de yeni asfalt ve graining, bu yılın belirsizlikleri",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
