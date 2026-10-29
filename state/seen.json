@@ -5245,7 +5245,12 @@
   "bd84beedbba6f90a": "2026-10-29T20:31:29.594984+00:00",
   "e57ab88e71312473": "2026-10-29T20:31:29.594984+00:00",
   "664379859fd90c1d": "2026-10-29T20:31:29.594984+00:00",
-  "68e56d19e69c7099": "2026-10-29T20:41:29.856112+00:00"
+  "68e56d19e69c7099": "2026-10-29T20:41:29.856112+00:00",
+  "c512d8bbed37fa4f": "2026-10-29T20:51:29.495125+00:00",
+  "7d4765a21a72ba45": "2026-10-29T20:51:29.495125+00:00",
+  "e79351482c835c8a": "2026-10-29T20:51:29.495125+00:00",
+  "631c4435e378c4d4": "2026-10-29T20:51:29.495125+00:00",
+  "5cf4105108e167d8": "2026-10-29T20:51:29.495125+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5469,32 +5474,6 @@
     "ESPN F1": "Gladbach vs. Paderborn (Oct 31, 2026) Live Score"
    },
    "last": "2026-10-28T00:36:07.917277+00:00"
-  },
-  "S2150": {
-   "title": "Brewers to start Dustin May in World Series clincher",
-   "first": "2026-10-27T20:45:34.396495+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T20:11:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brewers to start Dustin May in possible World Series clincher"
-   },
-   "last": "2026-10-27T20:45:34.396514+00:00"
-  },
-  "S2151": {
-   "title": "FIA proposes new F1 engine regulations including V8 return",
-   "first": "2026-10-27T20:45:34.396520+00:00",
-   "sources": {
-    "GPFans": "2026-10-27T20:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "FIA take major step towards F1 V8 return with new engine regulations"
-   },
-   "last": "2026-10-27T20:45:34.396525+00:00"
   },
   "S2152": {
    "title": "Malik Beasley agrees to plead guilty in sports betting case",
@@ -13012,7 +12991,8 @@
     "Crash.net": "2026-10-29T16:52:45+00:00",
     "Sky Sports F1": "2026-10-29T17:00:00+00:00",
     "Autosport": "2026-10-29T17:07:23+00:00",
-    "FormulaPassion": "2026-10-29T17:07:23+00:00"
+    "FormulaPassion": "2026-10-29T17:07:23+00:00",
+    "GPFans": "2026-10-29T20:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13025,9 +13005,10 @@
     "Crash.net": "Kimi Antonelli and Valtteri Bottas skip Mexico GP F1 media duties with illness",
     "Sky Sports F1": "Antonelli to miss Mexico media day with viral illness",
     "Autosport": "Antonelli skips F1 Mexico GP media day due to illness",
-    "FormulaPassion": "Antonelli colpito da un virus: salta il media day in Messico"
+    "FormulaPassion": "Antonelli colpito da un virus: salta il media day in Messico",
+    "GPFans": "Mercedes confirm Kimi Antonelli absence as F1 stars battling illness ahead of Mexican GP"
    },
-   "last": "2026-10-29T17:31:34.386408+00:00"
+   "last": "2026-10-29T20:51:34.079086+00:00"
   },
   "S2715": {
    "title": "Bottas misses Mexico City media day through illness",
@@ -13742,9 +13723,61 @@
     "Crash.net": "Fernando Alonso doubles down on F1 driver criticism as Alex Albon reacts"
    },
    "last": "2026-10-29T20:41:34.288232+00:00"
+  },
+  "S2769": {
+   "title": "AE Prat vs Athletic live score (29 Oct 2026)",
+   "first": "2026-10-29T20:51:34.079031+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T20:50:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AE Prat vs. Athletic (29 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-29T20:51:34.079050+00:00"
+  },
+  "S2770": {
+   "title": "Xerez vs Cádiz live score (29 Oct 2026)",
+   "first": "2026-10-29T20:51:34.079057+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T20:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Xerez vs. Cádiz (29 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-29T20:51:34.079063+00:00"
+  },
+  "S2771": {
+   "title": "Court revokes Wander Franco's pardon in sex abuse case",
+   "first": "2026-10-29T20:51:34.079067+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T20:44:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Court revokes pardon for Rays' Wander Franco in sex abuse case"
+   },
+   "last": "2026-10-29T20:51:34.079072+00:00"
+  },
+  "S2772": {
+   "title": "Man City vs PSG live score (29 Oct 2026)",
+   "first": "2026-10-29T20:51:34.079075+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T20:12:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man City vs. PSG (29 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-29T20:51:34.079079+00:00"
   }
  },
- "story_seq": 2768,
+ "story_seq": 2772,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13863,7 +13896,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T20:41:29.856112+00:00",
+ "last_run": "2026-10-29T20:51:29.495125+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
