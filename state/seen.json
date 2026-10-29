@@ -5305,7 +5305,9 @@
   "d92231b1f5ed2dfd": "2026-10-29T23:02:17.268960+00:00",
   "cc93905c6acce785": "2026-10-29T23:02:17.268960+00:00",
   "2cc92280cf9552c9": "2026-10-29T23:02:17.268960+00:00",
-  "1fc3f00317b517d6": "2026-10-29T23:02:17.268960+00:00"
+  "1fc3f00317b517d6": "2026-10-29T23:02:17.268960+00:00",
+  "5c8e60ec71443566": "2026-10-29T23:12:17.163491+00:00",
+  "744a33dfe57462f7": "2026-10-29T23:12:17.163491+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5475,21 +5477,6 @@
     "PlanetF1": "Valtteri Bottas admits ‘anything can happen in F1’ amid Cadillac rumours"
    },
    "last": "2026-10-28T10:37:19.444543+00:00"
-  },
-  "S2116": {
-   "title": "Lawson earns 'perfect' verdict as Racing Bulls decision looms",
-   "first": "2026-10-27T18:35:38.013649+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-27T18:30:20+00:00",
-    "GPblog": "2026-10-27T23:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Liam Lawson earns ‘perfect’ verdict as Racing Bulls F1 2027 decision looms",
-    "GPblog": "Liam Lawson handed special request ahead of Mexican GP weekend"
-   },
-   "last": "2026-10-27T23:06:10.606240+00:00"
   },
   "S2119": {
    "title": "Windsor says Ferrari strategy cost Hamilton US GP podium",
@@ -14043,14 +14030,16 @@
    "title": "Perez weighs in on Herta or Bottas Cadillac teammate debate",
    "first": "2026-10-29T22:52:23.294596+00:00",
    "sources": {
-    "GPblog": "2026-10-29T22:45:00+00:00"
+    "GPblog": "2026-10-29T22:45:00+00:00",
+    "PlanetF1": "2026-10-29T23:03:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Perez delivers Herta verdict as he weighs in on Cadillac teammate decision"
+    "GPblog": "Perez delivers Herta verdict as he weighs in on Cadillac teammate decision",
+    "PlanetF1": "Perez casts Colton Herta verdict as Bottas Cadillac F1 rumours swirl"
    },
-   "last": "2026-10-29T22:52:23.294600+00:00"
+   "last": "2026-10-29T23:12:19.309366+00:00"
   },
   "S2807": {
    "title": "Bristol Kersh scores for Notre Dame",
@@ -14105,9 +14094,22 @@
     "AS": "Williams espera un ligero paso adelante"
    },
    "last": "2026-10-29T23:02:21.936720+00:00"
+  },
+  "S2811": {
+   "title": "Red Wings suspend Dylan Larkin and explore trade options",
+   "first": "2026-10-29T23:12:19.309339+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T22:47:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Red Wings suspend Dylan Larkin, explore trade options"
+   },
+   "last": "2026-10-29T23:12:19.309357+00:00"
   }
  },
- "story_seq": 2810,
+ "story_seq": 2811,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14226,17 +14228,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-29T23:02:17.268960+00:00",
+ "last_run": "2026-10-29T23:12:17.163491+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T23:02:52.104071+00:00",
-   "title": "İkinci sıra mücadelesi kızışıyor, Antonelli şampiyonluğa yaklaşıyor",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-27T05:33:28.065775+00:00",
    "title": "Verstappen Austin'de kazanamadı, 2020'den beri ilk kez şampiyonluk yarışının dışına çıktı",
