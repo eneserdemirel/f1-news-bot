@@ -5132,7 +5132,10 @@
   "2b2937290f2edace": "2026-10-29T15:20:55.888882+00:00",
   "46309da9f525fbb0": "2026-10-29T15:20:55.888882+00:00",
   "8529a09483bc816e": "2026-10-29T15:20:55.888882+00:00",
-  "d6e84c8bf15ac669": "2026-10-29T15:20:55.888882+00:00"
+  "d6e84c8bf15ac669": "2026-10-29T15:20:55.888882+00:00",
+  "851275d3abd9fa36": "2026-10-29T15:30:56.159154+00:00",
+  "9d0ffc66918751fa": "2026-10-29T15:30:56.159154+00:00",
+  "87fd0c4e103999b3": "2026-10-29T15:30:56.159154+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5460,32 +5463,6 @@
     "PlanetF1": "Colapinto to sit out Mexican GP FP1 as Alpine hand junior driver F1 weekend debut"
    },
    "last": "2026-10-28T11:27:41.197130+00:00"
-  },
-  "S2054": {
-   "title": "Feature on why Mercedes skipped Drive to Survive",
-   "first": "2026-10-27T15:24:54.918902+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-27T15:17:52+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Why Mercedes snubbed Drive to Survive in pre-Netflix F1 boom"
-   },
-   "last": "2026-10-27T15:24:54.918908+00:00"
-  },
-  "S2055": {
-   "title": "Hadjar ran half of Austin race in pit-stop mode by mistake",
-   "first": "2026-10-27T15:24:54.918912+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-27T15:00:23+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hadjar, che distrazione ad Austin: ha corso oltre metà gara con la modalità pit stop"
-   },
-   "last": "2026-10-27T15:24:54.918917+00:00"
   },
   "S2056": {
    "title": "Russell proposes solution to COTA bumps concern",
@@ -13935,9 +13912,48 @@
     "AS": "Norris se pasa a la Fórmula 2"
    },
    "last": "2026-10-29T15:21:04.546129+00:00"
+  },
+  "S2691": {
+   "title": "Bruno Fernandes retains Man United captaincy, says Carrick",
+   "first": "2026-10-29T15:31:00.963066+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T14:32:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bruno Fernandes retains Man United captaincy - Michael Carrick"
+   },
+   "last": "2026-10-29T15:31:00.963086+00:00"
+  },
+  "S2692": {
+   "title": "Newey admits rake bet on AMR26 did not work for Aston Martin",
+   "first": "2026-10-29T15:31:00.963092+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-29T15:19:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Aston Martin, Newey conferma: la sua scommessa del rake spinto sulla AMR26 non ha funzionato"
+   },
+   "last": "2026-10-29T15:31:00.963097+00:00"
+  },
+  "S2693": {
+   "title": "Montezemolo praises Antonelli as changing F1 and Italian sport history",
+   "first": "2026-10-29T15:31:00.963101+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-29T15:20:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Montezemolo incorona Antonelli: “Cambia la storia della F1 e dello sport italiano”"
+   },
+   "last": "2026-10-29T15:31:00.963105+00:00"
   }
  },
- "story_seq": 2690,
+ "story_seq": 2693,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14056,7 +14072,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T15:20:55.888882+00:00",
+ "last_run": "2026-10-29T15:30:56.159154+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
@@ -15466,6 +15482,11 @@
    "t": "2026-10-29T15:21:11.533526+00:00",
    "title": "Williams, F1'deki 50. yılını kutlamak için 'W50' etkinliği düzenleyecek",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-29T15:31:08.264831+00:00",
+   "title": "Montezemolo, Antonelli'yi taçlandırdı: \"F1 ve İtalyan sporunun tarihini değiştiriyor\"",
+   "source": "FormulaPassion"
   }
  ]
 }
