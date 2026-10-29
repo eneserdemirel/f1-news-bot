@@ -4857,7 +4857,9 @@
   "6d3ed2a71c48e1b9": "2026-10-29T00:39:14.681799+00:00",
   "0b8ab862b8bdad33": "2026-10-29T00:49:12.567642+00:00",
   "aecb0eb2105d60ca": "2026-10-29T00:59:13.149941+00:00",
-  "1fe3fd28beeb5048": "2026-10-29T00:59:13.149941+00:00"
+  "1fe3fd28beeb5048": "2026-10-29T00:59:13.149941+00:00",
+  "62c42cd9b91c3c35": "2026-10-29T01:09:14.967197+00:00",
+  "4b9f387798c4e720": "2026-10-29T01:09:14.967197+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5054,45 +5056,6 @@
     "ESPN F1": "Harry Kane thanks Tottenham, pays tribute to England after Ballon d'Or win"
    },
    "last": "2026-10-27T03:43:24.247755+00:00"
-  },
-  "S1889": {
-   "title": "Pacers' Ben Sheppard to undergo knee surgery for torn meniscus",
-   "first": "2026-10-27T00:52:45.572190+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T00:45:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pacers' Ben Sheppard to undergo surgery for torn meniscus"
-   },
-   "last": "2026-10-27T01:02:44.519598+00:00"
-  },
-  "S1892": {
-   "title": "Magpies coach departs after AFLW season",
-   "first": "2026-10-27T01:02:44.519572+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T00:52:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Magpies coach departs after disastrous AFLW season"
-   },
-   "last": "2026-10-27T01:02:44.519589+00:00"
-  },
-  "S1893": {
-   "title": "Giannis slam dunk highlight",
-   "first": "2026-10-27T01:02:44.519602+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T00:23:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giannis weaves through defense for powerful slam"
-   },
-   "last": "2026-10-27T01:02:44.519606+00:00"
   },
   "S1894": {
    "title": "Payton Pritchard shows off range on three-point shooting",
@@ -11633,15 +11596,17 @@
    "first": "2026-10-28T17:38:36.688794+00:00",
    "sources": {
     "PlanetF1": "2026-10-28T17:30:59+00:00",
-    "RacingNews365": "2026-10-28T17:20:00+00:00"
+    "RacingNews365": "2026-10-28T17:20:00+00:00",
+    "GPblog": "2026-10-29T01:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Liam Lawson to miss Mexico City FP1 as Racing Bulls contender steps in",
-    "RacingNews365": "Nikola Tsolov replaces Liam Lawson at Racing Bulls for Mexico FP1"
+    "RacingNews365": "Nikola Tsolov replaces Liam Lawson at Racing Bulls for Mexico FP1",
+    "GPblog": "Racing Bulls hand Liam Lawson's car to 2027 rival Tsolov for Mexico FP1"
    },
-   "last": "2026-10-28T18:08:04.747176+00:00"
+   "last": "2026-10-29T01:09:17.305897+00:00"
   },
   "S2379": {
    "title": "Hamilton lists what he needs to fight for wins",
@@ -12985,9 +12950,22 @@
     "ESPN F1": "Alessia Russo completes her hat trick from the penalty spot"
    },
    "last": "2026-10-29T00:59:16.822145+00:00"
+  },
+  "S2482": {
+   "title": "Andrew Wiggins and-1 basket highlight",
+   "first": "2026-10-29T01:09:17.305856+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T01:01:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Andrew Wiggins somehow gets the and-1 to fall"
+   },
+   "last": "2026-10-29T01:09:17.305888+00:00"
   }
  },
- "story_seq": 2481,
+ "story_seq": 2482,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13106,7 +13084,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T00:59:13.149941+00:00",
+ "last_run": "2026-10-29T01:09:14.967197+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
