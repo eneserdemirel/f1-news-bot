@@ -5218,7 +5218,11 @@
   "a131691b1dc2fe66": "2026-10-29T19:21:30.455438+00:00",
   "c7d19b1b9d2f2e6c": "2026-10-29T19:21:30.455438+00:00",
   "58c9f1e77282e7e5": "2026-10-29T19:21:30.455438+00:00",
-  "2b411876d6203ea0": "2026-10-29T19:21:30.455438+00:00"
+  "2b411876d6203ea0": "2026-10-29T19:21:30.455438+00:00",
+  "21672178ff8d4ba4": "2026-10-29T19:31:28.312269+00:00",
+  "826008e7e77aedcc": "2026-10-29T19:31:28.312269+00:00",
+  "104f19d62e257c97": "2026-10-29T19:31:28.312269+00:00",
+  "52c20f6f7fd03c06": "2026-10-29T19:31:28.312269+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5290,19 +5294,6 @@
     "GPFans": "F1 legend Helmut Marko is betting on life after death - with AI"
    },
    "last": "2026-10-27T19:45:35.533361+00:00"
-  },
-  "S2045": {
-   "title": "Conor Benn calls out Conor McGregor, eyes early 2027 return",
-   "first": "2026-10-27T15:04:55.843156+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T14:56:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Conor Benn calls out Conor McGregor, eyes early 2027 return"
-   },
-   "last": "2026-10-27T19:26:05.017693+00:00"
   },
   "S2053": {
    "title": "Colapinto steps aside for Mexico FP1, debutant replaces him",
@@ -13618,14 +13609,16 @@
    "title": "Ocon reveals private Hamilton conversation at US GP",
    "first": "2026-10-29T19:01:37.748169+00:00",
    "sources": {
-    "GPblog": "2026-10-29T19:00:00+00:00"
+    "GPblog": "2026-10-29T19:00:00+00:00",
+    "RacingNews365": "2026-10-29T19:25:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Ocon lifts lid on private Hamilton conversation after Haas exit announcement"
+    "GPblog": "Ocon lifts lid on private Hamilton conversation after Haas exit announcement",
+    "RacingNews365": "Esteban Ocon reveals Lewis Hamilton conversation following Haas axe"
    },
-   "last": "2026-10-29T19:01:37.748173+00:00"
+   "last": "2026-10-29T19:31:33.384212+00:00"
   },
   "S2740": {
    "title": "Formula 1 live coverage of Mexico City GP build-up",
@@ -13691,9 +13684,48 @@
     "Motorsport-Total": "Toto Wolff: Was ihn an Piero Ferraris Aussage über Antonelli so stört - Motorsport-Total.com"
    },
    "last": "2026-10-29T19:21:37.225257+00:00"
+  },
+  "S2745": {
+   "title": "Colts' Jonathan Taylor says he hasn't requested a trade",
+   "first": "2026-10-29T19:31:33.384185+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T18:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colts' Jonathan Taylor confirms he hasn't requested trade: 'Proud to be here'"
+   },
+   "last": "2026-10-29T19:31:33.384204+00:00"
+  },
+  "S2746": {
+   "title": "Ricciardo admits burnout behind Red Bull comeback pursuit",
+   "first": "2026-10-29T19:31:33.384217+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-29T19:26:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Daniel Ricciardo makes F1 burnout admission chasing Red Bull ‘fairytale’ with Max Verstappen"
+   },
+   "last": "2026-10-29T19:31:33.384222+00:00"
+  },
+  "S2747": {
+   "title": "Alonso comments on Albon contact at Austin",
+   "first": "2026-10-29T19:31:33.384227+00:00",
+   "sources": {
+    "AS": "2026-10-29T19:25:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Alonso abronca a Albon: “Y el que se de por aludido...”"
+   },
+   "last": "2026-10-29T19:31:33.384232+00:00"
   }
  },
- "story_seq": 2744,
+ "story_seq": 2747,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13812,22 +13844,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T19:21:30.455438+00:00",
+ "last_run": "2026-10-29T19:31:28.312269+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T19:22:19.109789+00:00",
-   "title": "Antonelli, Austin'de sezonun dokuzuncu galibiyetini aldı",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-10-26T19:22:19.581049+00:00",
-   "title": "Verstappen ve Leclerc, ABD GP'deki mücadeleden memnun kaldı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-26T19:32:16.223579+00:00",
    "title": "Aston Martin, Red Bull ile motor görüşmelerini yalanlamadı",
@@ -15207,6 +15229,16 @@
    "t": "2026-10-29T19:21:43.808865+00:00",
    "title": "Toto Wolff, Piero Ferrari'nin Antonelli hakkındaki sözlerinden neden rahatsız?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T19:31:39.228594+00:00",
+   "title": "Alonso, Albon'a gönderme yaptı: \"Kendini hedef alınmış hisseden...\"",
+   "source": "AS"
+  },
+  {
+   "t": "2026-10-29T19:31:39.560212+00:00",
+   "title": "Ricciardo, Red Bull'a dönüş hayalinin tükenmişlik yarattığını itiraf etti",
+   "source": "PlanetF1"
   }
  ]
 }
