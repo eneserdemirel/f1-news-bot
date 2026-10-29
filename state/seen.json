@@ -5241,7 +5241,10 @@
   "e5e336dfc88841a0": "2026-10-29T20:21:29.185431+00:00",
   "7ca9f97de2c7fbdc": "2026-10-29T20:21:29.185431+00:00",
   "b6ea9b921cb75b9f": "2026-10-29T20:21:29.185431+00:00",
-  "cb4cc4cc56190498": "2026-10-29T20:21:29.185431+00:00"
+  "cb4cc4cc56190498": "2026-10-29T20:21:29.185431+00:00",
+  "bd84beedbba6f90a": "2026-10-29T20:31:29.594984+00:00",
+  "e57ab88e71312473": "2026-10-29T20:31:29.594984+00:00",
+  "664379859fd90c1d": "2026-10-29T20:31:29.594984+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5453,21 +5456,6 @@
    },
    "last": "2026-10-28T06:36:39.192724+00:00"
   },
-  "S2131": {
-   "title": "Colton Herta to earn superlicence in Cadillac Mexico FP1 outing",
-   "first": "2026-10-27T19:35:34.123589+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-27T19:27:00+00:00",
-    "GPblog": "2026-10-27T20:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Colton Herta set to finally earn superlicence with latest Cadillac F1 outing",
-    "GPblog": "Cadillac hands Herta new opportunity to secure key milestone"
-   },
-   "last": "2026-10-27T20:25:31.966447+00:00"
-  },
   "S2137": {
    "title": "Gladbach vs. Paderborn live score (football)",
    "first": "2026-10-27T20:05:37.755401+00:00",
@@ -5480,19 +5468,6 @@
     "ESPN F1": "Gladbach vs. Paderborn (Oct 31, 2026) Live Score"
    },
    "last": "2026-10-28T00:36:07.917277+00:00"
-  },
-  "S2145": {
-   "title": "Liverpool vs. Arsenal odds and spread",
-   "first": "2026-10-27T20:25:31.966419+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T20:16:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Liverpool vs. Arsenal (Nov 1, 2026) Odds and Spread"
-   },
-   "last": "2026-10-27T20:25:31.966439+00:00"
   },
   "S2146": {
    "title": "Mitchell Starc admits cricket form has not felt right",
@@ -13766,9 +13741,48 @@
     "Motorsport-Total": "\"Das Auto hat sein Limit erreicht\": Bearman mit klarer Haas-Diagnose - Motorsport-Total.com"
    },
    "last": "2026-10-29T20:21:33.315965+00:00"
+  },
+  "S2765": {
+   "title": "Drivers including Bearman push back on Alonso's backmarker criticism",
+   "first": "2026-10-29T20:31:34.677537+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T20:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Felle Alonso stuit op weerstand: \"Hopelijk komen we elkaar daar niet tegen\""
+   },
+   "last": "2026-10-29T20:31:34.677555+00:00"
+  },
+  "S2766": {
+   "title": "MotoGP Sepang weather concerns ahead of Malaysian weekend",
+   "first": "2026-10-29T20:31:34.677560+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T20:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Severe weather conditions can once again influence MotoGP in Sepang"
+   },
+   "last": "2026-10-29T20:31:34.677566+00:00"
+  },
+  "S2767": {
+   "title": "Russell admits Antonelli has operated at a higher level this season",
+   "first": "2026-10-29T20:31:34.677570+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T20:23:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Russell delivers brutal self-assessment with Antonelli on brink of F1 title"
+   },
+   "last": "2026-10-29T20:31:34.677574+00:00"
   }
  },
- "story_seq": 2764,
+ "story_seq": 2767,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13887,7 +13901,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T20:21:29.185431+00:00",
+ "last_run": "2026-10-29T20:31:29.594984+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -15312,6 +15326,11 @@
    "t": "2026-10-29T20:21:39.804765+00:00",
    "title": "Nico Hülkenberg performansından \"temelde memnun\" olduğunu söyledi",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T20:31:41.430299+00:00",
+   "title": "Russell, Antonelli şampiyonluğa yaklaşırken sert bir özeleştiri yaptı",
+   "source": "GPblog"
   }
  ]
 }
