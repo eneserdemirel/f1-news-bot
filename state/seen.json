@@ -5250,7 +5250,10 @@
   "7d4765a21a72ba45": "2026-10-29T20:51:29.495125+00:00",
   "e79351482c835c8a": "2026-10-29T20:51:29.495125+00:00",
   "631c4435e378c4d4": "2026-10-29T20:51:29.495125+00:00",
-  "5cf4105108e167d8": "2026-10-29T20:51:29.495125+00:00"
+  "5cf4105108e167d8": "2026-10-29T20:51:29.495125+00:00",
+  "9a8c60f8a8a7a92e": "2026-10-29T21:01:29.381063+00:00",
+  "b512f3b975c8da41": "2026-10-29T21:01:29.381063+00:00",
+  "23e7a66b9eddb357": "2026-10-29T21:01:29.381063+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5390,19 +5393,6 @@
     "GPFans": "Kimi Antonelli set for big payday bonus as F1 championship looms"
    },
    "last": "2026-10-28T08:46:43.128220+00:00"
-  },
-  "S2105": {
-   "title": "Kai Rooney scores four for Man United Under-18s",
-   "first": "2026-10-27T18:05:35.997306+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T18:04:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wayne Rooney's son Kai scores four for Man United Under-18s vs. Burnley"
-   },
-   "last": "2026-10-27T20:55:31.219700+00:00"
   },
   "S2112": {
    "title": "Hornets to retire Muggsy Bogues' No. 1 jersey",
@@ -13191,14 +13181,16 @@
    "title": "Ricciardo says Antonelli's 'superpower' explains his strength",
    "first": "2026-10-29T18:31:30.316216+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-29T18:26:37+00:00"
+    "Motorsport-Total": "2026-10-29T18:26:37+00:00",
+    "GPblog": "2026-10-29T21:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Daniel Ricciardo: Diese \"Superkraft\" macht Kimi Antonelli so stark - Motorsport-Total.com"
+    "Motorsport-Total": "Daniel Ricciardo: Diese \"Superkraft\" macht Kimi Antonelli so stark - Motorsport-Total.com",
+    "GPblog": "Ricciardo offers blunt warning to Antonelli: 'Ignorance is a superpower'"
    },
-   "last": "2026-10-29T18:31:30.316234+00:00"
+   "last": "2026-10-29T21:01:33.416930+00:00"
   },
   "S2729": {
    "title": "Asa Montgomery's decision day and Duke commitment",
@@ -13775,9 +13767,35 @@
     "ESPN F1": "Man City vs. PSG (29 Oct, 2026) Live Score"
    },
    "last": "2026-10-29T20:51:34.079079+00:00"
+  },
+  "S2773": {
+   "title": "Jack Grealish misses Everton-Newcastle over club discipline breach",
+   "first": "2026-10-29T21:01:33.416891+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T20:07:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jack Grealish misses Everton-Newcastle due to 'breach of club discipline'"
+   },
+   "last": "2026-10-29T21:01:33.416911+00:00"
+  },
+  "S2774": {
+   "title": "Leclerc says Ferrari is not the favourite for Mexico GP",
+   "first": "2026-10-29T21:01:33.416918+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T21:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Leclerc weerspreekt favorietenrol Ferrari in Mexico"
+   },
+   "last": "2026-10-29T21:01:33.416924+00:00"
   }
  },
- "story_seq": 2772,
+ "story_seq": 2774,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13896,7 +13914,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T20:51:29.495125+00:00",
+ "last_run": "2026-10-29T21:01:29.381063+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -15326,6 +15344,11 @@
    "t": "2026-10-29T20:31:41.430299+00:00",
    "title": "Russell, Antonelli şampiyonluğa yaklaşırken sert bir özeleştiri yaptı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-29T21:01:38.128898+00:00",
+   "title": "Leclerc, Ferrari'nin Meksika'da favori olduğu görüşüne katılmıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
