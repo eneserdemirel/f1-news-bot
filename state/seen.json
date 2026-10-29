@@ -5141,7 +5141,12 @@
   "d5e3be3c1d5d834f": "2026-10-29T15:40:55.255995+00:00",
   "65c027663d8756bf": "2026-10-29T15:50:57.149341+00:00",
   "3abe8f03fb09b504": "2026-10-29T15:50:57.149341+00:00",
-  "287f144c3034ffae": "2026-10-29T16:01:30.540342+00:00"
+  "287f144c3034ffae": "2026-10-29T16:01:30.540342+00:00",
+  "b1c98b97fd6bfab7": "2026-10-29T16:11:32.285537+00:00",
+  "4b7e601d82d96259": "2026-10-29T16:11:32.285537+00:00",
+  "e299afa82c968964": "2026-10-29T16:11:32.285537+00:00",
+  "b2f1e91e8d2ba1eb": "2026-10-29T16:11:32.285537+00:00",
+  "0814b0fa918c3684": "2026-10-29T16:11:32.285537+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5163,27 +5168,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S1719": {
-   "title": "Wolff hits back at Helmut Marko over Russell criticism",
-   "first": "2026-10-26T12:01:18.790104+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-26T11:59:03+00:00",
-    "GPblog": "2026-10-26T22:00:00+00:00",
-    "RacingNews365 NL": "2026-10-27T12:15:00+00:00",
-    "Crash.net": "2026-10-27T15:05:22+00:00",
-    "Sky Sports F1": "2026-10-27T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Toto Wolff hits back at ‘Austrian not so buddy’ Helmut Marko over Russell claim",
-    "GPblog": "Wolff defends Russell after brutal verdict from \"Austrian not so buddy\" Marko",
-    "RacingNews365 NL": "Wolff reageert op 'niet zo goede makker' Marko: \"Dat heeft hij wél in zich'",
-    "Crash.net": "Toto Wolff's blunt response to Helmut Marko's claim George Russell is 'no longer number one'",
-    "Sky Sports F1": "Wolff rejects Marko's doubts over Russell's future F1 title hopes"
-   },
-   "last": "2026-10-27T16:04:53.430440+00:00"
-  },
   "S1928": {
    "title": "Timetable for Mexico GP 2026 weekend published",
    "first": "2026-10-27T06:03:24.004930+00:00",
@@ -5450,19 +5434,6 @@
     "PlanetF1": "Colapinto to sit out Mexican GP FP1 as Alpine hand junior driver F1 weekend debut"
    },
    "last": "2026-10-28T11:27:41.197130+00:00"
-  },
-  "S2068": {
-   "title": "Analysis of Verstappen's Austin tyre strategy critique",
-   "first": "2026-10-27T16:04:53.430450+00:00",
-   "sources": {
-    "GPblog": "2026-10-27T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen's Austin strategy critique analysed: what the numbers reveal"
-   },
-   "last": "2026-10-27T16:04:53.430457+00:00"
   },
   "S2069": {
    "title": "Liverpool optimistic Florian Wirtz will be fit for Chelsea",
@@ -12215,14 +12186,16 @@
    "title": "Ricciardo says he wishes he had stayed at Red Bull",
    "first": "2026-10-29T07:50:08.339546+00:00",
    "sources": {
-    "Motorsport-Total": "2026-10-29T07:40:51+00:00"
+    "Motorsport-Total": "2026-10-29T07:40:51+00:00",
+    "PlanetF1": "2026-10-29T16:04:50+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Daniel Ricciardo: \"Ich wünschte, ich wäre bei Red Bull geblieben\" - Motorsport-Total.com"
+    "Motorsport-Total": "Daniel Ricciardo: \"Ich wünschte, ich wäre bei Red Bull geblieben\" - Motorsport-Total.com",
+    "PlanetF1": "Red Bull regret? World title opportunity lost? Daniel Ricciardo reveals all"
    },
-   "last": "2026-10-29T11:10:58.937959+00:00"
+   "last": "2026-10-29T16:11:38.051500+00:00"
   },
   "S2575": {
    "title": "Delhi set record highest total in domestic women's T20s",
@@ -13757,7 +13730,7 @@
    "titles": {
     "ESPN F1": "Bruno Fernandes retains Man United captaincy - Michael Carrick"
    },
-   "last": "2026-10-29T15:31:00.963086+00:00"
+   "last": "2026-10-29T16:11:38.051475+00:00"
   },
   "S2692": {
    "title": "Newey admits rake bet on AMR26 did not work for Aston Martin",
@@ -13849,9 +13822,48 @@
     "GPblog": "Mekies to face Max Verstappen strategy questions in Mexico as Red Bull keep review findings private"
    },
    "last": "2026-10-29T16:01:33.115220+00:00"
+  },
+  "S2699": {
+   "title": "Christian Yelich honors late Bob Uecker after Brewers title",
+   "first": "2026-10-29T16:11:38.051447+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T15:35:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Christian Yelich honors late Bob Uecker after Brewers' title"
+   },
+   "last": "2026-10-29T16:11:38.051466+00:00"
+  },
+  "S2700": {
+   "title": "Ricciardo open to Le Mans comeback, admits F1 career likely over",
+   "first": "2026-10-29T16:11:38.051481+00:00",
+   "sources": {
+    "Autosport": "2026-10-29T16:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Why Ricciardo would consider a comeback at Le Mans"
+   },
+   "last": "2026-10-29T16:11:38.051487+00:00"
+  },
+  "S2701": {
+   "title": "Preview: whether Mexico altitude helps Verstappen after Austin struggles",
+   "first": "2026-10-29T16:11:38.051491+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull in de problemen: helpt de hoogte van Mexico Verstappen?"
+   },
+   "last": "2026-10-29T16:11:38.051495+00:00"
   }
  },
- "story_seq": 2698,
+ "story_seq": 2701,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13970,17 +13982,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T16:01:30.540342+00:00",
+ "last_run": "2026-10-29T16:11:32.285537+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
  "last_digest_at": "2026-10-29T12:00:58.908263+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T16:02:14.157818+00:00",
-   "title": "F1, WRC ve BTCC araçları St James's Motoring Spectacle'da öne çıkacak",
-   "source": "The Race"
-  },
   {
    "t": "2026-10-26T16:12:13.148575+00:00",
    "title": "F1 pilotları Katar ve Abu Dabi yarışlarının iptalini talep etmiyor",
@@ -15370,6 +15377,16 @@
    "t": "2026-10-29T15:41:05.349145+00:00",
    "title": "Ferrari'nin marka değeri 17,7 milyar dolara yükseldi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-29T16:11:44.159280+00:00",
+   "title": "Red Bull sorunlarla boğuşuyor: Mexico'nun yüksekliği Verstappen'e yardımcı olacak mı?",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-29T16:11:44.492396+00:00",
+   "title": "Ricciardo, Le Mans'ta yarışa dönebilir mi?",
+   "source": "Autosport"
   }
  ]
 }
