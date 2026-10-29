@@ -5056,7 +5056,14 @@
   "86496f7a3d43f2ff": "2026-10-29T12:00:51.748173+00:00",
   "1139f6321e88e7a4": "2026-10-29T12:00:51.748173+00:00",
   "3fc71104dc776745": "2026-10-29T12:00:51.748173+00:00",
-  "67ad2823baab0149": "2026-10-29T12:00:51.748173+00:00"
+  "67ad2823baab0149": "2026-10-29T12:00:51.748173+00:00",
+  "8e160d807205d0f4": "2026-10-29T12:10:53.145275+00:00",
+  "12ed9b8209c698ea": "2026-10-29T12:10:53.145275+00:00",
+  "749b7169149f18a4": "2026-10-29T12:10:53.145275+00:00",
+  "55ce3a10f6f7953c": "2026-10-29T12:10:53.145275+00:00",
+  "857bfb1e0e5d7566": "2026-10-29T12:10:53.145275+00:00",
+  "5fd562d7e5ec632b": "2026-10-29T12:10:53.145275+00:00",
+  "6443cf94db1e0d6f": "2026-10-29T12:10:53.145275+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5415,19 +5422,6 @@
     "FormulaPassion": "Fondo, deflettori e bargeboard distrutti: ecco come era ridotta la macchina di Alonso ad Austin"
    },
    "last": "2026-10-27T17:24:53.675086+00:00"
-  },
-  "S2007": {
-   "title": "Daejeon vs. Vissel Kobe live score (football)",
-   "first": "2026-10-27T12:04:03.995972+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T10:21:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Daejeon vs. Vissel Kobe (27 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-27T12:04:03.995989+00:00"
   },
   "S2008": {
    "title": "Russell to miss Mexico GP first practice under mandatory rule",
@@ -10441,16 +10435,18 @@
    "sources": {
     "PlanetF1": "2026-10-28T17:30:59+00:00",
     "RacingNews365": "2026-10-28T17:20:00+00:00",
-    "GPblog": "2026-10-29T01:00:00+00:00"
+    "GPblog": "2026-10-29T01:00:00+00:00",
+    "Crash.net": "2026-10-29T11:54:21+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Liam Lawson to miss Mexico City FP1 as Racing Bulls contender steps in",
     "RacingNews365": "Nikola Tsolov replaces Liam Lawson at Racing Bulls for Mexico FP1",
-    "GPblog": "Racing Bulls hand Liam Lawson's car to 2027 rival Tsolov for Mexico FP1"
+    "GPblog": "Racing Bulls hand Liam Lawson's car to 2027 rival Tsolov for Mexico FP1",
+    "Crash.net": "Racing Bulls announcement increases spotlight on looming F1 driver decision"
    },
-   "last": "2026-10-29T01:09:17.305897+00:00"
+   "last": "2026-10-29T12:11:01.489151+00:00"
   },
   "S2379": {
    "title": "Hamilton lists what he needs to fight for wins",
@@ -13776,9 +13772,87 @@
     "AS": "El destino quiso que Pérez logrará la 300 en México"
    },
    "last": "2026-10-29T12:00:56.218884+00:00"
+  },
+  "S2634": {
+   "title": "Kings of Leon and others headline Abu Dhabi GP Yasalam festival",
+   "first": "2026-10-29T12:11:01.489097+00:00",
+   "sources": {
+    "Formula 1": "2026-10-29T12:11:01.489113+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Kings of Leon complete star-studded line-up for Abu Dhabi GP"
+   },
+   "last": "2026-10-29T12:11:01.489117+00:00"
+  },
+  "S2635": {
+   "title": "Micah Parsons ACL recovery timeline compared with Mahomes",
+   "first": "2026-10-29T12:11:01.489122+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T10:33:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Micah Parsons' ACL recovery is taking longer than Patrick Mahomes'"
+   },
+   "last": "2026-10-29T12:11:01.489126+00:00"
+  },
+  "S2636": {
+   "title": "Perez's second F1 act: Red Bull regrets and Cadillac fresh start",
+   "first": "2026-10-29T12:11:01.489129+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T10:19:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sergio Pérez's F1 second act: Red Bull regrets, redemption and a fresh start at Cadillac"
+   },
+   "last": "2026-10-29T12:11:01.489133+00:00"
+  },
+  "S2637": {
+   "title": "Audi reorganises power unit division, Fuhr named new CEO",
+   "first": "2026-10-29T12:11:01.489136+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-29T12:00:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Audi riorganizza la divisione power unit: Fuhr sarà il nuovo CEO"
+   },
+   "last": "2026-10-29T12:11:01.489140+00:00"
+  },
+  "S2638": {
+   "title": "F1's new approach to track limits after US GP violations",
+   "first": "2026-10-29T12:11:01.489142+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-29T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "In the Tall Grass: F1’s new answer to track limits"
+   },
+   "last": "2026-10-29T12:11:01.489145+00:00"
+  },
+  "S2639": {
+   "title": "Vettel reflects on his BMW-era F1 years",
+   "first": "2026-10-29T12:11:01.489154+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-29T12:04:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Nicht so schnell und nicht so gut\": Sebastian Vettel über seine BMW-Zeit - Motorsport-Total.com"
+   },
+   "last": "2026-10-29T12:11:01.489158+00:00"
   }
  },
- "story_seq": 2633,
+ "story_seq": 2639,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13897,27 +13971,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T12:00:51.748173+00:00",
+ "last_run": "2026-10-29T12:10:53.145275+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
  "last_digest_at": "2026-10-29T12:00:58.908263+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T12:01:33.490903+00:00",
-   "title": "Antonelli'nin ABD GP zaferi Sky'da 2022'den bu yana en yüksek izlenme",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-10-26T12:01:33.941978+00:00",
-   "title": "Wolff, Marko'nun Russell yorumuna karşılık verdi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-10-26T12:01:34.352990+00:00",
-   "title": "Lawson, Racing Bulls'u üst üste üçüncü hafta puan zonunda taşıdı",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-26T12:11:19.801327+00:00",
    "title": "Hamilton, Ferrari'nin 2027'de şampiyonluk adayı olmak için neye ihtiyacı olduğunu açıkladı",
@@ -15277,6 +15336,31 @@
    "t": "2026-10-29T11:31:06.848378+00:00",
    "title": "Verstappen, Lambiase'in yerine geçen Hart ile çalışırken hayal kırıklığına uğradı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-29T12:11:09.841809+00:00",
+   "title": "Sergio Pérez'in F1'deki ikinci perdesi: Red Bull pişmanlığı ve Cadillac'te yeni başlangıç",
+   "source": "ESPN F1"
+  },
+  {
+   "t": "2026-10-29T12:11:10.353366+00:00",
+   "title": "F1'de pist sınırı ihlalleri ve kaplama sorunu üzerine görüş",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-10-29T12:11:10.946052+00:00",
+   "title": "Audi power unit bölümünü yeniden yapılandırıyor: Thomas Fuhr yeni CEO oluyor",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-29T12:11:11.502079+00:00",
+   "title": "Vettel, BMW dönemini değerlendirdi: \"Pek hızlı ve pek iyi değildik\"",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T12:11:12.123317+00:00",
+   "title": "Kings of Leon, Abu Dhabi Grand Prix konser kadrosunu tamamladı",
+   "source": "Formula 1"
   }
  ]
 }
