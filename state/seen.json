@@ -5097,7 +5097,13 @@
   "6838130618a690c8": "2026-10-29T13:30:53.697267+00:00",
   "2b9ec468bb13af12": "2026-10-29T13:40:55.923401+00:00",
   "51e060efc492f621": "2026-10-29T13:50:54.533378+00:00",
-  "0f26a5ab5035b977": "2026-10-29T13:50:54.533378+00:00"
+  "0f26a5ab5035b977": "2026-10-29T13:50:54.533378+00:00",
+  "6950836feb2e8b7f": "2026-10-29T14:00:54.656529+00:00",
+  "8f6bfe3852c3e91b": "2026-10-29T14:00:54.656529+00:00",
+  "63abd1fa39347ee4": "2026-10-29T14:00:54.656529+00:00",
+  "990c2ff3ba2a7c54": "2026-10-29T14:00:54.656529+00:00",
+  "f1642783bf492864": "2026-10-29T14:00:54.656529+00:00",
+  "bf2616ce3d6d153a": "2026-10-29T14:00:54.656529+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5407,32 +5413,6 @@
     "Motorsport-Total": "Bearman hadert mit Strafe: \"Kann mich nicht einfach in Luft auflösen\" - Motorsport-Total.com"
    },
    "last": "2026-10-27T16:34:56.188711+00:00"
-  },
-  "S2029": {
-   "title": "Hadjar says 'stupid little things' are ruining his F1 races",
-   "first": "2026-10-27T13:54:54.716434+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-27T13:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Isack Hadjar demands Red Bull fixes 'stupid little things' ruining F1 races"
-   },
-   "last": "2026-10-27T13:54:54.716452+00:00"
-  },
-  "S2030": {
-   "title": "Newey responds to Horner's claims in his new book",
-   "first": "2026-10-27T13:54:54.716458+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-27T13:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Newey reageert op Horner-claims"
-   },
-   "last": "2026-10-27T13:54:54.716463+00:00"
   },
   "S2031": {
    "title": "Helmut Marko invests in AI start-up that lets people 'speak from beyond'",
@@ -11592,14 +11572,16 @@
    "title": "F1 Today roundup: Perez deal and Antonelli 2027 decision",
    "first": "2026-10-29T01:49:42.411210+00:00",
    "sources": {
-    "GPblog": "2026-10-28T20:33:19+00:00"
+    "GPblog": "2026-10-28T20:33:19+00:00",
+    "PlanetF1": "2026-10-29T13:54:11+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "F1 Today | Sergio Perez's new F1 deal tops the news while Kimi Antonelli makes a decision for 2027"
+    "GPblog": "F1 Today | Sergio Perez's new F1 deal tops the news while Kimi Antonelli makes a decision for 2027",
+    "PlanetF1": "Kimi Antonelli makes F1 number one decision as 2026 title win approaches"
    },
-   "last": "2026-10-29T01:49:42.411213+00:00"
+   "last": "2026-10-29T14:00:59.059260+00:00"
   },
   "S2490": {
    "title": "Heat beat Hawks 129-117 in NBA game recap",
@@ -13863,9 +13845,74 @@
     "RacingNews365 NL": "Antonelli onthult ambitie geïnspireerd door Verstappen"
    },
    "last": "2026-10-29T13:50:57.850709+00:00"
+  },
+  "S2663": {
+   "title": "South Africa picks Durban as preferred Olympic host city",
+   "first": "2026-10-29T14:00:59.059224+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T11:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "South Africa chooses Durban as preferred city to host 2036 or 2040 Olympics"
+   },
+   "last": "2026-10-29T14:00:59.059244+00:00"
+  },
+  "S2664": {
+   "title": "Verstappen highlights Mexico focus ahead of record bid",
+   "first": "2026-10-29T14:00:59.059249+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-29T13:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen highlights crucial Mexico focus as new record beckons"
+   },
+   "last": "2026-10-29T14:00:59.059254+00:00"
+  },
+  "S2665": {
+   "title": "FIA threatens fan and media bans over driver abuse",
+   "first": "2026-10-29T14:00:59.059264+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "FIA threatens to ban fans and media after revealing Gasly received 13,000 death threats"
+   },
+   "last": "2026-10-29T14:00:59.059267+00:00"
+  },
+  "S2666": {
+   "title": "Bagnaia says he never sought or received Ducati team help",
+   "first": "2026-10-29T14:00:59.059270+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-29T13:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Bagnaia: “Mai chiesto o ricevuto aiuti dalle altre Ducati”"
+   },
+   "last": "2026-10-29T14:00:59.059274+00:00"
+  },
+  "S2667": {
+   "title": "Which F1 teams use which fuel in 2026",
+   "first": "2026-10-29T14:00:59.059276+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-29T13:56:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel 1 2026: Welches Team welchen Kraftstoff tankt - Motorsport-Total.com"
+   },
+   "last": "2026-10-29T14:00:59.059279+00:00"
   }
  },
- "story_seq": 2662,
+ "story_seq": 2667,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13984,7 +14031,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T13:50:54.533378+00:00",
+ "last_run": "2026-10-29T14:00:54.656529+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
@@ -15379,6 +15426,21 @@
    "t": "2026-10-29T13:51:03.722685+00:00",
    "title": "Antonelli, Verstappen'den ilham alarak GT3 yarışı hayalini açıkladı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-29T14:01:05.402990+00:00",
+   "title": "Verstappen, Meksika GP'de soğutma sisteminin kritik olduğunu vurguladı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-29T14:01:05.910866+00:00",
+   "title": "Formula 1 2026: Hangi takım hangi yakıtı kullanacak",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T14:01:06.461071+00:00",
+   "title": "FIA, Gasly'ye gelen 13.000 ölüm tehdidi sonrası taraftar ve medyaya yasak tehdidi savurdu",
+   "source": "GPblog"
   }
  ]
 }
