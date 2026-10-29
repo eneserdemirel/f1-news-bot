@@ -5314,7 +5314,9 @@
   "d6b5ccc81f9c516d": "2026-10-29T23:32:17.606199+00:00",
   "4f47e0ef69ebe824": "2026-10-29T23:32:17.606199+00:00",
   "1e245c1d8753b6b0": "2026-10-29T23:32:17.606199+00:00",
-  "41625ad00c88f8bf": "2026-10-29T23:42:16.941755+00:00"
+  "41625ad00c88f8bf": "2026-10-29T23:42:16.941755+00:00",
+  "4a1da897d623c383": "2026-10-29T23:52:17.407832+00:00",
+  "679b100999836215": "2026-10-29T23:52:17.407832+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13789,15 +13791,17 @@
    "first": "2026-10-29T22:02:19.305468+00:00",
    "sources": {
     "GPblog": "2026-10-29T21:55:00+00:00",
-    "Crash.net": "2026-10-29T23:27:28+00:00"
+    "Crash.net": "2026-10-29T23:27:28+00:00",
+    "Sky Sports F1": "2026-10-29T23:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Hamilton declares he is ‘built differently' and F1 has 'never had anyone' like him",
-    "Crash.net": "Lewis Hamilton “built differently” and states F1 has ‘never had anyone like me’"
+    "Crash.net": "Lewis Hamilton “built differently” and states F1 has ‘never had anyone like me’",
+    "Sky Sports F1": "'I'm built differently' - Hamilton defiant over extending F1 career into 2030s"
    },
-   "last": "2026-10-29T23:32:20.729788+00:00"
+   "last": "2026-10-29T23:52:20.192817+00:00"
   },
   "S2792": {
    "title": "FIA Thursday press conference transcript, Mexico City GP",
@@ -14142,9 +14146,22 @@
     "ESPN F1": "UCLA QB Iamaleava 'heartbroken' over season-ending injury"
    },
    "last": "2026-10-29T23:42:18.276799+00:00"
+  },
+  "S2818": {
+   "title": "Everything learned on day one of F1's Mexico GP",
+   "first": "2026-10-29T23:52:20.192826+00:00",
+   "sources": {
+    "The Race": "2026-10-29T23:45:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Everything we learned on day one of F1's Mexican GP"
+   },
+   "last": "2026-10-29T23:52:20.192833+00:00"
   }
  },
- "story_seq": 2817,
+ "story_seq": 2818,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14263,7 +14280,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-29T23:42:16.941755+00:00",
+ "last_run": "2026-10-29T23:52:17.407832+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -15778,6 +15795,11 @@
    "t": "2026-10-29T23:32:24.766881+00:00",
    "title": "Verstappen: Pilotlar Şampiyonası'na aslında önem vermiyorum",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-29T23:52:24.410257+00:00",
+   "title": "F1 Meksika GP'sinde ilk gün: 2026 turbolarına zorlu test",
+   "source": "The Race"
   }
  ]
 }
