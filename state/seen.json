@@ -4981,7 +4981,10 @@
   "4932add8431213ff": "2026-10-29T07:50:05.528732+00:00",
   "d7307b2b2af81336": "2026-10-29T08:00:03.549043+00:00",
   "61eb1a34ea8ea74a": "2026-10-29T08:00:03.549043+00:00",
-  "fd64d6e5742dd098": "2026-10-29T08:00:03.549043+00:00"
+  "fd64d6e5742dd098": "2026-10-29T08:00:03.549043+00:00",
+  "bfb04e4a1a64258e": "2026-10-29T08:10:03.027490+00:00",
+  "0b7f58bc23c6ef42": "2026-10-29T08:10:03.027490+00:00",
+  "8a6921bcbee53831": "2026-10-29T08:10:03.027490+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5189,21 +5192,6 @@
    },
    "last": "2026-10-27T10:04:04.217548+00:00"
   },
-  "S1941": {
-   "title": "Mercedes reportedly invested €10m in Antonelli's career",
-   "first": "2026-10-27T07:24:07.946258+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-27T07:00:00+00:00",
-    "Gazzetta dello Sport": "2026-10-27T07:56:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "La Mercedes ha investito 10 milioni di euro su Antonelli e ora passa all’incasso",
-    "Gazzetta dello Sport": "Wolff: \"Per altri team Kimi non meritava la F1: abbiamo investito 10 milioni per costruire un campione\""
-   },
-   "last": "2026-10-27T08:04:04.199165+00:00"
-  },
   "S1945": {
    "title": "Prince William says Harry Kane's Ballon d'Or win was deserved",
    "first": "2026-10-27T07:34:03.164179+00:00",
@@ -5285,32 +5273,6 @@
     "AS": "Las cuentas de Antonelli: campeón “al 99,9%”"
    },
    "last": "2026-10-27T15:04:55.843220+00:00"
-  },
-  "S1960": {
-   "title": "Leclerc explains his brave overtake on Verstappen in Austin",
-   "first": "2026-10-27T08:04:04.199132+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-27T08:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Charles Leclerc explains stunning Max Verstappen overtake after 'coming to play'"
-   },
-   "last": "2026-10-27T08:04:04.199148+00:00"
-  },
-  "S1961": {
-   "title": "Ralf Schumacher calls Horner's book claims about Verstappen a lie",
-   "first": "2026-10-27T08:04:04.199154+00:00",
-   "sources": {
-    "GPFans": "2026-10-27T07:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner accused of 'complete lie' about Max Verstappen's Red Bull past"
-   },
-   "last": "2026-10-27T08:04:04.199159+00:00"
   },
   "S1962": {
    "title": "Albie Morkel, Mohit Sharma and Gareth Batty appointed CSK assistant coaches",
@@ -13553,9 +13515,35 @@
     "GPFans": "F1 insider makes shocking Aston Martin Honda 'scapegoat' claim"
    },
    "last": "2026-10-29T08:00:06.261860+00:00"
+  },
+  "S2578": {
+   "title": "Sainz says drivers should be patient with blue flags",
+   "first": "2026-10-29T08:10:06.240620+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-29T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Leading F1 drivers issued major plea by old rival: 'Bear with us'"
+   },
+   "last": "2026-10-29T08:10:06.240638+00:00"
+  },
+  "S2579": {
+   "title": "Verstappen could decide Antonelli's title at Mexico City GP",
+   "first": "2026-10-29T08:10:06.240645+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Max Verstappen holds key to Kimi Antonelli's F1 title in Mexico"
+   },
+   "last": "2026-10-29T08:10:06.240650+00:00"
   }
  },
- "story_seq": 2577,
+ "story_seq": 2579,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13674,7 +13662,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T08:00:03.549043+00:00",
+ "last_run": "2026-10-29T08:10:03.027490+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
@@ -15019,6 +15007,16 @@
    "t": "2026-10-29T08:00:12.637471+00:00",
    "title": "Eski Ferrari mühendisi: Honda kötü ama Aston Martin'in sorunlarının tümü ondan kaynaklanmıyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-29T08:10:12.076234+00:00",
+   "title": "Sainz, lider pilotlara mavi bayrak konusunda çağrıda bulundu",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-29T08:10:12.602217+00:00",
+   "title": "Verstappen, Antonelli'nin Meksika'daki şampiyonluk kaderini belirleyebilir",
+   "source": "GPblog"
   }
  ]
 }
