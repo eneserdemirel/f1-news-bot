@@ -5200,7 +5200,10 @@
   "a52b612907e77880": "2026-10-29T18:11:31.322195+00:00",
   "27db85582a4f64bf": "2026-10-29T18:21:30.615565+00:00",
   "0ac16a24d8394520": "2026-10-29T18:21:30.615565+00:00",
-  "6826ea42c29b2d14": "2026-10-29T18:31:28.174991+00:00"
+  "6826ea42c29b2d14": "2026-10-29T18:31:28.174991+00:00",
+  "36b4f84bbf871643": "2026-10-29T18:41:29.091794+00:00",
+  "e23743ef33960518": "2026-10-29T18:41:29.091794+00:00",
+  "2f8a3de8ef31d6eb": "2026-10-29T18:41:29.091794+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5483,19 +5486,6 @@
    },
    "last": "2026-10-28T10:37:19.444543+00:00"
   },
-  "S2115": {
-   "title": "Red Bull pit-wall misjudgement cost Verstappen in Austin",
-   "first": "2026-10-27T18:35:38.013625+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-27T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Zeldzame strategische misser Red Bull brengt Verstappen in het nauw"
-   },
-   "last": "2026-10-27T18:35:38.013644+00:00"
-  },
   "S2116": {
    "title": "Lawson earns 'perfect' verdict as Racing Bulls decision looms",
    "first": "2026-10-27T18:35:38.013649+00:00",
@@ -5510,19 +5500,6 @@
     "GPblog": "Liam Lawson handed special request ahead of Mexican GP weekend"
    },
    "last": "2026-10-27T23:06:10.606240+00:00"
-  },
-  "S2117": {
-   "title": "Abu Dhabi GP promotion continues despite Middle East tensions",
-   "first": "2026-10-27T18:35:38.013657+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-27T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Rischio cancellazione? La guerra non turba Abu Dhabi: la promozione del GP va avanti senza tentennamenti"
-   },
-   "last": "2026-10-27T18:35:38.013661+00:00"
   },
   "S2118": {
    "title": "Amorim injury headache before Bologna derby",
@@ -13690,9 +13667,35 @@
     "Motorsport-Total": "Daniel Ricciardo: Diese \"Superkraft\" macht Kimi Antonelli so stark - Motorsport-Total.com"
    },
    "last": "2026-10-29T18:31:30.316234+00:00"
+  },
+  "S2729": {
+   "title": "Asa Montgomery's decision day and Duke commitment",
+   "first": "2026-10-29T18:41:32.238981+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T18:35:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How Asa Montgomery's decision day progressed to his Duke commitment"
+   },
+   "last": "2026-10-29T18:41:32.239007+00:00"
+  },
+  "S2730": {
+   "title": "Perez issues 'painful' warning ahead of Mexico GP milestone",
+   "first": "2026-10-29T18:41:32.239012+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-29T18:39:45+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Sergio Perez issues ‘painful’ warning ahead of Mexican GP landmark"
+   },
+   "last": "2026-10-29T18:41:32.239017+00:00"
   }
  },
- "story_seq": 2728,
+ "story_seq": 2730,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13811,7 +13814,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T18:31:28.174991+00:00",
+ "last_run": "2026-10-29T18:41:29.091794+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
@@ -15186,6 +15189,11 @@
    "t": "2026-10-29T18:31:34.096185+00:00",
    "title": "Ricciardo: Antonelli'yi bu \"süper güç\" bu kadar güçlü yapıyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-29T18:41:37.079019+00:00",
+   "title": "Perez, Meksika GP'deki 300. yarışı öncesi 'acı verici' olacağı uyarısında bulundu",
+   "source": "PlanetF1"
   }
  ]
 }
