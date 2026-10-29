@@ -5018,7 +5018,11 @@
   "e7618a9cbe204700": "2026-10-29T10:10:01.897202+00:00",
   "a5013ca9a313dcc8": "2026-10-29T10:10:01.897202+00:00",
   "5009db4ee11b160c": "2026-10-29T10:20:05.967933+00:00",
-  "957ea966668d96f2": "2026-10-29T10:20:05.967933+00:00"
+  "957ea966668d96f2": "2026-10-29T10:20:05.967933+00:00",
+  "24902a0980c16c43": "2026-10-29T10:40:01.563086+00:00",
+  "18db138175e7baad": "2026-10-29T10:40:01.563086+00:00",
+  "d8eeb59d345849b3": "2026-10-29T10:40:01.563086+00:00",
+  "1415718536f564b0": "2026-10-29T10:40:01.563086+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5320,32 +5324,6 @@
    },
    "last": "2026-10-27T18:45:35.376188+00:00"
   },
-  "S1982": {
-   "title": "Darul Ta'zim vs. Port FC live score",
-   "first": "2026-10-27T10:34:03.188410+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T10:21:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Darul Ta'zim vs. Port FC (27 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-27T10:34:03.188429+00:00"
-  },
-  "S1983": {
-   "title": "Bucks poke fun at Rays after World Series loss",
-   "first": "2026-10-27T10:34:03.188436+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T05:18:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Milwaukee Bucks poke fun at Rays' World Series loss, Heat's 0-4 start in postgame jab"
-   },
-   "last": "2026-10-27T10:34:03.188442+00:00"
-  },
   "S1984": {
    "title": "Sainz baffled by no penalty for Lindblad start incident",
    "first": "2026-10-27T10:34:03.188446+00:00",
@@ -5360,19 +5338,6 @@
     "Motorsport-Total": "Carlos Sainz: Verstehe nicht, warum Lindblad dafür nicht bestraft wurde - Motorsport-Total.com"
    },
    "last": "2026-10-27T13:44:55.340458+00:00"
-  },
-  "S1985": {
-   "title": "Antonelli concerned by Verstappen's early pit stop in Austin",
-   "first": "2026-10-27T10:34:03.188455+00:00",
-   "sources": {
-    "GPblog": "2026-10-27T10:31:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Antonelli admits Verstappen's early pit stop left him concerned in Austin"
-   },
-   "last": "2026-10-27T10:34:03.188459+00:00"
   },
   "S1986": {
    "title": "Lawson excited about future after P9 points finish in Austin",
@@ -9589,7 +9554,8 @@
     "RacingNews365": "2026-10-28T18:05:00+00:00",
     "GPFans": "2026-10-28T20:45:00+00:00",
     "GPblog": "2026-10-29T00:00:00+00:00",
-    "Motorsport Week": "2026-10-29T09:00:00+00:00"
+    "Motorsport Week": "2026-10-29T09:00:00+00:00",
+    "PlanetF1": "2026-10-29T10:31:03+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9598,9 +9564,10 @@
     "RacingNews365": "Daniel Ricciardo reflects on F1 exit 'humiliation' with surprise Red Bull stance",
     "GPFans": "Daniel Ricciardo opens up on 'hiding from the humiliation' after F1 axe",
     "GPblog": "Daniel Ricciardo reveals the humiliation he hid when Liam Lawson took his seat",
-    "Motorsport Week": "Daniel Ricciardo reflects on ‘humiliation’ he felt after F1 retirement"
+    "Motorsport Week": "Daniel Ricciardo reflects on ‘humiliation’ he felt after F1 retirement",
+    "PlanetF1": "Daniel Ricciardo admits Red Bull F1 exit was a blessing despite humiliation"
    },
-   "last": "2026-10-29T09:30:06.788619+00:00"
+   "last": "2026-10-29T10:40:05.992074+00:00"
   },
   "S2300": {
    "title": "Jeff Saturday on Colts trading Quenton Nelson",
@@ -13622,7 +13589,7 @@
    "titles": {
     "Motorsport-Total": "David Coulthard widerspricht: Warum das F1-Reglement keine Ausrede ist - Motorsport-Total.com"
    },
-   "last": "2026-10-29T10:00:11.795933+00:00"
+   "last": "2026-10-29T10:40:05.992081+00:00"
   },
   "S2604": {
    "title": "Muneeba to lead Pakistan in ICC Emerging Nations Trophy",
@@ -13675,9 +13642,35 @@
     "GPblog": "Mexico City GP trend continues: Verstappen and Russell also affected"
    },
    "last": "2026-10-29T10:20:09.406219+00:00"
+  },
+  "S2608": {
+   "title": "Bill Raftery avoids confessional booth after pope-honoring game",
+   "first": "2026-10-29T10:40:05.992036+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T10:34:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bill Raftery hopes to avoid confessional booth after calling game in pope's honor"
+   },
+   "last": "2026-10-29T10:40:05.992055+00:00"
+  },
+  "S2609": {
+   "title": "Norris praises Antonelli's level as Russell heads for defeat",
+   "first": "2026-10-29T10:40:05.992061+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-29T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lando Norris delivers 'two levels' claim as George Russell heads for defeat"
+   },
+   "last": "2026-10-29T10:40:05.992067+00:00"
   }
  },
- "story_seq": 2607,
+ "story_seq": 2609,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13796,7 +13789,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T10:30:03.992424+00:00",
+ "last_run": "2026-10-29T10:40:01.563086+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
@@ -15176,6 +15169,11 @@
    "t": "2026-10-29T10:10:12.600669+00:00",
    "title": "Antonelli Meksika'da şampiyonluk için büyük avantajda",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-29T10:40:11.323908+00:00",
+   "title": "Norris: Antonelli, sezon boyunca Russell'ın 'iki seviye üstünde'",
+   "source": "RacingNews365"
   }
  ]
 }
