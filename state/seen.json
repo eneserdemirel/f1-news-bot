@@ -4989,7 +4989,10 @@
   "73119514b38ae260": "2026-10-29T08:20:06.553240+00:00",
   "171ed89d1e4fa6ef": "2026-10-29T08:20:06.553240+00:00",
   "db17899a9c225166": "2026-10-29T08:40:02.007044+00:00",
-  "892011af73859447": "2026-10-29T08:40:02.007044+00:00"
+  "892011af73859447": "2026-10-29T08:40:02.007044+00:00",
+  "17f546a98819aaf4": "2026-10-29T08:50:03.032177+00:00",
+  "36e825d4773ca5eb": "2026-10-29T08:50:03.032177+00:00",
+  "00d74924a41780a6": "2026-10-29T08:50:03.032177+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13252,14 +13255,16 @@
    "title": "FIA checks Russell's Mercedes cooling system after US GP",
    "first": "2026-10-29T07:00:16.697808+00:00",
    "sources": {
-    "FormulaPassion": "2026-10-29T06:30:00+00:00"
+    "FormulaPassion": "2026-10-29T06:30:00+00:00",
+    "PlanetF1": "2026-10-29T08:44:20+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Controlli FIA sul sistema di raffreddamento del motore termico della Mercedes di Russell al termine del GP degli Stati Uniti"
+    "FormulaPassion": "Controlli FIA sul sistema di raffreddamento del motore termico della Mercedes di Russell al termine del GP degli Stati Uniti",
+    "PlanetF1": "FIA confirms George Russell findings after ‘extensive’ Mercedes inspection"
    },
-   "last": "2026-10-29T07:00:16.697812+00:00"
+   "last": "2026-10-29T08:50:06.599170+00:00"
   },
   "S2561": {
    "title": "Tombazis says power unit problems were obvious years ago",
@@ -13561,9 +13566,35 @@
     "GPblog": "Championship contender set for further evaluation after Australia injury"
    },
    "last": "2026-10-29T08:40:06.233852+00:00"
+  },
+  "S2584": {
+   "title": "Voll stars with ball for Sydney Thunder in cricket",
+   "first": "2026-10-29T08:50:06.599144+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-29T08:43:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Voll stars with ball to set up Sydney Thunder victory"
+   },
+   "last": "2026-10-29T08:50:06.599161+00:00"
+  },
+  "S2585": {
+   "title": "Verstappen calls for Red Bull investigation after US GP",
+   "first": "2026-10-29T08:50:06.599175+00:00",
+   "sources": {
+    "GPFans": "2026-10-29T08:44:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Max Verstappen calls for Red Bull investigation after US Grand Prix defeat"
+   },
+   "last": "2026-10-29T08:50:06.599180+00:00"
   }
  },
- "story_seq": 2583,
+ "story_seq": 2585,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13682,17 +13713,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T08:40:02.007044+00:00",
+ "last_run": "2026-10-29T08:50:03.032177+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
  "last_digest_at": "2026-10-28T19:08:08.108435+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T08:40:24.404140+00:00",
-   "title": "Fittipaldi: Kimi, baskı altında hızlı ve yetenekli",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-10-26T09:00:34.570471+00:00",
    "title": "Ferrari Austin'de kaçan zaferin pişmanlığını yaşadı",
@@ -15027,6 +15053,16 @@
    "t": "2026-10-29T08:40:15.179576+00:00",
    "title": "Verstappen ve Red Bull, Meksika'da çözmesi gereken teknik sorunlarla karşı karşıya",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-29T08:50:13.779122+00:00",
+   "title": "Verstappen, ABD GP'deki kötü performansın Red Bull tarafından araştırılmasını istedi",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-10-29T08:50:14.319146+00:00",
+   "title": "FIA, Russell'ın Mercedes'inin teknik regülasyonlara uygun olduğunu doğruladı",
+   "source": "PlanetF1"
   }
  ]
 }
