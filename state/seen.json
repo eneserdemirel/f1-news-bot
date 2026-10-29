@@ -5077,7 +5077,9 @@
   "8676b0890972ccc1": "2026-10-29T12:30:53.056042+00:00",
   "f894db37d93e33b2": "2026-10-29T12:40:55.104119+00:00",
   "1a9b3fe9e9e449d8": "2026-10-29T12:40:55.104119+00:00",
-  "079e191da91ee42e": "2026-10-29T12:50:53.319369+00:00"
+  "079e191da91ee42e": "2026-10-29T12:50:53.319369+00:00",
+  "d57bb3bb04340ddb": "2026-10-29T13:00:55.314816+00:00",
+  "44688844323165c8": "2026-10-29T13:00:55.314816+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5099,21 +5101,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S1694": {
-   "title": "Russell seeks Mercedes investigation as title race nears end",
-   "first": "2026-10-26T09:50:22.451630+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-26T09:40:00+00:00",
-    "GPFans": "2026-10-27T12:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell seeking Mercedes investigation as title end-game nears",
-    "GPFans": "Mercedes launch George Russell inquiry as Toto Wolff baffled by lack of pace"
-   },
-   "last": "2026-10-27T12:54:51.861846+00:00"
-  },
   "S1719": {
    "title": "Wolff hits back at Helmut Marko over Russell criticism",
    "first": "2026-10-26T12:01:18.790104+00:00",
@@ -13849,9 +13836,35 @@
     "ESPN F1": "New Zealand seek answers as India's batting juggernaut rolls on"
    },
    "last": "2026-10-29T12:50:54.914229+00:00"
+  },
+  "S2651": {
+   "title": "Steiner credits Verstappen's outbursts for Red Bull's turnaround",
+   "first": "2026-10-29T13:00:57.378574+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Steiner ziet Verstappen Red Bull vooruithelpen met 'uitbarstingen'"
+   },
+   "last": "2026-10-29T13:00:57.378594+00:00"
+  },
+  "S2652": {
+   "title": "Sainz hints F1 calendar could grow to 25 grands prix",
+   "first": "2026-10-29T13:00:57.378600+00:00",
+   "sources": {
+    "GPFans": "2026-10-29T12:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Carlos Sainz reveals F1 calendar could grow to a record 25 grands prix"
+   },
+   "last": "2026-10-29T13:00:57.378605+00:00"
   }
  },
- "story_seq": 2650,
+ "story_seq": 2652,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13970,17 +13983,12 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T12:50:53.319369+00:00",
+ "last_run": "2026-10-29T13:00:55.314816+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 15:00",
  "last_digest_at": "2026-10-29T12:00:58.908263+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-26T12:51:17.147988+00:00",
-   "title": "Pirelli anahtarı elinde tutuyor; Bridgestone ve Michelin F1'e dönmeyi değerlendiriyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-26T13:01:18.894799+00:00",
    "title": "Honda CEO'su Aston Martin'deki zorluklara rağmen F1'e bağlılığını yineledi",
@@ -15355,6 +15363,16 @@
    "t": "2026-10-29T12:41:03.751561+00:00",
    "title": "Ralf Schumacher, Horner'ın Marko hakkındaki sözlerini \"tatsız\" buldu",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-29T13:01:03.706630+00:00",
+   "title": "Sainz: F1 takvimi rekor 25 yarışa kadar çıkabilir",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-10-29T13:01:04.297283+00:00",
+   "title": "Steiner, Red Bull'un Verstappen'in 'patlamaları' sayesinde toparlandığını söylüyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
