@@ -4966,7 +4966,10 @@
   "9dac571ce5c39973": "2026-10-29T07:00:10.321824+00:00",
   "77a5071a14162a61": "2026-10-29T07:00:10.321824+00:00",
   "6947c71e32066fb0": "2026-10-29T07:00:10.321824+00:00",
-  "67eb789ba79d8bed": "2026-10-29T07:00:10.321824+00:00"
+  "67eb789ba79d8bed": "2026-10-29T07:00:10.321824+00:00",
+  "d4476706024cd33f": "2026-10-29T07:10:03.910034+00:00",
+  "18a790ff62439e16": "2026-10-29T07:10:03.910034+00:00",
+  "fdfeedc073fd7ee8": "2026-10-29T07:10:03.910034+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5045,19 +5048,6 @@
     "GPFans": "Mercedes launch George Russell inquiry as Toto Wolff baffled by lack of pace"
    },
    "last": "2026-10-27T12:54:51.861846+00:00"
-  },
-  "S1706": {
-   "title": "Verstappen's anger may boost his Mexico win chances, analysis says",
-   "first": "2026-10-26T11:21:12.229307+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-26T11:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen heeft eerste tiende winst voor Mexico al op zak"
-   },
-   "last": "2026-10-27T07:03:23.636453+00:00"
   },
   "S1719": {
    "title": "Wolff hits back at Helmut Marko over Russell criticism",
@@ -5180,19 +5170,6 @@
     "RacingNews365": "Toto Wolff explains why Mercedes must 'work' with George Russell"
    },
    "last": "2026-10-27T09:44:04.175390+00:00"
-  },
-  "S1934": {
-   "title": "Cricket: India bowl, New Zealand make three changes",
-   "first": "2026-10-27T07:03:23.636424+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-27T06:53:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Unchanged India bowl, NZ make three changes"
-   },
-   "last": "2026-10-27T07:03:23.636445+00:00"
   },
   "S1935": {
    "title": "Hadjar demands Red Bull redesign after US GP struggles",
@@ -13090,14 +13067,14 @@
    "title": "Avalanche 5-2 Devils game recap (NHL)",
    "first": "2026-10-29T03:59:15.364991+00:00",
    "sources": {
-    "ESPN F1": "2026-10-29T03:53:33+00:00"
+    "ESPN F1": "2026-10-29T03:48:56+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Avalanche 5-2 Devils (29 Oct, 2026) Game Recap"
    },
-   "last": "2026-10-29T03:59:15.365010+00:00"
+   "last": "2026-10-29T07:10:07.043576+00:00"
   },
   "S2524": {
    "title": "Gavin McKenna power-play goal (NHL)",
@@ -13644,9 +13621,35 @@
     "FormulaPassion": "Newey risponde a Horner: “Io pronto alla fuga nel 2014? Ero frustrato, forse lui non l’ha capito. Ma restiamo amici”"
    },
    "last": "2026-10-29T07:00:16.697847+00:00"
+  },
+  "S2566": {
+   "title": "Ralf Schumacher flags Mexico City shake-up, McLaren as favourite",
+   "first": "2026-10-29T07:10:07.043588+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-29T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Schumacher wijst naar 'groot vraagteken' voor Verstappen in Mexico"
+   },
+   "last": "2026-10-29T07:10:07.043595+00:00"
+  },
+  "S2567": {
+   "title": "Fans criticise Liberty CEO over not watching every race",
+   "first": "2026-10-29T07:10:07.043600+00:00",
+   "sources": {
+    "GPblog": "2026-10-29T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 fans blast Liberty Media CEO who says you don't need to watch every F1 race to be a fan"
+   },
+   "last": "2026-10-29T07:10:07.043605+00:00"
   }
  },
- "story_seq": 2565,
+ "story_seq": 2567,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13765,7 +13768,7 @@
   ]
  ],
  "calendar_updated": "2026-10-28T22:18:22.684959+00:00",
- "last_run": "2026-10-29T07:00:10.321824+00:00",
+ "last_run": "2026-10-29T07:10:03.910034+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-28 22:00",
@@ -15095,6 +15098,16 @@
    "t": "2026-10-29T07:00:33.718032+00:00",
    "title": "Meksika GP tahminleri: Üç tahmin, üç farklı kazanan",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-29T07:10:12.447516+00:00",
+   "title": "Schumacher: Mexico'da Verstappen için büyük bir soru işareti var",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-29T07:10:13.012708+00:00",
+   "title": "Liberty Media CEO'su: Her yarışı izlemek taraftar olmak için şart değil",
+   "source": "GPblog"
   }
  ]
 }
