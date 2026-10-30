@@ -5684,7 +5684,9 @@
   "f5ce67b767eb4529": "2026-10-30T16:54:33.563024+00:00",
   "a7727b2152236627": "2026-10-30T16:54:33.563024+00:00",
   "d5831c54705c2fdb": "2026-10-30T16:54:33.563024+00:00",
-  "d547064d37426106": "2026-10-30T17:04:34.756252+00:00"
+  "d547064d37426106": "2026-10-30T17:04:34.756252+00:00",
+  "e50e27bfe777b89c": "2026-10-30T17:09:28.526985+00:00",
+  "de3cee91a4e382d5": "2026-10-30T17:09:28.526985+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6050,58 +6052,6 @@
     "GPblog": "Isack Hadjar given ticking off by former F1 driver after apologising to his Red Bull team"
    },
    "last": "2026-10-28T17:38:36.688806+00:00"
-  },
-  "S2364": {
-   "title": "Oregon State's Jesse Legree profile (not F1)",
-   "first": "2026-10-28T17:08:07.515763+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "From unknown to a star, how Oregon State landed and retained Jesse Legree"
-   },
-   "last": "2026-10-28T17:08:07.515783+00:00"
-  },
-  "S2365": {
-   "title": "Colton Herta emerges as potential Cadillac alternative to Bottas",
-   "first": "2026-10-28T17:08:07.515788+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-28T16:58:29+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Who will partner Sergio Perez at Cadillac in 2027, and why Bottas is under pressure"
-   },
-   "last": "2026-10-28T17:08:07.515792+00:00"
-  },
-  "S2366": {
-   "title": "Wolff says Mercedes will keep same mindset ahead of title",
-   "first": "2026-10-28T17:08:07.515794+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-28T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Mercedes a un passo dal titolo, Wolff non abbassa la guardia: “Avremo la stessa mentalità”"
-   },
-   "last": "2026-10-28T17:08:07.515798+00:00"
-  },
-  "S2367": {
-   "title": "Vasseur says Ferrari heading right way, targets Mexico result",
-   "first": "2026-10-28T17:08:07.515800+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-28T16:56:35+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Vasseur: “Direzione giusta, vogliamo lottare per un altro risultato importante in Messico”"
-   },
-   "last": "2026-10-28T17:08:07.515803+00:00"
   },
   "S2368": {
    "title": "Perez to join rare F1 club at home Mexican GP",
@@ -14918,9 +14868,35 @@
     "GPblog": "Ferrari heartland rallies behind Antonelli with special Mexican GP plans"
    },
    "last": "2026-10-30T17:04:36.841976+00:00"
+  },
+  "S3030": {
+   "title": "Florida QB Aaron Philo resumes starting role vs. Georgia",
+   "first": "2026-10-30T17:09:30.942546+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T17:07:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources - Florida's Aaron Philo resumes QB1 role vs. Georgia"
+   },
+   "last": "2026-10-30T17:09:30.942563+00:00"
+  },
+  "S3031": {
+   "title": "Hamilton offers encouragement to Russell after challenging 2026 season",
+   "first": "2026-10-30T17:09:30.942569+00:00",
+   "sources": {
+    "Crash.net": "2026-10-30T17:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton offers encouraging words to George Russell after 'challenging' season"
+   },
+   "last": "2026-10-30T17:09:30.942575+00:00"
   }
  },
- "story_seq": 3029,
+ "story_seq": 3031,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15039,7 +15015,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T17:04:34.756252+00:00",
+ "last_run": "2026-10-30T17:09:28.526985+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16513,6 +16489,11 @@
   {
    "t": "2026-10-30T16:34:43.027562+00:00",
    "title": "Sergio Perez hayranlarla buluşmayı hastalık nedeniyle iptal etti",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-30T17:09:34.674882+00:00",
+   "title": "Hamilton, Russell'a destek verdi: 'Toparlanacak'",
    "source": "Crash.net"
   }
  ]
