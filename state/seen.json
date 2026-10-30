@@ -5595,7 +5595,10 @@
   "15f5eea2c75e114c": "2026-10-30T13:19:51.037540+00:00",
   "894e1fd98c7cecc2": "2026-10-30T13:19:51.037540+00:00",
   "e385c5bac042cb1e": "2026-10-30T13:39:31.973579+00:00",
-  "34d3e74461de2631": "2026-10-30T13:39:31.973579+00:00"
+  "34d3e74461de2631": "2026-10-30T13:39:31.973579+00:00",
+  "c6d63a2f003eb0f5": "2026-10-30T13:49:27.468217+00:00",
+  "831a210c0e9f2caf": "2026-10-30T13:49:27.468217+00:00",
+  "ec76a36bc330f3c7": "2026-10-30T13:49:27.468217+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5894,19 +5897,6 @@
     "ESPN F1": "Ex-Liverpool forward Kuyt named Fenerbahçe interim coach"
    },
    "last": "2026-10-28T16:58:01.587085+00:00"
-  },
-  "S2319": {
-   "title": "Chiefs sign Justin Tucker to practice squad",
-   "first": "2026-10-28T13:37:19.938784+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T13:17:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chiefs to sign Justin Tucker to practice squad"
-   },
-   "last": "2026-10-28T13:47:15.175079+00:00"
   },
   "S2323": {
    "title": "Mexico City weather forecast for the 2026 Mexican Grand Prix",
@@ -12422,7 +12412,7 @@
     "GPblog": "Verstappen answers Ricciardo's Le Mans comeback plan: 'He's a smart man to choose me'",
     "Motorsport Week": "Max Verstappen open to Le Mans partnership with ex-teammate"
    },
-   "last": "2026-10-30T13:19:55.361665+00:00"
+   "last": "2026-10-30T13:49:30.545410+00:00"
   },
   "S2809": {
    "title": "Racing Bulls Mexico FP1 history and what Tsolov's outing means",
@@ -14572,9 +14562,22 @@
     "Autosport": "Why “ignorance is a superpower” for Antonelli in F1"
    },
    "last": "2026-10-30T13:39:33.975691+00:00"
+  },
+  "S2972": {
+   "title": "Antonelli among lowest-paid drivers; Mercedes title bonus to change that",
+   "first": "2026-10-30T13:49:30.545380+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T13:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1's champion-elect is one of its lowest-paid drivers, but a Mercedes title bonus will change that"
+   },
+   "last": "2026-10-30T13:49:30.545400+00:00"
   }
  },
- "story_seq": 2971,
+ "story_seq": 2972,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14693,17 +14696,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T13:44:29.555953+00:00",
+ "last_run": "2026-10-30T13:49:27.468217+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T13:45:01.227154+00:00",
-   "title": "Norris, McLaren'la strateji anlaşmazlığı iddiasını yalanladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-27T13:55:01.325265+00:00",
    "title": "Newey, Horner'ın 2014 iddialarına yanıt verdi",
@@ -16193,6 +16191,11 @@
    "t": "2026-10-30T13:19:58.964069+00:00",
    "title": "Montoya: Messico'da Leclerc, Verstappen ve Antonelli'nin önünde kazanır",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-30T13:49:34.554283+00:00",
+   "title": "Antonelli'nin şampiyonluk primi maaşını 5 kattan fazla artıracak",
+   "source": "GPblog"
   }
  ]
 }
