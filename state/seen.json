@@ -5705,7 +5705,11 @@
   "a1686406004cb990": "2026-10-30T17:49:28.650264+00:00",
   "7a39ded40dd8ad58": "2026-10-30T17:54:34.090233+00:00",
   "e42be705a98508ba": "2026-10-30T17:54:34.090233+00:00",
-  "d2ffcd96481c5e80": "2026-10-30T17:54:34.090233+00:00"
+  "d2ffcd96481c5e80": "2026-10-30T17:54:34.090233+00:00",
+  "0cc6e844df0d232e": "2026-10-30T18:04:32.657715+00:00",
+  "f1f95be714f8e692": "2026-10-30T18:04:32.657715+00:00",
+  "4048159d4cb68fd6": "2026-10-30T18:04:32.657715+00:00",
+  "3e2d353fc13036e5": "2026-10-30T18:04:32.657715+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11668,16 +11672,18 @@
    "sources": {
     "Formula 1": "2026-10-29T23:32:20.729758+00:00",
     "FormulaPassion": "2026-10-30T08:45:00+00:00",
-    "RacingNews365 NL": "2026-10-30T11:15:00+00:00"
+    "RacingNews365 NL": "2026-10-30T11:15:00+00:00",
+    "GPblog": "2026-10-30T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "‘I don’t care’ about the Drivers’ Championship – Verstappen",
     "FormulaPassion": "Verstappen sulla classifica Piloti: “La mia classifica non mi interessa, voglio solo vincere e portare la Red Bull al terzo posto”",
-    "RacingNews365 NL": "Verstappen glashelder: \"Dat interesseert me eigenlijk niet\""
+    "RacingNews365 NL": "Verstappen glashelder: \"Dat interesseert me eigenlijk niet\"",
+    "GPblog": "Verstappen couldn't care less about F1 runner-up battle: 'Only first matters'"
    },
-   "last": "2026-10-30T11:23:48.794765+00:00"
+   "last": "2026-10-30T18:04:35.725900+00:00"
   },
   "S2815": {
    "title": "Inside OSU Athletics stream listing",
@@ -14047,7 +14053,8 @@
     "RacingNews365": "2026-10-30T17:25:00+00:00",
     "RacingNews365 NL": "2026-10-30T17:30:00+00:00",
     "GPblog": "2026-10-30T17:30:00+00:00",
-    "Crash.net": "2026-10-30T17:30:00+00:00"
+    "Crash.net": "2026-10-30T17:30:00+00:00",
+    "PlanetF1": "2026-10-30T18:01:29+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14056,9 +14063,10 @@
     "RacingNews365": "LIVE: 2026 F1 Mexico City Grand Prix - Free Practice 1",
     "RacingNews365 NL": "Live eerste vrije training F1 GP Mexico 2026",
     "GPblog": "F1 LIVE | Antonelli one step away from glory as Mexican GP FP1 kicks off",
-    "Crash.net": "F1 Mexico Grand Prix LIVE: Updates from Friday practice"
+    "Crash.net": "F1 Mexico Grand Prix LIVE: Updates from Friday practice",
+    "PlanetF1": "Mexico City GP LIVE: FP1 updates as it happens"
    },
-   "last": "2026-10-30T17:34:36.230429+00:00"
+   "last": "2026-10-30T18:04:35.725894+00:00"
   },
   "S2994": {
    "title": "Iraola says too early to call Liverpool title challengers",
@@ -14078,15 +14086,17 @@
    "first": "2026-10-30T14:44:31.966884+00:00",
    "sources": {
     "RacingNews365": "2026-10-30T14:40:00+00:00",
-    "Formula 1": "2026-10-30T16:09:40.437072+00:00"
+    "Formula 1": "2026-10-30T16:09:40.437072+00:00",
+    "PlanetF1": "2026-10-30T18:02:23+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "The 10 F1 rookie drivers who will drive during Mexico City FP1",
-    "Formula 1": "Which rookies are getting FP1 outings in Mexico?"
+    "Formula 1": "Which rookies are getting FP1 outings in Mexico?",
+    "PlanetF1": "Who are the 10 FP1 drivers at the F1 2026 Mexico City Grand Prix?"
    },
-   "last": "2026-10-30T16:09:40.437076+00:00"
+   "last": "2026-10-30T18:04:35.725888+00:00"
   },
   "S2996": {
    "title": "Auto Motor und Sport quote piece on an unclear F1 topic",
@@ -14684,9 +14694,22 @@
     "ESPN F1": "Virgil van Dijk: Liverpool must 'take that risk' under Andoni Iraola playing style"
    },
    "last": "2026-10-30T17:54:37.752118+00:00"
+  },
+  "S3041": {
+   "title": "Brewers parade photos from Milwaukee (not F1)",
+   "first": "2026-10-30T18:04:35.725861+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T16:41:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sights and sounds from Brewers' parade through Milwaukee"
+   },
+   "last": "2026-10-30T18:04:35.725879+00:00"
   }
  },
- "story_seq": 3040,
+ "story_seq": 3041,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14805,7 +14828,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T17:59:30.680240+00:00",
+ "last_run": "2026-10-30T18:04:32.657715+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
