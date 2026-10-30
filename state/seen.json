@@ -5601,7 +5601,10 @@
   "ec76a36bc330f3c7": "2026-10-30T13:49:27.468217+00:00",
   "6629f23f25699afa": "2026-10-30T13:54:30.359199+00:00",
   "e8a0a19830ffb697": "2026-10-30T13:54:30.359199+00:00",
-  "32b125e909f004d7": "2026-10-30T13:54:30.359199+00:00"
+  "32b125e909f004d7": "2026-10-30T13:54:30.359199+00:00",
+  "48787937ea5fc2a1": "2026-10-30T14:09:33.424461+00:00",
+  "416fd6abdaac01b6": "2026-10-30T14:09:33.424461+00:00",
+  "70d38ffd8ed83ccf": "2026-10-30T14:09:33.424461+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5924,32 +5927,6 @@
    },
    "last": "2026-10-29T15:00:57.201969+00:00"
   },
-  "S2324": {
-   "title": "Carrick and Fernandes hold clear-the-air talks at Man United",
-   "first": "2026-10-28T14:07:20.057941+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T13:22:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports"
-   },
-   "last": "2026-10-28T14:07:20.057962+00:00"
-  },
-  "S2325": {
-   "title": "Mexico City altitude seen as extra challenge for 2026 F1 cars",
-   "first": "2026-10-28T14:07:20.057969+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Formule 1 staat voor extreme uitdaging in Mexico"
-   },
-   "last": "2026-10-28T14:07:20.057974+00:00"
-  },
   "S2326": {
    "title": "Predictions suggest Verstappen much slower in Mexico qualifying",
    "first": "2026-10-28T14:07:20.057979+00:00",
@@ -5962,32 +5939,6 @@
     "GPblog": "Verstappen could be much slower in Mexico: Predictions produce unusual lap time"
    },
    "last": "2026-10-28T17:38:36.688824+00:00"
-  },
-  "S2327": {
-   "title": "1979 champion loses multi-million tax dispute over Hampshire estate",
-   "first": "2026-10-28T14:07:20.057986+00:00",
-   "sources": {
-    "Crash.net": "2026-10-28T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Former F1 champion loses multi-million tax dispute over Hampshire estate"
-   },
-   "last": "2026-10-28T14:07:20.057991+00:00"
-  },
-  "S2328": {
-   "title": "Jos Verstappen dismisses health rumours on social media",
-   "first": "2026-10-28T14:07:57.980981+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-28T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Jos Verstappen dismisses health concerns on social media"
-   },
-   "last": "2026-10-28T14:07:57.981001+00:00"
   },
   "S2329": {
    "title": "How to stream the 2026 Mexico City GP on F1 TV",
@@ -14606,9 +14557,48 @@
     "RacingNews365": "Max Verstappen clarifies 'average' comment after painful race"
    },
    "last": "2026-10-30T13:54:34.113733+00:00"
+  },
+  "S2975": {
+   "title": "Michael Vick MNF game added to ESPN Fantasy Hall of Fame",
+   "first": "2026-10-30T14:09:38.503175+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T14:04:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Vick's iconic MNF game is now in the ESPN Fantasy Football Hall of Fame"
+   },
+   "last": "2026-10-30T14:09:38.503195+00:00"
+  },
+  "S2976": {
+   "title": "Raiders' plans to start Fernando Mendoza at QB",
+   "first": "2026-10-30T14:09:38.503202+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T10:39:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "When will the Raiders make Fernando Mendoza the starting QB?"
+   },
+   "last": "2026-10-30T14:09:38.503208+00:00"
+  },
+  "S2977": {
+   "title": "Hadjar walks back a remark, says he should have kept it to himself",
+   "first": "2026-10-30T14:09:38.503212+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T14:04:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Isack Hadjar rudert zurück: \"Das hätte ich für mich behalten sollen\" - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T14:09:38.503218+00:00"
   }
  },
- "story_seq": 2974,
+ "story_seq": 2977,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14727,7 +14717,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T14:04:31.387703+00:00",
+ "last_run": "2026-10-30T14:09:33.424461+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
