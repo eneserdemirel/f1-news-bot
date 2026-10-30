@@ -5447,7 +5447,11 @@
   "a5fa57be9b131003": "2026-10-30T09:03:42.344463+00:00",
   "cabb941a9fdec95a": "2026-10-30T09:03:42.344463+00:00",
   "67dcbcef5bf7bbda": "2026-10-30T09:03:42.344463+00:00",
-  "9735b6e043edfeab": "2026-10-30T09:03:42.344463+00:00"
+  "9735b6e043edfeab": "2026-10-30T09:03:42.344463+00:00",
+  "0d4e78e3d6e07ac7": "2026-10-30T09:13:40.429784+00:00",
+  "f46e7235828b7155": "2026-10-30T09:13:40.429784+00:00",
+  "0e5a9973eb26a88e": "2026-10-30T09:13:40.429784+00:00",
+  "567f32d7ac2378dc": "2026-10-30T09:13:40.429784+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14462,14 +14466,16 @@
    "title": "Audi's Beat Zehnder to leave F1 team at end of year",
    "first": "2026-10-30T08:53:43.826358+00:00",
    "sources": {
-    "RacingNews365": "2026-10-30T08:50:00+00:00"
+    "RacingNews365": "2026-10-30T08:50:00+00:00",
+    "Autosport": "2026-10-30T09:10:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Audi announce exit of major team figure after 39 years of service"
+    "RacingNews365": "Audi announce exit of major team figure after 39 years of service",
+    "Autosport": "F1 stalwart Zehnder set for Audi exit"
    },
-   "last": "2026-10-30T08:53:43.826364+00:00"
+   "last": "2026-10-30T09:13:45.416450+00:00"
   },
   "S2903": {
    "title": "Bangladesh cricketer Mominul replaced by Jaker Ali after head injury",
@@ -14509,9 +14515,48 @@
     "AS": "Sainz: “La F1 detrás es así, yo quiero salir lo antes posible”"
    },
    "last": "2026-10-30T09:03:47.085133+00:00"
+  },
+  "S2906": {
+   "title": "Dejan Kulusevki struggles with stairs during Tottenham injury",
+   "first": "2026-10-30T09:13:45.416424+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T09:07:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dejan Kulusevki couldn't walk up stairs during Tottenham injury woe"
+   },
+   "last": "2026-10-30T09:13:45.416442+00:00"
+  },
+  "S2907": {
+   "title": "Verstappen explains Red Bull RB22 limitations in slow and fast corners",
+   "first": "2026-10-30T09:13:45.416455+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-30T09:02:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Verstappen spiega i limiti della Red Bull RB22: \"Non eccelliamo né nel lento né nel veloce\""
+   },
+   "last": "2026-10-30T09:13:45.416460+00:00"
+  },
+  "S2908": {
+   "title": "Verstappen sets conditions for Ricciardo's Le Mans 24 Hours start",
+   "first": "2026-10-30T09:13:45.416464+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-30T09:05:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: 24h-Le-Mans-Start mit Ricciardo - Verstappen stellt Bedingungen"
+   },
+   "last": "2026-10-30T09:13:45.416468+00:00"
   }
  },
- "story_seq": 2905,
+ "story_seq": 2908,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14630,17 +14675,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T09:03:42.344463+00:00",
+ "last_run": "2026-10-30T09:13:40.429784+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T09:04:08.960383+00:00",
-   "title": "Jos Verstappen ciddi şekilde hasta değil",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-27T09:14:09.719061+00:00",
    "title": "Mercedes'in yeni motoru bu yıl devreye girecek mi?",
@@ -16130,6 +16170,16 @@
    "t": "2026-10-30T09:03:52.552426+00:00",
    "title": "Russell: Ferrari Meksika GP'de büyük avantaja sahip olabilir",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-30T09:13:56.727448+00:00",
+   "title": "Verstappen: RB22 ne yavaş ne de hızlı virajlarda öne çıkıyor",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-30T09:13:57.253604+00:00",
+   "title": "Ricciardo 24 Saat Le Mans'ta Start Alacak; Verstappen Şartlar Koyuyor",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
