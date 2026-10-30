@@ -5717,7 +5717,12 @@
   "9925150f99957575": "2026-10-30T18:20:12.220014+00:00",
   "451744e6fbee2f32": "2026-10-30T18:30:09.099643+00:00",
   "bdd635ba9c6df973": "2026-10-30T18:30:09.099643+00:00",
-  "626b8b16a91132eb": "2026-10-30T18:30:09.099643+00:00"
+  "626b8b16a91132eb": "2026-10-30T18:30:09.099643+00:00",
+  "9e67a6838ac61710": "2026-10-30T18:35:06.866834+00:00",
+  "21c023942e0c24a6": "2026-10-30T18:35:06.866834+00:00",
+  "cc390c637d11bb66": "2026-10-30T18:35:06.866834+00:00",
+  "1ce1619343e8a205": "2026-10-30T18:35:06.866834+00:00",
+  "a446c4ae16fb2d54": "2026-10-30T18:35:06.866834+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11036,16 +11041,18 @@
    "sources": {
     "RacingNews365 NL": "2026-10-29T21:00:00+00:00",
     "Formula 1": "2026-10-29T22:12:26.445477+00:00",
-    "FormulaPassion": "2026-10-30T07:00:00+00:00"
+    "FormulaPassion": "2026-10-30T07:00:00+00:00",
+    "Motorsport Week": "2026-10-30T18:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Leclerc weerspreekt favorietenrol Ferrari in Mexico",
     "Formula 1": "Leclerc assesses Ferrari's chances in Mexico City Grand Prix",
-    "FormulaPassion": "Leclerc: “Noi favoriti in Messico? Non sono d’accordo anche se il trend è positivo”"
+    "FormulaPassion": "Leclerc: “Noi favoriti in Messico? Non sono d’accordo anche se il trend è positivo”",
+    "Motorsport Week": "Charles Leclerc bats away George Russell’s Ferrari Mexico favourites claim"
    },
-   "last": "2026-10-30T07:13:00.091980+00:00"
+   "last": "2026-10-30T18:35:12.135767+00:00"
   },
   "S2775": {
    "title": "Russell discusses his relationship with Antonelli this season",
@@ -12652,14 +12659,16 @@
    "title": "Verstappen reveals preference between Wolff and Mekies as team principal",
    "first": "2026-10-30T07:53:44.000585+00:00",
    "sources": {
-    "PlanetF1": "2026-10-30T07:44:16+00:00"
+    "PlanetF1": "2026-10-30T07:44:16+00:00",
+    "GPblog": "2026-10-30T18:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Wolff or Mekies? Max Verstappen reveals his choice for team principal"
+    "PlanetF1": "Wolff or Mekies? Max Verstappen reveals his choice for team principal",
+    "GPblog": "Verstappen makes his choice in Wolff vs Mekies debate with firm response"
    },
-   "last": "2026-10-30T07:53:44.000603+00:00"
+   "last": "2026-10-30T18:35:12.135773+00:00"
   },
   "S2895": {
    "title": "North Texas 48-41 Florida Atlantic college football recap",
@@ -14534,7 +14543,7 @@
    "titles": {
     "Gazzetta dello Sport": "F1 in Messico, i segreti della pista Hermanos Rodriguez"
    },
-   "last": "2026-10-30T17:14:38.681043+00:00"
+   "last": "2026-10-30T18:35:12.135780+00:00"
   },
   "S3034": {
    "title": "Konyaspor vs. Galatasaray live score",
@@ -14704,9 +14713,35 @@
     "RacingNews365": "Ralf Schumacher involved in scary plane incident: 'Police, fire brigade arrived'"
    },
    "last": "2026-10-30T18:30:12.350174+00:00"
+  },
+  "S3047": {
+   "title": "Lamar Jackson expected to play despite ankle pain",
+   "first": "2026-10-30T18:35:12.135731+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T18:33:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lamar Jackson expected to play as Ravens QB calls ankle pain 'bearable'"
+   },
+   "last": "2026-10-30T18:35:12.135749+00:00"
+  },
+  "S3048": {
+   "title": "Abha vs. Al Shabab live football score",
+   "first": "2026-10-30T18:35:12.135755+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T18:32:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Abha vs. Al Shabab (Nov 5, 2026) Live Score"
+   },
+   "last": "2026-10-30T18:35:12.135760+00:00"
   }
  },
- "story_seq": 3046,
+ "story_seq": 3048,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14825,7 +14860,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T18:30:09.099643+00:00",
+ "last_run": "2026-10-30T18:35:06.866834+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
