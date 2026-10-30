@@ -5494,7 +5494,12 @@
   "03c4204d29eda6d1": "2026-10-30T10:04:01.185954+00:00",
   "d3d39752f060fc1b": "2026-10-30T10:04:01.185954+00:00",
   "f4206c6e69a3832e": "2026-10-30T10:04:01.185954+00:00",
-  "27cabbc6644911c2": "2026-10-30T10:04:01.185954+00:00"
+  "27cabbc6644911c2": "2026-10-30T10:04:01.185954+00:00",
+  "e2847683d1d34712": "2026-10-30T10:13:40.933555+00:00",
+  "91cc6a6d01821ce2": "2026-10-30T10:13:40.933555+00:00",
+  "6418b61d97f19e4a": "2026-10-30T10:13:40.933555+00:00",
+  "5f58fedaa7366f32": "2026-10-30T10:13:40.933555+00:00",
+  "502a73dc805663a4": "2026-10-30T10:13:40.933555+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5825,32 +5830,6 @@
     "Crash.net": "Why Ollie Bearman has 'no regrets' after Haas US GP points gamble backfires"
    },
    "last": "2026-10-28T16:18:05.305983+00:00"
-  },
-  "S2261": {
-   "title": "Five drivers most likely to take Mexico qualifying pole",
-   "first": "2026-10-28T10:07:20.560413+00:00",
-   "sources": {
-    "Formula 1": "2026-10-28T10:07:20.560430+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "The 5 drivers most likely to qualify fastest in Mexico"
-   },
-   "last": "2026-10-28T10:07:20.560434+00:00"
-  },
-  "S2262": {
-   "title": "FIA keeps engine parts exception for 2027 and 2028 rules",
-   "first": "2026-10-28T10:07:20.560440+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T10:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "F1 houdt vast aan uitzondering voor motoronderdelen"
-   },
-   "last": "2026-10-28T10:07:20.560481+00:00"
   },
   "S2263": {
    "title": "Morant to appeal flopping technical foul",
@@ -14601,9 +14580,74 @@
     "GPFans": "McLaren set for more 2026 upgrades after losing ground on F1 rivals"
    },
    "last": "2026-10-30T10:04:07.883927+00:00"
+  },
+  "S2917": {
+   "title": "Hadjar names Red Bull's weakness ahead of Mexico City GP",
+   "first": "2026-10-30T10:13:46.602562+00:00",
+   "sources": {
+    "Formula 1": "2026-10-30T10:13:46.602577+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Hadjar identifies the ‘weakness’ Red Bull still suffer from"
+   },
+   "last": "2026-10-30T10:13:46.602581+00:00"
+  },
+  "S2918": {
+   "title": "Hamilton says Ferrari led innovation but needs more engine power",
+   "first": "2026-10-30T10:13:46.602587+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-30T10:05:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Hamilton guarda al 2027: “Quest'anno abbiamo guidato l'innovazione, ora serve più motore\""
+   },
+   "last": "2026-10-30T10:13:46.602593+00:00"
+  },
+  "S2919": {
+   "title": "Russell says he has never had a season like 2026",
+   "first": "2026-10-30T10:13:46.602597+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-30T10:03:44+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Russell admits he’s never had a season like 2026 ahead of potential title decider"
+   },
+   "last": "2026-10-30T10:13:46.602602+00:00"
+  },
+  "S2920": {
+   "title": "Russell blames power units and rear tyre pressures for struggles",
+   "first": "2026-10-30T10:13:46.602605+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-30T10:03:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "George Russell identifies key to F1 2026 struggle"
+   },
+   "last": "2026-10-30T10:13:46.602610+00:00"
+  },
+  "S2921": {
+   "title": "Perez believes he can reach Cadillac podium by 2028",
+   "first": "2026-10-30T10:13:46.602613+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T10:02:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Sergio Perez: Glaube, dass ich mit Cadillac 2028 aufs Podium fahren kann - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T10:13:46.602618+00:00"
   }
  },
- "story_seq": 2916,
+ "story_seq": 2921,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14722,7 +14766,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T10:04:01.185954+00:00",
+ "last_run": "2026-10-30T10:13:40.933555+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -16227,6 +16271,31 @@
    "t": "2026-10-30T10:04:13.653811+00:00",
    "title": "Cadillac, Bottas'ın sözleşme opsiyonunda acele etmiyor, Herta öne çıkıyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T10:13:56.977906+00:00",
+   "title": "Perez: Cadillac ile 2028'de podyuma çıkabileceğime inanıyorum",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-30T10:13:57.469073+00:00",
+   "title": "Russell, 2026 F1 sezonunun zorluğunun anahtarını açıkladı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-30T10:13:57.941058+00:00",
+   "title": "Russell, 2026 sezonunda hiç böyle bir yıl yaşamadığını itiraf etti",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-10-30T10:13:58.431149+00:00",
+   "title": "Hamilton: 2027 için güç ünitesinde fark kapatılmalı",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-30T10:13:58.888986+00:00",
+   "title": "Hadjar, Red Bull'un hâlâ yaşadığı 'zayıflığı' belirledi",
+   "source": "Formula 1"
   }
  ]
 }
