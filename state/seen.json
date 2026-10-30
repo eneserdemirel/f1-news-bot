@@ -5702,7 +5702,10 @@
   "1f14412eb2cb84f9": "2026-10-30T17:44:32.613505+00:00",
   "ac02d2027069de12": "2026-10-30T17:44:32.613505+00:00",
   "6117a407bdd800ac": "2026-10-30T17:49:28.650264+00:00",
-  "a1686406004cb990": "2026-10-30T17:49:28.650264+00:00"
+  "a1686406004cb990": "2026-10-30T17:49:28.650264+00:00",
+  "7a39ded40dd8ad58": "2026-10-30T17:54:34.090233+00:00",
+  "e42be705a98508ba": "2026-10-30T17:54:34.090233+00:00",
+  "d2ffcd96481c5e80": "2026-10-30T17:54:34.090233+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13645,15 +13648,17 @@
    "first": "2026-10-30T12:48:46.024884+00:00",
    "sources": {
     "GPblog": "2026-10-30T12:45:00+00:00",
-    "RacingNews365 NL": "2026-10-30T15:47:00+00:00"
+    "RacingNews365 NL": "2026-10-30T15:47:00+00:00",
+    "Sky Sports F1": "2026-10-30T17:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Mercedes yet to confirm Kimi Antonelli fitness as Mexico practice looms",
-    "RacingNews365 NL": "Gezondheidsupdate Antonelli voor eerste vrije training GP Mexico"
+    "RacingNews365 NL": "Gezondheidsupdate Antonelli voor eerste vrije training GP Mexico",
+    "Sky Sports F1": "Mexico City GP: Antonelli fit to drive in practice after 'viral illness' LIVE!"
    },
-   "last": "2026-10-30T15:49:33.519966+00:00"
+   "last": "2026-10-30T17:54:37.752124+00:00"
   },
   "S2962": {
    "title": "Jeremiah Smith NFL draft prospect profile",
@@ -14679,9 +14684,35 @@
     "ESPN F1": "Source -- Bo Bichette to exercise $42M option to stay with Mets"
    },
    "last": "2026-10-30T17:49:30.623777+00:00"
+  },
+  "S3039": {
+   "title": "Patriots WR A.J. Brown listed as questionable",
+   "first": "2026-10-30T17:54:37.752089+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T17:50:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Patriots WR A.J. Brown (ankle, knee) listed as questionable"
+   },
+   "last": "2026-10-30T17:54:37.752106+00:00"
+  },
+  "S3040": {
+   "title": "Van Dijk says Liverpool must take risk under Iraola",
+   "first": "2026-10-30T17:54:37.752112+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T17:41:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Virgil van Dijk: Liverpool must 'take that risk' under Andoni Iraola playing style"
+   },
+   "last": "2026-10-30T17:54:37.752118+00:00"
   }
  },
- "story_seq": 3038,
+ "story_seq": 3040,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14800,7 +14831,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T17:49:28.650264+00:00",
+ "last_run": "2026-10-30T17:54:34.090233+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16260,6 +16291,11 @@
    "t": "2026-10-30T17:19:34.448557+00:00",
    "title": "Shikhar Mohan'ın hızla yükselişi",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-10-30T17:54:41.396975+00:00",
+   "title": "Mexico City GP: Antonelli viral hastalık sonrası antrenmanda sürmeye uygun",
+   "source": "Sky Sports F1"
   }
  ]
 }
