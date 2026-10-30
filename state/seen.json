@@ -5635,7 +5635,10 @@
   "3770252477a8d3d5": "2026-10-30T15:04:28.680145+00:00",
   "fb43f92520925dec": "2026-10-30T15:09:30.931321+00:00",
   "0ac5bd52fc3229ba": "2026-10-30T15:09:30.931321+00:00",
-  "6c641d21bedfe822": "2026-10-30T15:09:30.931321+00:00"
+  "6c641d21bedfe822": "2026-10-30T15:09:30.931321+00:00",
+  "ebfc368d491af5dc": "2026-10-30T15:14:31.147861+00:00",
+  "fe5ca6811d566c0d": "2026-10-30T15:14:31.147861+00:00",
+  "36dd135f2f74b67e": "2026-10-30T15:14:31.147861+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14800,9 +14803,48 @@
     "ESPN F1": "Tottenham's Pedro Porro keen on future LaLiga return"
    },
    "last": "2026-10-30T15:09:33.261596+00:00"
+  },
+  "S3000": {
+   "title": "Quinshon Judkins' draft stock after two-TD game",
+   "first": "2026-10-30T15:14:34.942643+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T14:53:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Quinshon Judkins' stock may be down despite 2-TD performance"
+   },
+   "last": "2026-10-30T15:14:34.942662+00:00"
+  },
+  "S3001": {
+   "title": "UCF and Air Force space-themed uniforms ranked",
+   "first": "2026-10-30T15:14:34.942668+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T14:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UCF's, Air Force's space-themed threads lead best uniforms of CFB Week 9"
+   },
+   "last": "2026-10-30T15:14:34.942674+00:00"
+  },
+  "S3002": {
+   "title": "Russell explains why new F1 rules don't suit him",
+   "first": "2026-10-30T15:14:34.942678+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T15:11:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "George Russell erklärt: Warum ihm die neue Formel 1 nicht liegt - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T15:14:34.942692+00:00"
   }
  },
- "story_seq": 2999,
+ "story_seq": 3002,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14921,7 +14963,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T15:09:30.931321+00:00",
+ "last_run": "2026-10-30T15:14:31.147861+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16406,6 +16448,11 @@
    "t": "2026-10-30T14:44:35.327113+00:00",
    "title": "\"Böyle bir şey duymak güzel değil\"",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-10-30T15:14:37.919849+00:00",
+   "title": "George Russell, yeni Formula 1'in neden kendisine uymadığını açıkladı",
+   "source": "Motorsport-Total"
   }
  ]
 }
