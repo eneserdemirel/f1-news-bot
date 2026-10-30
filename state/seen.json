@@ -5657,7 +5657,10 @@
   "5f1334e66037e1b5": "2026-10-30T15:49:31.046969+00:00",
   "0a0fe9a9726e0d61": "2026-10-30T15:49:31.046969+00:00",
   "af0f3338c5ca6e7b": "2026-10-30T15:54:31.419023+00:00",
-  "11cd79cbb85ba9c0": "2026-10-30T15:54:31.419023+00:00"
+  "11cd79cbb85ba9c0": "2026-10-30T15:54:31.419023+00:00",
+  "2858fbcd62272a41": "2026-10-30T15:59:37.718922+00:00",
+  "dd5a2ec775ec8bb2": "2026-10-30T15:59:37.718922+00:00",
+  "4cab8f5c11410d45": "2026-10-30T15:59:37.718922+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14835,9 +14838,48 @@
     "Formula 1": "Win tickets to see McLaren Racing Live at the O2"
    },
    "last": "2026-10-30T15:54:33.761463+00:00"
+  },
+  "S3012": {
+   "title": "Jets defensive injuries and Jeanty ahead of Raiders game",
+   "first": "2026-10-30T15:59:45.106922+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T15:58:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets dealing with defensive injuries for matchup vs. Raiders, RB Ashton Jeanty"
+   },
+   "last": "2026-10-30T15:59:45.106939+00:00"
+  },
+  "S3013": {
+   "title": "E60 documentary 'Still They Run' premiere and viewing details",
+   "first": "2026-10-30T15:59:45.106945+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T15:57:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "E60 documentary 'Still They Run': Where to watch, premiere date"
+   },
+   "last": "2026-10-30T15:59:45.106958+00:00"
+  },
+  "S3014": {
+   "title": "Hamilton encourages Ocon after losing Haas seat",
+   "first": "2026-10-30T15:59:45.106962+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T15:57:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Nach Cockpitverlust bei Haas: Lewis Hamilton spricht Ocon Mut zu - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T15:59:45.106968+00:00"
   }
  },
- "story_seq": 3011,
+ "story_seq": 3014,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14956,17 +14998,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T15:54:31.419023+00:00",
+ "last_run": "2026-10-30T15:59:37.718922+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T15:54:59.519485+00:00",
-   "title": "Leclerc Austin'de Ferrari'nin podyum kralı Schumacher'in ardından ikinci",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-27T16:25:05.146341+00:00",
    "title": "Cadillac Austin'de de zorlanıyor; Perez: \"Oldukça zor bir hafta sonuydu\"",
