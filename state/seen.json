@@ -5742,7 +5742,9 @@
   "48b63608a77f82cf": "2026-10-30T19:15:09.110903+00:00",
   "c924630f66940a20": "2026-10-30T19:15:09.110903+00:00",
   "c709c37515c015b5": "2026-10-30T19:20:12.833395+00:00",
-  "35090a16069cfb1e": "2026-10-30T19:20:12.833395+00:00"
+  "35090a16069cfb1e": "2026-10-30T19:20:12.833395+00:00",
+  "1b9a35da819d7af4": "2026-10-30T19:30:11.098244+00:00",
+  "d6a8caf099f74bda": "2026-10-30T19:30:11.098244+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5981,19 +5983,6 @@
     "ESPN F1": "Bayern Munich-Ajax to inaugurate Nairobi stadium for AFCON 2027"
    },
    "last": "2026-10-28T23:48:40.869140+00:00"
-  },
-  "S2410": {
-   "title": "Updated NBA championship and MVP odds, Spurs and Thunder",
-   "first": "2026-10-28T19:28:34.051606+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:22:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground"
-   },
-   "last": "2026-10-28T19:28:34.051624+00:00"
   },
   "S2411": {
    "title": "Mark Walter says he'll keep Dodgers 'no matter what'",
@@ -14713,9 +14702,35 @@
     "Motorsport-Total": "\"Zwei Schritte vor, einer zurück\": Oscar Piastri erklärt McLarens Formtief - Motorsport-Total.com"
    },
    "last": "2026-10-30T19:20:15.499385+00:00"
+  },
+  "S3064": {
+   "title": "Coroner rules SNU safety Tyler Ulrich died from brain bleed",
+   "first": "2026-10-30T19:30:14.000991+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T19:24:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Coroner -- SNU safety Tyler Ulrich, 21, died from TBI, brain bleed"
+   },
+   "last": "2026-10-30T19:30:14.001010+00:00"
+  },
+  "S3065": {
+   "title": "Colton Herta clears superlicence hurdle amid Cadillac seat rumours",
+   "first": "2026-10-30T19:30:14.001017+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T19:24:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Colton Herta finally qualifies for crucial F1 document as seat rumours grow"
+   },
+   "last": "2026-10-30T19:30:14.001023+00:00"
   }
  },
- "story_seq": 3063,
+ "story_seq": 3065,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14834,7 +14849,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T19:25:08.067214+00:00",
+ "last_run": "2026-10-30T19:30:11.098244+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16279,6 +16294,11 @@
    "t": "2026-10-30T19:20:22.544616+00:00",
    "title": "Piastri, McLaren'ın form düşüşünü açıkladı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-30T19:30:19.107897+00:00",
+   "title": "Colton Herta, F1 süper lisansı için gerekli puanı topladı",
+   "source": "RacingNews365"
   }
  ]
 }
