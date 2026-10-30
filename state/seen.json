@@ -5669,7 +5669,9 @@
   "ca3e7a1e4a437bed": "2026-10-30T16:09:36.397316+00:00",
   "7ccd98565e60570d": "2026-10-30T16:14:28.647778+00:00",
   "5dfd0fbfaf6f7126": "2026-10-30T16:19:31.253874+00:00",
-  "60ca180e9194cf05": "2026-10-30T16:19:31.253874+00:00"
+  "60ca180e9194cf05": "2026-10-30T16:19:31.253874+00:00",
+  "accb278ceceb574a": "2026-10-30T16:29:32.207166+00:00",
+  "e27f87a875c8bc13": "2026-10-30T16:29:32.207166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6020,19 +6022,6 @@
     "GPblog": "Red Bull's unfixable problem could hurt Verstappen more in Mexico than anywhere else"
    },
    "last": "2026-10-28T17:38:36.688814+00:00"
-  },
-  "S2354": {
-   "title": "Jordan Rodgers on what he wants to see from Kyler Murray",
-   "first": "2026-10-28T16:28:01.080777+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T15:44:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What Jordan Rodgers wants to see from Kyler Murray"
-   },
-   "last": "2026-10-28T16:28:01.080796+00:00"
   },
   "S2355": {
    "title": "Analysis of Ferrari upgrade gains and 2027 power unit deficit",
@@ -14872,17 +14861,32 @@
    "title": "Red Bull makes two changes to Verstappen's car for Mexico",
    "first": "2026-10-30T16:19:35.810333+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-10-30T16:12:00+00:00"
+    "RacingNews365 NL": "2026-10-30T16:12:00+00:00",
+    "RacingNews365": "2026-10-30T16:21:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Red Bull past auto Verstappen aan voor extreme uitdaging"
+    "RacingNews365 NL": "Red Bull past auto Verstappen aan voor extreme uitdaging",
+    "RacingNews365": "Red Bull unleash latest upgrade as F1 development war set for extreme test"
    },
-   "last": "2026-10-30T16:19:35.810343+00:00"
+   "last": "2026-10-30T16:29:36.769531+00:00"
+  },
+  "S3020": {
+   "title": "Sergio Perez to miss Mexico City GP event through illness",
+   "first": "2026-10-30T16:29:36.769504+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T16:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Sergio Perez to miss key Mexico City Grand Prix event through illness"
+   },
+   "last": "2026-10-30T16:29:36.769522+00:00"
   }
  },
- "story_seq": 3019,
+ "story_seq": 3020,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15001,27 +15005,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T16:24:30.578921+00:00",
+ "last_run": "2026-10-30T16:29:32.207166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T16:25:05.146341+00:00",
-   "title": "Cadillac Austin'de de zorlanıyor; Perez: \"Oldukça zor bir hafta sonuydu\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-10-27T16:25:05.681526+00:00",
-   "title": "McLaren, Norris için hâlâ 'tazminat' bekliyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-27T16:25:06.187537+00:00",
-   "title": "Cadillac, Bottas'ın yerine Herta dışında bir aday daha düşünüyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-27T16:35:02.061223+00:00",
    "title": "Leclerc, ABD GP'deki kaybedilen zaferi ve Ferrari'nin hatasını anlattı",
@@ -16501,6 +16490,11 @@
    "t": "2026-10-30T16:19:43.476745+00:00",
    "title": "Red Bull, Verstappen'i Meksika'da zorlu bir sınav bekliyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-30T16:29:41.311314+00:00",
+   "title": "Pérez hastalık nedeniyle Meksika taraftar forumunu kaçıracak",
+   "source": "RacingNews365"
   }
  ]
 }
