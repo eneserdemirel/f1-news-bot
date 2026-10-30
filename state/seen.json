@@ -5844,7 +5844,11 @@
   "2e5c3c092769ee7b": "2026-10-30T22:25:09.694692+00:00",
   "19b0a13a976ebabb": "2026-10-30T22:25:09.694692+00:00",
   "492d8b66f88a3e27": "2026-10-30T22:30:07.095826+00:00",
-  "54841c4b66823b35": "2026-10-30T22:30:07.095826+00:00"
+  "54841c4b66823b35": "2026-10-30T22:30:07.095826+00:00",
+  "fd926924c26a74fa": "2026-10-30T22:40:12.359593+00:00",
+  "aa096c0f7bc8b537": "2026-10-30T22:40:12.359593+00:00",
+  "11b87837ff79d0a4": "2026-10-30T22:40:12.359593+00:00",
+  "1622ed3721e6dcda": "2026-10-30T22:40:12.359593+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6122,32 +6126,6 @@
     "ESPN F1": "Marinelli finishes slick Servette move for 2-0"
    },
    "last": "2026-10-29T00:59:16.822154+00:00"
-  },
-  "S2449": {
-   "title": "Last-ditch tackle in women's football match",
-   "first": "2026-10-28T22:38:43.803332+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T22:34:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Beever-Jones denied by superb last-ditch tackle"
-   },
-   "last": "2026-10-28T22:38:43.803338+00:00"
-  },
-  "S2450": {
-   "title": "Chelsea women's match winning header",
-   "first": "2026-10-28T22:38:43.803342+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T22:34:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Buchanan header seals the win for Chelsea"
-   },
-   "last": "2026-10-28T22:38:43.803347+00:00"
   },
   "S2451": {
    "title": "Liverpool 1-1 Chelsea match analysis",
@@ -14878,7 +14856,7 @@
    "titles": {
     "Gazzetta dello Sport": "Prove libere Gp Messico, Tsolov perde la sensibilità nelle gambe"
    },
-   "last": "2026-10-30T21:40:11.889523+00:00"
+   "last": "2026-10-30T22:40:17.197507+00:00"
   },
   "S3100": {
    "title": "Colts' Steichen says WR Downs is ready despite trade demand",
@@ -15041,9 +15019,37 @@
     "ESPN F1": "2026 'College GameDay' Week 9: Houston vs. Utah"
    },
    "last": "2026-10-30T22:30:09.624262+00:00"
+  },
+  "S3112": {
+   "title": "Herta still one point short of superlicence due to IndyCar error",
+   "first": "2026-10-30T22:40:17.197464+00:00",
+   "sources": {
+    "The Race": "2026-10-30T22:38:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Why Herta's actually still one point off F1 superlicence"
+   },
+   "last": "2026-10-30T22:40:17.197481+00:00"
+  },
+  "S3113": {
+   "title": "Hamilton's FP2 session cut short by Ferrari technical issue",
+   "first": "2026-10-30T22:40:17.197487+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T22:37:00+00:00",
+    "GPblog": "2026-10-30T22:38:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton suffers nightmare practice stoppage after sharp Ferrari instruction",
+    "GPblog": "Ferrari issue forces Hamilton to park his car in Mexico City"
+   },
+   "last": "2026-10-30T22:40:17.197500+00:00"
   }
  },
- "story_seq": 3111,
+ "story_seq": 3113,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15162,7 +15168,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-30T22:35:08.105192+00:00",
+ "last_run": "2026-10-30T22:40:12.359593+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16682,6 +16688,16 @@
    "t": "2026-10-30T22:25:19.158951+00:00",
    "title": "Verstappen ile Lawson çarpıştı, kırmızı bayrak çıktı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T22:40:22.235837+00:00",
+   "title": "Hamilton, Ferrari talimatının ardından antrenmanda güç kaybı yaşadı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T22:40:22.588791+00:00",
+   "title": "Herta, F1 superlicence için bir puan eksik kaldı",
+   "source": "The Race"
   }
  ]
 }
