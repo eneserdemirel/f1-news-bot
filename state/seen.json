@@ -5413,7 +5413,11 @@
   "9c423937932852b2": "2026-10-30T06:42:53.926019+00:00",
   "9bdb56fa09a5a749": "2026-10-30T06:52:54.962705+00:00",
   "45af96df2af2d293": "2026-10-30T07:02:53.828348+00:00",
-  "524a6d6cf7fb4ab3": "2026-10-30T07:02:53.828348+00:00"
+  "524a6d6cf7fb4ab3": "2026-10-30T07:02:53.828348+00:00",
+  "e098a94fcaf6f7ca": "2026-10-30T07:12:55.623090+00:00",
+  "1d0466a98028a415": "2026-10-30T07:12:55.623090+00:00",
+  "7554f500fb4a4282": "2026-10-30T07:12:55.623090+00:00",
+  "a1b1f141adfa03dc": "2026-10-30T07:12:55.623090+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5619,32 +5623,6 @@
     "RacingNews365": "McLaren reveal Lando Norris 'superpower' behind team order swap"
    },
    "last": "2026-10-28T11:07:40.337744+00:00"
-  },
-  "S2222": {
-   "title": "Trail Blazers 136-129 Lakers game recap",
-   "first": "2026-10-28T07:06:39.005791+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T06:17:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Trail Blazers 136-129 Lakers (Oct 27, 2026) Game Recap"
-   },
-   "last": "2026-10-28T07:06:39.005808+00:00"
-  },
-  "S2223": {
-   "title": "Dutch analysis of Hadjar's frustrating US GP and Verstappen comparison",
-   "first": "2026-10-28T07:06:39.005814+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Hadjar worstelt met Verstappen bij Red Bull: \"Begint te knagen\""
-   },
-   "last": "2026-10-28T07:06:39.005820+00:00"
   },
   "S2224": {
    "title": "Wolff defends Russell against Marko's 'wonderkid' claims",
@@ -13037,15 +13015,17 @@
    "first": "2026-10-29T21:01:33.416918+00:00",
    "sources": {
     "RacingNews365 NL": "2026-10-29T21:00:00+00:00",
-    "Formula 1": "2026-10-29T22:12:26.445477+00:00"
+    "Formula 1": "2026-10-29T22:12:26.445477+00:00",
+    "FormulaPassion": "2026-10-30T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Leclerc weerspreekt favorietenrol Ferrari in Mexico",
-    "Formula 1": "Leclerc assesses Ferrari's chances in Mexico City Grand Prix"
+    "Formula 1": "Leclerc assesses Ferrari's chances in Mexico City Grand Prix",
+    "FormulaPassion": "Leclerc: “Noi favoriti in Messico? Non sono d’accordo anche se il trend è positivo”"
    },
-   "last": "2026-10-29T22:12:26.445492+00:00"
+   "last": "2026-10-30T07:13:00.091980+00:00"
   },
   "S2775": {
    "title": "Russell discusses his relationship with Antonelli this season",
@@ -14511,9 +14491,35 @@
     "ESPN F1": "Mark Jankowski lights the lamp"
    },
    "last": "2026-10-30T07:02:56.102897+00:00"
+  },
+  "S2886": {
+   "title": "Cricket: Kishan and Mayank named in India bowling plans",
+   "first": "2026-10-30T07:13:00.091943+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T06:56:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kishan, Mayank in as India bowl; Smith back for New Zealand"
+   },
+   "last": "2026-10-30T07:13:00.091961+00:00"
+  },
+  "S2887": {
+   "title": "F1 drivers may follow MotoGP's stance on Qatar",
+   "first": "2026-10-30T07:13:00.091967+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 drivers set to follow MotoGP lead: 'Definitely something to discuss'"
+   },
+   "last": "2026-10-30T07:13:00.091973+00:00"
   }
  },
- "story_seq": 2885,
+ "story_seq": 2887,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14632,7 +14638,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T07:02:53.828348+00:00",
+ "last_run": "2026-10-30T07:12:55.623090+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -16157,6 +16163,11 @@
    "t": "2026-10-30T06:43:06.403079+00:00",
    "title": "Norris: \"Çok fazla sadece sonuçlara bakılıyor\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-30T07:13:04.724564+00:00",
+   "title": "F1 pilotları MotoGP'yi örnek alarak Orta Doğu yarışlarını görüşecek",
+   "source": "RacingNews365"
   }
  ]
 }
