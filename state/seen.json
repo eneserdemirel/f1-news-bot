@@ -5740,7 +5740,9 @@
   "641b86cf20e63af2": "2026-10-30T19:10:07.612139+00:00",
   "93e49bb1c352f3dc": "2026-10-30T19:10:07.612139+00:00",
   "48b63608a77f82cf": "2026-10-30T19:15:09.110903+00:00",
-  "c924630f66940a20": "2026-10-30T19:15:09.110903+00:00"
+  "c924630f66940a20": "2026-10-30T19:15:09.110903+00:00",
+  "c709c37515c015b5": "2026-10-30T19:20:12.833395+00:00",
+  "35090a16069cfb1e": "2026-10-30T19:20:12.833395+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5979,45 +5981,6 @@
     "ESPN F1": "Bayern Munich-Ajax to inaugurate Nairobi stadium for AFCON 2027"
    },
    "last": "2026-10-28T23:48:40.869140+00:00"
-  },
-  "S2407": {
-   "title": "49ers bring back DeForest Buckner; more trades questioned",
-   "first": "2026-10-28T19:17:59.488426+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:16:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "After bringing back DeForest Buckner, will the 49ers make more trades?"
-   },
-   "last": "2026-10-28T19:17:59.488445+00:00"
-  },
-  "S2408": {
-   "title": "Al Ahly vs CD Primeiro live score (Nov 27, 2026)",
-   "first": "2026-10-28T19:17:59.488449+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:10:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Al Ahly vs. CD Primeiro (Nov 27, 2026) Live Score"
-   },
-   "last": "2026-10-28T19:17:59.488453+00:00"
-  },
-  "S2409": {
-   "title": "Fantasy football Week 8 lineup tips",
-   "first": "2026-10-28T19:17:59.488456+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T13:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Facts vs. Feelings: How to maxx your lineup in Week 8 (if you insist)"
-   },
-   "last": "2026-10-28T19:17:59.488460+00:00"
   },
   "S2410": {
    "title": "Updated NBA championship and MVP odds, Spurs and Thunder",
@@ -14724,9 +14687,35 @@
     "ESPN F1": "Al Shabab vs. Al Ahli (30 Oct, 2026) Live Score"
    },
    "last": "2026-10-30T19:15:11.244661+00:00"
+  },
+  "S3062": {
+   "title": "Freddie Slater pit error draws Audi stewards investigation at Mexico GP",
+   "first": "2026-10-30T19:20:15.499344+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T19:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "British rookie involved in unusual pit error as Audi to face Mexico City GP stewards"
+   },
+   "last": "2026-10-30T19:20:15.499368+00:00"
+  },
+  "S3063": {
+   "title": "Piastri explains McLaren's form slump: 'two steps forward, one back'",
+   "first": "2026-10-30T19:20:15.499377+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T19:15:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Zwei Schritte vor, einer zurück\": Oscar Piastri erklärt McLarens Formtief - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T19:20:15.499385+00:00"
   }
  },
- "story_seq": 3061,
+ "story_seq": 3063,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14845,7 +14834,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T19:15:09.110903+00:00",
+ "last_run": "2026-10-30T19:20:12.833395+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16280,6 +16269,16 @@
    "t": "2026-10-30T19:10:15.913522+00:00",
    "title": "2026 F1 sezonunda FP1'de yer alan her genç pilot",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T19:20:22.203825+00:00",
+   "title": "Freddie Slater'ın Meksika GP'deki ilk antrenmanı kabusa döndü",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T19:20:22.544616+00:00",
+   "title": "Piastri, McLaren'ın form düşüşünü açıkladı",
+   "source": "Motorsport-Total"
   }
  ]
 }
