@@ -5519,7 +5519,11 @@
   "c63e40ae47f26453": "2026-10-30T11:23:41.407910+00:00",
   "8376e99c3880461e": "2026-10-30T11:23:41.407910+00:00",
   "bcc32b65cf570217": "2026-10-30T11:23:41.407910+00:00",
-  "d811621799a77d79": "2026-10-30T11:23:41.407910+00:00"
+  "d811621799a77d79": "2026-10-30T11:23:41.407910+00:00",
+  "cbde0156059f4bf9": "2026-10-30T11:33:42.184084+00:00",
+  "adc0220f1fc87ef4": "2026-10-30T11:33:42.184084+00:00",
+  "28b31f726f9beece": "2026-10-30T11:33:42.184084+00:00",
+  "49115ae4e0373c2f": "2026-10-30T11:33:42.184084+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5541,29 +5545,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S2053": {
-   "title": "Colapinto steps aside for Mexico FP1, debutant replaces him",
-   "first": "2026-10-27T15:24:54.918879+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-27T15:11:00+00:00",
-    "Motorsport.com Italia": "2026-10-27T15:34:55+00:00",
-    "Motorsport Week": "2026-10-27T18:00:00+00:00",
-    "Motorsport-Total": "2026-10-27T18:30:04+00:00",
-    "GPblog": "2026-10-27T22:05:00+00:00",
-    "PlanetF1": "2026-10-28T11:25:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Franco Colapinto steps aside at Alpine for F1 debutant in Mexico FP1",
-    "Motorsport.com Italia": "Gabriele Minì debutta in F1 con Alpine nelle FP1 in Messico: \"È un sogno che si avvera\"",
-    "Motorsport Week": "Alpine to hand junior talent debut 2026 F1 outing in Mexico",
-    "Motorsport-Total": "Formel-1-Debüt in Mexiko: Alpine gibt Nachwuchstalent Mini eine Chance - Motorsport-Total.com",
-    "GPblog": "Alpine hands F2 talent his first Grand Prix weekend outing in Mexico",
-    "PlanetF1": "Colapinto to sit out Mexican GP FP1 as Alpine hand junior driver F1 weekend debut"
-   },
-   "last": "2026-10-28T11:27:41.197130+00:00"
-  },
   "S2161": {
    "title": "F1 Today roundup: Verstappen wealth, Russell Mexico absence",
    "first": "2026-10-27T21:25:40.595747+00:00",
@@ -5846,71 +5827,6 @@
     "Motorsport Week": "Valtteri Bottas replacement emerges as Cadillac CEO speaks out"
    },
    "last": "2026-10-28T11:57:22.454187+00:00"
-  },
-  "S2278": {
-   "title": "Cooper Flagg Year 2 fantasy outlook (NBA)",
-   "first": "2026-10-28T11:27:41.197094+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T11:23:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What's Cooper Flagg's ceiling in Year 2? Our fantasy experts weigh in"
-   },
-   "last": "2026-10-28T11:27:41.197110+00:00"
-  },
-  "S2279": {
-   "title": "Brewers-Rays World Series Game 5 lineups and updates",
-   "first": "2026-10-28T11:27:41.197116+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T11:22:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lineups, live updates from Brewers-Rays World Series Game 5"
-   },
-   "last": "2026-10-28T11:27:41.197123+00:00"
-  },
-  "S2280": {
-   "title": "Minì reacts to replacing Colapinto in Mexico FP1",
-   "first": "2026-10-28T11:27:41.197140+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-28T11:00:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Gabriele Minì nelle FP1 di Città del Messico: “Sarà un momento speciale”"
-   },
-   "last": "2026-10-28T11:27:41.197145+00:00"
-  },
-  "S2281": {
-   "title": "Hülkenberg and Bortoleto look to Mexico after Austin",
-   "first": "2026-10-28T11:27:41.197148+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-28T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hülkenberg e Bortoleto: l’esperienza di Austin per tornare in zona punti in Messico"
-   },
-   "last": "2026-10-28T11:27:41.197153+00:00"
-  },
-  "S2282": {
-   "title": "Piastri says McLaren currently lacking strength",
-   "first": "2026-10-28T11:27:41.197156+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-28T11:20:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Piastri hadert mit Problemen: \"Sind im Moment nicht besonders stark\" - Motorsport-Total.com"
-   },
-   "last": "2026-10-28T11:27:41.197160+00:00"
   },
   "S2283": {
    "title": "Canelo vs. Mbilli title fight numbers preview",
@@ -14625,9 +14541,61 @@
     "Motorsport-Total": "Formel 1 in Mexiko: Warum die neuen Regeln 2026 zum Problem werden - Motorsport-Total.com"
    },
    "last": "2026-10-30T11:23:48.794779+00:00"
+  },
+  "S2935": {
+   "title": "NFL Week 8 preview with picks, odds and fantasy tips",
+   "first": "2026-10-30T11:33:45.775371+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips"
+   },
+   "last": "2026-10-30T11:33:45.775389+00:00"
+  },
+  "S2936": {
+   "title": "Man United Munich air disaster memorial vandalised",
+   "first": "2026-10-30T11:33:45.775395+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T09:18:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United Munich air disaster memorial vandalised"
+   },
+   "last": "2026-10-30T11:33:45.775401+00:00"
+  },
+  "S2937": {
+   "title": "Three rookies' Mexico FP1 outings with driver market stakes",
+   "first": "2026-10-30T11:33:45.775405+00:00",
+   "sources": {
+    "The Race": "2026-10-30T11:30:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Three Mexico FP1 changes with high driver market stakes"
+   },
+   "last": "2026-10-30T11:33:45.775410+00:00"
+  },
+  "S2938": {
+   "title": "Mexican GP opening practice schedule, times and TV channel",
+   "first": "2026-10-30T11:33:45.775413+00:00",
+   "sources": {
+    "GPFans": "2026-10-30T11:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Practice Today: Schedule, times and TV channel for the 2026 Mexican Grand Prix"
+   },
+   "last": "2026-10-30T11:33:45.775418+00:00"
   }
  },
- "story_seq": 2934,
+ "story_seq": 2938,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14746,17 +14714,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T11:23:41.407910+00:00",
+ "last_run": "2026-10-30T11:33:42.184084+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T11:24:11.265471+00:00",
-   "title": "Ocon: Yüksek hızda ön blokaj ve alttan kayma sorunları devam ediyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-27T11:34:12.894712+00:00",
    "title": "Alonso'nun arka sıra pilotlarına yönelik eleştirisi \"abartılı\" bulundu",
