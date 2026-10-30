@@ -5431,7 +5431,12 @@
   "781606f2cb669171": "2026-10-30T08:03:44.137751+00:00",
   "f7ccbb6fc7167c57": "2026-10-30T08:03:44.137751+00:00",
   "ef8434f711821185": "2026-10-30T08:03:44.137751+00:00",
-  "b29a63b23cc597bb": "2026-10-30T08:03:44.137751+00:00"
+  "b29a63b23cc597bb": "2026-10-30T08:03:44.137751+00:00",
+  "f5af0f00d7659da4": "2026-10-30T08:13:43.898368+00:00",
+  "537f237b7d02e341": "2026-10-30T08:13:43.898368+00:00",
+  "39ad249b68a8ef04": "2026-10-30T08:13:43.898368+00:00",
+  "44d4a04caf6d048d": "2026-10-30T08:13:43.898368+00:00",
+  "4a7e1027733fc43d": "2026-10-30T08:13:43.898368+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5693,19 +5698,6 @@
    },
    "last": "2026-10-28T17:28:00.448932+00:00"
   },
-  "S2239": {
-   "title": "Reus FCR vs. Barakaldo live score (football)",
-   "first": "2026-10-28T08:06:43.389310+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T07:48:58+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Reus FCR vs. Barakaldo (28 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T08:06:43.389328+00:00"
-  },
   "S2240": {
    "title": "Audi appoints significant senior figure to F1 project",
    "first": "2026-10-28T08:06:43.389334+00:00",
@@ -5734,32 +5726,6 @@
     "GPblog": "Mattio Binotto turns to former Mercedes engine boss to lead Audi's F1 power unit push"
    },
    "last": "2026-10-28T19:08:02.244628+00:00"
-  },
-  "S2241": {
-   "title": "Hadjar warned over Verstappen team orders after radio row",
-   "first": "2026-10-28T08:06:43.389344+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-28T08:05:42+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Isack Hadjar warned over Max Verstappen team orders after Red Bull radio row"
-   },
-   "last": "2026-10-28T08:06:43.389348+00:00"
-  },
-  "S2242": {
-   "title": "Hamilton gets boost from Ferrari upgrade at US GP",
-   "first": "2026-10-28T08:06:43.389352+00:00",
-   "sources": {
-    "GPFans": "2026-10-28T07:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton gets major boost as Ferrari pull off genius F1 upgrade trick"
-   },
-   "last": "2026-10-28T08:06:43.389356+00:00"
   },
   "S2243": {
    "title": "Photo gallery of F1 engines from 1950 to 2030",
@@ -14496,9 +14462,61 @@
     "GPFans": "Max Verstappen doesn't hold back on frustrating Red Bull issue: 'It's a disaster'"
    },
    "last": "2026-10-30T08:03:49.563489+00:00"
+  },
+  "S2897": {
+   "title": "Mooney replaces Devine as Perth Scorchers WBBL captain",
+   "first": "2026-10-30T08:13:49.331211+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T08:09:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "WBBL: Mooney replaces Devine as Perth Scorchers captain"
+   },
+   "last": "2026-10-30T08:13:49.331230+00:00"
+  },
+  "S2898": {
+   "title": "Verstappen predicts Antonelli will take maiden F1 title in Mexico",
+   "first": "2026-10-30T08:13:49.331236+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen makes striking F1 prediction about Kimi Antonelli"
+   },
+   "last": "2026-10-30T08:13:49.331242+00:00"
+  },
+  "S2899": {
+   "title": "Verstappen says Antonelli and Bottas illness absences unsurprising",
+   "first": "2026-10-30T08:13:49.331246+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T08:06:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli and Bottas’s illness-related absences don’t come as a surprise to Verstappen"
+   },
+   "last": "2026-10-30T08:13:49.331251+00:00"
+  },
+  "S2900": {
+   "title": "MotoGP practice: Marquez tops timesheets ahead of Martin",
+   "first": "2026-10-30T08:13:49.331254+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T08:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "MotoGP Practice Results | Marquez 20 places ahead of title rival"
+   },
+   "last": "2026-10-30T08:13:49.331259+00:00"
   }
  },
- "story_seq": 2896,
+ "story_seq": 2900,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14617,27 +14635,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T08:03:44.137751+00:00",
+ "last_run": "2026-10-30T08:13:43.898368+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T08:04:12.186019+00:00",
-   "title": "Wolff: Diğer takımlar Kimi'nin F1'i hak etmediğini düşünüyordu",
-   "source": "Gazzetta dello Sport"
-  },
-  {
-   "t": "2026-10-27T08:04:12.775203+00:00",
-   "title": "Horner'ın Verstappen iddiası Ralf Schumacher'den sert tepki aldı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-10-27T08:04:13.294885+00:00",
-   "title": "Leclerc, Verstappen'i ilk turda geçişini anlattı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-27T08:24:05.911223+00:00",
    "title": "Antonelli 2027'de 1 numarayı değil 12 numarayı seçeceğini söyledi",
@@ -16132,6 +16135,11 @@
    "t": "2026-10-30T08:03:54.761283+00:00",
    "title": "Verstappen, Red Bull'un telsiz sorunlarını 'felaket' olarak nitelendirdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-30T08:13:56.768769+00:00",
+   "title": "Antonelli ve Bottas'ın hastalık nedeniyle yokluğu Verstappen'i şaşırtmadı",
+   "source": "GPblog"
   }
  ]
 }
