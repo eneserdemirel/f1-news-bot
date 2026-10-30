@@ -5608,7 +5608,9 @@
   "3bb28bd4d1863f88": "2026-10-30T14:14:28.433985+00:00",
   "11156c61b006c43a": "2026-10-30T14:14:28.433985+00:00",
   "19ae0ea14dd99ff0": "2026-10-30T14:14:28.433985+00:00",
-  "f7bdcc2b6ae2211c": "2026-10-30T14:14:28.433985+00:00"
+  "f7bdcc2b6ae2211c": "2026-10-30T14:14:28.433985+00:00",
+  "ec34a91af3e8e2dc": "2026-10-30T14:19:31.012151+00:00",
+  "3878a970632d9f48": "2026-10-30T14:19:31.012151+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5943,19 +5945,6 @@
     "GPblog": "Verstappen could be much slower in Mexico: Predictions produce unusual lap time"
    },
    "last": "2026-10-28T17:38:36.688824+00:00"
-  },
-  "S2329": {
-   "title": "How to stream the 2026 Mexico City GP on F1 TV",
-   "first": "2026-10-28T14:18:04.159951+00:00",
-   "sources": {
-    "Formula 1": "2026-10-28T14:18:04.159967+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "How to stream the 2026 Mexico City Grand Prix on F1 TV Premium"
-   },
-   "last": "2026-10-28T14:18:04.159970+00:00"
   },
   "S2330": {
    "title": "F1 2027 title odds show Ferrari struggling in opening market",
@@ -14652,9 +14641,35 @@
     "Motorsport.com Italia": "F1 | Messico, il turbo diventa un'incognita: Honda avverte, Russell vede un vantaggio Ferrari"
    },
    "last": "2026-10-30T14:14:32.820706+00:00"
+  },
+  "S2982": {
+   "title": "Verstappen confirms significant changes to 2027 Red Bull car",
+   "first": "2026-10-30T14:19:34.084613+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T14:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen bevestigt forse veranderingen aan nieuwe Red Bull"
+   },
+   "last": "2026-10-30T14:19:34.084631+00:00"
+  },
+  "S2983": {
+   "title": "Hamilton praises Ocon as 'charming young lad' after Haas exit",
+   "first": "2026-10-30T14:19:34.084637+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-30T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Lewis Hamilton labels Esteban Ocon ‘a charming young lad’ after Haas confirms exit"
+   },
+   "last": "2026-10-30T14:19:34.084643+00:00"
   }
  },
- "story_seq": 2981,
+ "story_seq": 2983,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14773,22 +14788,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T14:14:28.433985+00:00",
+ "last_run": "2026-10-30T14:19:31.012151+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T14:14:59.199537+00:00",
-   "title": "Ferrari'nin çifte podyumunu müşteri takım Cadillac engelledi",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-10-27T14:14:59.720605+00:00",
-   "title": "Williams, Luke Browning'e iki ek FP1 çalışması verdi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-27T14:35:06.535637+00:00",
    "title": "Red Bull radyosu Hadjar'ın Austin'deki sinir krizini ortaya koydu",
@@ -16278,6 +16283,16 @@
    "t": "2026-10-30T14:14:38.016544+00:00",
    "title": "Hülkenberg: Orta saha savaşı 'kılpayı' ve Audi, Haas'ı hedefliyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-30T14:19:39.224597+00:00",
+   "title": "Hamilton, Ocon'u \"çok sevimli genç\" olarak nitelendirdi",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-10-30T14:19:39.577592+00:00",
+   "title": "Verstappen, yeni Red Bull'da değişiklik yapılacağını doğruluyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
