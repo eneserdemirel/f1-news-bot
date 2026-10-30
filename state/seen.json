@@ -5822,7 +5822,9 @@
   "52f8200b36b71a36": "2026-10-30T21:30:13.676284+00:00",
   "6d3b937d890f4b6e": "2026-10-30T21:35:06.482458+00:00",
   "a004bc54b996aadb": "2026-10-30T21:35:06.482458+00:00",
-  "ca725ebdff2b8e92": "2026-10-30T21:35:06.482458+00:00"
+  "ca725ebdff2b8e92": "2026-10-30T21:35:06.482458+00:00",
+  "c79afc6a6dffde21": "2026-10-30T21:40:09.601694+00:00",
+  "d9423cc43cec6d45": "2026-10-30T21:40:09.601694+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14970,9 +14972,22 @@
     "RacingNews365": "Red Bull provide power unit-at-altitude update after Isack Hadjar issues"
    },
    "last": "2026-10-30T21:35:10.917912+00:00"
+  },
+  "S3099": {
+   "title": "Tsolov loses leg sensation during Mexico GP practice",
+   "first": "2026-10-30T21:40:11.889506+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-30T21:33:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Prove libere Gp Messico, Tsolov perde la sensibilità nelle gambe"
+   },
+   "last": "2026-10-30T21:40:11.889523+00:00"
   }
  },
- "story_seq": 3098,
+ "story_seq": 3099,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15091,7 +15106,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T21:35:06.482458+00:00",
+ "last_run": "2026-10-30T21:40:09.601694+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16591,6 +16606,11 @@
    "t": "2026-10-30T21:35:19.153513+00:00",
    "title": "Red Bull, Isack Hadjar'ın güç ünitesi sorunlarının rakımla ilgili olmadığını açıkladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T21:40:15.333394+00:00",
+   "title": "Meksika GP serbest antrenmanları: Tsolov bacaklarında his kaybı yaşadı",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
