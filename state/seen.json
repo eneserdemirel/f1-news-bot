@@ -5831,7 +5831,9 @@
   "224ce5306b66b63b": "2026-10-30T21:50:08.431867+00:00",
   "e51d2c6a222681a3": "2026-10-30T21:55:06.863966+00:00",
   "2901e7ce310d2273": "2026-10-30T21:55:06.863966+00:00",
-  "62a4ecfccc5ec0a6": "2026-10-30T21:55:06.863966+00:00"
+  "62a4ecfccc5ec0a6": "2026-10-30T21:55:06.863966+00:00",
+  "aab7fd74918503ed": "2026-10-30T22:00:09.460919+00:00",
+  "213861a2dd0e7e20": "2026-10-30T22:00:09.460919+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6085,19 +6087,6 @@
     "ESPN F1": "Man City 2-2 Brighton (Oct 28, 2026) Game Analysis"
    },
    "last": "2026-10-29T03:29:16.364703+00:00"
-  },
-  "S2439": {
-   "title": "Rich Eisen Show livestream",
-   "first": "2026-10-28T21:58:34.439561+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T16:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wed, 10/28 - The Rich Eisen Show (28/10/26) - Stream en vivo"
-   },
-   "last": "2026-10-28T21:58:34.439568+00:00"
   },
   "S2440": {
    "title": "Wrexham fined $100K for fielding two ineligible players",
@@ -15001,14 +14990,16 @@
    "title": "Mekies dismisses Horner's Red Bull claim, praises team spirit",
    "first": "2026-10-30T21:50:11.944974+00:00",
    "sources": {
-    "GPblog": "2026-10-30T21:48:00+00:00"
+    "GPblog": "2026-10-30T21:48:00+00:00",
+    "Crash.net": "2026-10-30T21:57:18+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Mekies unfazed by Horner's Red Bull claim: 'I think that's our spirit'"
+    "GPblog": "Mekies unfazed by Horner's Red Bull claim: 'I think that's our spirit'",
+    "Crash.net": "Laurent Mekies claps back at Christian Horner’s Red Bull “lost its mojo” claim"
    },
-   "last": "2026-10-30T21:50:11.944980+00:00"
+   "last": "2026-10-30T22:00:12.598690+00:00"
   },
   "S3103": {
    "title": "Brewers World Series party parade in Milwaukee",
@@ -15022,9 +15013,22 @@
     "ESPN F1": "Beer-fueled Brewers continue World Series party with parade"
    },
    "last": "2026-10-30T21:55:09.107997+00:00"
+  },
+  "S3104": {
+   "title": "Explainer on how drivers earn the FIA Super Licence points",
+   "first": "2026-10-30T22:00:12.598662+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-30T18:00:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA Super Licence explained: How drivers can reach the magic 40-point mark to race in F1"
+   },
+   "last": "2026-10-30T22:00:12.598681+00:00"
   }
  },
- "story_seq": 3103,
+ "story_seq": 3104,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15143,7 +15147,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T21:55:06.863966+00:00",
+ "last_run": "2026-10-30T22:00:09.460919+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
