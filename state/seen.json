@@ -5714,7 +5714,10 @@
   "80cf377cba5aa463": "2026-10-30T18:15:05.846123+00:00",
   "983e1e209aa830b3": "2026-10-30T18:20:12.220014+00:00",
   "69dcebac13967ad9": "2026-10-30T18:20:12.220014+00:00",
-  "9925150f99957575": "2026-10-30T18:20:12.220014+00:00"
+  "9925150f99957575": "2026-10-30T18:20:12.220014+00:00",
+  "451744e6fbee2f32": "2026-10-30T18:30:09.099643+00:00",
+  "bdd635ba9c6df973": "2026-10-30T18:30:09.099643+00:00",
+  "626b8b16a91132eb": "2026-10-30T18:30:09.099643+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14140,7 +14143,7 @@
    "titles": {
     "ESPN F1": "Sources - Texas Tech to use Castellanos, Hammond vs. Arizona"
    },
-   "last": "2026-10-30T15:29:41.579579+00:00"
+   "last": "2026-10-30T18:30:12.350164+00:00"
   },
   "S3005": {
    "title": "How to watch US GP in Austin: schedule and TV channels",
@@ -14675,9 +14678,35 @@
     "ESPN F1": "Nice vs. Rennes (30 Oct, 2026) Live Score"
    },
    "last": "2026-10-30T18:20:15.468674+00:00"
+  },
+  "S3045": {
+   "title": "Beat Luke Littler live updates from Manchester darts event",
+   "first": "2026-10-30T18:30:12.350137+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T18:24:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Beat Luke Littler LIVE: Latest updates as 24 hopefuls aim to scoop £501,000 in Manchester"
+   },
+   "last": "2026-10-30T18:30:12.350154+00:00"
+  },
+  "S3046": {
+   "title": "Ralf Schumacher involved in scary plane incident with emergency services",
+   "first": "2026-10-30T18:30:12.350169+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T18:24:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Ralf Schumacher involved in scary plane incident: 'Police, fire brigade arrived'"
+   },
+   "last": "2026-10-30T18:30:12.350174+00:00"
   }
  },
- "story_seq": 3044,
+ "story_seq": 3046,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14796,17 +14825,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T18:25:06.244416+00:00",
+ "last_run": "2026-10-30T18:30:09.099643+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T18:25:41.764079+00:00",
-   "title": "Bottas, Cadillac'taki geleceğine ilişkin söylentilere yanıt verdi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-27T18:35:50.590337+00:00",
    "title": "Abu Dhabi GP, savaş riskine rağmen tanıtımına aynen devam ediyor",
