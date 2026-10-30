@@ -5645,7 +5645,9 @@
   "eded501d1d9e4def": "2026-10-30T15:24:34.806828+00:00",
   "6189b7a1821a9ba5": "2026-10-30T15:29:38.535367+00:00",
   "47f29f8f6696c4df": "2026-10-30T15:29:38.535367+00:00",
-  "c3100d5ab99258ca": "2026-10-30T15:29:38.535367+00:00"
+  "c3100d5ab99258ca": "2026-10-30T15:29:38.535367+00:00",
+  "6c4c12e9a41cb73a": "2026-10-30T15:34:28.478003+00:00",
+  "098f5dac35581f36": "2026-10-30T15:34:28.478003+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13658,15 +13660,17 @@
    "first": "2026-10-30T10:13:46.602605+00:00",
    "sources": {
     "PlanetF1": "2026-10-30T10:03:40+00:00",
-    "Crash.net": "2026-10-30T15:00:00+00:00"
+    "Crash.net": "2026-10-30T15:00:00+00:00",
+    "RacingNews365": "2026-10-30T15:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "George Russell identifies key to F1 2026 struggle",
-    "Crash.net": "George Russell reveals biggest two factors behind his F1 2026 slump"
+    "Crash.net": "George Russell reveals biggest two factors behind his F1 2026 slump",
+    "RacingNews365": "George Russell offers two reasons for wildly inconsistent season as defeat looms"
    },
-   "last": "2026-10-30T15:04:31.171594+00:00"
+   "last": "2026-10-30T15:34:33.407614+00:00"
   },
   "S2921": {
    "title": "Perez believes he can reach Cadillac podium by 2028",
@@ -14778,9 +14782,22 @@
     "AS": "¿A qué hora es el GP de Estados Unidos de F1? Canal TV, horario, cómo y dónde ver la carrera desde Austin en vivo"
    },
    "last": "2026-10-30T15:29:41.579589+00:00"
+  },
+  "S3006": {
+   "title": "Panthers fire Ejiro Evero as defensive coordinator",
+   "first": "2026-10-30T15:34:33.407589+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T14:49:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Panthers relieve Ejiro Evero of defensive coordinator duties"
+   },
+   "last": "2026-10-30T15:34:33.407605+00:00"
   }
  },
- "story_seq": 3005,
+ "story_seq": 3006,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14899,7 +14916,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T15:29:38.535367+00:00",
+ "last_run": "2026-10-30T15:34:28.478003+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
