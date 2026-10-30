@@ -5506,7 +5506,11 @@
   "3073e82d7fb8a8fb": "2026-10-30T10:33:41.005196+00:00",
   "89eb63d0ea3feebf": "2026-10-30T10:43:42.892105+00:00",
   "e4e3493a4b84662a": "2026-10-30T10:43:42.892105+00:00",
-  "d537a224a36a4cf8": "2026-10-30T10:43:42.892105+00:00"
+  "d537a224a36a4cf8": "2026-10-30T10:43:42.892105+00:00",
+  "7116feee9780777c": "2026-10-30T10:53:41.586567+00:00",
+  "cb84e718b243ca9b": "2026-10-30T10:53:41.586567+00:00",
+  "5bd3a0297a6b8dc9": "2026-10-30T10:53:41.586567+00:00",
+  "0b570dc3befb15d4": "2026-10-30T10:53:41.586567+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5839,58 +5843,6 @@
     "RacingNews365 NL": "Brundle tovert glimlach op gezicht Verstappen: \"Dat was Max op zijn best!\""
    },
    "last": "2026-10-28T12:07:58.593314+00:00"
-  },
-  "S2269": {
-   "title": "Gamba Osaka vs Buriram live score",
-   "first": "2026-10-28T10:47:26.762423+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T10:43:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gamba Osaka vs. Buriram (28 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T10:47:26.762443+00:00"
-  },
-  "S2270": {
-   "title": "Kashima vs Pohang Steelers live score",
-   "first": "2026-10-28T10:47:26.762472+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T10:43:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kashima vs. Pohang Steelers (28 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T10:47:26.762478+00:00"
-  },
-  "S2271": {
-   "title": "NFL Week 8 latest intel and fantasy tips",
-   "first": "2026-10-28T10:47:26.762483+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T10:42:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing"
-   },
-   "last": "2026-10-28T10:47:26.762488+00:00"
-  },
-  "S2272": {
-   "title": "Erasmus names six uncapped players for Nations Championship",
-   "first": "2026-10-28T10:47:26.762492+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T10:36:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rassie Erasmus names six uncapped players for South Africa's Nations Championship Tests"
-   },
-   "last": "2026-10-28T10:47:26.762496+00:00"
   },
   "S2273": {
    "title": "Cricket batting and bowling evolution in T20",
@@ -12255,7 +12207,7 @@
    "titles": {
     "ESPN F1": "Allisha Gray, Dream beat Valkyries, force Game 7 of WNBA Finals"
    },
-   "last": "2026-10-29T19:42:49.377049+00:00"
+   "last": "2026-10-30T10:53:46.198550+00:00"
   },
   "S2750": {
    "title": "Wolff says people don't grasp how much Mercedes invested in Antonelli",
@@ -14638,9 +14590,48 @@
     "ESPN F1": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January"
    },
    "last": "2026-10-30T10:43:44.952778+00:00"
+  },
+  "S2928": {
+   "title": "Rybakina withdraws from Pan Pacific Open quarterfinals",
+   "first": "2026-10-30T10:53:46.198561+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T10:43:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Elena Rybakina withdraws from Pan Pacific Open quarterfinals, citing injury"
+   },
+   "last": "2026-10-30T10:53:46.198567+00:00"
+  },
+  "S2929": {
+   "title": "Marquez responds to Qatar GP safety fears",
+   "first": "2026-10-30T10:53:46.198572+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T10:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez responds to Qatar Grand Prix safety fears with just four words"
+   },
+   "last": "2026-10-30T10:53:46.198577+00:00"
+  },
+  "S2930": {
+   "title": "Lawson on F1 financial barriers and midfield inconsistency",
+   "first": "2026-10-30T10:53:46.198581+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T10:43:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Liam Lawson lifts lid on F1 barriers and his Red Bull future doubts"
+   },
+   "last": "2026-10-30T10:53:46.198586+00:00"
   }
  },
- "story_seq": 2927,
+ "story_seq": 2930,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14759,22 +14750,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T10:43:42.892105+00:00",
+ "last_run": "2026-10-30T10:53:41.586567+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T10:44:08.012975+00:00",
-   "title": "Antonelli, Austin'de pole ve galibiyetle dünya şampiyonluğuna yaklaştı",
-   "source": "Sky Sports F1"
-  },
-  {
-   "t": "2026-10-27T10:44:08.545897+00:00",
-   "title": "Sainz: F1 takvimi çok yoğun, 'Şampiyonlar Ligi yerine Premier Lig' benzetmesi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-27T10:54:07.508278+00:00",
    "title": "Red Bull, Verstappen için test edilen yeni fren diskini tanıtıyor",
