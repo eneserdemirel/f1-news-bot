@@ -5425,7 +5425,9 @@
   "57047f2f301be338": "2026-10-30T07:32:56.061131+00:00",
   "d88acd521723715f": "2026-10-30T07:32:56.061131+00:00",
   "7dfcbc6557a99d99": "2026-10-30T07:43:41.074904+00:00",
-  "7f7b57dfa1a5b07b": "2026-10-30T07:43:41.074904+00:00"
+  "7f7b57dfa1a5b07b": "2026-10-30T07:43:41.074904+00:00",
+  "009d9f117db105ad": "2026-10-30T07:53:41.594927+00:00",
+  "6ad40902d8dba185": "2026-10-30T07:53:41.594927+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5686,19 +5688,6 @@
     "Motorsport Week": "Kimi Antonelli makes 2027 clarification amid F1 title prospects at Mexico City GP"
    },
    "last": "2026-10-28T17:28:00.448932+00:00"
-  },
-  "S2235": {
-   "title": "Retrospective on Verstappen's 2024 Mexico penalty and Norris title fight",
-   "first": "2026-10-28T07:46:40.517203+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T07:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen dubbel op de vingers getikt, Norris slaat flinke slag in titelstrijd - terugblik"
-   },
-   "last": "2026-10-28T07:46:40.517222+00:00"
   },
   "S2236": {
    "title": "Cienciano vs. Atlético Grau live score (29 Oct 2026)",
@@ -13150,7 +13139,8 @@
     "GPblog": "2026-10-29T21:55:00+00:00",
     "Crash.net": "2026-10-29T23:27:28+00:00",
     "Sky Sports F1": "2026-10-29T23:30:00+00:00",
-    "RacingNews365": "2026-10-30T05:30:00+00:00"
+    "RacingNews365": "2026-10-30T05:30:00+00:00",
+    "Motorsport-Total": "2026-10-30T07:49:59+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13158,9 +13148,10 @@
     "GPblog": "Hamilton declares he is ‘built differently' and F1 has 'never had anyone' like him",
     "Crash.net": "Lewis Hamilton “built differently” and states F1 has ‘never had anyone like me’",
     "Sky Sports F1": "'I'm built differently' - Hamilton defiant over extending F1 career into 2030s",
-    "RacingNews365": "Lewis Hamilton fires 'I'm built different' warning over key F1 question"
+    "RacingNews365": "Lewis Hamilton fires 'I'm built different' warning over key F1 question",
+    "Motorsport-Total": "Lewis Hamilton denkt nicht ans Aufhören: \"Gab niemanden wie mich\" - Motorsport-Total.com"
    },
-   "last": "2026-10-30T05:43:00.636388+00:00"
+   "last": "2026-10-30T07:53:44.000614+00:00"
   },
   "S2792": {
    "title": "FIA Thursday press conference transcript, Mexico City GP",
@@ -14499,9 +14490,22 @@
     "ESPN F1": "AFC Fylde vs. Hornchurh (30 Oct, 2026) Live Score"
    },
    "last": "2026-10-30T07:43:42.788964+00:00"
+  },
+  "S2894": {
+   "title": "Verstappen reveals preference between Wolff and Mekies as team principal",
+   "first": "2026-10-30T07:53:44.000585+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-30T07:44:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Wolff or Mekies? Max Verstappen reveals his choice for team principal"
+   },
+   "last": "2026-10-30T07:53:44.000603+00:00"
   }
  },
- "story_seq": 2893,
+ "story_seq": 2894,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14620,7 +14624,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T07:43:41.074904+00:00",
+ "last_run": "2026-10-30T07:53:41.594927+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -16130,6 +16134,11 @@
    "t": "2026-10-30T07:33:03.683290+00:00",
    "title": "Russell, ikinciliği kaybetmeyi umursamadığını söyledi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T07:53:50.822024+00:00",
+   "title": "Verstappen, Red Bull takım patronu Mekies'i Wolff ile değiştirmeyeceğini söyledi",
+   "source": "PlanetF1"
   }
  ]
 }
