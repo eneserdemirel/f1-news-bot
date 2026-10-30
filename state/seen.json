@@ -5417,7 +5417,11 @@
   "e098a94fcaf6f7ca": "2026-10-30T07:12:55.623090+00:00",
   "1d0466a98028a415": "2026-10-30T07:12:55.623090+00:00",
   "7554f500fb4a4282": "2026-10-30T07:12:55.623090+00:00",
-  "a1b1f141adfa03dc": "2026-10-30T07:12:55.623090+00:00"
+  "a1b1f141adfa03dc": "2026-10-30T07:12:55.623090+00:00",
+  "8bc7e3780a27992f": "2026-10-30T07:22:55.127310+00:00",
+  "0e2e83dababbb219": "2026-10-30T07:22:55.127310+00:00",
+  "c7fd6be6d0410028": "2026-10-30T07:22:55.127310+00:00",
+  "e5ff7c0092e5be77": "2026-10-30T07:22:55.127310+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5653,19 +5657,6 @@
     "Autosport": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective"
    },
    "last": "2026-10-28T09:47:15.987643+00:00"
-  },
-  "S2226": {
-   "title": "Ferrari SF-26 pace fades in Austin qualifying; Hamilton laments set-up",
-   "first": "2026-10-28T07:16:45.093354+00:00",
-   "sources": {
-    "AS": "2026-10-28T07:00:08+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Otro tiro al palo en Ferrari"
-   },
-   "last": "2026-10-28T07:16:45.093358+00:00"
   },
   "S2227": {
    "title": "Ayesha Curry stars in Roku holiday rom-com",
@@ -14217,7 +14208,7 @@
    "titles": {
     "ESPN F1": "Raza 'hurt' with team-mates' 'complacency' in latest loss to Afghanistan"
    },
-   "last": "2026-10-30T04:52:56.869634+00:00"
+   "last": "2026-10-30T07:22:59.127351+00:00"
   },
   "S2865": {
    "title": "Prasidh Krishna to miss New Zealand ODIs during recovery",
@@ -14517,9 +14508,48 @@
     "RacingNews365": "F1 drivers set to follow MotoGP lead: 'Definitely something to discuss'"
    },
    "last": "2026-10-30T07:13:00.091973+00:00"
+  },
+  "S2888": {
+   "title": "Hadjar admits US GP radio outburst was a learning moment",
+   "first": "2026-10-30T07:22:59.127362+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T07:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Hadjar schuldbewust na enorme woedeuitbarsting"
+   },
+   "last": "2026-10-30T07:22:59.127369+00:00"
+  },
+  "S2889": {
+   "title": "Leclerc says Hamilton influenced Ferrari's notes",
+   "first": "2026-10-30T07:22:59.127373+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-30T07:16:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Charles Leclerc reveals Lewis Hamilton influence at Ferrari"
+   },
+   "last": "2026-10-30T07:22:59.127379+00:00"
+  },
+  "S2890": {
+   "title": "Vettel reveals secret meeting with Red Bull boss before Ferrari move",
+   "first": "2026-10-30T07:22:59.127382+00:00",
+   "sources": {
+    "GPFans": "2026-10-30T07:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Sebastian Vettel reveals 'secret' F1 meeting with team boss over shock move"
+   },
+   "last": "2026-10-30T07:22:59.127387+00:00"
   }
  },
- "story_seq": 2887,
+ "story_seq": 2890,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14638,7 +14668,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T07:12:55.623090+00:00",
+ "last_run": "2026-10-30T07:22:55.127310+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -16168,6 +16198,21 @@
    "t": "2026-10-30T07:13:04.724564+00:00",
    "title": "F1 pilotları MotoGP'yi örnek alarak Orta Doğu yarışlarını görüşecek",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T07:23:06.449904+00:00",
+   "title": "Vettel, Ferrari'ye geçişinin gizli başlangıcını açıkladı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-10-30T07:23:06.794239+00:00",
+   "title": "Leclerc, Hamilton'dan hâlâ çok şey öğrendiğini açıkladı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-30T07:23:07.237349+00:00",
+   "title": "Hadjar, Austin'deki öfke patlamasının ardından hatasını kabul etti",
+   "source": "RacingNews365 NL"
   }
  ]
 }
