@@ -5744,7 +5744,13 @@
   "c709c37515c015b5": "2026-10-30T19:20:12.833395+00:00",
   "35090a16069cfb1e": "2026-10-30T19:20:12.833395+00:00",
   "1b9a35da819d7af4": "2026-10-30T19:30:11.098244+00:00",
-  "d6a8caf099f74bda": "2026-10-30T19:30:11.098244+00:00"
+  "d6a8caf099f74bda": "2026-10-30T19:30:11.098244+00:00",
+  "0a1a13acdc96d5e6": "2026-10-30T19:35:07.078660+00:00",
+  "9f1ef0a943efb7ec": "2026-10-30T19:35:07.078660+00:00",
+  "80fc3c139dedc111": "2026-10-30T19:35:07.078660+00:00",
+  "889b77ce62a10d38": "2026-10-30T19:35:07.078660+00:00",
+  "d0bbab2cc42d48d3": "2026-10-30T19:35:07.078660+00:00",
+  "64a5eb9f0ef98d40": "2026-10-30T19:35:07.078660+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14728,9 +14734,41 @@
     "RacingNews365": "Colton Herta finally qualifies for crucial F1 document as seat rumours grow"
    },
    "last": "2026-10-30T19:30:14.001023+00:00"
+  },
+  "S3066": {
+   "title": "Leclerc fastest in Mexico GP FP1 as rookies take wheel",
+   "first": "2026-10-30T19:35:12.797959+00:00",
+   "sources": {
+    "The Race": "2026-10-30T19:32:55+00:00",
+    "RacingNews365": "2026-10-30T19:32:00+00:00",
+    "RacingNews365 NL": "2026-10-30T19:33:00+00:00",
+    "GPblog": "2026-10-30T19:31:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 2026 Mexican Grand Prix practice results",
+    "RacingNews365": "2026 F1 Mexico City Grand Prix - Free Practice 1 results",
+    "RacingNews365 NL": "Uitslag eerste vrije training F1 GP Mexico 2026",
+    "GPblog": "Ferrari begins Mexico City weekend strong as Leclerc leads Antonelli"
+   },
+   "last": "2026-10-30T19:35:12.798011+00:00"
+  },
+  "S3067": {
+   "title": "Red Bull faces work after Mexico FP1; Hadjar struggles",
+   "first": "2026-10-30T19:35:12.797996+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T19:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull met werk aan de winkel na eerste training Mexico"
+   },
+   "last": "2026-10-30T19:35:12.798000+00:00"
   }
  },
- "story_seq": 3065,
+ "story_seq": 3067,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14849,7 +14887,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T19:30:11.098244+00:00",
+ "last_run": "2026-10-30T19:35:07.078660+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16299,6 +16337,11 @@
    "t": "2026-10-30T19:30:19.107897+00:00",
    "title": "Colton Herta, F1 süper lisansı için gerekli puanı topladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T19:35:28.290218+00:00",
+   "title": "Leclerc Meksika'da ilk antrenmanda en hızlısı oldu",
+   "source": "RacingNews365 NL"
   }
  ]
 }
