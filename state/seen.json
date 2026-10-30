@@ -5828,7 +5828,10 @@
   "6a301de692ddee58": "2026-10-30T21:50:08.431867+00:00",
   "6f093a9009f75f63": "2026-10-30T21:50:08.431867+00:00",
   "53974b15ccd9bd2a": "2026-10-30T21:50:08.431867+00:00",
-  "224ce5306b66b63b": "2026-10-30T21:50:08.431867+00:00"
+  "224ce5306b66b63b": "2026-10-30T21:50:08.431867+00:00",
+  "e51d2c6a222681a3": "2026-10-30T21:55:06.863966+00:00",
+  "2901e7ce310d2273": "2026-10-30T21:55:06.863966+00:00",
+  "62a4ecfccc5ec0a6": "2026-10-30T21:55:06.863966+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14852,15 +14855,17 @@
    "first": "2026-10-30T21:15:15.285911+00:00",
    "sources": {
     "GPblog": "2026-10-30T21:11:00+00:00",
-    "Crash.net": "2026-10-30T21:34:33+00:00"
+    "Crash.net": "2026-10-30T21:34:33+00:00",
+    "Sky Sports F1": "2026-10-30T21:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Haas boss hits back at Bearman contract rumors: 'Absolute nonsense'",
-    "Crash.net": "Haas boss on Ollie Bearman salary demand stories: “I don’t know who smoked up €6m”"
+    "Crash.net": "Haas boss on Ollie Bearman salary demand stories: “I don’t know who smoked up €6m”",
+    "Sky Sports F1": "Furious Komatsu dismisses 'nonsense' reports of Bearman demanding £5m salary"
    },
-   "last": "2026-10-30T21:35:10.917928+00:00"
+   "last": "2026-10-30T21:55:09.108005+00:00"
   },
   "S3092": {
    "title": "FIA uses AWS AI to tackle regulatory grey areas",
@@ -15004,9 +15009,22 @@
     "GPblog": "Mekies unfazed by Horner's Red Bull claim: 'I think that's our spirit'"
    },
    "last": "2026-10-30T21:50:11.944980+00:00"
+  },
+  "S3103": {
+   "title": "Brewers World Series party parade in Milwaukee",
+   "first": "2026-10-30T21:55:09.107979+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T21:09:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Beer-fueled Brewers continue World Series party with parade"
+   },
+   "last": "2026-10-30T21:55:09.107997+00:00"
   }
  },
- "story_seq": 3102,
+ "story_seq": 3103,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15125,7 +15143,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T21:50:08.431867+00:00",
+ "last_run": "2026-10-30T21:55:06.863966+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
