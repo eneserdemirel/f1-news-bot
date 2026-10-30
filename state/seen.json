@@ -5770,7 +5770,10 @@
   "c5b1941284cb87d4": "2026-10-30T19:50:08.657493+00:00",
   "df45e917632faabd": "2026-10-30T19:55:12.044669+00:00",
   "e8bbc57502e5d519": "2026-10-30T19:55:12.044669+00:00",
-  "8a501ae0631fe7f8": "2026-10-30T19:55:12.044669+00:00"
+  "8a501ae0631fe7f8": "2026-10-30T19:55:12.044669+00:00",
+  "fd84c7f1e4fdab43": "2026-10-30T20:00:10.094039+00:00",
+  "1d5a835491366982": "2026-10-30T20:00:10.094039+00:00",
+  "76f1a73f975e9150": "2026-10-30T20:00:10.094039+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6023,19 +6026,6 @@
    },
    "last": "2026-10-28T23:48:40.869150+00:00"
   },
-  "S2413": {
-   "title": "Juventus vs. Napoli odds and spread (Nov 1, 2026)",
-   "first": "2026-10-28T19:58:36.729974+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:52:54+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Juventus vs. Napoli (Nov 1, 2026) Odds and Spread"
-   },
-   "last": "2026-10-28T19:58:36.729992+00:00"
-  },
   "S2414": {
    "title": "Chelsea 2-0 Roma match analysis (Oct 28, 2026)",
    "first": "2026-10-28T19:58:36.729998+00:00",
@@ -6048,32 +6038,6 @@
     "ESPN F1": "Chelsea 2-0 Roma (Oct 28, 2026) Game Analysis"
    },
    "last": "2026-10-28T20:28:35.945810+00:00"
-  },
-  "S2415": {
-   "title": "Analysis of Hamilton's mistake costing an eighth title",
-   "first": "2026-10-28T19:58:36.730009+00:00",
-   "sources": {
-    "GPFans": "2026-10-28T19:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "The big mistake that cost Lewis Hamilton an eighth F1 title, and it's not Abu Dhabi 2021"
-   },
-   "last": "2026-10-28T19:58:36.730014+00:00"
-  },
-  "S2416": {
-   "title": "Russell fading in title fight, 123 points behind Antonelli",
-   "first": "2026-10-28T19:58:36.730018+00:00",
-   "sources": {
-    "AS": "2026-10-28T19:42:52+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Russell se apaga"
-   },
-   "last": "2026-10-28T19:58:36.730023+00:00"
   },
   "S2417": {
    "title": "Carrarese vs Arezzo live score",
@@ -14696,14 +14660,16 @@
    "title": "Freddie Slater pit error draws Audi stewards investigation at Mexico GP",
    "first": "2026-10-30T19:20:15.499344+00:00",
    "sources": {
-    "RacingNews365": "2026-10-30T19:14:00+00:00"
+    "RacingNews365": "2026-10-30T19:14:00+00:00",
+    "GPblog": "2026-10-30T19:56:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "British rookie involved in unusual pit error as Audi to face Mexico City GP stewards"
+    "RacingNews365": "British rookie involved in unusual pit error as Audi to face Mexico City GP stewards",
+    "GPblog": "FIA launches first investigation of the Mexico City Grand Prix weekend"
    },
-   "last": "2026-10-30T19:20:15.499368+00:00"
+   "last": "2026-10-30T20:00:14.790941+00:00"
   },
   "S3063": {
    "title": "Piastri explains McLaren's form slump: 'two steps forward, one back'",
@@ -14783,7 +14749,7 @@
     "FormulaPassion": "GP Città del Messico 2026 – Classifica FP1: Ferrari parte forte, Leclerc da 6 decimi a Kimi. Hamilton 4°",
     "Formula 1": "Leclerc fastest in Mexico FP1 as new faces make F1 debuts"
    },
-   "last": "2026-10-30T19:55:15.325474+00:00"
+   "last": "2026-10-30T20:00:14.790927+00:00"
   },
   "S3067": {
    "title": "Red Bull faces work after Mexico FP1; Hadjar struggles",
@@ -14836,9 +14802,22 @@
     "ESPN F1": "Bills making contingencies if hurt starters aren't available"
    },
    "last": "2026-10-30T19:55:15.325487+00:00"
+  },
+  "S3071": {
+   "title": "Commentary on whether Alonso overlooked a point in driver criticism",
+   "first": "2026-10-30T20:00:14.790946+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T19:55:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kritik an Kollegen: Hat Fernando Alonso einen wichtigen Punkt übersehen? - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T20:00:14.790952+00:00"
   }
  },
- "story_seq": 3070,
+ "story_seq": 3071,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14957,7 +14936,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T19:55:12.044669+00:00",
+ "last_run": "2026-10-30T20:00:10.094039+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
