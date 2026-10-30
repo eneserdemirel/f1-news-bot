@@ -5677,7 +5677,9 @@
   "6588e8a012acc552": "2026-10-30T16:34:31.634785+00:00",
   "995bdf669336f0de": "2026-10-30T16:34:31.634785+00:00",
   "863bd401c87ce6bb": "2026-10-30T16:39:30.363265+00:00",
-  "f703e05e4c1448b0": "2026-10-30T16:39:30.363265+00:00"
+  "f703e05e4c1448b0": "2026-10-30T16:39:30.363265+00:00",
+  "6a1d31484d359ac6": "2026-10-30T16:44:31.777481+00:00",
+  "83617efd343c4e5d": "2026-10-30T16:44:31.777481+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14859,15 +14861,17 @@
    "first": "2026-10-30T16:29:36.769504+00:00",
    "sources": {
     "RacingNews365": "2026-10-30T16:25:00+00:00",
-    "Crash.net": "2026-10-30T16:30:00+00:00"
+    "Crash.net": "2026-10-30T16:30:00+00:00",
+    "GPblog": "2026-10-30T16:37:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Sergio Perez to miss key Mexico City Grand Prix event through illness",
-    "Crash.net": "Sergio Perez pulls out of fan event after becoming third F1 driver to fall ill at Mexico GP"
+    "Crash.net": "Sergio Perez pulls out of fan event after becoming third F1 driver to fall ill at Mexico GP",
+    "GPblog": "Not just Bottas: Home hero Perez also falls ill ahead of Mexican GP"
    },
-   "last": "2026-10-30T16:34:38.050807+00:00"
+   "last": "2026-10-30T16:44:36.059063+00:00"
   },
   "S3021": {
    "title": "AC Milan US owner considering buying Al Nassr",
@@ -14920,9 +14924,22 @@
     "ESPN F1": "Fan who struck Real Madrid's Eduardo Camavinga in Clásico identified by police"
    },
    "last": "2026-10-30T16:39:32.634353+00:00"
+  },
+  "S3025": {
+   "title": "Leclerc says Ferrari's SF-26 is sensitive ahead of Mexico",
+   "first": "2026-10-30T16:44:36.059034+00:00",
+   "sources": {
+    "Motorsport Week": "2026-10-30T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Charles Leclerc concerned about ‘sensitive’ Ferrari in Mexico"
+   },
+   "last": "2026-10-30T16:44:36.059054+00:00"
   }
  },
- "story_seq": 3024,
+ "story_seq": 3025,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15041,7 +15058,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T16:39:30.363265+00:00",
+ "last_run": "2026-10-30T16:44:31.777481+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
