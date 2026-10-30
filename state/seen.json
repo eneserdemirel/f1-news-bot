@@ -5500,7 +5500,10 @@
   "6418b61d97f19e4a": "2026-10-30T10:13:40.933555+00:00",
   "5f58fedaa7366f32": "2026-10-30T10:13:40.933555+00:00",
   "502a73dc805663a4": "2026-10-30T10:13:40.933555+00:00",
-  "55a71d1c82af1e9c": "2026-10-30T10:23:40.900295+00:00"
+  "55a71d1c82af1e9c": "2026-10-30T10:23:40.900295+00:00",
+  "190a36809249788d": "2026-10-30T10:33:41.005196+00:00",
+  "1b0200a1c48a7aef": "2026-10-30T10:33:41.005196+00:00",
+  "3073e82d7fb8a8fb": "2026-10-30T10:33:41.005196+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5820,19 +5823,6 @@
     "RacingNews365 NL": "Norris terug in Formule 2 na binnenhalen van felbegeerde startplaats"
    },
    "last": "2026-10-28T13:07:18.994382+00:00"
-  },
-  "S2266": {
-   "title": "The Race on Verstappen's first step in 2027 handover",
-   "first": "2026-10-28T10:27:18.318917+00:00",
-   "sources": {
-    "The Race": "2026-10-28T10:17:21+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "How first step in Verstappen's big F1 2027 transition really went"
-   },
-   "last": "2026-10-28T10:27:18.318934+00:00"
   },
   "S2267": {
    "title": "Wolff confirms concerns over W17 upgrade package performance",
@@ -14597,9 +14587,35 @@
     "The Race": "Why 'motocross' Sepang wasn't fixed - and is bruising riders"
    },
    "last": "2026-10-30T10:23:42.679549+00:00"
+  },
+  "S2923": {
+   "title": "Hadjar predicts F1 drivers face toughest test in Mexico City",
+   "first": "2026-10-30T10:33:43.773562+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Isack Hadjar makes 'on fire' prediction as F1 braced for extreme test"
+   },
+   "last": "2026-10-30T10:33:43.773580+00:00"
+  },
+  "S2924": {
+   "title": "Coronel says thin air gives Verstappen unique Mexico advantage",
+   "first": "2026-10-30T10:33:43.773586+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Coronel wijst op uniek voordeel Verstappen in Mexico"
+   },
+   "last": "2026-10-30T10:33:43.773592+00:00"
   }
  },
- "story_seq": 2922,
+ "story_seq": 2924,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14718,7 +14734,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T10:23:40.900295+00:00",
+ "last_run": "2026-10-30T10:33:41.005196+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
@@ -16248,6 +16264,16 @@
    "t": "2026-10-30T10:13:58.888986+00:00",
    "title": "Hadjar, Red Bull'un hâlâ yaşadığı 'zayıflığı' belirledi",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-30T10:33:53.093098+00:00",
+   "title": "Hadjar: Meksika'da her şey 'ateş altında' olacak",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T10:33:53.585541+00:00",
+   "title": "Coronel, Verstappen'in Meksika'da benzersiz bir avantajına dikkat çekti",
+   "source": "RacingNews365 NL"
   }
  ]
 }
