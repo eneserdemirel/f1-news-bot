@@ -5803,7 +5803,11 @@
   "9b1280e31772d491": "2026-10-30T21:00:07.007942+00:00",
   "62272fd0e0b6729a": "2026-10-30T21:00:07.007942+00:00",
   "fb08a1e3f104315c": "2026-10-30T21:00:07.007942+00:00",
-  "eaaf3e0ad40e37ad": "2026-10-30T21:00:07.007942+00:00"
+  "eaaf3e0ad40e37ad": "2026-10-30T21:00:07.007942+00:00",
+  "131c5b418826a937": "2026-10-30T21:05:11.264279+00:00",
+  "3950c005e5fca775": "2026-10-30T21:05:11.264279+00:00",
+  "3c87ecbd1e65473d": "2026-10-30T21:05:11.264279+00:00",
+  "b38bd9a38b0b29f5": "2026-10-30T21:05:11.264279+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14380,14 +14384,14 @@
    "title": "Nebraska QB Anthony Colandrea re-signs for 2027",
    "first": "2026-10-30T18:40:11.831053+00:00",
    "sources": {
-    "ESPN F1": "2026-10-30T16:14:00+00:00"
+    "ESPN F1": "2026-10-30T15:58:21+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Nebraska QB Anthony Colandrea re-signs for 2027 season, agent says"
    },
-   "last": "2026-10-30T18:40:11.831057+00:00"
+   "last": "2026-10-30T21:05:17.115244+00:00"
   },
   "S3053": {
    "title": "Skye Blakely chases NCAA titles with Gators",
@@ -14763,15 +14767,19 @@
    "first": "2026-10-30T20:20:13.296992+00:00",
    "sources": {
     "FormulaPassion": "2026-10-30T20:00:00+00:00",
-    "RacingNews365": "2026-10-30T20:55:00+00:00"
+    "RacingNews365": "2026-10-30T20:55:00+00:00",
+    "RacingNews365 NL": "2026-10-30T21:00:00+00:00",
+    "GPblog": "2026-10-30T21:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "F1 GP Messico 2026, FP2: La seconda sessione di libere inizia alle 23.00 – DIRETTA",
-    "RacingNews365": "LIVE: 2026 F1 Mexico City Grand Prix - Free Practice 2"
+    "RacingNews365": "LIVE: 2026 F1 Mexico City Grand Prix - Free Practice 2",
+    "RacingNews365 NL": "Live tweede vrije training F1 GP Mexico 2026",
+    "GPblog": "F1 LIVE | Follow the second free practice session of the Mexico City GP"
    },
-   "last": "2026-10-30T21:00:10.234301+00:00"
+   "last": "2026-10-30T21:05:17.115273+00:00"
   },
   "S3079": {
    "title": "North Carolina lands Demarcus Henry, top recruit since 2019",
@@ -14889,9 +14897,22 @@
     "ESPN F1": "Mikel Arteta warning to Max Dowman after red card: 'We are not in Disneyland'"
    },
    "last": "2026-10-30T21:00:10.234296+00:00"
+  },
+  "S3088": {
+   "title": "Haas explains reason for Bearman 2027 contract delay",
+   "first": "2026-10-30T21:05:17.115262+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-30T21:03:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Haas reveals reason behind Oliver Bearman 2027 contract delay"
+   },
+   "last": "2026-10-30T21:05:17.115268+00:00"
   }
  },
- "story_seq": 3087,
+ "story_seq": 3088,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15010,7 +15031,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T21:00:07.007942+00:00",
+ "last_run": "2026-10-30T21:05:11.264279+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16480,6 +16501,11 @@
    "t": "2026-10-30T20:50:18.182483+00:00",
    "title": "Verstappen neden Garmin ve Apple Watch gibi fitness takip cihazlarından uzak duruyor?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-30T21:05:21.373738+00:00",
+   "title": "Haas, Oliver Bearman'ın 2027 sözleşme gecikmesinin nedenini açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
