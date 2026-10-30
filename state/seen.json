@@ -5689,7 +5689,10 @@
   "de3cee91a4e382d5": "2026-10-30T17:09:28.526985+00:00",
   "1dd906e13f5dceef": "2026-10-30T17:14:35.972162+00:00",
   "a1d968caeb4aa41d": "2026-10-30T17:14:35.972162+00:00",
-  "9a9df690693ea08c": "2026-10-30T17:14:35.972162+00:00"
+  "9a9df690693ea08c": "2026-10-30T17:14:35.972162+00:00",
+  "47c0d55ee88d07aa": "2026-10-30T17:19:29.274868+00:00",
+  "f23e8d8f2f9a4f95": "2026-10-30T17:19:29.274868+00:00",
+  "2d9a1ca910e7feee": "2026-10-30T17:19:29.274868+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6056,32 +6059,6 @@
    },
    "last": "2026-10-28T17:38:36.688806+00:00"
   },
-  "S2368": {
-   "title": "Perez to join rare F1 club at home Mexican GP",
-   "first": "2026-10-28T17:18:02.505614+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-28T17:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Sergio Perez to join rarefied F1 club in historic Mexican GP"
-   },
-   "last": "2026-10-28T17:18:02.505636+00:00"
-  },
-  "S2369": {
-   "title": "Ricciardo regrets leaving Red Bull, says he became complacent",
-   "first": "2026-10-28T17:18:02.505641+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T17:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ricciardo betuigt spijt van Red Bull-vertrek: \"Werd gemakzuchtig\""
-   },
-   "last": "2026-10-28T17:18:02.505645+00:00"
-  },
   "S2370": {
    "title": "Feature on how Ferrari let Antonelli slip away",
    "first": "2026-10-28T17:18:02.505648+00:00",
@@ -6094,19 +6071,6 @@
     "GPblog": "The boy Maranello turned away: How Kimi Antonelli slipped through Ferrari's fingers"
    },
    "last": "2026-10-28T17:38:36.688801+00:00"
-  },
-  "S2371": {
-   "title": "Verstappen says Antonelli's title will make him even better",
-   "first": "2026-10-28T17:18:02.505654+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-28T17:16:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Max Verstappen: WM-Titel wird Kimi Antonelli noch besser machen - Motorsport-Total.com"
-   },
-   "last": "2026-10-28T17:18:02.505657+00:00"
   },
   "S2372": {
    "title": "Five storylines to watch ahead of Mexico City GP",
@@ -14923,9 +14887,48 @@
     "Gazzetta dello Sport": "F1 in Messico, i segreti della pista Hermanos Rodriguez"
    },
    "last": "2026-10-30T17:14:38.681043+00:00"
+  },
+  "S3034": {
+   "title": "Konyaspor vs. Galatasaray live score",
+   "first": "2026-10-30T17:19:31.981120+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T17:16:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Konyaspor vs. Galatasaray (30 Oct, 2026) Live Score"
+   },
+   "last": "2026-10-30T17:19:31.981139+00:00"
+  },
+  "S3035": {
+   "title": "Feature on the rise of Shikhar Mohan",
+   "first": "2026-10-30T17:19:31.981145+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T17:02:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The meteoric rise of Shikhar Mohan"
+   },
+   "last": "2026-10-30T17:19:31.981150+00:00"
+  },
+  "S3036": {
+   "title": "MLB All-October Team of 2026 playoff stars",
+   "first": "2026-10-30T17:19:31.981154+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T16:48:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "MLB All-October Team: Stars who ruled the 2026 playoffs"
+   },
+   "last": "2026-10-30T17:19:31.981159+00:00"
   }
  },
- "story_seq": 3033,
+ "story_seq": 3036,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15044,22 +15047,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T17:14:35.972162+00:00",
+ "last_run": "2026-10-30T17:19:29.274868+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T17:15:05.964531+00:00",
-   "title": "Mercedes güncellemesi: Antonelli'nin galibiyeti tüm sorunları çözmüyor",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-10-27T17:15:06.538060+00:00",
-   "title": "Alpine, Sky'ın Gasly ile canlı radyo bağlantısını kurmasına izin verdi",
-   "source": "The Race"
-  },
   {
    "t": "2026-10-27T17:35:38.811540+00:00",
    "title": "Antonelli'nin Austin zaferi kariyerinin en baskın galibiyeti mi?",
@@ -16524,6 +16517,11 @@
    "t": "2026-10-30T17:09:34.674882+00:00",
    "title": "Hamilton, Russell'a destek verdi: 'Toparlanacak'",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-10-30T17:19:34.448557+00:00",
+   "title": "Shikhar Mohan'ın hızla yükselişi",
+   "source": "ESPN F1"
   }
  ]
 }
