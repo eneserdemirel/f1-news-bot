@@ -5503,7 +5503,10 @@
   "55a71d1c82af1e9c": "2026-10-30T10:23:40.900295+00:00",
   "190a36809249788d": "2026-10-30T10:33:41.005196+00:00",
   "1b0200a1c48a7aef": "2026-10-30T10:33:41.005196+00:00",
-  "3073e82d7fb8a8fb": "2026-10-30T10:33:41.005196+00:00"
+  "3073e82d7fb8a8fb": "2026-10-30T10:33:41.005196+00:00",
+  "89eb63d0ea3feebf": "2026-10-30T10:43:42.892105+00:00",
+  "e4e3493a4b84662a": "2026-10-30T10:43:42.892105+00:00",
+  "d537a224a36a4cf8": "2026-10-30T10:43:42.892105+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5579,23 +5582,6 @@
     "Crash.net": "Red Bull responds to surprise Aston Martin engine supply rumours"
    },
    "last": "2026-10-28T11:07:40.337759+00:00"
-  },
-  "S2114": {
-   "title": "Bottas addresses Cadillac 2027 rumours and his F1 future",
-   "first": "2026-10-27T18:25:34.910728+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-27T18:20:00+00:00",
-    "Motorsport-Total": "2026-10-28T10:17:04+00:00",
-    "PlanetF1": "2026-10-28T10:34:46+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Valtteri Bottas addresses Cadillac rumours with F1 future under threat",
-    "Motorsport-Total": "Bottas reagiert auf Ablöse-Gerüchte: \"Wenn Kühe fliegen könnten ...\" - Motorsport-Total.com",
-    "PlanetF1": "Valtteri Bottas admits ‘anything can happen in F1’ amid Cadillac rumours"
-   },
-   "last": "2026-10-28T10:37:19.444543+00:00"
   },
   "S2161": {
    "title": "F1 Today roundup: Verstappen wealth, Russell Mexico absence",
@@ -14613,9 +14599,48 @@
     "RacingNews365 NL": "Coronel wijst op uniek voordeel Verstappen in Mexico"
    },
    "last": "2026-10-30T10:33:43.773592+00:00"
+  },
+  "S2925": {
+   "title": "Michael Owen says he didn't get enough credit for Ballon d'Or",
+   "first": "2026-10-30T10:43:44.952740+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T10:36:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Owen: I didn't get enough credit for winning Ballon d'Or"
+   },
+   "last": "2026-10-30T10:43:44.952756+00:00"
+  },
+  "S2926": {
+   "title": "Yamashita leads LPGA Maybank Championship after two rounds",
+   "first": "2026-10-30T10:43:44.952762+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T10:12:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Defending champion Yamashita leads LPGA's Maybank Championship after 2 rounds"
+   },
+   "last": "2026-10-30T10:43:44.952768+00:00"
+  },
+  "S2927": {
+   "title": "Man United reportedly eye Calvert-Lewin move in January",
+   "first": "2026-10-30T10:43:44.952773+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T09:13:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January"
+   },
+   "last": "2026-10-30T10:43:44.952778+00:00"
   }
  },
- "story_seq": 2924,
+ "story_seq": 2927,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14734,17 +14759,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T10:33:41.005196+00:00",
+ "last_run": "2026-10-30T10:43:42.892105+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T10:34:10.908993+00:00",
-   "title": "Sainz, Lindblad'ın cezasız kalmasına şaştı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-27T10:44:08.012975+00:00",
    "title": "Antonelli, Austin'de pole ve galibiyetle dünya şampiyonluğuna yaklaştı",
