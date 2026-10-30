@@ -5402,7 +5402,9 @@
   "bd1f9fb5f235b174": "2026-10-30T05:52:53.472587+00:00",
   "fba75620b048668c": "2026-10-30T06:02:55.343691+00:00",
   "9281d5ede3359244": "2026-10-30T06:02:55.343691+00:00",
-  "1d9aea8966ae99e9": "2026-10-30T06:02:55.343691+00:00"
+  "1d9aea8966ae99e9": "2026-10-30T06:02:55.343691+00:00",
+  "af41b47e342b5e40": "2026-10-30T06:22:58.427485+00:00",
+  "0c4bdd75849968c1": "2026-10-30T06:22:58.427485+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5607,34 +5609,6 @@
    },
    "last": "2026-10-28T08:26:41.994213+00:00"
   },
-  "S2211": {
-   "title": "Islanders 4-3 Predators NHL game recap",
-   "first": "2026-10-28T05:26:43.422896+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T03:09:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Islanders 4-3 Predators (28 Oct, 2026) Game Recap"
-   },
-   "last": "2026-10-28T06:16:45.761371+00:00"
-  },
-  "S2215": {
-   "title": "Mekies says many teams are interested in Red Bull power unit",
-   "first": "2026-10-28T06:06:44.748081+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-10-28T06:00:00+00:00",
-    "PlanetF1": "2026-10-28T06:08:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "Mekies reveals widespread interest in Red Bull engine amid Aston Martin rumours",
-    "PlanetF1": "Laurent Mekies addresses Aston Martin speculation over a potential Red Bull engine deal"
-   },
-   "last": "2026-10-28T06:16:45.761378+00:00"
-  },
   "S2216": {
    "title": "Stella explains McLaren team order to let Norris pass Piastri",
    "first": "2026-10-28T06:06:44.748092+00:00",
@@ -5649,19 +5623,6 @@
     "RacingNews365": "McLaren reveal Lando Norris 'superpower' behind team order swap"
    },
    "last": "2026-10-28T11:07:40.337744+00:00"
-  },
-  "S2218": {
-   "title": "Kurtley Beale recalled to Wallabies squad after Paisami withdrawal",
-   "first": "2026-10-28T06:16:45.761345+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T05:23:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kurtley Beale earns stunning Wallabies recall after Hunter Paisami withdrawal"
-   },
-   "last": "2026-10-28T06:16:45.761362+00:00"
   },
   "S2219": {
    "title": "Jmariyae Robinson scores 37-yard touchdown vs. Sam Houston",
@@ -14461,9 +14422,35 @@
     "GPblog": "Leclerc leaps to Albon’s defence as F1 drivers reject Alonso’s verdict"
    },
    "last": "2026-10-30T06:02:59.292627+00:00"
+  },
+  "S2876": {
+   "title": "Russell predicted to finish outside top four in championship",
+   "first": "2026-10-30T06:23:01.413170+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "George Russell handed brutal verdict as F1 season spiral continuation tipped"
+   },
+   "last": "2026-10-30T06:23:01.413194+00:00"
+  },
+  "S2877": {
+   "title": "Hamilton gives retirement update and African GP grid question",
+   "first": "2026-10-30T06:23:01.413202+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-30T06:09:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton issues F1 retirement update as key factor emerges"
+   },
+   "last": "2026-10-30T06:23:01.413208+00:00"
   }
  },
- "story_seq": 2875,
+ "story_seq": 2877,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14582,17 +14569,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T06:12:55.446342+00:00",
+ "last_run": "2026-10-30T06:22:58.427485+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T06:13:29.585431+00:00",
-   "title": "Wolff, Mercedes'teki pilot farkını ABD GP'de yorumladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-27T07:24:20.949062+00:00",
    "title": "Antonelli Mercedes'in yeni paketini açtı: Yavaş virajlarda ön tekerlek kilitlenmesi sorunu sürüyor",
@@ -16097,6 +16079,16 @@
    "t": "2026-10-30T00:32:26.383029+00:00",
    "title": "Antonelli viral hastalık nedeniyle Meksika'da medya görevlerini atladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-30T06:23:07.081528+00:00",
+   "title": "Hamilton: \"Yaşımın getirdiği zorluklara rağmen hâlâ tam gaz devam ediyorum\"",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-30T06:23:07.472058+00:00",
+   "title": "Russell'a sert karne: Anketçiler ikinci sıra için ona neredeyse hiç oy vermedi",
+   "source": "RacingNews365"
   }
  ]
 }
