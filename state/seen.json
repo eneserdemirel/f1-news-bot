@@ -5779,7 +5779,13 @@
   "ad2aa23187622b6f": "2026-10-30T20:15:09.411008+00:00",
   "34efcb6017659ef2": "2026-10-30T20:15:09.411008+00:00",
   "766b6d7d673efda0": "2026-10-30T20:15:09.411008+00:00",
-  "ee0898a32f448180": "2026-10-30T20:15:09.411008+00:00"
+  "ee0898a32f448180": "2026-10-30T20:15:09.411008+00:00",
+  "306e85e8ec841d12": "2026-10-30T20:20:06.250196+00:00",
+  "cad5f9c103d5ada7": "2026-10-30T20:20:06.250196+00:00",
+  "1054450e53762185": "2026-10-30T20:20:06.250196+00:00",
+  "fe6af55f86dde9d6": "2026-10-30T20:20:06.250196+00:00",
+  "0361a16ed84bf21b": "2026-10-30T20:20:06.250196+00:00",
+  "3f15bc53753cacf7": "2026-10-30T20:20:06.250196+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14437,7 +14443,7 @@
    "titles": {
     "ESPN F1": "Beat Luke Littler LIVE: Latest updates as 24 hopefuls aim to scoop £501,000 in Manchester"
    },
-   "last": "2026-10-30T18:30:12.350154+00:00"
+   "last": "2026-10-30T20:20:13.296978+00:00"
   },
   "S3046": {
    "title": "Ralf Schumacher involved in scary plane incident with emergency services",
@@ -14463,7 +14469,7 @@
    "titles": {
     "ESPN F1": "Lamar Jackson expected to play as Ravens QB calls ankle pain 'bearable'"
    },
-   "last": "2026-10-30T18:35:12.135749+00:00"
+   "last": "2026-10-30T20:20:13.296971+00:00"
   },
   "S3048": {
    "title": "Abha vs. Al Shabab live football score",
@@ -14695,15 +14701,17 @@
    "first": "2026-10-30T19:30:14.001017+00:00",
    "sources": {
     "RacingNews365": "2026-10-30T19:24:00+00:00",
-    "PlanetF1": "2026-10-30T19:34:58+00:00"
+    "PlanetF1": "2026-10-30T19:34:58+00:00",
+    "FormulaPassion": "2026-10-30T19:56:50+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Colton Herta finally qualifies for crucial F1 document as seat rumours grow",
-    "PlanetF1": "Mexican Grand Prix: Leclerc tops FP1 as Colton Herta bags FIA Super Licence"
+    "PlanetF1": "Mexican Grand Prix: Leclerc tops FP1 as Colton Herta bags FIA Super Licence",
+    "FormulaPassion": "Herta ‘sblocca’ la Superlicenza: nel 2027 potrà essere titolare al posto di Bottas"
    },
-   "last": "2026-10-30T19:40:17.379803+00:00"
+   "last": "2026-10-30T20:20:13.297002+00:00"
   },
   "S3066": {
    "title": "Leclerc fastest in Mexico GP FP1 as rookies take wheel",
@@ -14864,9 +14872,48 @@
     "ESPN F1": "Stenhousem'r vs. Livingston (30 Oct, 2026) Live Score"
    },
    "last": "2026-10-30T20:15:13.835707+00:00"
+  },
+  "S3076": {
+   "title": "Lille vs. Lens team stats (football)",
+   "first": "2026-10-30T20:20:13.296936+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T20:15:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lille vs. Lens (Oct 30, 2026) Team Stats"
+   },
+   "last": "2026-10-30T20:20:13.296962+00:00"
+  },
+  "S3077": {
+   "title": "Chandhok praises Verstappen and Red Bull's positive trend",
+   "first": "2026-10-30T20:20:13.296983+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T20:13:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen en Red Bull blazen Sky-analist omver: \"Dan maar 16 punten achter Antonelli!\""
+   },
+   "last": "2026-10-30T20:20:13.296988+00:00"
+  },
+  "S3078": {
+   "title": "Live blog of Mexico GP FP2 session",
+   "first": "2026-10-30T20:20:13.296992+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-30T20:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "F1 GP Messico 2026, FP2: La seconda sessione di libere inizia alle 23.00 – DIRETTA"
+   },
+   "last": "2026-10-30T20:20:13.296997+00:00"
   }
  },
- "story_seq": 3075,
+ "story_seq": 3078,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14985,7 +15032,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T20:15:09.411008+00:00",
+ "last_run": "2026-10-30T20:20:06.250196+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16439,6 +16486,11 @@
   {
    "t": "2026-10-30T19:55:20.867632+00:00",
    "title": "FIA, Meksika GP'si için grid cezalarını açıkladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-30T20:20:19.997392+00:00",
+   "title": "Chandhok: Verstappen, sezonun ilk yarısı hariç tutulursa Antonelli'nin 16 puan gerisinde",
    "source": "RacingNews365 NL"
   }
  ]
