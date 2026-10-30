@@ -5513,7 +5513,13 @@
   "0b570dc3befb15d4": "2026-10-30T10:53:41.586567+00:00",
   "53c04a30f8069674": "2026-10-30T11:03:46.680337+00:00",
   "f8542308449c9099": "2026-10-30T11:03:46.680337+00:00",
-  "842f65c81b9f4451": "2026-10-30T11:13:41.702809+00:00"
+  "842f65c81b9f4451": "2026-10-30T11:13:41.702809+00:00",
+  "9410e50dbf65f228": "2026-10-30T11:23:41.407910+00:00",
+  "62009e58187a3d98": "2026-10-30T11:23:41.407910+00:00",
+  "c63e40ae47f26453": "2026-10-30T11:23:41.407910+00:00",
+  "8376e99c3880461e": "2026-10-30T11:23:41.407910+00:00",
+  "bcc32b65cf570217": "2026-10-30T11:23:41.407910+00:00",
+  "d811621799a77d79": "2026-10-30T11:23:41.407910+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5827,19 +5833,6 @@
     "GPblog": "Hamilton rues missing out on Verstappen battle: 'Would've been awesome'"
    },
    "last": "2026-10-28T17:38:36.688839+00:00"
-  },
-  "S2276": {
-   "title": "ESPN radio show on Rays World Series win",
-   "first": "2026-10-28T11:17:16.956863+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T11:16:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Unsportsmanlike with Evan, Canty and Michelle - Hour 1: Rays Still Alive"
-   },
-   "last": "2026-10-28T11:17:16.956881+00:00"
   },
   "S2277": {
    "title": "Surprise replacement for Bottas at Cadillac emerges",
@@ -12403,7 +12396,8 @@
     "Crash.net": "2026-10-29T20:35:35+00:00",
     "RacingNews365": "2026-10-29T21:07:00+00:00",
     "Sky Sports F1": "2026-10-29T21:05:00+00:00",
-    "PlanetF1": "2026-10-30T09:30:37+00:00"
+    "PlanetF1": "2026-10-30T09:30:37+00:00",
+    "Motorsport Week": "2026-10-30T11:00:06+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12411,9 +12405,10 @@
     "Crash.net": "Fernando Alonso doubles down on F1 driver criticism as Alex Albon reacts",
     "RacingNews365": "Alex Albon 'doubles down' on Fernando Alonso counter: 'Hope our paths don't cross'",
     "Sky Sports F1": "'Lack of talent' - Alonso doubles down on Albon criticism",
-    "PlanetF1": "Fernando Alonso doubles down on brutal F1 grid verdict as Alex Albon hits back"
+    "PlanetF1": "Fernando Alonso doubles down on brutal F1 grid verdict as Alex Albon hits back",
+    "Motorsport Week": "Alex Albon hits back at Fernando Alonso’s ‘low level of driving’ jibe"
    },
-   "last": "2026-10-30T09:33:45.316658+00:00"
+   "last": "2026-10-30T11:23:48.794771+00:00"
   },
   "S2769": {
    "title": "AE Prat vs Athletic live score (29 Oct 2026)",
@@ -13041,15 +13036,17 @@
    "first": "2026-10-29T23:32:20.729744+00:00",
    "sources": {
     "Formula 1": "2026-10-29T23:32:20.729758+00:00",
-    "FormulaPassion": "2026-10-30T08:45:00+00:00"
+    "FormulaPassion": "2026-10-30T08:45:00+00:00",
+    "RacingNews365 NL": "2026-10-30T11:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "‘I don’t care’ about the Drivers’ Championship – Verstappen",
-    "FormulaPassion": "Verstappen sulla classifica Piloti: “La mia classifica non mi interessa, voglio solo vincere e portare la Red Bull al terzo posto”"
+    "FormulaPassion": "Verstappen sulla classifica Piloti: “La mia classifica non mi interessa, voglio solo vincere e portare la Red Bull al terzo posto”",
+    "RacingNews365 NL": "Verstappen glashelder: \"Dat interesseert me eigenlijk niet\""
    },
-   "last": "2026-10-30T09:03:47.085098+00:00"
+   "last": "2026-10-30T11:23:48.794765+00:00"
   },
   "S2815": {
    "title": "Inside OSU Athletics stream listing",
@@ -13939,7 +13936,7 @@
     "GPblog": "Lando Norris defends McLaren season, hitting back at 'failure' tag",
     "Motorsport-Total": "Lando Norris verteidigt McLarens F1-Saison 2026: \"Kein Misserfolg\" - Motorsport-Total.com"
    },
-   "last": "2026-10-30T08:53:43.826370+00:00"
+   "last": "2026-10-30T11:23:48.794786+00:00"
   },
   "S2883": {
    "title": "Declan Meredith may keep Wallabies 10 jersey after Bledisloe effort",
@@ -14589,9 +14586,48 @@
     "Auto Motor und Sport": "Formel 1: Abtriebsverlust - Darum ist Mexiko jetzt noch schlimmer als Monza"
    },
    "last": "2026-10-30T11:13:43.900340+00:00"
+  },
+  "S2932": {
+   "title": "Verstappen unsure Ricciardo Le Mans reunion is viable",
+   "first": "2026-10-30T11:23:48.794728+00:00",
+   "sources": {
+    "The Race": "2026-10-30T11:15:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "The 'bummer' hurdle to a Verstappen-Ricciardo Le Mans reunion"
+   },
+   "last": "2026-10-30T11:23:48.794747+00:00"
+  },
+  "S2933": {
+   "title": "Leclerc unsure of short-term Ferrari fix for Mexico",
+   "first": "2026-10-30T11:23:48.794754+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Charles Leclerc unsure of 'short-term' Ferrari fix as 'limitation' revealed"
+   },
+   "last": "2026-10-30T11:23:48.794759+00:00"
+  },
+  "S2934": {
+   "title": "Why 2026 F1 rules become a problem in Mexico",
+   "first": "2026-10-30T11:23:48.794775+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T11:10:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel 1 in Mexiko: Warum die neuen Regeln 2026 zum Problem werden - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T11:23:48.794779+00:00"
   }
  },
- "story_seq": 2931,
+ "story_seq": 2934,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14710,17 +14746,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T11:13:41.702809+00:00",
+ "last_run": "2026-10-30T11:23:41.407910+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T11:14:14.267319+00:00",
-   "title": "Russell'ın büyük geride kalma sorunu: Veriler ne diyor?",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-10-27T11:24:11.265471+00:00",
    "title": "Ocon: Yüksek hızda ön blokaj ve alttan kayma sorunları devam ediyor",
@@ -16230,6 +16261,16 @@
    "t": "2026-10-30T10:33:53.585541+00:00",
    "title": "Coronel, Verstappen'in Meksika'da benzersiz bir avantajına dikkat çekti",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-30T11:23:55.510903+00:00",
+   "title": "Mexico GP'de yeni 2026 kuralları neden sorun olacak?",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-30T11:23:56.024660+00:00",
+   "title": "Leclerc, Ferrari'nin kısa vadeli çözümünden emin değil",
+   "source": "RacingNews365"
   }
  ]
 }
