@@ -5598,7 +5598,10 @@
   "34d3e74461de2631": "2026-10-30T13:39:31.973579+00:00",
   "c6d63a2f003eb0f5": "2026-10-30T13:49:27.468217+00:00",
   "831a210c0e9f2caf": "2026-10-30T13:49:27.468217+00:00",
-  "ec76a36bc330f3c7": "2026-10-30T13:49:27.468217+00:00"
+  "ec76a36bc330f3c7": "2026-10-30T13:49:27.468217+00:00",
+  "6629f23f25699afa": "2026-10-30T13:54:30.359199+00:00",
+  "e8a0a19830ffb697": "2026-10-30T13:54:30.359199+00:00",
+  "32b125e909f004d7": "2026-10-30T13:54:30.359199+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13928,14 +13931,16 @@
    "title": "Hadjar predicts F1 drivers face toughest test in Mexico City",
    "first": "2026-10-30T10:33:43.773562+00:00",
    "sources": {
-    "RacingNews365": "2026-10-30T10:30:00+00:00"
+    "RacingNews365": "2026-10-30T10:30:00+00:00",
+    "RacingNews365 NL": "2026-10-30T13:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Isack Hadjar makes 'on fire' prediction as F1 braced for extreme test"
+    "RacingNews365": "Isack Hadjar makes 'on fire' prediction as F1 braced for extreme test",
+    "RacingNews365 NL": "Hadjar slaat alarm voor GP Mexico: \"Alles zal in vuur en vlam staan\""
    },
-   "last": "2026-10-30T10:33:43.773580+00:00"
+   "last": "2026-10-30T13:54:34.113740+00:00"
   },
   "S2924": {
    "title": "Coronel says thin air gives Verstappen unique Mexico advantage",
@@ -14575,9 +14580,35 @@
     "GPblog": "F1's champion-elect is one of its lowest-paid drivers, but a Mercedes title bonus will change that"
    },
    "last": "2026-10-30T13:49:30.545400+00:00"
+  },
+  "S2973": {
+   "title": "ESPN way-too-early 2027 fantasy baseball rankings",
+   "first": "2026-10-30T13:54:34.113700+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T13:50:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "ESPN way-too-early fantasy baseball rankings: 2027 category and roto leagues"
+   },
+   "last": "2026-10-30T13:54:34.113719+00:00"
+  },
+  "S2974": {
+   "title": "Verstappen clarifies 'average' comment after US GP",
+   "first": "2026-10-30T13:54:34.113726+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T13:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen clarifies 'average' comment after painful race"
+   },
+   "last": "2026-10-30T13:54:34.113733+00:00"
   }
  },
- "story_seq": 2972,
+ "story_seq": 2974,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14696,7 +14727,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T13:49:27.468217+00:00",
+ "last_run": "2026-10-30T13:54:30.359199+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16196,6 +16227,11 @@
    "t": "2026-10-30T13:49:34.554283+00:00",
    "title": "Antonelli'nin şampiyonluk primi maaşını 5 kattan fazla artıracak",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T13:54:38.164972+00:00",
+   "title": "Verstappen, 'ortalama' yorumunu açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
