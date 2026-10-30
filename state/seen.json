@@ -5767,7 +5767,10 @@
   "79aac4cdcf34af1c": "2026-10-30T19:45:07.284369+00:00",
   "643ecc117e874913": "2026-10-30T19:50:08.657493+00:00",
   "440d830b6b6dc2bf": "2026-10-30T19:50:08.657493+00:00",
-  "c5b1941284cb87d4": "2026-10-30T19:50:08.657493+00:00"
+  "c5b1941284cb87d4": "2026-10-30T19:50:08.657493+00:00",
+  "df45e917632faabd": "2026-10-30T19:55:12.044669+00:00",
+  "e8bbc57502e5d519": "2026-10-30T19:55:12.044669+00:00",
+  "8a501ae0631fe7f8": "2026-10-30T19:55:12.044669+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14613,14 +14616,16 @@
    "title": "Bottas and Bortoleto to drop grid positions in Mexico City",
    "first": "2026-10-30T19:05:12.002973+00:00",
    "sources": {
-    "RacingNews365": "2026-10-30T18:57:00+00:00"
+    "RacingNews365": "2026-10-30T18:57:00+00:00",
+    "RacingNews365 NL": "2026-10-30T19:47:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Two F1 drivers set for Mexico City Grand Prix grid penalties"
+    "RacingNews365": "Two F1 drivers set for Mexico City Grand Prix grid penalties",
+    "RacingNews365 NL": "FIA openbaart gridstraffen voor F1 GP Mexico"
    },
-   "last": "2026-10-30T19:05:12.002980+00:00"
+   "last": "2026-10-30T19:55:15.325494+00:00"
   },
   "S3057": {
    "title": "Mexico City betting markets: what could shift the odds",
@@ -14757,7 +14762,8 @@
     "Autosport": "2026-10-30T19:39:56+00:00",
     "Motorsport.com Italia": "2026-10-30T19:41:26+00:00",
     "Motorsport Week": "2026-10-30T19:34:02+00:00",
-    "FormulaPassion": "2026-10-30T19:39:20+00:00"
+    "FormulaPassion": "2026-10-30T19:39:20+00:00",
+    "Formula 1": "2026-10-30T19:55:15.325459+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14774,9 +14780,10 @@
     "Autosport": "F1 Mexico GP: Leclerc beats Antonelli to top FP1",
     "Motorsport.com Italia": "F1 | Messico, Libere 1: Ferrari subito davanti con Leclerc. Seguono le Mercedes di Kimi e Vesti",
     "Motorsport Week": "F1 2026 Mexico City Grand Prix – FP1 Results",
-    "FormulaPassion": "GP Città del Messico 2026 – Classifica FP1: Ferrari parte forte, Leclerc da 6 decimi a Kimi. Hamilton 4°"
+    "FormulaPassion": "GP Città del Messico 2026 – Classifica FP1: Ferrari parte forte, Leclerc da 6 decimi a Kimi. Hamilton 4°",
+    "Formula 1": "Leclerc fastest in Mexico FP1 as new faces make F1 debuts"
    },
-   "last": "2026-10-30T19:50:12.811817+00:00"
+   "last": "2026-10-30T19:55:15.325474+00:00"
   },
   "S3067": {
    "title": "Red Bull faces work after Mexico FP1; Hadjar struggles",
@@ -14816,9 +14823,22 @@
     "ESPN F1": "Fantasy football rankings for Week 8: Running back"
    },
    "last": "2026-10-30T19:50:12.811801+00:00"
+  },
+  "S3070": {
+   "title": "Bills prepare contingencies if injured starters are unavailable",
+   "first": "2026-10-30T19:55:15.325481+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T19:16:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bills making contingencies if hurt starters aren't available"
+   },
+   "last": "2026-10-30T19:55:15.325487+00:00"
   }
  },
- "story_seq": 3069,
+ "story_seq": 3070,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14937,7 +14957,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T19:50:08.657493+00:00",
+ "last_run": "2026-10-30T19:55:12.044669+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16392,6 +16412,11 @@
    "t": "2026-10-30T19:45:18.713224+00:00",
    "title": "Alonso, Aston Martin ile antrenmanda yedinci oldu",
    "source": "AS"
+  },
+  {
+   "t": "2026-10-30T19:55:20.867632+00:00",
+   "title": "FIA, Meksika GP'si için grid cezalarını açıkladı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
