@@ -5727,7 +5727,11 @@
   "40adeea5260a7b56": "2026-10-30T18:40:09.161684+00:00",
   "32118009c49273d2": "2026-10-30T18:40:09.161684+00:00",
   "9200850f4c3d011d": "2026-10-30T18:40:09.161684+00:00",
-  "afffdee419852423": "2026-10-30T18:40:09.161684+00:00"
+  "afffdee419852423": "2026-10-30T18:40:09.161684+00:00",
+  "51f422a57d4c12d6": "2026-10-30T18:45:11.581885+00:00",
+  "2c6d8eb3b3b7dd36": "2026-10-30T18:45:11.581885+00:00",
+  "adf7bc4f62caa198": "2026-10-30T18:45:11.581885+00:00",
+  "c56a6328d4f79636": "2026-10-30T18:45:11.581885+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13931,7 +13935,7 @@
    "titles": {
     "ESPN F1": "Commissioner Yormark leaving Big 12 after January for job outside college sports"
    },
-   "last": "2026-10-30T14:39:55.069388+00:00"
+   "last": "2026-10-30T18:45:17.048702+00:00"
   },
   "S2993": {
    "title": "Live blog of Mexico GP FP1 with rookie debutants",
@@ -13977,16 +13981,18 @@
    "sources": {
     "RacingNews365": "2026-10-30T14:40:00+00:00",
     "Formula 1": "2026-10-30T16:09:40.437072+00:00",
-    "PlanetF1": "2026-10-30T18:02:23+00:00"
+    "PlanetF1": "2026-10-30T18:02:23+00:00",
+    "Gazzetta dello Sport": "2026-10-30T18:34:43+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "The 10 F1 rookie drivers who will drive during Mexico City FP1",
     "Formula 1": "Which rookies are getting FP1 outings in Mexico?",
-    "PlanetF1": "Who are the 10 FP1 drivers at the F1 2026 Mexico City Grand Prix?"
+    "PlanetF1": "Who are the 10 FP1 drivers at the F1 2026 Mexico City Grand Prix?",
+    "Gazzetta dello Sport": "Quanti volti nuovi nelle libere 1 in Messico: l'Italia tifa per Fornaroli e Minì"
    },
-   "last": "2026-10-30T18:04:35.725888+00:00"
+   "last": "2026-10-30T18:45:17.048752+00:00"
   },
   "S2996": {
    "title": "Auto Motor und Sport quote piece on an unclear F1 topic",
@@ -14755,9 +14761,35 @@
     "ESPN F1": "After conquering worlds, Skye Blakely chases NCAA titles with Gators"
    },
    "last": "2026-10-30T18:40:11.831063+00:00"
+  },
+  "S3054": {
+   "title": "Russell makes stunning admission about Mercedes after title collapse",
+   "first": "2026-10-30T18:45:17.048716+00:00",
+   "sources": {
+    "GPFans": "2026-10-30T18:44:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "George Russell makes stunning Mercedes admission after F1 title collapse"
+   },
+   "last": "2026-10-30T18:45:17.048726+00:00"
+  },
+  "S3055": {
+   "title": "Hamilton's Ferrari FP1 experiments in Mexico revealed",
+   "first": "2026-10-30T18:45:17.048733+00:00",
+   "sources": {
+    "Crash.net": "2026-10-30T18:43:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton Ferrari experiments for Mexico GP FP1 revealed after ‘test races’ remark"
+   },
+   "last": "2026-10-30T18:45:17.048742+00:00"
   }
  },
- "story_seq": 3053,
+ "story_seq": 3055,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14876,7 +14908,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T18:40:09.161684+00:00",
+ "last_run": "2026-10-30T18:45:11.581885+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16321,6 +16353,11 @@
    "t": "2026-10-30T17:54:41.396975+00:00",
    "title": "Mexico City GP: Antonelli viral hastalık sonrası antrenmanda sürmeye uygun",
    "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-10-30T18:45:23.422619+00:00",
+   "title": "Hamilton, Meksika GP antrenmanında Ferrari'de deneyler yapıyor",
+   "source": "Crash.net"
   }
  ]
 }
