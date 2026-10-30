@@ -5653,7 +5653,9 @@
   "acf8b17314653515": "2026-10-30T15:44:34.506706+00:00",
   "f08713e2abf7f599": "2026-10-30T15:44:34.506706+00:00",
   "dabd43db4f317b0f": "2026-10-30T15:44:34.506706+00:00",
-  "56b0cd49126540dd": "2026-10-30T15:44:34.506706+00:00"
+  "56b0cd49126540dd": "2026-10-30T15:44:34.506706+00:00",
+  "5f1334e66037e1b5": "2026-10-30T15:49:31.046969+00:00",
+  "0a0fe9a9726e0d61": "2026-10-30T15:49:31.046969+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6040,19 +6042,6 @@
     "GPblog": "Cadillac keeps Valtteri Bottas in the dark after Sergio Perez contract extension"
    },
    "last": "2026-10-28T17:38:36.688817+00:00"
-  },
-  "S2350": {
-   "title": "Verstappen says Red Bull Mexico performance hard to predict",
-   "first": "2026-10-28T15:48:00.341553+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T15:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen waarschuwt voor lastige GP Mexico"
-   },
-   "last": "2026-10-28T15:48:00.341572+00:00"
   },
   "S2351": {
    "title": "Analysis: Red Bull launch weakness could hurt Verstappen in Mexico",
@@ -13347,15 +13336,17 @@
    "first": "2026-10-30T08:13:49.331246+00:00",
    "sources": {
     "GPblog": "2026-10-30T08:06:00+00:00",
-    "Crash.net": "2026-10-30T11:00:00+00:00"
+    "Crash.net": "2026-10-30T11:00:00+00:00",
+    "GPFans": "2026-10-30T15:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Antonelli and Bottas’s illness-related absences don’t come as a surprise to Verstappen",
-    "Crash.net": "Max Verstappen blames F1 calendar demand after two drivers fall ill"
+    "Crash.net": "Max Verstappen blames F1 calendar demand after two drivers fall ill",
+    "GPFans": "Max Verstappen says F1 illnesses are 'no coincidence' in gruelling schedule warning"
    },
-   "last": "2026-10-30T13:19:55.361685+00:00"
+   "last": "2026-10-30T15:49:33.519977+00:00"
   },
   "S2900": {
    "title": "MotoGP practice: Marquez tops timesheets ahead of Martin",
@@ -14180,14 +14171,16 @@
    "title": "Mercedes yet to confirm Antonelli fitness before Mexico practice",
    "first": "2026-10-30T12:48:46.024884+00:00",
    "sources": {
-    "GPblog": "2026-10-30T12:45:00+00:00"
+    "GPblog": "2026-10-30T12:45:00+00:00",
+    "RacingNews365 NL": "2026-10-30T15:47:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Mercedes yet to confirm Kimi Antonelli fitness as Mexico practice looms"
+    "GPblog": "Mercedes yet to confirm Kimi Antonelli fitness as Mexico practice looms",
+    "RacingNews365 NL": "Gezondheidsupdate Antonelli voor eerste vrije training GP Mexico"
    },
-   "last": "2026-10-30T15:39:37.429822+00:00"
+   "last": "2026-10-30T15:49:33.519966+00:00"
   },
   "S2962": {
    "title": "Jeremiah Smith NFL draft prospect profile",
@@ -14948,17 +14941,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T15:44:34.506706+00:00",
+ "last_run": "2026-10-30T15:49:31.046969+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T15:45:04.756162+00:00",
-   "title": "Gabriele Minì, Messico'da FP1'de Alpine ile F1 debütünü yapacak",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-10-27T15:54:59.519485+00:00",
    "title": "Leclerc Austin'de Ferrari'nin podyum kralı Schumacher'in ardından ikinci",
@@ -16433,6 +16421,11 @@
    "t": "2026-10-30T15:39:42.941639+00:00",
    "title": "Antonelli'nin sağlık durumu netleşti, Meksika GP'de pistte olacak",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T15:49:39.650843+00:00",
+   "title": "Antonelli'nin sağlık durumu Meksika GP öncesi netleşti",
+   "source": "RacingNews365 NL"
   }
  ]
 }
