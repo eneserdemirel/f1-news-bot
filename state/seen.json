@@ -5647,7 +5647,8 @@
   "47f29f8f6696c4df": "2026-10-30T15:29:38.535367+00:00",
   "c3100d5ab99258ca": "2026-10-30T15:29:38.535367+00:00",
   "6c4c12e9a41cb73a": "2026-10-30T15:34:28.478003+00:00",
-  "098f5dac35581f36": "2026-10-30T15:34:28.478003+00:00"
+  "098f5dac35581f36": "2026-10-30T15:34:28.478003+00:00",
+  "fcc5f352e1f275f9": "2026-10-30T15:39:34.006640+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6034,32 +6035,6 @@
     "GPblog": "Cadillac keeps Valtteri Bottas in the dark after Sergio Perez contract extension"
    },
    "last": "2026-10-28T17:38:36.688817+00:00"
-  },
-  "S2348": {
-   "title": "Barcelona fined €602 over Julián Álvarez approach",
-   "first": "2026-10-28T15:38:03.360879+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T11:34:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Barcelona fined €602 over Julián Álvarez approach"
-   },
-   "last": "2026-10-28T15:38:03.360899+00:00"
-  },
-  "S2349": {
-   "title": "Verstappen rated 'average' by Red Bull after US GP",
-   "first": "2026-10-28T15:38:03.360910+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-28T15:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen delivers 'average' Red Bull verdict after US GP struggle"
-   },
-   "last": "2026-10-28T15:38:03.360914+00:00"
   },
   "S2350": {
    "title": "Verstappen says Red Bull Mexico performance hard to predict",
@@ -14207,7 +14182,7 @@
    "titles": {
     "GPblog": "Mercedes yet to confirm Kimi Antonelli fitness as Mexico practice looms"
    },
-   "last": "2026-10-30T12:48:46.024890+00:00"
+   "last": "2026-10-30T15:39:37.429822+00:00"
   },
   "S2962": {
    "title": "Jeremiah Smith NFL draft prospect profile",
@@ -14916,17 +14891,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T15:34:28.478003+00:00",
+ "last_run": "2026-10-30T15:39:34.006640+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T15:35:05.479395+00:00",
-   "title": "Russell'dan F1 pistleri için düzenli asfalt yenileme önerisi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-27T15:45:04.756162+00:00",
    "title": "Gabriele Minì, Messico'da FP1'de Alpine ile F1 debütünü yapacak",
@@ -16400,6 +16370,11 @@
   {
    "t": "2026-10-30T15:24:44.466699+00:00",
    "title": "Bottas Meksika GP'ye hazır, Antonelli'nin katılımı belirsiz",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T15:39:42.941639+00:00",
+   "title": "Antonelli'nin sağlık durumu netleşti, Meksika GP'de pistte olacak",
    "source": "GPblog"
   }
  ]
