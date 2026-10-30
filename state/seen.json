@@ -5512,7 +5512,8 @@
   "5bd3a0297a6b8dc9": "2026-10-30T10:53:41.586567+00:00",
   "0b570dc3befb15d4": "2026-10-30T10:53:41.586567+00:00",
   "53c04a30f8069674": "2026-10-30T11:03:46.680337+00:00",
-  "f8542308449c9099": "2026-10-30T11:03:46.680337+00:00"
+  "f8542308449c9099": "2026-10-30T11:03:46.680337+00:00",
+  "842f65c81b9f4451": "2026-10-30T11:13:41.702809+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5557,38 +5558,6 @@
    },
    "last": "2026-10-28T11:27:41.197130+00:00"
   },
-  "S2075": {
-   "title": "Leclerc details Ferrari miscalculation that cost US GP win",
-   "first": "2026-10-27T16:34:56.188693+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-27T16:15:17+00:00",
-    "RacingNews365": "2026-10-28T09:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Charles Leclerc details Ferrari miscalculation after lost US GP victory",
-    "RacingNews365": "Charles Leclerc voices Ferrari concern after identifying key victory-costing moment"
-   },
-   "last": "2026-10-28T11:07:40.337739+00:00"
-  },
-  "S2087": {
-   "title": "Rumours Aston Martin may seek new engine supplier; Red Bull reacts",
-   "first": "2026-10-27T17:04:57.779725+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-27T17:00:00+00:00",
-    "RacingNews365": "2026-10-28T06:20:00+00:00",
-    "Crash.net": "2026-10-28T09:31:55+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull reageert op Aston Martin-geruchten na 'ongewenste positieve publiciteit'",
-    "RacingNews365": "Red Bull denies 'serious conversations' with F1 rival over supplying engines",
-    "Crash.net": "Red Bull responds to surprise Aston Martin engine supply rumours"
-   },
-   "last": "2026-10-28T11:07:40.337759+00:00"
-  },
   "S2161": {
    "title": "F1 Today roundup: Verstappen wealth, Russell Mexico absence",
    "first": "2026-10-27T21:25:40.595747+00:00",
@@ -5609,21 +5578,6 @@
     "Motorsport Week": "Mercedes confirm George Russell Mexican GP FP1 replacement"
    },
    "last": "2026-10-28T16:18:05.305970+00:00"
-  },
-  "S2216": {
-   "title": "Stella explains McLaren team order to let Norris pass Piastri",
-   "first": "2026-10-28T06:06:44.748092+00:00",
-   "sources": {
-    "GPblog": "2026-10-28T06:01:00+00:00",
-    "RacingNews365": "2026-10-28T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Piastri told to let Norris through as McLaren reveal what triggered swap",
-    "RacingNews365": "McLaren reveal Lando Norris 'superpower' behind team order swap"
-   },
-   "last": "2026-10-28T11:07:40.337744+00:00"
   },
   "S2224": {
    "title": "Wolff defends Russell against Marko's 'wonderkid' claims",
@@ -5873,19 +5827,6 @@
     "GPblog": "Hamilton rues missing out on Verstappen battle: 'Would've been awesome'"
    },
    "last": "2026-10-28T17:38:36.688839+00:00"
-  },
-  "S2275": {
-   "title": "F1 driver plans to launch a junior academy",
-   "first": "2026-10-28T11:07:40.337767+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-10-28T10:56:53+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Dieser Formel-1-Pilot will eine Junior-Akademie gründen"
-   },
-   "last": "2026-10-28T11:07:40.337771+00:00"
   },
   "S2276": {
    "title": "ESPN radio show on Rays World Series win",
@@ -14635,9 +14576,22 @@
     "GPblog": "Liam Lawson lifts lid on F1 barriers and his Red Bull future doubts"
    },
    "last": "2026-10-30T10:53:46.198586+00:00"
+  },
+  "S2931": {
+   "title": "Why Mexico's downforce loss is worse than Monza's",
+   "first": "2026-10-30T11:13:43.900323+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-10-30T11:01:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Abtriebsverlust - Darum ist Mexiko jetzt noch schlimmer als Monza"
+   },
+   "last": "2026-10-30T11:13:43.900340+00:00"
   }
  },
- "story_seq": 2930,
+ "story_seq": 2931,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14756,7 +14710,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T11:03:46.680337+00:00",
+ "last_run": "2026-10-30T11:13:41.702809+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
