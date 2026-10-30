@@ -5554,7 +5554,10 @@
   "e26d7f94122d9794": "2026-10-30T12:38:40.222941+00:00",
   "4fd111ffda0e767f": "2026-10-30T12:43:46.039590+00:00",
   "668dbd5cc4982354": "2026-10-30T12:43:46.039590+00:00",
-  "e233f591debf549c": "2026-10-30T12:43:46.039590+00:00"
+  "e233f591debf549c": "2026-10-30T12:43:46.039590+00:00",
+  "2d5ebb141c4365ea": "2026-10-30T12:48:41.798802+00:00",
+  "fbfe1dc82c82ec56": "2026-10-30T12:48:41.798802+00:00",
+  "d9ae5b0ba2e36c41": "2026-10-30T12:48:41.798802+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5816,32 +5819,6 @@
     "PlanetF1": "Daniel Ricciardo admits Red Bull F1 exit was a blessing despite humiliation"
    },
    "last": "2026-10-29T12:30:59.012072+00:00"
-  },
-  "S2301": {
-   "title": "The Cong-Viettel vs FC Seoul live score",
-   "first": "2026-10-28T12:47:16.558774+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T12:40:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The Cong-Viettel vs. FC Seoul (28 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T12:47:16.558793+00:00"
-  },
-  "S2302": {
-   "title": "Ranking the top 25 NFL trade deadline candidates",
-   "first": "2026-10-28T12:47:16.558799+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T11:25:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits"
-   },
-   "last": "2026-10-28T12:47:16.558805+00:00"
   },
   "S2303": {
    "title": "Brewers need from Misiorowski in World Series Game 5",
@@ -14356,12 +14333,12 @@
    "sources": {
     "RacingNews365 NL": "2026-10-30T11:38:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "DPG Media neemt Viaplay-personeel over richting Videoland"
    },
-   "last": "2026-10-30T11:43:44.227245+00:00"
+   "last": "2026-10-30T12:48:46.024874+00:00"
   },
   "S2941": {
    "title": "Antonelli's father travels from Mugello to Mexico City",
@@ -14622,9 +14599,22 @@
     "AS": "Honda avisa: “El retardo del turbo puede ser un problema”"
    },
    "last": "2026-10-30T12:43:50.760431+00:00"
+  },
+  "S2961": {
+   "title": "Mercedes yet to confirm Antonelli fitness before Mexico practice",
+   "first": "2026-10-30T12:48:46.024884+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T12:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes yet to confirm Kimi Antonelli fitness as Mexico practice looms"
+   },
+   "last": "2026-10-30T12:48:46.024890+00:00"
   }
  },
- "story_seq": 2960,
+ "story_seq": 2961,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14743,7 +14733,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T12:43:46.039590+00:00",
+ "last_run": "2026-10-30T12:48:41.798802+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16253,6 +16243,11 @@
    "t": "2026-10-30T12:38:46.553990+00:00",
    "title": "Kimi Antonelli: Sıradan biri ve yakında Vettel'den daha iyi olabilir mi?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-30T12:48:53.906024+00:00",
+   "title": "Viaplay, Videoland'i bünyesine alıyor: Formula 1 fanları için ne değişiyor?",
+   "source": "RacingNews365 NL"
   }
  ]
 }
