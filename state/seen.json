@@ -5836,7 +5836,13 @@
   "213861a2dd0e7e20": "2026-10-30T22:00:09.460919+00:00",
   "50630500ea2aa02b": "2026-10-30T22:05:11.559293+00:00",
   "a2ad316a77b1c405": "2026-10-30T22:05:11.559293+00:00",
-  "c9e78228e217f2ea": "2026-10-30T22:15:11.869140+00:00"
+  "c9e78228e217f2ea": "2026-10-30T22:15:11.869140+00:00",
+  "069377be1b10f874": "2026-10-30T22:25:09.694692+00:00",
+  "dca466886f9629a5": "2026-10-30T22:25:09.694692+00:00",
+  "18dd55173b635d6b": "2026-10-30T22:25:09.694692+00:00",
+  "69cb4eea95ce3f1c": "2026-10-30T22:25:09.694692+00:00",
+  "2e5c3c092769ee7b": "2026-10-30T22:25:09.694692+00:00",
+  "19b0a13a976ebabb": "2026-10-30T22:25:09.694692+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14835,14 +14841,16 @@
    "title": "Hadjar hit by power unit failure and shoves fan in Mexico paddock",
    "first": "2026-10-30T21:20:10.087531+00:00",
    "sources": {
-    "FormulaPassion": "2026-10-30T21:13:30+00:00"
+    "FormulaPassion": "2026-10-30T21:13:30+00:00",
+    "Crash.net": "2026-10-30T22:24:16+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Hadjar, il weekend inizia male: problemi alla power unit e spintoni a un tifoso"
+    "FormulaPassion": "Hadjar, il weekend inizia male: problemi alla power unit e spintoni a un tifoso",
+    "Crash.net": "Isack Hadjar shoves fan in Mexico Grand Prix F1 paddock altercation"
    },
-   "last": "2026-10-30T21:20:10.087537+00:00"
+   "last": "2026-10-30T22:25:14.197750+00:00"
   },
   "S3095": {
    "title": "Kane beats Mbappé in 2026 Ballon d'Or by narrow margin",
@@ -15001,9 +15009,52 @@
     "ESPN F1": "Maxim Masse"
    },
    "last": "2026-10-30T22:15:14.115328+00:00"
+  },
+  "S3107": {
+   "title": "Norris tells unhappy drivers to 'do a better job' on cars",
+   "first": "2026-10-30T22:25:14.197695+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T19:22:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lando Norris sends message to F1 drivers unhappy with cars: 'Do a better job'"
+   },
+   "last": "2026-10-30T22:25:14.197713+00:00"
+  },
+  "S3108": {
+   "title": "ESPN publishes Mexico City GP weekend results page",
+   "first": "2026-10-30T22:25:14.197720+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T19:18:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 Mexico City Grand Prix Weekend Results"
+   },
+   "last": "2026-10-30T22:25:14.197725+00:00"
+  },
+  "S3109": {
+   "title": "Verstappen and Lawson contact in FP2 triggers red flag",
+   "first": "2026-10-30T22:25:14.197730+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-30T22:22:00+00:00",
+    "RacingNews365 NL": "2026-10-30T22:20:00+00:00",
+    "GPblog": "2026-10-30T22:21:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Bizarre Max Verstappen and Liam Lawson clash sparks red flag",
+    "RacingNews365 NL": "Verstappen en Lawson veroorzaken rode vlag met opmerkelijk akkefietje",
+    "GPblog": "Verstappen and Lawson make contact that leads to Mexico red flag"
+   },
+   "last": "2026-10-30T22:25:14.197745+00:00"
   }
  },
- "story_seq": 3106,
+ "story_seq": 3109,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15121,8 +15172,8 @@
    "Abu Dhabi Grand Prix"
   ]
  ],
- "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T22:20:07.973618+00:00",
+ "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
+ "last_run": "2026-10-30T22:25:09.694692+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16632,6 +16683,16 @@
    "t": "2026-10-30T21:50:18.216293+00:00",
    "title": "Mekies, Horner'ın Red Bull eleştirisine aldırmıyor: \"Bu bizim ruhumuz\"",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T22:25:18.734308+00:00",
+   "title": "Lando Norris, arabalardan memnun olmayan F1 pilotlarına seslendi: 'Daha iyi bir iş çıkarın'",
+   "source": "ESPN F1"
+  },
+  {
+   "t": "2026-10-30T22:25:19.158951+00:00",
+   "title": "Verstappen ile Lawson çarpıştı, kırmızı bayrak çıktı",
+   "source": "RacingNews365"
   }
  ]
 }
