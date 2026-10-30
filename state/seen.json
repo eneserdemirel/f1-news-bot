@@ -5786,7 +5786,9 @@
   "fe6af55f86dde9d6": "2026-10-30T20:20:06.250196+00:00",
   "0361a16ed84bf21b": "2026-10-30T20:20:06.250196+00:00",
   "3f15bc53753cacf7": "2026-10-30T20:20:06.250196+00:00",
-  "db342bf1b71a7008": "2026-10-30T20:25:08.596039+00:00"
+  "db342bf1b71a7008": "2026-10-30T20:25:08.596039+00:00",
+  "ba156047ca611ebc": "2026-10-30T20:30:06.526195+00:00",
+  "fff4bc86e9e7b5ce": "2026-10-30T20:30:06.526195+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6039,19 +6041,6 @@
    },
    "last": "2026-10-28T23:48:40.869150+00:00"
   },
-  "S2414": {
-   "title": "Chelsea 2-0 Roma match analysis (Oct 28, 2026)",
-   "first": "2026-10-28T19:58:36.729998+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:52:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chelsea 2-0 Roma (Oct 28, 2026) Game Analysis"
-   },
-   "last": "2026-10-28T20:28:35.945810+00:00"
-  },
   "S2418": {
    "title": "Jaelan Phillips ruled out of Panthers TNF game",
    "first": "2026-10-28T20:08:40.646835+00:00",
@@ -6077,32 +6066,6 @@
     "GPblog": "Ferrari line up Beganovic for Mexico FP1 as Hamilton or Leclerc must make way"
    },
    "last": "2026-10-29T01:49:42.411193+00:00"
-  },
-  "S2420": {
-   "title": "Lewis Uvwo, No. 1 center in 2027, commits to Providence",
-   "first": "2026-10-28T20:28:35.945781+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T20:14:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lewis Uvwo, the No. 1 center in 2027, commits to Providence"
-   },
-   "last": "2026-10-28T20:28:35.945800+00:00"
-  },
-  "S2421": {
-   "title": "Chargers stick with Mike McDaniel as offensive playcaller",
-   "first": "2026-10-28T20:28:35.945816+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:52:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Winless Chargers sticking with Mike McDaniel as offensive playcaller"
-   },
-   "last": "2026-10-28T20:28:35.945821+00:00"
   },
   "S2422": {
    "title": "Hearts vs. Rangers (Oct 28, 2026) live score",
@@ -14661,15 +14624,17 @@
    "first": "2026-10-30T19:20:15.499344+00:00",
    "sources": {
     "RacingNews365": "2026-10-30T19:14:00+00:00",
-    "GPblog": "2026-10-30T19:56:00+00:00"
+    "GPblog": "2026-10-30T19:56:00+00:00",
+    "PlanetF1": "2026-10-30T20:26:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "British rookie involved in unusual pit error as Audi to face Mexico City GP stewards",
-    "GPblog": "FIA launches first investigation of the Mexico City Grand Prix weekend"
+    "GPblog": "FIA launches first investigation of the Mexico City Grand Prix weekend",
+    "PlanetF1": "FIA launches Audi investigation after Freddie Slater incident"
    },
-   "last": "2026-10-30T20:00:14.790941+00:00"
+   "last": "2026-10-30T20:30:09.276802+00:00"
   },
   "S3063": {
    "title": "Piastri explains McLaren's form slump: 'two steps forward, one back'",
@@ -14925,9 +14890,22 @@
     "ESPN F1": "North Carolina lands Demarcus Henry, their highest-ranked recruit since '19"
    },
    "last": "2026-10-30T20:25:10.481560+00:00"
+  },
+  "S3080": {
+   "title": "Eagles' Saquon Barkley has no injury designation vs Commanders",
+   "first": "2026-10-30T20:30:09.276775+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T20:28:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup"
+   },
+   "last": "2026-10-30T20:30:09.276794+00:00"
   }
  },
- "story_seq": 3079,
+ "story_seq": 3080,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15046,7 +15024,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T20:25:08.596039+00:00",
+ "last_run": "2026-10-30T20:30:06.526195+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
