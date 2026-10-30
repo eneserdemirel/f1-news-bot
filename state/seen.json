@@ -5523,7 +5523,10 @@
   "cbde0156059f4bf9": "2026-10-30T11:33:42.184084+00:00",
   "adc0220f1fc87ef4": "2026-10-30T11:33:42.184084+00:00",
   "28b31f726f9beece": "2026-10-30T11:33:42.184084+00:00",
-  "49115ae4e0373c2f": "2026-10-30T11:33:42.184084+00:00"
+  "49115ae4e0373c2f": "2026-10-30T11:33:42.184084+00:00",
+  "fb7ab5eef38349fa": "2026-10-30T11:43:41.480784+00:00",
+  "0555aae0611fdfc9": "2026-10-30T11:43:41.480784+00:00",
+  "c842fab20cd54319": "2026-10-30T11:43:41.480784+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5827,32 +5830,6 @@
     "Motorsport Week": "Valtteri Bottas replacement emerges as Cadillac CEO speaks out"
    },
    "last": "2026-10-28T11:57:22.454187+00:00"
-  },
-  "S2283": {
-   "title": "Canelo vs. Mbilli title fight numbers preview",
-   "first": "2026-10-28T11:37:24.119641+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T11:32:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canelo vs. Mbilli: 15 numbers to know before Saturday's title fight"
-   },
-   "last": "2026-10-28T11:37:24.119659+00:00"
-  },
-  "S2284": {
-   "title": "Mekies says Verstappen essential to RB22 development",
-   "first": "2026-10-28T11:37:24.119665+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-28T11:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen van onschatbare waarde binnen Red Bull: \"Zeker met deze regels\""
-   },
-   "last": "2026-10-28T11:37:24.119671+00:00"
   },
   "S2285": {
    "title": "Red Bull give first verdict on Tom Hart as Verstappen engineer",
@@ -14593,9 +14570,48 @@
     "GPFans": "F1 Practice Today: Schedule, times and TV channel for the 2026 Mexican Grand Prix"
    },
    "last": "2026-10-30T11:33:45.775418+00:00"
+  },
+  "S2939": {
+   "title": "College men's hoops coaches weigh in on eligibility chaos",
+   "first": "2026-10-30T11:43:44.227214+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T11:42:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'Just make them all eligible': Men's hoops coaches weigh in on eligibility chaos"
+   },
+   "last": "2026-10-30T11:43:44.227232+00:00"
+  },
+  "S2940": {
+   "title": "DPG Media takes over Viaplay Netherlands staff",
+   "first": "2026-10-30T11:43:44.227239+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T11:38:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "DPG Media neemt Viaplay-personeel over richting Videoland"
+   },
+   "last": "2026-10-30T11:43:44.227245+00:00"
+  },
+  "S2941": {
+   "title": "Antonelli's father travels from Mugello to Mexico City",
+   "first": "2026-10-30T11:43:44.227249+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T11:29:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Kimi Antonelli's father races from Mugello to Mexico as family gathers for title weekend"
+   },
+   "last": "2026-10-30T11:43:44.227254+00:00"
   }
  },
- "story_seq": 2938,
+ "story_seq": 2941,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14714,17 +14730,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T11:33:42.184084+00:00",
+ "last_run": "2026-10-30T11:43:41.480784+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T11:34:12.894712+00:00",
-   "title": "Alonso'nun arka sıra pilotlarına yönelik eleştirisi \"abartılı\" bulundu",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-27T11:44:09.069001+00:00",
    "title": "Ferrari, standart motor planına karşı F1'den çekilmekle tehdit etti",
@@ -16234,6 +16245,11 @@
    "t": "2026-10-30T11:23:56.024660+00:00",
    "title": "Leclerc, Ferrari'nin kısa vadeli çözümünden emin değil",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T11:43:48.816575+00:00",
+   "title": "Antonelli'nin babası Meksika'da ailesine katılıyor",
+   "source": "GPblog"
   }
  ]
 }
