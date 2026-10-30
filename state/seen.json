@@ -5808,7 +5808,12 @@
   "3950c005e5fca775": "2026-10-30T21:05:11.264279+00:00",
   "3c87ecbd1e65473d": "2026-10-30T21:05:11.264279+00:00",
   "b38bd9a38b0b29f5": "2026-10-30T21:05:11.264279+00:00",
-  "91615a097d421c8f": "2026-10-30T21:10:08.885359+00:00"
+  "91615a097d421c8f": "2026-10-30T21:10:08.885359+00:00",
+  "43e85254d191366d": "2026-10-30T21:15:09.336881+00:00",
+  "19fed79faa59b3a6": "2026-10-30T21:15:09.336881+00:00",
+  "3aa47dc84206169f": "2026-10-30T21:15:09.336881+00:00",
+  "6cfffd4383dfc695": "2026-10-30T21:15:09.336881+00:00",
+  "77adcfccd986c14c": "2026-10-30T21:15:09.336881+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14414,7 +14419,8 @@
     "RacingNews365": "2026-10-30T18:57:00+00:00",
     "RacingNews365 NL": "2026-10-30T19:47:00+00:00",
     "GPblog": "2026-10-30T20:31:00+00:00",
-    "Formula 1": "2026-10-30T20:55:10.799426+00:00"
+    "Formula 1": "2026-10-30T20:55:10.799426+00:00",
+    "PlanetF1": "2026-10-30T21:14:48+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14422,9 +14428,10 @@
     "RacingNews365": "Two F1 drivers set for Mexico City Grand Prix grid penalties",
     "RacingNews365 NL": "FIA openbaart gridstraffen voor F1 GP Mexico",
     "GPblog": "FIA hands out first grid penalty of the weekend in Mexico City",
-    "Formula 1": "Bottas set for grid penalty in Mexico City after PU changes"
+    "Formula 1": "Bottas set for grid penalty in Mexico City after PU changes",
+    "PlanetF1": "FIA confirms massive Valtteri Bottas 50-place grid drop for Mexican GP"
    },
-   "last": "2026-10-30T20:55:10.799440+00:00"
+   "last": "2026-10-30T21:15:15.285907+00:00"
   },
   "S3057": {
    "title": "Mexico City betting markets: what could shift the odds",
@@ -14605,7 +14612,7 @@
    "titles": {
     "RacingNews365 NL": "Red Bull met werk aan de winkel na eerste training Mexico"
    },
-   "last": "2026-10-30T19:35:12.798000+00:00"
+   "last": "2026-10-30T21:15:15.285900+00:00"
   },
   "S3068": {
    "title": "Alonso seventh in Mexico FP1 with Aston Martin",
@@ -14898,9 +14905,48 @@
     "ESPN F1": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?"
    },
    "last": "2026-10-30T21:10:10.998859+00:00"
+  },
+  "S3090": {
+   "title": "Thunder sign Agbaji to fill roster after injuries",
+   "first": "2026-10-30T21:15:15.285872+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T21:07:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Thunder signing Agbaji to fill roster after Williams, Wallace injuries"
+   },
+   "last": "2026-10-30T21:15:15.285891+00:00"
+  },
+  "S3091": {
+   "title": "Komatsu dismisses Bearman contract financial demand rumours",
+   "first": "2026-10-30T21:15:15.285911+00:00",
+   "sources": {
+    "GPblog": "2026-10-30T21:11:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Haas boss hits back at Bearman contract rumors: 'Absolute nonsense'"
+   },
+   "last": "2026-10-30T21:15:15.285916+00:00"
+  },
+  "S3092": {
+   "title": "FIA uses AWS AI to tackle regulatory grey areas",
+   "first": "2026-10-30T21:15:15.285920+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T21:10:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "F1-Revolution? FIA nutzt AWS-KI gegen regulatorische Grauzonen - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T21:15:15.285924+00:00"
   }
  },
- "story_seq": 3089,
+ "story_seq": 3092,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15019,7 +15065,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T21:10:08.885359+00:00",
+ "last_run": "2026-10-30T21:15:09.336881+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16488,6 +16534,21 @@
   {
    "t": "2026-10-30T21:05:21.373738+00:00",
    "title": "Haas, Oliver Bearman'ın 2027 sözleşme gecikmesinin nedenini açıkladı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-30T21:15:23.329902+00:00",
+   "title": "Red Bull, Hadjar'ın motor sorununu doğruladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-30T21:15:23.669551+00:00",
+   "title": "FIA, düzenleme gri alanlarına karşı AWS yapay zekasını kullanıyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-30T21:15:24.023287+00:00",
+   "title": "Bottas, Meksika GP'de FIA cezasıyla 50 sıra geriden başlayacak",
    "source": "PlanetF1"
   }
  ]
