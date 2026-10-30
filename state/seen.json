@@ -5427,7 +5427,11 @@
   "7dfcbc6557a99d99": "2026-10-30T07:43:41.074904+00:00",
   "7f7b57dfa1a5b07b": "2026-10-30T07:43:41.074904+00:00",
   "009d9f117db105ad": "2026-10-30T07:53:41.594927+00:00",
-  "6ad40902d8dba185": "2026-10-30T07:53:41.594927+00:00"
+  "6ad40902d8dba185": "2026-10-30T07:53:41.594927+00:00",
+  "781606f2cb669171": "2026-10-30T08:03:44.137751+00:00",
+  "f7ccbb6fc7167c57": "2026-10-30T08:03:44.137751+00:00",
+  "ef8434f711821185": "2026-10-30T08:03:44.137751+00:00",
+  "b29a63b23cc597bb": "2026-10-30T08:03:44.137751+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5688,45 +5692,6 @@
     "Motorsport Week": "Kimi Antonelli makes 2027 clarification amid F1 title prospects at Mexico City GP"
    },
    "last": "2026-10-28T17:28:00.448932+00:00"
-  },
-  "S2236": {
-   "title": "Cienciano vs. Atlético Grau live score (29 Oct 2026)",
-   "first": "2026-10-28T07:56:38.545725+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T07:48:58+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cienciano vs. Atlético Grau (29 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T07:56:38.545745+00:00"
-  },
-  "S2237": {
-   "title": "Bayern vs. Real Madrid live score (28 Oct 2026)",
-   "first": "2026-10-28T07:56:38.545751+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T07:48:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bayern vs. Real Madrid (28 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T07:56:38.545757+00:00"
-  },
-  "S2238": {
-   "title": "Arsenal vs. Benfica live score (28 Oct 2026)",
-   "first": "2026-10-28T07:56:38.545761+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T03:48:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arsenal vs. Benfica (28 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-28T07:56:38.545766+00:00"
   },
   "S2239": {
    "title": "Reus FCR vs. Barakaldo live score (football)",
@@ -13030,16 +12995,18 @@
    "sources": {
     "Crash.net": "2026-10-29T21:30:47+00:00",
     "Sky Sports F1": "2026-10-29T22:16:00+00:00",
-    "Motorsport-Total": "2026-10-29T22:41:29+00:00"
+    "Motorsport-Total": "2026-10-29T22:41:29+00:00",
+    "RacingNews365 NL": "2026-10-30T08:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "George Russell defiant as F1 title defeat nears: “It’s not going to break me”",
     "Sky Sports F1": "Russell: 2026 F1 season won't break me",
-    "Motorsport-Total": "Russell nimmt sich Hamilton als Vorbild: 2026 \"wird mich nicht brechen\" - Motorsport-Total.com"
+    "Motorsport-Total": "Russell nimmt sich Hamilton als Vorbild: 2026 \"wird mich nicht brechen\" - Motorsport-Total.com",
+    "RacingNews365 NL": "Verslagen Russell waarschuwt: \"Dit is niet het einde van mijn reis!\""
    },
-   "last": "2026-10-29T22:52:23.294604+00:00"
+   "last": "2026-10-30T08:03:49.563480+00:00"
   },
   "S2784": {
    "title": "Zverev's first No. 1 ranking confirmed after Vienna win",
@@ -14503,9 +14470,35 @@
     "PlanetF1": "Wolff or Mekies? Max Verstappen reveals his choice for team principal"
    },
    "last": "2026-10-30T07:53:44.000603+00:00"
+  },
+  "S2895": {
+   "title": "North Texas 48-41 Florida Atlantic college football recap",
+   "first": "2026-10-30T08:03:49.563456+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T04:26:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "North Texas 48-41 Florida Atlantic (Oct 29, 2026) Game Recap"
+   },
+   "last": "2026-10-30T08:03:49.563472+00:00"
+  },
+  "S2896": {
+   "title": "Verstappen calls Red Bull's radio problems a 'disaster'",
+   "first": "2026-10-30T08:03:49.563484+00:00",
+   "sources": {
+    "GPFans": "2026-10-30T07:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Max Verstappen doesn't hold back on frustrating Red Bull issue: 'It's a disaster'"
+   },
+   "last": "2026-10-30T08:03:49.563489+00:00"
   }
  },
- "story_seq": 2894,
+ "story_seq": 2896,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14624,17 +14617,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T07:53:41.594927+00:00",
+ "last_run": "2026-10-30T08:03:44.137751+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-29 22:00",
  "last_digest_at": "2026-10-29T19:01:43.023598+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T07:54:14.042240+00:00",
-   "title": "Damon Hill: Russell bu darbeden toparlanmakta zorlanabilir, Antonelli fenomen",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-27T08:04:12.186019+00:00",
    "title": "Wolff: Diğer takımlar Kimi'nin F1'i hak etmediğini düşünüyordu",
@@ -16139,6 +16127,11 @@
    "t": "2026-10-30T07:53:50.822024+00:00",
    "title": "Verstappen, Red Bull takım patronu Mekies'i Wolff ile değiştirmeyeceğini söyledi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-30T08:03:54.761283+00:00",
+   "title": "Verstappen, Red Bull'un telsiz sorunlarını 'felaket' olarak nitelendirdi",
+   "source": "GPFans"
   }
  ]
 }
