@@ -5667,7 +5667,9 @@
   "c9c5bc5f8032a8b4": "2026-10-30T16:09:36.397316+00:00",
   "6e5c5586992538b2": "2026-10-30T16:09:36.397316+00:00",
   "ca3e7a1e4a437bed": "2026-10-30T16:09:36.397316+00:00",
-  "7ccd98565e60570d": "2026-10-30T16:14:28.647778+00:00"
+  "7ccd98565e60570d": "2026-10-30T16:14:28.647778+00:00",
+  "5dfd0fbfaf6f7126": "2026-10-30T16:19:31.253874+00:00",
+  "60ca180e9194cf05": "2026-10-30T16:19:31.253874+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5689,27 +5691,6 @@
  },
  "last_alert": "2026-10-20T07:24:40.150816+00:00",
  "stories": {
-  "S2161": {
-   "title": "F1 Today roundup: Verstappen wealth, Russell Mexico absence",
-   "first": "2026-10-27T21:25:40.595747+00:00",
-   "sources": {
-    "GPblog": "2026-10-27T21:15:00+00:00",
-    "GPFans": "2026-10-28T07:15:00+00:00",
-    "PlanetF1": "2026-10-28T08:44:53+00:00",
-    "Crash.net": "2026-10-28T10:40:00+00:00",
-    "Motorsport Week": "2026-10-28T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "F1 Today: Verstappen enjoys big financial boost as Russell sits out in Mexico",
-    "GPFans": "Max Verstappen's staggering fortune revealed as F1 star climbs wealth rankings",
-    "PlanetF1": "George Russell to miss Mexican Grand Prix FP1 as Vesti steps in",
-    "Crash.net": "Mercedes announces George Russell to be replaced for Mexican GP FP1",
-    "Motorsport Week": "Mercedes confirm George Russell Mexican GP FP1 replacement"
-   },
-   "last": "2026-10-28T16:18:05.305970+00:00"
-  },
   "S2224": {
    "title": "Wolff defends Russell against Marko's 'wonderkid' claims",
    "first": "2026-10-28T07:16:45.093328+00:00",
@@ -5804,21 +5785,6 @@
     "ESPN F1": "Transfer rumors, news: Arsenal, Chelsea, City tracking PSG star Doué"
    },
    "last": "2026-10-28T21:08:40.026391+00:00"
-  },
-  "S2256": {
-   "title": "Bearman says he has no regrets over Gasly clash",
-   "first": "2026-10-28T09:27:15.272495+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-28T09:00:00+00:00",
-    "Crash.net": "2026-10-28T16:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Oliver Bearman issues bullish ‘no regrets’ take on Pierre Gasly clash",
-    "Crash.net": "Why Ollie Bearman has 'no regrets' after Haas US GP points gamble backfires"
-   },
-   "last": "2026-10-28T16:18:05.305983+00:00"
   },
   "S2267": {
    "title": "Wolff confirms concerns over W17 upgrade package performance",
@@ -6054,19 +6020,6 @@
     "GPblog": "Red Bull's unfixable problem could hurt Verstappen more in Mexico than anywhere else"
    },
    "last": "2026-10-28T17:38:36.688814+00:00"
-  },
-  "S2353": {
-   "title": "Mekies denies near-term Red Bull engine customer supply",
-   "first": "2026-10-28T16:18:05.305937+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-28T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Laurent Mekies responds to Red Bull F1 engine supply rumours"
-   },
-   "last": "2026-10-28T16:18:05.305956+00:00"
   },
   "S2354": {
    "title": "Jordan Rodgers on what he wants to see from Kyler Murray",
@@ -10858,7 +10811,7 @@
     "PlanetF1": "Valtteri Bottas hit by illness ahead of Mexico City GP",
     "Motorsport-Total": "Krank: Kimi Antonelli und Valtteri Bottas verpassen Mexiko-Donnerstag - Motorsport-Total.com"
    },
-   "last": "2026-10-30T15:24:36.487046+00:00"
+   "last": "2026-10-30T16:19:35.810315+00:00"
   },
   "S2716": {
    "title": "Cooper Pratt World Series bat in Baseball Hall of Fame",
@@ -14914,9 +14867,22 @@
     "GPblog": "These are the upgrades F1 teams have brought to the Mexican Grand Prix"
    },
    "last": "2026-10-30T16:14:30.401704+00:00"
+  },
+  "S3019": {
+   "title": "Red Bull makes two changes to Verstappen's car for Mexico",
+   "first": "2026-10-30T16:19:35.810333+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-30T16:12:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull past auto Verstappen aan voor extreme uitdaging"
+   },
+   "last": "2026-10-30T16:19:35.810343+00:00"
   }
  },
- "story_seq": 3018,
+ "story_seq": 3019,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15035,7 +15001,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T16:14:28.647778+00:00",
+ "last_run": "2026-10-30T16:19:31.253874+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
@@ -16530,6 +16496,11 @@
    "t": "2026-10-30T16:14:34.236654+00:00",
    "title": "Red Bull, Ferrari ve McLaren Meksika GP için güncellemeler getirdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-30T16:19:43.476745+00:00",
+   "title": "Red Bull, Verstappen'i Meksika'da zorlu bir sınav bekliyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
