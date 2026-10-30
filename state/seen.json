@@ -5550,7 +5550,8 @@
   "23ae9caeafcfdee6": "2026-10-30T12:13:43.463727+00:00",
   "f71828d066f421b4": "2026-10-30T12:23:41.543733+00:00",
   "6fc86f8ad69b5bd4": "2026-10-30T12:23:41.543733+00:00",
-  "db590dc874e65390": "2026-10-30T12:23:41.543733+00:00"
+  "db590dc874e65390": "2026-10-30T12:23:41.543733+00:00",
+  "e26d7f94122d9794": "2026-10-30T12:38:40.222941+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -5812,19 +5813,6 @@
     "PlanetF1": "Daniel Ricciardo admits Red Bull F1 exit was a blessing despite humiliation"
    },
    "last": "2026-10-29T12:30:59.012072+00:00"
-  },
-  "S2300": {
-   "title": "Jeff Saturday on Colts trading Quenton Nelson",
-   "first": "2026-10-28T12:37:17.647896+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T12:22:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why Jeff Saturday is not surprised about Colts trading Quenton Nelson"
-   },
-   "last": "2026-10-28T12:37:17.647902+00:00"
   },
   "S2301": {
    "title": "The Cong-Viettel vs FC Seoul live score",
@@ -14603,9 +14591,22 @@
     "PlanetF1": "Pierre Gasly’s shocking ‘13,000’ death threat revelation puts Jeremy Clarkson in the spotlight"
    },
    "last": "2026-10-30T12:23:46.710911+00:00"
+  },
+  "S2959": {
+   "title": "Antonelli profiled as an ordinary guy who may soon surpass Vettel",
+   "first": "2026-10-30T12:38:41.882963+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-30T12:31:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kimi Antonelli: Ein \"ganz normaler Typ\" - und bald besser als Vettel? - Motorsport-Total.com"
+   },
+   "last": "2026-10-30T12:38:41.882981+00:00"
   }
  },
- "story_seq": 2958,
+ "story_seq": 2959,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14724,17 +14725,12 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T12:33:41.984889+00:00",
+ "last_run": "2026-10-30T12:38:40.222941+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 15:00",
  "last_digest_at": "2026-10-30T12:03:43.719238+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-27T12:34:58.065573+00:00",
-   "title": "Cadillac'ın 2027 pilot kadrosu belirsizliğini koruyor",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-27T12:54:57.621541+00:00",
    "title": "Mercedes, George Russell için inceleme başlatıyor; Wolff performans düşüşünü anlamakta zorlanıyor",
@@ -16234,6 +16230,11 @@
    "t": "2026-10-30T12:23:53.547818+00:00",
    "title": "Hamilton: Meksika'da downforce azlığı 'alışılmadık bir deneyim' olacak",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-30T12:38:46.553990+00:00",
+   "title": "Kimi Antonelli: Sıradan biri ve yakında Vettel'den daha iyi olabilir mi?",
+   "source": "Motorsport-Total"
   }
  ]
 }
