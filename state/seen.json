@@ -5813,7 +5813,9 @@
   "19fed79faa59b3a6": "2026-10-30T21:15:09.336881+00:00",
   "3aa47dc84206169f": "2026-10-30T21:15:09.336881+00:00",
   "6cfffd4383dfc695": "2026-10-30T21:15:09.336881+00:00",
-  "77adcfccd986c14c": "2026-10-30T21:15:09.336881+00:00"
+  "77adcfccd986c14c": "2026-10-30T21:15:09.336881+00:00",
+  "952644071ec9ce87": "2026-10-30T21:20:06.890683+00:00",
+  "528795626e67f624": "2026-10-30T21:20:06.890683+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6054,19 +6056,6 @@
     "GPFans": "Martin Brundle makes 'painful' admission about Oscar Piastri F1 decline"
    },
    "last": "2026-10-29T01:49:42.411207+00:00"
-  },
-  "S2431": {
-   "title": "Bournemouth vs. Aston Villa player stats (non-F1 match)",
-   "first": "2026-10-28T21:18:35.477260+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T19:59:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bournemouth vs. Aston Villa (28 de Oct., 2026) Estadísticas de jugadores"
-   },
-   "last": "2026-10-28T21:18:35.477279+00:00"
   },
   "S2432": {
    "title": "Carlisle vs. Harrogate live score",
@@ -14944,9 +14933,35 @@
     "Motorsport-Total": "F1-Revolution? FIA nutzt AWS-KI gegen regulatorische Grauzonen - Motorsport-Total.com"
    },
    "last": "2026-10-30T21:15:15.285924+00:00"
+  },
+  "S3093": {
+   "title": "WNBA's Houston Comets unveil new logos amid trademark filing",
+   "first": "2026-10-30T21:20:10.087507+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-30T18:16:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "WNBA's Houston Comets unveil new logos amid trademark filing"
+   },
+   "last": "2026-10-30T21:20:10.087524+00:00"
+  },
+  "S3094": {
+   "title": "Hadjar hit by power unit failure and shoves fan in Mexico paddock",
+   "first": "2026-10-30T21:20:10.087531+00:00",
+   "sources": {
+    "FormulaPassion": "2026-10-30T21:13:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hadjar, il weekend inizia male: problemi alla power unit e spintoni a un tifoso"
+   },
+   "last": "2026-10-30T21:20:10.087537+00:00"
   }
  },
- "story_seq": 3092,
+ "story_seq": 3094,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15065,7 +15080,7 @@
   ]
  ],
  "calendar_updated": "2026-10-29T22:22:07.574727+00:00",
- "last_run": "2026-10-30T21:15:09.336881+00:00",
+ "last_run": "2026-10-30T21:20:06.890683+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16550,6 +16565,11 @@
    "t": "2026-10-30T21:15:24.023287+00:00",
    "title": "Bottas, Meksika GP'de FIA cezasıyla 50 sıra geriden başlayacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-30T21:20:15.282167+00:00",
+   "title": "Hadjar hafta sonuna kötü başladı: güç ünitesi sorunu ve taraftara itme",
+   "source": "FormulaPassion"
   }
  ]
 }
