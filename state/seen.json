@@ -6400,7 +6400,9 @@
   "a47a3a145e0604bd": "2026-10-31T20:07:51.159924+00:00",
   "9e029a7ca6287cea": "2026-10-31T20:07:51.159924+00:00",
   "5f09337e3a2699e6": "2026-10-31T20:07:51.159924+00:00",
-  "5b43257148495cf3": "2026-10-31T20:07:51.159924+00:00"
+  "5b43257148495cf3": "2026-10-31T20:07:51.159924+00:00",
+  "ce8d6b3ac0e6bcba": "2026-10-31T20:12:53.783405+00:00",
+  "976a238fcb564463": "2026-10-31T20:12:53.783405+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6447,19 +6449,6 @@
     "ESPN F1": "Sources: Bears acquire All-Pro DT Jeffery Simmons in trade with Titans"
    },
    "last": "2026-10-30T00:02:24.330083+00:00"
-  },
-  "S2691": {
-   "title": "Bruno Fernandes retains Man United captaincy, says Carrick",
-   "first": "2026-10-29T15:31:00.963066+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T14:32:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bruno Fernandes retains Man United captaincy - Michael Carrick"
-   },
-   "last": "2026-10-29T20:11:30.967172+00:00"
   },
   "S2710": {
    "title": "Ricciardo opens door to racing return alongside Verstappen",
@@ -15239,9 +15228,22 @@
     "Crash.net": "Karun Chandhok drops verdict on Haas’ shock Esteban Ocon decision"
    },
    "last": "2026-10-31T20:07:56.867213+00:00"
+  },
+  "S3384": {
+   "title": "Valentin Vacherot to meet Jiri Lehecka in Swiss Indoors final",
+   "first": "2026-10-31T20:12:55.070947+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T20:09:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Valentin Vacherot to meet Jiri Lehecka in Swiss Indoors final"
+   },
+   "last": "2026-10-31T20:12:55.070968+00:00"
   }
  },
- "story_seq": 3383,
+ "story_seq": 3384,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15360,17 +15362,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T20:07:51.159924+00:00",
+ "last_run": "2026-10-31T20:12:53.783405+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
  "last_digest_at": "2026-10-31T19:02:56.582570+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T20:08:44.817914+00:00",
-   "title": "Ferrari, Meksika FP1'de Beganovic'i sahaya sürüyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-28T20:58:45.335441+00:00",
    "title": "Williams, 2027 için yapılan çalışmalar nedeniyle bu sezon geriledi",
