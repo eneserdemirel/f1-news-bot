@@ -6179,7 +6179,9 @@
   "260c8b74b8c28372": "2026-10-31T13:02:08.641746+00:00",
   "150a16f5d5b0fa97": "2026-10-31T13:07:12.028971+00:00",
   "a17365ecf6b5f733": "2026-10-31T13:07:12.028971+00:00",
-  "b8d107c1a41e84ed": "2026-10-31T13:12:18.594119+00:00"
+  "b8d107c1a41e84ed": "2026-10-31T13:12:18.594119+00:00",
+  "f6009efca605059b": "2026-10-31T13:17:09.476140+00:00",
+  "e36e2618c67f042c": "2026-10-31T13:17:09.476140+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14856,9 +14858,35 @@
     "FormulaPassion": "Sainz difende i piloti delle retrovie dalle critiche di Alonso: “Tutti all’altezza degli standard della F1”"
    },
    "last": "2026-10-31T13:12:20.838178+00:00"
+  },
+  "S3271": {
+   "title": "Chase praises Jomel Warrican as a 'good craftsman'",
+   "first": "2026-10-31T13:17:13.381066+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T13:11:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chase hails 'good craftsman' Jomel Warrican"
+   },
+   "last": "2026-10-31T13:17:13.381083+00:00"
+  },
+  "S3272": {
+   "title": "Russell says Antonelli has been performing above him this year",
+   "first": "2026-10-31T13:17:13.381089+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-31T13:12:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "George Russell casts honest Kimi Antonelli Mercedes rivalry verdict"
+   },
+   "last": "2026-10-31T13:17:13.381095+00:00"
   }
  },
- "story_seq": 3270,
+ "story_seq": 3272,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14977,7 +15005,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T13:12:18.594119+00:00",
+ "last_run": "2026-10-31T13:17:09.476140+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
@@ -16592,6 +16620,11 @@
    "t": "2026-10-31T13:02:22.200420+00:00",
    "title": "Verstappen, Meksika'daki kötü start denemelerine Le Mans benzetmesiyle tepki verdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T13:17:18.453787+00:00",
+   "title": "Chase, Jomel Warrican'ı 'iyi bir zanaatkâr' olarak övdü",
+   "source": "ESPN F1"
   }
  ]
 }
