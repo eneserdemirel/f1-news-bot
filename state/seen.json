@@ -6168,7 +6168,11 @@
   "cc486c7c251a40a3": "2026-10-31T12:37:09.746603+00:00",
   "ece5c5251639f456": "2026-10-31T12:42:14.620040+00:00",
   "0743e2344ff0fe31": "2026-10-31T12:47:13.745567+00:00",
-  "98053876e13765f8": "2026-10-31T12:52:09.506542+00:00"
+  "98053876e13765f8": "2026-10-31T12:52:09.506542+00:00",
+  "1fa66c3a16205829": "2026-10-31T12:57:12.633972+00:00",
+  "95274c721c5e7f2e": "2026-10-31T12:57:12.633972+00:00",
+  "c97c59aef722c3ea": "2026-10-31T12:57:12.633972+00:00",
+  "d1e187b7a8c4101b": "2026-10-31T12:57:12.633972+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14400,14 +14404,16 @@
    "title": "FIA stewards issue multiple Friday fines in Mexico City, including Audi",
    "first": "2026-10-31T09:51:30.691637+00:00",
    "sources": {
-    "GPblog": "2026-10-31T09:50:00+00:00"
+    "GPblog": "2026-10-31T09:50:00+00:00",
+    "GPFans": "2026-10-31T12:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "FIA stewards hand out multiple fines after eventful Friday in Mexico City"
+    "GPblog": "FIA stewards hand out multiple fines after eventful Friday in Mexico City",
+    "GPFans": "F1 team punished by FIA over bizarre Mexican GP ‘cover-up’"
    },
-   "last": "2026-10-31T09:51:30.691656+00:00"
+   "last": "2026-10-31T12:57:17.605004+00:00"
   },
   "S3233": {
    "title": "Wache retracts Red Bull joke about Mexico altitude engine",
@@ -14815,9 +14821,35 @@
     "Formula 1": "Best Qualifying bets before the Mexico City GP"
    },
    "last": "2026-10-31T12:52:10.916873+00:00"
+  },
+  "S3264": {
+   "title": "Aston Villa to take legal action against Jamie Carragher",
+   "first": "2026-10-31T12:57:17.604979+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T11:51:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Aston Villa to take legal action against Jamie Carragher over podcast comments"
+   },
+   "last": "2026-10-31T12:57:17.604995+00:00"
+  },
+  "S3265": {
+   "title": "Ocon reveals Hamilton was one of two drivers who offered support",
+   "first": "2026-10-31T12:57:17.605009+00:00",
+   "sources": {
+    "GPFans": "2026-10-31T12:56:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton reaches out to F1 star after being axed from team"
+   },
+   "last": "2026-10-31T12:57:17.605014+00:00"
   }
  },
- "story_seq": 3263,
+ "story_seq": 3265,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14936,7 +14968,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T12:52:09.506542+00:00",
+ "last_run": "2026-10-31T12:57:12.633972+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
@@ -16556,6 +16588,11 @@
    "t": "2026-10-31T12:37:18.885851+00:00",
    "title": "Alonso, Meksika'da güçlü cuma sonrası temkinli iyimser",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-31T12:57:23.506481+00:00",
+   "title": "Audi'ye Meksika GP'de 'örtme' skandalından ceza",
+   "source": "GPFans"
   }
  ]
 }
