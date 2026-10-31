@@ -6283,7 +6283,10 @@
   "dbca1e6cdacb72bb": "2026-10-31T16:32:53.898686+00:00",
   "2a9e757292013c41": "2026-10-31T16:37:51.520067+00:00",
   "e74318cb900fa5a3": "2026-10-31T16:37:51.520067+00:00",
-  "2d84596c8661bb0d": "2026-10-31T16:37:51.520067+00:00"
+  "2d84596c8661bb0d": "2026-10-31T16:37:51.520067+00:00",
+  "72b7542f5397b923": "2026-10-31T16:42:54.122106+00:00",
+  "db98d55ea9b57b07": "2026-10-31T16:42:54.122106+00:00",
+  "39345b1440c7f27c": "2026-10-31T16:42:54.122106+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6398,21 +6401,6 @@
     "ESPN F1": "Former Man United midfielder Herrera on City breaches: 'Damage irreparable'"
    },
    "last": "2026-10-30T02:02:21.204272+00:00"
-  },
-  "S2665": {
-   "title": "FIA threatens fan and media bans over driver abuse",
-   "first": "2026-10-29T14:00:59.059264+00:00",
-   "sources": {
-    "GPblog": "2026-10-29T14:00:00+00:00",
-    "RacingNews365 NL": "2026-10-29T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "FIA threatens to ban fans and media after revealing Gasly received 13,000 death threats",
-    "RacingNews365 NL": "FIA-baas onthult schokkend aantal doodsbedreigingen aan adres van Gasly"
-   },
-   "last": "2026-10-29T16:41:32.687924+00:00"
   },
   "S2669": {
    "title": "Ralf Schumacher criticises Hadjar's US GP radio outburst",
@@ -13623,14 +13611,16 @@
    "title": "Full Hamilton radio released as Ferrari probe follows FP2 power loss",
    "first": "2026-10-31T09:11:28.667774+00:00",
    "sources": {
-    "PlanetF1": "2026-10-31T09:10:02+00:00"
+    "PlanetF1": "2026-10-31T09:10:02+00:00",
+    "Motorsport.com Italia": "2026-10-31T16:39:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Full Lewis Hamilton radio with Ferrari investigation underway after loss of power in FP2"
+    "PlanetF1": "Full Lewis Hamilton radio with Ferrari investigation underway after loss of power in FP2",
+    "Motorsport.com Italia": "F1 | Ferrari, problema alla power unit di Hamilton: niente penalità in Messico"
    },
-   "last": "2026-10-31T09:11:28.667792+00:00"
+   "last": "2026-10-31T16:42:59.439435+00:00"
   },
   "S3229": {
    "title": "FormulaPassion telemetry analysis: Ferrari ahead after Mexico Friday practice",
@@ -14922,9 +14912,35 @@
     "ESPN F1": "Jamie Carragher apologises for 'clumsy' Aston Villa comments after club threaten legal action"
    },
    "last": "2026-10-31T16:37:55.042929+00:00"
+  },
+  "S3324": {
+   "title": "Nolan Bartley 38-yard field goal, college football",
+   "first": "2026-10-31T16:42:59.439402+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T16:32:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nolan Bartley kicks 38-yard field goal"
+   },
+   "last": "2026-10-31T16:42:59.439421+00:00"
+  },
+  "S3325": {
+   "title": "Levante 0-2 Atlético player stats, football",
+   "first": "2026-10-31T16:42:59.439425+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T13:33:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Levante 0-2 Atlético (Oct 31, 2026) Player Stats"
+   },
+   "last": "2026-10-31T16:42:59.439430+00:00"
   }
  },
- "story_seq": 3323,
+ "story_seq": 3325,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15043,17 +15059,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T16:37:51.520067+00:00",
+ "last_run": "2026-10-31T16:42:54.122106+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
  "last_digest_at": "2026-10-31T12:02:14.250346+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T16:38:09.674563+00:00",
-   "title": "Verstappen: Meksika'da daha hızlı olmayı umuyorum; Iwasa FP1'de onun yerine geçiyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-28T16:48:10.610940+00:00",
    "title": "Racing Bulls, Austin'de yaz tatilinden sonra Alpine'ın iki katı puan topladı",
@@ -16652,6 +16663,11 @@
   {
    "t": "2026-10-31T16:13:19.796585+00:00",
    "title": "Aston Martin, Stroll'un aracında telaifi değiştirdi",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-31T16:43:04.320213+00:00",
+   "title": "Ferrari, Hamilton'ın power unit'ini değiştirdi; Meksika'da ceza almayacak",
    "source": "Motorsport.com Italia"
   }
  ]
