@@ -6528,7 +6528,10 @@
   "41104241ce082e78": "2026-10-31T23:03:43.244089+00:00",
   "51810ae8a927ccc4": "2026-10-31T23:03:43.244089+00:00",
   "4bcc7255dc74a4ab": "2026-10-31T23:03:43.244089+00:00",
-  "47f57783cf2a82e2": "2026-10-31T23:03:43.244089+00:00"
+  "47f57783cf2a82e2": "2026-10-31T23:03:43.244089+00:00",
+  "6b9e5747b2e3d6b9": "2026-10-31T23:08:41.301028+00:00",
+  "e6965caeca7f5bdd": "2026-10-31T23:08:41.301028+00:00",
+  "7752c1fe0c509ad2": "2026-10-31T23:08:41.301028+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14820,7 +14823,7 @@
    "titles": {
     "ESPN F1": "Joc Pederson among three Rangers to decline mutual options"
    },
-   "last": "2026-10-31T20:18:00.642210+00:00"
+   "last": "2026-10-31T23:08:45.186124+00:00"
   },
   "S3389": {
    "title": "Bremen 2-0 Hoffenheim player stats, football",
@@ -15841,9 +15844,35 @@
     "Motorsport.com Italia": "F1 | Antonelli: \"Ho faticato con le gomme. Domani attaccherò, ma starò attento in curva 1\""
    },
    "last": "2026-10-31T23:03:47.868334+00:00"
+  },
+  "S3463": {
+   "title": "Lawson at risk of disqualification from Mexico City qualifying",
+   "first": "2026-10-31T23:08:45.186135+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T23:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Breaking: Liam Lawson at risk of Mexico City qualifying disqualification"
+   },
+   "last": "2026-10-31T23:08:45.186142+00:00"
+  },
+  "S3464": {
+   "title": "Antonelli admits feeling weight of F1 title history",
+   "first": "2026-10-31T23:08:45.186147+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T23:02:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli admits for first time to feeling weight of F1 title history"
+   },
+   "last": "2026-10-31T23:08:45.186152+00:00"
   }
  },
- "story_seq": 3462,
+ "story_seq": 3464,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15962,17 +15991,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-10-31T23:03:43.244089+00:00",
+ "last_run": "2026-10-31T23:08:41.301028+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
  "last_digest_at": "2026-10-31T19:02:56.582570+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T23:08:39.081851+00:00",
-   "title": "Ford, Mercedes anlaşmasına rağmen Verstappen'i GT ve Le Mans planlarında hedefliyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-29T01:49:46.435527+00:00",
    "title": "Lawrence Stroll'un Aston Martin'i göreve geldiğinden bu yana 2,3 milyar sterlin zarar biriktirdi",
@@ -17557,6 +17581,16 @@
    "t": "2026-10-31T23:03:52.383044+00:00",
    "title": "Antonelli: Lastiklerle zorlandım, yarın atak yapacağım",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-31T23:09:09.945395+00:00",
+   "title": "Kimi Antonelli, F1 şampiyonluk geçmişinin ağırlığını ilk kez itiraf etti",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-31T23:09:10.523035+00:00",
+   "title": "Liam Lawson, Meksika City sıralamasında diskalifiye riskiyle karşı karşıya",
+   "source": "RacingNews365"
   }
  ]
 }
