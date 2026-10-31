@@ -6524,7 +6524,11 @@
   "4f11708b249cc9fb": "2026-10-31T22:58:41.600788+00:00",
   "1ad2d83076f95ccc": "2026-10-31T22:58:41.600788+00:00",
   "813cc27dc396def3": "2026-10-31T22:58:41.600788+00:00",
-  "52beaf3df4294dd3": "2026-10-31T22:58:41.600788+00:00"
+  "52beaf3df4294dd3": "2026-10-31T22:58:41.600788+00:00",
+  "41104241ce082e78": "2026-10-31T23:03:43.244089+00:00",
+  "51810ae8a927ccc4": "2026-10-31T23:03:43.244089+00:00",
+  "4bcc7255dc74a4ab": "2026-10-31T23:03:43.244089+00:00",
+  "47f57783cf2a82e2": "2026-10-31T23:03:43.244089+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6823,19 +6827,6 @@
    },
    "last": "2026-10-29T23:12:19.309366+00:00"
   },
-  "S2807": {
-   "title": "Bristol Kersh scores for Notre Dame",
-   "first": "2026-10-29T23:02:21.936668+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T22:39:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bristol Kersh finds the back of the net for Notre Dame"
-   },
-   "last": "2026-10-29T23:02:21.936685+00:00"
-  },
   "S2808": {
    "title": "Verstappen responds to Ricciardo's Le Mans reunion idea",
    "first": "2026-10-29T23:02:21.936691+00:00",
@@ -6858,32 +6849,6 @@
     "Motorsport Week": "Max Verstappen open to Le Mans partnership with ex-teammate"
    },
    "last": "2026-10-30T13:49:30.545410+00:00"
-  },
-  "S2809": {
-   "title": "Racing Bulls Mexico FP1 history and what Tsolov's outing means",
-   "first": "2026-10-29T23:02:21.936701+00:00",
-   "sources": {
-    "GPblog": "2026-10-29T23:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Racing Bulls' Mexico FP1 history hints at what Tsolov outing could mean for Lawson"
-   },
-   "last": "2026-10-29T23:02:21.936706+00:00"
-  },
-  "S2810": {
-   "title": "Sainz hopes Williams makes a small step forward in Mexico",
-   "first": "2026-10-29T23:02:21.936716+00:00",
-   "sources": {
-    "AS": "2026-10-29T22:46:17+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Williams espera un ligero paso adelante"
-   },
-   "last": "2026-10-29T23:02:21.936720+00:00"
   },
   "S2811": {
    "title": "Red Wings suspend Dylan Larkin and explore trade options",
@@ -14296,15 +14261,17 @@
    "first": "2026-10-31T19:07:59.114452+00:00",
    "sources": {
     "RacingNews365": "2026-10-31T19:03:00+00:00",
-    "RacingNews365 NL": "2026-10-31T19:00:00+00:00"
+    "RacingNews365 NL": "2026-10-31T19:00:00+00:00",
+    "GPblog": "2026-10-31T23:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Max Verstappen doubles down on Liam Lawson criticism: 'That doesn't happen to me'",
-    "RacingNews365 NL": "Verstappen diep teleurgesteld in Lawson: \"Je moet vooral geen ruzie zoeken met mij\""
+    "RacingNews365 NL": "Verstappen diep teleurgesteld in Lawson: \"Je moet vooral geen ruzie zoeken met mij\"",
+    "GPblog": "Verstappen warns Lawson: 'You shouldn't pick a fight with me'"
    },
-   "last": "2026-10-31T19:07:59.114460+00:00"
+   "last": "2026-10-31T23:03:47.868346+00:00"
   },
   "S3348": {
    "title": "Lawson questions Red Bull's expectations amid uncertain F1 future",
@@ -15741,14 +15708,16 @@
    "title": "Verstappen angry at Norris over qualifying flying lap",
    "first": "2026-10-31T22:43:52.352418+00:00",
    "sources": {
-    "GPblog": "2026-10-31T22:40:00+00:00"
+    "GPblog": "2026-10-31T22:40:00+00:00",
+    "RacingNews365 NL": "2026-10-31T22:58:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Verstappen fumes at Norris after Mexican GP qualifying: 'F****** brilliant'"
+    "GPblog": "Verstappen fumes at Norris after Mexican GP qualifying: 'F****** brilliant'",
+    "RacingNews365 NL": "Verstappen hekelt Norris: \"Parkeert 'm aan de rechterkant!\""
    },
-   "last": "2026-10-31T22:43:52.352423+00:00"
+   "last": "2026-10-31T23:03:47.868341+00:00"
   },
   "S3454": {
    "title": "Hamilton credits tyres for record-equalling Mexico pole",
@@ -15782,16 +15751,18 @@
    "sources": {
     "RacingNews365 NL": "2026-10-31T22:40:00+00:00",
     "RacingNews365": "2026-10-31T22:46:00+00:00",
-    "GPblog": "2026-10-31T22:53:00+00:00"
+    "GPblog": "2026-10-31T22:53:00+00:00",
+    "The Race": "2026-10-31T22:59:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Breaking: Ocon deelt officieel statement na plotselinge exit",
     "RacingNews365": "Esteban Ocon makes statement after reports of violence behind Haas axe",
-    "GPblog": "Ocon issues blunt statement on 'physical violence' allegations amid Haas row"
+    "GPblog": "Ocon issues blunt statement on 'physical violence' allegations amid Haas row",
+    "The Race": "Ocon denies using violence in his disagreement with Haas"
    },
-   "last": "2026-10-31T22:53:47.722127+00:00"
+   "last": "2026-10-31T23:03:47.868319+00:00"
   },
   "S3457": {
    "title": "Hamilton reflects on Schumacher after first Ferrari pole",
@@ -15857,9 +15828,22 @@
     "ESPN F1": "Eli Gillman scores 1-yard rushing TD"
    },
    "last": "2026-10-31T22:58:48.680332+00:00"
+  },
+  "S3462": {
+   "title": "Antonelli reflects on tyre struggles and Mexico qualifying",
+   "first": "2026-10-31T23:03:47.868328+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-31T22:58:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli: \"Ho faticato con le gomme. Domani attaccherò, ma starò attento in curva 1\""
+   },
+   "last": "2026-10-31T23:03:47.868334+00:00"
   }
  },
- "story_seq": 3461,
+ "story_seq": 3462,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15978,7 +15962,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-10-31T22:58:41.600788+00:00",
+ "last_run": "2026-10-31T23:03:43.244089+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
@@ -17568,6 +17552,11 @@
    "t": "2026-10-31T22:53:52.612292+00:00",
    "title": "Hamilton, Ferrari'deki ilk pole'ünde Schumacher'i andı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T23:03:52.383044+00:00",
+   "title": "Antonelli: Lastiklerle zorlandım, yarın atak yapacağım",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
