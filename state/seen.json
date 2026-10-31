@@ -6264,7 +6264,10 @@
   "ca008a01d9639202": "2026-10-31T15:57:55.773528+00:00",
   "a0a83c5597941ef4": "2026-10-31T15:57:55.773528+00:00",
   "f2f589c9686128eb": "2026-10-31T15:57:55.773528+00:00",
-  "d92fe313b33241de": "2026-10-31T15:57:55.773528+00:00"
+  "d92fe313b33241de": "2026-10-31T15:57:55.773528+00:00",
+  "826bca60fef8a91e": "2026-10-31T16:02:53.932423+00:00",
+  "5214c9973ea0389b": "2026-10-31T16:02:53.932423+00:00",
+  "c87fe3cf8449552e": "2026-10-31T16:02:53.932423+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6480,19 +6483,6 @@
     "RacingNews365 NL": "Ferrari miljarden meer waard dan ooit tevoren"
    },
    "last": "2026-10-29T17:11:35.025641+00:00"
-  },
-  "S2698": {
-   "title": "Mekies faces questions on Verstappen strategy review as Red Bull stay private",
-   "first": "2026-10-29T16:01:33.115203+00:00",
-   "sources": {
-    "GPblog": "2026-10-29T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Mekies to face Max Verstappen strategy questions in Mexico as Red Bull keep review findings private"
-   },
-   "last": "2026-10-29T16:01:33.115220+00:00"
   },
   "S2699": {
    "title": "Christian Yelich honors late Bob Uecker after Brewers title",
@@ -14677,7 +14667,8 @@
     "Sky Sports F1": "2026-10-31T14:46:00+00:00",
     "ESPN F1": "2026-10-31T15:24:08+00:00",
     "Gazzetta dello Sport": "2026-10-31T15:21:53+00:00",
-    "Auto Motor und Sport": "2026-10-31T15:06:56+00:00"
+    "Auto Motor und Sport": "2026-10-31T15:06:56+00:00",
+    "AS": "2026-10-31T15:46:24+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14698,9 +14689,10 @@
     "Sky Sports F1": "Haas replace Ocon for Mexico City GP without explanation",
     "ESPN F1": "Esteban Ocon without explanation by Haas for Mexico City Grand Prix",
     "Gazzetta dello Sport": "Clamoroso in F1: la Haas non fa correre Ocon, al suo posto Hirakawa. I motivi e i conflitti col team",
-    "Auto Motor und Sport": "Formel 1: Spektakulärer Fahrer-Wechsel während des Grand Prix von Mexiko!"
+    "Auto Motor und Sport": "Formel 1: Spektakulärer Fahrer-Wechsel während des Grand Prix von Mexiko!",
+    "AS": "Haas se carga a Ocon"
    },
-   "last": "2026-10-31T15:58:00.915617+00:00"
+   "last": "2026-10-31T16:02:59.735913+00:00"
   },
   "S3295": {
    "title": "Marquez faces Bezzecchi challenge after Martin title admission",
@@ -14989,9 +14981,35 @@
     "GPFans": "Kim Kardashian touches down in Mexico City as Lewis Hamilton gears up for Grand Prix"
    },
    "last": "2026-10-31T15:58:00.915623+00:00"
+  },
+  "S3317": {
+   "title": "Verstappen names biggest downside of F1 triple-headers",
+   "first": "2026-10-31T16:02:59.735876+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-31T15:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen deelt grootste nadeel van triple-headers in F1"
+   },
+   "last": "2026-10-31T16:02:59.735899+00:00"
+  },
+  "S3318": {
+   "title": "Herta admits super licence confusion amid Bottas rumours",
+   "first": "2026-10-31T16:02:59.735903+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-31T16:02:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Colton Herta admits FIA Super Licence confusion amid Valtteri Bottas replacement rumours"
+   },
+   "last": "2026-10-31T16:02:59.735907+00:00"
   }
  },
- "story_seq": 3316,
+ "story_seq": 3318,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15110,7 +15128,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T15:57:55.773528+00:00",
+ "last_run": "2026-10-31T16:02:53.932423+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
@@ -16705,6 +16723,16 @@
    "t": "2026-10-31T15:58:05.694175+00:00",
    "title": "FIA, Haas'ın Mexico City GP'de Ocon yerine Hirakawa'yı yarıştırmasına onay verdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T16:03:05.378558+00:00",
+   "title": "Haas, Ocon'u Meksika GP'sinden çıkardı",
+   "source": "AS"
+  },
+  {
+   "t": "2026-10-31T16:03:05.811165+00:00",
+   "title": "Verstappen, F1'deki üçlü ardışık yarış haftasonlarının en büyük dezavantajını anlattı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
