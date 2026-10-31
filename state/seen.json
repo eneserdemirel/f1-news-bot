@@ -5911,7 +5911,11 @@
   "7ab3603d9038ab60": "2026-10-31T00:30:55.590472+00:00",
   "ecd30d386285fdf2": "2026-10-31T00:30:55.590472+00:00",
   "71e42eeac73d1402": "2026-10-31T00:35:52.439211+00:00",
-  "6a038d9303aab9a5": "2026-10-31T00:40:56.365932+00:00"
+  "6a038d9303aab9a5": "2026-10-31T00:40:56.365932+00:00",
+  "5227f5a5cdf2630d": "2026-10-31T00:50:55.310423+00:00",
+  "31ceec78b59e6227": "2026-10-31T00:50:55.310423+00:00",
+  "10d3fa41d738fcd8": "2026-10-31T00:50:55.310423+00:00",
+  "d1f57be1b3ffc0de": "2026-10-31T00:50:55.310423+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15027,9 +15031,61 @@
     "ESPN F1": "Mitchell Robinson gets up for the beautiful slam"
    },
    "last": "2026-10-31T00:40:57.893341+00:00"
+  },
+  "S3134": {
+   "title": "Aiden Bui 48-yard field goal in college football",
+   "first": "2026-10-31T00:50:58.504035+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:49:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Aiden Bui makes 48-yard field goal"
+   },
+   "last": "2026-10-31T00:50:58.504053+00:00"
+  },
+  "S3135": {
+   "title": "Falcons' Anterio Thompson unable to play due to spinal issue",
+   "first": "2026-10-31T00:50:58.504059+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:47:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue"
+   },
+   "last": "2026-10-31T00:50:58.504065+00:00"
+  },
+  "S3136": {
+   "title": "Hughes wins $2M Juvenile race for Baffert",
+   "first": "2026-10-31T00:50:58.504069+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:47:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Unbeaten Hughes pulls away to win $2M Juvenile for Baffert"
+   },
+   "last": "2026-10-31T00:50:58.504074+00:00"
+  },
+  "S3137": {
+   "title": "Hamilton says turbo makes no difference, rivals faster on straights",
+   "first": "2026-10-31T00:50:58.504077+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-31T00:45:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Hamilton non crede ai vantaggi del turbo: \"Non fa alcuna differenza. Gli altri sono meglio di noi in rettilineo\""
+   },
+   "last": "2026-10-31T00:50:58.504081+00:00"
   }
  },
- "story_seq": 3133,
+ "story_seq": 3137,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15148,7 +15204,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T00:45:53.035897+00:00",
+ "last_run": "2026-10-31T00:50:55.310423+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16713,6 +16769,11 @@
    "t": "2026-10-31T00:35:58.664068+00:00",
    "title": "Russell: Meksika'da sıralama 'her yöne gidebilir'",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-10-31T00:51:02.736141+00:00",
+   "title": "Hamilton: Turbo fark yaratmıyor, rakipler rektilerde bizden önde",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
