@@ -6463,7 +6463,11 @@
   "8620a23b14cd3101": "2026-10-31T21:33:42.260712+00:00",
   "47561f10889bed9f": "2026-10-31T21:33:42.260712+00:00",
   "57d395d70b6539cd": "2026-10-31T21:33:42.260712+00:00",
-  "2e20d02fc92cf05a": "2026-10-31T21:38:39.551200+00:00"
+  "2e20d02fc92cf05a": "2026-10-31T21:38:39.551200+00:00",
+  "25d1c8212717665b": "2026-10-31T21:43:44.542615+00:00",
+  "2af2f23e7e7accd8": "2026-10-31T21:43:44.542615+00:00",
+  "1fa9addebd7802ce": "2026-10-31T21:43:44.542615+00:00",
+  "943105c8231652cf": "2026-10-31T21:43:44.542615+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6747,32 +6751,6 @@
     "RacingNews365 NL": "Verslagen Russell waarschuwt: \"Dit is niet het einde van mijn reis!\""
    },
    "last": "2026-10-30T08:03:49.563480+00:00"
-  },
-  "S2784": {
-   "title": "Zverev's first No. 1 ranking confirmed after Vienna win",
-   "first": "2026-10-29T21:42:19.514589+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T21:33:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alexander Zverev's first No. 1 ranking to be confirmed Monday with win in Vienna"
-   },
-   "last": "2026-10-29T21:42:19.514607+00:00"
-  },
-  "S2785": {
-   "title": "Hamilton shrugs off vice-champion duel, says priorities lie elsewhere",
-   "first": "2026-10-29T21:42:19.514612+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-29T21:33:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Hamilton haalt schouders op voor duel met Verstappen en Russell"
-   },
-   "last": "2026-10-29T21:42:19.514620+00:00"
   },
   "S2786": {
    "title": "U.S. and Canada world championship jerseys controversy",
@@ -15535,15 +15513,17 @@
    "first": "2026-10-31T21:18:47.154880+00:00",
    "sources": {
     "RacingNews365": "2026-10-31T21:12:00+00:00",
-    "GPblog": "2026-10-31T21:13:00+00:00"
+    "GPblog": "2026-10-31T21:13:00+00:00",
+    "AS": "2026-10-31T21:36:29+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Fernando Alonso furious stoppage triggers early qualifying red flag",
-    "GPblog": "Mexican GP qualifying red flagged after issue brings session to a halt"
+    "GPblog": "Mexican GP qualifying red flagged after issue brings session to a halt",
+    "AS": "Honda rompe a Alonso"
    },
-   "last": "2026-10-31T21:18:47.154889+00:00"
+   "last": "2026-10-31T21:43:49.059181+00:00"
   },
   "S3423": {
    "title": "Bayern 2-2 Dortmund match analysis",
@@ -15687,9 +15667,48 @@
     "ESPN F1": "LaNorris Sellers finds the end zone for 15-yard TD"
    },
    "last": "2026-10-31T21:38:41.525238+00:00"
+  },
+  "S3434": {
+   "title": "Max Shepherd kicks 31-yard field goal in college football",
+   "first": "2026-10-31T21:43:49.059146+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T21:34:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Max Shepherd makes 31-yard field goal"
+   },
+   "last": "2026-10-31T21:43:49.059163+00:00"
+  },
+  "S3435": {
+   "title": "Aidan Armenta throws 83-yard touchdown pass in college football",
+   "first": "2026-10-31T21:43:49.059169+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T21:33:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Aidan Armenta tosses 83-yard touchdown"
+   },
+   "last": "2026-10-31T21:43:49.059174+00:00"
+  },
+  "S3436": {
+   "title": "Carlos Sainz wins Rally de Asturias Histórico tribute event",
+   "first": "2026-10-31T21:43:49.059185+00:00",
+   "sources": {
+    "AS": "2026-10-31T18:17:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "Carlos Sainz se lleva la victoria… y la gloria"
+   },
+   "last": "2026-10-31T21:43:49.059189+00:00"
   }
  },
- "story_seq": 3433,
+ "story_seq": 3436,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15808,7 +15827,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T21:38:39.551200+00:00",
+ "last_run": "2026-10-31T21:43:44.542615+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
@@ -17363,6 +17382,11 @@
    "t": "2026-10-31T21:18:51.967077+00:00",
    "title": "Alonso'nun öfkeli durması erken elemede kırmızı bayrağa yol açtı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-31T21:43:54.799096+00:00",
+   "title": "Honda, Alonso'nun umutlarını motor arızasıyla bitirdi",
+   "source": "AS"
   }
  ]
 }
