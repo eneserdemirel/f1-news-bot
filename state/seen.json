@@ -6355,7 +6355,8 @@
   "2a10b93f17b32980": "2026-10-31T19:07:54.216197+00:00",
   "e337b74ce5dd4920": "2026-10-31T19:07:54.216197+00:00",
   "a895219b60c2c824": "2026-10-31T19:07:54.216197+00:00",
-  "aa2306b30563b5b7": "2026-10-31T19:07:54.216197+00:00"
+  "aa2306b30563b5b7": "2026-10-31T19:07:54.216197+00:00",
+  "784498f23049fe8e": "2026-10-31T19:12:52.060474+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6533,32 +6534,6 @@
     "RacingNews365": "Esteban Ocon reveals Lewis Hamilton conversation following Haas axe"
    },
    "last": "2026-10-29T19:31:33.384212+00:00"
-  },
-  "S2740": {
-   "title": "Formula 1 live coverage of Mexico City GP build-up",
-   "first": "2026-10-29T19:11:34.127911+00:00",
-   "sources": {
-    "Formula 1": "2026-10-29T19:11:34.127925+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "LIVE COVERAGE: Build-up to the Mexico City Grand Prix"
-   },
-   "last": "2026-10-29T19:11:34.127929+00:00"
-  },
-  "S2741": {
-   "title": "Japan vs. Kenya live score",
-   "first": "2026-10-29T19:11:34.127935+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T18:52:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Japan vs. Kenya (29 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-29T19:11:34.127941+00:00"
   },
   "S2742": {
    "title": "Anthony Edwards undergoes successful knee scope",
@@ -14939,9 +14914,22 @@
     "RacingNews365 NL": "Verstappen diep teleurgesteld in Lawson: \"Je moet vooral geen ruzie zoeken met mij\""
    },
    "last": "2026-10-31T19:07:59.114460+00:00"
+  },
+  "S3348": {
+   "title": "Lawson questions Red Bull's expectations amid uncertain F1 future",
+   "first": "2026-10-31T19:12:54.357591+00:00",
+   "sources": {
+    "PlanetF1": "2026-10-31T19:09:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson questions what more Red Bull expects as F1 future remains uncertain"
+   },
+   "last": "2026-10-31T19:12:54.357613+00:00"
   }
  },
- "story_seq": 3347,
+ "story_seq": 3348,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15060,22 +15048,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T19:07:54.216197+00:00",
+ "last_run": "2026-10-31T19:12:52.060474+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
  "last_digest_at": "2026-10-31T19:02:56.582570+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T19:08:07.667618+00:00",
-   "title": "Liam Lawson ikilemi Racing Bulls'un kimlik krizini büyütüyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-28T19:08:08.108008+00:00",
-   "title": "Audi, Mercedes'in eski motor başkanı Thomas Fuhr'u F1 güç ünitesi için CEO olarak atadı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-28T19:58:42.460962+00:00",
    "title": "Russell'ın şampiyonluk umutları zayıflıyor, subkampiyonluk tehlikede",
@@ -16600,6 +16578,11 @@
    "t": "2026-10-31T19:08:05.172884+00:00",
    "title": "Verstappen, Lawson'a yönelik eleştirisini sürdürdü",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-31T19:12:58.628899+00:00",
+   "title": "Liam Lawson, Red Bull'un beklentisini sorguluyor; F1 geleceği belirsiz",
+   "source": "PlanetF1"
   }
  ]
 }
