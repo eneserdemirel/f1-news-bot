@@ -6140,7 +6140,9 @@
   "9fb6da07f8ba891c": "2026-10-31T11:02:12.072113+00:00",
   "512764258b35f32f": "2026-10-31T11:02:12.072113+00:00",
   "39feed82097d23c2": "2026-10-31T11:12:11.313629+00:00",
-  "5b73e7f28035c2bd": "2026-10-31T11:17:14.510214+00:00"
+  "5b73e7f28035c2bd": "2026-10-31T11:17:14.510214+00:00",
+  "e4d1b1f24ee74a6d": "2026-10-31T11:22:12.140986+00:00",
+  "992130d557c171e0": "2026-10-31T11:22:12.140986+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6334,19 +6336,6 @@
    },
    "last": "2026-10-29T13:20:58.484144+00:00"
   },
-  "S2601": {
-   "title": "Everton eye loan move for Manchester United's Rashford",
-   "first": "2026-10-29T10:00:11.795895+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T08:38:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Transfer rumors, news: Everton eye loan for Man United's Rashford"
-   },
-   "last": "2026-10-29T11:20:57.105679+00:00"
-  },
   "S2607": {
    "title": "Ten rookies to feature in Mexico City GP first practice",
    "first": "2026-10-29T10:20:09.406213+00:00",
@@ -6404,32 +6393,6 @@
     "Motorsport.com Italia": "F1 | Antonelli campione del mondo in Messico: ecco tutte le combinazioni"
    },
    "last": "2026-10-29T14:50:58.897638+00:00"
-  },
-  "S2620": {
-   "title": "F1 Higher or Lower game promotion for 2027 tickets",
-   "first": "2026-10-29T11:20:57.105646+00:00",
-   "sources": {
-    "Formula 1": "2026-10-29T11:20:57.105660+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Play our new Higher or Lower game for your chance to win 2027 Grand Prix tickets"
-   },
-   "last": "2026-10-29T11:20:57.105663+00:00"
-  },
-  "S2621": {
-   "title": "Dubois and Parker in talks for January boxing fight",
-   "first": "2026-10-29T11:20:57.105667+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T11:15:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Daniel Dubois, Joseph Parker in talks for January fight - sources"
-   },
-   "last": "2026-10-29T11:20:57.105672+00:00"
   },
   "S2622": {
    "title": "Harmer, Rabada and Coetzee fight back after Inglis 102",
@@ -14949,9 +14912,35 @@
     "GPblog": "Verstappen’s race simulations offer reason for optimism after a chaotic practice session and grid penalty"
    },
    "last": "2026-10-31T11:17:17.076488+00:00"
+  },
+  "S3245": {
+   "title": "Mercedes improves on Mexico Friday, Antonelli fixes W17 balance",
+   "first": "2026-10-31T11:22:15.575037+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-31T11:17:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Mercedes, venerdì in crescita in Messico. Antonelli migliora il bilanciamento della W17"
+   },
+   "last": "2026-10-31T11:22:15.575054+00:00"
+  },
+  "S3246": {
+   "title": "Herta takes 'now or never' stance on F1 super licence",
+   "first": "2026-10-31T11:22:15.575060+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Colton Herta takes ‘now or never’ F1 stance after super licence confusion"
+   },
+   "last": "2026-10-31T11:22:15.575067+00:00"
   }
  },
- "story_seq": 3244,
+ "story_seq": 3246,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15070,17 +15059,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T11:17:14.510214+00:00",
+ "last_run": "2026-10-31T11:22:12.140986+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
  "last_digest_at": "2026-10-30T19:00:07.214619+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T11:17:22.906602+00:00",
-   "title": "Cadillac CEO'su açıklama yaptı, Bottas'ın yerine Colton Herta söylentisi",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-10-28T11:27:49.739467+00:00",
    "title": "Hülkenberg ve Bortoleto, Meksika'da puan bölgesine dönmeyi hedefliyor",
@@ -16695,6 +16679,16 @@
    "t": "2026-10-31T11:17:21.907308+00:00",
    "title": "Verstappen'in tur simülasyonları, kaotik antrenman sonrası umut veriyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T11:22:21.204293+00:00",
+   "title": "Mercedes Meksika'da cuma gününde yükselişte, Antonelli W17'nin dengesini iyileştiriyor",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-31T11:22:21.776361+00:00",
+   "title": "Colton Herta: Süper lisans karmaşası sonrası 'ya şimdi ya hiç' dedi",
+   "source": "RacingNews365"
   }
  ]
 }
