@@ -5957,7 +5957,9 @@
   "0d36c85a24e88f95": "2026-10-31T02:50:55.404249+00:00",
   "2d8479e257306247": "2026-10-31T03:05:53.485011+00:00",
   "2977f91a6d20fe5d": "2026-10-31T03:05:53.485011+00:00",
-  "7343d58d19a7c47f": "2026-10-31T03:10:55.838598+00:00"
+  "7343d58d19a7c47f": "2026-10-31T03:10:55.838598+00:00",
+  "240fb741d8c90d2b": "2026-10-31T03:15:55.345008+00:00",
+  "f0dc9dbec107ccc6": "2026-10-31T03:15:55.345008+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15103,9 +15105,24 @@
     "ESPN F1": "Saturday Stud: Who's going to have the longest team touchdown?"
    },
    "last": "2026-10-31T03:10:57.914582+00:00"
+  },
+  "S3172": {
+   "title": "Verstappen and Lawson given grid penalties for FP2 collision",
+   "first": "2026-10-31T03:15:58.730385+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-10-31T03:10:00+00:00",
+    "Motorsport-Total": "2026-10-31T03:10:45+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Verstappen, Lawson receive grid penalties after 'unacceptable' practice collision",
+    "Motorsport-Total": "Nach Kollision mit Lawson: Verstappen erhält Startplatzstrafe in Mexiko! - Motorsport-Total.com"
+   },
+   "last": "2026-10-31T03:15:58.730412+00:00"
   }
  },
- "story_seq": 3171,
+ "story_seq": 3172,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15224,7 +15241,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T03:10:55.838598+00:00",
+ "last_run": "2026-10-31T03:15:55.345008+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16839,6 +16856,11 @@
    "t": "2026-10-31T03:06:01.504383+00:00",
    "title": "Verstappen ve Lawson, Meksika'daki kazanın ardından grid cezası aldı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-31T03:16:02.996222+00:00",
+   "title": "Verstappen ve Lawson, Meksika'da kabul edilemez çarpışma nedeniyle grid cezası aldı",
+   "source": "Sky Sports F1"
   }
  ]
 }
