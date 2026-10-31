@@ -5967,7 +5967,10 @@
   "4a41a9d9de6c66d2": "2026-10-31T03:25:56.718339+00:00",
   "945869182bf0a009": "2026-10-31T03:35:55.653869+00:00",
   "0b2c64b7d61e47e1": "2026-10-31T03:40:56.639491+00:00",
-  "f6a2ae19d7847a42": "2026-10-31T03:40:56.639491+00:00"
+  "f6a2ae19d7847a42": "2026-10-31T03:40:56.639491+00:00",
+  "f23073637d63ae4c": "2026-10-31T03:45:53.014832+00:00",
+  "4d03cdc3c284c25d": "2026-10-31T03:45:53.014832+00:00",
+  "c3a91f4038cabe61": "2026-10-31T03:45:53.014832+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14192,14 +14195,16 @@
    "title": "Lawson criticises Verstappen after FP2 collision",
    "first": "2026-10-30T22:50:16.853364+00:00",
    "sources": {
-    "Auto Motor und Sport": "2026-10-30T22:06:37+00:00"
+    "Auto Motor und Sport": "2026-10-30T22:06:37+00:00",
+    "Sky Sports F1": "2026-10-30T22:19:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Auto Motor und Sport": "Formel 1: Liam Lawson stänkert nach Kollision im Training gegen Max Verstappen"
+    "Auto Motor und Sport": "Formel 1: Liam Lawson stänkert nach Kollision im Training gegen Max Verstappen",
+    "Sky Sports F1": "'Every weekend!' - Lawson fumes at Verstappen as pair clash during P2!"
    },
-   "last": "2026-10-30T22:50:16.853379+00:00"
+   "last": "2026-10-31T03:45:57.102381+00:00"
   },
   "S3117": {
    "title": "Mark Walter and Josh Kushner finalise $12.5B Lakers sale",
@@ -15010,9 +15015,35 @@
     "The Race": "Ferrari is fastest in Mexico - but not for reasons rivals expected"
    },
    "last": "2026-10-31T03:41:00.395642+00:00"
+  },
+  "S3175": {
+   "title": "Sky Sports video highlights from Mexico City Friday practice",
+   "first": "2026-10-31T03:45:57.102355+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-10-30T23:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Mexico City Grand Prix | Practice highlights"
+   },
+   "last": "2026-10-31T03:45:57.102373+00:00"
+  },
+  "S3176": {
+   "title": "Jorge Martin withdraws from Sepang MotoGP weekend",
+   "first": "2026-10-31T03:45:57.102386+00:00",
+   "sources": {
+    "The Race": "2026-10-31T03:41:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Martin out of Sepang MotoGP weekend, Alex Marquez on pole"
+   },
+   "last": "2026-10-31T03:45:57.102391+00:00"
   }
  },
- "story_seq": 3174,
+ "story_seq": 3176,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15131,7 +15162,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T03:40:56.639491+00:00",
+ "last_run": "2026-10-31T03:45:53.014832+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16756,6 +16787,11 @@
    "t": "2026-10-31T03:21:05.340648+00:00",
    "title": "Hadjar, iddia edilen paddock ihlali nedeniyle FIA sorgusuna çağrıldı",
    "source": "The Race"
+  },
+  {
+   "t": "2026-10-31T03:46:02.448188+00:00",
+   "title": "Verstappen ve Lawson antrenmanda çarpıştı, ikisine grid cezası",
+   "source": "Sky Sports F1"
   }
  ]
 }
