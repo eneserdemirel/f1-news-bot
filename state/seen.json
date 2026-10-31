@@ -5916,7 +5916,12 @@
   "31ceec78b59e6227": "2026-10-31T00:50:55.310423+00:00",
   "10d3fa41d738fcd8": "2026-10-31T00:50:55.310423+00:00",
   "d1f57be1b3ffc0de": "2026-10-31T00:50:55.310423+00:00",
-  "302f4367536e4d36": "2026-10-31T00:55:55.703052+00:00"
+  "302f4367536e4d36": "2026-10-31T00:55:55.703052+00:00",
+  "eeb6201983aeb5db": "2026-10-31T01:00:55.119927+00:00",
+  "5c7847c93e2832d6": "2026-10-31T01:00:55.119927+00:00",
+  "948ec50949455ce9": "2026-10-31T01:00:55.119927+00:00",
+  "89d31af997f04df8": "2026-10-31T01:00:55.119927+00:00",
+  "4a05fdf1abcee5f0": "2026-10-31T01:00:55.119927+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6117,19 +6122,6 @@
    },
    "last": "2026-10-29T01:49:42.411203+00:00"
   },
-  "S2448": {
-   "title": "Servette vs Lyon women's match live updates",
-   "first": "2026-10-28T22:38:43.803308+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T22:34:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Marinelli finishes slick Servette move for 2-0"
-   },
-   "last": "2026-10-29T00:59:16.822154+00:00"
-  },
   "S2456": {
    "title": "Ford names Verstappen as target for GT and Le Mans plans",
    "first": "2026-10-28T23:08:35.603979+00:00",
@@ -6181,19 +6173,6 @@
     "ESPN F1": "Thunder's Jalen Williams has surgery, to be reevaluated before end of season"
    },
    "last": "2026-10-29T04:29:19.779003+00:00"
-  },
-  "S2481": {
-   "title": "Alessia Russo completes hat trick from penalty spot",
-   "first": "2026-10-29T00:59:16.822127+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-28T22:34:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alessia Russo completes her hat trick from the penalty spot"
-   },
-   "last": "2026-10-29T00:59:16.822145+00:00"
   },
   "S2482": {
    "title": "Andrew Wiggins and-1 basket highlight",
@@ -15097,9 +15076,74 @@
     "ESPN F1": "Fantasy football Week 8 inactives: Chase to play; Hall questionable; Egbuka out"
    },
    "last": "2026-10-31T00:55:57.435647+00:00"
+  },
+  "S3139": {
+   "title": "Sophie Rourke scores vs Wake Forest (college soccer)",
+   "first": "2026-10-31T01:00:59.800803+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:57:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sophie Rourke scores in the 68' vs. Wake Forest"
+   },
+   "last": "2026-10-31T01:00:59.800820+00:00"
+  },
+  "S3140": {
+   "title": "Ransford Gyan scores in soccer match",
+   "first": "2026-10-31T01:00:59.800826+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:57:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ransford Gyan scores in the 65'"
+   },
+   "last": "2026-10-31T01:00:59.800831+00:00"
+  },
+  "S3141": {
+   "title": "Will Stone 39-yard field goal in college football",
+   "first": "2026-10-31T01:00:59.800835+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:57:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Will Stone makes 39-yard field goal"
+   },
+   "last": "2026-10-31T01:00:59.800841+00:00"
+  },
+  "S3142": {
+   "title": "Ausar Thompson alley-oop in NBA game",
+   "first": "2026-10-31T01:00:59.800844+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T00:57:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ausar Thompson connects on alley-oop"
+   },
+   "last": "2026-10-31T01:00:59.800848+00:00"
+  },
+  "S3143": {
+   "title": "Vasseur says small turbo and slow corners could help Ferrari",
+   "first": "2026-10-31T01:00:59.800851+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-31T00:55:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Vasseur positivo: “È un buon inizio. Il turbo piccolo e le curve lente possono essere un vantaggio”"
+   },
+   "last": "2026-10-31T01:00:59.800855+00:00"
   }
  },
- "story_seq": 3138,
+ "story_seq": 3143,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15218,7 +15262,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T00:55:55.703052+00:00",
+ "last_run": "2026-10-31T01:00:55.119927+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16787,6 +16831,11 @@
   {
    "t": "2026-10-31T00:51:02.736141+00:00",
    "title": "Hamilton: Turbo fark yaratmıyor, rakipler rektilerde bizden önde",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-31T01:01:04.548640+00:00",
+   "title": "Vasseur: \"İyi bir başlangıç, küçük turbo ve yavaş virajlar avantaj olabilir\"",
    "source": "Motorsport.com Italia"
   }
  ]
