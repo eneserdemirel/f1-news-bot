@@ -6084,7 +6084,9 @@
   "1e327c8fff860ea9": "2026-10-31T09:36:28.245938+00:00",
   "3c6ff66f714e3c8c": "2026-10-31T09:41:23.637226+00:00",
   "560e587c5efff904": "2026-10-31T09:41:23.637226+00:00",
-  "7bef61a0ed6def49": "2026-10-31T09:51:28.000758+00:00"
+  "7bef61a0ed6def49": "2026-10-31T09:51:28.000758+00:00",
+  "3d7dcccbc36900ca": "2026-10-31T09:57:09.100242+00:00",
+  "b3ae7474af28c887": "2026-10-31T09:57:09.100242+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12983,7 +12985,8 @@
     "RacingNews365": "2026-10-31T07:10:00+00:00",
     "RacingNews365 NL": "2026-10-31T07:10:00+00:00",
     "GPblog": "2026-10-31T08:51:00+00:00",
-    "Motorsport Week": "2026-10-31T09:30:00+00:00"
+    "Motorsport Week": "2026-10-31T09:30:00+00:00",
+    "GPFans": "2026-10-31T09:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12996,9 +12999,10 @@
     "RacingNews365": "Isack Hadjar summoned by F1 stewards over alleged paddock misconduct",
     "RacingNews365 NL": "Hadjar onder vergrootglas na 'wangedrag' in Mexicaanse paddock",
     "GPblog": "Hadjar must report to the FIA stewards after pushing a fan away in Mexico",
-    "Motorsport Week": "Isack Hadjar summoned to FIA stewards over potential ‘paddock misconduct’"
+    "Motorsport Week": "Isack Hadjar summoned to FIA stewards over potential ‘paddock misconduct’",
+    "GPFans": "Red Bull F1 star PUSHES fan in extraordinary paddock altercation at Mexican Grand Prix"
    },
-   "last": "2026-10-31T09:36:30.650392+00:00"
+   "last": "2026-10-31T09:57:12.277552+00:00"
   },
   "S3095": {
    "title": "Kane beats Mbappé in 2026 Ballon d'Or by narrow margin",
@@ -14911,9 +14915,22 @@
     "GPblog": "FIA stewards hand out multiple fines after eventful Friday in Mexico City"
    },
    "last": "2026-10-31T09:51:30.691656+00:00"
+  },
+  "S3233": {
+   "title": "Wache retracts Red Bull joke about Mexico altitude engine",
+   "first": "2026-10-31T09:57:12.277525+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-31T09:48:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Waché bedenkt zich over Red Bull-grapje: \"Schrap dat maar\""
+   },
+   "last": "2026-10-31T09:57:12.277544+00:00"
   }
  },
- "story_seq": 3232,
+ "story_seq": 3233,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15032,7 +15049,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T09:52:17.827599+00:00",
+ "last_run": "2026-10-31T09:57:09.100242+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16667,6 +16684,11 @@
    "t": "2026-10-31T09:51:36.344562+00:00",
    "title": "FIA komiserleri Meksika'da cuma gününde çoklu ceza verdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T09:57:17.446574+00:00",
+   "title": "Waché, Red Bull'un 'turbo gecikmesi' şakasını geri aldı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
