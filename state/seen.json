@@ -6429,7 +6429,10 @@
   "f2d4c1468f4b25a5": "2026-10-31T20:33:41.354918+00:00",
   "0555e0c43ce5eec7": "2026-10-31T20:33:41.354918+00:00",
   "da4ce60b4775511b": "2026-10-31T20:33:41.354918+00:00",
-  "0076ed8c8aedd8f1": "2026-10-31T20:33:41.354918+00:00"
+  "0076ed8c8aedd8f1": "2026-10-31T20:33:41.354918+00:00",
+  "a2f2e9858aa6ded2": "2026-10-31T20:38:38.676717+00:00",
+  "0517d685aa778e39": "2026-10-31T20:38:38.676717+00:00",
+  "64163291960c8bed": "2026-10-31T20:38:38.676717+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15430,9 +15433,35 @@
     "ESPN F1": "Patrick Batiste picks off Northwestern State Demons"
    },
    "last": "2026-10-31T20:33:46.242527+00:00"
+  },
+  "S3405": {
+   "title": "Michigan 28-21 Rutgers game recap",
+   "first": "2026-10-31T20:38:40.317056+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T20:34:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michigan 28-21 Rutgers (Oct 31, 2026) Game Recap"
+   },
+   "last": "2026-10-31T20:38:40.317075+00:00"
+  },
+  "S3406": {
+   "title": "Peyton Woodring misses 43-yard field goal for Georgia",
+   "first": "2026-10-31T20:38:40.317082+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T20:08:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Peyton Woodring shanks 43-yard FG attempt for Georgia"
+   },
+   "last": "2026-10-31T20:38:40.317088+00:00"
   }
  },
- "story_seq": 3404,
+ "story_seq": 3406,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15551,7 +15580,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T20:33:41.354918+00:00",
+ "last_run": "2026-10-31T20:38:38.676717+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
