@@ -6248,7 +6248,13 @@
   "5f829de20dd3a992": "2026-10-31T15:22:53.792435+00:00",
   "cbfa3a38964b0798": "2026-10-31T15:27:55.316078+00:00",
   "2aea4b24f3745e29": "2026-10-31T15:27:55.316078+00:00",
-  "ab4be86ab2f35957": "2026-10-31T15:27:55.316078+00:00"
+  "ab4be86ab2f35957": "2026-10-31T15:27:55.316078+00:00",
+  "4a117f1a2c3df2ee": "2026-10-31T15:32:53.661138+00:00",
+  "e068423bdbc62d39": "2026-10-31T15:32:53.661138+00:00",
+  "7b1a97bfb78285d8": "2026-10-31T15:32:53.661138+00:00",
+  "468222a515c4d5c1": "2026-10-31T15:32:53.661138+00:00",
+  "b0dc745fbfcbb361": "2026-10-31T15:32:53.661138+00:00",
+  "dd622413b2887b41": "2026-10-31T15:32:53.661138+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6464,32 +6470,6 @@
     "ESPN F1": "Bruno Fernandes retains Man United captaincy - Michael Carrick"
    },
    "last": "2026-10-29T20:11:30.967172+00:00"
-  },
-  "S2692": {
-   "title": "Newey admits rake bet on AMR26 did not work for Aston Martin",
-   "first": "2026-10-29T15:31:00.963092+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-29T15:19:49+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Aston Martin, Newey conferma: la sua scommessa del rake spinto sulla AMR26 non ha funzionato"
-   },
-   "last": "2026-10-29T15:31:00.963097+00:00"
-  },
-  "S2693": {
-   "title": "Montezemolo praises Antonelli as changing F1 and Italian sport history",
-   "first": "2026-10-29T15:31:00.963101+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-29T15:20:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Montezemolo incorona Antonelli: “Cambia la storia della F1 e dello sport italiano”"
-   },
-   "last": "2026-10-29T15:31:00.963105+00:00"
   },
   "S2694": {
    "title": "VidantaWorld Mexico Open golf leaderboard",
@@ -14737,7 +14717,8 @@
     "Motorsport-Total": "2026-10-31T15:01:43+00:00",
     "FormulaPassion": "2026-10-31T14:59:55+00:00",
     "Sky Sports F1": "2026-10-31T14:46:00+00:00",
-    "ESPN F1": "2026-10-31T15:24:08+00:00"
+    "ESPN F1": "2026-10-31T15:24:08+00:00",
+    "Gazzetta dello Sport": "2026-10-31T15:21:53+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14756,9 +14737,10 @@
     "Motorsport-Total": "Esteban Ocon fährt nicht: Ryo Hirakawa übernimmt das Haas-Cockpit in Mexiko! - Motorsport-Total.com",
     "FormulaPassion": "Haas, Ocon out! In Messico correrà Hirakawa",
     "Sky Sports F1": "Haas replace Ocon for Mexico City GP without explanation",
-    "ESPN F1": "Esteban Ocon without explanation by Haas for Mexico City Grand Prix"
+    "ESPN F1": "Esteban Ocon without explanation by Haas for Mexico City Grand Prix",
+    "Gazzetta dello Sport": "Clamoroso in F1: la Haas non fa correre Ocon, al suo posto Hirakawa. I motivi e i conflitti col team"
    },
-   "last": "2026-10-31T15:27:58.373968+00:00"
+   "last": "2026-10-31T15:33:00.830822+00:00"
   },
   "S3295": {
    "title": "Marquez faces Bezzecchi challenge after Martin title admission",
@@ -14777,14 +14759,14 @@
    "title": "Giuliano Simeone scores for Atletico Madrid",
    "first": "2026-10-31T14:52:13.248221+00:00",
    "sources": {
-    "ESPN F1": "2026-10-31T14:49:21+00:00"
+    "ESPN F1": "2026-10-31T14:31:08+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Giuliano Simeone finds the back of the net for Atletico Madrid"
    },
-   "last": "2026-10-31T14:52:13.248238+00:00"
+   "last": "2026-10-31T15:33:00.830803+00:00"
   },
   "S3297": {
    "title": "Zion Green commits to Alabama basketball",
@@ -14941,9 +14923,35 @@
     "GPblog": "FIA confirm Ferrari curfew breach ahead of Mexico City GP FP3"
    },
    "last": "2026-10-31T15:27:58.373991+00:00"
+  },
+  "S3309": {
+   "title": "LSU lands 5-star center Xavier Young for 2027 class",
+   "first": "2026-10-31T15:33:00.830774+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T15:30:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LSU lands 5-star center Xavier Young for Class of 2027"
+   },
+   "last": "2026-10-31T15:33:00.830794+00:00"
+  },
+  "S3310": {
+   "title": "Which SEC team benefits from Week 9 bye",
+   "first": "2026-10-31T15:33:00.830806+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T14:27:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Which SEC team benefits from being off in Week 9?"
+   },
+   "last": "2026-10-31T15:33:00.830810+00:00"
   }
  },
- "story_seq": 3308,
+ "story_seq": 3310,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15062,7 +15070,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T15:27:55.316078+00:00",
+ "last_run": "2026-10-31T15:32:53.661138+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
@@ -16652,6 +16660,11 @@
    "t": "2026-10-31T15:28:02.076790+00:00",
    "title": "FIA, Ferrari ve Aston Martin'in Meksika GP'de sokağa çıkma saati ihlalini onayladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T15:33:05.277916+00:00",
+   "title": "Haas, Esteban Ocon'un ani çekilişine ilişkin daha fazla bilgi paylaştı",
+   "source": "RacingNews365"
   }
  ]
 }
