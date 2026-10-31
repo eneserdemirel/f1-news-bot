@@ -6135,7 +6135,10 @@
   "b1346ef2b7f2862e": "2026-10-31T10:42:12.568324+00:00",
   "805b42013dd6c535": "2026-10-31T10:57:13.552039+00:00",
   "ef7057a19f919b3f": "2026-10-31T10:57:13.552039+00:00",
-  "3e37b8df74f6fc1a": "2026-10-31T10:57:13.552039+00:00"
+  "3e37b8df74f6fc1a": "2026-10-31T10:57:13.552039+00:00",
+  "740a0fc185b861d0": "2026-10-31T11:02:12.072113+00:00",
+  "9fb6da07f8ba891c": "2026-10-31T11:02:12.072113+00:00",
+  "512764258b35f32f": "2026-10-31T11:02:12.072113+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14957,9 +14960,35 @@
     "ESPN F1": "Venus Williams loses in Guangzhou Open doubles semifinals"
    },
    "last": "2026-10-31T10:57:17.571663+00:00"
+  },
+  "S3241": {
+   "title": "Alonso criticises Albon over US GP incident comments",
+   "first": "2026-10-31T11:02:15.499263+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-31T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Alonso grijpt Albon bij de keel en haalt kou uit de lucht"
+   },
+   "last": "2026-10-31T11:02:15.499282+00:00"
+  },
+  "S3242": {
+   "title": "Red Bull gives update on Verstappen radio issues",
+   "first": "2026-10-31T11:02:15.499289+00:00",
+   "sources": {
+    "Crash.net": "2026-10-31T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Red Bull provides update on F1 radio issues vexing Max Verstappen"
+   },
+   "last": "2026-10-31T11:02:15.499294+00:00"
   }
  },
- "story_seq": 3240,
+ "story_seq": 3242,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15078,7 +15107,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T10:57:13.552039+00:00",
+ "last_run": "2026-10-31T11:02:12.072113+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16693,6 +16722,16 @@
    "t": "2026-10-31T10:32:43.417868+00:00",
    "title": "Vesti, 2027 Formula 1 koltuğu için adaylar arasında",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T11:02:23.803907+00:00",
+   "title": "Alonso, Albon ile arasındaki gerginliği bir jestle bitirdi",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-10-31T11:02:24.389155+00:00",
+   "title": "Red Bull, Verstappen'i rahatsız eden telsiz sorunlarına ilişkin güncelleme yaptı",
+   "source": "Crash.net"
   }
  ]
 }
