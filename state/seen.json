@@ -6020,7 +6020,10 @@
   "e2f4800c7a0b5496": "2026-10-31T07:21:23.658274+00:00",
   "6e6a84948be3cc94": "2026-10-31T07:21:23.658274+00:00",
   "ba7fbf45fd71b550": "2026-10-31T07:21:23.658274+00:00",
-  "cde8e80cb2165dce": "2026-10-31T07:26:27.917328+00:00"
+  "cde8e80cb2165dce": "2026-10-31T07:26:27.917328+00:00",
+  "0556f19216a5cdb0": "2026-10-31T07:31:24.373491+00:00",
+  "de3bb5dd2f30b9ec": "2026-10-31T07:31:24.373491+00:00",
+  "a4073e9a53a5efcf": "2026-10-31T07:31:24.373491+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13410,16 +13413,18 @@
    "sources": {
     "GPblog": "2026-10-30T21:48:00+00:00",
     "Crash.net": "2026-10-30T21:57:18+00:00",
-    "RacingNews365": "2026-10-31T06:20:00+00:00"
+    "RacingNews365": "2026-10-31T06:20:00+00:00",
+    "GPFans": "2026-10-31T07:29:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Mekies unfazed by Horner's Red Bull claim: 'I think that's our spirit'",
     "Crash.net": "Laurent Mekies claps back at Christian Horner’s Red Bull “lost its mojo” claim",
-    "RacingNews365": "Red Bull issue withering 'on fire' response to brutal Christian Horner comments"
+    "RacingNews365": "Red Bull issue withering 'on fire' response to brutal Christian Horner comments",
+    "GPFans": "Red Bull F1 boss responds to Christian Horner criticism after he claimed team had lost its 'vibe'"
    },
-   "last": "2026-10-31T06:26:32.231754+00:00"
+   "last": "2026-10-31T07:31:27.193575+00:00"
   },
   "S3103": {
    "title": "Brewers World Series party parade in Milwaukee",
@@ -14592,14 +14597,16 @@
    "title": "Mexico City GP qualifying start time preview",
    "first": "2026-10-31T05:06:31.660863+00:00",
    "sources": {
-    "RacingNews365": "2026-10-31T05:00:00+00:00"
+    "RacingNews365": "2026-10-31T05:00:00+00:00",
+    "RacingNews365 NL": "2026-10-31T07:25:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "2026 F1 Mexico City Grand Prix qualifying start time today"
+    "RacingNews365": "2026 F1 Mexico City Grand Prix qualifying start time today",
+    "RacingNews365 NL": "Hoe laat begint de kwalificatie voor de F1 GP Mexico 2026?"
    },
-   "last": "2026-10-31T05:06:31.660868+00:00"
+   "last": "2026-10-31T07:31:27.193551+00:00"
   },
   "S3187": {
    "title": "Dillon Brooks ejected from Suns loss after Flagrant 2 foul",
@@ -14834,9 +14841,22 @@
     "ESPN F1": "Mavericks 116-111 Rockets (Oct 30, 2026) Game Recap"
    },
    "last": "2026-10-31T07:26:30.734898+00:00"
+  },
+  "S3205": {
+   "title": "Verstappen names Ferrari as main Mexico threat",
+   "first": "2026-10-31T07:31:27.193562+00:00",
+   "sources": {
+    "GPblog": "2026-10-31T07:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen flags Ferrari as main Mexico threat: 'Should play into their hands'"
+   },
+   "last": "2026-10-31T07:31:27.193569+00:00"
   }
  },
- "story_seq": 3204,
+ "story_seq": 3205,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14955,27 +14975,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T07:26:27.917328+00:00",
+ "last_run": "2026-10-31T07:31:24.373491+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
  "last_digest_at": "2026-10-30T19:00:07.214619+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T07:26:57.789547+00:00",
-   "title": "Aston Martin, Newey'nin ana tasarım hatasını kabul etti",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-10-28T07:26:58.158907+00:00",
-   "title": "Wolff, Russell'ı savundu: \"Antonelli'den yarım saniye yavaş değil\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-10-28T07:26:58.529388+00:00",
-   "title": "Andretti, Antonelli'yi övdü: \"Bu genç bir cannonata\"",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-10-28T07:36:55.608883+00:00",
    "title": "Hamilton, Ferrari rakiplerinin sıralamada gizli hız sakladığına inanıyor",
@@ -16595,6 +16600,11 @@
    "t": "2026-10-31T07:21:31.831212+00:00",
    "title": "Piastri, Meksika'da 2.000 metrenin üzerindeki yükseklikte McLaren'dan umutlu",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-10-31T07:31:31.240962+00:00",
+   "title": "Verstappen, Meksika'da asıl tehdidin Ferrari olduğunu söyledi",
+   "source": "GPblog"
   }
  ]
 }
