@@ -6295,7 +6295,11 @@
   "c6347052a89b0558": "2026-10-31T16:57:52.845673+00:00",
   "1cfc579eeee53a29": "2026-10-31T16:57:52.845673+00:00",
   "49f1f8cdadb805d6": "2026-10-31T16:57:52.845673+00:00",
-  "b77021102cb47a17": "2026-10-31T16:57:52.845673+00:00"
+  "b77021102cb47a17": "2026-10-31T16:57:52.845673+00:00",
+  "a1d4122913c5320e": "2026-10-31T17:02:54.555025+00:00",
+  "789934ba7bc9a621": "2026-10-31T17:02:54.555025+00:00",
+  "c45876d0332d8926": "2026-10-31T17:02:54.555025+00:00",
+  "b2c981fcef16fa0d": "2026-10-31T17:02:54.555025+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6569,19 +6573,6 @@
     "Motorsport-Total": "Krank: Kimi Antonelli und Valtteri Bottas verpassen Mexiko-Donnerstag - Motorsport-Total.com"
    },
    "last": "2026-10-30T16:19:35.810315+00:00"
-  },
-  "S2716": {
-   "title": "Cooper Pratt World Series bat in Baseball Hall of Fame",
-   "first": "2026-10-29T17:01:34.555015+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T15:39:18+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "How Cooper Pratt's World Series Game 5 bat ended up in the Baseball Hall of Fame"
-   },
-   "last": "2026-10-29T17:01:34.555035+00:00"
   },
   "S2717": {
    "title": "Notre Dame CB DJ McKinney out with ankle injury",
@@ -14988,9 +14979,39 @@
     "GPFans": "Kimi Antonelli’s dad could beat him to a title on the very same day"
    },
    "last": "2026-10-31T16:57:56.332531+00:00"
+  },
+  "S3329": {
+   "title": "Canelo Alvarez vs Christian Mbilli boxing live updates",
+   "first": "2026-10-31T17:02:58.486103+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T17:01:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canelo Alvarez-Christian Mbilli live updates, results and analysis"
+   },
+   "last": "2026-10-31T17:02:58.486125+00:00"
+  },
+  "S3330": {
+   "title": "Hadjar receives stewards' verdict over paddock fan incident",
+   "first": "2026-10-31T17:02:58.486130+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T16:56:00+00:00",
+    "RacingNews365 NL": "2026-10-31T16:57:00+00:00",
+    "GPblog": "2026-10-31T16:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Isack Hadjar learns stewards' verdict after paddock altercation with fan",
+    "RacingNews365 NL": "Stewards vellen oordeel over 'wangedrag' Hadjar",
+    "GPblog": "Hadjar learns stewards' verdict after shoving incident at Mexico City GP"
+   },
+   "last": "2026-10-31T17:02:58.486142+00:00"
   }
  },
- "story_seq": 3328,
+ "story_seq": 3330,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15109,7 +15130,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T16:57:52.845673+00:00",
+ "last_run": "2026-10-31T17:02:54.555025+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
@@ -16714,6 +16735,11 @@
    "t": "2026-10-31T16:58:00.842179+00:00",
    "title": "Kimi Antonelli'nin babası aynı gün şampiyonluğa ulaşabilir",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-31T17:03:04.124268+00:00",
+   "title": "Isack Hadjar, paddock'ta hayranıyla yaşadığı tartışmanın ardından resmi uyarı aldı",
+   "source": "RacingNews365"
   }
  ]
 }
