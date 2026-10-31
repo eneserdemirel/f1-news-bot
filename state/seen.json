@@ -5930,7 +5930,9 @@
   "d7b7de8e10c468ca": "2026-10-31T01:15:53.607004+00:00",
   "5074e2577e1cafc8": "2026-10-31T01:26:01.338845+00:00",
   "ab77694f0d5d4f38": "2026-10-31T01:30:52.779340+00:00",
-  "9681e940cde8b3f3": "2026-10-31T01:30:52.779340+00:00"
+  "9681e940cde8b3f3": "2026-10-31T01:30:52.779340+00:00",
+  "048fb15de13c2f39": "2026-10-31T01:35:55.005321+00:00",
+  "25b877cefe877210": "2026-10-31T01:35:55.005321+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15191,9 +15193,35 @@
     "ESPN F1": "Amen Thompson rocks the rim with slam dunk"
    },
    "last": "2026-10-31T01:30:55.884805+00:00"
+  },
+  "S3152": {
+   "title": "Racing Bulls boss Permane responds to Verstappen's Lawson comments",
+   "first": "2026-10-31T01:35:58.046018+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T01:32:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Racing Bulls respond to punchy Max Verstappen claim about Liam Lawson"
+   },
+   "last": "2026-10-31T01:35:58.046035+00:00"
+  },
+  "S3153": {
+   "title": "Gazzetta Formula 1 item with no visible content",
+   "first": "2026-10-31T01:35:58.046041+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-30T20:33:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Formula 1"
+   },
+   "last": "2026-10-31T01:35:58.046046+00:00"
   }
  },
- "story_seq": 3151,
+ "story_seq": 3153,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15312,7 +15340,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T01:30:52.779340+00:00",
+ "last_run": "2026-10-31T01:35:55.005321+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16887,6 +16915,16 @@
    "t": "2026-10-31T01:01:04.548640+00:00",
    "title": "Vasseur: \"İyi bir başlangıç, küçük turbo ve yavaş virajlar avantaj olabilir\"",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-10-31T01:36:02.666795+00:00",
+   "title": "Formula 1 haberi",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-10-31T01:36:03.163428+00:00",
+   "title": "Racing Bulls, Verstappen'in Liam Lawson hakkındaki sert sözlerine yanıt verdi",
+   "source": "RacingNews365"
   }
  ]
 }
