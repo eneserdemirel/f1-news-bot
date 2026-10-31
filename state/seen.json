@@ -6028,7 +6028,8 @@
   "7e16cab76a9ce5f1": "2026-10-31T07:36:25.403119+00:00",
   "b470c496cb11157e": "2026-10-31T07:41:30.222135+00:00",
   "2ee8280d7a88d000": "2026-10-31T07:41:30.222135+00:00",
-  "227416046f350489": "2026-10-31T07:41:30.222135+00:00"
+  "227416046f350489": "2026-10-31T07:41:30.222135+00:00",
+  "7375f026e57b2cba": "2026-10-31T07:51:27.838918+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6219,19 +6220,6 @@
     "PlanetF1": "FIA confirms George Russell findings after ‘extensive’ Mercedes inspection"
    },
    "last": "2026-10-29T08:50:06.599170+00:00"
-  },
-  "S2573": {
-   "title": "Verstappen says ride height worsened comfort with 2026 cars",
-   "first": "2026-10-29T07:50:08.339518+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-29T07:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen haalt schouders op over volgend nadeel nieuwe reglementen"
-   },
-   "last": "2026-10-29T07:50:08.339539+00:00"
   },
   "S2574": {
    "title": "Ricciardo says he wishes he had stayed at Red Bull",
@@ -14887,9 +14875,22 @@
     "GPblog": "MotoGP Full Sprint Race Results | Acosta beats Marquez in Sepang"
    },
    "last": "2026-10-31T07:41:32.617373+00:00"
+  },
+  "S3209": {
+   "title": "Damon Hill praises Antonelli and comments on Russell",
+   "first": "2026-10-31T07:51:29.591079+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-31T07:43:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Damon Hill: \"La forza di Kimi? Tutti lo amano, e non è scontato. Pensavo che Russell fosse meglio, ma...\""
+   },
+   "last": "2026-10-31T07:51:29.591099+00:00"
   }
  },
- "story_seq": 3208,
+ "story_seq": 3209,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15008,17 +15009,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T07:46:24.386529+00:00",
+ "last_run": "2026-10-31T07:51:27.838918+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
  "last_digest_at": "2026-10-30T19:00:07.214619+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T07:46:44.496888+00:00",
-   "title": "Verstappen'e 2024 Meksika GP'de çifte tıkanma cezası verildi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-28T08:06:50.527190+00:00",
    "title": "Ferrari'nin güncellemesi Hamilton'a büyük destek sağladı",
@@ -16638,6 +16634,11 @@
    "t": "2026-10-31T07:36:33.054464+00:00",
    "title": "Leclerc: Performans iyi görünüyor ama gelişmek gerekiyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-10-31T07:51:32.921542+00:00",
+   "title": "Damon Hill: Kimi Räikkönen'i herkes seviyor, bu kolay bir şey değil",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
