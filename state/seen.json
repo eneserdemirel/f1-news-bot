@@ -6146,7 +6146,9 @@
   "84c25d60537ccac9": "2026-10-31T11:32:19.208807+00:00",
   "f512e59d02c0a55d": "2026-10-31T11:32:19.208807+00:00",
   "1b6c4fa8a686348f": "2026-10-31T11:37:08.560701+00:00",
-  "26c67134c3ba40ca": "2026-10-31T11:37:08.560701+00:00"
+  "26c67134c3ba40ca": "2026-10-31T11:37:08.560701+00:00",
+  "2d9f15cd5a7c8e2d": "2026-10-31T11:47:09.171681+00:00",
+  "a9e33ee21e12bc06": "2026-10-31T11:47:09.171681+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14903,9 +14905,22 @@
     "RacingNews365 NL": "Verstappen baalt van kostbaar verlies na opmerkelijk incident"
    },
    "last": "2026-10-31T11:37:13.072587+00:00"
+  },
+  "S3251": {
+   "title": "Antonelli says he still sees mistakes in his own driving despite title",
+   "first": "2026-10-31T11:47:11.340117+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-10-31T11:44:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Trotz bevorstehendem WM-Titel: Kimi Antonelli sieht noch Fehler bei sich - Motorsport-Total.com"
+   },
+   "last": "2026-10-31T11:47:11.340134+00:00"
   }
  },
- "story_seq": 3250,
+ "story_seq": 3251,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15024,7 +15039,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T11:42:12.543017+00:00",
+ "last_run": "2026-10-31T11:47:09.171681+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16644,6 +16659,11 @@
    "t": "2026-10-31T11:32:27.240507+00:00",
    "title": "Herta'nın süper lisans puanı hatalı IndyCar verisi yüzünden eksik kaldı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-10-31T11:47:14.384343+00:00",
+   "title": "Antonelli dünya şampiyonluğu öncesinde hâlâ kendinde hatalar görüyor",
+   "source": "Motorsport-Total"
   }
  ]
 }
