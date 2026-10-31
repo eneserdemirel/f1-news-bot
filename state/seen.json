@@ -6193,7 +6193,10 @@
   "59bb112422a01b5f": "2026-10-31T13:57:10.462089+00:00",
   "a57ab611e03073f9": "2026-10-31T13:57:10.462089+00:00",
   "7f9eca49d6cec33e": "2026-10-31T13:57:10.462089+00:00",
-  "3f238ca4579e8377": "2026-10-31T14:02:13.884780+00:00"
+  "3f238ca4579e8377": "2026-10-31T14:02:13.884780+00:00",
+  "02b7e847585c0cc2": "2026-10-31T14:07:16.528214+00:00",
+  "86e9dd717cbb9e26": "2026-10-31T14:07:16.528214+00:00",
+  "7b14b0f2b4141e02": "2026-10-31T14:07:16.528214+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14825,9 +14828,48 @@
     "ESPN F1": "Where the 2026 Vikings rank among worst 6-0 NFL teams ever"
    },
    "last": "2026-10-31T14:02:15.120580+00:00"
+  },
+  "S3283": {
+   "title": "NFL scouts favor Drew Mestemaker as first QB taken in draft",
+   "first": "2026-10-31T14:07:19.729478+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T14:04:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL scouts favor Drew Mestemaker as first QB taken in draft"
+   },
+   "last": "2026-10-31T14:07:19.729497+00:00"
+  },
+  "S3284": {
+   "title": "How F1 teams are tackling Mexico City altitude cooling solutions",
+   "first": "2026-10-31T14:07:19.729503+00:00",
+   "sources": {
+    "The Race": "2026-10-31T14:06:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "How F1 teams are tackling Mexico's altitude challenge in 2026"
+   },
+   "last": "2026-10-31T14:07:19.729509+00:00"
+  },
+  "S3285": {
+   "title": "FIM warns MotoGP riders of suspension risk for skipping Qatar",
+   "first": "2026-10-31T14:07:19.729513+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-10-31T14:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Coureurs riskeren schorsing bij afwezigheid in Qatar, zo waarschuwt de FIM"
+   },
+   "last": "2026-10-31T14:07:19.729518+00:00"
   }
  },
- "story_seq": 3282,
+ "story_seq": 3285,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14946,17 +14988,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T14:02:13.884780+00:00",
+ "last_run": "2026-10-31T14:07:16.528214+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
  "last_digest_at": "2026-10-31T12:02:14.250346+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T14:07:25.001546+00:00",
-   "title": "Formula 1, Meksika'da ince hava nedeniyle büyük bir zorlukla karşı karşıya",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-28T14:07:25.337968+00:00",
    "title": "Eski F1 şampiyonu Hampshire çiftliği vergi davasını kaybetti",
@@ -16541,6 +16578,11 @@
    "t": "2026-10-31T13:57:20.016586+00:00",
    "title": "Channel 4, Meksika GP'yi İngiltere'de ücretsiz özetleyecek",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-31T14:07:25.057776+00:00",
+   "title": "F1 takımları 2026'da Meksika'nın yüksek rakım zorluğuna nasıl hazırlanıyor",
+   "source": "The Race"
   }
  ]
 }
