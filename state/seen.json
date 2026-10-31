@@ -6372,7 +6372,9 @@
   "6adbb776b278b701": "2026-10-31T19:37:52.954115+00:00",
   "17bb09ede123d40c": "2026-10-31T19:37:52.954115+00:00",
   "bb00ee02f44fdef6": "2026-10-31T19:37:52.954115+00:00",
-  "76c1bb4c0a9e84f0": "2026-10-31T19:42:51.692103+00:00"
+  "76c1bb4c0a9e84f0": "2026-10-31T19:42:51.692103+00:00",
+  "38c937095f00f606": "2026-10-31T19:47:54.136951+00:00",
+  "37f2d9b6a3430e75": "2026-10-31T19:47:54.136951+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14982,9 +14984,35 @@
     "ESPN F1": "Lakers' Jeanie Buss accuses siblings of 'cloak and dagger' tactics"
    },
    "last": "2026-10-31T19:42:52.926139+00:00"
+  },
+  "S3361": {
+   "title": "Analysis: Ocon risks repeating premature F1 season end",
+   "first": "2026-10-31T19:47:56.971662+00:00",
+   "sources": {
+    "GPblog": "2026-10-31T19:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ocon risks suffering same F1 fate for second time in three years"
+   },
+   "last": "2026-10-31T19:47:56.971681+00:00"
+  },
+  "S3362": {
+   "title": "FIA confirms 50-place grid penalty for Bottas in Mexico",
+   "first": "2026-10-31T19:47:56.971686+00:00",
+   "sources": {
+    "GPFans": "2026-10-31T19:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "FIA confirm 50-place grid penalty for under-pressure F1 star at Mexican Grand Prix"
+   },
+   "last": "2026-10-31T19:47:56.971690+00:00"
   }
  },
- "story_seq": 3360,
+ "story_seq": 3362,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15103,7 +15131,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T19:42:51.692103+00:00",
+ "last_run": "2026-10-31T19:47:54.136951+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
@@ -16658,6 +16686,11 @@
    "t": "2026-10-31T19:33:04.769170+00:00",
    "title": "Jack Doohan, Haas'ta büyük bir fırsatın eşiğinde",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-31T19:48:03.767362+00:00",
+   "title": "Bottas'a Meksika GP'de 50 sıra geriye düşme cezası",
+   "source": "GPFans"
   }
  ]
 }
