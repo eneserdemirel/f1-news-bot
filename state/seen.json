@@ -6242,7 +6242,10 @@
   "713a832e9cf9cf3e": "2026-10-31T15:12:51.478243+00:00",
   "b70dd72e1b5a471f": "2026-10-31T15:12:51.478243+00:00",
   "c9061124e86eb66e": "2026-10-31T15:17:54.960248+00:00",
-  "f17aa565b417a001": "2026-10-31T15:17:54.960248+00:00"
+  "f17aa565b417a001": "2026-10-31T15:17:54.960248+00:00",
+  "59c3b9c31017d502": "2026-10-31T15:22:53.792435+00:00",
+  "8503a819880f3889": "2026-10-31T15:22:53.792435+00:00",
+  "5f829de20dd3a992": "2026-10-31T15:22:53.792435+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6430,45 +6433,6 @@
     "ESPN F1": "Sources: Bears acquire All-Pro DT Jeffery Simmons in trade with Titans"
    },
    "last": "2026-10-30T00:02:24.330083+00:00"
-  },
-  "S2687": {
-   "title": "Dodgers open as 2027 World Series favorites",
-   "first": "2026-10-29T15:21:04.546087+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T14:41:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "World Series odds: Dodgers open as 2027 favorites, just ahead of Brewers"
-   },
-   "last": "2026-10-29T15:21:04.546105+00:00"
-  },
-  "S2688": {
-   "title": "Williams launches W50 fan expo in London",
-   "first": "2026-10-29T15:21:04.546110+00:00",
-   "sources": {
-    "The Race": "2026-10-29T15:18:36+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Williams launches 'W50' expo to celebrate F1 milestone"
-   },
-   "last": "2026-10-29T15:21:04.546115+00:00"
-  },
-  "S2689": {
-   "title": "Verstappen jokes about Antonelli's 2026 mistakes at press conference",
-   "first": "2026-10-29T15:21:04.546119+00:00",
-   "sources": {
-    "GPblog": "2026-10-29T15:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Max Verstappen teases Kimi Antonelli as champion-elect names his biggest mistakes of 2026"
-   },
-   "last": "2026-10-29T15:21:04.546123+00:00"
   },
   "S2690": {
    "title": "Norris's LN4 Fusion team to enter F2 in 2027",
@@ -13429,14 +13393,16 @@
    "title": "Mekies hopes Red Bull fixed Verstappen's radio issues",
    "first": "2026-10-31T06:01:28.306639+00:00",
    "sources": {
-    "GPblog": "2026-10-31T06:00:00+00:00"
+    "GPblog": "2026-10-31T06:00:00+00:00",
+    "RacingNews365 NL": "2026-10-31T15:16:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Mekies hopes Red Bull have finally fixed Verstappen’s radio issues"
+    "GPblog": "Mekies hopes Red Bull have finally fixed Verstappen’s radio issues",
+    "RacingNews365 NL": "Red Bull laat positief geluid horen over opvallend probleem Verstappen"
    },
-   "last": "2026-10-31T06:01:28.306646+00:00"
+   "last": "2026-10-31T15:22:58.573959+00:00"
   },
   "S3194": {
    "title": "Red Bull's Waché explains damage to Verstappen's car after Lawson clash",
@@ -14748,7 +14714,7 @@
    "titles": {
     "ESPN F1": "Pressure piles on Michael Carrick as 10-man Man United lose at Chelsea"
    },
-   "last": "2026-10-31T14:47:21.179114+00:00"
+   "last": "2026-10-31T15:22:58.573937+00:00"
   },
   "S3294": {
    "title": "Ocon withdrawn from Haas for Mexico GP; rookie debuts",
@@ -14931,9 +14897,22 @@
     "The Race": "All the reasons the Ocon-Haas relationship fell apart"
    },
    "last": "2026-10-31T15:17:57.512731+00:00"
+  },
+  "S3306": {
+   "title": "Italian rookies Minì and Fornaroli debut in Mexico FP1",
+   "first": "2026-10-31T15:22:58.573948+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-10-31T15:15:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Minì e Fornaroli, l'Italia protagonista nelle libere in Messico: debutto positivo per Gabriele"
+   },
+   "last": "2026-10-31T15:22:58.573953+00:00"
   }
  },
- "story_seq": 3305,
+ "story_seq": 3306,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15052,22 +15031,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T15:17:54.960248+00:00",
+ "last_run": "2026-10-31T15:22:53.792435+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 15:00",
  "last_digest_at": "2026-10-31T12:02:14.250346+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T15:18:14.658101+00:00",
-   "title": "Russell, Meksika GP'de FP1'i Vesti'ye bırakıyor",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-10-28T15:18:15.102415+00:00",
-   "title": "Cadillac, Bottas'ı belirsizlikte bırakıyor; Perez sözleşmesini uzattı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-28T15:38:10.097173+00:00",
    "title": "Verstappen, ABD GP'deki kötü performansı için \"ortalama\" değerlendirmesi yaptı",
