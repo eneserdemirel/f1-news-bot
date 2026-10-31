@@ -6081,7 +6081,9 @@
   "e8f69637ba9b97b5": "2026-10-31T09:31:26.777568+00:00",
   "27d74167aee9a1d0": "2026-10-31T09:36:28.245938+00:00",
   "bfdeb834fadec9c0": "2026-10-31T09:36:28.245938+00:00",
-  "1e327c8fff860ea9": "2026-10-31T09:36:28.245938+00:00"
+  "1e327c8fff860ea9": "2026-10-31T09:36:28.245938+00:00",
+  "3c6ff66f714e3c8c": "2026-10-31T09:41:23.637226+00:00",
+  "560e587c5efff904": "2026-10-31T09:41:23.637226+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14921,9 +14923,35 @@
     "FormulaPassion": "Telemetria del venerdì del Messico: Ferrari ancora davanti, ma ci sarà da divertirsi"
    },
    "last": "2026-10-31T09:16:26.486855+00:00"
+  },
+  "S3230": {
+   "title": "Queensland vs Victoria Sheffield Shield match report",
+   "first": "2026-10-31T09:41:25.871811+00:00",
+   "sources": {
+    "ESPN F1": "2026-10-31T09:37:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Recent Match Report - Queensland vs Victoria, Sheffield Shield 2026, 9th Match"
+   },
+   "last": "2026-10-31T09:41:25.871830+00:00"
+  },
+  "S3231": {
+   "title": "Norris has plan to shock rivals in Mexico City",
+   "first": "2026-10-31T09:41:25.871836+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T09:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lando Norris plotting execution plan for McLaren to stun F1 rivals"
+   },
+   "last": "2026-10-31T09:41:25.871842+00:00"
   }
  },
- "story_seq": 3229,
+ "story_seq": 3231,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15042,17 +15070,12 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T09:36:28.245938+00:00",
+ "last_run": "2026-10-31T09:41:23.637226+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
  "last_digest_at": "2026-10-30T19:00:07.214619+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-28T09:37:25.154328+00:00",
-   "title": "Ferrari'nin Austin'deki yükseltme paketinde neler var?",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-28T09:57:20.210405+00:00",
    "title": "Aston Martin, Honda ortaklığının süreceğini açıkladı",
@@ -16672,6 +16695,11 @@
    "t": "2026-10-31T09:01:35.685445+00:00",
    "title": "Vettel, dünya şampiyonluğunu neredeyse kaybettiren Horner çağrısını anlattı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-10-31T09:41:30.588166+00:00",
+   "title": "Norris, McLaren'ın Meksika GP'de rakipleri şaşırtmak için icra planı kuruyor",
+   "source": "RacingNews365"
   }
  ]
 }
