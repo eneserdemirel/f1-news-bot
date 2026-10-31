@@ -6064,7 +6064,9 @@
   "0968c436c04c4377": "2026-10-31T08:46:24.616447+00:00",
   "e529dd23d413b7b6": "2026-10-31T08:46:24.616447+00:00",
   "6f8d22626516bc64": "2026-10-31T08:56:24.368391+00:00",
-  "971557c9cb561f3a": "2026-10-31T08:56:24.368391+00:00"
+  "971557c9cb561f3a": "2026-10-31T08:56:24.368391+00:00",
+  "4da0516416b57112": "2026-10-31T09:01:27.304602+00:00",
+  "dcecb9715a1a8d14": "2026-10-31T09:01:27.304602+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6213,21 +6215,6 @@
    },
    "last": "2026-10-29T13:10:58.041933+00:00"
   },
-  "S2546": {
-   "title": "Mexico City Grand Prix start time published",
-   "first": "2026-10-29T05:09:20.847399+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-29T05:00:00+00:00",
-    "RacingNews365 NL": "2026-10-29T08:53:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "2026 F1 Mexican Grand Prix - Mexico City start time",
-    "RacingNews365 NL": "Hoe laat begint de F1 GP Mexico 2026?"
-   },
-   "last": "2026-10-29T09:00:07.809681+00:00"
-  },
   "S2556": {
    "title": "Iraola says Bournemouth is the only Carabao Cup draw he doesn't want",
    "first": "2026-10-29T06:40:06.346919+00:00",
@@ -6285,45 +6272,6 @@
     "ESPN F1": "Voll stars with ball to set up Sydney Thunder victory"
    },
    "last": "2026-10-29T09:20:04.640282+00:00"
-  },
-  "S2586": {
-   "title": "Rays reflect on season despite World Series loss",
-   "first": "2026-10-29T09:00:07.809634+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T07:57:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rays proud of expectation-defying season despite World Series loss"
-   },
-   "last": "2026-10-29T09:00:07.809653+00:00"
-  },
-  "S2587": {
-   "title": "ES Tunis vs Wiliete live score",
-   "first": "2026-10-29T09:00:07.809659+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-29T07:00:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "ES Tunis vs. Wiliete (27 Nov, 2026) Live Score"
-   },
-   "last": "2026-10-29T09:00:07.809665+00:00"
-  },
-  "S2588": {
-   "title": "Marko says Red Bull's comeback is something only it can achieve",
-   "first": "2026-10-29T09:00:07.809669+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-29T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Helmut Marko spies something 'only Red Bull can achieve' in F1"
-   },
-   "last": "2026-10-29T09:00:07.809674+00:00"
   },
   "S2589": {
    "title": "Doubts raised over whether MotoGP Qatar race can go ahead",
@@ -15000,9 +14948,35 @@
     "RacingNews365": "George Russell details fresh F1 target as title hopes dashed"
    },
    "last": "2026-10-31T08:56:27.153939+00:00"
+  },
+  "S3225": {
+   "title": "Vettel recalls Horner call that nearly cost him 2010 title",
+   "first": "2026-10-31T09:01:30.067825+00:00",
+   "sources": {
+    "GPFans": "2026-10-31T08:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Sebastian Vettel reveals the Christian Horner call that nearly lost him the F1 world title"
+   },
+   "last": "2026-10-31T09:01:30.067850+00:00"
+  },
+  "S3226": {
+   "title": "Gazzetta video highlights of Mexico GP free practice (no content)",
+   "first": "2026-10-31T09:01:30.067856+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-10-31T08:55:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "F1, GP Messico: highlights prove libere"
+   },
+   "last": "2026-10-31T09:01:30.067862+00:00"
   }
  },
- "story_seq": 3224,
+ "story_seq": 3226,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15121,7 +15095,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T08:56:24.368391+00:00",
+ "last_run": "2026-10-31T09:01:27.304602+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16766,6 +16740,11 @@
    "t": "2026-10-31T08:56:32.621792+00:00",
    "title": "Russell, şampiyonluk umutları sönerken yeni hedefini açıkladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-10-31T09:01:35.685445+00:00",
+   "title": "Vettel, dünya şampiyonluğunu neredeyse kaybettiren Horner çağrısını anlattı",
+   "source": "GPFans"
   }
  ]
 }
