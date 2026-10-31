@@ -6062,7 +6062,9 @@
   "3a3c90e5b90e4fc8": "2026-10-31T08:41:30.770513+00:00",
   "8ed98c0888e373ae": "2026-10-31T08:41:30.770513+00:00",
   "0968c436c04c4377": "2026-10-31T08:46:24.616447+00:00",
-  "e529dd23d413b7b6": "2026-10-31T08:46:24.616447+00:00"
+  "e529dd23d413b7b6": "2026-10-31T08:46:24.616447+00:00",
+  "6f8d22626516bc64": "2026-10-31T08:56:24.368391+00:00",
+  "971557c9cb561f3a": "2026-10-31T08:56:24.368391+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13182,7 +13184,8 @@
     "Motorsport-Total": "2026-10-31T03:34:54+00:00",
     "PlanetF1": "2026-10-31T06:34:40+00:00",
     "RacingNews365": "2026-10-31T07:10:00+00:00",
-    "RacingNews365 NL": "2026-10-31T07:10:00+00:00"
+    "RacingNews365 NL": "2026-10-31T07:10:00+00:00",
+    "GPblog": "2026-10-31T08:51:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13193,9 +13196,10 @@
     "Motorsport-Total": "Fan im Paddock zur Seite geschubst: Isack Hadjar droht in Mexiko eine Strafe! - Motorsport-Total.com",
     "PlanetF1": "Isack Hadjar summoned by FIA stewards over alleged Mexican GP paddock misconduct",
     "RacingNews365": "Isack Hadjar summoned by F1 stewards over alleged paddock misconduct",
-    "RacingNews365 NL": "Hadjar onder vergrootglas na 'wangedrag' in Mexicaanse paddock"
+    "RacingNews365 NL": "Hadjar onder vergrootglas na 'wangedrag' in Mexicaanse paddock",
+    "GPblog": "Hadjar must report to the FIA stewards after pushing a fan away in Mexico"
    },
-   "last": "2026-10-31T07:21:27.574443+00:00"
+   "last": "2026-10-31T08:56:27.153949+00:00"
   },
   "S3095": {
    "title": "Kane beats Mbappé in 2026 Ballon d'Or by narrow margin",
@@ -14983,9 +14987,22 @@
     "PlanetF1": "Max Verstappen reveals ‘only thing that we want’ from F1 2026 battle"
    },
    "last": "2026-10-31T08:46:28.049531+00:00"
+  },
+  "S3224": {
+   "title": "Russell details new F1 target after title hopes fade",
+   "first": "2026-10-31T08:56:27.153922+00:00",
+   "sources": {
+    "RacingNews365": "2026-10-31T08:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "George Russell details fresh F1 target as title hopes dashed"
+   },
+   "last": "2026-10-31T08:56:27.153939+00:00"
   }
  },
- "story_seq": 3223,
+ "story_seq": 3224,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15104,7 +15121,7 @@
   ]
  ],
  "calendar_updated": "2026-10-30T22:24:59.385240+00:00",
- "last_run": "2026-10-31T08:51:27.191398+00:00",
+ "last_run": "2026-10-31T08:56:24.368391+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-30 22:00",
@@ -16744,6 +16761,11 @@
    "t": "2026-10-31T08:46:34.125566+00:00",
    "title": "Verstappen'in 2026 sezonu hedefi: Red Bull'un üçüncülüğü",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-10-31T08:56:32.621792+00:00",
+   "title": "Russell, şampiyonluk umutları sönerken yeni hedefini açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
