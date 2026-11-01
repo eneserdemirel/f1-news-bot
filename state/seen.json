@@ -6935,7 +6935,8 @@
   "8a3c6c023597a997": "2026-11-01T15:00:35.631479+00:00",
   "fd8e3457f8766cb2": "2026-11-01T15:05:34.265798+00:00",
   "4c8fc95757b92c2b": "2026-11-01T15:05:34.265798+00:00",
-  "0800bb911b990811": "2026-11-01T15:05:34.265798+00:00"
+  "0800bb911b990811": "2026-11-01T15:05:34.265798+00:00",
+  "4ede9f22ad954722": "2026-11-01T15:15:41.842739+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7252,45 +7253,6 @@
     "Gazzetta dello Sport": "Quanti volti nuovi nelle libere 1 in Messico: l'Italia tifa per Fornaroli e Minì"
    },
    "last": "2026-10-30T18:45:17.048752+00:00"
-  },
-  "S3000": {
-   "title": "Quinshon Judkins' draft stock after two-TD game",
-   "first": "2026-10-30T15:14:34.942643+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T14:53:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why Quinshon Judkins' stock may be down despite 2-TD performance"
-   },
-   "last": "2026-10-30T15:14:34.942662+00:00"
-  },
-  "S3001": {
-   "title": "UCF and Air Force space-themed uniforms ranked",
-   "first": "2026-10-30T15:14:34.942668+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T14:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UCF's, Air Force's space-themed threads lead best uniforms of CFB Week 9"
-   },
-   "last": "2026-10-30T15:14:34.942674+00:00"
-  },
-  "S3002": {
-   "title": "Russell explains why new F1 rules don't suit him",
-   "first": "2026-10-30T15:14:34.942678+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-30T15:11:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "George Russell erklärt: Warum ihm die neue Formel 1 nicht liegt - Motorsport-Total.com"
-   },
-   "last": "2026-10-30T15:14:34.942692+00:00"
   },
   "S3003": {
    "title": "NCAA loses Kentucky appeal; players remain eligible",
@@ -16847,9 +16809,22 @@
     "GPblog": "Jenson Button delivers stinging verdict on Esteban Ocon's F1 career following Haas bust up"
    },
    "last": "2026-11-01T15:05:39.131381+00:00"
+  },
+  "S3691": {
+   "title": "Arvid Lindblad laments qualifying eighth at Mexico GP",
+   "first": "2026-11-01T15:15:43.606482+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-01T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Arvid Lindblad laments ‘pretty bad’ F1 qualifying at Mexican GP"
+   },
+   "last": "2026-11-01T15:15:43.606503+00:00"
   }
  },
- "story_seq": 3690,
+ "story_seq": 3691,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16968,22 +16943,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T15:10:35.206872+00:00",
+ "last_run": "2026-11-01T15:15:41.842739+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
  "last_digest_at": "2026-11-01T12:00:11.773486+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T15:11:09.493464+00:00",
-   "title": "Leclerc, Schumacher'in rekorlarını kovalıyor",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-10-29T15:11:10.026084+00:00",
-   "title": "Konstrüktörler şampiyonası tek pilotla: Verstappen'den meydan okuma",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-29T15:21:11.026226+00:00",
    "title": "Antonelli'nin 2026'daki en büyük hataları: Verstappen'den şaka",
@@ -18558,6 +18523,11 @@
    "t": "2026-11-01T15:05:45.646047+00:00",
    "title": "Button, Ocon'un F1 kariyerini tehlikeye atmış olabileceğini söyledi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T15:15:47.552164+00:00",
+   "title": "Arvid Lindblad, Meksika GP sıralamasından memnun değil",
+   "source": "Motorsport Week"
   }
  ]
 }
