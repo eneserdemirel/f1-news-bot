@@ -6962,7 +6962,9 @@
   "10d5874858e6ad4c": "2026-11-01T16:35:36.457208+00:00",
   "b58a95c1b62733e8": "2026-11-01T16:35:36.457208+00:00",
   "20c32df5011fe935": "2026-11-01T16:40:35.854486+00:00",
-  "a4711080a12e1d17": "2026-11-01T16:40:35.854486+00:00"
+  "a4711080a12e1d17": "2026-11-01T16:40:35.854486+00:00",
+  "85edf242aa48d515": "2026-11-01T16:45:39.663986+00:00",
+  "9b60e6aea9a67b7b": "2026-11-01T16:45:39.663986+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7246,19 +7248,6 @@
     "Motorsport Week": "Sergio Perez pulls of out F1 Mexico GP fan event due to illness"
    },
    "last": "2026-10-30T18:20:15.468681+00:00"
-  },
-  "S3025": {
-   "title": "Leclerc says Ferrari's SF-26 is sensitive ahead of Mexico",
-   "first": "2026-10-30T16:44:36.059034+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-30T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Charles Leclerc concerned about ‘sensitive’ Ferrari in Mexico"
-   },
-   "last": "2026-10-30T16:44:36.059054+00:00"
   },
   "S3026": {
    "title": "Alonso warns rivals' careers at risk over driver criticism",
@@ -16685,9 +16674,35 @@
     "ESPN F1": "2024 champ Sheila Chepkirui, debuting Andreas Almgren claim NYC Marathon wins"
    },
    "last": "2026-11-01T16:40:37.858988+00:00"
+  },
+  "S3704": {
+   "title": "Liverpool vs Arsenal (Nov 1, 2026) team stats",
+   "first": "2026-11-01T16:45:42.848795+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T16:42:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Liverpool vs. Arsenal (Nov 1, 2026) Team Stats"
+   },
+   "last": "2026-11-01T16:45:42.848815+00:00"
+  },
+  "S3705": {
+   "title": "Bearman reacts to Haas Ocon decision as 'really tough situation'",
+   "first": "2026-11-01T16:45:42.848819+00:00",
+   "sources": {
+    "Crash.net": "2026-11-01T16:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Ollie Bearman reacts to Haas' shock Esteban Ocon decision: 'A really tough situation'"
+   },
+   "last": "2026-11-01T16:45:42.848823+00:00"
   }
  },
- "story_seq": 3703,
+ "story_seq": 3705,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16806,17 +16821,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T16:40:35.854486+00:00",
+ "last_run": "2026-11-01T16:45:39.663986+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
  "last_digest_at": "2026-11-01T12:00:11.773486+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T16:41:38.870865+00:00",
-   "title": "Antonelli Meksika'da ilk gününü hastalıkla geçirdi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-29T16:51:39.233131+00:00",
    "title": "Antonelli rahatsızlık nedeniyle Meksika'da medya gününe katılmayacak",
