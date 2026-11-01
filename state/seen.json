@@ -6681,7 +6681,9 @@
   "ecd06ec29f39070a": "2026-11-01T03:09:26.748174+00:00",
   "c16761980d71214b": "2026-11-01T03:14:24.901620+00:00",
   "51dfe78f000078bc": "2026-11-01T03:24:27.178133+00:00",
-  "ec904f490bc8ddf3": "2026-11-01T03:24:27.178133+00:00"
+  "ec904f490bc8ddf3": "2026-11-01T03:24:27.178133+00:00",
+  "54896934ab051a3d": "2026-11-01T03:29:23.576107+00:00",
+  "ba1b3291fcf2a0a6": "2026-11-01T03:29:23.576107+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16387,7 +16389,8 @@
     "RacingNews365 NL": "2026-11-01T01:22:00+00:00",
     "RacingNews365": "2026-11-01T01:30:00+00:00",
     "PlanetF1": "2026-11-01T01:29:44+00:00",
-    "Autosport": "2026-11-01T01:54:48+00:00"
+    "Autosport": "2026-11-01T01:54:48+00:00",
+    "Crash.net": "2026-11-01T03:05:14+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16395,9 +16398,10 @@
     "RacingNews365 NL": "Aangepaste uitslag kwalificatie F1 GP Mexico 2026",
     "RacingNews365": "Liam Lawson disqualified as Esteban Ocon breaks silence after axing – RacingNews365 Review",
     "PlanetF1": "Liam Lawson disqualified from qualifying after FIA investigation",
-    "Autosport": "Lawson disqualified from F1 qualifying in Mexico – here's why"
+    "Autosport": "Lawson disqualified from F1 qualifying in Mexico – here's why",
+    "Crash.net": "Liam Lawson disqualified from Mexico GP qualifying after penalty for Max Verstappen incident"
    },
-   "last": "2026-11-01T01:59:34.167319+00:00"
+   "last": "2026-11-01T03:29:26.258293+00:00"
   },
   "S3532": {
    "title": "Ole Miss second-half performance seen as stretch-run blueprint",
@@ -16801,9 +16805,22 @@
     "ESPN F1": "Sidney Crosby nets goal for Penguins"
    },
    "last": "2026-11-01T03:24:29.615041+00:00"
+  },
+  "S3563": {
+   "title": "Lamar vs UT Rio Grande Valley college football highlights",
+   "first": "2026-11-01T03:29:26.258267+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T03:19:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lamar Cardinals vs. UT Rio Grande Valley Vaqueros: Full Highlights"
+   },
+   "last": "2026-11-01T03:29:26.258285+00:00"
   }
  },
- "story_seq": 3562,
+ "story_seq": 3563,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16922,7 +16939,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T03:24:27.178133+00:00",
+ "last_run": "2026-11-01T03:29:23.576107+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
