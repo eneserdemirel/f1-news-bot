@@ -6898,7 +6898,8 @@
   "7cb27b1ff1ff6845": "2026-11-01T13:35:33.515966+00:00",
   "f6a379b2d71029ed": "2026-11-01T13:40:35.685554+00:00",
   "b6fae162b08af08e": "2026-11-01T13:45:34.990216+00:00",
-  "384cd0122ec60f62": "2026-11-01T13:45:34.990216+00:00"
+  "384cd0122ec60f62": "2026-11-01T13:45:34.990216+00:00",
+  "b98ae21ecd41a8b4": "2026-11-01T13:50:38.914445+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6986,29 +6987,6 @@
     "Autosport": "Hamilton on why he is “built differently” to stay in F1 for the “foreseeable future”"
    },
    "last": "2026-10-30T16:34:38.050791+00:00"
-  },
-  "S2808": {
-   "title": "Verstappen responds to Ricciardo's Le Mans reunion idea",
-   "first": "2026-10-29T23:02:21.936691+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-29T22:48:00+00:00",
-    "Crash.net": "2026-10-29T23:01:44+00:00",
-    "Motorsport-Total": "2026-10-30T05:00:04+00:00",
-    "RacingNews365 NL": "2026-10-30T06:00:00+00:00",
-    "GPblog": "2026-10-30T09:15:00+00:00",
-    "Motorsport Week": "2026-10-30T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen responds to Daniel Ricciardo Le Mans tilt: 'He's a smart man'",
-    "Crash.net": "Max Verstappen answers Daniel Ricciardo’s Le Mans 24 Hours dream team wish",
-    "Motorsport-Total": "Mit Max Verstappen und Sebastian Vettel? Ricciardo will nach Le Mans - Motorsport-Total.com",
-    "RacingNews365 NL": "Verstappen reageert gevat op droom Ricciardo: \"Hij is een slimme gast!\"",
-    "GPblog": "Verstappen answers Ricciardo's Le Mans comeback plan: 'He's a smart man to choose me'",
-    "Motorsport Week": "Max Verstappen open to Le Mans partnership with ex-teammate"
-   },
-   "last": "2026-10-30T13:49:30.545410+00:00"
   },
   "S2814": {
    "title": "Verstappen says he doesn't care about Drivers' Championship",
@@ -7209,19 +7187,6 @@
     "Sky Sports F1": "Mexico City GP: Antonelli fit to drive in practice after 'viral illness' LIVE!"
    },
    "last": "2026-10-30T17:54:37.752124+00:00"
-  },
-  "S2972": {
-   "title": "Antonelli among lowest-paid drivers; Mercedes title bonus to change that",
-   "first": "2026-10-30T13:49:30.545380+00:00",
-   "sources": {
-    "GPblog": "2026-10-30T13:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "F1's champion-elect is one of its lowest-paid drivers, but a Mercedes title bonus will change that"
-   },
-   "last": "2026-10-30T13:49:30.545400+00:00"
   },
   "S2973": {
    "title": "ESPN way-too-early 2027 fantasy baseball rankings",
@@ -16896,9 +16861,22 @@
     "PlanetF1": "Williams boss disputes Fernando Alonso’s claim over quality of F1 grid"
    },
    "last": "2026-11-01T13:45:37.009070+00:00"
+  },
+  "S3669": {
+   "title": "Hamilton says he isn't slower at 40, arrived a day early",
+   "first": "2026-11-01T13:50:41.403552+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-01T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton: “A 40 anni si è più lenti? Io non sono fatto come gli altri. Questo è solo l’inizio”"
+   },
+   "last": "2026-11-01T13:50:41.403573+00:00"
   }
  },
- "story_seq": 3668,
+ "story_seq": 3669,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17017,7 +16995,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T13:45:34.990216+00:00",
+ "last_run": "2026-11-01T13:50:38.914445+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18612,6 +18590,11 @@
    "t": "2026-11-01T13:45:41.120646+00:00",
    "title": "Vowles, Alonso'nun F1 grid kalitesi eleştirisine karşı çıktı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-01T13:50:45.602557+00:00",
+   "title": "Hamilton: 40 yaşında da hızlıyım, bu sadece başlangıç",
+   "source": "FormulaPassion"
   }
  ]
 }
