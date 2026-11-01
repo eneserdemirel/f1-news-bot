@@ -6955,7 +6955,10 @@
   "7ed8c54b08679437": "2026-11-01T16:10:35.248450+00:00",
   "6a8617ee510eaf4c": "2026-11-01T16:10:35.248450+00:00",
   "a2a4e29415daea0f": "2026-11-01T16:15:34.143353+00:00",
-  "f0fdf55db7c05583": "2026-11-01T16:20:35.668940+00:00"
+  "f0fdf55db7c05583": "2026-11-01T16:20:35.668940+00:00",
+  "4e98b3e6ccfa75bf": "2026-11-01T16:30:36.835359+00:00",
+  "f83fce7871da16fa": "2026-11-01T16:30:36.835359+00:00",
+  "f8aa14544f7a76b6": "2026-11-01T16:30:36.835359+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15500,14 +15503,16 @@
    "title": "Weather update for Mexico GP",
    "first": "2026-11-01T11:36:17.095986+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-01T09:50:00+00:00"
+    "RacingNews365 NL": "2026-11-01T09:50:00+00:00",
+    "RacingNews365": "2026-11-01T16:30:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Laatste weerupdate Formule 1 GP Mexico 2026"
+    "RacingNews365 NL": "Laatste weerupdate Formule 1 GP Mexico 2026",
+    "RacingNews365": "Latest weather update for the 2026 Formula 1 Mexico City Grand Prix"
    },
-   "last": "2026-11-01T11:36:17.095988+00:00"
+   "last": "2026-11-01T16:30:39.422428+00:00"
   },
   "S3609": {
    "title": "Verstappen explains illness precautions in Mexico",
@@ -16703,9 +16708,22 @@
     "Motorsport-Total": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten - Motorsport-Total.com"
    },
    "last": "2026-11-01T16:05:36.930677+00:00"
+  },
+  "S3700": {
+   "title": "Monaco vs Nordsjælland odds and spread preview",
+   "first": "2026-11-01T16:30:39.422400+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T16:27:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Monaco vs. Nordsjælland (Nov 5, 2026) Odds and Spread"
+   },
+   "last": "2026-11-01T16:30:39.422421+00:00"
   }
  },
- "story_seq": 3699,
+ "story_seq": 3700,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16824,7 +16842,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T16:25:33.131650+00:00",
+ "last_run": "2026-11-01T16:30:36.835359+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18394,6 +18412,11 @@
    "t": "2026-11-01T16:05:43.882635+00:00",
    "title": "Bottas Formula 1 geleceğine inanıyor ama Cadillac onu bekletiyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-01T16:30:44.687070+00:00",
+   "title": "2026 Meksika City Grand Prix'si için hava durumu güncellemesi",
+   "source": "RacingNews365"
   }
  ]
 }
