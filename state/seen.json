@@ -6930,7 +6930,9 @@
   "224dda6c25920d47": "2026-11-01T14:45:54.280498+00:00",
   "c8eb53243d57d88f": "2026-11-01T14:45:54.280498+00:00",
   "8493a0c7ce11e6e5": "2026-11-01T14:45:54.280498+00:00",
-  "afd13ccd32efbd9d": "2026-11-01T14:45:54.280498+00:00"
+  "afd13ccd32efbd9d": "2026-11-01T14:45:54.280498+00:00",
+  "473b2e80c09e4ca2": "2026-11-01T15:00:35.631479+00:00",
+  "8a3c6c023597a997": "2026-11-01T15:00:35.631479+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16340,14 +16342,16 @@
    "title": "Verstappen doubts his Mexico start after grid penalty and FP2 contact",
    "first": "2026-11-01T12:40:39.098309+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-01T12:35:00+00:00"
+    "RacingNews365 NL": "2026-11-01T12:35:00+00:00",
+    "Motorsport-Total": "2026-11-01T14:58:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Verstappen twijfelt over start in Mexico: \"Niet echt, om eerlijk te zijn\""
+    "RacingNews365 NL": "Verstappen twijfelt over start in Mexico: \"Niet echt, om eerlijk te zijn\"",
+    "Motorsport-Total": "Verstappen fürchtet Start in Mexiko und scherzt: \"Le-Mans-Start genauso schnell\" - Motorsport-Total.com"
    },
-   "last": "2026-11-01T12:40:39.098330+00:00"
+   "last": "2026-11-01T15:00:39.246791+00:00"
   },
   "S3649": {
    "title": "Caleb Williams won't 'spat' custom cleats out of principle",
@@ -16842,9 +16846,22 @@
     "Motorsport.com Italia": "Carrera Cup Italia | Mugello: gara 2 ha ancora tanto da decidere..."
    },
    "last": "2026-11-01T14:45:57.202096+00:00"
+  },
+  "S3687": {
+   "title": "Calum Nicholas defends Hadjar over Mexico fan incident",
+   "first": "2026-11-01T15:00:39.246763+00:00",
+   "sources": {
+    "GPFans": "2026-11-01T14:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Red Bull legend slams Isack Hadjar fan incident: ‘This isn’t a petting zoo’"
+   },
+   "last": "2026-11-01T15:00:39.246784+00:00"
   }
  },
- "story_seq": 3686,
+ "story_seq": 3687,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16963,7 +16980,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T14:55:33.501351+00:00",
+ "last_run": "2026-11-01T15:00:35.631479+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18543,6 +18560,11 @@
    "t": "2026-11-01T14:41:08.426103+00:00",
    "title": "Ocon, Haas'ta yedek kaldı: 'Bu beni hayal kırıklığına uğratıyor'",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T15:00:44.117616+00:00",
+   "title": "Calum Nicholas, Hadjar'ın hayran olayını savundu",
+   "source": "GPFans"
   }
  ]
 }
