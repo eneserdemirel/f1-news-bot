@@ -6786,7 +6786,12 @@
   "4f8cf744eaf790b2": "2026-11-01T20:41:09.999462+00:00",
   "67ada257db855a02": "2026-11-01T20:41:09.999462+00:00",
   "6a2335a7209b6ca9": "2026-11-01T20:46:06.705602+00:00",
-  "f07b0b1e8338479f": "2026-11-01T20:46:06.705602+00:00"
+  "f07b0b1e8338479f": "2026-11-01T20:46:06.705602+00:00",
+  "6c40d2cce8ef630d": "2026-11-01T20:51:08.700844+00:00",
+  "c0ac36a32a1ab7c8": "2026-11-01T20:51:08.700844+00:00",
+  "f8ddafb58bd19f50": "2026-11-01T20:51:08.700844+00:00",
+  "73b1acf9e9ebada4": "2026-11-01T20:51:08.700844+00:00",
+  "49653dfec18b4713": "2026-11-01T20:51:08.700844+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6978,32 +6983,6 @@
     "ESPN F1": "North Carolina lands Demarcus Henry, their highest-ranked recruit since '19"
    },
    "last": "2026-10-30T21:00:10.234285+00:00"
-  },
-  "S3084": {
-   "title": "Ferrari pushes for technical answers in Mexico FP1, Antonelli close behind",
-   "first": "2026-10-30T20:50:10.955878+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-30T20:32:17+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Messico, Ferrari parte spingendo per cercare risposte tecniche. Antonelli è subito dietro"
-   },
-   "last": "2026-10-30T20:50:10.955896+00:00"
-  },
-  "S3085": {
-   "title": "Verstappen avoids fitness trackers like Garmin and Apple Watch",
-   "first": "2026-10-30T20:50:10.955902+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-30T20:44:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Keine Garmin oder Apple Watch: Darum meidet Verstappen Fitnesstracker - Motorsport-Total.com"
-   },
-   "last": "2026-10-30T20:50:10.955908+00:00"
   },
   "S3086": {
    "title": "Hakimi scores first career hat trick as PSG win",
@@ -16073,14 +16052,14 @@
    "title": "UCLA into top 5, Ohio State out of top 10, New Mexico AP ranking",
    "first": "2026-11-01T19:11:11.387036+00:00",
    "sources": {
-    "ESPN F1": "2026-11-01T19:10:32+00:00"
+    "ESPN F1": "2026-11-01T19:02:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "UCLA into top 5, Ohio State out of top 10, New Mexico earns first AP ranking"
    },
-   "last": "2026-11-01T19:11:11.387042+00:00"
+   "last": "2026-11-01T20:51:14.303455+00:00"
   },
   "S3739": {
    "title": "F1 stays determined to finish 2026 season in Qatar and Abu Dhabi",
@@ -16341,16 +16320,18 @@
    "sources": {
     "GPblog": "2026-11-01T20:21:00+00:00",
     "RacingNews365": "2026-11-01T20:33:00+00:00",
-    "FormulaPassion": "2026-11-01T20:25:00+00:00"
+    "FormulaPassion": "2026-11-01T20:25:00+00:00",
+    "Sky Sports F1": "2026-11-01T20:07:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "FIA delivers verdict after Hamilton and Leclerc's explosive Ferrari battle",
     "RacingNews365": "Charles Leclerc hit with penalty after Mexico City GP clash with Lewis Hamilton",
-    "FormulaPassion": "Leclerc supera Hamilton con taglio di pista: 5 secondi di penalità"
+    "FormulaPassion": "Leclerc supera Hamilton con taglio di pista: 5 secondi di penalità",
+    "Sky Sports F1": "CHAOS on opening lap as Leclerc gets penalty after overtaking Hamilton"
    },
-   "last": "2026-11-01T20:46:09.317355+00:00"
+   "last": "2026-11-01T20:51:14.303461+00:00"
   },
   "S3759": {
    "title": "Boston College vs. Louisville college football game highlights",
@@ -16377,9 +16358,37 @@
     "ESPN F1": "Betsy Huckaby scores goal for Louisville"
    },
    "last": "2026-11-01T20:46:09.317346+00:00"
+  },
+  "S3761": {
+   "title": "Arteta says Arsenal loved the mission at Anfield",
+   "first": "2026-11-01T20:51:14.303427+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T19:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arteta says Arsenal 'loved the mission' in first Anfield win since 2012"
+   },
+   "last": "2026-11-01T20:51:14.303445+00:00"
+  },
+  "S3762": {
+   "title": "Hamilton radio criticises stewards over Leclerc penalty",
+   "first": "2026-11-01T20:51:14.303466+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T20:45:00+00:00",
+    "Corriere dello Sport": "2026-11-01T20:46:29+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton unleashes furious team radio as Ferrari tensions erupt in Mexico",
+    "Corriere dello Sport": "Hamilton al veleno contro Leclerc via radio: \"Gli stanno regalando la vittoria!\""
+   },
+   "last": "2026-11-01T20:51:14.303476+00:00"
   }
  },
- "story_seq": 3760,
+ "story_seq": 3762,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16498,7 +16507,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T20:46:06.705602+00:00",
+ "last_run": "2026-11-01T20:51:08.700844+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18037,6 +18046,11 @@
   {
    "t": "2026-11-01T20:26:17.088847+00:00",
    "title": "Russell'a Hadjar ile çarpışması nedeniyle 10 saniye ceza",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T20:51:18.036648+00:00",
+   "title": "Hamilton, Meksika GP'de Ferrari gerilimi sırasında telsiz telsizde öfkesini dile getirdi",
    "source": "GPblog"
   }
  ]
