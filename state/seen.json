@@ -7012,7 +7012,8 @@
   "5f185158577b5f99": "2026-11-01T18:21:06.278061+00:00",
   "0c701a4f5e1365a3": "2026-11-01T18:21:06.278061+00:00",
   "75a39675710ae16d": "2026-11-01T18:21:06.278061+00:00",
-  "ff0b75f402ea7eac": "2026-11-01T18:31:06.417752+00:00"
+  "ff0b75f402ea7eac": "2026-11-01T18:31:06.417752+00:00",
+  "0be1aa9f6015578b": "2026-11-01T18:36:07.387192+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7034,25 +7035,6 @@
  },
  "last_alert": "2026-11-01T09:15:07.353713+00:00",
  "stories": {
-  "S2774": {
-   "title": "Leclerc says Ferrari is not the favourite for Mexico GP",
-   "first": "2026-10-29T21:01:33.416918+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-29T21:00:00+00:00",
-    "Formula 1": "2026-10-29T22:12:26.445477+00:00",
-    "FormulaPassion": "2026-10-30T07:00:00+00:00",
-    "Motorsport Week": "2026-10-30T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Leclerc weerspreekt favorietenrol Ferrari in Mexico",
-    "Formula 1": "Leclerc assesses Ferrari's chances in Mexico City Grand Prix",
-    "FormulaPassion": "Leclerc: “Noi favoriti in Messico? Non sono d’accordo anche se il trend è positivo”",
-    "Motorsport Week": "Charles Leclerc bats away George Russell’s Ferrari Mexico favourites claim"
-   },
-   "last": "2026-10-30T18:35:12.135767+00:00"
-  },
   "S2869": {
    "title": "Ja Morant exits Trail Blazers game with hamstring injury",
    "first": "2026-10-30T05:43:00.636334+00:00",
@@ -7065,21 +7047,6 @@
     "ESPN F1": "Trail Blazers' Ja Morant exits first game vs. Grizzlies with hamstring injury"
    },
    "last": "2026-10-30T21:30:16.911737+00:00"
-  },
-  "S2894": {
-   "title": "Verstappen reveals preference between Wolff and Mekies as team principal",
-   "first": "2026-10-30T07:53:44.000585+00:00",
-   "sources": {
-    "PlanetF1": "2026-10-30T07:44:16+00:00",
-    "GPblog": "2026-10-30T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Wolff or Mekies? Max Verstappen reveals his choice for team principal",
-    "GPblog": "Verstappen makes his choice in Wolff vs Mekies debate with firm response"
-   },
-   "last": "2026-10-30T18:35:12.135773+00:00"
   },
   "S2902": {
    "title": "Audi's Beat Zehnder to leave F1 team at end of year",
@@ -7155,19 +7122,6 @@
    },
    "last": "2026-10-30T18:55:13.210114+00:00"
   },
-  "S3033": {
-   "title": "Gazzetta feature on secrets of Mexico's Hermanos Rodriguez circuit",
-   "first": "2026-10-30T17:14:38.681037+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-30T17:05:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "F1 in Messico, i segreti della pista Hermanos Rodriguez"
-   },
-   "last": "2026-10-30T18:35:12.135780+00:00"
-  },
   "S3045": {
    "title": "Beat Luke Littler live updates from Manchester darts event",
    "first": "2026-10-30T18:30:12.350137+00:00",
@@ -7208,19 +7162,6 @@
     "ESPN F1": "Lamar Jackson expected to play as Ravens QB calls ankle pain 'bearable'"
    },
    "last": "2026-10-30T20:20:13.296971+00:00"
-  },
-  "S3048": {
-   "title": "Abha vs. Al Shabab live football score",
-   "first": "2026-10-30T18:35:12.135755+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T18:32:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Abha vs. Al Shabab (Nov 5, 2026) Live Score"
-   },
-   "last": "2026-10-30T18:35:12.135760+00:00"
   },
   "S3049": {
    "title": "Chelsea's Bompastor on WSL squad rotation",
@@ -16743,9 +16684,22 @@
     "RacingNews365": "Lewis Hamilton handed vote of confidence ahead of Mexico City GP"
    },
    "last": "2026-11-01T18:31:09.103554+00:00"
+  },
+  "S3733": {
+   "title": "Premier League live updates: Arsenal lead Liverpool at Anfield",
+   "first": "2026-11-01T18:36:08.969655+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T18:24:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Premier League live updates: Arsenal lead Liverpool at Anfield"
+   },
+   "last": "2026-11-01T18:36:08.969676+00:00"
   }
  },
- "story_seq": 3732,
+ "story_seq": 3733,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16864,17 +16818,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T18:31:06.417752+00:00",
+ "last_run": "2026-11-01T18:36:07.387192+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
  "last_digest_at": "2026-11-01T12:00:11.773486+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T18:31:34.096185+00:00",
-   "title": "Ricciardo: Antonelli'yi bu \"süper güç\" bu kadar güçlü yapıyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-29T18:41:37.079019+00:00",
    "title": "Perez, Meksika GP'deki 300. yarışı öncesi 'acı verici' olacağı uyarısında bulundu",
