@@ -6970,7 +6970,10 @@
   "96a5d39e8e96d227": "2026-11-01T16:55:35.560588+00:00",
   "9e59e8e7ab4ce5fb": "2026-11-01T17:00:34.400107+00:00",
   "150e77ef3f4a74ed": "2026-11-01T17:00:34.400107+00:00",
-  "d37800e2ee9d971f": "2026-11-01T17:00:34.400107+00:00"
+  "d37800e2ee9d971f": "2026-11-01T17:00:34.400107+00:00",
+  "a754f84fbc2ecff5": "2026-11-01T17:05:36.678577+00:00",
+  "cde6a6719c113879": "2026-11-01T17:05:36.678577+00:00",
+  "f0f1c015756b7341": "2026-11-01T17:05:36.678577+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7237,19 +7240,6 @@
     "Motorsport Week": "Sergio Perez pulls of out F1 Mexico GP fan event due to illness"
    },
    "last": "2026-10-30T18:20:15.468681+00:00"
-  },
-  "S3029": {
-   "title": "Imola plans special Mexican GP celebration for Antonelli's title bid",
-   "first": "2026-10-30T17:04:36.841956+00:00",
-   "sources": {
-    "GPblog": "2026-10-30T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Ferrari heartland rallies behind Antonelli with special Mexican GP plans"
-   },
-   "last": "2026-10-30T17:04:36.841976+00:00"
   },
   "S3030": {
    "title": "Florida QB Aaron Philo resumes starting role vs. Georgia",
@@ -16618,14 +16608,14 @@
    "title": "NYC Marathon wins by Chepkirui and Almgren",
    "first": "2026-11-01T16:40:37.858968+00:00",
    "sources": {
-    "ESPN F1": "2026-11-01T16:35:32+00:00"
+    "ESPN F1": "2026-11-01T16:10:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "2024 champ Sheila Chepkirui, debuting Andreas Almgren claim NYC Marathon wins"
    },
-   "last": "2026-11-01T16:40:37.858988+00:00"
+   "last": "2026-11-01T17:05:41.250297+00:00"
   },
   "S3704": {
    "title": "Liverpool vs Arsenal (Nov 1, 2026) team stats",
@@ -16704,9 +16694,35 @@
     "GPFans": "How Kimi Antonelli can win the F1 world title today at Mexican Grand Prix"
    },
    "last": "2026-11-01T17:00:39.543414+00:00"
+  },
+  "S3710": {
+   "title": "Bearman confirms texting Ocon, calls Haas situation sad",
+   "first": "2026-11-01T17:05:41.250307+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oliver Bearman confirms Esteban Ocon text amid 'sad' Haas situation"
+   },
+   "last": "2026-11-01T17:05:41.250313+00:00"
+  },
+  "S3711": {
+   "title": "Bottas responds to Herta Cadillac replacement rumours",
+   "first": "2026-11-01T17:05:41.250316+00:00",
+   "sources": {
+    "Crash.net": "2026-11-01T17:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Valtteri Bottas responds to Colton Herta Cadillac F1 replacement rumours"
+   },
+   "last": "2026-11-01T17:05:41.250319+00:00"
   }
  },
- "story_seq": 3709,
+ "story_seq": 3711,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16825,7 +16841,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T17:00:34.400107+00:00",
+ "last_run": "2026-11-01T17:05:36.678577+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18395,6 +18411,11 @@
    "t": "2026-11-01T16:55:42.776076+00:00",
    "title": "FIA Başkanı, F1 motor tartışmasında Verstappen'e katıldı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-01T17:05:47.329329+00:00",
+   "title": "Bearman, Ocon'a mesaj attığını doğruladı; Haas'ta Hirakawa debut yapıyor",
+   "source": "RacingNews365"
   }
  ]
 }
