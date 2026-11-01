@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9475965ca5d1a45e": "2026-10-18T22:06:20.541648+00:00",
   "932b1baad358f36a": "2026-10-18T22:34:28.044906+00:00",
   "302b6a75dd386f37": "2026-10-19T00:10:50.018772+00:00",
   "02bd5894316ed2d5": "2026-10-19T00:59:54.538482+00:00",
@@ -6650,7 +6649,11 @@
   "c8374b6736a52645": "2026-11-01T21:51:08.472088+00:00",
   "2840ce455c610361": "2026-11-01T21:56:05.991457+00:00",
   "5e3a5414d02c4be4": "2026-11-01T22:01:08.457991+00:00",
-  "9977aaae3b55b683": "2026-11-01T22:01:08.457991+00:00"
+  "9977aaae3b55b683": "2026-11-01T22:01:08.457991+00:00",
+  "3cfe3254e0a30231": "2026-11-01T22:06:05.785956+00:00",
+  "277ccd80907e5144": "2026-11-01T22:06:05.785956+00:00",
+  "6ea55ee062396ccb": "2026-11-01T22:06:05.785956+00:00",
+  "7c52bc68fa418a09": "2026-11-01T22:06:05.785956+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6862,19 +6865,6 @@
     "GPFans": "Red Bull F1 boss responds to Christian Horner criticism after he claimed team had lost its 'vibe'"
    },
    "last": "2026-10-31T10:22:38.477936+00:00"
-  },
-  "S3105": {
-   "title": "ESPN Matt & Myron radio show on Halloween and college football",
-   "first": "2026-10-30T22:05:15.733284+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T22:01:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Matt & Myron - Hour 1: Halloween & CFB"
-   },
-   "last": "2026-10-30T22:05:15.733303+00:00"
   },
   "S3106": {
    "title": "ESPN F1 item on Maxim Masse, content unclear",
@@ -16255,9 +16245,61 @@
     "ESPN F1": "Eurojackpot Vrouwen Eredivisie Highlights (4/11/26) - Stream en vivo"
    },
    "last": "2026-11-01T22:01:12.036973+00:00"
+  },
+  "S3782": {
+   "title": "Juventus 2-0 Napoli match analysis",
+   "first": "2026-11-01T22:06:13.084386+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T22:01:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Juventus 2-0 Napoli (Nov 1, 2026) Game Analysis"
+   },
+   "last": "2026-11-01T22:06:13.084404+00:00"
+  },
+  "S3783": {
+   "title": "Possible replacements and personnel moves after Norvell firing",
+   "first": "2026-11-01T22:06:13.084410+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T20:41:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Florida State fires Mike Norvell: Top candidates and personnel moves"
+   },
+   "last": "2026-11-01T22:06:13.084416+00:00"
+  },
+  "S3784": {
+   "title": "Hamilton and Verstappen collide during Mexico race restart",
+   "first": "2026-11-01T22:06:13.084420+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-01T21:51:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Hamilton collides with Verstappen in DRAMATIC race restart!"
+   },
+   "last": "2026-11-01T22:06:13.084426+00:00"
+  },
+  "S3785": {
+   "title": "FIA makes final decision on Verstappen's Mexico false start",
+   "first": "2026-11-01T22:06:13.084429+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T22:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "FIA makes final call on Verstappen after Mexican GP false start review"
+   },
+   "last": "2026-11-01T22:06:13.084434+00:00"
   }
  },
- "story_seq": 3781,
+ "story_seq": 3785,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16376,17 +16418,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T22:01:08.457991+00:00",
+ "last_run": "2026-11-01T22:06:05.785956+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T22:02:24.042127+00:00",
-   "title": "Hamilton: 'Farklı yaratılmışım', F1'de benzerim olmadı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-29T22:12:32.366206+00:00",
    "title": "Gaël Lafont",
@@ -17911,6 +17948,16 @@
    "t": "2026-11-01T21:46:15.394280+00:00",
    "title": "GP Meksika'da kırmızı bayrak: Bottas ön süspansiyon arızasıyla duvara çarptı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-01T22:06:21.869778+00:00",
+   "title": "Hamilton, yeniden başlatılan yarışta Verstappen ile çarpıştı",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-01T22:06:22.214827+00:00",
+   "title": "FIA, Mexico GP'de Verstappen'in false start incelemesini sonuçlandırdı",
+   "source": "GPblog"
   }
  ]
 }
