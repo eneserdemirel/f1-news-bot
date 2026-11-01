@@ -6906,7 +6906,9 @@
   "b89d1abfe5d7393e": "2026-11-01T14:00:35.404826+00:00",
   "3217235fc6ff04cf": "2026-11-01T14:05:38.281291+00:00",
   "b97d288160248bca": "2026-11-01T14:10:33.399092+00:00",
-  "8d174f6918942e16": "2026-11-01T14:15:37.923737+00:00"
+  "8d174f6918942e16": "2026-11-01T14:15:37.923737+00:00",
+  "e2a7a1936b99eb53": "2026-11-01T14:20:33.584327+00:00",
+  "1bdfa1a6b7717c2a": "2026-11-01T14:20:33.584327+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7194,32 +7196,6 @@
     "GPblog": "Hadjar admits he should have bitten his tongue over Red Bull criticism"
    },
    "last": "2026-10-30T15:19:30.792244+00:00"
-  },
-  "S2982": {
-   "title": "Verstappen confirms significant changes to 2027 Red Bull car",
-   "first": "2026-10-30T14:19:34.084613+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-30T14:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen bevestigt forse veranderingen aan nieuwe Red Bull"
-   },
-   "last": "2026-10-30T14:19:34.084631+00:00"
-  },
-  "S2983": {
-   "title": "Hamilton praises Ocon as 'charming young lad' after Haas exit",
-   "first": "2026-10-30T14:19:34.084637+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-30T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Lewis Hamilton labels Esteban Ocon ‘a charming young lad’ after Haas confirms exit"
-   },
-   "last": "2026-10-30T14:19:34.084643+00:00"
   },
   "S2984": {
    "title": "OKC Thunder trade and cost-cutting speculation",
@@ -15710,16 +15686,18 @@
    "sources": {
     "Formula 1": "2026-11-01T11:36:17.095809+00:00",
     "RacingNews365": "2026-11-01T09:40:00+00:00",
-    "Motorsport Week": "2026-11-01T12:00:00+00:00"
+    "Motorsport Week": "2026-11-01T12:00:00+00:00",
+    "Motorsport-Total": "2026-11-01T13:50:07+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Alonso's 'frustration is beyond imagination' after issues",
     "RacingNews365": "Fernando Alonso 'frustration beyond imagination' after latest Aston Martin woe",
-    "Motorsport Week": "Fernando Alonso claims F1 Mexico qualifying reflects Aston Martin’s “story of the year”"
+    "Motorsport Week": "Fernando Alonso claims F1 Mexico qualifying reflects Aston Martin’s “story of the year”",
+    "Motorsport-Total": "Nach Quali-Problem: Frustration ist für Alonso \"kaum in Worte zu fassen\" - Motorsport-Total.com"
    },
-   "last": "2026-11-01T12:10:43.511035+00:00"
+   "last": "2026-11-01T14:20:37.022397+00:00"
   },
   "S3590": {
    "title": "Mexico GP bet builder selections published",
@@ -16840,9 +16818,22 @@
     "AS": "Fiasco en el peor momento"
    },
    "last": "2026-11-01T14:15:40.473889+00:00"
+  },
+  "S3676": {
+   "title": "Verstappen not surprised by FIA grid penalty over Lawson clash",
+   "first": "2026-11-01T14:20:37.022368+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T14:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Max Verstappen not surprised FIA made an example of him over Lawson clash"
+   },
+   "last": "2026-11-01T14:20:37.022390+00:00"
   }
  },
- "story_seq": 3675,
+ "story_seq": 3676,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16961,7 +16952,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T14:15:37.923737+00:00",
+ "last_run": "2026-11-01T14:20:33.584327+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18556,6 +18547,11 @@
    "t": "2026-11-01T14:15:45.559668+00:00",
    "title": "Honda, Alonso'nun aracında hidrolik sistem arızası nedeniyle parça değiştirecek",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-01T14:20:41.724094+00:00",
+   "title": "Verstappen, FIA'nın Lawson olayında kendisini örnek almasına şaşırmadı",
+   "source": "GPblog"
   }
  ]
 }
