@@ -6997,7 +6997,11 @@
   "c43109cf49674744": "2026-11-01T17:51:05.982570+00:00",
   "cbf0c4e179f6eeb5": "2026-11-01T17:56:09.636454+00:00",
   "03a43caa7e583fa9": "2026-11-01T17:56:09.636454+00:00",
-  "724dd787947f9205": "2026-11-01T17:56:09.636454+00:00"
+  "724dd787947f9205": "2026-11-01T17:56:09.636454+00:00",
+  "dfacb3c5ba31db25": "2026-11-01T18:01:06.390360+00:00",
+  "9c97fc336d71d86b": "2026-11-01T18:01:06.390360+00:00",
+  "5b0790a42eb2f777": "2026-11-01T18:01:06.390360+00:00",
+  "6c3639be71012576": "2026-11-01T18:01:06.390360+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13859,16 +13863,18 @@
    "sources": {
     "Crash.net": "2026-11-01T00:18:11+00:00",
     "RacingNews365 NL": "2026-11-01T06:35:00+00:00",
-    "PlanetF1": "2026-11-01T08:24:52+00:00"
+    "PlanetF1": "2026-11-01T08:24:52+00:00",
+    "GPFans": "2026-11-01T17:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Isack Hadjar explains Mexico GP F1 paddock incident: “Not a reality show”",
     "RacingNews365 NL": "Hadjar stellig na waarschuwing voor 'wangedrag': \"Het is geen reality show!\"",
-    "PlanetF1": "Isack Hadjar responds to FIA decision after Mexican GP fan incident"
+    "PlanetF1": "Isack Hadjar responds to FIA decision after Mexican GP fan incident",
+    "GPFans": "Isack Hadjar has a blunt message for F1's paddock tourists after fan altercation"
    },
-   "last": "2026-11-01T11:36:17.096055+00:00"
+   "last": "2026-11-01T18:01:11.061541+00:00"
   },
   "S3510": {
    "title": "Penn State 31-17 Purdue college football recap",
@@ -15876,14 +15882,16 @@
    "title": "FormulaPassion live blog of Mexico City GP race",
    "first": "2026-11-01T13:15:44.852081+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-01T13:00:00+00:00"
+    "FormulaPassion": "2026-11-01T13:00:00+00:00",
+    "Crash.net": "2026-11-01T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "F1 GP Messico 2026, gara: Antonelli per il titolo, la Ferrari per la tappa. Hamilton in pole, si parte alle 21.00 – DIRETTA"
+    "FormulaPassion": "F1 GP Messico 2026, gara: Antonelli per il titolo, la Ferrari per la tappa. Hamilton in pole, si parte alle 21.00 – DIRETTA",
+    "Crash.net": "F1 Mexico Grand Prix LIVE: Race updates as Kimi Antonelli goes for the title"
    },
-   "last": "2026-11-01T13:15:44.852100+00:00"
+   "last": "2026-11-01T18:01:11.061547+00:00"
   },
   "S3659": {
    "title": "How Mercedes can clinch the constructors' title in Mexico",
@@ -16720,9 +16728,35 @@
     "Motorsport-Total": "Alexander Wurz versteht Hadjar, findet Schubser aber trotzdem \"nicht cool\" - Motorsport-Total.com"
    },
    "last": "2026-11-01T17:56:14.310860+00:00"
+  },
+  "S3723": {
+   "title": "Mexico lap times compared with previous F1 era via historic racing",
+   "first": "2026-11-01T18:01:11.061502+00:00",
+   "sources": {
+    "Autosport": "2026-11-01T17:57:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Why lap times in Mexico have been so much closer to the previous F1 era"
+   },
+   "last": "2026-11-01T18:01:11.061521+00:00"
+  },
+  "S3724": {
+   "title": "Fresh softs could be wild card for Verstappen and Antonelli",
+   "first": "2026-11-01T18:01:11.061528+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Fresh softs could be the wild card for Max Verstappen and Kimi Antonelli"
+   },
+   "last": "2026-11-01T18:01:11.061534+00:00"
   }
  },
- "story_seq": 3722,
+ "story_seq": 3724,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16841,7 +16875,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T17:56:09.636454+00:00",
+ "last_run": "2026-11-01T18:01:06.390360+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18416,6 +18450,16 @@
    "t": "2026-11-01T17:56:17.081333+00:00",
    "title": "Alexander Wurz Hadjar'ı anlıyor ama itmeyi \"cool\" bulmuyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-01T18:01:17.100430+00:00",
+   "title": "Meksika'da 2026 araçları 2025 tur sürelerine çok daha yakın",
+   "source": "Autosport"
+  },
+  {
+   "t": "2026-11-01T18:01:17.464912+00:00",
+   "title": "Meksika GP: Taze soft lastikler Verstappen ve Antonelli için sürpriz olabilir",
+   "source": "GPblog"
   }
  ]
 }
