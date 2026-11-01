@@ -6949,7 +6949,9 @@
   "3d17df85da104e38": "2026-11-01T15:50:38.898802+00:00",
   "91b72e3d54762389": "2026-11-01T15:50:38.898802+00:00",
   "905d6ba982c3e7c8": "2026-11-01T15:55:34.146114+00:00",
-  "fe29ef406c22cb11": "2026-11-01T16:00:39.826620+00:00"
+  "fe29ef406c22cb11": "2026-11-01T16:00:39.826620+00:00",
+  "ae337df6a8256b09": "2026-11-01T16:05:33.400347+00:00",
+  "d735ef6b450a20b4": "2026-11-01T16:05:33.400347+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7243,21 +7245,6 @@
     "ESPN F1": "Sources - Texas Tech to use Castellanos, Hammond vs. Arizona"
    },
    "last": "2026-10-30T18:30:12.350164+00:00"
-  },
-  "S3014": {
-   "title": "Hamilton encourages Ocon after losing Haas seat",
-   "first": "2026-10-30T15:59:45.106962+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-30T15:57:04+00:00",
-    "PlanetF1": "2026-10-30T15:58:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Nach Cockpitverlust bei Haas: Lewis Hamilton spricht Ocon Mut zu - Motorsport-Total.com",
-    "PlanetF1": "Lewis Hamilton makes personal gesture to Esteban Ocon after Haas F1 exit"
-   },
-   "last": "2026-10-30T16:04:30.977141+00:00"
   },
   "S3015": {
    "title": "F1.com looks back at memorable FP1 debuts by future stars",
@@ -16753,9 +16740,35 @@
     "Motorsport.com Italia": "Carrera Cup Italia | Mugello: Target fa il bis con Van Soelen e Festante"
    },
    "last": "2026-11-01T15:50:42.345767+00:00"
+  },
+  "S3698": {
+   "title": "Resurfaced Mexico City track adds uncertainty to race strategy",
+   "first": "2026-11-01T16:05:36.930647+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Resurfaced Mexico City GP track adds uncertainty to strategy"
+   },
+   "last": "2026-11-01T16:05:36.930669+00:00"
+  },
+  "S3699": {
+   "title": "Bottas believes in F1 future as Cadillac delays driver decision",
+   "first": "2026-11-01T16:05:36.930673+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-01T16:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten - Motorsport-Total.com"
+   },
+   "last": "2026-11-01T16:05:36.930677+00:00"
   }
  },
- "story_seq": 3697,
+ "story_seq": 3699,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16874,7 +16887,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T16:00:39.826620+00:00",
+ "last_run": "2026-11-01T16:05:33.400347+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18449,6 +18462,16 @@
    "t": "2026-11-01T15:35:43.373040+00:00",
    "title": "Cadillac F1, 2027 pilot kadrosunda acele etmiyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-01T16:05:43.437211+00:00",
+   "title": "Meksika GP pisti yenilendi, lastik stratejisinde belirsizlik arttı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T16:05:43.882635+00:00",
+   "title": "Bottas Formula 1 geleceğine inanıyor ama Cadillac onu bekletiyor",
+   "source": "Motorsport-Total"
   }
  ]
 }
