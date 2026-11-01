@@ -6960,7 +6960,9 @@
   "f83fce7871da16fa": "2026-11-01T16:30:36.835359+00:00",
   "f8aa14544f7a76b6": "2026-11-01T16:30:36.835359+00:00",
   "10d5874858e6ad4c": "2026-11-01T16:35:36.457208+00:00",
-  "b58a95c1b62733e8": "2026-11-01T16:35:36.457208+00:00"
+  "b58a95c1b62733e8": "2026-11-01T16:35:36.457208+00:00",
+  "20c32df5011fe935": "2026-11-01T16:40:35.854486+00:00",
+  "a4711080a12e1d17": "2026-11-01T16:40:35.854486+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7244,32 +7246,6 @@
     "Motorsport Week": "Sergio Perez pulls of out F1 Mexico GP fan event due to illness"
    },
    "last": "2026-10-30T18:20:15.468681+00:00"
-  },
-  "S3023": {
-   "title": "Heat unveil updated Dwyane Wade statue after criticism",
-   "first": "2026-10-30T16:39:32.634323+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T16:33:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Heat unveil updated Dwyane Wade statue after original's face was panned"
-   },
-   "last": "2026-10-30T16:39:32.634340+00:00"
-  },
-  "S3024": {
-   "title": "Fan who struck Camavinga in Clásico identified by police",
-   "first": "2026-10-30T16:39:32.634347+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T10:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fan who struck Real Madrid's Eduardo Camavinga in Clásico identified by police"
-   },
-   "last": "2026-10-30T16:39:32.634353+00:00"
   },
   "S3025": {
    "title": "Leclerc says Ferrari's SF-26 is sensitive ahead of Mexico",
@@ -15411,14 +15387,16 @@
    "title": "FIA told teams to calm drivers before Verstappen-Lawson clash",
    "first": "2026-11-01T11:36:17.095942+00:00",
    "sources": {
-    "RacingNews365": "2026-11-01T10:30:00+00:00"
+    "RacingNews365": "2026-11-01T10:30:00+00:00",
+    "Motorsport Week": "2026-11-01T16:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "FIA issued 'calm down' warning before ill-tempered Verstappen-Lawson clash"
+    "RacingNews365": "FIA issued 'calm down' warning before ill-tempered Verstappen-Lawson clash",
+    "Motorsport Week": "FIA warned F1 Team Principals of driver conduct ahead of the Mexico City GP"
    },
-   "last": "2026-11-01T11:36:17.095946+00:00"
+   "last": "2026-11-01T16:40:37.858995+00:00"
   },
   "S3606": {
    "title": "Yamaha withdraws from Qatar MotoGP GP",
@@ -16694,9 +16672,22 @@
     "FormulaPassion": "Vasseur: “Prima curva? Hamilton e Leclerc sono professionisti, devono saper correre insieme”"
    },
    "last": "2026-11-01T16:35:39.642066+00:00"
+  },
+  "S3703": {
+   "title": "NYC Marathon wins by Chepkirui and Almgren",
+   "first": "2026-11-01T16:40:37.858968+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T16:35:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2024 champ Sheila Chepkirui, debuting Andreas Almgren claim NYC Marathon wins"
+   },
+   "last": "2026-11-01T16:40:37.858988+00:00"
   }
  },
- "story_seq": 3702,
+ "story_seq": 3703,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16815,7 +16806,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T16:35:36.457208+00:00",
+ "last_run": "2026-11-01T16:40:35.854486+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
