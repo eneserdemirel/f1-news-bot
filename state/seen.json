@@ -7053,7 +7053,10 @@
   "95429e6d7c326163": "2026-11-01T20:06:07.616894+00:00",
   "2773de825ed0f73f": "2026-11-01T20:11:05.862073+00:00",
   "db7de6605a527967": "2026-11-01T20:16:08.822250+00:00",
-  "7a6647f03360d49e": "2026-11-01T20:16:08.822250+00:00"
+  "7a6647f03360d49e": "2026-11-01T20:16:08.822250+00:00",
+  "4485e16757175579": "2026-11-01T20:26:06.158662+00:00",
+  "b27911c3a25a3d00": "2026-11-01T20:26:06.158662+00:00",
+  "03cb0b077139d53f": "2026-11-01T20:26:06.158662+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16686,9 +16689,48 @@
     "GPFans": "Lewis Hamilton fumes at Ferrari team-mate in chaotic Mexican GP start as FIA investigate"
    },
    "last": "2026-11-01T20:16:12.825720+00:00"
+  },
+  "S3756": {
+   "title": "Aston Martin suffer double retirement in Mexico opening laps",
+   "first": "2026-11-01T20:26:11.224650+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T20:21:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Aston Martin suffer double embarrassment inside first five laps in Mexico City GP"
+   },
+   "last": "2026-11-01T20:26:11.224669+00:00"
+  },
+  "S3757": {
+   "title": "Russell handed 10-second penalty for Hadjar collision",
+   "first": "2026-11-01T20:26:11.224675+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T20:23:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "FIA delivers verdict after Russell's costly collision with Hadjar"
+   },
+   "last": "2026-11-01T20:26:11.224682+00:00"
+  },
+  "S3758": {
+   "title": "Leclerc handed 5-second penalty for chicane cut on Hamilton",
+   "first": "2026-11-01T20:26:11.224686+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T20:21:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "FIA delivers verdict after Hamilton and Leclerc's explosive Ferrari battle"
+   },
+   "last": "2026-11-01T20:26:11.224690+00:00"
   }
  },
- "story_seq": 3755,
+ "story_seq": 3758,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16807,27 +16849,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T20:21:21.965875+00:00",
+ "last_run": "2026-11-01T20:26:06.158662+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T20:21:39.089105+00:00",
-   "title": "Bearman'dan Haas için net teşhis: \"Araba limitine ulaştı\"",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-10-29T20:21:39.450710+00:00",
-   "title": "Antonelli'nin Austin zaferi şampiyonluk tahminlerini değiştirdi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-29T20:21:39.804765+00:00",
-   "title": "Nico Hülkenberg performansından \"temelde memnun\" olduğunu söyledi",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-29T20:31:41.430299+00:00",
    "title": "Russell, Antonelli şampiyonluğa yaklaşırken sert bir özeleştiri yaptı",
@@ -18352,6 +18379,21 @@
    "t": "2026-11-01T20:16:18.887777+00:00",
    "title": "Hamilton, Mexican GP başlangıcında takım arkadaşı Leclerc ile çarpıştı; FIA inceleme başlattı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-01T20:26:16.322079+00:00",
+   "title": "Aston Martin, Meksika GP'de ilk turlarda çifte kayıp yaşadı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T20:26:16.702341+00:00",
+   "title": "FIA, Hamilton-Leclerc Ferrari mücadelesine ceza verdi",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T20:26:17.088847+00:00",
+   "title": "Russell'a Hadjar ile çarpışması nedeniyle 10 saniye ceza",
+   "source": "GPblog"
   }
  ]
 }
