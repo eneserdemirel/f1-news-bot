@@ -7027,7 +7027,10 @@
   "40b985f225647a98": "2026-11-01T19:01:08.847676+00:00",
   "49733660d5c4bfb1": "2026-11-01T19:06:06.379207+00:00",
   "c09bb0a8aebf5b7c": "2026-11-01T19:06:06.379207+00:00",
-  "7fcb45c92756ff71": "2026-11-01T19:06:06.379207+00:00"
+  "7fcb45c92756ff71": "2026-11-01T19:06:06.379207+00:00",
+  "c4579635c1756fef": "2026-11-01T19:11:07.331349+00:00",
+  "7bc84fc140967562": "2026-11-01T19:11:07.331349+00:00",
+  "12b7787691813dfc": "2026-11-01T19:11:07.331349+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7178,45 +7181,6 @@
     "PlanetF1": "FIA confirms massive Valtteri Bottas 50-place grid drop for Mexican GP"
    },
    "last": "2026-10-30T21:15:15.285907+00:00"
-  },
-  "S3057": {
-   "title": "Mexico City betting markets: what could shift the odds",
-   "first": "2026-10-30T19:10:11.005787+00:00",
-   "sources": {
-    "Formula 1": "2026-10-30T19:10:11.005802+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "What could shake up Mexico City betting markets?"
-   },
-   "last": "2026-10-30T19:10:11.005806+00:00"
-  },
-  "S3058": {
-   "title": "Man City fans on a Premier League 'Red Cartel' claim",
-   "first": "2026-10-30T19:10:11.005812+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T17:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Are Man City fans right about a Premier League 'Red Cartel' that's out to get them?"
-   },
-   "last": "2026-10-30T19:10:11.005818+00:00"
-  },
-  "S3059": {
-   "title": "Listicle of every 2026 F1 rookie FP1 driver",
-   "first": "2026-10-30T19:10:11.005823+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-30T19:03:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Every FP1 rookie driver in the 2026 F1 season"
-   },
-   "last": "2026-10-30T19:10:11.005827+00:00"
   },
   "S3060": {
    "title": "Clint Hurdle bids farewell to Rockies after 20-plus seasons",
@@ -12636,7 +12600,8 @@
     "RacingNews365": "2026-11-01T06:20:00+00:00",
     "RacingNews365 NL": "2026-11-01T10:43:00+00:00",
     "GPblog": "2026-11-01T09:16:00+00:00",
-    "GPFans": "2026-11-01T07:29:00+00:00"
+    "GPFans": "2026-11-01T07:29:00+00:00",
+    "Formula 1": "2026-11-01T19:11:11.387012+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12648,9 +12613,10 @@
     "RacingNews365": "2026 F1 Mexico City Grand Prix starting grid after Max Verstappen penalty and disqualification",
     "RacingNews365 NL": "Aangepaste startopstelling F1 GP Mexico met gridstraf Max Verstappen",
     "GPblog": "Mexico City starting grid shaken after penalties for Verstappen and others",
-    "GPFans": "Amended F1 2026 Mexican Grand Prix starting grid with all late FIA penalties applied"
+    "GPFans": "Amended F1 2026 Mexican Grand Prix starting grid with all late FIA penalties applied",
+    "Formula 1": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix"
    },
-   "last": "2026-11-01T19:06:09.181839+00:00"
+   "last": "2026-11-01T19:11:11.387029+00:00"
   },
   "S3446": {
    "title": "Reaction to Hamilton's Mexico City pole and his wait",
@@ -16663,9 +16629,35 @@
     "GPFans": "Max Verstappen blames Lando Norris for Mexican GP defeat: 'I couldn't believe my eyes'"
    },
    "last": "2026-11-01T19:01:14.516985+00:00"
+  },
+  "S3738": {
+   "title": "UCLA into top 5, Ohio State out of top 10, New Mexico AP ranking",
+   "first": "2026-11-01T19:11:11.387036+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T19:10:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UCLA into top 5, Ohio State out of top 10, New Mexico earns first AP ranking"
+   },
+   "last": "2026-11-01T19:11:11.387042+00:00"
+  },
+  "S3739": {
+   "title": "F1 stays determined to finish 2026 season in Qatar and Abu Dhabi",
+   "first": "2026-11-01T19:11:11.387047+00:00",
+   "sources": {
+    "Crash.net": "2026-11-01T19:08:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Where F1 stands on racing Middle East after Yamaha’s MotoGP boycott"
+   },
+   "last": "2026-11-01T19:11:11.387052+00:00"
   }
  },
- "story_seq": 3737,
+ "story_seq": 3739,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16784,7 +16776,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T19:06:06.379207+00:00",
+ "last_run": "2026-11-01T19:11:07.331349+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18344,6 +18336,11 @@
    "t": "2026-11-01T18:31:13.744430+00:00",
    "title": "Hamilton, Meksika GP'de Ferrari ile ilk pole'unun ardından okuyuculara göre favori",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T19:11:15.477708+00:00",
+   "title": "F1, Katar ve Abu Dhabi yarışlarını planlandığı gibi düzenlemeyi sürdürmek istiyor",
+   "source": "Crash.net"
   }
  ]
 }
