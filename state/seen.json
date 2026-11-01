@@ -7051,7 +7051,9 @@
   "dab8433a7d04e7b8": "2026-11-01T20:06:07.616894+00:00",
   "ed578da75458e85c": "2026-11-01T20:06:07.616894+00:00",
   "95429e6d7c326163": "2026-11-01T20:06:07.616894+00:00",
-  "2773de825ed0f73f": "2026-11-01T20:11:05.862073+00:00"
+  "2773de825ed0f73f": "2026-11-01T20:11:05.862073+00:00",
+  "db7de6605a527967": "2026-11-01T20:16:08.822250+00:00",
+  "7a6647f03360d49e": "2026-11-01T20:16:08.822250+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7294,32 +7296,6 @@
     "ESPN F1": "UConn coach Dan Hurley signs two-year extension, under contract through 2032"
    },
    "last": "2026-10-30T22:55:10.563453+00:00"
-  },
-  "S3074": {
-   "title": "Sheffield United vs. Wrexham live score",
-   "first": "2026-10-30T20:15:13.835691+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:10:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sheffield Utd vs. Wrexham (30 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-30T20:15:13.835697+00:00"
-  },
-  "S3075": {
-   "title": "Stenhousemuir vs. Livingston live score",
-   "first": "2026-10-30T20:15:13.835702+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T19:51:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Stenhousem'r vs. Livingston (30 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-30T20:15:13.835707+00:00"
   },
   "S3076": {
    "title": "Lille vs. Lens team stats (football)",
@@ -16750,14 +16726,18 @@
    "title": "Ferrari teammates clash on lap one of Mexican GP; Verstappen passes",
    "first": "2026-11-01T20:11:08.422742+00:00",
    "sources": {
-    "GPblog": "2026-11-01T20:07:00+00:00"
+    "GPblog": "2026-11-01T20:07:00+00:00",
+    "RacingNews365 NL": "2026-11-01T20:12:00+00:00",
+    "GPFans": "2026-11-01T20:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Ferrari teammates lock horns as Leclerc hits the grass and Verstappen pounces"
+    "GPblog": "Ferrari teammates lock horns as Leclerc hits the grass and Verstappen pounces",
+    "RacingNews365 NL": "Verstappen profiteert van vechtende Ferrari's bij raketstart Mexico",
+    "GPFans": "Lewis Hamilton fumes at Ferrari team-mate in chaotic Mexican GP start as FIA investigate"
    },
-   "last": "2026-11-01T20:11:08.422763+00:00"
+   "last": "2026-11-01T20:16:12.825720+00:00"
   }
  },
  "story_seq": 3755,
@@ -16879,7 +16859,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T20:11:05.862073+00:00",
+ "last_run": "2026-11-01T20:16:08.822250+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18419,6 +18399,11 @@
    "t": "2026-11-01T20:11:12.315182+00:00",
    "title": "Ferrari takım arkadaşları çarpıştı, Leclerc çimene çıktı, Verstappen öne geçti",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T20:16:18.887777+00:00",
+   "title": "Hamilton, Mexican GP başlangıcında takım arkadaşı Leclerc ile çarpıştı; FIA inceleme başlattı",
+   "source": "GPFans"
   }
  ]
 }
