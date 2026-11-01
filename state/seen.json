@@ -6846,7 +6846,10 @@
   "2254e5f1669166aa": "2026-11-01T13:00:35.723371+00:00",
   "90bf891494827a29": "2026-11-01T13:05:33.253201+00:00",
   "2b59cc83a4b64833": "2026-11-01T13:05:33.253201+00:00",
-  "e5374b5dbcd91c3c": "2026-11-01T13:05:33.253201+00:00"
+  "e5374b5dbcd91c3c": "2026-11-01T13:05:33.253201+00:00",
+  "23fe894310ce4fca": "2026-11-01T13:10:35.654563+00:00",
+  "8d0e83b28b374778": "2026-11-01T13:10:35.654563+00:00",
+  "0a8557c60e133bd8": "2026-11-01T13:10:35.654563+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14961,14 +14964,16 @@
    "title": "Verstappen explains what 'killed my lap' in Mexico qualifying",
    "first": "2026-11-01T00:58:48.296457+00:00",
    "sources": {
-    "Formula 1": "2026-11-01T00:58:48.296471+00:00"
+    "Formula 1": "2026-11-01T00:58:48.296471+00:00",
+    "Motorsport Week": "2026-11-01T13:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Verstappen reveals what 'killed my lap' in Mexico Qualifying"
+    "Formula 1": "Verstappen reveals what 'killed my lap' in Mexico Qualifying",
+    "Motorsport Week": "Max Verstappen rues potential lost pole position at F1 Mexico City GP"
    },
-   "last": "2026-11-01T00:58:48.296475+00:00"
+   "last": "2026-11-01T13:10:40.128904+00:00"
   },
   "S3522": {
    "title": "UCLA beats Nevada to reach 8-0 (college football)",
@@ -15232,16 +15237,18 @@
    "sources": {
     "Formula 1": "2026-11-01T02:09:27.234177+00:00",
     "Motorsport Week": "2026-11-01T11:00:00+00:00",
-    "RacingNews365 NL": "2026-11-01T12:00:00+00:00"
+    "RacingNews365 NL": "2026-11-01T12:00:00+00:00",
+    "GPblog": "2026-11-01T13:09:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Norris admits McLaren are ‘too slow’ after Mexico Qualifying",
     "Motorsport Week": "Lando Norris makes damning McLaren F1 Mexico GP admission: ‘We’re just too slow’",
-    "RacingNews365 NL": "Norris trekt vernietigende conclusie na mislukte kwalificatie"
+    "RacingNews365 NL": "Norris trekt vernietigende conclusie na mislukte kwalificatie",
+    "GPblog": "Norris baffled by 'too slow' McLaren: 'Difficult to put a lap together'"
    },
-   "last": "2026-11-01T12:05:14.803107+00:00"
+   "last": "2026-11-01T13:10:40.128910+00:00"
   },
   "S3541": {
    "title": "Lamar vs. Rice live stream listing (not F1)",
@@ -16764,9 +16771,22 @@
     "RacingNews365": "Kimi Antonelli shares details of Mexico illness as title history awaits"
    },
    "last": "2026-11-01T13:05:36.462223+00:00"
+  },
+  "S3657": {
+   "title": "Granada vs Tenerife live score (football)",
+   "first": "2026-11-01T13:10:40.128876+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T13:07:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Granada vs. Tenerife (Nov 7, 2026) Live Score"
+   },
+   "last": "2026-11-01T13:10:40.128897+00:00"
   }
  },
- "story_seq": 3656,
+ "story_seq": 3657,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16885,7 +16905,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T13:05:33.253201+00:00",
+ "last_run": "2026-11-01T13:10:35.654563+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
