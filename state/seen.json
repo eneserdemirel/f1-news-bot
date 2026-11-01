@@ -6772,7 +6772,13 @@
   "c67f3d21479436c7": "2026-11-01T23:37:00.957434+00:00",
   "a3177734adf895c0": "2026-11-01T23:37:00.957434+00:00",
   "f3601b38b04a6e94": "2026-11-01T23:37:00.957434+00:00",
-  "55ce05aaaec370ad": "2026-11-01T23:41:56.080268+00:00"
+  "55ce05aaaec370ad": "2026-11-01T23:41:56.080268+00:00",
+  "c932b54ad9c2e92d": "2026-11-01T23:46:59.043508+00:00",
+  "bf4e79979873592f": "2026-11-01T23:46:59.043508+00:00",
+  "9e0f9421076c6ae5": "2026-11-01T23:46:59.043508+00:00",
+  "5c62344e0e5733f7": "2026-11-01T23:46:59.043508+00:00",
+  "173f0cb6ed432c2c": "2026-11-01T23:46:59.043508+00:00",
+  "f1404135f7ae2c41": "2026-11-01T23:46:59.043508+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16129,7 +16135,7 @@
    "titles": {
     "ESPN F1": "Florida State fires Mike Norvell amid 3-5 football season"
    },
-   "last": "2026-11-01T21:56:07.167175+00:00"
+   "last": "2026-11-01T23:47:05.802733+00:00"
   },
   "S3781": {
    "title": "Dutch women's Eredivisie football highlights stream",
@@ -16987,9 +16993,63 @@
     "Crash.net": "New F1 championship standings after the Mexico Grand Prix"
    },
    "last": "2026-11-01T23:41:58.399915+00:00"
+  },
+  "S3840": {
+   "title": "Vasseur criticises Hamilton and Leclerc for lack of respect",
+   "first": "2026-11-01T23:47:05.802743+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T23:41:00+00:00",
+    "FormulaPassion": "2026-11-01T23:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Furious Ferrari boss lays into Lewis Hamilton and Charles Leclerc for 'lack of respect'",
+    "FormulaPassion": "Vasseur contro Leclerc e Hamilton: “Faccio fatica ad accettare una mancanza di rispetto per tutte le persone che lavorano per loro”"
+   },
+   "last": "2026-11-01T23:47:05.802782+00:00"
+  },
+  "S3841": {
+   "title": "Russell skips post-race media duties in Mexico",
+   "first": "2026-11-01T23:47:05.802755+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-01T23:38:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "George Russell slaat mediaverplichtingen over in Mexico"
+   },
+   "last": "2026-11-01T23:47:05.802761+00:00"
+  },
+  "S3842": {
+   "title": "Leclerc says penalty deserved, wanted to return position to Hamilton",
+   "first": "2026-11-01T23:47:05.802765+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-01T23:37:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Tensione Hamilton-Leclerc, Charles smorza i toni: “Penalità meritata. Volevo ridare la posizione a Lewis, ma c’era Max”"
+   },
+   "last": "2026-11-01T23:47:05.802770+00:00"
+  },
+  "S3843": {
+   "title": "Opinion piece on Antonelli's title beyond the car",
+   "first": "2026-11-01T23:47:05.802773+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-01T23:35:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Kimi campione! Un titolo che va oltre la macchina"
+   },
+   "last": "2026-11-01T23:47:05.802777+00:00"
   }
  },
- "story_seq": 3839,
+ "story_seq": 3843,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17108,7 +17168,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-01T23:41:56.080268+00:00",
+ "last_run": "2026-11-01T23:46:59.043508+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18763,6 +18823,26 @@
    "t": "2026-11-01T23:42:02.384452+00:00",
    "title": "Kimi Antonelli, F1 tarihinin en genç dünya şampiyonu oldu",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-01T23:47:13.680530+00:00",
+   "title": "Antonelli 2026 Formula 1 dünya şampiyonu oldu",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-01T23:47:14.050341+00:00",
+   "title": "Hamilton-Leclerc gerilimi: Leclerc cezayı hak ettiğini kabul etti",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-01T23:47:14.393931+00:00",
+   "title": "Russell, Meksika GP'de medya yükümlülüklerini atladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-01T23:47:14.719803+00:00",
+   "title": "Vasseur, Hamilton ve Leclerc'i 'saygısızlık' gerekçesiyle eleştirdi",
+   "source": "RacingNews365"
   }
  ]
 }
