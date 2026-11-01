@@ -7050,7 +7050,8 @@
   "87e556c15ca43481": "2026-11-01T20:01:07.702645+00:00",
   "dab8433a7d04e7b8": "2026-11-01T20:06:07.616894+00:00",
   "ed578da75458e85c": "2026-11-01T20:06:07.616894+00:00",
-  "95429e6d7c326163": "2026-11-01T20:06:07.616894+00:00"
+  "95429e6d7c326163": "2026-11-01T20:06:07.616894+00:00",
+  "2773de825ed0f73f": "2026-11-01T20:11:05.862073+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16744,9 +16745,22 @@
     "ESPN F1": "Toulouse vs. Strasbourg (Nov 6, 2026) Odds and Spread"
    },
    "last": "2026-11-01T20:06:09.683336+00:00"
+  },
+  "S3755": {
+   "title": "Ferrari teammates clash on lap one of Mexican GP; Verstappen passes",
+   "first": "2026-11-01T20:11:08.422742+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T20:07:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ferrari teammates lock horns as Leclerc hits the grass and Verstappen pounces"
+   },
+   "last": "2026-11-01T20:11:08.422763+00:00"
   }
  },
- "story_seq": 3754,
+ "story_seq": 3755,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16865,7 +16879,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T20:06:07.616894+00:00",
+ "last_run": "2026-11-01T20:11:05.862073+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18400,6 +18414,11 @@
    "t": "2026-11-01T19:46:19.193878+00:00",
    "title": "Hamilton, George Russell'ın zorlu sezonuna yorum yaptı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-01T20:11:12.315182+00:00",
+   "title": "Ferrari takım arkadaşları çarpıştı, Leclerc çimene çıktı, Verstappen öne geçti",
+   "source": "GPblog"
   }
  ]
 }
