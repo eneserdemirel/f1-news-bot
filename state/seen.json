@@ -7057,7 +7057,9 @@
   "4485e16757175579": "2026-11-01T20:26:06.158662+00:00",
   "b27911c3a25a3d00": "2026-11-01T20:26:06.158662+00:00",
   "03cb0b077139d53f": "2026-11-01T20:26:06.158662+00:00",
-  "23a015d9c5f86aea": "2026-11-01T20:31:08.991791+00:00"
+  "23a015d9c5f86aea": "2026-11-01T20:31:08.991791+00:00",
+  "4f8cf744eaf790b2": "2026-11-01T20:41:09.999462+00:00",
+  "67ada257db855a02": "2026-11-01T20:41:09.999462+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7310,45 +7312,6 @@
     "ESPN F1": "North Carolina lands Demarcus Henry, their highest-ranked recruit since '19"
    },
    "last": "2026-10-30T21:00:10.234285+00:00"
-  },
-  "S3080": {
-   "title": "Eagles' Saquon Barkley has no injury designation vs Commanders",
-   "first": "2026-10-30T20:30:09.276775+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:28:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup"
-   },
-   "last": "2026-10-30T20:40:09.737635+00:00"
-  },
-  "S3082": {
-   "title": "Mason & Ireland radio show Halloween episode",
-   "first": "2026-10-30T20:40:09.737597+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mason & Ireland - HR 1: Happy Halloween"
-   },
-   "last": "2026-10-30T20:40:09.737616+00:00"
-  },
-  "S3083": {
-   "title": "Chris Fowler on 24-team college football playoff impact",
-   "first": "2026-10-30T20:40:09.737623+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:29:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chris Fowler discusses how 24-team CFP will change college football"
-   },
-   "last": "2026-10-30T20:40:09.737628+00:00"
   },
   "S3084": {
    "title": "Ferrari pushes for technical answers in Mexico FP1, Antonelli close behind",
@@ -16710,17 +16673,32 @@
    "title": "Leclerc handed 5-second penalty for chicane cut on Hamilton",
    "first": "2026-11-01T20:26:11.224686+00:00",
    "sources": {
-    "GPblog": "2026-11-01T20:21:00+00:00"
+    "GPblog": "2026-11-01T20:21:00+00:00",
+    "RacingNews365": "2026-11-01T20:33:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "FIA delivers verdict after Hamilton and Leclerc's explosive Ferrari battle"
+    "GPblog": "FIA delivers verdict after Hamilton and Leclerc's explosive Ferrari battle",
+    "RacingNews365": "Charles Leclerc hit with penalty after Mexico City GP clash with Lewis Hamilton"
    },
-   "last": "2026-11-01T20:26:11.224690+00:00"
+   "last": "2026-11-01T20:41:12.387823+00:00"
+  },
+  "S3759": {
+   "title": "Boston College vs. Louisville college football game highlights",
+   "first": "2026-11-01T20:41:12.387796+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T20:26:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Boston College vs. Louisville: Game Highlights"
+   },
+   "last": "2026-11-01T20:41:12.387814+00:00"
   }
  },
- "story_seq": 3758,
+ "story_seq": 3759,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16839,7 +16817,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T20:36:05.201183+00:00",
+ "last_run": "2026-11-01T20:41:09.999462+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
