@@ -6737,7 +6737,11 @@
   "28f3dbd2657d64cc": "2026-11-01T23:06:57.037555+00:00",
   "798c18cae0915c45": "2026-11-01T23:06:57.037555+00:00",
   "8a0253a9c720a657": "2026-11-01T23:06:57.037555+00:00",
-  "41007b2871bb1e76": "2026-11-01T23:06:57.037555+00:00"
+  "41007b2871bb1e76": "2026-11-01T23:06:57.037555+00:00",
+  "87a7b11aa744eb16": "2026-11-01T23:12:00.346325+00:00",
+  "f8ec75723cf713e1": "2026-11-01T23:12:00.346325+00:00",
+  "500ea511a05ca0f3": "2026-11-01T23:12:00.346325+00:00",
+  "fec2246a7528dc9a": "2026-11-01T23:12:00.346325+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15820,7 +15824,8 @@
     "FormulaPassion": "2026-11-01T20:25:00+00:00",
     "Sky Sports F1": "2026-11-01T20:07:00+00:00",
     "Autosport": "2026-11-01T21:14:16+00:00",
-    "The Race": "2026-11-01T21:30:46+00:00"
+    "The Race": "2026-11-01T21:30:46+00:00",
+    "PlanetF1": "2026-11-01T23:10:55+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15830,9 +15835,10 @@
     "FormulaPassion": "Leclerc supera Hamilton con taglio di pista: 5 secondi di penalità",
     "Sky Sports F1": "CHAOS on opening lap as Leclerc gets penalty after overtaking Hamilton",
     "Autosport": "FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP",
-    "The Race": "FIA explains controversial Leclerc penalty decision"
+    "The Race": "FIA explains controversial Leclerc penalty decision",
+    "PlanetF1": "FIA explains Leclerc decision after Lewis Hamilton ‘handing this win’ fury"
    },
-   "last": "2026-11-01T21:31:11.475357+00:00"
+   "last": "2026-11-01T23:12:03.817444+00:00"
   },
   "S3759": {
    "title": "Boston College vs. Louisville college football game highlights",
@@ -16583,15 +16589,17 @@
    "first": "2026-11-01T22:52:08.941003+00:00",
    "sources": {
     "GPblog": "2026-11-01T22:46:00+00:00",
-    "RacingNews365": "2026-11-01T23:00:00+00:00"
+    "RacingNews365": "2026-11-01T23:00:00+00:00",
+    "Crash.net": "2026-11-01T23:10:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Hamilton demands 'serious talks' after Leclerc clash at Mexico City GP",
-    "RacingNews365": "Lewis Hamilton demands 'serious talks' after Charles Leclerc incident fury"
+    "RacingNews365": "Lewis Hamilton demands 'serious talks' after Charles Leclerc incident fury",
+    "Crash.net": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash at Mexico GP"
    },
-   "last": "2026-11-01T23:07:03.187317+00:00"
+   "last": "2026-11-01T23:12:03.817450+00:00"
   },
   "S3810": {
    "title": "Feature on Antonelli's family roots and upbringing",
@@ -16724,9 +16732,22 @@
     "Motorsport.com Italia": "F1 | Kimi Antonelli campione del mondo. Ecco il ragazzo che ha battuto anche il tempo"
    },
    "last": "2026-11-01T23:07:03.187311+00:00"
+  },
+  "S3820": {
+   "title": "Domenicali hails Antonelli's title as 'only the beginning'",
+   "first": "2026-11-01T23:12:03.817416+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T23:08:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli title history hailed as 'only the beginning' of F1 legacy"
+   },
+   "last": "2026-11-01T23:12:03.817435+00:00"
   }
  },
- "story_seq": 3819,
+ "story_seq": 3820,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16845,7 +16866,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-01T23:06:57.037555+00:00",
+ "last_run": "2026-11-01T23:12:00.346325+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18465,6 +18486,11 @@
    "t": "2026-11-01T23:07:09.476873+00:00",
    "title": "Ferrari'de Leclerc-Hamilton gerginliği: Meksika'da 1-2 kaçırıldı",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-01T23:12:10.200677+00:00",
+   "title": "Kimi Antonelli, F1 tarihinin en genç dünya şampiyonu oldu",
+   "source": "RacingNews365"
   }
  ]
 }
