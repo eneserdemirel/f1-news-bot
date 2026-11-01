@@ -6679,7 +6679,9 @@
   "d2dae67f51d65e88": "2026-11-01T03:09:26.748174+00:00",
   "adbba162fe515c75": "2026-11-01T03:09:26.748174+00:00",
   "ecd06ec29f39070a": "2026-11-01T03:09:26.748174+00:00",
-  "c16761980d71214b": "2026-11-01T03:14:24.901620+00:00"
+  "c16761980d71214b": "2026-11-01T03:14:24.901620+00:00",
+  "51dfe78f000078bc": "2026-11-01T03:24:27.178133+00:00",
+  "ec904f490bc8ddf3": "2026-11-01T03:24:27.178133+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6952,19 +6954,6 @@
     "ESPN F1": "Week 8 TNF Panthers at Packers: Highlights, key plays"
    },
    "last": "2026-10-30T03:42:59.508855+00:00"
-  },
-  "S2849": {
-   "title": "Kings vs. Pelicans live score page, Oct 29, 2026",
-   "first": "2026-10-30T03:22:57.630891+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T02:48:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kings vs. Pelicans (Oct 29, 2026) Live Score"
-   },
-   "last": "2026-10-30T03:22:57.630909+00:00"
   },
   "S2850": {
    "title": "Hurricanes 3-2 Blue Jackets game recap (NHL)",
@@ -16786,9 +16775,35 @@
     "ESPN F1": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue"
    },
    "last": "2026-11-01T03:14:26.538769+00:00"
+  },
+  "S3561": {
+   "title": "Damon Ferguson Jr. rushing 1-yard touchdown in college football",
+   "first": "2026-11-01T03:24:29.615013+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T03:20:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Damon Ferguson Jr. scores 1-yard rushing TD"
+   },
+   "last": "2026-11-01T03:24:29.615030+00:00"
+  },
+  "S3562": {
+   "title": "Sidney Crosby scores goal for Penguins in NHL",
+   "first": "2026-11-01T03:24:29.615036+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T02:12:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sidney Crosby nets goal for Penguins"
+   },
+   "last": "2026-11-01T03:24:29.615041+00:00"
   }
  },
- "story_seq": 3560,
+ "story_seq": 3562,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16907,7 +16922,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T03:19:23.388405+00:00",
+ "last_run": "2026-11-01T03:24:27.178133+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
