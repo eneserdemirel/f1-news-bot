@@ -6626,7 +6626,10 @@
   "4fd4f42971b3130b": "2026-11-01T01:03:45.311028+00:00",
   "0cc48e63e507fb57": "2026-11-01T01:03:45.311028+00:00",
   "a8c31b6ba7fdd4cb": "2026-11-01T01:03:45.311028+00:00",
-  "5f293576ea6a9de1": "2026-11-01T01:08:41.619373+00:00"
+  "5f293576ea6a9de1": "2026-11-01T01:08:41.619373+00:00",
+  "f169e6121dc1e151": "2026-11-01T01:13:39.800916+00:00",
+  "10d32bdfb32a67eb": "2026-11-01T01:13:39.800916+00:00",
+  "e3ff1160159bc1dc": "2026-11-01T01:13:39.800916+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6938,19 +6941,6 @@
     "ESPN F1": "David Moyes: Everton in the Carabao Cup quarterfinals 'sounds good'"
    },
    "last": "2026-10-30T02:12:20.383920+00:00"
-  },
-  "S2831": {
-   "title": "Knicks' Jose Alvarado to miss fourth straight game with ankle injury",
-   "first": "2026-10-30T01:12:19.114080+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T01:05:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Knicks' Jose Alvarado (ankle) to miss fourth straight vs. 76ers"
-   },
-   "last": "2026-10-30T01:12:19.114099+00:00"
   },
   "S2832": {
    "title": "Onyeka Okongwu gets the hoop and the harm",
@@ -15704,7 +15694,8 @@
     "RacingNews365": "2026-10-31T23:05:00+00:00",
     "RacingNews365 NL": "2026-10-31T23:10:00+00:00",
     "PlanetF1": "2026-10-31T23:40:31+00:00",
-    "The Race": "2026-11-01T00:01:35+00:00"
+    "The Race": "2026-11-01T00:01:35+00:00",
+    "Formula 1": "2026-11-01T01:13:43.606881+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15712,9 +15703,10 @@
     "RacingNews365": "Breaking: Liam Lawson at risk of Mexico City qualifying disqualification",
     "RacingNews365 NL": "Diskwalificatie dreigt voor Lawson na kwalificatie GP Mexico",
     "PlanetF1": "Liam Lawson under threat as FIA launches Mexican GP investigation",
-    "The Race": "Lawson at risk of Mexico qualifying DSQ"
+    "The Race": "Lawson at risk of Mexico qualifying DSQ",
+    "Formula 1": "BREAKING: Lawson disqualified from Mexico City GP Qualifying"
    },
-   "last": "2026-11-01T00:03:55.946519+00:00"
+   "last": "2026-11-01T01:13:43.606913+00:00"
   },
   "S3464": {
    "title": "Antonelli admits feeling weight of F1 title history",
@@ -16630,7 +16622,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T01:08:41.619373+00:00",
+ "last_run": "2026-11-01T01:13:39.800916+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
@@ -18314,6 +18306,11 @@
   {
    "t": "2026-11-01T00:58:54.992114+00:00",
    "title": "Verstappen, Meksika sıralama turunu neyin bozduğunu açıkladı",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-01T01:13:47.929165+00:00",
+   "title": "Lawson, Meksika GP sıralama turlarından diskalifiye edildi",
    "source": "Formula 1"
   }
  ]
