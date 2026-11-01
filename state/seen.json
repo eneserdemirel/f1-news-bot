@@ -6712,7 +6712,10 @@
   "50db00b98829ed7d": "2026-11-01T05:34:23.194582+00:00",
   "a7e5d4b90abe5606": "2026-11-01T05:49:27.696913+00:00",
   "6ec5f577bcde26fc": "2026-11-01T05:54:23.220492+00:00",
-  "da89d961634a3463": "2026-11-01T05:54:23.220492+00:00"
+  "da89d961634a3463": "2026-11-01T05:54:23.220492+00:00",
+  "60e65b89e35f5ade": "2026-11-01T06:04:27.049167+00:00",
+  "bd31ecf7f4f7b076": "2026-11-01T06:04:27.049167+00:00",
+  "c3e867a258ab0dc6": "2026-11-01T06:04:27.049167+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6972,32 +6975,6 @@
     "ESPN F1": "Trail Blazers' Ja Morant exits first game vs. Grizzlies with hamstring injury"
    },
    "last": "2026-10-30T21:30:16.911737+00:00"
-  },
-  "S2874": {
-   "title": "Cutter Gauthier capitalizes on power play",
-   "first": "2026-10-30T06:02:59.292569+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T04:39:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cutter Gauthier capitalizes on the power play"
-   },
-   "last": "2026-10-30T06:02:59.292588+00:00"
-  },
-  "S2875": {
-   "title": "Leclerc defends Albon after Alonso driver criticism",
-   "first": "2026-10-30T06:02:59.292602+00:00",
-   "sources": {
-    "GPblog": "2026-10-30T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Leclerc leaps to Albon’s defence as F1 drivers reject Alonso’s verdict"
-   },
-   "last": "2026-10-30T06:02:59.292627+00:00"
   },
   "S2876": {
    "title": "Russell predicted to finish outside top four in championship",
@@ -16038,14 +16015,16 @@
    "title": "Winners and losers from Mexico City GP qualifying",
    "first": "2026-11-01T01:18:50.987302+00:00",
    "sources": {
-    "The Race": "2026-11-01T01:17:35+00:00"
+    "The Race": "2026-11-01T01:17:35+00:00",
+    "PlanetF1": "2026-11-01T06:00:40+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Winners and losers from Mexican Grand Prix F1 qualifying 2026"
+    "The Race": "Winners and losers from Mexican Grand Prix F1 qualifying 2026",
+    "PlanetF1": "Winners and losers from the 2026 Mexico City Grand Prix Qualifying"
    },
-   "last": "2026-11-01T01:18:50.987306+00:00"
+   "last": "2026-11-01T06:04:30.619608+00:00"
   },
   "S3528": {
    "title": "ESPN college football Halloween-themed trolling roundup",
@@ -16821,9 +16800,35 @@
     "ESPN F1": "Spurs' Victor Wembanyama notches 43 points on career-best 34 shots in win"
    },
    "last": "2026-11-01T05:54:24.979983+00:00"
+  },
+  "S3587": {
+   "title": "Verstappen snaps back at journalist after Mexico qualifying",
+   "first": "2026-11-01T06:04:30.619582+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-01T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen countert journalist: \"Als jij het rommelig noemt...\""
+   },
+   "last": "2026-11-01T06:04:30.619600+00:00"
+  },
+  "S3588": {
+   "title": "Hamilton reveals long-unused tools behind Mexico pole",
+   "first": "2026-11-01T06:04:30.619612+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton reveals Mexico breakthrough with weakness he has battled for years"
+   },
+   "last": "2026-11-01T06:04:30.619618+00:00"
   }
  },
- "story_seq": 3586,
+ "story_seq": 3588,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16942,7 +16947,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T05:59:27.456487+00:00",
+ "last_run": "2026-11-01T06:04:27.049167+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
@@ -18642,6 +18647,16 @@
    "t": "2026-11-01T05:34:31.438949+00:00",
    "title": "Sebastian Vettel: Kendinden şüphe Formula 1'de sürekli yoldaş",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-01T06:04:37.042226+00:00",
+   "title": "Verstappen, rommelig denilen sıralama turunu ve ceza tartışmasını yanıtladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-01T06:04:37.488297+00:00",
+   "title": "Hamilton, Meksika'da yıllardır süren lastik sorununu aşan yöntemi açıkladı",
+   "source": "GPblog"
   }
  ]
 }
