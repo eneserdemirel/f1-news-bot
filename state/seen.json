@@ -6778,7 +6778,10 @@
   "9e0f9421076c6ae5": "2026-11-01T23:46:59.043508+00:00",
   "5c62344e0e5733f7": "2026-11-01T23:46:59.043508+00:00",
   "173f0cb6ed432c2c": "2026-11-01T23:46:59.043508+00:00",
-  "f1404135f7ae2c41": "2026-11-01T23:46:59.043508+00:00"
+  "f1404135f7ae2c41": "2026-11-01T23:46:59.043508+00:00",
+  "2464e323377b6666": "2026-11-01T23:51:56.879885+00:00",
+  "f775b6e90af619f8": "2026-11-01T23:51:56.879885+00:00",
+  "3cb3d0eea01af4bb": "2026-11-01T23:51:56.879885+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16624,7 +16627,7 @@
    "titles": {
     "Gazzetta dello Sport": "Kimi nell'Olimpo delle leggende: da Lauda a Schumacher e Hamilton, le prime volte dei re della F1"
    },
-   "last": "2026-11-01T22:52:08.941023+00:00"
+   "last": "2026-11-01T23:52:00.953961+00:00"
   },
   "S3812": {
    "title": "Mexico City podium called most fitting in F1 history",
@@ -17047,9 +17050,22 @@
     "FormulaPassion": "Kimi campione! Un titolo che va oltre la macchina"
    },
    "last": "2026-11-01T23:47:05.802777+00:00"
+  },
+  "S3844": {
+   "title": "Verstappen wins Mexico City GP Driver of the Day vote",
+   "first": "2026-11-01T23:52:00.953934+00:00",
+   "sources": {
+    "Formula 1": "2026-11-01T23:52:00.953948+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Verstappen is your Mexico City GP Driver of the Day"
+   },
+   "last": "2026-11-01T23:52:00.953952+00:00"
   }
  },
- "story_seq": 3843,
+ "story_seq": 3844,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17168,7 +17184,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-01T23:46:59.043508+00:00",
+ "last_run": "2026-11-01T23:51:56.879885+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18843,6 +18859,11 @@
    "t": "2026-11-01T23:47:14.719803+00:00",
    "title": "Vasseur, Hamilton ve Leclerc'i 'saygısızlık' gerekçesiyle eleştirdi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T23:52:04.250319+00:00",
+   "title": "Verstappen, Meksika GP'sinde Gün'ün Pilotu seçildi",
+   "source": "Formula 1"
   }
  ]
 }
