@@ -6814,7 +6814,11 @@
   "96559935ff8090bc": "2026-11-01T11:40:07.977926+00:00",
   "dafe7c22517cbce6": "2026-11-01T11:40:07.977926+00:00",
   "53abb046c237a638": "2026-11-01T11:40:07.977926+00:00",
-  "0fd622579b53cdaf": "2026-11-01T11:40:07.977926+00:00"
+  "0fd622579b53cdaf": "2026-11-01T11:40:07.977926+00:00",
+  "f9f9bfc48b5c1018": "2026-11-01T11:45:10.086310+00:00",
+  "e70bf8a4d36744e9": "2026-11-01T11:45:10.086310+00:00",
+  "227a1bab4731228c": "2026-11-01T11:45:10.086310+00:00",
+  "009df3ac241a83d4": "2026-11-01T11:45:10.086310+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7185,19 +7189,6 @@
     "RacingNews365 NL": "DPG Media neemt Viaplay-personeel over richting Videoland"
    },
    "last": "2026-10-30T12:48:46.024874+00:00"
-  },
-  "S2941": {
-   "title": "Antonelli's father travels from Mugello to Mexico City",
-   "first": "2026-10-30T11:43:44.227249+00:00",
-   "sources": {
-    "GPblog": "2026-10-30T11:29:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Kimi Antonelli's father races from Mugello to Mexico as family gathers for title weekend"
-   },
-   "last": "2026-10-30T11:43:44.227254+00:00"
   },
   "S2942": {
    "title": "Kevin Durant reflects on eight seasons with Thunder",
@@ -14828,7 +14819,7 @@
     "Formula 1": "Leclerc 'angry with myself' after Mexico Qualifying",
     "GPblog": "Leclerc angry with himself as Hamilton takes pole he expected to have"
    },
-   "last": "2026-11-01T11:36:17.096082+00:00"
+   "last": "2026-11-01T11:45:14.693159+00:00"
   },
   "S3487": {
    "title": "Derwin James placed on injured reserve after hamstring setback",
@@ -16716,7 +16707,7 @@
    "titles": {
     "FormulaPassion": "GP Messico, è rebus partenza: ma è così vero che partire in pole non sia un vantaggio?"
    },
-   "last": "2026-11-01T11:36:17.096171+00:00"
+   "last": "2026-11-01T11:45:14.693165+00:00"
   },
   "S3627": {
    "title": "Telemetry analysis of Hamilton's Ferrari Mexico pole lap",
@@ -16860,9 +16851,35 @@
     "Motorsport.com Italia": "F1 | Red Bull, Verstappen recrimina: \"Avevo il passo per la pole\". Mekies teme la partenza"
    },
    "last": "2026-11-01T11:40:12.674577+00:00"
+  },
+  "S3638": {
+   "title": "Gasly discusses his Make-A-Wish charity work",
+   "first": "2026-11-01T11:45:14.693133+00:00",
+   "sources": {
+    "Formula 1": "2026-11-01T11:45:14.693147+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "‘This experience has shaped me’ – Gasly on his work with Make-A-Wish"
+   },
+   "last": "2026-11-01T11:45:14.693150+00:00"
+  },
+  "S3639": {
+   "title": "Team boss blunt on Piastri's Mexico qualifying disaster",
+   "first": "2026-11-01T11:45:14.693169+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-01T11:02:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Oscar Piastri erlebt Qualifying-Desaster in Mexiko: Teamchef findet deutliche Worte - Motorsport-Total.com"
+   },
+   "last": "2026-11-01T11:45:14.693173+00:00"
   }
  },
- "story_seq": 3637,
+ "story_seq": 3639,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16981,7 +16998,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T11:40:07.977926+00:00",
+ "last_run": "2026-11-01T11:45:10.086310+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-10-31 22:00",
@@ -18600,6 +18617,11 @@
   {
    "t": "2026-11-01T11:36:55.839790+00:00",
    "title": "Hirakawa, Ocon'un yerine Meksika GP'de F1 debutu yapacak",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-01T11:45:20.169376+00:00",
+   "title": "Gasly: Make-A-Wish çalışmaları beni şekillendirdi",
    "source": "Formula 1"
   }
  ]
