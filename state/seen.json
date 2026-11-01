@@ -6716,7 +6716,13 @@
   "7ec70fa74497901c": "2026-11-01T22:46:59.792937+00:00",
   "0cb260ae98a263d8": "2026-11-01T22:46:59.792937+00:00",
   "16a452835312ed58": "2026-11-01T22:46:59.792937+00:00",
-  "cb31d2ea4dc21e51": "2026-11-01T22:46:59.792937+00:00"
+  "cb31d2ea4dc21e51": "2026-11-01T22:46:59.792937+00:00",
+  "e1d8fe361f2e28ac": "2026-11-01T22:52:03.395790+00:00",
+  "87dd7fd20b64aad2": "2026-11-01T22:52:03.395790+00:00",
+  "d1148de168f5bd31": "2026-11-01T22:52:03.395790+00:00",
+  "dbc26e7e88ecf568": "2026-11-01T22:52:03.395790+00:00",
+  "f3044c87be5dd381": "2026-11-01T22:52:03.395790+00:00",
+  "5692a21cef1ddd5a": "2026-11-01T22:52:03.395790+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6812,19 +6818,6 @@
     "ESPN F1": "UConn coach Dan Hurley signs two-year extension, under contract through 2032"
    },
    "last": "2026-10-30T22:55:10.563453+00:00"
-  },
-  "S3089": {
-   "title": "Panthers' defense outlook after Evero exit",
-   "first": "2026-10-30T21:10:10.998840+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:53:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?"
-   },
-   "last": "2026-10-30T22:50:16.853290+00:00"
   },
   "S3091": {
    "title": "Komatsu dismisses Bearman contract financial demand rumours",
@@ -6986,32 +6979,6 @@
     "GPFans": "Lewis Hamilton's Ferrari nightmare as F1 legend departs - F1 News Today"
    },
    "last": "2026-10-31T06:46:28.970236+00:00"
-  },
-  "S3114": {
-   "title": "Friday NBA fantasy basketball adds and bets",
-   "first": "2026-10-30T22:50:16.853315+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Friday's fantasy basketball adds and bets to make in the NBA"
-   },
-   "last": "2026-10-30T22:50:16.853323+00:00"
-  },
-  "S3115": {
-   "title": "Titans trade of their best player explained",
-   "first": "2026-10-30T22:50:16.853329+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Inside how Titans were convinced to trade their best player"
-   },
-   "last": "2026-10-30T22:50:16.853335+00:00"
   },
   "S3116": {
    "title": "Lawson criticises Verstappen after FP2 collision",
@@ -16545,15 +16512,19 @@
    "first": "2026-11-01T22:41:18.787162+00:00",
    "sources": {
     "PlanetF1": "2026-11-01T22:38:38+00:00",
-    "GPblog": "2026-11-01T22:43:00+00:00"
+    "GPblog": "2026-11-01T22:43:00+00:00",
+    "RacingNews365": "2026-11-01T22:47:00+00:00",
+    "RacingNews365 NL": "2026-11-01T22:48:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Unfiltered Kimi Antonelli reaction after World Championship win",
-    "GPblog": "Antonelli speaks for the first time as Formula 1 world champion"
+    "GPblog": "Antonelli speaks for the first time as Formula 1 world champion",
+    "RacingNews365": "Kimi Antonelli savours 'live forever' moment after making F1 history",
+    "RacingNews365 NL": "Antonelli uitzinnig na winnen wereldtitel: \"We hebben het geflikt!\""
    },
-   "last": "2026-11-01T22:47:10.370568+00:00"
+   "last": "2026-11-01T22:52:08.940999+00:00"
   },
   "S3802": {
    "title": "Angel City vs Boston NWSL team stats",
@@ -16632,9 +16603,61 @@
     "AS": "La ocurrencia de Mercedes"
    },
    "last": "2026-11-01T22:47:10.370636+00:00"
+  },
+  "S3808": {
+   "title": "Connelly ranks 29 college football CFP contenders after Week 9",
+   "first": "2026-11-01T22:52:08.940965+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T22:41:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Connelly's CFP tiers: How 29 contenders stack up after Week 9"
+   },
+   "last": "2026-11-01T22:52:08.940983+00:00"
+  },
+  "S3809": {
+   "title": "Hamilton calls for serious talks with Ferrari after Leclerc clash",
+   "first": "2026-11-01T22:52:08.941003+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T22:46:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton demands 'serious talks' after Leclerc clash at Mexico City GP"
+   },
+   "last": "2026-11-01T22:52:08.941008+00:00"
+  },
+  "S3810": {
+   "title": "Feature on Antonelli's family roots and upbringing",
+   "first": "2026-11-01T22:52:08.941011+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-01T22:45:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi, un trionfo nato in famiglia. \"Prende ancora la paghetta. E non può sgarrare...\""
+   },
+   "last": "2026-11-01T22:52:08.941016+00:00"
+  },
+  "S3811": {
+   "title": "Feature comparing Antonelli's firsts with past F1 champions",
+   "first": "2026-11-01T22:52:08.941019+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-01T22:38:29+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi nell'Olimpo delle leggende: da Lauda a Schumacher e Hamilton, le prime volte dei re della F1"
+   },
+   "last": "2026-11-01T22:52:08.941023+00:00"
   }
  },
- "story_seq": 3807,
+ "story_seq": 3811,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16753,7 +16776,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-01T22:46:59.792937+00:00",
+ "last_run": "2026-11-01T22:52:03.395790+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18352,6 +18375,16 @@
   {
    "t": "2026-11-01T22:47:18.273812+00:00",
    "title": "Kimi Antonelli, beş ardışık galibiyet ve Monza zaferiyle F1 şampiyonluğuna ulaştı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T22:52:15.375763+00:00",
+   "title": "Kimi Räikkönen'in zaferi aile içinde doğdu",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-01T22:52:15.711588+00:00",
+   "title": "Hamilton, Leclerc ile yaşanan çatışma sonrası Ferrari ile \"ciddi görüşmeler\" istiyor",
    "source": "GPblog"
   }
  ]
