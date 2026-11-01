@@ -6645,7 +6645,13 @@
   "bdbfa78c51185065": "2026-11-01T21:21:09.356964+00:00",
   "0fef7a3f1d23d35e": "2026-11-01T21:21:09.356964+00:00",
   "411f4a8eff688726": "2026-11-01T21:21:09.356964+00:00",
-  "40a4fbfdab48e5b5": "2026-11-01T21:21:09.356964+00:00"
+  "40a4fbfdab48e5b5": "2026-11-01T21:21:09.356964+00:00",
+  "3a3963a63b55cec6": "2026-11-01T21:26:06.468076+00:00",
+  "242bcff080470cf5": "2026-11-01T21:26:06.468076+00:00",
+  "d9c98f842d5dc6fc": "2026-11-01T21:26:06.468076+00:00",
+  "4d59cda62cf66f2d": "2026-11-01T21:26:06.468076+00:00",
+  "02e914be6b264777": "2026-11-01T21:26:06.468076+00:00",
+  "b6d0bf8788dfc437": "2026-11-01T21:26:06.468076+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6846,19 +6852,6 @@
     "ESPN F1": "Isack Hadjar to see stewards after alleged paddock misconduct at Mexico City Grand Prix"
    },
    "last": "2026-10-31T13:42:14.998893+00:00"
-  },
-  "S3095": {
-   "title": "Kane beats Mbappé in 2026 Ballon d'Or by narrow margin",
-   "first": "2026-10-30T21:25:10.606338+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:49:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026 Ballon d'or results: Kane beat Mbappé by one of smallest margins in history"
-   },
-   "last": "2026-10-30T21:25:10.606356+00:00"
   },
   "S3096": {
    "title": "Nice vs Rennes player statistics page",
@@ -16053,7 +16046,7 @@
     "Sky Sports F1": "CHAOS on opening lap as Leclerc gets penalty after overtaking Hamilton",
     "Autosport": "FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP"
    },
-   "last": "2026-11-01T21:21:14.272741+00:00"
+   "last": "2026-11-01T21:26:12.701634+00:00"
   },
   "S3759": {
    "title": "Boston College vs. Louisville college football game highlights",
@@ -16211,7 +16204,9 @@
     "GPblog": "2026-11-01T21:13:00+00:00",
     "Crash.net": "2026-11-01T21:13:56+00:00",
     "RacingNews365": "2026-11-01T21:16:00+00:00",
-    "RacingNews365 NL": "2026-11-01T21:16:00+00:00"
+    "RacingNews365 NL": "2026-11-01T21:16:00+00:00",
+    "Sky Sports F1": "2026-11-01T21:13:00+00:00",
+    "GPFans": "2026-11-01T21:24:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16219,9 +16214,11 @@
     "GPblog": "Mexican GP red-flagged after big crash leaves barriers heavily damaged",
     "Crash.net": "F1 Mexico GP red-flagged after huge Valtteri Bottas crash",
     "RacingNews365": "Frightening Valtteri Bottas crash sparks Mexico City GP red flag",
-    "RacingNews365 NL": "Horrorcrash Bottas veroorzaakt rode vlag in Mexico"
+    "RacingNews365 NL": "Horrorcrash Bottas veroorzaakt rode vlag in Mexico",
+    "Sky Sports F1": "'That is a hefty impact!' - Bottas has huge crash after suspension failure",
+    "GPFans": "F1 Mexican Grand Prix STOPPED after 200mph Valtteri Bottas crash brings out red flag"
    },
-   "last": "2026-11-01T21:21:14.272752+00:00"
+   "last": "2026-11-01T21:26:12.701639+00:00"
   },
   "S3771": {
    "title": "Illinois' David Mirkovic undergoes emergency appendectomy",
@@ -16235,9 +16232,48 @@
     "ESPN F1": "Illinois' David Mirkovic undergoes emergency appendectomy"
    },
    "last": "2026-11-01T21:21:14.272732+00:00"
+  },
+  "S3772": {
+   "title": "Jayson Tatum dunks big slam in NBA game",
+   "first": "2026-11-01T21:26:12.701589+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T21:19:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jayson Tatum skies for big slam"
+   },
+   "last": "2026-11-01T21:26:12.701608+00:00"
+  },
+  "S3773": {
+   "title": "Steelers beat Browns 27-6 in NFL game recap",
+   "first": "2026-11-01T21:26:12.701614+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T21:11:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Steelers 27-6 Browns (Nov 1, 2026) Game Recap"
+   },
+   "last": "2026-11-01T21:26:12.701620+00:00"
+  },
+  "S3774": {
+   "title": "Fan poll on best drivers at Mexico City GP",
+   "first": "2026-11-01T21:26:12.701643+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-01T21:19:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Jetzt abstimmen: Wer waren in Mexiko-Stadt die besten Fahrer? - Motorsport-Total.com"
+   },
+   "last": "2026-11-01T21:26:12.701647+00:00"
   }
  },
- "story_seq": 3771,
+ "story_seq": 3774,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16356,7 +16392,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T21:21:09.356964+00:00",
+ "last_run": "2026-11-01T21:26:06.468076+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -17886,6 +17922,16 @@
    "t": "2026-11-01T21:16:17.156669+00:00",
    "title": "Meksika GP'de büyük kaza: Bariyerler ağır hasar gördü, yarış kırmızı bayrakla durduruldu",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T21:26:17.962290+00:00",
+   "title": "Bottas, süspansiyon arızası sonrası Meksika'da ağır kaza geçirdi",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-01T21:26:18.323583+00:00",
+   "title": "FIA, Leclerc'in cezasını açıkladı: Ceza neden yarıya indi?",
+   "source": "RacingNews365"
   }
  ]
 }
