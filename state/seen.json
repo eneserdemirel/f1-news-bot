@@ -6722,7 +6722,12 @@
   "d1148de168f5bd31": "2026-11-01T22:52:03.395790+00:00",
   "dbc26e7e88ecf568": "2026-11-01T22:52:03.395790+00:00",
   "f3044c87be5dd381": "2026-11-01T22:52:03.395790+00:00",
-  "5692a21cef1ddd5a": "2026-11-01T22:52:03.395790+00:00"
+  "5692a21cef1ddd5a": "2026-11-01T22:52:03.395790+00:00",
+  "97f25a2452e31266": "2026-11-01T22:56:59.028917+00:00",
+  "0879a6cabe5a5ac3": "2026-11-01T22:56:59.028917+00:00",
+  "e3855a537daca9c3": "2026-11-01T22:56:59.028917+00:00",
+  "9f021344773f2ae4": "2026-11-01T22:56:59.028917+00:00",
+  "5702c37140bbc684": "2026-11-01T22:56:59.028917+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6805,19 +6810,6 @@
     "ESPN F1": "Mexico City Grand Prix: Charles Leclerc sets pace in first practice for Ferrari"
    },
    "last": "2026-10-31T00:15:59.650567+00:00"
-  },
-  "S3073": {
-   "title": "UConn coach Dan Hurley signs two-year extension through 2032",
-   "first": "2026-10-30T20:10:08.641963+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T20:07:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UConn coach Dan Hurley signs two-year extension, under contract through 2032"
-   },
-   "last": "2026-10-30T22:55:10.563453+00:00"
   },
   "S3091": {
    "title": "Komatsu dismisses Bearman contract financial demand rumours",
@@ -16287,7 +16279,7 @@
     "Auto Motor und Sport": "Formel 1: Antonelli-Krönung bei Verstappen-Sieg und erneuter Ferrari-Stress",
     "FormulaPassion": "Mondiale Piloti 2026: la classifica dopo il GP del Messico, Antonelli è campione del mondo"
    },
-   "last": "2026-11-01T22:47:10.370584+00:00"
+   "last": "2026-11-01T22:57:04.681730+00:00"
   },
   "S3787": {
    "title": "Verstappen wins Mexico City GP; full race results published",
@@ -16318,7 +16310,7 @@
     "FormulaPassion": "GP Città del Messico 2026, ordine di arrivo: Kimi, un sogno italiano! Antonelli 3° dietro Max e Hamilton, è campione del mondo",
     "AS": "Antonelli es el campeón en una lucha de gigantes"
    },
-   "last": "2026-11-01T22:47:10.370629+00:00"
+   "last": "2026-11-01T22:57:04.681743+00:00"
   },
   "S3788": {
    "title": "Arvid Lindblad crashes, triggering late Mexico safety car",
@@ -16589,7 +16581,7 @@
    "titles": {
     "Gazzetta dello Sport": "Il film della stagione: dal primo centro in Cina al delirio di Monza, tutto il magico 2026 di Kimi"
    },
-   "last": "2026-11-01T22:47:10.370625+00:00"
+   "last": "2026-11-01T22:57:04.681770+00:00"
   },
   "S3807": {
    "title": "Feature on Mercedes signing Antonelli at age 11",
@@ -16655,9 +16647,35 @@
     "Gazzetta dello Sport": "Kimi nell'Olimpo delle leggende: da Lauda a Schumacher e Hamilton, le prime volte dei re della F1"
    },
    "last": "2026-11-01T22:52:08.941023+00:00"
+  },
+  "S3812": {
+   "title": "Mexico City podium called most fitting in F1 history",
+   "first": "2026-11-01T22:57:04.681748+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T22:52:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Is this the most fitting podium in Formula 1 as history made in Mexico?"
+   },
+   "last": "2026-11-01T22:57:04.681754+00:00"
+  },
+  "S3813": {
+   "title": "Hamilton says Leclerc clash cost him Mexico City victory",
+   "first": "2026-11-01T22:57:04.681759+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-01T22:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Hamilton zinspeelt op Ferrari-gesprekken: \"Dit kostte ons de zege!\""
+   },
+   "last": "2026-11-01T22:57:04.681764+00:00"
   }
  },
- "story_seq": 3811,
+ "story_seq": 3813,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16776,17 +16794,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-01T22:52:03.395790+00:00",
+ "last_run": "2026-11-01T22:56:59.028917+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T22:52:29.472255+00:00",
-   "title": "Perez, Herta hakkında görüşünü açıkladı, takım arkadaşı kararına karışmak istemiyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-29T23:02:30.057666+00:00",
    "title": "Sainz, Williams'ta küçük bir ilerleme bekliyor",
@@ -18386,6 +18399,11 @@
    "t": "2026-11-01T22:52:15.711588+00:00",
    "title": "Hamilton, Leclerc ile yaşanan çatışma sonrası Ferrari ile \"ciddi görüşmeler\" istiyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T22:57:11.187289+00:00",
+   "title": "Meksika GP'de tarihi podyum: Antonelli, Verstappen ve Hamilton",
+   "source": "RacingNews365"
   }
  ]
 }
