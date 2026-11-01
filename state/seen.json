@@ -6986,7 +6986,10 @@
   "53417065a706841d": "2026-11-01T17:25:35.215489+00:00",
   "01dd6514e0ca68a3": "2026-11-01T17:25:35.215489+00:00",
   "2a30abec54d94840": "2026-11-01T17:31:06.553058+00:00",
-  "9df117e227660340": "2026-11-01T17:31:06.553058+00:00"
+  "9df117e227660340": "2026-11-01T17:31:06.553058+00:00",
+  "7e0861d3cf6402d2": "2026-11-01T17:36:10.668002+00:00",
+  "f7c9ddd352bcc55a": "2026-11-01T17:36:10.668002+00:00",
+  "f09f97bf65ff6f61": "2026-11-01T17:36:10.668002+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16743,9 +16746,35 @@
     "ESPN F1": "How far should Ohio State fall after loss to USC?"
    },
    "last": "2026-11-01T17:31:11.385629+00:00"
+  },
+  "S3717": {
+   "title": "Chandhok defends Liam Lawson over Racing Bulls seat",
+   "first": "2026-11-01T17:36:12.773225+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T17:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson handed fiery 'unjust sacking' defence amid F1 uncertainty"
+   },
+   "last": "2026-11-01T17:36:12.773244+00:00"
+  },
+  "S3718": {
+   "title": "Rafael Camara reportedly in line for Haas Brazil debut",
+   "first": "2026-11-01T17:36:12.773251+00:00",
+   "sources": {
+    "GPblog": "2026-11-01T17:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Haas line-up for Brazil shaken up: Ferrari junior Rafael Camara in frame for home F1 debut"
+   },
+   "last": "2026-11-01T17:36:12.773257+00:00"
   }
  },
- "story_seq": 3716,
+ "story_seq": 3718,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16864,7 +16893,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T17:31:06.553058+00:00",
+ "last_run": "2026-11-01T17:36:10.668002+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18439,6 +18468,16 @@
    "t": "2026-11-01T17:05:47.329329+00:00",
    "title": "Bearman, Ocon'a mesaj attığını doğruladı; Haas'ta Hirakawa debut yapıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T17:36:18.626337+00:00",
+   "title": "Chandhok: Lawson'ın koltuğunu kaybetmesi 'haksız bir görevden alma' olur",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T17:36:19.040046+00:00",
+   "title": "Haas'ın Brezilya kadrosu değişebilir: Ferrari genci Camara ilk F1 yarışına hazırlanıyor",
+   "source": "GPblog"
   }
  ]
 }
