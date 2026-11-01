@@ -6938,7 +6938,8 @@
   "0800bb911b990811": "2026-11-01T15:05:34.265798+00:00",
   "4ede9f22ad954722": "2026-11-01T15:15:41.842739+00:00",
   "5f09ac146d1ab0e9": "2026-11-01T15:25:35.783692+00:00",
-  "c4f9700ae6f34e55": "2026-11-01T15:25:35.783692+00:00"
+  "c4f9700ae6f34e55": "2026-11-01T15:25:35.783692+00:00",
+  "82a3075e6dcdc3c9": "2026-11-01T15:30:34.419623+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7266,19 +7267,6 @@
     "ESPN F1": "Sources - Texas Tech to use Castellanos, Hammond vs. Arizona"
    },
    "last": "2026-10-30T18:30:12.350164+00:00"
-  },
-  "S3005": {
-   "title": "How to watch US GP in Austin: schedule and TV channels",
-   "first": "2026-10-30T15:29:41.579584+00:00",
-   "sources": {
-    "AS": "2026-10-30T15:18:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "AS": "¿A qué hora es el GP de Estados Unidos de F1? Canal TV, horario, cómo y dónde ver la carrera desde Austin en vivo"
-   },
-   "last": "2026-10-30T15:29:41.579589+00:00"
   },
   "S3006": {
    "title": "Panthers fire Ejiro Evero as defensive coordinator",
@@ -16822,9 +16810,22 @@
     "ESPN F1": "Carlos Alcaraz beats Alex de Minaur to win Vienna Open for fourth title of 2026"
    },
    "last": "2026-11-01T15:25:37.150680+00:00"
+  },
+  "S3693": {
+   "title": "Perez's sponsor friend predicts his F1 future with Cadillac",
+   "first": "2026-11-01T15:30:37.006392+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-01T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Bondgenoot Perez doet voorspelling over F1-toekomst na groot nieuws rond Cadillac"
+   },
+   "last": "2026-11-01T15:30:37.006415+00:00"
   }
  },
- "story_seq": 3692,
+ "story_seq": 3693,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16943,7 +16944,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T15:25:35.783692+00:00",
+ "last_run": "2026-11-01T15:30:34.419623+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18518,6 +18519,11 @@
    "t": "2026-11-01T15:15:47.552164+00:00",
    "title": "Arvid Lindblad, Meksika GP sıralamasından memnun değil",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-01T15:30:42.218142+00:00",
+   "title": "Pérez'in Cadillac'taki geleceği ve 300. Grand Prix'si",
+   "source": "RacingNews365 NL"
   }
  ]
 }
