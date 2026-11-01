@@ -7011,7 +7011,8 @@
   "f0e2ad4453f3cc29": "2026-11-01T18:21:06.278061+00:00",
   "5f185158577b5f99": "2026-11-01T18:21:06.278061+00:00",
   "0c701a4f5e1365a3": "2026-11-01T18:21:06.278061+00:00",
-  "75a39675710ae16d": "2026-11-01T18:21:06.278061+00:00"
+  "75a39675710ae16d": "2026-11-01T18:21:06.278061+00:00",
+  "ff0b75f402ea7eac": "2026-11-01T18:31:06.417752+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7140,19 +7141,6 @@
     "Gazzetta dello Sport": "Quanti volti nuovi nelle libere 1 in Messico: l'Italia tifa per Fornaroli e Minì"
    },
    "last": "2026-10-30T18:45:17.048752+00:00"
-  },
-  "S3004": {
-   "title": "Texas Tech to use Castellanos, Hammond vs. Arizona",
-   "first": "2026-10-30T15:29:41.579573+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T15:25:40+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources - Texas Tech to use Castellanos, Hammond vs. Arizona"
-   },
-   "last": "2026-10-30T18:30:12.350164+00:00"
   },
   "S3016": {
    "title": "Xabi Alonso says no discussion over Estêvão loan move",
@@ -16742,9 +16730,22 @@
     "RacingNews365 NL": "Red Bull benadrukt potentieel Verstappen in Mexico"
    },
    "last": "2026-11-01T18:21:12.603029+00:00"
+  },
+  "S3732": {
+   "title": "Hamilton handed vote of confidence before Mexico City GP",
+   "first": "2026-11-01T18:31:09.103534+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-01T18:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton handed vote of confidence ahead of Mexico City GP"
+   },
+   "last": "2026-11-01T18:31:09.103554+00:00"
   }
  },
- "story_seq": 3731,
+ "story_seq": 3732,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16863,7 +16864,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T18:26:08.763256+00:00",
+ "last_run": "2026-11-01T18:31:06.417752+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18448,6 +18449,11 @@
    "t": "2026-11-01T18:16:18.942795+00:00",
    "title": "Lawson, Meksika GP'de pit lane'den başlayacak",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-01T18:31:13.744430+00:00",
+   "title": "Hamilton, Meksika GP'de Ferrari ile ilk pole'unun ardından okuyuculara göre favori",
+   "source": "RacingNews365"
   }
  ]
 }
