@@ -6902,7 +6902,8 @@
   "b98ae21ecd41a8b4": "2026-11-01T13:50:38.914445+00:00",
   "17b223ed9405ab37": "2026-11-01T13:55:33.344135+00:00",
   "b3960ceb19c7357d": "2026-11-01T13:55:33.344135+00:00",
-  "40b078929e16edce": "2026-11-01T13:55:33.344135+00:00"
+  "40b078929e16edce": "2026-11-01T13:55:33.344135+00:00",
+  "b89d1abfe5d7393e": "2026-11-01T14:00:35.404826+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16862,9 +16863,22 @@
     "RacingNews365 NL": "Red Bull hint op nieuwe vertraging belangrijke tool voor Verstappen"
    },
    "last": "2026-11-01T13:55:36.245130+00:00"
+  },
+  "S3672": {
+   "title": "F1 Driver of the Day vote explained for Mexican Grand Prix",
+   "first": "2026-11-01T14:00:36.962513+00:00",
+   "sources": {
+    "GPFans": "2026-11-01T13:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Driver Of The Day: How it works and how to vote for the Mexican Grand Prix"
+   },
+   "last": "2026-11-01T14:00:36.962535+00:00"
   }
  },
- "story_seq": 3671,
+ "story_seq": 3672,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16983,7 +16997,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T13:55:33.344135+00:00",
+ "last_run": "2026-11-01T14:00:35.404826+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
@@ -18583,6 +18597,11 @@
    "t": "2026-11-01T13:55:41.297312+00:00",
    "title": "Norris, McLaren'ın tur sürelerindeki tutarsızlığına şaşırdığını söyledi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-01T14:00:41.062913+00:00",
+   "title": "F1 Sürücüsü Günü oylaması nasıl işliyor ve Meksika GP'de nasıl oy verilir",
+   "source": "GPFans"
   }
  ]
 }
