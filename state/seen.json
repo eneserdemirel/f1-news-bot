@@ -6851,7 +6851,9 @@
   "8d0e83b28b374778": "2026-11-01T13:10:35.654563+00:00",
   "0a8557c60e133bd8": "2026-11-01T13:10:35.654563+00:00",
   "b61d102718349648": "2026-11-01T13:15:42.754775+00:00",
-  "cabf5fcd9c2a91ac": "2026-11-01T13:20:33.757344+00:00"
+  "cabf5fcd9c2a91ac": "2026-11-01T13:20:33.757344+00:00",
+  "032fe7120f170db0": "2026-11-01T13:25:38.455193+00:00",
+  "4b659e20c020281d": "2026-11-01T13:25:38.455193+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16758,9 +16760,35 @@
     "RacingNews365 NL": "Zo wordt Mercedes constructeurskampioen in Mexico"
    },
    "last": "2026-11-01T13:20:36.053881+00:00"
+  },
+  "S3660": {
+   "title": "Antonelli's 2026 title place among first-time F1 champions",
+   "first": "2026-11-01T13:25:41.219782+00:00",
+   "sources": {
+    "The Race": "2026-11-01T13:24:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Where Antonelli's 2026 will stand out among first-time F1 titles"
+   },
+   "last": "2026-11-01T13:25:41.219800+00:00"
+  },
+  "S3661": {
+   "title": "Hamilton and Russell say championship no longer matters",
+   "first": "2026-11-01T13:25:41.219804+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-01T13:22:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Lewis Hamilton und George Russell offen: WM-Titel spielt keine Rolle mehr - Motorsport-Total.com"
+   },
+   "last": "2026-11-01T13:25:41.219808+00:00"
   }
  },
- "story_seq": 3659,
+ "story_seq": 3661,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16879,22 +16907,12 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T13:20:33.757344+00:00",
+ "last_run": "2026-11-01T13:25:38.455193+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
  "last_digest_at": "2026-11-01T12:00:11.773486+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-29T13:21:03.520084+00:00",
-   "title": "Wolff, Antonelli'yi eleştiren rakip takımlara yanıt verdi",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-10-29T13:21:04.094240+00:00",
-   "title": "FIA, Meksika Grand Prix'si için üç Straight Mode bölgesini onayladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-29T13:31:07.993315+00:00",
    "title": "Meksika'da yüksek irtifa, Antonelli, Ferrari ve Verstappen'in mücadelesini belirleyecek",
@@ -18469,6 +18487,16 @@
    "t": "2026-11-01T13:15:49.814626+00:00",
    "title": "F1 Meksika GP 2026: Hamilton pole'da, gara 21.00'de başlıyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-01T13:25:45.571553+00:00",
+   "title": "Hamilton ve Russell: Artık şampiyonluk önemli değil",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-01T13:25:46.045495+00:00",
+   "title": "Antonelli 2026'da ilk kez dünya şampiyonu olabilir",
+   "source": "The Race"
   }
  ]
 }
