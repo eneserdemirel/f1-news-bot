@@ -7007,7 +7007,11 @@
   "d0a701127b614805": "2026-11-01T18:16:09.004513+00:00",
   "c282ccbb6478adab": "2026-11-01T18:16:09.004513+00:00",
   "85c13d429e75e3c1": "2026-11-01T18:16:09.004513+00:00",
-  "9cfae360f167cdf6": "2026-11-01T18:16:09.004513+00:00"
+  "9cfae360f167cdf6": "2026-11-01T18:16:09.004513+00:00",
+  "f0e2ad4453f3cc29": "2026-11-01T18:21:06.278061+00:00",
+  "5f185158577b5f99": "2026-11-01T18:21:06.278061+00:00",
+  "0c701a4f5e1365a3": "2026-11-01T18:21:06.278061+00:00",
+  "75a39675710ae16d": "2026-11-01T18:21:06.278061+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7118,31 +7122,6 @@
    },
    "last": "2026-10-30T18:45:17.048702+00:00"
   },
-  "S2993": {
-   "title": "Live blog of Mexico GP FP1 with rookie debutants",
-   "first": "2026-10-30T14:39:55.069394+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-30T14:10:00+00:00",
-    "RacingNews365": "2026-10-30T17:25:00+00:00",
-    "RacingNews365 NL": "2026-10-30T17:30:00+00:00",
-    "GPblog": "2026-10-30T17:30:00+00:00",
-    "Crash.net": "2026-10-30T17:30:00+00:00",
-    "PlanetF1": "2026-10-30T18:01:29+00:00",
-    "Formula 1": "2026-10-30T18:20:15.468646+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "F1 GP Messico 2026, FP1: Tanti giovani debuttanti in pista, si parte alle 19.30 – DIRETTA",
-    "RacingNews365": "LIVE: 2026 F1 Mexico City Grand Prix - Free Practice 1",
-    "RacingNews365 NL": "Live eerste vrije training F1 GP Mexico 2026",
-    "GPblog": "F1 LIVE | Antonelli one step away from glory as Mexican GP FP1 kicks off",
-    "Crash.net": "F1 Mexico Grand Prix LIVE: Updates from Friday practice",
-    "PlanetF1": "Mexico City GP LIVE: FP1 updates as it happens",
-    "Formula 1": "LIVE COVERAGE: FP1 for the Mexico City Grand Prix"
-   },
-   "last": "2026-10-30T18:20:15.468661+00:00"
-  },
   "S2995": {
    "title": "Preview of the ten rookies driving in Mexico City FP1",
    "first": "2026-10-30T14:44:31.966884+00:00",
@@ -7188,27 +7167,6 @@
    },
    "last": "2026-10-30T18:55:13.210114+00:00"
   },
-  "S3020": {
-   "title": "Sergio Perez to miss Mexico City GP event through illness",
-   "first": "2026-10-30T16:29:36.769504+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-30T16:25:00+00:00",
-    "Crash.net": "2026-10-30T16:30:00+00:00",
-    "GPblog": "2026-10-30T16:37:00+00:00",
-    "GPFans": "2026-10-30T17:44:00+00:00",
-    "Motorsport Week": "2026-10-30T18:11:35+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Sergio Perez to miss key Mexico City Grand Prix event through illness",
-    "Crash.net": "Sergio Perez pulls out of fan event after becoming third F1 driver to fall ill at Mexico GP",
-    "GPblog": "Not just Bottas: Home hero Perez also falls ill ahead of Mexican GP",
-    "GPFans": "Third F1 star struck with illness just hours before Mexican Grand Prix action",
-    "Motorsport Week": "Sergio Perez pulls of out F1 Mexico GP fan event due to illness"
-   },
-   "last": "2026-10-30T18:20:15.468681+00:00"
-  },
   "S3033": {
    "title": "Gazzetta feature on secrets of Mexico's Hermanos Rodriguez circuit",
    "first": "2026-10-30T17:14:38.681037+00:00",
@@ -7221,19 +7179,6 @@
     "Gazzetta dello Sport": "F1 in Messico, i segreti della pista Hermanos Rodriguez"
    },
    "last": "2026-10-30T18:35:12.135780+00:00"
-  },
-  "S3044": {
-   "title": "Nice vs. Rennes football live score",
-   "first": "2026-10-30T18:20:15.468668+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T18:14:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nice vs. Rennes (30 Oct, 2026) Live Score"
-   },
-   "last": "2026-10-30T18:20:15.468674+00:00"
   },
   "S3045": {
    "title": "Beat Luke Littler live updates from Manchester darts event",
@@ -15832,16 +15777,18 @@
    "sources": {
     "FormulaPassion": "2026-11-01T13:00:00+00:00",
     "Crash.net": "2026-11-01T18:00:00+00:00",
-    "Corriere dello Sport": "2026-11-01T17:55:33+00:00"
+    "Corriere dello Sport": "2026-11-01T17:55:33+00:00",
+    "Sky Sports F1": "2026-11-01T18:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "F1 GP Messico 2026, gara: Antonelli per il titolo, la Ferrari per la tappa. Hamilton in pole, si parte alle 21.00 – DIRETTA",
     "Crash.net": "F1 Mexico Grand Prix LIVE: Race updates as Kimi Antonelli goes for the title",
-    "Corriere dello Sport": "GP Messico diretta F1: Antonelli per diventare campione del mondo, segui la gara LIVE"
+    "Corriere dello Sport": "GP Messico diretta F1: Antonelli per diventare campione del mondo, segui la gara LIVE",
+    "Sky Sports F1": "Mexico City GP: Antonelli looks to secure title as Hamilton starts on pole LIVE!"
    },
-   "last": "2026-11-01T18:06:11.876814+00:00"
+   "last": "2026-11-01T18:21:12.603002+00:00"
   },
   "S3659": {
    "title": "How Mercedes can clinch the constructors' title in Mexico",
@@ -16769,9 +16716,35 @@
     "GPblog": "FIA confirm late pit lane start after fresh Mexican GP technical breaches"
    },
    "last": "2026-11-01T18:16:13.377834+00:00"
+  },
+  "S3730": {
+   "title": "Analysis: what Yamaha's MotoGP boycott means for F1 in Qatar",
+   "first": "2026-11-01T18:21:12.603013+00:00",
+   "sources": {
+    "Autosport": "2026-11-01T18:18:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Autosport": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?"
+   },
+   "last": "2026-11-01T18:21:12.603020+00:00"
+  },
+  "S3731": {
+   "title": "Red Bull's Mekies sees Verstappen potential from fifth in Mexico",
+   "first": "2026-11-01T18:21:12.603024+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-01T18:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull benadrukt potentieel Verstappen in Mexico"
+   },
+   "last": "2026-11-01T18:21:12.603029+00:00"
   }
  },
- "story_seq": 3729,
+ "story_seq": 3731,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16890,7 +16863,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T18:16:09.004513+00:00",
+ "last_run": "2026-11-01T18:21:06.278061+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
