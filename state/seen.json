@@ -7013,7 +7013,8 @@
   "0c701a4f5e1365a3": "2026-11-01T18:21:06.278061+00:00",
   "75a39675710ae16d": "2026-11-01T18:21:06.278061+00:00",
   "ff0b75f402ea7eac": "2026-11-01T18:31:06.417752+00:00",
-  "0be1aa9f6015578b": "2026-11-01T18:36:07.387192+00:00"
+  "0be1aa9f6015578b": "2026-11-01T18:36:07.387192+00:00",
+  "253b77ff6aeed5bf": "2026-11-01T18:41:16.335116+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7176,32 +7177,6 @@
    },
    "last": "2026-10-30T19:40:17.379780+00:00"
   },
-  "S3050": {
-   "title": "Breeders' Cup 2026 betting favorites and picks",
-   "first": "2026-10-30T18:40:11.831034+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T17:08:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Betting on the 2026 Breeders' Cup: Favorites, picks for Distaff, Turf, Classic"
-   },
-   "last": "2026-10-30T18:40:11.831040+00:00"
-  },
-  "S3051": {
-   "title": "Kompany to miss Bayern-Dortmund after hospital discharge",
-   "first": "2026-10-30T18:40:11.831045+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T16:33:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kompany to sit out Bayern-Dortmund after leaving hospital"
-   },
-   "last": "2026-10-30T18:40:11.831049+00:00"
-  },
   "S3052": {
    "title": "Nebraska QB Anthony Colandrea re-signs for 2027",
    "first": "2026-10-30T18:40:11.831053+00:00",
@@ -7214,19 +7189,6 @@
     "ESPN F1": "Nebraska QB Anthony Colandrea re-signs for 2027 season, agent says"
    },
    "last": "2026-10-30T21:05:17.115244+00:00"
-  },
-  "S3053": {
-   "title": "Skye Blakely chases NCAA titles with Gators",
-   "first": "2026-10-30T18:40:11.831060+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T15:04:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "After conquering worlds, Skye Blakely chases NCAA titles with Gators"
-   },
-   "last": "2026-10-30T18:40:11.831063+00:00"
   },
   "S3054": {
    "title": "Russell makes stunning admission about Mercedes after title collapse",
@@ -16697,9 +16659,22 @@
     "ESPN F1": "Premier League live updates: Arsenal lead Liverpool at Anfield"
    },
    "last": "2026-11-01T18:36:08.969676+00:00"
+  },
+  "S3734": {
+   "title": "Liverpool 0-1 Arsenal: Havertz goal at Anfield (football)",
+   "first": "2026-11-01T18:41:19.126521+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T18:36:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Liverpool 0-1 Arsenal: Kai Havertz ends Gunners' Anfield hoodoo"
+   },
+   "last": "2026-11-01T18:41:19.126539+00:00"
   }
  },
- "story_seq": 3733,
+ "story_seq": 3734,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16818,7 +16793,7 @@
   ]
  ],
  "calendar_updated": "2026-10-31T22:28:28.682957+00:00",
- "last_run": "2026-11-01T18:36:07.387192+00:00",
+ "last_run": "2026-11-01T18:41:16.335116+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 15:00",
