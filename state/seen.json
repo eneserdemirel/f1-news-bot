@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d7e9a9820c112916": "2026-10-19T04:34:51.452129+00:00",
-  "d395b1ef13168ea5": "2026-10-19T04:34:51.452129+00:00",
-  "8125a770e87680df": "2026-10-19T04:34:51.452129+00:00",
-  "e8324a4c74d8ada0": "2026-10-19T04:34:51.452129+00:00",
-  "8ee7fba30d941970": "2026-10-19T04:34:51.452129+00:00",
-  "4e742ad3f7f85a37": "2026-10-19T04:34:51.452129+00:00",
   "5f7961e24bd3e676": "2026-10-19T05:14:33.633155+00:00",
   "aa06171ca7323966": "2026-10-19T05:14:33.633155+00:00",
   "348a95ac7d26d358": "2026-10-19T05:14:33.633155+00:00",
@@ -6847,7 +6841,13 @@
   "3dddca1885b4287b": "2026-11-02T04:12:31.287307+00:00",
   "a7bbe560379fc5e0": "2026-11-02T04:17:34.466213+00:00",
   "9bff09c38e4abe77": "2026-11-02T04:22:31.293674+00:00",
-  "1cfbb796bd46228b": "2026-11-02T04:32:33.398487+00:00"
+  "1cfbb796bd46228b": "2026-11-02T04:32:33.398487+00:00",
+  "dc8a4fd144451fce": "2026-11-02T04:37:35.550860+00:00",
+  "acac7e3b0ec59b21": "2026-11-02T04:37:35.550860+00:00",
+  "ac4f9e50cc9bbc14": "2026-11-02T04:37:35.550860+00:00",
+  "3749c9d27ef2776f": "2026-11-02T04:37:35.550860+00:00",
+  "f6f18d2561d55529": "2026-11-02T04:37:35.550860+00:00",
+  "13a6b0485b011bf2": "2026-11-02T04:37:35.550860+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16294,7 +16294,7 @@
     "RacingNews365": "2026-11-01T23:41:00+00:00",
     "FormulaPassion": "2026-11-01T23:30:00+00:00",
     "Motorsport.com Italia": "2026-11-02T00:44:02+00:00",
-    "Motorsport-Total": "2026-11-02T01:59:08+00:00"
+    "Motorsport-Total": "2026-11-02T01:59:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16304,7 +16304,7 @@
     "Motorsport.com Italia": "F1 | Vasseur: \"I piloti hanno mancato di rispetto per le persone che lavorano per loro. Ne riparleremo...\"",
     "Motorsport-Total": "Frederic Vasseur zum Ferrari-Zoff: Lasst mich doch erst mit den beiden sprechen! - Motorsport-Total.com"
    },
-   "last": "2026-11-02T02:07:03.124708+00:00"
+   "last": "2026-11-02T04:37:39.481584+00:00"
   },
   "S3841": {
    "title": "Russell skips post-race media duties in Mexico",
@@ -17329,9 +17329,61 @@
     "ESPN F1": "Jim Harbaugh backs Mike McDaniel, Justin Herbert despite Chargers' post-bye dud"
    },
    "last": "2026-11-02T04:32:35.109548+00:00"
+  },
+  "S3917": {
+   "title": "Commanders beat Eagles 27-10 on Sunday Night Football",
+   "first": "2026-11-02T04:37:39.481531+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T04:30:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Commanders dispatch Eagles 27-10 on SNF"
+   },
+   "last": "2026-11-02T04:37:39.481549+00:00"
+  },
+  "S3918": {
+   "title": "Opetaia and Nyika potential battle for Usyk fight",
+   "first": "2026-11-02T04:37:39.481555+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T04:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Opetaia, Nyika facing potential battle for right to face Usyk"
+   },
+   "last": "2026-11-02T04:37:39.481561+00:00"
+  },
+  "S3919": {
+   "title": "Raiders snap four-game losing streak",
+   "first": "2026-11-02T04:37:39.481566+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T03:33:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raiders snap four-game losing streak"
+   },
+   "last": "2026-11-02T04:37:39.481570+00:00"
+  },
+  "S3920": {
+   "title": "Jaguars win at home, NFL game feature",
+   "first": "2026-11-02T04:37:39.481573+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T00:30:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No place like home for the Jags"
+   },
+   "last": "2026-11-02T04:37:39.481578+00:00"
   }
  },
- "story_seq": 3916,
+ "story_seq": 3920,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17450,7 +17502,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T04:32:33.398487+00:00",
+ "last_run": "2026-11-02T04:37:35.550860+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
