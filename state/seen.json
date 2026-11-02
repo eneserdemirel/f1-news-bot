@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7dcb9e3c0e1f12b3": "2026-10-19T15:50:08.949143+00:00",
-  "6681ad0af85c2458": "2026-10-19T15:50:08.949143+00:00",
-  "bd0cd0fa8cf611c7": "2026-10-19T15:50:08.949143+00:00",
-  "f209edaa06e9be4c": "2026-10-19T15:50:08.949143+00:00",
-  "b9a9286cd30cfdca": "2026-10-19T15:50:08.949143+00:00",
-  "86f4457a6361260b": "2026-10-19T15:50:08.949143+00:00",
   "2db910e9039f81e6": "2026-10-19T16:15:56.690862+00:00",
   "a6d6b774d8673021": "2026-10-19T16:15:56.690862+00:00",
   "44d2a1ed5cb59279": "2026-10-19T16:15:56.690862+00:00",
@@ -7053,7 +7047,11 @@
   "886d8b9b387cd2c2": "2026-11-02T15:34:07.537604+00:00",
   "fd5da85fa7b5dfec": "2026-11-02T15:34:07.537604+00:00",
   "d3c885317955283f": "2026-11-02T15:34:07.537604+00:00",
-  "ce6c0fc3a1846d30": "2026-11-02T15:44:15.242380+00:00"
+  "ce6c0fc3a1846d30": "2026-11-02T15:44:15.242380+00:00",
+  "a35039fce9d52fbd": "2026-11-02T15:54:09.230142+00:00",
+  "f59b1bcaa665284c": "2026-11-02T15:54:09.230142+00:00",
+  "15c00d27b8061e87": "2026-11-02T15:54:09.230142+00:00",
+  "3fee5166601f5fe0": "2026-11-02T15:54:09.230142+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7342,32 +7340,6 @@
     "ESPN F1": "LSU lands 5-star center Xavier Young for Class of 2027"
    },
    "last": "2026-10-31T16:57:56.332492+00:00"
-  },
-  "S3312": {
-   "title": "ESPN player stats for Chelsea 2-0 Man Utd (football)",
-   "first": "2026-10-31T15:47:57.838775+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T13:06:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chelsea 2-0 Man Utd (Oct 31, 2026) Player Stats"
-   },
-   "last": "2026-10-31T15:47:57.838797+00:00"
-  },
-  "S3313": {
-   "title": "Bangladesh bring in Amite Hasan for Mominul Haque in Sylhet Test",
-   "first": "2026-10-31T15:52:53.182431+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T15:50:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bangladesh bring in Amite Hasan for Mominul Haque for Sylhet Test"
-   },
-   "last": "2026-10-31T15:52:53.182450+00:00"
   },
   "S3314": {
    "title": "Man United implode at Chelsea, now in relegation battle",
@@ -14781,7 +14753,8 @@
     "Crash.net": "2026-11-02T11:45:41+00:00",
     "Corriere dello Sport": "2026-11-02T13:59:10+00:00",
     "PlanetF1": "2026-11-02T14:51:31+00:00",
-    "Motorsport.com Italia": "2026-11-02T15:16:34+00:00"
+    "Motorsport.com Italia": "2026-11-02T15:16:34+00:00",
+    "GPblog": "2026-11-02T15:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14797,9 +14770,10 @@
     "Crash.net": "Mercedes fined after ‘distraught’ George Russell skipped post-race media duties at Mexico GP",
     "Corriere dello Sport": "Disastro Russell dopo la vittoria di Antonelli: si dispera, boicotta le interviste e viene pure multato",
     "PlanetF1": "George Russell ‘distraught’ as Mercedes explains media absence",
-    "Motorsport.com Italia": "F1 | Russell multato: ha saltato le interviste post gara. Wolff: \"Gesto comprensibile. E' in un momento catastrofico\""
+    "Motorsport.com Italia": "F1 | Russell multato: ha saltato le interviste post gara. Wolff: \"Gesto comprensibile. E' in un momento catastrofico\"",
+    "GPblog": "Mercedes face FIA punishment after Russell's post-race disappearance"
    },
-   "last": "2026-11-02T15:24:14.235852+00:00"
+   "last": "2026-11-02T15:54:16.414425+00:00"
   },
   "S3842": {
    "title": "Leclerc says penalty deserved, wanted to return position to Hamilton",
@@ -18156,9 +18130,48 @@
     "RacingNews365 NL": "CEO Racing Bulls schetst keerzijde van situatie Lawson"
    },
    "last": "2026-11-02T15:34:11.105321+00:00"
+  },
+  "S4092": {
+   "title": "NHL Hometown Remix jerseys ranked by ESPN",
+   "first": "2026-11-02T15:54:16.414385+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T15:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Who's No. 1? Our definitive ranking of the NHL's new Hometown Remix jerseys"
+   },
+   "last": "2026-11-02T15:54:16.414406+00:00"
+  },
+  "S4093": {
+   "title": "Unclear ESPN F1 item headlined 'Horse'",
+   "first": "2026-11-02T15:54:16.414413+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T13:23:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Horse"
+   },
+   "last": "2026-11-02T15:54:16.414418+00:00"
+  },
+  "S4094": {
+   "title": "Motorsport-Total Mexico GP driver ratings: Bortoleto up, Piastri down",
+   "first": "2026-11-02T15:54:16.414430+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T15:30:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Fahrernoten Mexiko: Gabriel Bortoleto glänzt, Oscar Piastri floppt - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T15:54:16.414435+00:00"
   }
  },
- "story_seq": 4091,
+ "story_seq": 4094,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18277,17 +18290,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T15:44:15.242380+00:00",
+ "last_run": "2026-11-02T15:54:09.230142+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T15:49:39.650843+00:00",
-   "title": "Antonelli'nin sağlık durumu Meksika GP öncesi netleşti",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-30T16:09:46.333473+00:00",
    "title": "Steiner, Kimi Antonelli'nin Sebastian Vettel'den daha iyi olup olmadığı sorusuna yanıt verdi",
