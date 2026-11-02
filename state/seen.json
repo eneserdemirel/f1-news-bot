@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8e45c9d1d4a7a453": "2026-10-19T22:11:14.199219+00:00",
   "735fffe7718ecbe5": "2026-10-20T01:01:38.467744+00:00",
   "c30bbbeeeffb7b3f": "2026-10-20T01:01:38.467744+00:00",
   "cc16fd976717c1bf": "2026-10-20T04:29:16.515759+00:00",
@@ -7129,7 +7128,8 @@
   "41e80e7739187bb5": "2026-11-02T22:05:05.640346+00:00",
   "4b7f8c60c8d0f3b3": "2026-11-02T22:05:05.640346+00:00",
   "a600d88feb9710c3": "2026-11-02T22:05:05.640346+00:00",
-  "ab120852928a09bd": "2026-11-02T22:05:05.640346+00:00"
+  "ab120852928a09bd": "2026-11-02T22:05:05.640346+00:00",
+  "591474cc1db2ac5f": "2026-11-02T22:15:04.914250+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17485,9 +17485,22 @@
     "ESPN F1": "FSU interim Rick Stockstill says Seminoles program is close"
    },
    "last": "2026-11-02T22:05:09.193452+00:00"
+  },
+  "S4174": {
+   "title": "Cadillac owner Mark Walter reportedly seeks $3bn sale with seven bidders",
+   "first": "2026-11-02T22:15:06.865583+00:00",
+   "sources": {
+    "GPFans": "2026-11-02T22:08:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Cadillac F1 owner eyes $3bn team sale as at least seven bidders circle"
+   },
+   "last": "2026-11-02T22:15:06.865603+00:00"
   }
  },
- "story_seq": 4173,
+ "story_seq": 4174,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17606,7 +17619,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T22:05:05.640346+00:00",
+ "last_run": "2026-11-02T22:15:04.914250+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
@@ -19481,6 +19494,11 @@
    "t": "2026-11-02T20:35:12.327872+00:00",
    "title": "Antonelli tarihe geçti, Verstappen 2027'ye odaklandı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-02T22:15:11.244124+00:00",
+   "title": "Cadillac F1 sahibi takımı 3 milyar dolara satmayı düşünüyor",
+   "source": "GPFans"
   }
  ]
 }
