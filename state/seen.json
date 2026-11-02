@@ -6820,7 +6820,10 @@
   "0053e03644097aeb": "2026-11-02T00:47:00.292386+00:00",
   "bb07d3d85eef0ea1": "2026-11-02T00:47:00.292386+00:00",
   "3d34569c8bdbd7fd": "2026-11-02T00:47:00.292386+00:00",
-  "478db74aea490ad5": "2026-11-02T00:47:00.292386+00:00"
+  "478db74aea490ad5": "2026-11-02T00:47:00.292386+00:00",
+  "42fb269e95de768b": "2026-11-02T00:51:57.592938+00:00",
+  "ab7cc8c79612001c": "2026-11-02T00:51:57.592938+00:00",
+  "0555f180d21032a4": "2026-11-02T00:51:57.592938+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7078,45 +7081,6 @@
     "FormulaPassion": "Verstappen attacca Lawson: “Fossi in lui sarei stato più attento, si gioca il posto”"
    },
    "last": "2026-10-31T08:06:40.804529+00:00"
-  },
-  "S3134": {
-   "title": "Aiden Bui 48-yard field goal in college football",
-   "first": "2026-10-31T00:50:58.504035+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T00:49:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Aiden Bui makes 48-yard field goal"
-   },
-   "last": "2026-10-31T00:50:58.504053+00:00"
-  },
-  "S3135": {
-   "title": "Falcons' Anterio Thompson unable to play due to spinal issue",
-   "first": "2026-10-31T00:50:58.504059+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T00:47:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue"
-   },
-   "last": "2026-10-31T00:50:58.504065+00:00"
-  },
-  "S3136": {
-   "title": "Hughes wins $2M Juvenile race for Baffert",
-   "first": "2026-10-31T00:50:58.504069+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T00:47:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Unbeaten Hughes pulls away to win $2M Juvenile for Baffert"
-   },
-   "last": "2026-10-31T00:50:58.504074+00:00"
   },
   "S3137": {
    "title": "Hamilton says turbo makes no difference, rivals faster on straights",
@@ -16954,7 +16918,8 @@
     "RacingNews365 NL": "2026-11-02T00:01:00+00:00",
     "GPblog": "2026-11-02T00:12:00+00:00",
     "The Race": "2026-11-02T00:25:26+00:00",
-    "Formula 1": "2026-11-02T00:42:00.998443+00:00"
+    "Formula 1": "2026-11-02T00:42:00.998443+00:00",
+    "RacingNews365": "2026-11-02T00:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16963,9 +16928,10 @@
     "RacingNews365 NL": "Stewards vellen oordeel over incident Piastri en Lindblad",
     "GPblog": "Piastri suffers 10-second penalty after Lindblad collision at Mexico City GP",
     "The Race": "Piastri punished for Lindblad collision",
-    "Formula 1": "Piastri receives post-race penalty at Mexico City GP"
+    "Formula 1": "Piastri receives post-race penalty at Mexico City GP",
+    "RacingNews365": "Oscar Piastri stripped of Mexico points after huge F1 stewards penalty"
    },
-   "last": "2026-11-02T00:42:00.998458+00:00"
+   "last": "2026-11-02T00:52:01.125122+00:00"
   },
   "S3846": {
    "title": "Gazzetta driver ratings from Mexico City Grand Prix",
@@ -17200,9 +17166,35 @@
     "FormulaPassion": "Antonelli mondiale con risvolto: senza di lui Ferrari da titolo"
    },
    "last": "2026-11-02T00:47:05.081550+00:00"
+  },
+  "S3864": {
+   "title": "Ben Shelton adds Juan Carlos Ferrero to 2027 coaching staff",
+   "first": "2026-11-02T00:52:01.125094+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T00:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff"
+   },
+   "last": "2026-11-02T00:52:01.125113+00:00"
+  },
+  "S3865": {
+   "title": "Hamilton says Leclerc has 'do or die' mentality after clash",
+   "first": "2026-11-02T00:52:01.125127+00:00",
+   "sources": {
+    "Crash.net": "2026-11-02T00:50:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton points finger at Charles Leclerc for ‘do or die’ mentality"
+   },
+   "last": "2026-11-02T00:52:01.125133+00:00"
   }
  },
- "story_seq": 3863,
+ "story_seq": 3865,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17321,7 +17313,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T00:47:00.292386+00:00",
+ "last_run": "2026-11-02T00:51:57.592938+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19056,6 +19048,11 @@
    "t": "2026-11-02T00:47:08.319128+00:00",
    "title": "Valentino Rossi, Kimi Antonelli'yi taçlandırdı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-02T00:52:09.293168+00:00",
+   "title": "Piastri, Meksika GP'de 10 saniye cezayla puanlarını kaybetti",
+   "source": "RacingNews365"
   }
  ]
 }
