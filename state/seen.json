@@ -6883,7 +6883,12 @@
   "87f43654d02dc6c2": "2026-11-02T09:02:45.887990+00:00",
   "f04870c71b1956ff": "2026-11-02T09:02:45.887990+00:00",
   "ea2479177ef97447": "2026-11-02T09:02:45.887990+00:00",
-  "a62d2bd0eb99486f": "2026-11-02T09:02:45.887990+00:00"
+  "a62d2bd0eb99486f": "2026-11-02T09:02:45.887990+00:00",
+  "0d1a125b4f162e9a": "2026-11-02T09:12:38.046360+00:00",
+  "cd2b85715dbe1374": "2026-11-02T09:12:38.046360+00:00",
+  "3b8fde082e0dc019": "2026-11-02T09:12:38.046360+00:00",
+  "f0c5baba0cf2d089": "2026-11-02T09:12:38.046360+00:00",
+  "cc77d0b205abb81f": "2026-11-02T09:12:38.046360+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7209,19 +7214,6 @@
     "Gazzetta dello Sport": "F1, GP Messico: highlights prove libere"
    },
    "last": "2026-10-31T09:31:28.486374+00:00"
-  },
-  "S3227": {
-   "title": "Stevie Dunphy scores for Notre Dame (hockey, not F1)",
-   "first": "2026-10-31T09:06:27.732412+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T09:04:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Stevie Dunphy slots in the goal for Notre Dame"
-   },
-   "last": "2026-10-31T09:06:27.732430+00:00"
   },
   "S3228": {
    "title": "Full Hamilton radio released as Ferrari probe follows FP2 power loss",
@@ -15987,14 +15979,16 @@
    "title": "Leclerc says Hamilton clash should not be a discussion topic",
    "first": "2026-11-02T00:21:59.557088+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-02T00:18:14+00:00"
+    "Motorsport.com Italia": "2026-11-02T00:18:14+00:00",
+    "PlanetF1": "2026-11-02T09:06:23+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Hamilton vs Leclerc costa la vittoria alla Ferrari, ma Leclerc dice: \"Non dovrebbe essere un tema di discussione\""
+    "Motorsport.com Italia": "F1 | Hamilton vs Leclerc costa la vittoria alla Ferrari, ma Leclerc dice: \"Non dovrebbe essere un tema di discussione\"",
+    "PlanetF1": "Charles Leclerc delivers conflicting view on Mexican GP clash with Lewis Hamilton"
    },
-   "last": "2026-11-02T00:21:59.557108+00:00"
+   "last": "2026-11-02T09:12:45.171377+00:00"
   },
   "S3855": {
    "title": "Tremayne column on Antonelli's title and F1's future",
@@ -16970,15 +16964,17 @@
    "first": "2026-11-02T05:32:41.493259+00:00",
    "sources": {
     "RacingNews365 NL": "2026-11-02T05:30:00+00:00",
-    "GPFans": "2026-11-02T07:58:00+00:00"
+    "GPFans": "2026-11-02T07:58:00+00:00",
+    "FormulaPassion": "2026-11-02T08:58:55+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "FIA verklaart 'kleinere' straf Leclerc",
-    "GPFans": "FIA explain Charles Leclerc penalty decision as Lewis Hamilton left fuming after Ferrari clash"
+    "GPFans": "FIA explain Charles Leclerc penalty decision as Lewis Hamilton left fuming after Ferrari clash",
+    "FormulaPassion": "Leclerc penalizzato di 5 secondi e non 10, per i commissari c’è l’attenuante: è uscito anche Hamilton"
    },
-   "last": "2026-11-02T08:02:38.686261+00:00"
+   "last": "2026-11-02T09:12:45.171384+00:00"
   },
   "S3929": {
    "title": "Sammy comments on spinners in Dhaka Test cricket match",
@@ -17661,9 +17657,48 @@
     "AS": "Antonelli: “Algunos dijeron que no debía estar en la F1”"
    },
    "last": "2026-11-02T09:02:51.082861+00:00"
+  },
+  "S3981": {
+   "title": "Real Madrid believe Gabriel will sign; football transfer rumour",
+   "first": "2026-11-02T09:12:45.171340+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T09:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Real Madrid believe Man Utd's Gabriel will sign for them"
+   },
+   "last": "2026-11-02T09:12:45.171359+00:00"
+  },
+  "S3982": {
+   "title": "The Race MotoGP Malaysian Grand Prix rider rankings",
+   "first": "2026-11-02T09:12:45.171365+00:00",
+   "sources": {
+    "The Race": "2026-11-02T08:50:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Malaysian Grand Prix 2026 MotoGP rider rankings"
+   },
+   "last": "2026-11-02T09:12:45.171371+00:00"
+  },
+  "S3983": {
+   "title": "Vasseur says he understands Hamilton's frustration but will address comments",
+   "first": "2026-11-02T09:12:45.171387+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-02T08:56:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “Capisco la frustrazione di Hamilton, ma parleremo dei suoi commenti”"
+   },
+   "last": "2026-11-02T09:12:45.171391+00:00"
   }
  },
- "story_seq": 3980,
+ "story_seq": 3983,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17782,17 +17817,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T09:02:45.887990+00:00",
+ "last_run": "2026-11-02T09:12:38.046360+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T09:03:52.552426+00:00",
-   "title": "Russell: Ferrari Meksika GP'de büyük avantaja sahip olabilir",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-30T09:13:56.727448+00:00",
    "title": "Verstappen: RB22 ne yavaş ne de hızlı virajlarda öne çıkıyor",
