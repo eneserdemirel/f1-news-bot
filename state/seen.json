@@ -7033,7 +7033,12 @@
   "1663b5ba5bd34d97": "2026-11-02T14:54:09.365442+00:00",
   "b4b6f1130bdd7df1": "2026-11-02T14:54:09.365442+00:00",
   "356993912d749e46": "2026-11-02T14:54:09.365442+00:00",
-  "9e07b0c10ffe09dc": "2026-11-02T14:54:09.365442+00:00"
+  "9e07b0c10ffe09dc": "2026-11-02T14:54:09.365442+00:00",
+  "6e12110d2207d3ff": "2026-11-02T15:04:08.824787+00:00",
+  "036baf6073205133": "2026-11-02T15:04:08.824787+00:00",
+  "85d093d27da95397": "2026-11-02T15:04:08.824787+00:00",
+  "45adb212e5254dca": "2026-11-02T15:04:08.824787+00:00",
+  "240fb753a11cf04c": "2026-11-02T15:04:08.824787+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7324,45 +7329,6 @@
     "ESPN F1": "Zion Green commits to Alabama hoops as Crimson Tide's second top-25 recruit"
    },
    "last": "2026-10-31T18:48:06.126947+00:00"
-  },
-  "S3298": {
-   "title": "Cummins says 'we're a really good side'",
-   "first": "2026-10-31T15:02:20.629477+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T14:56:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cummins - 'I think we're a really good side'"
-   },
-   "last": "2026-10-31T15:02:20.629495+00:00"
-  },
-  "S3299": {
-   "title": "Chelsea 2-0 Man Utd match analysis",
-   "first": "2026-10-31T15:02:20.629500+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T14:45:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chelsea 2-0 Man Utd (Oct 31, 2026) Game Analysis"
-   },
-   "last": "2026-10-31T15:02:20.629506+00:00"
-  },
-  "S3300": {
-   "title": "Russell names biggest Mercedes threat after FP1",
-   "first": "2026-10-31T15:02:20.629526+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-31T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell voices biggest Mercedes threat after Mexico practice"
-   },
-   "last": "2026-10-31T15:02:20.629530+00:00"
   },
   "S3301": {
    "title": "Man City vs. Brighton team stats (Oct 31, 2026)",
@@ -17422,14 +17388,16 @@
    "title": "Newey inspects Ferrari SF-26 at Mexico Grand Prix",
    "first": "2026-11-02T11:33:19.677639+00:00",
    "sources": {
-    "PlanetF1": "2026-11-02T11:25:29+00:00"
+    "PlanetF1": "2026-11-02T11:25:29+00:00",
+    "GPblog": "2026-11-02T15:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Adrian Newey holds new Ferrari SF-26 inspection at Mexican Grand Prix"
+    "PlanetF1": "Adrian Newey holds new Ferrari SF-26 inspection at Mexican Grand Prix",
+    "GPblog": "Newey spotted studying Leclerc's Ferrari on Mexico grid as both Aston Martins retire"
    },
-   "last": "2026-11-02T11:33:19.677645+00:00"
+   "last": "2026-11-02T15:04:13.791057+00:00"
   },
   "S4024": {
    "title": "Verstappen calls for post-Mexico discussion over driver behaviour",
@@ -18158,9 +18126,48 @@
     "Motorsport.com Italia": "F1 | Verstappen vince anche senza la Red Bull migliore: “Non avevo il passo di Leclerc”"
    },
    "last": "2026-11-02T14:54:15.743880+00:00"
+  },
+  "S4080": {
+   "title": "Hamilton and Leclerc 'heads banging' needed, RacingNews365 podcast",
+   "first": "2026-11-02T15:04:13.791019+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-02T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Hamilton and Leclerc ‘heads banging’ needed as Antonelli era begins"
+   },
+   "last": "2026-11-02T15:04:13.791038+00:00"
+  },
+  "S4081": {
+   "title": "Verstappen and Hamilton lift Antonelli on shoulders after title",
+   "first": "2026-11-02T15:04:13.791045+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T14:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen en Hamilton genieten na van iconisch moment met Antonelli"
+   },
+   "last": "2026-11-02T15:04:13.791051+00:00"
+  },
+  "S4082": {
+   "title": "Alonso jokingly grabs Albon by the neck in Mexico City",
+   "first": "2026-11-02T15:04:13.791062+00:00",
+   "sources": {
+    "GPFans": "2026-11-02T14:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Fernando Alonso jokingly grabs F1 star by the neck after accusing rivals of having 'no talent'"
+   },
+   "last": "2026-11-02T15:04:13.791067+00:00"
   }
  },
- "story_seq": 4079,
+ "story_seq": 4082,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18279,7 +18286,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T14:54:09.365442+00:00",
+ "last_run": "2026-11-02T15:04:08.824787+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
@@ -20214,6 +20221,16 @@
    "t": "2026-11-02T14:54:21.804919+00:00",
    "title": "Kimi Antonelli, 2026 F1 dünya şampiyonu oldu",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-02T15:04:20.446051+00:00",
+   "title": "Alonso, Albon'a şaka yollu boğazından tuttu",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-02T15:04:20.909474+00:00",
+   "title": "Hamilton ve Leclerc, Antonelli döneminin başlamasıyla kafa yormalı",
+   "source": "RacingNews365"
   }
  ]
 }
