@@ -7129,7 +7129,11 @@
   "4b7f8c60c8d0f3b3": "2026-11-02T22:05:05.640346+00:00",
   "a600d88feb9710c3": "2026-11-02T22:05:05.640346+00:00",
   "ab120852928a09bd": "2026-11-02T22:05:05.640346+00:00",
-  "591474cc1db2ac5f": "2026-11-02T22:15:04.914250+00:00"
+  "591474cc1db2ac5f": "2026-11-02T22:15:04.914250+00:00",
+  "090842a3822dcdc0": "2026-11-02T22:25:03.605367+00:00",
+  "6f845b821ac8d122": "2026-11-02T22:25:03.605367+00:00",
+  "794c34fa099f688b": "2026-11-02T22:25:03.605367+00:00",
+  "183e3b2635165ca9": "2026-11-02T22:25:03.605367+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7314,25 +7318,6 @@
    },
    "last": "2026-11-01T03:34:29.647090+00:00"
   },
-  "S3422": {
-   "title": "Alonso stops car, red flag halts Mexico qualifying",
-   "first": "2026-10-31T21:18:47.154880+00:00",
-   "sources": {
-    "RacingNews365": "2026-10-31T21:12:00+00:00",
-    "GPblog": "2026-10-31T21:13:00+00:00",
-    "AS": "2026-10-31T21:36:29+00:00",
-    "PlanetF1": "2026-10-31T22:13:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Fernando Alonso furious stoppage triggers early qualifying red flag",
-    "GPblog": "Mexican GP qualifying red flagged after issue brings session to a halt",
-    "AS": "Honda rompe a Alonso",
-    "PlanetF1": "Mexican GP: Lewis Hamilton on pole as FIA decision made on Alonso"
-   },
-   "last": "2026-10-31T22:18:48.679682+00:00"
-  },
   "S3423": {
    "title": "Bayern 2-2 Dortmund match analysis",
    "first": "2026-10-31T21:23:40.727547+00:00",
@@ -7407,19 +7392,6 @@
     "PlanetF1": "Oscar Piastri reveals shock at early Mexico GP qualifying exit"
    },
    "last": "2026-11-01T00:58:48.296494+00:00"
-  },
-  "S3444": {
-   "title": "Aston Villa 1-1 Fulham match analysis",
-   "first": "2026-10-31T22:18:48.679612+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T22:09:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Aston Villa 1-1 Fulham (Oct 31, 2026) Game Analysis"
-   },
-   "last": "2026-10-31T22:18:48.679631+00:00"
   },
   "S3445": {
    "title": "Full Mexico City GP starting grid with penalties published",
@@ -17204,14 +17176,14 @@
    "title": "Motorsport-Total generic F1 news section page",
    "first": "2026-11-02T20:25:08.776338+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-02T20:22:13+00:00"
+    "Motorsport-Total": "2026-11-02T20:18:05+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Formel-1-Exklusiv-News und Interviews - Motorsport-Total.com"
    },
-   "last": "2026-11-02T20:25:08.776342+00:00"
+   "last": "2026-11-02T22:25:08.159044+00:00"
   },
   "S4153": {
    "title": "Betting markets tip Verstappen for 2027 title after Antonelli's win",
@@ -17498,9 +17470,35 @@
     "GPFans": "Cadillac F1 owner eyes $3bn team sale as at least seven bidders circle"
    },
    "last": "2026-11-02T22:15:06.865603+00:00"
+  },
+  "S4175": {
+   "title": "Newcastle 0-1 Everton match game analysis",
+   "first": "2026-11-02T22:25:08.159009+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T22:08:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Newcastle 0-1 Everton (Nov 2, 2026) Game Analysis"
+   },
+   "last": "2026-11-02T22:25:08.159028+00:00"
+  },
+  "S4176": {
+   "title": "Cardinals name Gardner Minshew starting QB",
+   "first": "2026-11-02T22:25:08.159033+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T21:42:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cardinals move forward with Gardner Minshew as new starting QB"
+   },
+   "last": "2026-11-02T22:25:08.159037+00:00"
   }
  },
- "story_seq": 4174,
+ "story_seq": 4176,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17619,7 +17617,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T22:15:04.914250+00:00",
+ "last_run": "2026-11-02T22:25:03.605367+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
