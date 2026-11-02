@@ -6867,7 +6867,11 @@
   "120c91ae532e3f0e": "2026-11-02T08:22:34.622571+00:00",
   "f147f7c04d8256af": "2026-11-02T08:22:34.622571+00:00",
   "33083079f4f247df": "2026-11-02T08:22:34.622571+00:00",
-  "3af7af45a0353bf6": "2026-11-02T08:22:34.622571+00:00"
+  "3af7af45a0353bf6": "2026-11-02T08:22:34.622571+00:00",
+  "8c43c19d51c78219": "2026-11-02T08:32:34.183197+00:00",
+  "276a49b1d212f8df": "2026-11-02T08:32:34.183197+00:00",
+  "8b8ff33eec8b2c3c": "2026-11-02T08:32:34.183197+00:00",
+  "139b4c35fd7593b1": "2026-11-02T08:32:34.183197+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17546,9 +17550,48 @@
     "AS": "Los campeones del mundo más jóvenes de la historia de la F1"
    },
    "last": "2026-11-02T08:22:42.455206+00:00"
+  },
+  "S3966": {
+   "title": "Haris Rauf joins Adelaide Strikers for BBL 2026-27",
+   "first": "2026-11-02T08:32:36.710982+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T08:20:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Haris Rauf joins Adelaide Strikers for BBL 2026-27"
+   },
+   "last": "2026-11-02T08:32:36.711001+00:00"
+  },
+  "S3967": {
+   "title": "Celtics vs. Rockets live score (NBA)",
+   "first": "2026-11-02T08:32:36.711007+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T06:58:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Celtics vs. Rockets (3 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-02T08:32:36.711013+00:00"
+  },
+  "S3968": {
+   "title": "Antonelli's Pavarotti and grandfather emotional moment feature",
+   "first": "2026-11-02T08:32:36.711018+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T08:22:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kimi Antonelli: Pavarotti und sein Opa sorgen für großen Gänsehautmoment - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T08:32:36.711023+00:00"
   }
  },
- "story_seq": 3965,
+ "story_seq": 3968,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17667,7 +17710,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T08:22:34.622571+00:00",
+ "last_run": "2026-11-02T08:32:34.183197+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19487,6 +19530,11 @@
    "t": "2026-11-02T08:22:46.265145+00:00",
    "title": "F1 sezonu Las Vegas'ta bitebilir, Imola için 10 Kasım son tarih",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-02T08:32:39.777805+00:00",
+   "title": "Kimi Antonelli: Pavarotti ve büyükbabası büyük bir ürperti anı yaşattı",
+   "source": "Motorsport-Total"
   }
  ]
 }
