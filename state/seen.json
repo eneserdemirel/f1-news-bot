@@ -6849,7 +6849,10 @@
   "d1e3bb51bca13052": "2026-11-02T06:02:37.252041+00:00",
   "9f2f3b08105692f5": "2026-11-02T06:07:32.336045+00:00",
   "200c6bbc2cb727c8": "2026-11-02T06:07:32.336045+00:00",
-  "349dff6faa6f4ec3": "2026-11-02T06:07:32.336045+00:00"
+  "349dff6faa6f4ec3": "2026-11-02T06:07:32.336045+00:00",
+  "9cacddfd751e4598": "2026-11-02T06:22:34.096325+00:00",
+  "cab704f314b3d29b": "2026-11-02T06:22:34.096325+00:00",
+  "200e7022290614fe": "2026-11-02T06:22:34.096325+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15840,7 +15843,8 @@
     "RacingNews365 NL": "2026-11-01T22:55:00+00:00",
     "Motorsport.com Italia": "2026-11-01T23:51:28+00:00",
     "GPblog": "2026-11-02T00:02:00+00:00",
-    "FormulaPassion": "2026-11-02T00:15:00+00:00"
+    "FormulaPassion": "2026-11-02T00:15:00+00:00",
+    "RacingNews365": "2026-11-02T06:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15848,9 +15852,10 @@
     "RacingNews365 NL": "Hamilton zinspeelt op Ferrari-gesprekken: \"Dit kostte ons de zege!\"",
     "Motorsport.com Italia": "F1 | Hamilton tuona: \"L'episodio con Leclerc? Ci è costato la vittoria. È una mancanza di rispetto per il team\"",
     "GPblog": "Lewis Hamilton 'really p*ssed' after Leclerc battle at Mexico City GP",
-    "FormulaPassion": "Tensione con Leclerc, Hamilton: “Abbiamo perso punti nei Costruttori, io ho perso la vittoria”"
+    "FormulaPassion": "Tensione con Leclerc, Hamilton: “Abbiamo perso punti nei Costruttori, io ho perso la vittoria”",
+    "RacingNews365": "Lewis Hamilton 'really pi**ed' at Charles Leclerc as new Ferrari demand made"
    },
-   "last": "2026-11-02T00:47:05.081534+00:00"
+   "last": "2026-11-02T06:22:41.006706+00:00"
   },
   "S3814": {
    "title": "Verstappen proud of Antonelli after Mexico title win",
@@ -16827,7 +16832,8 @@
     "Formula 1": "2026-11-02T02:07:03.124662+00:00",
     "The Race": "2026-11-02T02:09:22+00:00",
     "Autosport": "2026-11-02T02:16:28+00:00",
-    "Auto Motor und Sport": "2026-11-02T02:11:44+00:00"
+    "Auto Motor und Sport": "2026-11-02T02:11:44+00:00",
+    "Motorsport-Total": "2026-11-02T06:01:36+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16836,9 +16842,10 @@
     "Formula 1": "Alpine duo stripped of Mexico City GP points after penalties",
     "The Race": "Double penalty costs Alpine all its Mexican GP points",
     "Autosport": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
-    "Auto Motor und Sport": "Formel 1: Mexiko-Ergebnis über Nacht geändert"
+    "Auto Motor und Sport": "Formel 1: Mexiko-Ergebnis über Nacht geändert",
+    "Motorsport-Total": "Nachträgliche Strafen in Mexiko: Drei Formel-1-Fahrer verlieren ihre Punkte - Motorsport-Total.com"
    },
-   "last": "2026-11-02T02:57:03.147481+00:00"
+   "last": "2026-11-02T06:22:41.006713+00:00"
   },
   "S3886": {
    "title": "Jaguars beat Colts 42-7 in NFL game recap",
@@ -17489,9 +17496,22 @@
     "Motorsport-Total": "Gelb missachtet: Warum die FIA zwei Alpine-Fahrer unterschiedlich bestraft - Motorsport-Total.com"
    },
    "last": "2026-11-02T06:07:36.026746+00:00"
+  },
+  "S3936": {
+   "title": "Sky Sports feature on Antonelli's crisis-to-champion turnaround",
+   "first": "2026-11-02T06:22:41.006680+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-02T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "From crisis to champion: Antonelli's historic turnaround"
+   },
+   "last": "2026-11-02T06:22:41.006698+00:00"
   }
  },
- "story_seq": 3935,
+ "story_seq": 3936,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17610,7 +17630,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T06:17:31.785143+00:00",
+ "last_run": "2026-11-02T06:22:34.096325+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19430,6 +19450,11 @@
    "t": "2026-11-02T06:07:47.074772+00:00",
    "title": "Verstappen, Leclerc'in hafif cezasına şaşırdı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-02T06:22:45.089250+00:00",
+   "title": "Meksika'daki sonradan verilen cezalar: Üç F1 pilotu puanlarını kaybetti",
+   "source": "Motorsport-Total"
   }
  ]
 }
