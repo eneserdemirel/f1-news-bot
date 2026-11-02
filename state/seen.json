@@ -7123,7 +7123,13 @@
   "eadb8f8d940c7a7f": "2026-11-02T21:45:01.974524+00:00",
   "f2d4c0381a02e9f4": "2026-11-02T21:45:01.974524+00:00",
   "717b0ddfc3ba2872": "2026-11-02T21:55:03.355569+00:00",
-  "5e68b58946f862c4": "2026-11-02T21:55:03.355569+00:00"
+  "5e68b58946f862c4": "2026-11-02T21:55:03.355569+00:00",
+  "170d14f5324707cd": "2026-11-02T22:05:05.640346+00:00",
+  "f20cfb6aa479ec61": "2026-11-02T22:05:05.640346+00:00",
+  "41e80e7739187bb5": "2026-11-02T22:05:05.640346+00:00",
+  "4b7f8c60c8d0f3b3": "2026-11-02T22:05:05.640346+00:00",
+  "a600d88feb9710c3": "2026-11-02T22:05:05.640346+00:00",
+  "ab120852928a09bd": "2026-11-02T22:05:05.640346+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7401,45 +7407,6 @@
     "PlanetF1": "Oscar Piastri reveals shock at early Mexico GP qualifying exit"
    },
    "last": "2026-11-01T00:58:48.296494+00:00"
-  },
-  "S3441": {
-   "title": "Portland Trail Blazers vs. Utah Jazz game highlights",
-   "first": "2026-10-31T22:03:41.875326+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T21:58:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Portland Trail Blazers vs. Utah Jazz: Game Highlights"
-   },
-   "last": "2026-10-31T22:03:41.875346+00:00"
-  },
-  "S3442": {
-   "title": "Nate Dahle throws 6-yard touchdown pass",
-   "first": "2026-10-31T22:03:41.875353+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T21:50:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nate Dahle throws 6-yard touchdown"
-   },
-   "last": "2026-10-31T22:03:41.875359+00:00"
-  },
-  "S3443": {
-   "title": "ESPN SportsCenter update, October 31 afternoon",
-   "first": "2026-10-31T22:03:41.875363+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T18:21:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "ESPN SportsCenter Update - SC Update 10-31 01:51 PM ET"
-   },
-   "last": "2026-10-31T22:03:41.875367+00:00"
   },
   "S3444": {
    "title": "Aston Villa 1-1 Fulham match analysis",
@@ -13012,7 +12979,8 @@
     "Motorsport.com Italia": "2026-11-02T00:44:02+00:00",
     "Motorsport-Total": "2026-11-02T01:59:00+00:00",
     "Formula 1": "2026-11-02T10:53:22.424690+00:00",
-    "GPFans": "2026-11-02T11:57:00+00:00"
+    "GPFans": "2026-11-02T11:57:00+00:00",
+    "GPblog": "2026-11-02T22:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13022,9 +12990,10 @@
     "Motorsport.com Italia": "F1 | Vasseur: \"I piloti hanno mancato di rispetto per le persone che lavorano per loro. Ne riparleremo...\"",
     "Motorsport-Total": "Frederic Vasseur zum Ferrari-Zoff: Lasst mich doch erst mit den beiden sprechen! - Motorsport-Total.com",
     "Formula 1": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
-    "GPFans": "Ferrari boss launches Hamilton vs Leclerc investigation after 'huge disrespect'"
+    "GPFans": "Ferrari boss launches Hamilton vs Leclerc investigation after 'huge disrespect'",
+    "GPblog": "Vasseur reaches boiling point with Hamilton and Leclerc: 'It's a lack of respect'"
    },
-   "last": "2026-11-02T12:03:20.897800+00:00"
+   "last": "2026-11-02T22:05:09.193458+00:00"
   },
   "S3841": {
    "title": "Russell skips post-race media duties in Mexico",
@@ -17281,7 +17250,7 @@
    "titles": {
     "ESPN F1": "Newcastle vs. Everton (Nov 2, 2026) Team Stats"
    },
-   "last": "2026-11-02T20:35:09.097701+00:00"
+   "last": "2026-11-02T22:05:09.193445+00:00"
   },
   "S4156": {
    "title": "Michael Wilbon takes leave of absence from ESPN for health",
@@ -17477,9 +17446,48 @@
     "ESPN F1": "Where do 2026 champion Valkyries rank among every WNBA title team?"
    },
    "last": "2026-11-02T21:55:05.208887+00:00"
+  },
+  "S4171": {
+   "title": "Nebraska coach Matt Rhule urges calm after fan abuse",
+   "first": "2026-11-02T22:05:09.193408+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T20:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nebraska's Matt Rhule urges calm after fan cursed at his daughter after loss"
+   },
+   "last": "2026-11-02T22:05:09.193428+00:00"
+  },
+  "S4172": {
+   "title": "Packers stick with RB Jacobs despite abuse allegations",
+   "first": "2026-11-02T22:05:09.193434+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T20:40:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Packers sticking with RB Jacobs despite latest abuse allegations"
+   },
+   "last": "2026-11-02T22:05:09.193438+00:00"
+  },
+  "S4173": {
+   "title": "FSU interim coach Rick Stockstill says program is close",
+   "first": "2026-11-02T22:05:09.193448+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T18:13:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "FSU interim Rick Stockstill says Seminoles program is close"
+   },
+   "last": "2026-11-02T22:05:09.193452+00:00"
   }
  },
- "story_seq": 4170,
+ "story_seq": 4173,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17598,7 +17606,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T21:55:03.355569+00:00",
+ "last_run": "2026-11-02T22:05:05.640346+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
