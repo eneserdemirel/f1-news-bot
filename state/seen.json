@@ -6858,7 +6858,10 @@
   "5dbdfb0c4080c304": "2026-11-02T07:32:37.817808+00:00",
   "663fcb82bc866aa9": "2026-11-02T07:37:31.455930+00:00",
   "51db85457ca9f7b3": "2026-11-02T07:42:35.206420+00:00",
-  "ff8e0151e7c51f39": "2026-11-02T07:47:34.558987+00:00"
+  "ff8e0151e7c51f39": "2026-11-02T07:47:34.558987+00:00",
+  "60b659298905d155": "2026-11-02T07:52:37.070303+00:00",
+  "9ffb2db132bc4fd8": "2026-11-02T07:52:37.070303+00:00",
+  "0544d6884c40a18b": "2026-11-02T07:52:37.070303+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7209,19 +7212,6 @@
     "ESPN F1": "Baylor bounces back, wins Joe Klanderman's first game as interim coach"
    },
    "last": "2026-10-31T08:11:30.052393+00:00"
-  },
-  "S3209": {
-   "title": "Damon Hill praises Antonelli and comments on Russell",
-   "first": "2026-10-31T07:51:29.591079+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-10-31T07:43:15+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Damon Hill: \"La forza di Kimi? Tutti lo amano, e non è scontato. Pensavo che Russell fosse meglio, ma...\""
-   },
-   "last": "2026-10-31T07:51:29.591099+00:00"
   },
   "S3210": {
    "title": "Wache explains Red Bull problem behind Verstappen's slow pace",
@@ -15943,7 +15933,7 @@
    "titles": {
     "Motorsport-Total": "Formel-1-News, F1-News - aktuelle Formel-1-Nachrichten - Motorsport-Total.com"
    },
-   "last": "2026-11-01T23:32:05.673802+00:00"
+   "last": "2026-11-02T07:52:41.689759+00:00"
   },
   "S3836": {
    "title": "Spanish roundup of F1 world champions after Antonelli title",
@@ -17532,9 +17522,22 @@
     "ESPN F1": "Luka Doncic touts his improved defense, draws praise from Lakers, Raptors"
    },
    "last": "2026-11-02T07:47:36.166484+00:00"
+  },
+  "S3954": {
+   "title": "Motorsport-Total feature on Antonelli's 'turning point' to title",
+   "first": "2026-11-02T07:52:41.689731+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T07:45:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kimi Antonelli erklärt: Der \"Wendepunkt\", der zum WM-Titel führte - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T07:52:41.689749+00:00"
   }
  },
- "story_seq": 3953,
+ "story_seq": 3954,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17653,7 +17656,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T07:47:34.558987+00:00",
+ "last_run": "2026-11-02T07:52:37.070303+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19468,6 +19471,11 @@
    "t": "2026-11-02T07:42:41.451544+00:00",
    "title": "Toto Wolff, Meksika GP sonrası George Russell'dan özür diledi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-02T07:52:47.052476+00:00",
+   "title": "Kimi Antonelli, dünya şampiyonluğuna giden dönüm noktasını anlattı",
+   "source": "Motorsport-Total"
   }
  ]
 }
