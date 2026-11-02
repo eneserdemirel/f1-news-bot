@@ -6856,7 +6856,8 @@
   "7768fd02cf2b60ca": "2026-11-02T07:27:30.937976+00:00",
   "ec4fdc78413fb150": "2026-11-02T07:32:37.817808+00:00",
   "5dbdfb0c4080c304": "2026-11-02T07:32:37.817808+00:00",
-  "663fcb82bc866aa9": "2026-11-02T07:37:31.455930+00:00"
+  "663fcb82bc866aa9": "2026-11-02T07:37:31.455930+00:00",
+  "51db85457ca9f7b3": "2026-11-02T07:42:35.206420+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7207,19 +7208,6 @@
     "ESPN F1": "Baylor bounces back, wins Joe Klanderman's first game as interim coach"
    },
    "last": "2026-10-31T08:11:30.052393+00:00"
-  },
-  "S3208": {
-   "title": "Acosta beats Marquez in Malaysian MotoGP sprint race",
-   "first": "2026-10-31T07:41:32.617366+00:00",
-   "sources": {
-    "GPblog": "2026-10-31T07:22:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "MotoGP Full Sprint Race Results | Acosta beats Marquez in Sepang"
-   },
-   "last": "2026-10-31T07:41:32.617373+00:00"
   },
   "S3209": {
    "title": "Damon Hill praises Antonelli and comments on Russell",
@@ -17517,9 +17505,22 @@
     "AS": "El camino de Antonelli hasta ser campeón"
    },
    "last": "2026-11-02T07:32:40.815681+00:00"
+  },
+  "S3952": {
+   "title": "New footage of Russell and Wolff after Mexican GP emerges",
+   "first": "2026-11-02T07:42:37.423661+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-02T07:34:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘Sh*tshow’ – New George Russell and Toto Wolff Mexican GP footage emerges"
+   },
+   "last": "2026-11-02T07:42:37.423677+00:00"
   }
  },
- "story_seq": 3951,
+ "story_seq": 3952,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17638,7 +17639,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T07:37:31.455930+00:00",
+ "last_run": "2026-11-02T07:42:35.206420+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19448,6 +19449,11 @@
    "t": "2026-11-02T07:27:40.853295+00:00",
    "title": "Antonelli 2027'de dünya şampiyonu olarak 1 numaralı yarış numarasını kullanmayacak",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-02T07:42:41.451544+00:00",
+   "title": "Toto Wolff, Meksika GP sonrası George Russell'dan özür diledi",
+   "source": "PlanetF1"
   }
  ]
 }
