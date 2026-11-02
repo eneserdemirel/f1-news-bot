@@ -7066,7 +7066,8 @@
   "cc9228946764db38": "2026-11-02T17:24:07.827590+00:00",
   "da50d4375dab62d6": "2026-11-02T17:34:12.194572+00:00",
   "2f7fca7b88a361bc": "2026-11-02T17:34:12.194572+00:00",
-  "a2fd51903711c8c6": "2026-11-02T17:34:12.194572+00:00"
+  "a2fd51903711c8c6": "2026-11-02T17:34:12.194572+00:00",
+  "35a10db83af8975f": "2026-11-02T17:44:08.269739+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7245,19 +7246,6 @@
     "ESPN F1": "Man City 0-1 Brighton (Oct 31, 2026) Game Analysis"
    },
    "last": "2026-10-31T18:32:54.245545+00:00"
-  },
-  "S3334": {
-   "title": "Leeds vs. Spurs odds and spread (betting preview)",
-   "first": "2026-10-31T17:42:55.771584+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T15:27:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Leeds vs. Spurs (Nov 7, 2026) Odds and Spread"
-   },
-   "last": "2026-10-31T17:42:55.771604+00:00"
   },
   "S3335": {
    "title": "Report links Ocon's Haas benching to race engineer dispute",
@@ -18054,9 +18042,22 @@
     "AS": "Honda lo vuelve a hacer"
    },
    "last": "2026-11-02T17:34:17.423568+00:00"
+  },
+  "S4115": {
+   "title": "Bono recalls first spotting Antonelli's raw talent",
+   "first": "2026-11-02T17:44:13.625818+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T17:33:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Der Moment, als \"Bono\" erstmals den Rohdiamanten in Antonelli gesehen hat - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T17:44:13.625835+00:00"
   }
  },
- "story_seq": 4114,
+ "story_seq": 4115,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18175,7 +18176,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T17:34:12.194572+00:00",
+ "last_run": "2026-11-02T17:44:08.269739+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
@@ -20115,6 +20116,11 @@
    "t": "2026-11-02T17:14:17.080336+00:00",
    "title": "Red Bull'un stratejisi Verstappen'i Meksika GP'de öne taşıdı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-02T17:44:16.906476+00:00",
+   "title": "\"Bono\"nun Antonelli'de ham elması ilk kez gördüğü an",
+   "source": "Motorsport-Total"
   }
  ]
 }
