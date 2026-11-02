@@ -1,16 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b10809f89e29780d": "2026-10-19T12:07:07.889084+00:00",
-  "dd06a1c295c03e19": "2026-10-19T12:07:07.889084+00:00",
-  "bb305237be635608": "2026-10-19T12:07:07.889084+00:00",
-  "d99ff73421f19b0a": "2026-10-19T12:07:07.889084+00:00",
-  "94262459ce8a3f35": "2026-10-19T12:07:07.889084+00:00",
-  "ca17a8615267039f": "2026-10-19T12:07:07.889084+00:00",
-  "544450414b035f19": "2026-10-19T12:07:07.889084+00:00",
-  "725ed20cad7a4b48": "2026-10-19T12:07:07.889084+00:00",
-  "ec8075c26af5c817": "2026-10-19T12:07:07.889084+00:00",
-  "d5425d8048a7dc7f": "2026-10-19T12:07:07.889084+00:00",
   "62d559d6b9b225fb": "2026-10-19T12:52:06.056027+00:00",
   "8bdf40cd8a77b827": "2026-10-19T12:52:06.056027+00:00",
   "8e7572573c9595eb": "2026-10-19T12:52:06.056027+00:00",
@@ -6997,7 +6987,13 @@
   "bbcb0a98584199bf": "2026-11-02T12:03:16.149008+00:00",
   "39b3273029093f14": "2026-11-02T12:03:16.149008+00:00",
   "f4339e8dc88723a8": "2026-11-02T12:03:16.149008+00:00",
-  "91066326b29980ee": "2026-11-02T12:03:16.149008+00:00"
+  "91066326b29980ee": "2026-11-02T12:03:16.149008+00:00",
+  "57e2cfd66075798c": "2026-11-02T12:13:16.747075+00:00",
+  "6ce0a26c122d03a7": "2026-11-02T12:13:16.747075+00:00",
+  "572fac09e63a9316": "2026-11-02T12:13:16.747075+00:00",
+  "4f5decba8c819ac5": "2026-11-02T12:13:16.747075+00:00",
+  "243827f1b0165932": "2026-11-02T12:13:16.747075+00:00",
+  "6664557479357dc0": "2026-11-02T12:13:16.747075+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16270,16 +16266,18 @@
    "sources": {
     "Crash.net": "2026-11-02T02:06:58+00:00",
     "FormulaPassion": "2026-11-02T09:23:01+00:00",
-    "Motorsport Week": "2026-11-02T09:30:00+00:00"
+    "Motorsport Week": "2026-11-02T09:30:00+00:00",
+    "Motorsport.com Italia": "2026-11-02T12:00:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Ryo Hirakawa scores point on F1 debut at Mexico GP after double Alpine penalty",
     "FormulaPassion": "Alpine penalizzate, Hirakawa a punti: il motivo",
-    "Motorsport Week": "Haas F1 debutant handed points finish after Mexico penalties"
+    "Motorsport Week": "Haas F1 debutant handed points finish after Mexico penalties",
+    "Motorsport.com Italia": "F1 | Quante penalità nel post-gara: Hirakawa va a punti al debutto con un sorpasso all’esterno!"
    },
-   "last": "2026-11-02T09:43:23.797854+00:00"
+   "last": "2026-11-02T12:13:22.187067+00:00"
   },
   "S3895": {
    "title": "Hawks' Flemings suspended for elbowing Pelicans' McGowens",
@@ -17653,7 +17651,7 @@
     "GPblog": "Mexican Grand Prix result changed after penalties, with implications for Red Bull too",
     "Gazzetta dello Sport": "Cambia l'arrivo in Messico: penalità a Gasly, Colapinto e Piastri. C'è il primo punto per Hirakawa!"
    },
-   "last": "2026-11-02T11:53:26.205527+00:00"
+   "last": "2026-11-02T12:13:22.187097+00:00"
   },
   "S3999": {
    "title": "Verstappen jokes FIA will keep inventing new penalties",
@@ -18096,9 +18094,61 @@
     "RacingNews365": "Lando Norris and Charles Leclerc reflect on karting roots as FIA marks 70th anniversary"
    },
    "last": "2026-11-02T12:03:20.897793+00:00"
+  },
+  "S4033": {
+   "title": "Man United struggling with managerial hires post-Ferguson",
+   "first": "2026-11-02T12:13:22.187038+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T12:04:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Man United are so bad at hiring managers post-Ferguson"
+   },
+   "last": "2026-11-02T12:13:22.187058+00:00"
+  },
+  "S4034": {
+   "title": "RacingNews365 driver ratings for Mexico City GP",
+   "first": "2026-11-02T12:13:22.187072+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-02T12:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "2026 F1 Mexico City Grand Prix Driver Ratings"
+   },
+   "last": "2026-11-02T12:13:22.187077+00:00"
+  },
+  "S4035": {
+   "title": "Italian media reaction to Mexico GP and Antonelli",
+   "first": "2026-11-02T12:13:22.187080+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T12:10:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Italiaanse media heen en weer geslingerd in bizarre rollercoaster na GP Mexico"
+   },
+   "last": "2026-11-02T12:13:22.187084+00:00"
+  },
+  "S4036": {
+   "title": "Jenson Button criticises Esteban Ocon's performance",
+   "first": "2026-11-02T12:13:22.187087+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-02T12:04:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Jenson Button delivers damning ‘who’s going to want to pick him up’ Esteban Ocon verdict"
+   },
+   "last": "2026-11-02T12:13:22.187090+00:00"
   }
  },
- "story_seq": 4032,
+ "story_seq": 4036,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18217,7 +18267,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T12:03:16.149008+00:00",
+ "last_run": "2026-11-02T12:13:16.747075+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
