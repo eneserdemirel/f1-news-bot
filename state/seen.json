@@ -6984,7 +6984,12 @@
   "ccd94f25b24b305f": "2026-11-02T10:43:15.996104+00:00",
   "a1ca465a92764d0d": "2026-11-02T10:43:15.996104+00:00",
   "787d3dc95f6524ad": "2026-11-02T10:43:15.996104+00:00",
-  "92a53a1fdb180ec0": "2026-11-02T10:43:15.996104+00:00"
+  "92a53a1fdb180ec0": "2026-11-02T10:43:15.996104+00:00",
+  "4de91df662bb1045": "2026-11-02T10:53:17.634181+00:00",
+  "f71348e5b2a93cef": "2026-11-02T10:53:17.634181+00:00",
+  "913942456f2b4a9a": "2026-11-02T10:53:17.634181+00:00",
+  "e103a423d3e73b2b": "2026-11-02T10:53:17.634181+00:00",
+  "6f5389ae2e0267d8": "2026-11-02T10:53:17.634181+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15668,7 +15673,8 @@
     "RacingNews365": "2026-11-01T23:41:00+00:00",
     "FormulaPassion": "2026-11-01T23:30:00+00:00",
     "Motorsport.com Italia": "2026-11-02T00:44:02+00:00",
-    "Motorsport-Total": "2026-11-02T01:59:00+00:00"
+    "Motorsport-Total": "2026-11-02T01:59:00+00:00",
+    "Formula 1": "2026-11-02T10:53:22.424690+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15676,9 +15682,10 @@
     "RacingNews365": "Furious Ferrari boss lays into Lewis Hamilton and Charles Leclerc for 'lack of respect'",
     "FormulaPassion": "Vasseur contro Leclerc e Hamilton: “Faccio fatica ad accettare una mancanza di rispetto per tutte le persone che lavorano per loro”",
     "Motorsport.com Italia": "F1 | Vasseur: \"I piloti hanno mancato di rispetto per le persone che lavorano per loro. Ne riparleremo...\"",
-    "Motorsport-Total": "Frederic Vasseur zum Ferrari-Zoff: Lasst mich doch erst mit den beiden sprechen! - Motorsport-Total.com"
+    "Motorsport-Total": "Frederic Vasseur zum Ferrari-Zoff: Lasst mich doch erst mit den beiden sprechen! - Motorsport-Total.com",
+    "Formula 1": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash"
    },
-   "last": "2026-11-02T04:37:39.481584+00:00"
+   "last": "2026-11-02T10:53:22.424707+00:00"
   },
   "S3841": {
    "title": "Russell skips post-race media duties in Mexico",
@@ -17995,9 +18002,61 @@
     "Gazzetta dello Sport": "\"È ancora domenica\": i complimenti a Kimi Antonelli di Cesare Cremonini, Yuri Chechi e molti altri"
    },
    "last": "2026-11-02T10:43:20.506910+00:00"
+  },
+  "S4013": {
+   "title": "Declan Rice tops Premier League assist chart",
+   "first": "2026-11-02T10:53:22.424713+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T10:47:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Declan Rice tops Premier League assist chart - without set-pieces"
+   },
+   "last": "2026-11-02T10:53:22.424719+00:00"
+  },
+  "S4014": {
+   "title": "Tony de Zorzi returns to South Africa Test squad",
+   "first": "2026-11-02T10:53:22.424724+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T10:37:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tony de Zorzi returns to South Africa squad for Bangladesh Tests"
+   },
+   "last": "2026-11-02T10:53:22.424729+00:00"
+  },
+  "S4015": {
+   "title": "Komatsu takes responsibility for dropping Ocon from Mexico weekend",
+   "first": "2026-11-02T10:53:22.424732+00:00",
+   "sources": {
+    "GPblog": "2026-11-02T10:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Komatsu takes full responsibility for dropping Ocon: 'Gene let me decide'"
+   },
+   "last": "2026-11-02T10:53:22.424736+00:00"
+  },
+  "S4016": {
+   "title": "Feature on Antonelli's best night's sleep before title",
+   "first": "2026-11-02T10:53:22.424739+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T10:45:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Wer letzte Nacht am besten geschlafen hat: Kimi Antonelli - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T10:53:22.424743+00:00"
   }
  },
- "story_seq": 4012,
+ "story_seq": 4016,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18116,7 +18175,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T10:43:15.996104+00:00",
+ "last_run": "2026-11-02T10:53:17.634181+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19966,6 +20025,16 @@
    "t": "2026-11-02T10:43:26.992009+00:00",
    "title": "Rosberg, Ferrari'ye Hamilton-Leclerc çatışması sonrası harekete geçme çağrısı yaptı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-02T10:53:26.936763+00:00",
+   "title": "Komatsu, Ocon'un çıkarılmasının tüm sorumluluğunu üstlendi",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-02T10:53:27.337965+00:00",
+   "title": "Dün gece en iyi uyuyan Kimi Antonelli oldu",
+   "source": "Motorsport-Total"
   }
  ]
 }
