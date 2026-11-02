@@ -6862,7 +6862,11 @@
   "8549cab4b8370dc7": "2026-11-02T07:02:34.197482+00:00",
   "67327048b893c293": "2026-11-02T07:02:34.197482+00:00",
   "3b8c00e48b2d661c": "2026-11-02T07:02:34.197482+00:00",
-  "4e89ae82ffa2b6ae": "2026-11-02T07:07:35.758963+00:00"
+  "4e89ae82ffa2b6ae": "2026-11-02T07:07:35.758963+00:00",
+  "a2926774be827a5b": "2026-11-02T07:17:35.206549+00:00",
+  "b25f3d0c23f0aad6": "2026-11-02T07:17:35.206549+00:00",
+  "ee23079043f46f1e": "2026-11-02T07:17:35.206549+00:00",
+  "5c93605e95683b65": "2026-11-02T07:17:35.206549+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15342,7 +15346,7 @@
     "FormulaPassion": "GP Città del Messico 2026, ordine di arrivo: Kimi, un sogno italiano! Antonelli 3° dietro Max e Hamilton, è campione del mondo",
     "AS": "Antonelli es el campeón en una lucha de gigantes"
    },
-   "last": "2026-11-01T23:32:05.673809+00:00"
+   "last": "2026-11-02T07:17:41.945976+00:00"
   },
   "S3788": {
    "title": "Arvid Lindblad crashes, triggering late Mexico safety car",
@@ -15937,15 +15941,17 @@
    "first": "2026-11-01T23:17:05.422009+00:00",
    "sources": {
     "FormulaPassion": "2026-11-01T23:10:29+00:00",
-    "Motorsport-Total": "2026-11-02T06:34:30+00:00"
+    "Motorsport-Total": "2026-11-02T06:34:30+00:00",
+    "RacingNews365": "2026-11-02T07:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Vettel incorona Antonelli e gli dedica un video-lettera: ora è lui il più giovane campione di sempre",
-    "Motorsport-Total": "\"Genieße es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli - Motorsport-Total.com"
+    "Motorsport-Total": "\"Genieße es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli - Motorsport-Total.com",
+    "RacingNews365": "Sebastian Vettel offers advice to Kimi Antonelli after seeing F1 record taken"
    },
-   "last": "2026-11-02T06:37:35.201998+00:00"
+   "last": "2026-11-02T07:17:41.945963+00:00"
   },
   "S3829": {
    "title": "Constructors' standings after Mexico City Grand Prix",
@@ -17534,9 +17540,22 @@
     "FormulaPassion": "Antonelli campione del mondo, Emanuele Pirro: “Chiude la bocca a tutti quelli che dicono che la macchina conta più del pilota”"
    },
    "last": "2026-11-02T07:07:38.465892+00:00"
+  },
+  "S3947": {
+   "title": "Antonelli's father says who he is most grateful to",
+   "first": "2026-11-02T07:17:41.945982+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T06:42:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kimi Antonelli ist Weltmeister: Wem sein Vater jetzt besonders dankbar ist - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T07:17:41.945988+00:00"
   }
  },
- "story_seq": 3946,
+ "story_seq": 3947,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17655,17 +17674,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T07:12:36.412037+00:00",
+ "last_run": "2026-11-02T07:17:35.206549+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T07:13:04.724564+00:00",
-   "title": "F1 pilotları MotoGP'yi örnek alarak Orta Doğu yarışlarını görüşecek",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-30T07:23:06.449904+00:00",
    "title": "Vettel, Ferrari'ye geçişinin gizli başlangıcını açıkladı",
@@ -19475,6 +19489,11 @@
    "t": "2026-11-02T07:07:42.051946+00:00",
    "title": "Antonelli 2026 F1 dünya şampiyonu oldu",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-02T07:17:46.202825+00:00",
+   "title": "Mexico GP'de FIA cezaları sonrası final sıralaması belli oldu",
+   "source": "GPFans"
   }
  ]
 }
