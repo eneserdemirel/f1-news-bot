@@ -1,16 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "63d5bf840c4ff2ad": "2026-10-19T08:14:05.804584+00:00",
-  "9b4ee31757b2a9b7": "2026-10-19T08:14:05.804584+00:00",
-  "1b0eb6eb4990ee85": "2026-10-19T08:14:05.804584+00:00",
-  "61eb83bea5df70a8": "2026-10-19T08:14:05.804584+00:00",
-  "6e061ef253d8ad0b": "2026-10-19T08:14:05.804584+00:00",
-  "075e82df9b132828": "2026-10-19T08:14:05.804584+00:00",
-  "1753a59da09f6b2f": "2026-10-19T08:14:05.804584+00:00",
-  "c952c974a218b62b": "2026-10-19T08:14:05.804584+00:00",
-  "699e78aeee8579f8": "2026-10-19T08:14:05.804584+00:00",
-  "56bc0a3b66a1fff1": "2026-10-19T08:14:05.804584+00:00",
   "a32134074764349a": "2026-10-19T08:59:32.460113+00:00",
   "ec10f7309991ba46": "2026-10-19T08:59:32.460113+00:00",
   "b58a286d4cb122ee": "2026-10-19T08:59:32.460113+00:00",
@@ -6873,7 +6863,11 @@
   "e9de610bc460af44": "2026-11-02T08:12:34.099840+00:00",
   "6deadecd028058a7": "2026-11-02T08:12:34.099840+00:00",
   "6dbecc302edaf10f": "2026-11-02T08:12:34.099840+00:00",
-  "6e311db1a40689e9": "2026-11-02T08:12:34.099840+00:00"
+  "6e311db1a40689e9": "2026-11-02T08:12:34.099840+00:00",
+  "120c91ae532e3f0e": "2026-11-02T08:22:34.622571+00:00",
+  "f147f7c04d8256af": "2026-11-02T08:22:34.622571+00:00",
+  "33083079f4f247df": "2026-11-02T08:22:34.622571+00:00",
+  "3af7af45a0353bf6": "2026-11-02T08:22:34.622571+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7199,32 +7193,6 @@
     "RacingNews365 NL": "Hamilton wijst naar Red Bull: \"Ik ben het niet eens met dat turboverhaal\""
    },
    "last": "2026-10-31T10:37:18.867263+00:00"
-  },
-  "S3217": {
-   "title": "Ryan Conmy lights the lamp (non-F1 hockey item)",
-   "first": "2026-10-31T08:16:28.735193+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T08:05:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ryan Conmy lights the lamp"
-   },
-   "last": "2026-10-31T08:16:28.735211+00:00"
-  },
-  "S3218": {
-   "title": "Mercedes warns of Verstappen threat after Mexico Friday practice",
-   "first": "2026-10-31T08:16:28.735226+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-31T08:08:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Mercedes waarschuwt voor Verstappen: \"Traditiegetrouw...\""
-   },
-   "last": "2026-10-31T08:16:28.735231+00:00"
   },
   "S3219": {
    "title": "Le Havre 1-5 PSG football match analysis",
@@ -16730,14 +16698,16 @@
    "title": "The Race winners and losers from Mexican Grand Prix",
    "first": "2026-11-02T02:57:03.147454+00:00",
    "sources": {
-    "The Race": "2026-11-02T02:56:36+00:00"
+    "The Race": "2026-11-02T02:56:36+00:00",
+    "PlanetF1": "2026-11-02T08:19:32+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Winners and losers from F1's 2026 Mexican Grand Prix"
+    "The Race": "Winners and losers from F1's 2026 Mexican Grand Prix",
+    "PlanetF1": "Winners and losers from the 2026 Mexico City Grand Prix"
    },
-   "last": "2026-11-02T02:57:03.147473+00:00"
+   "last": "2026-11-02T08:22:42.455188+00:00"
   },
   "S3902": {
    "title": "Minkah Fitzpatrick says Jets 'being Jets' after tough loss",
@@ -17537,9 +17507,48 @@
     "Gazzetta dello Sport": "Il coraggio di non aspettare: così Antonelli ha riscritto le regole della Formula 1"
    },
    "last": "2026-11-02T08:12:40.926200+00:00"
+  },
+  "S3963": {
+   "title": "The Race opinion on the rival Verstappen needs",
+   "first": "2026-11-02T08:22:42.455158+00:00",
+   "sources": {
+    "The Race": "2026-11-02T08:19:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "The rival Verstappen needs - our verdict on Antonelli's F1 title"
+   },
+   "last": "2026-11-02T08:22:42.455179+00:00"
+  },
+  "S3964": {
+   "title": "F1 season could end in Las Vegas over Imola deadline",
+   "first": "2026-11-02T08:22:42.455192+00:00",
+   "sources": {
+    "GPblog": "2026-11-02T08:09:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 season could end in Las Vegas as 10 November Imola deadline emerges"
+   },
+   "last": "2026-11-02T08:22:42.455198+00:00"
+  },
+  "S3965": {
+   "title": "AS list of F1's youngest world champions",
+   "first": "2026-11-02T08:22:42.455202+00:00",
+   "sources": {
+    "AS": "2026-11-02T07:21:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "Los campeones del mundo más jóvenes de la historia de la F1"
+   },
+   "last": "2026-11-02T08:22:42.455206+00:00"
   }
  },
- "story_seq": 3962,
+ "story_seq": 3965,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17658,17 +17667,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T08:12:34.099840+00:00",
+ "last_run": "2026-11-02T08:22:34.622571+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T08:13:56.768769+00:00",
-   "title": "Antonelli ve Bottas'ın hastalık nedeniyle yokluğu Verstappen'i şaşırtmadı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-30T08:43:47.845960+00:00",
    "title": "Honda'dan Alonso'ya umut: 2027'de büyük güncelleme planı",
@@ -19478,6 +19482,11 @@
    "t": "2026-11-02T08:12:51.983785+00:00",
    "title": "Leclerc: Hamilton'ın Curva-1'deki hamlesi yarış gereği",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-02T08:22:46.265145+00:00",
+   "title": "F1 sezonu Las Vegas'ta bitebilir, Imola için 10 Kasım son tarih",
+   "source": "GPblog"
   }
  ]
 }
