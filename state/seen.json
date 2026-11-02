@@ -7061,7 +7061,11 @@
   "d88518c249af68e1": "2026-11-02T17:04:06.677501+00:00",
   "52b2c82e7a4eeae0": "2026-11-02T17:04:06.677501+00:00",
   "b5d0ec6df44c3e1d": "2026-11-02T17:04:06.677501+00:00",
-  "9a7cac900004092b": "2026-11-02T17:04:06.677501+00:00"
+  "9a7cac900004092b": "2026-11-02T17:04:06.677501+00:00",
+  "f664b9036d5525c4": "2026-11-02T17:14:08.391803+00:00",
+  "5048dc332739912d": "2026-11-02T17:14:08.391803+00:00",
+  "e87faba06dfd384a": "2026-11-02T17:14:08.391803+00:00",
+  "10f10081ca223732": "2026-11-02T17:14:08.391803+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7286,19 +7290,6 @@
     "ESPN F1": "Man City 0-1 Brighton (Oct 31, 2026) Game Analysis"
    },
    "last": "2026-10-31T18:32:54.245545+00:00"
-  },
-  "S3332": {
-   "title": "CJ Carr touchdown pass to Micah Gilbert",
-   "first": "2026-10-31T17:07:55.670771+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T16:39:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "CJ Carr finds Micah Gilbert for an Irish TD"
-   },
-   "last": "2026-10-31T17:07:55.670775+00:00"
   },
   "S3333": {
    "title": "Coventry 3-1 Sunderland match analysis",
@@ -14796,7 +14787,8 @@
     "FormulaPassion": "2026-11-02T07:55:00+00:00",
     "Auto Motor und Sport": "2026-11-02T08:50:20+00:00",
     "Motorsport.com Italia": "2026-11-02T10:23:15+00:00",
-    "Autosport": "2026-11-02T12:40:22+00:00"
+    "Autosport": "2026-11-02T12:40:22+00:00",
+    "RacingNews365": "2026-11-02T17:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14805,9 +14797,10 @@
     "FormulaPassion": "Hamilton: “La mentalità di Leclerc è ‘o vinco io o nessuno dei 2 vince’ anziché pensare alla doppietta della Ferrari”",
     "Auto Motor und Sport": "„Entweder er gewinnt, oder keiner“",
     "Motorsport.com Italia": "F1 | Hamilton, altra bordata a Leclerc: “O vinco io o non vince nessuno. Questa mentalità deve cambiare”",
-    "Autosport": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash"
+    "Autosport": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash",
+    "RacingNews365": "Lewis Hamilton scolds Charles Leclerc 'do or die' mentality after latest clash"
    },
-   "last": "2026-11-02T12:53:26.326401+00:00"
+   "last": "2026-11-02T17:14:12.252397+00:00"
   },
   "S3866": {
    "title": "Bills beat Ravens 36-10 in NFL game recap",
@@ -18048,9 +18041,48 @@
     "Corriere dello Sport": "Venditti a Kimi: \"La notte è passata, il giorno è arrivato pieno di gloria\""
    },
    "last": "2026-11-02T17:04:12.171959+00:00"
+  },
+  "S4110": {
+   "title": "England Nations Championship squad announced (rugby)",
+   "first": "2026-11-02T17:14:12.252367+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T16:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "England announce Nations Championship squad for November"
+   },
+   "last": "2026-11-02T17:14:12.252387+00:00"
+  },
+  "S4111": {
+   "title": "Red Bull strategy move helped Verstappen win Mexico",
+   "first": "2026-11-02T17:14:12.252402+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Briljante move Red Bull hielp Verstappen in het zadel"
+   },
+   "last": "2026-11-02T17:14:12.252407+00:00"
+  },
+  "S4112": {
+   "title": "PlanetF1 list of every F1 world champion since 1950",
+   "first": "2026-11-02T17:14:12.252411+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-02T17:07:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "F1 World Champions: Every driver to have taken title glory since 1950"
+   },
+   "last": "2026-11-02T17:14:12.252416+00:00"
   }
  },
- "story_seq": 4109,
+ "story_seq": 4112,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18169,17 +18201,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T17:04:06.677501+00:00",
+ "last_run": "2026-11-02T17:14:08.391803+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T17:09:34.674882+00:00",
-   "title": "Hamilton, Russell'a destek verdi: 'Toparlanacak'",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-30T17:19:34.448557+00:00",
    "title": "Shikhar Mohan'ın hızla yükselişi",
@@ -20114,6 +20141,11 @@
    "t": "2026-11-02T17:04:18.638876+00:00",
    "title": "Bottas, Cadillac'in sorunlarının en çok kendisini etkilediğini savunuyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-02T17:14:17.080336+00:00",
+   "title": "Red Bull'un stratejisi Verstappen'i Meksika GP'de öne taşıdı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
