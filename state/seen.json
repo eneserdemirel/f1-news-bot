@@ -6783,7 +6783,12 @@
   "f775b6e90af619f8": "2026-11-01T23:51:56.879885+00:00",
   "3cb3d0eea01af4bb": "2026-11-01T23:51:56.879885+00:00",
   "72afcf168f79c883": "2026-11-01T23:57:00.080265+00:00",
-  "edc83488008e96b9": "2026-11-01T23:57:00.080265+00:00"
+  "edc83488008e96b9": "2026-11-01T23:57:00.080265+00:00",
+  "de8428705edfc894": "2026-11-02T00:01:57.240428+00:00",
+  "342a698230009213": "2026-11-02T00:01:57.240428+00:00",
+  "559b2278f7ffac4b": "2026-11-02T00:01:57.240428+00:00",
+  "d8c34841bdf7c1d1": "2026-11-02T00:01:57.240428+00:00",
+  "d7843b8d50762251": "2026-11-02T00:01:57.240428+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16423,7 +16428,7 @@
     "FormulaPassion": "Andrea Kimi Antonelli: il pilota più giovane di sempre a vincere un mondiale",
     "Gazzetta dello Sport": "Antonelli da record: battuti Vettel e Hamilton, è il campione del mondo più giovane della storia"
    },
-   "last": "2026-11-01T22:47:10.370618+00:00"
+   "last": "2026-11-02T00:02:03.021575+00:00"
   },
   "S3799": {
    "title": "Sky Sports Mexico City GP race highlights video",
@@ -17056,9 +17061,61 @@
     "Formula 1": "Verstappen is your Mexico City GP Driver of the Day"
    },
    "last": "2026-11-01T23:52:00.953952+00:00"
+  },
+  "S3845": {
+   "title": "FIA opens investigation into Piastri and Lindblad after Mexico GP",
+   "first": "2026-11-02T00:02:03.021529+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-01T23:58:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA launches Oscar Piastri and Lindblad investigation after Mexican GP incident"
+   },
+   "last": "2026-11-02T00:02:03.021547+00:00"
+  },
+  "S3846": {
+   "title": "Gazzetta driver ratings from Mexico City Grand Prix",
+   "first": "2026-11-02T00:02:03.021553+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-01T23:53:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "GP Messico, le pagelle: Kimi e Max meravigliosi, da 10. Russell stecca ancora, 4,5"
+   },
+   "last": "2026-11-02T00:02:03.021558+00:00"
+  },
+  "S3847": {
+   "title": "Antonelli says he was already crying on last lap",
+   "first": "2026-11-02T00:02:03.021563+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-01T23:52:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi Antonelli non trattiene le lacrime: \"Stavo già piangendo all'ultimo giro\""
+   },
+   "last": "2026-11-02T00:02:03.021568+00:00"
+  },
+  "S3848": {
+   "title": "Sainz congratulates Antonelli on title after P15 finish in Mexico",
+   "first": "2026-11-02T00:02:03.021578+00:00",
+   "sources": {
+    "AS": "2026-11-01T23:51:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Sainz: “Kimi tuvo la oportunidad y la ha aprovechado”"
+   },
+   "last": "2026-11-02T00:02:03.021583+00:00"
   }
  },
- "story_seq": 3844,
+ "story_seq": 3848,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17177,7 +17234,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-01T23:57:00.080265+00:00",
+ "last_run": "2026-11-02T00:01:57.240428+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -18852,6 +18909,26 @@
    "t": "2026-11-01T23:52:04.250319+00:00",
    "title": "Verstappen, Meksika GP'sinde Gün'ün Pilotu seçildi",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-02T00:02:09.087751+00:00",
+   "title": "Sainz: \"Kimi fırsatı eline geçirdi ve değerlendirdi\"",
+   "source": "AS"
+  },
+  {
+   "t": "2026-11-02T00:02:09.414996+00:00",
+   "title": "Kimi Antonelli gözyaşlarını tutamadı: \"Son turda zaten ağlıyordum\"",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-02T00:02:09.761591+00:00",
+   "title": "GP Messico notları: Kimi ve Max harika, 10 puan; Russell yine kötü, 4,5",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-02T00:02:10.109118+00:00",
+   "title": "FIA, Mexico GP'deki kazanın ardından Piastri ve Lindblad'ı inceliyor",
+   "source": "PlanetF1"
   }
  ]
 }
