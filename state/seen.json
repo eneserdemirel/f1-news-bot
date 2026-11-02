@@ -6805,7 +6805,9 @@
   "98269e0456f11055": "2026-11-02T01:36:58.491129+00:00",
   "b7ee9db2bef3bbd7": "2026-11-02T01:42:01.553375+00:00",
   "0606ef4eb84b42a8": "2026-11-02T01:42:01.553375+00:00",
-  "ebcf05e939445e15": "2026-11-02T01:46:57.253239+00:00"
+  "ebcf05e939445e15": "2026-11-02T01:46:57.253239+00:00",
+  "7262616a0f8856ad": "2026-11-02T01:52:01.108589+00:00",
+  "b3c69387d58bd9f9": "2026-11-02T01:52:01.108589+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17219,9 +17221,35 @@
     "ESPN F1": "Mia Bhuta scores in the 56'"
    },
    "last": "2026-11-02T01:46:58.691831+00:00"
+  },
+  "S3884": {
+   "title": "Matías Daniele biography profile page",
+   "first": "2026-11-02T01:52:03.945522+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T22:41:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Matías Daniele Biography - ESPN"
+   },
+   "last": "2026-11-02T01:52:03.945541+00:00"
+  },
+  "S3885": {
+   "title": "Alpine receives major penalties after Mexico City GP",
+   "first": "2026-11-02T01:52:03.945547+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-02T01:47:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Alpine handed double-hammer blow as major punishments confirmed"
+   },
+   "last": "2026-11-02T01:52:03.945553+00:00"
   }
  },
- "story_seq": 3883,
+ "story_seq": 3885,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17340,7 +17368,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T01:46:57.253239+00:00",
+ "last_run": "2026-11-02T01:52:01.108589+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19100,6 +19128,11 @@
    "t": "2026-11-02T01:32:03.264876+00:00",
    "title": "Antonelli'nin babası, oğlunun dünya şampiyonluğunu yorumladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-02T01:52:08.245250+00:00",
+   "title": "Alpine'e çifte ceza: Gasly ve Colapinto cezalandırıldı",
+   "source": "RacingNews365"
   }
  ]
 }
