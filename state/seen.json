@@ -6891,7 +6891,11 @@
   "cc77d0b205abb81f": "2026-11-02T09:12:38.046360+00:00",
   "49d65accf12fe115": "2026-11-02T09:13:18.017104+00:00",
   "18c591136b6ef508": "2026-11-02T09:13:18.017104+00:00",
-  "e5d164615375fa05": "2026-11-02T09:13:18.017104+00:00"
+  "e5d164615375fa05": "2026-11-02T09:13:18.017104+00:00",
+  "c0ddab180d65065c": "2026-11-02T09:23:19.770252+00:00",
+  "a0ac3033c2b50080": "2026-11-02T09:23:19.770252+00:00",
+  "17cd9f93731d02e3": "2026-11-02T09:23:19.770252+00:00",
+  "735e9a15ae7cadab": "2026-11-02T09:23:19.770252+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7232,19 +7236,6 @@
     "Motorsport.com Italia": "F1 | Ferrari, problema alla power unit di Hamilton: niente penalità in Messico"
    },
    "last": "2026-10-31T16:42:59.439435+00:00"
-  },
-  "S3229": {
-   "title": "FormulaPassion telemetry analysis: Ferrari ahead after Mexico Friday practice",
-   "first": "2026-10-31T09:16:26.486839+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-31T08:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Telemetria del venerdì del Messico: Ferrari ancora davanti, ma ci sarà da divertirsi"
-   },
-   "last": "2026-10-31T09:16:26.486855+00:00"
   },
   "S3230": {
    "title": "Queensland vs Victoria Sheffield Shield match report",
@@ -16522,14 +16513,16 @@
    "title": "Hirakawa scores F1 debut point after Alpine double penalty",
    "first": "2026-11-02T02:07:03.124712+00:00",
    "sources": {
-    "Crash.net": "2026-11-02T02:06:58+00:00"
+    "Crash.net": "2026-11-02T02:06:58+00:00",
+    "FormulaPassion": "2026-11-02T09:23:01+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Ryo Hirakawa scores point on F1 debut at Mexico GP after double Alpine penalty"
+    "Crash.net": "Ryo Hirakawa scores point on F1 debut at Mexico GP after double Alpine penalty",
+    "FormulaPassion": "Alpine penalizzate, Hirakawa a punti: il motivo"
    },
-   "last": "2026-11-02T02:07:03.124716+00:00"
+   "last": "2026-11-02T09:23:24.977186+00:00"
   },
   "S3895": {
    "title": "Hawks' Flemings suspended for elbowing Pelicans' McGowens",
@@ -17699,9 +17692,48 @@
     "FormulaPassion": "Vasseur: “Capisco la frustrazione di Hamilton, ma parleremo dei suoi commenti”"
    },
    "last": "2026-11-02T09:12:45.171391+00:00"
+  },
+  "S3984": {
+   "title": "Jerry Koosman, Miracle Mets World Series pitcher, dies at 83",
+   "first": "2026-11-02T09:23:24.977147+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T07:10:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jerry Koosman, who got final out in Miracle Mets' World Series win, dies at 83"
+   },
+   "last": "2026-11-02T09:23:24.977167+00:00"
+  },
+  "S3985": {
+   "title": "Verstappen proposes renaming Mexico GP to 'GP Maxico'",
+   "first": "2026-11-02T09:23:24.977173+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T09:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen dolt met voorstel naamswijziging GP Mexico"
+   },
+   "last": "2026-11-02T09:23:24.977179+00:00"
+  },
+  "S3986": {
+   "title": "Antonelli says he will frame podium photo with Verstappen and Hamilton",
+   "first": "2026-11-02T09:23:24.977190+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-02T09:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli: “La foto in spalle a Max e Lewis la incornicio e farò in modo di vederla bene ogni volta che entro in casa”"
+   },
+   "last": "2026-11-02T09:23:24.977194+00:00"
   }
  },
- "story_seq": 3983,
+ "story_seq": 3986,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17820,22 +17852,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T09:13:18.017104+00:00",
+ "last_run": "2026-11-02T09:23:19.770252+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T09:13:56.727448+00:00",
-   "title": "Verstappen: RB22 ne yavaş ne de hızlı virajlarda öne çıkıyor",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-10-30T09:13:57.253604+00:00",
-   "title": "Ricciardo 24 Saat Le Mans'ta Start Alacak; Verstappen Şartlar Koyuyor",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-10-30T09:23:52.858985+00:00",
    "title": "Verstappen: 2023'te tek pilotla konstrüktörler şampiyonluğunun mümkün olduğunu gösterdim",
@@ -19655,6 +19677,16 @@
    "t": "2026-11-02T09:02:58.373220+00:00",
    "title": "Kimi Antonelli dünya zirvesinde: Sinner'dan tebrik geldi",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-02T09:23:29.820960+00:00",
+   "title": "Antonelli: Max ve Lewis'in omuzunda çektiğimiz fotoğrafı çerçeveletip evimde asacağım",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-02T09:23:30.203184+00:00",
+   "title": "Verstappen Meksika GP'sini kazandı, isim değişikliği önerdi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
