@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3e2ee34822130aaa": "2026-10-19T16:57:55.237140+00:00",
-  "72660ee3b09b927d": "2026-10-19T16:57:55.237140+00:00",
-  "859bdfd9d2014571": "2026-10-19T16:57:55.237140+00:00",
-  "e66d229ab50e4eb7": "2026-10-19T16:57:55.237140+00:00",
-  "5d776670302e8bf6": "2026-10-19T16:57:55.237140+00:00",
-  "818d44f3db1fd8ed": "2026-10-19T16:57:55.237140+00:00",
-  "ad2946b1647dc5d0": "2026-10-19T16:57:55.237140+00:00",
   "68a4d8dc6e6c6329": "2026-10-19T17:31:10.819359+00:00",
   "df86651b1d618de9": "2026-10-19T17:31:10.819359+00:00",
   "c47d6b44f75b722f": "2026-10-19T17:31:10.819359+00:00",
@@ -7063,7 +7056,12 @@
   "326c5a1ae539e9a4": "2026-11-02T16:44:06.871083+00:00",
   "9768040318d42e82": "2026-11-02T16:44:06.871083+00:00",
   "1e2614df31afc8ae": "2026-11-02T16:54:13.618590+00:00",
-  "a123362c42b509a3": "2026-11-02T16:54:13.618590+00:00"
+  "a123362c42b509a3": "2026-11-02T16:54:13.618590+00:00",
+  "4c43e136e1f253cd": "2026-11-02T17:04:06.677501+00:00",
+  "d88518c249af68e1": "2026-11-02T17:04:06.677501+00:00",
+  "52b2c82e7a4eeae0": "2026-11-02T17:04:06.677501+00:00",
+  "b5d0ec6df44c3e1d": "2026-11-02T17:04:06.677501+00:00",
+  "9a7cac900004092b": "2026-11-02T17:04:06.677501+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7131,19 +7129,6 @@
     "ESPN F1": "Transfer rumors, news: Man United to replace Fernandes with Fermin?"
    },
    "last": "2026-10-31T20:23:50.508673+00:00"
-  },
-  "S3293": {
-   "title": "Man United lose 10-man at Chelsea; Carrick under pressure",
-   "first": "2026-10-31T14:42:13.146365+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T11:20:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pressure piles on Michael Carrick as 10-man Man United lose at Chelsea"
-   },
-   "last": "2026-10-31T16:57:56.332513+00:00"
   },
   "S3294": {
    "title": "Ocon withdrawn from Haas for Mexico GP; rookie debuts",
@@ -7222,19 +7207,6 @@
    },
    "last": "2026-10-31T18:02:56.113000+00:00"
   },
-  "S3309": {
-   "title": "LSU lands 5-star center Xavier Young for 2027 class",
-   "first": "2026-10-31T15:33:00.830774+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T15:30:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LSU lands 5-star center Xavier Young for Class of 2027"
-   },
-   "last": "2026-10-31T16:57:56.332492+00:00"
-  },
   "S3320": {
    "title": "FormulaPassion live blog of Mexico FP3",
    "first": "2026-10-31T16:13:12.970200+00:00",
@@ -7261,58 +7233,6 @@
     "Formula 1": "LIVE COVERAGE: FP3 for the Mexico City Grand Prix"
    },
    "last": "2026-10-31T17:22:57.131749+00:00"
-  },
-  "S3323": {
-   "title": "Carragher apologises for 'clumsy' Aston Villa comments",
-   "first": "2026-10-31T16:37:55.042925+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T13:30:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jamie Carragher apologises for 'clumsy' Aston Villa comments after club threaten legal action"
-   },
-   "last": "2026-10-31T16:57:56.332518+00:00"
-  },
-  "S3326": {
-   "title": "Commanders DT Payne suffers season-ending foot injury",
-   "first": "2026-10-31T16:57:56.332502+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T16:21:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Source - Commanders DT Payne suffered season-ending foot injury"
-   },
-   "last": "2026-10-31T16:57:56.332507+00:00"
-  },
-  "S3327": {
-   "title": "Japanese pitcher Kaima Taira to be posted by Seibu Lions",
-   "first": "2026-10-31T16:57:56.332522+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T12:56:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Japanese RHP Kaima Taira to be posted by Seibu Lions, move to MLB"
-   },
-   "last": "2026-10-31T16:57:56.332526+00:00"
-  },
-  "S3328": {
-   "title": "Antonelli's father Marco could beat him to title on same day",
-   "first": "2026-10-31T16:57:56.332528+00:00",
-   "sources": {
-    "GPFans": "2026-10-31T16:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Kimi Antonelli’s dad could beat him to a title on the very same day"
-   },
-   "last": "2026-10-31T16:57:56.332531+00:00"
   },
   "S3329": {
    "title": "Canelo Alvarez vs Christian Mbilli boxing live updates",
@@ -18076,9 +17996,61 @@
     "ESPN F1": "How to bet Bears-Seahawks: Game pick and three props to play"
    },
    "last": "2026-11-02T16:54:15.354082+00:00"
+  },
+  "S4106": {
+   "title": "Five winners and five losers from Mexico City GP",
+   "first": "2026-11-02T17:04:12.171911+00:00",
+   "sources": {
+    "Formula 1": "2026-11-02T17:04:12.171926+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "5 Winners and 5 Losers from Mexico City"
+   },
+   "last": "2026-11-02T17:04:12.171930+00:00"
+  },
+  "S4107": {
+   "title": "Bottas says he suffered most from Cadillac's problems",
+   "first": "2026-11-02T17:04:12.171936+00:00",
+   "sources": {
+    "GPblog": "2026-11-02T17:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Bottas claims he has had the worst of Cadillac's problems after Mexico suspension failure"
+   },
+   "last": "2026-11-02T17:04:12.171941+00:00"
+  },
+  "S4108": {
+   "title": "Vesti confirms talks over full-time 2027 seat",
+   "first": "2026-11-02T17:04:12.171945+00:00",
+   "sources": {
+    "GPFans": "2026-11-02T16:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Mercedes driver eyeing big F1 promotion as talks over team switch confirmed"
+   },
+   "last": "2026-11-02T17:04:12.171950+00:00"
+  },
+  "S4109": {
+   "title": "Venditti sends Antonelli audio message after title",
+   "first": "2026-11-02T17:04:12.171954+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-02T16:54:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Venditti a Kimi: \"La notte è passata, il giorno è arrivato pieno di gloria\""
+   },
+   "last": "2026-11-02T17:04:12.171959+00:00"
   }
  },
- "story_seq": 4105,
+ "story_seq": 4109,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18197,7 +18169,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T16:54:13.618590+00:00",
+ "last_run": "2026-11-02T17:04:06.677501+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
@@ -20126,6 +20098,21 @@
   {
    "t": "2026-11-02T16:24:22.097344+00:00",
    "title": "Mekies, Mexico sonrası Red Bull Ford motoru hakkında önemli bir sonuca vardı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-02T17:04:17.765353+00:00",
+   "title": "Venditti'den Kimi Antonelli'ye: \"Gece bitti, şanla dolu bir gün geldi\"",
+   "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-11-02T17:04:18.208017+00:00",
+   "title": "Frederik Vesti, Cadillac'ta tam zamanlı F1 koltuğu için görüşmeler yaptığını doğruladı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-02T17:04:18.638876+00:00",
+   "title": "Bottas, Cadillac'in sorunlarının en çok kendisini etkilediğini savunuyor",
    "source": "GPblog"
   }
  ]
