@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2db910e9039f81e6": "2026-10-19T16:15:56.690862+00:00",
-  "a6d6b774d8673021": "2026-10-19T16:15:56.690862+00:00",
-  "44d2a1ed5cb59279": "2026-10-19T16:15:56.690862+00:00",
   "3e2ee34822130aaa": "2026-10-19T16:57:55.237140+00:00",
   "72660ee3b09b927d": "2026-10-19T16:57:55.237140+00:00",
   "859bdfd9d2014571": "2026-10-19T16:57:55.237140+00:00",
@@ -7057,7 +7054,11 @@
   "32c16851cece1a84": "2026-11-02T16:04:07.107423+00:00",
   "b4e0d48b741415f5": "2026-11-02T16:04:07.107423+00:00",
   "044323620aa0f9c8": "2026-11-02T16:14:07.822059+00:00",
-  "3897a8835864f120": "2026-11-02T16:14:07.822059+00:00"
+  "3897a8835864f120": "2026-11-02T16:14:07.822059+00:00",
+  "903406bbd2731d10": "2026-11-02T16:24:10.885978+00:00",
+  "9d53e46e5f705ec8": "2026-11-02T16:24:10.885978+00:00",
+  "8d74aae2eb1984bd": "2026-11-02T16:24:10.885978+00:00",
+  "2baa6a0526fe0c13": "2026-11-02T16:24:10.885978+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7079,29 +7080,6 @@
  },
  "last_alert": "2026-11-01T09:15:07.353713+00:00",
  "stories": {
-  "S3091": {
-   "title": "Komatsu dismisses Bearman contract financial demand rumours",
-   "first": "2026-10-30T21:15:15.285911+00:00",
-   "sources": {
-    "GPblog": "2026-10-30T21:11:00+00:00",
-    "Crash.net": "2026-10-30T21:34:33+00:00",
-    "Sky Sports F1": "2026-10-30T21:30:00+00:00",
-    "Formula 1": "2026-10-30T23:20:15.774925+00:00",
-    "RacingNews365 NL": "2026-10-31T12:45:00+00:00",
-    "Motorsport-Total": "2026-10-31T16:12:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Haas boss hits back at Bearman contract rumors: 'Absolute nonsense'",
-    "Crash.net": "Haas boss on Ollie Bearman salary demand stories: “I don’t know who smoked up €6m”",
-    "Sky Sports F1": "Furious Komatsu dismisses 'nonsense' reports of Bearman demanding £5m salary",
-    "Formula 1": "Komatsu blasts Bearman salary demand rumours as 'nonsense'",
-    "RacingNews365 NL": "Haas-teambaas trekt fel van leer: \"Mensen verkondigen complete onzin\"",
-    "Motorsport-Total": "Komatsu wütend: Angeblicher Bearman-Gehaltspoker \"völliger Schwachsinn\" - Motorsport-Total.com"
-   },
-   "last": "2026-10-31T16:17:54.093654+00:00"
-  },
   "S3112": {
    "title": "Herta still one point short of superlicence due to IndyCar error",
    "first": "2026-10-30T22:40:17.197464+00:00",
@@ -7198,23 +7176,6 @@
     "Motorsport Week": "Lewis Hamilton to ‘give it everything’ after unfortunate early end of FP2 at F1 Mexico City GP"
    },
    "last": "2026-10-31T17:17:57.054338+00:00"
-  },
-  "S3243": {
-   "title": "Russell confirms Mercedes reserve Vesti eyeing 2027 Cadillac seat",
-   "first": "2026-10-31T11:12:13.361188+00:00",
-   "sources": {
-    "Motorsport Week": "2026-10-31T11:00:00+00:00",
-    "Motorsport-Total": "2026-10-31T12:54:48+00:00",
-    "GPblog": "2026-10-31T16:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "George Russell confirms Cadillac F1 ambition for Mercedes reserve driver",
-    "Motorsport-Total": "George Russell begeistert: Frederik Vesti verdient das Cadillac-Cockpit für 2027 - Motorsport-Total.com",
-    "GPblog": "Russell backs Vesti for Cadillac seat after impressive Mexico FP1 showing"
-   },
-   "last": "2026-10-31T16:17:54.093641+00:00"
   },
   "S3246": {
    "title": "Herta takes 'now or never' stance on F1 super licence",
@@ -18162,9 +18123,61 @@
     "Crash.net": "Spineless Ferrari risks open war amid Lewis Hamilton, Charles Leclerc feud"
    },
    "last": "2026-11-02T16:14:10.756929+00:00"
+  },
+  "S4100": {
+   "title": "Ferrari leadership analysis after Mexico Leclerc-Hamilton clash",
+   "first": "2026-11-02T16:24:16.756057+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-02T16:11:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Ferrari, il lusso di due campioni e il prezzo di una leadership che deve farsi sentire"
+   },
+   "last": "2026-11-02T16:24:16.756076+00:00"
+  },
+  "S4101": {
+   "title": "RacingNews365 winners and losers from Mexico City GP",
+   "first": "2026-11-02T16:24:16.756082+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-02T16:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli crowned, Ferrari implode as Mexico delivers title chaos - Winners & losers from the Mexico City GP"
+   },
+   "last": "2026-11-02T16:24:16.756088+00:00"
+  },
+  "S4102": {
+   "title": "Antonelli says his grandfather would be proud after title",
+   "first": "2026-11-02T16:24:16.756092+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T16:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli barst in tranen uit: \"Mijn opa zou heel trots zijn\""
+   },
+   "last": "2026-11-02T16:24:16.756098+00:00"
+  },
+  "S4103": {
+   "title": "Mekies comments on Red Bull Ford engine performance at altitude",
+   "first": "2026-11-02T16:24:16.756101+00:00",
+   "sources": {
+    "GPblog": "2026-11-02T16:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mekies draws an important conclusion about the Red Bull Ford engine after Mexico"
+   },
+   "last": "2026-11-02T16:24:16.756105+00:00"
   }
  },
- "story_seq": 4099,
+ "story_seq": 4103,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18283,22 +18296,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T16:14:07.822059+00:00",
+ "last_run": "2026-11-02T16:24:10.885978+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T16:14:34.236654+00:00",
-   "title": "Red Bull, Ferrari ve McLaren Meksika GP için güncellemeler getirdi",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-10-30T16:19:43.476745+00:00",
-   "title": "Red Bull, Verstappen'i Meksika'da zorlu bir sınav bekliyor",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-30T16:29:41.311314+00:00",
    "title": "Pérez hastalık nedeniyle Meksika taraftar forumunu kaçıracak",
@@ -20228,6 +20231,11 @@
    "t": "2026-11-02T16:04:15.627120+00:00",
    "title": "Haas, 2027 pilot kadrosu için Bearman'ı tutmak istediğini ima etti",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-02T16:24:22.097344+00:00",
+   "title": "Mekies, Mexico sonrası Red Bull Ford motoru hakkında önemli bir sonuca vardı",
+   "source": "GPblog"
   }
  ]
 }
