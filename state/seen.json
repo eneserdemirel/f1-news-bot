@@ -6816,7 +6816,12 @@
   "7f747f8f5676287a": "2026-11-02T02:01:59.358211+00:00",
   "b5c8c0d050f86b24": "2026-11-02T02:01:59.358211+00:00",
   "79eb582b1fd278e4": "2026-11-02T02:01:59.358211+00:00",
-  "83574ee565636725": "2026-11-02T02:01:59.358211+00:00"
+  "83574ee565636725": "2026-11-02T02:01:59.358211+00:00",
+  "6cfc0a355f89c56e": "2026-11-02T02:06:58.038753+00:00",
+  "56e2176fb1bf1d5b": "2026-11-02T02:06:58.038753+00:00",
+  "469148f1aa51211d": "2026-11-02T02:06:58.038753+00:00",
+  "2292b4f2fe8b05fd": "2026-11-02T02:06:58.038753+00:00",
+  "ec9945d7edef1dd4": "2026-11-02T02:06:58.038753+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7134,32 +7139,6 @@
     "Gazzetta dello Sport": "Formula 1"
    },
    "last": "2026-10-31T05:36:28.790920+00:00"
-  },
-  "S3160": {
-   "title": "Analysis of whether Ferrari are Mexico City favourites after Friday practice",
-   "first": "2026-10-31T02:05:54.606192+00:00",
-   "sources": {
-    "Formula 1": "2026-10-31T02:05:54.606207+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Are Ferrari the favourites after Friday practice in Mexico City?"
-   },
-   "last": "2026-10-31T02:05:54.606211+00:00"
-  },
-  "S3161": {
-   "title": "South Carolina vs. Oklahoma live stream listing",
-   "first": "2026-10-31T02:05:54.606216+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-30T22:24:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "South Carolina vs. Oklahoma 31/10/26 - Mira Juego en vivo"
-   },
-   "last": "2026-10-31T02:05:54.606222+00:00"
   },
   "S3162": {
    "title": "Panthers 5-2 Jets game recap (NFL)",
@@ -16604,7 +16583,7 @@
     "Motorsport.com Italia": "F1 | Vasseur: \"I piloti hanno mancato di rispetto per le persone che lavorano per loro. Ne riparleremo...\"",
     "Motorsport-Total": "Frederic Vasseur zum Ferrari-Zoff: Lasst mich doch erst mit den beiden sprechen! - Motorsport-Total.com"
    },
-   "last": "2026-11-02T02:02:04.383089+00:00"
+   "last": "2026-11-02T02:07:03.124708+00:00"
   },
   "S3841": {
    "title": "Russell skips post-race media duties in Mexico",
@@ -17202,14 +17181,16 @@
    "title": "Alpine receives major penalties after Mexico City GP",
    "first": "2026-11-02T01:52:03.945547+00:00",
    "sources": {
-    "RacingNews365": "2026-11-02T01:47:00+00:00"
+    "RacingNews365": "2026-11-02T01:47:00+00:00",
+    "Formula 1": "2026-11-02T02:07:03.124662+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Alpine handed double-hammer blow as major punishments confirmed"
+    "RacingNews365": "Alpine handed double-hammer blow as major punishments confirmed",
+    "Formula 1": "Alpine duo stripped of Mexico City GP points after penalties"
    },
-   "last": "2026-11-02T01:52:03.945553+00:00"
+   "last": "2026-11-02T02:07:03.124678+00:00"
   },
   "S3886": {
    "title": "Jaguars beat Colts 42-7 in NFL game recap",
@@ -17288,9 +17269,48 @@
     "ESPN F1": "Matvei Michkov scores goal for Flyers"
    },
    "last": "2026-11-02T02:02:04.383084+00:00"
+  },
+  "S3892": {
+   "title": "Raiders' Ashton Jeanty limited to two carries in win",
+   "first": "2026-11-02T02:07:03.124685+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T23:59:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raiders' Ashton Jeanty limited to 2 carries in win vs. Jets"
+   },
+   "last": "2026-11-02T02:07:03.124691+00:00"
+  },
+  "S3893": {
+   "title": "Celtics beat Magic 108-97 NBA game recap",
+   "first": "2026-11-02T02:07:03.124696+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T23:43:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Celtics 108-97 Magic (Nov 1, 2026) Game Recap"
+   },
+   "last": "2026-11-02T02:07:03.124701+00:00"
+  },
+  "S3894": {
+   "title": "Hirakawa scores F1 debut point after Alpine double penalty",
+   "first": "2026-11-02T02:07:03.124712+00:00",
+   "sources": {
+    "Crash.net": "2026-11-02T02:06:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Ryo Hirakawa scores point on F1 debut at Mexico GP after double Alpine penalty"
+   },
+   "last": "2026-11-02T02:07:03.124716+00:00"
   }
  },
- "story_seq": 3891,
+ "story_seq": 3894,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17409,7 +17429,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T02:01:59.358211+00:00",
+ "last_run": "2026-11-02T02:06:58.038753+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19179,6 +19199,11 @@
    "t": "2026-11-02T01:57:06.722349+00:00",
    "title": "Mercedes, Russell'ın yarış sonrası medya görevine katılmamasını açıkladı",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-02T02:07:08.923336+00:00",
+   "title": "Alpine'ın ikilisi Meksika GP'sinde cezalar nedeniyle puanlarını kaybetti",
+   "source": "Formula 1"
   }
  ]
 }
