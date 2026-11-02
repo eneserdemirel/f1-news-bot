@@ -7133,7 +7133,9 @@
   "090842a3822dcdc0": "2026-11-02T22:25:03.605367+00:00",
   "6f845b821ac8d122": "2026-11-02T22:25:03.605367+00:00",
   "794c34fa099f688b": "2026-11-02T22:25:03.605367+00:00",
-  "183e3b2635165ca9": "2026-11-02T22:25:03.605367+00:00"
+  "183e3b2635165ca9": "2026-11-02T22:25:03.605367+00:00",
+  "1bad1bf4c113dbc3": "2026-11-02T22:35:04.386583+00:00",
+  "62e2e80a638957ff": "2026-11-02T22:35:04.386583+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7449,19 +7451,6 @@
    },
    "last": "2026-10-31T22:58:48.680342+00:00"
   },
-  "S3447": {
-   "title": "Destin Wade throws 0-yard touchdown",
-   "first": "2026-10-31T22:28:48.938881+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T22:24:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Destin Wade throws 0-yard touchdown"
-   },
-   "last": "2026-10-31T22:28:48.938899+00:00"
-  },
   "S3448": {
    "title": "Antonelli title scenarios and how to watch Mexico GP",
    "first": "2026-10-31T22:28:48.938930+00:00",
@@ -7474,19 +7463,6 @@
     "Corriere dello Sport": "Antonelli è campione del mondo F1 se…: tutte le combinazioni. Come vedere il GP Messico in tv e streaming"
    },
    "last": "2026-11-01T11:36:17.096193+00:00"
-  },
-  "S3449": {
-   "title": "Russell says he is satisfied after narrowly missing Mexico pole",
-   "first": "2026-10-31T22:33:46.922990+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-31T22:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verbaasde Russell verklaart plotselinge opmars Mercedes"
-   },
-   "last": "2026-10-31T22:33:46.922996+00:00"
   },
   "S3450": {
    "title": "Eldense vs Granada live stream (Spanish football)",
@@ -13002,7 +12978,7 @@
     "Motorsport.com Italia": "F1 | Russell multato: ha saltato le interviste post gara. Wolff: \"Gesto comprensibile. E' in un momento catastrofico\"",
     "GPblog": "Mercedes face FIA punishment after Russell's post-race disappearance"
    },
-   "last": "2026-11-02T15:54:16.414425+00:00"
+   "last": "2026-11-02T22:35:07.817359+00:00"
   },
   "S3842": {
    "title": "Leclerc says penalty deserved, wanted to return position to Hamilton",
@@ -17496,9 +17472,22 @@
     "ESPN F1": "Cardinals move forward with Gardner Minshew as new starting QB"
    },
    "last": "2026-11-02T22:25:08.159037+00:00"
+  },
+  "S4177": {
+   "title": "Russell says F1 season had more bad days than good",
+   "first": "2026-11-02T22:35:07.817331+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T21:38:44+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "George Russell admits his F1 season had 'more bad days than good' following Kimi Antonelli championship triumph"
+   },
+   "last": "2026-11-02T22:35:07.817350+00:00"
   }
  },
- "story_seq": 4176,
+ "story_seq": 4177,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17616,23 +17605,13 @@
    "Abu Dhabi Grand Prix"
   ]
  ],
- "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T22:25:03.605367+00:00",
+ "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
+ "last_run": "2026-11-02T22:35:04.386583+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T22:25:18.734308+00:00",
-   "title": "Lando Norris, arabalardan memnun olmayan F1 pilotlarına seslendi: 'Daha iyi bir iş çıkarın'",
-   "source": "ESPN F1"
-  },
-  {
-   "t": "2026-10-30T22:25:19.158951+00:00",
-   "title": "Verstappen ile Lawson çarpıştı, kırmızı bayrak çıktı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-30T22:40:22.235837+00:00",
    "title": "Hamilton, Ferrari talimatının ardından antrenmanda güç kaybı yaşadı",
@@ -19497,6 +19476,11 @@
    "t": "2026-11-02T22:15:11.244124+00:00",
    "title": "Cadillac F1 sahibi takımı 3 milyar dolara satmayı düşünüyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-02T22:35:12.183116+00:00",
+   "title": "George Russell, sezonunu 'iyi günlerden çok kötü günler' olarak değerlendirdi",
+   "source": "ESPN F1"
   }
  ]
 }
