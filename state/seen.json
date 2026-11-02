@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d6bfcd26ff231cd8": "2026-10-19T19:20:52.761510+00:00",
-  "b6ead0f090382698": "2026-10-19T19:20:52.761510+00:00",
   "b945cd4f7df6914d": "2026-10-19T19:59:02.073844+00:00",
   "367dc62115ed4da5": "2026-10-19T19:59:02.073844+00:00",
   "50013fc50e972ebd": "2026-10-19T20:33:36.289975+00:00",
@@ -7087,7 +7085,8 @@
   "144ed5e3a0497f6d": "2026-11-02T19:04:07.668146+00:00",
   "cea24843e44dca53": "2026-11-02T19:04:07.668146+00:00",
   "58a8fa1452d02699": "2026-11-02T19:04:07.668146+00:00",
-  "6a2b09c72a2a2058": "2026-11-02T19:04:07.668146+00:00"
+  "6a2b09c72a2a2058": "2026-11-02T19:04:07.668146+00:00",
+  "2218bcfcaeafd733": "2026-11-02T19:24:10.313881+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7298,45 +7297,6 @@
     "GPblog": "Verstappen warns Lawson: 'You shouldn't pick a fight with me'"
    },
    "last": "2026-10-31T23:03:47.868346+00:00"
-  },
-  "S3349": {
-   "title": "LeBron James and Joel Embiid out for 76ers vs Hornets",
-   "first": "2026-10-31T19:22:53.753389+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T19:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LeBron James, Joel Embiid both out for 76ers vs. Hornets"
-   },
-   "last": "2026-10-31T19:22:53.753410+00:00"
-  },
-  "S3350": {
-   "title": "Darius Johnson rushes for 2-yard touchdown",
-   "first": "2026-10-31T19:22:53.753414+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T18:33:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Darius Johnson rushes in for 2-yard TD"
-   },
-   "last": "2026-10-31T19:22:53.753419+00:00"
-  },
-  "S3351": {
-   "title": "Stone Harrington kicks 29-yard field goal",
-   "first": "2026-10-31T19:22:53.753421+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T17:42:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Stone Harrington kicks 29-yard field goal"
-   },
-   "last": "2026-10-31T19:22:53.753424+00:00"
   },
   "S3352": {
    "title": "FormulaPassion live blog of Mexico GP qualifying",
@@ -18161,9 +18121,22 @@
     "GPFans": "Lewis Hamilton vs Charles Leclerc problem has only one ending and it's terrifying for Ferrari"
    },
    "last": "2026-11-02T19:04:12.704157+00:00"
+  },
+  "S4136": {
+   "title": "Antonelli says he expects a tough future fight with Verstappen",
+   "first": "2026-11-02T19:24:12.566379+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T19:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli maakt zich op voor 'ongelofelijk zwaar' gevecht met Verstappen"
+   },
+   "last": "2026-11-02T19:24:12.566399+00:00"
   }
  },
- "story_seq": 4135,
+ "story_seq": 4136,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18282,22 +18255,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T19:14:06.690572+00:00",
+ "last_run": "2026-11-02T19:24:10.313881+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T19:20:22.203825+00:00",
-   "title": "Freddie Slater'ın Meksika GP'deki ilk antrenmanı kabusa döndü",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-10-30T19:20:22.544616+00:00",
-   "title": "Piastri, McLaren'ın form düşüşünü açıkladı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-30T19:30:19.107897+00:00",
    "title": "Colton Herta, F1 süper lisansı için gerekli puanı topladı",
