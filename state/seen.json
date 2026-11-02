@@ -1,19 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1c8ab3f095277395": "2026-10-19T03:58:52.123945+00:00",
-  "6cc30fbe7e592c18": "2026-10-19T03:58:52.123945+00:00",
-  "4c7878633399c449": "2026-10-19T03:58:52.123945+00:00",
-  "b8485f7a5385da4a": "2026-10-19T03:58:52.123945+00:00",
-  "3b3c2dfa18f25fab": "2026-10-19T03:58:52.123945+00:00",
-  "92a2d7813704ca4f": "2026-10-19T03:58:52.123945+00:00",
-  "5a295178214ab3ab": "2026-10-19T03:58:52.123945+00:00",
-  "b6826a58452634c1": "2026-10-19T03:58:52.123945+00:00",
-  "4c7a587f6bede876": "2026-10-19T03:58:52.123945+00:00",
-  "5cb33c3b05c0477a": "2026-10-19T03:58:52.123945+00:00",
-  "84e610d93ddfea48": "2026-10-19T03:58:52.123945+00:00",
-  "f544bbc9a2e36eb3": "2026-10-19T03:58:52.123945+00:00",
-  "b3afb512035a63ac": "2026-10-19T03:58:52.123945+00:00",
   "d7e9a9820c112916": "2026-10-19T04:34:51.452129+00:00",
   "d395b1ef13168ea5": "2026-10-19T04:34:51.452129+00:00",
   "8125a770e87680df": "2026-10-19T04:34:51.452129+00:00",
@@ -6853,7 +6840,9 @@
   "8f08c0e216594610": "2026-11-02T03:27:00.839542+00:00",
   "e80c2492842ab2f4": "2026-11-02T03:27:00.839542+00:00",
   "350054fae44a9446": "2026-11-02T03:36:59.391702+00:00",
-  "b9c38b8d12bfdc12": "2026-11-02T03:56:56.868028+00:00"
+  "b9c38b8d12bfdc12": "2026-11-02T03:56:56.868028+00:00",
+  "583f0a5d8551756a": "2026-11-02T04:02:32.160516+00:00",
+  "0172e79cee2f0d71": "2026-11-02T04:02:32.160516+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7191,19 +7180,6 @@
     "ESPN F1": "Flames 6-2 Kraken (31 Oct, 2026) Game Recap"
    },
    "last": "2026-10-31T05:01:25.309766+00:00"
-  },
-  "S3181": {
-   "title": "FIFA aims to double Women's World Cup prize money",
-   "first": "2026-10-31T04:01:04.419413+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T03:58:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Source: FIFA aims to double Women's World Cup prize money, but equal pay remains out of reach"
-   },
-   "last": "2026-10-31T04:01:04.419431+00:00"
   },
   "S3182": {
    "title": "Jamal Murray and-1 bucket highlight (NBA)",
@@ -16469,15 +16445,17 @@
    "first": "2026-11-02T00:02:03.021563+00:00",
    "sources": {
     "Gazzetta dello Sport": "2026-11-01T23:11:39+00:00",
-    "Motorsport-Total": "2026-11-02T01:13:04+00:00"
+    "Motorsport-Total": "2026-11-02T01:13:04+00:00",
+    "Sky Sports F1": "2026-11-02T03:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Gazzetta dello Sport": "Kimi Antonelli non trattiene le lacrime: \"Stavo già piangendo all'ultimo giro\"",
-    "Motorsport-Total": "Kimi Antonelli: Vor lauter Tränen in der letzten Runde fast die Kontrolle verloren - Motorsport-Total.com"
+    "Motorsport-Total": "Kimi Antonelli: Vor lauter Tränen in der letzten Runde fast die Kontrolle verloren - Motorsport-Total.com",
+    "Sky Sports F1": "Antonelli: I couldn’t see through my tears on title-clinching lap"
    },
-   "last": "2026-11-02T01:22:06.654368+00:00"
+   "last": "2026-11-02T04:02:34.794603+00:00"
   },
   "S3848": {
    "title": "Sainz congratulates Antonelli on title after P15 finish in Mexico",
@@ -17333,9 +17311,22 @@
     "Gazzetta dello Sport": "Formula 1"
    },
    "last": "2026-11-02T03:56:59.400013+00:00"
+  },
+  "S3913": {
+   "title": "Amard Adderley ESPN biography profile page",
+   "first": "2026-11-02T04:02:34.794577+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-01T23:59:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Amard Adderley Biography - ESPN"
+   },
+   "last": "2026-11-02T04:02:34.794595+00:00"
   }
  },
- "story_seq": 3912,
+ "story_seq": 3913,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17454,7 +17445,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T03:57:37.303971+00:00",
+ "last_run": "2026-11-02T04:02:32.160516+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
