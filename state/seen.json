@@ -1,22 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7ede0b471d84f4b9": "2026-10-19T07:25:49.629166+00:00",
-  "95db494b244ac338": "2026-10-19T07:25:49.629166+00:00",
-  "b397dc84e91abd25": "2026-10-19T07:25:49.629166+00:00",
-  "3c2ac6668aa51705": "2026-10-19T07:25:49.629166+00:00",
-  "28c42df96add43e2": "2026-10-19T07:25:49.629166+00:00",
-  "994bfd11c28f00cc": "2026-10-19T07:25:49.629166+00:00",
-  "ec9ffb8786ef773d": "2026-10-19T07:25:49.629166+00:00",
-  "584f58a5f7307875": "2026-10-19T07:25:49.629166+00:00",
-  "ada076511cb491e0": "2026-10-19T07:25:49.629166+00:00",
-  "7de877de0251854f": "2026-10-19T07:25:49.629166+00:00",
-  "e4dcebb06108df96": "2026-10-19T07:25:49.629166+00:00",
-  "1205984238c04e09": "2026-10-19T07:25:49.629166+00:00",
-  "dd6947d1bd57684a": "2026-10-19T07:25:49.629166+00:00",
-  "7a98cb6f0c28ef7e": "2026-10-19T07:25:49.629166+00:00",
-  "576f4abf619782a5": "2026-10-19T07:25:49.629166+00:00",
-  "5d3a227f91f559af": "2026-10-19T07:25:49.629166+00:00",
   "63d5bf840c4ff2ad": "2026-10-19T08:14:05.804584+00:00",
   "9b4ee31757b2a9b7": "2026-10-19T08:14:05.804584+00:00",
   "1b0eb6eb4990ee85": "2026-10-19T08:14:05.804584+00:00",
@@ -6866,7 +6850,10 @@
   "a2926774be827a5b": "2026-11-02T07:17:35.206549+00:00",
   "b25f3d0c23f0aad6": "2026-11-02T07:17:35.206549+00:00",
   "ee23079043f46f1e": "2026-11-02T07:17:35.206549+00:00",
-  "5c93605e95683b65": "2026-11-02T07:17:35.206549+00:00"
+  "5c93605e95683b65": "2026-11-02T07:17:35.206549+00:00",
+  "5278eb15e7e67d88": "2026-11-02T07:27:30.937976+00:00",
+  "54b77ef5e8cdc52d": "2026-11-02T07:27:30.937976+00:00",
+  "7768fd02cf2b60ca": "2026-11-02T07:27:30.937976+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7217,19 +7204,6 @@
     "ESPN F1": "Baylor bounces back, wins Joe Klanderman's first game as interim coach"
    },
    "last": "2026-10-31T08:11:30.052393+00:00"
-  },
-  "S3204": {
-   "title": "Mavericks 116-111 Rockets NBA game recap",
-   "first": "2026-10-31T07:26:30.734874+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T03:18:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mavericks 116-111 Rockets (Oct 30, 2026) Game Recap"
-   },
-   "last": "2026-10-31T07:26:30.734898+00:00"
   },
   "S3205": {
    "title": "Verstappen names Ferrari as main Mexico threat",
@@ -17527,9 +17501,48 @@
     "Motorsport-Total": "Kimi Antonelli ist Weltmeister: Wem sein Vater jetzt besonders dankbar ist - Motorsport-Total.com"
    },
    "last": "2026-11-02T07:17:41.945988+00:00"
+  },
+  "S3948": {
+   "title": "Gotham wins first NWSL Shield (not F1)",
+   "first": "2026-11-02T07:27:34.931547+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T07:18:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Resilient Gotham wins first NWSL Shield: 'That should be our standard'"
+   },
+   "last": "2026-11-02T07:27:34.931566+00:00"
+  },
+  "S3949": {
+   "title": "Leclerc says he would have passed Hamilton without Verstappen",
+   "first": "2026-11-02T07:27:34.931572+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T07:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Leclerc wijst naar Verstappen: \"Dan had ik Hamilton voorbij gelaten\""
+   },
+   "last": "2026-11-02T07:27:34.931578+00:00"
+  },
+  "S3950": {
+   "title": "Antonelli to forgo number 1 as 2027 world champion",
+   "first": "2026-11-02T07:27:34.931582+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T07:22:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Darum verzichtet Kimi Antonelli 2027 auf die Startnummer 1 des Weltmeisters - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T07:27:34.931587+00:00"
   }
  },
- "story_seq": 3947,
+ "story_seq": 3950,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17648,27 +17661,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T07:22:36.533854+00:00",
+ "last_run": "2026-11-02T07:27:30.937976+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T07:23:06.449904+00:00",
-   "title": "Vettel, Ferrari'ye geçişinin gizli başlangıcını açıkladı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-10-30T07:23:06.794239+00:00",
-   "title": "Leclerc, Hamilton'dan hâlâ çok şey öğrendiğini açıkladı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-10-30T07:23:07.237349+00:00",
-   "title": "Hadjar, Austin'deki öfke patlamasının ardından hatasını kabul etti",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-30T07:33:03.683290+00:00",
    "title": "Russell, ikinciliği kaybetmeyi umursamadığını söyledi",
@@ -19468,6 +19466,16 @@
    "t": "2026-11-02T07:17:46.202825+00:00",
    "title": "Mexico GP'de FIA cezaları sonrası final sıralaması belli oldu",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-02T07:27:40.496622+00:00",
+   "title": "Leclerc, Hamilton'a saldırmasını Verstappen'in konumuna bağladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-02T07:27:40.853295+00:00",
+   "title": "Antonelli 2027'de dünya şampiyonu olarak 1 numaralı yarış numarasını kullanmayacak",
+   "source": "Motorsport-Total"
   }
  ]
 }
