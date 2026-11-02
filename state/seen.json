@@ -7092,7 +7092,12 @@
   "44b7cdb2a8ff32f3": "2026-11-02T19:45:03.551797+00:00",
   "0fd08582b74a39dd": "2026-11-02T19:45:03.551797+00:00",
   "74033b85cd059f4e": "2026-11-02T19:45:03.551797+00:00",
-  "8fcc741ebed11879": "2026-11-02T19:45:03.551797+00:00"
+  "8fcc741ebed11879": "2026-11-02T19:45:03.551797+00:00",
+  "860b805bb2ba2dea": "2026-11-02T19:55:10.391222+00:00",
+  "4e9cf83dc337ba17": "2026-11-02T19:55:10.391222+00:00",
+  "62f3ff57cfa12f79": "2026-11-02T19:55:10.391222+00:00",
+  "8c5bb786be8c1b9f": "2026-11-02T19:55:10.391222+00:00",
+  "29684da54e9cac34": "2026-11-02T19:55:10.391222+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7316,32 +7321,6 @@
     "ESPN F1": "Spurs 2-0 C Palace (31 Oct, 2026) Game Analysis"
    },
    "last": "2026-10-31T23:48:48.473232+00:00"
-  },
-  "S3361": {
-   "title": "Analysis: Ocon risks repeating premature F1 season end",
-   "first": "2026-10-31T19:47:56.971662+00:00",
-   "sources": {
-    "GPblog": "2026-10-31T19:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Ocon risks suffering same F1 fate for second time in three years"
-   },
-   "last": "2026-10-31T19:47:56.971681+00:00"
-  },
-  "S3362": {
-   "title": "FIA confirms 50-place grid penalty for Bottas in Mexico",
-   "first": "2026-10-31T19:47:56.971686+00:00",
-   "sources": {
-    "GPFans": "2026-10-31T19:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "FIA confirm 50-place grid penalty for under-pressure F1 star at Mexican Grand Prix"
-   },
-   "last": "2026-10-31T19:47:56.971690+00:00"
   },
   "S3363": {
    "title": "Haas's Komatsu gives no further details on Ocon's absence",
@@ -18086,7 +18065,7 @@
    "titles": {
     "ESPN F1": "Michael Olise to rejoin Bayern for UCL clash vs. Atlético Madrid"
    },
-   "last": "2026-11-02T19:45:05.988702+00:00"
+   "last": "2026-11-02T19:55:15.737831+00:00"
   },
   "S4142": {
    "title": "Noni Madueke says Mac Allister tried to bait him into red card",
@@ -18100,9 +18079,50 @@
     "ESPN F1": "Noni Madueke: Alexis Mac Allister tried to 'bait me' into red card"
    },
    "last": "2026-11-02T19:45:05.988708+00:00"
+  },
+  "S4143": {
+   "title": "Lorient vs. Brest (Nov 2, 2026) team stats",
+   "first": "2026-11-02T19:55:15.737794+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T19:50:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lorient vs. Brest (Nov 2, 2026) Team Stats"
+   },
+   "last": "2026-11-02T19:55:15.737814+00:00"
+  },
+  "S4144": {
+   "title": "Chiefs' late collapse vs. Broncos opens AFC West race",
+   "first": "2026-11-02T19:55:15.737819+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T19:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race"
+   },
+   "last": "2026-11-02T19:55:15.737824+00:00"
+  },
+  "S4145": {
+   "title": "Russell issues statement after title defeat to Antonelli",
+   "first": "2026-11-02T19:55:15.737834+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-02T19:42:00+00:00",
+    "Corriere dello Sport": "2026-11-02T19:35:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "George Russell issues statement 'from the heart' after 'catastrophic' title defeat",
+    "Corriere dello Sport": "Russell rompe il silenzio dopo il caso: \"Il 2026 non doveva essere il mio anno, complimenti ad Antonelli\""
+   },
+   "last": "2026-11-02T19:55:15.737844+00:00"
   }
  },
- "story_seq": 4142,
+ "story_seq": 4145,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18221,17 +18241,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T19:45:03.551797+00:00",
+ "last_run": "2026-11-02T19:55:10.391222+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T19:45:18.713224+00:00",
-   "title": "Alonso, Aston Martin ile antrenmanda yedinci oldu",
-   "source": "AS"
-  },
   {
    "t": "2026-10-30T19:55:20.867632+00:00",
    "title": "FIA, Meksika GP'si için grid cezalarını açıkladı",
@@ -20155,6 +20170,11 @@
   {
    "t": "2026-11-02T19:04:18.409774+00:00",
    "title": "Liam Lawson, 2027 kadro kararı belirsizken övgü topluyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-02T19:55:20.292554+00:00",
+   "title": "Russell, Antonelli'nin şampiyonluğunun ardından ilk açıklamasını yaptı",
    "source": "RacingNews365"
   }
  ]
