@@ -6812,7 +6812,9 @@
   "2e74a22827e074de": "2026-11-02T00:36:59.709825+00:00",
   "c8ec13be270e24c6": "2026-11-02T00:36:59.709825+00:00",
   "219192fbd879d621": "2026-11-02T00:36:59.709825+00:00",
-  "f535023a47a9e642": "2026-11-02T00:36:59.709825+00:00"
+  "f535023a47a9e642": "2026-11-02T00:36:59.709825+00:00",
+  "9acb7f8ec6acb016": "2026-11-02T00:41:57.424833+00:00",
+  "72e410921a81d375": "2026-11-02T00:41:57.424833+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7070,19 +7072,6 @@
     "FormulaPassion": "Verstappen attacca Lawson: “Fossi in lui sarei stato più attento, si gioca il posto”"
    },
    "last": "2026-10-31T08:06:40.804529+00:00"
-  },
-  "S3133": {
-   "title": "Mitchell Robinson dunk highlight (NBA, not F1)",
-   "first": "2026-10-31T00:40:57.893323+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T00:39:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mitchell Robinson gets up for the beautiful slam"
-   },
-   "last": "2026-10-31T00:40:57.893341+00:00"
   },
   "S3134": {
    "title": "Aiden Bui 48-yard field goal in college football",
@@ -16954,7 +16943,8 @@
     "PlanetF1": "2026-11-01T23:58:53+00:00",
     "RacingNews365 NL": "2026-11-02T00:01:00+00:00",
     "GPblog": "2026-11-02T00:12:00+00:00",
-    "The Race": "2026-11-02T00:25:26+00:00"
+    "The Race": "2026-11-02T00:25:26+00:00",
+    "Formula 1": "2026-11-02T00:42:00.998443+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16962,9 +16952,10 @@
     "PlanetF1": "FIA launches Oscar Piastri and Lindblad investigation after Mexican GP incident",
     "RacingNews365 NL": "Stewards vellen oordeel over incident Piastri en Lindblad",
     "GPblog": "Piastri suffers 10-second penalty after Lindblad collision at Mexico City GP",
-    "The Race": "Piastri punished for Lindblad collision"
+    "The Race": "Piastri punished for Lindblad collision",
+    "Formula 1": "Piastri receives post-race penalty at Mexico City GP"
    },
-   "last": "2026-11-02T00:37:06.123512+00:00"
+   "last": "2026-11-02T00:42:00.998458+00:00"
   },
   "S3846": {
    "title": "Gazzetta driver ratings from Mexico City Grand Prix",
@@ -17134,9 +17125,22 @@
     "Formula 1": "Verstappen on the move that earned him ‘fantastic’ Mexico win"
    },
    "last": "2026-11-02T00:37:06.123503+00:00"
+  },
+  "S3859": {
+   "title": "Gazzetta video replay of Antonelli's title-clinching last lap",
+   "first": "2026-11-02T00:42:00.998466+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-01T23:20:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi Antonelli campione! Rivivi l'ultimo emozionante giro nel Gp del Messico"
+   },
+   "last": "2026-11-02T00:42:00.998473+00:00"
   }
  },
- "story_seq": 3858,
+ "story_seq": 3859,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17255,7 +17259,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T00:36:59.709825+00:00",
+ "last_run": "2026-11-02T00:41:57.424833+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
