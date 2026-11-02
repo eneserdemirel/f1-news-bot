@@ -6808,7 +6808,11 @@
   "dca09e16744de78e": "2026-11-02T00:27:01.563863+00:00",
   "908664b62666f07d": "2026-11-02T00:27:01.563863+00:00",
   "d6742f0f314dce09": "2026-11-02T00:31:56.881980+00:00",
-  "0cce57124b8f1af6": "2026-11-02T00:31:56.881980+00:00"
+  "0cce57124b8f1af6": "2026-11-02T00:31:56.881980+00:00",
+  "2e74a22827e074de": "2026-11-02T00:36:59.709825+00:00",
+  "c8ec13be270e24c6": "2026-11-02T00:36:59.709825+00:00",
+  "219192fbd879d621": "2026-11-02T00:36:59.709825+00:00",
+  "f535023a47a9e642": "2026-11-02T00:36:59.709825+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7066,19 +7070,6 @@
     "FormulaPassion": "Verstappen attacca Lawson: “Fossi in lui sarei stato più attento, si gioca il posto”"
    },
    "last": "2026-10-31T08:06:40.804529+00:00"
-  },
-  "S3132": {
-   "title": "Russell says Mexico City competitive order 'can go any way'",
-   "first": "2026-10-31T00:35:54.479927+00:00",
-   "sources": {
-    "Formula 1": "2026-10-31T00:35:54.479942+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Competitive order ‘can go any way’ in Mexico City – Russell"
-   },
-   "last": "2026-10-31T00:35:54.479946+00:00"
   },
   "S3133": {
    "title": "Mitchell Robinson dunk highlight (NBA, not F1)",
@@ -16120,7 +16111,7 @@
     "GPFans": "F1 Points Standings 2026: Max Verstappen storms past Lewis Hamilton as Kimi Antonelli champion",
     "Gazzetta dello Sport": "Kimi Antonelli campione! Rivivi l'ultimo emozionante giro nel Gp del Messico"
    },
-   "last": "2026-11-01T23:27:03.388528+00:00"
+   "last": "2026-11-02T00:37:06.123520+00:00"
   },
   "S3787": {
    "title": "Verstappen wins Mexico City GP; full race results published",
@@ -16973,7 +16964,7 @@
     "GPblog": "Piastri suffers 10-second penalty after Lindblad collision at Mexico City GP",
     "The Race": "Piastri punished for Lindblad collision"
    },
-   "last": "2026-11-02T00:27:08.578076+00:00"
+   "last": "2026-11-02T00:37:06.123512+00:00"
   },
   "S3846": {
    "title": "Gazzetta driver ratings from Mexico City Grand Prix",
@@ -17130,9 +17121,22 @@
     "Gazzetta dello Sport": "Kimi: \"Italia, ce l'abbiamo fatta!\""
    },
    "last": "2026-11-02T00:31:58.413278+00:00"
+  },
+  "S3858": {
+   "title": "Verstappen explains the move that won him Mexico City GP",
+   "first": "2026-11-02T00:37:06.123483+00:00",
+   "sources": {
+    "Formula 1": "2026-11-02T00:37:06.123498+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Verstappen on the move that earned him ‘fantastic’ Mexico win"
+   },
+   "last": "2026-11-02T00:37:06.123503+00:00"
   }
  },
- "story_seq": 3857,
+ "story_seq": 3858,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17251,17 +17255,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T00:31:56.881980+00:00",
+ "last_run": "2026-11-02T00:36:59.709825+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
  "last_digest_at": "2026-11-01T19:01:16.049222+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T00:32:26.383029+00:00",
-   "title": "Antonelli viral hastalık nedeniyle Meksika'da medya görevlerini atladı",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-30T06:23:07.081528+00:00",
    "title": "Hamilton: \"Yaşımın getirdiği zorluklara rağmen hâlâ tam gaz devam ediyorum\"",
@@ -18976,6 +18975,16 @@
    "t": "2026-11-02T00:27:11.539367+00:00",
    "title": "Kimi: \"İtalya, başardık!\"",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-02T00:37:10.703868+00:00",
+   "title": "FIA, Piastri'ye Meksika GP'deki Lindblad kazası nedeniyle 10 saniye ceza verdi",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-02T00:37:11.028988+00:00",
+   "title": "Verstappen, Meksika'da fırsatçı hamlesiyle galibiyeti kazandı",
+   "source": "Formula 1"
   }
  ]
 }
