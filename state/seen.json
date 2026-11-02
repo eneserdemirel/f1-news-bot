@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "af0588e7da26b224": "2026-10-19T18:02:30.372589+00:00",
-  "79d23df147dbb46f": "2026-10-19T18:02:30.372589+00:00",
-  "89a4e9eaaf530670": "2026-10-19T18:02:30.372589+00:00",
-  "6b6f942ce9adda9c": "2026-10-19T18:02:30.372589+00:00",
   "466f953697e97dcf": "2026-10-19T18:42:40.251647+00:00",
   "5059889d05d657c7": "2026-10-19T18:42:40.251647+00:00",
   "2d8882bdf489e1f0": "2026-10-19T18:42:40.251647+00:00",
@@ -7071,7 +7067,12 @@
   "685ca5eb16ec9b83": "2026-11-02T17:54:09.223842+00:00",
   "1d0eeb9ef22a516d": "2026-11-02T17:54:09.223842+00:00",
   "0f8a696057934b78": "2026-11-02T17:54:09.223842+00:00",
-  "cb20235c10dc9cd6": "2026-11-02T17:54:09.223842+00:00"
+  "cb20235c10dc9cd6": "2026-11-02T17:54:09.223842+00:00",
+  "4843bbaf77757beb": "2026-11-02T18:04:16.974196+00:00",
+  "1ebe16f4c0a97f3b": "2026-11-02T18:04:16.974196+00:00",
+  "2827cabaa83f60cd": "2026-11-02T18:04:16.974196+00:00",
+  "f6011dd7d1f38fc1": "2026-11-02T18:04:16.974196+00:00",
+  "760e86c1c2d66115": "2026-11-02T18:04:16.974196+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7167,21 +7168,6 @@
     "ESPN F1": "Zion Green commits to Alabama hoops as Crimson Tide's second top-25 recruit"
    },
    "last": "2026-10-31T18:48:06.126947+00:00"
-  },
-  "S3303": {
-   "title": "Red Bull gives timeline for new F1 wind tunnel commissioning",
-   "first": "2026-10-31T15:12:56.599731+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-10-31T15:09:04+00:00",
-    "Autosport": "2026-10-31T17:58:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Neuer Formel-1-Windkanal: Red Bull nennt Zeitplan für die Inbetriebnahme - Motorsport-Total.com",
-    "Autosport": "Red Bull provides timeline for long-awaited new F1 wind tunnel"
-   },
-   "last": "2026-10-31T18:02:56.113000+00:00"
   },
   "S3329": {
    "title": "Canelo Alvarez vs Christian Mbilli boxing live updates",
@@ -15854,7 +15840,8 @@
     "Motorsport.com Italia": "2026-11-02T08:55:39+00:00",
     "Corriere dello Sport": "2026-11-02T11:05:43+00:00",
     "RacingNews365 NL": "2026-11-02T14:10:00+00:00",
-    "PlanetF1": "2026-11-02T14:09:15+00:00"
+    "PlanetF1": "2026-11-02T14:09:15+00:00",
+    "Formula 1": "2026-11-02T18:04:21.658683+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15863,9 +15850,10 @@
     "Motorsport.com Italia": "F1 | Antonelli non userà il numero 1 nel 2027: \"Avrò ancora il 12. Un modo per rimanere con i piedi per terra\"",
     "Corriere dello Sport": "Antonelli e il retroscena sul futuro: \"Ecco perché correrò ancora con il numero 12\"",
     "RacingNews365 NL": "Kampioen Antonelli bevestigt startnummer voor 2027",
-    "PlanetF1": "Kimi Antonelli stands firm on key F1 2027 decision after Mexican Grand Prix"
+    "PlanetF1": "Kimi Antonelli stands firm on key F1 2027 decision after Mexican Grand Prix",
+    "Formula 1": "Antonelli reveals race number he will use to defend title in 2027"
    },
-   "last": "2026-11-02T16:44:10.405149+00:00"
+   "last": "2026-11-02T18:04:21.658699+00:00"
   },
   "S3951": {
    "title": "AS feature on Antonelli's race-by-race path to title",
@@ -16432,14 +16420,16 @@
    "title": "Pirelli wary of possible Bridgestone return to F1",
    "first": "2026-11-02T09:53:29.418292+00:00",
    "sources": {
-    "RacingNews365": "2026-11-02T09:40:00+00:00"
+    "RacingNews365": "2026-11-02T09:40:00+00:00",
+    "GPblog": "2026-11-02T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Pirelli shy away from potential Bridgestone Formula 1 threat"
+    "RacingNews365": "Pirelli shy away from potential Bridgestone Formula 1 threat",
+    "GPblog": "Pirelli stays silent on Bridgestone threat as battle for F1 tyre deal from 2029 looms"
    },
-   "last": "2026-11-02T09:53:29.418296+00:00"
+   "last": "2026-11-02T18:04:21.658720+00:00"
   },
   "S3995": {
    "title": "Hamilton says Ferrari let Verstappen pass in Mexico opening laps",
@@ -18083,9 +18073,48 @@
     "RacingNews365 NL": "Verstappen houdt vast aan standpunt over F1-seizoensfinale"
    },
    "last": "2026-11-02T17:54:12.805985+00:00"
+  },
+  "S4120": {
+   "title": "ESPN Get Up show livestream listing",
+   "first": "2026-11-02T18:04:21.658706+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lun. 11/2 - Get Up (2/11/26) - Stream en vivo"
+   },
+   "last": "2026-11-02T18:04:21.658713+00:00"
+  },
+  "S4121": {
+   "title": "Peter Windsor predicts Ocon legal action against Haas",
+   "first": "2026-11-02T18:04:21.658724+00:00",
+   "sources": {
+    "GPFans": "2026-11-02T17:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 insider predicts legal action after driver axed during Mexican Grand Prix"
+   },
+   "last": "2026-11-02T18:04:21.658729+00:00"
+  },
+  "S4122": {
+   "title": "FormulaPassion opinion on Ferrari's Mexico potential",
+   "first": "2026-11-02T18:04:21.658733+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-02T18:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Autogol Ferrari: la SF-26 aveva tutto per vincere"
+   },
+   "last": "2026-11-02T18:04:21.658737+00:00"
   }
  },
- "story_seq": 4119,
+ "story_seq": 4122,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18204,17 +18233,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T17:54:09.223842+00:00",
+ "last_run": "2026-11-02T18:04:16.974196+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T17:54:41.396975+00:00",
-   "title": "Mexico City GP: Antonelli viral hastalık sonrası antrenmanda sürmeye uygun",
-   "source": "Sky Sports F1"
-  },
   {
    "t": "2026-10-30T18:45:23.422619+00:00",
    "title": "Hamilton, Meksika GP antrenmanında Ferrari'de deneyler yapıyor",
@@ -20159,6 +20183,11 @@
    "t": "2026-11-02T17:54:20.003120+00:00",
    "title": "Verstappen, F1 sezon finali konusunda görüşünü koruyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-02T18:04:27.573858+00:00",
+   "title": "Ocon'un Meksika GP'de yerine Hirakawa alındı, Windsor yasal süreç öngörüyor",
+   "source": "GPFans"
   }
  ]
 }
