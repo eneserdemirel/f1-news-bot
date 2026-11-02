@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "202422dd0086ebaa": "2026-10-19T09:38:52.472530+00:00",
-  "99dec759db87ff82": "2026-10-19T09:38:52.472530+00:00",
-  "9e6ef2fdc50974cb": "2026-10-19T09:38:52.472530+00:00",
-  "128479dc2b1d9ed1": "2026-10-19T09:38:52.472530+00:00",
-  "2a91f426405b1d74": "2026-10-19T09:38:52.472530+00:00",
   "32b50a8b7461b69c": "2026-10-19T10:16:56.910526+00:00",
   "b79e1fe7fe147573": "2026-10-19T10:16:56.910526+00:00",
   "1585c7c231a51854": "2026-10-19T10:16:56.910526+00:00",
@@ -6960,7 +6955,12 @@
   "b00853dc5c17519d": "2026-11-02T09:34:02.197482+00:00",
   "9352228ceb65535a": "2026-11-02T09:34:02.197482+00:00",
   "6be1e22ce7f2118d": "2026-11-02T09:34:02.197482+00:00",
-  "c3b8f7d85844714c": "2026-11-02T09:34:02.197482+00:00"
+  "c3b8f7d85844714c": "2026-11-02T09:34:02.197482+00:00",
+  "01dba27f4d6129de": "2026-11-02T09:43:17.928933+00:00",
+  "a68373595a4b7c96": "2026-11-02T09:43:17.928933+00:00",
+  "7e3e910175ede180": "2026-11-02T09:43:17.928933+00:00",
+  "df259a1279239c6a": "2026-11-02T09:43:17.928933+00:00",
+  "83959fa572476650": "2026-11-02T09:43:17.928933+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7288,19 +7288,6 @@
     "Motorsport.com Italia": "F1 | Ferrari, problema alla power unit di Hamilton: niente penalità in Messico"
    },
    "last": "2026-10-31T16:42:59.439435+00:00"
-  },
-  "S3230": {
-   "title": "Queensland vs Victoria Sheffield Shield match report",
-   "first": "2026-10-31T09:41:25.871811+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T09:37:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Recent Match Report - Queensland vs Victoria, Sheffield Shield 2026, 9th Match"
-   },
-   "last": "2026-10-31T09:41:25.871830+00:00"
   },
   "S3231": {
    "title": "Norris has plan to shock rivals in Mexico City",
@@ -15464,7 +15451,7 @@
     "GPblog": "Max Verstappen runs out of superlatives for Antonelli: “I’m very proud”",
     "RacingNews365 NL": "Verstappen neemt hoed af voor Antonelli"
    },
-   "last": "2026-11-01T23:37:04.666477+00:00"
+   "last": "2026-11-02T09:43:23.797848+00:00"
   },
   "S3815": {
    "title": "Celebrations for Antonelli's title in Imola and Bologna",
@@ -16566,15 +16553,17 @@
    "first": "2026-11-02T02:07:03.124712+00:00",
    "sources": {
     "Crash.net": "2026-11-02T02:06:58+00:00",
-    "FormulaPassion": "2026-11-02T09:23:01+00:00"
+    "FormulaPassion": "2026-11-02T09:23:01+00:00",
+    "Motorsport Week": "2026-11-02T09:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Ryo Hirakawa scores point on F1 debut at Mexico GP after double Alpine penalty",
-    "FormulaPassion": "Alpine penalizzate, Hirakawa a punti: il motivo"
+    "FormulaPassion": "Alpine penalizzate, Hirakawa a punti: il motivo",
+    "Motorsport Week": "Haas F1 debutant handed points finish after Mexico penalties"
    },
-   "last": "2026-11-02T09:23:24.977186+00:00"
+   "last": "2026-11-02T09:43:23.797854+00:00"
   },
   "S3895": {
    "title": "Hawks' Flemings suspended for elbowing Pelicans' McGowens",
@@ -17474,7 +17463,7 @@
    "titles": {
     "Gazzetta dello Sport": "Il coraggio di non aspettare: così Antonelli ha riscritto le regole della Formula 1"
    },
-   "last": "2026-11-02T08:12:40.926200+00:00"
+   "last": "2026-11-02T09:43:23.797860+00:00"
   },
   "S3963": {
    "title": "The Race opinion on the rival Verstappen needs",
@@ -17826,9 +17815,35 @@
     "Motorsport-Total": "Max Verstappen: \"Zwei Nummer-1-Fahrer haben Ferrari den Mexiko-Sieg gekostet\" - Motorsport-Total.com"
    },
    "last": "2026-11-02T09:34:09.156325+00:00"
+  },
+  "S3990": {
+   "title": "Lamonato analysis of Antonelli's sub-optimal Mexico build-up",
+   "first": "2026-11-02T09:43:23.797808+00:00",
+   "sources": {
+    "Formula 1": "2026-11-02T09:43:23.797825+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The Mexico GP issues Antonelli overcame to claim his title"
+   },
+   "last": "2026-11-02T09:43:23.797829+00:00"
+  },
+  "S3991": {
+   "title": "Bay vs San Diego football final score",
+   "first": "2026-11-02T09:43:23.797835+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T09:40:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bay 0-1 San Diego (1 Nov, 2026) Final Score"
+   },
+   "last": "2026-11-02T09:43:23.797840+00:00"
   }
  },
- "story_seq": 3989,
+ "story_seq": 3991,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17947,7 +17962,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T09:34:02.197482+00:00",
+ "last_run": "2026-11-02T09:43:17.928933+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
