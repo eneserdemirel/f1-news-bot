@@ -6846,7 +6846,10 @@
   "200e7022290614fe": "2026-11-02T06:22:34.096325+00:00",
   "cea62dc5056e074e": "2026-11-02T06:27:32.802678+00:00",
   "1e822599b6ecf0e1": "2026-11-02T06:32:35.468890+00:00",
-  "83fd933536175421": "2026-11-02T06:32:35.468890+00:00"
+  "83fd933536175421": "2026-11-02T06:32:35.468890+00:00",
+  "2afd1d9d230b4a7e": "2026-11-02T06:37:31.766442+00:00",
+  "59c4daf28d06042a": "2026-11-02T06:37:31.766442+00:00",
+  "f60f4236b458b596": "2026-11-02T06:37:31.766442+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15756,14 +15759,16 @@
    "title": "Feature on Antonelli's family roots and upbringing",
    "first": "2026-11-01T22:52:08.941011+00:00",
    "sources": {
-    "Gazzetta dello Sport": "2026-11-01T22:45:07+00:00"
+    "Gazzetta dello Sport": "2026-11-01T22:45:07+00:00",
+    "ESPN F1": "2026-11-02T04:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Gazzetta dello Sport": "Kimi, un trionfo nato in famiglia. \"Prende ancora la paghetta. E non può sgarrare...\""
+    "Gazzetta dello Sport": "Kimi, un trionfo nato in famiglia. \"Prende ancora la paghetta. E non può sgarrare...\"",
+    "ESPN F1": "The families that built Kimi Antonelli, F1 world champion"
    },
-   "last": "2026-11-01T22:52:08.941016+00:00"
+   "last": "2026-11-02T06:37:35.201973+00:00"
   },
   "S3811": {
    "title": "Feature comparing Antonelli's firsts with past F1 champions",
@@ -16006,14 +16011,16 @@
    "title": "Vettel video message congratulates Antonelli as youngest champion",
    "first": "2026-11-01T23:17:05.422009+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-01T23:10:29+00:00"
+    "FormulaPassion": "2026-11-01T23:10:29+00:00",
+    "Motorsport-Total": "2026-11-02T06:34:30+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Vettel incorona Antonelli e gli dedica un video-lettera: ora è lui il più giovane campione di sempre"
+    "FormulaPassion": "Vettel incorona Antonelli e gli dedica un video-lettera: ora è lui il più giovane campione di sempre",
+    "Motorsport-Total": "\"Genieße es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli - Motorsport-Total.com"
    },
-   "last": "2026-11-01T23:17:05.422013+00:00"
+   "last": "2026-11-02T06:37:35.201998+00:00"
   },
   "S3829": {
    "title": "Constructors' standings after Mexico City Grand Prix",
@@ -17479,9 +17486,22 @@
     "ESPN F1": "Tulsa vs. Tulane 7/11/26 - Mira Juego en vivo"
    },
    "last": "2026-11-02T06:32:38.904412+00:00"
+  },
+  "S3938": {
+   "title": "Wolff celebrates Antonelli title with tears, champagne and tequila",
+   "first": "2026-11-02T06:37:35.201984+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-02T06:32:29+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Lacrime, champagne e tequila promessa da Wolff: com'è andata la prima notte di Kimi da campione del mondo"
+   },
+   "last": "2026-11-02T06:37:35.201991+00:00"
   }
  },
- "story_seq": 3937,
+ "story_seq": 3938,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17600,7 +17620,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T06:32:35.468890+00:00",
+ "last_run": "2026-11-02T06:37:31.766442+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19415,6 +19435,11 @@
    "t": "2026-11-02T06:22:45.089250+00:00",
    "title": "Meksika'daki sonradan verilen cezalar: Üç F1 pilotu puanlarını kaybetti",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-02T06:37:38.847786+00:00",
+   "title": "Wolff'un vaadi: Kimi'nin dünya şampiyonu olduğu ilk gece nasıl geçti",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
