@@ -7011,7 +7011,10 @@
   "8febb3a8dc808ac5": "2026-11-02T13:03:17.316307+00:00",
   "5dbcc4962b668d9e": "2026-11-02T13:03:17.316307+00:00",
   "843bf50921046a1f": "2026-11-02T13:03:17.316307+00:00",
-  "2cc1eb521db1bf24": "2026-11-02T13:03:17.316307+00:00"
+  "2cc1eb521db1bf24": "2026-11-02T13:03:17.316307+00:00",
+  "c0310243334bc4e6": "2026-11-02T13:13:18.468128+00:00",
+  "3c1a82d71760b329": "2026-11-02T13:13:18.468128+00:00",
+  "b33c05ad252d89ed": "2026-11-02T13:13:18.468128+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7303,45 +7306,6 @@
     "ESPN F1": "Michael Penix Jr. shows he could be Atlanta's QB1"
    },
    "last": "2026-10-31T14:27:18.578314+00:00"
-  },
-  "S3268": {
-   "title": "Levante vs. Atlético (Oct 31, 2026) team stats",
-   "first": "2026-10-31T13:07:13.787422+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T13:06:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Levante vs. Atlético (Oct 31, 2026) Team Stats"
-   },
-   "last": "2026-10-31T13:07:13.787440+00:00"
-  },
-  "S3269": {
-   "title": "Scorchers beat Renegades; Strikers beat Stars in cricket",
-   "first": "2026-10-31T13:07:13.787446+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T13:04:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Scorchers romp over Renegades; Strikers ease past Stars"
-   },
-   "last": "2026-10-31T13:07:13.787451+00:00"
-  },
-  "S3270": {
-   "title": "Sainz defends backmarker drivers against Alonso's criticism",
-   "first": "2026-10-31T13:12:20.838158+00:00",
-   "sources": {
-    "FormulaPassion": "2026-10-31T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Sainz difende i piloti delle retrovie dalle critiche di Alonso: “Tutti all’altezza degli standard della F1”"
-   },
-   "last": "2026-10-31T13:12:20.838178+00:00"
   },
   "S3271": {
    "title": "Chase praises Jomel Warrican as a 'good craftsman'",
@@ -16225,14 +16189,16 @@
    "title": "Hamilton calls Leclerc's driving 'a mentality thing' after Mexico clash",
    "first": "2026-11-02T03:02:07.533343+00:00",
    "sources": {
-    "Sky Sports F1": "2026-11-01T22:30:00+00:00"
+    "Sky Sports F1": "2026-11-01T22:30:00+00:00",
+    "Motorsport Week": "2026-11-02T13:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Sky Sports F1": "'It's a mentality thing' - Hamilton hits out at Leclerc after Mexico clash"
+    "Sky Sports F1": "'It's a mentality thing' - Hamilton hits out at Leclerc after Mexico clash",
+    "Motorsport Week": "Lewis Hamilton airs fury at Charles Leclerc ‘mentality’ after Mexico GP clash"
    },
-   "last": "2026-11-02T03:22:05.573154+00:00"
+   "last": "2026-11-02T13:13:23.250720+00:00"
   },
   "S3904": {
    "title": "F1 grid drivers react to Antonelli's world title",
@@ -18177,9 +18143,35 @@
     "Crash.net": "Nico Rosberg pulls no punches on Ferrari clash: “It’s always Charles’ fault”"
    },
    "last": "2026-11-02T13:03:23.046072+00:00"
+  },
+  "S4052": {
+   "title": "Aston Martin and Alonso struggle with early Mexico GP exit",
+   "first": "2026-11-02T13:13:23.250692+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-02T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Aston Martin 'fail moment of truth' after basic Mexico challenge 'underestimated'"
+   },
+   "last": "2026-11-02T13:13:23.250712+00:00"
+  },
+  "S4053": {
+   "title": "Cadillac investigates Bottas crash; untelevised radio revealed",
+   "first": "2026-11-02T13:13:23.250725+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-02T13:08:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Untelevised Valtteri Bottas team radio as Cadillac launches investigation over Mexican GP crash"
+   },
+   "last": "2026-11-02T13:13:23.250729+00:00"
   }
  },
- "story_seq": 4051,
+ "story_seq": 4053,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18298,7 +18290,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T13:03:17.316307+00:00",
+ "last_run": "2026-11-02T13:13:18.468128+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
@@ -20213,6 +20205,11 @@
    "t": "2026-11-02T13:03:29.761384+00:00",
    "title": "Rosberg: Leclerc-Hamilton kavgasında hep Charles'ın hatası",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-02T13:13:29.982433+00:00",
+   "title": "Bottas'ın Meksika GP kazası sonrası Cadillac soruşturma başlatıyor",
+   "source": "PlanetF1"
   }
  ]
 }
