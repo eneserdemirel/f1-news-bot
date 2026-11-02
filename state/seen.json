@@ -6846,7 +6846,10 @@
   "83f7d2a9130f4cab": "2026-11-02T05:52:33.197539+00:00",
   "49d1385e77361821": "2026-11-02T05:57:31.657580+00:00",
   "f31794799dd3f9c4": "2026-11-02T05:57:31.657580+00:00",
-  "d1e3bb51bca13052": "2026-11-02T06:02:37.252041+00:00"
+  "d1e3bb51bca13052": "2026-11-02T06:02:37.252041+00:00",
+  "9f2f3b08105692f5": "2026-11-02T06:07:32.336045+00:00",
+  "200c6bbc2cb727c8": "2026-11-02T06:07:32.336045+00:00",
+  "349dff6faa6f4ec3": "2026-11-02T06:07:32.336045+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7233,19 +7236,6 @@
     "Motorsport Week": "Red Bull gives Max Verstappen update after recent radio troubles"
    },
    "last": "2026-10-31T15:37:57.907643+00:00"
-  },
-  "S3194": {
-   "title": "Red Bull's Waché explains damage to Verstappen's car after Lawson clash",
-   "first": "2026-10-31T06:06:30.473878+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-10-31T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull openbaart gevolgen van schade aan auto Verstappen"
-   },
-   "last": "2026-10-31T06:06:30.473897+00:00"
   },
   "S3195": {
    "title": "2026 NBA Cup schedule, format and groups explainer",
@@ -17460,9 +17450,48 @@
     "Gazzetta dello Sport": "La holding a San Marino, il brand e gli affari: quanto vale e quanto guadagna Kimi Antonelli"
    },
    "last": "2026-11-02T05:57:34.634222+00:00"
+  },
+  "S3933": {
+   "title": "Verstappen criticises the light five-second penalty for Leclerc",
+   "first": "2026-11-02T06:07:36.026708+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-02T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen stoort zich aan magere straf Leclerc: \"Heel apart\""
+   },
+   "last": "2026-11-02T06:07:36.026725+00:00"
+  },
+  "S3934": {
+   "title": "Opinion: Hamilton wrong to blame Leclerc for Ferrari's loss",
+   "first": "2026-11-02T06:07:36.026732+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-02T06:00:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton cost Ferrari victory and career-ending Ocon’s black eye"
+   },
+   "last": "2026-11-02T06:07:36.026737+00:00"
+  },
+  "S3935": {
+   "title": "Explainer on why FIA penalised the two Alpine drivers differently",
+   "first": "2026-11-02T06:07:36.026741+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-02T06:01:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Gelb missachtet: Warum die FIA zwei Alpine-Fahrer unterschiedlich bestraft - Motorsport-Total.com"
+   },
+   "last": "2026-11-02T06:07:36.026746+00:00"
   }
  },
- "story_seq": 3932,
+ "story_seq": 3935,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17581,7 +17610,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T06:02:37.252041+00:00",
+ "last_run": "2026-11-02T06:07:32.336045+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19396,6 +19425,11 @@
    "t": "2026-11-02T05:57:37.982840+00:00",
    "title": "Kimi Antonelli'nin holdingi, markası ve kazançları ne kadar?",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-02T06:07:47.074772+00:00",
+   "title": "Verstappen, Leclerc'in hafif cezasına şaşırdı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
