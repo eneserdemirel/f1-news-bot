@@ -6824,7 +6824,9 @@
   "ec9945d7edef1dd4": "2026-11-02T02:06:58.038753+00:00",
   "e5d9e979f2d2d478": "2026-11-02T02:11:58.954924+00:00",
   "0f235a8c9bb7d31f": "2026-11-02T02:11:58.954924+00:00",
-  "597f66a61aab0c4e": "2026-11-02T02:16:58.862687+00:00"
+  "597f66a61aab0c4e": "2026-11-02T02:16:58.862687+00:00",
+  "0105adb77ac8bfab": "2026-11-02T02:22:03.130820+00:00",
+  "6504fa37579148da": "2026-11-02T02:22:03.130820+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7155,19 +7157,6 @@
     "ESPN F1": "Panthers 5-2 Jets (30 Oct, 2026) Game Recap"
    },
    "last": "2026-10-31T06:31:27.848112+00:00"
-  },
-  "S3163": {
-   "title": "Review of how the ten rookies performed in Mexico FP1",
-   "first": "2026-10-31T02:20:58.604182+00:00",
-   "sources": {
-    "Formula 1": "2026-10-31T02:20:58.604197+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "How 10 F1 rookies got on during FP1 in Mexico City"
-   },
-   "last": "2026-10-31T02:20:58.604200+00:00"
   },
   "S3164": {
    "title": "Giannis Antetokounmpo and-1 bucket highlight (NBA)",
@@ -17186,16 +17175,18 @@
    "sources": {
     "RacingNews365": "2026-11-02T01:47:00+00:00",
     "Formula 1": "2026-11-02T02:07:03.124662+00:00",
-    "The Race": "2026-11-02T02:09:22+00:00"
+    "The Race": "2026-11-02T02:09:22+00:00",
+    "Autosport": "2026-11-02T02:16:28+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Alpine handed double-hammer blow as major punishments confirmed",
     "Formula 1": "Alpine duo stripped of Mexico City GP points after penalties",
-    "The Race": "Double penalty costs Alpine all its Mexican GP points"
+    "The Race": "Double penalty costs Alpine all its Mexican GP points",
+    "Autosport": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP"
    },
-   "last": "2026-11-02T02:12:04.748394+00:00"
+   "last": "2026-11-02T02:22:06.205290+00:00"
   },
   "S3886": {
    "title": "Jaguars beat Colts 42-7 in NFL game recap",
@@ -17313,9 +17304,22 @@
     "Crash.net": "Ryo Hirakawa scores point on F1 debut at Mexico GP after double Alpine penalty"
    },
    "last": "2026-11-02T02:07:03.124716+00:00"
+  },
+  "S3895": {
+   "title": "Hawks' Flemings suspended for elbowing Pelicans' McGowens",
+   "first": "2026-11-02T02:22:06.205263+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T02:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hawks' Flemings suspended for elbowing Pelicans' McGowens in head"
+   },
+   "last": "2026-11-02T02:22:06.205280+00:00"
   }
  },
- "story_seq": 3894,
+ "story_seq": 3895,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17434,7 +17438,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T02:16:58.862687+00:00",
+ "last_run": "2026-11-02T02:22:03.130820+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
