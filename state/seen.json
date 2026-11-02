@@ -7055,7 +7055,9 @@
   "c722971fa91547fd": "2026-11-02T16:04:07.107423+00:00",
   "d56d940c07860bda": "2026-11-02T16:04:07.107423+00:00",
   "32c16851cece1a84": "2026-11-02T16:04:07.107423+00:00",
-  "b4e0d48b741415f5": "2026-11-02T16:04:07.107423+00:00"
+  "b4e0d48b741415f5": "2026-11-02T16:04:07.107423+00:00",
+  "044323620aa0f9c8": "2026-11-02T16:14:07.822059+00:00",
+  "3897a8835864f120": "2026-11-02T16:14:07.822059+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7344,32 +7346,6 @@
     "ESPN F1": "LSU lands 5-star center Xavier Young for Class of 2027"
    },
    "last": "2026-10-31T16:57:56.332492+00:00"
-  },
-  "S3314": {
-   "title": "Man United implode at Chelsea, now in relegation battle",
-   "first": "2026-10-31T15:58:00.915583+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T14:50:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United implode at Chelsea; they are now in Premier League relegation battle"
-   },
-   "last": "2026-10-31T16:13:12.970180+00:00"
-  },
-  "S3319": {
-   "title": "Aston Martin submits Stroll's spare chassis to FIA",
-   "first": "2026-10-31T16:13:12.970191+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-31T16:04:23+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Aston Martin: Stroll cambia telaio, si vede che la AMR26 non funziona ma non si è capito perché..."
-   },
-   "last": "2026-10-31T16:13:12.970196+00:00"
   },
   "S3320": {
    "title": "FormulaPassion live blog of Mexico FP3",
@@ -18160,9 +18136,35 @@
     "GPFans": "F1 team boss drops huge hint on 2027 driver lineup"
    },
    "last": "2026-11-02T16:04:10.327006+00:00"
+  },
+  "S4098": {
+   "title": "ESPN college football Week 9 bowl projections and playoff picture",
+   "first": "2026-11-02T16:14:10.756899+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T12:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026-27 Week 9 College Football Playoff, bowl projections"
+   },
+   "last": "2026-11-02T16:14:10.756917+00:00"
+  },
+  "S4099": {
+   "title": "Crash.net column on Ferrari's Hamilton-Leclerc feud risking open war",
+   "first": "2026-11-02T16:14:10.756923+00:00",
+   "sources": {
+    "Crash.net": "2026-11-02T16:08:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Spineless Ferrari risks open war amid Lewis Hamilton, Charles Leclerc feud"
+   },
+   "last": "2026-11-02T16:14:10.756929+00:00"
   }
  },
- "story_seq": 4097,
+ "story_seq": 4099,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18281,22 +18283,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T16:04:07.107423+00:00",
+ "last_run": "2026-11-02T16:14:07.822059+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T16:09:46.333473+00:00",
-   "title": "Steiner, Kimi Antonelli'nin Sebastian Vettel'den daha iyi olup olmadığı sorusuna yanıt verdi",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-10-30T16:09:46.746283+00:00",
-   "title": "Gelecekteki F1 yıldızlarının unutulmaz FP1 debütleri",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-30T16:14:34.236654+00:00",
    "title": "Red Bull, Ferrari ve McLaren Meksika GP için güncellemeler getirdi",
