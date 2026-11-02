@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0100a2dcb011959c": "2026-10-19T21:06:09.298480+00:00",
-  "0e18758dcb4c82ed": "2026-10-19T21:06:09.298480+00:00",
-  "1dbfd5090c71d889": "2026-10-19T21:06:09.298480+00:00",
   "b3eaee129d1a7c8c": "2026-10-19T21:39:09.701447+00:00",
   "8e45c9d1d4a7a453": "2026-10-19T22:11:14.199219+00:00",
   "735fffe7718ecbe5": "2026-10-20T01:01:38.467744+00:00",
@@ -7117,7 +7114,8 @@
   "1a06f2b626b26336": "2026-11-02T21:05:23.317327+00:00",
   "4ebe2f677330812a": "2026-11-02T21:05:23.317327+00:00",
   "8758a509eeaa7d94": "2026-11-02T21:05:23.317327+00:00",
-  "bb92401bff723915": "2026-11-02T21:05:23.317327+00:00"
+  "bb92401bff723915": "2026-11-02T21:05:23.317327+00:00",
+  "e4db2027a79b92f9": "2026-11-02T21:15:03.640653+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7315,19 +7313,6 @@
    },
    "last": "2026-10-31T21:18:47.154876+00:00"
   },
-  "S3414": {
-   "title": "Cardiff vs West Ham odds and spread",
-   "first": "2026-10-31T21:13:44.085016+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T21:12:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cardiff vs. West Ham (Nov 4, 2026) Odds and Spread"
-   },
-   "last": "2026-10-31T21:13:44.085035+00:00"
-  },
   "S3415": {
    "title": "Denny Hamlin wins Martinsville pole, Larson third",
    "first": "2026-10-31T21:13:44.085042+00:00",
@@ -7340,45 +7325,6 @@
     "ESPN F1": "Denny Hamlin wins pole at Martinsville, Kyle Larson 3rd"
    },
    "last": "2026-11-01T03:34:29.647090+00:00"
-  },
-  "S3416": {
-   "title": "Syracuse upsets SMU with late Angeli score",
-   "first": "2026-10-31T21:13:44.085052+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T21:11:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Steve Angeli, Syracuse strike with 17 seconds left, upset SMU"
-   },
-   "last": "2026-10-31T21:13:44.085056+00:00"
-  },
-  "S3417": {
-   "title": "Todd Goebbel dedicates first NC State win to Doeren",
-   "first": "2026-10-31T21:13:44.085060+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T20:39:12+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NC State's Todd Goebbel dedicates first win to Dave Doeren"
-   },
-   "last": "2026-10-31T21:13:44.085064+00:00"
-  },
-  "S3418": {
-   "title": "Laurent Mekies reacts to Verstappen-Lawson Mexico practice clash",
-   "first": "2026-10-31T21:13:44.085067+00:00",
-   "sources": {
-    "Crash.net": "2026-10-31T21:09:20+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Red Bull’s take on Max Verstappen and Liam Lawson’s Mexico GP crash"
-   },
-   "last": "2026-10-31T21:13:44.085072+00:00"
   },
   "S3419": {
    "title": "San Jose vs. Salt Lake team stats",
@@ -17653,9 +17599,22 @@
     "GPFans": "Liam Lawson issues Max Verstappen apology after Mexican Grand Prix incident"
    },
    "last": "2026-11-02T21:05:27.667280+00:00"
+  },
+  "S4161": {
+   "title": "Lions LB Jack Campbell still in hospital, but signs positive",
+   "first": "2026-11-02T21:15:05.451900+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T20:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lions LB Jack Campbell still in hospital, but signs positive"
+   },
+   "last": "2026-11-02T21:15:05.451919+00:00"
   }
  },
- "story_seq": 4160,
+ "story_seq": 4161,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17774,7 +17733,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T21:05:23.317327+00:00",
+ "last_run": "2026-11-02T21:15:03.640653+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
