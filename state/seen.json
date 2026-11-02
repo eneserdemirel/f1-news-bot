@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "62d559d6b9b225fb": "2026-10-19T12:52:06.056027+00:00",
-  "8bdf40cd8a77b827": "2026-10-19T12:52:06.056027+00:00",
-  "8e7572573c9595eb": "2026-10-19T12:52:06.056027+00:00",
-  "c92b1203b7ec9a9f": "2026-10-19T12:52:06.056027+00:00",
   "600008e127d2f4fa": "2026-10-19T13:36:52.898602+00:00",
   "4870b1b0675af87f": "2026-10-19T13:36:52.898602+00:00",
   "1425a02b99bd8177": "2026-10-19T13:36:52.898602+00:00",
@@ -7005,7 +7001,10 @@
   "8b7f0f1fd76ebd75": "2026-11-02T12:33:16.297195+00:00",
   "580ebb83c1b258ce": "2026-11-02T12:43:17.920415+00:00",
   "6f9f766aae39b247": "2026-11-02T12:43:17.920415+00:00",
-  "47067e12ec7e4e5a": "2026-11-02T12:43:17.920415+00:00"
+  "47067e12ec7e4e5a": "2026-11-02T12:43:17.920415+00:00",
+  "cff48dd2c073a248": "2026-11-02T12:53:21.675196+00:00",
+  "fdf747bae44acd87": "2026-11-02T12:53:21.675196+00:00",
+  "adba9da060293a43": "2026-11-02T12:53:21.675196+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7325,19 +7324,6 @@
     "ESPN F1": "Michael Penix Jr. shows he could be Atlanta's QB1"
    },
    "last": "2026-10-31T14:27:18.578314+00:00"
-  },
-  "S3263": {
-   "title": "Betting picks for Mexico City GP qualifying",
-   "first": "2026-10-31T12:52:10.916854+00:00",
-   "sources": {
-    "Formula 1": "2026-10-31T12:52:10.916869+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Best Qualifying bets before the Mexico City GP"
-   },
-   "last": "2026-10-31T12:52:10.916873+00:00"
   },
   "S3264": {
    "title": "Aston Villa to take legal action against Jamie Carragher",
@@ -15787,7 +15773,8 @@
     "Crash.net": "2026-11-02T00:50:24+00:00",
     "FormulaPassion": "2026-11-02T07:55:00+00:00",
     "Auto Motor und Sport": "2026-11-02T08:50:20+00:00",
-    "Motorsport.com Italia": "2026-11-02T10:23:15+00:00"
+    "Motorsport.com Italia": "2026-11-02T10:23:15+00:00",
+    "Autosport": "2026-11-02T12:40:22+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15795,9 +15782,10 @@
     "Crash.net": "Lewis Hamilton points finger at Charles Leclerc for ‘do or die’ mentality",
     "FormulaPassion": "Hamilton: “La mentalità di Leclerc è ‘o vinco io o nessuno dei 2 vince’ anziché pensare alla doppietta della Ferrari”",
     "Auto Motor und Sport": "„Entweder er gewinnt, oder keiner“",
-    "Motorsport.com Italia": "F1 | Hamilton, altra bordata a Leclerc: “O vinco io o non vince nessuno. Questa mentalità deve cambiare”"
+    "Motorsport.com Italia": "F1 | Hamilton, altra bordata a Leclerc: “O vinco io o non vince nessuno. Questa mentalità deve cambiare”",
+    "Autosport": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash"
    },
-   "last": "2026-11-02T10:33:28.629283+00:00"
+   "last": "2026-11-02T12:53:26.326401+00:00"
   },
   "S3866": {
    "title": "Bills beat Ravens 36-10 in NFL game recap",
@@ -18184,9 +18172,35 @@
     "GPblog": "F1 reportedly teams to stay quiet on Qatar as Verstappen and Sainz stand alone"
    },
    "last": "2026-11-02T12:43:21.770397+00:00"
+  },
+  "S4046": {
+   "title": "Sunderland confidence in Le Bris despite poor run",
+   "first": "2026-11-02T12:53:26.326372+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T12:47:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Regis Le Bris retains Sunderland confidence despite bad run - report"
+   },
+   "last": "2026-11-02T12:53:26.326392+00:00"
+  },
+  "S4047": {
+   "title": "Nearly 4 million Italian viewers watch Antonelli title on Sky and TV8",
+   "first": "2026-11-02T12:53:26.326405+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-02T12:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Quasi 4 milioni di telespettatori tra Sky e TV8 per il titolo di Antonelli"
+   },
+   "last": "2026-11-02T12:53:26.326411+00:00"
   }
  },
- "story_seq": 4045,
+ "story_seq": 4047,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18305,17 +18319,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T12:43:17.920415+00:00",
+ "last_run": "2026-11-02T12:53:21.675196+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T12:48:53.906024+00:00",
-   "title": "Viaplay, Videoland'i bünyesine alıyor: Formula 1 fanları için ne değişiyor?",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-30T13:19:58.964069+00:00",
    "title": "Montoya: Messico'da Leclerc, Verstappen ve Antonelli'nin önünde kazanır",
@@ -20215,6 +20224,11 @@
    "t": "2026-11-02T12:43:28.638412+00:00",
    "title": "Meksika GP pilot notları: Verstappen zafer, Hamilton ikinci, Antonelli şampiyon",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-02T12:53:34.765809+00:00",
+   "title": "Antonelli'nin şampiyonluğu Sky ve TV8'de yaklaşık 4 milyon izleyiciye ulaştı",
+   "source": "FormulaPassion"
   }
  ]
 }
