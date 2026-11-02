@@ -6858,7 +6858,10 @@
   "9aa7eccd6ebffe2d": "2026-11-02T06:52:37.247007+00:00",
   "7732277bba7268e0": "2026-11-02T06:52:37.247007+00:00",
   "a47f11931c81131d": "2026-11-02T06:52:37.247007+00:00",
-  "dd48a98f36126a58": "2026-11-02T06:52:37.247007+00:00"
+  "dd48a98f36126a58": "2026-11-02T06:52:37.247007+00:00",
+  "8549cab4b8370dc7": "2026-11-02T07:02:34.197482+00:00",
+  "67327048b893c293": "2026-11-02T07:02:34.197482+00:00",
+  "3b8c00e48b2d661c": "2026-11-02T07:02:34.197482+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7196,19 +7199,6 @@
     "Motorsport Week": "Red Bull gives Max Verstappen update after recent radio troubles"
    },
    "last": "2026-10-31T15:37:57.907643+00:00"
-  },
-  "S3199": {
-   "title": "Leylah Fernandez reaches Pan Pacific Open final over Rakhimova",
-   "first": "2026-10-31T07:01:28.993199+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T06:52:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Leylah Fernandez reaches Pan Pacific Open final with win over Kamilla Rakhimova"
-   },
-   "last": "2026-10-31T07:01:28.993220+00:00"
   },
   "S3200": {
    "title": "Three women accused Packers' Josh Jacobs of abuse after arrest",
@@ -17377,14 +17367,16 @@
    "title": "Verstappen criticises the light five-second penalty for Leclerc",
    "first": "2026-11-02T06:07:36.026708+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-02T06:00:00+00:00"
+    "RacingNews365 NL": "2026-11-02T06:00:00+00:00",
+    "GPblog": "2026-11-02T07:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Verstappen stoort zich aan magere straf Leclerc: \"Heel apart\""
+    "RacingNews365 NL": "Verstappen stoort zich aan magere straf Leclerc: \"Heel apart\"",
+    "GPblog": "Verstappen surprised by Leclerc’s penalty at the Mexico Grand Prix"
    },
-   "last": "2026-11-02T06:07:36.026725+00:00"
+   "last": "2026-11-02T07:02:37.207874+00:00"
   },
   "S3934": {
    "title": "Opinion: Hamilton wrong to blame Leclerc for Ferrari's loss",
@@ -17515,9 +17507,35 @@
     "ESPN F1": "Thunder decline option for oft-injured ex-lottery pick Nikola Topic"
    },
    "last": "2026-11-02T06:52:42.633718+00:00"
+  },
+  "S3944": {
+   "title": "Ducks 6-3 Senators NHL game recap",
+   "first": "2026-11-02T07:02:37.207837+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T04:07:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ducks 6-3 Senators (2 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-02T07:02:37.207855+00:00"
+  },
+  "S3945": {
+   "title": "ESPN F1 'Endless Race' feature",
+   "first": "2026-11-02T07:02:37.207861+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T03:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Endless Race"
+   },
+   "last": "2026-11-02T07:02:37.207867+00:00"
   }
  },
- "story_seq": 3943,
+ "story_seq": 3945,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17636,7 +17654,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T06:57:31.386846+00:00",
+ "last_run": "2026-11-02T07:02:34.197482+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
