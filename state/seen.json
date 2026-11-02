@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7d7c92d0a1d5cd5f": "2026-10-19T02:46:46.894672+00:00",
   "1c8ab3f095277395": "2026-10-19T03:58:52.123945+00:00",
   "6cc30fbe7e592c18": "2026-10-19T03:58:52.123945+00:00",
   "4c7878633399c449": "2026-10-19T03:58:52.123945+00:00",
@@ -6834,7 +6833,10 @@
   "258b492e67499d36": "2026-11-02T02:26:57.144921+00:00",
   "70a1f1de4c01ecfb": "2026-11-02T02:31:58.503861+00:00",
   "e5d2b0528538a29c": "2026-11-02T02:31:58.503861+00:00",
-  "d8d84501676d5fe1": "2026-11-02T02:36:56.586765+00:00"
+  "d8d84501676d5fe1": "2026-11-02T02:36:56.586765+00:00",
+  "bba0bb92e989e1e7": "2026-11-02T02:46:57.072487+00:00",
+  "427442058e5b2e26": "2026-11-02T02:46:57.072487+00:00",
+  "29c6f106a1c06b04": "2026-11-02T02:46:57.072487+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7107,19 +7109,6 @@
     "GPblog": "Hamilton rejects Ferrari theory at Mexico City GP: 'It makes no difference'"
    },
    "last": "2026-10-31T16:52:56.002777+00:00"
-  },
-  "S3142": {
-   "title": "Ausar Thompson alley-oop in NBA game",
-   "first": "2026-10-31T01:00:59.800844+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T00:16:40+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ausar Thompson connects on alley-oop"
-   },
-   "last": "2026-10-31T02:45:55.949128+00:00"
   },
   "S3152": {
    "title": "Racing Bulls boss Permane responds to Verstappen's Lawson comments",
@@ -16605,7 +16594,8 @@
     "The Race": "2026-11-02T00:25:26+00:00",
     "Formula 1": "2026-11-02T00:42:00.998443+00:00",
     "RacingNews365": "2026-11-02T00:45:00+00:00",
-    "Autosport": "2026-11-02T02:19:42+00:00"
+    "Autosport": "2026-11-02T02:19:42+00:00",
+    "Motorsport-Total": "2026-11-02T02:42:35+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16616,9 +16606,10 @@
     "The Race": "Piastri punished for Lindblad collision",
     "Formula 1": "Piastri receives post-race penalty at Mexico City GP",
     "RacingNews365": "Oscar Piastri stripped of Mexico points after huge F1 stewards penalty",
-    "Autosport": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash"
+    "Autosport": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+    "Motorsport-Total": "Nach dem Rennen: Zehn-Sekunden-Zeitstrafe gegen Oscar Piastri verhängt - Motorsport-Total.com"
    },
-   "last": "2026-11-02T02:27:04.850418+00:00"
+   "last": "2026-11-02T02:46:59.951362+00:00"
   },
   "S3846": {
    "title": "Gazzetta driver ratings from Mexico City Grand Prix",
@@ -17318,9 +17309,22 @@
     "ESPN F1": "Steelers roll by Browns, say Jared Verse 'should have his kept mouth shut'"
    },
    "last": "2026-11-02T02:32:01.740665+00:00"
+  },
+  "S3899": {
+   "title": "Wolff reflects on Antonelli's journey from doubters to title",
+   "first": "2026-11-02T02:46:59.951336+00:00",
+   "sources": {
+    "Formula 1": "2026-11-02T02:46:59.951349+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "‘People were doubters’ – Wolff on Antonelli’s ‘incredible’ journey"
+   },
+   "last": "2026-11-02T02:46:59.951354+00:00"
   }
  },
- "story_seq": 3898,
+ "story_seq": 3899,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17439,7 +17443,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T02:42:00.415149+00:00",
+ "last_run": "2026-11-02T02:46:57.072487+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
@@ -19224,6 +19228,16 @@
    "t": "2026-11-02T02:27:08.716189+00:00",
    "title": "Antonelli: Russell bu sezon benden daha fazla talihsizlik yaşadı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-02T02:47:04.771947+00:00",
+   "title": "Oscar Piastri'ye yarış sonrası 10 saniyelik ceza verildi",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-02T02:47:05.102621+00:00",
+   "title": "Wolff, Antonelli'nin inanılmaz yolculuğunu değerlendirdi",
+   "source": "Formula 1"
   }
  ]
 }
