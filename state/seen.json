@@ -7028,7 +7028,12 @@
   "8d50267f13d5083f": "2026-11-02T14:34:11.394132+00:00",
   "2845bf5f2f48ceed": "2026-11-02T14:34:11.394132+00:00",
   "584e2b789112094a": "2026-11-02T14:44:14.360927+00:00",
-  "0805d5936d32ed6e": "2026-11-02T14:44:14.360927+00:00"
+  "0805d5936d32ed6e": "2026-11-02T14:44:14.360927+00:00",
+  "8033d096bab03133": "2026-11-02T14:54:09.365442+00:00",
+  "1663b5ba5bd34d97": "2026-11-02T14:54:09.365442+00:00",
+  "b4b6f1130bdd7df1": "2026-11-02T14:54:09.365442+00:00",
+  "356993912d749e46": "2026-11-02T14:54:09.365442+00:00",
+  "9e07b0c10ffe09dc": "2026-11-02T14:54:09.365442+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7219,19 +7224,6 @@
    },
    "last": "2026-10-31T17:47:57.863383+00:00"
   },
-  "S3254": {
-   "title": "Colts willing to trade RB Jonathan Taylor, sources say",
-   "first": "2026-10-31T11:57:11.824950+00:00",
-   "sources": {
-    "ESPN F1": "2026-10-31T11:21:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams"
-   },
-   "last": "2026-10-31T14:52:13.248248+00:00"
-  },
   "S3277": {
    "title": "Man United may replace Fernandes with Fermin, transfer rumour",
    "first": "2026-10-31T13:37:14.417655+00:00",
@@ -7306,19 +7298,6 @@
     "Corriere dello Sport": "Ocon sostituito durante il weekend, caos e litigi nel box Haas: cosa sta succedendo"
    },
    "last": "2026-11-01T01:44:26.079582+00:00"
-  },
-  "S3295": {
-   "title": "Marquez faces Bezzecchi challenge after Martin title admission",
-   "first": "2026-10-31T14:47:21.179133+00:00",
-   "sources": {
-    "GPblog": "2026-10-31T14:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Marc Marquez faces Bezzecchi challenge after Martin's title admission"
-   },
-   "last": "2026-10-31T14:47:21.179139+00:00"
   },
   "S3296": {
    "title": "Giuliano Simeone scores for Atletico Madrid",
@@ -14772,16 +14751,18 @@
    "sources": {
     "FormulaPassion": "2026-11-01T23:10:29+00:00",
     "Motorsport-Total": "2026-11-02T06:34:30+00:00",
-    "RacingNews365": "2026-11-02T07:10:00+00:00"
+    "RacingNews365": "2026-11-02T07:10:00+00:00",
+    "Crash.net": "2026-11-02T14:50:49+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Vettel incorona Antonelli e gli dedica un video-lettera: ora è lui il più giovane campione di sempre",
     "Motorsport-Total": "\"Genieße es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli - Motorsport-Total.com",
-    "RacingNews365": "Sebastian Vettel offers advice to Kimi Antonelli after seeing F1 record taken"
+    "RacingNews365": "Sebastian Vettel offers advice to Kimi Antonelli after seeing F1 record taken",
+    "Crash.net": "Sebastian Vettel’s heartfelt message to Kimi Antonelli after F1 record shattered"
    },
-   "last": "2026-11-02T07:17:41.945963+00:00"
+   "last": "2026-11-02T14:54:15.743892+00:00"
   },
   "S3829": {
    "title": "Constructors' standings after Mexico City Grand Prix",
@@ -14966,7 +14947,8 @@
     "FormulaPassion": "2026-11-02T09:39:28+00:00",
     "GPFans": "2026-11-02T10:57:00+00:00",
     "Crash.net": "2026-11-02T11:45:41+00:00",
-    "Corriere dello Sport": "2026-11-02T13:59:10+00:00"
+    "Corriere dello Sport": "2026-11-02T13:59:10+00:00",
+    "PlanetF1": "2026-11-02T14:51:31+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14980,9 +14962,10 @@
     "FormulaPassion": "Antonelli campione, Russell ‘scappa’: non si presenta alle interviste e viene multato di 5000 €",
     "GPFans": "Mercedes left to pay FIA penalty for George Russell absence at Mexican GP",
     "Crash.net": "Mercedes fined after ‘distraught’ George Russell skipped post-race media duties at Mexico GP",
-    "Corriere dello Sport": "Disastro Russell dopo la vittoria di Antonelli: si dispera, boicotta le interviste e viene pure multato"
+    "Corriere dello Sport": "Disastro Russell dopo la vittoria di Antonelli: si dispera, boicotta le interviste e viene pure multato",
+    "PlanetF1": "George Russell ‘distraught’ as Mercedes explains media absence"
    },
-   "last": "2026-11-02T14:03:27.441551+00:00"
+   "last": "2026-11-02T14:54:15.743886+00:00"
   },
   "S3842": {
    "title": "Leclerc says penalty deserved, wanted to return position to Hamilton",
@@ -18136,9 +18119,48 @@
     "FormulaPassion": "Antonelli spopola su tutte le prime pagine dei principali quotidiani nazionali sportivi e non – FOTO"
    },
    "last": "2026-11-02T14:44:18.867676+00:00"
+  },
+  "S4077": {
+   "title": "Carrick has no concerns over Lisandro Martínez commitment",
+   "first": "2026-11-02T14:54:15.743842+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T14:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Carrick has 'no concerns' over Lisandro Martínez's commitment"
+   },
+   "last": "2026-11-02T14:54:15.743859+00:00"
+  },
+  "S4078": {
+   "title": "Norris says Antonelli made everyone look silly in 2026",
+   "first": "2026-11-02T14:54:15.743865+00:00",
+   "sources": {
+    "The Race": "2026-11-02T14:45:17+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "New F1 champion Antonelli 'made everyone look silly'"
+   },
+   "last": "2026-11-02T14:54:15.743871+00:00"
+  },
+  "S4079": {
+   "title": "Verstappen says he lacked Leclerc's pace in Mexico win",
+   "first": "2026-11-02T14:54:15.743875+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-02T14:44:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Verstappen vince anche senza la Red Bull migliore: “Non avevo il passo di Leclerc”"
+   },
+   "last": "2026-11-02T14:54:15.743880+00:00"
   }
  },
- "story_seq": 4076,
+ "story_seq": 4079,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18257,17 +18279,12 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T14:44:14.360927+00:00",
+ "last_run": "2026-11-02T14:54:09.365442+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 15:00",
  "last_digest_at": "2026-11-02T12:03:25.488317+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-30T14:44:35.327113+00:00",
-   "title": "\"Böyle bir şey duymak güzel değil\"",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-10-30T15:14:37.919849+00:00",
    "title": "George Russell, yeni Formula 1'in neden kendisine uymadığını açıkladı",
@@ -20192,6 +20209,11 @@
    "t": "2026-11-02T14:44:29.740922+00:00",
    "title": "Antonelli 2026 Meksika GP'sinde şampiyonluğa ulaştı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-02T14:54:21.804919+00:00",
+   "title": "Kimi Antonelli, 2026 F1 dünya şampiyonu oldu",
+   "source": "The Race"
   }
  ]
 }
