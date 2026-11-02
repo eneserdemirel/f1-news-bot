@@ -6986,7 +6986,12 @@
   "21a4177cc3644dc6": "2026-11-02T11:13:20.418206+00:00",
   "34b15141de88db85": "2026-11-02T11:13:20.418206+00:00",
   "2243d9ba749376d8": "2026-11-02T11:13:20.418206+00:00",
-  "dc387f4af98c6bd7": "2026-11-02T11:13:20.418206+00:00"
+  "dc387f4af98c6bd7": "2026-11-02T11:13:20.418206+00:00",
+  "0515b502fe307237": "2026-11-02T11:23:19.519076+00:00",
+  "3ca9270967e51e1e": "2026-11-02T11:23:19.519076+00:00",
+  "beb6428159bbd31c": "2026-11-02T11:23:19.519076+00:00",
+  "6aa25d569ff69628": "2026-11-02T11:23:19.519076+00:00",
+  "f388245314991231": "2026-11-02T11:23:19.519076+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7278,32 +7283,6 @@
     "GPblog": "Russell backs Vesti for Cadillac seat after impressive Mexico FP1 showing"
    },
    "last": "2026-10-31T16:17:54.093641+00:00"
-  },
-  "S3244": {
-   "title": "Verstappen's race simulation offers Red Bull optimism after chaotic FP2",
-   "first": "2026-10-31T11:17:17.076472+00:00",
-   "sources": {
-    "GPblog": "2026-10-31T11:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen’s race simulations offer reason for optimism after a chaotic practice session and grid penalty"
-   },
-   "last": "2026-10-31T11:17:17.076488+00:00"
-  },
-  "S3245": {
-   "title": "Mercedes improves on Mexico Friday, Antonelli fixes W17 balance",
-   "first": "2026-10-31T11:22:15.575037+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-31T11:17:43+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Mercedes, venerdì in crescita in Messico. Antonelli migliora il bilanciamento della W17"
-   },
-   "last": "2026-10-31T11:22:15.575054+00:00"
   },
   "S3246": {
    "title": "Herta takes 'now or never' stance on F1 super licence",
@@ -15736,16 +15715,18 @@
    "sources": {
     "Gazzetta dello Sport": "2026-11-01T23:11:39+00:00",
     "Motorsport-Total": "2026-11-02T01:13:04+00:00",
-    "Sky Sports F1": "2026-11-02T03:00:00+00:00"
+    "Sky Sports F1": "2026-11-02T03:00:00+00:00",
+    "RacingNews365": "2026-11-02T11:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Gazzetta dello Sport": "Kimi Antonelli non trattiene le lacrime: \"Stavo già piangendo all'ultimo giro\"",
     "Motorsport-Total": "Kimi Antonelli: Vor lauter Tränen in der letzten Runde fast die Kontrolle verloren - Motorsport-Total.com",
-    "Sky Sports F1": "Antonelli: I couldn’t see through my tears on title-clinching lap"
+    "Sky Sports F1": "Antonelli: I couldn’t see through my tears on title-clinching lap",
+    "RacingNews365": "Kimi Antonelli 'couldn’t see' Mexico track on final lap: 'I lost two seconds'"
    },
-   "last": "2026-11-02T04:02:34.794603+00:00"
+   "last": "2026-11-02T11:23:23.200127+00:00"
   },
   "S3848": {
    "title": "Sainz congratulates Antonelli on title after P15 finish in Mexico",
@@ -16691,7 +16672,7 @@
    "titles": {
     "ESPN F1": "Commanders dispatch Eagles 27-10 on SNF"
    },
-   "last": "2026-11-02T04:57:33.677690+00:00"
+   "last": "2026-11-02T11:23:23.200094+00:00"
   },
   "S3918": {
    "title": "Opetaia and Nyika potential battle for Usyk fight",
@@ -18036,9 +18017,35 @@
     "FormulaPassion": "Lawson: “Avevamo il potenziale per guadagnare ulteriori posizioni”"
    },
    "last": "2026-11-02T11:13:25.862295+00:00"
+  },
+  "S4020": {
+   "title": "Michael Wilson plays through broken ribs in Cardinals win",
+   "first": "2026-11-02T11:23:23.200105+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T05:25:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Wilson plays through 2 broken ribs in Cardinals' OT win"
+   },
+   "last": "2026-11-02T11:23:23.200111+00:00"
+  },
+  "S4021": {
+   "title": "Motorsport.com Italia video analysis of Mexico GP",
+   "first": "2026-11-02T11:23:23.200115+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-02T11:09:57+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Analisi GP Messico: Antonelli è mondiale, mentre la Ferrari butta una doppietta"
+   },
+   "last": "2026-11-02T11:23:23.200120+00:00"
   }
  },
- "story_seq": 4019,
+ "story_seq": 4021,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18157,7 +18164,7 @@
   ]
  ],
  "calendar_updated": "2026-11-01T22:30:58.772186+00:00",
- "last_run": "2026-11-02T11:13:20.418206+00:00",
+ "last_run": "2026-11-02T11:23:19.519076+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-01 22:00",
