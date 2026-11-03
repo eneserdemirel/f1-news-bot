@@ -7197,7 +7197,10 @@
   "c0b6b4830a489174": "2026-11-03T03:25:42.407814+00:00",
   "17a4683103f2b178": "2026-11-03T03:25:42.407814+00:00",
   "fa8a334b8f44dfd2": "2026-11-03T03:45:41.997382+00:00",
-  "09ee517fce92f213": "2026-11-03T03:45:41.997382+00:00"
+  "09ee517fce92f213": "2026-11-03T03:45:41.997382+00:00",
+  "849b96a04949632a": "2026-11-03T03:55:44.045454+00:00",
+  "0a2ef926a7eae785": "2026-11-03T03:55:44.045454+00:00",
+  "e5670a4f99ee2123": "2026-11-03T03:55:44.045454+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7633,19 +7636,6 @@
    },
    "last": "2026-11-01T13:31:13.769442+00:00"
   },
-  "S3568": {
-   "title": "USC upsets No. 2 Ohio State, biggest win of Riley's tenure",
-   "first": "2026-11-01T03:44:30.132962+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T03:33:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USC stuns No. 2 Ohio State for biggest win of Riley's tenure"
-   },
-   "last": "2026-11-01T03:49:26.251911+00:00"
-  },
   "S3569": {
    "title": "College Football Playoff top 12 projection after Week 9",
    "first": "2026-11-01T03:49:26.251921+00:00",
@@ -7658,19 +7648,6 @@
     "ESPN F1": "College Football Playoff top 12 projection after Week 9"
    },
    "last": "2026-11-01T05:54:24.979992+00:00"
-  },
-  "S3570": {
-   "title": "Washington Huskies vs. Nebraska Cornhuskers full highlights",
-   "first": "2026-11-01T03:54:26.306073+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T03:48:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Washington Huskies vs. Nebraska Cornhuskers: Full Highlights"
-   },
-   "last": "2026-11-01T03:54:26.306084+00:00"
   },
   "S3571": {
    "title": "Fakhar Zaman praised as Pakistan's big-match player",
@@ -16416,9 +16393,48 @@
     "ESPN F1": "Wizards 103-94 Magic (Nov 2, 2026) Game Recap"
    },
    "last": "2026-11-03T03:45:44.136957+00:00"
+  },
+  "S4212": {
+   "title": "Timberwolves beat Bucks 112-100 in game recap",
+   "first": "2026-11-03T03:55:46.345386+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T03:50:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Timberwolves 112-100 Bucks (Nov 2, 2026) Game Recap"
+   },
+   "last": "2026-11-03T03:55:46.345403+00:00"
+  },
+  "S4213": {
+   "title": "Luka Doncic knocks down a 3-point shot",
+   "first": "2026-11-03T03:55:46.345408+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T03:26:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic knocks down the 3-point shot"
+   },
+   "last": "2026-11-03T03:55:46.345414+00:00"
+  },
+  "S4214": {
+   "title": "Gonzaga beats Purdue 78-72 in final score",
+   "first": "2026-11-03T03:55:46.345418+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T00:20:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gonzaga 78-72 Purdue (Nov 2, 2026) Final Score"
+   },
+   "last": "2026-11-03T03:55:46.345422+00:00"
   }
  },
- "story_seq": 4211,
+ "story_seq": 4214,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16537,17 +16553,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T03:45:41.997382+00:00",
+ "last_run": "2026-11-03T03:55:44.045454+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T03:46:02.448188+00:00",
-   "title": "Verstappen ve Lawson antrenmanda çarpıştı, ikisine grid cezası",
-   "source": "Sky Sports F1"
-  },
   {
    "t": "2026-10-31T05:06:36.292198+00:00",
    "title": "2026 Meksika GP sıralama turları bugün saat 15:00'te başlıyor",
