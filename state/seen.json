@@ -7226,7 +7226,11 @@
   "952a4e1a83d07587": "2026-11-03T06:26:16.437063+00:00",
   "4625d9343de35a2d": "2026-11-03T06:26:16.437063+00:00",
   "6ea49e217a558032": "2026-11-03T06:36:19.023747+00:00",
-  "a5c5fb696cdd896f": "2026-11-03T06:36:19.023747+00:00"
+  "a5c5fb696cdd896f": "2026-11-03T06:36:19.023747+00:00",
+  "1926177a3a9c2fdd": "2026-11-03T06:46:16.653237+00:00",
+  "7bf3aecb59a3cb9b": "2026-11-03T06:46:16.653237+00:00",
+  "9175583c151e4551": "2026-11-03T06:46:16.653237+00:00",
+  "4e1138c2c32e1a74": "2026-11-03T06:46:16.653237+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16630,7 +16634,7 @@
    "titles": {
     "ESPN F1": "How are Letran Knights winning without Titing Manalili?"
    },
-   "last": "2026-11-03T06:26:23.676770+00:00"
+   "last": "2026-11-03T06:46:20.636056+00:00"
   },
   "S4245": {
    "title": "Bonnington says Antonelli was a rough diamond early on",
@@ -16670,9 +16674,48 @@
     "ESPN F1": "Jeffery Simmons records first sack with Bears"
    },
    "last": "2026-11-03T06:36:22.272408+00:00"
+  },
+  "S4248": {
+   "title": "Luka Doncic and-1 basket",
+   "first": "2026-11-03T06:46:20.636067+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T05:32:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic gets the basket plus the foul"
+   },
+   "last": "2026-11-03T06:46:20.636074+00:00"
+  },
+  "S4249": {
+   "title": "Washington 90-76 Colgate final score",
+   "first": "2026-11-03T06:46:20.636079+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T03:24:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Washington 90-76 Colgate (Nov 2, 2026) Final Score"
+   },
+   "last": "2026-11-03T06:46:20.636084+00:00"
+  },
+  "S4250": {
+   "title": "Gazzetta compares Antonelli to Mennea and Moser",
+   "first": "2026-11-03T06:46:20.636088+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-03T06:33:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi erede di Mennea e Moser: il Messico incorona un nuovo giovane dio"
+   },
+   "last": "2026-11-03T06:46:20.636092+00:00"
   }
  },
- "story_seq": 4247,
+ "story_seq": 4250,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16791,7 +16834,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T06:36:19.023747+00:00",
+ "last_run": "2026-11-03T06:46:16.653237+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
@@ -18551,6 +18594,11 @@
    "t": "2026-11-03T05:25:47.192569+00:00",
    "title": "Sebastian Vettel Ferrari'yi önce reddetti, sonra neden geri adım attı?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-03T06:46:24.122785+00:00",
+   "title": "Messico, yeni genç F1 tutkusunu taçlandırdı",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
