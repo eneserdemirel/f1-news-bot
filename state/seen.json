@@ -7287,7 +7287,12 @@
   "df351b7430e5422e": "2026-11-03T14:07:04.782548+00:00",
   "ed68665f131e274b": "2026-11-03T14:07:04.782548+00:00",
   "cdb01bb2cefceb04": "2026-11-03T14:07:04.782548+00:00",
-  "214ab0c729667e9d": "2026-11-03T14:07:04.782548+00:00"
+  "214ab0c729667e9d": "2026-11-03T14:07:04.782548+00:00",
+  "54c6d7ea0e3a4e42": "2026-11-03T14:17:01.111076+00:00",
+  "b8d7a82879f775d0": "2026-11-03T14:17:01.111076+00:00",
+  "954fd61dc1279dcd": "2026-11-03T14:17:01.111076+00:00",
+  "7e2c907848966c6a": "2026-11-03T14:17:01.111076+00:00",
+  "dc6f52c320987044": "2026-11-03T14:17:01.111076+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7627,32 +7632,6 @@
     "PlanetF1": "Mexico City GP LIVE: Race updates as Antonelli goes for title glory"
    },
    "last": "2026-11-01T19:21:10.574221+00:00"
-  },
-  "S3674": {
-   "title": "Manvanth: Karnataka's lower-order strike force",
-   "first": "2026-11-01T14:10:35.240739+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T14:02:02+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Manvanth: Karnataka's lower-order strike force"
-   },
-   "last": "2026-11-01T14:10:35.240759+00:00"
-  },
-  "S3675": {
-   "title": "Honda confirms abnormal hydraulic signs in Alonso's engine, components to change",
-   "first": "2026-11-01T14:15:40.473870+00:00",
-   "sources": {
-    "AS": "2026-11-01T14:06:09+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Fiasco en el peor momento"
-   },
-   "last": "2026-11-01T14:15:40.473889+00:00"
   },
   "S3676": {
    "title": "Verstappen not surprised by FIA grid penalty over Lawson clash",
@@ -9976,7 +9955,8 @@
     "Motorsport-Total": "2026-11-02T01:59:00+00:00",
     "Formula 1": "2026-11-02T10:53:22.424690+00:00",
     "GPFans": "2026-11-02T11:57:00+00:00",
-    "GPblog": "2026-11-02T22:00:00+00:00"
+    "GPblog": "2026-11-02T22:00:00+00:00",
+    "RacingNews365 NL": "2026-11-03T14:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9987,9 +9967,10 @@
     "Motorsport-Total": "Frederic Vasseur zum Ferrari-Zoff: Lasst mich doch erst mit den beiden sprechen! - Motorsport-Total.com",
     "Formula 1": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
     "GPFans": "Ferrari boss launches Hamilton vs Leclerc investigation after 'huge disrespect'",
-    "GPblog": "Vasseur reaches boiling point with Hamilton and Leclerc: 'It's a lack of respect'"
+    "GPblog": "Vasseur reaches boiling point with Hamilton and Leclerc: 'It's a lack of respect'",
+    "RacingNews365 NL": "Vasseur ziedend na Ferrari-clash: \"Kwestie van respect\""
    },
-   "last": "2026-11-03T06:36:22.272418+00:00"
+   "last": "2026-11-03T14:17:04.791378+00:00"
   },
   "S3841": {
    "title": "Russell skips post-race media duties in Mexico",
@@ -15699,14 +15680,16 @@
    "title": "Antonelli plans to frame iconic Hamilton-Verstappen photo",
    "first": "2026-11-03T07:36:18.914319+00:00",
    "sources": {
-    "GPblog": "2026-11-03T07:30:00+00:00"
+    "GPblog": "2026-11-03T07:30:00+00:00",
+    "Motorsport-Total": "2026-11-03T14:07:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Antonelli has a special place in mind for iconic Hamilton-Verstappen photo"
+    "GPblog": "Antonelli has a special place in mind for iconic Hamilton-Verstappen photo",
+    "Motorsport-Total": "Siegerfoto für die Ewigkeit: Antonelli plant Ehrenplatz mit eigenem Rahmen - Motorsport-Total.com"
    },
-   "last": "2026-11-03T07:36:18.914337+00:00"
+   "last": "2026-11-03T14:17:04.791401+00:00"
   },
   "S4264": {
    "title": "Ecclestone predicts Antonelli will follow Verstappen's path",
@@ -16993,9 +16976,35 @@
     "GPblog": "Hotels used by F1 and MotoGP teams on Iran’s list of potential targets"
    },
    "last": "2026-11-03T14:07:09.230913+00:00"
+  },
+  "S4362": {
+   "title": "Mercedes constructors' title scenarios at Sao Paulo GP",
+   "first": "2026-11-03T14:17:04.791388+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-03T14:08:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "How Mercedes can win F1 2026 Constructors’ Championship at the Sao Paulo GP"
+   },
+   "last": "2026-11-03T14:17:04.791394+00:00"
+  },
+  "S4363": {
+   "title": "Antonelli's alternative career path without F1",
+   "first": "2026-11-03T14:17:04.791405+00:00",
+   "sources": {
+    "AS": "2026-11-03T13:40:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "La profesión a la que se hubiera dedicado Kimi Antonelli si no hubiera acabado en la F1: “Corría mucho...”"
+   },
+   "last": "2026-11-03T14:17:04.791431+00:00"
   }
  },
- "story_seq": 4361,
+ "story_seq": 4363,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17114,17 +17123,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T14:07:04.782548+00:00",
+ "last_run": "2026-11-03T14:17:01.111076+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T14:07:25.057776+00:00",
-   "title": "F1 takımları 2026'da Meksika'nın yüksek rakım zorluğuna nasıl hazırlanıyor",
-   "source": "The Race"
-  },
   {
    "t": "2026-10-31T14:32:17.551043+00:00",
    "title": "Gasly: Alpine'in 5. olması \"büyük bir iş\" ama aklımızın bir köşesinde",
