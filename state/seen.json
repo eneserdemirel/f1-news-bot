@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "dda99941908e6727": "2026-10-20T20:08:17.349897+00:00",
-  "4a301932da7f68a6": "2026-10-20T20:08:17.349897+00:00",
-  "56263d5c0f12d79e": "2026-10-20T20:08:17.349897+00:00",
-  "ce8f2b262049056a": "2026-10-20T20:08:17.349897+00:00",
-  "7f657d29320fa2a6": "2026-10-20T20:08:17.349897+00:00",
   "73cd556107fe0d89": "2026-10-20T20:45:09.867379+00:00",
   "b74d746e9b9e1a78": "2026-10-20T21:16:01.880121+00:00",
   "037e2cc064310c27": "2026-10-20T21:53:28.638806+00:00",
@@ -7363,7 +7358,9 @@
   "2e13f7a4bf3f6bf9": "2026-11-03T19:58:14.115512+00:00",
   "36db5d96cea381aa": "2026-11-03T19:58:14.115512+00:00",
   "159688cb8f92ffaa": "2026-11-03T19:58:14.115512+00:00",
-  "e5d8256364946554": "2026-11-03T19:58:14.115512+00:00"
+  "e5d8256364946554": "2026-11-03T19:58:14.115512+00:00",
+  "dec17de0148b8e45": "2026-11-03T20:08:24.425238+00:00",
+  "91dbd30485ebe415": "2026-11-03T20:08:24.425238+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7431,58 +7428,6 @@
     "ESPN F1": "UCLA into top 5, Ohio State out of top 10, New Mexico earns first AP ranking"
    },
    "last": "2026-11-01T20:51:14.303455+00:00"
-  },
-  "S3744": {
-   "title": "AP college football Week 9 poll reaction and Top 25 outlook",
-   "first": "2026-11-01T19:41:10.143406+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T19:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AP college football Week 9 poll reaction: What's next for Top 25"
-   },
-   "last": "2026-11-01T20:01:09.428113+00:00"
-  },
-  "S3752": {
-   "title": "Sean Walker scores goal for Hurricanes",
-   "first": "2026-11-01T20:06:09.683297+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T19:23:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sean Walker nets goal for Hurricanes"
-   },
-   "last": "2026-11-01T20:06:09.683315+00:00"
-  },
-  "S3753": {
-   "title": "Juuso Valimaki scores goal for Hurricanes",
-   "first": "2026-11-01T20:06:09.683321+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T19:10:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Juuso Valimaki scores goal for Hurricanes"
-   },
-   "last": "2026-11-01T20:06:09.683326+00:00"
-  },
-  "S3754": {
-   "title": "Toulouse vs Strasbourg odds and spread preview",
-   "first": "2026-11-01T20:06:09.683331+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T14:44:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Toulouse vs. Strasbourg (Nov 6, 2026) Odds and Spread"
-   },
-   "last": "2026-11-01T20:06:09.683336+00:00"
   },
   "S3755": {
    "title": "Ferrari teammates clash on lap one of Mexican GP; Verstappen passes",
@@ -16906,7 +16851,7 @@
    "titles": {
     "ESPN F1": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea"
    },
-   "last": "2026-11-03T19:58:17.454824+00:00"
+   "last": "2026-11-03T20:08:26.281567+00:00"
   },
   "S4445": {
    "title": "Trade rumours surround Jaguars receiver Brian Thomas Jr.",
@@ -16959,9 +16904,22 @@
     "AS": "La fiesta de México no teme a Madrid"
    },
    "last": "2026-11-03T19:58:17.454853+00:00"
+  },
+  "S4449": {
+   "title": "Villarreal vs. PSG (Nov 3, 2026) team stats",
+   "first": "2026-11-03T20:08:26.281540+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T20:03:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Villarreal vs. PSG (Nov 3, 2026) Team Stats"
+   },
+   "last": "2026-11-03T20:08:26.281558+00:00"
   }
  },
- "story_seq": 4448,
+ "story_seq": 4449,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17080,22 +17038,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T19:58:14.115512+00:00",
+ "last_run": "2026-11-03T20:08:24.425238+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
  "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T20:08:02.280137+00:00",
-   "title": "Colton Herta, Cadillac F1 olmazsa seçeneklerinin açık olduğunu söyledi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-10-31T20:08:02.713665+00:00",
-   "title": "Chandhok, Haas'ın Esteban Ocon kararını değerlendirdi",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-31T20:23:04.031018+00:00",
    "title": "Verstappen'e Meksika GP'de pole umudu",
