@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a84f7a5f96c1ecfc": "2026-10-20T07:29:03.195114+00:00",
   "40f06d6a331c8851": "2026-10-20T07:43:07.992244+00:00",
   "2ec4888c55e32859": "2026-10-20T07:43:07.992244+00:00",
   "7fc958f01a0f988c": "2026-10-20T07:43:07.992244+00:00",
@@ -7239,7 +7238,9 @@
   "db13e690a919439a": "2026-11-03T07:26:16.277058+00:00",
   "8a76d1a252c32e9a": "2026-11-03T07:26:16.277058+00:00",
   "40591e365291b8b9": "2026-11-03T07:26:16.277058+00:00",
-  "7d2532f1b29f62a1": "2026-11-03T07:26:16.277058+00:00"
+  "7d2532f1b29f62a1": "2026-11-03T07:26:16.277058+00:00",
+  "c0cb9fbe2f0a3fb8": "2026-11-03T07:36:16.640929+00:00",
+  "6193308e405b652e": "2026-11-03T07:36:16.640929+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16779,7 +16780,7 @@
    "titles": {
     "Gazzetta dello Sport": "Alle origini di Kimi: il vivaio che ha contribuito a renderlo un campione del mondo"
    },
-   "last": "2026-11-03T06:56:23.564788+00:00"
+   "last": "2026-11-03T07:36:18.914346+00:00"
   },
   "S4255": {
    "title": "Ty Jerome clutch bucket sends Grizzlies game to overtime",
@@ -16884,9 +16885,22 @@
     "FormulaPassion": "Immenso Kimi: lo stile unico che ha reso naturale l’innaturale"
    },
    "last": "2026-11-03T07:26:23.021825+00:00"
+  },
+  "S4263": {
+   "title": "Antonelli plans to frame iconic Hamilton-Verstappen photo",
+   "first": "2026-11-03T07:36:18.914319+00:00",
+   "sources": {
+    "GPblog": "2026-11-03T07:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli has a special place in mind for iconic Hamilton-Verstappen photo"
+   },
+   "last": "2026-11-03T07:36:18.914337+00:00"
   }
  },
- "story_seq": 4262,
+ "story_seq": 4263,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17005,17 +17019,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T07:26:16.277058+00:00",
+ "last_run": "2026-11-03T07:36:16.640929+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T07:31:31.240962+00:00",
-   "title": "Verstappen, Meksika'da asıl tehdidin Ferrari olduğunu söyledi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-31T07:36:33.054464+00:00",
    "title": "Leclerc: Performans iyi görünüyor ama gelişmek gerekiyor",
