@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b2fbc252bb6953ed": "2026-10-20T17:43:57.079081+00:00",
-  "11a70b84e2504417": "2026-10-20T17:43:57.079081+00:00",
-  "ebb5e587f6cf4259": "2026-10-20T17:43:57.079081+00:00",
-  "1b05157babf70a97": "2026-10-20T17:43:57.079081+00:00",
   "152ab80fd855633a": "2026-10-20T18:14:13.765654+00:00",
   "6535f344059f77b7": "2026-10-20T18:14:13.765654+00:00",
   "12ae1dc8a8eb90c1": "2026-10-20T18:14:13.765654+00:00",
@@ -7337,7 +7333,9 @@
   "1dc06401d3431ba5": "2026-11-03T17:28:15.899083+00:00",
   "b776b9d872a65dd9": "2026-11-03T17:28:15.899083+00:00",
   "ab6b0ea22a286de1": "2026-11-03T17:38:18.209570+00:00",
-  "989f16647b8fbcc0": "2026-11-03T17:38:18.209570+00:00"
+  "989f16647b8fbcc0": "2026-11-03T17:38:18.209570+00:00",
+  "394a0da288a0bb3c": "2026-11-03T17:48:15.832110+00:00",
+  "79758596d8f188f3": "2026-11-03T17:48:15.832110+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7486,32 +7484,6 @@
     "Motorsport-Total": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten - Motorsport-Total.com"
    },
    "last": "2026-11-01T17:56:14.310868+00:00"
-  },
-  "S3703": {
-   "title": "NYC Marathon wins by Chepkirui and Almgren",
-   "first": "2026-11-01T16:40:37.858968+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T16:10:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2024 champ Sheila Chepkirui, debuting Andreas Almgren claim NYC Marathon wins"
-   },
-   "last": "2026-11-01T17:46:11.133506+00:00"
-  },
-  "S3719": {
-   "title": "Charlton 0-6 Chelsea football final score",
-   "first": "2026-11-01T17:46:11.133477+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T17:42:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Charlton 0-6 Chelsea (1 Nov, 2026) Final Score"
-   },
-   "last": "2026-11-01T17:46:11.133496+00:00"
   },
   "S3720": {
    "title": "Racing Bulls take advantage of Lawson Mexico disqualification",
@@ -16528,14 +16500,16 @@
    "title": "Bearman Haas contract renewal delayed amid Ferrari future talk",
    "first": "2026-11-03T15:37:04.729651+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-03T15:30:56+00:00"
+    "Motorsport.com Italia": "2026-11-03T15:30:56+00:00",
+    "Autosport": "2026-11-03T17:39:09+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Bearman-Haas, il rinnovo che non arriva: dietro l'attesa c'è il futuro in Ferrari"
+    "Motorsport.com Italia": "F1 | Bearman-Haas, il rinnovo che non arriva: dietro l'attesa c'è il futuro in Ferrari",
+    "Autosport": "Why Bearman is yet to be announced as a Haas driver for F1 2027"
    },
-   "last": "2026-11-03T15:37:04.729669+00:00"
+   "last": "2026-11-03T17:48:19.980687+00:00"
   },
   "S4380": {
    "title": "Alpine protege gets second FP1 outing in Sao Paulo",
@@ -17006,9 +16980,22 @@
     "RacingNews365": "McLaren make fresh upgrade decision as Red Bull gain sudden F1 upper-hand"
    },
    "last": "2026-11-03T17:38:20.870223+00:00"
+  },
+  "S4416": {
+   "title": "Leclerc hits back at Hamilton with defiant three-word message",
+   "first": "2026-11-03T17:48:19.980697+00:00",
+   "sources": {
+    "GPFans": "2026-11-03T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Charles Leclerc hits back at Lewis Hamilton with defiant three-word message"
+   },
+   "last": "2026-11-03T17:48:19.980703+00:00"
   }
  },
- "story_seq": 4415,
+ "story_seq": 4416,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17127,7 +17114,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T17:38:18.209570+00:00",
+ "last_run": "2026-11-03T17:48:15.832110+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
@@ -18912,6 +18899,11 @@
    "t": "2026-11-03T17:18:28.195061+00:00",
    "title": "Red Bull patronu, Orta Doğu krizinde F1'in doğru kararı vereceğine güveniyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-03T17:48:24.753600+00:00",
+   "title": "Leclerc, Hamilton'a \"I always attack\" diyerek karşılık verdi",
+   "source": "GPFans"
   }
  ]
 }
