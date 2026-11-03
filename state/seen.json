@@ -7248,7 +7248,11 @@
   "03c3c9e20f0282ff": "2026-11-03T10:46:18.017630+00:00",
   "218a06b2f51e662b": "2026-11-03T10:56:17.469162+00:00",
   "81810e5083d985da": "2026-11-03T10:56:17.469162+00:00",
-  "20ed712d0b76fc49": "2026-11-03T10:56:17.469162+00:00"
+  "20ed712d0b76fc49": "2026-11-03T10:56:17.469162+00:00",
+  "c3a4876c9ba6381f": "2026-11-03T11:06:17.676950+00:00",
+  "afc57090d2d803c9": "2026-11-03T11:06:17.676950+00:00",
+  "ba46a50070a4d752": "2026-11-03T11:06:17.676950+00:00",
+  "c9569ccb7b3b7dc0": "2026-11-03T11:06:17.676950+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15369,7 +15373,8 @@
     "Sky Sports F1": "2026-11-02T20:05:00+00:00",
     "GPblog": "2026-11-02T20:15:00+00:00",
     "Motorsport Week": "2026-11-03T06:00:00+00:00",
-    "GPFans": "2026-11-03T07:16:00+00:00"
+    "GPFans": "2026-11-03T07:16:00+00:00",
+    "Formula 1": "2026-11-03T11:06:23.465448+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15381,9 +15386,10 @@
     "Sky Sports F1": "Russell posts statement to 'speak from the heart'",
     "GPblog": "Russell breaks his silence after Antonelli title: 'More bad days than good' this season",
     "Motorsport Week": "George Russell issues ‘from the heart’ social media message after F1 title defeat",
-    "GPFans": "George Russell releases F1 statement after no-show at Mexican Grand Prix"
+    "GPFans": "George Russell releases F1 statement after no-show at Mexican Grand Prix",
+    "Formula 1": "Russell shares emotional reflection on 2026 in candid post"
    },
-   "last": "2026-11-03T07:16:18.450739+00:00"
+   "last": "2026-11-03T11:06:23.465465+00:00"
   },
   "S4146": {
    "title": "Steichen keeps Daniel Jones as Colts' Week 9 starter",
@@ -17588,9 +17594,48 @@
     "ESPN F1": "Cristiano Ronaldo's eldest son earns first Portugal U17 call-up"
    },
    "last": "2026-11-03T10:56:20.225544+00:00"
+  },
+  "S4314": {
+   "title": "Every NWSL team eliminated from playoffs analysis",
+   "first": "2026-11-03T11:06:23.465473+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T08:46:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Every NWSL team eliminated from playoffs - One offseason question to answer"
+   },
+   "last": "2026-11-03T11:06:23.465480+00:00"
+  },
+  "S4315": {
+   "title": "Bonnington calls Antonelli a generational talent",
+   "first": "2026-11-03T11:06:23.465484+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-03T10:55:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | “Kimi è un talento generazionale. Ha qualcosa che solo i grandi hanno”: il trionfo di Antonelli visto da Bono"
+   },
+   "last": "2026-11-03T11:06:23.465490+00:00"
+  },
+  "S4316": {
+   "title": "Leclerc's braking damage to tyre carcass analysed",
+   "first": "2026-11-03T11:06:23.465495+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-03T10:11:25+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Siegchance vernichtet: Charles Leclerc bremst bis zur Karkasse - Motorsport-Total.com"
+   },
+   "last": "2026-11-03T11:06:23.465500+00:00"
   }
  },
- "story_seq": 4313,
+ "story_seq": 4316,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17709,22 +17754,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T10:56:17.469162+00:00",
+ "last_run": "2026-11-03T11:06:17.676950+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T11:02:23.803907+00:00",
-   "title": "Alonso, Albon ile arasındaki gerginliği bir jestle bitirdi",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-10-31T11:02:24.389155+00:00",
-   "title": "Red Bull, Verstappen'i rahatsız eden telsiz sorunlarına ilişkin güncelleme yaptı",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-31T11:12:18.734983+00:00",
    "title": "Russell, Mercedes yedek pilotu Vesti'nin Cadillac hedefini doğruladı",
@@ -19509,6 +19544,16 @@
    "t": "2026-11-03T10:46:30.145551+00:00",
    "title": "Steiner: İtalya Antonelli'ye daha fazla sevgi ve saygı göstermeli",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-03T11:06:30.523556+00:00",
+   "title": "Siegchance paramparça etti: Charles Leclerc frenlerini sonuna kadar zorluyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-03T11:06:30.928952+00:00",
+   "title": "Bonnington: Antonelli 'nesil talenti', Bono'dan şampiyonluk değerlendirmesi",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
