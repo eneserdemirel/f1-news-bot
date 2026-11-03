@@ -7345,7 +7345,10 @@
   "056da5bb566c91f9": "2026-11-03T18:18:18.075878+00:00",
   "7e87a97e934b3dcd": "2026-11-03T18:18:18.075878+00:00",
   "4056ccf1f556321e": "2026-11-03T18:28:23.898534+00:00",
-  "fbda5eac4fd495bf": "2026-11-03T18:28:23.898534+00:00"
+  "fbda5eac4fd495bf": "2026-11-03T18:28:23.898534+00:00",
+  "1f9c8f6ba8061666": "2026-11-03T18:38:16.837045+00:00",
+  "fe51cbf4715b9dc0": "2026-11-03T18:38:16.837045+00:00",
+  "515f6bc965124a29": "2026-11-03T18:38:16.837045+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7494,32 +7497,6 @@
     "ESPN F1": "Notre Dame rallies to beat Villanova in Rome season opener"
    },
    "last": "2026-11-01T21:36:08.061288+00:00"
-  },
-  "S3732": {
-   "title": "Hamilton handed vote of confidence before Mexico City GP",
-   "first": "2026-11-01T18:31:09.103534+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-01T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton handed vote of confidence ahead of Mexico City GP"
-   },
-   "last": "2026-11-01T18:31:09.103554+00:00"
-  },
-  "S3733": {
-   "title": "Premier League live updates: Arsenal lead Liverpool at Anfield",
-   "first": "2026-11-01T18:36:08.969655+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T18:24:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Premier League live updates: Arsenal lead Liverpool at Anfield"
-   },
-   "last": "2026-11-01T18:36:08.969676+00:00"
   },
   "S3734": {
    "title": "Liverpool 0-1 Arsenal: Havertz goal at Anfield (football)",
@@ -17005,9 +16982,48 @@
     "RacingNews365": "Fernando Alonso issues 'cannot survive' claim as Barcelona secures major coup"
    },
    "last": "2026-11-03T18:28:26.599644+00:00"
+  },
+  "S4429": {
+   "title": "F1.com feature on Hamilton's first McLaren test ahead of 400th start",
+   "first": "2026-11-03T18:38:19.346211+00:00",
+   "sources": {
+    "Formula 1": "2026-11-03T18:38:19.346225+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The inside story of Lewis Hamilton’s first F1 test"
+   },
+   "last": "2026-11-03T18:38:19.346229+00:00"
+  },
+  "S4430": {
+   "title": "Esteghlal FC vs Al-Shamal live score listing",
+   "first": "2026-11-03T18:38:19.346234+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T17:01:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Esteghlal FC vs. Al-Shamal (3 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-03T18:38:19.346239+00:00"
+  },
+  "S4431": {
+   "title": "Verstappen positive about new race engineer Tom Hart",
+   "first": "2026-11-03T18:38:19.346242+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-03T18:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen positief over samenwerking met nieuwe rechterhand"
+   },
+   "last": "2026-11-03T18:38:19.346246+00:00"
   }
  },
- "story_seq": 4428,
+ "story_seq": 4431,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17126,7 +17142,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T18:28:23.898534+00:00",
+ "last_run": "2026-11-03T18:38:16.837045+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
@@ -18926,6 +18942,16 @@
    "t": "2026-11-03T18:28:30.644508+00:00",
    "title": "Alonso: Barcelona olmadan İspanyol motorsporu ayakta kalamaz",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-03T18:38:23.805977+00:00",
+   "title": "Verstappen, yeni mühendisi Tom Hart ile iş birliğinden memnun",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-03T18:38:24.197949+00:00",
+   "title": "Hamilton'ın McLaren ile ilk F1 testinin perde arkası",
+   "source": "Formula 1"
   }
  ]
 }
