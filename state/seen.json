@@ -7318,7 +7318,11 @@
   "ad55b55451fece34": "2026-11-03T16:28:14.477997+00:00",
   "5c04fb6e2aae559a": "2026-11-03T16:28:14.477997+00:00",
   "bee398cd6eb9ee02": "2026-11-03T16:28:14.477997+00:00",
-  "8514b215dc04b119": "2026-11-03T16:28:14.477997+00:00"
+  "8514b215dc04b119": "2026-11-03T16:28:14.477997+00:00",
+  "209772716ded9158": "2026-11-03T16:38:16.786194+00:00",
+  "6acf014c0e3521a5": "2026-11-03T16:38:16.786194+00:00",
+  "b4754eb3bf58e4d9": "2026-11-03T16:38:16.786194+00:00",
+  "f4ae60cb840fbadb": "2026-11-03T16:38:16.786194+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7485,21 +7489,6 @@
    },
    "last": "2026-11-01T16:40:37.858995+00:00"
   },
-  "S3608": {
-   "title": "Weather update for Mexico GP",
-   "first": "2026-11-01T11:36:17.095986+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-01T09:50:00+00:00",
-    "RacingNews365": "2026-11-01T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Laatste weerupdate Formule 1 GP Mexico 2026",
-    "RacingNews365": "Latest weather update for the 2026 Formula 1 Mexico City Grand Prix"
-   },
-   "last": "2026-11-01T16:30:39.422428+00:00"
-  },
   "S3613": {
    "title": "Chandhok says Ocon's Haas exit followed months of tension",
    "first": "2026-11-01T11:36:17.096034+00:00",
@@ -7607,45 +7596,6 @@
     "Motorsport-Total": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten - Motorsport-Total.com"
    },
    "last": "2026-11-01T17:56:14.310868+00:00"
-  },
-  "S3700": {
-   "title": "Monaco vs Nordsjælland odds and spread preview",
-   "first": "2026-11-01T16:30:39.422400+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T16:27:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Monaco vs. Nordsjælland (Nov 5, 2026) Odds and Spread"
-   },
-   "last": "2026-11-01T16:30:39.422421+00:00"
-  },
-  "S3701": {
-   "title": "Hamilton sends Antonelli a message before title decider",
-   "first": "2026-11-01T16:35:39.642036+00:00",
-   "sources": {
-    "GPblog": "2026-11-01T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Lewis Hamilton sends Kimi Antonelli a message before title decider: 'Records are there to be broken'"
-   },
-   "last": "2026-11-01T16:35:39.642058+00:00"
-  },
-  "S3702": {
-   "title": "Vasseur says Hamilton and Leclerc must race together into Turn 1",
-   "first": "2026-11-01T16:35:39.642062+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-01T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Vasseur: “Prima curva? Hamilton e Leclerc sono professionisti, devono saper correre insieme”"
-   },
-   "last": "2026-11-01T16:35:39.642066+00:00"
   },
   "S3703": {
    "title": "NYC Marathon wins by Chepkirui and Almgren",
@@ -17095,9 +17045,61 @@
     "Motorsport-Total": "\"Überholverbot\" in Mexiko: Lewis Hamilton fordert FIA zum Handeln auf - Motorsport-Total.com"
    },
    "last": "2026-11-03T16:28:18.728296+00:00"
+  },
+  "S4396": {
+   "title": "F1 Power Rankings judges' top performers after Mexico City GP",
+   "first": "2026-11-03T16:38:19.820227+00:00",
+   "sources": {
+    "Formula 1": "2026-11-03T16:38:19.820242+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Who impressed our Power Rankings judges in Mexico City?"
+   },
+   "last": "2026-11-03T16:38:19.820246+00:00"
+  },
+  "S4397": {
+   "title": "WEC 6 Hours of Monza schedule and TV times",
+   "first": "2026-11-03T16:38:19.820251+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-03T16:29:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Ecco programma e orari TV per la 6h di Monza"
+   },
+   "last": "2026-11-03T16:38:19.820256+00:00"
+  },
+  "S4398": {
+   "title": "Honda prepares power unit for heavy rain at Brazilian GP",
+   "first": "2026-11-03T16:38:19.820259+00:00",
+   "sources": {
+    "GPFans": "2026-11-03T16:28:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Honda chief warns of Brazilian Grand Prix downpour as action plan made"
+   },
+   "last": "2026-11-03T16:38:19.820262+00:00"
+  },
+  "S4399": {
+   "title": "Antonelli to wear Senna-tribute helmet in Brazil",
+   "first": "2026-11-03T16:38:19.820266+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-03T16:31:31+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Antonelli in Brasile col casco speciale per celebrare il mito Senna: \"È lui la mia ispirazione\""
+   },
+   "last": "2026-11-03T16:38:19.820269+00:00"
   }
  },
- "story_seq": 4395,
+ "story_seq": 4399,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17216,7 +17218,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T16:28:14.477997+00:00",
+ "last_run": "2026-11-03T16:38:16.786194+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
@@ -18991,6 +18993,16 @@
    "t": "2026-11-03T16:28:24.869512+00:00",
    "title": "Ricciardo: Verstappen'in aksine F1'de hedefim hiçbir zaman yalnızca yarışmaktı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-03T16:38:24.439126+00:00",
+   "title": "Honda, Brezilya GP'de sağanak yağmura karşı hazırlık yapıyor",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-03T16:38:24.824672+00:00",
+   "title": "Antonelli, Senna'ya saygı için özel kaskla Brezilya'da yarışacak",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
