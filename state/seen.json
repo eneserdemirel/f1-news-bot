@@ -7270,7 +7270,16 @@
   "7c63fe5a476e534c": "2026-11-03T12:47:02.799687+00:00",
   "c7a9e264886355c1": "2026-11-03T12:57:02.758504+00:00",
   "9e1334a5e0f80a76": "2026-11-03T12:57:02.758504+00:00",
-  "b4af077ba20665f1": "2026-11-03T12:57:02.758504+00:00"
+  "b4af077ba20665f1": "2026-11-03T12:57:02.758504+00:00",
+  "771b5f5c779f1ac8": "2026-11-03T13:07:04.014548+00:00",
+  "2fc4cf5f30062354": "2026-11-03T13:07:04.014548+00:00",
+  "db7ccffb43b0e2ce": "2026-11-03T13:07:04.014548+00:00",
+  "b92aa55ee578eeb7": "2026-11-03T13:07:04.014548+00:00",
+  "b9fe5da4dec1b919": "2026-11-03T13:07:04.014548+00:00",
+  "86941a64aa7cb40c": "2026-11-03T13:07:04.014548+00:00",
+  "c62598aa58c2e39f": "2026-11-03T13:07:04.014548+00:00",
+  "41e3054728b6e199": "2026-11-03T13:07:04.014548+00:00",
+  "83566673f5575e00": "2026-11-03T13:07:04.014548+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7717,45 +7726,6 @@
     "Motorsport-Total": "Verstappen fürchtet Start in Mexiko und scherzt: \"Le-Mans-Start genauso schnell\" - Motorsport-Total.com"
    },
    "last": "2026-11-01T15:00:39.246791+00:00"
-  },
-  "S3654": {
-   "title": "Martin Brundle absent from Mexican Grand Prix",
-   "first": "2026-11-01T13:00:37.047627+00:00",
-   "sources": {
-    "GPFans": "2026-11-01T12:59:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Martin Brundle absent at Mexican Grand Prix - this is why"
-   },
-   "last": "2026-11-01T13:00:37.047647+00:00"
-  },
-  "S3655": {
-   "title": "Miami Dolphins WR Caleb Douglas rounding into form before Patriots game",
-   "first": "2026-11-01T13:05:36.462194+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T11:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Miami Dolphins WR Caleb Douglas rounding into form ahead of Pats matchup"
-   },
-   "last": "2026-11-01T13:05:36.462215+00:00"
-  },
-  "S3656": {
-   "title": "Antonelli shares details of illness during Mexico weekend",
-   "first": "2026-11-01T13:05:36.462219+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-01T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli shares details of Mexico illness as title history awaits"
-   },
-   "last": "2026-11-01T13:05:36.462223+00:00"
   },
   "S3657": {
    "title": "Granada vs Tenerife live score (football)",
@@ -15039,14 +15009,16 @@
    "title": "Lawson admits no guarantees on F1 future beyond 2026",
    "first": "2026-11-02T23:15:06.161945+00:00",
    "sources": {
-    "GPblog": "2026-11-02T23:01:00+00:00"
+    "GPblog": "2026-11-02T23:01:00+00:00",
+    "Sky Sports F1": "2026-11-03T13:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Lawson strikes pessimistic tone as 2027 F1 seat uncertainty lingers"
+    "GPblog": "Lawson strikes pessimistic tone as 2027 F1 seat uncertainty lingers",
+    "Sky Sports F1": "Lawson admits 'no assurance' of retaining Racing Bulls seat"
    },
-   "last": "2026-11-02T23:15:06.161951+00:00"
+   "last": "2026-11-03T13:07:09.117843+00:00"
   },
   "S4186": {
    "title": "Myles Garrett returns to Rams practice this week",
@@ -17063,9 +17035,113 @@
     "Motorsport.com Italia": "Carlos Sainz vince in Spagna al debutto sulla Ford Puma Rally1 WRC"
    },
    "last": "2026-11-03T12:57:06.330034+00:00"
+  },
+  "S4340": {
+   "title": "ESPN Bears radio show segment, not F1-related",
+   "first": "2026-11-03T13:07:09.117791+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T13:03:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Unsportsmanlike with Evan, Canty and Michelle - Hour 1: Bears Town"
+   },
+   "last": "2026-11-03T13:07:09.117809+00:00"
+  },
+  "S4341": {
+   "title": "Norway joins Finland in hockey worlds boycott against Russia",
+   "first": "2026-11-03T13:07:09.117815+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T12:59:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Norway joins Finland in hockey worlds boycott pledge against Russia"
+   },
+   "last": "2026-11-03T13:07:09.117821+00:00"
+  },
+  "S4342": {
+   "title": "Heisman race preview ahead of Week 10",
+   "first": "2026-11-03T13:07:09.117825+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Breaking down the Heisman race: How Week 10 could change everything"
+   },
+   "last": "2026-11-03T13:07:09.117830+00:00"
+  },
+  "S4343": {
+   "title": "NFL Power Rankings for Week 9",
+   "first": "2026-11-03T13:07:09.117833+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T11:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades"
+   },
+   "last": "2026-11-03T13:07:09.117838+00:00"
+  },
+  "S4344": {
+   "title": "Analysis of how Antonelli outperformed Russell in same car",
+   "first": "2026-11-03T13:07:09.117846+00:00",
+   "sources": {
+    "The Race": "2026-11-03T13:05:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "How Antonelli demolished Russell in the same car"
+   },
+   "last": "2026-11-03T13:07:09.117850+00:00"
+  },
+  "S4345": {
+   "title": "Russell's season misfortune highlighted by year-on-year statistic",
+   "first": "2026-11-03T13:07:09.117854+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-03T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Remarkable George Russell statistic highlights extreme misfortune and underperformance"
+   },
+   "last": "2026-11-03T13:07:09.117859+00:00"
+  },
+  "S4346": {
+   "title": "Antonelli becomes youngest F1 world champion of all time",
+   "first": "2026-11-03T13:07:09.117861+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-03T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli vult geschiedenisboeken met bijna onbreekbare records"
+   },
+   "last": "2026-11-03T13:07:09.117865+00:00"
+  },
+  "S4347": {
+   "title": "Paddock reportedly has serious misgivings about Middle East races",
+   "first": "2026-11-03T13:07:09.117868+00:00",
+   "sources": {
+    "GPFans": "2026-11-03T13:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 insider says many in paddock have 'serious misgivings' about racing in Middle East"
+   },
+   "last": "2026-11-03T13:07:09.117872+00:00"
   }
  },
- "story_seq": 4339,
+ "story_seq": 4347,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17184,22 +17260,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T12:57:02.758504+00:00",
+ "last_run": "2026-11-03T13:07:04.014548+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T12:57:23.506481+00:00",
-   "title": "Audi'ye Meksika GP'de 'örtme' skandalından ceza",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-10-31T13:02:22.200420+00:00",
-   "title": "Verstappen, Meksika'daki kötü start denemelerine Le Mans benzetmesiyle tepki verdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-31T13:17:18.453787+00:00",
    "title": "Chase, Jomel Warrican'ı 'iyi bir zanaatkâr' olarak övdü",
@@ -18974,6 +19040,21 @@
    "t": "2026-11-03T12:47:10.298760+00:00",
    "title": "Ford, Verstappen'in Meksika galibiyetine tepki verdi; Red Bull üçüncülükte öne geçti",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-03T13:07:15.169333+00:00",
+   "title": "Russell'ın sezonu: Antonelli'nin gerisinde dördüncü sırada",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-03T13:07:15.535269+00:00",
+   "title": "F1 kulislerinde Katar ve Abu Dabi yarışlarına yönelik ciddi endişeler",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-03T13:07:15.888667+00:00",
+   "title": "Antonelli, aynı arabada Russell'ı nasıl ezdi?",
+   "source": "The Race"
   }
  ]
 }
