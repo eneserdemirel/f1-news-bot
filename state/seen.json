@@ -7164,7 +7164,11 @@
   "ca547a30b4e51a3f": "2026-11-02T23:55:01.809492+00:00",
   "680dea52ee1d1fbf": "2026-11-03T00:05:04.239330+00:00",
   "f84d03c9b4e72c7f": "2026-11-03T00:25:03.001883+00:00",
-  "e182a15f4699ae64": "2026-11-03T00:35:01.999502+00:00"
+  "e182a15f4699ae64": "2026-11-03T00:35:01.999502+00:00",
+  "8bba2a972da24888": "2026-11-03T00:45:03.711887+00:00",
+  "ccbb69fa16b7646b": "2026-11-03T00:45:03.711887+00:00",
+  "4ce7c90279ddc530": "2026-11-03T00:45:03.711887+00:00",
+  "cd4104af973e8334": "2026-11-03T00:45:03.711887+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7647,19 +7651,6 @@
     "RacingNews365": "Adjusted 2026 F1 Mexico City Grand Prix qualifying results after disqualification"
    },
    "last": "2026-11-01T01:18:50.987312+00:00"
-  },
-  "S3517": {
-   "title": "Timberwolves vs. Spurs live score (NBA, not F1)",
-   "first": "2026-11-01T00:43:44.783993+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T00:42:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Timberwolves vs. Spurs (1 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-01T00:43:44.784011+00:00"
   },
   "S3518": {
    "title": "Rylon Dillard-Allen interception in college football",
@@ -16838,9 +16829,48 @@
     "ESPN F1": "Bednar, Suzuki, Arozarena among eight players to receive qualifying offers"
    },
    "last": "2026-11-03T00:35:03.058885+00:00"
+  },
+  "S4190": {
+   "title": "JuJu Watkins scores 21 points in USC return from ACL injury",
+   "first": "2026-11-03T00:45:05.464170+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T00:38:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "JuJu Watkins scores 21 points in return from ACL injury as USC routs UNLV"
+   },
+   "last": "2026-11-03T00:45:05.464188+00:00"
+  },
+  "S4191": {
+   "title": "Evolution of Seahawks CB Devon Witherspoon profiled",
+   "first": "2026-11-03T00:45:05.464193+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T00:30:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The evolution of Seahawks All-Pro CB Devon Witherspoon"
+   },
+   "last": "2026-11-03T00:45:05.464198+00:00"
+  },
+  "S4192": {
+   "title": "Packers expect Parsons at practice sometime this week",
+   "first": "2026-11-03T00:45:05.464201+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-02T20:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Packers expect Parsons at practice 'sometime this week'"
+   },
+   "last": "2026-11-03T00:45:05.464205+00:00"
   }
  },
- "story_seq": 4189,
+ "story_seq": 4192,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16959,17 +16989,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T00:35:01.999502+00:00",
+ "last_run": "2026-11-03T00:45:03.711887+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T00:35:58.664068+00:00",
-   "title": "Russell: Meksika'da sıralama 'her yöne gidebilir'",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-31T00:51:02.736141+00:00",
    "title": "Hamilton: Turbo fark yaratmıyor, rakipler rektilerde bizden önde",
