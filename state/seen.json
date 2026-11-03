@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "69ef88fcaea5f7c3": "2026-10-20T19:37:27.087128+00:00",
-  "8ee01c0f11fa6170": "2026-10-20T19:37:27.087128+00:00",
-  "e44faf07a8c8ced1": "2026-10-20T19:37:27.087128+00:00",
-  "515e4ff565f8bccb": "2026-10-20T19:37:27.087128+00:00",
   "dda99941908e6727": "2026-10-20T20:08:17.349897+00:00",
   "4a301932da7f68a6": "2026-10-20T20:08:17.349897+00:00",
   "56263d5c0f12d79e": "2026-10-20T20:08:17.349897+00:00",
@@ -7358,7 +7354,10 @@
   "17604a7faa327bd5": "2026-11-03T19:18:23.257261+00:00",
   "6629ae563821b225": "2026-11-03T19:28:30.404452+00:00",
   "ace0bfb4e0ceb347": "2026-11-03T19:28:30.404452+00:00",
-  "96039dfbb20327fe": "2026-11-03T19:28:30.404452+00:00"
+  "96039dfbb20327fe": "2026-11-03T19:28:30.404452+00:00",
+  "2d86bfd8699c2d37": "2026-11-03T19:38:26.306155+00:00",
+  "9fd7d0b9960659b6": "2026-11-03T19:38:26.306155+00:00",
+  "597223cfdb0c113b": "2026-11-03T19:38:26.306155+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7426,19 +7425,6 @@
     "ESPN F1": "UCLA into top 5, Ohio State out of top 10, New Mexico earns first AP ranking"
    },
    "last": "2026-11-01T20:51:14.303455+00:00"
-  },
-  "S3743": {
-   "title": "Elche vs Valencia team stats (football)",
-   "first": "2026-11-01T19:31:12.667672+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T18:33:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Elche vs. Valencia (Nov 1, 2026) Team Stats"
-   },
-   "last": "2026-11-01T19:31:12.667691+00:00"
   },
   "S3744": {
    "title": "AP college football Week 9 poll reaction and Top 25 outlook",
@@ -16954,9 +16940,48 @@
     "FormulaPassion": "‘La prima cosa che mi viene in mente su Antonelli è…’: le risposte della redazione di FormulaPassion.it"
    },
    "last": "2026-11-03T19:28:33.261726+00:00"
+  },
+  "S4441": {
+   "title": "NYC Marathon runner dies after collapsing near finish",
+   "first": "2026-11-03T19:38:28.229117+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T19:29:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NYC Marathon runner dies after collapsing 2 miles from end"
+   },
+   "last": "2026-11-03T19:38:28.229136+00:00"
+  },
+  "S4442": {
+   "title": "Cardinals' Jeremiyah Love placed on IR with ankle sprain",
+   "first": "2026-11-03T19:38:28.229141+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T19:05:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Cardinals' Jeremiyah Love to IR, out 4-5 weeks with high ankle sprain"
+   },
+   "last": "2026-11-03T19:38:28.229146+00:00"
+  },
+  "S4443": {
+   "title": "Preview of new-look men's March Madness questions",
+   "first": "2026-11-03T19:38:28.229150+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T13:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Asking and answering questions about the new-look men's March Madness"
+   },
+   "last": "2026-11-03T19:38:28.229154+00:00"
   }
  },
- "story_seq": 4440,
+ "story_seq": 4443,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17075,17 +17100,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T19:28:30.404452+00:00",
+ "last_run": "2026-11-03T19:38:26.306155+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
  "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T19:33:04.769170+00:00",
-   "title": "Jack Doohan, Haas'ta büyük bir fırsatın eşiğinde",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-31T19:48:03.767362+00:00",
    "title": "Bottas'a Meksika GP'de 50 sıra geriye düşme cezası",
