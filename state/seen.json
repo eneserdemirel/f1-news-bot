@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "292019c05a3d6c92": "2026-10-20T19:01:26.406746+00:00",
-  "d5802781f0708402": "2026-10-20T19:01:26.406746+00:00",
-  "96c1b7bb9c17cd5b": "2026-10-20T19:01:26.406746+00:00",
-  "8a84abe770d19a0f": "2026-10-20T19:01:26.406746+00:00",
-  "f43c7cca4bb66cec": "2026-10-20T19:01:26.406746+00:00",
   "69ef88fcaea5f7c3": "2026-10-20T19:37:27.087128+00:00",
   "8ee01c0f11fa6170": "2026-10-20T19:37:27.087128+00:00",
   "e44faf07a8c8ced1": "2026-10-20T19:37:27.087128+00:00",
@@ -7356,7 +7351,10 @@
   "fd154978ea599789": "2026-11-03T18:58:15.890482+00:00",
   "f0498dc51bcc58eb": "2026-11-03T18:58:15.890482+00:00",
   "cb01d27614ff48f0": "2026-11-03T18:58:15.890482+00:00",
-  "0042954ac0ea751d": "2026-11-03T18:58:15.890482+00:00"
+  "0042954ac0ea751d": "2026-11-03T18:58:15.890482+00:00",
+  "f251603c003218ba": "2026-11-03T19:08:24.514792+00:00",
+  "ec1aea3b88aa2d38": "2026-11-03T19:08:24.514792+00:00",
+  "223e9b1b7cbe68f6": "2026-11-03T19:08:24.514792+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7471,32 +7469,6 @@
     "ESPN F1": "Notre Dame rallies to beat Villanova in Rome season opener"
    },
    "last": "2026-11-01T21:36:08.061288+00:00"
-  },
-  "S3734": {
-   "title": "Liverpool 0-1 Arsenal: Havertz goal at Anfield (football)",
-   "first": "2026-11-01T18:41:19.126521+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T18:36:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Liverpool 0-1 Arsenal: Kai Havertz ends Gunners' Anfield hoodoo"
-   },
-   "last": "2026-11-01T19:01:14.516968+00:00"
-  },
-  "S3737": {
-   "title": "Verstappen blames Norris for missed Mexico pole",
-   "first": "2026-11-01T19:01:14.516979+00:00",
-   "sources": {
-    "GPFans": "2026-11-01T18:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Max Verstappen blames Lando Norris for Mexican GP defeat: 'I couldn't believe my eyes'"
-   },
-   "last": "2026-11-01T19:01:14.516985+00:00"
   },
   "S3738": {
    "title": "UCLA into top 5, Ohio State out of top 10, New Mexico AP ranking",
@@ -15095,14 +15067,16 @@
    "title": "Hamilton says Vasseur was nervous before Mexico GP",
    "first": "2026-11-03T09:26:21.470720+00:00",
    "sources": {
-    "Motorsport Week": "2026-11-03T09:00:00+00:00"
+    "Motorsport Week": "2026-11-03T09:00:00+00:00",
+    "GPblog": "2026-11-03T19:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport Week": "Lewis Hamilton makes Fred Vasseur claim amid Ferrari Mexico fallout"
+    "Motorsport Week": "Lewis Hamilton makes Fred Vasseur claim amid Ferrari Mexico fallout",
+    "GPblog": "Hamilton reveals Vasseur appeared 'nervous' before his Mexico GP clash with Leclerc"
    },
-   "last": "2026-11-03T09:26:21.470724+00:00"
+   "last": "2026-11-03T19:08:27.299266+00:00"
   },
   "S4290": {
    "title": "Antonelli title framed as sociological case in media",
@@ -17034,9 +17008,35 @@
     "PlanetF1": "Liam Lawson lifts lid on Max Verstappen ‘impact’ after Mexican Grand Prix clash"
    },
    "last": "2026-11-03T18:58:18.795813+00:00"
+  },
+  "S4437": {
+   "title": "Castellón vs Eibar betting odds and spread",
+   "first": "2026-11-03T19:08:27.299233+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T18:09:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Castellón vs. Eibar (Nov 6, 2026) Odds and Spread"
+   },
+   "last": "2026-11-03T19:08:27.299251+00:00"
+  },
+  "S4438": {
+   "title": "Chandhok suggests Cadillac sign Liam Lawson for 2027",
+   "first": "2026-11-03T19:08:27.299256+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-03T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Unexpected F1 team encouraged to pursue Liam Lawson as Racing Bulls decision looms"
+   },
+   "last": "2026-11-03T19:08:27.299260+00:00"
   }
  },
- "story_seq": 4436,
+ "story_seq": 4438,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17155,17 +17155,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T18:58:15.890482+00:00",
+ "last_run": "2026-11-03T19:08:24.514792+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-03 15:00",
- "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
+ "last_digest_slot": "2026-11-03 22:00",
+ "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T19:08:05.172884+00:00",
-   "title": "Verstappen, Lawson'a yönelik eleştirisini sürdürdü",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-31T19:12:58.628899+00:00",
    "title": "Liam Lawson, Red Bull'un beklentisini sorguluyor; F1 geleceği belirsiz",
@@ -18970,6 +18965,11 @@
    "t": "2026-11-03T18:48:35.688870+00:00",
    "title": "Wolff, Antonelli'nin şampiyonluğunu Ferrari'ye iğneleyerek yorumladı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-03T19:08:31.388025+00:00",
+   "title": "Karun Chandhok, Cadillac'i Liam Lawson'ı transfer etmeye çağırdı",
+   "source": "RacingNews365"
   }
  ]
 }
