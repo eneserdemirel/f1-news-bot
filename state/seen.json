@@ -7233,7 +7233,13 @@
   "c442ff2b596440a0": "2026-11-03T07:06:17.186172+00:00",
   "bd3155beab8841aa": "2026-11-03T07:06:17.186172+00:00",
   "d93161e901692e8d": "2026-11-03T07:06:17.186172+00:00",
-  "366070f09b0f54e1": "2026-11-03T07:16:16.385983+00:00"
+  "366070f09b0f54e1": "2026-11-03T07:16:16.385983+00:00",
+  "add9cc417e16f220": "2026-11-03T07:26:16.277058+00:00",
+  "f27d48942a997110": "2026-11-03T07:26:16.277058+00:00",
+  "db13e690a919439a": "2026-11-03T07:26:16.277058+00:00",
+  "8a76d1a252c32e9a": "2026-11-03T07:26:16.277058+00:00",
+  "40591e365291b8b9": "2026-11-03T07:26:16.277058+00:00",
+  "7d2532f1b29f62a1": "2026-11-03T07:26:16.277058+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14666,14 +14672,16 @@
    "title": "Motorsport-Total Mexico GP driver ratings: Bortoleto up, Piastri down",
    "first": "2026-11-02T15:54:16.414430+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-02T15:30:08+00:00"
+    "Motorsport-Total": "2026-11-02T15:30:08+00:00",
+    "Motorsport Week": "2026-11-03T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Fahrernoten Mexiko: Gabriel Bortoleto glänzt, Oscar Piastri floppt - Motorsport-Total.com"
+    "Motorsport-Total": "Fahrernoten Mexiko: Gabriel Bortoleto glänzt, Oscar Piastri floppt - Motorsport-Total.com",
+    "Motorsport Week": "Motorsport Week’s 2026 F1 Mexico City GP Driver Ratings"
    },
-   "last": "2026-11-02T15:54:16.414435+00:00"
+   "last": "2026-11-03T07:26:23.021783+00:00"
   },
   "S4095": {
    "title": "F1.com feature on Antonelli's title-winning journey",
@@ -14835,14 +14843,16 @@
    "title": "Bottas says he suffered most from Cadillac's problems",
    "first": "2026-11-02T17:04:12.171936+00:00",
    "sources": {
-    "GPblog": "2026-11-02T17:01:00+00:00"
+    "GPblog": "2026-11-02T17:01:00+00:00",
+    "Motorsport-Total": "2026-11-03T07:15:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Bottas claims he has had the worst of Cadillac's problems after Mexico suspension failure"
+    "GPblog": "Bottas claims he has had the worst of Cadillac's problems after Mexico suspension failure",
+    "Motorsport-Total": "\"Verdammte Scheiße!\": Valtteri Bottas nach heftigem Abflug bedient - Motorsport-Total.com"
    },
-   "last": "2026-11-02T17:04:12.171941+00:00"
+   "last": "2026-11-03T07:26:23.021831+00:00"
   },
   "S4108": {
    "title": "Vesti confirms talks over full-time 2027 seat",
@@ -16822,9 +16832,61 @@
     "RacingNews365 NL": "Verstappen laat onuitwisbare indruk achter: \"Maat, je bent viervoudig wereldkampioen!\""
    },
    "last": "2026-11-03T07:06:20.584722+00:00"
+  },
+  "S4259": {
+   "title": "Vasseur downplays pre-race talks with Hamilton and Leclerc",
+   "first": "2026-11-03T07:26:23.021792+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-03T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Colloqui pre gara con i piloti, Vasseur minimizza: “Se ne potrebbe parlare per anni…”"
+   },
+   "last": "2026-11-03T07:26:23.021799+00:00"
+  },
+  "S4260": {
+   "title": "Liuzzi praises Antonelli's title and says he demolished Russell",
+   "first": "2026-11-03T07:26:23.021804+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-03T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli campione del mondo, Liuzzi: “Ha demolito Russell, uno veloce e ‘politico’”"
+   },
+   "last": "2026-11-03T07:26:23.021810+00:00"
+  },
+  "S4261": {
+   "title": "Wolff reveals Lapo Elkann quote he told Antonelli before race",
+   "first": "2026-11-03T07:26:23.021813+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-03T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Wolff: “Prima del via ho detto a Kimi una frase di Lapo Elkann”"
+   },
+   "last": "2026-11-03T07:26:23.021818+00:00"
+  },
+  "S4262": {
+   "title": "Analysis of Antonelli's unique style behind his Mexico title",
+   "first": "2026-11-03T07:26:23.021821+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-03T07:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Immenso Kimi: lo stile unico che ha reso naturale l’innaturale"
+   },
+   "last": "2026-11-03T07:26:23.021825+00:00"
   }
  },
- "story_seq": 4258,
+ "story_seq": 4262,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16943,22 +17005,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T07:16:16.385983+00:00",
+ "last_run": "2026-11-03T07:26:16.277058+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T07:16:31.548727+00:00",
-   "title": "FIA, Audi'ye Meksika GP sonrası cezayı onayladı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-10-31T07:21:31.831212+00:00",
-   "title": "Piastri, Meksika'da 2.000 metrenin üzerindeki yükseklikte McLaren'dan umutlu",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-10-31T07:31:31.240962+00:00",
    "title": "Verstappen, Meksika'da asıl tehdidin Ferrari olduğunu söyledi",
@@ -18733,6 +18785,21 @@
    "t": "2026-11-03T07:06:26.557278+00:00",
    "title": "Gounon ve Juncadella, Verstappen'in Mercedes ekibindeki etkisini anlattı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-03T07:26:31.617184+00:00",
+   "title": "Vasseur, Hamilton-Leclerc çatışmasını küçümsedi: \"Yıllarca konuşulabilir\"",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-03T07:26:31.958514+00:00",
+   "title": "Antonelli 2026 F1 dünya şampiyonu oldu",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-03T07:26:32.288731+00:00",
+   "title": "Wolff: Kimi Antonelli'ye Lapo Elkann'dan bir söz aktardım",
+   "source": "FormulaPassion"
   }
  ]
 }
