@@ -7265,7 +7265,9 @@
   "8d1634b88ef0bedc": "2026-11-03T12:27:04.507787+00:00",
   "052f9eaca301b431": "2026-11-03T12:27:04.507787+00:00",
   "6e0d0217a6dff2ac": "2026-11-03T12:27:04.507787+00:00",
-  "fcddefae1e7d3da5": "2026-11-03T12:37:00.566104+00:00"
+  "fcddefae1e7d3da5": "2026-11-03T12:37:00.566104+00:00",
+  "1378094655242a77": "2026-11-03T12:47:02.799687+00:00",
+  "7c63fe5a476e534c": "2026-11-03T12:47:02.799687+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7315,29 +7317,6 @@
     "Formula 1": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix"
    },
    "last": "2026-11-01T19:11:11.387029+00:00"
-  },
-  "S3486": {
-   "title": "Leclerc blames himself for Q3 Mexico qualifying error",
-   "first": "2026-10-31T23:43:47.595663+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-10-31T23:37:50+00:00",
-    "FormulaPassion": "2026-10-31T23:30:00+00:00",
-    "Motorsport-Total": "2026-11-01T00:58:45+00:00",
-    "Formula 1": "2026-11-01T01:54:25.996858+00:00",
-    "GPblog": "2026-11-01T10:46:00+00:00",
-    "Motorsport Week": "2026-11-01T12:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Leclerc si accusa: \"In Q3 la SF-26 si è trasformata, ma sono io a non aver fatto un buon lavoro\"",
-    "FormulaPassion": "La delusione di Leclerc: “In Q3? Semplice, non ho fatto un buon lavoro. Ma che fatica con le gomme”",
-    "Motorsport-Total": "Leclerc trauert Mexiko-Pole nach: \"Kann nur auf mich selbst wütend sein\" - Motorsport-Total.com",
-    "Formula 1": "Leclerc 'angry with myself' after Mexico Qualifying",
-    "GPblog": "Leclerc angry with himself as Hamilton takes pole he expected to have",
-    "Motorsport Week": "Charles Leclerc ‘angry’ after missing out on Mexico City GP pole"
-   },
-   "last": "2026-11-01T12:40:39.098337+00:00"
   },
   "S3495": {
    "title": "FIA clarifies wheel-to-wheel and corner ownership driving standards before Mexico GP",
@@ -7735,32 +7714,6 @@
     "Motorsport-Total": "Verstappen fürchtet Start in Mexiko und scherzt: \"Le-Mans-Start genauso schnell\" - Motorsport-Total.com"
    },
    "last": "2026-11-01T15:00:39.246791+00:00"
-  },
-  "S3649": {
-   "title": "Caleb Williams won't 'spat' custom cleats out of principle",
-   "first": "2026-11-01T12:45:40.791704+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T12:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bears QB Caleb Williams won't 'spat' custom cleats out of principle, source says"
-   },
-   "last": "2026-11-01T12:45:40.791725+00:00"
-  },
-  "S3650": {
-   "title": "Verstappen says he has better odds at casino than a good start",
-   "first": "2026-11-01T12:45:40.791730+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-01T12:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Verstappen: “Ho più chance di vincere al casinò che di partire bene”"
-   },
-   "last": "2026-11-01T12:45:40.791735+00:00"
   },
   "S3651": {
    "title": "PlanetF1 analysis of Antonelli's Mexico GP struggles and pressure",
@@ -17092,9 +17045,35 @@
     "PlanetF1": "Lewis Hamilton calls for FIA action after Max Verstappen exchange emerges"
    },
    "last": "2026-11-03T12:27:08.229582+00:00"
+  },
+  "S4336": {
+   "title": "West Ham sack Nuno Espírito Santo, Parker set to replace him",
+   "first": "2026-11-03T12:47:06.093485+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T09:38:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "West Ham sack Nuno Espírito Santo, Scott Parker set to replace him - sources"
+   },
+   "last": "2026-11-03T12:47:06.093502+00:00"
+  },
+  "S4337": {
+   "title": "Ford reacts to Verstappen's Mexico win and Red Bull's championship position",
+   "first": "2026-11-03T12:47:06.093509+00:00",
+   "sources": {
+    "GPblog": "2026-11-03T12:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ford reacts to Verstappen's Mexico win as Red Bull move clear in third"
+   },
+   "last": "2026-11-03T12:47:06.093515+00:00"
   }
  },
- "story_seq": 4335,
+ "story_seq": 4337,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17213,22 +17192,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T12:37:00.566104+00:00",
+ "last_run": "2026-11-03T12:47:02.799687+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T12:37:18.321116+00:00",
-   "title": "Mekies: Meksika yarışı sıralamada 'tek seferlik' olabilir",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-10-31T12:37:18.885851+00:00",
-   "title": "Alonso, Meksika'da güçlü cuma sonrası temkinli iyimser",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-10-31T12:57:23.506481+00:00",
    "title": "Audi'ye Meksika GP'de 'örtme' skandalından ceza",
@@ -19008,6 +18977,11 @@
    "t": "2026-11-03T12:27:14.350202+00:00",
    "title": "Hamilton, Verstappen'le yaşanan konuşmanın ardından FIA'dan harekete geçmesini istiyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-03T12:47:10.298760+00:00",
+   "title": "Ford, Verstappen'in Meksika galibiyetine tepki verdi; Red Bull üçüncülükte öne geçti",
+   "source": "GPblog"
   }
  ]
 }
