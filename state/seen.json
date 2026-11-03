@@ -1,18 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "37ec18b2b48992e0": "2026-10-20T14:36:02.942711+00:00",
-  "01bd56a598a00977": "2026-10-20T14:36:02.942711+00:00",
-  "48c3d56b999d4375": "2026-10-20T14:36:02.942711+00:00",
-  "a86996ae3a51009a": "2026-10-20T14:36:02.942711+00:00",
-  "9075d384801c5b6b": "2026-10-20T14:36:02.942711+00:00",
-  "ffed765a9cfa8e6f": "2026-10-20T14:36:02.942711+00:00",
-  "71380d348847a1ae": "2026-10-20T14:36:02.942711+00:00",
-  "e7281378aab8a16a": "2026-10-20T14:36:02.942711+00:00",
-  "d40ff48cbe00009d": "2026-10-20T14:36:02.942711+00:00",
-  "4ff6d0fef42e8d47": "2026-10-20T14:36:02.942711+00:00",
-  "f6793311df58e3ea": "2026-10-20T14:36:02.942711+00:00",
-  "9dc825926108c026": "2026-10-20T14:36:02.942711+00:00",
   "d133f8a135250c9d": "2026-10-20T15:15:04.201712+00:00",
   "cf9a19941264e97a": "2026-10-20T15:15:04.201712+00:00",
   "05c45ab0d7c2d408": "2026-10-20T15:15:04.201712+00:00",
@@ -7297,7 +7285,10 @@
   "7ac69affd5650305": "2026-11-03T14:27:02.184934+00:00",
   "533a2b9fa32e49a0": "2026-11-03T14:27:02.184934+00:00",
   "a9d359f4cae3842d": "2026-11-03T14:27:02.184934+00:00",
-  "9b5bc39ed1efab6b": "2026-11-03T14:27:02.184934+00:00"
+  "9b5bc39ed1efab6b": "2026-11-03T14:27:02.184934+00:00",
+  "a0a731fdbf807ec1": "2026-11-03T14:37:03.711485+00:00",
+  "a564cdf52d974ac8": "2026-11-03T14:37:03.711485+00:00",
+  "d66fe54bdffd0088": "2026-11-03T14:37:03.711485+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16521,14 +16512,14 @@
    "title": "Jon Rahm open to penalties for PGA Tour return",
    "first": "2026-11-03T12:27:08.229530+00:00",
    "sources": {
-    "ESPN F1": "2026-11-03T12:24:11+00:00"
+    "ESPN F1": "2026-11-03T12:10:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Jon Rahm: Willing to accept penalties if deal offered for PGA Tour return"
    },
-   "last": "2026-11-03T12:27:08.229547+00:00"
+   "last": "2026-11-03T14:37:07.287013+00:00"
   },
   "S4332": {
    "title": "ESPN NBA contract year All-Stars feature",
@@ -16977,9 +16968,35 @@
     "ESPN F1": "Trio brought in to replace All-Pro DE has shined for Bengals"
    },
    "last": "2026-11-03T14:27:05.363638+00:00"
+  },
+  "S4366": {
+   "title": "Seven NFL Week 9 thoughts and trade predictions",
+   "first": "2026-11-03T14:37:07.287023+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T11:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Seven things Solak thinks for NFL Week 9: Bucs atop NFC South? RB trades coming?"
+   },
+   "last": "2026-11-03T14:37:07.287029+00:00"
+  },
+  "S4367": {
+   "title": "Antonelli's fewest races to F1 title ranked against records",
+   "first": "2026-11-03T14:37:07.287034+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-03T14:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Fewest races before becoming F1 champion after Kimi Antonelli success"
+   },
+   "last": "2026-11-03T14:37:07.287039+00:00"
   }
  },
- "story_seq": 4365,
+ "story_seq": 4367,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17098,17 +17115,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T14:27:02.184934+00:00",
+ "last_run": "2026-11-03T14:37:03.711485+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T14:32:17.551043+00:00",
-   "title": "Gasly: Alpine'in 5. olması \"büyük bir iş\" ama aklımızın bir köşesinde",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-10-31T14:42:20.331841+00:00",
    "title": "Ocon yerine Hirakawa Meksika GP'de F1 debutsunu yapacak",
