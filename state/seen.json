@@ -7290,7 +7290,9 @@
   "a564cdf52d974ac8": "2026-11-03T14:37:03.711485+00:00",
   "d66fe54bdffd0088": "2026-11-03T14:37:03.711485+00:00",
   "2e69d3284b1ea334": "2026-11-03T14:47:00.640300+00:00",
-  "e13e67620b619f62": "2026-11-03T14:47:00.640300+00:00"
+  "e13e67620b619f62": "2026-11-03T14:47:00.640300+00:00",
+  "462e0e55c80f5f7c": "2026-11-03T14:57:03.761179+00:00",
+  "5f4487dea546c6bc": "2026-11-03T14:57:03.761179+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16892,9 +16894,35 @@
     "ESPN F1": "Man City relegated from Premier League but win Champions League? How it could play out"
    },
    "last": "2026-11-03T14:47:02.694706+00:00"
+  },
+  "S4369": {
+   "title": "Top 50 MLB free agents rankings and contract projections",
+   "first": "2026-11-03T14:57:06.485515+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rankings, contract projections: Top 50 2026-27 MLB free agents"
+   },
+   "last": "2026-11-03T14:57:06.485537+00:00"
+  },
+  "S4370": {
+   "title": "Verstappen's Mexico win from fifth sharpens his unique record",
+   "first": "2026-11-03T14:57:06.485543+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-03T14:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen scherpt eigen unieke record aan met zege in Mexico"
+   },
+   "last": "2026-11-03T14:57:06.485549+00:00"
   }
  },
- "story_seq": 4368,
+ "story_seq": 4370,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17013,17 +17041,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T14:47:00.640300+00:00",
+ "last_run": "2026-11-03T14:57:03.761179+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T14:47:26.375791+00:00",
-   "title": "Haas F1, Mexico GP'de Ocon'un yerine Hirakawa'yı getiriyor",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-10-31T15:02:25.972842+00:00",
    "title": "Ocon, Meksika GP hafta sonunun geri kalanında Haas'ta yerine Hirakawa geçti",
@@ -18813,6 +18836,11 @@
    "t": "2026-11-03T14:07:13.723111+00:00",
    "title": "İran'ın hedef listesinde F1 ve MotoGP takımlarının otelleri",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-03T14:57:10.878643+00:00",
+   "title": "Verstappen, Meksika'da kazandığı zaferle kendi rekorunu geliştirdi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
