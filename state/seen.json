@@ -7399,7 +7399,12 @@
   "e5c291d2ce75a656": "2026-11-03T21:28:20.313049+00:00",
   "5689c3527765ab68": "2026-11-03T21:28:20.313049+00:00",
   "8371eaa6b90a3aa9": "2026-11-03T21:28:20.313049+00:00",
-  "e62b31f5eda60881": "2026-11-03T21:29:39.056112+00:00"
+  "e62b31f5eda60881": "2026-11-03T21:29:39.056112+00:00",
+  "eadab662bb10995a": "2026-11-03T21:39:34.663433+00:00",
+  "e71aac391dd38f30": "2026-11-03T21:39:34.663433+00:00",
+  "c03b4b5388d7e342": "2026-11-03T21:39:34.663433+00:00",
+  "7746042072cf7126": "2026-11-03T21:39:34.663433+00:00",
+  "ff4ef45152f9f513": "2026-11-03T21:39:34.663433+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7421,19 +7426,6 @@
  },
  "last_alert": "2026-11-01T09:15:07.353713+00:00",
  "stories": {
-  "S3721": {
-   "title": "Notre Dame rallies to beat Villanova in Rome",
-   "first": "2026-11-01T17:56:14.310830+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T17:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Notre Dame rallies to beat Villanova in Rome season opener"
-   },
-   "last": "2026-11-01T21:36:08.061288+00:00"
-  },
   "S3757": {
    "title": "Russell handed 10-second penalty for Hadjar collision",
    "first": "2026-11-01T20:26:11.224675+00:00",
@@ -7540,19 +7532,6 @@
     "ESPN F1": "Steelers 27-6 Browns (Nov 1, 2026) Game Recap"
    },
    "last": "2026-11-02T04:17:35.892879+00:00"
-  },
-  "S3775": {
-   "title": "Lions 19-15 Vikings NFL game recap",
-   "first": "2026-11-01T21:36:08.061259+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T21:22:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lions 19-15 Vikings (Nov 1, 2026) Game Recap"
-   },
-   "last": "2026-11-01T21:36:08.061278+00:00"
   },
   "S3776": {
    "title": "Izzy Engle scores goal for Notre Dame",
@@ -16793,7 +16772,8 @@
     "AS": "2026-11-03T20:54:41+00:00",
     "Sky Sports F1": "2026-11-03T20:47:00+00:00",
     "Auto Motor und Sport": "2026-11-03T21:08:05+00:00",
-    "Corriere dello Sport": "2026-11-03T21:24:38+00:00"
+    "Corriere dello Sport": "2026-11-03T21:24:38+00:00",
+    "Gazzetta dello Sport": "2026-11-03T21:26:43+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16811,9 +16791,10 @@
     "AS": "Haas rompe definitivamente con Ocon y adelanta el debut de Câmara",
     "Sky Sports F1": "Haas confirm Ocon will not race for team again this season",
     "Auto Motor und Sport": "Formel 1: Dieser Pilot fährt in Brasilien für Esteban Ocon",
-    "Corriere dello Sport": "Stagione finita per Ocon alla Haas, è ufficiale: Camara farà il suo debutto in Brasile!"
+    "Corriere dello Sport": "Stagione finita per Ocon alla Haas, è ufficiale: Camara farà il suo debutto in Brasile!",
+    "Gazzetta dello Sport": "Ufficiale: Ocon non correrà più per la Haas. Al suo posto in Brasile il talento Ferrari, Rafa Camara"
    },
-   "last": "2026-11-03T21:28:24.284405+00:00"
+   "last": "2026-11-03T21:39:39.371672+00:00"
   },
   "S4455": {
    "title": "Monaco add USMNT's Balogun to Conference League squad",
@@ -16996,9 +16977,61 @@
     "GPFans": "Cadillac F1 2027 driver lineup saga takes bizarre twist"
    },
    "last": "2026-11-03T21:28:24.284399+00:00"
+  },
+  "S4469": {
+   "title": "ESPN Golics radio show segment 'Muffin Man'",
+   "first": "2026-11-03T21:39:39.371620+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T21:29:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The Golics - Hour 1: Muffin Man"
+   },
+   "last": "2026-11-03T21:39:39.371639+00:00"
+  },
+  "S4470": {
+   "title": "ESPN NBA Today segment 'Trick or Treat'",
+   "first": "2026-11-03T21:39:39.371645+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T21:29:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NBA Today - Trick or Treat!"
+   },
+   "last": "2026-11-03T21:39:39.371650+00:00"
+  },
+  "S4471": {
+   "title": "Birmingham vs. Swansea live score listing",
+   "first": "2026-11-03T21:39:39.371654+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T20:03:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Birmingham vs. Swansea (Nov 7, 2026) Live Score"
+   },
+   "last": "2026-11-03T21:39:39.371659+00:00"
+  },
+  "S4472": {
+   "title": "Lewandowski jersey sales outselling Messi's since Chicago move",
+   "first": "2026-11-03T21:39:39.371663+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T19:37:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Robert Lewandowski's jersey outselling Lionel Messi's since Chicago arrival"
+   },
+   "last": "2026-11-03T21:39:39.371666+00:00"
   }
  },
- "story_seq": 4468,
+ "story_seq": 4472,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17117,7 +17150,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T21:29:39.056112+00:00",
+ "last_run": "2026-11-03T21:39:34.663433+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
