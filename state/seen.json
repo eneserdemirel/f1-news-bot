@@ -7208,7 +7208,11 @@
   "3fe5e5ca72e5ba3a": "2026-11-03T08:06:17.397445+00:00",
   "dd8656914c0c2133": "2026-11-03T08:16:17.264191+00:00",
   "879f39b2a77969fd": "2026-11-03T08:26:17.696538+00:00",
-  "cd989130d7aa3d72": "2026-11-03T08:26:17.696538+00:00"
+  "cd989130d7aa3d72": "2026-11-03T08:26:17.696538+00:00",
+  "bf8d6ac6a7b535d4": "2026-11-03T08:36:18.009695+00:00",
+  "69996f957fe745aa": "2026-11-03T08:36:18.009695+00:00",
+  "f09c8ca46c5d23b3": "2026-11-03T08:36:18.009695+00:00",
+  "f6986f1ecc5ca145": "2026-11-03T08:36:18.009695+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16721,16 +16725,18 @@
    "sources": {
     "PlanetF1": "2026-11-03T06:49:08+00:00",
     "RacingNews365 NL": "2026-11-03T07:35:00+00:00",
-    "FormulaPassion": "2026-11-03T07:20:41+00:00"
+    "FormulaPassion": "2026-11-03T07:20:41+00:00",
+    "RacingNews365": "2026-11-03T08:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Lewis Hamilton ‘can’t pretend’ as Ferrari told to ‘be honest’ after Mexican GP",
     "RacingNews365 NL": "Hamilton heeft duidelijke boodschap voor Ferrari in social media-statement",
-    "FormulaPassion": "Hamilton su Instagram: “Situazione frustrante. Io so cosa significhi creare le condizioni per vincere”"
+    "FormulaPassion": "Hamilton su Instagram: “Situazione frustrante. Io so cosa significhi creare le condizioni per vincere”",
+    "RacingNews365": "Lewis Hamilton takes clear stance in 'incredibly frustrating' social media statement"
    },
-   "last": "2026-11-03T07:46:25.486470+00:00"
+   "last": "2026-11-03T08:36:21.704918+00:00"
   },
   "S4253": {
    "title": "Antonelli interview: Monza taught him everything, title is only the start",
@@ -16879,14 +16885,16 @@
    "title": "Ecclestone predicts Antonelli will follow Verstappen's path",
    "first": "2026-11-03T07:46:25.486421+00:00",
    "sources": {
-    "RacingNews365": "2026-11-03T07:45:00+00:00"
+    "RacingNews365": "2026-11-03T07:45:00+00:00",
+    "RacingNews365 NL": "2026-11-03T08:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Exclusive: Kimi Antonelli handed Max Verstappen verdict by Bernie Ecclestone: 'You'll see'"
+    "RacingNews365": "Exclusive: Kimi Antonelli handed Max Verstappen verdict by Bernie Ecclestone: 'You'll see'",
+    "RacingNews365 NL": "Ecclestone voorspelt glorieuze carrière Antonelli: \"Een tweede Verstappen!\""
    },
-   "last": "2026-11-03T07:46:25.486440+00:00"
+   "last": "2026-11-03T08:36:21.704930+00:00"
   },
   "S4265": {
    "title": "Untelevised Verstappen team radio after Mexican GP",
@@ -17030,9 +17038,22 @@
     "PlanetF1": "The aerodynamic secrets behind Ferrari’s SF-26 downforce advantage"
    },
    "last": "2026-11-03T08:16:19.606419+00:00"
+  },
+  "S4276": {
+   "title": "Giammaria recalls Antonelli's early talent at age seven",
+   "first": "2026-11-03T08:36:21.704935+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-03T08:26:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Giammaria: \"Kimi era incredibile già a 7 anni: dissi al padre che doveva portarlo in F1\""
+   },
+   "last": "2026-11-03T08:36:21.704941+00:00"
   }
  },
- "story_seq": 4275,
+ "story_seq": 4276,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17151,7 +17172,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T08:26:17.696538+00:00",
+ "last_run": "2026-11-03T08:36:18.009695+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
@@ -18926,6 +18947,11 @@
    "t": "2026-11-03T08:16:25.395109+00:00",
    "title": "Ferrari SF-26'nın downforce avantajının aerodinamik sırları",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-03T08:36:26.354369+00:00",
+   "title": "Giammaria: Kimi 7 yaşındayken bile inanılmazdı, babasına F1'e götürmesi gerektiğini söyledim",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
