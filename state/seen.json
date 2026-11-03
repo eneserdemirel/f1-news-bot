@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2502696630b80125": "2026-10-20T14:00:01.895195+00:00",
-  "2a5851b198c555fc": "2026-10-20T14:00:01.895195+00:00",
-  "9703fd7318ea5dfc": "2026-10-20T14:00:01.895195+00:00",
-  "0d6c6a411344be6b": "2026-10-20T14:00:01.895195+00:00",
-  "4ebfbac926746c77": "2026-10-20T14:00:01.895195+00:00",
-  "495a8b63db9288ee": "2026-10-20T14:00:01.895195+00:00",
-  "6d4d6dba08a39eea": "2026-10-20T14:00:01.895195+00:00",
   "37ec18b2b48992e0": "2026-10-20T14:36:02.942711+00:00",
   "01bd56a598a00977": "2026-10-20T14:36:02.942711+00:00",
   "48c3d56b999d4375": "2026-10-20T14:36:02.942711+00:00",
@@ -7290,7 +7283,11 @@
   "fd3fe89a38824bdc": "2026-11-03T13:57:04.020287+00:00",
   "71457122a1fcc64c": "2026-11-03T13:57:04.020287+00:00",
   "55643bdce5c393eb": "2026-11-03T13:57:04.020287+00:00",
-  "7848e37a776291f0": "2026-11-03T13:57:04.020287+00:00"
+  "7848e37a776291f0": "2026-11-03T13:57:04.020287+00:00",
+  "df351b7430e5422e": "2026-11-03T14:07:04.782548+00:00",
+  "ed68665f131e274b": "2026-11-03T14:07:04.782548+00:00",
+  "cdb01bb2cefceb04": "2026-11-03T14:07:04.782548+00:00",
+  "214ab0c729667e9d": "2026-11-03T14:07:04.782548+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7630,32 +7627,6 @@
     "PlanetF1": "Mexico City GP LIVE: Race updates as Antonelli goes for title glory"
    },
    "last": "2026-11-01T19:21:10.574221+00:00"
-  },
-  "S3672": {
-   "title": "F1 Driver of the Day vote explained for Mexican Grand Prix",
-   "first": "2026-11-01T14:00:36.962513+00:00",
-   "sources": {
-    "GPFans": "2026-11-01T13:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 Driver Of The Day: How it works and how to vote for the Mexican Grand Prix"
-   },
-   "last": "2026-11-01T14:00:36.962535+00:00"
-  },
-  "S3673": {
-   "title": "Ocon hits back at F1 rumours on Twitter after Haas replacement",
-   "first": "2026-11-01T14:05:41.552439+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-01T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Esteban Ocon hits back at F1 rumours after Haas replacement"
-   },
-   "last": "2026-11-01T14:05:41.552461+00:00"
   },
   "S3674": {
    "title": "Manvanth: Karnataka's lower-order strike force",
@@ -15861,15 +15832,17 @@
    "first": "2026-11-03T08:06:23.115584+00:00",
    "sources": {
     "Corriere dello Sport": "2026-11-03T07:50:48+00:00",
-    "Auto Motor und Sport": "2026-11-03T13:07:36+00:00"
+    "Auto Motor und Sport": "2026-11-03T13:07:36+00:00",
+    "Motorsport.com Italia": "2026-11-03T14:03:12+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Corriere dello Sport": "Da Vettel a Valentino Rossi, tutti pazzi per Kimi Antonelli: quanti messaggi per il campione del mondo",
-    "Auto Motor und Sport": "Formel 1: Vettel gratuliert Antonelli mit emotionaler Video-Botschaft"
+    "Auto Motor und Sport": "Formel 1: Vettel gratuliert Antonelli mit emotionaler Video-Botschaft",
+    "Motorsport.com Italia": "F1 | Vettel consiglia Antonelli: \"Ora la gente ti guarderà diversamente. Tu non cambiare il modo in cui la guardi\""
    },
-   "last": "2026-11-03T13:37:07.906870+00:00"
+   "last": "2026-11-03T14:07:09.230894+00:00"
   },
   "S4274": {
    "title": "TV viewing figures for Mexico GP title decider",
@@ -16981,9 +16954,48 @@
     "Autosport": "The reason behind Honda’s power unit lasting five laps in Mexico GP"
    },
    "last": "2026-11-03T13:57:07.533629+00:00"
+  },
+  "S4359": {
+   "title": "Michelle Gisin retires after training crash (skiing, not F1)",
+   "first": "2026-11-03T14:07:09.230865+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T14:04:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gold medal skier Michelle Gisin retires 11 months after serious training crash"
+   },
+   "last": "2026-11-03T14:07:09.230885+00:00"
+  },
+  "S4360": {
+   "title": "Rosberg says Vasseur must act before Ferrari situation worsens",
+   "first": "2026-11-03T14:07:09.230899+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-03T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Fred Vasseur told to act before Ferrari situation 'gets really bad'"
+   },
+   "last": "2026-11-03T14:07:09.230904+00:00"
+  },
+  "S4361": {
+   "title": "Iran list of potential targets includes F1 and MotoGP team hotels",
+   "first": "2026-11-03T14:07:09.230908+00:00",
+   "sources": {
+    "GPblog": "2026-11-03T14:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hotels used by F1 and MotoGP teams on Iran’s list of potential targets"
+   },
+   "last": "2026-11-03T14:07:09.230913+00:00"
   }
  },
- "story_seq": 4358,
+ "story_seq": 4361,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17102,17 +17114,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T13:57:04.020287+00:00",
+ "last_run": "2026-11-03T14:07:04.782548+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T13:57:20.016586+00:00",
-   "title": "Channel 4, Meksika GP'yi İngiltere'de ücretsiz özetleyecek",
-   "source": "GPFans"
-  },
   {
    "t": "2026-10-31T14:07:25.057776+00:00",
    "title": "F1 takımları 2026'da Meksika'nın yüksek rakım zorluğuna nasıl hazırlanıyor",
@@ -18917,6 +18924,11 @@
    "t": "2026-11-03T13:37:13.736535+00:00",
    "title": "Verstappen, Sao Paulo GP için Brezilya bayraklı özel kask tasarladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-03T14:07:13.723111+00:00",
+   "title": "İran'ın hedef listesinde F1 ve MotoGP takımlarının otelleri",
+   "source": "GPblog"
   }
  ]
 }
