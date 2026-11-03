@@ -7230,7 +7230,11 @@
   "98a2307d2f2ffdaa": "2026-11-03T09:36:18.920265+00:00",
   "f56234fb96f9a351": "2026-11-03T09:36:18.920265+00:00",
   "b28bd8a7fa6c636c": "2026-11-03T09:46:17.987746+00:00",
-  "5c5157e20dd42b79": "2026-11-03T09:46:17.987746+00:00"
+  "5c5157e20dd42b79": "2026-11-03T09:46:17.987746+00:00",
+  "bfdd17fc8fd3dee0": "2026-11-03T09:56:17.070484+00:00",
+  "741f7af7d78f7b98": "2026-11-03T09:56:17.070484+00:00",
+  "68e9f91c091aa2a5": "2026-11-03T09:56:17.070484+00:00",
+  "08750e862c023ca2": "2026-11-03T09:56:17.070484+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17354,9 +17358,48 @@
     "ESPN F1": "Lakers 138-117 Heat (Nov 2, 2026) Game Recap"
    },
    "last": "2026-11-03T09:46:20.695524+00:00"
+  },
+  "S4298": {
+   "title": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup",
+   "first": "2026-11-03T09:56:20.481708+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T09:02:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup"
+   },
+   "last": "2026-11-03T09:56:20.481727+00:00"
+  },
+  "S4299": {
+   "title": "Verstappen says he 'came close' after Hadjar paddock incident",
+   "first": "2026-11-03T09:56:20.481732+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-03T09:47:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen admits ‘I came close’ after Isack Hadjar paddock incident"
+   },
+   "last": "2026-11-03T09:56:20.481738+00:00"
+  },
+  "S4300": {
+   "title": "Alesi says Leclerc and Hamilton crossed the line in Mexico",
+   "first": "2026-11-03T09:56:20.481742+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-03T09:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Alesi: “Leclerc e Hamilton corrono a titolo personale, in Messico han fatto peggio che a Monza, hanno superato il limite”"
+   },
+   "last": "2026-11-03T09:56:20.481747+00:00"
   }
  },
- "story_seq": 4297,
+ "story_seq": 4300,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17475,17 +17518,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T09:46:17.987746+00:00",
+ "last_run": "2026-11-03T09:56:17.070484+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T09:51:36.344562+00:00",
-   "title": "FIA komiserleri Meksika'da cuma gününde çoklu ceza verdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-10-31T09:57:17.446574+00:00",
    "title": "Waché, Red Bull'un 'turbo gecikmesi' şakasını geri aldı",
@@ -19260,6 +19298,16 @@
    "t": "2026-11-03T09:26:26.474543+00:00",
    "title": "2027'de Mercedes'in çift yanmalı oda sistemi kalkıyor, sıkıştırma oranı sensörle ölçülecek",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-03T09:56:27.522443+00:00",
+   "title": "Alesi: Leclerc ve Hamilton kişisel çıkar peşinde koşuyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-03T09:56:27.933452+00:00",
+   "title": "Verstappen, Hadjar'ın paddock olayının ardından \"neredeyse ben de yapacaktım\" dedi",
+   "source": "PlanetF1"
   }
  ]
 }
