@@ -7360,7 +7360,11 @@
   "159688cb8f92ffaa": "2026-11-03T19:58:14.115512+00:00",
   "e5d8256364946554": "2026-11-03T19:58:14.115512+00:00",
   "dec17de0148b8e45": "2026-11-03T20:08:24.425238+00:00",
-  "91dbd30485ebe415": "2026-11-03T20:08:24.425238+00:00"
+  "91dbd30485ebe415": "2026-11-03T20:08:24.425238+00:00",
+  "66d942b60af39ae3": "2026-11-03T20:18:17.505225+00:00",
+  "cecc95b6a1e8a274": "2026-11-03T20:18:17.505225+00:00",
+  "8bdbd69cef002ecb": "2026-11-03T20:18:17.505225+00:00",
+  "e006c1e18860741e": "2026-11-03T20:18:17.505225+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7428,23 +7432,6 @@
     "ESPN F1": "UCLA into top 5, Ohio State out of top 10, New Mexico earns first AP ranking"
    },
    "last": "2026-11-01T20:51:14.303455+00:00"
-  },
-  "S3755": {
-   "title": "Ferrari teammates clash on lap one of Mexican GP; Verstappen passes",
-   "first": "2026-11-01T20:11:08.422742+00:00",
-   "sources": {
-    "GPblog": "2026-11-01T20:07:00+00:00",
-    "RacingNews365 NL": "2026-11-01T20:12:00+00:00",
-    "GPFans": "2026-11-01T20:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Ferrari teammates lock horns as Leclerc hits the grass and Verstappen pounces",
-    "RacingNews365 NL": "Verstappen profiteert van vechtende Ferrari's bij raketstart Mexico",
-    "GPFans": "Lewis Hamilton fumes at Ferrari team-mate in chaotic Mexican GP start as FIA investigate"
-   },
-   "last": "2026-11-01T20:16:12.825720+00:00"
   },
   "S3756": {
    "title": "Aston Martin suffer double retirement in Mexico opening laps",
@@ -16917,9 +16904,48 @@
     "ESPN F1": "Villarreal vs. PSG (Nov 3, 2026) Team Stats"
    },
    "last": "2026-11-03T20:08:26.281558+00:00"
+  },
+  "S4450": {
+   "title": "Dumonts take over as controlling owners of Mavericks",
+   "first": "2026-11-03T20:18:22.375521+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T20:01:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dumonts take over as controlling owners of Mavericks"
+   },
+   "last": "2026-11-03T20:18:22.375539+00:00"
+  },
+  "S4451": {
+   "title": "MLB labor battle explainer on lockout and salary cap",
+   "first": "2026-11-03T20:18:22.375544+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T19:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Will there be a lockout? A salary cap? MLB's labor battle explained"
+   },
+   "last": "2026-11-03T20:18:22.375549+00:00"
+  },
+  "S4452": {
+   "title": "F1 Today roundup of Hamilton message and Leclerc Mexico account",
+   "first": "2026-11-03T20:18:22.375553+00:00",
+   "sources": {
+    "GPblog": "2026-11-03T20:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 Today: Hamilton shares heartfelt message as Leclerc explains Mexico clash"
+   },
+   "last": "2026-11-03T20:18:22.375557+00:00"
   }
  },
- "story_seq": 4449,
+ "story_seq": 4452,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17038,7 +17064,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T20:08:24.425238+00:00",
+ "last_run": "2026-11-03T20:18:17.505225+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
@@ -18823,6 +18849,11 @@
    "t": "2026-11-03T19:58:22.032232+00:00",
    "title": "Horner'ın F1'e dönüşü için Cadillac fırsatı öne çıkıyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-03T20:18:27.814799+00:00",
+   "title": "Hamilton'dan Antonelli'ye tebrik, Leclerc Meksika'daki çarpışmayı anlattı",
+   "source": "GPblog"
   }
  ]
 }
