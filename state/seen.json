@@ -7211,7 +7211,12 @@
   "1c4ee1ec6ee0ee50": "2026-11-03T05:25:39.931770+00:00",
   "f1d88de6635ea17e": "2026-11-03T05:25:39.931770+00:00",
   "f200343969558ec6": "2026-11-03T05:25:39.931770+00:00",
-  "65cb8a97a498d0d9": "2026-11-03T05:25:39.931770+00:00"
+  "65cb8a97a498d0d9": "2026-11-03T05:25:39.931770+00:00",
+  "e75391ba58675d50": "2026-11-03T05:35:43.963726+00:00",
+  "448de936f0c0caa3": "2026-11-03T05:35:43.963726+00:00",
+  "ed4d292102b752e8": "2026-11-03T05:35:43.963726+00:00",
+  "28aff3f2d740b1d7": "2026-11-03T05:35:43.963726+00:00",
+  "d3344e3e55c054d2": "2026-11-03T05:35:43.963726+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7679,32 +7684,6 @@
    },
    "last": "2026-11-01T11:36:17.096235+00:00"
   },
-  "S3581": {
-   "title": "Pittsburgh 34-11 Georgia Tech college football game recap",
-   "first": "2026-11-01T05:29:32.306788+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T03:56:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pittsburgh 34-11 Georgia Tech (Oct 31, 2026) Game Recap"
-   },
-   "last": "2026-11-01T05:29:32.306805+00:00"
-  },
-  "S3582": {
-   "title": "76ers 109-104 Hornets NBA game recap",
-   "first": "2026-11-01T05:29:32.306811+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T01:05:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "76ers 109-104 Hornets (Oct 31, 2026) Game Recap"
-   },
-   "last": "2026-11-01T05:29:32.306817+00:00"
-  },
   "S3583": {
    "title": "Lawson apologises for Verstappen skirmish; Button backs his F1 future",
    "first": "2026-11-01T05:34:25.746803+00:00",
@@ -7719,19 +7698,6 @@
     "Motorsport Week": "Liam Lawson apologises to Max Verstappen following F1 Mexico GP collision"
    },
    "last": "2026-11-01T16:10:36.925635+00:00"
-  },
-  "S3584": {
-   "title": "Vettel on self-doubt as a constant companion in F1",
-   "first": "2026-11-01T05:34:25.746830+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-01T05:30:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Sebastian Vettel: Selbstzweifel als ständiger Begleiter in der Formel 1 - Motorsport-Total.com"
-   },
-   "last": "2026-11-01T05:34:25.746835+00:00"
   },
   "S3585": {
    "title": "Kyle Ferrie kicks 30-yard field goal",
@@ -16521,9 +16487,74 @@
     "Motorsport-Total": "Sebastian Vettel: Warum er Ferrari erst absagte und später doch wechselte - Motorsport-Total.com"
    },
    "last": "2026-11-03T05:25:44.322565+00:00"
+  },
+  "S4230": {
+   "title": "Michael Malone earns rocky first win with North Carolina",
+   "first": "2026-11-03T05:35:49.547506+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T05:31:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Malone gets rocky first win with North Carolina"
+   },
+   "last": "2026-11-03T05:35:49.547523+00:00"
+  },
+  "S4231": {
+   "title": "LeBron James sips wine after crashing into 76ers fan",
+   "first": "2026-11-03T05:35:49.547529+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T05:21:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LeBron James takes sip of wine after crashing into 76ers fan"
+   },
+   "last": "2026-11-03T05:35:49.547534+00:00"
+  },
+  "S4232": {
+   "title": "Laxman Sivaramakrishnan joins ACA Cricket Academy as coach",
+   "first": "2026-11-03T05:35:49.547538+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T04:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Laxman Sivaramakrishnan joins ACA Cricket Academy as spin-bowling coach"
+   },
+   "last": "2026-11-03T05:35:49.547543+00:00"
+  },
+  "S4233": {
+   "title": "Houston 94-55 La Salle final score",
+   "first": "2026-11-03T05:35:49.547546+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T04:18:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Houston 94-55 La Salle (Nov 2, 2026) Final Score"
+   },
+   "last": "2026-11-03T05:35:49.547549+00:00"
+  },
+  "S4234": {
+   "title": "Hamilton demands Ferrari find solutions after Leclerc first-lap clash",
+   "first": "2026-11-03T05:35:49.547552+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-03T05:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton demands Ferrari find solutions after latest mess with Charles Leclerc"
+   },
+   "last": "2026-11-03T05:35:49.547556+00:00"
   }
  },
- "story_seq": 4229,
+ "story_seq": 4234,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16642,7 +16673,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T05:25:39.931770+00:00",
+ "last_run": "2026-11-03T05:35:43.963726+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
