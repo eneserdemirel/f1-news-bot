@@ -7216,7 +7216,12 @@
   "34a7792d704c7983": "2026-11-03T08:46:20.043539+00:00",
   "937127172d5cb9b1": "2026-11-03T08:46:20.043539+00:00",
   "e6ab031aba4e245c": "2026-11-03T08:46:20.043539+00:00",
-  "2b0a8c72f6859cb5": "2026-11-03T08:46:20.043539+00:00"
+  "2b0a8c72f6859cb5": "2026-11-03T08:46:20.043539+00:00",
+  "cd85bd7454f525b6": "2026-11-03T08:56:16.969516+00:00",
+  "392e69f726e70079": "2026-11-03T08:56:16.969516+00:00",
+  "e62849eddc9d6734": "2026-11-03T08:56:16.969516+00:00",
+  "704adc34f321f325": "2026-11-03T08:56:16.969516+00:00",
+  "4c0caf3a6766fa2f": "2026-11-03T08:56:16.969516+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17096,9 +17101,48 @@
     "Gazzetta dello Sport": "Rosberg: \"Kimi? Lo conosco da quando ha 11 anni. Mi ricorda Hamilton, ha il suo stesso talento\""
    },
    "last": "2026-11-03T08:46:32.092463+00:00"
+  },
+  "S4280": {
+   "title": "Sao Paulo Grand Prix betting guide and latest odds",
+   "first": "2026-11-03T08:56:22.043307+00:00",
+   "sources": {
+    "Formula 1": "2026-11-03T08:56:22.043322+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Sao Paulo Grand Prix betting guide and latest odds"
+   },
+   "last": "2026-11-03T08:56:22.043326+00:00"
+  },
+  "S4281": {
+   "title": "Ferrari reportedly gives drivers internal dressing-down after Mexico",
+   "first": "2026-11-03T08:56:22.043332+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-03T08:51:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari delivers dressing-down after Hamilton and Leclerc throw away victory"
+   },
+   "last": "2026-11-03T08:56:22.043338+00:00"
+  },
+  "S4282": {
+   "title": "Vanzini praises Antonelli's strength and compares him to Sinner",
+   "first": "2026-11-03T08:56:22.043342+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-03T08:43:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Vanzini: \"La malattia? Da Antonelli tanta forza. Paragonai Kimi a Sinner: quanti insulti, ma avevo ragione\""
+   },
+   "last": "2026-11-03T08:56:22.043348+00:00"
   }
  },
- "story_seq": 4279,
+ "story_seq": 4282,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17217,7 +17261,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T08:46:20.043539+00:00",
+ "last_run": "2026-11-03T08:56:16.969516+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
@@ -18997,6 +19041,16 @@
    "t": "2026-11-03T08:46:40.186365+00:00",
    "title": "Honda, Aston Martin'in Meksika GP'deki sorununu kabul etti",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-03T08:56:27.337784+00:00",
+   "title": "Vanzini: Antonelli'den hastalığımda çok güç aldım, Kimi'yi Sinner'a benzettim",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-03T08:56:27.696514+00:00",
+   "title": "Ferrari, Hamilton ve Leclerc'i Meksika GP'de galibiyeti kaçırdıkları için eleştirdi",
+   "source": "PlanetF1"
   }
  ]
 }
