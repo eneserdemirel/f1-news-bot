@@ -7348,7 +7348,10 @@
   "fbda5eac4fd495bf": "2026-11-03T18:28:23.898534+00:00",
   "1f9c8f6ba8061666": "2026-11-03T18:38:16.837045+00:00",
   "fe51cbf4715b9dc0": "2026-11-03T18:38:16.837045+00:00",
-  "515f6bc965124a29": "2026-11-03T18:38:16.837045+00:00"
+  "515f6bc965124a29": "2026-11-03T18:38:16.837045+00:00",
+  "99fa88c23ecf49a7": "2026-11-03T18:48:27.418883+00:00",
+  "0f1e92df6b76552d": "2026-11-03T18:48:27.418883+00:00",
+  "8ca8c98bbbcfc6d4": "2026-11-03T18:48:27.418883+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7510,19 +7513,6 @@
     "ESPN F1": "Liverpool 0-1 Arsenal: Kai Havertz ends Gunners' Anfield hoodoo"
    },
    "last": "2026-11-01T19:01:14.516968+00:00"
-  },
-  "S3735": {
-   "title": "Has Hamilton finally solved the 18-inch wheel problem?",
-   "first": "2026-11-01T18:46:08.766516+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-01T18:40:52+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Lewis Hamilton: Hat er die 18-Zoll-Räder jetzt endlich geknackt? - Motorsport-Total.com"
-   },
-   "last": "2026-11-01T18:46:08.766535+00:00"
   },
   "S3736": {
    "title": "Lamar Jackson ruled out with right thumb injury",
@@ -17021,9 +17011,35 @@
     "RacingNews365 NL": "Verstappen positief over samenwerking met nieuwe rechterhand"
    },
    "last": "2026-11-03T18:38:19.346246+00:00"
+  },
+  "S4432": {
+   "title": "Dirk Kuyt ready for reunion with Liverpool as Fenerbahce coach",
+   "first": "2026-11-03T18:48:31.599455+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T18:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fenerbahce coach Dirk Kuyt ready for 'very special' reunion with Liverpool"
+   },
+   "last": "2026-11-03T18:48:31.599474+00:00"
+  },
+  "S4433": {
+   "title": "Wolff criticises Ferrari's handling of young drivers after Antonelli title",
+   "first": "2026-11-03T18:48:31.599478+00:00",
+   "sources": {
+    "GPFans": "2026-11-03T18:44:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Mercedes F1 boss Toto Wolff delivers extraordinary Ferrari dig over Ollie Bearman decision"
+   },
+   "last": "2026-11-03T18:48:31.599483+00:00"
   }
  },
- "story_seq": 4431,
+ "story_seq": 4433,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17142,7 +17158,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T18:38:16.837045+00:00",
+ "last_run": "2026-11-03T18:48:27.418883+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
@@ -18952,6 +18968,11 @@
    "t": "2026-11-03T18:38:24.197949+00:00",
    "title": "Hamilton'ın McLaren ile ilk F1 testinin perde arkası",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-03T18:48:35.688870+00:00",
+   "title": "Wolff, Antonelli'nin şampiyonluğunu Ferrari'ye iğneleyerek yorumladı",
+   "source": "GPFans"
   }
  ]
 }
