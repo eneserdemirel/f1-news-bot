@@ -1,17 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "526575c6fc3b2f7a": "2026-10-20T15:54:12.378574+00:00",
-  "5ff50f89db5d20b9": "2026-10-20T15:54:12.378574+00:00",
-  "cedc6ed481cd6174": "2026-10-20T15:54:12.378574+00:00",
-  "7c5e874e115b80e0": "2026-10-20T15:54:12.378574+00:00",
-  "f1ff5875d1ec8eed": "2026-10-20T15:54:12.378574+00:00",
-  "bf4357763f7e7291": "2026-10-20T15:54:12.378574+00:00",
-  "5a19c4cddda27e94": "2026-10-20T15:54:12.378574+00:00",
-  "0795a851dec01dc5": "2026-10-20T15:54:12.378574+00:00",
-  "e2ea53cdab122e53": "2026-10-20T15:54:12.378574+00:00",
-  "d1cb9dc51690076a": "2026-10-20T15:54:12.378574+00:00",
-  "7fd1fdb3e3d223b4": "2026-10-20T15:54:12.378574+00:00",
   "9f92a58b8743f809": "2026-10-20T16:28:09.233036+00:00",
   "0fcbd6b1dd355775": "2026-10-20T16:28:09.233036+00:00",
   "b639deaaec1c4217": "2026-10-20T16:28:09.233036+00:00",
@@ -7302,7 +7291,9 @@
   "2a884e278aff1068": "2026-11-03T15:37:01.806203+00:00",
   "62c2794d1e01673e": "2026-11-03T15:37:01.806203+00:00",
   "7be258307f2ef102": "2026-11-03T15:37:01.806203+00:00",
-  "780bae7b4d5523f4": "2026-11-03T15:47:02.998459+00:00"
+  "780bae7b4d5523f4": "2026-11-03T15:47:02.998459+00:00",
+  "966aaacb119e1fd9": "2026-11-03T15:57:00.666569+00:00",
+  "48826e1719c01933": "2026-11-03T15:57:00.666569+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7548,21 +7539,6 @@
    },
    "last": "2026-11-01T18:51:13.008670+00:00"
   },
-  "S3645": {
-   "title": "Antonelli denied F1 world title trophy request for Mexico",
-   "first": "2026-11-01T12:15:39.231596+00:00",
-   "sources": {
-    "GPFans": "2026-11-01T12:15:00+00:00",
-    "GPblog": "2026-11-01T15:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Why Kimi Antonelli won't get F1 world title trophy today as request denied",
-    "GPblog": "FIA blocks F1 trophy request as Kimi Antonelli faces title celebration without the real thing"
-   },
-   "last": "2026-11-01T15:50:42.345773+00:00"
-  },
   "S3658": {
    "title": "FormulaPassion live blog of Mexico City GP race",
    "first": "2026-11-01T13:15:44.852081+00:00",
@@ -7608,32 +7584,6 @@
     "Crash.net": "Jenson Button says Esteban Ocon has “thrown away” F1 career with Haas bust up"
    },
    "last": "2026-11-01T17:25:38.809300+00:00"
-  },
-  "S3696": {
-   "title": "ESPN NFL Week 8 highlights roundup",
-   "first": "2026-11-01T15:50:42.345738+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T15:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Week 8 NFL highlights: Best plays, moments, touchdowns, more"
-   },
-   "last": "2026-11-01T15:50:42.345757+00:00"
-  },
-  "S3697": {
-   "title": "Target wins Carrera Cup Italia Mugello race with Van Soelen",
-   "first": "2026-11-01T15:50:42.345763+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-01T15:45:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "Carrera Cup Italia | Mugello: Target fa il bis con Van Soelen e Festante"
-   },
-   "last": "2026-11-01T15:50:42.345767+00:00"
   },
   "S3698": {
    "title": "Resurfaced Mexico City track adds uncertainty to race strategy",
@@ -16973,9 +16923,35 @@
     "PlanetF1": "Mercedes F1 title winners: Kimi Antonelli joins small but elite club"
    },
    "last": "2026-11-03T15:47:05.306162+00:00"
+  },
+  "S4383": {
+   "title": "Notre Dame vs. Miami stakes explained (college football)",
+   "first": "2026-11-03T15:57:03.337471+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T14:52:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why there's so much on the line for Notre Dame vs. Miami"
+   },
+   "last": "2026-11-03T15:57:03.337489+00:00"
+  },
+  "S4384": {
+   "title": "Ocon dismissed by Haas after conflict with Komatsu",
+   "first": "2026-11-03T15:57:03.337495+00:00",
+   "sources": {
+    "GPblog": "2026-11-03T15:47:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ocon sidelined by Haas: The reason behind the split"
+   },
+   "last": "2026-11-03T15:57:03.337501+00:00"
   }
  },
- "story_seq": 4382,
+ "story_seq": 4384,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17094,7 +17070,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T15:47:02.998459+00:00",
+ "last_run": "2026-11-03T15:57:00.666569+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
