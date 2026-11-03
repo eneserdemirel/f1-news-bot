@@ -7212,7 +7212,11 @@
   "bf8d6ac6a7b535d4": "2026-11-03T08:36:18.009695+00:00",
   "69996f957fe745aa": "2026-11-03T08:36:18.009695+00:00",
   "f09c8ca46c5d23b3": "2026-11-03T08:36:18.009695+00:00",
-  "f6986f1ecc5ca145": "2026-11-03T08:36:18.009695+00:00"
+  "f6986f1ecc5ca145": "2026-11-03T08:36:18.009695+00:00",
+  "34a7792d704c7983": "2026-11-03T08:46:20.043539+00:00",
+  "937127172d5cb9b1": "2026-11-03T08:46:20.043539+00:00",
+  "e6ab031aba4e245c": "2026-11-03T08:46:20.043539+00:00",
+  "2b0a8c72f6859cb5": "2026-11-03T08:46:20.043539+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14911,14 +14915,16 @@
    "title": "Aston Martin Honda engines struggled to run at altitude in Mexico",
    "first": "2026-11-02T17:34:17.423562+00:00",
    "sources": {
-    "AS": "2026-11-02T17:21:06+00:00"
+    "AS": "2026-11-02T17:21:06+00:00",
+    "GPFans": "2026-11-03T08:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "AS": "Honda lo vuelve a hacer"
+    "AS": "Honda lo vuelve a hacer",
+    "GPFans": "Honda lift lid on Aston Martin F1 nightmare with damning admission"
    },
-   "last": "2026-11-02T17:34:17.423568+00:00"
+   "last": "2026-11-03T08:46:32.092454+00:00"
   },
   "S4115": {
    "title": "Bono recalls first spotting Antonelli's raw talent",
@@ -17051,9 +17057,48 @@
     "Gazzetta dello Sport": "Giammaria: \"Kimi era incredibile già a 7 anni: dissi al padre che doveva portarlo in F1\""
    },
    "last": "2026-11-03T08:36:21.704941+00:00"
+  },
+  "S4277": {
+   "title": "Real Madrid reportedly tracking Arsenal's Calafiori",
+   "first": "2026-11-03T08:46:32.092417+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T08:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Real Madrid tracking Arsenal's Calafiori"
+   },
+   "last": "2026-11-03T08:46:32.092435+00:00"
+  },
+  "S4278": {
+   "title": "Explainer on Mexican GP speed limit under 2026 rules",
+   "first": "2026-11-03T08:46:32.092441+00:00",
+   "sources": {
+    "The Race": "2026-11-03T08:39:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "The 'stupid' speed limit that neutered Mexican GP explained"
+   },
+   "last": "2026-11-03T08:46:32.092447+00:00"
+  },
+  "S4279": {
+   "title": "Rosberg says he has known Antonelli since age 11",
+   "first": "2026-11-03T08:46:32.092458+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-03T08:42:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Rosberg: \"Kimi? Lo conosco da quando ha 11 anni. Mi ricorda Hamilton, ha il suo stesso talento\""
+   },
+   "last": "2026-11-03T08:46:32.092463+00:00"
   }
  },
- "story_seq": 4276,
+ "story_seq": 4279,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17172,27 +17217,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T08:36:18.009695+00:00",
+ "last_run": "2026-11-03T08:46:20.043539+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T08:41:37.434145+00:00",
-   "title": "Antonelli: \"Ferrari çok hızlı görünüyordu, daha fazla performansa ihtiyacımız var\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-10-31T08:46:33.754615+00:00",
-   "title": "Montoya, Verstappen-Lawson kazasını yorumladı: \"Ben onu lastik yığınlarına sürerdim\"",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-10-31T08:46:34.125566+00:00",
-   "title": "Verstappen'in 2026 sezonu hedefi: Red Bull'un üçüncülüğü",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-10-31T08:56:32.621792+00:00",
    "title": "Russell, şampiyonluk umutları sönerken yeni hedefini açıkladı",
@@ -18952,6 +18982,21 @@
    "t": "2026-11-03T08:36:26.354369+00:00",
    "title": "Giammaria: Kimi 7 yaşındayken bile inanılmazdı, babasına F1'e götürmesi gerektiğini söyledim",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-03T08:46:39.519246+00:00",
+   "title": "Meksika GP'de hız sınırı sollamayı engelledi, Hamilton ve Norris tepki gösterdi",
+   "source": "The Race"
+  },
+  {
+   "t": "2026-11-03T08:46:39.855892+00:00",
+   "title": "Rosberg: Kimi'yi 11 yaşından beri tanıyorum, Hamilton'a benziyor",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-03T08:46:40.186365+00:00",
+   "title": "Honda, Aston Martin'in Meksika GP'deki sorununu kabul etti",
+   "source": "GPFans"
   }
  ]
 }
