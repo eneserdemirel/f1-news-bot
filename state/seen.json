@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1606e71323365160": "2026-10-20T07:48:25.824929+00:00",
   "5ec2eedb8ff4b580": "2026-10-20T08:18:01.848499+00:00",
   "2acc641eea9d199f": "2026-10-20T08:18:01.848499+00:00",
   "30bfd17bc5c54e0e": "2026-10-20T08:18:01.848499+00:00",
@@ -7203,7 +7202,11 @@
   "cabbbdb62908c222": "2026-11-03T07:46:18.442893+00:00",
   "d1cb6864b032fb29": "2026-11-03T07:46:18.442893+00:00",
   "e7b8d55734c92339": "2026-11-03T07:46:18.442893+00:00",
-  "c26db9e17571bf39": "2026-11-03T07:46:18.442893+00:00"
+  "c26db9e17571bf39": "2026-11-03T07:46:18.442893+00:00",
+  "66f7a6aaed43d081": "2026-11-03T07:56:17.162623+00:00",
+  "9e08fd18b434fcd4": "2026-11-03T07:56:17.162623+00:00",
+  "f62a03d8cd32f20c": "2026-11-03T07:56:17.162623+00:00",
+  "4550e93f52eb605c": "2026-11-03T07:56:17.162623+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16893,9 +16896,35 @@
     "PlanetF1": "‘What a f**king joke’ – Untelevised Max Verstappen team radio after Mexican Grand Prix"
    },
    "last": "2026-11-03T07:46:25.486459+00:00"
+  },
+  "S4266": {
+   "title": "Gill says ODIs should precede T20Is on New Zealand tour",
+   "first": "2026-11-03T07:56:18.902840+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T06:18:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gill would have preferred ODIs before T20Is on New Zealand tour"
+   },
+   "last": "2026-11-03T07:56:18.902857+00:00"
+  },
+  "S4267": {
+   "title": "Conway ruled out of opening ODI after collision with Henry",
+   "first": "2026-11-03T07:56:18.902863+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T03:59:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Conway ruled out of opening ODI after collision with Henry"
+   },
+   "last": "2026-11-03T07:56:18.902868+00:00"
   }
  },
- "story_seq": 4265,
+ "story_seq": 4267,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17014,17 +17043,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T07:46:18.442893+00:00",
+ "last_run": "2026-11-03T07:56:17.162623+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
  "last_digest_at": "2026-11-02T19:04:18.410235+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T07:51:32.921542+00:00",
-   "title": "Damon Hill: Kimi Räikkönen'i herkes seviyor, bu kolay bir şey değil",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-10-31T08:01:37.341073+00:00",
    "title": "Verstappen yavaş mı? Teknik direktör Pierre Wache Red Bull sorununu açıklıyor",
