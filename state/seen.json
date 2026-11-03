@@ -7335,7 +7335,10 @@
   "ab6b0ea22a286de1": "2026-11-03T17:38:18.209570+00:00",
   "989f16647b8fbcc0": "2026-11-03T17:38:18.209570+00:00",
   "394a0da288a0bb3c": "2026-11-03T17:48:15.832110+00:00",
-  "79758596d8f188f3": "2026-11-03T17:48:15.832110+00:00"
+  "79758596d8f188f3": "2026-11-03T17:48:15.832110+00:00",
+  "07d6e6a1f4f73a32": "2026-11-03T17:58:20.895041+00:00",
+  "a5702b678ca46be4": "2026-11-03T17:58:20.895041+00:00",
+  "aab19a9cf377733e": "2026-11-03T17:58:20.895041+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7472,32 +7475,6 @@
    },
    "last": "2026-11-01T19:21:10.574221+00:00"
   },
-  "S3699": {
-   "title": "Bottas believes in F1 future as Cadillac delays driver decision",
-   "first": "2026-11-01T16:05:36.930673+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-01T16:00:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten - Motorsport-Total.com"
-   },
-   "last": "2026-11-01T17:56:14.310868+00:00"
-  },
-  "S3720": {
-   "title": "Racing Bulls take advantage of Lawson Mexico disqualification",
-   "first": "2026-11-01T17:51:09.760724+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-01T17:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Racing Bulls take advantage of Liam Lawson Mexico City GP disqualification"
-   },
-   "last": "2026-11-01T17:51:09.760743+00:00"
-  },
   "S3721": {
    "title": "Notre Dame rallies to beat Villanova in Rome",
    "first": "2026-11-01T17:56:14.310830+00:00",
@@ -7510,19 +7487,6 @@
     "ESPN F1": "Notre Dame rallies to beat Villanova in Rome season opener"
    },
    "last": "2026-11-01T21:36:08.061288+00:00"
-  },
-  "S3722": {
-   "title": "Wurz understands Hadjar's shove but calls it not cool",
-   "first": "2026-11-01T17:56:14.310854+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-01T17:49:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Alexander Wurz versteht Hadjar, findet Schubser aber trotzdem \"nicht cool\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-01T17:56:14.310860+00:00"
   },
   "S3723": {
    "title": "Mexico lap times compared with previous F1 era via historic racing",
@@ -16993,9 +16957,35 @@
     "GPFans": "Charles Leclerc hits back at Lewis Hamilton with defiant three-word message"
    },
    "last": "2026-11-03T17:48:19.980703+00:00"
+  },
+  "S4417": {
+   "title": "NBA defends Rwanda partnership in letter to senators",
+   "first": "2026-11-03T17:58:23.732737+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T17:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NBA defends Rwanda partnership in letter to concerned Senators"
+   },
+   "last": "2026-11-03T17:58:23.732755+00:00"
+  },
+  "S4418": {
+   "title": "Lawson says he aims for a high-profile Red Bull return",
+   "first": "2026-11-03T17:58:23.732760+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-03T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Lawson mikt vol op spraakmakende Red Bull-terugkeer"
+   },
+   "last": "2026-11-03T17:58:23.732764+00:00"
   }
  },
- "story_seq": 4416,
+ "story_seq": 4418,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17114,17 +17104,12 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T17:48:15.832110+00:00",
+ "last_run": "2026-11-03T17:58:20.895041+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 15:00",
  "last_digest_at": "2026-11-03T12:07:14.825260+00:00",
  "sent_log": [
-  {
-   "t": "2026-10-31T17:53:03.265406+00:00",
-   "title": "Ocon, Meksika GP'de Haas'ta yerine Hirakawa geçti",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-10-31T18:17:59.559809+00:00",
    "title": "Haas, Ocon'un Meksika GP'deki değişikliğiyle ilgili bilgi vermedi",
@@ -18904,6 +18889,11 @@
    "t": "2026-11-03T17:48:24.753600+00:00",
    "title": "Leclerc, Hamilton'a \"I always attack\" diyerek karşılık verdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-03T17:58:28.579628+00:00",
+   "title": "Liam Lawson, Red Bull'a dönüşüyle dikkat çekiyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
