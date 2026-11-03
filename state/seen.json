@@ -7245,7 +7245,10 @@
   "33772699c126cf29": "2026-11-03T10:46:18.017630+00:00",
   "acaec87c492bc556": "2026-11-03T10:46:18.017630+00:00",
   "7c086b9f192c7dc6": "2026-11-03T10:46:18.017630+00:00",
-  "03c3c9e20f0282ff": "2026-11-03T10:46:18.017630+00:00"
+  "03c3c9e20f0282ff": "2026-11-03T10:46:18.017630+00:00",
+  "218a06b2f51e662b": "2026-11-03T10:56:17.469162+00:00",
+  "81810e5083d985da": "2026-11-03T10:56:17.469162+00:00",
+  "20ed712d0b76fc49": "2026-11-03T10:56:17.469162+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17536,14 +17539,16 @@
    "title": "Steiner urges Italy to show Antonelli more respect",
    "first": "2026-11-03T10:46:23.307547+00:00",
    "sources": {
-    "RacingNews365": "2026-11-03T10:45:00+00:00"
+    "RacingNews365": "2026-11-03T10:45:00+00:00",
+    "RacingNews365 NL": "2026-11-03T10:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Exclusive: Guenther Steiner calls on Italy to finally show Kimi Antonelli 'love' and 'respect'"
+    "RacingNews365": "Exclusive: Guenther Steiner calls on Italy to finally show Kimi Antonelli 'love' and 'respect'",
+    "RacingNews365 NL": "Steiner roept Ferrari-land Italië op tot meer liefde voor Antonelli"
    },
-   "last": "2026-11-03T10:46:23.307553+00:00"
+   "last": "2026-11-03T10:56:20.225551+00:00"
   },
   "S4311": {
    "title": "Hamilton says working with Leclerc is hard after Mexico",
@@ -17557,9 +17562,35 @@
     "AS": "Hamilton se cansa de Leclerc"
    },
    "last": "2026-11-03T10:46:23.307561+00:00"
+  },
+  "S4312": {
+   "title": "Barcelona lift ban on supporters' group before Aston Villa clash",
+   "first": "2026-11-03T10:56:20.225514+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T10:42:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Barcelona lift ban on supporters' group for Aston Villa clash"
+   },
+   "last": "2026-11-03T10:56:20.225532+00:00"
+  },
+  "S4313": {
+   "title": "Cristiano Ronaldo's eldest son earns first Portugal U17 call-up",
+   "first": "2026-11-03T10:56:20.225539+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T10:42:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cristiano Ronaldo's eldest son earns first Portugal U17 call-up"
+   },
+   "last": "2026-11-03T10:56:20.225544+00:00"
   }
  },
- "story_seq": 4311,
+ "story_seq": 4313,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17678,7 +17709,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T10:46:18.017630+00:00",
+ "last_run": "2026-11-03T10:56:17.469162+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-02 22:00",
