@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b74d746e9b9e1a78": "2026-10-20T21:16:01.880121+00:00",
   "037e2cc064310c27": "2026-10-20T21:53:28.638806+00:00",
   "e7e2d62e8bd563ea": "2026-10-20T22:22:22.996238+00:00",
   "3f2546ea3a97be0d": "2026-10-20T22:28:34.992915+00:00",
@@ -7390,7 +7389,13 @@
   "eb9d2e625daa3783": "2026-11-03T20:58:15.687664+00:00",
   "4e910a8332ef1d83": "2026-11-03T20:58:15.687664+00:00",
   "080858acc892975c": "2026-11-03T21:08:19.737152+00:00",
-  "bc4f875b3374e2ab": "2026-11-03T21:08:19.737152+00:00"
+  "bc4f875b3374e2ab": "2026-11-03T21:08:19.737152+00:00",
+  "89ae2660e09ad3d1": "2026-11-03T21:18:18.891044+00:00",
+  "5946b726363bd54b": "2026-11-03T21:18:18.891044+00:00",
+  "714d348031195c33": "2026-11-03T21:18:18.891044+00:00",
+  "a64163ae0ac25841": "2026-11-03T21:18:18.891044+00:00",
+  "c713f3fe7716e599": "2026-11-03T21:18:18.891044+00:00",
+  "4ed9c261d5882bf5": "2026-11-03T21:18:18.891044+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7508,32 +7513,6 @@
     "GPFans": "Hamilton blasts FIA stewards over Leclerc decision as Mexican GP stopped after 200mph crash - F1 News Today"
    },
    "last": "2026-11-02T06:32:38.904421+00:00"
-  },
-  "S3768": {
-   "title": "Lions linebacker Jack Campbell carted off in Vikings game",
-   "first": "2026-11-01T21:11:11.492999+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T21:01:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lions linebacker Jack Campbell placed on backboard, carted off vs. Vikings"
-   },
-   "last": "2026-11-01T21:16:12.414336+00:00"
-  },
-  "S3769": {
-   "title": "Álex Berenguer scores penalty for Athletic Club",
-   "first": "2026-11-01T21:16:12.414307+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T21:14:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Álex Berenguer slots home penalty for Athletic Club"
-   },
-   "last": "2026-11-01T21:16:12.414326+00:00"
   },
   "S3770": {
    "title": "Mexican GP red-flagged after heavy Bottas crash into barriers",
@@ -15945,14 +15924,16 @@
    "title": "Ocon dismissed by Haas after conflict with Komatsu",
    "first": "2026-11-03T15:57:03.337495+00:00",
    "sources": {
-    "GPblog": "2026-11-03T15:47:00+00:00"
+    "GPblog": "2026-11-03T15:47:00+00:00",
+    "Motorsport Week": "2026-11-03T20:58:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Ocon sidelined by Haas: The reason behind the split"
+    "GPblog": "Ocon sidelined by Haas: The reason behind the split",
+    "Motorsport Week": "Haas issues bombshell statement on Esteban Ocon F1 future"
    },
-   "last": "2026-11-03T16:17:36.994004+00:00"
+   "last": "2026-11-03T21:18:24.698866+00:00"
   },
   "S4385": {
    "title": "Lindblad says he and Piastri were in a genuine fight",
@@ -16866,7 +16847,8 @@
     "PlanetF1": "2026-11-03T20:50:23+00:00",
     "Crash.net": "2026-11-03T20:48:11+00:00",
     "AS": "2026-11-03T20:54:41+00:00",
-    "Sky Sports F1": "2026-11-03T20:47:00+00:00"
+    "Sky Sports F1": "2026-11-03T20:47:00+00:00",
+    "Auto Motor und Sport": "2026-11-03T21:08:05+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16882,9 +16864,10 @@
     "PlanetF1": "Haas confirm Ocon firing as replacement named for Brazil GP",
     "Crash.net": "Rafael Camara to make early Haas F1 debut in Brazil as Esteban Ocon axed",
     "AS": "Haas rompe definitivamente con Ocon y adelanta el debut de Câmara",
-    "Sky Sports F1": "Haas confirm Ocon will not race for team again this season"
+    "Sky Sports F1": "Haas confirm Ocon will not race for team again this season",
+    "Auto Motor und Sport": "Formel 1: Dieser Pilot fährt in Brasilien für Esteban Ocon"
    },
-   "last": "2026-11-03T21:08:23.210651+00:00"
+   "last": "2026-11-03T21:18:24.698877+00:00"
   },
   "S4455": {
    "title": "Monaco add USMNT's Balogun to Conference League squad",
@@ -17015,9 +16998,48 @@
     "ESPN F1": "Mariners hire Jason Kanzler as manager to replace fired Dan Wilson"
    },
    "last": "2026-11-03T20:58:21.579524+00:00"
+  },
+  "S4465": {
+   "title": "Galatasaray 2-0 Stuttgart player stats",
+   "first": "2026-11-03T21:18:24.698827+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T18:01:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Galatasaray 2-0 Stuttgart (Nov 3, 2026) Player Stats"
+   },
+   "last": "2026-11-03T21:18:24.698853+00:00"
+  },
+  "S4466": {
+   "title": "Shakhtar 0-1 Sporting player stats",
+   "first": "2026-11-03T21:18:24.698856+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T17:59:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Shakhtar 0-1 Sporting (Nov 3, 2026) Player Stats"
+   },
+   "last": "2026-11-03T21:18:24.698860+00:00"
+  },
+  "S4467": {
+   "title": "Motorsport-Total F1 history feature",
+   "first": "2026-11-03T21:18:24.698869+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-03T20:13:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Historisches - Motorsport-Total.com"
+   },
+   "last": "2026-11-03T21:18:24.698873+00:00"
   }
  },
- "story_seq": 4464,
+ "story_seq": 4467,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17136,7 +17158,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T21:08:19.737152+00:00",
+ "last_run": "2026-11-03T21:18:18.891044+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
@@ -18926,6 +18948,11 @@
    "t": "2026-11-03T20:38:33.449379+00:00",
    "title": "Camara, Sao Paulo'da Haas ile F1 debutosunu yapacak",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-03T21:18:29.507083+00:00",
+   "title": "Haas, Esteban Ocon'un 2026 F1 sezonunun geri kalanında yarışmayacağını açıkladı",
+   "source": "Motorsport Week"
   }
  ]
 }
