@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "73cd556107fe0d89": "2026-10-20T20:45:09.867379+00:00",
   "b74d746e9b9e1a78": "2026-10-20T21:16:01.880121+00:00",
   "037e2cc064310c27": "2026-10-20T21:53:28.638806+00:00",
   "e7e2d62e8bd563ea": "2026-10-20T22:22:22.996238+00:00",
@@ -7374,7 +7373,12 @@
   "bf54d46b7f1eabb0": "2026-11-03T20:38:22.216252+00:00",
   "da9d10522f07d9ab": "2026-11-03T20:38:22.216252+00:00",
   "f812bf468786be5d": "2026-11-03T20:38:22.216252+00:00",
-  "abc7697eb080a0ec": "2026-11-03T20:38:22.216252+00:00"
+  "abc7697eb080a0ec": "2026-11-03T20:38:22.216252+00:00",
+  "7861a65ea2360119": "2026-11-03T20:48:20.209438+00:00",
+  "f5ba5a87491d96c6": "2026-11-03T20:48:20.209438+00:00",
+  "f08023761acedfd5": "2026-11-03T20:48:20.209438+00:00",
+  "a879d6e4a151044e": "2026-11-03T20:48:20.209438+00:00",
+  "4281b86ccb8eedf8": "2026-11-03T20:48:20.209438+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7497,32 +7501,6 @@
     "PlanetF1": "FIA explains Leclerc decision after Lewis Hamilton ‘handing this win’ fury"
    },
    "last": "2026-11-01T23:12:03.817444+00:00"
-  },
-  "S3759": {
-   "title": "Boston College vs. Louisville college football game highlights",
-   "first": "2026-11-01T20:41:12.387796+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T20:26:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Boston College vs. Louisville: Game Highlights"
-   },
-   "last": "2026-11-01T20:41:12.387814+00:00"
-  },
-  "S3760": {
-   "title": "Betsy Huckaby scores goal for Louisville",
-   "first": "2026-11-01T20:46:09.317328+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T20:16:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Betsy Huckaby scores goal for Louisville"
-   },
-   "last": "2026-11-01T20:46:09.317346+00:00"
   },
   "S3761": {
    "title": "Arteta says Arsenal loved the mission at Anfield",
@@ -16802,14 +16780,14 @@
    "title": "NYC Marathon runner dies after collapsing near finish",
    "first": "2026-11-03T19:38:28.229117+00:00",
    "sources": {
-    "ESPN F1": "2026-11-03T19:29:25+00:00"
+    "ESPN F1": "2026-11-03T19:04:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "NYC Marathon runner dies after collapsing 2 miles from end"
    },
-   "last": "2026-11-03T19:38:28.229136+00:00"
+   "last": "2026-11-03T20:48:27.745606+00:00"
   },
   "S4442": {
    "title": "Cardinals' Jeremiyah Love placed on IR with ankle sprain",
@@ -16973,16 +16951,22 @@
    "sources": {
     "Formula 1": "2026-11-03T20:38:28.807952+00:00",
     "RacingNews365": "2026-11-03T20:32:00+00:00",
-    "RacingNews365 NL": "2026-11-03T20:35:00+00:00"
+    "RacingNews365 NL": "2026-11-03T20:35:00+00:00",
+    "The Race": "2026-11-03T20:45:13+00:00",
+    "GPblog": "2026-11-03T20:39:00+00:00",
+    "GPFans": "2026-11-03T20:47:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Camara to make F1 debut for Haas in Sao Paulo",
     "RacingNews365": "Breaking: Haas announce Esteban Ocon replacement for Sao Paulo F1 Grand Prix",
-    "RacingNews365 NL": "Haas kondigt nieuwe line-up aan voor GP Brazilië"
+    "RacingNews365 NL": "Haas kondigt nieuwe line-up aan voor GP Brazilië",
+    "The Race": "Haas drops Ocon for rest of 2026 F1 season",
+    "GPblog": "Haas reveals final Ocon decision and driver to replace him in Brazil",
+    "GPFans": "F1 team AXES driver as replacement lined up for Brazilian Grand Prix"
    },
-   "last": "2026-11-03T20:38:28.807998+00:00"
+   "last": "2026-11-03T20:48:27.745620+00:00"
   },
   "S4455": {
    "title": "Monaco add USMNT's Balogun to Conference League squad",
@@ -17035,9 +17019,22 @@
     "ESPN F1": "Missouri's Eli Drinkwitz: 'I am not a candidate' for Florida State job"
    },
    "last": "2026-11-03T20:38:28.807984+00:00"
+  },
+  "S4459": {
+   "title": "Saliba 'ready to go' for Arsenal after World Cup injury",
+   "first": "2026-11-03T20:48:27.745578+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-03T20:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "William Saliba 'ready to go' for Arsenal after injury at World Cup"
+   },
+   "last": "2026-11-03T20:48:27.745597+00:00"
   }
  },
- "story_seq": 4458,
+ "story_seq": 4459,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17156,7 +17153,7 @@
   ]
  ],
  "calendar_updated": "2026-11-02T22:34:51.404963+00:00",
- "last_run": "2026-11-03T20:38:22.216252+00:00",
+ "last_run": "2026-11-03T20:48:20.209438+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
