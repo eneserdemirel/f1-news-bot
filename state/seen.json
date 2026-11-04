@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "504a2207f0e35f96": "2026-10-21T11:34:41.151794+00:00",
-  "3eda03967a0c9abc": "2026-10-21T11:34:41.151794+00:00",
   "027d2723e8702c6c": "2026-10-21T11:44:48.064317+00:00",
   "e55dede6c92bd076": "2026-10-21T11:44:48.064317+00:00",
   "425c849a8ea72415": "2026-10-21T11:54:43.220408+00:00",
@@ -7479,7 +7477,10 @@
   "287cf45453c6be4b": "2026-11-04T11:31:50.109927+00:00",
   "133c411b61b3ca2b": "2026-11-04T11:31:50.109927+00:00",
   "8e95ffef3b0d1481": "2026-11-04T11:31:50.109927+00:00",
-  "22bce0e14dbacf35": "2026-11-04T11:31:50.109927+00:00"
+  "22bce0e14dbacf35": "2026-11-04T11:31:50.109927+00:00",
+  "7c6ae3d15d6efd74": "2026-11-04T11:41:43.114988+00:00",
+  "0a7b20cadff07125": "2026-11-04T11:41:43.114988+00:00",
+  "901c6b5813a7bfb4": "2026-11-04T11:41:43.114988+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7914,19 +7915,6 @@
    },
    "last": "2026-11-02T15:14:41.160838+00:00"
   },
-  "S4022": {
-   "title": "Russell details frustrating opening lap issue in Mexico",
-   "first": "2026-11-02T11:33:19.677612+00:00",
-   "sources": {
-    "Formula 1": "2026-11-02T11:33:19.677629+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Russell details ‘frustrating’ opening lap issue in Mexico"
-   },
-   "last": "2026-11-02T11:33:19.677633+00:00"
-  },
   "S4023": {
    "title": "Newey inspects Ferrari SF-26 at Mexico Grand Prix",
    "first": "2026-11-02T11:33:19.677639+00:00",
@@ -7954,19 +7942,6 @@
     "GPblog": "Verstappen calls for a discussion after Mexico: ‘Needs to behave better’"
    },
    "last": "2026-11-02T15:14:41.160833+00:00"
-  },
-  "S4025": {
-   "title": "Wolff on Antonelli's pressure: 'at 19 I was an idiot'",
-   "first": "2026-11-02T11:33:19.677657+00:00",
-   "sources": {
-    "AS": "2026-11-02T11:19:58+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Toto Wolff, jefe de Mercedes, sobre la presión que ha sufrido Antonelli: “Yo con 19 años era un idiota”"
-   },
-   "last": "2026-11-02T11:33:19.677661+00:00"
   },
   "S4026": {
    "title": "Pakistan fined for slow over rate in tri-series final",
@@ -15560,9 +15535,48 @@
     "Auto Motor und Sport": "Formel 1: So half Verstappen Norris bei der ersten Nordschleifen-Runde"
    },
    "last": "2026-11-04T11:32:15.101578+00:00"
+  },
+  "S4597": {
+   "title": "NFL Week 9 intel and trade deadline news",
+   "first": "2026-11-04T11:41:47.458886+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 9 latest intel, buzz questions, fantasy tips and trade deadline news"
+   },
+   "last": "2026-11-04T11:41:47.458907+00:00"
+  },
+  "S4598": {
+   "title": "Video explainer on Antonelli's speed secret",
+   "first": "2026-11-04T11:41:47.458913+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-04T11:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Het geheim achter de bizarre snelheid van Kimi Antonelli"
+   },
+   "last": "2026-11-04T11:41:47.458918+00:00"
+  },
+  "S4599": {
+   "title": "Ferrari responds to Hamilton's 'big problem' comment",
+   "first": "2026-11-04T11:41:47.458922+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-04T11:36:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari grilled on Lewis Hamilton ‘big problem’ comment"
+   },
+   "last": "2026-11-04T11:41:47.458926+00:00"
   }
  },
- "story_seq": 4596,
+ "story_seq": 4599,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15681,122 +15695,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T11:31:50.109927+00:00",
+ "last_run": "2026-11-04T11:41:43.114988+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
  "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T11:36:45.336822+00:00",
-   "title": "Hamilton, en hızlı sektör olmadan Russell'ı geçip pole kazandı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-01T11:36:45.840109+00:00",
-   "title": "Bearman, Ocon'un Haas'taki durumunu \"temelden stresli\" olarak nitelendirdi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-01T11:36:46.307702+00:00",
-   "title": "Mexico GP'de Antonelli dünya şampiyonluğunu alabilir",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-01T11:36:46.837762+00:00",
-   "title": "Hamilton Meksika'da Ferrari'yle pole pozisyonunu aldı",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-01T11:36:47.335937+00:00",
-   "title": "Alonso, Meksika GP'de yarışmayacağını şaka yollu söyledi",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-01T11:36:47.812863+00:00",
-   "title": "Hadjar, Meksika GP'deki hayran olayında FIA kararına tepki verdi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-01T11:36:48.357472+00:00",
-   "title": "Hamilton, Meksika GP'de Ferrari'deki ilk pole pozisyonunu aldı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-01T11:36:48.911927+00:00",
-   "title": "Ocon'un F1 kariyeri sona mı eriyor? Haas'taki 'büyük kavga' ayrıntıları",
-   "source": "Crash.net"
-  },
-  {
-   "t": "2026-11-01T11:36:49.429555+00:00",
-   "title": "Verstappen Meksika'da hastalığa karşı önlem alıyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-01T11:36:49.907044+00:00",
-   "title": "Hirakawa, Meksika'da Q2'ye \"rahat\" girdiğini düşünüyor ama...",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-01T11:36:50.433831+00:00",
-   "title": "Ocon'un yerine gelen Hirakawa, F1 debütüsünde Q1'de 19. oldu",
-   "source": "The Race"
-  },
-  {
-   "t": "2026-11-01T11:36:50.975143+00:00",
-   "title": "Antonelli, şampiyonluk öncesi hastalıkla mücadelesini ve gerginliğini anlattı",
-   "source": "Crash.net"
-  },
-  {
-   "t": "2026-11-01T11:36:51.493787+00:00",
-   "title": "Verstappen, Hadjar'ı paddock olayında savundu",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-01T11:36:51.976648+00:00",
-   "title": "Norris, McLaren'ın sezonunu 'başarısızlık' olarak görmeyi reddetti",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-01T11:36:52.469133+00:00",
-   "title": "FIA, Verstappen-Lawson temasından önce pilotlara sakinleşme uyarısı yapmış",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-01T11:36:52.944231+00:00",
-   "title": "McLaren MCL40 zorlu, Andrea Stella pilotları da sorumlu tutuyor",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-01T11:36:53.413126+00:00",
-   "title": "Meksika GP'de pole pozisyonu her zaman avantaj mı?",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-01T11:36:53.892930+00:00",
-   "title": "Ocon'un Haas'tan ani ayrılığı, Chandhok: Gerilim aylardır birikiyordu",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-01T11:36:54.390312+00:00",
-   "title": "Alonso: Mexico City'de yaşanan sorun yüzünden hayal kırıklığı tarifsiz",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-01T11:36:54.861511+00:00",
-   "title": "Ryo Hirakawa, Mexico City GP'de Haas ile F1 debutosunu yapacak",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-01T11:36:55.355793+00:00",
-   "title": "Hamilton, F1'in en uzun pole pozisyonu kariyerine sahip pilotu",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-01T11:36:55.839790+00:00",
-   "title": "Hirakawa, Ocon'un yerine Meksika GP'de F1 debutu yapacak",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-01T11:45:20.169376+00:00",
    "title": "Gasly: Make-A-Wish çalışmaları beni şekillendirdi",
@@ -17496,6 +17400,11 @@
    "t": "2026-11-04T11:32:36.936882+00:00",
    "title": "Mercedes'in ön kanat güncellemesi tatlı noktaya nasıl ulaştı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-04T11:41:52.263020+00:00",
+   "title": "Ferrari, Hamilton'ın 'büyük sorun' yorumu nedeniyle eleştirildi",
+   "source": "PlanetF1"
   }
  ]
 }
