@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b850aeb26970020b": "2026-10-21T13:04:46.145183+00:00",
   "54848f9115ffecb4": "2026-10-21T13:15:05.252372+00:00",
   "8cb6a07b627aa702": "2026-10-21T13:15:05.252372+00:00",
   "d1d3e5c77b83ea9c": "2026-10-21T13:24:40.565862+00:00",
@@ -7470,7 +7469,10 @@
   "d9493ec2e0f6ed31": "2026-11-04T12:51:20.048925+00:00",
   "a3c8163135d96fe3": "2026-11-04T13:01:17.079940+00:00",
   "3e2ee34822130aaa": "2026-11-04T13:01:17.079940+00:00",
-  "9cc39000452c1d20": "2026-11-04T13:01:17.079940+00:00"
+  "9cc39000452c1d20": "2026-11-04T13:01:17.079940+00:00",
+  "4ccbaeca6e630c63": "2026-11-04T13:11:13.539111+00:00",
+  "d2a48d74ae2ce035": "2026-11-04T13:11:13.539111+00:00",
+  "8d869c44d4809b9a": "2026-11-04T13:11:13.539111+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7819,19 +7821,6 @@
    },
    "last": "2026-11-02T17:24:11.715240+00:00"
   },
-  "S4011": {
-   "title": "Gazzetta race highlights of Leclerc-Hamilton start clash",
-   "first": "2026-11-02T10:43:20.506896+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-02T10:38:24+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "F1, GP Messico: highlights gara. Scintille al via tra Leclerc e Hamilton"
-   },
-   "last": "2026-11-02T13:03:23.046078+00:00"
-  },
   "S4015": {
    "title": "Komatsu takes responsibility for dropping Ocon from Mexico weekend",
    "first": "2026-11-02T10:53:22.424732+00:00",
@@ -7899,19 +7888,6 @@
    },
    "last": "2026-11-02T13:33:31.514595+00:00"
   },
-  "S4038": {
-   "title": "Szoboszlai on Liverpool diving for penalty, not F1",
-   "first": "2026-11-02T12:23:20.671726+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dominik Szoboszlai asks if Liverpool expected to 'dive' to win penalty"
-   },
-   "last": "2026-11-02T13:03:23.046027+00:00"
-  },
   "S4039": {
    "title": "Analysis of Russell's disappointing season and next steps",
    "first": "2026-11-02T12:23:20.671745+00:00",
@@ -7924,19 +7900,6 @@
     "GPblog": "Russell skips Antonelli celebrations after season of disappointment. What next for the Mercedes driver."
    },
    "last": "2026-11-02T15:14:41.160828+00:00"
-  },
-  "S4043": {
-   "title": "Patrick Dorgu returns to Man United training before Roma clash",
-   "first": "2026-11-02T12:43:21.770356+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T12:25:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Patrick Dorgu returns to Man United training ahead of Roma clash"
-   },
-   "last": "2026-11-02T13:03:23.046050+00:00"
   },
   "S4045": {
    "title": "F1 reportedly asks teams to stay quiet on Qatar and Abu Dhabi",
@@ -7963,45 +7926,6 @@
     "ESPN F1": "Regis Le Bris retains Sunderland confidence despite bad run - report"
    },
    "last": "2026-11-02T18:44:10.351401+00:00"
-  },
-  "S4048": {
-   "title": "ESPN college football Week 9 power rankings",
-   "first": "2026-11-02T13:03:23.046038+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T12:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Week 9 College football Power Rankings: How big wins, upsets changed top 25"
-   },
-   "last": "2026-11-02T13:03:23.046044+00:00"
-  },
-  "S4049": {
-   "title": "Red Bull backs Verstappen's view of light Leclerc penalty",
-   "first": "2026-11-02T13:03:23.046054+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-02T12:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull schaart zich achter Verstappen na opmerkelijke straf Leclerc"
-   },
-   "last": "2026-11-02T13:03:23.046059+00:00"
-  },
-  "S4050": {
-   "title": "Verstappen and Hamilton vent frustrations to Antonelli in cooldown room",
-   "first": "2026-11-02T13:03:23.046062+00:00",
-   "sources": {
-    "GPFans": "2026-11-02T12:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Verstappen intervenes with Antonelli in F1 cooldown room after Lewis Hamilton rant"
-   },
-   "last": "2026-11-02T13:03:23.046066+00:00"
   },
   "S4051": {
    "title": "Rosberg says Leclerc is always at fault in Hamilton clash",
@@ -15721,9 +15645,35 @@
     "Sky Sports F1": "Do Ferrari need to impose repercussions after latest Hamilton-Leclerc clash?"
    },
    "last": "2026-11-04T13:01:20.929016+00:00"
+  },
+  "S4630": {
+   "title": "Rory McIlroy criticises LIV Golf's impact on professional golf",
+   "first": "2026-11-04T13:11:16.561617+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T13:09:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rory McIlroy on LIV Golf: 'They turned professional golf into an arms race'"
+   },
+   "last": "2026-11-04T13:11:16.561639+00:00"
+  },
+  "S4631": {
+   "title": "Brundle defends Russell over unauthorised missed post-Mexico media duties",
+   "first": "2026-11-04T13:11:16.561646+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-04T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "'Broken' George Russell defended for unauthorised F1 absence: 'It was a step too far'"
+   },
+   "last": "2026-11-04T13:11:16.561652+00:00"
   }
  },
- "story_seq": 4629,
+ "story_seq": 4631,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15842,7 +15792,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T13:01:17.079940+00:00",
+ "last_run": "2026-11-04T13:11:13.539111+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
