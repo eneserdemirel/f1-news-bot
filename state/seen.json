@@ -7472,7 +7472,10 @@
   "28aa494b799e27dd": "2026-11-04T07:20:44.457073+00:00",
   "15a9638c791ae11c": "2026-11-04T07:20:44.457073+00:00",
   "27c4c805e13e3d27": "2026-11-04T07:30:52.410554+00:00",
-  "62a4f9ef02a7e8f9": "2026-11-04T07:30:52.410554+00:00"
+  "62a4f9ef02a7e8f9": "2026-11-04T07:30:52.410554+00:00",
+  "2bc1dfc5acafe25c": "2026-11-04T07:40:50.996531+00:00",
+  "265d15aee4068951": "2026-11-04T07:40:50.996531+00:00",
+  "40388b8d5897be37": "2026-11-04T07:40:50.996531+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7862,19 +7865,6 @@
    },
    "last": "2026-11-02T13:13:23.250720+00:00"
   },
-  "S3912": {
-   "title": "Gazzetta dello Sport Formula 1 section page, no headline",
-   "first": "2026-11-02T03:56:59.399994+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-01T23:33:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Formula 1"
-   },
-   "last": "2026-11-02T07:32:40.815665+00:00"
-  },
   "S3917": {
    "title": "Commanders beat Eagles 27-10 on Sunday Night Football",
    "first": "2026-11-02T04:37:39.481531+00:00",
@@ -7985,19 +7975,6 @@
     "Motorsport Week": "Kimi Antonelli to keep No 12 as champion: ‘Number one has never been a good number for me’"
    },
    "last": "2026-11-03T13:17:08.561068+00:00"
-  },
-  "S3951": {
-   "title": "AS feature on Antonelli's race-by-race path to title",
-   "first": "2026-11-02T07:32:40.815675+00:00",
-   "sources": {
-    "AS": "2026-11-02T07:23:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "AS": "El camino de Antonelli hasta ser campeón"
-   },
-   "last": "2026-11-02T07:32:40.815681+00:00"
   },
   "S3952": {
    "title": "New footage of Russell and Wolff after Mexican GP emerges",
@@ -15628,7 +15605,7 @@
    "titles": {
     "ESPN F1": "Ducks 5-4 Canucks (Nov 3, 2026) Game Recap"
    },
-   "last": "2026-11-04T05:30:48.100801+00:00"
+   "last": "2026-11-04T07:40:57.291456+00:00"
   },
   "S4527": {
    "title": "UC Irvine's Olivier Rioux putback slam highlight",
@@ -15867,9 +15844,35 @@
     "ESPN F1": "AFL: Swans star Tom Papley tests positive to illicit substance at roadside police stop"
    },
    "last": "2026-11-04T07:30:54.265458+00:00"
+  },
+  "S4545": {
+   "title": "Sao Paulo GP weather forecast flags possible rain and cooler temperatures",
+   "first": "2026-11-04T07:40:57.291466+00:00",
+   "sources": {
+    "GPblog": "2026-11-04T07:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 Sao Paulo GP weather forecast: Will rain spice up Sunday’s race in Brazil?"
+   },
+   "last": "2026-11-04T07:40:57.291472+00:00"
+  },
+  "S4546": {
+   "title": "Analysis: Lawson's F1 future at risk, with Tsolov data cited",
+   "first": "2026-11-04T07:40:57.291477+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-04T07:37:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Liam Lawson vor Formel-1-Aus? Warum die Daten für Nikola Tsolov sprechen - Motorsport-Total.com"
+   },
+   "last": "2026-11-04T07:40:57.291482+00:00"
   }
  },
- "story_seq": 4544,
+ "story_seq": 4546,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15988,7 +15991,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T07:30:52.410554+00:00",
+ "last_run": "2026-11-04T07:40:50.996531+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
@@ -17643,6 +17646,16 @@
    "t": "2026-11-04T07:20:55.142775+00:00",
    "title": "FIA, Brezilya Grand Prix'si için Interlagos'ta iki SM bölgesi onayladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-04T07:41:03.282856+00:00",
+   "title": "Sao Paulo GP'de yağmur riski: Cumartesi ve pazar için hava durumu",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-04T07:41:03.768568+00:00",
+   "title": "Liam Lawson Formula 1'den mi ayrılıyor? Nikola Tsolov verileri neden öne çıkıyor?",
+   "source": "Motorsport-Total"
   }
  ]
 }
