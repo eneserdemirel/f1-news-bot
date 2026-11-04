@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9dd6e53a0166bf47": "2026-10-21T15:04:46.913440+00:00",
-  "1f7aff1d4f5c4401": "2026-10-21T15:04:46.913440+00:00",
-  "1d2d992b9c4e4f0b": "2026-10-21T15:04:46.913440+00:00",
   "35ff0324cbe57923": "2026-10-21T15:14:44.067208+00:00",
   "08b3b5e67f265dc8": "2026-10-21T15:14:44.067208+00:00",
   "ebce10458ae6e606": "2026-10-21T15:14:44.067208+00:00",
@@ -7488,7 +7485,14 @@
   "c8bc06d2a589e296": "2026-11-04T14:51:15.728327+00:00",
   "cdacbc0ce3ceef02": "2026-11-04T15:01:21.348602+00:00",
   "88be1736157a4cf9": "2026-11-04T15:01:21.348602+00:00",
-  "4a64147c5bd98215": "2026-11-04T15:01:21.348602+00:00"
+  "4a64147c5bd98215": "2026-11-04T15:01:21.348602+00:00",
+  "bf5a25f173bb4d35": "2026-11-04T15:11:14.413710+00:00",
+  "15c0acded099d407": "2026-11-04T15:11:14.413710+00:00",
+  "4b88106dc9b28503": "2026-11-04T15:11:14.413710+00:00",
+  "887b9744ac80b26d": "2026-11-04T15:11:14.413710+00:00",
+  "10e47bfc6cbc12f1": "2026-11-04T15:11:14.413710+00:00",
+  "d5ef1a96fa2a7cf3": "2026-11-04T15:11:14.413710+00:00",
+  "2cf41343f42e51e7": "2026-11-04T15:11:14.413710+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7909,32 +7913,6 @@
     "RacingNews365": "Hamilton and Leclerc ‘heads banging’ needed as Antonelli era begins"
    },
    "last": "2026-11-02T15:24:14.235859+00:00"
-  },
-  "S4081": {
-   "title": "Verstappen and Hamilton lift Antonelli on shoulders after title",
-   "first": "2026-11-02T15:04:13.791045+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-02T14:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen en Hamilton genieten na van iconisch moment met Antonelli"
-   },
-   "last": "2026-11-02T15:04:13.791051+00:00"
-  },
-  "S4082": {
-   "title": "Alonso jokingly grabs Albon by the neck in Mexico City",
-   "first": "2026-11-02T15:04:13.791062+00:00",
-   "sources": {
-    "GPFans": "2026-11-02T14:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Fernando Alonso jokingly grabs F1 star by the neck after accusing rivals of having 'no talent'"
-   },
-   "last": "2026-11-02T15:04:13.791067+00:00"
   },
   "S4083": {
    "title": "Fiorello praises Antonelli and calls for Italian GP on Rai",
@@ -14437,7 +14415,8 @@
     "Crash.net": "2026-11-04T13:15:57+00:00",
     "Motorsport-Total": "2026-11-04T13:12:58+00:00",
     "Corriere dello Sport": "2026-11-04T14:01:29+00:00",
-    "PlanetF1": "2026-11-04T14:29:49+00:00"
+    "PlanetF1": "2026-11-04T14:29:49+00:00",
+    "ESPN F1": "2026-11-04T14:59:08+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14454,9 +14433,10 @@
     "Crash.net": "Charles and Alexandra Leclerc share heartwarming news before Brazil GP",
     "Motorsport-Total": "Babyglück: Charles Leclerc ist erstmals Vater geworden - Motorsport-Total.com",
     "Corriere dello Sport": "Leclerc è diventato papà: nata la piccola Bianca, l'annuncio sui social con Alexandra",
-    "PlanetF1": "Charles Leclerc announces birth of first child ahead of São Paulo GP"
+    "PlanetF1": "Charles Leclerc announces birth of first child ahead of São Paulo GP",
+    "ESPN F1": "Charles Leclerc to miss Brazilian Grand Prix media duty due to birth of baby"
    },
-   "last": "2026-11-04T14:31:20.554633+00:00"
+   "last": "2026-11-04T15:11:22.506060+00:00"
   },
   "S4569": {
    "title": "Bottas reacts after big crash at Mexico City GP",
@@ -14925,14 +14905,14 @@
    "title": "ESPN college basketball conference power rankings 2026-27",
    "first": "2026-11-04T12:41:31.896934+00:00",
    "sources": {
-    "ESPN F1": "2026-11-04T12:37:37+00:00"
+    "ESPN F1": "2026-11-04T12:25:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Power ranking the top men's college basketball conferences for 2026-27"
    },
-   "last": "2026-11-04T12:41:31.896940+00:00"
+   "last": "2026-11-04T15:11:22.506084+00:00"
   },
   "S4605": {
    "title": "Men's boxing pound-for-pound rankings with Canelo Alvarez",
@@ -15094,14 +15074,16 @@
    "title": "Brazil GP dates and full F1 schedule explainer",
    "first": "2026-11-04T12:41:31.897058+00:00",
    "sources": {
-    "Crash.net": "2026-11-04T11:58:41+00:00"
+    "Crash.net": "2026-11-04T11:58:41+00:00",
+    "GPblog": "2026-11-04T15:01:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "What time is the next F1 race? Brazil GP dates and full schedule"
+    "Crash.net": "What time is the next F1 race? Brazil GP dates and full schedule",
+    "GPblog": "Formula 1 Brazil GP 2026: All session times and full weekend schedule"
    },
-   "last": "2026-11-04T12:41:31.897061+00:00"
+   "last": "2026-11-04T15:11:22.506115+00:00"
   },
   "S4618": {
    "title": "Bortoleto looks ahead to racing at home in Interlagos",
@@ -15296,7 +15278,7 @@
    "titles": {
     "PlanetF1": "Charles Leclerc shifts blame over Lewis Hamilton Mexico GP clash"
    },
-   "last": "2026-11-04T13:21:19.213199+00:00"
+   "last": "2026-11-04T15:11:22.506110+00:00"
   },
   "S4633": {
    "title": "ESPN college football radio segment on CFP rankings",
@@ -15582,7 +15564,7 @@
    "titles": {
     "ESPN F1": "Tennis great Rafa Nadal accepts Real Madrid offer to join board of directors"
    },
-   "last": "2026-11-04T14:31:20.554611+00:00"
+   "last": "2026-11-04T15:11:22.506076+00:00"
   },
   "S4655": {
    "title": "Ferrari 499P displayed in Milan ahead of Monza WEC",
@@ -15726,9 +15708,35 @@
     "Crash.net": "Mercedes reveals Kimi Antonelli was “on the edge of retirement” at Mexico GP"
    },
    "last": "2026-11-04T15:01:23.850017+00:00"
+  },
+  "S4666": {
+   "title": "McLaren promotes Saucy to MCL-HY Hypercar seat for 2027",
+   "first": "2026-11-04T15:11:22.506089+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-04T15:02:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | McLaren promuove Grégoire Saucy sulla MCL-HY per il 2027"
+   },
+   "last": "2026-11-04T15:11:22.506095+00:00"
+  },
+  "S4667": {
+   "title": "Opinion: Ocon's Haas exit may mark the end of his F1 career",
+   "first": "2026-11-04T15:11:22.506099+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-04T15:00:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Is Mexico au revoir and goodbye for Esteban Ocon in F1?"
+   },
+   "last": "2026-11-04T15:11:22.506103+00:00"
   }
  },
- "story_seq": 4665,
+ "story_seq": 4667,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15847,17 +15855,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T15:01:21.348602+00:00",
+ "last_run": "2026-11-04T15:11:14.413710+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T15:05:45.646047+00:00",
-   "title": "Button, Ocon'un F1 kariyerini tehlikeye atmış olabileceğini söyledi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-01T15:15:47.552164+00:00",
    "title": "Arvid Lindblad, Meksika GP sıralamasından memnun değil",
