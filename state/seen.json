@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ff4b2946bf26259e": "2026-10-21T17:05:25.141137+00:00",
-  "8105f29fd2616c16": "2026-10-21T17:05:25.141137+00:00",
   "2287ea6fb9cd2620": "2026-10-21T17:15:30.765160+00:00",
   "00ffe647fbe5009c": "2026-10-21T17:25:25.204927+00:00",
   "7ae70334745b5c0c": "2026-10-21T17:35:26.584550+00:00",
@@ -7512,7 +7510,12 @@
   "9127f48246d75c7b": "2026-11-04T17:01:16.833878+00:00",
   "92e2529425eea35b": "2026-11-04T17:01:16.833878+00:00",
   "95683d0184b09e25": "2026-11-04T17:01:16.833878+00:00",
-  "63f6f5cff08b5b22": "2026-11-04T17:01:16.833878+00:00"
+  "63f6f5cff08b5b22": "2026-11-04T17:01:16.833878+00:00",
+  "f3c9c12d807d624b": "2026-11-04T17:11:14.578188+00:00",
+  "290c88fda58de0f6": "2026-11-04T17:11:14.578188+00:00",
+  "69368145d7aee1ae": "2026-11-04T17:11:14.578188+00:00",
+  "70da5c69921613a1": "2026-11-04T17:11:14.578188+00:00",
+  "1ea8efb8d450f123": "2026-11-04T17:11:14.578188+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7828,19 +7831,6 @@
    },
    "last": "2026-11-03T07:26:23.021783+00:00"
   },
-  "S4106": {
-   "title": "Five winners and five losers from Mexico City GP",
-   "first": "2026-11-02T17:04:12.171911+00:00",
-   "sources": {
-    "Formula 1": "2026-11-02T17:04:12.171926+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "5 Winners and 5 Losers from Mexico City"
-   },
-   "last": "2026-11-02T17:04:12.171930+00:00"
-  },
   "S4107": {
    "title": "Bottas says he suffered most from Cadillac's problems",
    "first": "2026-11-02T17:04:12.171936+00:00",
@@ -7855,32 +7845,6 @@
     "Motorsport-Total": "\"Verdammte Scheiße!\": Valtteri Bottas nach heftigem Abflug bedient - Motorsport-Total.com"
    },
    "last": "2026-11-03T07:26:23.021831+00:00"
-  },
-  "S4108": {
-   "title": "Vesti confirms talks over full-time 2027 seat",
-   "first": "2026-11-02T17:04:12.171945+00:00",
-   "sources": {
-    "GPFans": "2026-11-02T16:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Mercedes driver eyeing big F1 promotion as talks over team switch confirmed"
-   },
-   "last": "2026-11-02T17:04:12.171950+00:00"
-  },
-  "S4109": {
-   "title": "Venditti sends Antonelli audio message after title",
-   "first": "2026-11-02T17:04:12.171954+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-02T16:54:13+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Venditti a Kimi: \"La notte è passata, il giorno è arrivato pieno di gloria\""
-   },
-   "last": "2026-11-02T17:04:12.171959+00:00"
   },
   "S4110": {
    "title": "England Nations Championship squad announced (rugby)",
@@ -13949,7 +13913,8 @@
     "Motorsport Week": "2026-11-04T09:00:00+00:00",
     "Autosport": "2026-11-04T14:34:40+00:00",
     "Auto Motor und Sport": "2026-11-04T15:07:08+00:00",
-    "Crash.net": "2026-11-04T15:42:23+00:00"
+    "Crash.net": "2026-11-04T15:42:23+00:00",
+    "Motorsport.com Italia": "2026-11-04T17:00:59+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13957,9 +13922,10 @@
     "Motorsport Week": "Cadillac F1 team owner reportedly considering $3 billion sale in shock decision",
     "Autosport": "Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty",
     "Auto Motor und Sport": "Formel 1: Drei Milliarden für US-Rennstall: Wird das Cadillac-Team verkauft?",
-    "Crash.net": "Liverpool FC owners emerge as potential buyers of Cadillac F1 team stake"
+    "Crash.net": "Liverpool FC owners emerge as potential buyers of Cadillac F1 team stake",
+    "Motorsport.com Italia": "F1 | Cadillac: i padroni del Liverpool interessati alle quote di TWG per entrare nel team USA"
    },
-   "last": "2026-11-04T15:51:18.657080+00:00"
+   "last": "2026-11-04T17:11:19.647191+00:00"
   },
   "S4563": {
    "title": "Antum Naqvi cleared for Zimbabwe debut",
@@ -15726,9 +15692,61 @@
     "RacingNews365 NL": "Ferrari gewaarschuwd voor Hamilton: \"Staat ontwikkeling in de weg\""
    },
    "last": "2026-11-04T17:01:23.013441+00:00"
+  },
+  "S4695": {
+   "title": "Alex Jacques analysis of Russell's season and 2027 outlook",
+   "first": "2026-11-04T17:11:19.647140+00:00",
+   "sources": {
+    "Formula 1": "2026-11-04T17:11:19.647157+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Where did it go wrong for Russell – and can he regroup for 2027?"
+   },
+   "last": "2026-11-04T17:11:19.647161+00:00"
+  },
+  "S4696": {
+   "title": "Kenny Gainwell Week 9 fantasy outlook",
+   "first": "2026-11-04T17:11:19.647168+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T16:57:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Can fantasy managers trust Kenny Gainwell in Week 9?"
+   },
+   "last": "2026-11-04T17:11:19.647174+00:00"
+  },
+  "S4697": {
+   "title": "Warriors withholding payments to Porzingis, sources say",
+   "first": "2026-11-04T17:11:19.647179+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T16:05:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Warriors withholding payments to Porzingis, sources say"
+   },
+   "last": "2026-11-04T17:11:19.647184+00:00"
+  },
+  "S4698": {
+   "title": "Vasseur calls for ruthless leader over Ferrari management failure",
+   "first": "2026-11-04T17:11:19.647195+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-04T17:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Ferrari 'management failure' prompts Fred Vasseur scolding: 'You need a ruthless leader'"
+   },
+   "last": "2026-11-04T17:11:19.647200+00:00"
   }
  },
- "story_seq": 4694,
+ "story_seq": 4698,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15847,17 +15865,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T17:01:16.833878+00:00",
+ "last_run": "2026-11-04T17:11:14.578188+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T17:05:47.329329+00:00",
-   "title": "Bearman, Ocon'a mesaj attığını doğruladı; Haas'ta Hirakawa debut yapıyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-01T17:36:18.626337+00:00",
    "title": "Chandhok: Lawson'ın koltuğunu kaybetmesi 'haksız bir görevden alma' olur",
@@ -17586,6 +17599,16 @@
   {
    "t": "2026-11-04T17:01:33.034898+00:00",
    "title": "Rosberg, emekliliği sonrası Hamilton ile ilişkisini anlattı",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-04T17:11:25.025271+00:00",
+   "title": "Ferrari'de yönetim hatası eleştirisi: Vasseur'e 'acımasız lider' çağrısı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-04T17:11:25.414528+00:00",
+   "title": "Russell'da neler ters gitti ve 2027 için toparlanabilecek mi?",
    "source": "Formula 1"
   }
  ]
