@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "db3c4d4da3ca407c": "2026-10-21T20:36:12.549648+00:00",
   "956b7739d8363adf": "2026-10-21T20:56:15.003237+00:00",
   "2730906eb794988a": "2026-10-21T21:06:12.016262+00:00",
   "e33cdc9e7656dcce": "2026-10-21T21:46:12.642339+00:00",
@@ -7573,7 +7572,8 @@
   "8c541cb896fb3f67": "2026-11-04T20:21:54.989815+00:00",
   "69eff77d5038cf2f": "2026-11-04T20:31:53.132338+00:00",
   "e7575d544b335966": "2026-11-04T20:31:53.132338+00:00",
-  "a0e6807019957ed4": "2026-11-04T20:31:53.132338+00:00"
+  "a0e6807019957ed4": "2026-11-04T20:31:53.132338+00:00",
+  "451b0b2edb36cbc4": "2026-11-04T20:41:50.078154+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7957,32 +7957,6 @@
     "Motorsport-Total": "Formel-1-Exklusiv-News und Interviews - Motorsport-Total.com"
    },
    "last": "2026-11-02T22:25:08.159044+00:00"
-  },
-  "S4153": {
-   "title": "Betting markets tip Verstappen for 2027 title after Antonelli's win",
-   "first": "2026-11-02T20:35:09.097662+00:00",
-   "sources": {
-    "Formula 1": "2026-11-02T20:35:09.097679+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Antonelli makes history as Verstappen eyes 2027 glory"
-   },
-   "last": "2026-11-02T20:35:09.097683+00:00"
-  },
-  "S4154": {
-   "title": "WWE Crown Jewel viewing details and match card",
-   "first": "2026-11-02T20:35:09.097688+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T20:33:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Where to watch WWE's Crown Jewel: Time, match card, more"
-   },
-   "last": "2026-11-02T20:35:09.097693+00:00"
   },
   "S4155": {
    "title": "Newcastle vs Everton team stats",
@@ -15930,9 +15904,22 @@
     "AS": "Antonelli nació el día que Vettel debutó en F1"
    },
    "last": "2026-11-04T20:31:55.709914+00:00"
+  },
+  "S4750": {
+   "title": "Hall of Fame names Doug Williams, Robert Kraft among contributor candidates",
+   "first": "2026-11-04T20:41:51.562508+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T17:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hall of Fame names Doug Williams, Robert Kraft among 5 contributor candidates"
+   },
+   "last": "2026-11-04T20:41:51.562530+00:00"
   }
  },
- "story_seq": 4749,
+ "story_seq": 4750,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16051,7 +16038,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T20:31:53.132338+00:00",
+ "last_run": "2026-11-04T20:41:50.078154+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
