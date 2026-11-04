@@ -7475,7 +7475,9 @@
   "62a4f9ef02a7e8f9": "2026-11-04T07:30:52.410554+00:00",
   "2bc1dfc5acafe25c": "2026-11-04T07:40:50.996531+00:00",
   "265d15aee4068951": "2026-11-04T07:40:50.996531+00:00",
-  "40388b8d5897be37": "2026-11-04T07:40:50.996531+00:00"
+  "40388b8d5897be37": "2026-11-04T07:40:50.996531+00:00",
+  "13f57c8fb7ddb677": "2026-11-04T07:50:44.811450+00:00",
+  "f9d0f104ff7516ea": "2026-11-04T07:50:44.811450+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7975,32 +7977,6 @@
     "Motorsport Week": "Kimi Antonelli to keep No 12 as champion: ‘Number one has never been a good number for me’"
    },
    "last": "2026-11-03T13:17:08.561068+00:00"
-  },
-  "S3952": {
-   "title": "New footage of Russell and Wolff after Mexican GP emerges",
-   "first": "2026-11-02T07:42:37.423661+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-02T07:34:19+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘Sh*tshow’ – New George Russell and Toto Wolff Mexican GP footage emerges"
-   },
-   "last": "2026-11-02T07:42:37.423677+00:00"
-  },
-  "S3953": {
-   "title": "Luka Doncic touts improved defense, praised by Lakers and Raptors",
-   "first": "2026-11-02T07:47:36.166467+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T07:01:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luka Doncic touts his improved defense, draws praise from Lakers, Raptors"
-   },
-   "last": "2026-11-02T07:47:36.166484+00:00"
   },
   "S3954": {
    "title": "Motorsport-Total feature on Antonelli's 'turning point' to title",
@@ -13855,7 +13831,7 @@
    "titles": {
     "RacingNews365 NL": "Ricciardo had in F1 heel ander doel dan Verstappen"
    },
-   "last": "2026-11-03T16:28:18.728289+00:00"
+   "last": "2026-11-04T07:50:48.146638+00:00"
   },
   "S4395": {
    "title": "Hamilton urges FIA to act on Mexico overtaking ban",
@@ -15870,9 +15846,22 @@
     "Motorsport-Total": "Liam Lawson vor Formel-1-Aus? Warum die Daten für Nikola Tsolov sprechen - Motorsport-Total.com"
    },
    "last": "2026-11-04T07:40:57.291482+00:00"
+  },
+  "S4547": {
+   "title": "Telemetry data offers new angle on Hamilton-Leclerc Ferrari clash",
+   "first": "2026-11-04T07:50:48.146648+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-04T07:47:01+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Telemetry data uncovers new angle on Hamilton Leclerc Ferrari clash"
+   },
+   "last": "2026-11-04T07:50:48.146655+00:00"
   }
  },
- "story_seq": 4546,
+ "story_seq": 4547,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15991,7 +15980,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T07:40:50.996531+00:00",
+ "last_run": "2026-11-04T07:50:44.811450+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
@@ -17656,6 +17645,11 @@
    "t": "2026-11-04T07:41:03.768568+00:00",
    "title": "Liam Lawson Formula 1'den mi ayrılıyor? Nikola Tsolov verileri neden öne çıkıyor?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-04T07:50:52.654589+00:00",
+   "title": "Telemetri verileri Hamilton-Leclerc Ferrari çatışmasına yeni bir bakış açısı getiriyor",
+   "source": "PlanetF1"
   }
  ]
 }
