@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "279c718cd24f0dad": "2026-10-21T20:05:45.772768+00:00",
-  "bb051c62f92f0d53": "2026-10-21T20:05:45.772768+00:00",
-  "c0d383e6c5e9164c": "2026-10-21T20:05:45.772768+00:00",
   "8e1dca3f2303ec81": "2026-10-21T20:15:53.117230+00:00",
   "a037e0ec93d1436a": "2026-10-21T20:15:53.117230+00:00",
   "e8a5a6d70b4ac55a": "2026-10-21T20:15:53.117230+00:00",
@@ -7568,7 +7565,12 @@
   "3c7d2ef9229a206a": "2026-11-04T20:01:53.376089+00:00",
   "76aacc55a94c894b": "2026-11-04T20:01:53.376089+00:00",
   "102be19ae7acec2e": "2026-11-04T20:01:53.376089+00:00",
-  "ed5572e2ab475f34": "2026-11-04T20:01:53.376089+00:00"
+  "ed5572e2ab475f34": "2026-11-04T20:01:53.376089+00:00",
+  "674c2d4e07a80b0d": "2026-11-04T20:11:49.605411+00:00",
+  "fea56176db55b2de": "2026-11-04T20:11:49.605411+00:00",
+  "8efe39a0e0aba0d1": "2026-11-04T20:11:49.605411+00:00",
+  "20c1266ddcb5cb08": "2026-11-04T20:11:49.605411+00:00",
+  "5ad20233dc496f28": "2026-11-04T20:11:49.605411+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7952,32 +7954,6 @@
     "ESPN F1": "Shane Steichen sticking with Daniel Jones as Colts' QB1 for Week 9 vs. Cowboys"
    },
    "last": "2026-11-03T04:15:44.756352+00:00"
-  },
-  "S4147": {
-   "title": "Antonelli's father Marco reacts to maiden title win",
-   "first": "2026-11-02T20:05:15.020737+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-02T20:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Vader Antonelli door het dolle heen: \"Beste wat me kan overkomen!\""
-   },
-   "last": "2026-11-02T20:05:15.020742+00:00"
-  },
-  "S4148": {
-   "title": "Antonelli's title ends Italy's 73-year wait since Ascari",
-   "first": "2026-11-02T20:05:15.020752+00:00",
-   "sources": {
-    "AS": "2026-11-02T19:56:16+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Un campeón de récord"
-   },
-   "last": "2026-11-02T20:05:15.020757+00:00"
   },
   "S4149": {
    "title": "Lamar Jackson's future with Ravens (NFL, not F1)",
@@ -15847,9 +15823,74 @@
     "GPFans": "Lewis Hamilton contract revelation comes back to haunt Ferrari after Leclerc clash"
    },
    "last": "2026-11-04T20:01:56.607535+00:00"
+  },
+  "S4738": {
+   "title": "Slavia Prague vs Arsenal team stats",
+   "first": "2026-11-04T20:11:52.872624+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T20:03:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Slavia Prague vs. Arsenal (Nov 4, 2026) Team Stats"
+   },
+   "last": "2026-11-04T20:11:52.872647+00:00"
+  },
+  "S4739": {
+   "title": "PSV vs Club Brugge team stats",
+   "first": "2026-11-04T20:11:52.872652+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T20:02:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "PSV vs. Club Brugge (Nov 4, 2026) Team Stats"
+   },
+   "last": "2026-11-04T20:11:52.872656+00:00"
+  },
+  "S4740": {
+   "title": "England contingent named for Afghanistan Premier League",
+   "first": "2026-11-04T20:11:52.872659+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T19:59:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Moeen, Hales lead England contingent for inaugural Afghanistan Premier League"
+   },
+   "last": "2026-11-04T20:11:52.872663+00:00"
+  },
+  "S4741": {
+   "title": "College basketball future bets for 2026-27",
+   "first": "2026-11-04T20:11:52.872665+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T18:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "College basketball betting: Seven future bets that stand out in 2026-27"
+   },
+   "last": "2026-11-04T20:11:52.872668+00:00"
+  },
+  "S4742": {
+   "title": "Piastri reacts to Lindblad clash penalty in Mexico",
+   "first": "2026-11-04T20:11:52.872670+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-04T20:01:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri verdict on Lindblad clash revealed after FIA penalty decision"
+   },
+   "last": "2026-11-04T20:11:52.872673+00:00"
   }
  },
- "story_seq": 4737,
+ "story_seq": 4742,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15968,17 +16009,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T20:01:53.376089+00:00",
+ "last_run": "2026-11-04T20:11:49.605411+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T20:11:12.315182+00:00",
-   "title": "Ferrari takım arkadaşları çarpıştı, Leclerc çimene çıktı, Verstappen öne geçti",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-01T20:16:18.887777+00:00",
    "title": "Hamilton, Mexican GP başlangıcında takım arkadaşı Leclerc ile çarpıştı; FIA inceleme başlattı",
