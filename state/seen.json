@@ -7420,7 +7420,9 @@
   "e89cc9a76bfd6792": "2026-11-04T00:00:10.248048+00:00",
   "8e81254e84cfc3a4": "2026-11-04T00:00:10.248048+00:00",
   "961679820ec350f4": "2026-11-04T00:10:11.175106+00:00",
-  "fef03b6d154bbc91": "2026-11-04T00:20:14.033666+00:00"
+  "fef03b6d154bbc91": "2026-11-04T00:20:14.033666+00:00",
+  "fccd75d32bcce764": "2026-11-04T00:30:10.093859+00:00",
+  "6232d4530fe3e235": "2026-11-04T00:30:10.093859+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7762,23 +7764,6 @@
    },
    "last": "2026-11-02T03:27:03.446370+00:00"
   },
-  "S3839": {
-   "title": "Updated F1 drivers' championship standings after Mexico City GP",
-   "first": "2026-11-01T23:41:58.399896+00:00",
-   "sources": {
-    "Crash.net": "2026-11-01T23:41:50+00:00",
-    "RacingNews365": "2026-11-02T00:10:00+00:00",
-    "RacingNews365 NL": "2026-11-02T00:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "New F1 championship standings after the Mexico Grand Prix",
-    "RacingNews365": "Adjusted 2026 F1 championship standings after the Mexico City Grand Prix penalty",
-    "RacingNews365 NL": "Aangepaste WK-stand F1 na GP Mexico 2026"
-   },
-   "last": "2026-11-02T00:27:08.578082+00:00"
-  },
   "S3840": {
    "title": "Vasseur criticises Hamilton and Leclerc for lack of respect",
    "first": "2026-11-01T23:47:05.802743+00:00",
@@ -7922,32 +7907,6 @@
     "FormulaPassion": "Leclerc: “Non penso ci sia tanto da discutere, non ci siamo toccati e siamo andati entrambi larghi”"
    },
    "last": "2026-11-02T11:13:25.862286+00:00"
-  },
-  "S3855": {
-   "title": "Tremayne column on Antonelli's title and F1's future",
-   "first": "2026-11-02T00:27:08.578019+00:00",
-   "sources": {
-    "Formula 1": "2026-11-02T00:27:08.578033+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Why Antonelli’s title win is an explosive shot in the arm for F1"
-   },
-   "last": "2026-11-02T00:27:08.578037+00:00"
-  },
-  "S3856": {
-   "title": "Andrew Novak wins Mexico Open PGA Tour event",
-   "first": "2026-11-02T00:27:08.578064+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T00:22:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Andrew Novak takes Mexico Open for 1st individual PGA Tour title"
-   },
-   "last": "2026-11-02T00:27:08.578069+00:00"
   },
   "S3857": {
    "title": "Antonelli says 'Italia, ce l'abbiamo fatta' after title",
@@ -16555,9 +16514,35 @@
     "ESPN F1": "Aston Villa left with 'lot of things to learn' after defeat in Barcelona"
    },
    "last": "2026-11-04T00:00:13.861574+00:00"
+  },
+  "S4500": {
+   "title": "Kawhi Leonard completes knee treatment, begins return-to-play process",
+   "first": "2026-11-04T00:30:11.649562+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T00:21:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raptors' Kawhi Leonard completes knee treatment, begins 'return to play process'"
+   },
+   "last": "2026-11-04T00:30:11.649580+00:00"
+  },
+  "S4501": {
+   "title": "Golden Knights vs. Penguins live score listing",
+   "first": "2026-11-04T00:30:11.649585+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T00:07:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Golden Knights vs. Penguins (Nov 3, 2026) Live Score"
+   },
+   "last": "2026-11-04T00:30:11.649589+00:00"
   }
  },
- "story_seq": 4499,
+ "story_seq": 4501,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16676,17 +16661,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T00:20:14.033666+00:00",
+ "last_run": "2026-11-04T00:30:10.093859+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
  "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T00:23:49.770783+00:00",
-   "title": "Hadjar, Meksika GP paddock olayını açıkladı: \"Gerçeklik şovu değil\"",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-01T00:33:56.449596+00:00",
    "title": "Meksika'da Verstappen ve Bottas nedeniyle sıralama sonucu değişti",
