@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2287ea6fb9cd2620": "2026-10-21T17:15:30.765160+00:00",
   "00ffe647fbe5009c": "2026-10-21T17:25:25.204927+00:00",
   "7ae70334745b5c0c": "2026-10-21T17:35:26.584550+00:00",
   "9382ef2251f485f1": "2026-10-21T17:45:27.011234+00:00",
@@ -7515,7 +7514,10 @@
   "290c88fda58de0f6": "2026-11-04T17:11:14.578188+00:00",
   "69368145d7aee1ae": "2026-11-04T17:11:14.578188+00:00",
   "70da5c69921613a1": "2026-11-04T17:11:14.578188+00:00",
-  "1ea8efb8d450f123": "2026-11-04T17:11:14.578188+00:00"
+  "1ea8efb8d450f123": "2026-11-04T17:11:14.578188+00:00",
+  "cf790c78c075f8c4": "2026-11-04T17:21:29.167216+00:00",
+  "66c2d1903ff6d826": "2026-11-04T17:21:29.167216+00:00",
+  "f2ac075712010b11": "2026-11-04T17:21:29.167216+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7875,19 +7877,6 @@
     "Autosport": "Red Bull's key strategy call behind Verstappen's Mexico win"
    },
    "last": "2026-11-03T12:07:08.123132+00:00"
-  },
-  "S4112": {
-   "title": "PlanetF1 list of every F1 world champion since 1950",
-   "first": "2026-11-02T17:14:12.252411+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-02T17:07:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "F1 World Champions: Every driver to have taken title glory since 1950"
-   },
-   "last": "2026-11-02T17:14:12.252416+00:00"
   },
   "S4113": {
    "title": "Florida Panthers pink Hometown Remix jerseys feature",
@@ -15300,15 +15289,17 @@
    "first": "2026-11-04T15:01:23.850011+00:00",
    "sources": {
     "Crash.net": "2026-11-04T14:52:26+00:00",
-    "RacingNews365 NL": "2026-11-04T15:30:00+00:00"
+    "RacingNews365 NL": "2026-11-04T15:30:00+00:00",
+    "FormulaPassion": "2026-11-04T16:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Mercedes reveals Kimi Antonelli was “on the edge of retirement” at Mexico GP",
-    "RacingNews365 NL": "Kimi Antonelli kroop door oog van de naald in Mexico"
+    "RacingNews365 NL": "Kimi Antonelli kroop door oog van de naald in Mexico",
+    "FormulaPassion": "Il retroscena: Antonelli a un passo dal ritiro in Messico"
    },
-   "last": "2026-11-04T15:41:20.723892+00:00"
+   "last": "2026-11-04T17:21:33.201423+00:00"
   },
   "S4666": {
    "title": "McLaren promotes Saucy to MCL-HY Hypercar seat for 2027",
@@ -15744,9 +15735,35 @@
     "RacingNews365": "Ferrari 'management failure' prompts Fred Vasseur scolding: 'You need a ruthless leader'"
    },
    "last": "2026-11-04T17:11:19.647200+00:00"
+  },
+  "S4699": {
+   "title": "Marquez dismisses Rossi motivation theory ahead of tenth title",
+   "first": "2026-11-04T17:21:33.201382+00:00",
+   "sources": {
+    "GPblog": "2026-11-04T17:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez rejects Valentino Rossi motivation theory ahead of tenth title"
+   },
+   "last": "2026-11-04T17:21:33.201403+00:00"
+  },
+  "S4700": {
+   "title": "Ferrari targets Mexico repeat in Brazil; Mercedes engine decision awaited",
+   "first": "2026-11-04T17:21:33.201410+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-04T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Verso il Brasile: Ferrari vuole il ‘bis’ del Messico, dubbi sul motore per Kimi"
+   },
+   "last": "2026-11-04T17:21:33.201416+00:00"
   }
  },
- "story_seq": 4698,
+ "story_seq": 4700,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15865,7 +15882,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T17:11:14.578188+00:00",
+ "last_run": "2026-11-04T17:21:29.167216+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
@@ -17610,6 +17627,11 @@
    "t": "2026-11-04T17:11:25.414528+00:00",
    "title": "Russell'da neler ters gitti ve 2027 için toparlanabilecek mi?",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-04T17:21:45.213717+00:00",
+   "title": "Ferrari, Brezilya'da Meksika'daki başarıyı tekrarlamak istiyor",
+   "source": "FormulaPassion"
   }
  ]
 }
