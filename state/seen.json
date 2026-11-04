@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6e9c5603529331ab": "2026-10-21T18:05:26.263959+00:00",
-  "da83722a0e8cf590": "2026-10-21T18:05:26.263959+00:00",
-  "02e946f1db3eb6b1": "2026-10-21T18:05:26.263959+00:00",
   "aadc805bd750c376": "2026-10-21T18:15:26.038912+00:00",
   "df87de7837f32947": "2026-10-21T18:25:32.555022+00:00",
   "112330528e17d0b4": "2026-10-21T18:35:24.694481+00:00",
@@ -7524,7 +7521,10 @@
   "f87557dfcd9f2f04": "2026-11-04T17:51:53.225973+00:00",
   "cbc45b8b439b739d": "2026-11-04T18:01:49.390597+00:00",
   "7685d195a1b0464d": "2026-11-04T18:01:49.390597+00:00",
-  "80eaf49c65acb9b3": "2026-11-04T18:01:49.390597+00:00"
+  "80eaf49c65acb9b3": "2026-11-04T18:01:49.390597+00:00",
+  "c7be5899bad744e2": "2026-11-04T18:11:49.949896+00:00",
+  "150e11113dd7c76d": "2026-11-04T18:11:49.949896+00:00",
+  "0642177314d7402e": "2026-11-04T18:11:49.949896+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7881,45 +7881,6 @@
     "GPblog": "Honda admits Mexico issue behind Alonso and Stroll's double DNF nightmare"
    },
    "last": "2026-11-04T16:41:24.536472+00:00"
-  },
-  "S4120": {
-   "title": "ESPN Get Up show livestream listing",
-   "first": "2026-11-02T18:04:21.658706+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T13:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lun. 11/2 - Get Up (2/11/26) - Stream en vivo"
-   },
-   "last": "2026-11-02T18:04:21.658713+00:00"
-  },
-  "S4121": {
-   "title": "Peter Windsor predicts Ocon legal action against Haas",
-   "first": "2026-11-02T18:04:21.658724+00:00",
-   "sources": {
-    "GPFans": "2026-11-02T17:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 insider predicts legal action after driver axed during Mexican Grand Prix"
-   },
-   "last": "2026-11-02T18:04:21.658729+00:00"
-  },
-  "S4122": {
-   "title": "FormulaPassion opinion on Ferrari's Mexico potential",
-   "first": "2026-11-02T18:04:21.658733+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-02T18:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Autogol Ferrari: la SF-26 aveva tutto per vincere"
-   },
-   "last": "2026-11-02T18:04:21.658737+00:00"
   },
   "S4123": {
    "title": "Saints fire run-game coordinator after Paris flop",
@@ -15698,7 +15659,7 @@
    "titles": {
     "ESPN F1": "Leicestershire relegation confirmed as pitch penalty upheld"
    },
-   "last": "2026-11-04T17:41:20.473870+00:00"
+   "last": "2026-11-04T18:11:52.901809+00:00"
   },
   "S4704": {
    "title": "Both Aston Martins retire early in Mexico as Honda hybrid overheats",
@@ -15777,9 +15738,35 @@
     "GPFans": "F1 needs 'moaners' like Verstappen, it cannot afford 22 Antonellis and Toto Wolff is wrong"
    },
    "last": "2026-11-04T18:01:52.433731+00:00"
+  },
+  "S4710": {
+   "title": "Perez addresses 2027 Cadillac seat doubts amid Herta rumours",
+   "first": "2026-11-04T18:11:52.901818+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-04T18:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Sergio Perez addresses second Cadillac F1 seat scrutiny as Colton Herta rumours persist"
+   },
+   "last": "2026-11-04T18:11:52.901823+00:00"
+  },
+  "S4711": {
+   "title": "Final Sector podcast: Ocon exit, Camara debut, Ferrari Mexico",
+   "first": "2026-11-04T18:11:52.901827+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-04T18:02:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "The Final Sector: Ocon out, Camara in and did Ferrari lose the race win in Mexico?"
+   },
+   "last": "2026-11-04T18:11:52.901831+00:00"
   }
  },
- "story_seq": 4709,
+ "story_seq": 4711,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15898,7 +15885,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T18:01:49.390597+00:00",
+ "last_run": "2026-11-04T18:11:49.949896+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
@@ -17633,6 +17620,11 @@
    "t": "2026-11-04T17:41:26.094253+00:00",
    "title": "Wolff, Antonelli'nin şampiyonluğu sonrası Mercedes çalışanlarına e-posta yazdı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-04T18:11:58.821197+00:00",
+   "title": "Perez, Cadillac'ın ikinci koltuğu tartışmasına yanıt verdi",
+   "source": "RacingNews365"
   }
  ]
 }
