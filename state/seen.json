@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "df87de7837f32947": "2026-10-21T18:25:32.555022+00:00",
   "112330528e17d0b4": "2026-10-21T18:35:24.694481+00:00",
   "b3257ca1492d90fc": "2026-10-21T18:45:43.742808+00:00",
   "8ff4bbf25f53e749": "2026-10-21T18:45:43.742808+00:00",
@@ -7528,7 +7527,10 @@
   "78281fb037a80846": "2026-11-04T18:21:48.309043+00:00",
   "d54b2f1b4bf61a9d": "2026-11-04T18:21:48.309043+00:00",
   "54aec772d9c43851": "2026-11-04T18:21:48.309043+00:00",
-  "4e370f20c3532c9f": "2026-11-04T18:21:48.309043+00:00"
+  "4e370f20c3532c9f": "2026-11-04T18:21:48.309043+00:00",
+  "9ad0f98c8569020a": "2026-11-04T18:32:01.122166+00:00",
+  "a97d6304f9d3cd6d": "2026-11-04T18:32:01.122166+00:00",
+  "e0f0395ad426a5db": "2026-11-04T18:32:01.122166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7885,32 +7887,6 @@
     "GPblog": "Honda admits Mexico issue behind Alonso and Stroll's double DNF nightmare"
    },
    "last": "2026-11-04T16:41:24.536472+00:00"
-  },
-  "S4124": {
-   "title": "Recap of everything learned from 2026 Mexican GP",
-   "first": "2026-11-02T18:24:16.605535+00:00",
-   "sources": {
-    "The Race": "2026-11-02T18:18:27+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Everything we learned from F1's 2026 Mexican Grand Prix"
-   },
-   "last": "2026-11-02T18:24:16.605551+00:00"
-  },
-  "S4125": {
-   "title": "Russell told to get 'nasty' after Lawson sabotage claim denied",
-   "first": "2026-11-02T18:24:16.605557+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-02T18:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell told to get 'nasty' as Liam Lawson sabotage claimed denied — International Media reacts"
-   },
-   "last": "2026-11-02T18:24:16.605563+00:00"
   },
   "S4126": {
    "title": "Michigan names Carr starting QB for foreseeable future",
@@ -15411,14 +15387,16 @@
    "title": "Profile of Rafael Camara ahead of Haas Sao Paulo debut",
    "first": "2026-11-04T16:31:18.604391+00:00",
    "sources": {
-    "RacingNews365": "2026-11-04T16:20:00+00:00"
+    "RacingNews365": "2026-11-04T16:20:00+00:00",
+    "RacingNews365 NL": "2026-11-04T18:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Who is Rafael Camara? The F1 rookie set for baptism of fire"
+    "RacingNews365": "Who is Rafael Camara? The F1 rookie set for baptism of fire",
+    "RacingNews365 NL": "Wie is Rafael Câmara? Alles over de verrassende Haas-debutant in Brazilië"
    },
-   "last": "2026-11-04T16:31:18.604398+00:00"
+   "last": "2026-11-04T18:32:04.940545+00:00"
   },
   "S4686": {
    "title": "Five drivers most likely to qualify fastest in Brazil (betting odds)",
@@ -15796,9 +15774,35 @@
     "Motorsport-Total": "Spontanes Saisonfinale in Imola? Zwei Wochen Vorlauf würden reichen - Motorsport-Total.com"
    },
    "last": "2026-11-04T18:21:51.795710+00:00"
+  },
+  "S4715": {
+   "title": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return",
+   "first": "2026-11-04T18:32:04.940520+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T17:53:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return"
+   },
+   "last": "2026-11-04T18:32:04.940538+00:00"
+  },
+  "S4716": {
+   "title": "Wolff says Antonelli would have been parked at Ferrari like Bearman",
+   "first": "2026-11-04T18:32:04.940548+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-04T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Wolff: “Antonelli in Ferrari sarebbe stato parcheggiato come Bearman”"
+   },
+   "last": "2026-11-04T18:32:04.940552+00:00"
   }
  },
- "story_seq": 4714,
+ "story_seq": 4716,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15917,17 +15921,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T18:21:48.309043+00:00",
+ "last_run": "2026-11-04T18:32:01.122166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T18:31:13.744430+00:00",
-   "title": "Hamilton, Meksika GP'de Ferrari ile ilk pole'unun ardından okuyuculara göre favori",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-01T19:11:15.477708+00:00",
    "title": "F1, Katar ve Abu Dhabi yarışlarını planlandığı gibi düzenlemeyi sürdürmek istiyor",
