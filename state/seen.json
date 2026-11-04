@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b8ad18e29219695f": "2026-10-21T07:27:21.976924+00:00",
-  "32eeca8136ae26eb": "2026-10-21T07:27:21.976924+00:00",
-  "e19aab7b33c6f331": "2026-10-21T07:27:21.976924+00:00",
-  "a06cb0987b117a9f": "2026-10-21T07:27:21.976924+00:00",
-  "a14a62c023fff97e": "2026-10-21T07:27:21.976924+00:00",
-  "dd6600444e5a25f8": "2026-10-21T07:27:21.976924+00:00",
-  "6e6b094650c6c394": "2026-10-21T07:27:21.976924+00:00",
   "a2c0eff4347f4923": "2026-10-21T08:12:29.400512+00:00",
   "ef6386e81c9e2d94": "2026-10-21T08:12:29.400512+00:00",
   "4226825b4a995f1b": "2026-10-21T08:12:29.400512+00:00",
@@ -7477,7 +7470,9 @@
   "1ff9a3c710913fe5": "2026-11-04T07:20:44.457073+00:00",
   "1e1cfc5c3b068e52": "2026-11-04T07:20:44.457073+00:00",
   "28aa494b799e27dd": "2026-11-04T07:20:44.457073+00:00",
-  "15a9638c791ae11c": "2026-11-04T07:20:44.457073+00:00"
+  "15a9638c791ae11c": "2026-11-04T07:20:44.457073+00:00",
+  "27c4c805e13e3d27": "2026-11-04T07:30:52.410554+00:00",
+  "62a4f9ef02a7e8f9": "2026-11-04T07:30:52.410554+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7957,32 +7952,6 @@
     "RacingNews365": "Max Verstappen questions 'very strange' Charles Leclerc punishment"
    },
    "last": "2026-11-02T09:34:09.156312+00:00"
-  },
-  "S3948": {
-   "title": "Gotham wins first NWSL Shield (not F1)",
-   "first": "2026-11-02T07:27:34.931547+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T07:18:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Resilient Gotham wins first NWSL Shield: 'That should be our standard'"
-   },
-   "last": "2026-11-02T07:27:34.931566+00:00"
-  },
-  "S3949": {
-   "title": "Leclerc says he would have passed Hamilton without Verstappen",
-   "first": "2026-11-02T07:27:34.931572+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-02T07:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Leclerc wijst naar Verstappen: \"Dan had ik Hamilton voorbij gelaten\""
-   },
-   "last": "2026-11-02T07:27:34.931578+00:00"
   },
   "S3950": {
    "title": "Antonelli to forgo number 1 as 2027 world champion",
@@ -15457,14 +15426,14 @@
    "title": "Luka Doncic's second technical foul of season rescinded by NBA",
    "first": "2026-11-04T02:20:11.964148+00:00",
    "sources": {
-    "ESPN F1": "2026-11-04T02:08:55+00:00"
+    "ESPN F1": "2026-11-04T02:02:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Lakers' Luka Doncic has 2nd tech of season rescinded by NBA"
    },
-   "last": "2026-11-04T02:20:11.964166+00:00"
+   "last": "2026-11-04T07:30:54.265468+00:00"
   },
   "S4512": {
    "title": "Panthers defenders confident after defensive coordinator switch-up",
@@ -15885,9 +15854,22 @@
     "PlanetF1": "FIA makes key Interlagos decision ahead of Brazilian Grand Prix"
    },
    "last": "2026-11-04T07:20:48.562911+00:00"
+  },
+  "S4544": {
+   "title": "AFL Swans star Tom Papley tests positive at roadside stop",
+   "first": "2026-11-04T07:30:54.265438+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T07:29:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AFL: Swans star Tom Papley tests positive to illicit substance at roadside police stop"
+   },
+   "last": "2026-11-04T07:30:54.265458+00:00"
   }
  },
- "story_seq": 4543,
+ "story_seq": 4544,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16006,7 +15988,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T07:20:44.457073+00:00",
+ "last_run": "2026-11-04T07:30:52.410554+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
