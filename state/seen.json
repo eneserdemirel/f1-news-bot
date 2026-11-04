@@ -7431,7 +7431,11 @@
   "b7df85b31a86493c": "2026-11-04T01:10:09.959365+00:00",
   "31efe75178ef70d9": "2026-11-04T01:10:09.959365+00:00",
   "592ab349cc31661f": "2026-11-04T01:10:09.959365+00:00",
-  "a28fb030f7ff2753": "2026-11-04T01:10:09.959365+00:00"
+  "a28fb030f7ff2753": "2026-11-04T01:10:09.959365+00:00",
+  "d6738737decd1b92": "2026-11-04T01:20:11.286243+00:00",
+  "412854d2804489ce": "2026-11-04T01:20:11.286243+00:00",
+  "796576786570a516": "2026-11-04T01:20:11.286243+00:00",
+  "705556f606ab8f06": "2026-11-04T01:20:11.286243+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7952,32 +7956,6 @@
    },
    "last": "2026-11-02T02:12:04.748408+00:00"
   },
-  "S3871": {
-   "title": "Mikhail Sergachev scores on the power play",
-   "first": "2026-11-02T01:12:00.385231+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T00:08:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mikhail Sergachev notches goal on the power play"
-   },
-   "last": "2026-11-02T01:12:00.385250+00:00"
-  },
-  "S3872": {
-   "title": "FIA post-race press conference transcript from Mexico City GP",
-   "first": "2026-11-02T01:17:04.621920+00:00",
-   "sources": {
-    "FIA": "2026-11-02T00:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FIA": "F1 - 2026 Mexico City Grand Prix Post-Race & World Champion's Press Conference Transcript"
-   },
-   "last": "2026-11-02T01:17:04.621939+00:00"
-  },
   "S3873": {
    "title": "Cardinals' LaFleur noncommittal on QB after Minshew replaces Brissett",
    "first": "2026-11-02T01:17:04.621945+00:00",
@@ -7990,32 +7968,6 @@
     "ESPN F1": "Cardinals' LaFleur noncommittal on QB after Minshew replaces Brissett in win"
    },
    "last": "2026-11-02T01:27:04.196720+00:00"
-  },
-  "S3874": {
-   "title": "NFL Week 8 winners and losers: Burrow, Higgins, Chase, Falcons",
-   "first": "2026-11-02T01:17:04.621955+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T23:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter"
-   },
-   "last": "2026-11-02T01:17:04.621960+00:00"
-  },
-  "S3875": {
-   "title": "Bengals 43-36 Titans NFL game recap",
-   "first": "2026-11-02T01:17:04.621964+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T22:12:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bengals 43-36 Titans (Nov 1, 2026) Game Recap"
-   },
-   "last": "2026-11-02T01:17:04.621969+00:00"
   },
   "S3876": {
    "title": "Nashville ties Miami single-season MLS points record",
@@ -15346,7 +15298,7 @@
    "titles": {
     "ESPN F1": "Andoni Iraola: Liverpool have to handle Fenerbahce atmosphere"
    },
-   "last": "2026-11-03T18:18:22.529733+00:00"
+   "last": "2026-11-04T01:20:13.554098+00:00"
   },
   "S4425": {
    "title": "Feature on how Antonelli reached the title",
@@ -15606,7 +15558,7 @@
    "titles": {
     "ESPN F1": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea"
    },
-   "last": "2026-11-03T22:19:30.314945+00:00"
+   "last": "2026-11-04T01:20:13.554103+00:00"
   },
   "S4445": {
    "title": "Trade rumours surround Jaguars receiver Brian Thomas Jr.",
@@ -16366,7 +16318,7 @@
    "titles": {
     "ESPN F1": "Raptors' Kawhi Leonard completes knee treatment, begins 'return to play process'"
    },
-   "last": "2026-11-04T00:30:11.649580+00:00"
+   "last": "2026-11-04T01:20:13.554092+00:00"
   },
   "S4501": {
    "title": "Golden Knights vs. Penguins live score listing",
@@ -16471,9 +16423,22 @@
     "ESPN F1": "Who's No. 1? CFP committee's first top 25 and bracket of 2026"
    },
    "last": "2026-11-04T01:10:12.528406+00:00"
+  },
+  "S4509": {
+   "title": "Glenn Maxwell cricket feature on highs and lows",
+   "first": "2026-11-04T01:20:13.554065+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T01:10:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Glenn Maxwell; superhuman one minute, human the next"
+   },
+   "last": "2026-11-04T01:20:13.554083+00:00"
   }
  },
- "story_seq": 4508,
+ "story_seq": 4509,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16592,22 +16557,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T01:10:09.959365+00:00",
+ "last_run": "2026-11-04T01:20:11.286243+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
  "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T01:13:47.929165+00:00",
-   "title": "Lawson, Meksika GP sıralama turlarından diskalifiye edildi",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-01T01:18:55.540223+00:00",
-   "title": "Meksika GP sıralama turları: kazananlar ve kaybedenler",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-01T01:54:28.476716+00:00",
    "title": "Meksika sıralama turunda Hadjar, aracın hızına inanamadı",
