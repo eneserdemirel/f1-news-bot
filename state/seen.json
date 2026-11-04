@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bb0d53105b7c68a4": "2026-10-21T19:55:24.078606+00:00",
   "279c718cd24f0dad": "2026-10-21T20:05:45.772768+00:00",
   "bb051c62f92f0d53": "2026-10-21T20:05:45.772768+00:00",
   "c0d383e6c5e9164c": "2026-10-21T20:05:45.772768+00:00",
@@ -7565,7 +7564,11 @@
   "e0dfffc31c495b05": "2026-11-04T19:41:47.932610+00:00",
   "67496b585d82e93b": "2026-11-04T19:51:53.034531+00:00",
   "9b01b275696d3b21": "2026-11-04T19:51:53.034531+00:00",
-  "e35d310c07aaeeff": "2026-11-04T19:51:53.034531+00:00"
+  "e35d310c07aaeeff": "2026-11-04T19:51:53.034531+00:00",
+  "3c7d2ef9229a206a": "2026-11-04T20:01:53.376089+00:00",
+  "76aacc55a94c894b": "2026-11-04T20:01:53.376089+00:00",
+  "102be19ae7acec2e": "2026-11-04T20:01:53.376089+00:00",
+  "ed5572e2ab475f34": "2026-11-04T20:01:53.376089+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7893,19 +7896,6 @@
    },
    "last": "2026-11-02T20:25:08.776316+00:00"
   },
-  "S4141": {
-   "title": "Michael Olise returns to Bayern squad for Atlético UCL clash",
-   "first": "2026-11-02T19:45:05.988698+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T16:57:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michael Olise to rejoin Bayern for UCL clash vs. Atlético Madrid"
-   },
-   "last": "2026-11-02T19:55:15.737831+00:00"
-  },
   "S4142": {
    "title": "Noni Madueke says Mac Allister tried to bait him into red card",
    "first": "2026-11-02T19:45:05.988705+00:00",
@@ -7918,32 +7908,6 @@
     "ESPN F1": "Noni Madueke: Alexis Mac Allister tried to 'bait me' into red card"
    },
    "last": "2026-11-03T08:26:21.895309+00:00"
-  },
-  "S4143": {
-   "title": "Lorient vs. Brest (Nov 2, 2026) team stats",
-   "first": "2026-11-02T19:55:15.737794+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T19:50:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lorient vs. Brest (Nov 2, 2026) Team Stats"
-   },
-   "last": "2026-11-02T19:55:15.737814+00:00"
-  },
-  "S4144": {
-   "title": "Chiefs' late collapse vs. Broncos opens AFC West race",
-   "first": "2026-11-02T19:55:15.737819+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T19:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race"
-   },
-   "last": "2026-11-02T19:55:15.737824+00:00"
   },
   "S4145": {
    "title": "Russell issues statement after title defeat to Antonelli",
@@ -15844,9 +15808,48 @@
     "ESPN F1": "Champions League live updates: Real Madrid, Liverpool in action in early matches"
    },
    "last": "2026-11-04T19:51:56.006457+00:00"
+  },
+  "S4735": {
+   "title": "AEK Athens vs Real Madrid match analysis",
+   "first": "2026-11-04T20:01:56.607495+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T19:57:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AEK Athens 2-3 Real Madrid (Nov 4, 2026) Game Analysis"
+   },
+   "last": "2026-11-04T20:01:56.607518+00:00"
+  },
+  "S4736": {
+   "title": "Athletics hire Cam Castro as new general manager",
+   "first": "2026-11-04T20:01:56.607523+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T18:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Athletics hire Brewers' Cam Castro as new general manager"
+   },
+   "last": "2026-11-04T20:01:56.607528+00:00"
+  },
+  "S4737": {
+   "title": "GPFans: Hamilton contract revelation resurfaces amid Ferrari Leclerc clash",
+   "first": "2026-11-04T20:01:56.607531+00:00",
+   "sources": {
+    "GPFans": "2026-11-04T19:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton contract revelation comes back to haunt Ferrari after Leclerc clash"
+   },
+   "last": "2026-11-04T20:01:56.607535+00:00"
   }
  },
- "story_seq": 4734,
+ "story_seq": 4737,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15965,7 +15968,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T19:51:53.034531+00:00",
+ "last_run": "2026-11-04T20:01:53.376089+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
@@ -17690,6 +17693,11 @@
    "t": "2026-11-04T19:21:59.131655+00:00",
    "title": "Antonelli, Mercedes'te dikkat çeken bir gelenek başlattı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-04T20:02:01.492852+00:00",
+   "title": "Hamilton-Leclerc çekişmesi Ferrari'yi zor durumda bırakıyor",
+   "source": "GPFans"
   }
  ]
 }
