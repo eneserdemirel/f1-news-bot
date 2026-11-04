@@ -7482,7 +7482,10 @@
   "306c1111eafbb47f": "2026-11-04T08:30:46.167971+00:00",
   "c8c56b76c1c0d4bb": "2026-11-04T08:30:46.167971+00:00",
   "6dbfab9ca49a7aa9": "2026-11-04T08:30:46.167971+00:00",
-  "b308be7e166f1afe": "2026-11-04T08:30:46.167971+00:00"
+  "b308be7e166f1afe": "2026-11-04T08:30:46.167971+00:00",
+  "2fe95b858adaa380": "2026-11-04T08:40:44.174397+00:00",
+  "5d3157a86e76d400": "2026-11-04T08:40:44.174397+00:00",
+  "9d67c4fe36ac43b5": "2026-11-04T08:40:44.174397+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7980,32 +7983,6 @@
     "GPblog": "F1 season could end in Las Vegas as 10 November Imola deadline emerges"
    },
    "last": "2026-11-02T09:34:09.156308+00:00"
-  },
-  "S3966": {
-   "title": "Haris Rauf joins Adelaide Strikers for BBL 2026-27",
-   "first": "2026-11-02T08:32:36.710982+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T08:20:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Haris Rauf joins Adelaide Strikers for BBL 2026-27"
-   },
-   "last": "2026-11-02T08:32:36.711001+00:00"
-  },
-  "S3967": {
-   "title": "Celtics vs. Rockets live score (NBA)",
-   "first": "2026-11-02T08:32:36.711007+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T06:58:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Celtics vs. Rockets (3 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-02T08:32:36.711013+00:00"
   },
   "S3968": {
    "title": "Antonelli's Pavarotti and grandfather emotional moment feature",
@@ -15825,9 +15802,35 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-04T08:30:50.629682+00:00"
+  },
+  "S4557": {
+   "title": "Temwa and Tabitha Chawinga stars in NWSL and Women's Champions League",
+   "first": "2026-11-04T08:40:46.788003+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T08:37:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Temwa Chawinga and Tabitha Chawinga lit up NWSL and UEFA Women's Champions League in October"
+   },
+   "last": "2026-11-04T08:40:46.788022+00:00"
+  },
+  "S4558": {
+   "title": "Verstappen publicly backs Red Bull boss Laurent Mekies",
+   "first": "2026-11-04T08:40:46.788029+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-04T08:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen spreekt duidelijke steun uit voor Mekies"
+   },
+   "last": "2026-11-04T08:40:46.788034+00:00"
   }
  },
- "story_seq": 4556,
+ "story_seq": 4558,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15946,7 +15949,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T08:30:46.167971+00:00",
+ "last_run": "2026-11-04T08:40:44.174397+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
@@ -17641,6 +17644,11 @@
    "t": "2026-11-04T08:30:55.349920+00:00",
    "title": "Antonelli, Russell'ın şanssızlığını kabul etti",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-04T08:40:52.813037+00:00",
+   "title": "Verstappen, Mekies'e açık destek verdi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
