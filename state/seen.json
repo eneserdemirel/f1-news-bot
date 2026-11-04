@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "35ff0324cbe57923": "2026-10-21T15:14:44.067208+00:00",
-  "08b3b5e67f265dc8": "2026-10-21T15:14:44.067208+00:00",
-  "ebce10458ae6e606": "2026-10-21T15:14:44.067208+00:00",
-  "f50482066e4d7a85": "2026-10-21T15:15:48.451402+00:00",
-  "25b398b5bee0e807": "2026-10-21T15:15:48.451402+00:00",
   "19e8900f6a79fb5e": "2026-10-21T15:25:27.651500+00:00",
   "bf6b7dfd0c3da6fc": "2026-10-21T15:25:27.651500+00:00",
   "82a8e392d7f83500": "2026-10-21T15:25:27.651500+00:00",
@@ -7492,7 +7487,14 @@
   "887b9744ac80b26d": "2026-11-04T15:11:14.413710+00:00",
   "10e47bfc6cbc12f1": "2026-11-04T15:11:14.413710+00:00",
   "d5ef1a96fa2a7cf3": "2026-11-04T15:11:14.413710+00:00",
-  "2cf41343f42e51e7": "2026-11-04T15:11:14.413710+00:00"
+  "2cf41343f42e51e7": "2026-11-04T15:11:14.413710+00:00",
+  "32b19429b35a361b": "2026-11-04T15:21:17.061500+00:00",
+  "19886d923d744de6": "2026-11-04T15:21:17.061500+00:00",
+  "17c811f3091a93e8": "2026-11-04T15:21:17.061500+00:00",
+  "b8ccd9e04d0e5734": "2026-11-04T15:21:17.061500+00:00",
+  "96151f3e6247af81": "2026-11-04T15:21:17.061500+00:00",
+  "2cece2b4aa007f33": "2026-11-04T15:21:17.061500+00:00",
+  "fe79039c1f1cfe55": "2026-11-04T15:21:17.061500+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7735,86 +7737,6 @@
    },
    "last": "2026-11-02T17:24:11.715240+00:00"
   },
-  "S4015": {
-   "title": "Komatsu takes responsibility for dropping Ocon from Mexico weekend",
-   "first": "2026-11-02T10:53:22.424732+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T10:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Komatsu takes full responsibility for dropping Ocon: 'Gene let me decide'"
-   },
-   "last": "2026-11-02T15:14:41.160838+00:00"
-  },
-  "S4023": {
-   "title": "Newey inspects Ferrari SF-26 at Mexico Grand Prix",
-   "first": "2026-11-02T11:33:19.677639+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-02T11:25:29+00:00",
-    "GPblog": "2026-11-02T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Adrian Newey holds new Ferrari SF-26 inspection at Mexican Grand Prix",
-    "GPblog": "Newey spotted studying Leclerc's Ferrari on Mexico grid as both Aston Martins retire"
-   },
-   "last": "2026-11-02T15:14:41.160805+00:00"
-  },
-  "S4024": {
-   "title": "Verstappen calls for post-Mexico discussion over driver behaviour",
-   "first": "2026-11-02T11:33:19.677649+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T11:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen calls for a discussion after Mexico: ‘Needs to behave better’"
-   },
-   "last": "2026-11-02T15:14:41.160833+00:00"
-  },
-  "S4027": {
-   "title": "Verstappen and Antonelli hype upcoming F1 clash in Dutch preview",
-   "first": "2026-11-02T11:43:18.157980+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-02T11:35:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen en Antonelli warmen publiek op voor pikante F1-kraker"
-   },
-   "last": "2026-11-02T15:14:41.160791+00:00"
-  },
-  "S4039": {
-   "title": "Analysis of Russell's disappointing season and next steps",
-   "first": "2026-11-02T12:23:20.671745+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Russell skips Antonelli celebrations after season of disappointment. What next for the Mercedes driver."
-   },
-   "last": "2026-11-02T15:14:41.160828+00:00"
-  },
-  "S4045": {
-   "title": "F1 reportedly asks teams to stay quiet on Qatar and Abu Dhabi",
-   "first": "2026-11-02T12:43:21.770392+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T12:39:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "F1 reportedly teams to stay quiet on Qatar as Verstappen and Sainz stand alone"
-   },
-   "last": "2026-11-02T15:14:41.160822+00:00"
-  },
   "S4046": {
    "title": "Sunderland confidence in Le Bris despite poor run",
    "first": "2026-11-02T12:53:26.326372+00:00",
@@ -7873,34 +7795,6 @@
    },
    "last": "2026-11-02T18:44:10.351378+00:00"
   },
-  "S4070": {
-   "title": "Qatar MotoGP broadcast from home studios as networks stay away",
-   "first": "2026-11-02T14:23:21.805288+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T14:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Qatar MotoGP to be broadcast largely from home studios as TV networks stay away from Lusail"
-   },
-   "last": "2026-11-02T15:14:41.160811+00:00"
-  },
-  "S4076": {
-   "title": "Antonelli title dominates Italian newspaper front pages",
-   "first": "2026-11-02T14:44:18.867670+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-02T14:20:00+00:00",
-    "AS": "2026-11-02T15:12:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli spopola su tutte le prime pagine dei principali quotidiani nazionali sportivi e non – FOTO",
-    "AS": "Antonelli la rompe en Italia"
-   },
-   "last": "2026-11-02T15:14:41.160867+00:00"
-  },
   "S4080": {
    "title": "Hamilton and Leclerc 'heads banging' needed, RacingNews365 podcast",
    "first": "2026-11-02T15:04:13.791019+00:00",
@@ -7913,32 +7807,6 @@
     "RacingNews365": "Hamilton and Leclerc ‘heads banging’ needed as Antonelli era begins"
    },
    "last": "2026-11-02T15:24:14.235859+00:00"
-  },
-  "S4083": {
-   "title": "Fiorello praises Antonelli and calls for Italian GP on Rai",
-   "first": "2026-11-02T15:14:41.160847+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-02T15:13:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Fiorello incensa Kimi Antonelli, poi una telefonata: \"Un GP sulla Rai…\""
-   },
-   "last": "2026-11-02T15:14:41.160853+00:00"
-  },
-  "S4084": {
-   "title": "Montezemolo backs Antonelli for future Ferrari, jabs Leclerc",
-   "first": "2026-11-02T15:14:41.160857+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-02T15:10:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Montezemolo 'spinge' Antonelli: \"Tra qualche anno in Ferrari...\". Poi la stoccata a Leclerc: \"Speravo in Hamilton vincitore\""
-   },
-   "last": "2026-11-02T15:14:41.160862+00:00"
   },
   "S4085": {
    "title": "NHL Hometown Remix jerseys for 2026-27 season",
@@ -14324,15 +14192,17 @@
    "first": "2026-11-04T09:10:46.910792+00:00",
    "sources": {
     "Motorsport Week": "2026-11-04T09:00:00+00:00",
-    "Autosport": "2026-11-04T14:34:40+00:00"
+    "Autosport": "2026-11-04T14:34:40+00:00",
+    "Auto Motor und Sport": "2026-11-04T15:07:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport Week": "Cadillac F1 team owner reportedly considering $3 billion sale in shock decision",
-    "Autosport": "Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty"
+    "Autosport": "Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty",
+    "Auto Motor und Sport": "Formel 1: Drei Milliarden für US-Rennstall: Wird das Cadillac-Team verkauft?"
    },
-   "last": "2026-11-04T14:41:37.494185+00:00"
+   "last": "2026-11-04T15:21:22.147773+00:00"
   },
   "S4563": {
    "title": "Antum Naqvi cleared for Zimbabwe debut",
@@ -14416,7 +14286,7 @@
     "Motorsport-Total": "2026-11-04T13:12:58+00:00",
     "Corriere dello Sport": "2026-11-04T14:01:29+00:00",
     "PlanetF1": "2026-11-04T14:29:49+00:00",
-    "ESPN F1": "2026-11-04T14:59:08+00:00"
+    "ESPN F1": "2026-11-04T14:52:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14436,7 +14306,7 @@
     "PlanetF1": "Charles Leclerc announces birth of first child ahead of São Paulo GP",
     "ESPN F1": "Charles Leclerc to miss Brazilian Grand Prix media duty due to birth of baby"
    },
-   "last": "2026-11-04T15:11:22.506060+00:00"
+   "last": "2026-11-04T15:21:22.147741+00:00"
   },
   "S4569": {
    "title": "Bottas reacts after big crash at Mexico City GP",
@@ -15382,7 +15252,7 @@
    "titles": {
     "ESPN F1": "Vadodara and Mumbai to host WPL 2027"
    },
-   "last": "2026-11-04T14:41:37.494150+00:00"
+   "last": "2026-11-04T15:21:22.147746+00:00"
   },
   "S4641": {
    "title": "Neuvillette-Jamin fixture calendar",
@@ -15642,7 +15512,7 @@
    "titles": {
     "ESPN F1": "Wide receiver Brandon Aiyuk has turned in paperwork to be..."
    },
-   "last": "2026-11-04T14:51:23.538561+00:00"
+   "last": "2026-11-04T15:21:22.147733+00:00"
   },
   "S4661": {
    "title": "Jonah Coleman primed as Broncos primary back (NFL)",
@@ -15734,9 +15604,48 @@
     "Motorsport Week": "Is Mexico au revoir and goodbye for Esteban Ocon in F1?"
    },
    "last": "2026-11-04T15:11:22.506103+00:00"
+  },
+  "S4668": {
+   "title": "Zverev loses first match as No. 1 to Musetti in Paris",
+   "first": "2026-11-04T15:21:22.147701+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T15:12:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Alexander Zverev loses first match as No. 1, falls in Paris to Lorenzo Musetti"
+   },
+   "last": "2026-11-04T15:21:22.147722+00:00"
+  },
+  "S4669": {
+   "title": "Alexa Rendell joins Sky Sports F1 as multimedia journalist",
+   "first": "2026-11-04T15:21:22.147752+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-04T15:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Alexa Rendell joins Sky Sports F1 team ahead of Sao Paulo GP"
+   },
+   "last": "2026-11-04T15:21:22.147758+00:00"
+  },
+  "S4670": {
+   "title": "Historical feature on Ford's failed Jaguar F1 project",
+   "first": "2026-11-04T15:21:22.147763+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-04T15:12:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Die Jaguar-Story: Wie Ford mit großen Ambitionen in der Formel 1 scheiterte - Motorsport-Total.com"
+   },
+   "last": "2026-11-04T15:21:22.147768+00:00"
   }
  },
- "story_seq": 4667,
+ "story_seq": 4670,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15855,17 +15764,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T15:11:14.413710+00:00",
+ "last_run": "2026-11-04T15:21:17.061500+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T15:15:47.552164+00:00",
-   "title": "Arvid Lindblad, Meksika GP sıralamasından memnun değil",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-01T15:30:42.218142+00:00",
    "title": "Pérez'in Cadillac'taki geleceği ve 300. Grand Prix'si",
@@ -17570,6 +17474,16 @@
    "t": "2026-11-04T15:01:27.967257+00:00",
    "title": "Antonelli'nin Meksika'daki yarış sırasında emeklilik eşiğine geldiği ortaya çıktı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-04T15:21:25.282992+00:00",
+   "title": "Jaguar hikayesi: Ford'un Formula 1'deki büyük hayalleri nasıl suya düştü",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-04T15:21:25.663884+00:00",
+   "title": "Alexa Rendell, Sky Sports F1 ekibine katıldı",
+   "source": "Sky Sports F1"
   }
  ]
 }
