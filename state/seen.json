@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9727b33e5b97b576": "2026-10-21T14:45:03.532408+00:00",
-  "6ef0ae1f9f55ea68": "2026-10-21T14:45:03.532408+00:00",
-  "32bdf193e3bffaba": "2026-10-21T14:45:03.532408+00:00",
   "ad53a8df1c7147f8": "2026-10-21T14:54:44.135086+00:00",
   "9ab39fbfc133ddb0": "2026-10-21T14:54:44.135086+00:00",
   "9dd6e53a0166bf47": "2026-10-21T15:04:46.913440+00:00",
@@ -7484,7 +7481,13 @@
   "0c2ea30794a6f4cc": "2026-11-04T14:41:34.126411+00:00",
   "45c1cd3c98bf7321": "2026-11-04T14:41:34.126411+00:00",
   "eaadb086fed944b6": "2026-11-04T14:41:34.126411+00:00",
-  "ae5bfa7a2bb2d58e": "2026-11-04T14:41:34.126411+00:00"
+  "ae5bfa7a2bb2d58e": "2026-11-04T14:41:34.126411+00:00",
+  "1531978d61c5e431": "2026-11-04T14:51:15.728327+00:00",
+  "e53552667155a981": "2026-11-04T14:51:15.728327+00:00",
+  "8f5bce8f566018f3": "2026-11-04T14:51:15.728327+00:00",
+  "f2be3e1bd0dc4235": "2026-11-04T14:51:15.728327+00:00",
+  "cb9b6c8d6fa1cf64": "2026-11-04T14:51:15.728327+00:00",
+  "c8bc06d2a589e296": "2026-11-04T14:51:15.728327+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7896,19 +7899,6 @@
     "GPblog": "Qatar MotoGP to be broadcast largely from home studios as TV networks stay away from Lusail"
    },
    "last": "2026-11-02T15:14:41.160811+00:00"
-  },
-  "S4075": {
-   "title": "FormulaPassion Mexico GP ratings: promoted and demoted drivers",
-   "first": "2026-11-02T14:44:18.867646+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-02T14:32:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Messico 2026, l’altro podio"
-   },
-   "last": "2026-11-02T14:44:18.867664+00:00"
   },
   "S4076": {
    "title": "Antonelli title dominates Italian newspaper front pages",
@@ -11739,7 +11729,7 @@
     "RacingNews365": "How Mercedes can win 2026 F1 constructors' title in Sao Paulo Grand Prix",
     "Motorsport-Total": "So wird Mercedes beim Formel-1-Rennen in Brasilien Weltmeister - Motorsport-Total.com"
    },
-   "last": "2026-11-04T14:11:22.432592+00:00"
+   "last": "2026-11-04T14:51:23.538605+00:00"
   },
   "S4363": {
    "title": "Antonelli's alternative career path without F1",
@@ -14088,14 +14078,16 @@
    "title": "Retrospective on Verstappen and Hamilton's 2021 Brazil fight",
    "first": "2026-11-04T07:10:53.068856+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-04T07:00:00+00:00"
+    "RacingNews365 NL": "2026-11-04T07:00:00+00:00",
+    "RacingNews365": "2026-11-04T14:40:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Inspector Verstappen ontketent Mercedes-rel van 50.000 in Brazilië - terugblik"
+    "RacingNews365 NL": "Inspector Verstappen ontketent Mercedes-rel van 50.000 in Brazilië - terugblik",
+    "RacingNews365": "Astonishing Lewis Hamilton comeback triggers Max Verstappen title worry"
    },
-   "last": "2026-11-04T07:10:53.068862+00:00"
+   "last": "2026-11-04T14:51:23.538589+00:00"
   },
   "S4539": {
    "title": "Montezemolo hopes Antonelli matches Schumacher and Hamilton",
@@ -15713,9 +15705,61 @@
     "ESPN F1": "West Ham appoint Scott Parker to replace Nuno Espírito Santo"
    },
    "last": "2026-11-04T14:41:37.494178+00:00"
+  },
+  "S4660": {
+   "title": "Brandon Aiyuk turns in paperwork (NFL)",
+   "first": "2026-11-04T14:51:23.538540+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T14:17:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wide receiver Brandon Aiyuk has turned in paperwork to be..."
+   },
+   "last": "2026-11-04T14:51:23.538561+00:00"
+  },
+  "S4661": {
+   "title": "Jonah Coleman primed as Broncos primary back (NFL)",
+   "first": "2026-11-04T14:51:23.538568+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Broncos rookie Jonah Coleman is primed to be Denver's primary running back"
+   },
+   "last": "2026-11-04T14:51:23.538574+00:00"
+  },
+  "S4662": {
+   "title": "Stella defends Fornaroli, says he needs more running in Brazil",
+   "first": "2026-11-04T14:51:23.538578+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-04T14:40:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | McLaren, Stella difende Fornaroli: “In Brasile avrà più spazio per cercare la prestazione”"
+   },
+   "last": "2026-11-04T14:51:23.538584+00:00"
+  },
+  "S4663": {
+   "title": "Ralf Schumacher on Verstappen's underrated key quality versus Russell",
+   "first": "2026-11-04T14:51:23.538593+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-04T14:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Schumacher ziet cruciaal verschil tussen Verstappen en Russell"
+   },
+   "last": "2026-11-04T14:51:23.538598+00:00"
   }
  },
- "story_seq": 4659,
+ "story_seq": 4663,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15834,7 +15878,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T14:41:34.126411+00:00",
+ "last_run": "2026-11-04T14:51:15.728327+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
@@ -17539,6 +17583,21 @@
    "t": "2026-11-04T14:41:41.804780+00:00",
    "title": "Liverpool FC sahipleri Cadillac F1 hisseleri için potansiyel alıcı olarak öne çıktı",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-04T14:51:31.437830+00:00",
+   "title": "Hamilton, Sao Paulo'da 10. dereceden kazanarak Verstappen'in şampiyonluk avantajını daralttı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-04T14:51:31.842320+00:00",
+   "title": "Schumacher, Verstappen ve Russell arasındaki kritik farkı görüyor",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-04T14:51:32.219934+00:00",
+   "title": "McLaren, Stella Fornaroli'yi savundu: “Brezilya'da performans için daha fazla alan olacak”",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
