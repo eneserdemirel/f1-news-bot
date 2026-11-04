@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c17244148b1e0eb5": "2026-10-21T16:35:28.795962+00:00",
-  "c3be4f86b4433f9d": "2026-10-21T16:35:28.795962+00:00",
-  "8b2608066f9efb0f": "2026-10-21T16:35:28.795962+00:00",
   "46fb99fddfbc5ee9": "2026-10-21T16:45:26.103304+00:00",
   "2818286d81264129": "2026-10-21T16:45:26.103304+00:00",
   "dba8a3dc0f40e4c2": "2026-10-21T16:45:26.103304+00:00",
@@ -7504,7 +7501,14 @@
   "d1b68849cb4ab851": "2026-11-04T16:21:14.944963+00:00",
   "a0291f47b4cc7719": "2026-11-04T16:31:14.920166+00:00",
   "3becc46c8797e0a0": "2026-11-04T16:31:14.920166+00:00",
-  "16440b1c1dd7d072": "2026-11-04T16:31:14.920166+00:00"
+  "16440b1c1dd7d072": "2026-11-04T16:31:14.920166+00:00",
+  "db9ecce1f768e850": "2026-11-04T16:41:20.161433+00:00",
+  "7e49620b9db691a9": "2026-11-04T16:41:20.161433+00:00",
+  "3dfda9bdba8ea8e2": "2026-11-04T16:41:20.161433+00:00",
+  "57119970ac4e64e6": "2026-11-04T16:41:20.161433+00:00",
+  "cd1bbc0f288e2c26": "2026-11-04T16:41:20.161433+00:00",
+  "e0a647fcf943148d": "2026-11-04T16:41:20.161433+00:00",
+  "1a589fcb01f43902": "2026-11-04T16:41:20.161433+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7967,7 +7971,8 @@
     "Crash.net": "2026-11-03T17:00:00+00:00",
     "PlanetF1": "2026-11-03T16:50:33+00:00",
     "Formula 1": "2026-11-04T11:32:15.101376+00:00",
-    "Motorsport-Total": "2026-11-04T09:43:04+00:00"
+    "Motorsport-Total": "2026-11-04T09:43:04+00:00",
+    "GPblog": "2026-11-04T16:33:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -7979,9 +7984,10 @@
     "Crash.net": "Honda reveals cause of Aston Martin's reliability woes at Mexico Grand Prix",
     "PlanetF1": "Honda reveals reason for double Aston Martin retirement in Mexico",
     "Formula 1": "Why Aston Martin's Mexico City GP ended after five laps",
-    "Motorsport-Total": "Nur fünf Runden: Warum Aston Martin in Mexiko komplett ausgebremst wurde - Motorsport-Total.com"
+    "Motorsport-Total": "Nur fünf Runden: Warum Aston Martin in Mexiko komplett ausgebremst wurde - Motorsport-Total.com",
+    "GPblog": "Honda admits Mexico issue behind Alonso and Stroll's double DNF nightmare"
    },
-   "last": "2026-11-04T11:32:15.101564+00:00"
+   "last": "2026-11-04T16:41:24.536472+00:00"
   },
   "S4115": {
    "title": "Bono recalls first spotting Antonelli's raw talent",
@@ -15398,15 +15404,17 @@
    "first": "2026-11-04T15:21:22.147752+00:00",
    "sources": {
     "Sky Sports F1": "2026-11-04T15:15:00+00:00",
-    "PlanetF1": "2026-11-04T15:48:04+00:00"
+    "PlanetF1": "2026-11-04T15:48:04+00:00",
+    "Crash.net": "2026-11-04T16:40:35+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Alexa Rendell joins Sky Sports F1 team ahead of Sao Paulo GP",
-    "PlanetF1": "Sky F1 reveals new presenter in Brazilian Grand Prix announcement"
+    "PlanetF1": "Sky F1 reveals new presenter in Brazilian Grand Prix announcement",
+    "Crash.net": "Sky F1 announces new signing to make debut at Brazil GP"
    },
-   "last": "2026-11-04T15:51:18.657075+00:00"
+   "last": "2026-11-04T16:41:24.536478+00:00"
   },
   "S4670": {
    "title": "Historical feature on Ford's failed Jaguar F1 project",
@@ -15617,9 +15625,61 @@
     "RacingNews365": "Who is Rafael Camara? The F1 rookie set for baptism of fire"
    },
    "last": "2026-11-04T16:31:18.604398+00:00"
+  },
+  "S4686": {
+   "title": "Five drivers most likely to qualify fastest in Brazil (betting odds)",
+   "first": "2026-11-04T16:41:24.536413+00:00",
+   "sources": {
+    "Formula 1": "2026-11-04T16:41:24.536437+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The 5 drivers most likely to qualify fastest in Brazil"
+   },
+   "last": "2026-11-04T16:41:24.536442+00:00"
+  },
+  "S4687": {
+   "title": "Justin Herbert fantasy football outlook",
+   "first": "2026-11-04T16:41:24.536449+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T16:14:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Justin Herbert's fantasy outlook"
+   },
+   "last": "2026-11-04T16:41:24.536455+00:00"
+  },
+  "S4688": {
+   "title": "Kimi Antonelli's F1 records after 2026 title",
+   "first": "2026-11-04T16:41:24.536459+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-04T16:35:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Kimi Antonelli F1 records: Every record smashed by the 2026 World Champion"
+   },
+   "last": "2026-11-04T16:41:24.536465+00:00"
+  },
+  "S4689": {
+   "title": "Analysis of impossible overtakes in Mexico under power unit rules",
+   "first": "2026-11-04T16:41:24.536483+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-04T16:19:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Troppo veloci per superare: il paradosso dei sorpassi impossibili in Messico"
+   },
+   "last": "2026-11-04T16:41:24.536488+00:00"
   }
  },
- "story_seq": 4685,
+ "story_seq": 4689,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15738,22 +15798,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T16:31:14.920166+00:00",
+ "last_run": "2026-11-04T16:41:20.161433+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T16:35:45.323224+00:00",
-   "title": "Hamilton'dan Antonelli'ye şampiyonluk öncesi mesaj: 'Rekorlar kırılmak içindir'",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-01T16:35:45.756008+00:00",
-   "title": "Vasseur: Hamilton ve Leclerc profesyonel, birlikte yarışabilmeliler",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-01T16:55:42.776076+00:00",
    "title": "FIA Başkanı, F1 motor tartışmasında Verstappen'e katıldı",
@@ -17468,6 +17518,16 @@
    "t": "2026-11-04T16:21:28.484716+00:00",
    "title": "Hamilton, eski mühendisi Bonnington ile duygusal bir an paylaştı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-04T16:41:31.456779+00:00",
+   "title": "Meksika'da yüksek irtifa, F1 sollamalarını neredeyse imkansız hale getirdi",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-04T16:41:31.934470+00:00",
+   "title": "Kimi Antonelli'nin F1'de kırdığı tüm rekorlar",
+   "source": "PlanetF1"
   }
  ]
 }
