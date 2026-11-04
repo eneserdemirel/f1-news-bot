@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aadc805bd750c376": "2026-10-21T18:15:26.038912+00:00",
   "df87de7837f32947": "2026-10-21T18:25:32.555022+00:00",
   "112330528e17d0b4": "2026-10-21T18:35:24.694481+00:00",
   "b3257ca1492d90fc": "2026-10-21T18:45:43.742808+00:00",
@@ -7524,7 +7523,12 @@
   "80eaf49c65acb9b3": "2026-11-04T18:01:49.390597+00:00",
   "c7be5899bad744e2": "2026-11-04T18:11:49.949896+00:00",
   "150e11113dd7c76d": "2026-11-04T18:11:49.949896+00:00",
-  "0642177314d7402e": "2026-11-04T18:11:49.949896+00:00"
+  "0642177314d7402e": "2026-11-04T18:11:49.949896+00:00",
+  "f148ed4905ee6a27": "2026-11-04T18:21:48.309043+00:00",
+  "78281fb037a80846": "2026-11-04T18:21:48.309043+00:00",
+  "d54b2f1b4bf61a9d": "2026-11-04T18:21:48.309043+00:00",
+  "54aec772d9c43851": "2026-11-04T18:21:48.309043+00:00",
+  "4e370f20c3532c9f": "2026-11-04T18:21:48.309043+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7881,19 +7885,6 @@
     "GPblog": "Honda admits Mexico issue behind Alonso and Stroll's double DNF nightmare"
    },
    "last": "2026-11-04T16:41:24.536472+00:00"
-  },
-  "S4123": {
-   "title": "Saints fire run-game coordinator after Paris flop",
-   "first": "2026-11-02T18:14:13.820503+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T14:45:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Saints fire run-game coordinator after Paris flop"
-   },
-   "last": "2026-11-02T18:14:13.820522+00:00"
   },
   "S4124": {
    "title": "Recap of everything learned from 2026 Mexican GP",
@@ -14689,14 +14680,14 @@
    "title": "Rory McIlroy criticises LIV Golf's impact on professional golf",
    "first": "2026-11-04T13:11:16.561617+00:00",
    "sources": {
-    "ESPN F1": "2026-11-04T13:09:36+00:00"
+    "ESPN F1": "2026-11-04T12:58:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Rory McIlroy on LIV Golf: 'They turned professional golf into an arms race'"
    },
-   "last": "2026-11-04T13:11:16.561639+00:00"
+   "last": "2026-11-04T18:21:51.795700+00:00"
   },
   "S4631": {
    "title": "Brundle defends Russell over unauthorised missed post-Mexico media duties",
@@ -15233,15 +15224,17 @@
    "first": "2026-11-04T15:31:19.394988+00:00",
    "sources": {
     "Motorsport.com Italia": "2026-11-04T15:28:58+00:00",
-    "RacingNews365 NL": "2026-11-04T17:45:00+00:00"
+    "RacingNews365 NL": "2026-11-04T17:45:00+00:00",
+    "GPblog": "2026-11-04T18:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport.com Italia": "F1 | Oltre il numero 12: Kimi nella Lotus di Ayrton. Quando l'emulazione diventa ricerca della perfezione",
-    "RacingNews365 NL": "Antonelli brengt emotioneel bezoek aan familie Senna"
+    "RacingNews365 NL": "Antonelli brengt emotioneel bezoek aan familie Senna",
+    "GPblog": "Antonelli meets idol Senna's family after being crowned F1 champion"
    },
-   "last": "2026-11-04T17:51:18.909274+00:00"
+   "last": "2026-11-04T18:21:51.795704+00:00"
   },
   "S4672": {
    "title": "Verstappen says he is enthusiastic about returning to Brazil",
@@ -15764,9 +15757,48 @@
     "PlanetF1": "The Final Sector: Ocon out, Camara in and did Ferrari lose the race win in Mexico?"
    },
    "last": "2026-11-04T18:11:52.901831+00:00"
+  },
+  "S4712": {
+   "title": "Pakistan players unlikely to play Abu Dhabi T10",
+   "first": "2026-11-04T18:21:51.795666+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T18:12:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pakistan players unlikely to play Abu Dhabi T10"
+   },
+   "last": "2026-11-04T18:21:51.795685+00:00"
+  },
+  "S4713": {
+   "title": "Warriors owner Lacob happy with Lendeborg's early returns",
+   "first": "2026-11-04T18:21:51.795689+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T18:01:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Warriors owner Joe Lacob ecstatic with early Yaxel Lendeborg returns"
+   },
+   "last": "2026-11-04T18:21:51.795693+00:00"
+  },
+  "S4714": {
+   "title": "Possible spontaneous season finale at Imola discussed",
+   "first": "2026-11-04T18:21:51.795707+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-04T18:17:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Spontanes Saisonfinale in Imola? Zwei Wochen Vorlauf würden reichen - Motorsport-Total.com"
+   },
+   "last": "2026-11-04T18:21:51.795710+00:00"
   }
  },
- "story_seq": 4711,
+ "story_seq": 4714,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15885,22 +15917,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T18:11:49.949896+00:00",
+ "last_run": "2026-11-04T18:21:48.309043+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T18:16:18.593390+00:00",
-   "title": "Vowles, Albon'u savundu: Alonso'nun düşük seviye yorumuna katılmadı",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-11-01T18:16:18.942795+00:00",
-   "title": "Lawson, Meksika GP'de pit lane'den başlayacak",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-01T18:31:13.744430+00:00",
    "title": "Hamilton, Meksika GP'de Ferrari ile ilk pole'unun ardından okuyuculara göre favori",
@@ -17625,6 +17647,11 @@
    "t": "2026-11-04T18:11:58.821197+00:00",
    "title": "Perez, Cadillac'ın ikinci koltuğu tartışmasına yanıt verdi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-04T18:21:56.967201+00:00",
+   "title": "Imola'da sürpriz sezon finali mi? İki haftalık hazırlık yeterli olur",
+   "source": "Motorsport-Total"
   }
  ]
 }
