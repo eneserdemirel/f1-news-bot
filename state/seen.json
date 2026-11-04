@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9d773f8116715561": "2026-10-21T15:45:23.261064+00:00",
   "bd33ce620b9aedfb": "2026-10-21T15:55:23.552365+00:00",
   "1c410178f44d30b6": "2026-10-21T15:55:23.552365+00:00",
   "53b658b351997f2d": "2026-10-21T16:05:25.040372+00:00",
@@ -7492,7 +7491,12 @@
   "0e5692e12041c351": "2026-11-04T15:41:14.986886+00:00",
   "5f1fb920f525a8a8": "2026-11-04T15:41:14.986886+00:00",
   "f4bade0f917bb3c6": "2026-11-04T15:41:14.986886+00:00",
-  "41393e41207c3f3a": "2026-11-04T15:41:14.986886+00:00"
+  "41393e41207c3f3a": "2026-11-04T15:41:14.986886+00:00",
+  "0a67764b100977be": "2026-11-04T15:51:14.472126+00:00",
+  "f5c51ba20f206ef9": "2026-11-04T15:51:14.472126+00:00",
+  "4816d6298b7aebc4": "2026-11-04T15:51:14.472126+00:00",
+  "e221f68d3195ecb6": "2026-11-04T15:51:14.472126+00:00",
+  "1cf9f8a960cb4025": "2026-11-04T15:51:14.472126+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14087,16 +14091,18 @@
    "sources": {
     "Motorsport Week": "2026-11-04T09:00:00+00:00",
     "Autosport": "2026-11-04T14:34:40+00:00",
-    "Auto Motor und Sport": "2026-11-04T15:07:08+00:00"
+    "Auto Motor und Sport": "2026-11-04T15:07:08+00:00",
+    "Crash.net": "2026-11-04T15:42:23+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport Week": "Cadillac F1 team owner reportedly considering $3 billion sale in shock decision",
     "Autosport": "Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty",
-    "Auto Motor und Sport": "Formel 1: Drei Milliarden für US-Rennstall: Wird das Cadillac-Team verkauft?"
+    "Auto Motor und Sport": "Formel 1: Drei Milliarden für US-Rennstall: Wird das Cadillac-Team verkauft?",
+    "Crash.net": "Liverpool FC owners emerge as potential buyers of Cadillac F1 team stake"
    },
-   "last": "2026-11-04T15:21:22.147773+00:00"
+   "last": "2026-11-04T15:51:18.657080+00:00"
   },
   "S4563": {
    "title": "Antum Naqvi cleared for Zimbabwe debut",
@@ -15518,14 +15524,16 @@
    "title": "Alexa Rendell joins Sky Sports F1 as multimedia journalist",
    "first": "2026-11-04T15:21:22.147752+00:00",
    "sources": {
-    "Sky Sports F1": "2026-11-04T15:15:00+00:00"
+    "Sky Sports F1": "2026-11-04T15:15:00+00:00",
+    "PlanetF1": "2026-11-04T15:48:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Sky Sports F1": "Alexa Rendell joins Sky Sports F1 team ahead of Sao Paulo GP"
+    "Sky Sports F1": "Alexa Rendell joins Sky Sports F1 team ahead of Sao Paulo GP",
+    "PlanetF1": "Sky F1 reveals new presenter in Brazilian Grand Prix announcement"
    },
-   "last": "2026-11-04T15:21:22.147758+00:00"
+   "last": "2026-11-04T15:51:18.657075+00:00"
   },
   "S4670": {
    "title": "Historical feature on Ford's failed Jaguar F1 project",
@@ -15591,9 +15599,48 @@
     "Motorsport Week": "Isack Hadjar laments George Russell F1 Mexico GP clash: ‘This completely ruined my race.’"
    },
    "last": "2026-11-04T15:41:20.723902+00:00"
+  },
+  "S4675": {
+   "title": "Rennes vs Olympiacos team stats",
+   "first": "2026-11-04T15:51:18.657025+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T15:40:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rennes vs. Olympiacos (Nov 4, 2026) Team Stats"
+   },
+   "last": "2026-11-04T15:51:18.657046+00:00"
+  },
+  "S4676": {
+   "title": "Greg Dulcich Week 9 fantasy preview",
+   "first": "2026-11-04T15:51:18.657053+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T15:33:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Greg Dulcich's Week 9 fantasy preview"
+   },
+   "last": "2026-11-04T15:51:18.657059+00:00"
+  },
+  "S4677": {
+   "title": "Rangers 3-1 Blues NHL game recap",
+   "first": "2026-11-04T15:51:18.657063+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T10:08:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rangers 3-1 Blues (Nov 3, 2026) Game Recap"
+   },
+   "last": "2026-11-04T15:51:18.657068+00:00"
   }
  },
- "story_seq": 4674,
+ "story_seq": 4677,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15712,7 +15759,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T15:41:14.986886+00:00",
+ "last_run": "2026-11-04T15:51:14.472126+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
