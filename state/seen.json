@@ -7603,7 +7603,9 @@
   "5a7119fe36ac27ed": "2026-11-04T23:02:36.386084+00:00",
   "dc2b926e2b22beab": "2026-11-04T23:12:36.726902+00:00",
   "827f4055da0565cf": "2026-11-04T23:32:33.982115+00:00",
-  "e9a230fc049dc2eb": "2026-11-04T23:42:33.431920+00:00"
+  "e9a230fc049dc2eb": "2026-11-04T23:42:33.431920+00:00",
+  "925afa7123e950cc": "2026-11-04T23:52:33.756499+00:00",
+  "3db99e2de6d7855d": "2026-11-04T23:52:33.756499+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7772,19 +7774,6 @@
     "Motorsport-Total": "\"Verdammte Scheiße!\": Valtteri Bottas nach heftigem Abflug bedient - Motorsport-Total.com"
    },
    "last": "2026-11-03T07:26:23.021831+00:00"
-  },
-  "S4110": {
-   "title": "England Nations Championship squad announced (rugby)",
-   "first": "2026-11-02T17:14:12.252367+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T16:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "England announce Nations Championship squad for November"
-   },
-   "last": "2026-11-02T23:45:04.184653+00:00"
   },
   "S4111": {
    "title": "Red Bull strategy move helped Verstappen win Mexico",
@@ -15822,9 +15811,35 @@
     "ESPN F1": "Lens 1-9 Como (Nov 4, 2026) Player Stats"
    },
    "last": "2026-11-04T23:32:35.567417+00:00"
+  },
+  "S4777": {
+   "title": "Haaland urges Man City to step up after Leipzig winner",
+   "first": "2026-11-04T23:52:37.840773+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T23:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Erling Haaland tells Man City to 'step up' after netting winner in Leipzig"
+   },
+   "last": "2026-11-04T23:52:37.840790+00:00"
+  },
+  "S4778": {
+   "title": "Lens 1-9 Como team stats published",
+   "first": "2026-11-04T23:52:37.840797+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T20:03:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lens 1-9 Como (Nov 4, 2026) Team Stats"
+   },
+   "last": "2026-11-04T23:52:37.840802+00:00"
   }
  },
- "story_seq": 4776,
+ "story_seq": 4778,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15943,37 +15958,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-04T23:42:33.431920+00:00",
+ "last_run": "2026-11-04T23:52:33.756499+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T23:47:13.680530+00:00",
-   "title": "Antonelli 2026 Formula 1 dünya şampiyonu oldu",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-01T23:47:14.050341+00:00",
-   "title": "Hamilton-Leclerc gerilimi: Leclerc cezayı hak ettiğini kabul etti",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-01T23:47:14.393931+00:00",
-   "title": "Russell, Meksika GP'de medya yükümlülüklerini atladı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-01T23:47:14.719803+00:00",
-   "title": "Vasseur, Hamilton ve Leclerc'i 'saygısızlık' gerekçesiyle eleştirdi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-01T23:52:04.250319+00:00",
-   "title": "Verstappen, Meksika GP'sinde Gün'ün Pilotu seçildi",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-02T00:02:09.087751+00:00",
    "title": "Sainz: \"Kimi fırsatı eline geçirdi ve değerlendirdi\"",
