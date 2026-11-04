@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "da9df21fefa97fe2": "2026-10-21T16:15:26.986179+00:00",
   "b18d2f20769c2a76": "2026-10-21T16:25:23.408238+00:00",
   "42dbcbad8a67587b": "2026-10-21T16:25:23.408238+00:00",
   "01818c15614906e9": "2026-10-21T16:25:23.408238+00:00",
@@ -7500,7 +7499,12 @@
   "bc98157a9ab39a56": "2026-11-04T16:11:14.025142+00:00",
   "9e3495b0012e3380": "2026-11-04T16:11:14.025142+00:00",
   "f9d36e4d17dc8d9f": "2026-11-04T16:11:14.025142+00:00",
-  "111e237d547bea87": "2026-11-04T16:11:14.025142+00:00"
+  "111e237d547bea87": "2026-11-04T16:11:14.025142+00:00",
+  "f40f006b63b78b9d": "2026-11-04T16:21:14.944963+00:00",
+  "040679e7ef6f4a3b": "2026-11-04T16:21:14.944963+00:00",
+  "6d88ead3de116f87": "2026-11-04T16:21:14.944963+00:00",
+  "aeb3231b3cb6ca78": "2026-11-04T16:21:14.944963+00:00",
+  "d1b68849cb4ab851": "2026-11-04T16:21:14.944963+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7815,32 +7819,6 @@
     "Motorsport Week": "Motorsport Week’s 2026 F1 Mexico City GP Driver Ratings"
    },
    "last": "2026-11-03T07:26:23.021783+00:00"
-  },
-  "S4098": {
-   "title": "ESPN college football Week 9 bowl projections and playoff picture",
-   "first": "2026-11-02T16:14:10.756899+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T12:25:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026-27 Week 9 College Football Playoff, bowl projections"
-   },
-   "last": "2026-11-02T16:14:10.756917+00:00"
-  },
-  "S4099": {
-   "title": "Crash.net column on Ferrari's Hamilton-Leclerc feud risking open war",
-   "first": "2026-11-02T16:14:10.756923+00:00",
-   "sources": {
-    "Crash.net": "2026-11-02T16:08:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Spineless Ferrari risks open war amid Lewis Hamilton, Charles Leclerc feud"
-   },
-   "last": "2026-11-02T16:14:10.756929+00:00"
   },
   "S4100": {
    "title": "Ferrari leadership analysis after Mexico Leclerc-Hamilton clash",
@@ -14004,14 +13982,16 @@
    "title": "Vasseur hints Ferrari knew of 2026 engine deficit for years",
    "first": "2026-11-04T08:50:50.800061+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-04T08:15:06+00:00"
+    "FormulaPassion": "2026-11-04T08:15:06+00:00",
+    "Corriere dello Sport": "2026-11-04T16:05:47+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Ferrari, frase misteriosa di Vasseur: “Sapevamo da anni di essere in ritardo sul motore 2026”"
+    "FormulaPassion": "Ferrari, frase misteriosa di Vasseur: “Sapevamo da anni di essere in ritardo sul motore 2026”",
+    "Corriere dello Sport": "Vasseur non si nasconde: \"Sapevamo da anni che la Ferrari è in ritardo...\""
    },
-   "last": "2026-11-04T08:50:50.800067+00:00"
+   "last": "2026-11-04T16:21:21.876247+00:00"
   },
   "S4561": {
    "title": "Lawson recovers in Mexico as Tsolov pushes for Racing Bulls seat",
@@ -15521,14 +15501,16 @@
    "title": "Analysis of whether Mercedes W17 car drove Antonelli's title",
    "first": "2026-11-04T15:41:20.723878+00:00",
    "sources": {
-    "RacingNews365": "2026-11-04T15:30:00+00:00"
+    "RacingNews365": "2026-11-04T15:30:00+00:00",
+    "RacingNews365 NL": "2026-11-04T16:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Why Mercedes' W17 was the perfect weapon for historic Kimi Antonelli F1 title triumph"
+    "RacingNews365": "Why Mercedes' W17 was the perfect weapon for historic Kimi Antonelli F1 title triumph",
+    "RacingNews365 NL": "Mercedes W17: het technische geheim achter de wereldtitel van Kimi Antonelli"
    },
-   "last": "2026-11-04T15:41:20.723885+00:00"
+   "last": "2026-11-04T16:21:21.876231+00:00"
   },
   "S4674": {
    "title": "Hadjar says Russell clash completely ruined his Mexico race",
@@ -15620,9 +15602,48 @@
     "ESPN F1": "Cherif Millogo, 7-foot-5 center and No. 8 recruit in 2027, commits to Kentucky"
    },
    "last": "2026-11-04T16:11:20.005581+00:00"
+  },
+  "S4681": {
+   "title": "Pulisic, Balogun, McKennie return to USMNT squad for Haiti",
+   "first": "2026-11-04T16:21:21.876199+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T15:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pulisic, Balogun, McKennie return to USMNT for Nations League QF vs. Haiti"
+   },
+   "last": "2026-11-04T16:21:21.876221+00:00"
+  },
+  "S4682": {
+   "title": "Hamilton shares emotional moment with former engineer Bonnington",
+   "first": "2026-11-04T16:21:21.876236+00:00",
+   "sources": {
+    "Crash.net": "2026-11-04T16:17:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton shares emotional moment with former F1 race engineer Peter Bonnington"
+   },
+   "last": "2026-11-04T16:21:21.876241+00:00"
+  },
+  "S4683": {
+   "title": "Leclerc surprised Mexico penalty was only five seconds",
+   "first": "2026-11-04T16:21:21.876252+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-04T16:17:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Leclerc-Strafe in Mexiko: \"Überrascht, dass es nur fünf Sekunden waren\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-04T16:21:21.876256+00:00"
   }
  },
- "story_seq": 4680,
+ "story_seq": 4683,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15741,7 +15762,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T16:11:14.025142+00:00",
+ "last_run": "2026-11-04T16:21:14.944963+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
@@ -17461,6 +17482,21 @@
    "t": "2026-11-04T16:11:24.781266+00:00",
    "title": "Colton Herta, Sao Paulo GP'de Sergio Perez'in yerine FP1'de yarışacak",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-04T16:21:27.597116+00:00",
+   "title": "Vasseur: Ferrari'nin motorda yıllardır geride olduğunu biliyorduk",
+   "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-11-04T16:21:27.979904+00:00",
+   "title": "Leclerc'e Meksika'da ceza: \"Sadece beş saniye olması beni şaşırttı\"",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-04T16:21:28.484716+00:00",
+   "title": "Hamilton, eski mühendisi Bonnington ile duygusal bir an paylaştı",
+   "source": "Crash.net"
   }
  ]
 }
