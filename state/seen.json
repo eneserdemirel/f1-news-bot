@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ad53a8df1c7147f8": "2026-10-21T14:54:44.135086+00:00",
-  "9ab39fbfc133ddb0": "2026-10-21T14:54:44.135086+00:00",
   "9dd6e53a0166bf47": "2026-10-21T15:04:46.913440+00:00",
   "1f7aff1d4f5c4401": "2026-10-21T15:04:46.913440+00:00",
   "1d2d992b9c4e4f0b": "2026-10-21T15:04:46.913440+00:00",
@@ -7487,7 +7485,10 @@
   "8f5bce8f566018f3": "2026-11-04T14:51:15.728327+00:00",
   "f2be3e1bd0dc4235": "2026-11-04T14:51:15.728327+00:00",
   "cb9b6c8d6fa1cf64": "2026-11-04T14:51:15.728327+00:00",
-  "c8bc06d2a589e296": "2026-11-04T14:51:15.728327+00:00"
+  "c8bc06d2a589e296": "2026-11-04T14:51:15.728327+00:00",
+  "cdacbc0ce3ceef02": "2026-11-04T15:01:21.348602+00:00",
+  "88be1736157a4cf9": "2026-11-04T15:01:21.348602+00:00",
+  "4a64147c5bd98215": "2026-11-04T15:01:21.348602+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7509,25 +7510,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S3828": {
-   "title": "Vettel video message congratulates Antonelli as youngest champion",
-   "first": "2026-11-01T23:17:05.422009+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-01T23:10:29+00:00",
-    "Motorsport-Total": "2026-11-02T06:34:30+00:00",
-    "RacingNews365": "2026-11-02T07:10:00+00:00",
-    "Crash.net": "2026-11-02T14:50:49+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Vettel incorona Antonelli e gli dedica un video-lettera: ora è lui il più giovane campione di sempre",
-    "Motorsport-Total": "\"Genieße es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli - Motorsport-Total.com",
-    "RacingNews365": "Sebastian Vettel offers advice to Kimi Antonelli after seeing F1 record taken",
-    "Crash.net": "Sebastian Vettel’s heartfelt message to Kimi Antonelli after F1 record shattered"
-   },
-   "last": "2026-11-02T14:54:15.743892+00:00"
-  },
   "S3840": {
    "title": "Vasseur criticises Hamilton and Leclerc for lack of respect",
    "first": "2026-11-01T23:47:05.802743+00:00",
@@ -7914,45 +7896,6 @@
     "AS": "Antonelli la rompe en Italia"
    },
    "last": "2026-11-02T15:14:41.160867+00:00"
-  },
-  "S4077": {
-   "title": "Carrick has no concerns over Lisandro Martínez commitment",
-   "first": "2026-11-02T14:54:15.743842+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T14:23:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michael Carrick has 'no concerns' over Lisandro Martínez's commitment"
-   },
-   "last": "2026-11-02T14:54:15.743859+00:00"
-  },
-  "S4078": {
-   "title": "Norris says Antonelli made everyone look silly in 2026",
-   "first": "2026-11-02T14:54:15.743865+00:00",
-   "sources": {
-    "The Race": "2026-11-02T14:45:17+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "New F1 champion Antonelli 'made everyone look silly'"
-   },
-   "last": "2026-11-02T14:54:15.743871+00:00"
-  },
-  "S4079": {
-   "title": "Verstappen says he lacked Leclerc's pace in Mexico win",
-   "first": "2026-11-02T14:54:15.743875+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-02T14:44:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Verstappen vince anche senza la Red Bull migliore: “Non avevo il passo di Leclerc”"
-   },
-   "last": "2026-11-02T14:54:15.743880+00:00"
   },
   "S4080": {
    "title": "Hamilton and Leclerc 'heads banging' needed, RacingNews365 podcast",
@@ -15757,9 +15700,35 @@
     "RacingNews365 NL": "Schumacher ziet cruciaal verschil tussen Verstappen en Russell"
    },
    "last": "2026-11-04T14:51:23.538598+00:00"
+  },
+  "S4664": {
+   "title": "Oman secure spot at 2027 men's World Cup Qualifiers",
+   "first": "2026-11-04T15:01:23.849984+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T14:52:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Oman secure spot at 2027 men's World Cup Qualifiers"
+   },
+   "last": "2026-11-04T15:01:23.850004+00:00"
+  },
+  "S4665": {
+   "title": "Mercedes says Antonelli was on edge of retirement in Mexico",
+   "first": "2026-11-04T15:01:23.850011+00:00",
+   "sources": {
+    "Crash.net": "2026-11-04T14:52:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Mercedes reveals Kimi Antonelli was “on the edge of retirement” at Mexico GP"
+   },
+   "last": "2026-11-04T15:01:23.850017+00:00"
   }
  },
- "story_seq": 4663,
+ "story_seq": 4665,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15878,17 +15847,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T14:51:15.728327+00:00",
+ "last_run": "2026-11-04T15:01:21.348602+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T15:00:44.117616+00:00",
-   "title": "Calum Nicholas, Hadjar'ın hayran olayını savundu",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-01T15:05:45.646047+00:00",
    "title": "Button, Ocon'un F1 kariyerini tehlikeye atmış olabileceğini söyledi",
@@ -17598,6 +17562,11 @@
    "t": "2026-11-04T14:51:32.219934+00:00",
    "title": "McLaren, Stella Fornaroli'yi savundu: “Brezilya'da performans için daha fazla alan olacak”",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-04T15:01:27.967257+00:00",
+   "title": "Antonelli'nin Meksika'daki yarış sırasında emeklilik eşiğine geldiği ortaya çıktı",
+   "source": "Crash.net"
   }
  ]
 }
