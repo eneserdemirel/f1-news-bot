@@ -1,17 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2bc1a6993f6bf3a0": "2026-10-21T06:38:07.111046+00:00",
-  "91ed6984dd45bd35": "2026-10-21T06:38:07.111046+00:00",
-  "b943687a80cfa348": "2026-10-21T06:38:07.111046+00:00",
-  "0b619d02b21135af": "2026-10-21T06:38:07.111046+00:00",
-  "5bc975042e8b72a4": "2026-10-21T06:38:07.111046+00:00",
-  "7d5bffe05c09516c": "2026-10-21T06:38:07.111046+00:00",
-  "25049fd5a9084885": "2026-10-21T06:38:07.111046+00:00",
-  "45a0b804b7f46cb7": "2026-10-21T06:38:07.111046+00:00",
-  "800fbf65f720749c": "2026-10-21T06:38:07.111046+00:00",
-  "fe261208dc5d9c3e": "2026-10-21T06:38:07.111046+00:00",
-  "38648268b3d922c9": "2026-10-21T06:38:07.111046+00:00",
   "b8ad18e29219695f": "2026-10-21T07:27:21.976924+00:00",
   "32eeca8136ae26eb": "2026-10-21T07:27:21.976924+00:00",
   "e19aab7b33c6f331": "2026-10-21T07:27:21.976924+00:00",
@@ -7475,7 +7464,8 @@
   "418eea7c7e8e89da": "2026-11-04T06:20:44.420025+00:00",
   "d653265d0ef73283": "2026-11-04T06:30:48.542595+00:00",
   "3002294350227f3a": "2026-11-04T06:30:48.542595+00:00",
-  "fdc15c243f711463": "2026-11-04T06:30:48.542595+00:00"
+  "fdc15c243f711463": "2026-11-04T06:30:48.542595+00:00",
+  "2150cc176793c9ca": "2026-11-04T06:40:43.692142+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7497,29 +7487,6 @@
  },
  "last_alert": "2026-11-01T09:15:07.353713+00:00",
  "stories": {
-  "S3762": {
-   "title": "Hamilton radio criticises stewards over Leclerc penalty",
-   "first": "2026-11-01T20:51:14.303466+00:00",
-   "sources": {
-    "GPblog": "2026-11-01T20:45:00+00:00",
-    "Corriere dello Sport": "2026-11-01T20:46:29+00:00",
-    "Gazzetta dello Sport": "2026-11-01T21:05:54+00:00",
-    "FormulaPassion": "2026-11-01T20:45:00+00:00",
-    "Crash.net": "2026-11-01T21:55:43+00:00",
-    "GPFans": "2026-11-02T06:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton unleashes furious team radio as Ferrari tensions erupt in Mexico",
-    "Corriere dello Sport": "Hamilton al veleno contro Leclerc via radio: \"Gli stanno regalando la vittoria!\"",
-    "Gazzetta dello Sport": "Hamilton furioso via radio: \"La direzione gara vuole far vincere Leclerc\". Ecco cosa è successo",
-    "FormulaPassion": "Hamilton contro i soli 5 secondi inflitti a Leclerc: “I Commissari gli stanno regalando la vittoria”",
-    "Crash.net": "Lewis Hamilton fumes at Ferrari in Mexico GP: \"We've got big problems\"",
-    "GPFans": "Hamilton blasts FIA stewards over Leclerc decision as Mexican GP stopped after 200mph crash - F1 News Today"
-   },
-   "last": "2026-11-02T06:32:38.904421+00:00"
-  },
   "S3787": {
    "title": "Verstappen wins Mexico City GP; full race results published",
    "first": "2026-11-01T22:26:16.389452+00:00",
@@ -7581,21 +7548,6 @@
     "ESPN F1": "Lewis Hamilton demands 'serious talks' at Ferrari, questions Charles Leclerc's 'mentality'"
    },
    "last": "2026-11-02T13:33:31.514580+00:00"
-  },
-  "S3810": {
-   "title": "Feature on Antonelli's family roots and upbringing",
-   "first": "2026-11-01T22:52:08.941011+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-01T22:45:07+00:00",
-    "ESPN F1": "2026-11-02T04:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Kimi, un trionfo nato in famiglia. \"Prende ancora la paghetta. E non può sgarrare...\"",
-    "ESPN F1": "The families that built Kimi Antonelli, F1 world champion"
-   },
-   "last": "2026-11-02T06:37:35.201973+00:00"
   },
   "S3813": {
    "title": "Hamilton says Leclerc clash cost him Mexico City victory",
@@ -8039,32 +7991,6 @@
     "RacingNews365": "Max Verstappen questions 'very strange' Charles Leclerc punishment"
    },
    "last": "2026-11-02T09:34:09.156312+00:00"
-  },
-  "S3937": {
-   "title": "Tulsa vs. Tulane stream listing",
-   "first": "2026-11-02T06:32:38.904394+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T05:47:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tulsa vs. Tulane 7/11/26 - Mira Juego en vivo"
-   },
-   "last": "2026-11-02T06:32:38.904412+00:00"
-  },
-  "S3938": {
-   "title": "Wolff celebrates Antonelli title with tears, champagne and tequila",
-   "first": "2026-11-02T06:37:35.201984+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-02T06:32:29+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Lacrime, champagne e tequila promessa da Wolff: com'è andata la prima notte di Kimi da campione del mondo"
-   },
-   "last": "2026-11-02T06:37:35.201991+00:00"
   },
   "S3939": {
    "title": "F1 world congratulates Antonelli on first world title",
@@ -16138,7 +16064,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T06:30:48.542595+00:00",
+ "last_run": "2026-11-04T06:40:43.692142+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
