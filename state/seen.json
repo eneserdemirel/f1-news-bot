@@ -7425,7 +7425,9 @@
   "6232d4530fe3e235": "2026-11-04T00:30:10.093859+00:00",
   "0bac01437781094f": "2026-11-04T00:40:11.020589+00:00",
   "6b8cd47175aafffd": "2026-11-04T00:40:11.020589+00:00",
-  "98c00a95c4c4d24b": "2026-11-04T00:50:10.486499+00:00"
+  "98c00a95c4c4d24b": "2026-11-04T00:50:10.486499+00:00",
+  "80ed774d52f9f311": "2026-11-04T01:00:17.275588+00:00",
+  "8b9bc2c1f4a9751b": "2026-11-04T01:00:17.275588+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7902,19 +7904,6 @@
    },
    "last": "2026-11-02T12:03:20.897805+00:00"
   },
-  "S3864": {
-   "title": "Ben Shelton adds Juan Carlos Ferrero to 2027 coaching staff",
-   "first": "2026-11-02T00:52:01.125094+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T00:29:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff"
-   },
-   "last": "2026-11-02T00:52:01.125113+00:00"
-  },
   "S3865": {
    "title": "Hamilton says Leclerc has 'do or die' mentality after clash",
    "first": "2026-11-02T00:52:01.125127+00:00",
@@ -7943,32 +7932,6 @@
     "PlanetF1": "Lewis Hamilton calls out Charles Leclerc’s ‘do or die’ mentality after latest F1 clash"
    },
    "last": "2026-11-03T11:27:06.549024+00:00"
-  },
-  "S3866": {
-   "title": "Bills beat Ravens 36-10 in NFL game recap",
-   "first": "2026-11-02T00:57:01.097486+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T00:39:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bills 36-10 Ravens (Nov 1, 2026) Game Recap"
-   },
-   "last": "2026-11-02T00:57:01.097505+00:00"
-  },
-  "S3867": {
-   "title": "Frankfurt beat Hamburg 3-1, player statistics listing",
-   "first": "2026-11-02T00:57:01.097511+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-01T23:26:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Frankfurt 3-1 Hamburg (1 de Nov., 2026) Estadísticas del jugador"
-   },
-   "last": "2026-11-02T00:57:01.097517+00:00"
   },
   "S3868": {
    "title": "Jerry Jones backs Cowboys coach Schottenheimer after loss",
@@ -16465,9 +16428,35 @@
     "ESPN F1": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer"
    },
    "last": "2026-11-04T00:50:11.864122+00:00"
+  },
+  "S4504": {
+   "title": "Rybakina and Sabalenka lead season-ending WTA Finals groups",
+   "first": "2026-11-04T01:00:19.087985+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T00:37:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Elena Rybakina, Aryna Sabalenka lead season-ending WTA Finals groups"
+   },
+   "last": "2026-11-04T01:00:19.088004+00:00"
+  },
+  "S4505": {
+   "title": "Bains Smith scores goal for Kentucky",
+   "first": "2026-11-04T01:00:19.088008+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T00:26:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bains Smith scores goal for Kentucky"
+   },
+   "last": "2026-11-04T01:00:19.088013+00:00"
   }
  },
- "story_seq": 4503,
+ "story_seq": 4505,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16586,17 +16575,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T00:50:10.486499+00:00",
+ "last_run": "2026-11-04T01:00:17.275588+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-03 22:00",
  "last_digest_at": "2026-11-03T19:08:31.388415+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T00:58:54.992114+00:00",
-   "title": "Verstappen, Meksika sıralama turunu neyin bozduğunu açıkladı",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-01T01:13:47.929165+00:00",
    "title": "Lawson, Meksika GP sıralama turlarından diskalifiye edildi",
