@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b18d2f20769c2a76": "2026-10-21T16:25:23.408238+00:00",
-  "42dbcbad8a67587b": "2026-10-21T16:25:23.408238+00:00",
-  "01818c15614906e9": "2026-10-21T16:25:23.408238+00:00",
   "c17244148b1e0eb5": "2026-10-21T16:35:28.795962+00:00",
   "c3be4f86b4433f9d": "2026-10-21T16:35:28.795962+00:00",
   "8b2608066f9efb0f": "2026-10-21T16:35:28.795962+00:00",
@@ -7504,7 +7501,10 @@
   "040679e7ef6f4a3b": "2026-11-04T16:21:14.944963+00:00",
   "6d88ead3de116f87": "2026-11-04T16:21:14.944963+00:00",
   "aeb3231b3cb6ca78": "2026-11-04T16:21:14.944963+00:00",
-  "d1b68849cb4ab851": "2026-11-04T16:21:14.944963+00:00"
+  "d1b68849cb4ab851": "2026-11-04T16:21:14.944963+00:00",
+  "a0291f47b4cc7719": "2026-11-04T16:31:14.920166+00:00",
+  "3becc46c8797e0a0": "2026-11-04T16:31:14.920166+00:00",
+  "16440b1c1dd7d072": "2026-11-04T16:31:14.920166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7819,58 +7819,6 @@
     "Motorsport Week": "Motorsport Week’s 2026 F1 Mexico City GP Driver Ratings"
    },
    "last": "2026-11-03T07:26:23.021783+00:00"
-  },
-  "S4100": {
-   "title": "Ferrari leadership analysis after Mexico Leclerc-Hamilton clash",
-   "first": "2026-11-02T16:24:16.756057+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-02T16:11:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Ferrari, il lusso di due campioni e il prezzo di una leadership che deve farsi sentire"
-   },
-   "last": "2026-11-02T16:24:16.756076+00:00"
-  },
-  "S4101": {
-   "title": "RacingNews365 winners and losers from Mexico City GP",
-   "first": "2026-11-02T16:24:16.756082+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-02T16:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli crowned, Ferrari implode as Mexico delivers title chaos - Winners & losers from the Mexico City GP"
-   },
-   "last": "2026-11-02T16:24:16.756088+00:00"
-  },
-  "S4102": {
-   "title": "Antonelli says his grandfather would be proud after title",
-   "first": "2026-11-02T16:24:16.756092+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-02T16:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Antonelli barst in tranen uit: \"Mijn opa zou heel trots zijn\""
-   },
-   "last": "2026-11-02T16:24:16.756098+00:00"
-  },
-  "S4103": {
-   "title": "Mekies comments on Red Bull Ford engine performance at altitude",
-   "first": "2026-11-02T16:24:16.756101+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T16:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Mekies draws an important conclusion about the Red Bull Ford engine after Mexico"
-   },
-   "last": "2026-11-02T16:24:16.756105+00:00"
   },
   "S4104": {
    "title": "Malthe Jakobsen and Peugeot part ways at season end (WEC)",
@@ -12958,7 +12906,8 @@
     "Crash.net": "2026-11-04T09:57:57+00:00",
     "Motorsport-Total": "2026-11-04T10:15:35+00:00",
     "PlanetF1": "2026-11-04T12:20:51+00:00",
-    "Motorsport Week": "2026-11-04T16:00:00+00:00"
+    "Motorsport Week": "2026-11-04T16:00:00+00:00",
+    "Sky Sports F1": "2026-11-04T16:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12970,9 +12919,10 @@
     "Crash.net": "Colton Herta handed another Cadillac F1 chance after superlicence confusion",
     "Motorsport-Total": "Freitagseinsatz in Sao Paulo: Warum Cadillac Herta erneut ins Auto setzt - Motorsport-Total.com",
     "PlanetF1": "Sergio Perez to miss Brazilian GP FP1 as Colton Herta steps in",
-    "Motorsport Week": "Colton Herta to replace Sergio Perez in FP1 at F1 Sao Paulo GP"
+    "Motorsport Week": "Colton Herta to replace Sergio Perez in FP1 at F1 Sao Paulo GP",
+    "Sky Sports F1": "Cadillac's Herta handed Brazil practice outing to secure F1 super licence"
    },
-   "last": "2026-11-04T16:11:20.005605+00:00"
+   "last": "2026-11-04T16:31:18.604386+00:00"
   },
   "S4484": {
    "title": "Joe Fagnano to start Thursday night vs. Jaguars, Minter says",
@@ -15641,9 +15591,35 @@
     "Motorsport-Total": "Leclerc-Strafe in Mexiko: \"Überrascht, dass es nur fünf Sekunden waren\" - Motorsport-Total.com"
    },
    "last": "2026-11-04T16:21:21.876256+00:00"
+  },
+  "S4684": {
+   "title": "Browns QB Watson in concussion protocol before Saints game",
+   "first": "2026-11-04T16:31:18.604335+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T14:46:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Browns QB Watson in concussion protocol; status vs. Saints unclear"
+   },
+   "last": "2026-11-04T16:31:18.604377+00:00"
+  },
+  "S4685": {
+   "title": "Profile of Rafael Camara ahead of Haas Sao Paulo debut",
+   "first": "2026-11-04T16:31:18.604391+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-04T16:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Who is Rafael Camara? The F1 rookie set for baptism of fire"
+   },
+   "last": "2026-11-04T16:31:18.604398+00:00"
   }
  },
- "story_seq": 4683,
+ "story_seq": 4685,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15762,17 +15738,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T16:21:14.944963+00:00",
+ "last_run": "2026-11-04T16:31:14.920166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T16:30:44.687070+00:00",
-   "title": "2026 Meksika City Grand Prix'si için hava durumu güncellemesi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-01T16:35:45.323224+00:00",
    "title": "Hamilton'dan Antonelli'ye şampiyonluk öncesi mesaj: 'Rekorlar kırılmak içindir'",
