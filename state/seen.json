@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1baa8cfd5ecff539": "2026-10-21T12:54:44.497371+00:00",
-  "f9f83e37bd095c7a": "2026-10-21T12:54:44.497371+00:00",
   "b850aeb26970020b": "2026-10-21T13:04:46.145183+00:00",
   "54848f9115ffecb4": "2026-10-21T13:15:05.252372+00:00",
   "8cb6a07b627aa702": "2026-10-21T13:15:05.252372+00:00",
@@ -7469,7 +7467,10 @@
   "76f7052cfd0d147b": "2026-11-04T12:51:20.048925+00:00",
   "c05c1614852a9945": "2026-11-04T12:51:20.048925+00:00",
   "e976c8a29120db18": "2026-11-04T12:51:20.048925+00:00",
-  "d9493ec2e0f6ed31": "2026-11-04T12:51:20.048925+00:00"
+  "d9493ec2e0f6ed31": "2026-11-04T12:51:20.048925+00:00",
+  "a3c8163135d96fe3": "2026-11-04T13:01:17.079940+00:00",
+  "3e2ee34822130aaa": "2026-11-04T13:01:17.079940+00:00",
+  "9cc39000452c1d20": "2026-11-04T13:01:17.079940+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7962,19 +7963,6 @@
     "ESPN F1": "Regis Le Bris retains Sunderland confidence despite bad run - report"
    },
    "last": "2026-11-02T18:44:10.351401+00:00"
-  },
-  "S4047": {
-   "title": "Nearly 4 million Italian viewers watch Antonelli title on Sky and TV8",
-   "first": "2026-11-02T12:53:26.326405+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-02T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Quasi 4 milioni di telespettatori tra Sky e TV8 per il titolo di Antonelli"
-   },
-   "last": "2026-11-02T12:53:26.326411+00:00"
   },
   "S4048": {
    "title": "ESPN college football Week 9 power rankings",
@@ -14923,7 +14911,8 @@
     "RacingNews365": "2026-11-04T12:45:00+00:00",
     "RacingNews365 NL": "2026-11-04T12:40:00+00:00",
     "Motorsport Week": "2026-11-04T12:14:31+00:00",
-    "FormulaPassion": "2026-11-04T12:35:00+00:00"
+    "FormulaPassion": "2026-11-04T12:35:00+00:00",
+    "Sky Sports F1": "2026-11-04T12:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14935,9 +14924,10 @@
     "RacingNews365": "Charles Leclerc becomes a father as birth of baby announced",
     "RacingNews365 NL": "Charles Leclerc voor het eerst vader van dochtertje Bianca",
     "Motorsport Week": "Charles Leclerc and wife make announcement after birth of daughter",
-    "FormulaPassion": "Leclerc è diventato papà: è nata Bianca"
+    "FormulaPassion": "Leclerc è diventato papà: è nata Bianca",
+    "Sky Sports F1": "Leclerc becomes father ahead of Sao Paulo GP"
    },
-   "last": "2026-11-04T12:51:29.201699+00:00"
+   "last": "2026-11-04T13:01:20.928994+00:00"
   },
   "S4569": {
    "title": "Bottas reacts after big crash at Mexico City GP",
@@ -15718,9 +15708,22 @@
     "Motorsport-Total": "Nach Antonellis WM-Titel: George Russell meldet sich mit emotionaler Botschaft - Motorsport-Total.com"
    },
    "last": "2026-11-04T12:51:29.201706+00:00"
+  },
+  "S4629": {
+   "title": "Sky's Bernie Collins urges Ferrari repercussions rule after Mexico clash",
+   "first": "2026-11-04T13:01:20.929009+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-04T12:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Do Ferrari need to impose repercussions after latest Hamilton-Leclerc clash?"
+   },
+   "last": "2026-11-04T13:01:20.929016+00:00"
   }
  },
- "story_seq": 4628,
+ "story_seq": 4629,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15839,17 +15842,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T12:51:20.048925+00:00",
+ "last_run": "2026-11-04T13:01:17.079940+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T13:00:40.391211+00:00",
-   "title": "Martin Brundle, Meksika Grand Prix'sinde yok",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-01T13:15:49.814626+00:00",
    "title": "F1 Meksika GP 2026: Hamilton pole'da, gara 21.00'de başlıyor",
@@ -17559,6 +17557,11 @@
    "t": "2026-11-04T12:41:42.666611+00:00",
    "title": "Sao Paulo GP öncesi 5 önemli gelişme: Ocon-Camara, Mercedes'in hedefi, Bottas'ın geleceği",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-04T13:01:26.299031+00:00",
+   "title": "Ferrari, Hamilton-Leclerc çatışması sonrası yaptırım uygulamalı mı?",
+   "source": "Sky Sports F1"
   }
  ]
 }
