@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3e3cedd16431be3c": "2026-10-21T12:44:41.249899+00:00",
   "1baa8cfd5ecff539": "2026-10-21T12:54:44.497371+00:00",
   "f9f83e37bd095c7a": "2026-10-21T12:54:44.497371+00:00",
   "b850aeb26970020b": "2026-10-21T13:04:46.145183+00:00",
@@ -7457,7 +7456,20 @@
   "e03aed03c86ef2dc": "2026-11-04T12:41:18.076072+00:00",
   "e8bd8b05e4a9d4d6": "2026-11-04T12:41:18.076072+00:00",
   "37af15b500c0670d": "2026-11-04T12:41:18.076072+00:00",
-  "7a4e5710470936ef": "2026-11-04T12:41:18.076072+00:00"
+  "7a4e5710470936ef": "2026-11-04T12:41:18.076072+00:00",
+  "5e6298353422f866": "2026-11-04T12:51:20.048925+00:00",
+  "d44323a7485b6068": "2026-11-04T12:51:20.048925+00:00",
+  "c592a132f7536fff": "2026-11-04T12:51:20.048925+00:00",
+  "34f036ab8ddfebe8": "2026-11-04T12:51:20.048925+00:00",
+  "9268098db645b258": "2026-11-04T12:51:20.048925+00:00",
+  "430cf430c1ae3a43": "2026-11-04T12:51:20.048925+00:00",
+  "2457730e92fc0d81": "2026-11-04T12:51:20.048925+00:00",
+  "45ad231832160258": "2026-11-04T12:51:20.048925+00:00",
+  "ad342a19dd0c17ce": "2026-11-04T12:51:20.048925+00:00",
+  "76f7052cfd0d147b": "2026-11-04T12:51:20.048925+00:00",
+  "c05c1614852a9945": "2026-11-04T12:51:20.048925+00:00",
+  "e976c8a29120db18": "2026-11-04T12:51:20.048925+00:00",
+  "d9493ec2e0f6ed31": "2026-11-04T12:51:20.048925+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7924,19 +7936,6 @@
     "ESPN F1": "Patrick Dorgu returns to Man United training ahead of Roma clash"
    },
    "last": "2026-11-02T13:03:23.046050+00:00"
-  },
-  "S4044": {
-   "title": "PlanetF1 Mexico City GP driver ratings",
-   "first": "2026-11-02T12:43:21.770383+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-02T12:39:36+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Mexican Grand Prix driver ratings: Ferrari disaster, near-perfect Verstappen, Russell heartbreak"
-   },
-   "last": "2026-11-02T12:43:21.770389+00:00"
   },
   "S4045": {
    "title": "F1 reportedly asks teams to stay quiet on Qatar and Abu Dhabi",
@@ -14920,7 +14919,11 @@
     "Motorsport.com Italia": "2026-11-04T09:23:41+00:00",
     "The Race": "2026-11-04T12:25:28+00:00",
     "GPblog": "2026-11-04T11:51:00+00:00",
-    "GPFans": "2026-11-04T12:33:00+00:00"
+    "GPFans": "2026-11-04T12:33:00+00:00",
+    "RacingNews365": "2026-11-04T12:45:00+00:00",
+    "RacingNews365 NL": "2026-11-04T12:40:00+00:00",
+    "Motorsport Week": "2026-11-04T12:14:31+00:00",
+    "FormulaPassion": "2026-11-04T12:35:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14928,9 +14931,13 @@
     "Motorsport.com Italia": "F1 | Leclerc torna a casa per la nascita della figlia e Beganovic guiderà la Ferrari in FP1 in Brasile",
     "The Race": "Charles and Alexandra Leclerc welcome their first child",
     "GPblog": "Leclerc becomes a father: Ferrari driver announces birth of first child",
-    "GPFans": "F1 star Charles Leclerc and wife Alexandra announce birth of their first child"
+    "GPFans": "F1 star Charles Leclerc and wife Alexandra announce birth of their first child",
+    "RacingNews365": "Charles Leclerc becomes a father as birth of baby announced",
+    "RacingNews365 NL": "Charles Leclerc voor het eerst vader van dochtertje Bianca",
+    "Motorsport Week": "Charles Leclerc and wife make announcement after birth of daughter",
+    "FormulaPassion": "Leclerc è diventato papà: è nata Bianca"
    },
-   "last": "2026-11-04T12:41:31.897049+00:00"
+   "last": "2026-11-04T12:51:29.201699+00:00"
   },
   "S4569": {
    "title": "Bottas reacts after big crash at Mexico City GP",
@@ -15359,7 +15366,7 @@
    "titles": {
     "ESPN F1": "Skoda, main sponsor of ice hockey worlds, to 'reassess' backing if Russia plays"
    },
-   "last": "2026-11-04T11:51:46.098001+00:00"
+   "last": "2026-11-04T12:51:29.201664+00:00"
   },
   "S4602": {
    "title": "Audi team boss defends Hülkenberg over Bearman gap incident",
@@ -15607,9 +15614,113 @@
     "Motorsport-Total": "\"Ich würde es nicht tolerieren\": Formel-1-Experte zählt Lewis Hamilton an - Motorsport-Total.com"
    },
    "last": "2026-11-04T12:41:31.897080+00:00"
+  },
+  "S4621": {
+   "title": "Kohli pull shots display in cricket match",
+   "first": "2026-11-04T12:51:29.201599+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T12:47:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kohli embraces risk in awesome display of pull shots"
+   },
+   "last": "2026-11-04T12:51:29.201621+00:00"
+  },
+  "S4622": {
+   "title": "Fantasy football matchup rankings for the week",
+   "first": "2026-11-04T12:51:29.201627+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T12:44:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy football matchup rankings: Upgrade Brown, fade Jacobs, Moore"
+   },
+   "last": "2026-11-04T12:51:29.201634+00:00"
+  },
+  "S4623": {
+   "title": "Ravens QB Tyler Huntley test results report",
+   "first": "2026-11-04T12:51:29.201638+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T12:36:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: tests revealed that Ravens’ QB Tyler “Snoop” Huntley..."
+   },
+   "last": "2026-11-04T12:51:29.201642+00:00"
+  },
+  "S4624": {
+   "title": "Roman Reigns chance at Crown Jewel title",
+   "first": "2026-11-04T12:51:29.201646+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T12:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Roman Reigns' chance to continue winning ways at Crown Jewel"
+   },
+   "last": "2026-11-04T12:51:29.201650+00:00"
+  },
+  "S4625": {
+   "title": "What could stop teams winning the CFP",
+   "first": "2026-11-04T12:51:29.201653+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What could keep each team in CFP rankings from winning it all?"
+   },
+   "last": "2026-11-04T12:51:29.201658+00:00"
+  },
+  "S4626": {
+   "title": "2026 NFL trade deadline players and team goals",
+   "first": "2026-11-04T12:51:29.201668+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T11:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams"
+   },
+   "last": "2026-11-04T12:51:29.201672+00:00"
+  },
+  "S4627": {
+   "title": "Hadjar says he shouldn't have trusted Russell",
+   "first": "2026-11-04T12:51:29.201690+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-04T12:44:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Isack Hadjar ‘shouldn’t have trusted’ Russell after FIA penalty decision"
+   },
+   "last": "2026-11-04T12:51:29.201694+00:00"
+  },
+  "S4628": {
+   "title": "Russell emotional message after Antonelli's title win",
+   "first": "2026-11-04T12:51:29.201702+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-04T12:45:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Nach Antonellis WM-Titel: George Russell meldet sich mit emotionaler Botschaft - Motorsport-Total.com"
+   },
+   "last": "2026-11-04T12:51:29.201706+00:00"
   }
  },
- "story_seq": 4620,
+ "story_seq": 4628,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15728,7 +15839,7 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T12:41:18.076072+00:00",
+ "last_run": "2026-11-04T12:51:20.048925+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
