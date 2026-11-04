@@ -7573,7 +7573,9 @@
   "69eff77d5038cf2f": "2026-11-04T20:31:53.132338+00:00",
   "e7575d544b335966": "2026-11-04T20:31:53.132338+00:00",
   "a0e6807019957ed4": "2026-11-04T20:31:53.132338+00:00",
-  "451b0b2edb36cbc4": "2026-11-04T20:41:50.078154+00:00"
+  "451b0b2edb36cbc4": "2026-11-04T20:41:50.078154+00:00",
+  "2d1d476684c19769": "2026-11-04T20:51:49.543229+00:00",
+  "1676d21c9895df48": "2026-11-04T20:51:49.543229+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7970,32 +7972,6 @@
     "ESPN F1": "Newcastle vs. Everton (Nov 2, 2026) Team Stats"
    },
    "last": "2026-11-02T23:35:06.007079+00:00"
-  },
-  "S4156": {
-   "title": "Michael Wilbon takes leave of absence from ESPN for health",
-   "first": "2026-11-02T20:45:06.988520+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T19:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wilbon taking leave of absence from ESPN to address health issues"
-   },
-   "last": "2026-11-02T20:45:06.988540+00:00"
-  },
-  "S4157": {
-   "title": "FAQ on Zverev's rise to world No. 1 in tennis",
-   "first": "2026-11-02T20:45:06.988545+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T15:22:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "FAQ: Why Zverev's rise to world No. 1 provokes mixed feelings"
-   },
-   "last": "2026-11-02T20:45:06.988550+00:00"
   },
   "S4158": {
    "title": "Kiffin 'sad' as LSU-Alabama game takes hiatus in 2027",
@@ -15917,9 +15893,35 @@
     "ESPN F1": "Hall of Fame names Doug Williams, Robert Kraft among 5 contributor candidates"
    },
    "last": "2026-11-04T20:41:51.562530+00:00"
+  },
+  "S4751": {
+   "title": "FIA publishes São Paulo GP press conference schedule",
+   "first": "2026-11-04T20:51:51.472225+00:00",
+   "sources": {
+    "FIA": "2026-11-04T16:42:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "F1 - 2026 São Paulo GP Schedule of Press Conferences"
+   },
+   "last": "2026-11-04T20:51:51.472248+00:00"
+  },
+  "S4752": {
+   "title": "RB Leipzig vs Man City team stats",
+   "first": "2026-11-04T20:51:51.472252+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T20:26:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "RB Leipzig vs. Man City (Nov 4, 2026) Team Stats"
+   },
+   "last": "2026-11-04T20:51:51.472257+00:00"
   }
  },
- "story_seq": 4750,
+ "story_seq": 4752,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16038,17 +16040,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T20:41:50.078154+00:00",
+ "last_run": "2026-11-04T20:51:49.543229+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T20:51:18.036648+00:00",
-   "title": "Hamilton, Meksika GP'de Ferrari gerilimi sırasında telsiz telsizde öfkesini dile getirdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-01T21:01:16.800755+00:00",
    "title": "Checo Pérez, 300. Formula 1 yarışına ulaşıyor",
@@ -17748,6 +17745,11 @@
    "t": "2026-11-04T20:32:00.247591+00:00",
    "title": "Antonelli, Vettel'in en genç şampiyonluk rekorunu kırdı",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-04T20:51:54.596300+00:00",
+   "title": "2026 São Paulo GP basın toplantısı programı açıklandı",
+   "source": "FIA"
   }
  ]
 }
