@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "19e8900f6a79fb5e": "2026-10-21T15:25:27.651500+00:00",
-  "bf6b7dfd0c3da6fc": "2026-10-21T15:25:27.651500+00:00",
-  "82a8e392d7f83500": "2026-10-21T15:25:27.651500+00:00",
   "cc3b52dc51ee0904": "2026-10-21T15:35:28.123483+00:00",
   "30a5480cc97b193b": "2026-10-21T15:35:28.123483+00:00",
   "786779a9f02d977a": "2026-10-21T15:35:28.123483+00:00",
@@ -7494,7 +7491,9 @@
   "b8ccd9e04d0e5734": "2026-11-04T15:21:17.061500+00:00",
   "96151f3e6247af81": "2026-11-04T15:21:17.061500+00:00",
   "2cece2b4aa007f33": "2026-11-04T15:21:17.061500+00:00",
-  "fe79039c1f1cfe55": "2026-11-04T15:21:17.061500+00:00"
+  "fe79039c1f1cfe55": "2026-11-04T15:21:17.061500+00:00",
+  "a3b49eb8b2c7d527": "2026-11-04T15:31:15.807013+00:00",
+  "f3dbc85de7e22236": "2026-11-04T15:31:15.807013+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7794,58 +7793,6 @@
     "ESPN F1": "Archie Gray: Marbella trip 'helped' Tottenham camaraderie"
    },
    "last": "2026-11-02T18:44:10.351378+00:00"
-  },
-  "S4080": {
-   "title": "Hamilton and Leclerc 'heads banging' needed, RacingNews365 podcast",
-   "first": "2026-11-02T15:04:13.791019+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-02T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Hamilton and Leclerc ‘heads banging’ needed as Antonelli era begins"
-   },
-   "last": "2026-11-02T15:24:14.235859+00:00"
-  },
-  "S4085": {
-   "title": "NHL Hometown Remix jerseys for 2026-27 season",
-   "first": "2026-11-02T15:24:14.235814+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-02T15:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NHL unveils Hometown Remix jerseys, merchandise for all 32 teams for 2026-27"
-   },
-   "last": "2026-11-02T15:24:14.235832+00:00"
-  },
-  "S4086": {
-   "title": "Mercedes can clinch Constructors' title in Brazil",
-   "first": "2026-11-02T15:24:14.235839+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-02T15:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "How Mercedes can win Constructors' Championship this Sunday"
-   },
-   "last": "2026-11-02T15:24:14.235845+00:00"
-  },
-  "S4087": {
-   "title": "Qatar MotoGP could have record-low 13-rider grid",
-   "first": "2026-11-02T15:24:14.235863+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T15:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Qatar MotoGP could see record-low 13-rider grid after Yamaha withdrawal"
-   },
-   "last": "2026-11-02T15:24:14.235867+00:00"
   },
   "S4088": {
    "title": "WWE best champion vs champion matches listicle",
@@ -15643,9 +15590,35 @@
     "Motorsport-Total": "Die Jaguar-Story: Wie Ford mit großen Ambitionen in der Formel 1 scheiterte - Motorsport-Total.com"
    },
    "last": "2026-11-04T15:21:22.147768+00:00"
+  },
+  "S4671": {
+   "title": "Antonelli visits Senna family and sits in Ayrton's 1986 Lotus",
+   "first": "2026-11-04T15:31:19.394988+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-04T15:28:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Oltre il numero 12: Kimi nella Lotus di Ayrton. Quando l'emulazione diventa ricerca della perfezione"
+   },
+   "last": "2026-11-04T15:31:19.395010+00:00"
+  },
+  "S4672": {
+   "title": "Verstappen says he is enthusiastic about returning to Brazil",
+   "first": "2026-11-04T15:31:19.395017+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-04T15:05:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Verstappen vuole inserire la quarta: “Entusiasta di tornare in Brasile”"
+   },
+   "last": "2026-11-04T15:31:19.395023+00:00"
   }
  },
- "story_seq": 4670,
+ "story_seq": 4672,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15764,17 +15737,12 @@
   ]
  ],
  "calendar_updated": "2026-11-03T22:39:15.382110+00:00",
- "last_run": "2026-11-04T15:21:17.061500+00:00",
+ "last_run": "2026-11-04T15:31:15.807013+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 15:00",
  "last_digest_at": "2026-11-04T12:41:42.667091+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-01T15:30:42.218142+00:00",
-   "title": "Pérez'in Cadillac'taki geleceği ve 300. Grand Prix'si",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-01T15:35:43.373040+00:00",
    "title": "Cadillac F1, 2027 pilot kadrosunda acele etmiyor",
@@ -17484,6 +17452,11 @@
    "t": "2026-11-04T15:21:25.663884+00:00",
    "title": "Alexa Rendell, Sky Sports F1 ekibine katıldı",
    "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-04T15:31:25.291954+00:00",
+   "title": "Antonelli, Senna'nın Lotus 98T'sine oturdu, Interlagos'ta özel kask kullanacak",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
