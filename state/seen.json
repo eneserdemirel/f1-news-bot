@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "92787d4fbc9b69e3": "2026-10-22T09:57:33.707662+00:00",
-  "77bf27130b14b21b": "2026-10-22T09:57:33.707662+00:00",
   "b8be7cf4cf556af3": "2026-10-22T10:07:30.834315+00:00",
   "98f75fc047997a5e": "2026-10-22T10:07:30.834315+00:00",
   "992243102cf0dd3e": "2026-10-22T10:07:30.834315+00:00",
@@ -7638,7 +7636,13 @@
   "f6b5c5943c6200f5": "2026-11-05T09:53:50.363025+00:00",
   "e17c6ea8c80b35da": "2026-11-05T09:53:50.363025+00:00",
   "e17501ddf6552190": "2026-11-05T09:53:50.363025+00:00",
-  "001b65b4608e97d3": "2026-11-05T09:53:50.363025+00:00"
+  "001b65b4608e97d3": "2026-11-05T09:53:50.363025+00:00",
+  "e7a0bd991a8d4087": "2026-11-05T10:03:53.222502+00:00",
+  "5fbcb37b0e5b22b7": "2026-11-05T10:03:53.222502+00:00",
+  "a0be48a3e8173766": "2026-11-05T10:03:53.222502+00:00",
+  "382863d99defd2f3": "2026-11-05T10:03:53.222502+00:00",
+  "3d998c89372db668": "2026-11-05T10:03:53.222502+00:00",
+  "b2745a1925540ed6": "2026-11-05T10:03:53.222502+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8075,32 +8079,6 @@
     "ESPN F1": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup"
    },
    "last": "2026-11-03T10:06:22.591271+00:00"
-  },
-  "S4299": {
-   "title": "Verstappen says he 'came close' after Hadjar paddock incident",
-   "first": "2026-11-03T09:56:20.481732+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-03T09:47:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Max Verstappen admits ‘I came close’ after Isack Hadjar paddock incident"
-   },
-   "last": "2026-11-03T09:56:20.481738+00:00"
-  },
-  "S4300": {
-   "title": "Alesi says Leclerc and Hamilton crossed the line in Mexico",
-   "first": "2026-11-03T09:56:20.481742+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T09:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Alesi: “Leclerc e Hamilton corrono a titolo personale, in Messico han fatto peggio che a Monza, hanno superato il limite”"
-   },
-   "last": "2026-11-03T09:56:20.481747+00:00"
   },
   "S4301": {
    "title": "Hinchcliffe and Montoya warn Antonelli about Verstappen and Red Bull",
@@ -15830,9 +15808,61 @@
     "Motorsport-Total": "Kommentar: Hamilton muss \"ernste Gespräche\" führen - auch mit sich selbst - Motorsport-Total.com"
    },
    "last": "2026-11-05T09:53:54.754545+00:00"
+  },
+  "S4878": {
+   "title": "Harry Kane signs new Bayern Munich contract",
+   "first": "2026-11-05T10:03:56.275044+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T08:17:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Harry Kane signs new Bayern Munich contract: 'I want to win many more titles'"
+   },
+   "last": "2026-11-05T10:03:56.275065+00:00"
+  },
+  "S4879": {
+   "title": "Mercedes can clinch constructors' title in Brazil preview",
+   "first": "2026-11-05T10:03:56.275071+00:00",
+   "sources": {
+    "Autosport": "2026-11-05T09:52:25+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "How Mercedes can win the F1 world constructors’ title in Brazil"
+   },
+   "last": "2026-11-05T10:03:56.275077+00:00"
+  },
+  "S4880": {
+   "title": "Antonelli to wear Senna tribute helmet at Sao Paulo GP",
+   "first": "2026-11-05T10:03:56.275080+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T10:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli to honour idol Senna with tribute helmet in first race as F1 champion"
+   },
+   "last": "2026-11-05T10:03:56.275085+00:00"
+  },
+  "S4881": {
+   "title": "Alonso optimistic on Aston Martin 2027 with new Honda engine",
+   "first": "2026-11-05T10:03:56.275089+00:00",
+   "sources": {
+    "GPFans": "2026-11-05T09:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Fernando Alonso raises Aston Martin F1 hopes for 2027: 'Honda are testing a new engine'"
+   },
+   "last": "2026-11-05T10:03:56.275093+00:00"
   }
  },
- "story_seq": 4877,
+ "story_seq": 4881,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15951,7 +15981,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T09:53:50.363025+00:00",
+ "last_run": "2026-11-05T10:03:53.222502+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
@@ -17321,6 +17351,11 @@
    "t": "2026-11-05T09:54:01.596445+00:00",
    "title": "Leclerc, Hamilton ile yaşanan temasta hatanın ikisine ait olduğunu söyledi",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-05T10:04:01.187444+00:00",
+   "title": "Alonso, Aston Martin'in 2027 için umutlu: Honda yeni motor test ediyor",
+   "source": "GPFans"
   }
  ]
 }
