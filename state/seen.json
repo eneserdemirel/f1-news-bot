@@ -1,23 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "42ab63719c5afa13": "2026-10-22T16:48:15.992389+00:00",
-  "171d78a1d3bd7dd2": "2026-10-22T16:48:15.992389+00:00",
-  "bf81b9e7d27e8411": "2026-10-22T16:48:15.992389+00:00",
-  "e5f73accecaaa68f": "2026-10-22T16:48:15.992389+00:00",
-  "c309919dbdd57740": "2026-10-22T16:48:15.992389+00:00",
-  "39da4adf5573a141": "2026-10-22T16:48:15.992389+00:00",
-  "660975c20bb4d394": "2026-10-22T16:48:15.992389+00:00",
-  "5149849a7658e7a0": "2026-10-22T16:48:15.992389+00:00",
-  "833db6feb9164f1c": "2026-10-22T16:48:15.992389+00:00",
-  "a95ac1837441c7a8": "2026-10-22T16:48:15.992389+00:00",
-  "3c28be00c21cd2bd": "2026-10-22T16:48:15.992389+00:00",
-  "19440da84f6d3c39": "2026-10-22T16:48:15.992389+00:00",
-  "e751ab464b6630a7": "2026-10-22T16:48:15.992389+00:00",
-  "fc20b2ed2da9cf67": "2026-10-22T16:48:15.992389+00:00",
-  "683d40067524482f": "2026-10-22T16:48:15.992389+00:00",
-  "532e263c973fae3f": "2026-10-22T16:48:15.992389+00:00",
-  "abb2ac6f46438e8c": "2026-10-22T16:48:15.992389+00:00",
   "2c45a1416f73f703": "2026-10-22T16:58:15.412565+00:00",
   "f8189c9de78753f8": "2026-10-22T16:58:15.412565+00:00",
   "b269996d02485b62": "2026-10-22T16:58:15.412565+00:00",
@@ -7655,7 +7638,10 @@
   "89d99a39923d1b0b": "2026-11-05T16:45:23.669640+00:00",
   "2632f71633588bea": "2026-11-05T16:45:23.669640+00:00",
   "99246c3b6683f1e4": "2026-11-05T16:45:23.669640+00:00",
-  "bfbbdc3dcae494a3": "2026-11-05T16:45:23.669640+00:00"
+  "bfbbdc3dcae494a3": "2026-11-05T16:45:23.669640+00:00",
+  "82e697b2e2b8062a": "2026-11-05T16:55:20.986501+00:00",
+  "67b4dcd5e0fc542c": "2026-11-05T16:55:20.986501+00:00",
+  "1f42204db4075fcf": "2026-11-05T16:55:20.986501+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7780,19 +7766,6 @@
    },
    "last": "2026-11-03T19:08:27.299266+00:00"
   },
-  "S4351": {
-   "title": "New York Liberty not retaining coach Chris DeMarco (WNBA)",
-   "first": "2026-11-03T13:27:04.712780+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T13:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: New York Liberty not retaining coach Chris DeMarco after 1 year at helm"
-   },
-   "last": "2026-11-03T16:48:20.503834+00:00"
-  },
   "S4362": {
    "title": "Mercedes constructors' title scenarios at Sao Paulo GP",
    "first": "2026-11-03T14:17:04.791388+00:00",
@@ -7873,45 +7846,6 @@
     "Gazzetta dello Sport": "Antonelli in Brasile col casco speciale per celebrare il mito Senna: \"È lui la mia ispirazione\""
    },
    "last": "2026-11-03T16:58:18.419541+00:00"
-  },
-  "S4400": {
-   "title": "Jolyon Palmer on moments that impressed him in Antonelli's title year",
-   "first": "2026-11-03T16:48:20.503808+00:00",
-   "sources": {
-    "Formula 1": "2026-11-03T16:48:20.503823+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "'The moments that impressed me most in Antonelli’s title year'"
-   },
-   "last": "2026-11-03T16:48:20.503826+00:00"
-  },
-  "S4401": {
-   "title": "Analysis of the secret behind Kimi Antonelli's speed",
-   "first": "2026-11-03T16:48:20.503837+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-03T16:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "The Secret Behind Kimi Antonelli’s Speed"
-   },
-   "last": "2026-11-03T16:48:20.503842+00:00"
-  },
-  "S4402": {
-   "title": "Rosberg backs Hamilton's criticism of Leclerc's mentality",
-   "first": "2026-11-03T16:48:20.503846+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-03T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "‘Always Charles’ fault’: Nico Rosberg takes firm Lewis Hamilton stand"
-   },
-   "last": "2026-11-03T16:48:20.503850+00:00"
   },
   "S4403": {
    "title": "McLaren brings Brazil GP upgrades with 2027 front wing concept",
@@ -15746,14 +15680,16 @@
    "title": "Bottas speaks out for first time after frightening Mexico crash",
    "first": "2026-11-05T16:45:28.068822+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-05T16:35:00+00:00"
+    "RacingNews365 NL": "2026-11-05T16:35:00+00:00",
+    "RacingNews365": "2026-11-05T16:42:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Bottas laat voor het eerst van zich horen na angstaanjagende crash"
+    "RacingNews365 NL": "Bottas laat voor het eerst van zich horen na angstaanjagende crash",
+    "RacingNews365": "Valtteri Bottas reveals 'red zone' Cadillac issue that sparked horrifying crash"
    },
-   "last": "2026-11-05T16:45:28.068825+00:00"
+   "last": "2026-11-05T16:55:23.797572+00:00"
   },
   "S4987": {
    "title": "Racing Bulls CEO admission casts doubt on Lawson's future",
@@ -15767,9 +15703,22 @@
     "PlanetF1": "Liam Lawson faces fresh Racing Bulls uncertainty after CEO’s revealing admission"
    },
    "last": "2026-11-05T16:45:28.068830+00:00"
+  },
+  "S4988": {
+   "title": "Gasly demands FIA penalty consistency after Mexico GP sanction",
+   "first": "2026-11-05T16:55:23.797582+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-05T16:52:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Pierre Gasly demands FIA penalty consistency after Mexico GP sanction"
+   },
+   "last": "2026-11-05T16:55:23.797586+00:00"
   }
  },
- "story_seq": 4987,
+ "story_seq": 4988,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15888,7 +15837,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T16:45:23.669640+00:00",
+ "last_run": "2026-11-05T16:55:20.986501+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
@@ -17228,6 +17177,16 @@
    "t": "2026-11-05T16:35:31.803517+00:00",
    "title": "Camara Haas'ta F1 debütü yapacak, F2 şampiyonluğundan vazgeçebilir",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-05T16:55:30.345803+00:00",
+   "title": "Bottas, Mexico City'deki kazanın nedenini açıkladı: 'kırmızı bölge' sorunu",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T16:55:30.831163+00:00",
+   "title": "Gasly, Meksika GP cezasında FIA'dan tutarlılık talep etti",
+   "source": "PlanetF1"
   }
  ]
 }
