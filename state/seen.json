@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b8be7cf4cf556af3": "2026-10-22T10:07:30.834315+00:00",
-  "98f75fc047997a5e": "2026-10-22T10:07:30.834315+00:00",
-  "992243102cf0dd3e": "2026-10-22T10:07:30.834315+00:00",
   "7813001173863a55": "2026-10-22T10:17:35.231662+00:00",
   "93b7618d603f18e7": "2026-10-22T10:17:35.231662+00:00",
   "b48c92ee1e7fdbfa": "2026-10-22T10:17:35.231662+00:00",
@@ -7642,7 +7639,10 @@
   "a0be48a3e8173766": "2026-11-05T10:03:53.222502+00:00",
   "382863d99defd2f3": "2026-11-05T10:03:53.222502+00:00",
   "3d998c89372db668": "2026-11-05T10:03:53.222502+00:00",
-  "b2745a1925540ed6": "2026-11-05T10:03:53.222502+00:00"
+  "b2745a1925540ed6": "2026-11-05T10:03:53.222502+00:00",
+  "15b743bb318c11ea": "2026-11-05T10:13:50.226625+00:00",
+  "3ae52ba2b02af3a7": "2026-11-05T10:13:50.226625+00:00",
+  "7fe6b0fd522af9c6": "2026-11-05T10:13:50.226625+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7934,19 +7934,6 @@
    },
    "last": "2026-11-03T10:16:20.800446+00:00"
   },
-  "S4241": {
-   "title": "AFC postpones 2027 Asian Cup in Saudi Arabia",
-   "first": "2026-11-03T06:16:18.996550+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T06:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Asian Football Confederation postpones 2027 Asian Cup in Saudi Arabia"
-   },
-   "last": "2026-11-03T10:06:22.591283+00:00"
-  },
   "S4263": {
    "title": "Antonelli plans to frame iconic Hamilton-Verstappen photo",
    "first": "2026-11-03T07:36:18.914319+00:00",
@@ -8066,45 +8053,6 @@
     "GPblog": "Hamilton reveals Vasseur appeared 'nervous' before his Mexico GP clash with Leclerc"
    },
    "last": "2026-11-03T19:08:27.299266+00:00"
-  },
-  "S4298": {
-   "title": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup",
-   "first": "2026-11-03T09:56:20.481708+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T08:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup"
-   },
-   "last": "2026-11-03T10:06:22.591271+00:00"
-  },
-  "S4301": {
-   "title": "Hinchcliffe and Montoya warn Antonelli about Verstappen and Red Bull",
-   "first": "2026-11-03T10:06:22.591295+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-03T10:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Antonelli gewaarschuwd voor Verstappen: \"Het gaat heel ruig worden\""
-   },
-   "last": "2026-11-03T10:06:22.591301+00:00"
-  },
-  "S4302": {
-   "title": "Ocon faces new obstacle in plan to return to F1",
-   "first": "2026-11-03T10:06:22.591305+00:00",
-   "sources": {
-    "GPFans": "2026-11-03T09:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Esteban Ocon faces new problem in plan to return to F1"
-   },
-   "last": "2026-11-03T10:06:22.591310+00:00"
   },
   "S4303": {
    "title": "Explainer on Leclerc's pressure after Mexico restart error",
@@ -15458,14 +15406,16 @@
    "title": "Ralf Schumacher criticises Hamilton's handling of Leclerc clash",
    "first": "2026-11-05T08:03:15.076108+00:00",
    "sources": {
-    "GPFans": "2026-11-05T07:58:00+00:00"
+    "GPFans": "2026-11-05T07:58:00+00:00",
+    "RacingNews365 NL": "2026-11-05T10:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Lewis Hamilton compared to Al Capone in extraordinary Ralf Schumacher attack"
+    "GPFans": "Lewis Hamilton compared to Al Capone in extraordinary Ralf Schumacher attack",
+    "RacingNews365 NL": "Schumacher fileert Hamilton na Ferrari-rel: \"Hij gedraagt zich als een teambaas\""
    },
-   "last": "2026-11-05T08:03:15.076114+00:00"
+   "last": "2026-11-05T10:13:54.424078+00:00"
   },
   "S4852": {
    "title": "Verstappen jokes about speaking Italian compared with Antonelli",
@@ -15525,16 +15475,18 @@
    "sources": {
     "RacingNews365": "2026-11-05T08:19:00+00:00",
     "RacingNews365 NL": "2026-11-05T08:50:00+00:00",
-    "PlanetF1": "2026-11-05T09:49:55+00:00"
+    "PlanetF1": "2026-11-05T09:49:55+00:00",
+    "Motorsport Week": "2026-11-05T10:00:40+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Williams release statement after 'legend' Alan Jones saddening death",
     "RacingNews365 NL": "Williams deelt statement na overlijden Jones",
-    "PlanetF1": "Williams leads tributes to Alan Jones, a ‘fast, uncompromising racer’"
+    "PlanetF1": "Williams leads tributes to Alan Jones, a ‘fast, uncompromising racer’",
+    "Motorsport Week": "Williams pays tribute to Alan Jones following his death"
    },
-   "last": "2026-11-05T09:53:54.754537+00:00"
+   "last": "2026-11-05T10:13:54.424091+00:00"
   },
   "S4857": {
    "title": "Piero Ferrari wants Antonelli in Ferrari red",
@@ -15860,9 +15812,22 @@
     "GPFans": "Fernando Alonso raises Aston Martin F1 hopes for 2027: 'Honda are testing a new engine'"
    },
    "last": "2026-11-05T10:03:56.275093+00:00"
+  },
+  "S4882": {
+   "title": "AS column on runner-up fight between Verstappen, Ferraris, Russell",
+   "first": "2026-11-05T10:13:54.424096+00:00",
+   "sources": {
+    "AS": "2026-11-05T10:07:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "El mejor del resto"
+   },
+   "last": "2026-11-05T10:13:54.424101+00:00"
   }
  },
- "story_seq": 4881,
+ "story_seq": 4882,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15981,22 +15946,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T10:03:53.222502+00:00",
+ "last_run": "2026-11-05T10:13:50.226625+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T10:13:30.170078+00:00",
-   "title": "Antonelli'ye yabancı basından övgü: \"En genç kral\"",
-   "source": "Corriere dello Sport"
-  },
-  {
-   "t": "2026-11-02T10:13:30.623024+00:00",
-   "title": "Antonelli'nin babası Marco: Şampiyonluk potansiyeli 2025'te zorluklar içinde ortaya çıktı",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-11-02T10:23:26.206805+00:00",
    "title": "Lando Norris: McLaren'ın Meksika'da galibiyet için temposu yeterliydi",
@@ -17356,6 +17311,11 @@
    "t": "2026-11-05T10:04:01.187444+00:00",
    "title": "Alonso, Aston Martin'in 2027 için umutlu: Honda yeni motor test ediyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-05T10:13:58.244437+00:00",
+   "title": "Verstappen ve Ferrari'ler vicecampeonluk için Russell ve Antonelli ile yarışıyor",
+   "source": "AS"
   }
  ]
 }
