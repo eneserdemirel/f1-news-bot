@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "636755fcd212f19c": "2026-10-22T22:09:02.821851+00:00",
-  "59d84a816f551916": "2026-10-22T22:09:02.821851+00:00",
-  "3d937788a4cd6ee1": "2026-10-22T22:09:02.821851+00:00",
-  "fe5d8aed0882563e": "2026-10-22T22:09:02.821851+00:00",
   "c4f8222a75f976f3": "2026-10-22T22:19:02.636851+00:00",
   "c8c601e53a627c59": "2026-10-22T22:19:02.636851+00:00",
   "18ed4c941d2657f3": "2026-10-22T22:19:02.636851+00:00",
@@ -7640,7 +7636,10 @@
   "9b05e5be2192aea5": "2026-11-05T21:56:08.223940+00:00",
   "7bdb6782c4cbd9c7": "2026-11-05T22:06:05.892054+00:00",
   "09606023e3c60ac4": "2026-11-05T22:06:05.892054+00:00",
-  "eae1623d74c3cc16": "2026-11-05T22:06:05.892054+00:00"
+  "eae1623d74c3cc16": "2026-11-05T22:06:05.892054+00:00",
+  "f91045d55675b806": "2026-11-05T22:16:07.185570+00:00",
+  "3eec3eff35fe5bf3": "2026-11-05T22:16:07.185570+00:00",
+  "7d965e1c80fd4575": "2026-11-05T22:16:07.185570+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7947,19 +7946,6 @@
     "ESPN F1": "Bills release C.J. Gardner-Johnson after one-game spitting suspension"
    },
    "last": "2026-11-03T22:39:31.779267+00:00"
-  },
-  "S4477": {
-   "title": "Piastri defends Lindblad collision, says he could do no more",
-   "first": "2026-11-03T22:09:33.153950+00:00",
-   "sources": {
-    "GPblog": "2026-11-03T22:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Piastri defends ill-fated Lindblad move: ‘I couldn't really do much more'"
-   },
-   "last": "2026-11-03T22:09:33.153972+00:00"
   },
   "S4478": {
    "title": "Colts agree 2-year, $35M extension with Adetomiwa Adebawore",
@@ -16221,9 +16207,48 @@
     "Motorsport-Total": "Oliver Bearman & Rafael Camara: Direktes Duell um ein Ferrari-Cockpit? - Motorsport-Total.com"
    },
    "last": "2026-11-05T22:06:08.793253+00:00"
+  },
+  "S5093": {
+   "title": "Analysis of Ferrari fallout after Mexico start controversy",
+   "first": "2026-11-05T22:16:11.915066+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-05T21:34:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "What is the fallout at Ferrari after Mexico race start controversy?"
+   },
+   "last": "2026-11-05T22:16:11.915087+00:00"
+  },
+  "S5094": {
+   "title": "Norris happy for Antonelli to inherit number one",
+   "first": "2026-11-05T22:16:11.915094+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T22:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Norris zwaait startnummer 1 uit: \"Mooi dat Antonelli hem krijgt\""
+   },
+   "last": "2026-11-05T22:16:11.915101+00:00"
+  },
+  "S5095": {
+   "title": "Lusail emergency shelter plan for MotoGP and F1 weekends",
+   "first": "2026-11-05T22:16:11.915105+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-05T22:05:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Qatar GP venue issues emergency shelter plan ahead of F1 and MotoGP weekends"
+   },
+   "last": "2026-11-05T22:16:11.915110+00:00"
   }
  },
- "story_seq": 5092,
+ "story_seq": 5095,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16342,17 +16367,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T22:06:05.892054+00:00",
+ "last_run": "2026-11-05T22:16:07.185570+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T22:15:11.244124+00:00",
-   "title": "Cadillac F1 sahibi takımı 3 milyar dolara satmayı düşünüyor",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-02T22:35:12.183116+00:00",
    "title": "George Russell, sezonunu 'iyi günlerden çok kötü günler' olarak değerlendirdi",
@@ -17867,6 +17887,21 @@
    "t": "2026-11-05T22:06:15.332280+00:00",
    "title": "Sainz, Leclerc taraftarlarının sert tepkilerini anlattı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-05T22:16:18.908158+00:00",
+   "title": "Ferrari'de Mexico City start kazasının ardından yaşananlar",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-05T22:16:19.271418+00:00",
+   "title": "Lusail Uluslararası Pisti'nden Katar GP öncesi acil sığınak planı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T22:16:19.633594+00:00",
+   "title": "Norris, 1 numaralı startı Antonelli'ye bırakmaktan memnun",
+   "source": "RacingNews365 NL"
   }
  ]
 }
