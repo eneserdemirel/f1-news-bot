@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f2bdd83853ba882b": "2026-10-22T14:38:17.111790+00:00",
-  "0e7de38119bf28ce": "2026-10-22T14:38:17.111790+00:00",
-  "3ee5b9b67f0e2e8c": "2026-10-22T14:38:17.111790+00:00",
-  "6041803e534b8889": "2026-10-22T14:38:17.111790+00:00",
-  "9f46969c22aaf3aa": "2026-10-22T14:38:17.111790+00:00",
   "34ab9364d0724e2d": "2026-10-22T14:48:15.067307+00:00",
   "97272a9359793b81": "2026-10-22T14:58:17.530815+00:00",
   "4ba4900c1b759af3": "2026-10-22T14:58:17.530815+00:00",
@@ -7655,7 +7650,10 @@
   "c88a602ad21a8d16": "2026-11-05T14:23:49.214336+00:00",
   "4e138476ea6ce9cd": "2026-11-05T14:33:49.944642+00:00",
   "9ae23748c6d4f823": "2026-11-05T14:33:49.944642+00:00",
-  "9009d96ebb727bd9": "2026-11-05T14:33:49.944642+00:00"
+  "9009d96ebb727bd9": "2026-11-05T14:33:49.944642+00:00",
+  "147e5b5713ef0d1a": "2026-11-05T14:44:24.895982+00:00",
+  "9659d32d71cbd1cf": "2026-11-05T14:44:24.895982+00:00",
+  "49fef8d1b33707c5": "2026-11-05T14:44:24.895982+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7912,19 +7910,6 @@
    },
    "last": "2026-11-03T16:17:36.994041+00:00"
   },
-  "S4331": {
-   "title": "Jon Rahm open to penalties for PGA Tour return",
-   "first": "2026-11-03T12:27:08.229530+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T12:10:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jon Rahm: Willing to accept penalties if deal offered for PGA Tour return"
-   },
-   "last": "2026-11-03T14:37:07.287013+00:00"
-  },
   "S4333": {
    "title": "FIA president Ben Sulayem asks Antonelli to stay humble",
    "first": "2026-11-03T12:27:08.229563+00:00",
@@ -7999,32 +7984,6 @@
     "Formula 1": "When could Mercedes win the 2026 Teams' Championship?"
    },
    "last": "2026-11-04T17:01:23.013400+00:00"
-  },
-  "S4366": {
-   "title": "Seven NFL Week 9 thoughts and trade predictions",
-   "first": "2026-11-03T14:37:07.287023+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T11:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Seven things Solak thinks for NFL Week 9: Bucs atop NFC South? RB trades coming?"
-   },
-   "last": "2026-11-03T14:37:07.287029+00:00"
-  },
-  "S4367": {
-   "title": "Antonelli's fewest races to F1 title ranked against records",
-   "first": "2026-11-03T14:37:07.287034+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-03T14:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Fewest races before becoming F1 champion after Kimi Antonelli success"
-   },
-   "last": "2026-11-03T14:37:07.287039+00:00"
   },
   "S4368": {
    "title": "Man City relegation and Champions League scenario analysis (football)",
@@ -15850,9 +15809,35 @@
     "ESPN F1": "How the Atlanta Dream turned their franchise around in just five years"
    },
    "last": "2026-11-05T14:33:52.563138+00:00"
+  },
+  "S4951": {
+   "title": "Portugal federation pays tribute to Ronaldo after retirement",
+   "first": "2026-11-05T14:44:27.775283+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T12:43:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Portugal's Football Federation pays tribute to Cristiano Ronaldo after international retirement"
+   },
+   "last": "2026-11-05T14:44:27.775301+00:00"
+  },
+  "S4952": {
+   "title": "Verstappen expected to take grid penalty for engine change",
+   "first": "2026-11-05T14:44:27.775308+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T14:34:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "More clarity on potential Verstappen grid penalty ahead of Brazilian GP"
+   },
+   "last": "2026-11-05T14:44:27.775313+00:00"
   }
  },
- "story_seq": 4950,
+ "story_seq": 4952,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15971,22 +15956,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T14:34:24.493972+00:00",
+ "last_run": "2026-11-05T14:44:24.895982+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T14:44:29.299969+00:00",
-   "title": "Antonelli, İtalya'nın tüm ana gazetelerinin manşetinde",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-02T14:44:29.740922+00:00",
-   "title": "Antonelli 2026 Meksika GP'sinde şampiyonluğa ulaştı",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-02T14:54:21.804919+00:00",
    "title": "Kimi Antonelli, 2026 F1 dünya şampiyonu oldu",
@@ -17296,6 +17271,11 @@
    "t": "2026-11-05T14:24:06.071193+00:00",
    "title": "Dünya şampiyonluğu sadece şans mı? Rakiplerden eleştiri",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-05T14:44:31.901459+00:00",
+   "title": "Verstappen'in olası şanzıman cezasına dair yeni detaylar",
+   "source": "GPblog"
   }
  ]
 }
