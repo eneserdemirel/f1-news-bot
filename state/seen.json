@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0a89391d2e5169ce": "2026-10-22T07:37:32.041169+00:00",
-  "5405327fb60a3541": "2026-10-22T07:37:32.041169+00:00",
-  "af7f8ff6f527a595": "2026-10-22T07:37:32.041169+00:00",
   "82ab195ef4aedb76": "2026-10-22T07:47:32.095589+00:00",
   "6cfe30973c1a6211": "2026-10-22T07:47:32.095589+00:00",
   "a7d34a15956b5b3c": "2026-10-22T07:47:32.095589+00:00",
@@ -7625,7 +7622,10 @@
   "c0139c5c4d7d1368": "2026-11-05T07:23:10.876636+00:00",
   "8090ac6c4aac3ac6": "2026-11-05T07:23:10.876636+00:00",
   "8968ad96cffdec10": "2026-11-05T07:33:09.409953+00:00",
-  "24411c6cb95655b7": "2026-11-05T07:33:09.409953+00:00"
+  "24411c6cb95655b7": "2026-11-05T07:33:09.409953+00:00",
+  "6acaac7ac7c6e58e": "2026-11-05T07:43:10.380112+00:00",
+  "e83f05f928a5b29d": "2026-11-05T07:43:10.380112+00:00",
+  "47eb738e4dfa379f": "2026-11-05T07:43:10.380112+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7963,19 +7963,6 @@
     "GPblog": "Hamilton shares new heartfelt message amid Mexico City clash with Leclerc"
    },
    "last": "2026-11-03T09:06:23.056331+00:00"
-  },
-  "S4254": {
-   "title": "Feature on Antonelli's youth academy origins",
-   "first": "2026-11-03T06:56:23.564784+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-03T06:49:19+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Alle origini di Kimi: il vivaio che ha contribuito a renderlo un campione del mondo"
-   },
-   "last": "2026-11-03T07:36:18.914346+00:00"
   },
   "S4263": {
    "title": "Antonelli plans to frame iconic Hamilton-Verstappen photo",
@@ -15098,7 +15085,9 @@
     "Motorsport Week": "2026-11-05T03:18:12+00:00",
     "ESPN F1": "2026-11-05T03:03:00+00:00",
     "Motorsport-Total": "2026-11-05T06:34:31+00:00",
-    "Gazzetta dello Sport": "2026-11-05T07:00:11+00:00"
+    "Gazzetta dello Sport": "2026-11-05T07:00:11+00:00",
+    "Sky Sports F1": "2026-11-05T07:18:00+00:00",
+    "RacingNews365 NL": "2026-11-05T07:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15108,9 +15097,11 @@
     "Motorsport Week": "Australian F1 legend and first Williams champion Alan Jones dies",
     "ESPN F1": "1980 F1 world champion Alan Jones dies aged 80",
     "Motorsport-Total": "Formel-1-Weltmeister Alan Jones ist tot: Er wurde 80 Jahre alt - Motorsport-Total.com",
-    "Gazzetta dello Sport": "F1, è morto Alan Jones: fu campione del mondo nel 1980 con la Williams"
+    "Gazzetta dello Sport": "F1, è morto Alan Jones: fu campione del mondo nel 1980 con la Williams",
+    "Sky Sports F1": "Former F1 world champion Jones dies aged 80",
+    "RacingNews365 NL": "F1-icoon Alan Jones (80) overleden"
    },
-   "last": "2026-11-05T07:13:13.962887+00:00"
+   "last": "2026-11-05T07:43:12.355745+00:00"
   },
   "S4796": {
    "title": "Tendulkar or Lara debate on cricket greatness",
@@ -15753,14 +15744,16 @@
    "title": "Audi special livery tribute to Sao Paulo in Brazil",
    "first": "2026-11-05T07:03:20.274530+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-05T06:58:16+00:00"
+    "Motorsport-Total": "2026-11-05T06:58:16+00:00",
+    "RacingNews365": "2026-11-05T07:33:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Hommage an Sao Paulo: Sonderlackierung von Audi in Brasilien - Motorsport-Total.com"
+    "Motorsport-Total": "Hommage an Sao Paulo: Sonderlackierung von Audi in Brasilien - Motorsport-Total.com",
+    "RacingNews365": "Audi take covers off striking Sao Paulo Grand Prix special livery"
    },
-   "last": "2026-11-05T07:03:20.274534+00:00"
+   "last": "2026-11-05T07:43:12.355740+00:00"
   },
   "S4846": {
    "title": "Thunder 124-116 Cavaliers NBA game recap",
@@ -15947,17 +15940,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T07:33:09.409953+00:00",
+ "last_run": "2026-11-05T07:43:10.380112+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T07:42:41.451544+00:00",
-   "title": "Toto Wolff, Meksika GP sonrası George Russell'dan özür diledi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-02T07:52:47.052476+00:00",
    "title": "Kimi Antonelli, dünya şampiyonluğuna giden dönüm noktasını anlattı",
