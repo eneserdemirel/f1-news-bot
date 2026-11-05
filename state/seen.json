@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7e438e5ceb284f6c": "2026-10-22T09:27:31.678366+00:00",
-  "7842ecaaf1db14d1": "2026-10-22T09:27:31.678366+00:00",
   "eee907cfb91c87a8": "2026-10-22T09:37:31.981368+00:00",
   "799040fe8b212bc2": "2026-10-22T09:37:31.981368+00:00",
   "29188175ae92ad21": "2026-10-22T09:37:31.981368+00:00",
@@ -7635,7 +7633,12 @@
   "325927f7dc374bdc": "2026-11-05T09:23:13.730331+00:00",
   "130ad084937d2a6a": "2026-11-05T09:23:13.730331+00:00",
   "eae212f540a415ac": "2026-11-05T09:23:13.730331+00:00",
-  "ec73181e361c1369": "2026-11-05T09:23:50.413733+00:00"
+  "ec73181e361c1369": "2026-11-05T09:23:50.413733+00:00",
+  "8ed0b829df61c259": "2026-11-05T09:33:49.769663+00:00",
+  "736a7046656c4b41": "2026-11-05T09:33:49.769663+00:00",
+  "3f120960826533d0": "2026-11-05T09:33:49.769663+00:00",
+  "118f33ba34972510": "2026-11-05T09:33:49.769663+00:00",
+  "46a841039c508288": "2026-11-05T09:33:49.769663+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8028,32 +8031,6 @@
    },
    "last": "2026-11-03T13:17:08.561062+00:00"
   },
-  "S4286": {
-   "title": "Spurs 119-97 Jazz NBA game recap",
-   "first": "2026-11-03T09:26:21.470675+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T04:36:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Spurs 119-97 Jazz (Nov 2, 2026) Game Recap"
-   },
-   "last": "2026-11-03T09:26:21.470694+00:00"
-  },
-  "S4287": {
-   "title": "2027 Mercedes dual-chamber ban and compression sensor reported",
-   "first": "2026-11-03T09:26:21.470701+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-03T09:13:53+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Nel 2027 niente doppia camera Mercedes? Ci sarà un sensore a misurare il rapporto di compressione"
-   },
-   "last": "2026-11-03T09:26:21.470707+00:00"
-  },
   "S4288": {
    "title": "Wolff says sponsors left Mercedes after Antonelli signing",
    "first": "2026-11-03T09:26:21.470711+00:00",
@@ -8085,19 +8062,6 @@
     "GPblog": "Hamilton reveals Vasseur appeared 'nervous' before his Mexico GP clash with Leclerc"
    },
    "last": "2026-11-03T19:08:27.299266+00:00"
-  },
-  "S4290": {
-   "title": "Antonelli title framed as sociological case in media",
-   "first": "2026-11-03T09:26:21.470727+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T09:07:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Se Antonelli diventa un caso sociologico"
-   },
-   "last": "2026-11-03T09:26:21.470731+00:00"
   },
   "S4291": {
    "title": "WTC final race qualification scenarios (cricket)",
@@ -15534,7 +15498,7 @@
     "RacingNews365": "Audi take covers off striking Sao Paulo Grand Prix special livery",
     "RacingNews365 NL": "Audi neemt zeer speciale livery mee naar GP Brazilië"
    },
-   "last": "2026-11-05T08:03:15.076099+00:00"
+   "last": "2026-11-05T09:33:54.197818+00:00"
   },
   "S4846": {
    "title": "Thunder 124-116 Cavaliers NBA game recap",
@@ -15836,9 +15800,48 @@
     "Motorsport.com Italia": "WEC | Ferrari vuole salutare la 499P vincendo, poi si punterà al futuro: \"Lavoriamo per migliorarne i punti deboli\""
    },
    "last": "2026-11-05T09:23:16.137060+00:00"
+  },
+  "S4869": {
+   "title": "Mark Hughes tribute analysis of Alan Jones's driving style",
+   "first": "2026-11-05T09:33:54.197757+00:00",
+   "sources": {
+    "The Race": "2026-11-05T09:24:48+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Mark Hughes: Alan Jones terrified rivals and was perfect for Williams"
+   },
+   "last": "2026-11-05T09:33:54.197777+00:00"
+  },
+  "S4870": {
+   "title": "Remaining championship stakes for drivers in final four races",
+   "first": "2026-11-05T09:33:54.197784+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T09:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Dit staat er nog wél op het spel voor Max Verstappen en co."
+   },
+   "last": "2026-11-05T09:33:54.197802+00:00"
+  },
+  "S4871": {
+   "title": "Senior F1 figures privately fear Qatar and Abu Dhabi finale",
+   "first": "2026-11-05T09:33:54.197807+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T09:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen not alone: senior F1 figures privately fear 'worst-case scenario' in Qatar"
+   },
+   "last": "2026-11-05T09:33:54.197811+00:00"
   }
  },
- "story_seq": 4868,
+ "story_seq": 4871,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15957,7 +15960,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T09:23:50.413733+00:00",
+ "last_run": "2026-11-05T09:33:49.769663+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
@@ -17331,6 +17334,21 @@
   {
    "t": "2026-11-05T09:03:24.172372+00:00",
    "title": "Hamilton 400. Grand Prix'de ilk şampiyonluğunu kazandığı pistte galibiyet hedefliyor",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-05T09:34:00.494729+00:00",
+   "title": "Mark Hughes: Alan Jones rakiplerini korkuttu, Williams için mükemmeldi",
+   "source": "The Race"
+  },
+  {
+   "t": "2026-11-05T09:34:00.909125+00:00",
+   "title": "Constructeurs yarışında Mercedes lider, McLaren ile Red Bull arasında mücadele sürüyor",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-05T09:34:01.334100+00:00",
+   "title": "Verstappen yalnız değil: F1'de üst düzey isimler Katar'da 'en kötü senaryodan' endişe ediyor",
    "source": "GPblog"
   }
  ]
