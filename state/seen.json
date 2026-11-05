@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ba0d0bfbab4848c8": "2026-10-22T06:57:32.644934+00:00",
   "bf8fb41c9f0b37be": "2026-10-22T07:07:29.793779+00:00",
   "ed66fb88cecf3958": "2026-10-22T07:17:30.336171+00:00",
   "ef1a8949a6e50a27": "2026-10-22T07:17:30.336171+00:00",
@@ -7659,7 +7658,13 @@
   "bd477aad853d062a": "2026-11-05T06:33:12.713355+00:00",
   "30998f68ccb231d3": "2026-11-05T06:33:12.713355+00:00",
   "fa5d4300f56a7c9b": "2026-11-05T06:33:12.713355+00:00",
-  "e235916f8fc1c054": "2026-11-05T06:43:10.258874+00:00"
+  "e235916f8fc1c054": "2026-11-05T06:43:10.258874+00:00",
+  "806671568ad76e98": "2026-11-05T07:03:15.390390+00:00",
+  "c677826750586554": "2026-11-05T07:03:15.390390+00:00",
+  "b84d2945fcece059": "2026-11-05T07:03:15.390390+00:00",
+  "d88e82730f82fc07": "2026-11-05T07:03:15.390390+00:00",
+  "d6b4adf47669cb82": "2026-11-05T07:03:15.390390+00:00",
+  "5352bfc8ec86f3b3": "2026-11-05T07:03:15.390390+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8007,19 +8012,6 @@
    },
    "last": "2026-11-03T10:06:22.591283+00:00"
   },
-  "S4251": {
-   "title": "Santa Clara 89-70 Towson final score",
-   "first": "2026-11-03T06:56:23.564734+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T03:46:40+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Santa Clara 89-70 Towson (Nov 2, 2026) Final Score"
-   },
-   "last": "2026-11-03T06:56:23.564760+00:00"
-  },
   "S4252": {
    "title": "Hamilton says he 'can't pretend' after Mexico; Ferrari told to be honest",
    "first": "2026-11-03T06:56:23.564766+00:00",
@@ -8040,19 +8032,6 @@
     "GPblog": "Hamilton shares new heartfelt message amid Mexico City clash with Leclerc"
    },
    "last": "2026-11-03T09:06:23.056331+00:00"
-  },
-  "S4253": {
-   "title": "Antonelli interview: Monza taught him everything, title is only the start",
-   "first": "2026-11-03T06:56:23.564776+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-03T06:43:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Kimi Antonelli, l'intervista: \"A Monza ho capito tutto. Questo è solo l'inizio\""
-   },
-   "last": "2026-11-03T06:56:23.564781+00:00"
   },
   "S4254": {
    "title": "Feature on Antonelli's youth academy origins",
@@ -15873,9 +15852,87 @@
     "Motorsport-Total": "Formel-1-Experte rechnet mit Hamilton und Leclerc ab: \"Es muss Strafen geben\" - Motorsport-Total.com"
    },
    "last": "2026-11-05T06:33:17.537741+00:00"
+  },
+  "S4840": {
+   "title": "Heat 117-116 Clippers NBA game recap",
+   "first": "2026-11-05T07:03:20.274472+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T06:56:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heat 117-116 Clippers (Nov 4, 2026) Game Recap"
+   },
+   "last": "2026-11-05T07:03:20.274492+00:00"
+  },
+  "S4841": {
+   "title": "Preview of Verstappen's Brazil GP history and wet-race record",
+   "first": "2026-11-05T07:03:20.274499+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Max Verstappen en de GP van Brazilië: saai is het nooit"
+   },
+   "last": "2026-11-05T07:03:20.274505+00:00"
+  },
+  "S4842": {
+   "title": "Arrivabene says Hamilton and Leclerc are Ferrari employees",
+   "first": "2026-11-05T07:03:20.274509+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-05T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur, senti Arrivabene: “Deve dire a Hamilton e Leclerc che sono due dipendenti Ferrari”"
+   },
+   "last": "2026-11-05T07:03:20.274513+00:00"
+  },
+  "S4843": {
+   "title": "Ecclestone says Ferrari has no choice but to sign Antonelli",
+   "first": "2026-11-05T07:03:20.274516+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-05T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ecclestone: “La Ferrari non ha scelta, deve prendere Antonelli”"
+   },
+   "last": "2026-11-05T07:03:20.274520+00:00"
+  },
+  "S4844": {
+   "title": "Dindo Capello praises Antonelli's talent and unbeaten record",
+   "first": "2026-11-05T07:03:20.274523+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-05T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli campione del mondo, Dindo Capello: “Kimi è mix di talento, lavoro e freddezza. Il suo record resterà imbattuto”"
+   },
+   "last": "2026-11-05T07:03:20.274527+00:00"
+  },
+  "S4845": {
+   "title": "Audi special livery tribute to Sao Paulo in Brazil",
+   "first": "2026-11-05T07:03:20.274530+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T06:58:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Hommage an Sao Paulo: Sonderlackierung von Audi in Brasilien - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T07:03:20.274534+00:00"
   }
  },
- "story_seq": 4839,
+ "story_seq": 4845,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15994,7 +16051,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T06:53:09.384826+00:00",
+ "last_run": "2026-11-05T07:03:15.390390+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
@@ -17374,6 +17431,26 @@
    "t": "2026-11-05T06:33:22.904164+00:00",
    "title": "F1 uzmanı Hamilton ve Leclerc'i eleştirdi: \"Cezalar olmalı\"",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-05T07:03:32.803304+00:00",
+   "title": "Audi'nin Brezilya'da São Paulo'ya özel renk düzenlemesi",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-05T07:03:33.271384+00:00",
+   "title": "Arrivabene: Hamilton ve Leclerc'e 'Ferrari çalışanısınız' hatırlatılmalı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-05T07:03:33.735998+00:00",
+   "title": "Ecclestone: Ferrari'nin Antonelli'yi almaktan başka seçeneği yok",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-05T07:03:34.215599+00:00",
+   "title": "Antonelli dünya şampiyonu oldu, Capello: Rekoru uzun süre kırılmayacak",
+   "source": "FormulaPassion"
   }
  ]
 }
