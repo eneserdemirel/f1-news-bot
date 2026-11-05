@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a7758caa8f839ba9": "2026-10-22T20:19:07.654070+00:00",
   "5ee4f70351de3acb": "2026-10-22T20:29:02.449021+00:00",
   "6c832b62e7e9f5d6": "2026-10-22T20:29:02.449021+00:00",
   "dd1e77d12db9a5b9": "2026-10-22T20:29:02.449021+00:00",
@@ -7641,7 +7640,14 @@
   "3c54fb59a8bc3c5e": "2026-11-05T20:15:21.253170+00:00",
   "28e77cd53a703330": "2026-11-05T20:15:21.253170+00:00",
   "149bafdb4e5eabe1": "2026-11-05T20:15:21.253170+00:00",
-  "1b38089d8b137534": "2026-11-05T20:15:21.253170+00:00"
+  "1b38089d8b137534": "2026-11-05T20:15:21.253170+00:00",
+  "7e2706a27961fb08": "2026-11-05T20:25:22.347883+00:00",
+  "fcd385335cb11256": "2026-11-05T20:25:22.347883+00:00",
+  "7fbb392a5671b504": "2026-11-05T20:25:22.347883+00:00",
+  "0dccab33f45eb87c": "2026-11-05T20:25:22.347883+00:00",
+  "cecd94d707f32cdf": "2026-11-05T20:25:22.347883+00:00",
+  "b325d8e2aa41307f": "2026-11-05T20:25:22.347883+00:00",
+  "57b35040c6a059c7": "2026-11-05T20:25:22.347883+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7890,32 +7896,6 @@
     "ESPN F1": "Dumonts take over as controlling owners of Mavericks"
    },
    "last": "2026-11-03T22:59:31.252917+00:00"
-  },
-  "S4451": {
-   "title": "MLB labor battle explainer on lockout and salary cap",
-   "first": "2026-11-03T20:18:22.375544+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T19:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Will there be a lockout? A salary cap? MLB's labor battle explained"
-   },
-   "last": "2026-11-03T20:18:22.375549+00:00"
-  },
-  "S4452": {
-   "title": "F1 Today roundup of Hamilton message and Leclerc Mexico account",
-   "first": "2026-11-03T20:18:22.375553+00:00",
-   "sources": {
-    "GPblog": "2026-11-03T20:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "F1 Today: Hamilton shares heartfelt message as Leclerc explains Mexico clash"
-   },
-   "last": "2026-11-03T20:18:22.375557+00:00"
   },
   "S4453": {
    "title": "Kurtley Beale 'unfinished business' 17 years after Wallabies debut",
@@ -15345,15 +15325,17 @@
    "first": "2026-11-05T17:45:25.923488+00:00",
    "sources": {
     "Autosport": "2026-11-05T17:37:33+00:00",
-    "Motorsport.com Italia": "2026-11-05T17:35:06+00:00"
+    "Motorsport.com Italia": "2026-11-05T17:35:06+00:00",
+    "Motorsport Week": "2026-11-05T20:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "How rough diamond Camara feels ahead of 'very surprising' F1 home debut",
-    "Motorsport.com Italia": "F1 | Camara, il debutto nel GP di casa è una grossa sorpresa: \"Non me lo aspettavo\""
+    "Motorsport.com Italia": "F1 | Camara, il debutto nel GP di casa è una grossa sorpresa: \"Non me lo aspettavo\"",
+    "Motorsport Week": "Rafa Camara ‘surprised’ but ready to ‘enjoy’ his F1 debut at the Brazilian GP"
    },
-   "last": "2026-11-05T17:45:25.923512+00:00"
+   "last": "2026-11-05T20:25:28.276238+00:00"
   },
   "S5005": {
    "title": "Anderlecht vs RB Salzburg team stats (Nov 5, 2026)",
@@ -16072,9 +16054,87 @@
     "AS": "Hamilton dispara contra Leclerc"
    },
    "last": "2026-11-05T20:15:29.705869+00:00"
+  },
+  "S5059": {
+   "title": "Celta Vigo vs Union SG team stats",
+   "first": "2026-11-05T20:25:28.276194+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:20:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Celta Vigo vs. Union SG (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T20:25:28.276211+00:00"
+  },
+  "S5060": {
+   "title": "Benfica vs Lech Poznan team stats",
+   "first": "2026-11-05T20:25:28.276216+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:20:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Benfica vs. Lech Poznan (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T20:25:28.276220+00:00"
+  },
+  "S5061": {
+   "title": "Torreense vs Ararat-Armenia team stats",
+   "first": "2026-11-05T20:25:28.276223+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:07:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Torreense vs. Ararat-Armenia (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T20:25:28.276225+00:00"
+  },
+  "S5062": {
+   "title": "Rangers put goalie James Reimer on waivers",
+   "first": "2026-11-05T20:25:28.276227+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:07:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rangers put goalie James Reimer on waivers after just one start"
+   },
+   "last": "2026-11-05T20:25:28.276230+00:00"
+  },
+  "S5063": {
+   "title": "Brysen Wright picks Miami, reclassifies to 2027",
+   "first": "2026-11-05T20:25:28.276231+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T19:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No. 1 2028 overall recruit Brysen Wright picks Miami, reclassifies to 2027"
+   },
+   "last": "2026-11-05T20:25:28.276234+00:00"
+  },
+  "S5064": {
+   "title": "Lawson admits underestimating impact of Verstappen fight",
+   "first": "2026-11-05T20:25:28.276240+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T20:21:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mit Verstappen angelegt: Lawson hat Auswirkungen davon unterschätzt - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T20:25:28.276243+00:00"
   }
  },
- "story_seq": 5058,
+ "story_seq": 5064,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16193,7 +16253,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T20:15:21.253170+00:00",
+ "last_run": "2026-11-05T20:25:22.347883+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -17653,6 +17713,11 @@
    "t": "2026-11-05T20:15:36.422748+00:00",
    "title": "Haas, Banco Bradesco ile ilk Brezilyalı ticari ortaklığını duyurdu",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T20:25:32.388647+00:00",
+   "title": "Verstappen'a bağlanan Lawson, sonuçlarını hafife almış",
+   "source": "Motorsport-Total"
   }
  ]
 }
