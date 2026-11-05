@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5ee4f70351de3acb": "2026-10-22T20:29:02.449021+00:00",
-  "6c832b62e7e9f5d6": "2026-10-22T20:29:02.449021+00:00",
-  "dd1e77d12db9a5b9": "2026-10-22T20:29:02.449021+00:00",
-  "8c90f86ddf15b45f": "2026-10-22T20:29:02.449021+00:00",
-  "cdc3257a8859d44c": "2026-10-22T20:29:02.449021+00:00",
-  "784896907f4b315a": "2026-10-22T20:29:02.449021+00:00",
-  "2c5922b8faacb22c": "2026-10-22T20:29:02.449021+00:00",
-  "8085720ae43026d8": "2026-10-22T20:29:02.449021+00:00",
   "0968514cf0491d0f": "2026-10-22T20:39:02.257803+00:00",
   "5233c31cdb193229": "2026-10-22T20:39:02.257803+00:00",
   "16d23ff27ee0ec69": "2026-10-22T20:39:02.257803+00:00",
@@ -7647,7 +7639,12 @@
   "0dccab33f45eb87c": "2026-11-05T20:25:22.347883+00:00",
   "cecd94d707f32cdf": "2026-11-05T20:25:22.347883+00:00",
   "b325d8e2aa41307f": "2026-11-05T20:25:22.347883+00:00",
-  "57b35040c6a059c7": "2026-11-05T20:25:22.347883+00:00"
+  "57b35040c6a059c7": "2026-11-05T20:25:22.347883+00:00",
+  "fd5f2637b3e386ed": "2026-11-05T20:35:23.868400+00:00",
+  "7c6cca81d605883d": "2026-11-05T20:35:23.868400+00:00",
+  "03c91019001b94de": "2026-11-05T20:35:23.868400+00:00",
+  "9bf1692ebfb3cd44": "2026-11-05T20:35:23.868400+00:00",
+  "1f48706988f2d97d": "2026-11-05T20:35:23.868400+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7896,19 +7893,6 @@
     "ESPN F1": "Dumonts take over as controlling owners of Mavericks"
    },
    "last": "2026-11-03T22:59:31.252917+00:00"
-  },
-  "S4453": {
-   "title": "Kurtley Beale 'unfinished business' 17 years after Wallabies debut",
-   "first": "2026-11-03T20:28:24.240429+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:09:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kurtley Beale has 'unfinished business' 17 years after Wallabies debut"
-   },
-   "last": "2026-11-03T20:28:24.240447+00:00"
   },
   "S4454": {
    "title": "Rafael Camara to make F1 debut for Haas in Sao Paulo",
@@ -13675,15 +13659,17 @@
    "first": "2026-11-05T10:03:56.275080+00:00",
    "sources": {
     "GPblog": "2026-11-05T10:00:00+00:00",
-    "Crash.net": "2026-11-05T20:14:31+00:00"
+    "Crash.net": "2026-11-05T20:14:31+00:00",
+    "RacingNews365": "2026-11-05T20:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Antonelli to honour idol Senna with tribute helmet in first race as F1 champion",
-    "Crash.net": "Kimi Antonelli reveals Ayrton Senna F1 tribute helmet for Brazil GP"
+    "Crash.net": "Kimi Antonelli reveals Ayrton Senna F1 tribute helmet for Brazil GP",
+    "RacingNews365": "Kimi Antonelli unveils beautiful Ayrton Senna tribute after 'emotional' experience"
    },
-   "last": "2026-11-05T20:15:29.705865+00:00"
+   "last": "2026-11-05T20:35:29.058195+00:00"
   },
   "S4881": {
    "title": "Alonso optimistic on Aston Martin 2027 with new Honda engine",
@@ -16132,9 +16118,61 @@
     "Motorsport-Total": "Mit Verstappen angelegt: Lawson hat Auswirkungen davon unterschätzt - Motorsport-Total.com"
    },
    "last": "2026-11-05T20:25:28.276243+00:00"
+  },
+  "S5065": {
+   "title": "Verstappen says being P2 in standings is a big surprise",
+   "first": "2026-11-05T20:35:29.058159+00:00",
+   "sources": {
+    "Formula 1": "2026-11-05T20:35:29.058173+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "A 'big surprise to be second' in the standings – Verstappen"
+   },
+   "last": "2026-11-05T20:35:29.058176+00:00"
+  },
+  "S5066": {
+   "title": "Belichick among Pro Football Hall of Fame coaching candidates",
+   "first": "2026-11-05T20:35:29.058180+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T17:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bill Belichick again among 5 coaching candidates for Pro Football Hall of Fame"
+   },
+   "last": "2026-11-05T20:35:29.058184+00:00"
+  },
+  "S5067": {
+   "title": "Antonelli says he has no pressure and wants to keep winning",
+   "first": "2026-11-05T20:35:29.058187+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-05T20:25:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli riparte da Interlagos: \"Zero pensieri, voglio continuare a vincere\""
+   },
+   "last": "2026-11-05T20:35:29.058190+00:00"
+  },
+  "S5068": {
+   "title": "Russell described as mentally broken after further setback",
+   "first": "2026-11-05T20:35:29.058197+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T20:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Teneergeslagen Russell mentaal gebroken na volgende tegenvaller"
+   },
+   "last": "2026-11-05T20:35:29.058200+00:00"
   }
  },
- "story_seq": 5064,
+ "story_seq": 5068,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16253,17 +16291,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T20:25:22.347883+00:00",
+ "last_run": "2026-11-05T20:35:23.868400+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T20:35:12.327872+00:00",
-   "title": "Antonelli tarihe geçti, Verstappen 2027'ye odaklandı",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-02T22:15:11.244124+00:00",
    "title": "Cadillac F1 sahibi takımı 3 milyar dolara satmayı düşünüyor",
@@ -17718,6 +17751,16 @@
    "t": "2026-11-05T20:25:32.388647+00:00",
    "title": "Verstappen'a bağlanan Lawson, sonuçlarını hafife almış",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-05T20:35:36.002100+00:00",
+   "title": "Russell, Meksika'daki kötü yarışın ardından yorgunluğunu dile getirdi",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-05T20:35:36.477417+00:00",
+   "title": "Antonelli Interlagos'a hazır: \"Aklımda hiçbir şey yok, kazanmaya devam etmek istiyorum\"",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
