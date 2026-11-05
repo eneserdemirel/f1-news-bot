@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "88ed5f04e6742c97": "2026-10-22T06:26:56.765853+00:00",
-  "101e95b76d68181e": "2026-10-22T06:26:56.765853+00:00",
   "0858390e7e3f8d38": "2026-10-22T06:36:47.746971+00:00",
   "c045817da0f3b228": "2026-10-22T06:46:47.800414+00:00",
   "a10674136ddeb1df": "2026-10-22T06:46:47.800414+00:00",
@@ -7660,7 +7658,10 @@
   "6d03413b0c297865": "2026-11-05T06:13:09.771287+00:00",
   "0be72c5195b360b0": "2026-11-05T06:23:10.169613+00:00",
   "25415c89abd0b95b": "2026-11-05T06:23:10.169613+00:00",
-  "5899e6df028649c7": "2026-11-05T06:23:10.169613+00:00"
+  "5899e6df028649c7": "2026-11-05T06:23:10.169613+00:00",
+  "bd477aad853d062a": "2026-11-05T06:33:12.713355+00:00",
+  "30998f68ccb231d3": "2026-11-05T06:33:12.713355+00:00",
+  "fa5d4300f56a7c9b": "2026-11-05T06:33:12.713355+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8008,32 +8009,6 @@
    },
    "last": "2026-11-03T10:06:22.591283+00:00"
   },
-  "S4242": {
-   "title": "Phoenix Suns vs Golden State Warriors game highlights",
-   "first": "2026-11-03T06:26:23.676729+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T06:03:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Phoenix Suns vs. Golden State Warriors: Game Highlights"
-   },
-   "last": "2026-11-03T06:26:23.676747+00:00"
-  },
-  "S4243": {
-   "title": "Christian Doerr and-1 basketball bucket",
-   "first": "2026-11-03T06:26:23.676754+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T03:31:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Christian Doerr with the and-1 bucket"
-   },
-   "last": "2026-11-03T06:26:23.676760+00:00"
-  },
   "S4244": {
    "title": "Letran Knights winning without Titing Manalili",
    "first": "2026-11-03T06:26:23.676765+00:00",
@@ -8046,32 +8021,6 @@
     "ESPN F1": "How are Letran Knights winning without Titing Manalili?"
    },
    "last": "2026-11-03T06:46:20.636056+00:00"
-  },
-  "S4245": {
-   "title": "Bonnington says Antonelli was a rough diamond early on",
-   "first": "2026-11-03T06:26:23.676773+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-03T06:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli Mercedes ally makes key admission: 'But it was so rough'"
-   },
-   "last": "2026-11-03T06:26:23.676778+00:00"
-  },
-  "S4246": {
-   "title": "Untelevised Russell team radio after Mexican GP revealed",
-   "first": "2026-11-03T06:26:23.676780+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-03T06:19:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘I’m gonna shut the f**k up’ – Untelevised George Russell team radio after Mexican GP ‘s**tshow’"
-   },
-   "last": "2026-11-03T06:26:23.676784+00:00"
   },
   "S4247": {
    "title": "ESPN item on Jeffery Simmons' first sack with Bears",
@@ -14500,7 +14449,7 @@
    "titles": {
     "GPFans": "Lewis Hamilton issues Ferrari statement with clear messsage to Charles Leclerc"
    },
-   "last": "2026-11-04T19:01:58.340617+00:00"
+   "last": "2026-11-05T06:33:17.537732+00:00"
   },
   "S4726": {
    "title": "Nick Sirianni has support from Eagles owner Jeffrey Lurie",
@@ -15963,9 +15912,35 @@
     "ESPN F1": "Lakers 116-103 Kings (Nov 4, 2026) Game Recap"
    },
    "last": "2026-11-05T06:23:12.434328+00:00"
+  },
+  "S4838": {
+   "title": "Verstappen voices surprise at Red Bull's latest F1 development",
+   "first": "2026-11-05T06:33:17.537705+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen voices Red Bull surprise after latest F1 development"
+   },
+   "last": "2026-11-05T06:33:17.537723+00:00"
+  },
+  "S4839": {
+   "title": "F1 expert says Hamilton and Leclerc must face penalties",
+   "first": "2026-11-05T06:33:17.537737+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T06:25:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Experte rechnet mit Hamilton und Leclerc ab: \"Es muss Strafen geben\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T06:33:17.537741+00:00"
   }
  },
- "story_seq": 4837,
+ "story_seq": 4839,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16084,7 +16059,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T06:23:10.169613+00:00",
+ "last_run": "2026-11-05T06:33:12.713355+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
@@ -17464,6 +17439,11 @@
    "t": "2026-11-05T06:13:17.859479+00:00",
    "title": "Brezilya GP öncesi tahminler: Verstappen yağmurda favori, Russell zor bir hafta",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T06:33:22.904164+00:00",
+   "title": "F1 uzmanı Hamilton ve Leclerc'i eleştirdi: \"Cezalar olmalı\"",
+   "source": "Motorsport-Total"
   }
  ]
 }
