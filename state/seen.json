@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0968514cf0491d0f": "2026-10-22T20:39:02.257803+00:00",
-  "5233c31cdb193229": "2026-10-22T20:39:02.257803+00:00",
-  "16d23ff27ee0ec69": "2026-10-22T20:39:02.257803+00:00",
-  "e887b64bae978fb6": "2026-10-22T20:39:02.257803+00:00",
-  "a68409529d3702cc": "2026-10-22T20:39:02.257803+00:00",
-  "57c1ea8cbb37fca4": "2026-10-22T20:39:02.257803+00:00",
-  "72a4bdf03162154f": "2026-10-22T20:39:02.257803+00:00",
   "28019c6eaa31322a": "2026-10-22T20:49:01.876029+00:00",
   "730245334d8b9c0f": "2026-10-22T20:49:01.876029+00:00",
   "70fd12e03c4d6f16": "2026-10-22T20:49:01.876029+00:00",
@@ -7644,7 +7637,10 @@
   "7c6cca81d605883d": "2026-11-05T20:35:23.868400+00:00",
   "03c91019001b94de": "2026-11-05T20:35:23.868400+00:00",
   "9bf1692ebfb3cd44": "2026-11-05T20:35:23.868400+00:00",
-  "1f48706988f2d97d": "2026-11-05T20:35:23.868400+00:00"
+  "1f48706988f2d97d": "2026-11-05T20:35:23.868400+00:00",
+  "b0274eca812fd7a2": "2026-11-05T20:45:21.065260+00:00",
+  "af7c901223300cf4": "2026-11-05T20:45:21.065260+00:00",
+  "2c9e885f24617662": "2026-11-05T20:45:21.065260+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7842,19 +7838,6 @@
    },
    "last": "2026-11-03T23:50:18.324913+00:00"
   },
-  "S4439": {
-   "title": "MLB proposes delaying salary cap until 2028 season",
-   "first": "2026-11-03T19:28:33.261691+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T19:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "MLB proposes delaying salary cap until 2028 season"
-   },
-   "last": "2026-11-03T20:38:28.807990+00:00"
-  },
   "S4441": {
    "title": "NYC Marathon runner dies after collapsing near finish",
    "first": "2026-11-03T19:38:28.229117+00:00",
@@ -7938,58 +7921,6 @@
     "FormulaPassion": "Ufficiale: Ocon non correrà più per la Haas in questo finale di stagione, in Brasile spazio a Camara"
    },
    "last": "2026-11-04T11:32:15.101512+00:00"
-  },
-  "S4455": {
-   "title": "Monaco add USMNT's Balogun to Conference League squad",
-   "first": "2026-11-03T20:38:28.807960+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Monaco add USMNT's Balogun to Conference League squad after goal"
-   },
-   "last": "2026-11-03T20:38:28.807965+00:00"
-  },
-  "S4456": {
-   "title": "Shane Beamer praises Gamecocks' resilience through adversity",
-   "first": "2026-11-03T20:38:28.807969+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:15:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Shane Beamer praises Gamecocks' resilience through adversity"
-   },
-   "last": "2026-11-03T20:38:28.807972+00:00"
-  },
-  "S4457": {
-   "title": "Inter Milan vs. Como betting odds and spread",
-   "first": "2026-11-03T20:38:28.807975+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:14:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Inter Milan vs. Como (Nov 8, 2026) Odds and Spread"
-   },
-   "last": "2026-11-03T20:38:28.807978+00:00"
-  },
-  "S4458": {
-   "title": "Drinkwitz says he is not a candidate for Florida State job",
-   "first": "2026-11-03T20:38:28.807981+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Missouri's Eli Drinkwitz: 'I am not a candidate' for Florida State job"
-   },
-   "last": "2026-11-03T20:38:28.807984+00:00"
   },
   "S4459": {
    "title": "Saliba 'ready to go' for Arsenal after World Cup injury",
@@ -16170,9 +16101,48 @@
     "RacingNews365 NL": "Teneergeslagen Russell mentaal gebroken na volgende tegenvaller"
    },
    "last": "2026-11-05T20:35:29.058200+00:00"
+  },
+  "S5069": {
+   "title": "FIA Thursday press conference transcript for Sao Paulo GP",
+   "first": "2026-11-05T20:45:25.232908+00:00",
+   "sources": {
+    "FIA": "2026-11-05T16:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "F1 - 2026 São Paulo Grand Prix - Thursday Press Conference Transcript"
+   },
+   "last": "2026-11-05T20:45:25.232926+00:00"
+  },
+  "S5070": {
+   "title": "FC Twente vs Pafos live score",
+   "first": "2026-11-05T20:45:25.232930+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:14:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "FC Twente vs. Pafos (5 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-05T20:45:25.232934+00:00"
+  },
+  "S5071": {
+   "title": "Camara thanks Ferrari ahead of shock Haas F1 debut",
+   "first": "2026-11-05T20:45:25.232937+00:00",
+   "sources": {
+    "GPFans": "2026-11-05T20:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 star thanks Ferrari ahead of shock grand prix debut"
+   },
+   "last": "2026-11-05T20:45:25.232940+00:00"
   }
  },
- "story_seq": 5068,
+ "story_seq": 5071,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16291,7 +16261,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T20:35:23.868400+00:00",
+ "last_run": "2026-11-05T20:45:21.065260+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -17761,6 +17731,16 @@
    "t": "2026-11-05T20:35:36.477417+00:00",
    "title": "Antonelli Interlagos'a hazır: \"Aklımda hiçbir şey yok, kazanmaya devam etmek istiyorum\"",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-05T20:45:31.665417+00:00",
+   "title": "F1 2026 São Paulo Grand Prix perşembe basın toplantısı yapıldı",
+   "source": "FIA"
+  },
+  {
+   "t": "2026-11-05T20:45:32.166852+00:00",
+   "title": "Hirakawa'nın yerine Camara Brezilya'da F1 debutosunu yapacak",
+   "source": "GPFans"
   }
  ]
 }
