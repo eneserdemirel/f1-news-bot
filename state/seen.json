@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "97272a9359793b81": "2026-10-22T14:58:17.530815+00:00",
-  "4ba4900c1b759af3": "2026-10-22T14:58:17.530815+00:00",
-  "645e26b5c3b56227": "2026-10-22T14:58:17.530815+00:00",
-  "8f4f130022a67d93": "2026-10-22T14:58:17.530815+00:00",
-  "0854a6662e099f2e": "2026-10-22T14:58:17.530815+00:00",
   "3f4a850454fee0a1": "2026-10-22T15:08:16.501856+00:00",
   "5c47ed08d7da11a2": "2026-10-22T15:08:16.501856+00:00",
   "bce7b72a9f18ce09": "2026-10-22T15:08:16.501856+00:00",
@@ -7655,7 +7650,12 @@
   "49fef8d1b33707c5": "2026-11-05T14:44:24.895982+00:00",
   "555d208ca9f28b12": "2026-11-05T14:54:26.501421+00:00",
   "69940cfe89a22b13": "2026-11-05T14:54:26.501421+00:00",
-  "327c53a8e4621107": "2026-11-05T14:54:26.501421+00:00"
+  "327c53a8e4621107": "2026-11-05T14:54:26.501421+00:00",
+  "7dfd6737d69d203d": "2026-11-05T15:04:26.387417+00:00",
+  "ee05e5b453a08f97": "2026-11-05T15:04:26.387417+00:00",
+  "5b94c3f94aeaf454": "2026-11-05T15:04:26.387417+00:00",
+  "403c802eadebe262": "2026-11-05T15:04:26.387417+00:00",
+  "074cb291883ffc4e": "2026-11-05T15:04:26.387417+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7971,32 +7971,6 @@
     "Formula 1": "When could Mercedes win the 2026 Teams' Championship?"
    },
    "last": "2026-11-04T17:01:23.013400+00:00"
-  },
-  "S4369": {
-   "title": "Top 50 MLB free agents rankings and contract projections",
-   "first": "2026-11-03T14:57:06.485515+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rankings, contract projections: Top 50 2026-27 MLB free agents"
-   },
-   "last": "2026-11-03T14:57:06.485537+00:00"
-  },
-  "S4370": {
-   "title": "Verstappen's Mexico win from fifth sharpens his unique record",
-   "first": "2026-11-03T14:57:06.485543+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-03T14:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen scherpt eigen unieke record aan met zege in Mexico"
-   },
-   "last": "2026-11-03T14:57:06.485549+00:00"
   },
   "S4371": {
    "title": "Police open investigation into death of Tenerife player de Miguel",
@@ -14927,7 +14901,7 @@
    "titles": {
     "ESPN F1": "Cristiano Ronaldo retires from international football with Portugal"
    },
-   "last": "2026-11-05T12:13:53.557566+00:00"
+   "last": "2026-11-05T15:04:30.977654+00:00"
   },
   "S4886": {
    "title": "Mental coach Ceccarelli says Ferrari drivers may clash again",
@@ -15837,9 +15811,61 @@
     "RacingNews365 NL": "Honda verklaart opmerkelijke problemen Aston Martin"
    },
    "last": "2026-11-05T14:54:31.030876+00:00"
+  },
+  "S4955": {
+   "title": "Seven rookie drivers set for Sao Paulo GP FP1",
+   "first": "2026-11-05T15:04:30.977664+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T14:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "The seven F1 rookies who will drive in Sao Paulo Grand Prix FP1"
+   },
+   "last": "2026-11-05T15:04:30.977671+00:00"
+  },
+  "S4956": {
+   "title": "Latest weather forecast for Sao Paulo Grand Prix weekend",
+   "first": "2026-11-05T15:04:30.977677+00:00",
+   "sources": {
+    "GPFans": "2026-11-05T14:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Brazilian Grand Prix weather forecast: Latest from Sao Paulo"
+   },
+   "last": "2026-11-05T15:04:30.977682+00:00"
+  },
+  "S4957": {
+   "title": "San Marino town displays giant banner for Antonelli's title",
+   "first": "2026-11-05T15:04:30.977686+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-05T14:48:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "San Marino accoglie il 'suo' campione: \"Kimi Antonelli World Champion 2026\""
+   },
+   "last": "2026-11-05T15:04:30.977690+00:00"
+  },
+  "S4958": {
+   "title": "Brazil has two drivers on F1 grid for first time in decade",
+   "first": "2026-11-05T15:04:30.977694+00:00",
+   "sources": {
+    "AS": "2026-11-05T14:57:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Brasil recupera su protagonismo en la Fórmula 1"
+   },
+   "last": "2026-11-05T15:04:30.977698+00:00"
   }
  },
- "story_seq": 4954,
+ "story_seq": 4958,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15958,22 +15984,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T14:54:26.501421+00:00",
+ "last_run": "2026-11-05T15:04:26.387417+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T15:04:20.446051+00:00",
-   "title": "Alonso, Albon'a şaka yollu boğazından tuttu",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-02T15:04:20.909474+00:00",
-   "title": "Hamilton ve Leclerc, Antonelli döneminin başlamasıyla kafa yormalı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-02T15:14:45.229108+00:00",
    "title": "Montezemolo: Antonelli bir gün Ferrari'ye gelebilir",
@@ -17273,6 +17289,21 @@
    "t": "2026-11-05T14:44:31.901459+00:00",
    "title": "Verstappen'in olası şanzıman cezasına dair yeni detaylar",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-05T15:04:38.462380+00:00",
+   "title": "San Marino, Kimi Antonelli'yi 'Dünya Şampiyonu 2026' yazısıyla karşıladı",
+   "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-11-05T15:04:38.856138+00:00",
+   "title": "Sao Paulo GP FP1'de yedi F1 acemisi pistte olacak",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T15:04:39.217914+00:00",
+   "title": "Brezilya, Formula 1'de on yıl sonra yeniden iki pilotla temsil edilecek",
+   "source": "AS"
   }
  ]
 }
