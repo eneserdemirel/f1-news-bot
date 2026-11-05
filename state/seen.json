@@ -7642,7 +7642,9 @@
   "7fe6b0fd522af9c6": "2026-11-05T10:13:50.226625+00:00",
   "da757bd4022bca5e": "2026-11-05T10:23:55.082167+00:00",
   "027872aa0e294b13": "2026-11-05T10:23:55.082167+00:00",
-  "308d17227a8acfe5": "2026-11-05T10:23:55.082167+00:00"
+  "308d17227a8acfe5": "2026-11-05T10:23:55.082167+00:00",
+  "753d54bc5774c18f": "2026-11-05T10:33:51.692116+00:00",
+  "89b38a9becfcbe91": "2026-11-05T10:33:51.692116+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8027,19 +8029,6 @@
     "ESPN F1": "Finlay Bean makes switch from Yorkshire to Northants"
    },
    "last": "2026-11-03T10:46:23.307525+00:00"
-  },
-  "S4305": {
-   "title": "Tenerife forward Jesús de Miguel dies aged 30 after collision",
-   "first": "2026-11-03T10:26:20.691150+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T08:54:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tenerife forward Jesús de Miguel dies aged 30 after on-field collision"
-   },
-   "last": "2026-11-03T10:26:20.691156+00:00"
   },
   "S4306": {
    "title": "Best images from Antonelli's title-winning celebrations",
@@ -15412,14 +15401,16 @@
    "title": "Rosberg thankful to Verstappen for 2016 title fight",
    "first": "2026-11-05T08:13:14.315316+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-05T08:10:00+00:00"
+    "RacingNews365 NL": "2026-11-05T08:10:00+00:00",
+    "RacingNews365": "2026-11-05T10:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Rosberg is 'Mad Max' Verstappen eeuwig dankbaar: \"50% kans om te crashen!\""
+    "RacingNews365 NL": "Rosberg is 'Mad Max' Verstappen eeuwig dankbaar: \"50% kans om te crashen!\"",
+    "RacingNews365": "Nico Rosberg issues 'forever grateful' Max Verstappen message after crash fear"
    },
-   "last": "2026-11-05T08:13:14.315321+00:00"
+   "last": "2026-11-05T10:33:54.772707+00:00"
   },
   "S4856": {
    "title": "Williams statement on death of Alan Jones",
@@ -15790,9 +15781,22 @@
     "FormulaPassion": "Rosberg: “Wolff aveva dato istruzioni chiare a me e Hamilton sui duelli in gara, in Ferrari evidentemente non ci sono regole”"
    },
    "last": "2026-11-05T10:23:58.688146+00:00"
+  },
+  "S4884": {
+   "title": "Analysis: why sacking Liam Lawson would be unprecedented for Red Bull",
+   "first": "2026-11-05T10:33:54.772717+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Why sacking Liam Lawson would be unprecedented - even for ruthless Red Bull"
+   },
+   "last": "2026-11-05T10:33:54.772723+00:00"
   }
  },
- "story_seq": 4883,
+ "story_seq": 4884,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15911,17 +15915,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T10:23:55.082167+00:00",
+ "last_run": "2026-11-05T10:33:51.692116+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T10:33:35.318849+00:00",
-   "title": "Wolff: Antonelli, iyi bir insan olduğu için kazanıyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-02T10:43:26.627029+00:00",
    "title": "Kimi Antonelli'ye Cesare Cremonini, Yuri Chechi ve birçok isimden tebrik",
