@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9c8d25940d04f799": "2026-10-22T09:47:32.396483+00:00",
-  "4e0ef1ce1c18dc61": "2026-10-22T09:47:32.396483+00:00",
-  "44c5bc10a4307519": "2026-10-22T09:47:32.396483+00:00",
   "92787d4fbc9b69e3": "2026-10-22T09:57:33.707662+00:00",
   "77bf27130b14b21b": "2026-10-22T09:57:33.707662+00:00",
   "b8be7cf4cf556af3": "2026-10-22T10:07:30.834315+00:00",
@@ -7636,7 +7633,12 @@
   "e05c82fa62fed79d": "2026-11-05T09:43:50.718949+00:00",
   "c247eb79111a12f6": "2026-11-05T09:43:50.718949+00:00",
   "a90fde13992eb919": "2026-11-05T09:43:50.718949+00:00",
-  "5e3713f9640f8779": "2026-11-05T09:43:50.718949+00:00"
+  "5e3713f9640f8779": "2026-11-05T09:43:50.718949+00:00",
+  "81b80eb48f52aed3": "2026-11-05T09:53:50.363025+00:00",
+  "f6b5c5943c6200f5": "2026-11-05T09:53:50.363025+00:00",
+  "e17c6ea8c80b35da": "2026-11-05T09:53:50.363025+00:00",
+  "e17501ddf6552190": "2026-11-05T09:53:50.363025+00:00",
+  "001b65b4608e97d3": "2026-11-05T09:53:50.363025+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8060,19 +8062,6 @@
     "GPblog": "Hamilton reveals Vasseur appeared 'nervous' before his Mexico GP clash with Leclerc"
    },
    "last": "2026-11-03T19:08:27.299266+00:00"
-  },
-  "S4297": {
-   "title": "Lakers 138-117 Heat game recap",
-   "first": "2026-11-03T09:46:20.695506+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T05:43:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lakers 138-117 Heat (Nov 2, 2026) Game Recap"
-   },
-   "last": "2026-11-03T09:46:20.695524+00:00"
   },
   "S4298": {
    "title": "Samad to lead Pakistan Shaheens in Rising Stars Asia Cup",
@@ -15557,15 +15546,17 @@
    "first": "2026-11-05T08:23:23.470312+00:00",
    "sources": {
     "RacingNews365": "2026-11-05T08:19:00+00:00",
-    "RacingNews365 NL": "2026-11-05T08:50:00+00:00"
+    "RacingNews365 NL": "2026-11-05T08:50:00+00:00",
+    "PlanetF1": "2026-11-05T09:49:55+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Williams release statement after 'legend' Alan Jones saddening death",
-    "RacingNews365 NL": "Williams deelt statement na overlijden Jones"
+    "RacingNews365 NL": "Williams deelt statement na overlijden Jones",
+    "PlanetF1": "Williams leads tributes to Alan Jones, a ‘fast, uncompromising racer’"
    },
-   "last": "2026-11-05T09:03:16.910132+00:00"
+   "last": "2026-11-05T09:53:54.754537+00:00"
   },
   "S4857": {
    "title": "Piero Ferrari wants Antonelli in Ferrari red",
@@ -15800,9 +15791,48 @@
     "RacingNews365": "Charles Leclerc confirms Lewis Hamilton talks intention after 'grey area' exposed"
    },
    "last": "2026-11-05T09:43:56.031652+00:00"
+  },
+  "S4875": {
+   "title": "Murder investigation launched after non-league footballer dies",
+   "first": "2026-11-05T09:53:54.754498+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T09:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ezekiel Williams: Murder investigation launched after non-league footballer dies"
+   },
+   "last": "2026-11-05T09:53:54.754518+00:00"
+  },
+  "S4876": {
+   "title": "Leclerc refuses to take blame for Hamilton Mexico clash",
+   "first": "2026-11-05T09:53:54.754525+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-05T09:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Charles Leclerc refuses to take the blame for ‘mistake we both made’ after Lewis Hamilton clash at Mexico"
+   },
+   "last": "2026-11-05T09:53:54.754531+00:00"
+  },
+  "S4877": {
+   "title": "Commentary: Hamilton must hold serious talks, including with himself",
+   "first": "2026-11-05T09:53:54.754541+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T09:46:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kommentar: Hamilton muss \"ernste Gespräche\" führen - auch mit sich selbst - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T09:53:54.754545+00:00"
   }
  },
- "story_seq": 4874,
+ "story_seq": 4877,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15921,32 +15951,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T09:43:50.718949+00:00",
+ "last_run": "2026-11-05T09:53:50.363025+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T09:53:38.156732+00:00",
-   "title": "Pirelli, Bridgestone'un F1 lastik ihalesi tehdidine yanıt vermekten kaçındı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-02T09:53:38.537646+00:00",
-   "title": "Meksika'daki WM kararını kaç kişi yerinde izledi?",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-02T09:53:38.963987+00:00",
-   "title": "Toto Wolff: Kimi Antonelli tevazu, yetenek ve kişilik sahibi",
-   "source": "Gazzetta dello Sport"
-  },
-  {
-   "t": "2026-11-02T09:53:39.325192+00:00",
-   "title": "Hamilton, Verstappen'i geçirdikleri için takım arkadaşına tepki gösterdi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-02T10:13:30.170078+00:00",
    "title": "Antonelli'ye yabancı basından övgü: \"En genç kral\"",
@@ -17306,6 +17316,11 @@
    "t": "2026-11-05T09:44:02.643265+00:00",
    "title": "Leclerc, Hamilton ile konuşacağını doğruladı; 'gri alan' tartışması",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T09:54:01.596445+00:00",
+   "title": "Leclerc, Hamilton ile yaşanan temasta hatanın ikisine ait olduğunu söyledi",
+   "source": "Motorsport Week"
   }
  ]
 }
