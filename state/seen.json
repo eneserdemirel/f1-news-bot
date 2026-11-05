@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "981b42f742938a28": "2026-10-22T07:27:32.584293+00:00",
-  "3bbf2aca615374f7": "2026-10-22T07:27:32.584293+00:00",
-  "b256ebf0655b24c2": "2026-10-22T07:27:32.584293+00:00",
-  "57051b3a7af9176c": "2026-10-22T07:27:32.584293+00:00",
-  "17b3c685480ff996": "2026-10-22T07:27:32.584293+00:00",
-  "7721e41400c3fcd8": "2026-10-22T07:27:32.584293+00:00",
   "0a89391d2e5169ce": "2026-10-22T07:37:32.041169+00:00",
   "5405327fb60a3541": "2026-10-22T07:37:32.041169+00:00",
   "af7f8ff6f527a595": "2026-10-22T07:37:32.041169+00:00",
@@ -7629,7 +7623,9 @@
   "b063b73b591c47ac": "2026-11-05T07:13:09.786215+00:00",
   "f3b2740c50e7ffa7": "2026-11-05T07:13:09.786215+00:00",
   "c0139c5c4d7d1368": "2026-11-05T07:23:10.876636+00:00",
-  "8090ac6c4aac3ac6": "2026-11-05T07:23:10.876636+00:00"
+  "8090ac6c4aac3ac6": "2026-11-05T07:23:10.876636+00:00",
+  "8968ad96cffdec10": "2026-11-05T07:33:09.409953+00:00",
+  "24411c6cb95655b7": "2026-11-05T07:33:09.409953+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7768,36 +7764,6 @@
     "Motorsport Week": "Kimi Antonelli to keep No 12 as champion: ‘Number one has never been a good number for me’"
    },
    "last": "2026-11-03T13:17:08.561068+00:00"
-  },
-  "S4094": {
-   "title": "Motorsport-Total Mexico GP driver ratings: Bortoleto up, Piastri down",
-   "first": "2026-11-02T15:54:16.414430+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-02T15:30:08+00:00",
-    "Motorsport Week": "2026-11-03T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Fahrernoten Mexiko: Gabriel Bortoleto glänzt, Oscar Piastri floppt - Motorsport-Total.com",
-    "Motorsport Week": "Motorsport Week’s 2026 F1 Mexico City GP Driver Ratings"
-   },
-   "last": "2026-11-03T07:26:23.021783+00:00"
-  },
-  "S4107": {
-   "title": "Bottas says he suffered most from Cadillac's problems",
-   "first": "2026-11-02T17:04:12.171936+00:00",
-   "sources": {
-    "GPblog": "2026-11-02T17:01:00+00:00",
-    "Motorsport-Total": "2026-11-03T07:15:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Bottas claims he has had the worst of Cadillac's problems after Mexico suspension failure",
-    "Motorsport-Total": "\"Verdammte Scheiße!\": Valtteri Bottas nach heftigem Abflug bedient - Motorsport-Total.com"
-   },
-   "last": "2026-11-03T07:26:23.021831+00:00"
   },
   "S4111": {
    "title": "Red Bull strategy move helped Verstappen win Mexico",
@@ -8010,58 +7976,6 @@
     "Gazzetta dello Sport": "Alle origini di Kimi: il vivaio che ha contribuito a renderlo un campione del mondo"
    },
    "last": "2026-11-03T07:36:18.914346+00:00"
-  },
-  "S4259": {
-   "title": "Vasseur downplays pre-race talks with Hamilton and Leclerc",
-   "first": "2026-11-03T07:26:23.021792+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Colloqui pre gara con i piloti, Vasseur minimizza: “Se ne potrebbe parlare per anni…”"
-   },
-   "last": "2026-11-03T07:26:23.021799+00:00"
-  },
-  "S4260": {
-   "title": "Liuzzi praises Antonelli's title and says he demolished Russell",
-   "first": "2026-11-03T07:26:23.021804+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli campione del mondo, Liuzzi: “Ha demolito Russell, uno veloce e ‘politico’”"
-   },
-   "last": "2026-11-03T07:26:23.021810+00:00"
-  },
-  "S4261": {
-   "title": "Wolff reveals Lapo Elkann quote he told Antonelli before race",
-   "first": "2026-11-03T07:26:23.021813+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Wolff: “Prima del via ho detto a Kimi una frase di Lapo Elkann”"
-   },
-   "last": "2026-11-03T07:26:23.021818+00:00"
-  },
-  "S4262": {
-   "title": "Analysis of Antonelli's unique style behind his Mexico title",
-   "first": "2026-11-03T07:26:23.021821+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T07:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Immenso Kimi: lo stile unico che ha reso naturale l’innaturale"
-   },
-   "last": "2026-11-03T07:26:23.021825+00:00"
   },
   "S4263": {
    "title": "Antonelli plans to frame iconic Hamilton-Verstappen photo",
@@ -15886,9 +15800,35 @@
     "GPFans": "Charles Leclerc singled out by Italian newspaper with brutal Hamilton clash verdict"
    },
    "last": "2026-11-05T07:23:13.057062+00:00"
+  },
+  "S4849": {
+   "title": "Empty ESPN F1 item with no content",
+   "first": "2026-11-05T07:33:12.598860+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T01:58:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "ESPN Global"
+   },
+   "last": "2026-11-05T07:33:12.598878+00:00"
+  },
+  "S4850": {
+   "title": "Rosberg says Leclerc at fault in Hamilton Mexico clash",
+   "first": "2026-11-05T07:33:12.598884+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T07:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Rosberg defends Lewis Hamilton after Ferrari clash: 'Always Charles' fault'"
+   },
+   "last": "2026-11-05T07:33:12.598888+00:00"
   }
  },
- "story_seq": 4848,
+ "story_seq": 4850,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16007,22 +15947,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T07:23:10.876636+00:00",
+ "last_run": "2026-11-05T07:33:09.409953+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T07:27:40.496622+00:00",
-   "title": "Leclerc, Hamilton'a saldırmasını Verstappen'in konumuna bağladı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-02T07:27:40.853295+00:00",
-   "title": "Antonelli 2027'de dünya şampiyonu olarak 1 numaralı yarış numarasını kullanmayacak",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-02T07:42:41.451544+00:00",
    "title": "Toto Wolff, Meksika GP sonrası George Russell'dan özür diledi",
@@ -17402,6 +17332,11 @@
    "t": "2026-11-05T07:13:19.682441+00:00",
    "title": "Kimi Antonelli, F1 tarihinin en genç şampiyonu oldu",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T07:33:16.653308+00:00",
+   "title": "Rosberg, Hamilton'ı savunuyor: \"Hep Charles'ın hatası\"",
+   "source": "GPblog"
   }
  ]
 }
