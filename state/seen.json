@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9221a5dff9fa9ca9": "2026-10-22T13:58:15.664865+00:00",
-  "64ea033254ae88eb": "2026-10-22T13:58:15.664865+00:00",
-  "a7ef2fb39adf3ee3": "2026-10-22T13:58:15.664865+00:00",
-  "8caa50ac5e84ae47": "2026-10-22T13:58:15.664865+00:00",
   "4b81cb711ce1dd42": "2026-10-22T14:08:15.280856+00:00",
   "06e667d13f526847": "2026-10-22T14:18:16.087838+00:00",
   "153d975f6ac958f7": "2026-10-22T14:18:16.087838+00:00",
@@ -7647,7 +7643,11 @@
   "6eefd6ecbb7de0df": "2026-11-05T13:43:49.702278+00:00",
   "be9e5a49b06e8ea6": "2026-11-05T13:53:51.138151+00:00",
   "cf32fe39029166b2": "2026-11-05T13:53:51.138151+00:00",
-  "50cd3c626c4cccb6": "2026-11-05T13:53:51.138151+00:00"
+  "50cd3c626c4cccb6": "2026-11-05T13:53:51.138151+00:00",
+  "404085f99610d3fe": "2026-11-05T14:03:51.390659+00:00",
+  "ecc77242997d13c6": "2026-11-05T14:03:51.390659+00:00",
+  "f3488232374a74a5": "2026-11-05T14:03:51.390659+00:00",
+  "6a3b160e383ea067": "2026-11-05T14:03:51.390659+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8004,32 +8004,6 @@
     "ESPN F1": "Sources: New York Liberty not retaining coach Chris DeMarco after 1 year at helm"
    },
    "last": "2026-11-03T16:48:20.503834+00:00"
-  },
-  "S4357": {
-   "title": "Gazzetta column: Antonelli and Verstappen 2027 generational duel",
-   "first": "2026-11-03T13:47:03.551904+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-03T13:41:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Kimi, nel 2027 sarà duello generazionale con Verstappen. Aspettando le Ferrari..."
-   },
-   "last": "2026-11-03T13:57:07.533639+00:00"
-  },
-  "S4358": {
-   "title": "Autosport explains why Honda PU lasted five laps in Mexico",
-   "first": "2026-11-03T13:57:07.533611+00:00",
-   "sources": {
-    "Autosport": "2026-11-03T13:45:54+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "The reason behind Honda’s power unit lasting five laps in Mexico GP"
-   },
-   "last": "2026-11-03T13:57:07.533629+00:00"
   },
   "S4359": {
    "title": "Michelle Gisin retires after training crash (skiing, not F1)",
@@ -15820,9 +15794,48 @@
     "ESPN F1": "Which team needs Jonathan Taylor the most?"
    },
    "last": "2026-11-05T13:53:54.114781+00:00"
+  },
+  "S4939": {
+   "title": "Steve Tandy says Wales must embrace English-based players",
+   "first": "2026-11-05T14:03:56.277155+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T13:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nations Championship: Wales must embrace English-based players - Steve Tandy"
+   },
+   "last": "2026-11-05T14:03:56.277175+00:00"
+  },
+  "S4940": {
+   "title": "Calls for stricter Ferrari rules after Hamilton-Leclerc clash",
+   "first": "2026-11-05T14:03:56.277181+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T13:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Are stricter Ferrari rules needed after latest Lewis Hamilton-Charles Leclerc clash?"
+   },
+   "last": "2026-11-05T14:03:56.277186+00:00"
+  },
+  "S4941": {
+   "title": "Ocon dropped early by two teams in three seasons analysis",
+   "first": "2026-11-05T14:03:56.277190+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Esteban Ocon dropped early by two teams in three seasons as reserve role beckons"
+   },
+   "last": "2026-11-05T14:03:56.277196+00:00"
   }
  },
- "story_seq": 4938,
+ "story_seq": 4941,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15941,17 +15954,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T13:53:51.138151+00:00",
+ "last_run": "2026-11-05T14:03:51.390659+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T14:03:33.925974+00:00",
-   "title": "2026 F1 takım arkadaşı karşılaştırmaları Meksika GP sonrası güncellendi",
-   "source": "Sky Sports F1"
-  },
   {
    "t": "2026-11-02T14:23:29.077216+00:00",
    "title": "Bonnington, Antonelli'nin şampiyonluk yılındaki en iyi üç yarışını seçti",
