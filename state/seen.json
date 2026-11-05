@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a9f496d90f939509": "2026-10-22T17:29:06.362958+00:00",
-  "dcb9fb52a24378c1": "2026-10-22T17:29:06.362958+00:00",
   "e737d0ed4c0484f8": "2026-10-22T17:39:08.120371+00:00",
   "ef78374ef25fcdc4": "2026-10-22T17:39:08.120371+00:00",
   "46503b660411df87": "2026-10-22T17:49:05.677015+00:00",
@@ -7645,7 +7643,11 @@
   "8813ea8767c1ecb2": "2026-11-05T17:25:20.389395+00:00",
   "f1c11a57387912b5": "2026-11-05T17:25:20.389395+00:00",
   "c6ac494a85b3f9f2": "2026-11-05T17:25:20.389395+00:00",
-  "5381248ca9624842": "2026-11-05T17:25:20.389395+00:00"
+  "5381248ca9624842": "2026-11-05T17:25:20.389395+00:00",
+  "373023c80d8ef6af": "2026-11-05T17:35:24.220004+00:00",
+  "8ce383a4043e5e21": "2026-11-05T17:35:24.220004+00:00",
+  "bf102c1bd9b0aa85": "2026-11-05T17:35:24.220004+00:00",
+  "77913c6027c8944f": "2026-11-05T17:35:24.220004+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7831,19 +7833,6 @@
     "RacingNews365 NL": "McLaren geeft felle strijd met Red Bull niet op"
    },
    "last": "2026-11-04T13:51:22.971483+00:00"
-  },
-  "S4413": {
-   "title": "Argentina names first squad without Lionel Messi for November friendlies",
-   "first": "2026-11-03T17:28:17.221849+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Argentina sets first call-up without Lionel Messi for November friendlies"
-   },
-   "last": "2026-11-03T17:28:17.221868+00:00"
   },
   "S4414": {
    "title": "Former F1 legends' road cars sold at auction",
@@ -15449,14 +15438,16 @@
    "title": "Camara leaves F2 return open after surprise Haas call-up",
    "first": "2026-11-05T16:25:27.418656+00:00",
    "sources": {
-    "GPblog": "2026-11-05T16:15:00+00:00"
+    "GPblog": "2026-11-05T16:15:00+00:00",
+    "RacingNews365": "2026-11-05T17:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Camara leaves F2 return open after 'very surprising' Haas call-up"
+    "GPblog": "Camara leaves F2 return open after 'very surprising' Haas call-up",
+    "RacingNews365": "Rafael Camara addresses key F2 question ahead of surprise F1 debut"
    },
-   "last": "2026-11-05T16:25:27.418660+00:00"
+   "last": "2026-11-05T17:35:29.095432+00:00"
   },
   "S4981": {
    "title": "Anthony Gordon's LaLiga goals and assists so far",
@@ -15732,9 +15723,37 @@
     "Auto Motor und Sport": "Formel 1: Auf diese Ratgeber hört der F1-Dominator Andrea Kimi Antonelli"
    },
    "last": "2026-11-05T17:25:25.798461+00:00"
+  },
+  "S5002": {
+   "title": "Apple may expand F1 broadcast rights beyond the US",
+   "first": "2026-11-05T17:35:29.095408+00:00",
+   "sources": {
+    "The Race": "2026-11-05T17:33:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 thinks Apple will expand broadcast rights beyond the US"
+   },
+   "last": "2026-11-05T17:35:29.095426+00:00"
+  },
+  "S5003": {
+   "title": "Verstappen jokes he installed antivirus on his Red Bull",
+   "first": "2026-11-05T17:35:29.095436+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T17:30:00+00:00",
+    "GPblog": "2026-11-05T17:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen installeert 'antivirus' in Red Bull",
+    "GPblog": "Verstappen has a trick to beat F1's software issues: 'I installed antivirus on my car'"
+   },
+   "last": "2026-11-05T17:35:29.095442+00:00"
   }
  },
- "story_seq": 5001,
+ "story_seq": 5003,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15853,7 +15872,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T17:25:20.389395+00:00",
+ "last_run": "2026-11-05T17:35:24.220004+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
@@ -17213,6 +17232,16 @@
    "t": "2026-11-05T17:25:31.310627+00:00",
    "title": "Mercedes genç pilotu Luna Fluxa Cross, Las Vegas'ta F1 ACADEMY'de debut yapacak",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-05T17:35:34.430009+00:00",
+   "title": "Verstappen, Red Bull'a 'antivirüs' kurduğunu söylüyor",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-05T17:35:35.103032+00:00",
+   "title": "F1, Apple'ın ABD dışındaki yayın haklarına da girmek isteyeceğini düşünüyor",
+   "source": "The Race"
   }
  ]
 }
