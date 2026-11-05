@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3aa7db6048f5fc73": "2026-10-22T18:19:06.731256+00:00",
-  "879e1beb200ba8ce": "2026-10-22T18:19:06.731256+00:00",
   "beed0737bcd94121": "2026-10-22T18:29:02.077327+00:00",
   "2fba50bf2028d952": "2026-10-22T18:29:02.077327+00:00",
   "395cebe52e8fc5ad": "2026-10-22T18:29:02.077327+00:00",
@@ -7634,7 +7632,12 @@
   "c7e0a1e891ecbbb2": "2026-11-05T18:15:21.476490+00:00",
   "3852dddbf0e61145": "2026-11-05T18:15:21.476490+00:00",
   "8be76e3118297a81": "2026-11-05T18:15:21.476490+00:00",
-  "8c1ebba1c84e0997": "2026-11-05T18:15:21.476490+00:00"
+  "8c1ebba1c84e0997": "2026-11-05T18:15:21.476490+00:00",
+  "d1ef5bc11b247c43": "2026-11-05T18:25:24.849623+00:00",
+  "652965d91ce42910": "2026-11-05T18:25:24.849623+00:00",
+  "2663977b89181d81": "2026-11-05T18:25:24.849623+00:00",
+  "09658d5b491cd3c1": "2026-11-05T18:25:24.849623+00:00",
+  "cbde51ff7f1038e7": "2026-11-05T18:25:24.849623+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7836,32 +7839,6 @@
    },
    "last": "2026-11-04T12:41:31.897020+00:00"
   },
-  "S4422": {
-   "title": "Djokovic beats Vacherot at Paris Masters",
-   "first": "2026-11-03T18:18:22.529698+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T18:16:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Novak Djokovic fends off Valentin Vacherot at Paris Masters"
-   },
-   "last": "2026-11-03T18:18:22.529717+00:00"
-  },
-  "S4423": {
-   "title": "Karabell notebook on NBA and other sports nuggets",
-   "first": "2026-11-03T18:18:22.529722+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T18:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Karabell's notebook: Gobert's slow start, Zion's steals, and five other nuggets"
-   },
-   "last": "2026-11-03T18:18:22.529726+00:00"
-  },
   "S4424": {
    "title": "Iraola on Liverpool handling Fenerbahce atmosphere",
    "first": "2026-11-03T18:18:22.529729+00:00",
@@ -7874,32 +7851,6 @@
     "ESPN F1": "Andoni Iraola: Liverpool have to handle Fenerbahce atmosphere"
    },
    "last": "2026-11-04T01:20:13.554098+00:00"
-  },
-  "S4425": {
-   "title": "Feature on how Antonelli reached the title",
-   "first": "2026-11-03T18:18:22.529741+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-03T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "How Kimi Antonelli reached the promised land"
-   },
-   "last": "2026-11-03T18:18:22.529745+00:00"
-  },
-  "S4426": {
-   "title": "Profile of engineer Peter Bonnington's championship career",
-   "first": "2026-11-03T18:18:22.529748+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-03T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Peter Bonnington, l’ingegnere dei campioni: otto titoli con tre piloti diversi"
-   },
-   "last": "2026-11-03T18:18:22.529751+00:00"
   },
   "S4427": {
    "title": "Basketball free throw technique feature (not F1)",
@@ -15852,9 +15803,74 @@
     "Motorsport-Total": "Aston Martin gibt zu: Wussten schon vor Mexiko, dass wir nicht ins Ziel kommen - Motorsport-Total.com"
    },
    "last": "2026-11-05T18:15:29.032545+00:00"
+  },
+  "S5019": {
+   "title": "Hamilton's F1 records ahead of 400th Grand Prix",
+   "first": "2026-11-05T18:25:31.357214+00:00",
+   "sources": {
+    "Formula 1": "2026-11-05T18:25:31.357227+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Hamilton's incredible F1 records ahead of his 400th GP"
+   },
+   "last": "2026-11-05T18:25:31.357230+00:00"
+  },
+  "S5020": {
+   "title": "Yashbardhan Chauhan overcoming setbacks feature",
+   "first": "2026-11-05T18:25:31.357233+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T18:18:25+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Yashbardhan Chauhan shows pedigree to overcome setbacks"
+   },
+   "last": "2026-11-05T18:25:31.357237+00:00"
+  },
+  "S5021": {
+   "title": "ESPN opinion on Ronaldo's Portugal career ending",
+   "first": "2026-11-05T18:25:31.357239+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T13:37:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ronaldo's Portugal career ended in shame, but at his peak he was a dominant force"
+   },
+   "last": "2026-11-05T18:25:31.357242+00:00"
+  },
+  "S5022": {
+   "title": "Pundit verdict on Lawson's Racing Bulls future",
+   "first": "2026-11-05T18:25:31.357256+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T18:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson handed double-down verdict in F1 future fight: 'It makes no sense'"
+   },
+   "last": "2026-11-05T18:25:31.357259+00:00"
+  },
+  "S5023": {
+   "title": "Haas plan revealed after Ocon exit",
+   "first": "2026-11-05T18:25:31.357261+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-05T18:22:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Haas plan revealed following Esteban Ocon axe"
+   },
+   "last": "2026-11-05T18:25:31.357264+00:00"
   }
  },
- "story_seq": 5018,
+ "story_seq": 5023,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15973,17 +15989,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T18:15:21.476490+00:00",
+ "last_run": "2026-11-05T18:25:24.849623+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T18:24:25.087302+00:00",
-   "title": "2026 Meksika Grand Prix'sinden öğrendiklerimiz",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-02T19:04:18.409774+00:00",
    "title": "Liam Lawson, 2027 kadro kararı belirsizken övgü topluyor",
@@ -17353,6 +17364,21 @@
    "t": "2026-11-05T18:15:37.198170+00:00",
    "title": "Alonso, Hamilton'ın F1'deki '400 kulübü'ne katılmasına tepki verdi",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-05T18:25:39.954805+00:00",
+   "title": "Chandhok: Lawson'ın yerine Tsolov getirilmesi \"hiçbir anlam ifade etmiyor\"",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T18:25:40.517547+00:00",
+   "title": "Yashbardhan Chauhan, geri dönüşlerde sahip olduğu kaliteyi gösteriyor",
+   "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-05T18:25:40.989176+00:00",
+   "title": "Haas, Ocon'un ayrılığının ardından planı açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
