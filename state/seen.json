@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d5506c25ac002f74": "2026-10-22T12:38:17.993550+00:00",
   "f73fa55ea6bb2949": "2026-10-22T12:48:15.977863+00:00",
   "60c92f4eff87b44e": "2026-10-22T12:48:15.977863+00:00",
   "f46f31666f927113": "2026-10-22T12:48:15.977863+00:00",
@@ -7644,7 +7643,10 @@
   "772e7976d54fe836": "2026-11-05T12:23:50.582833+00:00",
   "3fe584011dcc0e6e": "2026-11-05T12:33:49.500946+00:00",
   "e32bbcb19ea4521d": "2026-11-05T12:33:49.500946+00:00",
-  "426d26ff8b51c8d0": "2026-11-05T12:33:49.500946+00:00"
+  "426d26ff8b51c8d0": "2026-11-05T12:33:49.500946+00:00",
+  "492470422a93c300": "2026-11-05T12:43:50.959730+00:00",
+  "be55857b3daab884": "2026-11-05T12:43:50.959730+00:00",
+  "b930070248cfef93": "2026-11-05T12:43:50.959730+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15748,9 +15750,35 @@
     "ESPN F1": "Bowen: Six players you can now trust in lineups, four that you cannot any longer"
    },
    "last": "2026-11-05T12:33:52.685747+00:00"
+  },
+  "S4910": {
+   "title": "Nuggets' Jokic down year debate, not F1 content",
+   "first": "2026-11-05T12:43:52.973347+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T12:37:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Could Denver overcome a 'down' year from Nikola Jokic? Absolutely not"
+   },
+   "last": "2026-11-05T12:43:52.973366+00:00"
+  },
+  "S4911": {
+   "title": "Premier League clubs linked with Como defender, football transfer rumor",
+   "first": "2026-11-05T12:43:52.973372+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T08:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Premier League clubs line up for Como defender"
+   },
+   "last": "2026-11-05T12:43:52.973377+00:00"
   }
  },
- "story_seq": 4909,
+ "story_seq": 4911,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15869,22 +15897,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T12:33:49.500946+00:00",
+ "last_run": "2026-11-05T12:43:50.959730+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T12:43:28.239307+00:00",
-   "title": "F1, Katar yarışları hakkında takımlardan sessizlik istediği iddia edildi",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-02T12:43:28.638412+00:00",
-   "title": "Meksika GP pilot notları: Verstappen zafer, Hamilton ikinci, Antonelli şampiyon",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-02T12:53:34.765809+00:00",
    "title": "Antonelli'nin şampiyonluğu Sky ve TV8'de yaklaşık 4 milyon izleyiciye ulaştı",
