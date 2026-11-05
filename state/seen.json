@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "adb328525f981a1d": "2026-10-22T06:16:50.699629+00:00",
-  "af2a548cd2b06fd1": "2026-10-22T06:16:50.699629+00:00",
-  "a243511211b28247": "2026-10-22T06:16:50.699629+00:00",
   "88ed5f04e6742c97": "2026-10-22T06:26:56.765853+00:00",
   "101e95b76d68181e": "2026-10-22T06:26:56.765853+00:00",
   "0858390e7e3f8d38": "2026-10-22T06:36:47.746971+00:00",
@@ -7660,7 +7657,10 @@
   "4073b4aad63cdfef": "2026-11-05T06:13:09.771287+00:00",
   "273d7a3b7b1ae5da": "2026-11-05T06:13:09.771287+00:00",
   "a1c22ed96a95f387": "2026-11-05T06:13:09.771287+00:00",
-  "6d03413b0c297865": "2026-11-05T06:13:09.771287+00:00"
+  "6d03413b0c297865": "2026-11-05T06:13:09.771287+00:00",
+  "0be72c5195b360b0": "2026-11-05T06:23:10.169613+00:00",
+  "25415c89abd0b95b": "2026-11-05T06:23:10.169613+00:00",
+  "5899e6df028649c7": "2026-11-05T06:23:10.169613+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15897,7 +15897,7 @@
    "titles": {
     "ESPN F1": "Wembanyama has career night with 52 points, 24 rebounds, 8 blocks in Spurs' win"
    },
-   "last": "2026-11-05T06:13:13.138012+00:00"
+   "last": "2026-11-05T06:23:12.434334+00:00"
   },
   "S4833": {
    "title": "Samaleswari SC 2026-27 squad announced",
@@ -15937,9 +15937,35 @@
     "PlanetF1": "Lewis Hamilton statement, Russell Q1 horror and more Brazilian GP predictions"
    },
    "last": "2026-11-05T06:13:13.138035+00:00"
+  },
+  "S4836": {
+   "title": "Naqvi debuts, Cremer returns for Zimbabwe in opening Test",
+   "first": "2026-11-05T06:23:12.434300+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T06:18:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Naqvi debuts, Cremer returns as Zimbabwe bat in opening Test"
+   },
+   "last": "2026-11-05T06:23:12.434317+00:00"
+  },
+  "S4837": {
+   "title": "Lakers beat Kings 116-103 in NBA game recap",
+   "first": "2026-11-05T06:23:12.434323+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T06:15:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lakers 116-103 Kings (Nov 4, 2026) Game Recap"
+   },
+   "last": "2026-11-05T06:23:12.434328+00:00"
   }
  },
- "story_seq": 4835,
+ "story_seq": 4837,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16058,17 +16084,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T06:13:09.771287+00:00",
+ "last_run": "2026-11-05T06:23:10.169613+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T06:22:45.089250+00:00",
-   "title": "Meksika'daki sonradan verilen cezalar: Üç F1 pilotu puanlarını kaybetti",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-02T06:37:38.847786+00:00",
    "title": "Wolff'un vaadi: Kimi'nin dünya şampiyonu olduğu ilk gece nasıl geçti",
