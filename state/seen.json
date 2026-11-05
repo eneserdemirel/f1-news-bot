@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "46503b660411df87": "2026-10-22T17:49:05.677015+00:00",
-  "cc1bbf87afaae58c": "2026-10-22T17:49:05.677015+00:00",
-  "e9cb1adee496e0ca": "2026-10-22T17:49:05.677015+00:00",
-  "5a1a157c24f8c1df": "2026-10-22T17:49:05.677015+00:00",
-  "64f2253ebd0d729a": "2026-10-22T17:49:05.677015+00:00",
   "a18dd1bfff8e9929": "2026-10-22T18:02:01.802005+00:00",
   "d1929e44602f292f": "2026-10-22T18:02:01.802005+00:00",
   "d065ca672732c9ae": "2026-10-22T18:02:01.802005+00:00",
@@ -7648,7 +7643,13 @@
   "77913c6027c8944f": "2026-11-05T17:35:24.220004+00:00",
   "9f0e34a9cf34b557": "2026-11-05T17:45:20.668467+00:00",
   "334efb5d0c91418c": "2026-11-05T17:45:20.668467+00:00",
-  "3ed5736fd480bb68": "2026-11-05T17:45:20.668467+00:00"
+  "3ed5736fd480bb68": "2026-11-05T17:45:20.668467+00:00",
+  "29e50b5aafe1e51a": "2026-11-05T17:55:22.262282+00:00",
+  "cec1dad2ac4bbe01": "2026-11-05T17:55:22.262282+00:00",
+  "7769607299460612": "2026-11-05T17:55:22.262282+00:00",
+  "a5d3cbaf48676df3": "2026-11-05T17:55:22.262282+00:00",
+  "3a98029ea6d7d5ff": "2026-11-05T17:55:22.262282+00:00",
+  "bd15dc8bab5b3617": "2026-11-05T17:55:22.262282+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15743,9 +15744,87 @@
     "Motorsport.com Italia": "F1 | Camara, il debutto nel GP di casa è una grossa sorpresa: \"Non me lo aspettavo\""
    },
    "last": "2026-11-05T17:45:25.923512+00:00"
+  },
+  "S5005": {
+   "title": "Anderlecht vs RB Salzburg team stats (Nov 5, 2026)",
+   "first": "2026-11-05T17:55:26.232330+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T17:53:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Anderlecht vs. RB Salzburg (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T17:55:26.232349+00:00"
+  },
+  "S5006": {
+   "title": "Milan vs Ferencvaros team stats (Nov 5, 2026)",
+   "first": "2026-11-05T17:55:26.232352+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T17:49:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Milan vs. Ferencvaros (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T17:55:26.232356+00:00"
+  },
+  "S5007": {
+   "title": "Levski Sofia vs Jagiellonia team stats (Nov 5, 2026)",
+   "first": "2026-11-05T17:55:26.232359+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T17:49:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Levski Sofia vs. Jagiellonia (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T17:55:26.232362+00:00"
+  },
+  "S5008": {
+   "title": "NEC vs Omonia team stats (Nov 5, 2026)",
+   "first": "2026-11-05T17:55:26.232364+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T17:49:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NEC vs. Omonia (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T17:55:26.232366+00:00"
+  },
+  "S5009": {
+   "title": "Fantasy hoops waiver adds and NBA betting picks",
+   "first": "2026-11-05T17:55:26.232368+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T16:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thursday's fantasy hoops adds, NBA bets to make: Black, da Silva worth streaming"
+   },
+   "last": "2026-11-05T17:55:26.232371+00:00"
+  },
+  "S5010": {
+   "title": "Liam Lawson says uncertain F1 future takes away from results",
+   "first": "2026-11-05T17:55:26.232373+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-05T17:48:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson concedes uncertain F1 future ‘takes away’ from strong results"
+   },
+   "last": "2026-11-05T17:55:26.232376+00:00"
   }
  },
- "story_seq": 5004,
+ "story_seq": 5010,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15864,22 +15943,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T17:45:20.668467+00:00",
+ "last_run": "2026-11-05T17:55:22.262282+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T17:54:19.530776+00:00",
-   "title": "Toyota başkanı Akio Toyoda'dan Ryo Hirakawa'ya duygusal F1 mektubu",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-02T17:54:20.003120+00:00",
-   "title": "Verstappen, F1 sezon finali konusunda görüşünü koruyor",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-02T18:04:27.573858+00:00",
    "title": "Ocon'un Meksika GP'de yerine Hirakawa alındı, Windsor yasal süreç öngörüyor",
