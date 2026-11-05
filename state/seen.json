@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ca7f82705a132fef": "2026-10-22T08:07:30.019868+00:00",
-  "07d2306a4122bb05": "2026-10-22T08:07:30.019868+00:00",
   "312133bc773151ae": "2026-10-22T08:17:31.991913+00:00",
   "5e737ece47c78e45": "2026-10-22T08:17:31.991913+00:00",
   "906600de7ba105d3": "2026-10-22T08:17:31.991913+00:00",
@@ -7623,7 +7621,12 @@
   "3d72ca8f178394bd": "2026-11-05T08:03:11.714880+00:00",
   "b1c7a54263a95a5b": "2026-11-05T08:03:11.714880+00:00",
   "cc8327fbd0efcae6": "2026-11-05T08:03:11.714880+00:00",
-  "70464a4a0ddd846e": "2026-11-05T08:03:11.714880+00:00"
+  "70464a4a0ddd846e": "2026-11-05T08:03:11.714880+00:00",
+  "b1a78ecec528f84a": "2026-11-05T08:13:10.258306+00:00",
+  "d0524193182604b6": "2026-11-05T08:13:10.258306+00:00",
+  "cfeed70bc7b25cc1": "2026-11-05T08:13:10.258306+00:00",
+  "686d9bc901634cbf": "2026-11-05T08:13:10.258306+00:00",
+  "6b3ce06182f8f140": "2026-11-05T08:13:10.258306+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8007,71 +8010,6 @@
    },
    "last": "2026-11-03T19:28:33.261718+00:00"
   },
-  "S4268": {
-   "title": "Luka Doncic scores 42 points, praised by Giannis",
-   "first": "2026-11-03T08:06:23.115518+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T07:54:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luka scores 42 points, earns high praise from Giannis as hot streak continues"
-   },
-   "last": "2026-11-03T08:06:23.115537+00:00"
-  },
-  "S4269": {
-   "title": "East Texas A&M upsets Oklahoma in season opener",
-   "first": "2026-11-03T08:06:23.115543+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T05:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "East Texas A&M, picked last in Southland Conference, stuns Oklahoma in opener"
-   },
-   "last": "2026-11-03T08:06:23.115549+00:00"
-  },
-  "S4270": {
-   "title": "Bears vs. Seahawks live score listing",
-   "first": "2026-11-03T08:06:23.115553+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T02:19:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bears vs. Seahawks (3 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-03T08:06:23.115558+00:00"
-  },
-  "S4271": {
-   "title": "Hamilton says nothing has been done on Ferrari rivalry",
-   "first": "2026-11-03T08:06:23.115569+00:00",
-   "sources": {
-    "GPFans": "2026-11-03T07:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton questions Ferrari leadership: 'Nothing really has been done'"
-   },
-   "last": "2026-11-03T08:06:23.115573+00:00"
-  },
-  "S4272": {
-   "title": "Corriere dello Sport says Vasseur also to blame for Ferrari feud",
-   "first": "2026-11-03T08:06:23.115576+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-03T07:51:11+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Ferrari senza pace, è scontro Hamilton-Leclerc. E anche Vasseur è colpevole"
-   },
-   "last": "2026-11-03T08:06:23.115580+00:00"
-  },
   "S4273": {
    "title": "Vettel, Valentino Rossi and others congratulate Antonelli on title",
    "first": "2026-11-03T08:06:23.115584+00:00",
@@ -8088,19 +8026,6 @@
     "Motorsport.com Italia": "F1 | Vettel consiglia Antonelli: \"Ora la gente ti guarderà diversamente. Tu non cambiare il modo in cui la guardi\""
    },
    "last": "2026-11-03T14:07:09.230894+00:00"
-  },
-  "S4274": {
-   "title": "TV viewing figures for Mexico GP title decider",
-   "first": "2026-11-03T08:06:23.115590+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-03T08:03:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "TV-Quoten Mexiko: Wie viele die WM-Entscheidung im Fernsehen sahen - Motorsport-Total.com"
-   },
-   "last": "2026-11-03T08:06:23.115594+00:00"
   },
   "S4275": {
    "title": "Analysis of Ferrari SF-26 aerodynamic downforce advantage",
@@ -15059,7 +14984,9 @@
     "Motorsport-Total": "2026-11-05T06:34:31+00:00",
     "Gazzetta dello Sport": "2026-11-05T07:00:11+00:00",
     "Sky Sports F1": "2026-11-05T07:18:00+00:00",
-    "RacingNews365 NL": "2026-11-05T07:30:00+00:00"
+    "RacingNews365 NL": "2026-11-05T07:30:00+00:00",
+    "Motorsport.com Italia": "2026-11-05T08:03:22+00:00",
+    "FormulaPassion": "2026-11-05T07:53:29+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15071,9 +14998,11 @@
     "Motorsport-Total": "Formel-1-Weltmeister Alan Jones ist tot: Er wurde 80 Jahre alt - Motorsport-Total.com",
     "Gazzetta dello Sport": "F1, è morto Alan Jones: fu campione del mondo nel 1980 con la Williams",
     "Sky Sports F1": "Former F1 world champion Jones dies aged 80",
-    "RacingNews365 NL": "F1-icoon Alan Jones (80) overleden"
+    "RacingNews365 NL": "F1-icoon Alan Jones (80) overleden",
+    "Motorsport.com Italia": "F1 | E' morto Alan Jones: il primo campione del mondo della Williams aveva 80 anni",
+    "FormulaPassion": "La F1 piange Alan Jones, campione del mondo nel 1980"
    },
-   "last": "2026-11-05T08:03:15.076122+00:00"
+   "last": "2026-11-05T08:13:14.315326+00:00"
   },
   "S4796": {
    "title": "Tendulkar or Lara debate on cricket greatness",
@@ -15819,9 +15748,48 @@
     "Motorsport-Total": "\"Er spricht Italienisch\": Verstappen scherzt über Unterschied zu Antonelli - Motorsport-Total.com"
    },
    "last": "2026-11-05T08:03:15.076131+00:00"
+  },
+  "S4853": {
+   "title": "Italy vs South Africa kick-off time and team news",
+   "first": "2026-11-05T08:13:14.315273+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T08:10:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Italy vs. South Africa - Kick-off time, team news, how to watch"
+   },
+   "last": "2026-11-05T08:13:14.315294+00:00"
+  },
+  "S4854": {
+   "title": "F1 concern over 'two leagues' competitive divide under new rules",
+   "first": "2026-11-05T08:13:14.315307+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 concern raised over 'two leagues' divide as latest rules change bites again"
+   },
+   "last": "2026-11-05T08:13:14.315312+00:00"
+  },
+  "S4855": {
+   "title": "Rosberg thankful to Verstappen for 2016 title fight",
+   "first": "2026-11-05T08:13:14.315316+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T08:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Rosberg is 'Mad Max' Verstappen eeuwig dankbaar: \"50% kans om te crashen!\""
+   },
+   "last": "2026-11-05T08:13:14.315321+00:00"
   }
  },
- "story_seq": 4852,
+ "story_seq": 4855,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15940,17 +15908,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T08:03:11.714880+00:00",
+ "last_run": "2026-11-05T08:13:10.258306+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T08:12:51.983785+00:00",
-   "title": "Leclerc: Hamilton'ın Curva-1'deki hamlesi yarış gereği",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-02T08:22:46.265145+00:00",
    "title": "F1 sezonu Las Vegas'ta bitebilir, Imola için 10 Kasım son tarih",
@@ -17325,6 +17288,16 @@
    "t": "2026-11-05T08:03:20.686043+00:00",
    "title": "Schumacher, Hamilton'ı Al Capone'a benzeterek sert eleştirdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-05T08:13:19.369566+00:00",
+   "title": "Gasly: F1'de 'iki lig' ayrımı var, ortadaki fark büyük",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T08:13:19.851099+00:00",
+   "title": "Rosberg, Verstappen'e 'Mad Max' diyerek ona olan minnetini dile getiriyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
