@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2b87387a12b08fbd": "2026-10-22T21:19:03.737448+00:00",
   "710f435c03663434": "2026-10-22T21:29:02.692048+00:00",
   "e391ff11b00c43d1": "2026-10-22T21:29:02.692048+00:00",
   "8fe47f9d14b3ef76": "2026-10-22T21:29:02.692048+00:00",
@@ -7645,7 +7644,9 @@
   "5e38f0d481415492": "2026-11-05T21:15:22.130420+00:00",
   "8a1051904e2bcab6": "2026-11-05T21:15:22.130420+00:00",
   "2720138f0b6b6de8": "2026-11-05T21:15:22.130420+00:00",
-  "c87f99e619c4d6fe": "2026-11-05T21:16:07.434357+00:00"
+  "c87f99e619c4d6fe": "2026-11-05T21:16:07.434357+00:00",
+  "2e635ef4af10c665": "2026-11-05T21:26:05.679785+00:00",
+  "9dd0eb68c1796f41": "2026-11-05T21:26:05.679785+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7927,19 +7928,6 @@
    },
    "last": "2026-11-04T00:00:13.861581+00:00"
   },
-  "S4465": {
-   "title": "Galatasaray 2-0 Stuttgart player stats",
-   "first": "2026-11-03T21:18:24.698827+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T18:01:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Galatasaray 2-0 Stuttgart (Nov 3, 2026) Player Stats"
-   },
-   "last": "2026-11-03T21:18:24.698853+00:00"
-  },
   "S4466": {
    "title": "Shakhtar 0-1 Sporting player stats",
    "first": "2026-11-03T21:18:24.698856+00:00",
@@ -7952,19 +7940,6 @@
     "ESPN F1": "Shakhtar 0-1 Sporting (Nov 3, 2026) Player Stats"
    },
    "last": "2026-11-03T21:28:24.284383+00:00"
-  },
-  "S4467": {
-   "title": "Motorsport-Total F1 history feature",
-   "first": "2026-11-03T21:18:24.698869+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-03T20:13:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Formel-1-Historisches - Motorsport-Total.com"
-   },
-   "last": "2026-11-03T21:18:24.698873+00:00"
   },
   "S4468": {
    "title": "Herta's Mexico FP1 outing and Cadillac 2027 lineup saga twist",
@@ -16106,14 +16081,16 @@
    "title": "Russell explains early exit after Mexico GP",
    "first": "2026-11-05T20:55:27.157755+00:00",
    "sources": {
-    "Crash.net": "2026-11-05T20:50:41+00:00"
+    "Crash.net": "2026-11-05T20:50:41+00:00",
+    "Formula 1": "2026-11-05T21:26:08.183387+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "George Russell explains hasty exit after Mexico GP: “I try not to spit my dummy out”"
+    "Crash.net": "George Russell explains hasty exit after Mexico GP: “I try not to spit my dummy out”",
+    "Formula 1": "Why Russell had ‘to get out’ after Antonelli’s title win"
    },
-   "last": "2026-11-05T20:55:27.157758+00:00"
+   "last": "2026-11-05T21:26:08.183404+00:00"
   },
   "S5075": {
    "title": "Bologna and ACI celebrate Antonelli's world title publicly",
@@ -16126,7 +16103,7 @@
    "titles": {
     "Gazzetta dello Sport": "Schermi nelle stazioni, il tricolore sui palazzi storici: Aci festeggia il suo \"allievo\" Kimi Antonelli"
    },
-   "last": "2026-11-05T20:55:27.157763+00:00"
+   "last": "2026-11-05T21:26:08.183415+00:00"
   },
   "S5076": {
    "title": "Piastri accepts penalty but criticises guidelines as hard to apply",
@@ -16352,7 +16329,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T21:16:07.434357+00:00",
+ "last_run": "2026-11-05T21:26:05.679785+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
