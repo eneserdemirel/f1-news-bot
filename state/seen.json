@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "61e9f607819563a7": "2026-10-22T19:19:06.189436+00:00",
-  "1f330f4f0dcf8739": "2026-10-22T19:19:06.189436+00:00",
-  "68ec3b9c1d195062": "2026-10-22T19:19:06.189436+00:00",
-  "dd0a19385ebebece": "2026-10-22T19:19:06.189436+00:00",
-  "89650cd974bcc4fa": "2026-10-22T19:19:06.189436+00:00",
-  "16638ba91aea4d14": "2026-10-22T19:19:06.189436+00:00",
   "a71ac320f5d44425": "2026-10-22T19:29:07.048477+00:00",
   "9216e739385fa694": "2026-10-22T19:29:07.048477+00:00",
   "bfa23a36315a3ca6": "2026-10-22T19:29:07.048477+00:00",
@@ -7646,7 +7640,13 @@
   "64efc1799b56feba": "2026-11-05T19:05:20.873723+00:00",
   "fa1293eb0fce419c": "2026-11-05T19:05:20.873723+00:00",
   "09ce7daab38d3b31": "2026-11-05T19:05:20.873723+00:00",
-  "1f0e7d6bc0044c4e": "2026-11-05T19:05:20.873723+00:00"
+  "1f0e7d6bc0044c4e": "2026-11-05T19:05:20.873723+00:00",
+  "931299443e0ecc46": "2026-11-05T19:25:23.363554+00:00",
+  "499612205a0ee0d9": "2026-11-05T19:25:23.363554+00:00",
+  "e888fbe0298b616b": "2026-11-05T19:25:23.363554+00:00",
+  "28d5d05ad0d12ca2": "2026-11-05T19:25:23.363554+00:00",
+  "c7cb8435fef515e9": "2026-11-05T19:25:23.363554+00:00",
+  "cd8ac9945d7daebe": "2026-11-05T19:25:23.363554+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15012,14 +15012,16 @@
    "title": "Gasly jokes about working with Helmut Marko",
    "first": "2026-11-05T16:05:30.748790+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-05T16:00:00+00:00"
+    "RacingNews365 NL": "2026-11-05T16:00:00+00:00",
+    "GPblog": "2026-11-05T19:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Gasly grapt over Helmut Marko: \"Als je met hem gewerkt hebt...\""
+    "RacingNews365 NL": "Gasly grapt over Helmut Marko: \"Als je met hem gewerkt hebt...\"",
+    "GPblog": "Gasly delivers cheeky Marko verdict: 'Anything else is no pressure'"
    },
-   "last": "2026-11-05T16:05:30.748793+00:00"
+   "last": "2026-11-05T19:25:29.008895+00:00"
   },
   "S4971": {
    "title": "Spy shot reveals Red Bull and Verstappen change for 2027",
@@ -16000,9 +16002,61 @@
     "PlanetF1": "Oscar Piastri to miss Brazil GP FP1 as McLaren junior steps in"
    },
    "last": "2026-11-05T19:05:29.691407+00:00"
+  },
+  "S5045": {
+   "title": "Verstappen gives Antonelli advice on being F1 champion",
+   "first": "2026-11-05T19:25:29.008859+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T19:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen hands Kimi Antonelli key advice on being F1 champion"
+   },
+   "last": "2026-11-05T19:25:29.008877+00:00"
+  },
+  "S5046": {
+   "title": "Hadjar frustrated by poor results, expects breakthrough soon",
+   "first": "2026-11-05T19:25:29.008881+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T19:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Gefrustreerde Hadjar weet: \"Het valt vanzelf een keer goed\""
+   },
+   "last": "2026-11-05T19:25:29.008885+00:00"
+  },
+  "S5047": {
+   "title": "Famous faces expected at Sao Paulo GP paddock",
+   "first": "2026-11-05T19:25:29.008888+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-05T19:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "The glamour game: The famous faces set to take over the F1 Sao Paulo GP"
+   },
+   "last": "2026-11-05T19:25:29.008891+00:00"
+  },
+  "S5048": {
+   "title": "Hamilton refuses to apologise over Leclerc clash",
+   "first": "2026-11-05T19:25:29.008897+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T19:17:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Lewis Hamilton bleibt hart: \"Werde mich niemals dafür entschuldigen\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T19:25:29.008900+00:00"
   }
  },
- "story_seq": 5044,
+ "story_seq": 5048,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16121,7 +16175,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T19:15:22.878091+00:00",
+ "last_run": "2026-11-05T19:25:23.363554+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -17546,6 +17600,21 @@
    "t": "2026-11-05T19:05:33.954009+00:00",
    "title": "Oscar Piastri Brezilya GP antrenmanını kaçıracak, Fornaroli devralacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T19:25:36.616504+00:00",
+   "title": "Verstappen'dan Antonelli'ye şampiyonluk sonrası tavsiyesi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-05T19:25:37.156743+00:00",
+   "title": "Hadjar: Sonunda bir gün her şey yoluna girecek",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-05T19:25:37.684084+00:00",
+   "title": "Hamilton: \"Bu konuda asla özür dilemeyeceğim\"",
+   "source": "Motorsport-Total"
   }
  ]
 }
