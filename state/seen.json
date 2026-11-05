@@ -7621,7 +7621,9 @@
   "289262f6213d5dd1": "2026-11-05T01:12:33.940489+00:00",
   "7d6bea032237576e": "2026-11-05T01:22:38.218403+00:00",
   "d7ffd21390706d2f": "2026-11-05T01:32:34.083595+00:00",
-  "f22765f3f9ec450e": "2026-11-05T02:02:34.497276+00:00"
+  "f22765f3f9ec450e": "2026-11-05T02:02:34.497276+00:00",
+  "61b37ed74eab5727": "2026-11-05T02:12:35.411862+00:00",
+  "c798055126252275": "2026-11-05T02:12:35.411862+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7942,19 +7944,6 @@
     "Sky Sports F1": "Lawson admits 'no assurance' of retaining Racing Bulls seat"
    },
    "last": "2026-11-03T13:07:09.117843+00:00"
-  },
-  "S4198": {
-   "title": "Day'Ron Sharpe makes three-pointer against New York Knicks",
-   "first": "2026-11-03T02:05:43.442079+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T00:49:07+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Day'Ron Sharpe buries 3-point shot against New York Knicks"
-   },
-   "last": "2026-11-03T02:05:43.442095+00:00"
   },
   "S4199": {
    "title": "GPblog column on Lawson's uncertain F1 future",
@@ -15840,9 +15829,35 @@
     "ESPN F1": "Abha vs. Al Kholood (7 Dec, 2026) Live Score"
    },
    "last": "2026-11-05T02:02:35.936158+00:00"
+  },
+  "S4790": {
+   "title": "Nick Woodford scores 2-yard touchdown",
+   "first": "2026-11-05T02:12:37.234255+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T02:02:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nick Woodford finds the end zone for 2-yard TD"
+   },
+   "last": "2026-11-05T02:12:37.234273+00:00"
+  },
+  "S4791": {
+   "title": "Josh Jacobs not expecting to miss more time",
+   "first": "2026-11-05T02:12:37.234278+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-04T23:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "RB Josh Jacobs not anticipating missing more time despite additional allegations"
+   },
+   "last": "2026-11-05T02:12:37.234284+00:00"
   }
  },
- "story_seq": 4789,
+ "story_seq": 4791,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15961,22 +15976,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T02:02:34.497276+00:00",
+ "last_run": "2026-11-05T02:12:35.411862+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T02:07:08.923336+00:00",
-   "title": "Alpine'ın ikilisi Meksika GP'sinde cezalar nedeniyle puanlarını kaybetti",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-02T02:12:12.001762+00:00",
-   "title": "FIA, Russell'ın Meksika GP soruşturması sonrası Mercedes'e cezayı onayladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-02T02:27:08.716189+00:00",
    "title": "Antonelli: Russell bu sezon benden daha fazla talihsizlik yaşadı",
