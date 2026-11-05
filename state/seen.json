@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "29b3231880c9c3b5": "2026-10-22T19:49:03.036547+00:00",
-  "f34e67167727a88a": "2026-10-22T19:49:03.036547+00:00",
-  "3afe5552dc4e00d6": "2026-10-22T19:49:03.036547+00:00",
-  "0abadf26dd23f42f": "2026-10-22T19:49:03.036547+00:00",
   "7c03169b0b126443": "2026-10-22T19:59:07.292596+00:00",
   "766989972ac8f2b2": "2026-10-22T19:59:07.292596+00:00",
   "1383552635a0d828": "2026-10-22T19:59:07.292596+00:00",
@@ -7642,7 +7638,13 @@
   "54f9fed33e1887ed": "2026-11-05T19:35:33.320972+00:00",
   "854b3ef6d496e8f9": "2026-11-05T19:35:33.320972+00:00",
   "6286b6e6212dbc19": "2026-11-05T19:45:23.297911+00:00",
-  "f45feda091ed94c6": "2026-11-05T19:45:23.297911+00:00"
+  "f45feda091ed94c6": "2026-11-05T19:45:23.297911+00:00",
+  "2dcf0aca8a1db1bc": "2026-11-05T19:55:22.243223+00:00",
+  "b8d852be89e61dc4": "2026-11-05T19:55:22.243223+00:00",
+  "e2b767d8bc366128": "2026-11-05T19:55:22.243223+00:00",
+  "2ca189422508d3d4": "2026-11-05T19:55:22.243223+00:00",
+  "ad562b0b993db1a9": "2026-11-05T19:55:22.243223+00:00",
+  "0448746346530e67": "2026-11-05T19:55:22.243223+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15562,7 +15564,7 @@
    "titles": {
     "ESPN F1": "What is WTGL? 2026 schedule and where to watch"
    },
-   "last": "2026-11-05T18:15:29.032526+00:00"
+   "last": "2026-11-05T19:55:30.080858+00:00"
   },
   "S5016": {
    "title": "Verstappen laughs off Wolff's remark at Brazil press conference",
@@ -16013,9 +16015,74 @@
     "PlanetF1": "Rafael Camara opens up on ‘abnormal’ Haas F1 debut"
    },
    "last": "2026-11-05T19:45:26.478643+00:00"
+  },
+  "S5050": {
+   "title": "Lawson says he is doing everything to keep his Racing Bulls seat",
+   "first": "2026-11-05T19:55:30.080835+00:00",
+   "sources": {
+    "Formula 1": "2026-11-05T19:55:30.080849+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "'I don’t know what else they want’– Lawson on his F1 future"
+   },
+   "last": "2026-11-05T19:55:30.080851+00:00"
+  },
+  "S5051": {
+   "title": "Ferrari drivers to hold crunch meeting in Brazil on Friday",
+   "first": "2026-11-05T19:55:30.080862+00:00",
+   "sources": {
+    "The Race": "2026-11-05T19:48:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Ferrari drivers set for crunch meeting in Brazil"
+   },
+   "last": "2026-11-05T19:55:30.080865+00:00"
+  },
+  "S5052": {
+   "title": "Verstappen relaxed about Red Bull shifting and radio problems",
+   "first": "2026-11-05T19:55:30.080868+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T19:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen koestert neveneffect hardnekkig Red Bull-probleem"
+   },
+   "last": "2026-11-05T19:55:30.080871+00:00"
+  },
+  "S5053": {
+   "title": "Rosberg says Hamilton suspected a Mercedes conspiracy in 2016",
+   "first": "2026-11-05T19:55:30.080873+00:00",
+   "sources": {
+    "GPFans": "2026-11-05T19:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton thought there was a 'conspiracy' against him after controversial Mercedes decision"
+   },
+   "last": "2026-11-05T19:55:30.080876+00:00"
+  },
+  "S5054": {
+   "title": "Hamilton vows he will not be silenced after Leclerc clash",
+   "first": "2026-11-05T19:55:30.080878+00:00",
+   "sources": {
+    "Crash.net": "2026-11-05T19:48:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton comes out swinging after Charles Leclerc clash: “I’m not going to be silenced”"
+   },
+   "last": "2026-11-05T19:55:30.080881+00:00"
   }
  },
- "story_seq": 5049,
+ "story_seq": 5054,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16134,17 +16201,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T19:45:23.297911+00:00",
+ "last_run": "2026-11-05T19:55:22.243223+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T19:55:20.292554+00:00",
-   "title": "Russell, Antonelli'nin şampiyonluğunun ardından ilk açıklamasını yaptı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-02T20:05:21.818927+00:00",
    "title": "Kimi Antonelli 2026 Formula 1 dünya şampiyonu oldu, babası çok mutlu",
@@ -17579,6 +17641,26 @@
    "t": "2026-11-05T19:45:31.965909+00:00",
    "title": "Rafael Camara, Haas'taki F1 debütüne 'olağandışı' hazırlıklarla çıkıyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T19:55:38.850928+00:00",
+   "title": "Ferrari pilotları Brezilya'da kritik toplantıya çağrılıyor",
+   "source": "The Race"
+  },
+  {
+   "t": "2026-11-05T19:55:39.320096+00:00",
+   "title": "Verstappen, Red Bull'un radyo ve vites sorunlarını anlattı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-05T19:55:39.803282+00:00",
+   "title": "Rosberg: Hamilton, Mercedes'te 2016'da 'komplo' olduğunu düşündü",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-05T19:55:40.275524+00:00",
+   "title": "Lawson: \"Ne yapmamı istiyorlar bilmiyorum\"",
+   "source": "Formula 1"
   }
  ]
 }
