@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "abcc20c1c94af3ca": "2026-10-22T20:09:05.120314+00:00",
-  "7e418d268ad39479": "2026-10-22T20:09:05.120314+00:00",
-  "1ea5688d5efb71dc": "2026-10-22T20:09:05.120314+00:00",
-  "1c159bb7f3e34b35": "2026-10-22T20:09:05.120314+00:00",
-  "cfb3208ec2da52f5": "2026-10-22T20:09:05.120314+00:00",
   "a7758caa8f839ba9": "2026-10-22T20:19:07.654070+00:00",
   "5ee4f70351de3acb": "2026-10-22T20:29:02.449021+00:00",
   "6c832b62e7e9f5d6": "2026-10-22T20:29:02.449021+00:00",
@@ -7640,7 +7635,13 @@
   "ad562b0b993db1a9": "2026-11-05T19:55:22.243223+00:00",
   "0448746346530e67": "2026-11-05T19:55:22.243223+00:00",
   "b96f50be039bb97d": "2026-11-05T20:05:22.935815+00:00",
-  "14bb7e6b6a33d888": "2026-11-05T20:05:22.935815+00:00"
+  "14bb7e6b6a33d888": "2026-11-05T20:05:22.935815+00:00",
+  "970dd52861aac331": "2026-11-05T20:15:21.253170+00:00",
+  "c564711f953b56b3": "2026-11-05T20:15:21.253170+00:00",
+  "3c54fb59a8bc3c5e": "2026-11-05T20:15:21.253170+00:00",
+  "28e77cd53a703330": "2026-11-05T20:15:21.253170+00:00",
+  "149bafdb4e5eabe1": "2026-11-05T20:15:21.253170+00:00",
+  "1b38089d8b137534": "2026-11-05T20:15:21.253170+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7876,19 +7877,6 @@
     "ESPN F1": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea"
    },
    "last": "2026-11-04T01:20:13.554103+00:00"
-  },
-  "S4449": {
-   "title": "Villarreal vs. PSG (Nov 3, 2026) team stats",
-   "first": "2026-11-03T20:08:26.281540+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:03:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Villarreal vs. PSG (Nov 3, 2026) Team Stats"
-   },
-   "last": "2026-11-03T20:08:26.281558+00:00"
   },
   "S4450": {
    "title": "Dumonts take over as controlling owners of Mavericks",
@@ -13706,14 +13694,16 @@
    "title": "Antonelli to wear Senna tribute helmet at Sao Paulo GP",
    "first": "2026-11-05T10:03:56.275080+00:00",
    "sources": {
-    "GPblog": "2026-11-05T10:00:00+00:00"
+    "GPblog": "2026-11-05T10:00:00+00:00",
+    "Crash.net": "2026-11-05T20:14:31+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Antonelli to honour idol Senna with tribute helmet in first race as F1 champion"
+    "GPblog": "Antonelli to honour idol Senna with tribute helmet in first race as F1 champion",
+    "Crash.net": "Kimi Antonelli reveals Ayrton Senna F1 tribute helmet for Brazil GP"
    },
-   "last": "2026-11-05T10:03:56.275085+00:00"
+   "last": "2026-11-05T20:15:29.705865+00:00"
   },
   "S4881": {
    "title": "Alonso optimistic on Aston Martin 2027 with new Honda engine",
@@ -16017,15 +16007,19 @@
    "first": "2026-11-05T19:55:30.080878+00:00",
    "sources": {
     "Crash.net": "2026-11-05T19:48:49+00:00",
-    "GPblog": "2026-11-05T20:01:00+00:00"
+    "GPblog": "2026-11-05T20:01:00+00:00",
+    "Motorsport.com Italia": "2026-11-05T20:06:50+00:00",
+    "PlanetF1": "2026-11-05T20:07:02+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Lewis Hamilton comes out swinging after Charles Leclerc clash: “I’m not going to be silenced”",
-    "GPblog": "'I'm never going to apologise for being authentic and real, I'm not going to be silenced'"
+    "GPblog": "'I'm never going to apologise for being authentic and real, I'm not going to be silenced'",
+    "Motorsport.com Italia": "F1 | Hamilton non arretra: “Leclerc corre più duro con me. Non mi farò mettere a tacere”",
+    "PlanetF1": "Lewis Hamilton ‘refuses to be silenced’ as Ferrari tensions with Charles Leclerc continue"
    },
-   "last": "2026-11-05T20:05:25.770670+00:00"
+   "last": "2026-11-05T20:15:29.705862+00:00"
   },
   "S5055": {
    "title": "Sparta 1-3 Bournemouth match game analysis",
@@ -16039,9 +16033,48 @@
     "ESPN F1": "Sparta 1-3 Bournemouth (Nov 5, 2026) Game Analysis"
    },
    "last": "2026-11-05T20:05:25.770664+00:00"
+  },
+  "S5056": {
+   "title": "AZ Alkmaar vs. Juventus team stats (Nov 5, 2026)",
+   "first": "2026-11-05T20:15:29.705829+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:07:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AZ Alkmaar vs. Juventus (Nov 5, 2026) Team Stats"
+   },
+   "last": "2026-11-05T20:15:29.705846+00:00"
+  },
+  "S5057": {
+   "title": "Haas unveil new partner logo after Camara arrival",
+   "first": "2026-11-05T20:15:29.705855+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T20:04:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Haas announce major new partner as Ferrari star awaits emotional home F1 debut"
+   },
+   "last": "2026-11-05T20:15:29.705859+00:00"
+  },
+  "S5058": {
+   "title": "Hamilton says Leclerc's long Ferrari tenure always a problem",
+   "first": "2026-11-05T20:15:29.705867+00:00",
+   "sources": {
+    "AS": "2026-11-05T20:03:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Hamilton dispara contra Leclerc"
+   },
+   "last": "2026-11-05T20:15:29.705869+00:00"
   }
  },
- "story_seq": 5055,
+ "story_seq": 5058,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16160,7 +16193,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T20:05:22.935815+00:00",
+ "last_run": "2026-11-05T20:15:21.253170+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -17615,6 +17648,11 @@
    "t": "2026-11-05T19:55:40.275524+00:00",
    "title": "Lawson: \"Ne yapmamı istiyorlar bilmiyorum\"",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-05T20:15:36.422748+00:00",
+   "title": "Haas, Banco Bradesco ile ilk Brezilyalı ticari ortaklığını duyurdu",
+   "source": "RacingNews365"
   }
  ]
 }
