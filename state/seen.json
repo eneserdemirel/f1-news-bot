@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "28019c6eaa31322a": "2026-10-22T20:49:01.876029+00:00",
-  "730245334d8b9c0f": "2026-10-22T20:49:01.876029+00:00",
-  "70fd12e03c4d6f16": "2026-10-22T20:49:01.876029+00:00",
-  "caf12be366db8071": "2026-10-22T20:49:01.876029+00:00",
-  "b92540d29f0d9cb3": "2026-10-22T20:49:01.876029+00:00",
-  "bcca4466458bbd99": "2026-10-22T20:49:01.876029+00:00",
-  "78c94e2d88301b89": "2026-10-22T20:49:01.876029+00:00",
   "1a06a356d18288d5": "2026-10-22T20:59:06.713231+00:00",
   "b2bf2bcaf1a4da40": "2026-10-22T20:59:06.713231+00:00",
   "f2f85ee2ea9ab799": "2026-10-22T21:09:04.506079+00:00",
@@ -7640,7 +7633,14 @@
   "1f48706988f2d97d": "2026-11-05T20:35:23.868400+00:00",
   "b0274eca812fd7a2": "2026-11-05T20:45:21.065260+00:00",
   "af7c901223300cf4": "2026-11-05T20:45:21.065260+00:00",
-  "2c9e885f24617662": "2026-11-05T20:45:21.065260+00:00"
+  "2c9e885f24617662": "2026-11-05T20:45:21.065260+00:00",
+  "a49e05bc320fd356": "2026-11-05T20:55:21.189075+00:00",
+  "d92ac3fe12950370": "2026-11-05T20:55:21.189075+00:00",
+  "7a8e5c652635063f": "2026-11-05T20:55:21.189075+00:00",
+  "4c9a9939016510eb": "2026-11-05T20:55:21.189075+00:00",
+  "3474ca1d4781b7b9": "2026-11-05T20:55:21.189075+00:00",
+  "c4dbcf90755c2065": "2026-11-05T20:55:21.189075+00:00",
+  "00cb4e7705aff0c6": "2026-11-05T20:55:21.189075+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7838,19 +7838,6 @@
    },
    "last": "2026-11-03T23:50:18.324913+00:00"
   },
-  "S4441": {
-   "title": "NYC Marathon runner dies after collapsing near finish",
-   "first": "2026-11-03T19:38:28.229117+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T19:04:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NYC Marathon runner dies after collapsing 2 miles from end"
-   },
-   "last": "2026-11-03T20:48:27.745606+00:00"
-  },
   "S4444": {
    "title": "Martínez benched for Man United clash with Roma",
    "first": "2026-11-03T19:58:17.454804+00:00",
@@ -7921,19 +7908,6 @@
     "FormulaPassion": "Ufficiale: Ocon non correrà più per la Haas in questo finale di stagione, in Brasile spazio a Camara"
    },
    "last": "2026-11-04T11:32:15.101512+00:00"
-  },
-  "S4459": {
-   "title": "Saliba 'ready to go' for Arsenal after World Cup injury",
-   "first": "2026-11-03T20:48:27.745578+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T20:12:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "William Saliba 'ready to go' for Arsenal after injury at World Cup"
-   },
-   "last": "2026-11-03T20:48:27.745597+00:00"
   },
   "S4460": {
    "title": "Watford vs. Lincoln City match team stats",
@@ -15429,14 +15403,16 @@
    "title": "Aston Martin admits it knew before Mexico it would not finish",
    "first": "2026-11-05T18:15:29.032542+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-05T18:05:57+00:00"
+    "Motorsport-Total": "2026-11-05T18:05:57+00:00",
+    "PlanetF1": "2026-11-05T20:52:05+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Aston Martin gibt zu: Wussten schon vor Mexiko, dass wir nicht ins Ziel kommen - Motorsport-Total.com"
+    "Motorsport-Total": "Aston Martin gibt zu: Wussten schon vor Mexiko, dass wir nicht ins Ziel kommen - Motorsport-Total.com",
+    "PlanetF1": "Aston Martin knew Mexico GP retirement was likely as Honda battles reliability issues"
    },
-   "last": "2026-11-05T18:15:29.032545+00:00"
+   "last": "2026-11-05T20:55:27.157753+00:00"
   },
   "S5019": {
    "title": "Hamilton's F1 records ahead of 400th Grand Prix",
@@ -16140,9 +16116,74 @@
     "GPFans": "F1 star thanks Ferrari ahead of shock grand prix debut"
    },
    "last": "2026-11-05T20:45:25.232940+00:00"
+  },
+  "S5072": {
+   "title": "Mizuki Hiruta signs with MVP fight promotion",
+   "first": "2026-11-05T20:55:27.157719+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T20:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mizuki Hiruta, '25 Female Fighter of the Year, signs with MVP"
+   },
+   "last": "2026-11-05T20:55:27.157740+00:00"
+  },
+  "S5073": {
+   "title": "Russell questions frequency of his 2026 bad luck",
+   "first": "2026-11-05T20:55:27.157744+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-05T20:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Russell questions frequency of 'atrocious luck' during 2026 F1 season"
+   },
+   "last": "2026-11-05T20:55:27.157748+00:00"
+  },
+  "S5074": {
+   "title": "Russell explains early exit after Mexico GP",
+   "first": "2026-11-05T20:55:27.157755+00:00",
+   "sources": {
+    "Crash.net": "2026-11-05T20:50:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "George Russell explains hasty exit after Mexico GP: “I try not to spit my dummy out”"
+   },
+   "last": "2026-11-05T20:55:27.157758+00:00"
+  },
+  "S5075": {
+   "title": "Bologna and ACI celebrate Antonelli's world title publicly",
+   "first": "2026-11-05T20:55:27.157760+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-05T20:46:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Schermi nelle stazioni, il tricolore sui palazzi storici: Aci festeggia il suo \"allievo\" Kimi Antonelli"
+   },
+   "last": "2026-11-05T20:55:27.157763+00:00"
+  },
+  "S5076": {
+   "title": "Piastri accepts penalty but criticises guidelines as hard to apply",
+   "first": "2026-11-05T20:55:27.157765+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T20:44:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Oscar Piastri akzeptiert Strafe, aber: Richtlinien schwierig umzusetzen - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T20:55:27.157768+00:00"
   }
  },
- "story_seq": 5071,
+ "story_seq": 5076,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16261,7 +16302,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T20:45:21.065260+00:00",
+ "last_run": "2026-11-05T20:55:21.189075+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -17741,6 +17782,21 @@
    "t": "2026-11-05T20:45:32.166852+00:00",
    "title": "Hirakawa'nın yerine Camara Brezilya'da F1 debutosunu yapacak",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-05T20:55:34.300518+00:00",
+   "title": "Russell, 2026 sezonundaki \"korkunç şanssızlıkları\" sorguluyor",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-05T20:55:34.828910+00:00",
+   "title": "Aci, öğrencisi Kimi Antonelli'yi kutluyor: İstasyonlarda ekranlar, tarihi binalarda üç renkli bayrak",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-05T20:55:35.344922+00:00",
+   "title": "Russell, Meksika GP sonrası aceleyle paddock'tan ayrılışını açıkladı",
+   "source": "Crash.net"
   }
  ]
 }
