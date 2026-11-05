@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9a669c17ac50b52c": "2026-10-22T18:09:04.771388+00:00",
-  "6d5a737b7dff0cde": "2026-10-22T18:09:04.771388+00:00",
-  "1aaa8b7e4975784f": "2026-10-22T18:09:04.771388+00:00",
   "3aa7db6048f5fc73": "2026-10-22T18:19:06.731256+00:00",
   "879e1beb200ba8ce": "2026-10-22T18:19:06.731256+00:00",
   "beed0737bcd94121": "2026-10-22T18:29:02.077327+00:00",
@@ -7629,7 +7626,15 @@
   "760d8bb0e0f02880": "2026-11-05T18:05:23.536000+00:00",
   "6a4bff172ad2a862": "2026-11-05T18:05:23.536000+00:00",
   "bec59fccac345ab3": "2026-11-05T18:05:23.536000+00:00",
-  "a4365289eb251a1f": "2026-11-05T18:05:23.536000+00:00"
+  "a4365289eb251a1f": "2026-11-05T18:05:23.536000+00:00",
+  "c739c7e9d0ac8a93": "2026-11-05T18:15:21.476490+00:00",
+  "4b859e03495fa124": "2026-11-05T18:15:21.476490+00:00",
+  "ca2f89519ca907c5": "2026-11-05T18:15:21.476490+00:00",
+  "1e95731b0ec1d19c": "2026-11-05T18:15:21.476490+00:00",
+  "c7e0a1e891ecbbb2": "2026-11-05T18:15:21.476490+00:00",
+  "3852dddbf0e61145": "2026-11-05T18:15:21.476490+00:00",
+  "8be76e3118297a81": "2026-11-05T18:15:21.476490+00:00",
+  "8c1ebba1c84e0997": "2026-11-05T18:15:21.476490+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7830,58 +7835,6 @@
     "RacingNews365": "Charles Leclerc fires back after intense Lewis Hamilton spat"
    },
    "last": "2026-11-04T12:41:31.897020+00:00"
-  },
-  "S4417": {
-   "title": "NBA defends Rwanda partnership in letter to senators",
-   "first": "2026-11-03T17:58:23.732737+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T17:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NBA defends Rwanda partnership in letter to concerned Senators"
-   },
-   "last": "2026-11-03T18:08:29.147353+00:00"
-  },
-  "S4419": {
-   "title": "Fantasy football knockout league advice",
-   "first": "2026-11-03T18:08:29.147318+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T13:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What you need to know to start a 10-team knockout league this week"
-   },
-   "last": "2026-11-03T18:08:29.147358+00:00"
-  },
-  "S4420": {
-   "title": "Northwestern State's Chloe Donnell ties NCAA 3-pointer mark",
-   "first": "2026-11-03T18:08:29.147342+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T18:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Northwestern State's Chloe Donnell ties NCAA mark with 14 3's"
-   },
-   "last": "2026-11-03T18:08:29.147346+00:00"
-  },
-  "S4421": {
-   "title": "Vasseur rejects Leclerc's explanation for Mexico clash with Hamilton",
-   "first": "2026-11-03T18:08:29.147361+00:00",
-   "sources": {
-    "GPblog": "2026-11-03T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Vasseur rejects Leclerc's Mexico explanation: 'It can't be an excuse at all'"
-   },
-   "last": "2026-11-03T18:08:29.147365+00:00"
   },
   "S4422": {
    "title": "Djokovic beats Vacherot at Paris Masters",
@@ -13879,14 +13832,16 @@
    "title": "Hamilton aims to win 400th GP at Interlagos",
    "first": "2026-11-05T09:03:16.910144+00:00",
    "sources": {
-    "GPblog": "2026-11-05T09:00:00+00:00"
+    "GPblog": "2026-11-05T09:00:00+00:00",
+    "Formula 1": "2026-11-05T18:15:29.032494+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Hamilton targets victory in 400th Grand Prix at the track where he won his first title"
+    "GPblog": "Hamilton targets victory in 400th Grand Prix at the track where he won his first title",
+    "Formula 1": "Can Hamilton celebrate 400th GP with Brazil win?"
    },
-   "last": "2026-11-05T09:03:16.910148+00:00"
+   "last": "2026-11-05T18:15:29.032509+00:00"
   },
   "S4867": {
    "title": "CSK trade Khaleel and Ellis to SRH for Livingstone and Edwards",
@@ -15240,14 +15195,16 @@
    "title": "Gasly faces early-morning drug test before Sao Paulo GP",
    "first": "2026-11-05T16:05:30.748770+00:00",
    "sources": {
-    "RacingNews365": "2026-11-05T16:00:00+00:00"
+    "RacingNews365": "2026-11-05T16:00:00+00:00",
+    "Motorsport Week": "2026-11-05T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Pierre Gasly subject to early-morning drug test ahead of Sao Paulo GP"
+    "RacingNews365": "Pierre Gasly subject to early-morning drug test ahead of Sao Paulo GP",
+    "Motorsport Week": "Pierre Gasly reveals early morning drug test ordeal ahead of F1 Sao Paulo GP"
    },
-   "last": "2026-11-05T16:05:30.748786+00:00"
+   "last": "2026-11-05T18:15:29.032534+00:00"
   },
   "S4970": {
    "title": "Gasly jokes about working with Helmut Marko",
@@ -15830,9 +15787,74 @@
     "FormulaPassion": "Verstappen: “Antonelli è un ragazzo umile, il Mondiale non lo cambierà”"
    },
    "last": "2026-11-05T18:05:29.338983+00:00"
+  },
+  "S5014": {
+   "title": "Lynn revealed to have served cocaine-related one-month suspension",
+   "first": "2026-11-05T18:15:29.032515+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T17:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lynn revealed to have served one-month suspension for cocaine use"
+   },
+   "last": "2026-11-05T18:15:29.032519+00:00"
+  },
+  "S5015": {
+   "title": "Explainer on WTGL 2026 schedule and viewing details",
+   "first": "2026-11-05T18:15:29.032522+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T16:35:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What is WTGL? 2026 schedule and where to watch"
+   },
+   "last": "2026-11-05T18:15:29.032526+00:00"
+  },
+  "S5016": {
+   "title": "Verstappen laughs off Wolff's remark at Brazil press conference",
+   "first": "2026-11-05T18:15:29.032528+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-05T18:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen lacht opmerkelijke uitspraak Wolff weg: \"Dat mag hij vinden\""
+   },
+   "last": "2026-11-05T18:15:29.032531+00:00"
+  },
+  "S5017": {
+   "title": "Alonso reacts to Hamilton joining his 400 GP club",
+   "first": "2026-11-05T18:15:29.032537+00:00",
+   "sources": {
+    "Crash.net": "2026-11-05T18:07:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Fernando Alonso reacts as Lewis Hamilton joins his exclusive F1 club"
+   },
+   "last": "2026-11-05T18:15:29.032540+00:00"
+  },
+  "S5018": {
+   "title": "Aston Martin admits it knew before Mexico it would not finish",
+   "first": "2026-11-05T18:15:29.032542+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T18:05:57+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Aston Martin gibt zu: Wussten schon vor Mexiko, dass wir nicht ins Ziel kommen - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T18:15:29.032545+00:00"
   }
  },
- "story_seq": 5013,
+ "story_seq": 5018,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15951,7 +15973,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T18:05:23.536000+00:00",
+ "last_run": "2026-11-05T18:15:21.476490+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
@@ -17316,6 +17338,21 @@
    "t": "2026-11-05T18:05:35.252473+00:00",
    "title": "Verstappen, Antonelli'nin şampiyonluğu sonrası ilk F1 titrini anlattı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-05T18:15:36.165709+00:00",
+   "title": "Verstappen, Wolff'un sözlerini gülerek geçiştirdi",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-05T18:15:36.665803+00:00",
+   "title": "Aston Martin: Mexico öncesinde bitiş çizgisine gelemeyeceğimizi biliyorduk",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-05T18:15:37.198170+00:00",
+   "title": "Alonso, Hamilton'ın F1'deki '400 kulübü'ne katılmasına tepki verdi",
+   "source": "Crash.net"
   }
  ]
 }
