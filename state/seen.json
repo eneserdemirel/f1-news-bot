@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3f398a17c688c238": "2026-10-22T07:57:35.319417+00:00",
-  "caa6c91575b99728": "2026-10-22T07:57:35.319417+00:00",
-  "2dee8222dd9cc5ba": "2026-10-22T07:57:35.319417+00:00",
   "ca7f82705a132fef": "2026-10-22T08:07:30.019868+00:00",
   "07d2306a4122bb05": "2026-10-22T08:07:30.019868+00:00",
   "312133bc773151ae": "2026-10-22T08:17:31.991913+00:00",
@@ -7622,7 +7619,11 @@
   "24411c6cb95655b7": "2026-11-05T07:33:09.409953+00:00",
   "6acaac7ac7c6e58e": "2026-11-05T07:43:10.380112+00:00",
   "e83f05f928a5b29d": "2026-11-05T07:43:10.380112+00:00",
-  "47eb738e4dfa379f": "2026-11-05T07:43:10.380112+00:00"
+  "47eb738e4dfa379f": "2026-11-05T07:43:10.380112+00:00",
+  "3d72ca8f178394bd": "2026-11-05T08:03:11.714880+00:00",
+  "b1c7a54263a95a5b": "2026-11-05T08:03:11.714880+00:00",
+  "cc8327fbd0efcae6": "2026-11-05T08:03:11.714880+00:00",
+  "70464a4a0ddd846e": "2026-11-05T08:03:11.714880+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8005,32 +8006,6 @@
     "RacingNews365 NL": "Getergde Verstappen raast over boordradio in knotsgekke GP Mexico"
    },
    "last": "2026-11-03T19:28:33.261718+00:00"
-  },
-  "S4266": {
-   "title": "Gill says ODIs should precede T20Is on New Zealand tour",
-   "first": "2026-11-03T07:56:18.902840+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T06:18:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gill would have preferred ODIs before T20Is on New Zealand tour"
-   },
-   "last": "2026-11-03T07:56:18.902857+00:00"
-  },
-  "S4267": {
-   "title": "Conway ruled out of opening ODI after collision with Henry",
-   "first": "2026-11-03T07:56:18.902863+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T03:59:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Conway ruled out of opening ODI after collision with Henry"
-   },
-   "last": "2026-11-03T07:56:18.902868+00:00"
   },
   "S4268": {
    "title": "Luka Doncic scores 42 points, praised by Giannis",
@@ -15098,7 +15073,7 @@
     "Sky Sports F1": "Former F1 world champion Jones dies aged 80",
     "RacingNews365 NL": "F1-icoon Alan Jones (80) overleden"
    },
-   "last": "2026-11-05T07:43:12.355745+00:00"
+   "last": "2026-11-05T08:03:15.076122+00:00"
   },
   "S4796": {
    "title": "Tendulkar or Lara debate on cricket greatness",
@@ -15742,15 +15717,17 @@
    "first": "2026-11-05T07:03:20.274530+00:00",
    "sources": {
     "Motorsport-Total": "2026-11-05T06:58:16+00:00",
-    "RacingNews365": "2026-11-05T07:33:00+00:00"
+    "RacingNews365": "2026-11-05T07:33:00+00:00",
+    "RacingNews365 NL": "2026-11-05T07:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Hommage an Sao Paulo: Sonderlackierung von Audi in Brasilien - Motorsport-Total.com",
-    "RacingNews365": "Audi take covers off striking Sao Paulo Grand Prix special livery"
+    "RacingNews365": "Audi take covers off striking Sao Paulo Grand Prix special livery",
+    "RacingNews365 NL": "Audi neemt zeer speciale livery mee naar GP Brazilië"
    },
-   "last": "2026-11-05T07:43:12.355740+00:00"
+   "last": "2026-11-05T08:03:15.076099+00:00"
   },
   "S4846": {
    "title": "Thunder 124-116 Cavaliers NBA game recap",
@@ -15816,9 +15793,35 @@
     "GPblog": "Rosberg defends Lewis Hamilton after Ferrari clash: 'Always Charles' fault'"
    },
    "last": "2026-11-05T07:33:12.598888+00:00"
+  },
+  "S4851": {
+   "title": "Ralf Schumacher criticises Hamilton's handling of Leclerc clash",
+   "first": "2026-11-05T08:03:15.076108+00:00",
+   "sources": {
+    "GPFans": "2026-11-05T07:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton compared to Al Capone in extraordinary Ralf Schumacher attack"
+   },
+   "last": "2026-11-05T08:03:15.076114+00:00"
+  },
+  "S4852": {
+   "title": "Verstappen jokes about speaking Italian compared with Antonelli",
+   "first": "2026-11-05T08:03:15.076126+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T07:53:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Er spricht Italienisch\": Verstappen scherzt über Unterschied zu Antonelli - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T08:03:15.076131+00:00"
   }
  },
- "story_seq": 4850,
+ "story_seq": 4852,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15937,17 +15940,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T07:53:21.930392+00:00",
+ "last_run": "2026-11-05T08:03:11.714880+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T08:02:44.613688+00:00",
-   "title": "Mekies, Red Bull'un zayıf noktasındaki gelişmeyi memnuniyetle karşıladı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-02T08:12:51.983785+00:00",
    "title": "Leclerc: Hamilton'ın Curva-1'deki hamlesi yarış gereği",
@@ -17317,6 +17315,16 @@
    "t": "2026-11-05T07:33:16.653308+00:00",
    "title": "Rosberg, Hamilton'ı savunuyor: \"Hep Charles'ın hatası\"",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-05T08:03:20.208553+00:00",
+   "title": "Verstappen, Antonelli ile aradaki farkla ilgili şaka yaptı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-05T08:03:20.686043+00:00",
+   "title": "Schumacher, Hamilton'ı Al Capone'a benzeterek sert eleştirdi",
+   "source": "GPFans"
   }
  ]
 }
