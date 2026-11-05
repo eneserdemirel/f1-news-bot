@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7c03169b0b126443": "2026-10-22T19:59:07.292596+00:00",
-  "766989972ac8f2b2": "2026-10-22T19:59:07.292596+00:00",
-  "1383552635a0d828": "2026-10-22T19:59:07.292596+00:00",
-  "44f73f86d0fd72ae": "2026-10-22T19:59:07.292596+00:00",
-  "7a77c496933c77f1": "2026-10-22T19:59:07.292596+00:00",
-  "a25aaa25eb133524": "2026-10-22T19:59:07.292596+00:00",
   "abcc20c1c94af3ca": "2026-10-22T20:09:05.120314+00:00",
   "7e418d268ad39479": "2026-10-22T20:09:05.120314+00:00",
   "1ea5688d5efb71dc": "2026-10-22T20:09:05.120314+00:00",
@@ -7644,7 +7638,9 @@
   "e2b767d8bc366128": "2026-11-05T19:55:22.243223+00:00",
   "2ca189422508d3d4": "2026-11-05T19:55:22.243223+00:00",
   "ad562b0b993db1a9": "2026-11-05T19:55:22.243223+00:00",
-  "0448746346530e67": "2026-11-05T19:55:22.243223+00:00"
+  "0448746346530e67": "2026-11-05T19:55:22.243223+00:00",
+  "b96f50be039bb97d": "2026-11-05T20:05:22.935815+00:00",
+  "14bb7e6b6a33d888": "2026-11-05T20:05:22.935815+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7880,58 +7876,6 @@
     "ESPN F1": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea"
    },
    "last": "2026-11-04T01:20:13.554103+00:00"
-  },
-  "S4445": {
-   "title": "Trade rumours surround Jaguars receiver Brian Thomas Jr.",
-   "first": "2026-11-03T19:58:17.454829+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T19:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why trade deadline rumors are swirling around Jaguars receiver Brian Thomas Jr."
-   },
-   "last": "2026-11-03T19:58:17.454834+00:00"
-  },
-  "S4446": {
-   "title": "Gerrard names Premier League wonderkid to watch",
-   "first": "2026-11-03T19:58:17.454837+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T15:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Steven Gerrard names Premier League wonderkid to watch: 'I have seen enough'"
-   },
-   "last": "2026-11-03T19:58:17.454841+00:00"
-  },
-  "S4447": {
-   "title": "Christian Horner's possible F1 return opportunity emerges",
-   "first": "2026-11-03T19:58:17.454843+00:00",
-   "sources": {
-    "GPFans": "2026-11-03T19:53:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner return to F1 back on as perfect opportunity opens up"
-   },
-   "last": "2026-11-03T19:58:17.454847+00:00"
-  },
-  "S4448": {
-   "title": "Mexico GP promoter touts 405,363 attendance, compares to Madrid",
-   "first": "2026-11-03T19:58:17.454850+00:00",
-   "sources": {
-    "AS": "2026-11-03T19:52:03+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "La fiesta de México no teme a Madrid"
-   },
-   "last": "2026-11-03T19:58:17.454853+00:00"
   },
   "S4449": {
    "title": "Villarreal vs. PSG (Nov 3, 2026) team stats",
@@ -16072,17 +16016,32 @@
    "title": "Hamilton vows he will not be silenced after Leclerc clash",
    "first": "2026-11-05T19:55:30.080878+00:00",
    "sources": {
-    "Crash.net": "2026-11-05T19:48:49+00:00"
+    "Crash.net": "2026-11-05T19:48:49+00:00",
+    "GPblog": "2026-11-05T20:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Lewis Hamilton comes out swinging after Charles Leclerc clash: “I’m not going to be silenced”"
+    "Crash.net": "Lewis Hamilton comes out swinging after Charles Leclerc clash: “I’m not going to be silenced”",
+    "GPblog": "'I'm never going to apologise for being authentic and real, I'm not going to be silenced'"
    },
-   "last": "2026-11-05T19:55:30.080881+00:00"
+   "last": "2026-11-05T20:05:25.770670+00:00"
+  },
+  "S5055": {
+   "title": "Sparta 1-3 Bournemouth match game analysis",
+   "first": "2026-11-05T20:05:25.770646+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T19:55:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sparta 1-3 Bournemouth (Nov 5, 2026) Game Analysis"
+   },
+   "last": "2026-11-05T20:05:25.770664+00:00"
   }
  },
- "story_seq": 5054,
+ "story_seq": 5055,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16201,17 +16160,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T19:55:22.243223+00:00",
+ "last_run": "2026-11-05T20:05:22.935815+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T20:05:21.818927+00:00",
-   "title": "Kimi Antonelli 2026 Formula 1 dünya şampiyonu oldu, babası çok mutlu",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-02T20:35:12.327872+00:00",
    "title": "Antonelli tarihe geçti, Verstappen 2027'ye odaklandı",
