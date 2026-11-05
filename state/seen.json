@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3f4a850454fee0a1": "2026-10-22T15:08:16.501856+00:00",
-  "5c47ed08d7da11a2": "2026-10-22T15:08:16.501856+00:00",
-  "bce7b72a9f18ce09": "2026-10-22T15:08:16.501856+00:00",
-  "0ec670b7e3f6374c": "2026-10-22T15:08:16.501856+00:00",
   "0077ce8f0e06e19c": "2026-10-22T15:18:17.007727+00:00",
   "df122abeaab16944": "2026-10-22T15:18:17.007727+00:00",
   "64f7af8ec28ad645": "2026-10-22T15:18:17.007727+00:00",
@@ -7655,7 +7651,9 @@
   "ee05e5b453a08f97": "2026-11-05T15:04:26.387417+00:00",
   "5b94c3f94aeaf454": "2026-11-05T15:04:26.387417+00:00",
   "403c802eadebe262": "2026-11-05T15:04:26.387417+00:00",
-  "074cb291883ffc4e": "2026-11-05T15:04:26.387417+00:00"
+  "074cb291883ffc4e": "2026-11-05T15:04:26.387417+00:00",
+  "3eebb43a4ebc944c": "2026-11-05T15:14:24.603138+00:00",
+  "5d42f890d5521bad": "2026-11-05T15:14:24.603138+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7795,21 +7793,6 @@
     "RacingNews365 NL": "Getergde Verstappen raast over boordradio in knotsgekke GP Mexico"
    },
    "last": "2026-11-03T19:28:33.261718+00:00"
-  },
-  "S4278": {
-   "title": "Explainer on Mexican GP speed limit under 2026 rules",
-   "first": "2026-11-03T08:46:32.092441+00:00",
-   "sources": {
-    "The Race": "2026-11-03T08:39:50+00:00",
-    "Motorsport.com Italia": "2026-11-03T14:56:45+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "The 'stupid' speed limit that neutered Mexican GP explained",
-    "Motorsport.com Italia": "F1 | Messico senza sorpassi: il limitatore di potenza dell'MGU-K ha reso quasi impossibile attaccare"
-   },
-   "last": "2026-11-03T15:07:06.890613+00:00"
   },
   "S4288": {
    "title": "Wolff says sponsors left Mercedes after Antonelli signing",
@@ -7971,32 +7954,6 @@
     "Formula 1": "When could Mercedes win the 2026 Teams' Championship?"
    },
    "last": "2026-11-04T17:01:23.013400+00:00"
-  },
-  "S4371": {
-   "title": "Police open investigation into death of Tenerife player de Miguel",
-   "first": "2026-11-03T15:07:06.890577+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T14:24:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jesús de Miguel dies: Police launch investigation into death of Tenerife player"
-   },
-   "last": "2026-11-03T15:07:06.890596+00:00"
-  },
-  "S4372": {
-   "title": "Foxworth says which team needs Jonathan Taylor most",
-   "first": "2026-11-03T15:07:06.890601+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T13:30:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The team Domonique Foxworth says needs Jonathan Taylor the most"
-   },
-   "last": "2026-11-03T15:07:06.890606+00:00"
   },
   "S4373": {
    "title": "St. John's recruit Jordan lands top-25 ranking",
@@ -15863,9 +15820,35 @@
     "AS": "Brasil recupera su protagonismo en la Fórmula 1"
    },
    "last": "2026-11-05T15:04:30.977698+00:00"
+  },
+  "S4959": {
+   "title": "Taskin flies the flag for Bangladesh's fast bowlers on tough day",
+   "first": "2026-11-05T15:14:26.964836+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T15:03:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Taskin flies the flag for Bangladesh's fast bowlers on tough day"
+   },
+   "last": "2026-11-05T15:14:26.964854+00:00"
+  },
+  "S4960": {
+   "title": "2026 TOTO Japan Classic golf leaderboard",
+   "first": "2026-11-05T15:14:26.964860+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T14:38:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 TOTO Japan Classic Leaderboard"
+   },
+   "last": "2026-11-05T15:14:26.964866+00:00"
   }
  },
- "story_seq": 4958,
+ "story_seq": 4960,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15984,7 +15967,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T15:04:26.387417+00:00",
+ "last_run": "2026-11-05T15:14:24.603138+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
