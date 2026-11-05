@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "da9598ac917a0946": "2026-10-22T13:28:16.901805+00:00",
-  "7d56304e0f20011b": "2026-10-22T13:28:16.901805+00:00",
-  "0df35cb792de4f40": "2026-10-22T13:28:16.901805+00:00",
-  "4deb211423f355eb": "2026-10-22T13:28:16.901805+00:00",
-  "472feb9512250e6c": "2026-10-22T13:28:16.901805+00:00",
-  "8fbb7aa1de484e0e": "2026-10-22T13:28:16.901805+00:00",
-  "e8ccf217e464976e": "2026-10-22T13:28:16.901805+00:00",
-  "f1204cb8e0dc59b8": "2026-10-22T13:28:16.901805+00:00",
   "58d4cfe9f26ebbd8": "2026-10-22T13:38:17.416000+00:00",
   "23c108776a937646": "2026-10-22T13:38:17.416000+00:00",
   "d39eb7e2048540c8": "2026-10-22T13:48:15.747119+00:00",
@@ -7648,7 +7640,11 @@
   "23bd2eaaca2edb63": "2026-11-05T13:13:55.594488+00:00",
   "5f69106e2810abad": "2026-11-05T13:13:55.594488+00:00",
   "6eb9e5b914c66ec0": "2026-11-05T13:23:49.174393+00:00",
-  "1e89edec63c813ca": "2026-11-05T13:23:49.174393+00:00"
+  "1e89edec63c813ca": "2026-11-05T13:23:49.174393+00:00",
+  "58a29305624a7516": "2026-11-05T13:33:49.786981+00:00",
+  "12ad40aabe35779b": "2026-11-05T13:33:49.786981+00:00",
+  "cbece27a8e6c1d79": "2026-11-05T13:33:49.786981+00:00",
+  "af4e32b28092297e": "2026-11-05T13:33:49.786981+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7978,21 +7974,6 @@
    },
    "last": "2026-11-03T16:17:36.994027+00:00"
   },
-  "S4346": {
-   "title": "Antonelli becomes youngest F1 world champion of all time",
-   "first": "2026-11-03T13:07:09.117861+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-03T13:00:00+00:00",
-    "Formula 1": "2026-11-03T13:27:04.712758+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Antonelli vult geschiedenisboeken met bijna onbreekbare records",
-    "Formula 1": "F1’s youngest World Champions as Antonelli smashes record"
-   },
-   "last": "2026-11-03T13:27:04.712773+00:00"
-  },
   "S4349": {
    "title": "Ryo Hirakawa among few drivers to score points on F1 debut",
    "first": "2026-11-03T13:17:08.561073+00:00",
@@ -8020,19 +8001,6 @@
     "ESPN F1": "Sources: New York Liberty not retaining coach Chris DeMarco after 1 year at helm"
    },
    "last": "2026-11-03T16:48:20.503834+00:00"
-  },
-  "S4352": {
-   "title": "Bottas stayed in crashed car for three and a half minutes",
-   "first": "2026-11-03T13:27:04.712791+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-03T13:20:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Nach Unfall: Valtteri Bottas blieb dreieinhalb Minuten im Auto sitzen - Motorsport-Total.com"
-   },
-   "last": "2026-11-03T13:27:04.712796+00:00"
   },
   "S4353": {
    "title": "Verstappen unveils special Brazil-themed helmet for Sao Paulo GP",
@@ -15789,14 +15757,16 @@
    "title": "Antonelli hails Hamilton and Verstappen's championship gesture",
    "first": "2026-11-05T13:23:51.561402+00:00",
    "sources": {
-    "PlanetF1": "2026-11-05T13:22:27+00:00"
+    "PlanetF1": "2026-11-05T13:22:27+00:00",
+    "RacingNews365 NL": "2026-11-05T13:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Kimi Antonelli hails Hamilton and Verstappen over ‘unexpected’ championship gesture"
+    "PlanetF1": "Kimi Antonelli hails Hamilton and Verstappen over ‘unexpected’ championship gesture",
+    "RacingNews365 NL": "Verstappen en Hamilton bezorgen Antonelli kippenvel: \"Die foto ga ik inlijsten!\""
    },
-   "last": "2026-11-05T13:23:51.561423+00:00"
+   "last": "2026-11-05T13:33:54.673130+00:00"
   },
   "S4931": {
    "title": "Mercedes delays engine upgrade to Las Vegas GP",
@@ -15810,9 +15780,48 @@
     "GPblog": "Mercedes has made a decision on the long-awaited engine upgrade"
    },
    "last": "2026-11-05T13:23:51.561435+00:00"
+  },
+  "S4932": {
+   "title": "Rory McIlroy lifts Race to Dubai chances; Laporta leads Abu Dhabi",
+   "first": "2026-11-05T13:33:54.673085+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T13:29:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rory McIlroy lifts Race to Dubai chances as Francesco Laporta leads in Abu Dhabi"
+   },
+   "last": "2026-11-05T13:33:54.673105+00:00"
+  },
+  "S4933": {
+   "title": "Marcotti column on Cristiano Ronaldo's legacy",
+   "first": "2026-11-05T13:33:54.673111+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T13:20:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Marcotti: Ronaldo was one of the greatest of all time"
+   },
+   "last": "2026-11-05T13:33:54.673116+00:00"
+  },
+  "S4934": {
+   "title": "Wolff sends clear title message before demanding Brazil weekend",
+   "first": "2026-11-05T13:33:54.673119+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T13:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff delivers clear F1 title message ahead of 'demanding weekend'"
+   },
+   "last": "2026-11-05T13:33:54.673124+00:00"
   }
  },
- "story_seq": 4931,
+ "story_seq": 4934,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15931,27 +15940,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T13:23:49.174393+00:00",
+ "last_run": "2026-11-05T13:33:49.786981+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T13:33:42.321109+00:00",
-   "title": "Dallara, Antonelli'yi överek 'süper fuoriclasse' dedi",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-02T13:33:42.715056+00:00",
-   "title": "Verstappen, Hamilton ile yaşanan düellodan sonra ona çıkıştı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-02T13:33:43.113615+00:00",
-   "title": "Wolff, Antonelli'nin şampiyonluğuyla haklı çıktı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-02T13:53:28.271592+00:00",
    "title": "Russell'a Rosberg'den sert bir tavsiye: Sporu bırak ve uzaklaş",
@@ -17276,6 +17270,11 @@
    "t": "2026-11-05T13:23:56.905721+00:00",
    "title": "Antonelli, Hamilton ve Verstappen'in şampiyonluk jestini över",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T13:33:59.448062+00:00",
+   "title": "Wolff: Antonelli şampiyonluğu sonrası konstrüktörler için henüz iş bitmedi",
+   "source": "RacingNews365"
   }
  ]
 }
