@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "beed0737bcd94121": "2026-10-22T18:29:02.077327+00:00",
-  "2fba50bf2028d952": "2026-10-22T18:29:02.077327+00:00",
-  "395cebe52e8fc5ad": "2026-10-22T18:29:02.077327+00:00",
-  "c1c557b6483c84b5": "2026-10-22T18:29:02.077327+00:00",
   "c17a8fac89a9c0e8": "2026-10-22T18:39:02.219435+00:00",
   "7dac464218d559ce": "2026-10-22T18:39:02.219435+00:00",
   "54e2e3de74ff31d3": "2026-10-22T18:39:02.219435+00:00",
@@ -7637,7 +7633,13 @@
   "652965d91ce42910": "2026-11-05T18:25:24.849623+00:00",
   "2663977b89181d81": "2026-11-05T18:25:24.849623+00:00",
   "09658d5b491cd3c1": "2026-11-05T18:25:24.849623+00:00",
-  "cbde51ff7f1038e7": "2026-11-05T18:25:24.849623+00:00"
+  "cbde51ff7f1038e7": "2026-11-05T18:25:24.849623+00:00",
+  "8444f44204f1ac68": "2026-11-05T18:35:26.464701+00:00",
+  "2aadb9729185b673": "2026-11-05T18:35:26.464701+00:00",
+  "e77fac62af1193ac": "2026-11-05T18:35:26.464701+00:00",
+  "3b1aeae70cf68536": "2026-11-05T18:35:26.464701+00:00",
+  "e70c63c7a26973ab": "2026-11-05T18:35:26.464701+00:00",
+  "48a95d87e0d10d19": "2026-11-05T18:35:26.464701+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7864,19 +7866,6 @@
     "ESPN F1": "Is this the most unique free throw technique of all time?"
    },
    "last": "2026-11-03T23:50:18.324913+00:00"
-  },
-  "S4428": {
-   "title": "Alonso says Barcelona vital to Spanish motorsport survival",
-   "first": "2026-11-03T18:28:26.599639+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-03T18:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Fernando Alonso issues 'cannot survive' claim as Barcelona secures major coup"
-   },
-   "last": "2026-11-03T18:28:26.599644+00:00"
   },
   "S4429": {
    "title": "F1.com feature on Hamilton's first McLaren test ahead of 400th start",
@@ -15717,14 +15706,16 @@
    "title": "Verstappen jokes about celebrations after his first title",
    "first": "2026-11-05T18:05:29.338974+00:00",
    "sources": {
-    "GPblog": "2026-11-05T17:58:00+00:00"
+    "GPblog": "2026-11-05T17:58:00+00:00",
+    "Motorsport-Total": "2026-11-05T18:23:18+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Verstappen recalls first F1 title after Antonelli's triumph: 'I was still drunk the next day'"
+    "GPblog": "Verstappen recalls first F1 title after Antonelli's triumph: 'I was still drunk the next day'",
+    "Motorsport-Total": "Max Verstappen: Ich war am Tag nach meinem ersten Titel noch betrunken - Motorsport-Total.com"
    },
-   "last": "2026-11-05T18:05:29.338977+00:00"
+   "last": "2026-11-05T18:35:30.375707+00:00"
   },
   "S5013": {
    "title": "Verstappen calls Antonelli humble, says title won't change him",
@@ -15868,9 +15859,61 @@
     "PlanetF1": "Haas plan revealed following Esteban Ocon axe"
    },
    "last": "2026-11-05T18:25:31.357264+00:00"
+  },
+  "S5024": {
+   "title": "Mjällby vs. Borac (5 Nov, 2026) live score",
+   "first": "2026-11-05T18:35:30.375669+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T18:29:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mjällby vs. Borac (5 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-05T18:35:30.375684+00:00"
+  },
+  "S5025": {
+   "title": "NEC vs. Omonia (5 Nov, 2026) live score",
+   "first": "2026-11-05T18:35:30.375688+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T18:29:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NEC vs. Omonia (5 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-05T18:35:30.375692+00:00"
+  },
+  "S5026": {
+   "title": "Antonelli reveals title celebrations and messages received",
+   "first": "2026-11-05T18:35:30.375695+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-05T18:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "'I went full out!' - Antonelli reveals title celebrations and 'special' messages"
+   },
+   "last": "2026-11-05T18:35:30.375697+00:00"
+  },
+  "S5027": {
+   "title": "Motorsport-Total F1 section landing page",
+   "first": "2026-11-05T18:35:30.375700+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-05T18:26:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel 1 bei Motorsport-Total.com - F1-News und mehr - Motorsport-Total.com"
+   },
+   "last": "2026-11-05T18:35:30.375703+00:00"
   }
  },
- "story_seq": 5023,
+ "story_seq": 5027,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15989,7 +16032,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T18:25:24.849623+00:00",
+ "last_run": "2026-11-05T18:35:26.464701+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
@@ -17379,6 +17422,11 @@
    "t": "2026-11-05T18:25:40.989176+00:00",
    "title": "Haas, Ocon'un ayrılığının ardından planı açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T18:35:35.618406+00:00",
+   "title": "Antonelli, kutlamalarını ve ünlülerden gelen mesajları anlattı",
+   "source": "Sky Sports F1"
   }
  ]
 }
