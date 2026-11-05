@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "991d9dd5f201cb40": "2026-10-22T10:47:31.281538+00:00",
-  "29c69c02e6dcdbd1": "2026-10-22T10:47:31.281538+00:00",
   "a3cb8b00d431b92d": "2026-10-22T10:57:29.542382+00:00",
   "14f7f6da0feb2564": "2026-10-22T10:57:29.542382+00:00",
   "994eab9934741935": "2026-10-22T10:57:29.542382+00:00",
@@ -7644,7 +7642,8 @@
   "89b38a9becfcbe91": "2026-11-05T10:33:51.692116+00:00",
   "6edb2f79a2f8888c": "2026-11-05T10:43:52.476063+00:00",
   "e725e9a10a0049e2": "2026-11-05T10:43:52.476063+00:00",
-  "774cd50573f237e0": "2026-11-05T10:43:52.476063+00:00"
+  "774cd50573f237e0": "2026-11-05T10:43:52.476063+00:00",
+  "4c07dae34bd085fa": "2026-11-05T10:53:52.865897+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8002,19 +8001,6 @@
    },
    "last": "2026-11-03T19:08:27.299266+00:00"
   },
-  "S4304": {
-   "title": "Finlay Bean switches from Yorkshire to Northamptonshire (cricket)",
-   "first": "2026-11-03T10:26:20.691126+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T10:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Finlay Bean makes switch from Yorkshire to Northants"
-   },
-   "last": "2026-11-03T10:46:23.307525+00:00"
-  },
   "S4307": {
    "title": "Liverpool's $500m forward line struggling, ESPN analysis",
    "first": "2026-11-03T10:36:22.177935+00:00",
@@ -8027,19 +8013,6 @@
     "ESPN F1": "Liverpool's $500m forward line is failing. Can they turn it around?"
    },
    "last": "2026-11-03T16:07:07.233865+00:00"
-  },
-  "S4309": {
-   "title": "Jeffery Simmons excited to join Chicago Bears",
-   "first": "2026-11-03T10:46:23.307536+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T04:59:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jeffery Simmons: 'I am so excited to be a Chicago Bear'"
-   },
-   "last": "2026-11-03T10:46:23.307543+00:00"
   },
   "S4310": {
    "title": "Steiner urges Italy to show Antonelli more respect",
@@ -8055,19 +8028,6 @@
     "RacingNews365 NL": "Steiner roept Ferrari-land Italië op tot meer liefde voor Antonelli"
    },
    "last": "2026-11-03T10:56:20.225551+00:00"
-  },
-  "S4311": {
-   "title": "Hamilton says working with Leclerc is hard after Mexico",
-   "first": "2026-11-03T10:46:23.307557+00:00",
-   "sources": {
-    "AS": "2026-11-03T10:33:32+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Hamilton se cansa de Leclerc"
-   },
-   "last": "2026-11-03T10:46:23.307561+00:00"
   },
   "S4312": {
    "title": "Barcelona lift ban on supporters' group before Aston Villa clash",
@@ -11530,7 +11490,8 @@
     "Motorsport-Total": "2026-11-04T13:12:58+00:00",
     "Corriere dello Sport": "2026-11-04T14:01:29+00:00",
     "PlanetF1": "2026-11-04T14:29:49+00:00",
-    "ESPN F1": "2026-11-04T14:52:00+00:00"
+    "ESPN F1": "2026-11-04T14:52:00+00:00",
+    "Auto Motor und Sport": "2026-11-05T10:13:52+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11548,9 +11509,10 @@
     "Motorsport-Total": "Babyglück: Charles Leclerc ist erstmals Vater geworden - Motorsport-Total.com",
     "Corriere dello Sport": "Leclerc è diventato papà: nata la piccola Bianca, l'annuncio sui social con Alexandra",
     "PlanetF1": "Charles Leclerc announces birth of first child ahead of São Paulo GP",
-    "ESPN F1": "Charles Leclerc to miss Brazilian Grand Prix media duty due to birth of baby"
+    "ESPN F1": "Charles Leclerc to miss Brazilian Grand Prix media duty due to birth of baby",
+    "Auto Motor und Sport": "Formel 1: Baby-Glück bei Ferrari: Charles Leclerc ist Vater!"
    },
-   "last": "2026-11-05T08:23:23.470325+00:00"
+   "last": "2026-11-05T10:53:55.032769+00:00"
   },
   "S4569": {
    "title": "Bottas reacts after big crash at Mexico City GP",
@@ -15913,22 +15875,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T10:43:52.476063+00:00",
+ "last_run": "2026-11-05T10:53:52.865897+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T10:53:26.936763+00:00",
-   "title": "Komatsu, Ocon'un çıkarılmasının tüm sorumluluğunu üstlendi",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-02T10:53:27.337965+00:00",
-   "title": "Dün gece en iyi uyuyan Kimi Antonelli oldu",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-02T11:03:27.683855+00:00",
    "title": "Marco Antonelli, oğlu Kimi Antonelli'nin şampiyonluğunu ve aile yaşantısını anlattı",
