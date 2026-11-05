@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "86163ce7c9615d6c": "2026-10-22T02:27:08.058907+00:00",
-  "1edba6c9a0d195d2": "2026-10-22T02:27:08.058907+00:00",
-  "8abb34438478491c": "2026-10-22T02:27:08.058907+00:00",
-  "b0a279d0d4baafee": "2026-10-22T02:27:08.058907+00:00",
   "c82fecf77aea7814": "2026-10-22T04:06:53.683132+00:00",
   "022c207d8d76bd0f": "2026-10-22T04:26:50.811055+00:00",
   "83b806bdd7318a6f": "2026-10-22T04:36:50.699699+00:00",
@@ -7625,7 +7621,9 @@
   "61b37ed74eab5727": "2026-11-05T02:12:35.411862+00:00",
   "c798055126252275": "2026-11-05T02:12:35.411862+00:00",
   "fde01a4d21f12891": "2026-11-05T02:22:37.133621+00:00",
-  "03c66ba800ee77d7": "2026-11-05T02:22:37.133621+00:00"
+  "03c66ba800ee77d7": "2026-11-05T02:22:37.133621+00:00",
+  "d2f812e9cd13ab78": "2026-11-05T02:32:33.277192+00:00",
+  "afdb2672b575846a": "2026-11-05T02:32:33.277192+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7946,19 +7944,6 @@
     "Sky Sports F1": "Lawson admits 'no assurance' of retaining Racing Bulls seat"
    },
    "last": "2026-11-03T13:07:09.117843+00:00"
-  },
-  "S4200": {
-   "title": "Kent State vs. Louisiana Tech live score",
-   "first": "2026-11-03T02:25:46.206116+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T01:18:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kent State vs. Louisiana Tech (Nov 2, 2026) Live Score"
-   },
-   "last": "2026-11-03T02:25:46.206135+00:00"
   },
   "S4201": {
    "title": "Mikal Bridges skies for big slam dunk",
@@ -15857,9 +15842,35 @@
     "ESPN F1": "'Significant loss': Canterbury great Paul Langmack dies"
    },
    "last": "2026-11-05T02:22:38.744707+00:00"
+  },
+  "S4793": {
+   "title": "Raptors vs. Nuggets live score (NBA)",
+   "first": "2026-11-05T02:32:35.087775+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T02:25:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raptors vs. Nuggets (5 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-05T02:32:35.087793+00:00"
+  },
+  "S4794": {
+   "title": "Jalen Bonds 42-yard rushing touchdown",
+   "first": "2026-11-05T02:32:35.087798+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T02:17:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jalen Bonds breaks off 42-yard rushing touchdown"
+   },
+   "last": "2026-11-05T02:32:35.087804+00:00"
   }
  },
- "story_seq": 4792,
+ "story_seq": 4794,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15978,17 +15989,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T02:22:37.133621+00:00",
+ "last_run": "2026-11-05T02:32:33.277192+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T02:27:08.716189+00:00",
-   "title": "Antonelli: Russell bu sezon benden daha fazla talihsizlik yaşadı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-02T02:47:04.771947+00:00",
    "title": "Oscar Piastri'ye yarış sonrası 10 saniyelik ceza verildi",
