@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9b1129ef20a8bac3": "2026-10-22T06:06:49.657279+00:00",
   "adb328525f981a1d": "2026-10-22T06:16:50.699629+00:00",
   "af2a548cd2b06fd1": "2026-10-22T06:16:50.699629+00:00",
   "a243511211b28247": "2026-10-22T06:16:50.699629+00:00",
@@ -7655,7 +7654,13 @@
   "696be6531d7e9010": "2026-11-05T06:03:09.701173+00:00",
   "1c6214ce4b1ad134": "2026-11-05T06:03:09.701173+00:00",
   "1ced9cdf588871e4": "2026-11-05T06:03:09.701173+00:00",
-  "d10aa2fe2123158a": "2026-11-05T06:03:09.701173+00:00"
+  "d10aa2fe2123158a": "2026-11-05T06:03:09.701173+00:00",
+  "5ed36bcd0db43634": "2026-11-05T06:13:09.771287+00:00",
+  "1f895794b6d8e945": "2026-11-05T06:13:09.771287+00:00",
+  "4073b4aad63cdfef": "2026-11-05T06:13:09.771287+00:00",
+  "273d7a3b7b1ae5da": "2026-11-05T06:13:09.771287+00:00",
+  "a1c22ed96a95f387": "2026-11-05T06:13:09.771287+00:00",
+  "6d03413b0c297865": "2026-11-05T06:13:09.771287+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7977,21 +7982,6 @@
    },
    "last": "2026-11-03T10:16:20.800433+00:00"
   },
-  "S4234": {
-   "title": "Hamilton demands Ferrari find solutions after Leclerc first-lap clash",
-   "first": "2026-11-03T05:35:49.547552+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-03T05:30:00+00:00",
-    "Sky Sports F1": "2026-11-03T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton demands Ferrari find solutions after latest mess with Charles Leclerc",
-    "Sky Sports F1": "Hamilton calls for 'serious talks' at Ferrari after Leclerc incident"
-   },
-   "last": "2026-11-03T06:06:20.514786+00:00"
-  },
   "S4235": {
    "title": "Avalanche 5-2 Blackhawks NHL game recap",
    "first": "2026-11-03T05:45:43.351374+00:00",
@@ -8004,19 +7994,6 @@
     "ESPN F1": "Avalanche 5-2 Blackhawks (3 Nov, 2026) Game Recap"
    },
    "last": "2026-11-03T10:16:20.800446+00:00"
-  },
-  "S4240": {
-   "title": "Leclerc defends Mexico first-lap clash, says both Ferrari drivers erred",
-   "first": "2026-11-03T06:06:20.514805+00:00",
-   "sources": {
-    "GPblog": "2026-11-03T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Leclerc has a different story to tell after Hamilton's Mexican GP fury"
-   },
-   "last": "2026-11-03T06:06:20.514811+00:00"
   },
   "S4241": {
    "title": "AFC postpones 2027 Asian Cup in Saudi Arabia",
@@ -15908,9 +15885,61 @@
     "GPblog": "Verstappen simulation points to a tough challenge for Red Bull and the others in Brazil"
    },
    "last": "2026-11-05T06:03:15.242776+00:00"
+  },
+  "S4832": {
+   "title": "Wembanyama 52-point, 24-rebound, 8-block game for Spurs",
+   "first": "2026-11-05T06:13:13.137984+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T06:01:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wembanyama has career night with 52 points, 24 rebounds, 8 blocks in Spurs' win"
+   },
+   "last": "2026-11-05T06:13:13.138012+00:00"
+  },
+  "S4833": {
+   "title": "Samaleswari SC 2026-27 squad announced",
+   "first": "2026-11-05T06:13:13.138016+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T04:12:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Samaleswari SC 2026-27 Squad"
+   },
+   "last": "2026-11-05T06:13:13.138021+00:00"
+  },
+  "S4834": {
+   "title": "CE Europa vs. Deportivo match postponed",
+   "first": "2026-11-05T06:13:13.138024+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T04:12:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "CE Europa vs. Deportivo (5 Nov, 2026) Postponed"
+   },
+   "last": "2026-11-05T06:13:13.138028+00:00"
+  },
+  "S4835": {
+   "title": "PlanetF1 Brazilian GP predictions roundup with Hamilton and Russell notes",
+   "first": "2026-11-05T06:13:13.138031+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-05T06:03:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton statement, Russell Q1 horror and more Brazilian GP predictions"
+   },
+   "last": "2026-11-05T06:13:13.138035+00:00"
   }
  },
- "story_seq": 4831,
+ "story_seq": 4835,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16029,17 +16058,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T06:03:09.701173+00:00",
+ "last_run": "2026-11-05T06:13:09.771287+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T06:07:47.074772+00:00",
-   "title": "Verstappen, Leclerc'in hafif cezasına şaşırdı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-02T06:22:45.089250+00:00",
    "title": "Meksika'daki sonradan verilen cezalar: Üç F1 pilotu puanlarını kaybetti",
@@ -17414,6 +17438,11 @@
    "t": "2026-11-05T06:03:21.586806+00:00",
    "title": "Verstappen simülasyonu Brezilya'da Red Bull için zorlu bir mücadeleye işaret ediyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-05T06:13:17.859479+00:00",
+   "title": "Brezilya GP öncesi tahminler: Verstappen yağmurda favori, Russell zor bir hafta",
+   "source": "PlanetF1"
   }
  ]
 }
