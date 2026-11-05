@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d100755908638a9a": "2026-10-22T22:59:40.229450+00:00",
-  "568116d9b5952f20": "2026-10-22T22:59:40.229450+00:00",
-  "1dfe9bb97cfe4909": "2026-10-22T22:59:40.229450+00:00",
   "eaa3ce683031bf28": "2026-10-22T23:09:41.462799+00:00",
   "edb3885cb5307ec6": "2026-10-22T23:09:41.462799+00:00",
   "69425fffbc87e4be": "2026-10-22T23:09:41.462799+00:00",
@@ -7635,7 +7632,10 @@
   "6795e461e7f63d09": "2026-11-05T22:36:08.324772+00:00",
   "882aeb3eb33a50c8": "2026-11-05T22:36:08.324772+00:00",
   "a09872fe0b7854b4": "2026-11-05T22:46:08.409308+00:00",
-  "9139daf43cbaf491": "2026-11-05T22:56:05.947170+00:00"
+  "9139daf43cbaf491": "2026-11-05T22:56:05.947170+00:00",
+  "58c8d35d94131f52": "2026-11-05T23:06:08.259927+00:00",
+  "133736e01f65967f": "2026-11-05T23:06:08.259927+00:00",
+  "0f624999da0ec456": "2026-11-05T23:06:08.259927+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7846,19 +7846,6 @@
    },
    "last": "2026-11-04T01:20:13.554103+00:00"
   },
-  "S4450": {
-   "title": "Dumonts take over as controlling owners of Mavericks",
-   "first": "2026-11-03T20:18:22.375521+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T19:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dumonts take over as controlling owners of Mavericks"
-   },
-   "last": "2026-11-03T22:59:31.252917+00:00"
-  },
   "S4454": {
    "title": "Rafael Camara to make F1 debut for Haas in Sao Paulo",
    "first": "2026-11-03T20:38:28.807936+00:00",
@@ -7958,19 +7945,6 @@
     "Sky Sports F1": "Cadillac's Herta handed Brazil practice outing to secure F1 super licence"
    },
    "last": "2026-11-04T16:31:18.604386+00:00"
-  },
-  "S4485": {
-   "title": "Fantasy football D/ST outlook for Weeks 9-12",
-   "first": "2026-11-03T22:59:31.252926+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fantasy football D/ST outlook for Weeks 9-12: Fire up Texans, and how 'bout them Cowboys?"
-   },
-   "last": "2026-11-03T22:59:31.252933+00:00"
   },
   "S4486": {
    "title": "ESPN F1 video with no accompanying content",
@@ -15012,14 +14986,16 @@
    "title": "Liam Lawson says uncertain F1 future takes away from results",
    "first": "2026-11-05T17:55:26.232373+00:00",
    "sources": {
-    "PlanetF1": "2026-11-05T17:48:52+00:00"
+    "PlanetF1": "2026-11-05T17:48:52+00:00",
+    "GPblog": "2026-11-05T23:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Liam Lawson concedes uncertain F1 future ‘takes away’ from strong results"
+    "PlanetF1": "Liam Lawson concedes uncertain F1 future ‘takes away’ from strong results",
+    "GPblog": "Lawson makes painful admission as he provides update on 2027 F1 seat"
    },
-   "last": "2026-11-05T17:55:26.232376+00:00"
+   "last": "2026-11-05T23:06:11.963347+00:00"
   },
   "S5011": {
    "title": "Tremayne tribute to Alan Jones's life and career",
@@ -15671,14 +15647,14 @@
    "title": "Celta Vigo vs Union SG team stats",
    "first": "2026-11-05T20:25:28.276194+00:00",
    "sources": {
-    "ESPN F1": "2026-11-05T20:20:03+00:00"
+    "ESPN F1": "2026-11-05T20:14:16+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Celta Vigo vs. Union SG (Nov 5, 2026) Team Stats"
    },
-   "last": "2026-11-05T20:25:28.276211+00:00"
+   "last": "2026-11-05T23:06:11.963340+00:00"
   },
   "S5060": {
    "title": "Benfica vs Lech Poznan team stats",
@@ -16268,9 +16244,22 @@
     "Auto Motor und Sport": "Formel 1: Ferrari-Supertalent - Câmara will Ocon das Haas-Cockpit klauen"
    },
    "last": "2026-11-05T22:56:07.995663+00:00"
+  },
+  "S5105": {
+   "title": "Sunderland 0-2 Dinamo Zagreb match analysis",
+   "first": "2026-11-05T23:06:11.963308+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T22:25:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sunderland 0-2 Dinamo Zagreb (5 Nov, 2026) Game Analysis"
+   },
+   "last": "2026-11-05T23:06:11.963330+00:00"
   }
  },
- "story_seq": 5104,
+ "story_seq": 5105,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16389,17 +16378,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-05T22:56:05.947170+00:00",
+ "last_run": "2026-11-05T23:06:08.259927+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T23:05:39.705552+00:00",
-   "title": "George Russell, Antonelli'nin şampiyonluğu sonrası konuştu; açıklaması Wolff'unkinden farklı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-03T04:25:48.545527+00:00",
    "title": "Enzo Shahrvin",
