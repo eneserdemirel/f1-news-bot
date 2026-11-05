@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6be8aab0fca74544": "2026-10-22T10:37:33.411899+00:00",
-  "b1bbc4e9773a98a8": "2026-10-22T10:37:33.411899+00:00",
-  "ef08aab90ca1717f": "2026-10-22T10:37:33.411899+00:00",
   "991d9dd5f201cb40": "2026-10-22T10:47:31.281538+00:00",
   "29c69c02e6dcdbd1": "2026-10-22T10:47:31.281538+00:00",
   "a3cb8b00d431b92d": "2026-10-22T10:57:29.542382+00:00",
@@ -7644,7 +7641,10 @@
   "027872aa0e294b13": "2026-11-05T10:23:55.082167+00:00",
   "308d17227a8acfe5": "2026-11-05T10:23:55.082167+00:00",
   "753d54bc5774c18f": "2026-11-05T10:33:51.692116+00:00",
-  "89b38a9becfcbe91": "2026-11-05T10:33:51.692116+00:00"
+  "89b38a9becfcbe91": "2026-11-05T10:33:51.692116+00:00",
+  "6edb2f79a2f8888c": "2026-11-05T10:43:52.476063+00:00",
+  "e725e9a10a0049e2": "2026-11-05T10:43:52.476063+00:00",
+  "774cd50573f237e0": "2026-11-05T10:43:52.476063+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7861,21 +7861,6 @@
    },
    "last": "2026-11-03T11:37:09.844896+00:00"
   },
-  "S4174": {
-   "title": "Cadillac owner Mark Walter reportedly seeks $3bn sale with seven bidders",
-   "first": "2026-11-02T22:15:06.865583+00:00",
-   "sources": {
-    "GPFans": "2026-11-02T22:08:00+00:00",
-    "Crash.net": "2026-11-03T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Cadillac F1 owner eyes $3bn team sale as at least seven bidders circle",
-    "Crash.net": "Cadillac F1 team owner evaluating $3 billion sale after sudden U-turn"
-   },
-   "last": "2026-11-03T10:36:22.177963+00:00"
-  },
   "S4177": {
    "title": "Russell says F1 season had more bad days than good",
    "first": "2026-11-02T22:35:07.817331+00:00",
@@ -8030,19 +8015,6 @@
    },
    "last": "2026-11-03T10:46:23.307525+00:00"
   },
-  "S4306": {
-   "title": "Best images from Antonelli's title-winning celebrations",
-   "first": "2026-11-03T10:36:22.177910+00:00",
-   "sources": {
-    "Formula 1": "2026-11-03T10:36:22.177926+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "The best images from Antonelli's title-winning celebrations"
-   },
-   "last": "2026-11-03T10:36:22.177930+00:00"
-  },
   "S4307": {
    "title": "Liverpool's $500m forward line struggling, ESPN analysis",
    "first": "2026-11-03T10:36:22.177935+00:00",
@@ -8055,19 +8027,6 @@
     "ESPN F1": "Liverpool's $500m forward line is failing. Can they turn it around?"
    },
    "last": "2026-11-03T16:07:07.233865+00:00"
-  },
-  "S4308": {
-   "title": "Wolff criticises 'endless radio moaners' in Antonelli claim",
-   "first": "2026-11-03T10:36:22.177946+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-03T10:27:31+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Toto Wolff calls out ‘endless radio moaners’ in new Kimi Antonelli claim"
-   },
-   "last": "2026-11-03T10:36:22.177951+00:00"
   },
   "S4309": {
    "title": "Jeffery Simmons excited to join Chicago Bears",
@@ -15794,9 +15753,48 @@
     "GPblog": "Why sacking Liam Lawson would be unprecedented - even for ruthless Red Bull"
    },
    "last": "2026-11-05T10:33:54.772723+00:00"
+  },
+  "S4885": {
+   "title": "Cristiano Ronaldo retires from international football with Portugal",
+   "first": "2026-11-05T10:43:55.655487+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T10:42:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cristiano Ronaldo retires from international football with Portugal"
+   },
+   "last": "2026-11-05T10:43:55.655505+00:00"
+  },
+  "S4886": {
+   "title": "Mental coach Ceccarelli says Ferrari drivers may clash again",
+   "first": "2026-11-05T10:43:55.655511+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-05T10:40:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Ceccarelli: \"Fra i piloti Ferrari sono possibili altre scintille perché sono due prime guide\""
+   },
+   "last": "2026-11-05T10:43:55.655516+00:00"
+  },
+  "S4887": {
+   "title": "Wolff explains how Antonelli's title differs from Hamilton era",
+   "first": "2026-11-05T10:43:55.655520+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-05T10:39:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Wolff explains how Antonelli’s F1 title differs from Lewis Hamilton era"
+   },
+   "last": "2026-11-05T10:43:55.655523+00:00"
   }
  },
- "story_seq": 4884,
+ "story_seq": 4887,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15915,22 +15913,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T10:33:51.692116+00:00",
+ "last_run": "2026-11-05T10:43:52.476063+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-04 22:00",
  "last_digest_at": "2026-11-04T19:02:06.372585+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T10:43:26.627029+00:00",
-   "title": "Kimi Antonelli'ye Cesare Cremonini, Yuri Chechi ve birçok isimden tebrik",
-   "source": "Gazzetta dello Sport"
-  },
-  {
-   "t": "2026-11-02T10:43:26.992009+00:00",
-   "title": "Rosberg, Ferrari'ye Hamilton-Leclerc çatışması sonrası harekete geçme çağrısı yaptı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-02T10:53:26.936763+00:00",
    "title": "Komatsu, Ocon'un çıkarılmasının tüm sorumluluğunu üstlendi",
@@ -17275,6 +17263,16 @@
    "t": "2026-11-05T10:24:03.130441+00:00",
    "title": "Rosberg: Ferrari'de net bir yarış kuralı yok, Wolff bunu Mercedes'te açıkça belirlemişti",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-05T10:44:01.782363+00:00",
+   "title": "Wolff, Antonelli'nin şampiyonluğunun Hamilton dönemiyle farkını anlattı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-05T10:44:02.185775+00:00",
+   "title": "Ceccarelli: Ferrari'de iki başpilot olduğu için sürtüşmeler yaşanabilir",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
