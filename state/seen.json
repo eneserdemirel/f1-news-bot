@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c548df306de237c2": "2026-10-22T15:28:15.910714+00:00",
-  "1952e1648a27006e": "2026-10-22T15:28:15.910714+00:00",
   "e6bcaccf9ec561c8": "2026-10-22T15:38:15.636989+00:00",
   "c9c916d271f7cd46": "2026-10-22T15:38:15.636989+00:00",
   "6980c9fe569100e0": "2026-10-22T15:38:15.636989+00:00",
@@ -7650,7 +7648,12 @@
   "30610f684fc295a4": "2026-11-05T15:24:24.094643+00:00",
   "d116a32c966d5ffc": "2026-11-05T15:24:24.094643+00:00",
   "1b0b435f5ac6c01d": "2026-11-05T15:24:24.094643+00:00",
-  "6c44de6afad6f30d": "2026-11-05T15:24:24.094643+00:00"
+  "6c44de6afad6f30d": "2026-11-05T15:24:24.094643+00:00",
+  "a451d7e288202d0e": "2026-11-05T15:34:25.438091+00:00",
+  "1715848133fe3f27": "2026-11-05T15:34:25.438091+00:00",
+  "936fe4c972767169": "2026-11-05T15:34:25.438091+00:00",
+  "611dfa12c1e903a0": "2026-11-05T15:34:25.438091+00:00",
+  "f39b0bbb02a94904": "2026-11-05T15:34:25.438091+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7907,19 +7910,6 @@
     "Formula 1": "When could Mercedes win the 2026 Teams' Championship?"
    },
    "last": "2026-11-04T17:01:23.013400+00:00"
-  },
-  "S4378": {
-   "title": "Deitz steps down as WI head coach; Coley takes interim charge",
-   "first": "2026-11-03T15:27:00.821194+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T15:22:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Deitz steps down as WI head coach; Coley takes interim charge"
-   },
-   "last": "2026-11-03T15:27:00.821215+00:00"
   },
   "S4379": {
    "title": "Bearman Haas contract renewal delayed amid Ferrari future talk",
@@ -14787,7 +14777,7 @@
    "titles": {
     "RacingNews365 NL": "Hezemans voorspelt spektakel van Verstappen en Antonelli in Brazilië"
    },
-   "last": "2026-11-05T11:03:58.584336+00:00"
+   "last": "2026-11-05T15:34:29.081618+00:00"
   },
   "S4889": {
    "title": "Elkann reportedly irritated by Hamilton-Leclerc Mexico clash",
@@ -15208,14 +15198,16 @@
    "title": "Antonelli visits Senna family after world title",
    "first": "2026-11-05T13:03:56.027895+00:00",
    "sources": {
-    "RacingNews365": "2026-11-05T12:55:00+00:00"
+    "RacingNews365": "2026-11-05T12:55:00+00:00",
+    "Motorsport-Total": "2026-11-05T15:25:01+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Kimi Antonelli pays Ayrton Senna family emotional visit: 'An unforgettable day'"
+    "RacingNews365": "Kimi Antonelli pays Ayrton Senna family emotional visit: 'An unforgettable day'",
+    "Motorsport-Total": "Bewegende Momente: Antonelli besucht Senna-Anwesen in Brasilien - Motorsport-Total.com"
    },
-   "last": "2026-11-05T13:03:56.027900+00:00"
+   "last": "2026-11-05T15:34:29.081632+00:00"
   },
   "S4921": {
    "title": "Ecclestone says Antonelli could become next Verstappen",
@@ -15755,9 +15747,48 @@
     "RacingNews365": "Aston Martin take aim at media for fear-mongering over 'uncomfortable' F1 situation"
    },
    "last": "2026-11-05T15:24:30.149924+00:00"
+  },
+  "S4962": {
+   "title": "Scotland and New Zealand name Edinburgh Test sides",
+   "first": "2026-11-05T15:34:29.081578+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T15:28:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Scotland, New Zealand name strong sides for Edinburgh Test"
+   },
+   "last": "2026-11-05T15:34:29.081597+00:00"
+  },
+  "S4963": {
+   "title": "Review of 10 new NFL head coaches' 2026 seasons",
+   "first": "2026-11-05T15:34:29.081604+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T11:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season"
+   },
+   "last": "2026-11-05T15:34:29.081610+00:00"
+  },
+  "S4964": {
+   "title": "Verstappen says Ferrari's real problem goes beyond Hamilton-Leclerc clash",
+   "first": "2026-11-05T15:34:29.081622+00:00",
+   "sources": {
+    "GPblog": "2026-11-05T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen pinpoints Ferrari's real problem after Hamilton and Leclerc clash"
+   },
+   "last": "2026-11-05T15:34:29.081627+00:00"
   }
  },
- "story_seq": 4961,
+ "story_seq": 4964,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15876,17 +15907,12 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T15:24:24.094643+00:00",
+ "last_run": "2026-11-05T15:34:25.438091+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
  "last_digest_at": "2026-11-05T12:03:57.959995+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-02T15:34:15.578043+00:00",
-   "title": "Racing Bulls CEO'su Lawson'ın durumunu ve 2027 kadro kararını anlattı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-02T16:04:15.627120+00:00",
    "title": "Haas, 2027 pilot kadrosu için Bearman'ı tutmak istediğini ima etti",
