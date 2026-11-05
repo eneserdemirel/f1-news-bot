@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8cac6ac6ae512d5d": "2026-10-22T18:49:04.609931+00:00",
-  "64666b6a842889a8": "2026-10-22T18:49:04.609931+00:00",
-  "76981acc4d4beb46": "2026-10-22T18:49:04.609931+00:00",
-  "42e44b9054daafcb": "2026-10-22T18:49:04.609931+00:00",
-  "a8dba154e622448f": "2026-10-22T18:49:04.609931+00:00",
-  "feb9a4b7b270642c": "2026-10-22T18:49:04.609931+00:00",
-  "8f6396affd2327fd": "2026-10-22T18:49:04.609931+00:00",
   "e9e5da9645d5e104": "2026-10-22T18:59:06.686711+00:00",
   "82077d61da775039": "2026-10-22T18:59:06.686711+00:00",
   "a444c9b0cdb27683": "2026-10-22T18:59:06.686711+00:00",
@@ -7641,7 +7634,11 @@
   "18be15ac012bdb53": "2026-11-05T18:45:24.993978+00:00",
   "e2da9fedc6d15a0b": "2026-11-05T18:45:24.993978+00:00",
   "9eea0a211513adb4": "2026-11-05T18:45:24.993978+00:00",
-  "641448fe22f27cdf": "2026-11-05T18:45:24.993978+00:00"
+  "641448fe22f27cdf": "2026-11-05T18:45:24.993978+00:00",
+  "f6567a84d24a2a88": "2026-11-05T18:55:21.772464+00:00",
+  "bc4ef658c473c8a6": "2026-11-05T18:55:21.772464+00:00",
+  "5a6e7d70ae3c4c66": "2026-11-05T18:55:21.772464+00:00",
+  "51c026e3a864f0b3": "2026-11-05T18:55:21.772464+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7868,32 +7865,6 @@
     "ESPN F1": "Is this the most unique free throw technique of all time?"
    },
    "last": "2026-11-03T23:50:18.324913+00:00"
-  },
-  "S4432": {
-   "title": "Dirk Kuyt ready for reunion with Liverpool as Fenerbahce coach",
-   "first": "2026-11-03T18:48:31.599455+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-03T18:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fenerbahce coach Dirk Kuyt ready for 'very special' reunion with Liverpool"
-   },
-   "last": "2026-11-03T18:48:31.599474+00:00"
-  },
-  "S4433": {
-   "title": "Wolff criticises Ferrari's handling of young drivers after Antonelli title",
-   "first": "2026-11-03T18:48:31.599478+00:00",
-   "sources": {
-    "GPFans": "2026-11-03T18:44:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Mercedes F1 boss Toto Wolff delivers extraordinary Ferrari dig over Ollie Bearman decision"
-   },
-   "last": "2026-11-03T18:48:31.599483+00:00"
   },
   "S4434": {
    "title": "ESPN roundup of WNBA coaching changes for 2027",
@@ -15905,14 +15876,16 @@
    "title": "Hamilton one-word response to Leclerc, says Leclerc races him harder",
    "first": "2026-11-05T18:45:32.401835+00:00",
    "sources": {
-    "GPblog": "2026-11-05T18:35:00+00:00"
+    "GPblog": "2026-11-05T18:35:00+00:00",
+    "RacingNews365 NL": "2026-11-05T18:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Hamilton refuses to ease tensions with striking one-word Leclerc response"
+    "GPblog": "Hamilton refuses to ease tensions with striking one-word Leclerc response",
+    "RacingNews365 NL": "Hamilton haalt opnieuw uit naar Leclerc: \"Tegen Max trekt hij z'n keutel in!\""
    },
-   "last": "2026-11-05T18:45:32.401838+00:00"
+   "last": "2026-11-05T18:55:25.952687+00:00"
   },
   "S5031": {
    "title": "Ralf Schumacher says Russell is 'ashamed of himself'",
@@ -15952,9 +15925,48 @@
     "AS": "El problema más viejo de Honda"
    },
    "last": "2026-11-05T18:45:32.401853+00:00"
+  },
+  "S5034": {
+   "title": "Crystal Palace vs Hoffenheim live score",
+   "first": "2026-11-05T18:55:25.952653+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T18:22:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "C Palace vs. Hoffenheim (5 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-05T18:55:25.952669+00:00"
+  },
+  "S5035": {
+   "title": "Jonathan Taylor trade speculation amid Colts talks",
+   "first": "2026-11-05T18:55:25.952673+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T18:02:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jonathan Taylor 'can't avoid' trade speculation as Colts go through talks"
+   },
+   "last": "2026-11-05T18:55:25.952677+00:00"
+  },
+  "S5036": {
+   "title": "Hamilton responds to Vasseur's 'lack of respect' comments",
+   "first": "2026-11-05T18:55:25.952679+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-05T18:48:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton addresses explosive Ferrari 'lack of respect' comments"
+   },
+   "last": "2026-11-05T18:55:25.952682+00:00"
   }
  },
- "story_seq": 5033,
+ "story_seq": 5036,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16073,7 +16085,7 @@
   ]
  ],
  "calendar_updated": "2026-11-04T22:41:36.729381+00:00",
- "last_run": "2026-11-05T18:45:24.993978+00:00",
+ "last_run": "2026-11-05T18:55:21.772464+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 15:00",
@@ -17493,6 +17505,11 @@
    "t": "2026-11-05T18:45:42.534632+00:00",
    "title": "Russell, Schumacher'e göre sezonun kötü geçmesinden utanç duyuyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-05T18:55:31.098319+00:00",
+   "title": "Hamilton, Vasseur'ün 'saygısızlık' yorumlarına yanıt verdi",
+   "source": "RacingNews365"
   }
  ]
 }
