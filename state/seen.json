@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "987402f018b3ea28": "2026-10-23T22:32:24.736586+00:00",
-  "bd0fbd09fa68da47": "2026-10-23T22:32:24.736586+00:00",
   "761998bf67644b11": "2026-10-23T22:37:27.001699+00:00",
   "f684d4950f16b2c9": "2026-10-23T22:37:27.001699+00:00",
   "a79556194c3e5a1b": "2026-10-23T22:37:27.001699+00:00",
@@ -7763,7 +7761,10 @@
   "3d0b9d8823d2c648": "2026-11-06T22:15:17.408957+00:00",
   "3f59d2b711525f8a": "2026-11-06T22:25:18.642431+00:00",
   "efc98aac9bf1a5dc": "2026-11-06T22:25:18.642431+00:00",
-  "08297cb4bfed4466": "2026-11-06T22:25:18.642431+00:00"
+  "08297cb4bfed4466": "2026-11-06T22:25:18.642431+00:00",
+  "315873da43f49eb9": "2026-11-06T22:35:17.688766+00:00",
+  "5eef1834cabf4bd5": "2026-11-06T22:35:17.688766+00:00",
+  "ab5ef4ca6e3d9d08": "2026-11-06T22:35:17.688766+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8012,19 +8013,6 @@
     "ESPN F1": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game"
    },
    "last": "2026-11-05T00:22:40.880775+00:00"
-  },
-  "S4773": {
-   "title": "Albert Pujols to interview for Astros managerial job",
-   "first": "2026-11-04T22:31:52.267190+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T21:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Albert Pujols to interview for Astros' managerial job, sources say"
-   },
-   "last": "2026-11-04T22:31:52.267211+00:00"
   },
   "S4774": {
    "title": "Slavia Prague 1-2 Arsenal Champions League result analysis",
@@ -17238,14 +17226,18 @@
    "title": "Leclerc says Friday was his worst feeling of the season",
    "first": "2026-11-06T22:00:22.006368+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-06T21:58:22+00:00"
+    "Motorsport.com Italia": "2026-11-06T21:58:22+00:00",
+    "Formula 1": "2026-11-06T22:35:22.491005+00:00",
+    "Sky Sports F1": "2026-11-06T22:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Leclerc: \"E' stato il venerdì con le sensazioni peggiori della stagione. Dobbiamo lavorare molto\""
+    "Motorsport.com Italia": "F1 | Leclerc: \"E' stato il venerdì con le sensazioni peggiori della stagione. Dobbiamo lavorare molto\"",
+    "Formula 1": "Ferrari have 'plenty to work on' in Brazil – Leclerc",
+    "Sky Sports F1": "Leclerc plans 'significant' car changes as Hamilton rues 'difficult' Brazil practice"
    },
-   "last": "2026-11-06T22:00:22.006374+00:00"
+   "last": "2026-11-06T22:35:22.491028+00:00"
   },
   "S5451": {
    "title": "Vasseur says reports of Ferrari driver clash are exaggerated",
@@ -17337,9 +17329,22 @@
     "Motorsport-Total": "McLaren-Upgrade eine \"angenehme Überraschung\": Bleibt es auch am Auto? - Motorsport-Total.com"
    },
    "last": "2026-11-06T22:25:23.568255+00:00"
+  },
+  "S5458": {
+   "title": "PlanetF1 Friday roundup: Brundle, Lawson, Racing Bulls contract",
+   "first": "2026-11-06T22:35:22.491034+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-06T22:31:20+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Brundle breaks rank on Liam Lawson, Hamilton vs Leclerc latest, Racing Bulls contract announcement – roundup"
+   },
+   "last": "2026-11-06T22:35:22.491039+00:00"
   }
  },
- "story_seq": 5457,
+ "story_seq": 5458,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17458,7 +17463,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T22:30:15.457732+00:00",
+ "last_run": "2026-11-06T22:35:17.688766+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
