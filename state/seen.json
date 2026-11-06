@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "faed23e15d79bc43": "2026-10-23T07:30:23.200478+00:00",
-  "e8880dba90891889": "2026-10-23T07:30:23.200478+00:00",
   "eda732dc9b4d7bf8": "2026-10-23T07:40:26.516949+00:00",
   "895240966d47c749": "2026-10-23T07:40:26.516949+00:00",
   "2e94aad26c934c2e": "2026-10-23T07:40:26.516949+00:00",
@@ -7634,7 +7632,8 @@
   "70e2e41807790f24": "2026-11-06T07:28:14.510708+00:00",
   "383ecd9a400cf224": "2026-11-06T07:28:14.510708+00:00",
   "7acd5ffe663badc2": "2026-11-06T07:28:14.510708+00:00",
-  "674648aa726a7412": "2026-11-06T07:28:14.510708+00:00"
+  "674648aa726a7412": "2026-11-06T07:28:14.510708+00:00",
+  "6e75eed6a37f3fa7": "2026-11-06T07:38:14.519194+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7863,19 +7862,6 @@
    },
    "last": "2026-11-04T16:31:18.604386+00:00"
   },
-  "S4511": {
-   "title": "Luka Doncic's second technical foul of season rescinded by NBA",
-   "first": "2026-11-04T02:20:11.964148+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T02:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lakers' Luka Doncic has 2nd tech of season rescinded by NBA"
-   },
-   "last": "2026-11-04T07:30:54.265468+00:00"
-  },
   "S4526": {
    "title": "Ducks 5-4 Canucks NHL game recap",
    "first": "2026-11-04T05:20:52.652877+00:00",
@@ -7935,19 +7921,6 @@
     "Auto Motor und Sport": "F1: Antonellis lüftet Startnummern-Geheimnis: Drei Gründe gegen die Eins"
    },
    "last": "2026-11-04T09:20:51.345114+00:00"
-  },
-  "S4544": {
-   "title": "AFL Swans star Tom Papley tests positive at roadside stop",
-   "first": "2026-11-04T07:30:54.265438+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T07:29:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AFL: Swans star Tom Papley tests positive to illicit substance at roadside police stop"
-   },
-   "last": "2026-11-04T07:30:54.265458+00:00"
   },
   "S4545": {
    "title": "Sao Paulo GP weather forecast flags possible rain and cooler temperatures",
@@ -16373,14 +16346,16 @@
    "title": "Wolff consoles Russell after Antonelli title loss",
    "first": "2026-11-06T05:48:15.859935+00:00",
    "sources": {
-    "PlanetF1": "2026-11-06T05:46:10+00:00"
+    "PlanetF1": "2026-11-06T05:46:10+00:00",
+    "GPblog": "2026-11-06T07:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Toto Wolff consoles George Russell after title loss to Antonelli"
+    "PlanetF1": "Toto Wolff consoles George Russell after title loss to Antonelli",
+    "GPblog": "Wolff admits Mercedes shortcomings as he defends Russell after title defeat"
    },
-   "last": "2026-11-06T05:48:15.859939+00:00"
+   "last": "2026-11-06T07:38:17.744240+00:00"
   },
   "S5174": {
    "title": "Warriors 120-100 Heat game recap (NBA)",
@@ -16684,7 +16659,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T07:28:14.510708+00:00",
+ "last_run": "2026-11-06T07:38:14.519194+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -18219,6 +18194,11 @@
    "t": "2026-11-06T07:28:23.715353+00:00",
    "title": "Carlos Sainz, Charles Leclerc ile yarışmanın iyi anılarını vurguluyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-06T07:38:24.105646+00:00",
+   "title": "Wolff, Russell'ı savundu: Mercedes bazen ona yeterli aracı vermedi",
+   "source": "GPblog"
   }
  ]
 }
