@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "296cb2fc5a5b57b9": "2026-10-23T12:56:09.353810+00:00",
   "7e476a13b0a87507": "2026-10-23T13:01:08.222979+00:00",
   "51f96c706d0c4442": "2026-10-23T13:01:08.222979+00:00",
   "a264bd4745331098": "2026-10-23T13:01:08.222979+00:00",
@@ -7669,7 +7668,15 @@
   "0b175b4c48f3b234": "2026-11-06T12:53:58.465924+00:00",
   "ad5f9d8d774ec481": "2026-11-06T12:54:53.393589+00:00",
   "11a986774ddabd7a": "2026-11-06T12:54:53.393589+00:00",
-  "a81564414e541aaf": "2026-11-06T12:54:53.393589+00:00"
+  "a81564414e541aaf": "2026-11-06T12:54:53.393589+00:00",
+  "c68e388164896054": "2026-11-06T12:59:45.924340+00:00",
+  "fe40c4a4063a4634": "2026-11-06T12:59:45.924340+00:00",
+  "c7d054b6d15a4335": "2026-11-06T12:59:45.924340+00:00",
+  "31b3a022a4ae06b2": "2026-11-06T12:59:45.924340+00:00",
+  "e338f4efc2a1198b": "2026-11-06T12:59:45.924340+00:00",
+  "8e6bacb9763a0696": "2026-11-06T12:59:45.924340+00:00",
+  "83da70c92b0622ce": "2026-11-06T12:59:45.924340+00:00",
+  "33660294f0c7f1a6": "2026-11-06T12:59:45.924340+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14045,16 +14052,18 @@
    "sources": {
     "Crash.net": "2026-11-05T20:50:41+00:00",
     "Formula 1": "2026-11-05T21:26:08.183387+00:00",
-    "PlanetF1": "2026-11-06T10:10:41+00:00"
+    "PlanetF1": "2026-11-06T10:10:41+00:00",
+    "Motorsport Week": "2026-11-06T12:45:14+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "George Russell explains hasty exit after Mexico GP: “I try not to spit my dummy out”",
     "Formula 1": "Why Russell had ‘to get out’ after Antonelli’s title win",
-    "PlanetF1": "George Russell explains Mexican GP decision after Mercedes fined"
+    "PlanetF1": "George Russell explains Mexican GP decision after Mercedes fined",
+    "Motorsport Week": "George Russell offers explanation for costly Mexico GP decision"
    },
-   "last": "2026-11-06T10:14:00.480701+00:00"
+   "last": "2026-11-06T12:59:53.294934+00:00"
   },
   "S5075": {
    "title": "Bologna and ACI celebrate Antonelli's world title publicly",
@@ -14326,14 +14335,16 @@
    "title": "Lusail emergency shelter plan for MotoGP and F1 weekends",
    "first": "2026-11-05T22:16:11.915105+00:00",
    "sources": {
-    "PlanetF1": "2026-11-05T22:05:37+00:00"
+    "PlanetF1": "2026-11-05T22:05:37+00:00",
+    "GPFans": "2026-11-06T12:56:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Qatar GP venue issues emergency shelter plan ahead of F1 and MotoGP weekends"
+    "PlanetF1": "Qatar GP venue issues emergency shelter plan ahead of F1 and MotoGP weekends",
+    "GPFans": "Qatar GP track issues shelter instructions in case of military attack ahead of F1 weekend"
    },
-   "last": "2026-11-05T22:16:11.915110+00:00"
+   "last": "2026-11-06T12:59:53.294952+00:00"
   },
   "S5096": {
    "title": "McLaren to bring new upgrades to Sao Paulo GP, Norris cautious",
@@ -16649,14 +16660,16 @@
    "title": "Speculation that Haas may give away Camara's F2 title",
    "first": "2026-11-06T12:48:58.572072+00:00",
    "sources": {
-    "Auto Motor und Sport": "2026-11-06T12:09:46+00:00"
+    "Auto Motor und Sport": "2026-11-06T12:09:46+00:00",
+    "GPblog": "2026-11-06T12:58:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Auto Motor und Sport": "Formel 1: Geheimnis um Rafael Camara: Verschenkt Haas den Formel-2-Titel?"
+    "Auto Motor und Sport": "Formel 1: Geheimnis um Rafael Camara: Verschenkt Haas den Formel-2-Titel?",
+    "GPblog": "Haas appears to have made a decision on Camara: major implications for the title fight"
    },
-   "last": "2026-11-06T12:48:58.572078+00:00"
+   "last": "2026-11-06T12:59:53.294948+00:00"
   },
   "S5271": {
    "title": "Boxing experts make predictions for Turhan-Baumgardner fight",
@@ -16683,9 +16696,48 @@
     "ESPN F1": "How the Jets trading stars Quinnen Williams and Sauce Gardner looks a year later"
    },
    "last": "2026-11-06T12:54:57.829495+00:00"
+  },
+  "S5273": {
+   "title": "WWE Crown Jewel preview with Zayn and Stratton",
+   "first": "2026-11-06T12:59:53.294890+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T12:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "A Sami Zayn stunner? A Tiffany Stratton cash-in? Breaking down WWE Crown Jewel"
+   },
+   "last": "2026-11-06T12:59:53.294918+00:00"
+  },
+  "S5274": {
+   "title": "McLaren reveals 2027 front wing concept in Brazil",
+   "first": "2026-11-06T12:59:53.294923+00:00",
+   "sources": {
+    "The Race": "2026-11-06T12:59:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "McLaren's 2027 F1 front wing breaks cover in Brazil"
+   },
+   "last": "2026-11-06T12:59:53.294928+00:00"
+  },
+  "S5275": {
+   "title": "Perez responds to Cadillac F1 sale rumours",
+   "first": "2026-11-06T12:59:53.294938+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-06T12:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Sergio Perez responds to Cadillac F1 team sale rumours"
+   },
+   "last": "2026-11-06T12:59:53.294942+00:00"
   }
  },
- "story_seq": 5272,
+ "story_seq": 5275,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16804,7 +16856,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T12:54:53.393589+00:00",
+ "last_run": "2026-11-06T12:59:45.924340+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18349,6 +18401,16 @@
    "t": "2026-11-06T12:49:03.573337+00:00",
    "title": "Ricciardo, F1 dışlanmasının ardından 2027'de geri dönüş için gizli görüşmeler yaptı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T12:59:58.167755+00:00",
+   "title": "Perez, Cadillac F1 satış söylentilerine tepki gösterdi",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-06T12:59:58.766853+00:00",
+   "title": "McLaren'ın 2027 ön kanadı Brezilya'da ortaya çıktı",
+   "source": "The Race"
   }
  ]
 }
