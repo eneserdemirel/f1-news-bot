@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a3333dc24cbe523f": "2026-10-23T12:16:03.849651+00:00",
   "d5ddcdf352908b14": "2026-10-23T12:21:10.058419+00:00",
   "87e97ffce8a67e08": "2026-10-23T12:21:10.058419+00:00",
   "b7c9fb507bfa5d46": "2026-10-23T12:21:10.058419+00:00",
@@ -7667,7 +7666,9 @@
   "a8d72630641012eb": "2026-11-06T12:08:53.870926+00:00",
   "f060305b059e3368": "2026-11-06T12:08:53.870926+00:00",
   "77cf14d15d816eae": "2026-11-06T12:13:57.601729+00:00",
-  "901169954a0ad8fe": "2026-11-06T12:13:57.601729+00:00"
+  "901169954a0ad8fe": "2026-11-06T12:13:57.601729+00:00",
+  "8ecec9596b471ba9": "2026-11-06T12:18:53.417042+00:00",
+  "97698783ce014267": "2026-11-06T12:18:53.417042+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16813,9 +16814,35 @@
     "RacingNews365": "Aston Martin take 'unhappy' stance after 'insufficient' fix to 'abnormal' Honda issue"
    },
    "last": "2026-11-06T12:13:59.722129+00:00"
+  },
+  "S5260": {
+   "title": "Fantasy football last-minute pickups for the week",
+   "first": "2026-11-06T12:18:56.174958+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way"
+   },
+   "last": "2026-11-06T12:18:56.174979+00:00"
+  },
+  "S5261": {
+   "title": "Bottas explains cause of Mexico crash; Cadillac changes parts",
+   "first": "2026-11-06T12:18:56.174984+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T12:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Bottas reveals what caused his Mexico crash as Cadillac changes parts for Brazil"
+   },
+   "last": "2026-11-06T12:18:56.174990+00:00"
   }
  },
- "story_seq": 5259,
+ "story_seq": 5261,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16934,7 +16961,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T12:13:57.601729+00:00",
+ "last_run": "2026-11-06T12:18:53.417042+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
