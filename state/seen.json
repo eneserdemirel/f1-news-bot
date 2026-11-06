@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c3bfddb8e68337fb": "2026-10-23T09:41:09.222643+00:00",
-  "9b90aca1194f860c": "2026-10-23T09:41:09.222643+00:00",
-  "9090677faa66a0da": "2026-10-23T09:41:09.222643+00:00",
-  "609d335864c53bfb": "2026-10-23T09:41:09.222643+00:00",
   "cdb3b91d7c79c213": "2026-10-23T09:51:08.921384+00:00",
   "bc609e024eb1fb84": "2026-10-23T09:51:08.921384+00:00",
   "b13213414a95ccde": "2026-10-23T10:01:05.978737+00:00",
@@ -7625,7 +7621,11 @@
   "b04f594d277656c7": "2026-11-06T09:38:55.935384+00:00",
   "c0e51d7010203acb": "2026-11-06T09:38:55.935384+00:00",
   "0a7f946982e0b099": "2026-11-06T09:38:55.935384+00:00",
-  "ee0ba7175a752bfa": "2026-11-06T09:38:55.935384+00:00"
+  "ee0ba7175a752bfa": "2026-11-06T09:38:55.935384+00:00",
+  "48ec180d060ff32a": "2026-11-06T09:43:57.911025+00:00",
+  "e28842c589184820": "2026-11-06T09:43:57.911025+00:00",
+  "d93d989e7bdc7d9c": "2026-11-06T09:43:57.911025+00:00",
+  "a5182e083067c2b8": "2026-11-06T09:43:57.911025+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16210,7 +16210,7 @@
    "titles": {
     "ESPN F1": "Ravens refuse to blame historic rut on loss of Lamar Jackson"
    },
-   "last": "2026-11-06T07:28:18.177541+00:00"
+   "last": "2026-11-06T09:44:00.709526+00:00"
   },
   "S5186": {
    "title": "Verstappen sees key to success for Brazil weekend rain",
@@ -16415,7 +16415,8 @@
     "RacingNews365 NL": "2026-11-06T09:05:00+00:00",
     "GPblog": "2026-11-06T09:09:00+00:00",
     "Autosport": "2026-11-06T09:24:07+00:00",
-    "PlanetF1": "2026-11-06T09:32:26+00:00"
+    "PlanetF1": "2026-11-06T09:32:26+00:00",
+    "Motorsport.com Italia": "2026-11-06T09:43:15+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16424,9 +16425,10 @@
     "RacingNews365 NL": "Officieel: Teambaas Racing Bulls ondertekent nieuw contract",
     "GPblog": "Red Bull confirm new long term deal for key figure with extension until 2031",
     "Autosport": "Permane signs new Racing Bulls F1 deal",
-    "PlanetF1": "Racing Bulls makes key ‘long-term contract extension’ announcement"
+    "PlanetF1": "Racing Bulls makes key ‘long-term contract extension’ announcement",
+    "Motorsport.com Italia": "F1 | Racing Bulls: Alan Permane è stato confermato team principal fino al 2031"
    },
-   "last": "2026-11-06T09:39:00.128881+00:00"
+   "last": "2026-11-06T09:44:00.709538+00:00"
   },
   "S5202": {
    "title": "Mercedes constructors' title scenario for Brazil GP",
@@ -16518,9 +16520,22 @@
     "RacingNews365 NL": "George Russell ontvangt gridstraf voor GP Brazilië"
    },
    "last": "2026-11-06T09:39:00.128876+00:00"
+  },
+  "S5209": {
+   "title": "Brazilian GP 2026 start time, TV channels and live streams",
+   "first": "2026-11-06T09:44:00.709542+00:00",
+   "sources": {
+    "AS": "2026-11-06T09:29:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "¿A qué hora es el GP de Brasil de F1? Canal TV, horario, cómo y dónde ver la carrera desde Interlagos en directo"
+   },
+   "last": "2026-11-06T09:44:00.709547+00:00"
   }
  },
- "story_seq": 5208,
+ "story_seq": 5209,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16639,7 +16654,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T09:38:55.935384+00:00",
+ "last_run": "2026-11-06T09:43:57.911025+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
