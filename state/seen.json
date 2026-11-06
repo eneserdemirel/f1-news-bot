@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "316c3ad1913cae22": "2026-10-23T23:02:25.523900+00:00",
-  "367d44815d5044dd": "2026-10-23T23:02:25.523900+00:00",
   "453e671268c58953": "2026-10-23T23:07:27.394853+00:00",
   "9329a82947fff6ae": "2026-10-23T23:07:27.394853+00:00",
   "e0835b939ffcad81": "2026-10-23T23:12:23.983583+00:00",
@@ -7759,7 +7757,9 @@
   "9720327fbc0c788b": "2026-11-06T22:45:24.785297+00:00",
   "1717b07b29270e8d": "2026-11-06T22:50:19.008910+00:00",
   "560f7c5efa3ccba8": "2026-11-06T22:55:17.436854+00:00",
-  "f86af6f847cc41ab": "2026-11-06T23:00:15.707772+00:00"
+  "f86af6f847cc41ab": "2026-11-06T23:00:15.707772+00:00",
+  "9b763a45beca8d7c": "2026-11-06T23:05:18.454468+00:00",
+  "5ac4d51b711fb2a2": "2026-11-06T23:05:18.454468+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8021,19 +8021,6 @@
     "ESPN F1": "Slavia Prague 1-2 Arsenal (4 Nov, 2026) Game Analysis"
    },
    "last": "2026-11-04T23:12:38.225668+00:00"
-  },
-  "S4775": {
-   "title": "Racing Bulls boss Bayer on Lawson's 2027 seat and Tsolov",
-   "first": "2026-11-04T23:01:56.167955+00:00",
-   "sources": {
-    "GPblog": "2026-11-04T23:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Racing Bulls boss fires warning to Liam Lawson over F1 future"
-   },
-   "last": "2026-11-04T23:01:56.167977+00:00"
   },
   "S4776": {
    "title": "Lens 1-9 Como player stats (football match)",
@@ -17417,9 +17404,35 @@
     "Sky Sports F1": "Sao Paulo Grand Prix - Practice highlights"
    },
    "last": "2026-11-06T23:00:18.198028+00:00"
+  },
+  "S5465": {
+   "title": "Permane says Racing Bulls line-up decision close but not final",
+   "first": "2026-11-06T23:05:21.851543+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T23:02:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Racing Bulls team boss reveals new update on Liam Lawson's F1 future"
+   },
+   "last": "2026-11-06T23:05:21.851561+00:00"
+  },
+  "S5466": {
+   "title": "Longrun pace in Brazil: Antonelli dominates, Ferrari struggles",
+   "first": "2026-11-06T23:05:21.851568+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T22:59:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Longruns Brasilien: Antonelli dominiert, Ferrari erlebt Debakel - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T23:05:21.851574+00:00"
   }
  },
- "story_seq": 5464,
+ "story_seq": 5466,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17538,7 +17551,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-06T23:00:15.707772+00:00",
+ "last_run": "2026-11-06T23:05:18.454468+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19167,6 +19180,11 @@
   {
    "t": "2026-11-06T22:55:22.750231+00:00",
    "title": "Toto Wolff: Ferrari'deki tabloya dair eskalasyon bazen gerekli",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-06T23:05:29.379217+00:00",
+   "title": "Brezilya uzun turları: Antonelli domine etti, Ferrari debaklı yaşadı",
    "source": "Motorsport-Total"
   }
  ]
