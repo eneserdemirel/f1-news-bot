@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "216561e5bfa362d9": "2026-10-23T18:51:48.436085+00:00",
   "622573159219c7d1": "2026-10-23T18:56:50.543549+00:00",
   "22e14e9dc1edc321": "2026-10-23T18:56:50.543549+00:00",
   "c51476913f844b88": "2026-10-23T18:56:50.543549+00:00",
@@ -7717,7 +7716,10 @@
   "78d59c4d081214db": "2026-11-06T18:50:17.788608+00:00",
   "457d401521289601": "2026-11-06T18:50:17.788608+00:00",
   "73505974aea4a7a0": "2026-11-06T18:50:17.788608+00:00",
-  "27264b0fc3381ba4": "2026-11-06T18:50:17.788608+00:00"
+  "27264b0fc3381ba4": "2026-11-06T18:50:17.788608+00:00",
+  "84824ab5932b1969": "2026-11-06T18:55:14.720695+00:00",
+  "90f6492b228d5541": "2026-11-06T18:55:14.720695+00:00",
+  "f75c40f69e95f467": "2026-11-06T18:55:14.720695+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7970,19 +7972,6 @@
     "RacingNews365": "Ferrari 'management failure' prompts Fred Vasseur scolding: 'You need a ruthless leader'"
    },
    "last": "2026-11-04T19:41:51.632495+00:00"
-  },
-  "S4707": {
-   "title": "WNBA Finals see attendance surge and record ratings",
-   "first": "2026-11-04T17:51:54.937778+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T16:18:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "WNBA Finals saw surge in attendance and record ratings"
-   },
-   "last": "2026-11-04T18:51:54.677415+00:00"
   },
   "S4708": {
    "title": "Fenerbahce vs. Liverpool team stats",
@@ -16757,7 +16746,8 @@
     "GPblog": "2026-11-06T17:54:00+00:00",
     "RacingNews365": "2026-11-06T18:20:00+00:00",
     "FormulaPassion": "2026-11-06T18:11:39+00:00",
-    "Crash.net": "2026-11-06T18:46:06+00:00"
+    "Crash.net": "2026-11-06T18:46:06+00:00",
+    "Autosport": "2026-11-06T18:46:02+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16765,9 +16755,10 @@
     "GPblog": "Ferrari boss sat down with Hamilton and Leclerc: 'The message was clear'",
     "RacingNews365": "Ferrari reveal outcome of crunch Hamilton-Leclerc meeting after Mexico spat",
     "FormulaPassion": "Vasseur richiama all’ordine Hamilton e Leclerc: “Devono rispettarsi tra loro e rispettare la Ferrari”",
-    "Crash.net": "What Fred Vasseur told Lewis Hamilton and Charles Leclerc in crunch Ferrari meeting"
+    "Crash.net": "What Fred Vasseur told Lewis Hamilton and Charles Leclerc in crunch Ferrari meeting",
+    "Autosport": "Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks"
    },
-   "last": "2026-11-06T18:50:24.469720+00:00"
+   "last": "2026-11-06T18:55:20.014000+00:00"
   },
   "S5366": {
    "title": "Bottas insists Cadillac seat is safe despite axe rumours",
@@ -16963,9 +16954,35 @@
     "Motorsport.com Italia": "Tecnica F1 | C'è una McLaren che va controcorrente con l'ala nuova"
    },
    "last": "2026-11-06T18:50:24.469715+00:00"
+  },
+  "S5381": {
+   "title": "Mark McKenzie replaces injured George Campbell on USMNT roster",
+   "first": "2026-11-06T18:55:20.013976+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T16:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mark McKenzie replaces injured George Campbell on USMNT roster vs. Haiti"
+   },
+   "last": "2026-11-06T18:55:20.013991+00:00"
+  },
+  "S5382": {
+   "title": "Verstappen reacts to Wolff's comments on selfish, moaning drivers",
+   "first": "2026-11-06T18:55:20.014006+00:00",
+   "sources": {
+    "GPFans": "2026-11-06T18:43:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Max Verstappen reacts to Toto Wolff's comments on the era of selfish and 'moaning' drivers ending in F1"
+   },
+   "last": "2026-11-06T18:55:20.014011+00:00"
   }
  },
- "story_seq": 5380,
+ "story_seq": 5382,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17084,7 +17101,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T18:50:17.788608+00:00",
+ "last_run": "2026-11-06T18:55:14.720695+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
