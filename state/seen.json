@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b1fa1b909b9e02e0": "2026-10-23T14:26:44.094330+00:00",
-  "ddb7aa1c34908614": "2026-10-23T14:26:44.094330+00:00",
-  "ad219627cbda52f5": "2026-10-23T14:26:44.094330+00:00",
-  "1ee3f17883c013bc": "2026-10-23T14:26:44.094330+00:00",
-  "1fb13ffee1d22871": "2026-10-23T14:26:44.094330+00:00",
   "78c92f7a8ca98bcc": "2026-10-23T14:31:49.551359+00:00",
   "c595afb14f347dc4": "2026-10-23T14:31:49.551359+00:00",
   "d65334e9eaa00033": "2026-10-23T14:36:43.812325+00:00",
@@ -7672,7 +7667,9 @@
   "e10cc9d65c4a15c5": "2026-11-06T14:19:39.734400+00:00",
   "9ee88d3c47c2c12e": "2026-11-06T14:24:34.214191+00:00",
   "8d32bec5604777c0": "2026-11-06T14:24:34.214191+00:00",
-  "08480f97942c2fea": "2026-11-06T14:24:34.214191+00:00"
+  "08480f97942c2fea": "2026-11-06T14:24:34.214191+00:00",
+  "9096b4f881605868": "2026-11-06T14:29:38.249527+00:00",
+  "36d8016a5f92177b": "2026-11-06T14:29:38.249527+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16104,14 +16101,16 @@
    "title": "Live coverage of Brazilian GP FP1 session",
    "first": "2026-11-06T11:54:00.685324+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-06T11:40:00+00:00"
+    "FormulaPassion": "2026-11-06T11:40:00+00:00",
+    "RacingNews365": "2026-11-06T14:25:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "F1 GP Brasile 2026, FP1: si riparte da Interlagos, la prima sessione alle 16.30 – DIRETTA"
+    "FormulaPassion": "F1 GP Brasile 2026, FP1: si riparte da Interlagos, la prima sessione alle 16.30 – DIRETTA",
+    "RacingNews365": "LIVE: 2026 F1 Sao Paulo Grand Prix - Brazil Free Practice 1"
    },
-   "last": "2026-11-06T11:54:00.685328+00:00"
+   "last": "2026-11-06T14:29:40.258721+00:00"
   },
   "S5254": {
    "title": "The Race lists every 2026 rookie to drive in FP1",
@@ -16675,9 +16674,22 @@
     "GPblog": "Camara's F1 debut number may be short-lived as 2027 plans emerge"
    },
    "last": "2026-11-06T14:24:38.752133+00:00"
+  },
+  "S5297": {
+   "title": "Vaibhav Sooryavanshi appointed Bihar SMAT captain",
+   "first": "2026-11-06T14:29:40.258696+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T14:22:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "SMAT: Vaibhav Sooryavanshi appointed Bihar captain"
+   },
+   "last": "2026-11-06T14:29:40.258712+00:00"
   }
  },
- "story_seq": 5296,
+ "story_seq": 5297,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16796,7 +16808,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T14:24:34.214191+00:00",
+ "last_run": "2026-11-06T14:29:38.249527+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
