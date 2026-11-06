@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "afed5411e8eef496": "2026-10-23T19:42:24.275027+00:00",
-  "f28206731af56a5b": "2026-10-23T19:42:24.275027+00:00",
   "b433653b43fea3fb": "2026-10-23T19:47:28.549785+00:00",
   "9cd53137a2f41bb6": "2026-10-23T19:47:28.549785+00:00",
   "13be20ca376774f1": "2026-10-23T19:47:28.549785+00:00",
@@ -7715,7 +7713,9 @@
   "dd98e3145aa33359": "2026-11-06T19:40:15.842147+00:00",
   "574f7d22226a3ac0": "2026-11-06T19:40:15.842147+00:00",
   "e99a9b71d1cd9ae1": "2026-11-06T19:40:15.842147+00:00",
-  "cfc0615115212614": "2026-11-06T19:40:15.842147+00:00"
+  "cfc0615115212614": "2026-11-06T19:40:15.842147+00:00",
+  "53166f82c920a7f2": "2026-11-06T19:45:16.151188+00:00",
+  "1a85377c9a55bf45": "2026-11-06T19:45:16.151188+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7737,21 +7737,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S4538": {
-   "title": "Retrospective on Verstappen and Hamilton's 2021 Brazil fight",
-   "first": "2026-11-04T07:10:53.068856+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-04T07:00:00+00:00",
-    "RacingNews365": "2026-11-04T14:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Inspector Verstappen ontketent Mercedes-rel van 50.000 in Brazilië - terugblik",
-    "RacingNews365": "Astonishing Lewis Hamilton comeback triggers Max Verstappen title worry"
-   },
-   "last": "2026-11-04T19:41:51.632509+00:00"
-  },
   "S4562": {
    "title": "Cadillac F1 owner Mark Walter reportedly exploring $3bn stake sale",
    "first": "2026-11-04T09:10:46.910792+00:00",
@@ -7835,19 +7820,6 @@
    },
    "last": "2026-11-05T06:03:15.242769+00:00"
   },
-  "S4650": {
-   "title": "Norris calls Antonelli's title success 'insane'",
-   "first": "2026-11-04T14:11:22.432559+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-04T13:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris praises 'insane' Kimi Antonelli: 'That's an understatement'"
-   },
-   "last": "2026-11-04T19:41:51.632514+00:00"
-  },
   "S4665": {
    "title": "Mercedes says Antonelli was on edge of retirement in Mexico",
    "first": "2026-11-04T15:01:23.850011+00:00",
@@ -7900,49 +7872,6 @@
    },
    "last": "2026-11-05T15:24:30.149930+00:00"
   },
-  "S4673": {
-   "title": "Analysis of whether Mercedes W17 car drove Antonelli's title",
-   "first": "2026-11-04T15:41:20.723878+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-04T15:30:00+00:00",
-    "RacingNews365 NL": "2026-11-04T16:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Why Mercedes' W17 was the perfect weapon for historic Kimi Antonelli F1 title triumph",
-    "RacingNews365 NL": "Mercedes W17: het technische geheim achter de wereldtitel van Kimi Antonelli"
-   },
-   "last": "2026-11-04T19:41:51.632505+00:00"
-  },
-  "S4685": {
-   "title": "Profile of Rafael Camara ahead of Haas Sao Paulo debut",
-   "first": "2026-11-04T16:31:18.604391+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-04T16:20:00+00:00",
-    "RacingNews365 NL": "2026-11-04T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Who is Rafael Camara? The F1 rookie set for baptism of fire",
-    "RacingNews365 NL": "Wie is Rafael Câmara? Alles over de verrassende Haas-debutant in Brazilië"
-   },
-   "last": "2026-11-04T19:41:51.632500+00:00"
-  },
-  "S4698": {
-   "title": "Vasseur calls for ruthless leader over Ferrari management failure",
-   "first": "2026-11-04T17:11:19.647195+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-04T17:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Ferrari 'management failure' prompts Fred Vasseur scolding: 'You need a ruthless leader'"
-   },
-   "last": "2026-11-04T19:41:51.632495+00:00"
-  },
   "S4708": {
    "title": "Fenerbahce vs. Liverpool team stats",
    "first": "2026-11-04T18:01:52.433695+00:00",
@@ -7955,19 +7884,6 @@
     "ESPN F1": "Fenerbahce vs. Liverpool (Nov 4, 2026) Team Stats"
    },
    "last": "2026-11-04T21:21:53.293258+00:00"
-  },
-  "S4710": {
-   "title": "Perez addresses 2027 Cadillac seat doubts amid Herta rumours",
-   "first": "2026-11-04T18:11:52.901818+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-04T18:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Sergio Perez addresses second Cadillac F1 seat scrutiny as Colton Herta rumours persist"
-   },
-   "last": "2026-11-04T19:41:51.632489+00:00"
   },
   "S4711": {
    "title": "Final Sector podcast: Ocon exit, Camara debut, Ferrari Mexico",
@@ -8009,19 +7925,6 @@
     "ESPN F1": "Ruben Amorim not satisfied with Milan's start: 'We can do better'"
    },
    "last": "2026-11-04T21:51:54.896476+00:00"
-  },
-  "S4723": {
-   "title": "Fans see Liam Lawson as option for Cadillac F1 seat",
-   "first": "2026-11-04T19:01:58.340602+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-04T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Liam Lawson handed lopsided Cadillac backing for F1 future"
-   },
-   "last": "2026-11-04T19:41:51.632476+00:00"
   },
   "S4725": {
    "title": "Hamilton social media statement aimed at Leclerc after Mexico",
@@ -16628,7 +16531,8 @@
     "Crash.net": "2026-11-06T18:46:06+00:00",
     "Autosport": "2026-11-06T18:46:02+00:00",
     "Sky Sports F1": "2026-11-06T18:00:00+00:00",
-    "Motorsport.com Italia": "2026-11-06T19:30:05+00:00"
+    "Motorsport.com Italia": "2026-11-06T19:30:05+00:00",
+    "The Race": "2026-11-06T19:42:15+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16639,9 +16543,10 @@
     "Crash.net": "What Fred Vasseur told Lewis Hamilton and Charles Leclerc in crunch Ferrari meeting",
     "Autosport": "Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks",
     "Sky Sports F1": "‘The message was clear’ - Vasseur held Hamilton-Leclerc meeting after clash",
-    "Motorsport.com Italia": "F1 | Vasseur: “Il caso Hamilton-Leclerc? Le linee guida non cambiano, ma devono rispettare la Ferrari”"
+    "Motorsport.com Italia": "F1 | Vasseur: “Il caso Hamilton-Leclerc? Le linee guida non cambiano, ma devono rispettare la Ferrari”",
+    "The Race": "What we learned about Ferrari’s key Hamilton/Leclerc meeting"
    },
-   "last": "2026-11-06T19:35:18.272466+00:00"
+   "last": "2026-11-06T19:45:18.990330+00:00"
   },
   "S5366": {
    "title": "Bottas insists Cadillac seat is safe despite axe rumours",
@@ -17123,9 +17028,22 @@
     "ESPN F1": "Jong AZ vs. Almere City (6 Nov, 2026) Team Stats"
    },
    "last": "2026-11-06T19:40:17.818206+00:00"
+  },
+  "S5403": {
+   "title": "Gladbach vs Dortmund odds and spread (betting, not F1)",
+   "first": "2026-11-06T19:45:18.990304+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T19:39:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gladbach vs. Dortmund (Nov 21, 2026) Odds and Spread"
+   },
+   "last": "2026-11-06T19:45:18.990322+00:00"
   }
  },
- "story_seq": 5402,
+ "story_seq": 5403,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17244,7 +17162,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T19:40:15.842147+00:00",
+ "last_run": "2026-11-06T19:45:16.151188+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
