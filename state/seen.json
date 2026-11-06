@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "872ba149a1f66ac4": "2026-10-23T06:10:22.675143+00:00",
-  "30cd43ef16536443": "2026-10-23T06:10:22.675143+00:00",
-  "e5f0b09831065e4c": "2026-10-23T06:10:22.675143+00:00",
-  "29ff5192550c014e": "2026-10-23T06:10:22.675143+00:00",
   "50651677ee1f6747": "2026-10-23T06:20:23.320106+00:00",
   "0b377a95fdfc3fd9": "2026-10-23T06:20:23.320106+00:00",
   "b8009b259e5bfb9d": "2026-10-23T06:30:24.083995+00:00",
@@ -7638,7 +7634,9 @@
   "2112ddc68abda3db": "2026-11-06T06:08:12.703915+00:00",
   "ca32ce86386f1112": "2026-11-06T06:08:12.703915+00:00",
   "e22c7c257dc43a48": "2026-11-06T06:08:12.703915+00:00",
-  "bb5ccd8d058a0b09": "2026-11-06T06:08:12.703915+00:00"
+  "bb5ccd8d058a0b09": "2026-11-06T06:08:12.703915+00:00",
+  "6e5cb2d17752864a": "2026-11-06T06:18:14.111529+00:00",
+  "7641975f2947e286": "2026-11-06T06:18:14.111529+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7922,19 +7920,6 @@
     "ESPN F1": "Former MLB star Mark Teixeira wins U.S. House seat in Texas"
    },
    "last": "2026-11-04T07:20:48.562885+00:00"
-  },
-  "S4535": {
-   "title": "Wolff says Antonelli should be role model for entitled drivers",
-   "first": "2026-11-04T06:10:47.846481+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-04T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "Wolff: 'Good person' Antonelli should be a role model for entitled F1 drivers"
-   },
-   "last": "2026-11-04T06:10:47.846488+00:00"
   },
   "S4536": {
    "title": "Antonelli rejects F1 champion privilege for 2027 title defence",
@@ -16522,9 +16507,35 @@
     "GPblog": "Russell reveals emotional toll of nightmare season: 'I feel a bit exhausted'"
    },
    "last": "2026-11-06T06:08:17.682527+00:00"
+  },
+  "S5177": {
+   "title": "Ralf Schumacher says Hamilton's radio threats put him above Ferrari",
+   "first": "2026-11-06T06:18:16.436205+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-06T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ralf Schumacher: “Da Hamilton minacce via radio alla Al Capone, si pone al di sopra della Ferrari”"
+   },
+   "last": "2026-11-06T06:18:16.436223+00:00"
+  },
+  "S5178": {
+   "title": "Herbert says Antonelli could break Schumacher and Hamilton title records",
+   "first": "2026-11-06T06:18:16.436228+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-06T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Herbert: “Antonelli potrebbe battere il record di titoli di Schumacher e Hamilton”"
+   },
+   "last": "2026-11-06T06:18:16.436233+00:00"
   }
  },
- "story_seq": 5176,
+ "story_seq": 5178,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16643,7 +16654,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T06:08:12.703915+00:00",
+ "last_run": "2026-11-06T06:18:14.111529+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -18198,6 +18209,11 @@
    "t": "2026-11-06T06:08:24.475539+00:00",
    "title": "Russell: Bu sezon yoruldum, her hafta yeniden ayağa kalkmak zor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T06:18:20.316835+00:00",
+   "title": "Herbert: Antonelli, Schumacher ve Hamilton'ın şampiyonluk rekorunu kırabilir",
+   "source": "FormulaPassion"
   }
  ]
 }
