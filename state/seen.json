@@ -7768,7 +7768,10 @@
   "76a2164fd21050d3": "2026-11-06T21:20:16.137331+00:00",
   "5fb4bda799158311": "2026-11-06T21:25:20.421450+00:00",
   "104fc535b609f226": "2026-11-06T21:25:20.421450+00:00",
-  "2d20828f196a1da2": "2026-11-06T21:25:20.421450+00:00"
+  "2d20828f196a1da2": "2026-11-06T21:25:20.421450+00:00",
+  "22a4be6d09404539": "2026-11-06T21:30:16.713519+00:00",
+  "9fa7fa0e0cb463ca": "2026-11-06T21:30:16.713519+00:00",
+  "a2e2dc0af313a3c6": "2026-11-06T21:30:16.713519+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17317,9 +17320,48 @@
     "Gazzetta dello Sport": "F1, GP Brasile: highlights prove libere. Antonelli e Norris si dividono le sessioni"
    },
    "last": "2026-11-06T21:25:27.322597+00:00"
+  },
+  "S5443": {
+   "title": "Crystal Palace vs Liverpool TV channel and kick-off time",
+   "first": "2026-11-06T21:30:19.222314+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T21:29:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Crystal Palace vs. Liverpool: TV channel, kick-off time (Sun Nov 8)"
+   },
+   "last": "2026-11-06T21:30:19.222332+00:00"
+  },
+  "S5444": {
+   "title": "Valencia vs Real Madrid TV channel and kick-off time",
+   "first": "2026-11-06T21:30:19.222338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T21:29:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Valencia vs. Real Madrid: TV channel, kick-off time (Sat Nov 7)"
+   },
+   "last": "2026-11-06T21:30:19.222343+00:00"
+  },
+  "S5445": {
+   "title": "Rosberg recalls only food he could eat before 2016 title",
+   "first": "2026-11-06T21:30:19.222347+00:00",
+   "sources": {
+    "GPFans": "2026-11-06T21:28:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Nico Rosberg reveals only food he could eat before Lewis Hamilton F1 title showdown: 'It's not healthy'"
+   },
+   "last": "2026-11-06T21:30:19.222352+00:00"
   }
  },
- "story_seq": 5442,
+ "story_seq": 5445,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17438,17 +17480,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T21:25:20.421450+00:00",
+ "last_run": "2026-11-06T21:30:16.713519+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
  "last_digest_at": "2026-11-06T19:00:20.183453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T21:28:28.210776+00:00",
-   "title": "Colton Herta'nın F1 Super License durumunda beklenmedik gelişme",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-03T22:09:36.997292+00:00",
    "title": "Piastri, Lindblad ile çarpışmayı savunuyor: 'Daha fazlasını yapamazdım'",
@@ -19033,6 +19070,11 @@
    "t": "2026-11-06T21:10:25.852931+00:00",
    "title": "Wolff: Vasseur, Ocon için 1 milyon avroyu cebinden ödedi",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-06T21:30:23.954790+00:00",
+   "title": "Rosberg, 2016 şampiyonluk yarışı öncesi tek yiyebildiği yiyeceği açıkladı",
+   "source": "GPFans"
   }
  ]
 }
