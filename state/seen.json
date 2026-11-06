@@ -1,15 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4559379d96d677f5": "2026-10-23T23:42:30.004074+00:00",
-  "69ee8618a99ead12": "2026-10-23T23:42:30.004074+00:00",
-  "8526c9e11c4df46b": "2026-10-23T23:47:24.706625+00:00",
-  "3b7ccb58f0cba3a7": "2026-10-23T23:47:24.706625+00:00",
-  "4ca1d1b378d1f3fd": "2026-10-23T23:52:27.012728+00:00",
-  "72195c0531a0bc3b": "2026-10-23T23:52:27.012728+00:00",
-  "25c62e055883b2e1": "2026-10-23T23:52:27.012728+00:00",
-  "54571a699ccf00ce": "2026-10-23T23:52:27.012728+00:00",
-  "cafd254542cf667d": "2026-10-23T23:57:24.574432+00:00",
   "8120553bf9ce303a": "2026-10-24T00:02:27.880331+00:00",
   "a0b75ddc2ff8a5ab": "2026-10-24T00:07:28.703363+00:00",
   "3eeff8d6264a56f3": "2026-10-24T00:07:28.703363+00:00",
@@ -7757,7 +7748,9 @@
   "36245a4ec6bdbce3": "2026-11-06T23:30:56.440918+00:00",
   "d41b797b8899083e": "2026-11-06T23:35:54.480312+00:00",
   "bad8eb01aab736a1": "2026-11-06T23:40:54.080759+00:00",
-  "8584ca8f46b45623": "2026-11-06T23:40:54.080759+00:00"
+  "8584ca8f46b45623": "2026-11-06T23:40:54.080759+00:00",
+  "1e5dca145429752d": "2026-11-06T23:58:16.277920+00:00",
+  "da5d0c859306d761": "2026-11-06T23:58:16.277920+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7955,19 +7948,6 @@
    },
    "last": "2026-11-05T06:33:17.537732+00:00"
   },
-  "S4745": {
-   "title": "FC Porto vs Napoli team stats",
-   "first": "2026-11-04T20:22:01.048272+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T20:03:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "FC Porto vs. Napoli (Nov 4, 2026) Team Stats"
-   },
-   "last": "2026-11-04T23:42:35.502472+00:00"
-  },
   "S4746": {
    "title": "F1 daily roundup: Leclerc becomes father, Hamilton FIA demand",
    "first": "2026-11-04T20:22:01.048278+00:00",
@@ -8006,32 +7986,6 @@
     "ESPN F1": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game"
    },
    "last": "2026-11-05T00:22:40.880775+00:00"
-  },
-  "S4777": {
-   "title": "Haaland urges Man City to step up after Leipzig winner",
-   "first": "2026-11-04T23:52:37.840773+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T23:11:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Erling Haaland tells Man City to 'step up' after netting winner in Leipzig"
-   },
-   "last": "2026-11-04T23:52:37.840790+00:00"
-  },
-  "S4778": {
-   "title": "Lens 1-9 Como team stats published",
-   "first": "2026-11-04T23:52:37.840797+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T20:03:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lens 1-9 Como (Nov 4, 2026) Team Stats"
-   },
-   "last": "2026-11-04T23:52:37.840802+00:00"
   },
   "S4779": {
    "title": "John Nicks, figure skating ambassador, dies at 97",
@@ -17506,9 +17460,35 @@
     "ESPN F1": "Everton 3-1 Coventry (Nov 6, 2026) Team Stats"
    },
    "last": "2026-11-06T23:40:56.137975+00:00"
+  },
+  "S5475": {
+   "title": "Sevilla 0-0 Alavés full-time team stats",
+   "first": "2026-11-06T23:58:18.665563+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T20:08:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sevilla 0-0 Alavés (Nov 6, 2026) Team Stats"
+   },
+   "last": "2026-11-06T23:58:18.665581+00:00"
+  },
+  "S5476": {
+   "title": "Venezia 2-1 Udinese full-time result",
+   "first": "2026-11-06T23:58:18.665587+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T20:03:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Venezia 2-1 Udinese (Nov 6, 2026) Team Stats"
+   },
+   "last": "2026-11-06T23:58:18.665592+00:00"
   }
  },
- "story_seq": 5474,
+ "story_seq": 5476,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17627,7 +17607,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-06T23:40:54.080759+00:00",
+ "last_run": "2026-11-06T23:58:16.277920+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
