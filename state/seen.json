@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "51caeeb623e04c9c": "2026-10-23T23:22:24.224942+00:00",
   "5742541d8bf7b88f": "2026-10-23T23:27:27.526440+00:00",
   "a4bea4a235cc8072": "2026-10-23T23:32:25.257334+00:00",
   "81d99310eef537db": "2026-10-23T23:32:25.257334+00:00",
@@ -7757,7 +7756,9 @@
   "9b763a45beca8d7c": "2026-11-06T23:05:18.454468+00:00",
   "5ac4d51b711fb2a2": "2026-11-06T23:05:18.454468+00:00",
   "9d44279de7c4fa49": "2026-11-06T23:10:16.098809+00:00",
-  "45d56864bf6948b2": "2026-11-06T23:20:16.099632+00:00"
+  "45d56864bf6948b2": "2026-11-06T23:20:16.099632+00:00",
+  "d1b06014b95b499f": "2026-11-06T23:25:17.627115+00:00",
+  "69875fbf949b0418": "2026-11-06T23:25:17.627115+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17428,9 +17429,35 @@
     "ESPN F1": "NCAA secures win in struggle for five-year eligibility rule"
    },
    "last": "2026-11-06T23:20:17.797108+00:00"
+  },
+  "S5468": {
+   "title": "Operário PR vs. Sport (Nov 6) live score",
+   "first": "2026-11-06T23:25:20.144937+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T22:44:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Operário PR vs. Sport (Nov 6, 2026) Live Score"
+   },
+   "last": "2026-11-06T23:25:20.144955+00:00"
+  },
+  "S5469": {
+   "title": "Gazzetta Ferrari item with no headline content",
+   "first": "2026-11-06T23:25:20.144961+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-06T21:31:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Ferrari"
+   },
+   "last": "2026-11-06T23:25:20.144966+00:00"
   }
  },
- "story_seq": 5467,
+ "story_seq": 5469,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17549,7 +17576,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-06T23:20:16.099632+00:00",
+ "last_run": "2026-11-06T23:25:17.627115+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
