@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "704ccf37f2e1cd8d": "2026-10-23T16:56:45.281235+00:00",
   "6aea0db09d1e042b": "2026-10-23T17:01:49.199317+00:00",
   "6be617f8bff44466": "2026-10-23T17:01:49.199317+00:00",
   "33c766725f54670c": "2026-10-23T17:01:49.199317+00:00",
@@ -7707,7 +7706,12 @@
   "10a3c7e877acc511": "2026-11-06T16:54:36.518947+00:00",
   "f7d25d53a0070bb9": "2026-11-06T16:54:36.518947+00:00",
   "0edf2e0f56ae33f2": "2026-11-06T16:54:36.518947+00:00",
-  "d3065d8be62747c4": "2026-11-06T16:54:36.518947+00:00"
+  "d3065d8be62747c4": "2026-11-06T16:54:36.518947+00:00",
+  "64937f29441839b2": "2026-11-06T16:59:39.987678+00:00",
+  "3c3a67c10a90517b": "2026-11-06T16:59:39.987678+00:00",
+  "4314c4298c91361e": "2026-11-06T16:59:39.987678+00:00",
+  "c4a90f1322b51783": "2026-11-06T16:59:39.987678+00:00",
+  "c2e2df3c57c9b119": "2026-11-06T16:59:39.987678+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14982,7 +14986,8 @@
     "Sky Sports F1": "2026-11-06T13:07:00+00:00",
     "Formula 1": "2026-11-06T15:14:39.560678+00:00",
     "Crash.net": "2026-11-06T15:25:26+00:00",
-    "Autosport": "2026-11-06T15:37:02+00:00"
+    "Autosport": "2026-11-06T15:37:02+00:00",
+    "PlanetF1": "2026-11-06T16:54:52+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14994,9 +14999,10 @@
     "Sky Sports F1": "Russell to take grid penalty at Sao Paulo GP",
     "Formula 1": "Russell set for grid penalty at Sao Paulo Grand Prix",
     "Crash.net": "George Russell to take F1 grid penalty at Brazil GP",
-    "Autosport": "\"Exhausted\" Russell set for Brazilian F1 grid penalty"
+    "Autosport": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
+    "PlanetF1": "FIA confirms George Russell penalty at Brazilian Grand Prix"
    },
-   "last": "2026-11-06T15:44:40.843393+00:00"
+   "last": "2026-11-06T16:59:44.391714+00:00"
   },
   "S5209": {
    "title": "Brazilian GP 2026 start time, TV channels and live streams",
@@ -16674,14 +16680,16 @@
    "title": "Colton Herta receives FIA superlicence after mix-up",
    "first": "2026-11-06T16:29:43.880360+00:00",
    "sources": {
-    "RacingNews365": "2026-11-06T16:23:00+00:00"
+    "RacingNews365": "2026-11-06T16:23:00+00:00",
+    "Autosport": "2026-11-06T16:57:16+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Now it's official! Colton Herta finally has his FIA superlicence"
+    "RacingNews365": "Now it's official! Colton Herta finally has his FIA superlicence",
+    "Autosport": "Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat"
    },
-   "last": "2026-11-06T16:29:43.880366+00:00"
+   "last": "2026-11-06T16:59:44.391695+00:00"
   },
   "S5336": {
    "title": "Ferrari's tense Brazil talks and whether gentleman's rules still hold",
@@ -16712,7 +16720,9 @@
     "Autosport": "2026-11-06T16:41:55+00:00",
     "Motorsport Week": "2026-11-06T16:34:21+00:00",
     "Motorsport-Total": "2026-11-06T16:36:36+00:00",
-    "FormulaPassion": "2026-11-06T16:40:30+00:00"
+    "FormulaPassion": "2026-11-06T16:40:30+00:00",
+    "Gazzetta dello Sport": "2026-11-06T16:55:26+00:00",
+    "AS": "2026-11-06T16:40:18+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16729,9 +16739,11 @@
     "Autosport": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
     "Motorsport Week": "F1 2026 Sao Paulo Grand Prix – FP1 Results",
     "Motorsport-Total": "FT1 Brasilien: Norris fährt Bestzeit, Überraschung durch Alpine-Junior - Motorsport-Total.com",
-    "FormulaPassion": "GP San Paolo 2026 – Classifica FP1: Norris parte davanti, Kimi a 82 millesimi. Hamilton 4° tra Max e Russell"
+    "FormulaPassion": "GP San Paolo 2026 – Classifica FP1: Norris parte davanti, Kimi a 82 millesimi. Hamilton 4° tra Max e Russell",
+    "Gazzetta dello Sport": "Brasile, Norris il più veloce di libere 1. Antonelli nella scia. Poi Verstappen e Hamilton",
+    "AS": "McLaren da la sorpresa"
    },
-   "last": "2026-11-06T16:54:42.155193+00:00"
+   "last": "2026-11-06T16:59:44.391724+00:00"
   },
   "S5338": {
    "title": "ESPN where-to-watch listing for Turhan vs. Baumgardner boxing",
@@ -16944,17 +16956,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T16:54:36.518947+00:00",
+ "last_run": "2026-11-06T16:59:39.987678+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T16:58:24.630459+00:00",
-   "title": "McLaren, Brezilya GP'de 2027 aracını da düşünerek güncellemeler getirecek",
-   "source": "Autosport"
-  },
   {
    "t": "2026-11-03T17:08:48.757986+00:00",
    "title": "Red Bull, sezon finalinde 11 milyon dolarlık ödül için McLaren ile yarışıyor",
@@ -18469,6 +18476,11 @@
    "t": "2026-11-06T16:29:50.638396+00:00",
    "title": "Colton Herta resmen FIA superlisansını aldı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-06T16:59:49.047418+00:00",
+   "title": "Russell, Brezilya GP'de FIA cezası nedeniyle 5 pozisyon geriden başlayacak",
+   "source": "PlanetF1"
   }
  ]
 }
