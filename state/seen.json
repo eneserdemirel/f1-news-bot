@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "62972d129ca1ddb0": "2026-10-23T09:21:05.845125+00:00",
-  "b1766e023ac9282b": "2026-10-23T09:21:05.845125+00:00",
-  "6d31535f6dc3807b": "2026-10-23T09:21:05.845125+00:00",
-  "d93d989e7bdc7d9c": "2026-10-23T09:21:05.845125+00:00",
   "488048c052f5a121": "2026-10-23T09:31:09.557102+00:00",
   "c3bfddb8e68337fb": "2026-10-23T09:41:09.222643+00:00",
   "9b90aca1194f860c": "2026-10-23T09:41:09.222643+00:00",
@@ -7622,7 +7618,10 @@
   "fdc21ee902ab9628": "2026-11-06T09:18:58.715721+00:00",
   "7d9e7a6a3aafe24f": "2026-11-06T09:18:58.715721+00:00",
   "3a64a1dfabd6bb33": "2026-11-06T09:18:58.715721+00:00",
-  "8c35ff1cabf07cdc": "2026-11-06T09:18:58.715721+00:00"
+  "8c35ff1cabf07cdc": "2026-11-06T09:18:58.715721+00:00",
+  "15c21d97ba643d05": "2026-11-06T09:28:56.098913+00:00",
+  "c30bbbeeeffb7b3f": "2026-11-06T09:28:56.098913+00:00",
+  "d30dd65d452293b8": "2026-11-06T09:28:56.098913+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7853,21 +7852,6 @@
    },
    "last": "2026-11-04T19:41:51.632509+00:00"
   },
-  "S4540": {
-   "title": "Antonelli will keep number 12 in 2027, not use champion's number 1",
-   "first": "2026-11-04T07:10:53.068874+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-04T07:00:00+00:00",
-    "Auto Motor und Sport": "2026-11-04T09:08:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli: “Niente numero 1, nel 2027 manterrò il 12. Voglio restare coi piedi per terra e poi sono superstizioso”",
-    "Auto Motor und Sport": "F1: Antonellis lüftet Startnummern-Geheimnis: Drei Gründe gegen die Eins"
-   },
-   "last": "2026-11-04T09:20:51.345114+00:00"
-  },
   "S4545": {
    "title": "Sao Paulo GP weather forecast flags possible rain and cooler temperatures",
    "first": "2026-11-04T07:40:57.291466+00:00",
@@ -7954,32 +7938,6 @@
     "ESPN F1": "Antum Naqvi set for long-awaited Zimbabwe debut after eligibility clearance"
    },
    "last": "2026-11-04T09:30:48.648700+00:00"
-  },
-  "S4564": {
-   "title": "Mekies rejects Horner's claim Red Bull lost team atmosphere",
-   "first": "2026-11-04T09:20:51.345087+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-04T09:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Mekies weerspreekt Red Bull-aanname Horner: \"Juist een van de sterke punten\""
-   },
-   "last": "2026-11-04T09:20:51.345093+00:00"
-  },
-  "S4565": {
-   "title": "Verstappen says Ferrari has a problem after Hamilton-Leclerc clash",
-   "first": "2026-11-04T09:20:51.345097+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-04T09:13:54+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Max Verstappen highlights Ferrari problem after Hamilton Leclerc clash"
-   },
-   "last": "2026-11-04T09:20:51.345102+00:00"
   },
   "S4566": {
    "title": "AFLW finals week 1 preview and fixtures",
@@ -16526,9 +16484,48 @@
     "Auto Motor und Sport": "Formel 1: Deshalb fiel der Ferrari-Krisengipfel nach Mexiko aus"
    },
    "last": "2026-11-06T09:19:02.685646+00:00"
+  },
+  "S5204": {
+   "title": "Rosberg on 2016 Abu Dhabi battle with Verstappen crash risk",
+   "first": "2026-11-06T09:28:59.505180+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-06T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Nico Rosberg offers insight into ’50-50 chance of a crash’ 2016 Verstappen battle"
+   },
+   "last": "2026-11-06T09:28:59.505200+00:00"
+  },
+  "S5205": {
+   "title": "Motorsport-Total item with no content",
+   "first": "2026-11-06T09:28:59.505206+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T07:20:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-11-06T09:28:59.505211+00:00"
+  },
+  "S5206": {
+   "title": "Marquez says Antonelli's youth helps him handle pressure",
+   "first": "2026-11-06T09:28:59.505214+00:00",
+   "sources": {
+    "AS": "2026-11-06T09:16:45+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Márquez sobre Antonelli: “Ser tan joven le ayuda”"
+   },
+   "last": "2026-11-06T09:28:59.505219+00:00"
   }
  },
- "story_seq": 5203,
+ "story_seq": 5206,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16647,17 +16644,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T09:18:58.715721+00:00",
+ "last_run": "2026-11-06T09:28:56.098913+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T09:26:26.474543+00:00",
-   "title": "2027'de Mercedes'in çift yanmalı oda sistemi kalkıyor, sıkıştırma oranı sensörle ölçülecek",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-03T09:56:27.522443+00:00",
    "title": "Alesi: Leclerc ve Hamilton kişisel çıkar peşinde koşuyor",
@@ -18177,6 +18169,11 @@
    "t": "2026-11-06T09:19:08.051200+00:00",
    "title": "Racing Bulls, Alan Permane ile 2031'e kadar uzatılan sözleşme imzaladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T09:29:03.187258+00:00",
+   "title": "Márquez: Antonelli'nin genç olması ona yardımcı oluyor",
+   "source": "AS"
   }
  ]
 }
