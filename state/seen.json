@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "56dbaa02d5a66b45": "2026-10-23T14:16:47.793332+00:00",
-  "78d1d9a12e83759d": "2026-10-23T14:16:47.793332+00:00",
   "a1755fd9d0e0a3c6": "2026-10-23T14:21:50.303534+00:00",
   "e270b6e1998dc647": "2026-10-23T14:21:50.303534+00:00",
   "b1fa1b909b9e02e0": "2026-10-23T14:26:44.094330+00:00",
@@ -7669,7 +7667,11 @@
   "24c6c684da5c4c10": "2026-11-06T14:04:35.226989+00:00",
   "e4ff7756d96058e0": "2026-11-06T14:04:35.226989+00:00",
   "8be7ee8f235bc3c8": "2026-11-06T14:09:36.423116+00:00",
-  "048577f3c53c77f3": "2026-11-06T14:14:33.371371+00:00"
+  "048577f3c53c77f3": "2026-11-06T14:14:33.371371+00:00",
+  "f0c497e6b07dc466": "2026-11-06T14:19:39.734400+00:00",
+  "8aacd4097c33d43b": "2026-11-06T14:19:39.734400+00:00",
+  "12d55d5e1eaa83dd": "2026-11-06T14:19:39.734400+00:00",
+  "e10cc9d65c4a15c5": "2026-11-06T14:19:39.734400+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14002,16 +14004,18 @@
    "sources": {
     "GPblog": "2026-11-05T22:01:00+00:00",
     "FormulaPassion": "2026-11-06T07:00:00+00:00",
-    "RacingNews365": "2026-11-06T10:30:00+00:00"
+    "RacingNews365": "2026-11-06T10:30:00+00:00",
+    "Motorsport Week": "2026-11-06T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Sainz reveals 'hardcore' Leclerc fan abuse amid Hamilton Ferrari tensions",
     "FormulaPassion": "Sainz: “I tifosi di Leclerc mi insultavano e mi auguravano il male. Ma con Charles chiarivo subito”",
-    "RacingNews365": "Carlos Sainz reveals 'hardcore' Charles Leclerc fans 'insulting me' was tougher than racing him"
+    "RacingNews365": "Carlos Sainz reveals 'hardcore' Charles Leclerc fans 'insulting me' was tougher than racing him",
+    "Motorsport Week": "Carlos Sainz airs shocking Charles Leclerc admission amid Lewis Hamilton debate"
    },
-   "last": "2026-11-06T10:34:22.714419+00:00"
+   "last": "2026-11-06T14:19:43.617209+00:00"
   },
   "S5092": {
    "title": "Bearman and Camara seen in direct battle for Ferrari seat",
@@ -16055,14 +16059,16 @@
    "title": "Hamilton set to join exclusive F1 driver club in Brazil",
    "first": "2026-11-06T11:29:01.994416+00:00",
    "sources": {
-    "PlanetF1": "2026-11-06T11:24:01+00:00"
+    "PlanetF1": "2026-11-06T11:24:01+00:00",
+    "RacingNews365 NL": "2026-11-06T14:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Lewis Hamilton to join exclusive F1 driver club as Alonso responds"
+    "PlanetF1": "Lewis Hamilton to join exclusive F1 driver club as Alonso responds",
+    "RacingNews365 NL": "Lewis Hamilton bereikt duizelingwekkende mijlpaal in Brazilië"
    },
-   "last": "2026-11-06T11:29:01.994420+00:00"
+   "last": "2026-11-06T14:19:43.617203+00:00"
   },
   "S5245": {
    "title": "Hamilton risks Ferrari sacking amid civil war, says GPFans",
@@ -16691,9 +16697,35 @@
     "ESPN F1": "Undefeated lightweight champs Caroline Dubois, Stephanie Han set three-belt bout"
    },
    "last": "2026-11-06T14:14:34.881179+00:00"
+  },
+  "S5293": {
+   "title": "Doc Rivers says Giannis didn't want to be the bad guy",
+   "first": "2026-11-06T14:19:43.617177+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T14:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit"
+   },
+   "last": "2026-11-06T14:19:43.617194+00:00"
+  },
+  "S5294": {
+   "title": "Hülkenberg recalls mentor Rubens Barrichello",
+   "first": "2026-11-06T14:19:43.617214+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-06T14:10:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Wiedersehen mit Rubens Barrichello: Hülkenberg erzählt von seinem Lehrmeister"
+   },
+   "last": "2026-11-06T14:19:43.617218+00:00"
   }
  },
- "story_seq": 5292,
+ "story_seq": 5294,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16812,7 +16844,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T14:14:33.371371+00:00",
+ "last_run": "2026-11-06T14:19:39.734400+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18357,6 +18389,11 @@
    "t": "2026-11-06T14:04:45.220313+00:00",
    "title": "Hill: Ferrari Hamilton'ı 1 numara pilot yapmalı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T14:19:46.725485+00:00",
+   "title": "Hülkenberg, Rubens Barrichello ile yeniden buluşmayı ve mentorluğunu anlatıyor",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
