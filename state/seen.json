@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8debdab753403945": "2026-10-23T09:11:06.353283+00:00",
-  "864b399096e5e00c": "2026-10-23T09:11:06.353283+00:00",
-  "c09142f06ef32c11": "2026-10-23T09:11:06.353283+00:00",
-  "27975363436509df": "2026-10-23T09:11:06.353283+00:00",
-  "bc340aa86761cb1e": "2026-10-23T09:11:06.353283+00:00",
   "62972d129ca1ddb0": "2026-10-23T09:21:05.845125+00:00",
   "b1766e023ac9282b": "2026-10-23T09:21:05.845125+00:00",
   "6d31535f6dc3807b": "2026-10-23T09:21:05.845125+00:00",
@@ -7623,7 +7618,11 @@
   "58b5ac4ed230ae51": "2026-11-06T09:08:55.461203+00:00",
   "1e44c9f7ad2d0148": "2026-11-06T09:08:55.461203+00:00",
   "5446a37b9b8a6a10": "2026-11-06T09:08:55.461203+00:00",
-  "77f063d410ea2f00": "2026-11-06T09:08:55.461203+00:00"
+  "77f063d410ea2f00": "2026-11-06T09:08:55.461203+00:00",
+  "fdc21ee902ab9628": "2026-11-06T09:18:58.715721+00:00",
+  "7d9e7a6a3aafe24f": "2026-11-06T09:18:58.715721+00:00",
+  "3a64a1dfabd6bb33": "2026-11-06T09:18:58.715721+00:00",
+  "8c35ff1cabf07cdc": "2026-11-06T09:18:58.715721+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14511,16 +14510,18 @@
    "sources": {
     "The Race": "2026-11-05T19:48:42+00:00",
     "GPblog": "2026-11-06T08:30:00+00:00",
-    "Motorsport.com Italia": "2026-11-06T08:48:30+00:00"
+    "Motorsport.com Italia": "2026-11-06T08:48:30+00:00",
+    "FormulaPassion": "2026-11-06T09:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Ferrari drivers set for crunch meeting in Brazil",
     "GPblog": "Fred Vasseur is set for clear-the-air talks between his two Ferrari drivers in Sao Paulo today",
-    "Motorsport.com Italia": "Ferrari, il caso Hamilton-Leclerc arriva a Interlagos: ora tocca a Vasseur risolvere la questione"
+    "Motorsport.com Italia": "Ferrari, il caso Hamilton-Leclerc arriva a Interlagos: ora tocca a Vasseur risolvere la questione",
+    "FormulaPassion": "Oggi in Brasile riunione tra Vasseur, Leclerc e Hamilton, Lewis: “Non risolveremo tutto, ma è un incontro importante”"
    },
-   "last": "2026-11-06T08:59:03.162210+00:00"
+   "last": "2026-11-06T09:19:02.685635+00:00"
   },
   "S5052": {
    "title": "Verstappen relaxed about Red Bull shifting and radio problems",
@@ -16488,15 +16489,17 @@
    "first": "2026-11-06T09:08:59.034945+00:00",
    "sources": {
     "RacingNews365": "2026-11-06T09:05:00+00:00",
-    "RacingNews365 NL": "2026-11-06T09:05:00+00:00"
+    "RacingNews365 NL": "2026-11-06T09:05:00+00:00",
+    "GPblog": "2026-11-06T09:09:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Red Bull make key decision as senior Racing Bulls figure handed contract extension",
-    "RacingNews365 NL": "Officieel: Teambaas Racing Bulls ondertekent nieuw contract"
+    "RacingNews365 NL": "Officieel: Teambaas Racing Bulls ondertekent nieuw contract",
+    "GPblog": "Red Bull confirm new long term deal for key figure with extension until 2031"
    },
-   "last": "2026-11-06T09:08:59.034958+00:00"
+   "last": "2026-11-06T09:19:02.685623+00:00"
   },
   "S5202": {
    "title": "Mercedes constructors' title scenario for Brazil GP",
@@ -16510,9 +16513,22 @@
     "Crash.net": "What Mercedes needs to be crowned F1 champions again in Brazil"
    },
    "last": "2026-11-06T09:08:59.034967+00:00"
+  },
+  "S5203": {
+   "title": "Reason behind cancelled Ferrari crisis summit after Mexico",
+   "first": "2026-11-06T09:19:02.685641+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-06T08:04:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Deshalb fiel der Ferrari-Krisengipfel nach Mexiko aus"
+   },
+   "last": "2026-11-06T09:19:02.685646+00:00"
   }
  },
- "story_seq": 5202,
+ "story_seq": 5203,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16631,17 +16647,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T09:08:55.461203+00:00",
+ "last_run": "2026-11-06T09:18:58.715721+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T09:16:29.302915+00:00",
-   "title": "Mexico GP galibi Verstappen'e ceza puanı verildi",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-11-03T09:26:26.474543+00:00",
    "title": "2027'de Mercedes'in çift yanmalı oda sistemi kalkıyor, sıkıştırma oranı sensörle ölçülecek",
@@ -18156,6 +18167,16 @@
    "t": "2026-11-06T08:59:08.227414+00:00",
    "title": "Verstappen: Bazıları Senna kadar sevilmek istemeyebilir",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-06T09:19:07.675467+00:00",
+   "title": "Ferrari kriz zirvesi Meksika'da neden yapılmadı?",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-06T09:19:08.051200+00:00",
+   "title": "Racing Bulls, Alan Permane ile 2031'e kadar uzatılan sözleşme imzaladı",
+   "source": "GPblog"
   }
  ]
 }
