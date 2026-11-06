@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d81c50701f7e3ab1": "2026-10-23T16:01:51.443720+00:00",
   "dcb9bf715d0399d6": "2026-10-23T16:06:50.252713+00:00",
   "9b565e15130b0e72": "2026-10-23T16:06:50.252713+00:00",
   "a50a0773738f7e75": "2026-10-23T16:16:48.030372+00:00",
@@ -7683,7 +7682,8 @@
   "01dd24418e50c0d0": "2026-11-06T15:59:39.916410+00:00",
   "0daa43a37d21df17": "2026-11-06T15:59:39.916410+00:00",
   "d0e390922095f7e8": "2026-11-06T15:59:39.916410+00:00",
-  "dd3f00faf7779cbb": "2026-11-06T15:59:39.916410+00:00"
+  "dd3f00faf7779cbb": "2026-11-06T15:59:39.916410+00:00",
+  "4f22b29d58be21b1": "2026-11-06T16:04:33.726088+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7927,19 +7927,6 @@
    },
    "last": "2026-11-05T06:03:15.242769+00:00"
   },
-  "S4621": {
-   "title": "Kohli pull shots display in cricket match",
-   "first": "2026-11-04T12:51:29.201599+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T12:37:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kohli embraces risk in awesome display of pull shots"
-   },
-   "last": "2026-11-04T16:01:24.313186+00:00"
-  },
   "S4630": {
    "title": "Rory McIlroy criticises LIV Golf's impact on professional golf",
    "first": "2026-11-04T13:11:16.561617+00:00",
@@ -7952,19 +7939,6 @@
     "ESPN F1": "Rory McIlroy on LIV Golf: 'They turned professional golf into an arms race'"
    },
    "last": "2026-11-04T18:21:51.795700+00:00"
-  },
-  "S4635": {
-   "title": "Commanders lose another defensive lineman Kinlaw for season",
-   "first": "2026-11-04T13:41:19.292582+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T13:16:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Source: Commanders lose another DL with Kinlaw out for season after knee surgery"
-   },
-   "last": "2026-11-04T16:01:24.313180+00:00"
   },
   "S4650": {
    "title": "Norris calls Antonelli's title success 'insane'",
@@ -8006,19 +7980,6 @@
     "ESPN F1": "Wide receiver Brandon Aiyuk has turned in paperwork to be..."
    },
    "last": "2026-11-04T16:11:20.005591+00:00"
-  },
-  "S4664": {
-   "title": "Oman secure spot at 2027 men's World Cup Qualifiers",
-   "first": "2026-11-04T15:01:23.849984+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T14:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Oman secure spot at 2027 men's World Cup Qualifiers"
-   },
-   "last": "2026-11-04T16:01:24.313153+00:00"
   },
   "S4665": {
    "title": "Mercedes says Antonelli was on edge of retirement in Mexico",
@@ -8103,32 +8064,6 @@
     "RacingNews365 NL": "Mercedes W17: het technische geheim achter de wereldtitel van Kimi Antonelli"
    },
    "last": "2026-11-04T19:41:51.632505+00:00"
-  },
-  "S4678": {
-   "title": "NFL Week 9 lineup conundrums preview",
-   "first": "2026-11-04T16:01:24.313166+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T13:17:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Facts vs. Feelings: Dissecting nine potential lineup conundrums for Week 9"
-   },
-   "last": "2026-11-04T16:01:24.313173+00:00"
-  },
-  "S4679": {
-   "title": "Antonelli thanks Mercedes factory staff in video message",
-   "first": "2026-11-04T16:01:24.313190+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-04T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli campione, il videomessaggio di ringraziamento commuove la factory Mercedes: “Vi sarò grato per sempre”"
-   },
-   "last": "2026-11-04T16:01:24.313195+00:00"
   },
   "S4680": {
    "title": "Cherif Millogo commits to Kentucky basketball",
@@ -16821,14 +16756,16 @@
    "title": "Freddie Slater's FP1 stoppage in Hülkenberg's Audi in Brazil",
    "first": "2026-11-06T15:59:43.884528+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-06T15:53:00+00:00"
+    "RacingNews365 NL": "2026-11-06T15:53:00+00:00",
+    "RacingNews365": "2026-11-06T15:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Audi-rookie veroorzaakt rode vlag in eerste training Brazilië"
+    "RacingNews365 NL": "Audi-rookie veroorzaakt rode vlag in eerste training Brazilië",
+    "RacingNews365": "British rookie sparks São Paulo practice red flag as Audi misery strikes again"
    },
-   "last": "2026-11-06T15:59:43.884532+00:00"
+   "last": "2026-11-06T16:04:36.241083+00:00"
   }
  },
  "story_seq": 5327,
@@ -16950,7 +16887,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T15:59:39.916410+00:00",
+ "last_run": "2026-11-06T16:04:33.726088+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
