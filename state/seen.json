@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "536097721459590f": "2026-10-23T11:56:03.072586+00:00",
   "f31144e72f626f76": "2026-10-23T12:01:07.877790+00:00",
   "0956ff95ae556cb0": "2026-10-23T12:01:07.877790+00:00",
   "eb9faeb6b9142eae": "2026-10-23T12:01:07.877790+00:00",
@@ -7662,7 +7661,9 @@
   "ceb7437a4a6436f9": "2026-11-06T11:53:56.004426+00:00",
   "a44db4f410b0b472": "2026-11-06T11:53:56.004426+00:00",
   "4bf4996dc82e8d94": "2026-11-06T11:53:56.004426+00:00",
-  "98ed8beddc532598": "2026-11-06T11:53:56.004426+00:00"
+  "98ed8beddc532598": "2026-11-06T11:53:56.004426+00:00",
+  "f7a490da136a35d0": "2026-11-06T11:58:53.744810+00:00",
+  "2565195acfeadc7a": "2026-11-06T11:58:53.744810+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16430,14 +16431,16 @@
    "title": "F1 boss gives cautious verdict on season-ending Middle East races",
    "first": "2026-11-06T10:59:00.790834+00:00",
    "sources": {
-    "RacingNews365": "2026-11-06T10:55:00+00:00"
+    "RacingNews365": "2026-11-06T10:55:00+00:00",
+    "RacingNews365 NL": "2026-11-06T11:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "F1 boss gives cautious 'at this stage' verdict on season-ending Middle East races"
+    "RacingNews365": "F1 boss gives cautious 'at this stage' verdict on season-ending Middle East races",
+    "RacingNews365 NL": "F1-baas houdt slag om de arm rond GP Qatar en Abu Dhabi"
    },
-   "last": "2026-11-06T10:59:00.790839+00:00"
+   "last": "2026-11-06T11:58:56.599896+00:00"
   },
   "S5232": {
    "title": "Neymar joins Hamilton's 400th GP celebrations in Brazil",
@@ -16724,9 +16727,22 @@
     "FormulaPassion": "F1 GP Brasile 2026, FP1: si riparte da Interlagos, la prima sessione alle 16.30 – DIRETTA"
    },
    "last": "2026-11-06T11:54:00.685328+00:00"
+  },
+  "S5254": {
+   "title": "The Race lists every 2026 rookie to drive in FP1",
+   "first": "2026-11-06T11:58:56.599870+00:00",
+   "sources": {
+    "The Race": "2026-11-06T10:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Every rookie to drive in FP1 in F1 2026"
+   },
+   "last": "2026-11-06T11:58:56.599888+00:00"
   }
  },
- "story_seq": 5253,
+ "story_seq": 5254,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16845,17 +16861,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T11:53:56.004426+00:00",
+ "last_run": "2026-11-06T11:58:53.744810+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T11:57:05.808121+00:00",
-   "title": "Hadjar, Russell ile kazadan sonra: \"Ona güvenmemeliydim\"",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-03T12:07:14.456221+00:00",
    "title": "Hamilton: Halefi Antonelli'nin şampiyonluğunu izlemek yılımın en güzel anı",
