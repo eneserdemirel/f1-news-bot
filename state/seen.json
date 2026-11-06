@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "14ab65c3f4011ff7": "2026-10-23T19:32:27.806067+00:00",
-  "0366307751ee02dd": "2026-10-23T19:32:27.806067+00:00",
-  "b69dbf7263c693c0": "2026-10-23T19:32:27.806067+00:00",
-  "6adf7b12ddfb0a1e": "2026-10-23T19:32:27.806067+00:00",
   "b5b67ab88d88b715": "2026-10-23T19:37:30.436154+00:00",
   "afed5411e8eef496": "2026-10-23T19:42:24.275027+00:00",
   "f28206731af56a5b": "2026-10-23T19:42:24.275027+00:00",
@@ -7714,7 +7710,9 @@
   "4a825c6ce547494d": "2026-11-06T19:20:20.725591+00:00",
   "b255bd51ccdeec5f": "2026-11-06T19:20:20.725591+00:00",
   "629492ec24a9b24d": "2026-11-06T19:30:17.478262+00:00",
-  "065898e71de63696": "2026-11-06T19:30:17.478262+00:00"
+  "065898e71de63696": "2026-11-06T19:30:17.478262+00:00",
+  "18ef3301bf6f8cf0": "2026-11-06T19:35:15.599422+00:00",
+  "ffe6f315dd4e2722": "2026-11-06T19:35:15.599422+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7914,19 +7912,6 @@
    },
    "last": "2026-11-04T19:41:51.632505+00:00"
   },
-  "S4684": {
-   "title": "Browns QB Watson in concussion protocol before Saints game",
-   "first": "2026-11-04T16:31:18.604335+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T14:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Browns QB Watson in concussion protocol; status vs. Saints unclear"
-   },
-   "last": "2026-11-04T19:31:53.341062+00:00"
-  },
   "S4685": {
    "title": "Profile of Rafael Camara ahead of Haas Sao Paulo debut",
    "first": "2026-11-04T16:31:18.604391+00:00",
@@ -7941,19 +7926,6 @@
     "RacingNews365 NL": "Wie is Rafael Câmara? Alles over de verrassende Haas-debutant in Brazilië"
    },
    "last": "2026-11-04T19:41:51.632500+00:00"
-  },
-  "S4697": {
-   "title": "Warriors withholding payments to Porzingis, sources say",
-   "first": "2026-11-04T17:11:19.647179+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T15:58:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Warriors withholding payments to Porzingis, sources say"
-   },
-   "last": "2026-11-04T19:31:53.341041+00:00"
   },
   "S4698": {
    "title": "Vasseur calls for ruthless leader over Ferrari management failure",
@@ -8086,19 +8058,6 @@
     "ESPN F1": "Lions' Jack Campbell has full movement in lower body after neck injury"
    },
    "last": "2026-11-04T22:01:58.323242+00:00"
-  },
-  "S4732": {
-   "title": "Arsenal reportedly interested in Atlético Madrid winger",
-   "first": "2026-11-04T19:31:53.341051+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T15:25:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Transfer rumors, news: Arsenal want Atlético Madrid winger"
-   },
-   "last": "2026-11-04T19:31:53.341056+00:00"
   },
   "S4733": {
    "title": "Eagles start Joe Milton at QB vs. Giants (NFL)",
@@ -16665,7 +16624,8 @@
     "FormulaPassion": "2026-11-06T18:11:39+00:00",
     "Crash.net": "2026-11-06T18:46:06+00:00",
     "Autosport": "2026-11-06T18:46:02+00:00",
-    "Sky Sports F1": "2026-11-06T18:00:00+00:00"
+    "Sky Sports F1": "2026-11-06T18:00:00+00:00",
+    "Motorsport.com Italia": "2026-11-06T19:30:05+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16675,9 +16635,10 @@
     "FormulaPassion": "Vasseur richiama all’ordine Hamilton e Leclerc: “Devono rispettarsi tra loro e rispettare la Ferrari”",
     "Crash.net": "What Fred Vasseur told Lewis Hamilton and Charles Leclerc in crunch Ferrari meeting",
     "Autosport": "Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks",
-    "Sky Sports F1": "‘The message was clear’ - Vasseur held Hamilton-Leclerc meeting after clash"
+    "Sky Sports F1": "‘The message was clear’ - Vasseur held Hamilton-Leclerc meeting after clash",
+    "Motorsport.com Italia": "F1 | Vasseur: “Il caso Hamilton-Leclerc? Le linee guida non cambiano, ma devono rispettare la Ferrari”"
    },
-   "last": "2026-11-06T19:10:22.369865+00:00"
+   "last": "2026-11-06T19:35:18.272466+00:00"
   },
   "S5366": {
    "title": "Bottas insists Cadillac seat is safe despite axe rumours",
@@ -17094,9 +17055,22 @@
     "ESPN F1": "Balagne vs. Montpellier (Nov 14, 2026) Live Score"
    },
    "last": "2026-11-06T19:20:22.704485+00:00"
+  },
+  "S5398": {
+   "title": "São Paulo Grand Prix weekend results page",
+   "first": "2026-11-06T19:35:18.272434+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T18:13:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 MSC Cruises São Paulo Grand Prix Weekend Results"
+   },
+   "last": "2026-11-06T19:35:18.272455+00:00"
   }
  },
- "story_seq": 5397,
+ "story_seq": 5398,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17215,7 +17189,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T19:30:17.478262+00:00",
+ "last_run": "2026-11-06T19:35:15.599422+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
