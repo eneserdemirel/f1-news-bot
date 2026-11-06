@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ae8c0d8d701f47c8": "2026-10-23T02:19:41.076197+00:00",
   "9d1cc32755bfba99": "2026-10-23T02:29:39.778892+00:00",
   "d00ed6cb3d45b34b": "2026-10-23T02:29:39.778892+00:00",
   "1d77c5addcd536c6": "2026-10-23T02:29:39.778892+00:00",
@@ -7630,7 +7629,10 @@
   "a1d8ad3640a5d6a4": "2026-11-06T01:56:07.362423+00:00",
   "9d857351fa21c871": "2026-11-06T01:56:07.362423+00:00",
   "96d65cde4530ee09": "2026-11-06T01:56:07.362423+00:00",
-  "476d3639c1a96920": "2026-11-06T02:06:06.222929+00:00"
+  "476d3639c1a96920": "2026-11-06T02:06:06.222929+00:00",
+  "204e9c96ba830cee": "2026-11-06T02:28:16.225303+00:00",
+  "b184aa2b130dd7f3": "2026-11-06T02:28:16.225303+00:00",
+  "e6da60e518092f1f": "2026-11-06T02:28:16.225303+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7897,19 +7899,6 @@
     "ESPN F1": "Lakers' Luka Doncic has 2nd tech of season rescinded by NBA"
    },
    "last": "2026-11-04T07:30:54.265468+00:00"
-  },
-  "S4512": {
-   "title": "Panthers defenders confident after defensive coordinator switch-up",
-   "first": "2026-11-04T02:20:11.964171+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T02:03:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Panthers defenders: We're in 'great hands' after DC switch-up"
-   },
-   "last": "2026-11-04T02:20:11.964176+00:00"
   },
   "S4513": {
    "title": "The problem with Marnus' mind",
@@ -16237,9 +16226,48 @@
     "ESPN F1": "Rain threat hangs over second ODI in Wellington"
    },
    "last": "2026-11-06T02:06:07.847959+00:00"
+  },
+  "S5134": {
+   "title": "Police dismiss rape allegation against Cape Verde's Mendes",
+   "first": "2026-11-06T02:28:19.142317+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T02:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Police dismiss rape allegation against Cape Verde's Mendes, charge accuser"
+   },
+   "last": "2026-11-06T02:28:19.142333+00:00"
+  },
+  "S5135": {
+   "title": "Andoni Iraola on adjusting after Liverpool's UCL defeat",
+   "first": "2026-11-06T02:28:19.142338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T00:15:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How will Andoni Iraola adjust after Liverpool's disappointing UCL defeat? | ESPN FC Extra Time"
+   },
+   "last": "2026-11-06T02:28:19.142343+00:00"
+  },
+  "S5136": {
+   "title": "Morehead State beats Virginia Lynchburg 114-60",
+   "first": "2026-11-06T02:28:19.142346+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T22:23:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Morehead State 114-60 Virginia Lynchburg (Nov 5, 2026) Final Score"
+   },
+   "last": "2026-11-06T02:28:19.142350+00:00"
   }
  },
- "story_seq": 5133,
+ "story_seq": 5136,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16358,7 +16386,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T02:06:06.222929+00:00",
+ "last_run": "2026-11-06T02:28:16.225303+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
