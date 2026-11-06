@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "efa419db3e67cf69": "2026-10-23T22:12:25.468546+00:00",
-  "fc98f93f6e231ee8": "2026-10-23T22:12:25.468546+00:00",
-  "0e94cc63c66a5bc1": "2026-10-23T22:12:25.468546+00:00",
-  "fd3b42eaba975542": "2026-10-23T22:12:25.468546+00:00",
-  "ef5c5a973228cb15": "2026-10-23T22:12:25.468546+00:00",
   "6a3cbf80b4bf9cbb": "2026-10-23T22:17:30.056353+00:00",
   "790e5f39b2cd1453": "2026-10-23T22:22:24.502210+00:00",
   "3d34dcb380353a15": "2026-10-23T22:22:24.502210+00:00",
@@ -7769,7 +7764,9 @@
   "2c9e3bd7b60e2b8e": "2026-11-06T22:00:16.158956+00:00",
   "f89123d836caf964": "2026-11-06T22:00:16.158956+00:00",
   "d64c3f06bce3aa68": "2026-11-06T22:05:18.898733+00:00",
-  "be565e3eea70ea44": "2026-11-06T22:05:18.898733+00:00"
+  "be565e3eea70ea44": "2026-11-06T22:05:18.898733+00:00",
+  "33134efd2d413776": "2026-11-06T22:15:17.408957+00:00",
+  "3d0b9d8823d2c648": "2026-11-06T22:15:17.408957+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8018,58 +8015,6 @@
     "ESPN F1": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game"
    },
    "last": "2026-11-05T00:22:40.880775+00:00"
-  },
-  "S4767": {
-   "title": "RB Leipzig 2-3 Man City match analysis",
-   "first": "2026-11-04T22:11:53.528999+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T22:08:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "RB Leipzig 2-3 Man City (Nov 4, 2026) Game Analysis"
-   },
-   "last": "2026-11-04T22:11:53.529020+00:00"
-  },
-  "S4768": {
-   "title": "Wrexham 2-0 Middlesbrough match analysis",
-   "first": "2026-11-04T22:11:53.529025+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T21:57:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wrexham 2-0 Boro (Nov 4, 2026) Game Analysis"
-   },
-   "last": "2026-11-04T22:11:53.529029+00:00"
-  },
-  "S4769": {
-   "title": "Mahomes hasn't run a QB sneak since 2019",
-   "first": "2026-11-04T22:11:53.529032+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T20:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season"
-   },
-   "last": "2026-11-04T22:11:53.529036+00:00"
-  },
-  "S4770": {
-   "title": "Brazil 1-3 Nigeria team stats",
-   "first": "2026-11-04T22:11:53.529039+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T18:09:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brazil 1-3 Nigeria (Nov 4, 2026) Team Stats"
-   },
-   "last": "2026-11-04T22:11:53.529041+00:00"
   },
   "S4771": {
    "title": "ESPN radio show hour with Sal Pal and The List",
@@ -17378,9 +17323,35 @@
     "FormulaPassion": "Antonelli vola dove conta davvero, Ferrari in alto mare"
    },
    "last": "2026-11-06T22:05:22.404311+00:00"
+  },
+  "S5455": {
+   "title": "Antonelli outlines refreshed mindset for Sao Paulo Grand Prix",
+   "first": "2026-11-06T22:15:19.770598+00:00",
+   "sources": {
+    "Formula 1": "2026-11-06T22:15:19.770613+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Antonelli explains Sao Paulo mindset as new World Champion"
+   },
+   "last": "2026-11-06T22:15:19.770618+00:00"
+  },
+  "S5456": {
+   "title": "Leclerc says Ferrari feud with Hamilton is settled",
+   "first": "2026-11-06T22:15:19.770623+00:00",
+   "sources": {
+    "Crash.net": "2026-11-06T22:12:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Charles Leclerc claims Ferrari feud is “settled” after Lewis Hamilton talks"
+   },
+   "last": "2026-11-06T22:15:19.770629+00:00"
   }
  },
- "story_seq": 5454,
+ "story_seq": 5456,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17499,7 +17470,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T22:10:15.456998+00:00",
+ "last_run": "2026-11-06T22:15:17.408957+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19119,6 +19090,11 @@
    "t": "2026-11-06T22:05:30.091004+00:00",
    "title": "Lawson, Brezilya'daki başarısız deneme sonrası Racing Bulls'un ikilemini anlattı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-06T22:15:25.033318+00:00",
+   "title": "Leclerc: Hamilton ile Ferrari'deki gerginlik \"çözüldü\"",
+   "source": "Crash.net"
   }
  ]
 }
