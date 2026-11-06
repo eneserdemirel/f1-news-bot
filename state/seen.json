@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "488048c052f5a121": "2026-10-23T09:31:09.557102+00:00",
   "c3bfddb8e68337fb": "2026-10-23T09:41:09.222643+00:00",
   "9b90aca1194f860c": "2026-10-23T09:41:09.222643+00:00",
   "9090677faa66a0da": "2026-10-23T09:41:09.222643+00:00",
@@ -7621,7 +7620,12 @@
   "8c35ff1cabf07cdc": "2026-11-06T09:18:58.715721+00:00",
   "15c21d97ba643d05": "2026-11-06T09:28:56.098913+00:00",
   "c30bbbeeeffb7b3f": "2026-11-06T09:28:56.098913+00:00",
-  "d30dd65d452293b8": "2026-11-06T09:28:56.098913+00:00"
+  "d30dd65d452293b8": "2026-11-06T09:28:56.098913+00:00",
+  "cd19f59b4ec0a717": "2026-11-06T09:38:55.935384+00:00",
+  "b04f594d277656c7": "2026-11-06T09:38:55.935384+00:00",
+  "c0e51d7010203acb": "2026-11-06T09:38:55.935384+00:00",
+  "0a7f946982e0b099": "2026-11-06T09:38:55.935384+00:00",
+  "ee0ba7175a752bfa": "2026-11-06T09:38:55.935384+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7925,45 +7929,6 @@
     "FormulaPassion": "Il Liverpool spinge per rilevare quote della Cadillac"
    },
    "last": "2026-11-05T12:53:55.947114+00:00"
-  },
-  "S4563": {
-   "title": "Antum Naqvi cleared for Zimbabwe debut",
-   "first": "2026-11-04T09:20:51.345066+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T08:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Antum Naqvi set for long-awaited Zimbabwe debut after eligibility clearance"
-   },
-   "last": "2026-11-04T09:30:48.648700+00:00"
-  },
-  "S4566": {
-   "title": "AFLW finals week 1 preview and fixtures",
-   "first": "2026-11-04T09:30:48.648673+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T09:09:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AFLW finals week 1 tips, team news, fixture, scores -- everything you need to know"
-   },
-   "last": "2026-11-04T09:30:48.648691+00:00"
-  },
-  "S4567": {
-   "title": "The Race verdict on Ocon's Haas exit and Camara debut",
-   "first": "2026-11-04T09:30:48.648705+00:00",
-   "sources": {
-    "The Race": "2026-11-04T09:26:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Our verdict on Ocon's permanent Haas exit - and Camara's debut"
-   },
-   "last": "2026-11-04T09:30:48.648710+00:00"
   },
   "S4568": {
    "title": "Leclerc leaves for daughter's birth; Beganovic to drive Ferrari FP1",
@@ -16448,16 +16413,20 @@
    "sources": {
     "RacingNews365": "2026-11-06T09:05:00+00:00",
     "RacingNews365 NL": "2026-11-06T09:05:00+00:00",
-    "GPblog": "2026-11-06T09:09:00+00:00"
+    "GPblog": "2026-11-06T09:09:00+00:00",
+    "Autosport": "2026-11-06T09:24:07+00:00",
+    "PlanetF1": "2026-11-06T09:32:26+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Red Bull make key decision as senior Racing Bulls figure handed contract extension",
     "RacingNews365 NL": "Officieel: Teambaas Racing Bulls ondertekent nieuw contract",
-    "GPblog": "Red Bull confirm new long term deal for key figure with extension until 2031"
+    "GPblog": "Red Bull confirm new long term deal for key figure with extension until 2031",
+    "Autosport": "Permane signs new Racing Bulls F1 deal",
+    "PlanetF1": "Racing Bulls makes key ‘long-term contract extension’ announcement"
    },
-   "last": "2026-11-06T09:19:02.685623+00:00"
+   "last": "2026-11-06T09:39:00.128881+00:00"
   },
   "S5202": {
    "title": "Mercedes constructors' title scenario for Brazil GP",
@@ -16523,9 +16492,35 @@
     "AS": "Márquez sobre Antonelli: “Ser tan joven le ayuda”"
    },
    "last": "2026-11-06T09:28:59.505219+00:00"
+  },
+  "S5207": {
+   "title": "Jaguars say they can be 'way better' after Ravens blowout",
+   "first": "2026-11-06T09:39:00.128838+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T06:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jaguars dominant again in blowout of Ravens, feel they can be 'way better'"
+   },
+   "last": "2026-11-06T09:39:00.128857+00:00"
+  },
+  "S5208": {
+   "title": "Russell receives five-place grid penalty for Brazil GP",
+   "first": "2026-11-06T09:39:00.128870+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-06T09:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "George Russell ontvangt gridstraf voor GP Brazilië"
+   },
+   "last": "2026-11-06T09:39:00.128876+00:00"
   }
  },
- "story_seq": 5206,
+ "story_seq": 5208,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16644,7 +16639,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T09:28:56.098913+00:00",
+ "last_run": "2026-11-06T09:38:55.935384+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -18174,6 +18169,11 @@
    "t": "2026-11-06T09:29:03.187258+00:00",
    "title": "Márquez: Antonelli'nin genç olması ona yardımcı oluyor",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-06T09:39:04.568009+00:00",
+   "title": "George Russell, Brezilya GP'de 5 sıra cezası alıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
