@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "790e5f39b2cd1453": "2026-10-23T22:22:24.502210+00:00",
-  "3d34dcb380353a15": "2026-10-23T22:22:24.502210+00:00",
   "77981879c2f6d055": "2026-10-23T22:27:28.349463+00:00",
   "e17b0c0f41dbde32": "2026-10-23T22:27:28.349463+00:00",
   "6b6d5ed48314dcc1": "2026-10-23T22:27:28.349463+00:00",
@@ -7765,7 +7763,10 @@
   "d64c3f06bce3aa68": "2026-11-06T22:05:18.898733+00:00",
   "be565e3eea70ea44": "2026-11-06T22:05:18.898733+00:00",
   "33134efd2d413776": "2026-11-06T22:15:17.408957+00:00",
-  "3d0b9d8823d2c648": "2026-11-06T22:15:17.408957+00:00"
+  "3d0b9d8823d2c648": "2026-11-06T22:15:17.408957+00:00",
+  "3f59d2b711525f8a": "2026-11-06T22:25:18.642431+00:00",
+  "efc98aac9bf1a5dc": "2026-11-06T22:25:18.642431+00:00",
+  "08297cb4bfed4466": "2026-11-06T22:25:18.642431+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8014,32 +8015,6 @@
     "ESPN F1": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game"
    },
    "last": "2026-11-05T00:22:40.880775+00:00"
-  },
-  "S4771": {
-   "title": "ESPN radio show hour with Sal Pal and The List",
-   "first": "2026-11-04T22:21:55.042801+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T22:18:58+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Don, Hahn & Rosenberg - Hour 2: Sal Pal & The List"
-   },
-   "last": "2026-11-04T22:21:55.042821+00:00"
-  },
-  "S4772": {
-   "title": "ESPN Misery Index on AFL clubs since 2000",
-   "first": "2026-11-04T22:21:55.042825+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T20:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AFL: ESPN's Misery Index - which club would you have least wanted to support since 2000?"
-   },
-   "last": "2026-11-04T22:21:55.042830+00:00"
   },
   "S4773": {
    "title": "Albert Pujols to interview for Astros managerial job",
@@ -15962,14 +15937,16 @@
    "title": "Ralf Schumacher says Colton Herta has no place in F1",
    "first": "2026-11-06T17:24:35.802181+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-06T17:21:08+00:00"
+    "Motorsport-Total": "2026-11-06T17:21:08+00:00",
+    "PlanetF1": "2026-11-06T22:20:30+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Ralf Schumacher zieht über Colton Herta her: \"Hat in der F1 nichts zu suchen\" - Motorsport-Total.com"
+    "Motorsport-Total": "Ralf Schumacher zieht über Colton Herta her: \"Hat in der F1 nichts zu suchen\" - Motorsport-Total.com",
+    "PlanetF1": "Colton Herta ‘just burning fuel’ as F1 future savaged by Schumacher"
    },
-   "last": "2026-11-06T17:24:35.802186+00:00"
+   "last": "2026-11-06T22:25:23.568243+00:00"
   },
   "S5357": {
    "title": "Brazil GP 2026 FP2 live coverage",
@@ -17141,16 +17118,18 @@
    "sources": {
     "RacingNews365": "2026-11-06T20:24:00+00:00",
     "PlanetF1": "2026-11-06T21:24:11+00:00",
-    "GPblog": "2026-11-06T21:31:00+00:00"
+    "GPblog": "2026-11-06T21:31:00+00:00",
+    "The Race": "2026-11-06T22:24:10+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "F1 rookie learns stewards fate after 'clearly dangerous' Charles Leclerc incident",
     "PlanetF1": "FIA confirms Rafael Camara punishment after Charles Leclerc investigation",
-    "GPblog": "FIA stewards deliver verdict on 'dangerous' FP2 incident at Interlagos"
+    "GPblog": "FIA stewards deliver verdict on 'dangerous' FP2 incident at Interlagos",
+    "The Race": "F1 debutant Camara punished for 'dangerous' Leclerc impeding"
    },
-   "last": "2026-11-06T21:35:23.181396+00:00"
+   "last": "2026-11-06T22:25:23.568230+00:00"
   },
   "S5442": {
    "title": "Gazzetta highlights: Antonelli and Norris split Brazil practice sessions",
@@ -17348,9 +17327,22 @@
     "Crash.net": "Charles Leclerc claims Ferrari feud is “settled” after Lewis Hamilton talks"
    },
    "last": "2026-11-06T22:15:19.770629+00:00"
+  },
+  "S5457": {
+   "title": "McLaren call Brazil upgrade a pleasant surprise",
+   "first": "2026-11-06T22:25:23.568249+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T22:18:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "McLaren-Upgrade eine \"angenehme Überraschung\": Bleibt es auch am Auto? - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T22:25:23.568255+00:00"
   }
  },
- "story_seq": 5456,
+ "story_seq": 5457,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17469,7 +17461,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T22:20:16.514716+00:00",
+ "last_run": "2026-11-06T22:25:18.642431+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
