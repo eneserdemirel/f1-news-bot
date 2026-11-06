@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "14faa059acc73868": "2026-10-23T21:07:24.048651+00:00",
   "318f80a8d527b35c": "2026-10-23T21:12:27.576036+00:00",
   "68ccf296ab74b411": "2026-10-23T21:12:27.576036+00:00",
   "bb595d2fe2fe8d4a": "2026-10-23T21:17:35.885765+00:00",
@@ -7766,7 +7765,10 @@
   "1ddb47fa4de44a3e": "2026-11-06T21:00:18.118022+00:00",
   "c243ea4d59323962": "2026-11-06T21:05:15.343293+00:00",
   "4163a448fbf9098c": "2026-11-06T21:05:15.343293+00:00",
-  "54f6b976c6ae360c": "2026-11-06T21:05:15.343293+00:00"
+  "54f6b976c6ae360c": "2026-11-06T21:05:15.343293+00:00",
+  "41e89162bac9078b": "2026-11-06T21:10:18.998506+00:00",
+  "797b15920bfbbf87": "2026-11-06T21:10:18.998506+00:00",
+  "95fd64e8d4160ca9": "2026-11-06T21:10:18.998506+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15985,14 +15987,16 @@
    "title": "Full Brazil GP Friday practice results published",
    "first": "2026-11-06T16:44:40.195387+00:00",
    "sources": {
-    "Crash.net": "2026-11-06T16:40:00+00:00"
+    "Crash.net": "2026-11-06T16:40:00+00:00",
+    "Motorsport-Total": "2026-11-06T20:22:48+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "F1 Brazil Grand Prix: Full Friday practice results"
+    "Crash.net": "F1 Brazil Grand Prix: Full Friday practice results",
+    "Motorsport-Total": "Großer Preis von Brasilien 2026 in Interlagos: Gesamtergebnis 1. Trainingstag - Motorsport-Total.com"
    },
-   "last": "2026-11-06T16:44:40.195392+00:00"
+   "last": "2026-11-06T21:10:22.535707+00:00"
   },
   "S5342": {
    "title": "Feature on Linda Fletcher riding to a Miami game",
@@ -17320,9 +17324,35 @@
     "Crash.net": "Max Verstappen fumes at “unacceptable” issues during Brazil GP practice"
    },
    "last": "2026-11-06T21:05:19.867690+00:00"
+  },
+  "S5439": {
+   "title": "Paige Bueckers and Azzi Fudd talk relationship on podcast",
+   "first": "2026-11-06T21:10:22.535671+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T20:37:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wings' Paige Bueckers, Azzi Fudd talk relationship on pod"
+   },
+   "last": "2026-11-06T21:10:22.535688+00:00"
+  },
+  "S5440": {
+   "title": "Wolff reveals Vasseur paid Ocon's million from own pocket",
+   "first": "2026-11-06T21:10:22.535694+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T21:02:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Toto Wolff verrät: Vasseur hat für Ocon eine Million aus eigener Tasche bezahlt - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T21:10:22.535701+00:00"
   }
  },
- "story_seq": 5438,
+ "story_seq": 5440,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17441,7 +17471,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T21:05:15.343293+00:00",
+ "last_run": "2026-11-06T21:10:18.998506+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19036,6 +19066,11 @@
    "t": "2026-11-06T21:05:25.984534+00:00",
    "title": "Antonelli: Sao Paulo'da Turn 1 frenlemesi her pilot için zorlu",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-06T21:10:25.852931+00:00",
+   "title": "Wolff: Vasseur, Ocon için 1 milyon avroyu cebinden ödedi",
+   "source": "Motorsport-Total"
   }
  ]
 }
