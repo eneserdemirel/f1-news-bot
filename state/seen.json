@@ -7627,7 +7627,10 @@
   "1a0991e42823f603": "2026-11-06T09:48:55.356143+00:00",
   "4a32856332c556ff": "2026-11-06T09:48:55.356143+00:00",
   "4ed982912e981410": "2026-11-06T09:48:55.356143+00:00",
-  "ee56b8abae2cefee": "2026-11-06T09:53:56.693747+00:00"
+  "ee56b8abae2cefee": "2026-11-06T09:53:56.693747+00:00",
+  "39fcfaa9299b538e": "2026-11-06T09:58:54.111432+00:00",
+  "cf3d5e80a3f5982c": "2026-11-06T09:58:54.111432+00:00",
+  "82379d4d71737f0d": "2026-11-06T09:58:54.111432+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14631,14 +14634,16 @@
    "title": "Verstappen says being P2 in standings is a big surprise",
    "first": "2026-11-05T20:35:29.058159+00:00",
    "sources": {
-    "Formula 1": "2026-11-05T20:35:29.058173+00:00"
+    "Formula 1": "2026-11-05T20:35:29.058173+00:00",
+    "AS": "2026-11-06T09:50:37+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "A 'big surprise to be second' in the standings – Verstappen"
+    "Formula 1": "A 'big surprise to be second' in the standings – Verstappen",
+    "AS": "Algo que Verstappen no esperaba"
    },
-   "last": "2026-11-05T20:35:29.058176+00:00"
+   "last": "2026-11-06T09:58:58.529620+00:00"
   },
   "S5066": {
    "title": "Belichick among Pro Football Hall of Fame coaching candidates",
@@ -16565,9 +16570,35 @@
     "The Race": "F1's revenue stabilises after cancelled 2026 grands prix"
    },
    "last": "2026-11-06T09:53:58.291181+00:00"
+  },
+  "S5212": {
+   "title": "F1 Brazilian GP practice schedule and TV channels for Friday",
+   "first": "2026-11-06T09:58:58.529583+00:00",
+   "sources": {
+    "GPFans": "2026-11-06T09:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Practice Today: Schedule, times and TV channel for the 2026 Brazilian Grand Prix"
+   },
+   "last": "2026-11-06T09:58:58.529602+00:00"
+  },
+  "S5213": {
+   "title": "Antonelli says a T-shirt made his world title feel real",
+   "first": "2026-11-06T09:58:58.529608+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T09:06:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kimi Antonelli: Erst durch das T-Shirt wurde der WM-Titel real - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T09:58:58.529613+00:00"
   }
  },
- "story_seq": 5211,
+ "story_seq": 5213,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16686,22 +16717,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T09:53:56.693747+00:00",
+ "last_run": "2026-11-06T09:58:54.111432+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T09:56:27.522443+00:00",
-   "title": "Alesi: Leclerc ve Hamilton kişisel çıkar peşinde koşuyor",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-03T09:56:27.933452+00:00",
-   "title": "Verstappen, Hadjar'ın paddock olayının ardından \"neredeyse ben de yapacaktım\" dedi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-03T10:06:29.196453+00:00",
    "title": "Esteban Ocon'un F1'e dönüş planında yeni bir sorun çıktı",
@@ -18226,6 +18247,11 @@
    "t": "2026-11-06T09:54:02.509618+00:00",
    "title": "F1'in gelirleri, iptal edilen 2026 yarışlarının ardından istikrar kazandı",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-06T09:59:03.291922+00:00",
+   "title": "Kimi Antonelli: WM şampiyonluğu, T-shirt sayesinde gerçek oldu",
+   "source": "Motorsport-Total"
   }
  ]
 }
