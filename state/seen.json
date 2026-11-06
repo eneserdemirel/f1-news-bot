@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bb46d36c929d2acd": "2026-10-23T06:00:29.014285+00:00",
-  "2ed1df4df6db7871": "2026-10-23T06:00:29.014285+00:00",
-  "3ddfc5e4d19b75f0": "2026-10-23T06:00:29.014285+00:00",
-  "5563a4960c195150": "2026-10-23T06:00:29.014285+00:00",
-  "864f93f8efec2c4c": "2026-10-23T06:00:29.014285+00:00",
-  "74687a6a55a0c6b8": "2026-10-23T06:00:29.014285+00:00",
-  "6e1e4d98b012795f": "2026-10-23T06:00:29.014285+00:00",
   "872ba149a1f66ac4": "2026-10-23T06:10:22.675143+00:00",
   "30cd43ef16536443": "2026-10-23T06:10:22.675143+00:00",
   "e5f0b09831065e4c": "2026-10-23T06:10:22.675143+00:00",
@@ -7641,7 +7634,11 @@
   "bc69fc22810e146e": "2026-11-06T05:48:13.666532+00:00",
   "3890f044e0d0d4d2": "2026-11-06T05:48:13.666532+00:00",
   "18fced3e42e908f5": "2026-11-06T05:48:13.666532+00:00",
-  "f8fd7986afc349fc": "2026-11-06T05:58:13.586719+00:00"
+  "f8fd7986afc349fc": "2026-11-06T05:58:13.586719+00:00",
+  "2112ddc68abda3db": "2026-11-06T06:08:12.703915+00:00",
+  "ca32ce86386f1112": "2026-11-06T06:08:12.703915+00:00",
+  "e22c7c257dc43a48": "2026-11-06T06:08:12.703915+00:00",
+  "bb5ccd8d058a0b09": "2026-11-06T06:08:12.703915+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7912,19 +7909,6 @@
     "GPFans": "Martin Brundle exposes Ferrari's Hamilton-Leclerc problem with fresh warning"
    },
    "last": "2026-11-04T08:11:21.206620+00:00"
-  },
-  "S4533": {
-   "title": "Sooner Sports Pad stream listing (not F1)",
-   "first": "2026-11-04T06:00:47.113444+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T01:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sooner Sports Pad (3/11/26) - Stream en vivo"
-   },
-   "last": "2026-11-04T06:00:47.113464+00:00"
   },
   "S4534": {
    "title": "Mark Teixeira wins U.S. House seat in Texas",
@@ -15553,14 +15537,16 @@
    "title": "Verstappen and Alonso advise Camara on F1 debut pressure",
    "first": "2026-11-05T22:36:11.653424+00:00",
    "sources": {
-    "GPblog": "2026-11-05T22:31:00+00:00"
+    "GPblog": "2026-11-05T22:31:00+00:00",
+    "RacingNews365 NL": "2026-11-06T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Verstappen and Alonso reveal what Camara must avoid on F1 debut"
+    "GPblog": "Verstappen and Alonso reveal what Camara must avoid on F1 debut",
+    "RacingNews365 NL": "Mentor Verstappen geeft advies aan kersvers F1-debutant"
    },
-   "last": "2026-11-05T22:36:11.653430+00:00"
+   "last": "2026-11-06T06:08:17.682519+00:00"
   },
   "S5102": {
    "title": "Hamilton reveals how he helped Hadjar avoid a penalty",
@@ -16497,9 +16483,48 @@
     "PlanetF1": "Toto Wolff consoles George Russell after title loss to Antonelli"
    },
    "last": "2026-11-06T05:48:15.859939+00:00"
+  },
+  "S5174": {
+   "title": "Warriors 120-100 Heat game recap (NBA)",
+   "first": "2026-11-06T06:08:17.682486+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T06:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Warriors 120-100 Heat (Nov 5, 2026) Game Recap"
+   },
+   "last": "2026-11-06T06:08:17.682504+00:00"
+  },
+  "S5175": {
+   "title": "Tickner finds perspective beyond cricket after wife's cancer battle",
+   "first": "2026-11-06T06:08:17.682509+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T04:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tickner finds perspective beyond cricket after wife's cancer battle"
+   },
+   "last": "2026-11-06T06:08:17.682514+00:00"
+  },
+  "S5176": {
+   "title": "Russell says he feels mentally exhausted after setbacks",
+   "first": "2026-11-06T06:08:17.682523+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T06:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Russell reveals emotional toll of nightmare season: 'I feel a bit exhausted'"
+   },
+   "last": "2026-11-06T06:08:17.682527+00:00"
   }
  },
- "story_seq": 5173,
+ "story_seq": 5176,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16618,7 +16643,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T05:58:13.586719+00:00",
+ "last_run": "2026-11-06T06:08:12.703915+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -18168,6 +18193,11 @@
    "t": "2026-11-06T05:28:17.969800+00:00",
    "title": "Bir Formula 1 dünya şampiyonu ne kadar genç olabilir?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-06T06:08:24.475539+00:00",
+   "title": "Russell: Bu sezon yoruldum, her hafta yeniden ayağa kalkmak zor",
+   "source": "GPblog"
   }
  ]
 }
