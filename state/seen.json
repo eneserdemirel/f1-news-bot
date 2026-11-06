@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e0a6ac5afdf72b23": "2026-10-23T18:36:47.686578+00:00",
-  "aaecb8291b890ec4": "2026-10-23T18:36:47.686578+00:00",
-  "0813472b56e2f342": "2026-10-23T18:36:47.686578+00:00",
-  "3bf9323f5b51da3b": "2026-10-23T18:36:47.686578+00:00",
-  "57892157ec913a4d": "2026-10-23T18:36:47.686578+00:00",
-  "b4c8b48c726d8cf5": "2026-10-23T18:36:47.686578+00:00",
-  "6f279adee9d02229": "2026-10-23T18:36:47.686578+00:00",
-  "2422eb400895f563": "2026-10-23T18:36:47.686578+00:00",
   "bae377bc2c1d5deb": "2026-10-23T18:41:44.983697+00:00",
   "a12c2d31b5f3b28c": "2026-10-23T18:41:44.983697+00:00",
   "4a8673c4cf536906": "2026-10-23T18:41:44.983697+00:00",
@@ -7729,7 +7721,10 @@
   "efd402bcf7600c43": "2026-11-06T18:35:15.321308+00:00",
   "ee508895b265b2f4": "2026-11-06T18:35:15.321308+00:00",
   "ee54b69bed680f3e": "2026-11-06T18:35:15.321308+00:00",
-  "1e3c40d84a2d8433": "2026-11-06T18:35:15.321308+00:00"
+  "1e3c40d84a2d8433": "2026-11-06T18:35:15.321308+00:00",
+  "2a8c01fe8fce6824": "2026-11-06T18:40:18.159768+00:00",
+  "316f323d8f024df4": "2026-11-06T18:40:18.159768+00:00",
+  "3e1eded3bba7e9cf": "2026-11-06T18:40:18.159768+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16958,9 +16953,48 @@
     "FormulaPassion": "Analisi FP1: lampo McLaren, Ferrari con del lavoro da fare"
    },
    "last": "2026-11-06T18:35:22.622076+00:00"
+  },
+  "S5376": {
+   "title": "Braunschweig vs Cottbus team stats",
+   "first": "2026-11-06T18:40:20.413889+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T18:36:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "E Braunschweig vs. Cottbus (6 Nov, 2026) Team Stats"
+   },
+   "last": "2026-11-06T18:40:20.413907+00:00"
+  },
+  "S5377": {
+   "title": "Paris FC vs Montpellier team stats",
+   "first": "2026-11-06T18:40:20.413913+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T18:36:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Paris FC vs. Montpellier (6 Nov, 2026) Team Stats"
+   },
+   "last": "2026-11-06T18:40:20.413919+00:00"
+  },
+  "S5378": {
+   "title": "TV broadcasters reportedly threaten to boycott Qatar and Abu Dhabi GPs",
+   "first": "2026-11-06T18:40:20.413923+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T18:38:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "'TV broadcasters threaten to boycott Qatar and Abu Dhabi F1 weekends'"
+   },
+   "last": "2026-11-06T18:40:20.413928+00:00"
   }
  },
- "story_seq": 5375,
+ "story_seq": 5378,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17079,22 +17113,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T18:35:15.321308+00:00",
+ "last_run": "2026-11-06T18:40:18.159768+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T18:38:23.805977+00:00",
-   "title": "Verstappen, yeni mühendisi Tom Hart ile iş birliğinden memnun",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-03T18:38:24.197949+00:00",
-   "title": "Hamilton'ın McLaren ile ilk F1 testinin perde arkası",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-03T18:48:35.688870+00:00",
    "title": "Wolff, Antonelli'nin şampiyonluğunu Ferrari'ye iğneleyerek yorumladı",
@@ -18629,6 +18653,11 @@
    "t": "2026-11-06T18:35:29.457758+00:00",
    "title": "Racing Bulls'ta kadro kararı hâlâ belirsiz, Permane sabırlı olunmasını istedi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-06T18:40:24.191501+00:00",
+   "title": "TV yayıncıları Katar ve Abu Dabi F1 hafta sonlarını boykot etmekle tehdit ediyor",
+   "source": "GPblog"
   }
  ]
 }
