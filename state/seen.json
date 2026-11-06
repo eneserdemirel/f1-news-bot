@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "41e1e4504d94b10e": "2026-10-23T20:42:28.855596+00:00",
   "6c12fde40b14f23d": "2026-10-23T20:47:26.020221+00:00",
   "0306ef898ba6e90c": "2026-10-23T20:47:26.020221+00:00",
   "002bebdaa2f31ac3": "2026-10-23T20:47:26.020221+00:00",
@@ -7769,7 +7768,13 @@
   "ba132a88d45d851b": "2026-11-06T20:40:17.354005+00:00",
   "63cb566eabcd7340": "2026-11-06T20:40:17.354005+00:00",
   "33175d0d4d187ac5": "2026-11-06T20:40:17.354005+00:00",
-  "fc294818275be7b8": "2026-11-06T20:40:17.354005+00:00"
+  "fc294818275be7b8": "2026-11-06T20:40:17.354005+00:00",
+  "3d02049f4b8c5312": "2026-11-06T20:45:17.460321+00:00",
+  "2a3eafdcc9138e1b": "2026-11-06T20:45:17.460321+00:00",
+  "3176448909d7151c": "2026-11-06T20:45:17.460321+00:00",
+  "1b93ad6f50c6ed77": "2026-11-06T20:45:17.460321+00:00",
+  "1439c7cad1367251": "2026-11-06T20:45:17.460321+00:00",
+  "990ed4db7eaa5618": "2026-11-06T20:45:17.460321+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8057,19 +8062,6 @@
     "ESPN F1": "Sources - Ravens finalizing trade with Cardinals for QB Brissett"
    },
    "last": "2026-11-05T00:22:40.880769+00:00"
-  },
-  "S4750": {
-   "title": "Hall of Fame names Doug Williams, Robert Kraft among contributor candidates",
-   "first": "2026-11-04T20:41:51.562508+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T17:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hall of Fame names Doug Williams, Robert Kraft among 5 contributor candidates"
-   },
-   "last": "2026-11-04T20:41:51.562530+00:00"
   },
   "S4751": {
    "title": "FIA publishes São Paulo GP press conference schedule",
@@ -14263,7 +14255,8 @@
     "Crash.net": "2026-11-06T15:25:26+00:00",
     "Autosport": "2026-11-06T15:37:02+00:00",
     "PlanetF1": "2026-11-06T16:54:52+00:00",
-    "ESPN F1": "2026-11-06T17:59:51+00:00"
+    "ESPN F1": "2026-11-06T17:59:51+00:00",
+    "GPFans": "2026-11-06T20:42:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14277,9 +14270,10 @@
     "Crash.net": "George Russell to take F1 grid penalty at Brazil GP",
     "Autosport": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
     "PlanetF1": "FIA confirms George Russell penalty at Brazilian Grand Prix",
-    "ESPN F1": "George Russell hit with five-place grid penalty for São Paulo Grand Prix"
+    "ESPN F1": "George Russell hit with five-place grid penalty for São Paulo Grand Prix",
+    "GPFans": "FIA confirm more George Russell misery as Mercedes star hit with penalty at Brazilian Grand Prix"
    },
-   "last": "2026-11-06T18:15:17.142325+00:00"
+   "last": "2026-11-06T20:45:22.782986+00:00"
   },
   "S5209": {
    "title": "Brazilian GP 2026 start time, TV channels and live streams",
@@ -16406,7 +16400,8 @@
     "Autosport": "2026-11-06T18:46:02+00:00",
     "Sky Sports F1": "2026-11-06T18:00:00+00:00",
     "Motorsport.com Italia": "2026-11-06T19:30:05+00:00",
-    "The Race": "2026-11-06T19:42:15+00:00"
+    "The Race": "2026-11-06T19:42:15+00:00",
+    "AS": "2026-11-06T20:39:39+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16418,9 +16413,10 @@
     "Autosport": "Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks",
     "Sky Sports F1": "‘The message was clear’ - Vasseur held Hamilton-Leclerc meeting after clash",
     "Motorsport.com Italia": "F1 | Vasseur: “Il caso Hamilton-Leclerc? Le linee guida non cambiano, ma devono rispettare la Ferrari”",
-    "The Race": "What we learned about Ferrari’s key Hamilton/Leclerc meeting"
+    "The Race": "What we learned about Ferrari’s key Hamilton/Leclerc meeting",
+    "AS": "Ferrari pone orden entre Hamilton y Leclerc"
    },
-   "last": "2026-11-06T19:45:18.990330+00:00"
+   "last": "2026-11-06T20:45:22.782996+00:00"
   },
   "S5366": {
    "title": "Bottas insists Cadillac seat is safe despite axe rumours",
@@ -16937,16 +16933,18 @@
    "sources": {
     "RacingNews365": "2026-11-06T19:49:00+00:00",
     "PlanetF1": "2026-11-06T20:02:04+00:00",
-    "GPblog": "2026-11-06T20:22:00+00:00"
+    "GPblog": "2026-11-06T20:22:00+00:00",
+    "Gazzetta dello Sport": "2026-11-06T20:35:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "F1 debutant facing investigation for dangerous Charles Leclerc incident",
     "PlanetF1": "Brazilian GP: Antonelli tops FP2 as Leclerc incident sparks FIA investigation",
-    "GPblog": "FIA stewards summon multiple drivers after dangerous incident in Brazil"
+    "GPblog": "FIA stewards summon multiple drivers after dangerous incident in Brazil",
+    "Gazzetta dello Sport": "\"Che c***o fa?\": Leclerc sfiora il muro ed evita Camara per miracolo"
    },
-   "last": "2026-11-06T20:25:21.421325+00:00"
+   "last": "2026-11-06T20:45:22.782991+00:00"
   },
   "S5406": {
    "title": "Bologna vs Udinese live score (football)",
@@ -17300,9 +17298,35 @@
     "Crash.net": "Martin Brundle shares Lewis Hamilton theory after “silly” Charles Leclerc move"
    },
    "last": "2026-11-06T20:40:21.981385+00:00"
+  },
+  "S5431": {
+   "title": "Pegula hot mic comments on Andreeva, tennis",
+   "first": "2026-11-06T20:45:22.782951+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T20:33:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jessica Pegula: Hot mic comments about Mirra Andreeva an 'unfortunate situation'"
+   },
+   "last": "2026-11-06T20:45:22.782967+00:00"
+  },
+  "S5432": {
+   "title": "Jerry Jones says paying coaches never an issue",
+   "first": "2026-11-06T20:45:22.782973+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T18:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cowboys' Jerry Jones says paying coaches never been an issue"
+   },
+   "last": "2026-11-06T20:45:22.782980+00:00"
   }
  },
- "story_seq": 5430,
+ "story_seq": 5432,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17421,7 +17445,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T20:40:17.354005+00:00",
+ "last_run": "2026-11-06T20:45:17.460321+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
