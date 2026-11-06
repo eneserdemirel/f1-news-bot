@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b257eb13f834e4e0": "2026-10-23T10:41:05.569423+00:00",
-  "e98ac43749a1ffd0": "2026-10-23T10:41:05.569423+00:00",
   "9b611c8e4df3f63e": "2026-10-23T10:51:05.885585+00:00",
   "ff6708a4eab8ae9a": "2026-10-23T10:51:05.885585+00:00",
   "b637abdd2ffb7219": "2026-10-23T10:51:05.885585+00:00",
@@ -7659,7 +7657,12 @@
   "9e4f63a37a1b857b": "2026-11-06T10:34:20.164170+00:00",
   "5e99fb933a75b9c6": "2026-11-06T10:34:20.164170+00:00",
   "c5394a5d8cb51e6b": "2026-11-06T10:38:53.696386+00:00",
-  "2bfb2c11400c4099": "2026-11-06T10:38:53.696386+00:00"
+  "2bfb2c11400c4099": "2026-11-06T10:38:53.696386+00:00",
+  "7f73e464d943ca0f": "2026-11-06T10:43:55.757358+00:00",
+  "22cc8d71250243d4": "2026-11-06T10:43:55.757358+00:00",
+  "e90b7b56c1c67916": "2026-11-06T10:43:55.757358+00:00",
+  "15be3cae1e7185e4": "2026-11-06T10:43:55.757358+00:00",
+  "4bb29dc13af53c2b": "2026-11-06T10:43:55.757358+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16459,7 +16462,8 @@
     "Autosport": "2026-11-06T09:24:07+00:00",
     "PlanetF1": "2026-11-06T09:32:26+00:00",
     "Motorsport.com Italia": "2026-11-06T09:43:15+00:00",
-    "Motorsport-Total": "2026-11-06T09:33:47+00:00"
+    "Motorsport-Total": "2026-11-06T09:33:47+00:00",
+    "Formula 1": "2026-11-06T10:43:59.895967+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16470,9 +16474,10 @@
     "Autosport": "Permane signs new Racing Bulls F1 deal",
     "PlanetF1": "Racing Bulls makes key ‘long-term contract extension’ announcement",
     "Motorsport.com Italia": "F1 | Racing Bulls: Alan Permane è stato confermato team principal fino al 2031",
-    "Motorsport-Total": "Bis 2031: Racing Bulls verlängern mit Teamchef Alan Permane - Motorsport-Total.com"
+    "Motorsport-Total": "Bis 2031: Racing Bulls verlängern mit Teamchef Alan Permane - Motorsport-Total.com",
+    "Formula 1": "Alan Permane handed Racing Bulls Team Principal renewal"
    },
-   "last": "2026-11-06T10:14:00.480722+00:00"
+   "last": "2026-11-06T10:43:59.895984+00:00"
   },
   "S5202": {
    "title": "Mercedes constructors' title scenario for Brazil GP",
@@ -16763,9 +16768,48 @@
     "Auto Motor und Sport": "Formel 1: Saisonfinale in der Kriegs-Region: Gibt es Chaos wie in der MotoGP?"
    },
    "last": "2026-11-06T10:38:55.909126+00:00"
+  },
+  "S5224": {
+   "title": "Rodman vs Wilson NWSL quarterfinal preview",
+   "first": "2026-11-06T10:43:59.895990+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T10:19:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rodman vs. Wilson: Who will make the difference in NWSL quarterfinal?"
+   },
+   "last": "2026-11-06T10:43:59.895997+00:00"
+  },
+  "S5225": {
+   "title": "Ferrari WEC technical director reviews 2026 season",
+   "first": "2026-11-06T10:43:59.896002+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-06T10:39:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Cannizzo: \"La 499P è stata spunto per i rivali. Ora sta a noi ridefinire il paradigma di un nuovo capitolo di LMh\""
+   },
+   "last": "2026-11-06T10:43:59.896006+00:00"
+  },
+  "S5226": {
+   "title": "Vasseur says six to eight drivers can win races",
+   "first": "2026-11-06T10:43:59.896009+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T10:37:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Vasseur: Gut für die Formel 1, dass sechs bis acht Fahrer gewinnen können - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T10:43:59.896013+00:00"
   }
  },
- "story_seq": 5223,
+ "story_seq": 5226,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16884,7 +16928,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T10:38:53.696386+00:00",
+ "last_run": "2026-11-06T10:43:55.757358+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -18424,6 +18468,11 @@
    "t": "2026-11-06T10:39:00.393646+00:00",
    "title": "Formula 1 sezon finali savaş bölgesinde: MotoGP'deki gibi kaos olacak mı?",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-06T10:44:03.670399+00:00",
+   "title": "Vasseur: Altı ila sekiz pilotun kazanabilmesi F1 için iyi",
+   "source": "Motorsport-Total"
   }
  ]
 }
