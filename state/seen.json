@@ -7674,7 +7674,9 @@
   "e7f8e3391c293f63": "2026-11-06T14:54:33.631195+00:00",
   "f945c86f6c90cb29": "2026-11-06T14:59:36.137940+00:00",
   "912c0c1754946c8f": "2026-11-06T15:04:33.227365+00:00",
-  "75880062c03c35f2": "2026-11-06T15:04:33.227365+00:00"
+  "75880062c03c35f2": "2026-11-06T15:04:33.227365+00:00",
+  "742a3035b4e70358": "2026-11-06T15:09:44.888101+00:00",
+  "cad8933febc37b35": "2026-11-06T15:09:44.888101+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16767,9 +16769,22 @@
     "RacingNews365": "Oliver Bearman handed apology after 'misjudged' accident: 'Gave him a shove'"
    },
    "last": "2026-11-06T15:04:35.202838+00:00"
+  },
+  "S5311": {
+   "title": "Haas's Komatsu speaks on Ocon's dismissal for first time",
+   "first": "2026-11-06T15:09:46.777325+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T15:06:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Haas team principal Komatsu speaks for the first time about Ocon’s dismissal"
+   },
+   "last": "2026-11-06T15:09:46.777341+00:00"
   }
  },
- "story_seq": 5310,
+ "story_seq": 5311,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16888,7 +16903,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T15:04:33.227365+00:00",
+ "last_run": "2026-11-06T15:09:44.888101+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18458,6 +18473,11 @@
    "t": "2026-11-06T15:04:39.943717+00:00",
    "title": "Hülkenberg, Bearman'a çarpmasından dolayı özür diledi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-06T15:09:50.888172+00:00",
+   "title": "Haas patronu Komatsu, Ocon'un görevden alınması hakkında ilk kez konuştu",
+   "source": "GPblog"
   }
  ]
 }
