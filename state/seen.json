@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "607a28b8515cba16": "2026-10-23T12:26:04.260732+00:00",
-  "58327019672d67e8": "2026-10-23T12:26:04.260732+00:00",
-  "fefff9869698ce9c": "2026-10-23T12:26:04.260732+00:00",
   "3adae93efc4159bc": "2026-10-23T12:31:07.200932+00:00",
   "fd8ccbbdcea4eeb4": "2026-10-23T12:31:07.200932+00:00",
   "129cf0f1a1159edc": "2026-10-23T12:36:03.638899+00:00",
@@ -7664,7 +7661,8 @@
   "901169954a0ad8fe": "2026-11-06T12:13:57.601729+00:00",
   "8ecec9596b471ba9": "2026-11-06T12:18:53.417042+00:00",
   "97698783ce014267": "2026-11-06T12:18:53.417042+00:00",
-  "a24da851c4852a28": "2026-11-06T12:23:57.395561+00:00"
+  "a24da851c4852a28": "2026-11-06T12:23:57.395561+00:00",
+  "57c844e13202ff01": "2026-11-06T12:28:53.464270+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16849,9 +16847,22 @@
     "Motorsport.com Italia": "WEC | Coletta: \"Non ci aspettavamo di soffrire così tanto, Ferrari pronta a fare tesoro di tutto\""
    },
    "last": "2026-11-06T12:23:59.021443+00:00"
+  },
+  "S5263": {
+   "title": "Antonelli visits Senna family and recalls drive in Senna's Lotus",
+   "first": "2026-11-06T12:28:55.577482+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-06T12:22:17+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Antonelli accolto in Brasile dalla famiglia di Senna, l'emozionante retroscena: \"Sulla sua Lotus ho capito che...\""
+   },
+   "last": "2026-11-06T12:28:55.577500+00:00"
   }
  },
- "story_seq": 5262,
+ "story_seq": 5263,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16970,27 +16981,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T12:23:57.395561+00:00",
+ "last_run": "2026-11-06T12:28:53.464270+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T12:27:13.520614+00:00",
-   "title": "FIA başkanı Antonelli'ye: \"Asla değişme\"",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-03T12:27:13.932768+00:00",
-   "title": "Verstappen, yağmurlu Interlagos'ta Norris'e ağır darbe vurdu",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-03T12:27:14.350202+00:00",
-   "title": "Hamilton, Verstappen'le yaşanan konuşmanın ardından FIA'dan harekete geçmesini istiyor",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-03T12:47:10.298760+00:00",
    "title": "Ford, Verstappen'in Meksika galibiyetine tepki verdi; Red Bull üçüncülükte öne geçti",
@@ -18525,6 +18521,11 @@
    "t": "2026-11-06T12:14:05.091383+00:00",
    "title": "Aston Martin, Honda'daki 'anormal' sorun sonrası 'yetersiz' çözümden memnuniyetsiz",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-06T12:29:01.461953+00:00",
+   "title": "Antonelli, Senna'nın ailesi tarafından Brezilya'da karşılandı",
+   "source": "Corriere dello Sport"
   }
  ]
 }
