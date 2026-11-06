@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2a0dcc2614738cfb": "2026-10-23T15:51:46.969445+00:00",
-  "5887e597ce27ab8f": "2026-10-23T15:51:46.969445+00:00",
-  "303dfe76ce7302d6": "2026-10-23T15:51:46.969445+00:00",
   "105cb451aad3cfb4": "2026-10-23T15:56:45.527032+00:00",
   "e3c6eadfa106ff1e": "2026-10-23T15:56:45.527032+00:00",
   "d81c50701f7e3ab1": "2026-10-23T16:01:51.443720+00:00",
@@ -7681,7 +7678,10 @@
   "0f2674e6bc01aebf": "2026-11-06T15:44:37.738436+00:00",
   "1bfe0805f9ecc1f3": "2026-11-06T15:44:37.738436+00:00",
   "536b0ea03e3914f8": "2026-11-06T15:49:38.849892+00:00",
-  "3e56b8527a69d8a6": "2026-11-06T15:49:38.849892+00:00"
+  "3e56b8527a69d8a6": "2026-11-06T15:49:38.849892+00:00",
+  "621c05b219344e39": "2026-11-06T15:54:33.835206+00:00",
+  "1c467a8b83363292": "2026-11-06T15:54:33.835206+00:00",
+  "97f576d2dcac88f6": "2026-11-06T15:54:33.835206+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8101,45 +8101,6 @@
     "RacingNews365 NL": "Mercedes W17: het technische geheim achter de wereldtitel van Kimi Antonelli"
    },
    "last": "2026-11-04T19:41:51.632505+00:00"
-  },
-  "S4675": {
-   "title": "Rennes vs Olympiacos team stats",
-   "first": "2026-11-04T15:51:18.657025+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T15:40:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rennes vs. Olympiacos (Nov 4, 2026) Team Stats"
-   },
-   "last": "2026-11-04T15:51:18.657046+00:00"
-  },
-  "S4676": {
-   "title": "Greg Dulcich Week 9 fantasy preview",
-   "first": "2026-11-04T15:51:18.657053+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T15:33:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Greg Dulcich's Week 9 fantasy preview"
-   },
-   "last": "2026-11-04T15:51:18.657059+00:00"
-  },
-  "S4677": {
-   "title": "Rangers 3-1 Blues NHL game recap",
-   "first": "2026-11-04T15:51:18.657063+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T10:08:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rangers 3-1 Blues (Nov 3, 2026) Game Recap"
-   },
-   "last": "2026-11-04T15:51:18.657068+00:00"
   },
   "S4678": {
    "title": "NFL Week 9 lineup conundrums preview",
@@ -16775,9 +16736,48 @@
     "ESPN F1": "Jamal Crawford says NBA's potential return to Seattle 'feels different' this time"
    },
    "last": "2026-11-06T15:49:41.454924+00:00"
+  },
+  "S5321": {
+   "title": "FIFA chief legal officer steps down in second exit",
+   "first": "2026-11-06T15:54:36.644721+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T15:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "FIFA's chief legal officer steps down in second high-profile exit"
+   },
+   "last": "2026-11-06T15:54:36.644737+00:00"
+  },
+  "S5322": {
+   "title": "Moto2 Qatar practice results with title rivals close",
+   "first": "2026-11-06T15:54:36.644743+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T15:46:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Qatar GP full Moto2 Practice results: Title rivals inseparable"
+   },
+   "last": "2026-11-06T15:54:36.644749+00:00"
+  },
+  "S5323": {
+   "title": "Honda takes immediate action on F1 power unit after Aston Martin problems",
+   "first": "2026-11-06T15:54:36.644754+00:00",
+   "sources": {
+    "GPFans": "2026-11-06T15:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Honda take immediate action on F1 power unit after Aston Martin disaster"
+   },
+   "last": "2026-11-06T15:54:36.644759+00:00"
   }
  },
- "story_seq": 5320,
+ "story_seq": 5323,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16896,7 +16896,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T15:49:38.849892+00:00",
+ "last_run": "2026-11-06T15:54:33.835206+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
