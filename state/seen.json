@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8d80863e59eca42f": "2026-10-23T12:46:08.409757+00:00",
-  "f8a9a5c32c717b86": "2026-10-23T12:46:08.409757+00:00",
   "296cb2fc5a5b57b9": "2026-10-23T12:56:09.353810+00:00",
   "7e476a13b0a87507": "2026-10-23T13:01:08.222979+00:00",
   "51f96c706d0c4442": "2026-10-23T13:01:08.222979+00:00",
@@ -7665,7 +7663,9 @@
   "9911787d7a08754a": "2026-11-06T12:38:58.946882+00:00",
   "8f9221f91741013d": "2026-11-06T12:38:58.946882+00:00",
   "bb5358c6f825a4e0": "2026-11-06T12:43:53.431994+00:00",
-  "ded9fee1919ee47a": "2026-11-06T12:43:53.431994+00:00"
+  "ded9fee1919ee47a": "2026-11-06T12:43:53.431994+00:00",
+  "0c789ecbcfe53e1f": "2026-11-06T12:48:55.226619+00:00",
+  "9533f31924838a44": "2026-11-06T12:48:55.226619+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16714,9 +16714,35 @@
     "The Race": "Marquez quickest as Qatar MotoGP weekend kicks off"
    },
    "last": "2026-11-06T12:43:55.382859+00:00"
+  },
+  "S5269": {
+   "title": "Ricciardo reportedly in secret talks over 2027 racing return",
+   "first": "2026-11-06T12:48:58.572049+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T12:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ricciardo held secret talks over 2027 racing return, two years after F1 axe"
+   },
+   "last": "2026-11-06T12:48:58.572066+00:00"
+  },
+  "S5270": {
+   "title": "Speculation that Haas may give away Camara's F2 title",
+   "first": "2026-11-06T12:48:58.572072+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-06T12:09:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Geheimnis um Rafael Camara: Verschenkt Haas den Formel-2-Titel?"
+   },
+   "last": "2026-11-06T12:48:58.572078+00:00"
   }
  },
- "story_seq": 5268,
+ "story_seq": 5270,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16835,17 +16861,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T12:43:53.431994+00:00",
+ "last_run": "2026-11-06T12:48:55.226619+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T12:47:10.298760+00:00",
-   "title": "Ford, Verstappen'in Meksika galibiyetine tepki verdi; Red Bull üçüncülükte öne geçti",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-03T13:07:15.169333+00:00",
    "title": "Russell'ın sezonu: Antonelli'nin gerisinde dördüncü sırada",
@@ -18380,6 +18401,11 @@
    "t": "2026-11-06T12:29:01.461953+00:00",
    "title": "Antonelli, Senna'nın ailesi tarafından Brezilya'da karşılandı",
    "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-11-06T12:49:03.573337+00:00",
+   "title": "Ricciardo, F1 dışlanmasının ardından 2027'de geri dönüş için gizli görüşmeler yaptı",
+   "source": "GPblog"
   }
  ]
 }
