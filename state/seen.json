@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2025d21511158b26": "2026-10-23T06:40:28.602646+00:00",
-  "b1d49f4f4470a821": "2026-10-23T06:40:28.602646+00:00",
   "6be8a973191ff8d5": "2026-10-23T06:50:22.398945+00:00",
   "639dbdad37147eb2": "2026-10-23T07:00:24.933007+00:00",
   "2a7d3647bb5a0647": "2026-10-23T07:00:24.933007+00:00",
@@ -7634,7 +7632,8 @@
   "6e5cb2d17752864a": "2026-11-06T06:18:14.111529+00:00",
   "7641975f2947e286": "2026-11-06T06:18:14.111529+00:00",
   "28f4feab218df811": "2026-11-06T06:28:12.941270+00:00",
-  "a3bc93b858f6746a": "2026-11-06T06:38:13.332262+00:00"
+  "a3bc93b858f6746a": "2026-11-06T06:38:13.332262+00:00",
+  "10b55caca5315811": "2026-11-06T06:48:14.107877+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16520,9 +16519,22 @@
     "FormulaPassion": "Herbert: “Antonelli potrebbe battere il record di titoli di Schumacher e Hamilton”"
    },
    "last": "2026-11-06T06:18:16.436233+00:00"
+  },
+  "S5179": {
+   "title": "Lance Stroll sets disastrous F1 record this season",
+   "first": "2026-11-06T06:48:16.346900+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-06T06:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Stroll stevent af op desastreus F1-record"
+   },
+   "last": "2026-11-06T06:48:16.346918+00:00"
   }
  },
- "story_seq": 5178,
+ "story_seq": 5179,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16641,17 +16653,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T06:38:13.332262+00:00",
+ "last_run": "2026-11-06T06:48:14.107877+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T06:46:24.122785+00:00",
-   "title": "Messico, yeni genç F1 tutkusunu taçlandırdı",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-11-03T06:56:30.446070+00:00",
    "title": "Hamilton, Ferrari'yi Meksika GP sonrası dürüst olmaya çağırdı",
@@ -18201,6 +18208,11 @@
    "t": "2026-11-06T06:18:20.316835+00:00",
    "title": "Herbert: Antonelli, Schumacher ve Hamilton'ın şampiyonluk rekorunu kırabilir",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-06T06:48:21.231529+00:00",
+   "title": "Lance Stroll, F1 tarihindeki olumsuz bir rekora yaklaşıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
