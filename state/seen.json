@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6aea0db09d1e042b": "2026-10-23T17:01:49.199317+00:00",
-  "6be617f8bff44466": "2026-10-23T17:01:49.199317+00:00",
-  "33c766725f54670c": "2026-10-23T17:01:49.199317+00:00",
-  "4ca34dbc1d39a5ef": "2026-10-23T17:01:49.199317+00:00",
-  "a426cefd51c90820": "2026-10-23T17:01:49.199317+00:00",
-  "a6ce7439c976ba30": "2026-10-23T17:01:49.199317+00:00",
   "aef0aba9fb3fc1e4": "2026-10-23T17:06:47.145629+00:00",
   "3adf60340206f982": "2026-10-23T17:06:47.145629+00:00",
   "5110b94484e6043c": "2026-10-23T17:06:47.145629+00:00",
@@ -7711,7 +7705,9 @@
   "3c3a67c10a90517b": "2026-11-06T16:59:39.987678+00:00",
   "4314c4298c91361e": "2026-11-06T16:59:39.987678+00:00",
   "c4a90f1322b51783": "2026-11-06T16:59:39.987678+00:00",
-  "c2e2df3c57c9b119": "2026-11-06T16:59:39.987678+00:00"
+  "c2e2df3c57c9b119": "2026-11-06T16:59:39.987678+00:00",
+  "6ecbb98c9c0249ca": "2026-11-06T17:04:35.041837+00:00",
+  "dc22b61ba74de882": "2026-11-06T17:04:35.041837+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7733,27 +7729,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S4362": {
-   "title": "Mercedes constructors' title scenarios at Sao Paulo GP",
-   "first": "2026-11-03T14:17:04.791388+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-03T14:08:30+00:00",
-    "GPblog": "2026-11-03T13:34:00+00:00",
-    "RacingNews365": "2026-11-04T10:30:00+00:00",
-    "Motorsport-Total": "2026-11-04T14:05:04+00:00",
-    "Formula 1": "2026-11-04T17:01:23.013380+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "How Mercedes can win F1 2026 Constructors’ Championship at the Sao Paulo GP",
-    "GPblog": "Mercedes can party again in Brazil: how the team can secure the constructors' title",
-    "RacingNews365": "How Mercedes can win 2026 F1 constructors' title in Sao Paulo Grand Prix",
-    "Motorsport-Total": "So wird Mercedes beim Formel-1-Rennen in Brasilien Weltmeister - Motorsport-Total.com",
-    "Formula 1": "When could Mercedes win the 2026 Teams' Championship?"
-   },
-   "last": "2026-11-04T17:01:23.013400+00:00"
-  },
   "S4538": {
    "title": "Retrospective on Verstappen and Hamilton's 2021 Brazil fight",
    "first": "2026-11-04T07:10:53.068856+00:00",
@@ -7834,36 +7809,6 @@
     "Auto Motor und Sport": "Formel 1: Baby-Glück bei Ferrari: Charles Leclerc ist Vater!"
    },
    "last": "2026-11-05T10:53:55.032769+00:00"
-  },
-  "S4569": {
-   "title": "Bottas reacts after big crash at Mexico City GP",
-   "first": "2026-11-04T11:32:15.101352+00:00",
-   "sources": {
-    "Formula 1": "2026-11-04T11:32:15.101368+00:00",
-    "Motorsport Week": "2026-11-04T16:35:52+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "‘Thankfully I’m okay’ – Bottas reacts to Mexico City crash",
-    "Motorsport Week": "Valtteri Bottas vents fury at Cadillac after horrific Mexico crash"
-   },
-   "last": "2026-11-04T17:01:23.013447+00:00"
-  },
-  "S4615": {
-   "title": "Leaked photos suggest Verstappen Adidas deal with Red Bull",
-   "first": "2026-11-04T12:41:31.897022+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-04T12:15:00+00:00",
-    "GPblog": "2026-11-04T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Gelekte Verstappen-foto's verklappen nieuwe miljoenendeal Red Bull",
-    "GPblog": "Leaked Photos of Verstappen Appear to Confirm Red Bull Million-Euro Deal"
-   },
-   "last": "2026-11-04T17:01:23.013453+00:00"
   },
   "S4617": {
    "title": "Brazil GP dates and full F1 schedule explainer",
@@ -8019,58 +7964,6 @@
     "RacingNews365 NL": "Wie is Rafael Câmara? Alles over de verrassende Haas-debutant in Brazilië"
    },
    "last": "2026-11-04T19:41:51.632500+00:00"
-  },
-  "S4691": {
-   "title": "Camara says there is a lot to learn before debut",
-   "first": "2026-11-04T17:01:23.013407+00:00",
-   "sources": {
-    "Formula 1": "2026-11-04T17:01:23.013411+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Camara concedes ‘there is a lot to learn’ ahead of F1 debut"
-   },
-   "last": "2026-11-04T17:01:23.013414+00:00"
-  },
-  "S4692": {
-   "title": "Rosberg reflects on retirement and Hamilton relationship in podcast",
-   "first": "2026-11-04T17:01:23.013419+00:00",
-   "sources": {
-    "Formula 1": "2026-11-04T17:01:23.013422+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Rosberg opens up on Hamilton relationship after retirement"
-   },
-   "last": "2026-11-04T17:01:23.013425+00:00"
-  },
-  "S4693": {
-   "title": "Women's college volleyball bracketology predictions",
-   "first": "2026-11-04T17:01:23.013429+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T14:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Women's college volleyball Bracketology: 2026 NCAA tournament predictions"
-   },
-   "last": "2026-11-04T17:01:23.013434+00:00"
-  },
-  "S4694": {
-   "title": "Former F1 journalist warns Ferrari over Hamilton duel",
-   "first": "2026-11-04T17:01:23.013437+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-04T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ferrari gewaarschuwd voor Hamilton: \"Staat ontwikkeling in de weg\""
-   },
-   "last": "2026-11-04T17:01:23.013441+00:00"
   },
   "S4695": {
    "title": "Alex Jacques analysis of Russell's season and 2027 outlook",
@@ -14637,14 +14530,16 @@
    "title": "Russell says most Mercedes breakdowns this year hit his car",
    "first": "2026-11-06T07:18:18.800674+00:00",
    "sources": {
-    "AS": "2026-11-06T07:06:34+00:00"
+    "AS": "2026-11-06T07:06:34+00:00",
+    "GPblog": "2026-11-06T16:59:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "AS": "El gran derrotado de Mercedes: “He tenido problemas en 14 carreras”"
+    "AS": "El gran derrotado de Mercedes: “He tenido problemas en 14 carreras”",
+    "GPblog": "Russell discloses shocking Mercedes statistic as frustrations boil over"
    },
-   "last": "2026-11-06T07:18:18.800678+00:00"
+   "last": "2026-11-06T17:04:37.359702+00:00"
   },
   "S5185": {
    "title": "Ravens refuse to blame historic rut on Lamar Jackson loss",
@@ -16835,9 +16730,22 @@
     "Motorsport-Total": "Startplatzstrafe für Russell: Macht er es wie Hamilton 2021? - Motorsport-Total.com"
    },
    "last": "2026-11-06T16:54:42.155213+00:00"
+  },
+  "S5345": {
+   "title": "Verstappen confronts Stroll after near-collision on pit-lane start spot",
+   "first": "2026-11-06T17:04:37.359677+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-06T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen toont spierballen na vreemde actie Stroll: “Wat doet hij nou?”"
+   },
+   "last": "2026-11-06T17:04:37.359693+00:00"
   }
  },
- "story_seq": 5344,
+ "story_seq": 5345,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16956,7 +16864,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T16:59:39.987678+00:00",
+ "last_run": "2026-11-06T17:04:35.041837+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18481,6 +18389,11 @@
    "t": "2026-11-06T16:59:49.047418+00:00",
    "title": "Russell, Brezilya GP'de FIA cezası nedeniyle 5 pozisyon geriden başlayacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-06T17:04:42.145782+00:00",
+   "title": "Verstappen, Stroll'un garip manevrasına sert tepki verdi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
