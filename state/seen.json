@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "69a2d12b3eff5488": "2026-10-23T18:06:48.866703+00:00",
-  "4bbc747308e2a1d8": "2026-10-23T18:06:48.866703+00:00",
-  "3479945227911bca": "2026-10-23T18:06:48.866703+00:00",
-  "d5904aea92c0413f": "2026-10-23T18:06:48.866703+00:00",
   "e97ef5c2aa19c2ce": "2026-10-23T18:11:45.104198+00:00",
   "67d039bcb4f47f7c": "2026-10-23T18:11:45.104198+00:00",
   "bb3664ce2dc70a1c": "2026-10-23T18:16:49.145029+00:00",
@@ -7723,7 +7719,10 @@
   "b371853dca211c44": "2026-11-06T17:59:51.138294+00:00",
   "9f2296ba7d47be5c": "2026-11-06T17:59:51.138294+00:00",
   "31c7ae0d3680a446": "2026-11-06T18:04:36.286742+00:00",
-  "205782b7db274955": "2026-11-06T18:04:36.286742+00:00"
+  "205782b7db274955": "2026-11-06T18:04:36.286742+00:00",
+  "9c7d61edceb479ab": "2026-11-06T18:09:35.246153+00:00",
+  "d918e09f634d1fe0": "2026-11-06T18:09:35.246153+00:00",
+  "8373625d6bba5d4d": "2026-11-06T18:09:35.246153+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16789,16 +16788,18 @@
    "sources": {
     "FormulaPassion": "2026-11-06T17:25:00+00:00",
     "RacingNews365": "2026-11-06T17:55:00+00:00",
-    "GPblog": "2026-11-06T18:02:00+00:00"
+    "GPblog": "2026-11-06T18:02:00+00:00",
+    "RacingNews365 NL": "2026-11-06T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "F1 GP Brasile 2026, FP2: attesa per le simulazioni qualifica e gara, il via alle 20.00 – DIRETTA",
     "RacingNews365": "LIVE: 2026 F1 Sao Paulo Grand Prix - Brazil Free Practice 2",
-    "GPblog": "F1 LIVE | Follow FP2 of the Sao Paulo Grand Prix here"
+    "GPblog": "F1 LIVE | Follow FP2 of the Sao Paulo Grand Prix here",
+    "RacingNews365 NL": "Live tweede vrije training F1 GP Brazilië 2026 in São Paulo"
    },
-   "last": "2026-11-06T18:04:39.101661+00:00"
+   "last": "2026-11-06T18:09:38.614696+00:00"
   },
   "S5358": {
    "title": "NFL Week 9 betting preview and TD predictions",
@@ -16903,9 +16904,35 @@
     "GPblog": "Ferrari boss sat down with Hamilton and Leclerc: 'The message was clear'"
    },
    "last": "2026-11-06T17:59:56.198073+00:00"
+  },
+  "S5366": {
+   "title": "Bottas insists Cadillac seat is safe despite axe rumours",
+   "first": "2026-11-06T18:09:38.614671+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-06T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Valtteri Bottas insists Cadillac seat safe despite growing F1 axe rumours"
+   },
+   "last": "2026-11-06T18:09:38.614688+00:00"
+  },
+  "S5367": {
+   "title": "Rosberg criticises Ferrari's handling of Hamilton and Leclerc",
+   "first": "2026-11-06T18:09:38.614701+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T18:02:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Rosberg kritisiert Ferrari im Umgang mit Hamilton und Leclerc - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T18:09:38.614706+00:00"
   }
  },
- "story_seq": 5365,
+ "story_seq": 5367,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17024,17 +17051,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T18:04:36.286742+00:00",
+ "last_run": "2026-11-06T18:09:35.246153+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T18:08:33.450890+00:00",
-   "title": "Vasseur, Leclerc'in Meksika açıklamasını reddetti: \"Hiçbir şekilde mazeret olamaz\"",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-03T18:18:28.662915+00:00",
    "title": "Peter Bonnington: Üç farklı pilotla sekiz şampiyonluk",
