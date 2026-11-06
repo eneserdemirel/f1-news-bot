@@ -7665,7 +7665,13 @@
   "7c7e8fb39d66db0d": "2026-11-06T11:18:57.714197+00:00",
   "cfad548b480992e9": "2026-11-06T11:18:57.714197+00:00",
   "e0d320c99a3a5546": "2026-11-06T11:23:55.681361+00:00",
-  "214d2adae0e8591c": "2026-11-06T11:23:55.681361+00:00"
+  "214d2adae0e8591c": "2026-11-06T11:23:55.681361+00:00",
+  "d7d93fdaf390d5cd": "2026-11-06T11:28:55.785965+00:00",
+  "5b5a224934af18ea": "2026-11-06T11:28:55.785965+00:00",
+  "c116061fe2a1a001": "2026-11-06T11:28:55.785965+00:00",
+  "6fe8c375a8611185": "2026-11-06T11:28:55.785965+00:00",
+  "eb55a7a660f5e797": "2026-11-06T11:28:55.785965+00:00",
+  "982240c8ecb49bd5": "2026-11-06T11:28:55.785965+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16991,9 +16997,87 @@
     "ESPN F1": "Domingo leaves Hampshire after one season as coach"
    },
    "last": "2026-11-06T11:23:57.467927+00:00"
+  },
+  "S5240": {
+   "title": "Rookies and junior drivers get FP1 outings in Brazil",
+   "first": "2026-11-06T11:29:01.994367+00:00",
+   "sources": {
+    "Formula 1": "2026-11-06T11:29:01.994383+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Which rookies are getting FP1 outings in Brazil?"
+   },
+   "last": "2026-11-06T11:29:01.994387+00:00"
+  },
+  "S5241": {
+   "title": "Piastri and paddock pay tribute to Alan Jones",
+   "first": "2026-11-06T11:29:01.994392+00:00",
+   "sources": {
+    "Formula 1": "2026-11-06T11:29:01.994395+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Piastri leads F1 community in tributes to Alan Jones"
+   },
+   "last": "2026-11-06T11:29:01.994398+00:00"
+  },
+  "S5242": {
+   "title": "FIA recognises 500 km/h record set in Abu Dhabi",
+   "first": "2026-11-06T11:29:01.994401+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-06T11:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "FIA recognises mind-blowing world record as 500 km/h barrier smashed"
+   },
+   "last": "2026-11-06T11:29:01.994407+00:00"
+  },
+  "S5243": {
+   "title": "Verstappen explains how Red Bull climbed to second in standings",
+   "first": "2026-11-06T11:29:01.994410+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-06T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen verklaart spectaculaire opmars Red Bull"
+   },
+   "last": "2026-11-06T11:29:01.994413+00:00"
+  },
+  "S5244": {
+   "title": "Hamilton set to join exclusive F1 driver club in Brazil",
+   "first": "2026-11-06T11:29:01.994416+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-06T11:24:01+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton to join exclusive F1 driver club as Alonso responds"
+   },
+   "last": "2026-11-06T11:29:01.994420+00:00"
+  },
+  "S5245": {
+   "title": "Hamilton risks Ferrari sacking amid civil war, says GPFans",
+   "first": "2026-11-06T11:29:01.994424+00:00",
+   "sources": {
+    "GPFans": "2026-11-06T11:28:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton risks Ferrari sacking as no F1 star is bigger than Maranello"
+   },
+   "last": "2026-11-06T11:29:01.994428+00:00"
   }
  },
- "story_seq": 5239,
+ "story_seq": 5245,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17112,7 +17196,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T11:23:55.681361+00:00",
+ "last_run": "2026-11-06T11:28:55.785965+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
@@ -18667,6 +18751,16 @@
    "t": "2026-11-06T11:19:06.361125+00:00",
    "title": "Liverpool'un sahibi Cadillac F1 takımına talip oluyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T11:29:09.046486+00:00",
+   "title": "Hamilton, Ferrari'de Leclerc karşısında kariyer riski taşıyor",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-06T11:29:09.430923+00:00",
+   "title": "Piastri, Alan Jones'a yapılan saygı mesajlarına öncülük etti",
+   "source": "Formula 1"
   }
  ]
 }
