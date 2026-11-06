@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "81e064b6f21ce379": "2026-10-23T17:11:50.457153+00:00",
   "21646c3e22175fa8": "2026-10-23T17:16:46.296740+00:00",
   "0867f765a0a05da1": "2026-10-23T17:16:46.296740+00:00",
   "032f09e1201f0b01": "2026-10-23T17:21:49.043302+00:00",
@@ -7707,7 +7706,13 @@
   "5775b757fe44b2eb": "2026-11-06T17:09:38.152772+00:00",
   "a9030731d324102b": "2026-11-06T17:09:38.152772+00:00",
   "e3bb15b110df1d42": "2026-11-06T17:09:38.152772+00:00",
-  "17af0c4c7abd3568": "2026-11-06T17:09:38.152772+00:00"
+  "17af0c4c7abd3568": "2026-11-06T17:09:38.152772+00:00",
+  "e6d8d5fad7f8be51": "2026-11-06T17:14:34.423371+00:00",
+  "e8867e0a1ed1bf2d": "2026-11-06T17:14:34.423371+00:00",
+  "8b6f466abc7cdccb": "2026-11-06T17:14:34.423371+00:00",
+  "7ebd0adf58702e80": "2026-11-06T17:14:34.423371+00:00",
+  "92292582c4737e31": "2026-11-06T17:14:34.423371+00:00",
+  "abd875a365393332": "2026-11-06T17:14:34.423371+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7964,32 +7969,6 @@
     "RacingNews365 NL": "Wie is Rafael Câmara? Alles over de verrassende Haas-debutant in Brazilië"
    },
    "last": "2026-11-04T19:41:51.632500+00:00"
-  },
-  "S4695": {
-   "title": "Alex Jacques analysis of Russell's season and 2027 outlook",
-   "first": "2026-11-04T17:11:19.647140+00:00",
-   "sources": {
-    "Formula 1": "2026-11-04T17:11:19.647157+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Where did it go wrong for Russell – and can he regroup for 2027?"
-   },
-   "last": "2026-11-04T17:11:19.647161+00:00"
-  },
-  "S4696": {
-   "title": "Kenny Gainwell Week 9 fantasy outlook",
-   "first": "2026-11-04T17:11:19.647168+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T16:57:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Can fantasy managers trust Kenny Gainwell in Week 9?"
-   },
-   "last": "2026-11-04T17:11:19.647174+00:00"
   },
   "S4697": {
    "title": "Warriors withholding payments to Porzingis, sources say",
@@ -15742,7 +15721,7 @@
    "titles": {
     "ESPN F1": "Boxing experts make predictions, picks for Elif Nur Turhan-Alycia Baumgardner"
    },
-   "last": "2026-11-06T12:54:57.829484+00:00"
+   "last": "2026-11-06T17:14:38.166309+00:00"
   },
   "S5272": {
    "title": "Jets trading Quinnen Williams and Sauce Gardner, a year later",
@@ -15872,7 +15851,7 @@
    "titles": {
     "ESPN F1": "Max Dowman earns first England Under-21 call-up"
    },
-   "last": "2026-11-06T13:24:37.858434+00:00"
+   "last": "2026-11-06T17:14:38.166276+00:00"
   },
   "S5282": {
    "title": "Family of Bryan Pata seeks justice 20 years after murder",
@@ -16773,9 +16752,61 @@
     "The Race": "Surprise Ducati pacesetter on Qatar MotoGP Friday"
    },
    "last": "2026-11-06T17:09:42.387251+00:00"
+  },
+  "S5348": {
+   "title": "Sunderland vs Chelsea TV channel and kick-off time",
+   "first": "2026-11-06T17:14:38.166286+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T17:08:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sunderland vs Chelsea: TV channel, kick-off time (Sun Nov 8)"
+   },
+   "last": "2026-11-06T17:14:38.166293+00:00"
+  },
+  "S5349": {
+   "title": "Newcastle's Amar Dedic police action after bow and arrow sighting",
+   "first": "2026-11-06T17:14:38.166298+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T13:49:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Newcastle's Amar Dedic prompts police action after bow and arrow sighting"
+   },
+   "last": "2026-11-06T17:14:38.166302+00:00"
+  },
+  "S5350": {
+   "title": "Yankees and Mets winter goals for 2027",
+   "first": "2026-11-06T17:14:38.166312+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What Yankees, Mets can do this winter to meet their 2027 goals"
+   },
+   "last": "2026-11-06T17:14:38.166317+00:00"
+  },
+  "S5351": {
+   "title": "MotoGP Qatar practice results with Martin seventh and Marquez denied first",
+   "first": "2026-11-06T17:14:38.166320+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T17:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "MotoGP Practice Results | Injured Martin stuns, Marquez denied 1st"
+   },
+   "last": "2026-11-06T17:14:38.166323+00:00"
   }
  },
- "story_seq": 5347,
+ "story_seq": 5351,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16894,7 +16925,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T17:09:38.152772+00:00",
+ "last_run": "2026-11-06T17:14:34.423371+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
