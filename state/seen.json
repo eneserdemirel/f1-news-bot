@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f2b75c8a6abda52c": "2026-10-23T08:40:25.549232+00:00",
-  "5aa8da08554da095": "2026-10-23T08:40:25.549232+00:00",
   "8a036a3cf6bd4760": "2026-10-23T08:51:08.832661+00:00",
   "4a0f8811792897a2": "2026-10-23T08:51:08.832661+00:00",
   "b165b7bebd443af5": "2026-10-23T08:51:08.832661+00:00",
@@ -7621,7 +7619,10 @@
   "3c5c3fc5592bd710": "2026-11-06T08:28:55.965853+00:00",
   "bc35c0b6fbf155f2": "2026-11-06T08:39:04.836077+00:00",
   "fa5fe67dd8bed9a9": "2026-11-06T08:39:04.836077+00:00",
-  "3a208d3b37e645fa": "2026-11-06T08:39:04.836077+00:00"
+  "3a208d3b37e645fa": "2026-11-06T08:39:04.836077+00:00",
+  "a03d124bb3c7d4e5": "2026-11-06T08:49:05.576556+00:00",
+  "e85b63d8a10aa2e5": "2026-11-06T08:49:05.576556+00:00",
+  "b529d34c368e2753": "2026-11-06T08:49:05.576556+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7900,19 +7901,6 @@
     "ESPN F1": "Temwa Chawinga and Tabitha Chawinga lit up NWSL and UEFA Women's Champions League in October"
    },
    "last": "2026-11-04T08:50:50.800049+00:00"
-  },
-  "S4558": {
-   "title": "Verstappen publicly backs Red Bull boss Laurent Mekies",
-   "first": "2026-11-04T08:40:46.788029+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-04T08:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen spreekt duidelijke steun uit voor Mekies"
-   },
-   "last": "2026-11-04T08:40:46.788034+00:00"
   },
   "S4559": {
    "title": "Harry Kane misses Ronaldo's Champions League scoring streak record",
@@ -16426,9 +16414,48 @@
     "ESPN F1": "Valtteri Bottas 'surprised' by whispers of Cadillac exit"
    },
    "last": "2026-11-06T08:39:08.078995+00:00"
+  },
+  "S5194": {
+   "title": "Piastri names Red Bull as 2026 development benchmark",
+   "first": "2026-11-06T08:49:08.366447+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-06T08:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Piastri plakt eervol stempel op Red Bull"
+   },
+   "last": "2026-11-06T08:49:08.366467+00:00"
+  },
+  "S5195": {
+   "title": "Bottas comments on Hamilton-Leclerc Ferrari tension",
+   "first": "2026-11-06T08:49:08.366473+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-06T08:40:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton and Charles Leclerc Ferrari tension addressed by Bottas"
+   },
+   "last": "2026-11-06T08:49:08.366479+00:00"
+  },
+  "S5196": {
+   "title": "Spanish GP reportedly moving to night start, track confirms plans",
+   "first": "2026-11-06T08:49:08.366482+00:00",
+   "sources": {
+    "GPFans": "2026-11-06T08:43:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 track confirms future plans after major shakeup reports and heavy criticism"
+   },
+   "last": "2026-11-06T08:49:08.366486+00:00"
   }
  },
- "story_seq": 5193,
+ "story_seq": 5196,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16547,27 +16574,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T08:39:04.836077+00:00",
+ "last_run": "2026-11-06T08:49:05.576556+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T08:46:39.519246+00:00",
-   "title": "Meksika GP'de hız sınırı sollamayı engelledi, Hamilton ve Norris tepki gösterdi",
-   "source": "The Race"
-  },
-  {
-   "t": "2026-11-03T08:46:39.855892+00:00",
-   "title": "Rosberg: Kimi'yi 11 yaşından beri tanıyorum, Hamilton'a benziyor",
-   "source": "Gazzetta dello Sport"
-  },
-  {
-   "t": "2026-11-03T08:46:40.186365+00:00",
-   "title": "Honda, Aston Martin'in Meksika GP'deki sorununu kabul etti",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-03T08:56:27.337784+00:00",
    "title": "Vanzini: Antonelli'den hastalığımda çok güç aldım, Kimi'yi Sinner'a benzettim",
@@ -18077,6 +18089,21 @@
    "t": "2026-11-06T08:19:02.636417+00:00",
    "title": "Ollie Bearman, takım arkadaşı Rafa Camara'yı karşılıyor",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-06T08:49:13.386473+00:00",
+   "title": "Piastri, Red Bull'u gelişim konusunda ölçüt olarak gösterdi",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-06T08:49:13.774032+00:00",
+   "title": "Bottas: Hamilton ile Leclerc arasındaki gerginlik normal",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-06T08:49:14.149615+00:00",
+   "title": "Madring'de 2027 için değişiklik beklentisi; gece yarışı iddiası yalanlandı",
+   "source": "GPFans"
   }
  ]
 }
