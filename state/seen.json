@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a49d79a45e352a7e": "2026-10-23T11:11:09.940559+00:00",
-  "be72d057234a94b7": "2026-10-23T11:11:09.940559+00:00",
-  "dea5fcd8e3d408a9": "2026-10-23T11:11:09.940559+00:00",
-  "a99133480d2e1c84": "2026-10-23T11:11:09.940559+00:00",
   "f9692d1359ea23f4": "2026-10-23T11:21:08.777608+00:00",
   "3145675e98689508": "2026-10-23T11:21:08.777608+00:00",
   "35d8629b90b02c7e": "2026-10-23T11:21:08.777608+00:00",
@@ -7665,7 +7661,10 @@
   "fa6b4196206433e0": "2026-11-06T11:03:55.424891+00:00",
   "c11c9779ac4e7789": "2026-11-06T11:03:55.424891+00:00",
   "1a51f8f402ec2467": "2026-11-06T11:03:55.424891+00:00",
-  "dcf9d16b3b127dc6": "2026-11-06T11:08:57.799403+00:00"
+  "dcf9d16b3b127dc6": "2026-11-06T11:08:57.799403+00:00",
+  "576dc4bbd72ecd4d": "2026-11-06T11:13:55.557075+00:00",
+  "6d8474ee009f4857": "2026-11-06T11:13:55.557075+00:00",
+  "e1ace2faad1687d2": "2026-11-06T11:13:55.557075+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14476,7 +14475,8 @@
     "The Race": "2026-11-05T19:48:42+00:00",
     "GPblog": "2026-11-06T08:30:00+00:00",
     "Motorsport.com Italia": "2026-11-06T08:48:30+00:00",
-    "FormulaPassion": "2026-11-06T09:00:00+00:00"
+    "FormulaPassion": "2026-11-06T09:00:00+00:00",
+    "Autosport": "2026-11-06T11:09:53+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14484,9 +14484,10 @@
     "The Race": "Ferrari drivers set for crunch meeting in Brazil",
     "GPblog": "Fred Vasseur is set for clear-the-air talks between his two Ferrari drivers in Sao Paulo today",
     "Motorsport.com Italia": "Ferrari, il caso Hamilton-Leclerc arriva a Interlagos: ora tocca a Vasseur risolvere la questione",
-    "FormulaPassion": "Oggi in Brasile riunione tra Vasseur, Leclerc e Hamilton, Lewis: “Non risolveremo tutto, ma è un incontro importante”"
+    "FormulaPassion": "Oggi in Brasile riunione tra Vasseur, Leclerc e Hamilton, Lewis: “Non risolveremo tutto, ma è un incontro importante”",
+    "Autosport": "Ferrari set for crunch meeting as Hamilton and Leclerc tension reaches Brazil"
    },
-   "last": "2026-11-06T10:19:22.616062+00:00"
+   "last": "2026-11-06T11:13:59.209648+00:00"
   },
   "S5052": {
    "title": "Verstappen relaxed about Red Bull shifting and radio problems",
@@ -16571,15 +16572,17 @@
    "first": "2026-11-06T09:39:00.128870+00:00",
    "sources": {
     "RacingNews365 NL": "2026-11-06T09:35:00+00:00",
-    "RacingNews365": "2026-11-06T09:40:00+00:00"
+    "RacingNews365": "2026-11-06T09:40:00+00:00",
+    "The Race": "2026-11-06T11:13:39+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "George Russell ontvangt gridstraf voor GP Brazilië",
-    "RacingNews365": "George Russell eyes Lewis Hamilton heroics as Brazil grid penalty confirmed"
+    "RacingNews365": "George Russell eyes Lewis Hamilton heroics as Brazil grid penalty confirmed",
+    "The Race": "Russell serving another F1 engine grid penalty in Brazil"
    },
-   "last": "2026-11-06T09:48:58.712812+00:00"
+   "last": "2026-11-06T11:13:59.209636+00:00"
   },
   "S5209": {
    "title": "Brazilian GP 2026 start time, TV channels and live streams",
@@ -16918,9 +16921,22 @@
     "ESPN F1": "Louka Cloutier makes beautiful save"
    },
    "last": "2026-11-06T11:03:58.493606+00:00"
+  },
+  "S5235": {
+   "title": "Wolff's internal email thanking Mercedes team and Russell",
+   "first": "2026-11-06T11:13:59.209652+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-06T11:05:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Interne E-Mail: So emotional dankt Wolff seinem Team – und George Russell"
+   },
+   "last": "2026-11-06T11:13:59.209658+00:00"
   }
  },
- "story_seq": 5234,
+ "story_seq": 5235,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17039,7 +17055,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T11:08:57.799403+00:00",
+ "last_run": "2026-11-06T11:13:55.557075+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
