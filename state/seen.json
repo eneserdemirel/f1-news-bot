@@ -7759,7 +7759,8 @@
   "12773a3cd92d956a": "2026-11-06T22:45:24.785297+00:00",
   "d0200b476bf7c2b0": "2026-11-06T22:45:24.785297+00:00",
   "9720327fbc0c788b": "2026-11-06T22:45:24.785297+00:00",
-  "1717b07b29270e8d": "2026-11-06T22:50:19.008910+00:00"
+  "1717b07b29270e8d": "2026-11-06T22:50:19.008910+00:00",
+  "560f7c5efa3ccba8": "2026-11-06T22:55:17.436854+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17391,9 +17392,22 @@
     "Formula 1": "What the teams said – Friday in Brazil"
    },
    "last": "2026-11-06T22:45:28.722451+00:00"
+  },
+  "S5463": {
+   "title": "Wolff sees Ferrari déjà vu and says escalation is sometimes needed",
+   "first": "2026-11-06T22:55:19.431328+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T22:48:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Toto Wolff und das Deja-vu bei Ferrari: Eskalation ist manchmal notwendig! - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T22:55:19.431345+00:00"
   }
  },
- "story_seq": 5462,
+ "story_seq": 5463,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17512,7 +17526,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-06T22:50:19.008910+00:00",
+ "last_run": "2026-11-06T22:55:17.436854+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19137,6 +19151,11 @@
    "t": "2026-11-06T22:45:35.605413+00:00",
    "title": "Brezilya'da Cuma antrenmanları: takımlar ne dedi?",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-06T22:55:22.750231+00:00",
+   "title": "Toto Wolff: Ferrari'deki tabloya dair eskalasyon bazen gerekli",
+   "source": "Motorsport-Total"
   }
  ]
 }
