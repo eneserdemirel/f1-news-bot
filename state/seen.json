@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "84a16e909856fc1d": "2026-10-23T13:41:07.889834+00:00",
-  "7761c5de9bb0c1b4": "2026-10-23T13:41:07.889834+00:00",
-  "ee13f63890af3c69": "2026-10-23T13:41:07.889834+00:00",
-  "38cd5e82fe9c6df1": "2026-10-23T13:41:07.889834+00:00",
   "07a8abaf59ce7511": "2026-10-23T13:46:04.307896+00:00",
   "97f6ef8175284236": "2026-10-23T13:46:04.307896+00:00",
   "cb399a856d1d7781": "2026-10-23T13:46:04.307896+00:00",
@@ -7673,7 +7669,13 @@
   "28c59395bc492294": "2026-11-06T13:29:36.295704+00:00",
   "f56058989f83bb5a": "2026-11-06T13:29:36.295704+00:00",
   "06c6890d727fd9e7": "2026-11-06T13:29:36.295704+00:00",
-  "286233a73c484726": "2026-11-06T13:39:33.143874+00:00"
+  "286233a73c484726": "2026-11-06T13:39:33.143874+00:00",
+  "2aea755bea9ffc70": "2026-11-06T13:44:38.427013+00:00",
+  "e446caf42e5214a3": "2026-11-06T13:44:38.427013+00:00",
+  "d92c2a2526c6dee6": "2026-11-06T13:44:38.427013+00:00",
+  "86718fcbec8dc7a0": "2026-11-06T13:44:38.427013+00:00",
+  "c7ae818a47231ef7": "2026-11-06T13:44:38.427013+00:00",
+  "7e04d84f7112f03e": "2026-11-06T13:44:38.427013+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7927,21 +7929,6 @@
    },
    "last": "2026-11-04T17:01:23.013447+00:00"
   },
-  "S4582": {
-   "title": "Mercedes takes blame for Russell's Mexico GP",
-   "first": "2026-11-04T11:32:15.101453+00:00",
-   "sources": {
-    "Autosport": "2026-11-04T10:00:55+00:00",
-    "GPblog": "2026-11-04T13:31:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "Mercedes takes blame for Russell's poor Mexico GP: \"We let him down\"",
-    "GPblog": "Mercedes admits 'we let Russell down' as deployment issues resurface"
-   },
-   "last": "2026-11-04T13:41:19.292639+00:00"
-  },
   "S4585": {
    "title": "Pirelli brings softer compounds and resurfacing to Interlagos",
    "first": "2026-11-04T11:32:15.101475+00:00",
@@ -7986,19 +7973,6 @@
     "ESPN F1": "Power ranking the top men's college basketball conferences for 2026-27"
    },
    "last": "2026-11-04T15:11:22.506084+00:00"
-  },
-  "S4608": {
-   "title": "NBA power rankings summing up all 30 teams",
-   "first": "2026-11-04T12:41:31.896967+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T11:45:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NBA Power Rankings: Summing up all 30 teams' starts"
-   },
-   "last": "2026-11-04T13:41:19.292615+00:00"
   },
   "S4615": {
    "title": "Leaked photos suggest Verstappen Adidas deal with Red Bull",
@@ -8096,32 +8070,6 @@
     "ESPN F1": "Source: Commanders lose another DL with Kinlaw out for season after knee surgery"
    },
    "last": "2026-11-04T16:01:24.313180+00:00"
-  },
-  "S4636": {
-   "title": "Gary Kubiak's sons follow him into the NFL",
-   "first": "2026-11-04T13:41:19.292620+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T11:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "How Gary Kubiak paved the way for his sons, Klint, Klay and Klein, in the NFL"
-   },
-   "last": "2026-11-04T13:41:19.292625+00:00"
-  },
-  "S4637": {
-   "title": "Verstappen says Red Bull has surprised him this season",
-   "first": "2026-11-04T13:41:19.292629+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-04T13:35:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen verrast door Red Bull: \"Nooit verwacht dit seizoen\""
-   },
-   "last": "2026-11-04T13:41:19.292634+00:00"
   },
   "S4638": {
    "title": "How to stream Sao Paulo GP on F1 TV Premium",
@@ -14296,15 +14244,21 @@
    "first": "2026-11-05T22:26:12.848064+00:00",
    "sources": {
     "Formula 1": "2026-11-05T22:26:12.848080+00:00",
-    "GPblog": "2026-11-06T11:45:00+00:00"
+    "GPblog": "2026-11-06T11:45:00+00:00",
+    "RacingNews365": "2026-11-06T13:38:00+00:00",
+    "RacingNews365 NL": "2026-11-06T13:40:00+00:00",
+    "PlanetF1": "2026-11-06T13:41:03+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Norris wary of new McLaren upgrades in Sao Paulo",
-    "GPblog": "Norris warns McLaren upgrades could make ‘horrible’ car even harder to drive"
+    "GPblog": "Norris warns McLaren upgrades could make ‘horrible’ car even harder to drive",
+    "RacingNews365": "McLaren unleash latest F1 upgrades in rare Sao Paulo GP situation",
+    "RacingNews365 NL": "McLaren uit de pas met upgrades voor GP Brazilië",
+    "PlanetF1": "McLaren alone in bringing upgrades to F1 Brazilian GP"
    },
-   "last": "2026-11-06T13:29:41.041201+00:00"
+   "last": "2026-11-06T13:44:45.917950+00:00"
   },
   "S5097": {
    "title": "Concacaf announces new Gold Cup format from 2027",
@@ -16793,14 +16747,14 @@
    "title": "Mourinho warns Vinicius over guaranteed Real Madrid start",
    "first": "2026-11-06T13:29:41.041158+00:00",
    "sources": {
-    "ESPN F1": "2026-11-06T13:21:26+00:00"
+    "ESPN F1": "2026-11-06T13:16:49+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Mourinho warns Vinícius he is not a guaranteed Real Madrid start"
    },
-   "last": "2026-11-06T13:29:41.041174+00:00"
+   "last": "2026-11-06T13:44:45.917927+00:00"
   },
   "S5285": {
    "title": "Sainz on Ferrari pressure behind Hamilton-Leclerc rivalry",
@@ -16827,9 +16781,35 @@
     "ESPN F1": "Mount Roskill: it's a taste of South Asia (via China)"
    },
    "last": "2026-11-06T13:39:35.551242+00:00"
+  },
+  "S5287": {
+   "title": "Luna Fluxa earns F1 Academy Las Vegas invitation",
+   "first": "2026-11-06T13:44:45.917955+00:00",
+   "sources": {
+    "AS": "2026-11-06T13:32:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "Luna Fluxa cierra el año en la F1 Academy"
+   },
+   "last": "2026-11-06T13:44:45.917960+00:00"
+  },
+  "S5288": {
+   "title": "Carlos Sainz co-drives Ford Puma at Rally de Asturias",
+   "first": "2026-11-06T13:44:45.917964+00:00",
+   "sources": {
+    "AS": "2026-11-06T12:17:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "El penúltimo baile con Carlos Sainz"
+   },
+   "last": "2026-11-06T13:44:45.917969+00:00"
   }
  },
- "story_seq": 5286,
+ "story_seq": 5288,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16948,7 +16928,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T13:39:33.143874+00:00",
+ "last_run": "2026-11-06T13:44:38.427013+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18483,6 +18463,11 @@
    "t": "2026-11-06T13:29:47.320252+00:00",
    "title": "McLaren, Brezilya GP için kapsamlı aerodinamik paket getirdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T13:44:51.904752+00:00",
+   "title": "McLaren, Sao Paulo GP'de tek takım olarak yeni parça getiriyor",
+   "source": "RacingNews365"
   }
  ]
 }
