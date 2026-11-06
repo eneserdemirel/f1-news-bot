@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "65d93f489ddb7f8f": "2026-10-23T15:41:48.066124+00:00",
-  "59fa9eba57e102c0": "2026-10-23T15:41:48.066124+00:00",
-  "527ec1211c32435b": "2026-10-23T15:41:48.066124+00:00",
-  "0409f8fef9452924": "2026-10-23T15:41:48.066124+00:00",
   "9e393d9f731c22ae": "2026-10-23T15:46:43.423718+00:00",
   "ef2f9b2808af7aee": "2026-10-23T15:46:43.423718+00:00",
   "55875b60593c1f80": "2026-10-23T15:46:43.423718+00:00",
@@ -7683,7 +7679,10 @@
   "7251f4ec16fe9008": "2026-11-06T15:29:35.998654+00:00",
   "b38c30a5986929de": "2026-11-06T15:34:34.676020+00:00",
   "e53550a7548f7ec8": "2026-11-06T15:34:34.676020+00:00",
-  "5132e504792512b4": "2026-11-06T15:39:37.214814+00:00"
+  "5132e504792512b4": "2026-11-06T15:39:37.214814+00:00",
+  "3f73d78b4a0331b6": "2026-11-06T15:44:37.738436+00:00",
+  "0f2674e6bc01aebf": "2026-11-06T15:44:37.738436+00:00",
+  "1bfe0805f9ecc1f3": "2026-11-06T15:44:37.738436+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7966,19 +7965,6 @@
    },
    "last": "2026-11-04T16:01:24.313180+00:00"
   },
-  "S4642": {
-   "title": "JJ Gabriel close to joining Real Madrid",
-   "first": "2026-11-04T13:51:22.971444+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T10:54:05+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "JJ Gabriel close to joining Real Madrid - sources"
-   },
-   "last": "2026-11-04T15:41:20.723867+00:00"
-  },
   "S4650": {
    "title": "Norris calls Antonelli's title success 'insane'",
    "first": "2026-11-04T14:11:22.432559+00:00",
@@ -8116,19 +8102,6 @@
     "RacingNews365 NL": "Mercedes W17: het technische geheim achter de wereldtitel van Kimi Antonelli"
    },
    "last": "2026-11-04T19:41:51.632505+00:00"
-  },
-  "S4674": {
-   "title": "Hadjar says Russell clash completely ruined his Mexico race",
-   "first": "2026-11-04T15:41:20.723896+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-04T15:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Isack Hadjar laments George Russell F1 Mexico GP clash: ‘This completely ruined my race.’"
-   },
-   "last": "2026-11-04T15:41:20.723902+00:00"
   },
   "S4675": {
    "title": "Rennes vs Olympiacos team stats",
@@ -15299,7 +15272,8 @@
     "GPblog": "2026-11-06T10:56:00+00:00",
     "Sky Sports F1": "2026-11-06T13:07:00+00:00",
     "Formula 1": "2026-11-06T15:14:39.560678+00:00",
-    "Crash.net": "2026-11-06T15:25:26+00:00"
+    "Crash.net": "2026-11-06T15:25:26+00:00",
+    "Autosport": "2026-11-06T15:37:02+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15310,9 +15284,10 @@
     "GPblog": "Russell confirms grid penalty for Mercedes at the Brazilian Grand Prix",
     "Sky Sports F1": "Russell to take grid penalty at Sao Paulo GP",
     "Formula 1": "Russell set for grid penalty at Sao Paulo Grand Prix",
-    "Crash.net": "George Russell to take F1 grid penalty at Brazil GP"
+    "Crash.net": "George Russell to take F1 grid penalty at Brazil GP",
+    "Autosport": "\"Exhausted\" Russell set for Brazilian F1 grid penalty"
    },
-   "last": "2026-11-06T15:29:37.408646+00:00"
+   "last": "2026-11-06T15:44:40.843393+00:00"
   },
   "S5209": {
    "title": "Brazilian GP 2026 start time, TV channels and live streams",
@@ -16411,15 +16386,17 @@
    "first": "2026-11-06T14:04:40.051004+00:00",
    "sources": {
     "GPblog": "2026-11-06T14:02:00+00:00",
-    "RacingNews365": "2026-11-06T15:30:00+00:00"
+    "RacingNews365": "2026-11-06T15:30:00+00:00",
+    "Crash.net": "2026-11-06T15:43:26+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Ferrari handed clear ultimatum over driver hierarchy: 'Make Hamilton #1 driver'",
-    "RacingNews365": "Damon Hill offers Ferrari simple Hamilton-Leclerc solution: 'Ends all debate'"
+    "RacingNews365": "Damon Hill offers Ferrari simple Hamilton-Leclerc solution: 'Ends all debate'",
+    "Crash.net": "Damon Hill offers Ferrari solution to Lewis Hamilton, Charles Leclerc tension"
    },
-   "last": "2026-11-06T15:34:36.994297+00:00"
+   "last": "2026-11-06T15:44:40.843400+00:00"
   },
   "S5292": {
    "title": "Caroline Dubois and Stephanie Han set three-belt boxing bout",
@@ -16720,7 +16697,7 @@
    "titles": {
     "ESPN F1": "Iraola not panicking after consecutive Liverpool defeats"
    },
-   "last": "2026-11-06T15:19:40.269576+00:00"
+   "last": "2026-11-06T15:44:40.843380+00:00"
   },
   "S5315": {
    "title": "WEC Monza Free Practice 2 results: Ferrari leads in dry",
@@ -16894,7 +16871,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T15:39:37.214814+00:00",
+ "last_run": "2026-11-06T15:44:37.738436+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
