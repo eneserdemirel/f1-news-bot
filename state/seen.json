@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "43f4287ab213864b": "2026-10-23T22:42:23.609534+00:00",
-  "4c3186af98fa2ff7": "2026-10-23T22:42:23.609534+00:00",
-  "fc3b530f8e7239f1": "2026-10-23T22:42:23.609534+00:00",
-  "34d74697a4ad5ef4": "2026-10-23T22:42:23.609534+00:00",
-  "e0076b01011070ec": "2026-10-23T22:42:23.609534+00:00",
-  "10778866bfc1edb2": "2026-10-23T22:42:23.609534+00:00",
   "7522a7123cf4302c": "2026-10-23T22:47:27.920425+00:00",
   "2cad0c5445b954e4": "2026-10-23T22:47:27.920425+00:00",
   "95b5ac4409e6b9f6": "2026-10-23T22:57:27.552499+00:00",
@@ -7763,7 +7757,10 @@
   "5eef1834cabf4bd5": "2026-11-06T22:35:17.688766+00:00",
   "ab5ef4ca6e3d9d08": "2026-11-06T22:35:17.688766+00:00",
   "604a479411c1daf8": "2026-11-06T22:40:15.818115+00:00",
-  "269ea0c163dfbe2b": "2026-11-06T22:40:15.818115+00:00"
+  "269ea0c163dfbe2b": "2026-11-06T22:40:15.818115+00:00",
+  "12773a3cd92d956a": "2026-11-06T22:45:24.785297+00:00",
+  "d0200b476bf7c2b0": "2026-11-06T22:45:24.785297+00:00",
+  "9720327fbc0c788b": "2026-11-06T22:45:24.785297+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17126,7 +17123,7 @@
    "titles": {
     "Gazzetta dello Sport": "F1, GP Brasile: highlights prove libere. Antonelli e Norris si dividono le sessioni"
    },
-   "last": "2026-11-06T21:25:27.322597+00:00"
+   "last": "2026-11-06T22:45:28.722459+00:00"
   },
   "S5443": {
    "title": "Crystal Palace vs Liverpool TV channel and kick-off time",
@@ -17367,9 +17364,35 @@
     "ESPN F1": "Warriors' Kristaps Porzingis to 'step away,' prioritize health"
    },
    "last": "2026-11-06T22:40:17.405159+00:00"
+  },
+  "S5461": {
+   "title": "Red Bull looking into changes after Verstappen's Brazil practice problems",
+   "first": "2026-11-06T22:45:28.722421+00:00",
+   "sources": {
+    "Formula 1": "2026-11-06T22:45:28.722435+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Red Bull ‘looking into quite a few changes’ for Verstappen"
+   },
+   "last": "2026-11-06T22:45:28.722439+00:00"
+  },
+  "S5462": {
+   "title": "Teams and drivers report back from Friday practice in Brazil",
+   "first": "2026-11-06T22:45:28.722445+00:00",
+   "sources": {
+    "Formula 1": "2026-11-06T22:45:28.722448+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What the teams said – Friday in Brazil"
+   },
+   "last": "2026-11-06T22:45:28.722451+00:00"
   }
  },
- "story_seq": 5460,
+ "story_seq": 5462,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17488,7 +17511,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T22:40:15.818115+00:00",
+ "last_run": "2026-11-06T22:45:24.785297+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19108,6 +19131,11 @@
    "t": "2026-11-06T22:15:25.033318+00:00",
    "title": "Leclerc: Hamilton ile Ferrari'deki gerginlik \"çözüldü\"",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-06T22:45:35.605413+00:00",
+   "title": "Brezilya'da Cuma antrenmanları: takımlar ne dedi?",
+   "source": "Formula 1"
   }
  ]
 }
