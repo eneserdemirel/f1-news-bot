@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6a0f1a0e61cd5f36": "2026-10-23T19:01:46.460674+00:00",
-  "46c06c145f77b916": "2026-10-23T19:01:46.460674+00:00",
-  "c35de70e0de9b8f6": "2026-10-23T19:01:46.460674+00:00",
-  "cc0db3b5bd3c77b8": "2026-10-23T19:01:46.460674+00:00",
-  "80b40f4158f0ec24": "2026-10-23T19:01:46.460674+00:00",
   "7f74d4504e53c936": "2026-10-23T19:06:56.264456+00:00",
   "c06aeb824c136580": "2026-10-23T19:06:56.264456+00:00",
   "913f2a772b3cff1d": "2026-10-23T19:06:56.264456+00:00",
@@ -7716,7 +7711,11 @@
   "f75c40f69e95f467": "2026-11-06T18:55:14.720695+00:00",
   "866bd579a649370b": "2026-11-06T19:00:17.687678+00:00",
   "15f0d7567c26ff43": "2026-11-06T19:00:17.687678+00:00",
-  "d509373224c4c97e": "2026-11-06T19:00:17.687678+00:00"
+  "d509373224c4c97e": "2026-11-06T19:00:17.687678+00:00",
+  "f944023919b9aaaa": "2026-11-06T19:05:15.359688+00:00",
+  "ff3ac7fa6d0090a6": "2026-11-06T19:05:15.359688+00:00",
+  "6a2d72d53d233492": "2026-11-06T19:05:15.359688+00:00",
+  "f5a10995c4a1a746": "2026-11-06T19:05:15.359688+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8037,19 +8036,6 @@
    },
    "last": "2026-11-04T21:51:54.896476+00:00"
   },
-  "S4722": {
-   "title": "NBA fantasy basketball picks and betting tips",
-   "first": "2026-11-04T19:01:58.340582+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T18:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wednesday's fantasy hoops adds, NBA bets to make: Jerome, Maxey bets stand out"
-   },
-   "last": "2026-11-04T19:01:58.340598+00:00"
-  },
   "S4723": {
    "title": "Fans see Liam Lawson as option for Cadillac F1 seat",
    "first": "2026-11-04T19:01:58.340602+00:00",
@@ -8062,19 +8048,6 @@
     "RacingNews365": "Liam Lawson handed lopsided Cadillac backing for F1 future"
    },
    "last": "2026-11-04T19:41:51.632476+00:00"
-  },
-  "S4724": {
-   "title": "Hamilton calls 2026 engine profile worst ever, seeks FIA action",
-   "first": "2026-11-04T19:01:58.340610+00:00",
-   "sources": {
-    "GPblog": "2026-11-04T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Lewis Hamilton makes FIA demand after Max Verstappen discussion in Mexico"
-   },
-   "last": "2026-11-04T19:01:58.340613+00:00"
   },
   "S4725": {
    "title": "Hamilton social media statement aimed at Leclerc after Mexico",
@@ -14563,7 +14536,7 @@
    "titles": {
     "Motorsport-Total": "- Motorsport-Total.com"
    },
-   "last": "2026-11-06T09:28:59.505211+00:00"
+   "last": "2026-11-06T19:05:18.894339+00:00"
   },
   "S5206": {
    "title": "Marquez says Antonelli's youth helps him handle pressure",
@@ -17003,9 +16976,48 @@
     "ESPN F1": "What to know ahead of the inaugural WTGL season"
    },
    "last": "2026-11-06T19:00:20.183008+00:00"
+  },
+  "S5385": {
+   "title": "Antonio Brown pleads guilty to lesser charge in shooting case",
+   "first": "2026-11-06T19:05:18.894302+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T17:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Antonio Brown pleads guilty to lesser charge, gets probation in shooting case"
+   },
+   "last": "2026-11-06T19:05:18.894319+00:00"
+  },
+  "S5386": {
+   "title": "Toto Wolff comments on Esteban Ocon's axe from Haas",
+   "first": "2026-11-06T19:05:18.894325+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-06T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff offers first insight into Esteban Ocon axe from Haas"
+   },
+   "last": "2026-11-06T19:05:18.894331+00:00"
+  },
+  "S5387": {
+   "title": "Auto Motor und Sport asks if F1 is tempting fate",
+   "first": "2026-11-06T19:05:18.894343+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-06T18:57:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Fordert die Formel 1 das Schicksal heraus?"
+   },
+   "last": "2026-11-06T19:05:18.894356+00:00"
   }
  },
- "story_seq": 5384,
+ "story_seq": 5387,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17124,7 +17136,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T19:00:17.687678+00:00",
+ "last_run": "2026-11-06T19:05:15.359688+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -18669,6 +18681,16 @@
    "t": "2026-11-06T18:50:29.637263+00:00",
    "title": "McLaren, Interlagos'ta yeni kanatla akımın tersine gidiyor",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-06T19:05:24.353476+00:00",
+   "title": "Formula 1 kaderi mi zorluyor?",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-06T19:05:24.960424+00:00",
+   "title": "Wolff, Ocon'un Haas'tan çıkarılmasına ilk kez ışık tuttu",
+   "source": "RacingNews365"
   }
  ]
 }
