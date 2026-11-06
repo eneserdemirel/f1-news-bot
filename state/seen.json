@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2ade820fff05741b": "2026-10-23T21:02:26.378167+00:00",
-  "f2feb4b45a4d76f0": "2026-10-23T21:02:26.378167+00:00",
   "14faa059acc73868": "2026-10-23T21:07:24.048651+00:00",
   "318f80a8d527b35c": "2026-10-23T21:12:27.576036+00:00",
   "68ccf296ab74b411": "2026-10-23T21:12:27.576036+00:00",
@@ -7765,7 +7763,10 @@
   "ecf312f6d43972f5": "2026-11-06T20:55:16.331542+00:00",
   "269c8b85a7d0ea13": "2026-11-06T20:55:16.331542+00:00",
   "1d117ba2d21f3a92": "2026-11-06T21:00:18.118022+00:00",
-  "1ddb47fa4de44a3e": "2026-11-06T21:00:18.118022+00:00"
+  "1ddb47fa4de44a3e": "2026-11-06T21:00:18.118022+00:00",
+  "c243ea4d59323962": "2026-11-06T21:05:15.343293+00:00",
+  "4163a448fbf9098c": "2026-11-06T21:05:15.343293+00:00",
+  "54f6b976c6ae360c": "2026-11-06T21:05:15.343293+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8053,58 +8054,6 @@
     "ESPN F1": "Sources - Ravens finalizing trade with Cardinals for QB Brissett"
    },
    "last": "2026-11-05T00:22:40.880769+00:00"
-  },
-  "S4753": {
-   "title": "Guardians' Clase and Ortiz called cheaters at pitch-rigging trial",
-   "first": "2026-11-04T21:02:02.448756+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T20:34:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Guardians' Clase, Ortiz described as 'cheaters' at pitch-rigging trial"
-   },
-   "last": "2026-11-04T21:02:02.448778+00:00"
-  },
-  "S4754": {
-   "title": "Jack Doohan ruled out of Haas F1 return at Sao Paulo",
-   "first": "2026-11-04T21:02:02.448783+00:00",
-   "sources": {
-    "GPblog": "2026-11-04T21:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Jack Doohan ruled out of Haas F1 opportunity despite Camara uncertainty"
-   },
-   "last": "2026-11-04T21:02:02.448787+00:00"
-  },
-  "S4755": {
-   "title": "Ferrari CEO Vigna defends not signing Antonelli",
-   "first": "2026-11-04T21:02:02.448790+00:00",
-   "sources": {
-    "GPFans": "2026-11-04T20:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Kimi Antonelli snubbed by Ferrari? CEO delivers blunt response after stunning world title win"
-   },
-   "last": "2026-11-04T21:02:02.448794+00:00"
-  },
-  "S4756": {
-   "title": "Honda checks engines; Orihara warns Brazil altitude could repeat problem",
-   "first": "2026-11-04T21:02:02.448796+00:00",
-   "sources": {
-    "AS": "2026-11-04T20:54:08+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Honda se teme lo peor"
-   },
-   "last": "2026-11-04T21:02:02.448799+00:00"
   },
   "S4757": {
    "title": "Seahawks QB Sam Darnold ruled out with quad injury",
@@ -17298,14 +17247,14 @@
    "title": "Knicks appreciative of Taylor Swift after fandom question",
    "first": "2026-11-06T20:50:24.396860+00:00",
    "sources": {
-    "ESPN F1": "2026-11-06T20:17:00+00:00"
+    "ESPN F1": "2026-11-06T20:06:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Knicks 'appreciative' of Taylor Swift after Kolek, McBride question fandom"
    },
-   "last": "2026-11-06T20:50:24.396879+00:00"
+   "last": "2026-11-06T21:05:19.867663+00:00"
   },
   "S5434": {
    "title": "Verstappen ended Brazil FP2 early due to Red Bull problems",
@@ -17345,9 +17294,35 @@
     "ESPN F1": "Sources: SEC considering luxury tax for excessive spending on players"
    },
    "last": "2026-11-06T21:00:20.248227+00:00"
+  },
+  "S5437": {
+   "title": "Antonelli names major challenge facing F1 drivers at Sao Paulo",
+   "first": "2026-11-06T21:05:19.867674+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-06T21:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli names major challenge facing every F1 driver at Sao Paulo GP"
+   },
+   "last": "2026-11-06T21:05:19.867680+00:00"
+  },
+  "S5438": {
+   "title": "Verstappen fumes at unacceptable Red Bull issues in Brazil practice",
+   "first": "2026-11-06T21:05:19.867685+00:00",
+   "sources": {
+    "Crash.net": "2026-11-06T21:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Max Verstappen fumes at “unacceptable” issues during Brazil GP practice"
+   },
+   "last": "2026-11-06T21:05:19.867690+00:00"
   }
  },
- "story_seq": 5436,
+ "story_seq": 5438,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17466,7 +17441,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T21:00:18.118022+00:00",
+ "last_run": "2026-11-06T21:05:15.343293+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19056,6 +19031,11 @@
    "t": "2026-11-06T20:50:30.014868+00:00",
    "title": "Red Bull sorunları Verstappen'i antrenmanı erken bitirmeye zorladı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-06T21:05:25.984534+00:00",
+   "title": "Antonelli: Sao Paulo'da Turn 1 frenlemesi her pilot için zorlu",
+   "source": "RacingNews365"
   }
  ]
 }
