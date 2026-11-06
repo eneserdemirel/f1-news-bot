@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "73ff88c637f3e8a4": "2026-10-23T16:31:45.986301+00:00",
-  "cd38a8047291c758": "2026-10-23T16:31:45.986301+00:00",
-  "a0f25c1ca7ff97ab": "2026-10-23T16:31:45.986301+00:00",
-  "41babbec38cf955b": "2026-10-23T16:31:45.986301+00:00",
   "6251928999f1625b": "2026-10-23T16:36:47.822962+00:00",
   "7793a3d4bac7f201": "2026-10-23T16:36:47.822962+00:00",
   "eafcb1d806891ae1": "2026-10-23T16:41:54.628847+00:00",
@@ -7690,7 +7686,12 @@
   "b60f3cd50375f55e": "2026-11-06T16:24:34.743569+00:00",
   "5968af1839eef481": "2026-11-06T16:29:39.298053+00:00",
   "c0fcef4a59f3d438": "2026-11-06T16:29:39.298053+00:00",
-  "dae316e52553f20f": "2026-11-06T16:29:39.298053+00:00"
+  "dae316e52553f20f": "2026-11-06T16:29:39.298053+00:00",
+  "b334e10d832bab47": "2026-11-06T16:34:33.555490+00:00",
+  "eabec93d19960b9b": "2026-11-06T16:34:33.555490+00:00",
+  "4c3d79aa931db7de": "2026-11-06T16:34:33.555490+00:00",
+  "1e072bf65ace876e": "2026-11-06T16:34:33.555490+00:00",
+  "6b92dcaf5eb57389": "2026-11-06T16:34:33.555490+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7761,35 +7762,6 @@
     "Formula 1": "When could Mercedes win the 2026 Teams' Championship?"
    },
    "last": "2026-11-04T17:01:23.013400+00:00"
-  },
-  "S4483": {
-   "title": "Cadillac gives Herta another Brazil GP practice for superlicence point",
-   "first": "2026-11-03T22:39:31.779272+00:00",
-   "sources": {
-    "The Race": "2026-11-03T22:36:12+00:00",
-    "RacingNews365": "2026-11-04T08:50:00+00:00",
-    "GPblog": "2026-11-04T08:51:00+00:00",
-    "Autosport": "2026-11-04T09:42:43+00:00",
-    "Crash.net": "2026-11-04T09:57:57+00:00",
-    "Motorsport-Total": "2026-11-04T10:15:35+00:00",
-    "PlanetF1": "2026-11-04T12:20:51+00:00",
-    "Motorsport Week": "2026-11-04T16:00:00+00:00",
-    "Sky Sports F1": "2026-11-04T16:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Herta gets another Cadillac F1 practice to earn superlicence",
-    "RacingNews365": "Colton Herta takes second stab at overcoming crucial FIA hurdle in pursuit of F1",
-    "GPblog": "Cadillac hands Herta new opportunity to secure important milestone",
-    "Autosport": "Herta to contest FP1 for Cadillac in Brazil to obtain final superlicence point",
-    "Crash.net": "Colton Herta handed another Cadillac F1 chance after superlicence confusion",
-    "Motorsport-Total": "Freitagseinsatz in Sao Paulo: Warum Cadillac Herta erneut ins Auto setzt - Motorsport-Total.com",
-    "PlanetF1": "Sergio Perez to miss Brazilian GP FP1 as Colton Herta steps in",
-    "Motorsport Week": "Colton Herta to replace Sergio Perez in FP1 at F1 Sao Paulo GP",
-    "Sky Sports F1": "Cadillac's Herta handed Brazil practice outing to secure F1 super licence"
-   },
-   "last": "2026-11-04T16:31:18.604386+00:00"
   },
   "S4538": {
    "title": "Retrospective on Verstappen and Hamilton's 2021 Brazil fight",
@@ -16739,14 +16711,14 @@
    "title": "Unai Emery confirms new contract talks with Aston Villa",
    "first": "2026-11-06T16:19:50.239644+00:00",
    "sources": {
-    "ESPN F1": "2026-11-06T16:17:23+00:00"
+    "ESPN F1": "2026-11-06T16:17:21+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Unai Emery confirms new contract talks with Aston Villa"
    },
-   "last": "2026-11-06T16:19:50.239660+00:00"
+   "last": "2026-11-06T16:34:38.484466+00:00"
   },
   "S5333": {
    "title": "ESPN fantasy football Week 9 quarterback pickups and drops",
@@ -16799,9 +16771,26 @@
     "Motorsport-Total": "Ferrari vor heikler Aussprache: Reichen Gentleman-Regeln nicht mehr? - Motorsport-Total.com"
    },
    "last": "2026-11-06T16:29:43.880375+00:00"
+  },
+  "S5337": {
+   "title": "Norris fastest in Brazil FP1 with upgraded McLaren",
+   "first": "2026-11-06T16:34:38.484475+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-06T16:30:00+00:00",
+    "GPblog": "2026-11-06T16:32:00+00:00",
+    "Crash.net": "2026-11-06T16:32:29+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "2026 F1 Sao Paulo Grand Prix - Brazil Free Practice 1 results",
+    "GPblog": "Norris puts McLaren upgrades to work as Antonelli begins title reign in second",
+    "Crash.net": "Lando Norris sets Brazil GP first practice pace in upgraded McLaren"
+   },
+   "last": "2026-11-06T16:34:38.484499+00:00"
   }
  },
- "story_seq": 5336,
+ "story_seq": 5337,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16920,7 +16909,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T16:29:39.298053+00:00",
+ "last_run": "2026-11-06T16:34:33.555490+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
