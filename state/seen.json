@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "14c548eaa6b38e60": "2026-10-23T20:52:31.463475+00:00",
-  "12a7d8d6287c223d": "2026-10-23T20:52:31.463475+00:00",
-  "3afa6279e1472bbf": "2026-10-23T20:52:31.463475+00:00",
   "2ade820fff05741b": "2026-10-23T21:02:26.378167+00:00",
   "f2feb4b45a4d76f0": "2026-10-23T21:02:26.378167+00:00",
   "14faa059acc73868": "2026-10-23T21:07:24.048651+00:00",
@@ -7764,7 +7761,9 @@
   "990ed4db7eaa5618": "2026-11-06T20:45:17.460321+00:00",
   "b03783deea7cd9f8": "2026-11-06T20:50:17.646521+00:00",
   "7bd5efe92791c4bf": "2026-11-06T20:50:17.646521+00:00",
-  "d3ea75edc276b042": "2026-11-06T20:50:17.646521+00:00"
+  "d3ea75edc276b042": "2026-11-06T20:50:17.646521+00:00",
+  "ecf312f6d43972f5": "2026-11-06T20:55:16.331542+00:00",
+  "269c8b85a7d0ea13": "2026-11-06T20:55:16.331542+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8052,32 +8051,6 @@
     "ESPN F1": "Sources - Ravens finalizing trade with Cardinals for QB Brissett"
    },
    "last": "2026-11-05T00:22:40.880769+00:00"
-  },
-  "S4751": {
-   "title": "FIA publishes São Paulo GP press conference schedule",
-   "first": "2026-11-04T20:51:51.472225+00:00",
-   "sources": {
-    "FIA": "2026-11-04T16:42:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FIA": "F1 - 2026 São Paulo GP Schedule of Press Conferences"
-   },
-   "last": "2026-11-04T20:51:51.472248+00:00"
-  },
-  "S4752": {
-   "title": "RB Leipzig vs Man City team stats",
-   "first": "2026-11-04T20:51:51.472252+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T20:26:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "RB Leipzig vs. Man City (Nov 4, 2026) Team Stats"
-   },
-   "last": "2026-11-04T20:51:51.472257+00:00"
   },
   "S4753": {
    "title": "Guardians' Clase and Ortiz called cheaters at pitch-rigging trial",
@@ -17302,7 +17275,7 @@
    "titles": {
     "ESPN F1": "Jessica Pegula: Hot mic comments about Mirra Andreeva an 'unfortunate situation'"
    },
-   "last": "2026-11-06T20:45:22.782967+00:00"
+   "last": "2026-11-06T20:55:18.187929+00:00"
   },
   "S5432": {
    "title": "Jerry Jones says paying coaches never an issue",
@@ -17342,9 +17315,22 @@
     "RacingNews365 NL": "Red Bull-problemen roepen Verstappen voortijdig een halt toe"
    },
    "last": "2026-11-06T20:50:24.396891+00:00"
+  },
+  "S5435": {
+   "title": "Ex-NBA player Ed Davis expected to change plea in betting case",
+   "first": "2026-11-06T20:55:18.187939+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T20:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ex-NBA player Ed Davis expected to change plea to guilty in sports betting case"
+   },
+   "last": "2026-11-06T20:55:18.187946+00:00"
   }
  },
- "story_seq": 5434,
+ "story_seq": 5435,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17463,7 +17449,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T20:50:17.646521+00:00",
+ "last_run": "2026-11-06T20:55:16.331542+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
