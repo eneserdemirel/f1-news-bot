@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aef0aba9fb3fc1e4": "2026-10-23T17:06:47.145629+00:00",
-  "3adf60340206f982": "2026-10-23T17:06:47.145629+00:00",
-  "5110b94484e6043c": "2026-10-23T17:06:47.145629+00:00",
-  "94f5dca57499a372": "2026-10-23T17:06:47.145629+00:00",
-  "945a918055b3aeaf": "2026-10-23T17:06:47.145629+00:00",
   "81e064b6f21ce379": "2026-10-23T17:11:50.457153+00:00",
   "21646c3e22175fa8": "2026-10-23T17:16:46.296740+00:00",
   "0867f765a0a05da1": "2026-10-23T17:16:46.296740+00:00",
@@ -7707,7 +7702,12 @@
   "c4a90f1322b51783": "2026-11-06T16:59:39.987678+00:00",
   "c2e2df3c57c9b119": "2026-11-06T16:59:39.987678+00:00",
   "6ecbb98c9c0249ca": "2026-11-06T17:04:35.041837+00:00",
-  "dc22b61ba74de882": "2026-11-06T17:04:35.041837+00:00"
+  "dc22b61ba74de882": "2026-11-06T17:04:35.041837+00:00",
+  "b28a7773ab8cb8e5": "2026-11-06T17:09:38.152772+00:00",
+  "5775b757fe44b2eb": "2026-11-06T17:09:38.152772+00:00",
+  "a9030731d324102b": "2026-11-06T17:09:38.152772+00:00",
+  "e3bb15b110df1d42": "2026-11-06T17:09:38.152772+00:00",
+  "17af0c4c7abd3568": "2026-11-06T17:09:38.152772+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15839,14 +15839,14 @@
    "title": "ESPN ranking of top 50 women's college basketball players",
    "first": "2026-11-06T13:14:37.394250+00:00",
    "sources": {
-    "ESPN F1": "2026-11-06T13:10:45+00:00"
+    "ESPN F1": "2026-11-06T12:46:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Ranking the top 50 players in women's college basketball"
    },
-   "last": "2026-11-06T13:14:37.394268+00:00"
+   "last": "2026-11-06T17:09:42.387241+00:00"
   },
   "S5280": {
    "title": "Verstappen says F1 has too many races, comments on Red Bull contract",
@@ -16576,15 +16576,17 @@
    "first": "2026-11-06T16:29:43.880360+00:00",
    "sources": {
     "RacingNews365": "2026-11-06T16:23:00+00:00",
-    "Autosport": "2026-11-06T16:57:16+00:00"
+    "Autosport": "2026-11-06T16:57:16+00:00",
+    "GPblog": "2026-11-06T17:07:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Now it's official! Colton Herta finally has his FIA superlicence",
-    "Autosport": "Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat"
+    "Autosport": "Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat",
+    "GPblog": "Herta finally secures long-awaited milestone at the Sao Paulo Grand Prix"
    },
-   "last": "2026-11-06T16:59:44.391695+00:00"
+   "last": "2026-11-06T17:09:42.387262+00:00"
   },
   "S5336": {
    "title": "Ferrari's tense Brazil talks and whether gentleman's rules still hold",
@@ -16617,7 +16619,8 @@
     "Motorsport-Total": "2026-11-06T16:36:36+00:00",
     "FormulaPassion": "2026-11-06T16:40:30+00:00",
     "Gazzetta dello Sport": "2026-11-06T16:55:26+00:00",
-    "AS": "2026-11-06T16:40:18+00:00"
+    "AS": "2026-11-06T16:40:18+00:00",
+    "Motorsport.com Italia": "2026-11-06T17:08:28+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16636,9 +16639,10 @@
     "Motorsport-Total": "FT1 Brasilien: Norris fährt Bestzeit, Überraschung durch Alpine-Junior - Motorsport-Total.com",
     "FormulaPassion": "GP San Paolo 2026 – Classifica FP1: Norris parte davanti, Kimi a 82 millesimi. Hamilton 4° tra Max e Russell",
     "Gazzetta dello Sport": "Brasile, Norris il più veloce di libere 1. Antonelli nella scia. Poi Verstappen e Hamilton",
-    "AS": "McLaren da la sorpresa"
+    "AS": "McLaren da la sorpresa",
+    "Motorsport.com Italia": "F1 | Interlagos, Libere 1: Norris risveglia la McLaren, seguono Antonelli, Verstappen e Hamilton"
    },
-   "last": "2026-11-06T16:59:44.391724+00:00"
+   "last": "2026-11-06T17:09:42.387257+00:00"
   },
   "S5338": {
    "title": "ESPN where-to-watch listing for Turhan vs. Baumgardner boxing",
@@ -16743,9 +16747,35 @@
     "RacingNews365 NL": "Verstappen toont spierballen na vreemde actie Stroll: “Wat doet hij nou?”"
    },
    "last": "2026-11-06T17:04:37.359693+00:00"
+  },
+  "S5346": {
+   "title": "Camara looks to learn from Bearman before Haas debut",
+   "first": "2026-11-06T17:09:42.387212+00:00",
+   "sources": {
+    "Formula 1": "2026-11-06T17:09:42.387226+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Camara looking to learn from Bearman on surprise F1 debut"
+   },
+   "last": "2026-11-06T17:09:42.387230+00:00"
+  },
+  "S5347": {
+   "title": "Di Giannantonio fastest in Qatar MotoGP Friday practice",
+   "first": "2026-11-06T17:09:42.387246+00:00",
+   "sources": {
+    "The Race": "2026-11-06T17:08:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Surprise Ducati pacesetter on Qatar MotoGP Friday"
+   },
+   "last": "2026-11-06T17:09:42.387251+00:00"
   }
  },
- "story_seq": 5345,
+ "story_seq": 5347,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16864,17 +16894,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T17:04:35.041837+00:00",
+ "last_run": "2026-11-06T17:09:38.152772+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T17:08:48.757986+00:00",
-   "title": "Red Bull, sezon finalinde 11 milyon dolarlık ödül için McLaren ile yarışıyor",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-03T17:18:28.195061+00:00",
    "title": "Red Bull patronu, Orta Doğu krizinde F1'in doğru kararı vereceğine güveniyor",
@@ -18394,6 +18419,11 @@
    "t": "2026-11-06T17:04:42.145782+00:00",
    "title": "Verstappen, Stroll'un garip manevrasına sert tepki verdi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-06T17:09:47.803054+00:00",
+   "title": "Camara, Bearman'dan öğrenmek istiyor; Brezilya'da sürpriz F1 debutu",
+   "source": "Formula 1"
   }
  ]
 }
