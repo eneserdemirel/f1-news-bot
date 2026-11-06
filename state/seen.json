@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f037de6f9d9ecbfc": "2026-10-23T05:20:24.062453+00:00",
-  "33ad44eeed0da618": "2026-10-23T05:20:24.062453+00:00",
-  "7437468b089eab23": "2026-10-23T05:20:24.062453+00:00",
   "9da9f38014d4cdc8": "2026-10-23T05:30:26.453219+00:00",
   "bae4cde79c9c6689": "2026-10-23T05:30:26.453219+00:00",
   "a08c20c24264205b": "2026-10-23T05:30:26.453219+00:00",
@@ -7642,7 +7639,9 @@
   "5a3aa53f82a14d78": "2026-11-06T04:58:13.570790+00:00",
   "f9762f6c9147bb31": "2026-11-06T05:08:13.329910+00:00",
   "7dc087edd6041161": "2026-11-06T05:08:13.329910+00:00",
-  "d886a907261e80c0": "2026-11-06T05:18:13.680424+00:00"
+  "d886a907261e80c0": "2026-11-06T05:18:13.680424+00:00",
+  "1c5d6398bedeb4e3": "2026-11-06T05:28:12.708220+00:00",
+  "b0707806e4c28d88": "2026-11-06T05:28:12.708220+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7896,32 +7895,6 @@
     "ESPN F1": "Ducks 5-4 Canucks (Nov 3, 2026) Game Recap"
    },
    "last": "2026-11-04T07:40:57.291456+00:00"
-  },
-  "S4527": {
-   "title": "UC Irvine's Olivier Rioux putback slam highlight",
-   "first": "2026-11-04T05:20:52.652901+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T05:03:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Olivier Rioux's putback slam extends UC Irvine's lead"
-   },
-   "last": "2026-11-04T05:20:52.652908+00:00"
-  },
-  "S4528": {
-   "title": "Vettel explains why Ferrari did not win a title",
-   "first": "2026-11-04T05:20:52.652912+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-04T05:13:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Sebastian Vettel verrät: Warum es mit dem Titel bei Ferrari nicht geklappt hat - Motorsport-Total.com"
-   },
-   "last": "2026-11-04T05:20:52.652917+00:00"
   },
   "S4529": {
    "title": "Meghalaya Ranji squad sacked after court order",
@@ -16483,9 +16456,35 @@
     "ESPN F1": "Hope Munson scores in the 37'"
    },
    "last": "2026-11-06T05:08:15.070799+00:00"
+  },
+  "S5168": {
+   "title": "LSU women's basketball beats Texas Southern 131-22",
+   "first": "2026-11-06T05:28:15.040903+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T03:47:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No. 9 LSU women crush Texas Southern in historic 131-22 victory"
+   },
+   "last": "2026-11-06T05:28:15.040921+00:00"
+  },
+  "S5169": {
+   "title": "Explainer on how young an F1 world champion can be",
+   "first": "2026-11-06T05:28:15.040927+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T05:22:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Erklärt: Wie jung ein Formel-1-Weltmeister sein kann - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T05:28:15.040931+00:00"
   }
  },
- "story_seq": 5167,
+ "story_seq": 5169,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16604,17 +16603,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T05:18:13.680424+00:00",
+ "last_run": "2026-11-06T05:28:12.708220+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
  "last_digest_at": "2026-11-05T19:05:33.954395+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T05:25:47.192569+00:00",
-   "title": "Sebastian Vettel Ferrari'yi önce reddetti, sonra neden geri adım attı?",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-03T06:46:24.122785+00:00",
    "title": "Messico, yeni genç F1 tutkusunu taçlandırdı",
@@ -18154,6 +18148,11 @@
    "t": "2026-11-06T01:06:12.079971+00:00",
    "title": "Formula 1: Barcelona'da yedi pilot cezalı olabilir",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-06T05:28:17.969800+00:00",
+   "title": "Bir Formula 1 dünya şampiyonu ne kadar genç olabilir?",
+   "source": "Motorsport-Total"
   }
  ]
 }
