@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e1bda79804f406b0": "2026-10-23T18:21:49.692723+00:00",
   "06f5c82e149e6ea3": "2026-10-23T18:26:57.098313+00:00",
   "81c316620be58616": "2026-10-23T18:31:45.382141+00:00",
   "e0a6ac5afdf72b23": "2026-10-23T18:36:47.686578+00:00",
@@ -7724,7 +7723,9 @@
   "407f34682c4f5991": "2026-11-06T18:15:14.845485+00:00",
   "c1b430b42d210d11": "2026-11-06T18:20:17.718903+00:00",
   "cb249ffe91d155ed": "2026-11-06T18:20:17.718903+00:00",
-  "2e6c9099ff221e05": "2026-11-06T18:20:17.718903+00:00"
+  "2e6c9099ff221e05": "2026-11-06T18:20:17.718903+00:00",
+  "b84506d8a1a0c644": "2026-11-06T18:25:18.330308+00:00",
+  "fdc5018f59ffc2c5": "2026-11-06T18:25:18.330308+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7844,19 +7845,6 @@
    },
    "last": "2026-11-05T06:03:15.242769+00:00"
   },
-  "S4630": {
-   "title": "Rory McIlroy criticises LIV Golf's impact on professional golf",
-   "first": "2026-11-04T13:11:16.561617+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T12:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rory McIlroy on LIV Golf: 'They turned professional golf into an arms race'"
-   },
-   "last": "2026-11-04T18:21:51.795700+00:00"
-  },
   "S4650": {
    "title": "Norris calls Antonelli's title success 'insane'",
    "first": "2026-11-04T14:11:22.432559+00:00",
@@ -7921,23 +7909,6 @@
     "Motorsport Week": "Sky F1 announces new multimedia journalist to joing at Brazil GP"
    },
    "last": "2026-11-05T15:24:30.149930+00:00"
-  },
-  "S4671": {
-   "title": "Antonelli visits Senna family and sits in Ayrton's 1986 Lotus",
-   "first": "2026-11-04T15:31:19.394988+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-04T15:28:58+00:00",
-    "RacingNews365 NL": "2026-11-04T17:45:00+00:00",
-    "GPblog": "2026-11-04T18:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Oltre il numero 12: Kimi nella Lotus di Ayrton. Quando l'emulazione diventa ricerca della perfezione",
-    "RacingNews365 NL": "Antonelli brengt emotioneel bezoek aan familie Senna",
-    "GPblog": "Antonelli meets idol Senna's family after being crowned F1 champion"
-   },
-   "last": "2026-11-04T18:21:51.795704+00:00"
   },
   "S4673": {
    "title": "Analysis of whether Mercedes W17 car drove Antonelli's title",
@@ -8061,45 +8032,6 @@
     "The Race": "F1 Podcast: Ocon's early exit and Camara's early debut"
    },
    "last": "2026-11-05T09:23:55.017144+00:00"
-  },
-  "S4712": {
-   "title": "Pakistan players unlikely to play Abu Dhabi T10",
-   "first": "2026-11-04T18:21:51.795666+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T18:12:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pakistan players unlikely to play Abu Dhabi T10"
-   },
-   "last": "2026-11-04T18:21:51.795685+00:00"
-  },
-  "S4713": {
-   "title": "Warriors owner Lacob happy with Lendeborg's early returns",
-   "first": "2026-11-04T18:21:51.795689+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T18:01:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Warriors owner Joe Lacob ecstatic with early Yaxel Lendeborg returns"
-   },
-   "last": "2026-11-04T18:21:51.795693+00:00"
-  },
-  "S4714": {
-   "title": "Possible spontaneous season finale at Imola discussed",
-   "first": "2026-11-04T18:21:51.795707+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-04T18:17:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Spontanes Saisonfinale in Imola? Zwei Wochen Vorlauf würden reichen - Motorsport-Total.com"
-   },
-   "last": "2026-11-04T18:21:51.795710+00:00"
   },
   "S4715": {
    "title": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return",
@@ -16889,14 +16821,16 @@
    "title": "Vasseur says Hamilton-Leclerc talks went well, message clear",
    "first": "2026-11-06T17:59:56.198067+00:00",
    "sources": {
-    "GPblog": "2026-11-06T17:54:00+00:00"
+    "GPblog": "2026-11-06T17:54:00+00:00",
+    "RacingNews365": "2026-11-06T18:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Ferrari boss sat down with Hamilton and Leclerc: 'The message was clear'"
+    "GPblog": "Ferrari boss sat down with Hamilton and Leclerc: 'The message was clear'",
+    "RacingNews365": "Ferrari reveal outcome of crunch Hamilton-Leclerc meeting after Mexico spat"
    },
-   "last": "2026-11-06T17:59:56.198073+00:00"
+   "last": "2026-11-06T18:25:21.163860+00:00"
   },
   "S5366": {
    "title": "Bottas insists Cadillac seat is safe despite axe rumours",
@@ -16975,9 +16909,22 @@
     "GPblog": "MotoGP Qatar: Bagnaia identifies airport closure as biggest safety fear"
    },
    "last": "2026-11-06T18:20:19.596159+00:00"
+  },
+  "S5372": {
+   "title": "Rams' Myles Garrett activation from injured reserve (NFL)",
+   "first": "2026-11-06T18:25:21.163822+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T17:47:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rams' Myles Garrett on track to be activated from injured reserve, sources say"
+   },
+   "last": "2026-11-06T18:25:21.163851+00:00"
   }
  },
- "story_seq": 5371,
+ "story_seq": 5372,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17096,7 +17043,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T18:20:17.718903+00:00",
+ "last_run": "2026-11-06T18:25:18.330308+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
