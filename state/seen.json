@@ -7671,7 +7671,11 @@
   "985f706f920e27b9": "2026-11-06T13:14:34.782157+00:00",
   "05f90daeedfe0088": "2026-11-06T13:24:35.522773+00:00",
   "b1b2ff5b6d1df477": "2026-11-06T13:24:35.522773+00:00",
-  "b0fe61653e5787c4": "2026-11-06T13:24:35.522773+00:00"
+  "b0fe61653e5787c4": "2026-11-06T13:24:35.522773+00:00",
+  "ea37fc00937c4ef5": "2026-11-06T13:29:36.295704+00:00",
+  "28c59395bc492294": "2026-11-06T13:29:36.295704+00:00",
+  "f56058989f83bb5a": "2026-11-06T13:29:36.295704+00:00",
+  "06c6890d727fd9e7": "2026-11-06T13:29:36.295704+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14328,7 +14332,7 @@
     "Formula 1": "Norris wary of new McLaren upgrades in Sao Paulo",
     "GPblog": "Norris warns McLaren upgrades could make ‘horrible’ car even harder to drive"
    },
-   "last": "2026-11-06T11:48:56.384228+00:00"
+   "last": "2026-11-06T13:29:41.041201+00:00"
   },
   "S5097": {
    "title": "Concacaf announces new Gold Cup format from 2027",
@@ -16514,14 +16518,16 @@
    "title": "Bottas explains cause of Mexico crash; Cadillac changes parts",
    "first": "2026-11-06T12:18:56.174984+00:00",
    "sources": {
-    "GPblog": "2026-11-06T12:15:00+00:00"
+    "GPblog": "2026-11-06T12:15:00+00:00",
+    "Motorsport.com Italia": "2026-11-06T13:24:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Bottas reveals what caused his Mexico crash as Cadillac changes parts for Brazil"
+    "GPblog": "Bottas reveals what caused his Mexico crash as Cadillac changes parts for Brazil",
+    "Motorsport.com Italia": "F1 | Cadillac: la sospensione di Bottas ha ceduto perché… sciolta dal calore dei freni"
    },
-   "last": "2026-11-06T12:18:56.174990+00:00"
+   "last": "2026-11-06T13:29:41.041183+00:00"
   },
   "S5262": {
    "title": "Ferrari endurance chief Coletta reviews difficult 2026 WEC season",
@@ -16810,9 +16816,35 @@
     "ESPN F1": "Don't boo Ben White, Thomas Tuchel urges England fans"
    },
    "last": "2026-11-06T13:24:37.858455+00:00"
+  },
+  "S5284": {
+   "title": "Mourinho warns Vinicius over guaranteed Real Madrid start",
+   "first": "2026-11-06T13:29:41.041158+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T13:21:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mourinho warns Vinícius he is not a guaranteed Real Madrid start"
+   },
+   "last": "2026-11-06T13:29:41.041174+00:00"
+  },
+  "S5285": {
+   "title": "Sainz on Ferrari pressure behind Hamilton-Leclerc rivalry",
+   "first": "2026-11-06T13:29:41.041188+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-06T13:25:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Carlos Sainz lifts lid on the Ferrari pressure behind Hamilton and Leclerc’s rivalry"
+   },
+   "last": "2026-11-06T13:29:41.041193+00:00"
   }
  },
- "story_seq": 5283,
+ "story_seq": 5285,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16931,17 +16963,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T13:24:35.522773+00:00",
+ "last_run": "2026-11-06T13:29:36.295704+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T13:27:07.941909+00:00",
-   "title": "Bottas kazanın ardından dört dakikaya yakın araçta kaldı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-03T13:37:13.025481+00:00",
    "title": "Kimi Antonelli, 2026 Formula 1 dünya şampiyonu oldu",
@@ -18476,6 +18503,16 @@
    "t": "2026-11-06T13:14:43.475966+00:00",
    "title": "Verstappen, 24 yarışlık F1 takvimine ve sözleşmesine dikkat çekti",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-06T13:29:46.749103+00:00",
+   "title": "Sainz, Hamilton-Leclerc rekabetinin arkasındaki Ferrari baskısını anlattı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-06T13:29:47.320252+00:00",
+   "title": "McLaren, Brezilya GP için kapsamlı aerodinamik paket getirdi",
+   "source": "GPblog"
   }
  ]
 }
