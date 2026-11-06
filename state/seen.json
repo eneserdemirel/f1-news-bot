@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "020ae274402b38d1": "2026-10-23T12:06:06.472559+00:00",
-  "fd9e5be9f8647ec8": "2026-10-23T12:06:06.472559+00:00",
   "9d188fa3d9b6b611": "2026-10-23T12:11:06.802049+00:00",
   "a3333dc24cbe523f": "2026-10-23T12:16:03.849651+00:00",
   "d5ddcdf352908b14": "2026-10-23T12:21:10.058419+00:00",
@@ -7664,7 +7662,11 @@
   "09c11a9bb27e473a": "2026-11-06T12:03:58.774741+00:00",
   "52b52704e3ab356f": "2026-11-06T12:03:58.774741+00:00",
   "d0fbc2e7b290f3c7": "2026-11-06T12:03:58.774741+00:00",
-  "3358e773a1944799": "2026-11-06T12:03:58.774741+00:00"
+  "3358e773a1944799": "2026-11-06T12:03:58.774741+00:00",
+  "a2361ef539aa792d": "2026-11-06T12:08:53.870926+00:00",
+  "b25f1f01fb0e4c5a": "2026-11-06T12:08:53.870926+00:00",
+  "a8d72630641012eb": "2026-11-06T12:08:53.870926+00:00",
+  "f060305b059e3368": "2026-11-06T12:08:53.870926+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16410,14 +16412,14 @@
    "title": "Rain threatens Interlagos and could upend the Brazilian GP",
    "first": "2026-11-06T10:54:00.904434+00:00",
    "sources": {
-    "Gazzetta dello Sport": "2026-11-06T10:44:06+00:00"
+    "Gazzetta dello Sport": "2026-11-06T10:42:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Gazzetta dello Sport": "Nel mito di Senna, la pioggia minaccia Interlagos: ecco come il meteo può stravolgere il GP del Brasile"
    },
-   "last": "2026-11-06T10:54:00.904440+00:00"
+   "last": "2026-11-06T12:08:57.005818+00:00"
   },
   "S5230": {
    "title": "Antonelli says preparation for 2027 F1 season starts now",
@@ -16705,7 +16707,7 @@
    "titles": {
     "ESPN F1": "What turned around Washington's defense?"
    },
-   "last": "2026-11-06T11:54:00.685306+00:00"
+   "last": "2026-11-06T12:08:57.005811+00:00"
   },
   "S5252": {
    "title": "Hadjar cautious over Red Bull starts fix after Mexico",
@@ -16771,9 +16773,35 @@
     "The Race": "How much has bad luck really cost George Russell in F1 2026?"
    },
    "last": "2026-11-06T12:04:04.133127+00:00"
+  },
+  "S5257": {
+   "title": "Kompany close to full recovery after collapse",
+   "first": "2026-11-06T12:08:57.005783+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T12:01:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Vincent Kompany: Bayern Munich boss close to 'full recovery' after collapse"
+   },
+   "last": "2026-11-06T12:08:57.005802+00:00"
+  },
+  "S5258": {
+   "title": "Motorsport-Total F1 Grand Prix reports index page",
+   "first": "2026-11-06T12:08:57.005822+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T11:09:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Grand-Prix-Berichte - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T12:08:57.005827+00:00"
   }
  },
- "story_seq": 5256,
+ "story_seq": 5258,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16892,22 +16920,12 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T12:03:58.774741+00:00",
+ "last_run": "2026-11-06T12:08:53.870926+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
  "last_digest_at": "2026-11-06T12:04:06.419353+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-03T12:07:14.456221+00:00",
-   "title": "Hamilton: Halefi Antonelli'nin şampiyonluğunu izlemek yılımın en güzel anı",
-   "source": "ESPN F1"
-  },
-  {
-   "t": "2026-11-03T12:07:14.824850+00:00",
-   "title": "Bottas Cadillac'ta geleceğinin ABD'deki patronlara bağlı olduğunu söyledi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-03T12:27:13.520614+00:00",
    "title": "FIA başkanı Antonelli'ye: \"Asla değişme\"",
