@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ad190d5f45cfd340": "2026-10-23T02:59:39.130257+00:00",
   "fedae50b82d03ae6": "2026-10-23T03:50:21.914040+00:00",
   "2bdd909417193e95": "2026-10-23T03:50:21.914040+00:00",
   "3b0c03a6f0d58abb": "2026-10-23T03:50:21.914040+00:00",
@@ -7634,7 +7633,11 @@
   "8cfd6506f155a9c9": "2026-11-06T02:48:12.903484+00:00",
   "449ea792b2a3afbb": "2026-11-06T02:48:12.903484+00:00",
   "c0d94de77d575357": "2026-11-06T02:58:12.654770+00:00",
-  "cd0fc9f1c4108d6c": "2026-11-06T02:58:12.654770+00:00"
+  "cd0fc9f1c4108d6c": "2026-11-06T02:58:12.654770+00:00",
+  "8cedbb10f5865ec8": "2026-11-06T03:08:14.458711+00:00",
+  "6a7e35b3e83dd100": "2026-11-06T03:08:14.458711+00:00",
+  "0a9e51f139d86f6c": "2026-11-06T03:08:14.458711+00:00",
+  "9ceb268d6e0f1b88": "2026-11-06T03:08:14.458711+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7863,19 +7866,6 @@
    },
    "last": "2026-11-04T16:31:18.604386+00:00"
   },
-  "S4500": {
-   "title": "Kawhi Leonard completes knee treatment, begins return-to-play process",
-   "first": "2026-11-04T00:30:11.649562+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T00:18:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Raptors' Kawhi Leonard completes knee treatment, begins 'return to play process'"
-   },
-   "last": "2026-11-04T03:00:16.221648+00:00"
-  },
   "S4510": {
    "title": "Takeaways from CFP's first rankings release",
    "first": "2026-11-04T01:40:12.691310+00:00",
@@ -7901,19 +7891,6 @@
     "ESPN F1": "Lakers' Luka Doncic has 2nd tech of season rescinded by NBA"
    },
    "last": "2026-11-04T07:30:54.265468+00:00"
-  },
-  "S4514": {
-   "title": "Lightning 4-2 Red Wings NHL game recap",
-   "first": "2026-11-04T03:00:16.221621+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T02:55:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lightning 4-2 Red Wings (4 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-04T03:00:16.221639+00:00"
   },
   "S4515": {
    "title": "Jamarion Davis-Fleming basketball highlight play",
@@ -16319,9 +16296,61 @@
     "ESPN F1": "Wild's Brock Faber back at practice after recovery from fractured skull"
    },
    "last": "2026-11-06T02:58:14.224906+00:00"
+  },
+  "S5142": {
+   "title": "Owen McCown throws 20-yard touchdown for UTSA",
+   "first": "2026-11-06T03:08:16.860787+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T02:21:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Owen McCown throws 20-yard touchdown for UTSA"
+   },
+   "last": "2026-11-06T03:08:16.860804+00:00"
+  },
+  "S5143": {
+   "title": "Kate Langfelder scores vs. Texas Tech",
+   "first": "2026-11-06T03:08:16.860809+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T02:09:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kate Langfelder scores in the 79' vs. Texas Tech"
+   },
+   "last": "2026-11-06T03:08:16.860814+00:00"
+  },
+  "S5144": {
+   "title": "AS Etoile Matoury 2026-27 fixtures",
+   "first": "2026-11-06T03:08:16.860818+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T01:33:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AS Etoile Matoury 2026-27 Fixtures"
+   },
+   "last": "2026-11-06T03:08:16.860822+00:00"
+  },
+  "S5145": {
+   "title": "Maye wins AFC Offensive Player of the Month for October",
+   "first": "2026-11-06T03:08:16.860824+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-05T23:37:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Maye wins AFC Offensive Player of the Month for October"
+   },
+   "last": "2026-11-06T03:08:16.860827+00:00"
   }
  },
- "story_seq": 5141,
+ "story_seq": 5145,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16440,7 +16469,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T02:58:12.654770+00:00",
+ "last_run": "2026-11-06T03:08:14.458711+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-05 22:00",
