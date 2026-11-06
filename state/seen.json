@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "16e830a6feaaf469": "2026-10-23T16:51:51.678619+00:00",
   "704ccf37f2e1cd8d": "2026-10-23T16:56:45.281235+00:00",
   "6aea0db09d1e042b": "2026-10-23T17:01:49.199317+00:00",
   "6be617f8bff44466": "2026-10-23T17:01:49.199317+00:00",
@@ -7704,7 +7703,11 @@
   "ea9f1f581c26ab9f": "2026-11-06T16:44:33.472195+00:00",
   "c6a3a5aceb013bcb": "2026-11-06T16:44:33.472195+00:00",
   "49bb52b1c5a386c5": "2026-11-06T16:49:36.784231+00:00",
-  "60787d400b6da9e6": "2026-11-06T16:49:36.784231+00:00"
+  "60787d400b6da9e6": "2026-11-06T16:49:36.784231+00:00",
+  "10a3c7e877acc511": "2026-11-06T16:54:36.518947+00:00",
+  "f7d25d53a0070bb9": "2026-11-06T16:54:36.518947+00:00",
+  "0edf2e0f56ae33f2": "2026-11-06T16:54:36.518947+00:00",
+  "d3065d8be62747c4": "2026-11-06T16:54:36.518947+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8012,19 +8015,6 @@
     "RacingNews365 NL": "Wie is Rafael Câmara? Alles over de verrassende Haas-debutant in Brazilië"
    },
    "last": "2026-11-04T19:41:51.632500+00:00"
-  },
-  "S4690": {
-   "title": "West Brom vs. Millwall odds and spread preview",
-   "first": "2026-11-04T16:51:16.594481+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T16:32:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "West Brom vs. Millwall (Nov 7, 2026) Odds and Spread"
-   },
-   "last": "2026-11-04T16:51:16.594507+00:00"
   },
   "S4691": {
    "title": "Camara says there is a lot to learn before debut",
@@ -16290,14 +16280,14 @@
    "title": "Iraola says Liverpool are too honest on refereeing",
    "first": "2026-11-06T14:44:36.439143+00:00",
    "sources": {
-    "ESPN F1": "2026-11-06T14:38:22+00:00"
+    "ESPN F1": "2026-11-06T14:35:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Liverpool are 'too honest' a team - Andoni Iraola on recent refereeing decisions"
    },
-   "last": "2026-11-06T14:44:36.439149+00:00"
+   "last": "2026-11-06T16:54:42.155180+00:00"
   },
   "S5306": {
    "title": "New Zealand vs India second ODI match preview",
@@ -16721,7 +16711,8 @@
     "Sky Sports F1": "2026-11-06T16:40:00+00:00",
     "Autosport": "2026-11-06T16:41:55+00:00",
     "Motorsport Week": "2026-11-06T16:34:21+00:00",
-    "Motorsport-Total": "2026-11-06T16:36:36+00:00"
+    "Motorsport-Total": "2026-11-06T16:36:36+00:00",
+    "FormulaPassion": "2026-11-06T16:40:30+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16737,9 +16728,10 @@
     "Sky Sports F1": "Norris tops Brazil first practice in upgraded McLaren",
     "Autosport": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
     "Motorsport Week": "F1 2026 Sao Paulo Grand Prix – FP1 Results",
-    "Motorsport-Total": "FT1 Brasilien: Norris fährt Bestzeit, Überraschung durch Alpine-Junior - Motorsport-Total.com"
+    "Motorsport-Total": "FT1 Brasilien: Norris fährt Bestzeit, Überraschung durch Alpine-Junior - Motorsport-Total.com",
+    "FormulaPassion": "GP San Paolo 2026 – Classifica FP1: Norris parte davanti, Kimi a 82 millesimi. Hamilton 4° tra Max e Russell"
    },
-   "last": "2026-11-06T16:44:40.195396+00:00"
+   "last": "2026-11-06T16:54:42.155193+00:00"
   },
   "S5338": {
    "title": "ESPN where-to-watch listing for Turhan vs. Baumgardner boxing",
@@ -16805,9 +16797,35 @@
     "ESPN F1": "'Never met a stranger': Riding to a Miami game with Linda Fletcher"
    },
    "last": "2026-11-06T16:49:38.660789+00:00"
+  },
+  "S5343": {
+   "title": "Antonelli's Senna tribute: helmet, kart ride and grave visit",
+   "first": "2026-11-06T16:54:42.155199+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-06T16:51:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Il casco, il giro sui kart a casa Senna il tributo sulla tomba: il senso di Kimi per Ayrton"
+   },
+   "last": "2026-11-06T16:54:42.155204+00:00"
+  },
+  "S5344": {
+   "title": "Analysis: Could Russell copy Hamilton's 2021 grid penalty tactic?",
+   "first": "2026-11-06T16:54:42.155208+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-06T16:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Startplatzstrafe für Russell: Macht er es wie Hamilton 2021? - Motorsport-Total.com"
+   },
+   "last": "2026-11-06T16:54:42.155213+00:00"
   }
  },
- "story_seq": 5342,
+ "story_seq": 5344,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16926,7 +16944,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T16:49:36.784231+00:00",
+ "last_run": "2026-11-06T16:54:36.518947+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
