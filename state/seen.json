@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7ec81f3fc08491c7": "2026-10-23T15:31:49.469759+00:00",
   "65d93f489ddb7f8f": "2026-10-23T15:41:48.066124+00:00",
   "59fa9eba57e102c0": "2026-10-23T15:41:48.066124+00:00",
   "527ec1211c32435b": "2026-10-23T15:41:48.066124+00:00",
@@ -7681,7 +7680,9 @@
   "9a5dfd24b97589c5": "2026-11-06T15:24:32.648228+00:00",
   "609cfb598666c39f": "2026-11-06T15:24:32.648228+00:00",
   "9127fc1aaa8626cb": "2026-11-06T15:24:32.648228+00:00",
-  "7251f4ec16fe9008": "2026-11-06T15:29:35.998654+00:00"
+  "7251f4ec16fe9008": "2026-11-06T15:29:35.998654+00:00",
+  "b38c30a5986929de": "2026-11-06T15:34:34.676020+00:00",
+  "e53550a7548f7ec8": "2026-11-06T15:34:34.676020+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8099,19 +8100,6 @@
     "GPblog": "Antonelli meets idol Senna's family after being crowned F1 champion"
    },
    "last": "2026-11-04T18:21:51.795704+00:00"
-  },
-  "S4672": {
-   "title": "Verstappen says he is enthusiastic about returning to Brazil",
-   "first": "2026-11-04T15:31:19.395017+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-04T15:05:23+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Verstappen vuole inserire la quarta: “Entusiasta di tornare in Brasile”"
-   },
-   "last": "2026-11-04T15:31:19.395023+00:00"
   },
   "S4673": {
    "title": "Analysis of whether Mercedes W17 car drove Antonelli's title",
@@ -16421,14 +16409,16 @@
    "title": "Damon Hill urges Ferrari to make Hamilton number one",
    "first": "2026-11-06T14:04:40.051004+00:00",
    "sources": {
-    "GPblog": "2026-11-06T14:02:00+00:00"
+    "GPblog": "2026-11-06T14:02:00+00:00",
+    "RacingNews365": "2026-11-06T15:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Ferrari handed clear ultimatum over driver hierarchy: 'Make Hamilton #1 driver'"
+    "GPblog": "Ferrari handed clear ultimatum over driver hierarchy: 'Make Hamilton #1 driver'",
+    "RacingNews365": "Damon Hill offers Ferrari simple Hamilton-Leclerc solution: 'Ends all debate'"
    },
-   "last": "2026-11-06T14:04:40.051010+00:00"
+   "last": "2026-11-06T15:34:36.994297+00:00"
   },
   "S5292": {
    "title": "Caroline Dubois and Stephanie Han set three-belt boxing bout",
@@ -16769,9 +16759,22 @@
     "ESPN F1": "Notre Dame-Miami rivalry defined by seven memorable games"
    },
    "last": "2026-11-06T15:24:34.717392+00:00"
+  },
+  "S5318": {
+   "title": "Antonelli frames championship photo with Hamilton and Verstappen",
+   "first": "2026-11-06T15:34:36.994308+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli reveals what he did with iconic Hamilton-Verstappen photo"
+   },
+   "last": "2026-11-06T15:34:36.994314+00:00"
   }
  },
- "story_seq": 5317,
+ "story_seq": 5318,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16890,7 +16893,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T15:29:35.998654+00:00",
+ "last_run": "2026-11-06T15:34:34.676020+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18454,6 +18457,11 @@
   {
    "t": "2026-11-06T15:09:50.888172+00:00",
    "title": "Haas patronu Komatsu, Ocon'un görevden alınması hakkında ilk kez konuştu",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-06T15:34:41.645443+00:00",
+   "title": "Antonelli, Hamilton ve Verstappen'ın fotoğrafını çerçeveletti",
    "source": "GPblog"
   }
  ]
