@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "07a8abaf59ce7511": "2026-10-23T13:46:04.307896+00:00",
-  "97f6ef8175284236": "2026-10-23T13:46:04.307896+00:00",
-  "cb399a856d1d7781": "2026-10-23T13:46:04.307896+00:00",
-  "a5d1c90c36eabcb2": "2026-10-23T13:46:04.307896+00:00",
-  "2ccf05d8a270d5b5": "2026-10-23T13:46:04.307896+00:00",
   "a254cdbc6a11c54e": "2026-10-23T13:51:05.782876+00:00",
   "0da77c71358bb7b3": "2026-10-23T13:56:03.586915+00:00",
   "84e8f8019a5d0b63": "2026-10-23T14:01:44.292352+00:00",
@@ -7675,7 +7670,9 @@
   "d92c2a2526c6dee6": "2026-11-06T13:44:38.427013+00:00",
   "86718fcbec8dc7a0": "2026-11-06T13:44:38.427013+00:00",
   "c7ae818a47231ef7": "2026-11-06T13:44:38.427013+00:00",
-  "7e04d84f7112f03e": "2026-11-06T13:44:38.427013+00:00"
+  "7e04d84f7112f03e": "2026-11-06T13:44:38.427013+00:00",
+  "c8c4d3784099bd99": "2026-11-06T13:49:34.303415+00:00",
+  "0d22339d97ac0aa7": "2026-11-06T13:49:34.303415+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15746,7 +15743,8 @@
     "RacingNews365 NL": "2026-11-06T09:35:00+00:00",
     "RacingNews365": "2026-11-06T09:40:00+00:00",
     "The Race": "2026-11-06T11:13:39+00:00",
-    "GPblog": "2026-11-06T10:56:00+00:00"
+    "GPblog": "2026-11-06T10:56:00+00:00",
+    "Sky Sports F1": "2026-11-06T13:07:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15754,9 +15752,10 @@
     "RacingNews365 NL": "George Russell ontvangt gridstraf voor GP Brazilië",
     "RacingNews365": "George Russell eyes Lewis Hamilton heroics as Brazil grid penalty confirmed",
     "The Race": "Russell serving another F1 engine grid penalty in Brazil",
-    "GPblog": "Russell confirms grid penalty for Mercedes at the Brazilian Grand Prix"
+    "GPblog": "Russell confirms grid penalty for Mercedes at the Brazilian Grand Prix",
+    "Sky Sports F1": "Russell to take grid penalty at Sao Paulo GP"
    },
-   "last": "2026-11-06T11:33:55.520509+00:00"
+   "last": "2026-11-06T13:49:37.528395+00:00"
   },
   "S5209": {
    "title": "Brazilian GP 2026 start time, TV channels and live streams",
@@ -16807,9 +16806,22 @@
     "AS": "El penúltimo baile con Carlos Sainz"
    },
    "last": "2026-11-06T13:44:45.917969+00:00"
+  },
+  "S5289": {
+   "title": "Hamilton says he is working with Ferrari technical chiefs on 2027",
+   "first": "2026-11-06T13:49:37.528405+00:00",
+   "sources": {
+    "GPblog": "2026-11-06T13:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton reveals behind-the-scenes Ferrari work in major 2027 title statement"
+   },
+   "last": "2026-11-06T13:49:37.528411+00:00"
   }
  },
- "story_seq": 5288,
+ "story_seq": 5289,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16928,7 +16940,7 @@
   ]
  ],
  "calendar_updated": "2026-11-05T22:45:56.254423+00:00",
- "last_run": "2026-11-06T13:44:38.427013+00:00",
+ "last_run": "2026-11-06T13:49:34.303415+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 15:00",
@@ -18468,6 +18480,11 @@
    "t": "2026-11-06T13:44:51.904752+00:00",
    "title": "McLaren, Sao Paulo GP'de tek takım olarak yeni parça getiriyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-06T13:49:40.937026+00:00",
+   "title": "Hamilton: Ferrari 2027'de şampiyonluk için mücadele edebilir",
+   "source": "GPblog"
   }
  ]
 }
