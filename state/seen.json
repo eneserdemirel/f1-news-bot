@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b0c21fec2264e1c9": "2026-10-24T12:54:56.519435+00:00",
-  "929acca8e98395bc": "2026-10-24T12:54:56.519435+00:00",
   "9e0ad28eec432c5f": "2026-10-24T12:59:59.338517+00:00",
   "fa7ff35d870a2195": "2026-10-24T13:04:55.774085+00:00",
   "44802569248c9686": "2026-10-24T13:04:55.774085+00:00",
@@ -7737,7 +7735,9 @@
   "27793064d9ea500a": "2026-11-07T12:49:17.132317+00:00",
   "45e33402ddd5c914": "2026-11-07T12:54:13.419570+00:00",
   "77df99026cb4b870": "2026-11-07T12:54:13.419570+00:00",
-  "d29dfee385c79c47": "2026-11-07T12:54:13.419570+00:00"
+  "d29dfee385c79c47": "2026-11-07T12:54:13.419570+00:00",
+  "1c9339fb6d09db46": "2026-11-07T12:59:14.324316+00:00",
+  "353728cd17de2efe": "2026-11-07T12:59:14.324316+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17537,9 +17537,35 @@
     "GPblog": "John Watson claims Todt-linked 'faction' shields Leclerc as Hamilton fights for Ferrari status"
    },
    "last": "2026-11-07T12:54:16.759459+00:00"
+  },
+  "S5624": {
+   "title": "Arizona onside kick and late field goal beat TCU",
+   "first": "2026-11-07T12:59:17.384540+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T11:09:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arizona grabs onside kick, hits late FG to pull out TCU win"
+   },
+   "last": "2026-11-07T12:59:17.384561+00:00"
+  },
+  "S5625": {
+   "title": "Official storm warning issued for Sao Paulo region ahead of Brazil GP",
+   "first": "2026-11-07T12:59:17.384567+00:00",
+   "sources": {
+    "GPFans": "2026-11-07T12:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Brazilian Grand Prix weather fears as official storm warning issued in Sao Paulo region"
+   },
+   "last": "2026-11-07T12:59:17.384573+00:00"
   }
  },
- "story_seq": 5623,
+ "story_seq": 5625,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17658,7 +17684,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T12:54:13.419570+00:00",
+ "last_run": "2026-11-07T12:59:14.324316+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19233,6 +19259,11 @@
    "t": "2026-11-07T12:54:22.378566+00:00",
    "title": "Hamilton, Brezilya GP'de motor değişimi nedeniyle grid cezası alacak",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T12:59:23.149634+00:00",
+   "title": "Brezilya GP öncesi São Paulo'da resmi fırtına uyarısı yapıldı",
+   "source": "GPFans"
   }
  ]
 }
