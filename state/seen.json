@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "812168fa9b1d80a9": "2026-10-24T18:25:33.135187+00:00",
-  "c70aa22eab4e9bea": "2026-10-24T18:25:33.135187+00:00",
   "6dd51b65d641299a": "2026-10-24T18:30:37.241472+00:00",
   "046f0d0564427f12": "2026-10-24T18:35:57.926523+00:00",
   "af084aec2e1ad872": "2026-10-24T18:35:57.926523+00:00",
@@ -7814,7 +7812,9 @@
   "425d33f617f94e72": "2026-11-07T18:15:02.395957+00:00",
   "1746bab9dc6659d5": "2026-11-07T18:20:00.439346+00:00",
   "0c1f164b637374f8": "2026-11-07T18:20:00.439346+00:00",
-  "f315b6749089ea9b": "2026-11-07T18:25:04.265290+00:00"
+  "f315b6749089ea9b": "2026-11-07T18:25:04.265290+00:00",
+  "be9de4baa5b83814": "2026-11-07T18:30:00.743102+00:00",
+  "962174d58becad18": "2026-11-07T18:30:00.743102+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8054,71 +8054,6 @@
     "PlanetF1": "Aston Martin knew Mexico GP retirement was likely as Honda battles reliability issues"
    },
    "last": "2026-11-05T20:55:27.157753+00:00"
-  },
-  "S5019": {
-   "title": "Hamilton's F1 records ahead of 400th Grand Prix",
-   "first": "2026-11-05T18:25:31.357214+00:00",
-   "sources": {
-    "Formula 1": "2026-11-05T18:25:31.357227+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Hamilton's incredible F1 records ahead of his 400th GP"
-   },
-   "last": "2026-11-05T18:25:31.357230+00:00"
-  },
-  "S5020": {
-   "title": "Yashbardhan Chauhan overcoming setbacks feature",
-   "first": "2026-11-05T18:25:31.357233+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T18:18:25+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Yashbardhan Chauhan shows pedigree to overcome setbacks"
-   },
-   "last": "2026-11-05T18:25:31.357237+00:00"
-  },
-  "S5021": {
-   "title": "ESPN opinion on Ronaldo's Portugal career ending",
-   "first": "2026-11-05T18:25:31.357239+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T13:37:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ronaldo's Portugal career ended in shame, but at his peak he was a dominant force"
-   },
-   "last": "2026-11-05T18:25:31.357242+00:00"
-  },
-  "S5022": {
-   "title": "Pundit verdict on Lawson's Racing Bulls future",
-   "first": "2026-11-05T18:25:31.357256+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T18:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Liam Lawson handed double-down verdict in F1 future fight: 'It makes no sense'"
-   },
-   "last": "2026-11-05T18:25:31.357259+00:00"
-  },
-  "S5023": {
-   "title": "Haas plan revealed after Ocon exit",
-   "first": "2026-11-05T18:25:31.357261+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-05T18:22:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Haas plan revealed following Esteban Ocon axe"
-   },
-   "last": "2026-11-05T18:25:31.357264+00:00"
   },
   "S5024": {
    "title": "Mjällby vs. Borac (5 Nov, 2026) live score",
@@ -17869,9 +17804,35 @@
     "ESPN F1": "Nottm Forest vs. Man City (7 Nov, 2026) Live Score"
    },
    "last": "2026-11-07T18:15:07.259923+00:00"
+  },
+  "S5732": {
+   "title": "Mainz 1-2 Bayern match analysis (football)",
+   "first": "2026-11-07T18:30:04.323823+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T17:07:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mainz 1-2 Bayern (Nov 7, 2026) Game Analysis"
+   },
+   "last": "2026-11-07T18:30:04.323840+00:00"
+  },
+  "S5733": {
+   "title": "Fans get emergency phone alert as storm halts Interlagos qualifying",
+   "first": "2026-11-07T18:30:04.323846+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T18:24:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Fans receive emergency warning as extreme weather strikes at Interlagos"
+   },
+   "last": "2026-11-07T18:30:04.323851+00:00"
   }
  },
- "story_seq": 5731,
+ "story_seq": 5733,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17990,7 +17951,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T18:25:04.265290+00:00",
+ "last_run": "2026-11-07T18:30:00.743102+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
