@@ -7735,7 +7735,8 @@
   "4e6651fdcc296ea9": "2026-11-07T11:29:15.393054+00:00",
   "954d7c1ed2013cd4": "2026-11-07T11:29:15.393054+00:00",
   "0fd5f83658d77c6b": "2026-11-07T11:34:14.117984+00:00",
-  "10a787f942d5b044": "2026-11-07T11:34:14.117984+00:00"
+  "10a787f942d5b044": "2026-11-07T11:34:14.117984+00:00",
+  "2fd1487ac01a9ed0": "2026-11-07T11:39:15.404252+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17536,9 +17537,22 @@
     "Motorsport.com Italia": "F1 | Haas, Câmara convince a Interlagos: un venerdì in costante crescita"
    },
    "last": "2026-11-07T11:29:19.443297+00:00"
+  },
+  "S5603": {
+   "title": "US air strikes on Iran raise doubts over Qatar and Abu Dhabi GPs",
+   "first": "2026-11-07T11:39:17.354090+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T11:34:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Trump confirms new air strikes on Iran as F1 Grands Prix approach"
+   },
+   "last": "2026-11-07T11:39:17.354106+00:00"
   }
  },
- "story_seq": 5602,
+ "story_seq": 5603,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17657,7 +17671,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T11:34:14.117984+00:00",
+ "last_run": "2026-11-07T11:39:15.404252+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19232,6 +19246,11 @@
    "t": "2026-11-07T11:29:24.118068+00:00",
    "title": "Câmara, Interlagos'ta Haas'ta ilk gününü tamamladı",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-07T11:39:21.395752+00:00",
+   "title": "Trump, F1 Grand Prix'leri yaklaşırken İran'a yeni hava saldırılarını doğruladı",
+   "source": "GPblog"
   }
  ]
 }
