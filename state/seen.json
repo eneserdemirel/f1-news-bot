@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "22667ec4b459d267": "2026-10-24T07:14:26.150179+00:00",
   "32d76935f1b061de": "2026-10-24T07:19:23.006857+00:00",
   "f3a081f438447452": "2026-10-24T07:29:23.254110+00:00",
   "b5b900af0a38eb8c": "2026-10-24T07:34:24.974354+00:00",
@@ -7716,7 +7715,11 @@
   "9855597c8528eb46": "2026-11-07T07:08:43.907174+00:00",
   "8efec58713ec5859": "2026-11-07T07:08:43.907174+00:00",
   "201b174897eb8c75": "2026-11-07T07:08:43.907174+00:00",
-  "406a5fb77ab537b5": "2026-11-07T07:13:46.140592+00:00"
+  "406a5fb77ab537b5": "2026-11-07T07:13:46.140592+00:00",
+  "22c5a64b840bfa8e": "2026-11-07T07:18:49.002808+00:00",
+  "128216eae1d063c0": "2026-11-07T07:18:49.002808+00:00",
+  "286998bacdaf7f71": "2026-11-07T07:18:49.002808+00:00",
+  "fb7cd1c2492f3484": "2026-11-07T07:18:49.002808+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17447,9 +17450,61 @@
     "GPFans": "Mercedes chief was 'angry' at F1 champion after dropping quit bombshell"
    },
    "last": "2026-11-07T07:13:48.044937+00:00"
+  },
+  "S5547": {
+   "title": "Luka Doncic scores inside over a defender",
+   "first": "2026-11-07T07:18:52.811112+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T03:37:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic scores inside over a defender"
+   },
+   "last": "2026-11-07T07:18:52.811129+00:00"
+  },
+  "S5548": {
+   "title": "Tarleton State vs. San Diego live score",
+   "first": "2026-11-07T07:18:52.811134+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T03:32:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tarleton State vs. San Diego (Nov 6, 2026) Live Score"
+   },
+   "last": "2026-11-07T07:18:52.811138+00:00"
+  },
+  "S5549": {
+   "title": "Wolff comments on F1 Middle East travel dilemma",
+   "first": "2026-11-07T07:18:52.811140+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff offers ‘as simple as that’ solution to Middle East F1 travel dilemma"
+   },
+   "last": "2026-11-07T07:18:52.811144+00:00"
+  },
+  "S5550": {
+   "title": "Verstappen asks Red Bull to fix PU inconsistency in Brazil",
+   "first": "2026-11-07T07:18:52.811146+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T07:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen asks Red Bull to find a solution to 'PU inconsistency' in Brazil"
+   },
+   "last": "2026-11-07T07:18:52.811149+00:00"
   }
  },
- "story_seq": 5546,
+ "story_seq": 5550,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17568,7 +17623,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:13:46.140592+00:00",
+ "last_run": "2026-11-07T07:18:49.002808+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19233,6 +19288,11 @@
    "t": "2026-11-07T07:13:52.413498+00:00",
    "title": "Rosberg: Lauda emeklilik kararım yüzünden kızgındı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-07T07:19:01.690528+00:00",
+   "title": "Wolff: Orta Doğu'ya gitmek istemeyen gitmesin",
+   "source": "RacingNews365"
   }
  ]
 }
