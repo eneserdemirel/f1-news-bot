@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "34bf0f6a2092f459": "2026-10-24T14:35:00.660178+00:00",
-  "d1640049aa44a6a5": "2026-10-24T14:35:00.660178+00:00",
-  "2e84f81d99351251": "2026-10-24T14:35:00.660178+00:00",
   "ba720e9160eb101d": "2026-10-24T14:40:03.270130+00:00",
   "0bccb5836ca64759": "2026-10-24T14:40:03.270130+00:00",
   "5c712548c2f27f82": "2026-10-24T14:49:56.725431+00:00",
@@ -7750,7 +7747,16 @@
   "59a4e81e691f08ed": "2026-11-07T14:34:13.071888+00:00",
   "6853d25c109be355": "2026-11-07T14:34:13.071888+00:00",
   "85ffe29039d28d40": "2026-11-07T14:34:13.071888+00:00",
-  "d96847847dadfba3": "2026-11-07T14:34:13.071888+00:00"
+  "d96847847dadfba3": "2026-11-07T14:34:13.071888+00:00",
+  "3dd0745cd504115e": "2026-11-07T14:39:15.280527+00:00",
+  "3c12a7494aa67f92": "2026-11-07T14:39:15.280527+00:00",
+  "01cffeddffb5f743": "2026-11-07T14:39:15.280527+00:00",
+  "422171844a619d5d": "2026-11-07T14:39:15.280527+00:00",
+  "b680d8104ae36b7f": "2026-11-07T14:39:15.280527+00:00",
+  "078a12c19843fdc0": "2026-11-07T14:39:15.280527+00:00",
+  "a970b7adcf0c4697": "2026-11-07T14:39:15.280527+00:00",
+  "b0ba8bd22fb95121": "2026-11-07T14:39:15.280527+00:00",
+  "674e8bd17aac11ac": "2026-11-07T14:39:15.280527+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14929,7 +14935,7 @@
     "Motorsport Week": "Charles Leclerc reveals ‘needed’ Ferrari conversation after Lewis Hamilton clash",
     "ESPN F1": "Charles Leclerc says 'everything is settled' after Lewis Hamilton, Ferrari crisis talks"
    },
-   "last": "2026-11-07T14:29:19.322628+00:00"
+   "last": "2026-11-07T14:39:19.930681+00:00"
   },
   "S5457": {
    "title": "McLaren call Brazil upgrade a pleasant surprise",
@@ -17458,7 +17464,11 @@
     "The Race": "2026-11-07T14:31:25+00:00",
     "RacingNews365": "2026-11-07T14:30:00+00:00",
     "PlanetF1": "2026-11-07T14:31:01+00:00",
-    "GPblog": "2026-11-07T14:30:00+00:00"
+    "GPblog": "2026-11-07T14:30:00+00:00",
+    "Formula 1": "2026-11-07T14:39:19.930637+00:00",
+    "Autosport": "2026-11-07T14:31:52+00:00",
+    "RacingNews365 NL": "2026-11-07T14:30:00+00:00",
+    "Crash.net": "2026-11-07T14:34:25+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17466,9 +17476,13 @@
     "The Race": "F1's Brazilian Grand Prix gets five-year extension",
     "RacingNews365": "Breaking: Legendary fan favourite F1 grand prix handed contract extension",
     "PlanetF1": "Formula 1 makes new announcement at Brazilian Grand Prix",
-    "GPblog": "F1 agrees new deal as popular Grand Prix stays until 2035"
+    "GPblog": "F1 agrees new deal as popular Grand Prix stays until 2035",
+    "Formula 1": "F1 to race in Sao Paulo through to 2035 following new deal",
+    "Autosport": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
+    "RacingNews365 NL": "Officieel: Geliefd F1-circuit breekt contract rigoureus open",
+    "Crash.net": "Iconic F1 track secures its future with bumper new deal"
    },
-   "last": "2026-11-07T14:34:19.481271+00:00"
+   "last": "2026-11-07T14:39:19.930705+00:00"
   },
   "S5648": {
    "title": "Overview of how long each F1 track's contract lasts",
@@ -17484,9 +17498,61 @@
     "PlanetF1": "F1 circuit contracts: What is the current contract status of every track?"
    },
    "last": "2026-11-07T14:34:19.481267+00:00"
+  },
+  "S5649": {
+   "title": "RB Leipzig vs Augsburg team stats",
+   "first": "2026-11-07T14:39:19.930659+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T14:35:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "RB Leipzig vs. Augsburg (Nov 7, 2026) Team Stats"
+   },
+   "last": "2026-11-07T14:39:19.930666+00:00"
+  },
+  "S5650": {
+   "title": "Mainz vs Bayern team stats",
+   "first": "2026-11-07T14:39:19.930671+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T14:35:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mainz vs. Bayern (Nov 7, 2026) Team Stats"
+   },
+   "last": "2026-11-07T14:39:19.930675+00:00"
+  },
+  "S5651": {
+   "title": "Carlos Dotor scores goal for Malaga",
+   "first": "2026-11-07T14:39:19.930685+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T13:38:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Carlos Dotor scores goal for Málaga"
+   },
+   "last": "2026-11-07T14:39:19.930690+00:00"
+  },
+  "S5652": {
+   "title": "Police seek two Verstappen helmets stolen from Silverstone",
+   "first": "2026-11-07T14:39:19.930707+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-07T13:19:25+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Diebstahl in Silverstone - Polizei sucht zwei Verstappen-Helme"
+   },
+   "last": "2026-11-07T14:39:19.930712+00:00"
   }
  },
- "story_seq": 5648,
+ "story_seq": 5652,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17605,7 +17671,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T14:34:13.071888+00:00",
+ "last_run": "2026-11-07T14:39:15.280527+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19195,6 +19261,11 @@
    "t": "2026-11-07T14:34:23.563394+00:00",
    "title": "Brezilya Grand Prix'si 2035'e kadar takvimde kalacak",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-07T14:39:22.511017+00:00",
+   "title": "Silverstone'da hırsızlık: Polis iki Verstappen kaskını arıyor",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
