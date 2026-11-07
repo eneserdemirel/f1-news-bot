@@ -1,15 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "59c75ce0aecf3acc": "2026-10-24T07:39:47.539704+00:00",
-  "dfe89e1035339a48": "2026-10-24T07:39:47.539704+00:00",
-  "0f639d7b4162d7a1": "2026-10-24T07:39:47.539704+00:00",
-  "0a796888ba23d57f": "2026-10-24T07:39:47.539704+00:00",
-  "1333fdbe591d0675": "2026-10-24T07:39:47.539704+00:00",
-  "1e2abfb01eb808a0": "2026-10-24T07:39:47.539704+00:00",
-  "0ddba104ab6a6fb4": "2026-10-24T07:39:47.539704+00:00",
-  "c6683b8fc49b3072": "2026-10-24T07:39:47.539704+00:00",
-  "b0e8dfa2dd30e525": "2026-10-24T07:39:47.539704+00:00",
   "d5cf00934dc068a2": "2026-10-24T07:44:23.964433+00:00",
   "80ee1254799c45d8": "2026-10-24T07:44:23.964433+00:00",
   "bd6df87ef8b1d647": "2026-10-24T07:44:23.964433+00:00",
@@ -7730,7 +7721,9 @@
   "34bfdda6b4f3ff89": "2026-11-07T07:33:47.036560+00:00",
   "861f08656c180942": "2026-11-07T07:33:47.036560+00:00",
   "f6e6c0af19014425": "2026-11-07T07:38:47.240325+00:00",
-  "dad41d4c5967c141": "2026-11-07T07:38:47.240325+00:00"
+  "dad41d4c5967c141": "2026-11-07T07:38:47.240325+00:00",
+  "333e26980ebdf062": "2026-11-07T07:43:43.555573+00:00",
+  "ab434686cf851b0d": "2026-11-07T07:43:43.555573+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16970,7 +16963,7 @@
    "titles": {
     "ESPN F1": "Jayson Tatum spectacular in rout of the Hornets"
    },
-   "last": "2026-11-07T03:18:17.699040+00:00"
+   "last": "2026-11-07T07:43:45.883539+00:00"
   },
   "S5511": {
    "title": "Sydney Fogu save for Maine Black Bears (not F1)",
@@ -17610,9 +17603,22 @@
     "Gazzetta dello Sport": "L’altra vittoria di Kimi: l’unico campione di F1 che non si è fatto nemici"
    },
    "last": "2026-11-07T07:38:50.498690+00:00"
+  },
+  "S5560": {
+   "title": "F1.com analysis of Mercedes' Sao Paulo rival pace after FP1",
+   "first": "2026-11-07T07:43:45.883510+00:00",
+   "sources": {
+    "Formula 1": "2026-11-07T07:43:45.883528+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Can Mercedes keep their rivals at bay in Sao Paulo?"
+   },
+   "last": "2026-11-07T07:43:45.883531+00:00"
   }
  },
- "story_seq": 5559,
+ "story_seq": 5560,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17731,22 +17737,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:38:47.240325+00:00",
+ "last_run": "2026-11-07T07:43:43.555573+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
  "last_digest_at": "2026-11-06T19:00:20.183453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T07:41:03.282856+00:00",
-   "title": "Sao Paulo GP'de yağmur riski: Cumartesi ve pazar için hava durumu",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-04T07:41:03.768568+00:00",
-   "title": "Liam Lawson Formula 1'den mi ayrılıyor? Nikola Tsolov verileri neden öne çıkıyor?",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-04T07:50:52.654589+00:00",
    "title": "Telemetri verileri Hamilton-Leclerc Ferrari çatışmasına yeni bir bakış açısı getiriyor",
@@ -19406,6 +19402,11 @@
    "t": "2026-11-07T07:38:53.842551+00:00",
    "title": "Kimi Räikkönen: F1'de düşman edinmeyen tek şampiyon",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-07T07:43:49.877429+00:00",
+   "title": "Mercedes, Sao Paulo'da rakiplerini geride tutabilecek mi?",
+   "source": "Formula 1"
   }
  ]
 }
