@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e6117e1d1a8c30c5": "2026-10-24T15:39:55.839446+00:00",
   "8b57d500fb47b416": "2026-10-24T15:45:01.184408+00:00",
   "9c745a23b5aec8ec": "2026-10-24T15:49:58.250428+00:00",
   "1158a15056df7179": "2026-10-24T15:49:58.250428+00:00",
@@ -7774,7 +7773,13 @@
   "e5d8ea9b601df8c0": "2026-11-07T15:39:12.411388+00:00",
   "465db068d7055cae": "2026-11-07T15:39:12.411388+00:00",
   "0936f29878f7cbb5": "2026-11-07T15:39:12.411388+00:00",
-  "237aad82d64ac01a": "2026-11-07T15:39:12.411388+00:00"
+  "237aad82d64ac01a": "2026-11-07T15:39:12.411388+00:00",
+  "be68e9b1270344f3": "2026-11-07T15:44:20.821742+00:00",
+  "a53b4b76a897f6cc": "2026-11-07T15:44:20.821742+00:00",
+  "092a8dc71036b213": "2026-11-07T15:44:20.821742+00:00",
+  "95fea781694e782d": "2026-11-07T15:44:20.821742+00:00",
+  "00e5d65d4b00abac": "2026-11-07T15:44:20.821742+00:00",
+  "e2ad18f8838066d4": "2026-11-07T15:44:20.821742+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7928,19 +7933,6 @@
     "Motorsport Week": "Aston Martin will ‘be really surprised’ if FIA take risks over F1 finale"
    },
    "last": "2026-11-05T21:16:10.562141+00:00"
-  },
-  "S4965": {
-   "title": "Antonelli visits Senna's grave as champion before Brazil GP",
-   "first": "2026-11-05T15:44:29.540881+00:00",
-   "sources": {
-    "Crash.net": "2026-11-05T15:34:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Kimi Antonelli visits Ayrton Senna's grave as F1 champion ahead of Brazil GP"
-   },
-   "last": "2026-11-05T15:44:29.540898+00:00"
   },
   "S4966": {
    "title": "Jack Grealish out of Everton game, says Moyes",
@@ -17401,7 +17393,8 @@
     "The Race": "2026-11-07T15:07:33+00:00",
     "Autosport": "2026-11-07T15:05:04+00:00",
     "Motorsport.com Italia": "2026-11-07T15:05:10+00:00",
-    "FormulaPassion": "2026-11-07T15:04:35+00:00"
+    "FormulaPassion": "2026-11-07T15:04:35+00:00",
+    "AS": "2026-11-07T15:31:51+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17411,9 +17404,10 @@
     "The Race": "Leclerc joins growing list of Brazilian GP grid peanlties",
     "Autosport": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
     "Motorsport.com Italia": "F1 | Le due Ferrari penalizzate di 10 posizioni per il cambio di motore. Max dal fondo con una nuova PU",
-    "FormulaPassion": "Ferrari fa ‘all-in’: doppia penalità in griglia per Leclerc e Hamilton, entrambi sostituiranno il motore termico"
+    "FormulaPassion": "Ferrari fa ‘all-in’: doppia penalità in griglia per Leclerc e Hamilton, entrambi sostituiranno il motore termico",
+    "AS": "Festival de penalizaciones: Verstappen, Hamilton, Leclerc..."
    },
-   "last": "2026-11-07T15:24:26.419096+00:00"
+   "last": "2026-11-07T15:44:25.340857+00:00"
   },
   "S5659": {
    "title": "Hull vs. Brighton odds and spread (football, not F1)",
@@ -17529,7 +17523,8 @@
     "RacingNews365": "2026-11-07T15:30:00+00:00",
     "RacingNews365 NL": "2026-11-07T15:33:00+00:00",
     "GPFans": "2026-11-07T15:34:00+00:00",
-    "Crash.net": "2026-11-07T15:37:03+00:00"
+    "Crash.net": "2026-11-07T15:37:03+00:00",
+    "Autosport": "2026-11-07T15:37:40+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17540,9 +17535,10 @@
     "RacingNews365": "2026 F1 Sao Paulo Grand Prix - Brazil Free Practice 3 results",
     "RacingNews365 NL": "Uitslag derde vrije training F1 GP Brazilië 2026 in São Paulo",
     "GPFans": "F1 Results Today: Brazilian Grand Prix final practice times and positions",
-    "Crash.net": "Max Verstappen tops Brazil GP FP3 as Lewis Hamilton suffers engine trouble"
+    "Crash.net": "Max Verstappen tops Brazil GP FP3 as Lewis Hamilton suffers engine trouble",
+    "Autosport": "F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble"
    },
-   "last": "2026-11-07T15:39:18.005064+00:00"
+   "last": "2026-11-07T15:44:25.340843+00:00"
   },
   "S5668": {
    "title": "Alex Eala outlasts Sakkari in Hong Kong Open semifinal",
@@ -17569,9 +17565,35 @@
     "RacingNews365 NL": "Verstappen geeft hoopvol signaal af richting kwalificatie Brazilië"
    },
    "last": "2026-11-07T15:39:18.005045+00:00"
+  },
+  "S5670": {
+   "title": "Perez faces investigation over object thrown from cockpit in FP3",
+   "first": "2026-11-07T15:44:25.340831+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T15:38:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Sergio Perez faces investigation after cockpit incident in Brazil FP3"
+   },
+   "last": "2026-11-07T15:44:25.340837+00:00"
+  },
+  "S5671": {
+   "title": "Analysis: why Verstappen can't take pole despite FP3 lead",
+   "first": "2026-11-07T15:44:25.340847+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-07T15:38:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Verstappen-Bestzeit in Brasilien: Warum er trotzdem keine Pole holen kann - Motorsport-Total.com"
+   },
+   "last": "2026-11-07T15:44:25.340852+00:00"
   }
  },
- "story_seq": 5669,
+ "story_seq": 5671,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17690,17 +17712,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:39:12.411388+00:00",
+ "last_run": "2026-11-07T15:44:20.821742+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T15:41:27.650013+00:00",
-   "title": "Antonelli'nin şampiyonluğunda Mercedes W17'nin rolü",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-04T16:01:34.162212+00:00",
    "title": "Antonelli şampiyon oldu, Mercedes ekibine minnet videosu paylaştı",
@@ -19275,6 +19292,11 @@
    "t": "2026-11-07T15:34:25.621696+00:00",
    "title": "Brezilya GP: Verstappen en hızlı, Hamilton motor sorunu yaşadı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-07T15:44:30.990795+00:00",
+   "title": "Perez, Brezilya antrenmanında kokpitten cisim attığı iddiasıyla soruşturulacak",
+   "source": "GPblog"
   }
  ]
 }
