@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0b41bbd374e1ddbe": "2026-10-24T17:05:32.977884+00:00",
-  "1d37ce20d07a1f5e": "2026-10-24T17:05:32.977884+00:00",
-  "3922e31d0a84a473": "2026-10-24T17:05:32.977884+00:00",
   "e6516f5056a9bd17": "2026-10-24T17:10:35.842825+00:00",
   "746a71ac3eb28fc4": "2026-10-24T17:10:35.842825+00:00",
   "2cb0f481032bbbce": "2026-10-24T17:10:35.842825+00:00",
@@ -7828,7 +7825,10 @@
   "2c3aaf48d22eec14": "2026-11-07T17:05:00.405394+00:00",
   "067e4a0b4dd7c463": "2026-11-07T17:05:00.405394+00:00",
   "9138d29a9c3a7053": "2026-11-07T17:05:00.405394+00:00",
-  "077a7cce8d378007": "2026-11-07T17:05:00.405394+00:00"
+  "077a7cce8d378007": "2026-11-07T17:05:00.405394+00:00",
+  "6bbdd6589ab57151": "2026-11-07T17:10:02.616472+00:00",
+  "d55db1722c9f4d04": "2026-11-07T17:10:02.616472+00:00",
+  "86fad37f996588d1": "2026-11-07T17:10:02.616472+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8044,32 +8044,6 @@
     "ESPN F1": "Ben Shelton moves into Paris Masters quarters, to face Tommy Paul next"
    },
    "last": "2026-11-05T17:15:25.015905+00:00"
-  },
-  "S4990": {
-   "title": "MotoGP Qatar schedule changed over safety concerns",
-   "first": "2026-11-05T17:05:27.374684+00:00",
-   "sources": {
-    "GPblog": "2026-11-05T17:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "MotoGP Qatar schedule changed as teams delay arrival amid safety concerns"
-   },
-   "last": "2026-11-05T17:05:27.374688+00:00"
-  },
-  "S4991": {
-   "title": "Bearman says he is unfazed by Camara's Haas arrival",
-   "first": "2026-11-05T17:05:27.374691+00:00",
-   "sources": {
-    "GPblog": "2026-11-05T16:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Bearman unfazed by Camara arrival at Haas: ‘I back myself’"
-   },
-   "last": "2026-11-05T17:05:27.374694+00:00"
   },
   "S4992": {
    "title": "Mercedes brings new front wing with shorter flap to Interlagos",
@@ -17412,7 +17386,7 @@
     "RacingNews365": "Sergio Perez facing stewards investigation after 'throwing something' out of car",
     "Crash.net": "Sergio Perez faces investigation for unusual incident in Brazil GP practice"
    },
-   "last": "2026-11-07T16:20:11.473980+00:00"
+   "last": "2026-11-07T17:10:05.016970+00:00"
   },
   "S5671": {
    "title": "Analysis: why Verstappen can't take pole despite FP3 lead",
@@ -18019,9 +17993,22 @@
     "GPblog": "MotoGP Full Sprint Race Results | Marquez wins amid Aprilia fury"
    },
    "last": "2026-11-07T16:50:06.222528+00:00"
+  },
+  "S5717": {
+   "title": "Arsenal 1-0 Hull match analysis",
+   "first": "2026-11-07T17:10:05.016941+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T17:03:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal 1-0 Hull (Nov 7, 2026) Game Analysis"
+   },
+   "last": "2026-11-07T17:10:05.016961+00:00"
   }
  },
- "story_seq": 5716,
+ "story_seq": 5717,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18140,7 +18127,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T17:05:00.405394+00:00",
+ "last_run": "2026-11-07T17:10:02.616472+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19699,6 +19686,11 @@
   {
    "t": "2026-11-07T16:50:13.014467+00:00",
    "title": "Brezilya'da motor cezaları ikinci sıra mücadelesini karıştırdı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T17:10:08.592043+00:00",
+   "title": "FIA, Perez'in Brezilya GP antrenmanındaki olaya ilişkin kararını açıkladı",
    "source": "GPblog"
   }
  ]
