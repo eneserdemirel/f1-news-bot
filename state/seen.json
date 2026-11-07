@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e1b824dd588ab9bc": "2026-10-24T15:05:00.549935+00:00",
-  "3a6d5ba3a7fc6d64": "2026-10-24T15:05:00.549935+00:00",
   "9365aa18cf4065c5": "2026-10-24T15:10:01.707620+00:00",
   "abea8aeedc3a37ae": "2026-10-24T15:14:56.898839+00:00",
   "4535287c2c38c1f5": "2026-10-24T15:14:56.898839+00:00",
@@ -7763,7 +7761,10 @@
   "56e30d2cc69fd434": "2026-11-07T14:59:15.805216+00:00",
   "8a7f3c82ec7c966a": "2026-11-07T14:59:15.805216+00:00",
   "535df573e81e5e4b": "2026-11-07T15:04:13.347799+00:00",
-  "02f5a35c27088d8a": "2026-11-07T15:04:13.347799+00:00"
+  "02f5a35c27088d8a": "2026-11-07T15:04:13.347799+00:00",
+  "570bcc60b218e808": "2026-11-07T15:09:14.061394+00:00",
+  "3623e342af47e0f0": "2026-11-07T15:09:14.061394+00:00",
+  "067ff95a3abbd1ea": "2026-11-07T15:09:14.061394+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7875,19 +7876,6 @@
    },
    "last": "2026-11-06T16:14:37.890336+00:00"
   },
-  "S4885": {
-   "title": "Cristiano Ronaldo retires from international football with Portugal",
-   "first": "2026-11-05T10:43:55.655487+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T10:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cristiano Ronaldo retires from international football with Portugal"
-   },
-   "last": "2026-11-05T15:04:30.977654+00:00"
-  },
   "S4888": {
    "title": "Hezemans predicts Verstappen and Antonelli fight in Brazil",
    "first": "2026-11-05T11:03:58.584318+00:00",
@@ -7985,58 +7973,6 @@
     "The Race": "Why a new Honda F1 engine problem was brutally exposed"
    },
    "last": "2026-11-05T15:24:30.149901+00:00"
-  },
-  "S4955": {
-   "title": "Seven rookie drivers set for Sao Paulo GP FP1",
-   "first": "2026-11-05T15:04:30.977664+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T14:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "The seven F1 rookies who will drive in Sao Paulo Grand Prix FP1"
-   },
-   "last": "2026-11-05T15:04:30.977671+00:00"
-  },
-  "S4956": {
-   "title": "Latest weather forecast for Sao Paulo Grand Prix weekend",
-   "first": "2026-11-05T15:04:30.977677+00:00",
-   "sources": {
-    "GPFans": "2026-11-05T14:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 Brazilian Grand Prix weather forecast: Latest from Sao Paulo"
-   },
-   "last": "2026-11-05T15:04:30.977682+00:00"
-  },
-  "S4957": {
-   "title": "San Marino town displays giant banner for Antonelli's title",
-   "first": "2026-11-05T15:04:30.977686+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-05T14:48:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "San Marino accoglie il 'suo' campione: \"Kimi Antonelli World Champion 2026\""
-   },
-   "last": "2026-11-05T15:04:30.977690+00:00"
-  },
-  "S4958": {
-   "title": "Brazil has two drivers on F1 grid for first time in decade",
-   "first": "2026-11-05T15:04:30.977694+00:00",
-   "sources": {
-    "AS": "2026-11-05T14:57:08+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Brasil recupera su protagonismo en la Fórmula 1"
-   },
-   "last": "2026-11-05T15:04:30.977698+00:00"
   },
   "S4959": {
    "title": "Taskin flies the flag for Bangladesh's fast bowlers on tough day",
@@ -17582,15 +17518,21 @@
    "first": "2026-11-07T15:04:17.383393+00:00",
    "sources": {
     "Formula 1": "2026-11-07T15:04:17.383408+00:00",
-    "Sky Sports F1": "2026-11-07T14:34:00+00:00"
+    "Sky Sports F1": "2026-11-07T14:34:00+00:00",
+    "The Race": "2026-11-07T15:07:33+00:00",
+    "Autosport": "2026-11-07T15:05:04+00:00",
+    "Motorsport.com Italia": "2026-11-07T15:05:10+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Hamilton, Leclerc and Verstappen set for Brazil grid drops",
-    "Sky Sports F1": "Hamilton, Verstappen, Leclerc to serve Sao Paulo GP grid penalties"
+    "Sky Sports F1": "Hamilton, Verstappen, Leclerc to serve Sao Paulo GP grid penalties",
+    "The Race": "Leclerc joins growing list of Brazilian GP grid peanlties",
+    "Autosport": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
+    "Motorsport.com Italia": "F1 | Le due Ferrari penalizzate di 10 posizioni per il cambio di motore. Max dal fondo con una nuova PU"
    },
-   "last": "2026-11-07T15:04:17.383421+00:00"
+   "last": "2026-11-07T15:09:16.566971+00:00"
   }
  },
  "story_seq": 5658,
@@ -17712,7 +17654,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:04:13.347799+00:00",
+ "last_run": "2026-11-07T15:09:14.061394+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
