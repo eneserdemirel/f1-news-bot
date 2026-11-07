@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "50e1b50bc51d16b5": "2026-10-24T22:36:10.428132+00:00",
-  "8e72af76c62699ce": "2026-10-24T22:36:10.428132+00:00",
-  "a72eb5b656b8217d": "2026-10-24T22:36:10.428132+00:00",
-  "08a0b6c995a54e90": "2026-10-24T22:36:10.428132+00:00",
-  "13514b5be43c4755": "2026-10-24T22:36:10.428132+00:00",
-  "a0523bcb11233245": "2026-10-24T22:36:10.428132+00:00",
   "0679928944d47d3f": "2026-10-24T22:41:06.411590+00:00",
   "78b0dd6af14e84cc": "2026-10-24T22:41:06.411590+00:00",
   "1a2b3ee39450b02b": "2026-10-24T22:41:06.411590+00:00",
@@ -7806,7 +7800,10 @@
   "76efc44e5ea2b0bb": "2026-11-07T22:30:32.194720+00:00",
   "d8a49809ce3f5a17": "2026-11-07T22:35:34.805545+00:00",
   "31c05fe8b26c5078": "2026-11-07T22:35:34.805545+00:00",
-  "b09a814b973ff099": "2026-11-07T22:35:34.805545+00:00"
+  "b09a814b973ff099": "2026-11-07T22:35:34.805545+00:00",
+  "189fc01cb550f41a": "2026-11-07T22:40:32.982961+00:00",
+  "a4df76e5794aff49": "2026-11-07T22:40:32.982961+00:00",
+  "86e2fab9cbee6e2d": "2026-11-07T22:40:32.982961+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8101,32 +8098,6 @@
    },
    "last": "2026-11-06T16:19:50.239675+00:00"
   },
-  "S5099": {
-   "title": "F1.com roundup of Sao Paulo GP paddock talking points",
-   "first": "2026-11-05T22:36:11.653387+00:00",
-   "sources": {
-    "Formula 1": "2026-11-05T22:36:11.653404+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "All the stories that got the Sao Paulo paddock talking"
-   },
-   "last": "2026-11-05T22:36:11.653409+00:00"
-  },
-  "S5100": {
-   "title": "Bronny James assigned to Coachella Valley Lakers in G League",
-   "first": "2026-11-05T22:36:11.653415+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T20:40:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bronny James assigned to Coachella Valley Lakers in G League"
-   },
-   "last": "2026-11-05T22:36:11.653420+00:00"
-  },
   "S5101": {
    "title": "Verstappen and Alonso advise Camara on F1 debut pressure",
    "first": "2026-11-05T22:36:11.653424+00:00",
@@ -8141,19 +8112,6 @@
     "RacingNews365 NL": "Mentor Verstappen geeft advies aan kersvers F1-debutant"
    },
    "last": "2026-11-06T06:08:17.682519+00:00"
-  },
-  "S5102": {
-   "title": "Hamilton reveals how he helped Hadjar avoid a penalty",
-   "first": "2026-11-05T22:36:11.653433+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-05T22:28:55+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Lewis Hamilton verrät: So bewahrte er Isack Hadjar vor einer Strafe - Motorsport-Total.com"
-   },
-   "last": "2026-11-05T22:36:11.653438+00:00"
   },
   "S5103": {
    "title": "F1 record $1 billion announcement reported by PlanetF1",
@@ -17540,7 +17498,7 @@
     "Gazzetta dello Sport": "Russell-Wolff, team radio infuocato dopo l'errore nelle qualifiche del Gp Brasile",
     "ESPN F1": "George Russell fumes at 'wrong decision' from Mercedes after missing out on pole"
    },
-   "last": "2026-11-07T22:20:42.288856+00:00"
+   "last": "2026-11-07T22:40:36.778732+00:00"
   },
   "S5784": {
    "title": "Updated Brazil GP starting order with grid penalties",
@@ -18355,9 +18313,35 @@
     "ESPN F1": "Reese Mooney connects for 66-yard TD pass"
    },
    "last": "2026-11-07T22:35:38.915528+00:00"
+  },
+  "S5844": {
+   "title": "Antonelli says two Q3 errors cost him, but he was not at 100%",
+   "first": "2026-11-07T22:40:36.778696+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-07T22:38:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli: “Ho fatto due errori, ma non ero al 100%. Ci giochiamo la vittoria in ogni condizione”"
+   },
+   "last": "2026-11-07T22:40:36.778717+00:00"
+  },
+  "S5845": {
+   "title": "Piastri explains the trigger behind his Brazil Q2 exit",
+   "first": "2026-11-07T22:40:36.778721+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-07T22:38:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri pinpoints key trigger behind Brazilian GP qualifying exit"
+   },
+   "last": "2026-11-07T22:40:36.778725+00:00"
   }
  },
- "story_seq": 5843,
+ "story_seq": 5845,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18476,7 +18460,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T22:35:34.805545+00:00",
+ "last_run": "2026-11-07T22:40:32.982961+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20121,6 +20105,16 @@
    "t": "2026-11-07T22:35:44.167112+00:00",
    "title": "Wolff, Russell'ın pole kaçıran Mercedes talimatını savundu",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T22:40:42.142002+00:00",
+   "title": "Antonelli: \"İki hata yaptım, ama %100 değildim\"",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-07T22:40:42.621958+00:00",
+   "title": "Piastri, Brezilya qualifying'deki erken elenmesinin nedenini açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
