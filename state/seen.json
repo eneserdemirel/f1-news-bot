@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2c23602bfa79fe19": "2026-10-24T02:18:43.697008+00:00",
   "0beb3bfd6631c6b4": "2026-10-24T02:43:38.727790+00:00",
   "4035ee6fd8121e33": "2026-10-24T02:48:38.326112+00:00",
   "5181e402f8bda484": "2026-10-24T02:48:38.326112+00:00",
@@ -7718,7 +7717,9 @@
   "f6e690ff6c671bad": "2026-11-07T02:03:15.488531+00:00",
   "1267cd81f810bfda": "2026-11-07T02:03:15.488531+00:00",
   "7471f7a31108e5c7": "2026-11-07T02:03:15.488531+00:00",
-  "0b044204e4616e6c": "2026-11-07T02:08:13.527624+00:00"
+  "0b044204e4616e6c": "2026-11-07T02:08:13.527624+00:00",
+  "efeb47f437f9a04a": "2026-11-07T02:23:19.345168+00:00",
+  "67b892b588832098": "2026-11-07T02:23:19.345168+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7915,19 +7916,6 @@
     "GPblog": "F1 Today: Charles Leclerc becomes a father, Lewis Hamilton makes FIA demand"
    },
    "last": "2026-11-05T08:53:38.312751+00:00"
-  },
-  "S4792": {
-   "title": "Canterbury great Paul Langmack dies, ESPN reports",
-   "first": "2026-11-05T02:22:38.744662+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-04T23:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'Significant loss': Canterbury great Paul Langmack dies"
-   },
-   "last": "2026-11-05T02:22:38.744707+00:00"
   },
   "S4793": {
    "title": "Raptors vs. Nuggets live score (NBA)",
@@ -17560,9 +17548,35 @@
     "ESPN F1": "Alex Godley Jr. gets the basket plus the foul"
    },
    "last": "2026-11-07T02:08:16.023197+00:00"
+  },
+  "S5501": {
+   "title": "Grace Bickett scores a goal",
+   "first": "2026-11-07T02:23:21.252721+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T23:21:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grace Bickett tallies a goal"
+   },
+   "last": "2026-11-07T02:23:21.252739+00:00"
+  },
+  "S5502": {
+   "title": "Atlético Grau vs. Cusco live score",
+   "first": "2026-11-07T02:23:21.252743+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-06T20:32:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Atlético Grau vs. Cusco (6 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-07T02:23:21.252748+00:00"
   }
  },
- "story_seq": 5500,
+ "story_seq": 5502,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17681,7 +17695,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T02:18:13.441231+00:00",
+ "last_run": "2026-11-07T02:23:19.345168+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
