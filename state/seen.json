@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0679928944d47d3f": "2026-10-24T22:41:06.411590+00:00",
-  "78b0dd6af14e84cc": "2026-10-24T22:41:06.411590+00:00",
-  "1a2b3ee39450b02b": "2026-10-24T22:41:06.411590+00:00",
-  "080e3de28f9a0667": "2026-10-24T22:41:06.411590+00:00",
   "e74903f74534d5ab": "2026-10-24T22:46:08.609469+00:00",
   "9452a02c02c67a02": "2026-10-24T22:46:08.609469+00:00",
   "de77d78a6716f9ff": "2026-10-24T22:46:08.609469+00:00",
@@ -7803,7 +7799,9 @@
   "b09a814b973ff099": "2026-11-07T22:35:34.805545+00:00",
   "189fc01cb550f41a": "2026-11-07T22:40:32.982961+00:00",
   "a4df76e5794aff49": "2026-11-07T22:40:32.982961+00:00",
-  "86e2fab9cbee6e2d": "2026-11-07T22:40:32.982961+00:00"
+  "86e2fab9cbee6e2d": "2026-11-07T22:40:32.982961+00:00",
+  "4e5105bf0d3cf3ca": "2026-11-07T22:45:33.709714+00:00",
+  "28345a70068303cb": "2026-11-07T22:45:33.709714+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17713,14 +17711,16 @@
    "title": "Russell admits costly misjudgement in Brazil qualifying",
    "first": "2026-11-07T21:16:02.500696+00:00",
    "sources": {
-    "PlanetF1": "2026-11-07T21:13:58+00:00"
+    "PlanetF1": "2026-11-07T21:13:58+00:00",
+    "Sky Sports F1": "2026-11-07T22:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Brazilian GP: Qualifying top 3 reaction as George Russell reveals costly ‘misjudgement’"
+    "PlanetF1": "Brazilian GP: Qualifying top 3 reaction as George Russell reveals costly ‘misjudgement’",
+    "Sky Sports F1": "'Very disappointed' Russell says Mercedes error cost him Sao Paulo GP pole"
    },
-   "last": "2026-11-07T21:16:02.500699+00:00"
+   "last": "2026-11-07T22:45:36.077654+00:00"
   },
   "S5800": {
    "title": "Vasseur says Ferrari saved tyres; Brazil suits comeback",
@@ -17964,15 +17964,17 @@
    "first": "2026-11-07T21:50:44.729280+00:00",
    "sources": {
     "RacingNews365": "2026-11-07T21:45:00+00:00",
-    "PlanetF1": "2026-11-07T22:15:58+00:00"
+    "PlanetF1": "2026-11-07T22:15:58+00:00",
+    "Formula 1": "2026-11-07T22:45:36.077628+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Liam Lawson takes blame for key error despite equaling F1 career-best",
-    "PlanetF1": "Liam Lawson reveals frustration despite equalling best F1 grid slot"
+    "PlanetF1": "Liam Lawson reveals frustration despite equalling best F1 grid slot",
+    "Formula 1": "Lawson concedes he 'didn't quite maximise' his Q3 effort"
    },
-   "last": "2026-11-07T22:20:42.288838+00:00"
+   "last": "2026-11-07T22:45:36.077646+00:00"
   },
   "S5818": {
    "title": "Russell blames miscommunication for qualifying radio outburst",
@@ -18460,7 +18462,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T22:40:32.982961+00:00",
+ "last_run": "2026-11-07T22:45:33.709714+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
