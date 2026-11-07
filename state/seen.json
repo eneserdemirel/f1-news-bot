@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "110e98450388ab30": "2026-10-24T20:15:41.655493+00:00",
-  "9f53d4f50aa44c4f": "2026-10-24T20:15:41.655493+00:00",
-  "e50492e1254171be": "2026-10-24T20:15:41.655493+00:00",
-  "17202ec7e8dce544": "2026-10-24T20:15:41.655493+00:00",
-  "03821c7b0bf5b0c9": "2026-10-24T20:15:41.655493+00:00",
-  "2996af8829d0700e": "2026-10-24T20:15:41.655493+00:00",
-  "b4f330e4c07c1728": "2026-10-24T20:15:41.655493+00:00",
   "dac40ba2ca5747f5": "2026-10-24T20:20:33.778531+00:00",
   "4cccb71c41b3e978": "2026-10-24T20:20:33.778531+00:00",
   "33b49591893a6384": "2026-10-24T20:30:35.287538+00:00",
@@ -7742,7 +7735,10 @@
   "a09f3ecdebc4d067": "2026-11-07T20:05:02.911336+00:00",
   "c861d542446bd3d4": "2026-11-07T20:10:02.064247+00:00",
   "3ff8ff3933985af6": "2026-11-07T20:10:02.064247+00:00",
-  "0cc42fa07c62f445": "2026-11-07T20:15:00.331210+00:00"
+  "0cc42fa07c62f445": "2026-11-07T20:15:00.331210+00:00",
+  "4c5dab15866b2568": "2026-11-07T20:19:59.583295+00:00",
+  "f6d65db9bcf7d95b": "2026-11-07T20:19:59.583295+00:00",
+  "d479e4a7d4512768": "2026-11-07T20:19:59.583295+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8040,45 +8036,6 @@
     "ESPN F1": "Lewis Hamilton 'not going to be silenced' over frustrations with Ferrari teammate Charles Leclerc"
    },
    "last": "2026-11-06T00:16:08.434052+00:00"
-  },
-  "S5056": {
-   "title": "AZ Alkmaar vs. Juventus team stats (Nov 5, 2026)",
-   "first": "2026-11-05T20:15:29.705829+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T20:07:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AZ Alkmaar vs. Juventus (Nov 5, 2026) Team Stats"
-   },
-   "last": "2026-11-05T20:15:29.705846+00:00"
-  },
-  "S5057": {
-   "title": "Haas unveil new partner logo after Camara arrival",
-   "first": "2026-11-05T20:15:29.705855+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T20:04:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Haas announce major new partner as Ferrari star awaits emotional home F1 debut"
-   },
-   "last": "2026-11-05T20:15:29.705859+00:00"
-  },
-  "S5058": {
-   "title": "Hamilton says Leclerc's long Ferrari tenure always a problem",
-   "first": "2026-11-05T20:15:29.705867+00:00",
-   "sources": {
-    "AS": "2026-11-05T20:03:46+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Hamilton dispara contra Leclerc"
-   },
-   "last": "2026-11-05T20:15:29.705869+00:00"
   },
   "S5059": {
    "title": "Celta Vigo vs Union SG team stats",
@@ -17673,9 +17630,48 @@
     "ESPN F1": "Real Madrid vs. Celta Vigo (Nov 21, 2026) Odds and Spread"
    },
    "last": "2026-11-07T20:15:01.833368+00:00"
+  },
+  "S5757": {
+   "title": "Man United drop into Premier League relegation zone",
+   "first": "2026-11-07T20:20:02.728196+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T19:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United hit 40-year low after dropping into Premier League relegation zone"
+   },
+   "last": "2026-11-07T20:20:02.728215+00:00"
+  },
+  "S5758": {
+   "title": "Camara crash triggers second qualifying red flag in Brazil",
+   "first": "2026-11-07T20:20:02.728220+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T20:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Rafael Camara sparks second qualifying red flag after home Sao Paulo crash"
+   },
+   "last": "2026-11-07T20:20:02.728226+00:00"
+  },
+  "S5759": {
+   "title": "Verstappen says he needs Safety Cars for Brazil comeback",
+   "first": "2026-11-07T20:20:02.728229+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T20:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen reveals what he needs to pull off another Brazil GP comeback"
+   },
+   "last": "2026-11-07T20:20:02.728233+00:00"
   }
  },
- "story_seq": 5756,
+ "story_seq": 5759,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17794,7 +17790,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T20:15:00.331210+00:00",
+ "last_run": "2026-11-07T20:19:59.583295+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -19364,6 +19360,16 @@
    "t": "2026-11-07T20:00:10.544992+00:00",
    "title": "Verstappen Brezilya GP kalifikasyonunda erken çekildi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T20:20:09.792909+00:00",
+   "title": "Rafael Camara, Sao Paulo'da kaza yaptı ve ikinci kırmızı bayrağa neden oldu",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T20:20:10.227173+00:00",
+   "title": "Verstappen, Brezilya'da yeniden geri dönüş için neye ihtiyacı olduğunu açıkladı",
+   "source": "GPblog"
   }
  ]
 }
