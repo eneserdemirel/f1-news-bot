@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ad86228092ac60e4": "2026-10-24T20:00:36.882927+00:00",
-  "97c012961831caac": "2026-10-24T20:00:36.882927+00:00",
-  "c98466533c87791a": "2026-10-24T20:00:36.882927+00:00",
-  "b31692f7919379ca": "2026-10-24T20:00:36.882927+00:00",
-  "4939f319a714e889": "2026-10-24T20:00:36.882927+00:00",
   "09d77732a51712d9": "2026-10-24T20:05:33.836819+00:00",
   "0d88bfa286fb35d7": "2026-10-24T20:05:33.836819+00:00",
   "580de2d1a11296bd": "2026-10-24T20:05:33.836819+00:00",
@@ -7751,7 +7746,9 @@
   "38d863d4c3981a34": "2026-11-07T19:55:00.818713+00:00",
   "ade6df1d74552d13": "2026-11-07T20:00:01.500312+00:00",
   "290ba227b520f4ae": "2026-11-07T20:00:01.500312+00:00",
-  "db3dd4c7f7fde068": "2026-11-07T20:00:01.500312+00:00"
+  "db3dd4c7f7fde068": "2026-11-07T20:00:01.500312+00:00",
+  "c92fc6fb88bead29": "2026-11-07T20:05:02.911336+00:00",
+  "a09f3ecdebc4d067": "2026-11-07T20:05:02.911336+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17654,9 +17651,22 @@
     "GPFans": "Max Verstappen left confused by bizarre Lance Stroll incident at Brazilian Grand Prix"
    },
    "last": "2026-11-07T20:00:05.016400+00:00"
+  },
+  "S5754": {
+   "title": "FA Cup first round results and non-league upsets",
+   "first": "2026-11-07T20:05:04.501281+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T18:02:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "FA Cup first round: Shock results, non-league giant-killings as Guiseley progress"
+   },
+   "last": "2026-11-07T20:05:04.501299+00:00"
   }
  },
- "story_seq": 5753,
+ "story_seq": 5754,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17775,17 +17785,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T20:00:01.500312+00:00",
+ "last_run": "2026-11-07T20:05:02.911336+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T20:02:01.492852+00:00",
-   "title": "Hamilton-Leclerc çekişmesi Ferrari'yi zor durumda bırakıyor",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-04T20:32:00.247591+00:00",
    "title": "Antonelli, Vettel'in en genç şampiyonluk rekorunu kırdı",
