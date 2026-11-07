@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e6dd3913a1f8eb35": "2026-10-24T16:35:33.892458+00:00",
-  "e6a56d63d09f065c": "2026-10-24T16:35:33.892458+00:00",
-  "5b24be962775e6fb": "2026-10-24T16:35:33.892458+00:00",
   "945c8515d053ad5b": "2026-10-24T16:40:38.739309+00:00",
   "2638fca01d0d10a6": "2026-10-24T16:45:34.097752+00:00",
   "f2a0135e730fd3c9": "2026-10-24T16:45:34.097752+00:00",
@@ -7818,7 +7815,9 @@
   "9d22981318379419": "2026-11-07T16:30:02.397780+00:00",
   "3850e600dbfae8ff": "2026-11-07T16:35:04.391115+00:00",
   "7df0b9dcbbb87d70": "2026-11-07T16:35:04.391115+00:00",
-  "dc03a887bc65e564": "2026-11-07T16:35:04.391115+00:00"
+  "dc03a887bc65e564": "2026-11-07T16:35:04.391115+00:00",
+  "77b5a34ca3ea5264": "2026-11-07T16:40:00.954500+00:00",
+  "7eb291a8a809cb64": "2026-11-07T16:40:00.954500+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8004,32 +8003,6 @@
     "RacingNews365": "Rafael Camara addresses key F2 question ahead of surprise F1 debut"
    },
    "last": "2026-11-05T17:35:29.095432+00:00"
-  },
-  "S4981": {
-   "title": "Anthony Gordon's LaLiga goals and assists so far",
-   "first": "2026-11-05T16:35:26.996409+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T16:12:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "All of Anthony Gordon's goals and assists in LALIGA so far"
-   },
-   "last": "2026-11-05T16:35:26.996425+00:00"
-  },
-  "S4982": {
-   "title": "Camara reportedly won't return to F2 this season despite lead",
-   "first": "2026-11-05T16:35:26.996429+00:00",
-   "sources": {
-    "GPFans": "2026-11-05T16:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 star could sacrifice championship win with Qatar and Abu Dhabi decision"
-   },
-   "last": "2026-11-05T16:35:26.996433+00:00"
   },
   "S4983": {
    "title": "Lomachenko re-signs with Top Rank, plans early '27 comeback",
@@ -17860,14 +17833,14 @@
    "title": "Guiseley vs Sutton United live score",
    "first": "2026-11-07T16:20:11.473925+00:00",
    "sources": {
-    "ESPN F1": "2026-11-07T16:14:06+00:00"
+    "ESPN F1": "2026-11-07T15:08:47+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Guiseley vs. Sutton Utd (7 Nov, 2026) Live Score"
    },
-   "last": "2026-11-07T16:20:11.473928+00:00"
+   "last": "2026-11-07T16:40:03.871155+00:00"
   },
   "S5701": {
    "title": "St Johnstone vs Dundee team stats",
@@ -18013,9 +17986,22 @@
     "ESPN F1": "Boreham Wood vs. Wigan (7 Nov, 2026) Live Score"
    },
    "last": "2026-11-07T16:35:09.286979+00:00"
+  },
+  "S5712": {
+   "title": "Heavy rain hits Interlagos just before Brazil qualifying",
+   "first": "2026-11-07T16:40:03.871168+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-07T16:36:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Interlagos geteisterd door hevige regenval vlak voor kwalificatie"
+   },
+   "last": "2026-11-07T16:40:03.871175+00:00"
   }
  },
- "story_seq": 5711,
+ "story_seq": 5712,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18134,7 +18120,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T16:35:04.391115+00:00",
+ "last_run": "2026-11-07T16:40:00.954500+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19709,6 +19695,11 @@
    "t": "2026-11-07T16:30:13.622338+00:00",
    "title": "F1 Brezilya GP'de pole mücadelesi: Antonelli ve McLaren'lar öne çıkıyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T16:40:08.021520+00:00",
+   "title": "Interlagos'ta kwalifikasyon öncesi şiddetli yağmur",
+   "source": "RacingNews365 NL"
   }
  ]
 }
