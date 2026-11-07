@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cd48af125fee4ea8": "2026-10-24T23:31:07.667080+00:00",
   "752be3c3de5272b6": "2026-10-24T23:36:09.459830+00:00",
   "213fbb3c8cf5a345": "2026-10-24T23:36:09.459830+00:00",
   "fc7728ada9909587": "2026-10-24T23:36:09.459830+00:00",
@@ -7798,7 +7797,9 @@
   "85f436273689a11b": "2026-11-07T23:20:35.358703+00:00",
   "154725bd15993329": "2026-11-07T23:25:33.328433+00:00",
   "9ac8149be39d5248": "2026-11-07T23:25:33.328433+00:00",
-  "34bab636fd76689d": "2026-11-07T23:25:33.328433+00:00"
+  "34bab636fd76689d": "2026-11-07T23:25:33.328433+00:00",
+  "01070402291c26db": "2026-11-07T23:35:33.144742+00:00",
+  "0eabc2320adbb189": "2026-11-07T23:35:33.144742+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18537,9 +18538,35 @@
     "ESPN F1": "Trump offered press secretary role to Dana White; UFC boss declined, report says"
    },
    "last": "2026-11-07T23:25:36.553155+00:00"
+  },
+  "S5868": {
+   "title": "Utah blanks BYU in second half to stay unbeaten",
+   "first": "2026-11-07T23:35:35.957761+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T21:05:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No. 3 Utah blanks No. 9 BYU in second half to stay unbeaten"
+   },
+   "last": "2026-11-07T23:35:35.957776+00:00"
+  },
+  "S5869": {
+   "title": "Preview: Verstappen and Hamilton's comeback chances in Sao Paulo reverse grid",
+   "first": "2026-11-07T23:35:35.957780+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-07T23:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Can Verstappen, Hamilton come from the back in Sao Paulo 'reverse grid' race?"
+   },
+   "last": "2026-11-07T23:35:35.957784+00:00"
   }
  },
- "story_seq": 5867,
+ "story_seq": 5869,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18658,7 +18685,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:30:35.203444+00:00",
+ "last_run": "2026-11-07T23:35:33.144742+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20328,6 +20355,11 @@
    "t": "2026-11-07T23:20:44.858408+00:00",
    "title": "Sao Paulo GP'de Mercedes şampiyonluğa bir adım uzakta",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-07T23:35:41.330970+00:00",
+   "title": "Verstappen ve Hamilton São Paulo'da geriden yarışacak",
+   "source": "Sky Sports F1"
   }
  ]
 }
