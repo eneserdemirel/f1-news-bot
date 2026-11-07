@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "41f79c3cebcbaf04": "2026-10-24T08:24:22.392099+00:00",
   "483638eb5e2bcec6": "2026-10-24T08:29:25.083072+00:00",
   "8a7c01cd77a417a2": "2026-10-24T08:29:25.083072+00:00",
   "20c6f3ff6f12da93": "2026-10-24T08:34:23.035595+00:00",
@@ -7718,7 +7717,10 @@
   "8b919ffe4a7a2843": "2026-11-07T08:03:55.718222+00:00",
   "1eb5e38b907b918f": "2026-11-07T08:23:45.089440+00:00",
   "ab0a20815f9b8302": "2026-11-07T08:23:45.089440+00:00",
-  "cbfa2824ae1995d0": "2026-11-07T08:23:45.089440+00:00"
+  "cbfa2824ae1995d0": "2026-11-07T08:23:45.089440+00:00",
+  "59252659084e24b0": "2026-11-07T08:28:43.752867+00:00",
+  "393977ca5c0e8eb2": "2026-11-07T08:28:43.752867+00:00",
+  "86305a8594ac9045": "2026-11-07T08:28:43.752867+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17529,14 +17531,14 @@
    "title": "Hardik left out of Baroda squad for Syed Mushtaq Ali Trophy",
    "first": "2026-11-07T07:38:50.498664+00:00",
    "sources": {
-    "ESPN F1": "2026-11-07T07:33:21+00:00"
+    "ESPN F1": "2026-11-07T07:31:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy"
    },
-   "last": "2026-11-07T07:38:50.498682+00:00"
+   "last": "2026-11-07T08:28:47.073799+00:00"
   },
   "S5559": {
    "title": "Gazzetta feature on Antonelli as F1 champion with no enemies",
@@ -17653,10 +17655,23 @@
    "titles": {
     "Motorsport.com Italia": "Ghini: \"Chi risolverà il rebus della Ferrari?\""
    },
-   "last": "2026-11-07T08:23:49.053483+00:00"
+   "last": "2026-11-07T08:28:47.073812+00:00"
+  },
+  "S5568": {
+   "title": "Corriere dello Sport: Leclerc-Hamilton one-hour talk, 2027 pact reported",
+   "first": "2026-11-07T08:28:47.073816+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-07T08:19:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Retroscena Ferrari: un’ora di confronto tra Leclerc e Hamilton, si va verso un patto per il 2027"
+   },
+   "last": "2026-11-07T08:28:47.073820+00:00"
   }
  },
- "story_seq": 5567,
+ "story_seq": 5568,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17775,7 +17790,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T08:23:45.089440+00:00",
+ "last_run": "2026-11-07T08:28:43.752867+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
