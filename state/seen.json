@@ -7736,7 +7736,8 @@
   "954d7c1ed2013cd4": "2026-11-07T11:29:15.393054+00:00",
   "0fd5f83658d77c6b": "2026-11-07T11:34:14.117984+00:00",
   "10a787f942d5b044": "2026-11-07T11:34:14.117984+00:00",
-  "2fd1487ac01a9ed0": "2026-11-07T11:39:15.404252+00:00"
+  "2fd1487ac01a9ed0": "2026-11-07T11:39:15.404252+00:00",
+  "a52b5173318a6514": "2026-11-07T11:44:12.834820+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7985,19 +7986,6 @@
     "ESPN F1": "Mark Robinson returns to Sussex as director of cricket"
    },
    "last": "2026-11-05T11:53:54.635729+00:00"
-  },
-  "S4899": {
-   "title": "Kitchee SC vs. Phnom Penh live score",
-   "first": "2026-11-05T11:43:53.840467+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T11:35:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kitchee SC vs. Phnom Penh (5 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-05T11:43:53.840473+00:00"
   },
   "S4900": {
    "title": "Ajith Ram feature on journey to all-round success",
@@ -17550,9 +17538,22 @@
     "GPblog": "Trump confirms new air strikes on Iran as F1 Grands Prix approach"
    },
    "last": "2026-11-07T11:39:17.354106+00:00"
+  },
+  "S5604": {
+   "title": "Lawson says Racing Bulls early upgrades were midfield 'green flag'",
+   "first": "2026-11-07T11:44:14.804236+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-07T11:00:48+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Liam Lawson pinpoints major Racing Bulls 2026 midfield ‘green flag’"
+   },
+   "last": "2026-11-07T11:44:14.804253+00:00"
   }
  },
- "story_seq": 5603,
+ "story_seq": 5604,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17671,17 +17672,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T11:39:15.404252+00:00",
+ "last_run": "2026-11-07T11:44:12.834820+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
  "last_digest_at": "2026-11-06T19:00:20.183453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T11:41:52.263020+00:00",
-   "title": "Ferrari, Hamilton'ın 'büyük sorun' yorumu nedeniyle eleştirildi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-04T11:51:51.228058+00:00",
    "title": "Audi takım patronu Hülkenberg'i savundu: \"Ben de aynı boşluğa girerdim\"",
@@ -19251,6 +19247,11 @@
    "t": "2026-11-07T11:39:21.395752+00:00",
    "title": "Trump, F1 Grand Prix'leri yaklaşırken İran'a yeni hava saldırılarını doğruladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T11:44:19.072458+00:00",
+   "title": "Lawson: Racing Bulls'un gelişim paketi sezonun 'yeşil ışığı' oldu",
+   "source": "Motorsport Week"
   }
  ]
 }
