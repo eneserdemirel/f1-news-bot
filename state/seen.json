@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bb41a1936119ba41": "2026-10-24T13:44:55.589462+00:00",
   "c1744070ef4de98e": "2026-10-24T13:54:54.362344+00:00",
   "67b594ec2cbe28eb": "2026-10-24T13:54:54.362344+00:00",
   "53c3e0f52143f158": "2026-10-24T13:54:54.362344+00:00",
@@ -7738,7 +7737,10 @@
   "df484327c6b003d4": "2026-11-07T13:34:12.660184+00:00",
   "77316e723ebd4a48": "2026-11-07T13:39:14.091152+00:00",
   "1b3c932ad07d268f": "2026-11-07T13:39:14.091152+00:00",
-  "803dd3082aebc8b5": "2026-11-07T13:39:14.091152+00:00"
+  "803dd3082aebc8b5": "2026-11-07T13:39:14.091152+00:00",
+  "9ac76f38775f33a8": "2026-11-07T13:49:15.374747+00:00",
+  "62797acb207f95ee": "2026-11-07T13:49:15.374747+00:00",
+  "781368df40f6f34a": "2026-11-07T13:49:15.374747+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16701,7 +16703,8 @@
     "FormulaPassion": "2026-11-07T09:00:00+00:00",
     "RacingNews365": "2026-11-07T13:25:00+00:00",
     "GPblog": "2026-11-07T13:30:00+00:00",
-    "RacingNews365 NL": "2026-11-07T13:30:00+00:00"
+    "RacingNews365 NL": "2026-11-07T13:30:00+00:00",
+    "Crash.net": "2026-11-07T13:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16709,9 +16712,10 @@
     "FormulaPassion": "F1 GP Brasile 2026, FP3: ultimi affinamenti prima delle qualifiche, si parte 15.30 – DIRETTA",
     "RacingNews365": "LIVE: 2026 F1 Sao Paulo Grand Prix - Brazil Free Practice 3",
     "GPblog": "F1 LIVE | Follow FP3 of the Sao Paulo Grand Prix here",
-    "RacingNews365 NL": "Live derde vrije training F1 GP Brazilië 2026 in São Paulo"
+    "RacingNews365 NL": "Live derde vrije training F1 GP Brazilië 2026 in São Paulo",
+    "Crash.net": "F1 Brazil LIVE: Updates from final practice in Sao Paulo"
    },
-   "last": "2026-11-07T13:39:16.432270+00:00"
+   "last": "2026-11-07T13:49:18.581148+00:00"
   },
   "S5577": {
    "title": "Melbourne City vs. Western Sydney live score (A-League)",
@@ -17429,9 +17433,35 @@
     "PlanetF1": "Kimi Antonelli responds to Vettel message as F1 record falls"
    },
    "last": "2026-11-07T13:39:16.432286+00:00"
+  },
+  "S5632": {
+   "title": "Schmitz says Red Bull shows similarities to Ferrari at times",
+   "first": "2026-11-07T13:49:18.581101+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-07T13:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull ziet opvallende overeenkomst met Ferrari: \"Dat is vaker zo\""
+   },
+   "last": "2026-11-07T13:49:18.581129+00:00"
+  },
+  "S5633": {
+   "title": "Lindblad edits Tsolov post amid fan speculation on Lawson",
+   "first": "2026-11-07T13:49:18.581135+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T13:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Lindblad edits Tsolov post after fans read it as sign Lawson will be replaced"
+   },
+   "last": "2026-11-07T13:49:18.581141+00:00"
   }
  },
- "story_seq": 5631,
+ "story_seq": 5633,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17550,7 +17580,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T13:44:15.793818+00:00",
+ "last_run": "2026-11-07T13:49:15.374747+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19125,6 +19155,16 @@
    "t": "2026-11-07T13:39:20.019818+00:00",
    "title": "Kimi Antonelli, Vettel'in mesajına yanıt verdi; F1 rekoru kırıldı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-07T13:49:24.023952+00:00",
+   "title": "Red Bull, Ferrari ile benzer bir yaklaşım izlediğini fark etti",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T13:49:24.414536+00:00",
+   "title": "Lindblad, Tsolov paylaşımını değiştirdi; taraftarlar Lawson'ın yerine geçeceği yorumu yaptı",
+   "source": "GPblog"
   }
  ]
 }
