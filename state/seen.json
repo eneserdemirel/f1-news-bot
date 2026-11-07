@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f74d43eec2f3dae9": "2026-10-24T23:11:09.186960+00:00",
-  "5b92aa2856088d38": "2026-10-24T23:11:09.186960+00:00",
-  "a4f8036b460968c6": "2026-10-24T23:11:09.186960+00:00",
-  "ce33ade0e6fa2096": "2026-10-24T23:11:09.186960+00:00",
   "0238758afbb3fa73": "2026-10-24T23:16:09.456309+00:00",
   "b92cf57bc9a6ca47": "2026-10-24T23:16:09.456309+00:00",
   "fdb73777d63ae131": "2026-10-24T23:21:07.964314+00:00",
@@ -7800,7 +7796,8 @@
   "7dd6f9c88e49a452": "2026-11-07T23:05:32.166335+00:00",
   "d7a31fe2ff692e4b": "2026-11-07T23:05:32.166335+00:00",
   "787e12f63e0fe620": "2026-11-07T23:10:36.421321+00:00",
-  "c24ba4dea04434cf": "2026-11-07T23:10:36.421321+00:00"
+  "c24ba4dea04434cf": "2026-11-07T23:10:36.421321+00:00",
+  "cfa8b7ba039d7630": "2026-11-07T23:15:32.456135+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18472,9 +18469,22 @@
     "Crash.net": "Why Fernando Alonso was disappointed despite Brazil GP qualifying heroics"
    },
    "last": "2026-11-07T23:10:39.077996+00:00"
+  },
+  "S5861": {
+   "title": "Brazil qualifying result changed overnight due to engine penalties",
+   "first": "2026-11-07T23:15:36.469236+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-07T23:08:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Qualifying-Ergebnis in São Paulo wegen Motorstrafen über Nacht geändert"
+   },
+   "last": "2026-11-07T23:15:36.469258+00:00"
   }
  },
- "story_seq": 5860,
+ "story_seq": 5861,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18593,7 +18603,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:10:36.421321+00:00",
+ "last_run": "2026-11-07T23:15:32.456135+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
