@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4985f3be69bce590": "2026-10-24T19:05:36.094192+00:00",
-  "0e103877a779fc6d": "2026-10-24T19:05:36.094192+00:00",
-  "15fcd11f5d8bebfd": "2026-10-24T19:05:36.094192+00:00",
-  "d917dbf7d0bd107c": "2026-10-24T19:05:36.094192+00:00",
   "197c57cf0d088b60": "2026-10-24T19:10:34.145783+00:00",
   "3d7ad12af92256bf": "2026-10-24T19:10:34.145783+00:00",
   "0ff5712fabadb299": "2026-10-24T19:15:37.469834+00:00",
@@ -7781,7 +7777,8 @@
   "de42b8517ae685a3": "2026-11-07T18:55:02.100717+00:00",
   "dfee5d7e704a3cc8": "2026-11-07T19:00:01.976429+00:00",
   "19018cd414c9fbd5": "2026-11-07T19:05:02.124652+00:00",
-  "50c7a666e8ca88f1": "2026-11-07T19:05:02.124652+00:00"
+  "50c7a666e8ca88f1": "2026-11-07T19:05:02.124652+00:00",
+  "08e279d79cad35ed": "2026-11-07T19:10:00.297029+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7857,19 +7854,6 @@
    },
    "last": "2026-11-06T16:14:37.890336+00:00"
   },
-  "S4959": {
-   "title": "Taskin flies the flag for Bangladesh's fast bowlers on tough day",
-   "first": "2026-11-05T15:14:26.964836+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T15:03:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Taskin flies the flag for Bangladesh's fast bowlers on tough day"
-   },
-   "last": "2026-11-05T19:05:29.691399+00:00"
-  },
   "S4961": {
    "title": "Aston Martin criticise media over Qatar and Abu Dhabi fears",
    "first": "2026-11-05T15:24:30.149919+00:00",
@@ -7937,19 +7921,6 @@
     "RacingNews365 NL": "Toptalent verrast door plots Formule 1-debuut bij GP Brazilië"
    },
    "last": "2026-11-05T21:36:13.674033+00:00"
-  },
-  "S5005": {
-   "title": "Anderlecht vs RB Salzburg team stats (Nov 5, 2026)",
-   "first": "2026-11-05T17:55:26.232330+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T17:53:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Anderlecht vs. RB Salzburg (Nov 5, 2026) Team Stats"
-   },
-   "last": "2026-11-05T19:05:29.691377+00:00"
   },
   "S5008": {
    "title": "NEC vs Omonia team stats (Nov 5, 2026)",
@@ -8061,110 +8032,6 @@
     "Motorsport Week": "Lewis Hamilton issues blunt answer to crucial Charles Leclerc question"
    },
    "last": "2026-11-06T07:28:18.177557+00:00"
-  },
-  "S5037": {
-   "title": "AGF vs. Braga (5 Nov, 2026) team stats",
-   "first": "2026-11-05T19:05:29.691341+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T18:59:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AGF vs. Braga (5 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-05T19:05:29.691359+00:00"
-  },
-  "S5038": {
-   "title": "Mjällby vs. Borac (5 Nov, 2026) team stats",
-   "first": "2026-11-05T19:05:29.691363+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T18:59:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mjällby vs. Borac (5 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-05T19:05:29.691367+00:00"
-  },
-  "S5039": {
-   "title": "Vikings to start Carson Wentz against Bills",
-   "first": "2026-11-05T19:05:29.691369+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T18:36:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out"
-   },
-   "last": "2026-11-05T19:05:29.691372+00:00"
-  },
-  "S5040": {
-   "title": "Sparta vs. Bournemouth (5 Nov, 2026) team stats",
-   "first": "2026-11-05T19:05:29.691379+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T18:22:18+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sparta vs. Bournemouth (5 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-05T19:05:29.691382+00:00"
-  },
-  "S5041": {
-   "title": "Real Sociedad vs. Lyon (5 Nov, 2026) team stats",
-   "first": "2026-11-05T19:05:29.691384+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T18:22:18+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Real Sociedad vs. Lyon (5 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-05T19:05:29.691386+00:00"
-  },
-  "S5042": {
-   "title": "Jared Verse says he spoke to Browns teammates about defending him",
-   "first": "2026-11-05T19:05:29.691389+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T17:32:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jared Verse says he has spoken to Browns teammates about not defending him"
-   },
-   "last": "2026-11-05T19:05:29.691391+00:00"
-  },
-  "S5043": {
-   "title": "LIV Golf to shutter the league",
-   "first": "2026-11-05T19:05:29.691393+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T17:19:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LIV Golf to shutter the league after failing to get support"
-   },
-   "last": "2026-11-05T19:05:29.691395+00:00"
-  },
-  "S5044": {
-   "title": "Piastri to miss Brazil GP FP1 as McLaren junior steps in",
-   "first": "2026-11-05T19:05:29.691404+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-05T19:02:58+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Oscar Piastri to miss Brazil GP FP1 as McLaren junior steps in"
-   },
-   "last": "2026-11-05T19:05:29.691407+00:00"
   },
   "S5045": {
    "title": "Verstappen gives Antonelli advice on being F1 champion",
@@ -17721,9 +17588,22 @@
     "ESPN F1": "David Lynch throws 2-yard TD pass to Luke Petitta"
    },
    "last": "2026-11-07T19:05:05.207624+00:00"
+  },
+  "S5739": {
+   "title": "Brundle backs Lawson; Red Bull would be 'pathetic' to drop him",
+   "first": "2026-11-07T19:10:03.190299+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T19:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Red Bull branded ‘pathetic’ if Max Verstappen clash triggers Liam Lawson exit"
+   },
+   "last": "2026-11-07T19:10:03.190318+00:00"
   }
  },
- "story_seq": 5738,
+ "story_seq": 5739,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17842,7 +17722,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T19:05:02.124652+00:00",
+ "last_run": "2026-11-07T19:10:00.297029+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
