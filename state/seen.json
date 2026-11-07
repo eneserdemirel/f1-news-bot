@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0e70b47d947cb1f2": "2026-10-24T07:04:24.531151+00:00",
-  "22b10e4c5fa81007": "2026-10-24T07:04:24.531151+00:00",
   "aa1a741b7c32d19c": "2026-10-24T07:09:22.174347+00:00",
   "ef0533102823b034": "2026-10-24T07:09:22.174347+00:00",
   "6895931da4373675": "2026-10-24T07:09:22.174347+00:00",
@@ -7716,7 +7714,11 @@
   "deafbeb72fee04d4": "2026-11-07T06:48:44.755568+00:00",
   "7e3eda8328bd93c8": "2026-11-07T06:48:44.755568+00:00",
   "e1ee386ad87ea34d": "2026-11-07T06:58:42.050425+00:00",
-  "30186d46fce2ea3b": "2026-11-07T07:03:48.368456+00:00"
+  "30186d46fce2ea3b": "2026-11-07T07:03:48.368456+00:00",
+  "98560c75d55a0640": "2026-11-07T07:08:43.907174+00:00",
+  "9855597c8528eb46": "2026-11-07T07:08:43.907174+00:00",
+  "8efec58713ec5859": "2026-11-07T07:08:43.907174+00:00",
+  "201b174897eb8c75": "2026-11-07T07:08:43.907174+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16289,14 +16291,16 @@
    "title": "Leclerc says Ferrari feud with Hamilton is settled",
    "first": "2026-11-06T22:15:19.770623+00:00",
    "sources": {
-    "Crash.net": "2026-11-06T22:12:10+00:00"
+    "Crash.net": "2026-11-06T22:12:10+00:00",
+    "FormulaPassion": "2026-11-07T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Charles Leclerc claims Ferrari feud is “settled” after Lewis Hamilton talks"
+    "Crash.net": "Charles Leclerc claims Ferrari feud is “settled” after Lewis Hamilton talks",
+    "FormulaPassion": "Leclerc: “Abbiamo parlato ed è tutto risolto. Ma sono state tra le peggiori FP2 dell’anno”"
    },
-   "last": "2026-11-06T22:15:19.770629+00:00"
+   "last": "2026-11-07T07:08:48.213985+00:00"
   },
   "S5457": {
    "title": "McLaren call Brazil upgrade a pleasant surprise",
@@ -17419,9 +17423,48 @@
     "PlanetF1": "Lewis Hamilton continues stinging Charles Leclerc criticism"
    },
    "last": "2026-11-07T06:48:48.085187+00:00"
+  },
+  "S5543": {
+   "title": "Hamilton calls Brazil FP2 complicated, says work needed",
+   "first": "2026-11-07T07:08:48.213995+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton: “Giornata impegnativa, FP2 complicate. C’è da lavorare”"
+   },
+   "last": "2026-11-07T07:08:48.213999+00:00"
+  },
+  "S5544": {
+   "title": "Antonelli doubts Ferrari will improve in qualifying",
+   "first": "2026-11-07T07:08:48.214003+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli non si fida della Ferrari: “Troverà qualcosa in più quando si arriva in Qualifica”"
+   },
+   "last": "2026-11-07T07:08:48.214006+00:00"
+  },
+  "S5545": {
+   "title": "Montezemolo says karting shaped Antonelli, praises Wolff's handling",
+   "first": "2026-11-07T07:08:48.214008+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Montezemolo: “Antonelli ha nel DNA i kart, come Schumacher, Senna e Verstappen. Wolff lo ha gestito nel modo giusto”"
+   },
+   "last": "2026-11-07T07:08:48.214011+00:00"
   }
  },
- "story_seq": 5542,
+ "story_seq": 5545,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17540,7 +17583,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:03:48.368456+00:00",
+ "last_run": "2026-11-07T07:08:43.907174+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19200,6 +19243,21 @@
    "t": "2026-11-07T06:43:50.856686+00:00",
    "title": "Verstappen, Red Bull veteranı Ole Schack'in veda yarışına damga vurabilir",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T07:08:57.180435+00:00",
+   "title": "Hamilton: Interlagos'ta zorlu bir gün, FP2'de sorunlar var",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T07:08:57.614690+00:00",
+   "title": "Antonelli: Ferrari Qualifying'de daha fazlasını bulacak",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T07:08:58.046831+00:00",
+   "title": "Montezemolo: Antonelli'de Schumacher, Senna ve Verstappen gibi DNA var",
+   "source": "FormulaPassion"
   }
  ]
 }
