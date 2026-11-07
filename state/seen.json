@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d5cf00934dc068a2": "2026-10-24T07:44:23.964433+00:00",
-  "80ee1254799c45d8": "2026-10-24T07:44:23.964433+00:00",
-  "bd6df87ef8b1d647": "2026-10-24T07:44:23.964433+00:00",
-  "42abf523482c6073": "2026-10-24T07:44:23.964433+00:00",
   "d20925e67f190100": "2026-10-24T07:54:23.373272+00:00",
   "06f8e5cc1ef87f02": "2026-10-24T07:59:25.409076+00:00",
   "615dbbf1c6cd9e7a": "2026-10-24T08:04:23.786523+00:00",
@@ -7723,7 +7719,9 @@
   "f6e6c0af19014425": "2026-11-07T07:38:47.240325+00:00",
   "dad41d4c5967c141": "2026-11-07T07:38:47.240325+00:00",
   "333e26980ebdf062": "2026-11-07T07:43:43.555573+00:00",
-  "ab434686cf851b0d": "2026-11-07T07:43:43.555573+00:00"
+  "ab434686cf851b0d": "2026-11-07T07:43:43.555573+00:00",
+  "f3825b8435829a03": "2026-11-07T07:48:48.348010+00:00",
+  "821837250953d5cc": "2026-11-07T07:48:48.348010+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17616,9 +17614,35 @@
     "Formula 1": "Can Mercedes keep their rivals at bay in Sao Paulo?"
    },
    "last": "2026-11-07T07:43:45.883531+00:00"
+  },
+  "S5561": {
+   "title": "Permane says Racing Bulls driver decision will use science",
+   "first": "2026-11-07T07:48:50.843614+00:00",
+   "sources": {
+    "Formula 1": "2026-11-07T07:48:50.843633+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Permane gives update on Racing Bulls driver decision process"
+   },
+   "last": "2026-11-07T07:48:50.843636+00:00"
+  },
+  "S5562": {
+   "title": "Luka Doncic 53-point game lifts Lakers scoring average",
+   "first": "2026-11-07T07:48:50.843641+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T07:41:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic's 53-point explosion pushes scoring average past 40 for 8-2 Lakers"
+   },
+   "last": "2026-11-07T07:48:50.843646+00:00"
   }
  },
- "story_seq": 5560,
+ "story_seq": 5562,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17737,7 +17761,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:43:43.555573+00:00",
+ "last_run": "2026-11-07T07:48:48.348010+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
