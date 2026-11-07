@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "12d206926974d582": "2026-10-24T15:19:56.982121+00:00",
-  "194edf827adadd0e": "2026-10-24T15:19:56.982121+00:00",
-  "dd66ddec4700a7ac": "2026-10-24T15:19:56.982121+00:00",
   "cf5bc31ce798ca64": "2026-10-24T15:25:02.828284+00:00",
   "5213e7d8d523f18d": "2026-10-24T15:25:02.828284+00:00",
   "b3dbcf1646277f2d": "2026-10-24T15:25:02.828284+00:00",
@@ -7767,7 +7764,9 @@
   "3887143e78730584": "2026-11-07T15:19:14.494490+00:00",
   "0dbf63bb6dbf74ee": "2026-11-07T15:19:14.494490+00:00",
   "9a9ed047f728443f": "2026-11-07T15:19:14.494490+00:00",
-  "43c186ebf17cc42e": "2026-11-07T15:19:14.494490+00:00"
+  "43c186ebf17cc42e": "2026-11-07T15:19:14.494490+00:00",
+  "52132c98f43c0b6d": "2026-11-07T15:24:22.209650+00:00",
+  "8dfc235dabfdcf16": "2026-11-07T15:24:22.209650+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7820,27 +7819,6 @@
    },
    "last": "2026-11-05T21:05:27.520019+00:00"
   },
-  "S4669": {
-   "title": "Alexa Rendell joins Sky Sports F1 as multimedia journalist",
-   "first": "2026-11-04T15:21:22.147752+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-04T15:15:00+00:00",
-    "PlanetF1": "2026-11-04T15:48:04+00:00",
-    "Crash.net": "2026-11-04T16:40:35+00:00",
-    "GPFans": "2026-11-05T08:43:00+00:00",
-    "Motorsport Week": "2026-11-05T15:04:32+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "Alexa Rendell joins Sky Sports F1 team ahead of Sao Paulo GP",
-    "PlanetF1": "Sky F1 reveals new presenter in Brazilian Grand Prix announcement",
-    "Crash.net": "Sky F1 announces new signing to make debut at Brazil GP",
-    "GPFans": "Sky Sports F1 announce new team member ahead of Brazilian Grand Prix",
-    "Motorsport Week": "Sky F1 announces new multimedia journalist to joing at Brazil GP"
-   },
-   "last": "2026-11-05T15:24:30.149930+00:00"
-  },
   "S4866": {
    "title": "Hamilton aims to win 400th GP at Interlagos",
    "first": "2026-11-05T09:03:16.910144+00:00",
@@ -7892,25 +7870,6 @@
    },
    "last": "2026-11-05T15:34:29.081618+00:00"
   },
-  "S4895": {
-   "title": "Ferrari confirms Leclerc will miss Brazil GP media day",
-   "first": "2026-11-05T11:34:06.013306+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-05T11:29:50+00:00",
-    "RacingNews365": "2026-11-05T12:05:00+00:00",
-    "RacingNews365 NL": "2026-11-05T12:10:00+00:00",
-    "FormulaPassion": "2026-11-05T15:05:59+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Ferrari confirms Charles Leclerc miss will Brazilian GP media day",
-    "RacingNews365": "Charles Leclerc misses Sao Paulo GP start after birth of daughter",
-    "RacingNews365 NL": "Leclerc slaat eerste dag GP Brazilië over",
-    "FormulaPassion": "Leclerc in “congedo parentale”: salta il media day in Brasile"
-   },
-   "last": "2026-11-05T15:24:30.149936+00:00"
-  },
   "S4905": {
    "title": "Lance Stroll ill in Mexico City, misses Brazil media day",
    "first": "2026-11-05T12:13:53.557578+00:00",
@@ -7946,36 +7905,6 @@
     "Motorsport-Total": "Bewegende Momente: Antonelli besucht Senna-Anwesen in Brasilien - Motorsport-Total.com"
    },
    "last": "2026-11-05T16:15:24.759511+00:00"
-  },
-  "S4948": {
-   "title": "Wolff says Russell's disappointment is natural, very hard on himself",
-   "first": "2026-11-05T14:23:56.425611+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-05T14:00:00+00:00",
-    "Motorsport.com Italia": "2026-11-05T15:16:45+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Wolff: “La delusione di Russell è naturale, è stato molto severo con se stesso”",
-    "Motorsport.com Italia": "F1 | Wolff: \"Ci sono state circostanze indipendenti da Russell che non hanno giocato a suo favore\""
-   },
-   "last": "2026-11-05T15:24:30.149913+00:00"
-  },
-  "S4954": {
-   "title": "Honda explains Aston Martin's problems at Mexico GP",
-   "first": "2026-11-05T14:54:31.030870+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-05T14:50:00+00:00",
-    "The Race": "2026-11-05T15:20:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Honda verklaart opmerkelijke problemen Aston Martin",
-    "The Race": "Why a new Honda F1 engine problem was brutally exposed"
-   },
-   "last": "2026-11-05T15:24:30.149901+00:00"
   },
   "S4959": {
    "title": "Taskin flies the flag for Bangladesh's fast bowlers on tough day",
@@ -17513,7 +17442,8 @@
     "Sky Sports F1": "2026-11-07T14:34:00+00:00",
     "The Race": "2026-11-07T15:07:33+00:00",
     "Autosport": "2026-11-07T15:05:04+00:00",
-    "Motorsport.com Italia": "2026-11-07T15:05:10+00:00"
+    "Motorsport.com Italia": "2026-11-07T15:05:10+00:00",
+    "FormulaPassion": "2026-11-07T15:04:35+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17522,9 +17452,10 @@
     "Sky Sports F1": "Hamilton, Verstappen, Leclerc to serve Sao Paulo GP grid penalties",
     "The Race": "Leclerc joins growing list of Brazilian GP grid peanlties",
     "Autosport": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
-    "Motorsport.com Italia": "F1 | Le due Ferrari penalizzate di 10 posizioni per il cambio di motore. Max dal fondo con una nuova PU"
+    "Motorsport.com Italia": "F1 | Le due Ferrari penalizzate di 10 posizioni per il cambio di motore. Max dal fondo con una nuova PU",
+    "FormulaPassion": "Ferrari fa ‘all-in’: doppia penalità in griglia per Leclerc e Hamilton, entrambi sostituiranno il motore termico"
    },
-   "last": "2026-11-07T15:09:16.566971+00:00"
+   "last": "2026-11-07T15:24:26.419096+00:00"
   },
   "S5659": {
    "title": "Hull vs. Brighton odds and spread (football, not F1)",
@@ -17603,9 +17534,22 @@
     "ESPN F1": "Cagliari vs. Frosinone (7 Nov, 2026) Live Score"
    },
    "last": "2026-11-07T15:19:19.238540+00:00"
+  },
+  "S5665": {
+   "title": "Hamilton's Ferrari smokes ahead of São Paulo qualifying",
+   "first": "2026-11-07T15:24:26.419068+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T15:16:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton issues pile up for São Paulo GP with smoky Ferrari"
+   },
+   "last": "2026-11-07T15:24:26.419086+00:00"
   }
  },
- "story_seq": 5664,
+ "story_seq": 5665,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17724,22 +17668,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:19:14.494490+00:00",
+ "last_run": "2026-11-07T15:24:22.209650+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T15:21:25.282992+00:00",
-   "title": "Jaguar hikayesi: Ford'un Formula 1'deki büyük hayalleri nasıl suya düştü",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-04T15:21:25.663884+00:00",
-   "title": "Alexa Rendell, Sky Sports F1 ekibine katıldı",
-   "source": "Sky Sports F1"
-  },
   {
    "t": "2026-11-04T15:31:25.291954+00:00",
    "title": "Antonelli, Senna'nın Lotus 98T'sine oturdu, Interlagos'ta özel kask kullanacak",
@@ -19309,6 +19243,16 @@
    "t": "2026-11-07T15:04:22.591651+00:00",
    "title": "Hamilton, Leclerc ve Verstappen Brezilya'da grid cezası alacak",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-07T15:24:35.888180+00:00",
+   "title": "Ferrari, Leclerc ve Hamilton'ı 10 sıra geriye atacak motor değişikliği yaptı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T15:24:36.281036+00:00",
+   "title": "Hamilton'ın Ferrari'sinde duman: São Paulo'da antrenman yarıda kesildi",
+   "source": "RacingNews365"
   }
  ]
 }
