@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2991b1f4509e09f6": "2026-10-24T06:04:26.327367+00:00",
-  "a6b795ec37a70a46": "2026-10-24T06:04:26.327367+00:00",
-  "f961e9b8815aca81": "2026-10-24T06:04:26.327367+00:00",
   "79d3dd93f1906835": "2026-10-24T06:09:23.783493+00:00",
   "990a49b48910aa8a": "2026-10-24T06:09:23.783493+00:00",
   "aa0f7d2f99d8ab8f": "2026-10-24T06:14:24.649563+00:00",
@@ -7719,7 +7716,10 @@
   "0065cea17a9e0899": "2026-11-07T05:33:47.069702+00:00",
   "a4f2eebd14f9448e": "2026-11-07T05:48:46.658114+00:00",
   "9691c10ddbcacc16": "2026-11-07T05:53:46.903646+00:00",
-  "ed2a0b01392bd6f5": "2026-11-07T05:58:42.069462+00:00"
+  "ed2a0b01392bd6f5": "2026-11-07T05:58:42.069462+00:00",
+  "0641187f5451ba55": "2026-11-07T06:08:43.838315+00:00",
+  "18175145330589ef": "2026-11-07T06:08:43.838315+00:00",
+  "03266cece273c756": "2026-11-07T06:08:43.838315+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16539,14 +16539,16 @@
    "title": "Red Bull looking into changes after Verstappen's Brazil practice problems",
    "first": "2026-11-06T22:45:28.722421+00:00",
    "sources": {
-    "Formula 1": "2026-11-06T22:45:28.722435+00:00"
+    "Formula 1": "2026-11-06T22:45:28.722435+00:00",
+    "RacingNews365 NL": "2026-11-07T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Red Bull ‘looking into quite a few changes’ for Verstappen"
+    "Formula 1": "Red Bull ‘looking into quite a few changes’ for Verstappen",
+    "RacingNews365 NL": "Red Bull grijpt in na opvallend probleem bij Verstappen: \"Had geen zin meer\""
    },
-   "last": "2026-11-06T22:45:28.722439+00:00"
+   "last": "2026-11-07T06:08:48.115745+00:00"
   },
   "S5462": {
    "title": "Teams and drivers report back from Friday practice in Brazil",
@@ -17483,9 +17485,35 @@
     "ESPN F1": "Celtics 119-80 Hornets (Nov 6, 2026) Game Recap"
    },
    "last": "2026-11-07T05:58:43.408801+00:00"
+  },
+  "S5534": {
+   "title": "Analysis: Verstappen's Red Bull choice and Norris alternative in Brazil",
+   "first": "2026-11-07T06:08:48.115757+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T06:03:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen can benefit from Red Bull’s smart choice, Norris shows alternative"
+   },
+   "last": "2026-11-07T06:08:48.115762+00:00"
+  },
+  "S5535": {
+   "title": "Antonelli jokes about buying a car after world title",
+   "first": "2026-11-07T06:08:48.115766+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-07T06:01:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kimi Antonelli nach WM-Titel: Papa, darf ich mir jetzt ein Auto kaufen? - Motorsport-Total.com"
+   },
+   "last": "2026-11-07T06:08:48.115770+00:00"
   }
  },
- "story_seq": 5533,
+ "story_seq": 5535,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17604,7 +17632,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T06:03:44.441775+00:00",
+ "last_run": "2026-11-07T06:08:43.838315+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19254,6 +19282,11 @@
    "t": "2026-11-07T05:33:57.228034+00:00",
    "title": "Red Bull, Verstappen'in Brezilya antrenmanını erken bitirme nedenini açıkladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T06:08:52.905608+00:00",
+   "title": "Verstappen, Red Bull'un doğru seçiminden yararlanabilir; Norris alternatifi gösteriyor",
+   "source": "GPblog"
   }
  ]
 }
