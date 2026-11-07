@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "02b7b9314eff2e4f": "2026-10-24T16:04:59.710304+00:00",
-  "1a89c8b5b4a94906": "2026-10-24T16:04:59.710304+00:00",
-  "e8c2b0254e4e340d": "2026-10-24T16:04:59.710304+00:00",
-  "955c4733e060d63c": "2026-10-24T16:04:59.710304+00:00",
-  "f4eda13018300119": "2026-10-24T16:04:59.710304+00:00",
   "02ecaa8ca87f631e": "2026-10-24T16:09:55.576971+00:00",
   "6eece61cbe4a7fc9": "2026-10-24T16:09:55.576971+00:00",
   "c803cc16ad05dcc7": "2026-10-24T16:09:55.576971+00:00",
@@ -7789,7 +7784,10 @@
   "8193f02817fe8508": "2026-11-07T15:55:05.035062+00:00",
   "751b3fb075b665fc": "2026-11-07T16:00:02.863130+00:00",
   "a6aa36c8cc6bffea": "2026-11-07T16:00:02.863130+00:00",
-  "e19795419ef4a7e2": "2026-11-07T16:00:02.863130+00:00"
+  "e19795419ef4a7e2": "2026-11-07T16:00:02.863130+00:00",
+  "cf7e5b9f35569755": "2026-11-07T16:04:59.299607+00:00",
+  "abb6b73c368c9428": "2026-11-07T16:04:59.299607+00:00",
+  "11b5ee19b800a83c": "2026-11-07T16:04:59.299607+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17647,9 +17645,48 @@
     "ESPN F1": "Pete Golding describes his impact on Ole Miss 'never flinching'"
    },
    "last": "2026-11-07T16:00:05.904521+00:00"
+  },
+  "S5677": {
+   "title": "Cricket column on Hridoy's knock (not F1)",
+   "first": "2026-11-07T16:05:03.194114+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T16:02:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "A GOAT-worthy knock of grit, courage and Hridoy"
+   },
+   "last": "2026-11-07T16:05:03.194133+00:00"
+  },
+  "S5678": {
+   "title": "Leeds vs Tottenham team stats (football, not F1)",
+   "first": "2026-11-07T16:05:03.194138+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T13:05:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Leeds 1-0 Spurs (Nov 7, 2026) Team Stats"
+   },
+   "last": "2026-11-07T16:05:03.194142+00:00"
+  },
+  "S5679": {
+   "title": "Mekies sees opportunity in Verstappen's back-of-grid penalty",
+   "first": "2026-11-07T16:05:03.194146+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-07T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Gridstraf Verstappen biedt opvallende kans voor Red Bull"
+   },
+   "last": "2026-11-07T16:05:03.194150+00:00"
   }
  },
- "story_seq": 5676,
+ "story_seq": 5679,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17768,17 +17805,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T16:00:02.863130+00:00",
+ "last_run": "2026-11-07T16:04:59.299607+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T16:01:34.162212+00:00",
-   "title": "Antonelli şampiyon oldu, Mercedes ekibine minnet videosu paylaştı",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-04T16:11:24.781266+00:00",
    "title": "Colton Herta, Sao Paulo GP'de Sergio Perez'in yerine FP1'de yarışacak",
