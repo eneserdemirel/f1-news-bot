@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "08093ab7829b6c9c": "2026-10-24T06:39:22.325338+00:00",
-  "98edcedf463cecdc": "2026-10-24T06:39:22.325338+00:00",
   "cd7f0b1232eab240": "2026-10-24T06:44:24.741062+00:00",
   "c3798845c85ff6e8": "2026-10-24T06:54:24.503931+00:00",
   "274dd0072111900f": "2026-10-24T06:59:25.916661+00:00",
@@ -7717,7 +7715,8 @@
   "f4e539bae9585c5b": "2026-11-07T06:23:44.870418+00:00",
   "1626e54cdcf46258": "2026-11-07T06:23:44.870418+00:00",
   "a9138304c4dbf4a6": "2026-11-07T06:33:49.339154+00:00",
-  "8cbf8e17b200e04e": "2026-11-07T06:33:49.339154+00:00"
+  "8cbf8e17b200e04e": "2026-11-07T06:33:49.339154+00:00",
+  "d251600f1a29480f": "2026-11-07T06:43:44.206624+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17457,9 +17456,22 @@
     "ESPN F1": "Alacaraz, Shelton reach Paris Masters semis; ATP Finals field set"
    },
    "last": "2026-11-07T06:33:51.612586+00:00"
+  },
+  "S5541": {
+   "title": "Verstappen races for farewell gift for retiring Red Bull veteran Schack",
+   "first": "2026-11-07T06:43:46.024417+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-07T06:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Max Verstappen racet voor afscheidscadeau Red Bull-veteraan"
+   },
+   "last": "2026-11-07T06:43:46.024429+00:00"
   }
  },
- "story_seq": 5540,
+ "story_seq": 5541,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17578,7 +17590,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T06:38:45.904306+00:00",
+ "last_run": "2026-11-07T06:43:44.206624+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19233,6 +19245,11 @@
    "t": "2026-11-07T06:23:56.665439+00:00",
    "title": "Vasseur: Hamilton ve Leclerc'in yönetimi zor ama yeni sayfa açıldı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T06:43:50.856686+00:00",
+   "title": "Verstappen, Red Bull veteranı Ole Schack'in veda yarışına damga vurabilir",
+   "source": "RacingNews365 NL"
   }
  ]
 }
