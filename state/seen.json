@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f3a081f438447452": "2026-10-24T07:29:23.254110+00:00",
   "b5b900af0a38eb8c": "2026-10-24T07:34:24.974354+00:00",
   "59c75ce0aecf3acc": "2026-10-24T07:39:47.539704+00:00",
   "dfe89e1035339a48": "2026-10-24T07:39:47.539704+00:00",
@@ -7725,7 +7724,12 @@
   "aa385c4c1a069c2c": "2026-11-07T07:28:46.921406+00:00",
   "f3840a7085cf920d": "2026-11-07T07:28:46.921406+00:00",
   "600d45609a41118b": "2026-11-07T07:28:46.921406+00:00",
-  "fae7d0a1e4c649a8": "2026-11-07T07:28:46.921406+00:00"
+  "fae7d0a1e4c649a8": "2026-11-07T07:28:46.921406+00:00",
+  "4b3f1ee9c22ec863": "2026-11-07T07:33:47.036560+00:00",
+  "122347b8fe079157": "2026-11-07T07:33:47.036560+00:00",
+  "b52f5bd08578bc0a": "2026-11-07T07:33:47.036560+00:00",
+  "34bfdda6b4f3ff89": "2026-11-07T07:33:47.036560+00:00",
+  "861f08656c180942": "2026-11-07T07:33:47.036560+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7979,19 +7983,6 @@
     "Auto Motor und Sport": "Formel 1: Spezialdesign für São Paulo: Dieses Team fährt jetzt in Grün"
    },
    "last": "2026-11-05T12:53:55.947119+00:00"
-  },
-  "S4849": {
-   "title": "Empty ESPN F1 item with no content",
-   "first": "2026-11-05T07:33:12.598860+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T01:58:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "ESPN Global"
-   },
-   "last": "2026-11-05T07:33:12.598878+00:00"
   },
   "S4850": {
    "title": "Rosberg says Leclerc at fault in Hamilton Mexico clash",
@@ -12851,7 +12842,8 @@
     "Autosport": "2026-11-06T15:37:02+00:00",
     "PlanetF1": "2026-11-06T16:54:52+00:00",
     "ESPN F1": "2026-11-06T17:59:51+00:00",
-    "GPFans": "2026-11-06T20:42:00+00:00"
+    "GPFans": "2026-11-06T20:42:00+00:00",
+    "FormulaPassion": "2026-11-07T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12866,9 +12858,10 @@
     "Autosport": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
     "PlanetF1": "FIA confirms George Russell penalty at Brazilian Grand Prix",
     "ESPN F1": "George Russell hit with five-place grid penalty for São Paulo Grand Prix",
-    "GPFans": "FIA confirm more George Russell misery as Mercedes star hit with penalty at Brazilian Grand Prix"
+    "GPFans": "FIA confirm more George Russell misery as Mercedes star hit with penalty at Brazilian Grand Prix",
+    "FormulaPassion": "Cinque posizioni di penalità in griglia per Russell: “La Qualifica diventa ancor più importante”"
    },
-   "last": "2026-11-07T06:33:51.612595+00:00"
+   "last": "2026-11-07T07:33:53.663255+00:00"
   },
   "S5209": {
    "title": "Brazilian GP 2026 start time, TV channels and live streams",
@@ -17538,9 +17531,61 @@
     "AS": "Una sangría en la recta"
    },
    "last": "2026-11-07T07:28:52.066752+00:00"
+  },
+  "S5554": {
+   "title": "Lakers beat Trail Blazers 124-118 in NBA game recap",
+   "first": "2026-11-07T07:33:53.663214+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T07:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lakers 124-118 Trail Blazers (7 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-07T07:33:53.663233+00:00"
+  },
+  "S5555": {
+   "title": "Norris hopeful McLaren Brazil upgrades can return him to podium",
+   "first": "2026-11-07T07:33:53.663237+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-07T07:28:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lando Norris raises key question over new McLaren MCL40 upgrade"
+   },
+   "last": "2026-11-07T07:33:53.663241+00:00"
+  },
+  "S5556": {
+   "title": "Hamilton reportedly facing grid penalty with new power unit in Brazil",
+   "first": "2026-11-07T07:33:53.663244+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T07:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton verso la penalità sulla griglia di partenza nel GP del Brasile"
+   },
+   "last": "2026-11-07T07:33:53.663247+00:00"
+  },
+  "S5557": {
+   "title": "McLaren adopts wing and active aero approach Mercedes dropped for 2027",
+   "first": "2026-11-07T07:33:53.663248+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T07:00:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Cambio di filosofia: McLaren riprende la soluzione scartata da Mercedes per il 2027"
+   },
+   "last": "2026-11-07T07:33:53.663251+00:00"
   }
  },
- "story_seq": 5553,
+ "story_seq": 5557,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17659,7 +17704,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:28:46.921406+00:00",
+ "last_run": "2026-11-07T07:33:47.036560+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19324,6 +19369,11 @@
    "t": "2026-11-07T07:28:55.141443+00:00",
    "title": "Aston Martin, Interlagos'ta Honda'nın güç eksikliğinden zorlanıyor",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-07T07:33:59.619060+00:00",
+   "title": "Hamilton, Brezilya GP'de yeni motor nedeniyle grid cezası alacak",
+   "source": "FormulaPassion"
   }
  ]
 }
