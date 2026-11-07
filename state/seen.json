@@ -7737,7 +7737,9 @@
   "0fd5f83658d77c6b": "2026-11-07T11:34:14.117984+00:00",
   "10a787f942d5b044": "2026-11-07T11:34:14.117984+00:00",
   "2fd1487ac01a9ed0": "2026-11-07T11:39:15.404252+00:00",
-  "a52b5173318a6514": "2026-11-07T11:44:12.834820+00:00"
+  "a52b5173318a6514": "2026-11-07T11:44:12.834820+00:00",
+  "22b4eba965197286": "2026-11-07T11:49:14.305148+00:00",
+  "71af2e448b307cfa": "2026-11-07T11:49:14.305148+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17551,9 +17553,35 @@
     "Motorsport Week": "Liam Lawson pinpoints major Racing Bulls 2026 midfield ‘green flag’"
    },
    "last": "2026-11-07T11:44:14.804253+00:00"
+  },
+  "S5605": {
+   "title": "ESPN NFL Week 9 predictions and fantasy picks",
+   "first": "2026-11-07T11:49:16.909923+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T11:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 9 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more"
+   },
+   "last": "2026-11-07T11:49:16.909943+00:00"
+  },
+  "S5606": {
+   "title": "Top F1 drivers warn of rain forecast for Brazil Saturday",
+   "first": "2026-11-07T11:49:16.909949+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-07T11:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "F1-coureurs waarschuwen: \"Neem je regenjas mee!\""
+   },
+   "last": "2026-11-07T11:49:16.909955+00:00"
   }
  },
- "story_seq": 5604,
+ "story_seq": 5606,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17672,7 +17700,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T11:44:12.834820+00:00",
+ "last_run": "2026-11-07T11:49:14.305148+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19252,6 +19280,11 @@
    "t": "2026-11-07T11:44:19.072458+00:00",
    "title": "Lawson: Racing Bulls'un gelişim paketi sezonun 'yeşil ışığı' oldu",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-07T11:49:22.156383+00:00",
+   "title": "F1 pilotları Brezilya'da yağmur uyarısı yaptı: \"Yağmurluğunuzu yanınıza alın\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
