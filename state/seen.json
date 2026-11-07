@@ -7763,7 +7763,10 @@
   "9a9ed047f728443f": "2026-11-07T15:19:14.494490+00:00",
   "43c186ebf17cc42e": "2026-11-07T15:19:14.494490+00:00",
   "52132c98f43c0b6d": "2026-11-07T15:24:22.209650+00:00",
-  "8dfc235dabfdcf16": "2026-11-07T15:24:22.209650+00:00"
+  "8dfc235dabfdcf16": "2026-11-07T15:24:22.209650+00:00",
+  "868f25276462c971": "2026-11-07T15:34:14.685796+00:00",
+  "37d931ae8a1eef66": "2026-11-07T15:34:14.685796+00:00",
+  "2d621b2c29a5882f": "2026-11-07T15:34:14.685796+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17544,9 +17547,37 @@
     "RacingNews365": "Lewis Hamilton issues pile up for São Paulo GP with smoky Ferrari"
    },
    "last": "2026-11-07T15:24:26.419086+00:00"
+  },
+  "S5666": {
+   "title": "Unai Emery says Carrick's Man United on Barcelona's level",
+   "first": "2026-11-07T15:34:20.342681+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T13:14:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Unai Emery: Michael Carrick's Man United the 'same level' as Barcelona"
+   },
+   "last": "2026-11-07T15:34:20.342699+00:00"
+  },
+  "S5667": {
+   "title": "Verstappen tops Brazil GP FP3 ahead of Antonelli, Hamilton engine issue",
+   "first": "2026-11-07T15:34:20.342705+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-07T15:32:37+00:00",
+    "GPblog": "2026-11-07T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Brazilian GP: Verstappen fastest as Hamilton hits Ferrari engine drama",
+    "GPblog": "F1 Full Results | Max Verstappen lays marker down in São Paulo GP FP3"
+   },
+   "last": "2026-11-07T15:34:20.342717+00:00"
   }
  },
- "story_seq": 5665,
+ "story_seq": 5667,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17665,17 +17696,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:29:13.247042+00:00",
+ "last_run": "2026-11-07T15:34:14.685796+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T15:31:25.291954+00:00",
-   "title": "Antonelli, Senna'nın Lotus 98T'sine oturdu, Interlagos'ta özel kask kullanacak",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-04T15:41:27.650013+00:00",
    "title": "Antonelli'nin şampiyonluğunda Mercedes W17'nin rolü",
@@ -19250,6 +19276,11 @@
    "t": "2026-11-07T15:24:36.281036+00:00",
    "title": "Hamilton'ın Ferrari'sinde duman: São Paulo'da antrenman yarıda kesildi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T15:34:25.621696+00:00",
+   "title": "Brezilya GP: Verstappen en hızlı, Hamilton motor sorunu yaşadı",
+   "source": "PlanetF1"
   }
  ]
 }
