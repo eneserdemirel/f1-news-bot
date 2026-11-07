@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a3ed5d91727432b7": "2026-10-24T21:31:10.858709+00:00",
-  "860d4e6ad92d3ce4": "2026-10-24T21:31:10.858709+00:00",
-  "d2b61412d8cb3ac5": "2026-10-24T21:31:10.858709+00:00",
   "21930c15f3acbe07": "2026-10-24T21:36:10.696391+00:00",
   "fce60640be4a77c4": "2026-10-24T21:36:10.696391+00:00",
   "d696e6985208dfca": "2026-10-24T21:36:10.696391+00:00",
@@ -7796,7 +7793,13 @@
   "9b534f6229c434cb": "2026-11-07T21:30:33.335013+00:00",
   "dde2d4b065c85d6f": "2026-11-07T21:30:33.335013+00:00",
   "ee79941cb0ac2e57": "2026-11-07T21:30:33.335013+00:00",
-  "614d28ad9660e1ea": "2026-11-07T21:30:33.335013+00:00"
+  "614d28ad9660e1ea": "2026-11-07T21:30:33.335013+00:00",
+  "bf71cf1dbc0b8e8f": "2026-11-07T21:35:35.079090+00:00",
+  "90befc7c7dd52014": "2026-11-07T21:35:35.079090+00:00",
+  "5ab6ef158de56114": "2026-11-07T21:35:35.079090+00:00",
+  "9388d96b40d3d460": "2026-11-07T21:35:35.079090+00:00",
+  "727746b0ca4febd4": "2026-11-07T21:35:35.079090+00:00",
+  "6c309692e5892308": "2026-11-07T21:35:35.079090+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17673,14 +17676,14 @@
    "title": "Nebraska fires offensive coordinator Holgorsen amid losing streak",
    "first": "2026-11-07T20:35:10.660622+00:00",
    "sources": {
-    "ESPN F1": "2026-11-07T18:23:00+00:00"
+    "ESPN F1": "2026-11-07T18:15:29+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "'Angry' Rhule fires OC Holgorsen amid Nebraska's 4-game skid"
    },
-   "last": "2026-11-07T20:35:10.660628+00:00"
+   "last": "2026-11-07T21:35:40.488276+00:00"
   },
   "S5781": {
    "title": "Clemson Tigers vs Syracuse Orange college football highlights",
@@ -17738,7 +17741,8 @@
     "PlanetF1": "2026-11-07T20:40:07+00:00",
     "The Race": "2026-11-07T21:05:20+00:00",
     "Crash.net": "2026-11-07T21:06:59+00:00",
-    "GPblog": "2026-11-07T21:15:00+00:00"
+    "GPblog": "2026-11-07T21:15:00+00:00",
+    "RacingNews365 NL": "2026-11-07T21:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17746,9 +17750,10 @@
     "PlanetF1": "F1 Brazil grid 2026: The full starting order at Interlagos with penalties",
     "The Race": "F1 2026 Brazilian Grand Prix starting grid with five penalties",
     "Crash.net": "F1 2026 Brazil Grand Prix: Mixed up starting grid after five engine penalties",
-    "GPblog": "Brazilian GP provisional grid sees major changes after multiple penalties"
+    "GPblog": "Brazilian GP provisional grid sees major changes after multiple penalties",
+    "RacingNews365 NL": "Aangepaste startopstelling GP Brazilie 2026 na forse gridstraffen Verstappen en Hamilton"
    },
-   "last": "2026-11-07T21:20:36.370604+00:00"
+   "last": "2026-11-07T21:35:40.488291+00:00"
   },
   "S5785": {
    "title": "Unidentified Motorsport-Total.com item with no content",
@@ -18063,9 +18068,61 @@
     "GPFans": "Liam Lawson makes desperate plea as F1 future hangs in the balance"
    },
    "last": "2026-11-07T21:30:38.612882+00:00"
+  },
+  "S5809": {
+   "title": "Nick Billoups 2-yard rushing touchdown",
+   "first": "2026-11-07T21:35:40.488250+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T21:21:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nick Billoups rushes in for 2-yard TD"
+   },
+   "last": "2026-11-07T21:35:40.488264+00:00"
+  },
+  "S5810": {
+   "title": "Pennsylvania vs Cornell college football highlights",
+   "first": "2026-11-07T21:35:40.488268+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T21:19:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pennsylvania Quakers vs. Cornell Big Red: Full Highlights"
+   },
+   "last": "2026-11-07T21:35:40.488272+00:00"
+  },
+  "S5811": {
+   "title": "Analysis: FIA handling of rain-delayed Brazil qualifying",
+   "first": "2026-11-07T21:35:40.488279+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-07T21:29:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | La pioggia esalta i piloti: Interlagos premia le scelte della FIA"
+   },
+   "last": "2026-11-07T21:35:40.488282+00:00"
+  },
+  "S5812": {
+   "title": "Hamilton reveals details of meeting with Leclerc",
+   "first": "2026-11-07T21:35:40.488284+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T21:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton reveals details of Charles Leclerc meeting after Ferrari tension"
+   },
+   "last": "2026-11-07T21:35:40.488287+00:00"
   }
  },
- "story_seq": 5808,
+ "story_seq": 5812,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18184,7 +18241,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T21:30:33.335013+00:00",
+ "last_run": "2026-11-07T21:35:35.079090+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -19784,6 +19841,11 @@
    "t": "2026-11-07T21:30:46.410015+00:00",
    "title": "Alonso: Sezonun ilk Q3'ü iyi hissettiriyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-07T21:35:49.838716+00:00",
+   "title": "Hamilton, Leclerc ile görüşüp gerginliği giderdiğini açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
