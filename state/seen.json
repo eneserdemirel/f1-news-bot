@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bae5ac3b26710dc3": "2026-10-24T17:20:38.449868+00:00",
-  "d007fff457cdd793": "2026-10-24T17:20:38.449868+00:00",
-  "6f785c6120e85e36": "2026-10-24T17:20:38.449868+00:00",
   "034f7278bd150e41": "2026-10-24T17:25:34.356419+00:00",
   "90845abba6d1173e": "2026-10-24T17:30:36.916301+00:00",
   "9ed0cf92e44c2a52": "2026-10-24T17:35:33.119717+00:00",
@@ -7827,7 +7824,9 @@
   "c1f787249b2ad193": "2026-11-07T17:14:59.140130+00:00",
   "e3fd3f28add26b5d": "2026-11-07T17:14:59.140130+00:00",
   "9f770b7cc3d0f428": "2026-11-07T17:20:01.309592+00:00",
-  "46947e4d97c6e667": "2026-11-07T17:20:01.309592+00:00"
+  "46947e4d97c6e667": "2026-11-07T17:20:01.309592+00:00",
+  "df3b3b1b3a64b1a7": "2026-11-07T17:25:01.184201+00:00",
+  "4729c5f339061c50": "2026-11-07T17:25:01.184201+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18018,9 +18017,35 @@
     "ESPN F1": "Fulham 1-1 Newcastle (Nov 7, 2026) Game Analysis"
    },
    "last": "2026-11-07T17:20:03.112657+00:00"
+  },
+  "S5722": {
+   "title": "Saturday fantasy hoops adds and NBA betting picks",
+   "first": "2026-11-07T17:25:05.565798+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T16:10:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Saturday's fantasy hoops adds, NBA bets to make: Traore, Eason among top options"
+   },
+   "last": "2026-11-07T17:25:05.565819+00:00"
+  },
+  "S5723": {
+   "title": "Hamilton to start Brazil GP from back after full power unit change",
+   "first": "2026-11-07T17:25:05.565824+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T17:21:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton suffers fresh blow as Ferrari makes drastic call ahead of qualifying"
+   },
+   "last": "2026-11-07T17:25:05.565829+00:00"
   }
  },
- "story_seq": 5721,
+ "story_seq": 5723,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18139,17 +18164,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T17:20:01.309592+00:00",
+ "last_run": "2026-11-07T17:25:01.184201+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T17:21:45.213717+00:00",
-   "title": "Ferrari, Brezilya'da Meksika'daki başarıyı tekrarlamak istiyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-04T17:31:27.743973+00:00",
    "title": "Verstappen, Meksika'da engine braking sorunuyla yine karşılaştı",
