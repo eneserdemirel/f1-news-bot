@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7372e1f077d737be": "2026-10-24T19:00:34.852159+00:00",
-  "6d01dc47a85637d7": "2026-10-24T19:00:34.852159+00:00",
-  "0690818666b7b80a": "2026-10-24T19:00:34.852159+00:00",
-  "32f466a62fee61d7": "2026-10-24T19:00:34.852159+00:00",
   "4985f3be69bce590": "2026-10-24T19:05:36.094192+00:00",
   "0e103877a779fc6d": "2026-10-24T19:05:36.094192+00:00",
   "15fcd11f5d8bebfd": "2026-10-24T19:05:36.094192+00:00",
@@ -7783,7 +7779,9 @@
   "bfd331a120181bba": "2026-11-07T18:50:00.018348+00:00",
   "6361090f486c697a": "2026-11-07T18:50:00.018348+00:00",
   "de42b8517ae685a3": "2026-11-07T18:55:02.100717+00:00",
-  "dfee5d7e704a3cc8": "2026-11-07T19:00:01.976429+00:00"
+  "dfee5d7e704a3cc8": "2026-11-07T19:00:01.976429+00:00",
+  "19018cd414c9fbd5": "2026-11-07T19:05:02.124652+00:00",
+  "50c7a666e8ca88f1": "2026-11-07T19:05:02.124652+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17444,7 +17442,7 @@
    "titles": {
     "PlanetF1": "FIA confirms 30-place Sergio Perez penalty for Brazilian Grand Prix"
    },
-   "last": "2026-11-07T17:15:03.459932+00:00"
+   "last": "2026-11-07T19:05:05.207632+00:00"
   },
   "S5719": {
    "title": "Marquez reveals airbag triggered by Bezzecchi crash",
@@ -17710,9 +17708,22 @@
     "GPblog": "Hopes of Brazilian GP qualifying restart fade after latest inspection"
    },
    "last": "2026-11-07T19:00:04.798006+00:00"
+  },
+  "S5738": {
+   "title": "David Lynch 2-yard TD pass to Luke Petitta (American football)",
+   "first": "2026-11-07T19:05:05.207606+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T18:54:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "David Lynch throws 2-yard TD pass to Luke Petitta"
+   },
+   "last": "2026-11-07T19:05:05.207624+00:00"
   }
  },
- "story_seq": 5737,
+ "story_seq": 5738,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17831,17 +17842,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T19:00:01.976429+00:00",
+ "last_run": "2026-11-07T19:05:02.124652+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T19:02:06.372192+00:00",
-   "title": "Hamilton'dan Ferrari açıklaması: Leclerc'e net mesaj",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-04T19:12:00.756142+00:00",
    "title": "Toto Wolff için istifa konusu hâlâ gündemde değil",
@@ -19401,6 +19407,11 @@
    "t": "2026-11-07T19:00:12.666970+00:00",
    "title": "Interlagos'ta sıralama turlarının yeniden başlaması belirsizliğini koruyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T19:05:12.216576+00:00",
+   "title": "FIA, Perez ve Bearman'a Brezilya GP'sinde ceza verdi",
+   "source": "PlanetF1"
   }
  ]
 }
