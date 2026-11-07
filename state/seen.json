@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aa1a741b7c32d19c": "2026-10-24T07:09:22.174347+00:00",
-  "ef0533102823b034": "2026-10-24T07:09:22.174347+00:00",
-  "6895931da4373675": "2026-10-24T07:09:22.174347+00:00",
   "22667ec4b459d267": "2026-10-24T07:14:26.150179+00:00",
   "32d76935f1b061de": "2026-10-24T07:19:23.006857+00:00",
   "f3a081f438447452": "2026-10-24T07:29:23.254110+00:00",
@@ -7718,7 +7715,8 @@
   "98560c75d55a0640": "2026-11-07T07:08:43.907174+00:00",
   "9855597c8528eb46": "2026-11-07T07:08:43.907174+00:00",
   "8efec58713ec5859": "2026-11-07T07:08:43.907174+00:00",
-  "201b174897eb8c75": "2026-11-07T07:08:43.907174+00:00"
+  "201b174897eb8c75": "2026-11-07T07:08:43.907174+00:00",
+  "406a5fb77ab537b5": "2026-11-07T07:13:46.140592+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7972,32 +7970,6 @@
     "Auto Motor und Sport": "Formel 1: Spezialdesign für São Paulo: Dieses Team fährt jetzt in Grün"
    },
    "last": "2026-11-05T12:53:55.947119+00:00"
-  },
-  "S4846": {
-   "title": "Thunder 124-116 Cavaliers NBA game recap",
-   "first": "2026-11-05T07:13:13.962847+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T04:17:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Thunder 124-116 Cavaliers (Nov 4, 2026) Game Recap"
-   },
-   "last": "2026-11-05T07:13:13.962864+00:00"
-  },
-  "S4847": {
-   "title": "F2 CEO Bruno Michel praises Antonelli's title win",
-   "first": "2026-11-05T07:13:13.962870+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T07:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli heralded by F2 CEO after 'emotional' and universally popular F1 title win"
-   },
-   "last": "2026-11-05T07:13:13.962875+00:00"
   },
   "S4848": {
    "title": "Corriere della Sera criticises Leclerc over Hamilton clash",
@@ -17462,9 +17434,22 @@
     "FormulaPassion": "Montezemolo: “Antonelli ha nel DNA i kart, come Schumacher, Senna e Verstappen. Wolff lo ha gestito nel modo giusto”"
    },
    "last": "2026-11-07T07:08:48.214011+00:00"
+  },
+  "S5546": {
+   "title": "Rosberg says Lauda was angry about his 2016 retirement",
+   "first": "2026-11-07T07:13:48.044917+00:00",
+   "sources": {
+    "GPFans": "2026-11-07T07:13:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Mercedes chief was 'angry' at F1 champion after dropping quit bombshell"
+   },
+   "last": "2026-11-07T07:13:48.044937+00:00"
   }
  },
- "story_seq": 5545,
+ "story_seq": 5546,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17583,27 +17568,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:08:43.907174+00:00",
+ "last_run": "2026-11-07T07:13:46.140592+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
  "last_digest_at": "2026-11-06T19:00:20.183453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T07:11:02.314316+00:00",
-   "title": "Montezemolo, Antonelli'yi Schumacher ve Hamilton'la karşılaştırdı",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-04T07:11:02.784245+00:00",
-   "title": "Antonelli dünya şampiyonu oldu, Carlo Pernat: \"Gilles'i andırıyor\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-04T07:11:03.365756+00:00",
-   "title": "Ferrari'nin motor zayıflığı, Vasseur'ün en büyük başarısını gizliyor",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-04T07:20:54.673347+00:00",
    "title": "Verstappen, Meksika GP'de güvenlik aracı anını 'oyun bitti' diye tarif etti",
@@ -19258,6 +19228,11 @@
    "t": "2026-11-07T07:08:58.046831+00:00",
    "title": "Montezemolo: Antonelli'de Schumacher, Senna ve Verstappen gibi DNA var",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T07:13:52.413498+00:00",
+   "title": "Rosberg: Lauda emeklilik kararım yüzünden kızgındı",
+   "source": "GPFans"
   }
  ]
 }
