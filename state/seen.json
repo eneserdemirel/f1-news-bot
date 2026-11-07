@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "075827da95f7f808": "2026-10-24T08:44:21.843084+00:00",
   "ec417c7927f67558": "2026-10-24T08:49:23.925668+00:00",
   "76f9a2449e1c4322": "2026-10-24T08:54:25.292640+00:00",
   "0bd5b036a545e458": "2026-10-24T08:59:26.992397+00:00",
@@ -7721,7 +7720,10 @@
   "7f695e343b1bf8fa": "2026-11-07T08:38:51.303125+00:00",
   "f31d40e8279000e1": "2026-11-07T08:38:51.303125+00:00",
   "05752860d8f5cf10": "2026-11-07T08:43:49.556437+00:00",
-  "743bd185b549cb82": "2026-11-07T08:43:49.556437+00:00"
+  "743bd185b549cb82": "2026-11-07T08:43:49.556437+00:00",
+  "0d147f13f3cc23de": "2026-11-07T08:48:45.917394+00:00",
+  "3d3f374aab7ee6be": "2026-11-07T08:48:45.917394+00:00",
+  "dbe1da4ee60df5be": "2026-11-07T08:48:45.917394+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16162,15 +16164,17 @@
    "first": "2026-11-06T22:15:19.770623+00:00",
    "sources": {
     "Crash.net": "2026-11-06T22:12:10+00:00",
-    "FormulaPassion": "2026-11-07T07:00:00+00:00"
+    "FormulaPassion": "2026-11-07T07:00:00+00:00",
+    "GPblog": "2026-11-07T08:44:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Charles Leclerc claims Ferrari feud is “settled” after Lewis Hamilton talks",
-    "FormulaPassion": "Leclerc: “Abbiamo parlato ed è tutto risolto. Ma sono state tra le peggiori FP2 dell’anno”"
+    "FormulaPassion": "Leclerc: “Abbiamo parlato ed è tutto risolto. Ma sono state tra le peggiori FP2 dell’anno”",
+    "GPblog": "Leclerc reveals positive chat with Hamilton amid Friday woes for Ferrari"
    },
-   "last": "2026-11-07T07:08:48.213985+00:00"
+   "last": "2026-11-07T08:48:49.859936+00:00"
   },
   "S5457": {
    "title": "McLaren call Brazil upgrade a pleasant surprise",
@@ -17685,9 +17689,35 @@
     "GPFans": "Another F1 star reports ill at Brazilian Grand Prix"
    },
    "last": "2026-11-07T08:43:53.067271+00:00"
+  },
+  "S5573": {
+   "title": "Lehmann denies Khawaja's claim (cricket, not F1)",
+   "first": "2026-11-07T08:48:49.859901+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T08:47:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'Don't think everyone would have known' - Lehmann denies Khawaja's claim"
+   },
+   "last": "2026-11-07T08:48:49.859923+00:00"
+  },
+  "S5574": {
+   "title": "Antonelli urges caution after strong Brazil Friday practice",
+   "first": "2026-11-07T08:48:49.859927+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-07T08:43:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Antonelli non si ferma: il campione del mondo detta il passo a Interlagos"
+   },
+   "last": "2026-11-07T08:48:49.859931+00:00"
   }
  },
- "story_seq": 5572,
+ "story_seq": 5574,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17806,7 +17836,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T08:43:49.556437+00:00",
+ "last_run": "2026-11-07T08:48:45.917394+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
