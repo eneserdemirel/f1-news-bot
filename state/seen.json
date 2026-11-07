@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5baa9b356693290b": "2026-10-24T22:01:13.290390+00:00",
   "3ae497e7ab75fc1e": "2026-10-24T22:06:10.554504+00:00",
   "0c1c9182f46c0c2a": "2026-10-24T22:06:10.554504+00:00",
   "a898906364dd995d": "2026-10-24T22:06:10.554504+00:00",
@@ -7815,7 +7814,11 @@
   "67a2866bad26a464": "2026-11-07T21:55:36.312984+00:00",
   "dc8979b149bb899d": "2026-11-07T21:55:36.312984+00:00",
   "b17598e5d8193b48": "2026-11-07T22:00:33.870580+00:00",
-  "b463fa47e6863e62": "2026-11-07T22:00:33.870580+00:00"
+  "b463fa47e6863e62": "2026-11-07T22:00:33.870580+00:00",
+  "08853408bb1bbda7": "2026-11-07T22:05:45.460455+00:00",
+  "bc5884812438c8e6": "2026-11-07T22:05:45.460455+00:00",
+  "f252a4256b16059a": "2026-11-07T22:05:45.460455+00:00",
+  "95f502171ff0ec11": "2026-11-07T22:05:45.460455+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17637,7 +17640,8 @@
     "The Race": "2026-11-07T21:05:20+00:00",
     "Crash.net": "2026-11-07T21:06:59+00:00",
     "GPblog": "2026-11-07T21:15:00+00:00",
-    "RacingNews365 NL": "2026-11-07T21:30:00+00:00"
+    "RacingNews365 NL": "2026-11-07T21:30:00+00:00",
+    "RacingNews365": "2026-11-07T22:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17646,9 +17650,10 @@
     "The Race": "F1 2026 Brazilian Grand Prix starting grid with five penalties",
     "Crash.net": "F1 2026 Brazil Grand Prix: Mixed up starting grid after five engine penalties",
     "GPblog": "Brazilian GP provisional grid sees major changes after multiple penalties",
-    "RacingNews365 NL": "Aangepaste startopstelling GP Brazilie 2026 na forse gridstraffen Verstappen en Hamilton"
+    "RacingNews365 NL": "Aangepaste startopstelling GP Brazilie 2026 na forse gridstraffen Verstappen en Hamilton",
+    "RacingNews365": "Sao Paulo GP starting grid heavily adjusted after severe Lewis Hamilton, Max Verstappen penalties"
    },
-   "last": "2026-11-07T21:35:40.488291+00:00"
+   "last": "2026-11-07T22:05:48.603842+00:00"
   },
   "S5785": {
    "title": "Unidentified Motorsport-Total.com item with no content",
@@ -18218,9 +18223,48 @@
     "AS": "Sainz: “Si ponemos el ‘inter’ antes, habría sido diferente”"
    },
    "last": "2026-11-07T22:00:39.075541+00:00"
+  },
+  "S5828": {
+   "title": "Rybakina withdraws from WTA Finals for medical reasons",
+   "first": "2026-11-07T22:05:48.603812+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T22:01:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No. 1 Elena Rybakina withdraws from WTA Finals for medical reasons"
+   },
+   "last": "2026-11-07T22:05:48.603828+00:00"
+  },
+  "S5829": {
+   "title": "Leclerc says wet qualifying lab session valuable despite P4",
+   "first": "2026-11-07T22:05:48.603832+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-07T22:02:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Leclerc: la qualifica bagnata in versione laboratorio ha un valore più alto del 4° posto"
+   },
+   "last": "2026-11-07T22:05:48.603836+00:00"
+  },
+  "S5830": {
+   "title": "Hamilton still aims for Brazil win despite back-of-grid start",
+   "first": "2026-11-07T22:05:48.603845+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T22:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton refuses to rule out Brazilian GP win despite back-of-grid start"
+   },
+   "last": "2026-11-07T22:05:48.603848+00:00"
   }
  },
- "story_seq": 5827,
+ "story_seq": 5830,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18339,17 +18383,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T22:00:33.870580+00:00",
+ "last_run": "2026-11-07T22:05:45.460455+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T22:02:05.913490+00:00",
-   "title": "Ascari: Ferrari bir daha asla şampiyon olamayacak",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-04T23:02:00.695263+00:00",
    "title": "Racing Bulls patronu, Liam Lawson'ın 2027 geleceği hakkında konuştu",
@@ -19969,6 +20008,16 @@
    "t": "2026-11-07T22:00:44.446462+00:00",
    "title": "Sainz: \"Inter lastiği önce takılsaydı, sonuç farklı olabilirdi\"",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-07T22:05:53.451755+00:00",
+   "title": "Hamilton, arkadan başlasa da Brezilya GP'yi kazanmayı hedefliyor",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T22:05:53.851944+00:00",
+   "title": "Leclerc: Islak qualifying, 4. sıradan daha değerli bir laboratuvar deneyimi oldu",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
