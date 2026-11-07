@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9f4e85abb17bdf75": "2026-10-24T23:46:09.854287+00:00",
-  "b16fbdb6a4186570": "2026-10-24T23:46:09.854287+00:00",
-  "da7ec01c3432b54a": "2026-10-24T23:46:09.854287+00:00",
-  "590a97ab6f0df22e": "2026-10-24T23:46:09.854287+00:00",
-  "33a96ce245d03b32": "2026-10-24T23:46:09.854287+00:00",
   "99a89cdc021e6683": "2026-10-24T23:51:07.051420+00:00",
   "3d5a8e8d8d2d54af": "2026-10-24T23:51:07.051420+00:00",
   "50a6377d2c9cdb0f": "2026-10-24T23:51:07.051420+00:00",
@@ -7793,7 +7788,10 @@
   "ccfdd733923a382e": "2026-11-07T23:40:44.129279+00:00",
   "6646957fc8099d2a": "2026-11-07T23:40:44.129279+00:00",
   "e89f796b215ef07b": "2026-11-07T23:45:32.255907+00:00",
-  "df1303d087685bf5": "2026-11-07T23:45:32.255907+00:00"
+  "df1303d087685bf5": "2026-11-07T23:45:32.255907+00:00",
+  "b7d17b367ef012ee": "2026-11-07T23:50:34.522468+00:00",
+  "e57c8e9c278fd3ed": "2026-11-07T23:50:34.522468+00:00",
+  "1b13d43dace84086": "2026-11-07T23:50:34.522468+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8074,32 +8072,6 @@
     "RacingNews365 NL": "Mentor Verstappen geeft advies aan kersvers F1-debutant"
    },
    "last": "2026-11-06T06:08:17.682519+00:00"
-  },
-  "S5108": {
-   "title": "Cowboys praise mental health program after Kneeland's death",
-   "first": "2026-11-05T23:46:08.051259+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T23:18:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cowboys laud mental health program put in place after Marshawn Kneeland's death"
-   },
-   "last": "2026-11-05T23:46:08.051281+00:00"
-  },
-  "S5109": {
-   "title": "Benfica 3-1 Lech Poznan player stats",
-   "first": "2026-11-05T23:46:08.051288+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T21:20:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Benfica 3-1 Lech Poznan (Nov 5, 2026) Player Stats"
-   },
-   "last": "2026-11-05T23:46:08.051295+00:00"
   },
   "S5110": {
    "title": "Reaction to Ronaldo's international retirement announcement",
@@ -18599,9 +18571,48 @@
     "Formula 1": "Camara disappointed after crash in debut Qualifying"
    },
    "last": "2026-11-07T23:45:35.013683+00:00"
+  },
+  "S5873": {
+   "title": "PSG 1-0 Troyes player stats",
+   "first": "2026-11-07T23:50:37.957297+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T21:38:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "PSG 1-0 Troyes (Nov 7, 2026) Player Stats"
+   },
+   "last": "2026-11-07T23:50:37.957314+00:00"
+  },
+  "S5874": {
+   "title": "Winners and losers from Brazilian GP qualifying",
+   "first": "2026-11-07T23:50:37.957318+00:00",
+   "sources": {
+    "The Race": "2026-11-07T23:49:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Winners and losers from F1 2026 Brazilian GP qualifying"
+   },
+   "last": "2026-11-07T23:50:37.957323+00:00"
+  },
+  "S5875": {
+   "title": "Leclerc admits tension with Hamilton after Mexico fallout",
+   "first": "2026-11-07T23:50:37.957325+00:00",
+   "sources": {
+    "The Race": "2026-11-07T23:46:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "'Of course there is tension' - how Leclerc sees Ferrari Mexico fallout"
+   },
+   "last": "2026-11-07T23:50:37.957329+00:00"
   }
  },
- "story_seq": 5872,
+ "story_seq": 5875,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18720,7 +18731,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:45:32.255907+00:00",
+ "last_run": "2026-11-07T23:50:34.522468+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
