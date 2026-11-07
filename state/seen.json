@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "87163552fa2f41ea": "2026-10-24T12:29:56.892327+00:00",
-  "e0c352c58eff91e4": "2026-10-24T12:29:56.892327+00:00",
   "c4e90a49945dd7cb": "2026-10-24T12:45:00.453838+00:00",
   "551fbf23580e7c5a": "2026-10-24T12:49:55.413186+00:00",
   "48d3bab8f93ea915": "2026-10-24T12:49:55.413186+00:00",
@@ -7728,7 +7726,13 @@
   "17ad6e23d2539c1c": "2026-11-07T12:24:13.556394+00:00",
   "c0927053c07c48e0": "2026-11-07T12:24:13.556394+00:00",
   "d4ed87903a9a6a79": "2026-11-07T12:29:13.542975+00:00",
-  "6be19ef08dcbfb59": "2026-11-07T12:29:13.542975+00:00"
+  "6be19ef08dcbfb59": "2026-11-07T12:29:13.542975+00:00",
+  "83a166c9e441a216": "2026-11-07T12:34:20.808162+00:00",
+  "045f586c8da133fd": "2026-11-07T12:34:20.808162+00:00",
+  "586f8c3a47e1206a": "2026-11-07T12:34:20.808162+00:00",
+  "fa2bc1195ef95ff9": "2026-11-07T12:34:20.808162+00:00",
+  "8f428a1b96502276": "2026-11-07T12:34:20.808162+00:00",
+  "08d31cf4dfba149a": "2026-11-07T12:34:20.808162+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7972,19 +7976,6 @@
     "GPFans": "Lance Stroll reports sick at Brazilian Grand Prix as Aston Martin issue statement"
    },
    "last": "2026-11-05T17:45:25.923517+00:00"
-  },
-  "S4909": {
-   "title": "ESPN fantasy-style column on trustworthy players in lineups",
-   "first": "2026-11-05T12:33:52.685729+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T12:25:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bowen: Six players you can now trust in lineups, four that you cannot any longer"
-   },
-   "last": "2026-11-05T12:33:52.685747+00:00"
   },
   "S4910": {
    "title": "Nuggets' Jokic down year debate, not F1 content",
@@ -16782,14 +16773,16 @@
    "title": "Hamilton reportedly facing grid penalty with new power unit in Brazil",
    "first": "2026-11-07T07:33:53.663244+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-07T07:20:00+00:00"
+    "FormulaPassion": "2026-11-07T07:20:00+00:00",
+    "The Race": "2026-11-07T12:31:42+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Hamilton verso la penalità sulla griglia di partenza nel GP del Brasile"
+    "FormulaPassion": "Hamilton verso la penalità sulla griglia di partenza nel GP del Brasile",
+    "The Race": "Hamilton set for Brazil grid penalty after Ferrari's worst 2026 Friday"
    },
-   "last": "2026-11-07T07:33:53.663247+00:00"
+   "last": "2026-11-07T12:34:25.277176+00:00"
   },
   "S5557": {
    "title": "McLaren adopts wing and active aero approach Mercedes dropped for 2027",
@@ -17519,7 +17512,7 @@
    "titles": {
     "ESPN F1": "Colts in Daniel Jones trade talks as multiple teams call about QB, sources say"
    },
-   "last": "2026-11-07T12:19:18.405475+00:00"
+   "last": "2026-11-07T12:34:25.277164+00:00"
   },
   "S5613": {
    "title": "Antonelli and Mercedes prepare for title battle with Verstappen",
@@ -17577,14 +17570,16 @@
    "title": "MotoGP Qatar qualifying: Bezzecchi beats Marquez to pole",
    "first": "2026-11-07T12:29:15.944328+00:00",
    "sources": {
-    "GPblog": "2026-11-07T12:20:00+00:00"
+    "GPblog": "2026-11-07T12:20:00+00:00",
+    "The Race": "2026-11-07T12:29:36+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "GPblog": "MotoGP Qatar qualifying results | Marquez beaten by Aprilia"
+    "GPblog": "MotoGP Qatar qualifying results | Marquez beaten by Aprilia",
+    "The Race": "Bezzecchi dominates for Qatar MotoGP pole"
    },
-   "last": "2026-11-07T12:29:15.944346+00:00"
+   "last": "2026-11-07T12:34:25.277182+00:00"
   },
   "S5618": {
    "title": "Ferrari upgrades spark debate over Mercedes comparison",
@@ -17598,9 +17593,22 @@
     "Auto Motor und Sport": "Formel 1: Ferrari attackiert Mercedes: Diese Upgrades sorgen für Diskussionen"
    },
    "last": "2026-11-07T12:29:15.944359+00:00"
+  },
+  "S5619": {
+   "title": "Permane understands frustration over delayed Racing Bulls driver decision",
+   "first": "2026-11-07T12:34:25.277187+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-07T12:30:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Racing-Bulls-Teamchef \"versteht Frust\" über verzögerte Fahrerentscheidung - Motorsport-Total.com"
+   },
+   "last": "2026-11-07T12:34:25.277209+00:00"
   }
  },
- "story_seq": 5618,
+ "story_seq": 5619,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17719,7 +17727,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T12:29:13.542975+00:00",
+ "last_run": "2026-11-07T12:34:20.808162+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19309,6 +19317,11 @@
    "t": "2026-11-07T12:29:18.807158+00:00",
    "title": "Ferrari, Mercedes'e saldırıyor: Bu yükseltmeler tartışma yarattı",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-07T12:34:28.540783+00:00",
+   "title": "Racing Bulls takım patronu, gecikmeli pilot kararına duyulan hayal kırıklığını anladığını söyledi",
+   "source": "Motorsport-Total"
   }
  ]
 }
