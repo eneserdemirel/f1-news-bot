@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9365aa18cf4065c5": "2026-10-24T15:10:01.707620+00:00",
   "abea8aeedc3a37ae": "2026-10-24T15:14:56.898839+00:00",
   "4535287c2c38c1f5": "2026-10-24T15:14:56.898839+00:00",
   "775ce8c2ce6d93b8": "2026-10-24T15:14:56.898839+00:00",
@@ -7764,7 +7763,9 @@
   "02f5a35c27088d8a": "2026-11-07T15:04:13.347799+00:00",
   "570bcc60b218e808": "2026-11-07T15:09:14.061394+00:00",
   "3623e342af47e0f0": "2026-11-07T15:09:14.061394+00:00",
-  "067ff95a3abbd1ea": "2026-11-07T15:09:14.061394+00:00"
+  "067ff95a3abbd1ea": "2026-11-07T15:09:14.061394+00:00",
+  "96064ddf570fdea3": "2026-11-07T15:14:12.410035+00:00",
+  "2f4f3a0bb1022a3b": "2026-11-07T15:14:12.410035+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17533,9 +17534,35 @@
     "Motorsport.com Italia": "F1 | Le due Ferrari penalizzate di 10 posizioni per il cambio di motore. Max dal fondo con una nuova PU"
    },
    "last": "2026-11-07T15:09:16.566971+00:00"
+  },
+  "S5659": {
+   "title": "Hull vs. Brighton odds and spread (football, not F1)",
+   "first": "2026-11-07T15:14:13.978288+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:10:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hull vs. Brighton (Nov 22, 2026) Odds and Spread"
+   },
+   "last": "2026-11-07T15:14:13.978305+00:00"
+  },
+  "S5660": {
+   "title": "Burnley vs. Blackburn live score (football, not F1)",
+   "first": "2026-11-07T15:14:13.978311+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:10:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Burnley vs. Blackburn (Nov 22, 2026) Live Score"
+   },
+   "last": "2026-11-07T15:14:13.978316+00:00"
   }
  },
- "story_seq": 5658,
+ "story_seq": 5660,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17654,7 +17681,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:09:14.061394+00:00",
+ "last_run": "2026-11-07T15:14:12.410035+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
