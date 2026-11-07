@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e0b307319c150a77": "2026-10-24T23:06:10.574450+00:00",
-  "4e1593d7fa9f0521": "2026-10-24T23:06:10.574450+00:00",
-  "ff3c6e490bb0699b": "2026-10-24T23:06:10.574450+00:00",
-  "c3895fafa0d1fbfd": "2026-10-24T23:06:10.574450+00:00",
-  "4920b89f96a08962": "2026-10-24T23:06:10.574450+00:00",
   "f74d43eec2f3dae9": "2026-10-24T23:11:09.186960+00:00",
   "5b92aa2856088d38": "2026-10-24T23:11:09.186960+00:00",
   "a4f8036b460968c6": "2026-10-24T23:11:09.186960+00:00",
@@ -7803,7 +7798,9 @@
   "90205a869c85582d": "2026-11-07T23:00:42.602328+00:00",
   "1ff9a69bc8090760": "2026-11-07T23:05:32.166335+00:00",
   "7dd6f9c88e49a452": "2026-11-07T23:05:32.166335+00:00",
-  "d7a31fe2ff692e4b": "2026-11-07T23:05:32.166335+00:00"
+  "d7a31fe2ff692e4b": "2026-11-07T23:05:32.166335+00:00",
+  "787e12f63e0fe620": "2026-11-07T23:10:36.421321+00:00",
+  "c24ba4dea04434cf": "2026-11-07T23:10:36.421321+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7864,21 +7861,6 @@
     "Motorsport-Total": "Pierre Gasly: Wenn du Helmut Marko überlebt hast, haut dich nichts mehr um! - Motorsport-Total.com"
    },
    "last": "2026-11-06T08:18:57.391101+00:00"
-  },
-  "S5010": {
-   "title": "Liam Lawson says uncertain F1 future takes away from results",
-   "first": "2026-11-05T17:55:26.232373+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-05T17:48:52+00:00",
-    "GPblog": "2026-11-05T23:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Liam Lawson concedes uncertain F1 future ‘takes away’ from strong results",
-    "GPblog": "Lawson makes painful admission as he provides update on 2027 F1 seat"
-   },
-   "last": "2026-11-05T23:06:11.963347+00:00"
   },
   "S5030": {
    "title": "Hamilton one-word response to Leclerc, says Leclerc races him harder",
@@ -7976,19 +7958,6 @@
     "ESPN F1": "Lewis Hamilton 'not going to be silenced' over frustrations with Ferrari teammate Charles Leclerc"
    },
    "last": "2026-11-06T00:16:08.434052+00:00"
-  },
-  "S5059": {
-   "title": "Celta Vigo vs Union SG team stats",
-   "first": "2026-11-05T20:25:28.276194+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T20:14:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Celta Vigo vs. Union SG (Nov 5, 2026) Team Stats"
-   },
-   "last": "2026-11-05T23:06:11.963340+00:00"
   },
   "S5065": {
    "title": "Verstappen says being P2 in standings is a big surprise",
@@ -8112,19 +8081,6 @@
     "RacingNews365 NL": "Mentor Verstappen geeft advies aan kersvers F1-debutant"
    },
    "last": "2026-11-06T06:08:17.682519+00:00"
-  },
-  "S5105": {
-   "title": "Sunderland 0-2 Dinamo Zagreb match analysis",
-   "first": "2026-11-05T23:06:11.963308+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T22:25:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sunderland 0-2 Dinamo Zagreb (5 Nov, 2026) Game Analysis"
-   },
-   "last": "2026-11-05T23:06:11.963330+00:00"
   },
   "S5106": {
    "title": "Joe West and four former umpires sue over MLB retirement plan",
@@ -17865,7 +17821,8 @@
     "Crash.net": "2026-11-07T21:32:05+00:00",
     "Autosport": "2026-11-07T21:48:47+00:00",
     "Sky Sports F1": "2026-11-07T22:10:00+00:00",
-    "Motorsport.com Italia": "2026-11-07T22:25:30+00:00"
+    "Motorsport.com Italia": "2026-11-07T22:25:30+00:00",
+    "Motorsport-Total": "2026-11-07T23:03:17+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17875,9 +17832,10 @@
     "Crash.net": "Lewis Hamilton insists Charles Leclerc relationship “just fine” after post-Mexico talks",
     "Autosport": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
     "Sky Sports F1": "'We squashed it' - Hamilton reveals details of talks with Leclerc after fall out",
-    "Motorsport.com Italia": "F1 | Hamilton conciliante: \"Abbiamo voltato pagina. E ora divertiamoci perché adoro Interlagos con l'acqua\""
+    "Motorsport.com Italia": "F1 | Hamilton conciliante: \"Abbiamo voltato pagina. E ora divertiamoci perché adoro Interlagos con l'acqua\"",
+    "Motorsport-Total": "Frieden bei Ferrari? Hamilton und Leclerc reden über Aussprache in Brasilien - Motorsport-Total.com"
    },
-   "last": "2026-11-07T22:30:36.351853+00:00"
+   "last": "2026-11-07T23:10:39.078002+00:00"
   },
   "S5813": {
    "title": "Reyna injury for Strasbourg and USMNT (non-F1)",
@@ -18501,9 +18459,22 @@
     "PlanetF1": "Norris on Brazilian GP pole as Hamilton and Verstappen face grid penalties – roundup"
    },
    "last": "2026-11-07T23:05:38.890693+00:00"
+  },
+  "S5860": {
+   "title": "Alonso disappointed despite first Q3 of the season in Brazil",
+   "first": "2026-11-07T23:10:39.077974+00:00",
+   "sources": {
+    "Crash.net": "2026-11-07T23:09:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Why Fernando Alonso was disappointed despite Brazil GP qualifying heroics"
+   },
+   "last": "2026-11-07T23:10:39.077996+00:00"
   }
  },
- "story_seq": 5859,
+ "story_seq": 5860,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18622,7 +18593,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:05:32.166335+00:00",
+ "last_run": "2026-11-07T23:10:36.421321+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
