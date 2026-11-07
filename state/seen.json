@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4b019aab66ae1949": "2026-10-24T17:15:34.600061+00:00",
-  "0ef122ec2e4ccc71": "2026-10-24T17:15:34.600061+00:00",
   "bae5ac3b26710dc3": "2026-10-24T17:20:38.449868+00:00",
   "d007fff457cdd793": "2026-10-24T17:20:38.449868+00:00",
   "6f785c6120e85e36": "2026-10-24T17:20:38.449868+00:00",
@@ -7827,7 +7825,9 @@
   "86fad37f996588d1": "2026-11-07T17:10:02.616472+00:00",
   "9b5c006210eca500": "2026-11-07T17:14:59.140130+00:00",
   "c1f787249b2ad193": "2026-11-07T17:14:59.140130+00:00",
-  "e3fd3f28add26b5d": "2026-11-07T17:14:59.140130+00:00"
+  "e3fd3f28add26b5d": "2026-11-07T17:14:59.140130+00:00",
+  "9f770b7cc3d0f428": "2026-11-07T17:20:01.309592+00:00",
+  "46947e4d97c6e667": "2026-11-07T17:20:01.309592+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8030,45 +8030,6 @@
     "The Race": "Bottas crash diagnosis and his bold stance on Cadillac F1 future"
    },
    "last": "2026-11-05T18:05:29.338970+00:00"
-  },
-  "S4989": {
-   "title": "Ben Shelton reaches Paris Masters quarterfinals",
-   "first": "2026-11-05T17:05:27.374661+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T16:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ben Shelton moves into Paris Masters quarters, to face Tommy Paul next"
-   },
-   "last": "2026-11-05T17:15:25.015905+00:00"
-  },
-  "S4992": {
-   "title": "Mercedes brings new front wing with shorter flap to Interlagos",
-   "first": "2026-11-05T17:15:25.015915+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-05T17:05:39+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Mercedes: a Interlagos la nuova ala anteriore ha l'ultimo flap con una corda più corta"
-   },
-   "last": "2026-11-05T17:15:25.015920+00:00"
-  },
-  "S4993": {
-   "title": "Lawson explains medical car incident after Mexico pit lane start",
-   "first": "2026-11-05T17:15:25.015923+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-05T17:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Lawson verklaart 'gevecht' met medical car: \"Reed bij me vandaan\""
-   },
-   "last": "2026-11-05T17:15:25.015926+00:00"
   },
   "S4994": {
    "title": "Best value early betting picks for Sao Paulo Grand Prix",
@@ -18031,9 +17992,35 @@
     "GPblog": "Marquez reveals airbag triggered by controversial Bezzecchi crash"
    },
    "last": "2026-11-07T17:15:03.459939+00:00"
+  },
+  "S5720": {
+   "title": "Galatasaray vs Amed SFK team stats (football)",
+   "first": "2026-11-07T17:20:03.112627+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T17:12:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Galatasaray vs. Amed SFK (7 Nov, 2026) Team Stats"
+   },
+   "last": "2026-11-07T17:20:03.112647+00:00"
+  },
+  "S5721": {
+   "title": "Fulham 1-1 Newcastle game analysis (football)",
+   "first": "2026-11-07T17:20:03.112652+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T17:11:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fulham 1-1 Newcastle (Nov 7, 2026) Game Analysis"
+   },
+   "last": "2026-11-07T17:20:03.112657+00:00"
   }
  },
- "story_seq": 5719,
+ "story_seq": 5721,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18152,7 +18139,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T17:14:59.140130+00:00",
+ "last_run": "2026-11-07T17:20:01.309592+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
