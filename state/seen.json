@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "47925a65174ca3fe": "2026-10-24T18:15:34.803391+00:00",
-  "1dd05a44d95b9150": "2026-10-24T18:15:34.803391+00:00",
   "812168fa9b1d80a9": "2026-10-24T18:25:33.135187+00:00",
   "c70aa22eab4e9bea": "2026-10-24T18:25:33.135187+00:00",
   "6dd51b65d641299a": "2026-10-24T18:30:37.241472+00:00",
@@ -7813,7 +7811,9 @@
   "513e2a92e5440a99": "2026-11-07T18:15:02.395957+00:00",
   "b065a215e8bc55a4": "2026-11-07T18:15:02.395957+00:00",
   "ded9f5f8f30e98fc": "2026-11-07T18:15:02.395957+00:00",
-  "425d33f617f94e72": "2026-11-07T18:15:02.395957+00:00"
+  "425d33f617f94e72": "2026-11-07T18:15:02.395957+00:00",
+  "1746bab9dc6659d5": "2026-11-07T18:20:00.439346+00:00",
+  "0c1f164b637374f8": "2026-11-07T18:20:00.439346+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7866,21 +7866,6 @@
    },
    "last": "2026-11-05T21:05:27.520019+00:00"
   },
-  "S4866": {
-   "title": "Hamilton aims to win 400th GP at Interlagos",
-   "first": "2026-11-05T09:03:16.910144+00:00",
-   "sources": {
-    "GPblog": "2026-11-05T09:00:00+00:00",
-    "Formula 1": "2026-11-05T18:15:29.032494+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton targets victory in 400th Grand Prix at the track where he won his first title",
-    "Formula 1": "Can Hamilton celebrate 400th GP with Brazil win?"
-   },
-   "last": "2026-11-05T18:15:29.032509+00:00"
-  },
   "S4880": {
    "title": "Antonelli to wear Senna tribute helmet at Sao Paulo GP",
    "first": "2026-11-05T10:03:56.275080+00:00",
@@ -7931,21 +7916,6 @@
     "Motorsport Week": "Aston Martin will ‘be really surprised’ if FIA take risks over F1 finale"
    },
    "last": "2026-11-05T21:16:10.562141+00:00"
-  },
-  "S4969": {
-   "title": "Gasly faces early-morning drug test before Sao Paulo GP",
-   "first": "2026-11-05T16:05:30.748770+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T16:00:00+00:00",
-    "Motorsport Week": "2026-11-05T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Pierre Gasly subject to early-morning drug test ahead of Sao Paulo GP",
-    "Motorsport Week": "Pierre Gasly reveals early morning drug test ordeal ahead of F1 Sao Paulo GP"
-   },
-   "last": "2026-11-05T18:15:29.032534+00:00"
   },
   "S4970": {
    "title": "Gasly jokes about working with Helmut Marko",
@@ -8056,19 +8026,6 @@
    },
    "last": "2026-11-05T18:35:30.375707+00:00"
   },
-  "S5014": {
-   "title": "Lynn revealed to have served cocaine-related one-month suspension",
-   "first": "2026-11-05T18:15:29.032515+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T17:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lynn revealed to have served one-month suspension for cocaine use"
-   },
-   "last": "2026-11-05T18:15:29.032519+00:00"
-  },
   "S5015": {
    "title": "Explainer on WTGL 2026 schedule and viewing details",
    "first": "2026-11-05T18:15:29.032522+00:00",
@@ -8081,32 +8038,6 @@
     "ESPN F1": "What is WTGL? 2026 schedule and where to watch"
    },
    "last": "2026-11-05T19:55:30.080858+00:00"
-  },
-  "S5016": {
-   "title": "Verstappen laughs off Wolff's remark at Brazil press conference",
-   "first": "2026-11-05T18:15:29.032528+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-05T18:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen lacht opmerkelijke uitspraak Wolff weg: \"Dat mag hij vinden\""
-   },
-   "last": "2026-11-05T18:15:29.032531+00:00"
-  },
-  "S5017": {
-   "title": "Alonso reacts to Hamilton joining his 400 GP club",
-   "first": "2026-11-05T18:15:29.032537+00:00",
-   "sources": {
-    "Crash.net": "2026-11-05T18:07:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Fernando Alonso reacts as Lewis Hamilton joins his exclusive F1 club"
-   },
-   "last": "2026-11-05T18:15:29.032540+00:00"
   },
   "S5018": {
    "title": "Aston Martin admits it knew before Mexico it would not finish",
@@ -17657,7 +17588,9 @@
     "RacingNews365 NL": "2026-11-07T16:36:00+00:00",
     "RacingNews365": "2026-11-07T16:40:00+00:00",
     "GPblog": "2026-11-07T18:05:00+00:00",
-    "Crash.net": "2026-11-07T18:06:13+00:00"
+    "Crash.net": "2026-11-07T18:06:13+00:00",
+    "The Race": "2026-11-07T18:15:25+00:00",
+    "GPFans": "2026-11-07T18:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17665,9 +17598,11 @@
     "RacingNews365 NL": "Interlagos geteisterd door hevige regenval vlak voor kwalificatie",
     "RacingNews365": "LIVE: 2026 F1 Sao Paulo Grand Prix - Heavy thunderstorm arrives ahead of qualifying",
     "GPblog": "Red flag halts Brazilian GP qualifying as torrential rain causes chaos",
-    "Crash.net": "F1 Brazil GP qualifying red-flagged after heavy rain storm"
+    "Crash.net": "F1 Brazil GP qualifying red-flagged after heavy rain storm",
+    "The Race": "Brazilian GP qualifying red flagged almost immediately due to rain",
+    "GPFans": "Brazilian Grand Prix qualifying red flagged after huge storm hits Sao Paulo"
    },
-   "last": "2026-11-07T18:15:07.259930+00:00"
+   "last": "2026-11-07T18:20:03.283145+00:00"
   },
   "S5713": {
    "title": "Chesterfield vs Yeovil live score (football)",
@@ -18054,7 +17989,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T18:15:02.395957+00:00",
+ "last_run": "2026-11-07T18:20:00.439346+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
