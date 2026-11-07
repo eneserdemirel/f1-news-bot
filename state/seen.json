@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "080e9db6a4bf4d9c": "2026-10-24T19:25:37.556292+00:00",
-  "947d885e99a2a0d3": "2026-10-24T19:25:37.556292+00:00",
-  "f38d908fda37d996": "2026-10-24T19:25:37.556292+00:00",
-  "a1b2cdfd00cf1f22": "2026-10-24T19:25:37.556292+00:00",
   "992e5da95a255e4f": "2026-10-24T19:30:40.309165+00:00",
   "a8cf2c0981448cc7": "2026-10-24T19:30:40.309165+00:00",
   "9978cd7a20f76481": "2026-10-24T19:35:33.321160+00:00",
@@ -7759,7 +7755,9 @@
   "f8b77bccca88fcb1": "2026-11-07T19:25:05.703325+00:00",
   "70d7d2e6ac651890": "2026-11-07T19:25:05.703325+00:00",
   "98e88c581b390249": "2026-11-07T19:25:05.703325+00:00",
-  "13e27e9e95763489": "2026-11-07T19:25:05.703325+00:00"
+  "13e27e9e95763489": "2026-11-07T19:25:05.703325+00:00",
+  "dab371e1d5481a70": "2026-11-07T19:30:00.957409+00:00",
+  "c599b800a296d72d": "2026-11-07T19:30:00.957409+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8013,58 +8011,6 @@
     "Motorsport Week": "Lewis Hamilton issues blunt answer to crucial Charles Leclerc question"
    },
    "last": "2026-11-06T07:28:18.177557+00:00"
-  },
-  "S5045": {
-   "title": "Verstappen gives Antonelli advice on being F1 champion",
-   "first": "2026-11-05T19:25:29.008859+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T19:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen hands Kimi Antonelli key advice on being F1 champion"
-   },
-   "last": "2026-11-05T19:25:29.008877+00:00"
-  },
-  "S5046": {
-   "title": "Hadjar frustrated by poor results, expects breakthrough soon",
-   "first": "2026-11-05T19:25:29.008881+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-05T19:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Gefrustreerde Hadjar weet: \"Het valt vanzelf een keer goed\""
-   },
-   "last": "2026-11-05T19:25:29.008885+00:00"
-  },
-  "S5047": {
-   "title": "Famous faces expected at Sao Paulo GP paddock",
-   "first": "2026-11-05T19:25:29.008888+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-05T19:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "The glamour game: The famous faces set to take over the F1 Sao Paulo GP"
-   },
-   "last": "2026-11-05T19:25:29.008891+00:00"
-  },
-  "S5048": {
-   "title": "Hamilton refuses to apologise over Leclerc clash",
-   "first": "2026-11-05T19:25:29.008897+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-05T19:17:59+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Lewis Hamilton bleibt hart: \"Werde mich niemals dafür entschuldigen\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-05T19:25:29.008900+00:00"
   },
   "S5049": {
    "title": "Camara calls his Haas F1 debut 'abnormal' before Brazil",
@@ -15487,7 +15433,7 @@
     "RacingNews365": "Lewis Hamilton career highs and heartbreak revisited ahead of staggering milestone",
     "Gazzetta dello Sport": "Hamilton, in Brasile la gara numero 400. Ma chi ha corso più Gran Premi di lui?"
    },
-   "last": "2026-11-07T15:55:12.429743+00:00"
+   "last": "2026-11-07T19:30:03.614640+00:00"
   },
   "S5590": {
    "title": "UConn's Demary and Mullins seek revenge against Michigan in title rematch",
@@ -17652,14 +17598,16 @@
    "title": "Positive track update raises hopes of Brazilian GP qualifying restart",
    "first": "2026-11-07T19:25:09.146582+00:00",
    "sources": {
-    "GPblog": "2026-11-07T19:24:00+00:00"
+    "GPblog": "2026-11-07T19:24:00+00:00",
+    "RacingNews365 NL": "2026-11-07T19:23:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Positive update raises hopes of qualifying restart as new start time emerges"
+    "GPblog": "Positive update raises hopes of qualifying restart as new start time emerges",
+    "RacingNews365 NL": "Nieuwe starttijd kwalificatie GP Brazilië bekend"
    },
-   "last": "2026-11-07T19:25:09.146585+00:00"
+   "last": "2026-11-07T19:30:03.614627+00:00"
   }
  },
  "story_seq": 5745,
@@ -17781,7 +17729,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T19:25:05.703325+00:00",
+ "last_run": "2026-11-07T19:30:00.957409+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -19346,6 +19294,11 @@
    "t": "2026-11-07T19:25:13.031229+00:00",
    "title": "São Paulo GP'de sıralama turlarının yeniden başlaması umutlandırıyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T19:30:07.618257+00:00",
+   "title": "Brezilya GP kualifikasyonunun yeni başlangıç saati belli oldu",
+   "source": "RacingNews365 NL"
   }
  ]
 }
