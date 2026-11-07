@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "78d9c55d3cdd7596": "2026-10-24T11:19:58.337872+00:00",
-  "7b9231907f4f0f1f": "2026-10-24T11:19:58.337872+00:00",
-  "1a65a50eb0104206": "2026-10-24T11:19:58.337872+00:00",
   "b00c1d2efc11d577": "2026-10-24T11:24:53.831725+00:00",
   "4db977eb40325883": "2026-10-24T11:49:55.477354+00:00",
   "259d1664bb643286": "2026-10-24T11:49:55.477354+00:00",
@@ -7729,7 +7726,12 @@
   "488ce8e1c5037a9e": "2026-11-07T11:09:13.908908+00:00",
   "5328f6766f0e9dc2": "2026-11-07T11:09:13.908908+00:00",
   "7524922e97eac414": "2026-11-07T11:14:12.389711+00:00",
-  "7451492335140b87": "2026-11-07T11:19:14.271516+00:00"
+  "7451492335140b87": "2026-11-07T11:19:14.271516+00:00",
+  "b81cafb2aa62b592": "2026-11-07T11:24:12.509857+00:00",
+  "d17084928cee1b67": "2026-11-07T11:24:12.509857+00:00",
+  "dc89e051284971c5": "2026-11-07T11:24:12.509857+00:00",
+  "8c7c6f5278830c3f": "2026-11-07T11:24:12.509857+00:00",
+  "61dbecc155938c8a": "2026-11-07T11:24:12.509857+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7884,21 +7886,6 @@
     "Crash.net": "Lewis Hamilton compared to famous gangster in stunning Ralf Schumacher criticism"
    },
    "last": "2026-11-05T14:54:31.030882+00:00"
-  },
-  "S4862": {
-   "title": "Brundle says Russell must find new gear after bleak season",
-   "first": "2026-11-05T08:53:38.312692+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T08:50:00+00:00",
-    "Motorsport Week": "2026-11-05T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell facing bleak 'game over' barring crucial F1 breakthrough",
-    "Motorsport Week": "George Russell warned over potential ‘game over’ for 2027 title bid"
-   },
-   "last": "2026-11-05T11:23:53.460876+00:00"
   },
   "S4866": {
    "title": "Hamilton aims to win 400th GP at Interlagos",
@@ -14560,15 +14547,17 @@
    "first": "2026-11-06T18:35:22.622058+00:00",
    "sources": {
     "Crash.net": "2026-11-06T18:25:00+00:00",
-    "The Race": "2026-11-06T20:20:20+00:00"
+    "The Race": "2026-11-06T20:20:20+00:00",
+    "RacingNews365 NL": "2026-11-07T11:22:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Toto Wolff takes swipe at MotoGP riders ‘who know nothing’ over Qatar standoff",
-    "The Race": "Wolff backs MotoGP's handling of calendar dissent"
+    "The Race": "Wolff backs MotoGP's handling of calendar dissent",
+    "RacingNews365 NL": "Wolff neemt MotoGP-coureurs op de korrel: \"Weten niets van wat er speelt\""
    },
-   "last": "2026-11-06T20:25:21.421300+00:00"
+   "last": "2026-11-07T11:24:16.972455+00:00"
   },
   "S5375": {
    "title": "Analysis of Brazil FP1: McLaren pace, Ferrari work to do",
@@ -17554,9 +17543,48 @@
     "ESPN F1": "Darren Williams knocks down the 3-point shot"
    },
    "last": "2026-11-07T11:19:15.958353+00:00"
+  },
+  "S5598": {
+   "title": "Eyupspor vs Kocaelispor live score",
+   "first": "2026-11-07T11:24:16.972413+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T11:20:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Eyupspor vs. Kocaelispor (7 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-07T11:24:16.972430+00:00"
+  },
+  "S5599": {
+   "title": "Andy Farrell wants more ruthless Ireland after Argentina win",
+   "first": "2026-11-07T11:24:16.972435+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T11:20:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Andy Farrell wants Ireland to be more ruthless despite big win over Argentina"
+   },
+   "last": "2026-11-07T11:24:16.972441+00:00"
+  },
+  "S5600": {
+   "title": "Verstappen urges Red Bull fix and makes wet weather plea",
+   "first": "2026-11-07T11:24:16.972445+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen urges Red Bull problem fix as wet weather plea issued"
+   },
+   "last": "2026-11-07T11:24:16.972449+00:00"
   }
  },
- "story_seq": 5597,
+ "story_seq": 5600,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17675,7 +17703,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T11:19:14.271516+00:00",
+ "last_run": "2026-11-07T11:24:12.509857+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
