@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "90845abba6d1173e": "2026-10-24T17:30:36.916301+00:00",
   "9ed0cf92e44c2a52": "2026-10-24T17:35:33.119717+00:00",
   "0b8845699031b9a9": "2026-10-24T17:35:33.119717+00:00",
   "d4145c36b7aa23f1": "2026-10-24T17:35:33.119717+00:00",
@@ -7830,7 +7829,11 @@
   "2d2b155208006a6c": "2026-11-07T17:30:03.272951+00:00",
   "ca2bcffb79e1ea85": "2026-11-07T17:30:03.272951+00:00",
   "76f9ed2207b9391e": "2026-11-07T17:30:03.272951+00:00",
-  "365e534223b15e73": "2026-11-07T17:30:03.272951+00:00"
+  "365e534223b15e73": "2026-11-07T17:30:03.272951+00:00",
+  "9d1e117e4c43e9e5": "2026-11-07T17:35:01.240857+00:00",
+  "8c9bea4cd52f40a3": "2026-11-07T17:35:01.240857+00:00",
+  "355a7cf7995c3973": "2026-11-07T17:35:01.240857+00:00",
+  "564fcc8ba946e52c": "2026-11-07T17:35:01.240857+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17763,7 +17766,8 @@
     "FormulaPassion": "2026-11-07T16:20:00+00:00",
     "RacingNews365 NL": "2026-11-07T17:00:00+00:00",
     "GPblog": "2026-11-07T17:01:00+00:00",
-    "Corriere dello Sport": "2026-11-07T17:19:59+00:00"
+    "Corriere dello Sport": "2026-11-07T17:19:59+00:00",
+    "PlanetF1": "2026-11-07T17:33:35+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17771,9 +17775,10 @@
     "FormulaPassion": "F1 GP Brasile 2026, qualifiche: solo Antonelli e le McLaren lottano per la pole, il via è alle 19.00 – DIRETTA",
     "RacingNews365 NL": "Live kwalificatie F1 GP Brazilië 2026 in São Paolo",
     "GPblog": "F1 LIVE | Follow 2026 São Paulo Grand Prix Qualifying here!",
-    "Corriere dello Sport": "GP Brasile diretta F1: segui le qualifiche, i tempi di Hamilton e Leclerc LIVE"
+    "Corriere dello Sport": "GP Brasile diretta F1: segui le qualifiche, i tempi di Hamilton e Leclerc LIVE",
+    "PlanetF1": "F1 Brazil GP LIVE: Qualifying updates from Interlagos"
    },
-   "last": "2026-11-07T17:30:07.059933+00:00"
+   "last": "2026-11-07T17:35:07.155605+00:00"
   },
   "S5711": {
    "title": "Boreham Wood vs Wigan live score",
@@ -17940,7 +17945,8 @@
     "GPblog": "2026-11-07T17:21:00+00:00",
     "The Race": "2026-11-07T17:29:24+00:00",
     "RacingNews365": "2026-11-07T17:28:00+00:00",
-    "Crash.net": "2026-11-07T17:29:39+00:00"
+    "Crash.net": "2026-11-07T17:29:39+00:00",
+    "Formula 1": "2026-11-07T17:35:07.155582+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17948,9 +17954,10 @@
     "GPblog": "Hamilton suffers fresh blow as Ferrari makes drastic call ahead of qualifying",
     "The Race": "Hamilton gets back-of-the-grid penalty for Brazilian GP",
     "RacingNews365": "Lewis Hamilton handed further power unit punishment ahead of Sao Paulo GP",
-    "Crash.net": "Lewis Hamilton joins Max Verstappen at back of Brazil grid after engine drama"
+    "Crash.net": "Lewis Hamilton joins Max Verstappen at back of Brazil grid after engine drama",
+    "Formula 1": "Hamilton set for further grid penalty in Sao Paulo"
    },
-   "last": "2026-11-07T17:30:07.059928+00:00"
+   "last": "2026-11-07T17:35:07.155597+00:00"
   },
   "S5724": {
    "title": "David Silva returns from retirement with goal for Man City",
@@ -17964,9 +17971,35 @@
     "ESPN F1": "Man City legend David Silva returns from retirement with goal, player of match award"
    },
    "last": "2026-11-07T17:30:07.059910+00:00"
+  },
+  "S5725": {
+   "title": "FormulaPassion analysis of Brazil FP3 and qualifying outlook",
+   "first": "2026-11-07T17:35:07.155611+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T17:01:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Telemetria FP3 Brasile: qualifica impronosticabile, penalità e pioggia sconvolgeranno gli assetti"
+   },
+   "last": "2026-11-07T17:35:07.155616+00:00"
+  },
+  "S5726": {
+   "title": "Report on tracks leaving and joining F1 2027 calendar",
+   "first": "2026-11-07T17:35:07.155619+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-07T17:29:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Kalender 2027: Welche Strecken raus sind und welche neu dazukommen - Motorsport-Total.com"
+   },
+   "last": "2026-11-07T17:35:07.155624+00:00"
   }
  },
- "story_seq": 5724,
+ "story_seq": 5726,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18085,17 +18118,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T17:30:03.272951+00:00",
+ "last_run": "2026-11-07T17:35:01.240857+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T17:31:27.743973+00:00",
-   "title": "Verstappen, Meksika'da engine braking sorunuyla yine karşılaştı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-04T17:41:26.094253+00:00",
    "title": "Wolff, Antonelli'nin şampiyonluğu sonrası Mercedes çalışanlarına e-posta yazdı",
@@ -19645,6 +19673,16 @@
    "t": "2026-11-07T17:15:08.956418+00:00",
    "title": "Perez, Brezilya GP'de FIA cezasıyla 30 sıra geriden başlayacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-07T17:35:16.247162+00:00",
+   "title": "Brezilya FP3: Tahmin edilemez sıralama, cezalar ve yağmur etkisi",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T17:35:16.660118+00:00",
+   "title": "2027 Formula 1 takvimi: Çıkan ve yeni eklenen pistler",
+   "source": "Motorsport-Total"
   }
  ]
 }
