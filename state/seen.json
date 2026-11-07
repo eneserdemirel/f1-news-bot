@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "99a89cdc021e6683": "2026-10-24T23:51:07.051420+00:00",
-  "3d5a8e8d8d2d54af": "2026-10-24T23:51:07.051420+00:00",
-  "50a6377d2c9cdb0f": "2026-10-24T23:51:07.051420+00:00",
   "8086dff9824015de": "2026-10-24T23:56:07.742555+00:00",
   "4ea545dadc278157": "2026-10-24T23:56:07.742555+00:00",
   "9fce3c0b6d45ec7a": "2026-10-24T23:56:07.742555+00:00",
@@ -7791,7 +7788,11 @@
   "df1303d087685bf5": "2026-11-07T23:45:32.255907+00:00",
   "b7d17b367ef012ee": "2026-11-07T23:50:34.522468+00:00",
   "e57c8e9c278fd3ed": "2026-11-07T23:50:34.522468+00:00",
-  "1b13d43dace84086": "2026-11-07T23:50:34.522468+00:00"
+  "1b13d43dace84086": "2026-11-07T23:50:34.522468+00:00",
+  "005345f28c40fc74": "2026-11-07T23:55:31.874264+00:00",
+  "8dff61c67fef525f": "2026-11-07T23:55:31.874264+00:00",
+  "4bad297e6033cc8f": "2026-11-07T23:55:31.874264+00:00",
+  "0cf815f713e902c4": "2026-11-07T23:55:31.874264+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18610,9 +18611,61 @@
     "The Race": "'Of course there is tension' - how Leclerc sees Ferrari Mexico fallout"
    },
    "last": "2026-11-07T23:50:37.957329+00:00"
+  },
+  "S5876": {
+   "title": "Martin Connington makes 34-yard field goal",
+   "first": "2026-11-07T23:55:35.316788+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:46:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Martin Connington makes 34-yard field goal"
+   },
+   "last": "2026-11-07T23:55:35.316808+00:00"
+  },
+  "S5877": {
+   "title": "Justin Keller makes 35-yard field goal",
+   "first": "2026-11-07T23:55:35.316813+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:45:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Justin Keller makes 35-yard field goal"
+   },
+   "last": "2026-11-07T23:55:35.316817+00:00"
+  },
+  "S5878": {
+   "title": "Utah interception of Bear Bachmeier seals Holy War win",
+   "first": "2026-11-07T23:55:35.316820+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:32:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Utah PICKS OFF Bear Bachmeier for the 4th time to seal the Holy War victory | ESPN CFB"
+   },
+   "last": "2026-11-07T23:55:35.316823+00:00"
+  },
+  "S5879": {
+   "title": "Roman Gagliano throws 1-yard TD pass to Neo Clifton",
+   "first": "2026-11-07T23:55:35.316826+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T22:11:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Roman Gagliano throws 1-yard TD pass to Neo Clifton"
+   },
+   "last": "2026-11-07T23:55:35.316828+00:00"
   }
  },
- "story_seq": 5875,
+ "story_seq": 5879,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18731,7 +18784,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:50:34.522468+00:00",
+ "last_run": "2026-11-07T23:55:31.874264+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
