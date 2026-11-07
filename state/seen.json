@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a3da8be020b760c9": "2026-10-24T10:44:21.998137+00:00",
-  "b369e32b49d8cee0": "2026-10-24T10:44:21.998137+00:00",
   "9b2b9cd789ac63b2": "2026-10-24T10:49:25.426492+00:00",
   "78f5a270b2ca20c9": "2026-10-24T10:49:25.426492+00:00",
   "2739ff51e89c1793": "2026-10-24T10:54:21.848681+00:00",
@@ -7722,7 +7720,9 @@
   "45014d8be2ba49b8": "2026-11-07T10:39:14.315488+00:00",
   "a5fbab314e6b9bc7": "2026-11-07T10:39:14.315488+00:00",
   "49e5c63780870cf9": "2026-11-07T10:39:14.315488+00:00",
-  "487b0911fa374c1d": "2026-11-07T10:39:14.315488+00:00"
+  "487b0911fa374c1d": "2026-11-07T10:39:14.315488+00:00",
+  "e224e583308a248d": "2026-11-07T10:49:13.945561+00:00",
+  "8c23c1a1b445838c": "2026-11-07T10:49:13.945561+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17513,9 +17513,22 @@
     "RacingNews365": "Lewis Hamilton career highs and heartbreak revisited ahead of staggering milestone"
    },
    "last": "2026-11-07T10:39:16.007593+00:00"
+  },
+  "S5590": {
+   "title": "UConn's Demary and Mullins seek revenge against Michigan in title rematch",
+   "first": "2026-11-07T10:49:15.431328+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T06:32:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UConn's Demary, Mullins exact revenge against Michigan in title game rematch"
+   },
+   "last": "2026-11-07T10:49:15.431345+00:00"
   }
  },
- "story_seq": 5589,
+ "story_seq": 5590,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17634,7 +17647,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T10:44:12.431754+00:00",
+ "last_run": "2026-11-07T10:49:13.945561+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
