@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e6516f5056a9bd17": "2026-10-24T17:10:35.842825+00:00",
-  "746a71ac3eb28fc4": "2026-10-24T17:10:35.842825+00:00",
-  "2cb0f481032bbbce": "2026-10-24T17:10:35.842825+00:00",
-  "3a4ea67f02ed3862": "2026-10-24T17:10:35.842825+00:00",
   "4b019aab66ae1949": "2026-10-24T17:15:34.600061+00:00",
   "0ef122ec2e4ccc71": "2026-10-24T17:15:34.600061+00:00",
   "bae5ac3b26710dc3": "2026-10-24T17:20:38.449868+00:00",
@@ -7828,7 +7824,10 @@
   "077a7cce8d378007": "2026-11-07T17:05:00.405394+00:00",
   "6bbdd6589ab57151": "2026-11-07T17:10:02.616472+00:00",
   "d55db1722c9f4d04": "2026-11-07T17:10:02.616472+00:00",
-  "86fad37f996588d1": "2026-11-07T17:10:02.616472+00:00"
+  "86fad37f996588d1": "2026-11-07T17:10:02.616472+00:00",
+  "9b5c006210eca500": "2026-11-07T17:14:59.140130+00:00",
+  "c1f787249b2ad193": "2026-11-07T17:14:59.140130+00:00",
+  "e3fd3f28add26b5d": "2026-11-07T17:14:59.140130+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17386,7 +17385,7 @@
     "RacingNews365": "Sergio Perez facing stewards investigation after 'throwing something' out of car",
     "Crash.net": "Sergio Perez faces investigation for unusual incident in Brazil GP practice"
    },
-   "last": "2026-11-07T17:10:05.016970+00:00"
+   "last": "2026-11-07T17:15:03.459916+00:00"
   },
   "S5671": {
    "title": "Analysis: why Verstappen can't take pole despite FP3 lead",
@@ -18006,9 +18005,35 @@
     "ESPN F1": "Arsenal 1-0 Hull (Nov 7, 2026) Game Analysis"
    },
    "last": "2026-11-07T17:10:05.016961+00:00"
+  },
+  "S5718": {
+   "title": "FIA confirms 30-place grid penalty for Perez at Brazilian GP",
+   "first": "2026-11-07T17:15:03.459926+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-07T17:11:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA confirms 30-place Sergio Perez penalty for Brazilian Grand Prix"
+   },
+   "last": "2026-11-07T17:15:03.459932+00:00"
+  },
+  "S5719": {
+   "title": "Marquez reveals airbag triggered by Bezzecchi crash",
+   "first": "2026-11-07T17:15:03.459935+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T17:05:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marquez reveals airbag triggered by controversial Bezzecchi crash"
+   },
+   "last": "2026-11-07T17:15:03.459939+00:00"
   }
  },
- "story_seq": 5717,
+ "story_seq": 5719,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18127,22 +18152,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T17:10:02.616472+00:00",
+ "last_run": "2026-11-07T17:14:59.140130+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T17:11:25.025271+00:00",
-   "title": "Ferrari'de yönetim hatası eleştirisi: Vasseur'e 'acımasız lider' çağrısı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-04T17:11:25.414528+00:00",
-   "title": "Russell'da neler ters gitti ve 2027 için toparlanabilecek mi?",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-04T17:21:45.213717+00:00",
    "title": "Ferrari, Brezilya'da Meksika'daki başarıyı tekrarlamak istiyor",
@@ -19692,6 +19707,16 @@
    "t": "2026-11-07T17:10:08.592043+00:00",
    "title": "FIA, Perez'in Brezilya GP antrenmanındaki olaya ilişkin kararını açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-07T17:15:08.510549+00:00",
+   "title": "Perez, kablo düzenleyiciyi pistten attığı için uyarıldı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T17:15:08.956418+00:00",
+   "title": "Perez, Brezilya GP'de FIA cezasıyla 30 sıra geriden başlayacak",
+   "source": "PlanetF1"
   }
  ]
 }
