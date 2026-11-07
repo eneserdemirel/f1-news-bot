@@ -7809,7 +7809,11 @@
   "065567f4485881d5": "2026-11-07T18:05:07.480538+00:00",
   "a6f409bb0f74d23d": "2026-11-07T18:10:01.157783+00:00",
   "a4cadbbfb614a5df": "2026-11-07T18:10:01.157783+00:00",
-  "1b2d2210cd840468": "2026-11-07T18:10:01.157783+00:00"
+  "1b2d2210cd840468": "2026-11-07T18:10:01.157783+00:00",
+  "513e2a92e5440a99": "2026-11-07T18:15:02.395957+00:00",
+  "b065a215e8bc55a4": "2026-11-07T18:15:02.395957+00:00",
+  "ded9f5f8f30e98fc": "2026-11-07T18:15:02.395957+00:00",
+  "425d33f617f94e72": "2026-11-07T18:15:02.395957+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17663,7 +17667,7 @@
     "GPblog": "Red flag halts Brazilian GP qualifying as torrential rain causes chaos",
     "Crash.net": "F1 Brazil GP qualifying red-flagged after heavy rain storm"
    },
-   "last": "2026-11-07T18:10:04.574459+00:00"
+   "last": "2026-11-07T18:15:07.259930+00:00"
   },
   "S5713": {
    "title": "Chesterfield vs Yeovil live score (football)",
@@ -17806,7 +17810,8 @@
     "Formula 1": "2026-11-07T17:35:07.155582+00:00",
     "Autosport": "2026-11-07T17:32:44+00:00",
     "Motorsport Week": "2026-11-07T17:32:30+00:00",
-    "Motorsport.com Italia": "2026-11-07T17:47:18+00:00"
+    "Motorsport.com Italia": "2026-11-07T17:47:18+00:00",
+    "PlanetF1": "2026-11-07T18:14:32+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17818,9 +17823,10 @@
     "Formula 1": "Hamilton set for further grid penalty in Sao Paulo",
     "Autosport": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
     "Motorsport Week": "BREAKING: Lewis Hamilton Brazil nightmare continues with further Ferrari change",
-    "Motorsport.com Italia": "F1 | Ferrari: Hamilton cambia di nuovo motore dopo i problemi in FP3 e partirà dal fondo"
+    "Motorsport.com Italia": "F1 | Ferrari: Hamilton cambia di nuovo motore dopo i problemi in FP3 e partirà dal fondo",
+    "PlanetF1": "Lewis Hamilton hit with further Brazilian GP penalty as Ferrari issues statement"
    },
-   "last": "2026-11-07T17:50:09.648602+00:00"
+   "last": "2026-11-07T18:15:07.259936+00:00"
   },
   "S5724": {
    "title": "David Silva returns from retirement with goal for Man City",
@@ -17901,9 +17907,35 @@
     "ESPN F1": "Scott Parker awaits first West Ham win after defeat at Blackburn"
    },
    "last": "2026-11-07T17:55:00.875956+00:00"
+  },
+  "S5730": {
+   "title": "Auxerre vs Paris FC team stats",
+   "first": "2026-11-07T18:15:07.259895+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T18:11:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Auxerre vs. Paris FC (7 Nov, 2026) Team Stats"
+   },
+   "last": "2026-11-07T18:15:07.259914+00:00"
+  },
+  "S5731": {
+   "title": "Nottingham Forest vs Man City live score",
+   "first": "2026-11-07T18:15:07.259919+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T17:33:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nottm Forest vs. Man City (7 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-07T18:15:07.259923+00:00"
   }
  },
- "story_seq": 5729,
+ "story_seq": 5731,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18022,17 +18054,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T18:10:01.157783+00:00",
+ "last_run": "2026-11-07T18:15:02.395957+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T18:11:58.821197+00:00",
-   "title": "Perez, Cadillac'ın ikinci koltuğu tartışmasına yanıt verdi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-04T18:21:56.967201+00:00",
    "title": "Imola'da sürpriz sezon finali mi? İki haftalık hazırlık yeterli olur",
@@ -19587,6 +19614,11 @@
    "t": "2026-11-07T18:10:09.225337+00:00",
    "title": "Brezilya GP sıralama turları yoğun yağış nedeniyle durduruldu",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T18:15:13.480992+00:00",
+   "title": "Hamilton, Brezilya GP'de ek cezayla en geriden başlayacak",
+   "source": "PlanetF1"
   }
  ]
 }
