@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0238758afbb3fa73": "2026-10-24T23:16:09.456309+00:00",
-  "b92cf57bc9a6ca47": "2026-10-24T23:16:09.456309+00:00",
   "fdb73777d63ae131": "2026-10-24T23:21:07.964314+00:00",
   "6e7cac4f8dd6114d": "2026-10-24T23:26:09.304322+00:00",
   "31887021ed8da5fe": "2026-10-24T23:26:09.304322+00:00",
@@ -7797,7 +7795,11 @@
   "d7a31fe2ff692e4b": "2026-11-07T23:05:32.166335+00:00",
   "787e12f63e0fe620": "2026-11-07T23:10:36.421321+00:00",
   "c24ba4dea04434cf": "2026-11-07T23:10:36.421321+00:00",
-  "cfa8b7ba039d7630": "2026-11-07T23:15:32.456135+00:00"
+  "cfa8b7ba039d7630": "2026-11-07T23:15:32.456135+00:00",
+  "01aecd115471d125": "2026-11-07T23:20:35.358703+00:00",
+  "58691a564d335d10": "2026-11-07T23:20:35.358703+00:00",
+  "2ee1731c74757b68": "2026-11-07T23:20:35.358703+00:00",
+  "85f436273689a11b": "2026-11-07T23:20:35.358703+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8078,32 +8080,6 @@
     "RacingNews365 NL": "Mentor Verstappen geeft advies aan kersvers F1-debutant"
    },
    "last": "2026-11-06T06:08:17.682519+00:00"
-  },
-  "S5106": {
-   "title": "Joe West and four former umpires sue over MLB retirement plan",
-   "first": "2026-11-05T23:16:08.781569+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T21:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Joe West, 4 other former umpires sue over MLB retirement plan"
-   },
-   "last": "2026-11-05T23:16:08.781589+00:00"
-  },
-  "S5107": {
-   "title": "Celtic vs Besiktas Europa League live updates",
-   "first": "2026-11-05T23:16:08.781595+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T20:22:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Celtic vs. Besiktas LIVE: Europa League updates as Martin O'Neill's side search for first win"
-   },
-   "last": "2026-11-05T23:16:08.781601+00:00"
   },
   "S5108": {
    "title": "Cowboys praise mental health program after Kneeland's death",
@@ -17641,15 +17617,17 @@
    "first": "2026-11-07T21:16:02.500696+00:00",
    "sources": {
     "PlanetF1": "2026-11-07T21:13:58+00:00",
-    "Sky Sports F1": "2026-11-07T22:20:00+00:00"
+    "Sky Sports F1": "2026-11-07T22:20:00+00:00",
+    "Formula 1": "2026-11-07T23:20:39.534043+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Brazilian GP: Qualifying top 3 reaction as George Russell reveals costly ‘misjudgement’",
-    "Sky Sports F1": "'Very disappointed' Russell says Mercedes error cost him Sao Paulo GP pole"
+    "Sky Sports F1": "'Very disappointed' Russell says Mercedes error cost him Sao Paulo GP pole",
+    "Formula 1": "Russell rues ‘misjudgement’ that cost him Sao Paulo pole"
    },
-   "last": "2026-11-07T22:45:36.077654+00:00"
+   "last": "2026-11-07T23:20:39.534063+00:00"
   },
   "S5800": {
    "title": "Vasseur says Ferrari saved tyres; Brazil suits comeback",
@@ -18482,9 +18460,48 @@
     "Auto Motor und Sport": "Formel 1: Qualifying-Ergebnis in São Paulo wegen Motorstrafen über Nacht geändert"
    },
    "last": "2026-11-07T23:15:36.469258+00:00"
+  },
+  "S5862": {
+   "title": "Chris Medland's five things to watch at Sao Paulo GP",
+   "first": "2026-11-07T23:20:39.534069+00:00",
+   "sources": {
+    "Formula 1": "2026-11-07T23:20:39.534072+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What To Watch For in the Sao Paulo Grand Prix at Interlagos"
+   },
+   "last": "2026-11-07T23:20:39.534075+00:00"
+  },
+  "S5863": {
+   "title": "Roundup: grid penalties shake up Brazil, Lawson exit talk",
+   "first": "2026-11-07T23:20:39.534078+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T23:17:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Verstappen and Hamilton penalties shake up grid as potential Lawson exit tagged 'pathetic' - RacingNews365 Review"
+   },
+   "last": "2026-11-07T23:20:39.534082+00:00"
+  },
+  "S5864": {
+   "title": "Drivers split over qualifying restart and rain-qualifying risk",
+   "first": "2026-11-07T23:20:39.534086+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-07T23:12:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Fahrer uneinig über Neustart: Wie riskant war das Regen-Qualifying? - Motorsport-Total.com"
+   },
+   "last": "2026-11-07T23:20:39.534090+00:00"
   }
  },
- "story_seq": 5861,
+ "story_seq": 5864,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18603,7 +18620,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:15:32.456135+00:00",
+ "last_run": "2026-11-07T23:20:35.358703+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20262,6 +20279,16 @@
   {
    "t": "2026-11-07T23:05:46.340937+00:00",
    "title": "Hamilton, Brezilya'da ızgara cezaları ve güç ünitesi değişikliklerini değerlendirdi",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-07T23:20:44.463020+00:00",
+   "title": "Sürücüler yeniden başlatma konusunda fikir ayrılığında",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-07T23:20:44.858408+00:00",
+   "title": "Sao Paulo GP'de Mercedes şampiyonluğa bir adım uzakta",
    "source": "Formula 1"
   }
  ]
