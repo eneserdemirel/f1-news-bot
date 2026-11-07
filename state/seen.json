@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "42fa7f65ece38816": "2026-10-24T14:55:00.738733+00:00",
-  "aa31b7c043ebdc73": "2026-10-24T14:55:00.738733+00:00",
   "13fddaa61d53d5bd": "2026-10-24T14:59:54.963430+00:00",
   "f6f853ed78e8e3b0": "2026-10-24T14:59:54.963430+00:00",
   "fb16a91bcd41f7a6": "2026-10-24T14:59:54.963430+00:00",
@@ -7763,7 +7761,10 @@
   "96c6c7749c8e4ea2": "2026-11-07T14:54:12.655284+00:00",
   "a6d995837044db44": "2026-11-07T14:54:12.655284+00:00",
   "2ef9787c5973328d": "2026-11-07T14:54:12.655284+00:00",
-  "a1ca0087620db0c0": "2026-11-07T14:54:12.655284+00:00"
+  "a1ca0087620db0c0": "2026-11-07T14:54:12.655284+00:00",
+  "4ab409a8b320273d": "2026-11-07T14:59:15.805216+00:00",
+  "56e30d2cc69fd434": "2026-11-07T14:59:15.805216+00:00",
+  "8a7f3c82ec7c966a": "2026-11-07T14:59:15.805216+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7836,23 +7837,6 @@
     "Motorsport Week": "Sky F1 announces new multimedia journalist to joing at Brazil GP"
    },
    "last": "2026-11-05T15:24:30.149930+00:00"
-  },
-  "S4851": {
-   "title": "Ralf Schumacher criticises Hamilton's handling of Leclerc clash",
-   "first": "2026-11-05T08:03:15.076108+00:00",
-   "sources": {
-    "GPFans": "2026-11-05T07:58:00+00:00",
-    "RacingNews365 NL": "2026-11-05T10:10:00+00:00",
-    "Crash.net": "2026-11-05T14:48:57+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton compared to Al Capone in extraordinary Ralf Schumacher attack",
-    "RacingNews365 NL": "Schumacher fileert Hamilton na Ferrari-rel: \"Hij gedraagt zich als een teambaas\"",
-    "Crash.net": "Lewis Hamilton compared to famous gangster in stunning Ralf Schumacher criticism"
-   },
-   "last": "2026-11-05T14:54:31.030882+00:00"
   },
   "S4866": {
    "title": "Hamilton aims to win 400th GP at Interlagos",
@@ -7987,19 +7971,6 @@
     "Motorsport.com Italia": "F1 | Wolff: \"Ci sono state circostanze indipendenti da Russell che non hanno giocato a suo favore\""
    },
    "last": "2026-11-05T15:24:30.149913+00:00"
-  },
-  "S4953": {
-   "title": "Robert Kraft recovering from back surgery, misses Gronkowski ceremony",
-   "first": "2026-11-05T14:54:31.030845+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T13:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Robert Kraft recovering from back surgery, will miss Rob Gronkowski ceremony"
-   },
-   "last": "2026-11-05T14:54:31.030864+00:00"
   },
   "S4954": {
    "title": "Honda explains Aston Martin's problems at Mexico GP",
@@ -17567,9 +17538,48 @@
     "Motorsport.com Italia": "WEC | La Ferrari ritrova la Hyperpole con Fuoco a Monza"
    },
    "last": "2026-11-07T14:54:21.106994+00:00"
+  },
+  "S5655": {
+   "title": "BYU RB LJ Martin set to return against Utah (college football)",
+   "first": "2026-11-07T14:59:19.272957+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T14:32:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources - BYU RB LJ Martin to return, play vs. No. 3 Utah"
+   },
+   "last": "2026-11-07T14:59:19.272976+00:00"
+  },
+  "S5656": {
+   "title": "Verstappen sarcastic over new Red Bull problem in Brazil FP3",
+   "first": "2026-11-07T14:59:19.272982+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T14:52:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen sarcastic about new problem at Red Bull in Brazilian GP FP3"
+   },
+   "last": "2026-11-07T14:59:19.272988+00:00"
+  },
+  "S5657": {
+   "title": "Channel 4 free UK highlights for Brazilian Grand Prix",
+   "first": "2026-11-07T14:59:19.272993+00:00",
+   "sources": {
+    "GPFans": "2026-11-07T14:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Channel 4 F1 highlights today: How to watch the 2026 Brazilian Grand Prix FREE in the UK"
+   },
+   "last": "2026-11-07T14:59:19.272998+00:00"
   }
  },
- "story_seq": 5654,
+ "story_seq": 5657,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17688,7 +17698,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T14:54:12.655284+00:00",
+ "last_run": "2026-11-07T14:59:15.805216+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
@@ -19268,6 +19278,11 @@
    "t": "2026-11-07T14:54:25.670497+00:00",
    "title": "Hamilton, Leclerc ve Verstappen Brezilya'da grid cezası aldı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T14:59:27.180615+00:00",
+   "title": "Verstappen, Brezilya antrenmanında Red Bull'daki yeni sorunla ilgili alaylı konuştu",
+   "source": "GPblog"
   }
  ]
 }
