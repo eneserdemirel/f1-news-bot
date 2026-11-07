@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "675a8d61ba414c3a": "2026-10-24T21:46:07.967008+00:00",
   "b010e7f4b76b4b7f": "2026-10-24T21:51:08.961326+00:00",
   "5baa9b356693290b": "2026-10-24T22:01:13.290390+00:00",
   "3ae497e7ab75fc1e": "2026-10-24T22:06:10.554504+00:00",
@@ -7801,7 +7800,13 @@
   "df537a237ca959d1": "2026-11-07T21:45:37.973791+00:00",
   "f3f63c933a37a6fe": "2026-11-07T21:45:37.973791+00:00",
   "23918658102e718b": "2026-11-07T21:45:37.973791+00:00",
-  "b063ed4da75ecfb9": "2026-11-07T21:45:37.973791+00:00"
+  "b063ed4da75ecfb9": "2026-11-07T21:45:37.973791+00:00",
+  "57a1a5a94cb8e215": "2026-11-07T21:50:38.400647+00:00",
+  "f395fd2911f33f2c": "2026-11-07T21:50:38.400647+00:00",
+  "be8985dd084bdf8b": "2026-11-07T21:50:38.400647+00:00",
+  "1c4ea09655edb520": "2026-11-07T21:50:38.400647+00:00",
+  "e727c488d2d4752a": "2026-11-07T21:50:38.400647+00:00",
+  "4bf172bac9f1b8a7": "2026-11-07T21:50:38.400647+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17200,7 +17205,8 @@
     "Sky Sports F1": "2026-11-07T19:00:00+00:00",
     "Motorsport Week": "2026-11-07T20:32:46+00:00",
     "AS": "2026-11-07T20:42:18+00:00",
-    "Gazzetta dello Sport": "2026-11-07T21:37:32+00:00"
+    "Gazzetta dello Sport": "2026-11-07T21:37:32+00:00",
+    "FIA": "2026-11-07T21:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17220,9 +17226,10 @@
     "Sky Sports F1": "Norris claims Sao Paulo GP pole after treacherous rain-hit qualifying",
     "Motorsport Week": "Lando Norris takes rain-sodden Sao Paulo pole as surprises take over F1 grid",
     "AS": "Pole de Norris y un respiro para Alonso en el diluvio",
-    "Gazzetta dello Sport": "GP Brasile, highlights qualifiche: Norris pole position. Penalità Russell, Kimi secondo"
+    "Gazzetta dello Sport": "GP Brasile, highlights qualifiche: Norris pole position. Penalità Russell, Kimi secondo",
+    "FIA": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos"
    },
-   "last": "2026-11-07T21:45:44.487772+00:00"
+   "last": "2026-11-07T21:50:44.729254+00:00"
   },
   "S5750": {
    "title": "Sassuolo vs Genoa odds and spread (football)",
@@ -17902,14 +17909,16 @@
    "title": "Vasseur says Ferrari saved tyres; Brazil suits comeback",
    "first": "2026-11-07T21:16:02.500701+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-07T21:12:27+00:00"
+    "FormulaPassion": "2026-11-07T21:12:27+00:00",
+    "Motorsport.com Italia": "2026-11-07T21:45:51+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Vasseur: “Condizioni estreme, noi abbiamo risparmiato le gomme. Il Brasile è ideale per rimontare”"
+    "FormulaPassion": "Vasseur: “Condizioni estreme, noi abbiamo risparmiato le gomme. Il Brasile è ideale per rimontare”",
+    "Motorsport.com Italia": "F1 | Vasseur: \"Sul bagnato la Ferrari ha il passo e abbiamo risparmiato le gomme rain\""
    },
-   "last": "2026-11-07T21:16:02.500704+00:00"
+   "last": "2026-11-07T21:50:44.729278+00:00"
   },
   "S5801": {
    "title": "Stetson Hatters vs Davidson college basketball highlights",
@@ -18060,16 +18069,18 @@
    "sources": {
     "RacingNews365": "2026-11-07T21:30:00+00:00",
     "PlanetF1": "2026-11-07T21:40:14+00:00",
-    "Crash.net": "2026-11-07T21:32:05+00:00"
+    "Crash.net": "2026-11-07T21:32:05+00:00",
+    "Autosport": "2026-11-07T21:48:47+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Lewis Hamilton reveals details of Charles Leclerc meeting after Ferrari tension",
     "PlanetF1": "Lewis Hamilton reveals Leclerc crunch talks as Ferrari outcome emerges",
-    "Crash.net": "Lewis Hamilton insists Charles Leclerc relationship “just fine” after post-Mexico talks"
+    "Crash.net": "Lewis Hamilton insists Charles Leclerc relationship “just fine” after post-Mexico talks",
+    "Autosport": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\""
    },
-   "last": "2026-11-07T21:45:44.487768+00:00"
+   "last": "2026-11-07T21:50:44.729274+00:00"
   },
   "S5813": {
    "title": "Reyna injury for Strasbourg and USMNT (non-F1)",
@@ -18109,9 +18120,48 @@
     "RacingNews365 NL": "Verstappen krijgt lachers op zijn hand: \"12 uur van mijn leven verspild!\""
    },
    "last": "2026-11-07T21:45:44.487762+00:00"
+  },
+  "S5816": {
+   "title": "Jack Ham hospitalized after medical emergency",
+   "first": "2026-11-07T21:50:44.729264+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T20:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hall of Famer Jack Ham hospitalized after medical emergency"
+   },
+   "last": "2026-11-07T21:50:44.729269+00:00"
+  },
+  "S5817": {
+   "title": "Lawson admits qualifying error despite career-best grid slot",
+   "first": "2026-11-07T21:50:44.729280+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T21:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson takes blame for key error despite equaling F1 career-best"
+   },
+   "last": "2026-11-07T21:50:44.729284+00:00"
+  },
+  "S5818": {
+   "title": "Russell blames miscommunication for qualifying radio outburst",
+   "first": "2026-11-07T21:50:44.729286+00:00",
+   "sources": {
+    "Crash.net": "2026-11-07T21:49:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "George Russell explains “miscommunication” behind Brazil GP qualifying radio rage"
+   },
+   "last": "2026-11-07T21:50:44.729289+00:00"
   }
  },
- "story_seq": 5815,
+ "story_seq": 5818,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18230,7 +18280,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T21:45:37.973791+00:00",
+ "last_run": "2026-11-07T21:50:38.400647+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -19845,6 +19895,16 @@
    "t": "2026-11-07T21:45:51.288427+00:00",
    "title": "Verstappen, Brezilya sıralama turunda 12 saat kaybettiğini söyledi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T21:50:50.788748+00:00",
+   "title": "Liam Lawson, F1 kariyerinin en iyi grid sıralamasına denk gelmesine rağmen kritik hatanın sorumluluğunu üstlendi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T21:50:51.194252+00:00",
+   "title": "Russell, Brezilya sıralama turunda telsiz öfkesinin nedenini açıkladı",
+   "source": "Crash.net"
   }
  ]
 }
