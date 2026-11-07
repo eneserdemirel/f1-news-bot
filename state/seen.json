@@ -7786,7 +7786,10 @@
   "c7450fbf1b0d35ac": "2026-11-07T15:55:05.035062+00:00",
   "ad9330ed832cdeae": "2026-11-07T15:55:05.035062+00:00",
   "a90e52f0570acdb6": "2026-11-07T15:55:05.035062+00:00",
-  "8193f02817fe8508": "2026-11-07T15:55:05.035062+00:00"
+  "8193f02817fe8508": "2026-11-07T15:55:05.035062+00:00",
+  "751b3fb075b665fc": "2026-11-07T16:00:02.863130+00:00",
+  "a6aa36c8cc6bffea": "2026-11-07T16:00:02.863130+00:00",
+  "e19795419ef4a7e2": "2026-11-07T16:00:02.863130+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15876,15 +15879,17 @@
    "first": "2026-11-07T07:18:52.811140+00:00",
    "sources": {
     "RacingNews365": "2026-11-07T07:10:00+00:00",
-    "GPblog": "2026-11-07T09:29:00+00:00"
+    "GPblog": "2026-11-07T09:29:00+00:00",
+    "PlanetF1": "2026-11-07T15:58:14+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Toto Wolff offers ‘as simple as that’ solution to Middle East F1 travel dilemma",
-    "GPblog": "Wolff trusts F1 and FOM to make the right call: 'Then don't go'"
+    "GPblog": "Wolff trusts F1 and FOM to make the right call: 'Then don't go'",
+    "PlanetF1": "Toto Wolff tells F1 drivers to stay home if they fear Qatar GP"
    },
-   "last": "2026-11-07T09:33:48.276156+00:00"
+   "last": "2026-11-07T16:00:05.904527+00:00"
   },
   "S5550": {
    "title": "Verstappen asks Red Bull to fix PU inconsistency in Brazil",
@@ -17616,9 +17621,35 @@
     "ESPN F1": "Illinois coach Bret Bielema takes veiled shot at SEC, CFP"
    },
    "last": "2026-11-07T15:55:12.429727+00:00"
+  },
+  "S5675": {
+   "title": "Sheffield Utd vs Watford live score",
+   "first": "2026-11-07T16:00:05.904493+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:58:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sheffield Utd vs. Watford (Nov 21, 2026) Live Score"
+   },
+   "last": "2026-11-07T16:00:05.904512+00:00"
+  },
+  "S5676": {
+   "title": "Pete Golding describes his impact at Ole Miss",
+   "first": "2026-11-07T16:00:05.904517+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:47:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pete Golding describes his impact on Ole Miss 'never flinching'"
+   },
+   "last": "2026-11-07T16:00:05.904521+00:00"
   }
  },
- "story_seq": 5674,
+ "story_seq": 5676,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17737,7 +17768,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:55:05.035062+00:00",
+ "last_run": "2026-11-07T16:00:02.863130+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
