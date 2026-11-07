@@ -7721,7 +7721,11 @@
   "fb7cd1c2492f3484": "2026-11-07T07:18:49.002808+00:00",
   "e4c2e0726735dc40": "2026-11-07T07:23:45.511107+00:00",
   "9ba3887717e03a85": "2026-11-07T07:23:45.511107+00:00",
-  "b9372cb5045fe0c4": "2026-11-07T07:23:45.511107+00:00"
+  "b9372cb5045fe0c4": "2026-11-07T07:23:45.511107+00:00",
+  "aa385c4c1a069c2c": "2026-11-07T07:28:46.921406+00:00",
+  "f3840a7085cf920d": "2026-11-07T07:28:46.921406+00:00",
+  "600d45609a41118b": "2026-11-07T07:28:46.921406+00:00",
+  "fae7d0a1e4c649a8": "2026-11-07T07:28:46.921406+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15952,15 +15956,17 @@
    "first": "2026-11-06T20:50:24.396885+00:00",
    "sources": {
     "RacingNews365 NL": "2026-11-06T20:45:00+00:00",
-    "RacingNews365": "2026-11-07T05:30:00+00:00"
+    "RacingNews365": "2026-11-07T05:30:00+00:00",
+    "Motorsport-Total": "2026-11-07T07:21:49+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Red Bull-problemen roepen Verstappen voortijdig een halt toe",
-    "RacingNews365": "Red Bull reveal cause behind premature Max Verstappen Brazil practice stoppage"
+    "RacingNews365": "Red Bull reveal cause behind premature Max Verstappen Brazil practice stoppage",
+    "Motorsport-Total": "Red Bull erklärt: Warum Max Verstappen das Freitagstraining vorzeitig beendet hat - Motorsport-Total.com"
    },
-   "last": "2026-11-07T05:33:51.817784+00:00"
+   "last": "2026-11-07T07:28:52.066746+00:00"
   },
   "S5435": {
    "title": "Ex-NBA player Ed Davis expected to change plea in betting case",
@@ -17316,14 +17322,14 @@
    "title": "Trail Blazers vs. Lakers NBA game highlights",
    "first": "2026-11-07T06:23:50.555036+00:00",
    "sources": {
-    "ESPN F1": "2026-11-07T05:57:23+00:00"
+    "ESPN F1": "2026-11-07T03:42:55+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Portland Trail Blazers vs. Los Angeles Lakers: Game Highlights"
    },
-   "last": "2026-11-07T06:23:50.555040+00:00"
+   "last": "2026-11-07T07:28:52.066741+00:00"
   },
   "S5538": {
    "title": "Leclerc describes frustration in Ferrari meeting with Hamilton",
@@ -17506,9 +17512,35 @@
     "Auto Motor und Sport": "Formel 1: Wieviel 2027er McLaren steckt in diesem Upgrade?"
    },
    "last": "2026-11-07T07:23:48.129538+00:00"
+  },
+  "S5552": {
+   "title": "Thunder beat Grizzlies 128-97 in NBA game recap",
+   "first": "2026-11-07T07:28:52.066711+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T03:57:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thunder 128-97 Grizzlies (Nov 6, 2026) Game Recap"
+   },
+   "last": "2026-11-07T07:28:52.066733+00:00"
+  },
+  "S5553": {
+   "title": "Aston Martin struggles with Honda power deficit in Brazil",
+   "first": "2026-11-07T07:28:52.066749+00:00",
+   "sources": {
+    "AS": "2026-11-07T07:21:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Una sangría en la recta"
+   },
+   "last": "2026-11-07T07:28:52.066752+00:00"
   }
  },
- "story_seq": 5551,
+ "story_seq": 5553,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17627,7 +17659,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:23:45.511107+00:00",
+ "last_run": "2026-11-07T07:28:46.921406+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
@@ -19287,6 +19319,11 @@
    "t": "2026-11-07T07:19:01.690528+00:00",
    "title": "Wolff: Orta Doğu'ya gitmek istemeyen gitmesin",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-07T07:28:55.141443+00:00",
+   "title": "Aston Martin, Interlagos'ta Honda'nın güç eksikliğinden zorlanıyor",
+   "source": "AS"
   }
  ]
 }
