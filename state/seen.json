@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "33b49591893a6384": "2026-10-24T20:30:35.287538+00:00",
-  "f2448d442d3a18ad": "2026-10-24T20:30:35.287538+00:00",
   "f5c864c704d7bd2e": "2026-10-24T20:35:35.092522+00:00",
   "e08e04f2ec994e58": "2026-10-24T20:35:35.092522+00:00",
   "ad488d467776b357": "2026-10-24T20:35:35.092522+00:00",
@@ -7761,7 +7759,14 @@
   "b6055debd85f0d1b": "2026-11-07T20:29:59.979799+00:00",
   "19e994bbf970e5e2": "2026-11-07T20:29:59.979799+00:00",
   "dd42cde4409e77c2": "2026-11-07T20:29:59.979799+00:00",
-  "5dfba96e1bae9168": "2026-11-07T20:29:59.979799+00:00"
+  "5dfba96e1bae9168": "2026-11-07T20:29:59.979799+00:00",
+  "2e5291685177e856": "2026-11-07T20:35:05.339638+00:00",
+  "3658e26986252082": "2026-11-07T20:35:05.339638+00:00",
+  "f9b33340e29f7dc3": "2026-11-07T20:35:05.339638+00:00",
+  "11782f740aa91eab": "2026-11-07T20:35:05.339638+00:00",
+  "59d0656f1cc8d207": "2026-11-07T20:35:05.339638+00:00",
+  "544224c18196e644": "2026-11-07T20:35:05.339638+00:00",
+  "ecf90a0579df122d": "2026-11-07T20:35:05.339638+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17490,7 +17495,8 @@
     "The Race": "2026-11-07T20:27:23+00:00",
     "RacingNews365": "2026-11-07T20:27:00+00:00",
     "GPblog": "2026-11-07T20:25:00+00:00",
-    "Crash.net": "2026-11-07T20:28:00+00:00"
+    "Crash.net": "2026-11-07T20:28:00+00:00",
+    "RacingNews365 NL": "2026-11-07T20:28:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17500,9 +17506,10 @@
     "The Race": "F1 2026 Brazilian GP qualifying results",
     "RacingNews365": "2026 F1 Sao Paulo Grand Prix - Brazil Qualifying results",
     "GPblog": "Norris takes pole after marathon rain-soaked qualifying session at Interlagos",
-    "Crash.net": "F1 Brazil Grand Prix: Full qualifying results"
+    "Crash.net": "F1 Brazil Grand Prix: Full qualifying results",
+    "RacingNews365 NL": "Uitslag kwalificatie F1 GP Brazilië 2026 in São Paulo"
    },
-   "last": "2026-11-07T20:30:09.123176+00:00"
+   "last": "2026-11-07T20:35:10.660652+00:00"
   },
   "S5750": {
    "title": "Sassuolo vs Genoa odds and spread (football)",
@@ -17882,9 +17889,35 @@
     "ESPN F1": "Eibar vs. Real Sociedad (7 Nov, 2026) Live Score"
    },
    "last": "2026-11-07T20:30:09.123157+00:00"
+  },
+  "S5779": {
+   "title": "ESPN college football: Colton Hinton 44-yard reception",
+   "first": "2026-11-07T20:35:10.660599+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T19:45:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colton Hinton shows the hands on 44-yard reception"
+   },
+   "last": "2026-11-07T20:35:10.660617+00:00"
+  },
+  "S5780": {
+   "title": "Nebraska fires offensive coordinator Holgorsen amid losing streak",
+   "first": "2026-11-07T20:35:10.660622+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T18:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'Angry' Rhule fires OC Holgorsen amid Nebraska's 4-game skid"
+   },
+   "last": "2026-11-07T20:35:10.660628+00:00"
   }
  },
- "story_seq": 5778,
+ "story_seq": 5780,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18003,17 +18036,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T20:29:59.979799+00:00",
+ "last_run": "2026-11-07T20:35:05.339638+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T20:32:00.247591+00:00",
-   "title": "Antonelli, Vettel'in en genç şampiyonluk rekorunu kırdı",
-   "source": "AS"
-  },
   {
    "t": "2026-11-04T20:51:54.596300+00:00",
    "title": "2026 São Paulo GP basın toplantısı programı açıklandı",
