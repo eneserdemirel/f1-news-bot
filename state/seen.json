@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "32d76935f1b061de": "2026-10-24T07:19:23.006857+00:00",
   "f3a081f438447452": "2026-10-24T07:29:23.254110+00:00",
   "b5b900af0a38eb8c": "2026-10-24T07:34:24.974354+00:00",
   "59c75ce0aecf3acc": "2026-10-24T07:39:47.539704+00:00",
@@ -7719,7 +7718,10 @@
   "22c5a64b840bfa8e": "2026-11-07T07:18:49.002808+00:00",
   "128216eae1d063c0": "2026-11-07T07:18:49.002808+00:00",
   "286998bacdaf7f71": "2026-11-07T07:18:49.002808+00:00",
-  "fb7cd1c2492f3484": "2026-11-07T07:18:49.002808+00:00"
+  "fb7cd1c2492f3484": "2026-11-07T07:18:49.002808+00:00",
+  "e4c2e0726735dc40": "2026-11-07T07:23:45.511107+00:00",
+  "9ba3887717e03a85": "2026-11-07T07:23:45.511107+00:00",
+  "b9372cb5045fe0c4": "2026-11-07T07:23:45.511107+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7973,19 +7975,6 @@
     "Auto Motor und Sport": "Formel 1: Spezialdesign für São Paulo: Dieses Team fährt jetzt in Grün"
    },
    "last": "2026-11-05T12:53:55.947119+00:00"
-  },
-  "S4848": {
-   "title": "Corriere della Sera criticises Leclerc over Hamilton clash",
-   "first": "2026-11-05T07:23:13.057042+00:00",
-   "sources": {
-    "GPFans": "2026-11-05T07:14:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Charles Leclerc singled out by Italian newspaper with brutal Hamilton clash verdict"
-   },
-   "last": "2026-11-05T07:23:13.057062+00:00"
   },
   "S4849": {
    "title": "Empty ESPN F1 item with no content",
@@ -16144,15 +16133,17 @@
    "first": "2026-11-06T21:45:20.932605+00:00",
    "sources": {
     "RacingNews365": "2026-11-06T21:40:00+00:00",
-    "Formula 1": "2026-11-06T22:00:22.006338+00:00"
+    "Formula 1": "2026-11-06T22:00:22.006338+00:00",
+    "RacingNews365 NL": "2026-11-07T07:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Lando Norris delivers verdict on latest McLaren upgrade ahead of Sao Paulo GP",
-    "Formula 1": "McLaren 'seemed to gain performance' with upgrades – Norris"
+    "Formula 1": "McLaren 'seemed to gain performance' with upgrades – Norris",
+    "RacingNews365 NL": "Norris velt voorzichtig positief oordeel over McLaren-upgrades"
    },
-   "last": "2026-11-06T22:00:22.006352+00:00"
+   "last": "2026-11-07T07:23:48.129521+00:00"
   },
   "S5448": {
    "title": "Stroll reacts to pit-lane start clash with Verstappen",
@@ -17502,9 +17493,22 @@
     "GPblog": "Verstappen asks Red Bull to find a solution to 'PU inconsistency' in Brazil"
    },
    "last": "2026-11-07T07:18:52.811149+00:00"
+  },
+  "S5551": {
+   "title": "Analysis: how much 2027 spec McLaren is in Brazil upgrade",
+   "first": "2026-11-07T07:23:48.129532+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-07T07:11:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Wieviel 2027er McLaren steckt in diesem Upgrade?"
+   },
+   "last": "2026-11-07T07:23:48.129538+00:00"
   }
  },
- "story_seq": 5550,
+ "story_seq": 5551,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17623,22 +17627,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T07:18:49.002808+00:00",
+ "last_run": "2026-11-07T07:23:45.511107+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-06 22:00",
  "last_digest_at": "2026-11-06T19:00:20.183453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T07:20:54.673347+00:00",
-   "title": "Verstappen, Meksika GP'de güvenlik aracı anını 'oyun bitti' diye tarif etti",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-04T07:20:55.142775+00:00",
-   "title": "FIA, Brezilya Grand Prix'si için Interlagos'ta iki SM bölgesi onayladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-04T07:41:03.282856+00:00",
    "title": "Sao Paulo GP'de yağmur riski: Cumartesi ve pazar için hava durumu",
