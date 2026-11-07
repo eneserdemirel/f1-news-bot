@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "16de28be3d8eea2b": "2026-10-24T21:15:39.900281+00:00",
   "40099228fd9872cb": "2026-10-24T21:20:34.810957+00:00",
   "1407fe55e699aacf": "2026-10-24T21:25:37.721043+00:00",
   "f8dd4753dc71251e": "2026-10-24T21:30:35.898783+00:00",
@@ -7784,7 +7783,12 @@
   "aa2ffa9bac6a520e": "2026-11-07T21:10:38.501051+00:00",
   "1cb92f51c74589d8": "2026-11-07T21:10:38.501051+00:00",
   "7a58a7141f29ce6c": "2026-11-07T21:10:38.501051+00:00",
-  "6538ea954a8d9749": "2026-11-07T21:10:38.501051+00:00"
+  "6538ea954a8d9749": "2026-11-07T21:10:38.501051+00:00",
+  "0b1ae021a78bfec0": "2026-11-07T21:15:55.564769+00:00",
+  "a1d76ff294ea4fe0": "2026-11-07T21:15:55.564769+00:00",
+  "8346c8ceb7513ff1": "2026-11-07T21:15:55.564769+00:00",
+  "080ab85ee871aa55": "2026-11-07T21:15:55.564769+00:00",
+  "ffaccd23535ce2c6": "2026-11-07T21:15:55.564769+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8098,45 +8102,6 @@
     "Gazzetta dello Sport": "Schermi nelle stazioni, il tricolore sui palazzi storici: Aci festeggia il suo \"allievo\" Kimi Antonelli"
    },
    "last": "2026-11-05T21:26:08.183415+00:00"
-  },
-  "S5081": {
-   "title": "Hamilton wants face-to-face Ferrari talks with Leclerc in Brazil",
-   "first": "2026-11-05T21:15:28.035703+00:00",
-   "sources": {
-    "Formula 1": "2026-11-05T21:15:28.035718+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Hamilton wants Ferrari talks in Brazil after Mexico battle"
-   },
-   "last": "2026-11-05T21:15:28.035721+00:00"
-  },
-  "S5082": {
-   "title": "Lawson says no decision yet on Racing Bulls future",
-   "first": "2026-11-05T21:15:28.035730+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T21:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Liam Lawson makes emotional declaration over Racing Bulls seat uncertainty"
-   },
-   "last": "2026-11-05T21:15:28.035734+00:00"
-  },
-  "S5083": {
-   "title": "Hamilton says Schumacher's Interlagos record not good enough",
-   "first": "2026-11-05T21:15:28.035737+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-05T21:07:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Lewis Hamilton: Schumachers Interlagos-Rekord ist für ihn nicht gut genug - Motorsport-Total.com"
-   },
-   "last": "2026-11-05T21:15:28.035740+00:00"
   },
   "S5084": {
    "title": "Sparta 1-3 Bournemouth player stats",
@@ -15675,7 +15640,7 @@
     "Motorsport-Total": "Motorstrafe in Brasilien: Verstappen muss von ganz hinten starten - Motorsport-Total.com",
     "ESPN F1": "Max Verstappen tops final practice; starts São Paulo GP from back of grid"
    },
-   "last": "2026-11-07T16:50:06.222511+00:00"
+   "last": "2026-11-07T21:16:02.500685+00:00"
   },
   "S5635": {
    "title": "Haas boss explains why Camara drives in Brazil, not Hirakawa",
@@ -17960,9 +17925,61 @@
     "ESPN F1": "Excelsior vs. Go Ahead Eagles (7 Nov, 2026) Team Stats"
    },
    "last": "2026-11-07T21:10:41.756639+00:00"
+  },
+  "S5797": {
+   "title": "Alan Woods III 26-yard TD run in American football",
+   "first": "2026-11-07T21:16:02.500662+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T20:56:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Alan Woods III runs for 26-yard TD"
+   },
+   "last": "2026-11-07T21:16:02.500678+00:00"
+  },
+  "S5798": {
+   "title": "Wolff defends Mercedes after Russell's qualifying outburst",
+   "first": "2026-11-07T21:16:02.500689+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-07T21:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Wolff verdedigt team na scheldkanonnade Russell"
+   },
+   "last": "2026-11-07T21:16:02.500693+00:00"
+  },
+  "S5799": {
+   "title": "Russell admits costly misjudgement in Brazil qualifying",
+   "first": "2026-11-07T21:16:02.500696+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-07T21:13:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Brazilian GP: Qualifying top 3 reaction as George Russell reveals costly ‘misjudgement’"
+   },
+   "last": "2026-11-07T21:16:02.500699+00:00"
+  },
+  "S5800": {
+   "title": "Vasseur says Ferrari saved tyres; Brazil suits comeback",
+   "first": "2026-11-07T21:16:02.500701+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-07T21:12:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “Condizioni estreme, noi abbiamo risparmiato le gomme. Il Brasile è ideale per rimontare”"
+   },
+   "last": "2026-11-07T21:16:02.500704+00:00"
   }
  },
- "story_seq": 5796,
+ "story_seq": 5800,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18081,7 +18098,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T21:10:38.501051+00:00",
+ "last_run": "2026-11-07T21:15:55.564769+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -19655,6 +19672,21 @@
   {
    "t": "2026-11-07T20:45:16.561026+00:00",
    "title": "Brezilya GP 2026 startı: Interlagos'ta cezalarla tam grid",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-07T21:16:09.640278+00:00",
+   "title": "Wolff, Russell'ın sözlerine rağmen takımını savunuyor",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-07T21:16:10.046432+00:00",
+   "title": "Vasseur: Zorlu koşullarda lastikleri koruduk, Brezilya geri dönüş için ideal",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-07T21:16:10.457203+00:00",
+   "title": "Brezilya GP sıralama: Norris pole, Russell 'yanlış değerlendirme' itirafı",
    "source": "PlanetF1"
   }
  ]
