@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f2297dee5050e99b": "2026-10-24T22:31:08.219658+00:00",
-  "e2dda0344a31c378": "2026-10-24T22:31:08.219658+00:00",
-  "4bd36f1ff331145f": "2026-10-24T22:31:08.219658+00:00",
-  "ea7a930dba26b35b": "2026-10-24T22:31:08.219658+00:00",
-  "869ad6214adf0a71": "2026-10-24T22:31:08.219658+00:00",
   "50e1b50bc51d16b5": "2026-10-24T22:36:10.428132+00:00",
   "8e72af76c62699ce": "2026-10-24T22:36:10.428132+00:00",
   "a72eb5b656b8217d": "2026-10-24T22:36:10.428132+00:00",
@@ -7808,7 +7803,10 @@
   "122ee0e14ad01abd": "2026-11-07T22:30:32.194720+00:00",
   "743e9f4f987cd49a": "2026-11-07T22:30:32.194720+00:00",
   "f9796d229b74d99f": "2026-11-07T22:30:32.194720+00:00",
-  "76efc44e5ea2b0bb": "2026-11-07T22:30:32.194720+00:00"
+  "76efc44e5ea2b0bb": "2026-11-07T22:30:32.194720+00:00",
+  "d8a49809ce3f5a17": "2026-11-07T22:35:34.805545+00:00",
+  "31c05fe8b26c5078": "2026-11-07T22:35:34.805545+00:00",
+  "b09a814b973ff099": "2026-11-07T22:35:34.805545+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17742,14 +17740,16 @@
    "title": "Wolff defends Mercedes after Russell's qualifying outburst",
    "first": "2026-11-07T21:16:02.500689+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-07T21:10:00+00:00"
+    "RacingNews365 NL": "2026-11-07T21:10:00+00:00",
+    "GPblog": "2026-11-07T22:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Wolff verdedigt team na scheldkanonnade Russell"
+    "RacingNews365 NL": "Wolff verdedigt team na scheldkanonnade Russell",
+    "GPblog": "Wolff delivers verdict on costly Mercedes call that left Russell furious"
    },
-   "last": "2026-11-07T21:16:02.500693+00:00"
+   "last": "2026-11-07T22:35:38.915533+00:00"
   },
   "S5799": {
    "title": "Russell admits costly misjudgement in Brazil qualifying",
@@ -18329,9 +18329,35 @@
     "RacingNews365 NL": "Red Bull zet in op chaos: \"Gaan Verstappen en Hadjar helpen naar voren te komen\""
    },
    "last": "2026-11-07T22:30:36.351860+00:00"
+  },
+  "S5842": {
+   "title": "Norris explains how he mastered wet Sao Paulo qualifying",
+   "first": "2026-11-07T22:35:38.915492+00:00",
+   "sources": {
+    "Formula 1": "2026-11-07T22:35:38.915508+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Norris details how he excelled in wet Sao Paulo Qualifying"
+   },
+   "last": "2026-11-07T22:35:38.915510+00:00"
+  },
+  "S5843": {
+   "title": "Reese Mooney 66-yard TD pass (college football)",
+   "first": "2026-11-07T22:35:38.915514+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T22:16:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Reese Mooney connects for 66-yard TD pass"
+   },
+   "last": "2026-11-07T22:35:38.915528+00:00"
   }
  },
- "story_seq": 5841,
+ "story_seq": 5843,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18450,7 +18476,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T22:30:32.194720+00:00",
+ "last_run": "2026-11-07T22:35:34.805545+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20090,6 +20116,11 @@
    "t": "2026-11-07T22:20:45.576858+00:00",
    "title": "Brezilya GP sıralama turları: Norris pole pozisyonunda, Russell cezalı",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-07T22:35:44.167112+00:00",
+   "title": "Wolff, Russell'ın pole kaçıran Mercedes talimatını savundu",
+   "source": "GPblog"
   }
  ]
 }
