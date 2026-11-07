@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "00ed6f0e0ada6ca4": "2026-10-24T23:01:08.332825+00:00",
   "e0b307319c150a77": "2026-10-24T23:06:10.574450+00:00",
   "4e1593d7fa9f0521": "2026-10-24T23:06:10.574450+00:00",
   "ff3c6e490bb0699b": "2026-10-24T23:06:10.574450+00:00",
@@ -7801,7 +7800,10 @@
   "e4db8149a8086c0f": "2026-11-07T22:55:37.214119+00:00",
   "a445526cee22b229": "2026-11-07T22:55:37.214119+00:00",
   "3fc3cfd637b54907": "2026-11-07T23:00:42.602328+00:00",
-  "90205a869c85582d": "2026-11-07T23:00:42.602328+00:00"
+  "90205a869c85582d": "2026-11-07T23:00:42.602328+00:00",
+  "1ff9a69bc8090760": "2026-11-07T23:05:32.166335+00:00",
+  "7dd6f9c88e49a452": "2026-11-07T23:05:32.166335+00:00",
+  "d7a31fe2ff692e4b": "2026-11-07T23:05:32.166335+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17939,16 +17941,18 @@
    "sources": {
     "RacingNews365": "2026-11-07T21:45:00+00:00",
     "PlanetF1": "2026-11-07T22:15:58+00:00",
-    "Formula 1": "2026-11-07T22:45:36.077628+00:00"
+    "Formula 1": "2026-11-07T22:45:36.077628+00:00",
+    "GPblog": "2026-11-07T23:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Liam Lawson takes blame for key error despite equaling F1 career-best",
     "PlanetF1": "Liam Lawson reveals frustration despite equalling best F1 grid slot",
-    "Formula 1": "Lawson concedes he 'didn't quite maximise' his Q3 effort"
+    "Formula 1": "Lawson concedes he 'didn't quite maximise' his Q3 effort",
+    "GPblog": "Lawson hints at missed golden opportunity despite yet another brilliant result"
    },
-   "last": "2026-11-07T22:45:36.077646+00:00"
+   "last": "2026-11-07T23:05:38.890698+00:00"
   },
   "S5818": {
    "title": "Russell blames miscommunication for qualifying radio outburst",
@@ -18471,9 +18475,35 @@
     "Gazzetta dello Sport": "Kimi: \"Condizioni molto difficili\". Leclerc: \"Con Hamilton è tutto chiarito\""
    },
    "last": "2026-11-07T23:00:45.867569+00:00"
+  },
+  "S5858": {
+   "title": "Hamilton says he used qualifying as a test session",
+   "first": "2026-11-07T23:05:38.890665+00:00",
+   "sources": {
+    "Formula 1": "2026-11-07T23:05:38.890682+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Hamilton reflects on grid penalties and PU changes in Brazil"
+   },
+   "last": "2026-11-07T23:05:38.890685+00:00"
+  },
+  "S5859": {
+   "title": "PlanetF1 news roundup on Norris pole and penalties",
+   "first": "2026-11-07T23:05:38.890688+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-07T23:00:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Norris on Brazilian GP pole as Hamilton and Verstappen face grid penalties – roundup"
+   },
+   "last": "2026-11-07T23:05:38.890693+00:00"
   }
  },
- "story_seq": 5857,
+ "story_seq": 5859,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18592,17 +18622,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:00:42.602328+00:00",
+ "last_run": "2026-11-07T23:05:32.166335+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T23:02:00.695263+00:00",
-   "title": "Racing Bulls patronu, Liam Lawson'ın 2027 geleceği hakkında konuştu",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-05T02:42:40.767485+00:00",
    "title": "Williams'ın ilk dünya şampiyonu Alan Jones 80 yaşında hayatını kaybetti",
@@ -20251,6 +20276,11 @@
   {
    "t": "2026-11-07T22:55:45.312116+00:00",
    "title": "Hülkenberg: Sao Paulo'da her şey hâlâ mümkün",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-07T23:05:46.340937+00:00",
+   "title": "Hamilton, Brezilya'da ızgara cezaları ve güç ünitesi değişikliklerini değerlendirdi",
    "source": "Formula 1"
   }
  ]
