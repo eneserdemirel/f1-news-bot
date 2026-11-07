@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5c712548c2f27f82": "2026-10-24T14:49:56.725431+00:00",
   "42fa7f65ece38816": "2026-10-24T14:55:00.738733+00:00",
   "aa31b7c043ebdc73": "2026-10-24T14:55:00.738733+00:00",
   "13fddaa61d53d5bd": "2026-10-24T14:59:54.963430+00:00",
@@ -7760,7 +7759,11 @@
   "3964bc16e2074ad6": "2026-11-07T14:44:12.054056+00:00",
   "de5c1f10db1283ad": "2026-11-07T14:49:22.121378+00:00",
   "367ef941b792e4bc": "2026-11-07T14:49:22.121378+00:00",
-  "62a145dd465c3b3c": "2026-11-07T14:49:22.121378+00:00"
+  "62a145dd465c3b3c": "2026-11-07T14:49:22.121378+00:00",
+  "96c6c7749c8e4ea2": "2026-11-07T14:54:12.655284+00:00",
+  "a6d995837044db44": "2026-11-07T14:54:12.655284+00:00",
+  "2ef9787c5973328d": "2026-11-07T14:54:12.655284+00:00",
+  "a1ca0087620db0c0": "2026-11-07T14:54:12.655284+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16228,7 +16231,8 @@
     "The Race": "2026-11-07T12:31:42+00:00",
     "RacingNews365 NL": "2026-11-07T12:50:00+00:00",
     "RacingNews365": "2026-11-07T13:00:00+00:00",
-    "Crash.net": "2026-11-07T14:16:51+00:00"
+    "Crash.net": "2026-11-07T14:16:51+00:00",
+    "GPblog": "2026-11-07T14:46:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16237,9 +16241,10 @@
     "The Race": "Hamilton set for Brazil grid penalty after Ferrari's worst 2026 Friday",
     "RacingNews365 NL": "Tegenslag Hamilton met gridstraf voor GP Brazilië",
     "RacingNews365": "Lewis Hamilton set for Brazil grid penalty as iconic moment repeat required",
-    "Crash.net": "Lewis Hamilton and Max Verstappen set for Brazil GP grid penalties"
+    "Crash.net": "Lewis Hamilton and Max Verstappen set for Brazil GP grid penalties",
+    "GPblog": "Verstappen and Ferrari pair exceed engine limits at São Paulo GP"
    },
-   "last": "2026-11-07T14:19:21.977862+00:00"
+   "last": "2026-11-07T14:54:21.107008+00:00"
   },
   "S5557": {
    "title": "McLaren adopts wing and active aero approach Mercedes dropped for 2027",
@@ -17536,9 +17541,35 @@
     "Auto Motor und Sport": "Formel 1: Diebstahl in Silverstone - Polizei sucht zwei Verstappen-Helme"
    },
    "last": "2026-11-07T14:39:19.930712+00:00"
+  },
+  "S5653": {
+   "title": "Leeds 1-0 Tottenham Premier League result",
+   "first": "2026-11-07T14:54:21.106964+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T14:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Leeds 1-0 Tottenham: Noah Okafor strike ends Spurs, De Zerbi's winning run"
+   },
+   "last": "2026-11-07T14:54:21.106982+00:00"
+  },
+  "S5654": {
+   "title": "WEC Monza Hyperpole: Ferrari 499P returns to top",
+   "first": "2026-11-07T14:54:21.106988+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-07T14:49:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | La Ferrari ritrova la Hyperpole con Fuoco a Monza"
+   },
+   "last": "2026-11-07T14:54:21.106994+00:00"
   }
  },
- "story_seq": 5652,
+ "story_seq": 5654,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17657,27 +17688,12 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T14:49:22.121378+00:00",
+ "last_run": "2026-11-07T14:54:12.655284+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
  "last_digest_at": "2026-11-07T12:04:17.245715+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-04T14:51:31.437830+00:00",
-   "title": "Hamilton, Sao Paulo'da 10. dereceden kazanarak Verstappen'in şampiyonluk avantajını daralttı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-04T14:51:31.842320+00:00",
-   "title": "Schumacher, Verstappen ve Russell arasındaki kritik farkı görüyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-04T14:51:32.219934+00:00",
-   "title": "McLaren, Stella Fornaroli'yi savundu: “Brezilya'da performans için daha fazla alan olacak”",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-04T15:01:27.967257+00:00",
    "title": "Antonelli'nin Meksika'daki yarış sırasında emeklilik eşiğine geldiği ortaya çıktı",
@@ -19247,6 +19263,11 @@
    "t": "2026-11-07T14:39:22.511017+00:00",
    "title": "Silverstone'da hırsızlık: Polis iki Verstappen kaskını arıyor",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-07T14:54:25.670497+00:00",
+   "title": "Hamilton, Leclerc ve Verstappen Brezilya'da grid cezası aldı",
+   "source": "RacingNews365"
   }
  ]
 }
