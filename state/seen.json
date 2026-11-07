@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3eb27ec418f003b7": "2026-10-24T15:55:00.421755+00:00",
-  "4b4a273437fa7859": "2026-10-24T15:55:00.421755+00:00",
-  "4afcaf3d775ff780": "2026-10-24T15:55:00.421755+00:00",
-  "a331c4cc5c5a8480": "2026-10-24T15:55:00.421755+00:00",
   "02b7b9314eff2e4f": "2026-10-24T16:04:59.710304+00:00",
   "1a89c8b5b4a94906": "2026-10-24T16:04:59.710304+00:00",
   "e8c2b0254e4e340d": "2026-10-24T16:04:59.710304+00:00",
@@ -7781,7 +7777,16 @@
   "c59bc6fe40647512": "2026-11-07T15:50:02.357802+00:00",
   "7547e7b0f117841f": "2026-11-07T15:50:02.357802+00:00",
   "f034616d2dc168bb": "2026-11-07T15:50:02.357802+00:00",
-  "e684f5f9ab43b36a": "2026-11-07T15:50:02.357802+00:00"
+  "e684f5f9ab43b36a": "2026-11-07T15:50:02.357802+00:00",
+  "fb57743ebbc62d94": "2026-11-07T15:55:05.035062+00:00",
+  "8a44786be91d6634": "2026-11-07T15:55:05.035062+00:00",
+  "548a063ae49816c7": "2026-11-07T15:55:05.035062+00:00",
+  "b13104d3fec6db3a": "2026-11-07T15:55:05.035062+00:00",
+  "2ec50356ca873231": "2026-11-07T15:55:05.035062+00:00",
+  "c7450fbf1b0d35ac": "2026-11-07T15:55:05.035062+00:00",
+  "ad9330ed832cdeae": "2026-11-07T15:55:05.035062+00:00",
+  "a90e52f0570acdb6": "2026-11-07T15:55:05.035062+00:00",
+  "8193f02817fe8508": "2026-11-07T15:55:05.035062+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7935,45 +7940,6 @@
     "Motorsport Week": "Aston Martin will ‘be really surprised’ if FIA take risks over F1 finale"
    },
    "last": "2026-11-05T21:16:10.562141+00:00"
-  },
-  "S4966": {
-   "title": "Jack Grealish out of Everton game, says Moyes",
-   "first": "2026-11-05T15:54:30.720688+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T15:36:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jack Grealish won't return for Everton this weekend - David Moyes"
-   },
-   "last": "2026-11-05T15:54:30.720707+00:00"
-  },
-  "S4967": {
-   "title": "Aston Martin's Krack says staff fear Middle East races",
-   "first": "2026-11-05T15:54:30.720713+00:00",
-   "sources": {
-    "GPblog": "2026-11-05T15:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Aston Martin reveals staff fears amid uncertainty over Middle East races"
-   },
-   "last": "2026-11-05T15:54:30.720718+00:00"
-  },
-  "S4968": {
-   "title": "Profile of Rafael Camara, Haas's Brazil F1 debutant",
-   "first": "2026-11-05T15:54:30.720723+00:00",
-   "sources": {
-    "Crash.net": "2026-11-05T15:46:25+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Rafael Camara: Who is Ferrari junior making F1 debut with Haas in Brazil?"
-   },
-   "last": "2026-11-05T15:54:30.720728+00:00"
   },
   "S4969": {
    "title": "Gasly faces early-morning drug test before Sao Paulo GP",
@@ -16459,14 +16425,16 @@
    "title": "Hamilton nears career milestone only Alonso has reached",
    "first": "2026-11-07T10:39:16.007574+00:00",
    "sources": {
-    "RacingNews365": "2026-11-07T10:30:00+00:00"
+    "RacingNews365": "2026-11-07T10:30:00+00:00",
+    "Gazzetta dello Sport": "2026-11-07T15:48:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Lewis Hamilton career highs and heartbreak revisited ahead of staggering milestone"
+    "RacingNews365": "Lewis Hamilton career highs and heartbreak revisited ahead of staggering milestone",
+    "Gazzetta dello Sport": "Hamilton, in Brasile la gara numero 400. Ma chi ha corso più Gran Premi di lui?"
    },
-   "last": "2026-11-07T10:39:16.007593+00:00"
+   "last": "2026-11-07T15:55:12.429743+00:00"
   },
   "S5590": {
    "title": "UConn's Demary and Mullins seek revenge against Michigan in title rematch",
@@ -17398,7 +17366,8 @@
     "Autosport": "2026-11-07T15:05:04+00:00",
     "Motorsport.com Italia": "2026-11-07T15:05:10+00:00",
     "FormulaPassion": "2026-11-07T15:04:35+00:00",
-    "AS": "2026-11-07T15:31:51+00:00"
+    "AS": "2026-11-07T15:31:51+00:00",
+    "Gazzetta dello Sport": "2026-11-07T15:51:47+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17409,9 +17378,10 @@
     "Autosport": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
     "Motorsport.com Italia": "F1 | Le due Ferrari penalizzate di 10 posizioni per il cambio di motore. Max dal fondo con una nuova PU",
     "FormulaPassion": "Ferrari fa ‘all-in’: doppia penalità in griglia per Leclerc e Hamilton, entrambi sostituiranno il motore termico",
-    "AS": "Festival de penalizaciones: Verstappen, Hamilton, Leclerc..."
+    "AS": "Festival de penalizaciones: Verstappen, Hamilton, Leclerc...",
+    "Gazzetta dello Sport": "Brasile, Verstappen vola nelle libere 3, ma partirà ultimo. In penalità (10 posti) Leclerc e Hamilton"
    },
-   "last": "2026-11-07T15:50:07.063888+00:00"
+   "last": "2026-11-07T15:55:12.429738+00:00"
   },
   "S5659": {
    "title": "Hull vs. Brighton odds and spread (football, not F1)",
@@ -17529,7 +17499,11 @@
     "GPFans": "2026-11-07T15:34:00+00:00",
     "Crash.net": "2026-11-07T15:37:03+00:00",
     "Autosport": "2026-11-07T15:37:40+00:00",
-    "Motorsport Week": "2026-11-07T15:34:36+00:00"
+    "Motorsport Week": "2026-11-07T15:34:36+00:00",
+    "Formula 1": "2026-11-07T15:55:12.429665+00:00",
+    "ESPN F1": "2026-11-07T15:47:51+00:00",
+    "Motorsport.com Italia": "2026-11-07T15:51:56+00:00",
+    "FormulaPassion": "2026-11-07T15:46:50+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17542,9 +17516,13 @@
     "GPFans": "F1 Results Today: Brazilian Grand Prix final practice times and positions",
     "Crash.net": "Max Verstappen tops Brazil GP FP3 as Lewis Hamilton suffers engine trouble",
     "Autosport": "F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble",
-    "Motorsport Week": "Max Verstappen fastest in Brazil FP3 as problems mount for Lewis Hamilton"
+    "Motorsport Week": "Max Verstappen fastest in Brazil FP3 as problems mount for Lewis Hamilton",
+    "Formula 1": "Verstappen beats Antonelli and Norris in Sao Paulo FP3",
+    "ESPN F1": "Max Verstappen tops final practice; starts São Paulo GP from back of grid",
+    "Motorsport.com Italia": "F1 | Interlagos, Libere 3: Verstappen detta il passo su Antonelli e Norris. Hamilton rompe il motore nuovo",
+    "FormulaPassion": "GP San Paolo 2026 – Classifica FP3: tra Max e Kimi solo 25 millesimi, Norris 3°. Ferrari lontana: Leclerc 5°, Hamilton ko"
    },
-   "last": "2026-11-07T15:50:07.063905+00:00"
+   "last": "2026-11-07T15:55:12.429734+00:00"
   },
   "S5668": {
    "title": "Alex Eala outlasts Sakkari in Hong Kong Open semifinal",
@@ -17599,9 +17577,48 @@
     "Motorsport-Total": "Verstappen-Bestzeit in Brasilien: Warum er trotzdem keine Pole holen kann - Motorsport-Total.com"
    },
    "last": "2026-11-07T15:44:25.340852+00:00"
+  },
+  "S5672": {
+   "title": "2026-27 Premier League standings",
+   "first": "2026-11-07T15:55:12.429688+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:49:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026-27 English Premier League Standings"
+   },
+   "last": "2026-11-07T15:55:12.429694+00:00"
+  },
+  "S5673": {
+   "title": "Real Madrid vs Paris FC live score",
+   "first": "2026-11-07T15:55:12.429710+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:49:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Real Madrid vs. Paris FC (10 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-07T15:55:12.429714+00:00"
+  },
+  "S5674": {
+   "title": "Bielema takes veiled shot at SEC and CFP",
+   "first": "2026-11-07T15:55:12.429723+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T15:28:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Illinois coach Bret Bielema takes veiled shot at SEC, CFP"
+   },
+   "last": "2026-11-07T15:55:12.429727+00:00"
   }
  },
- "story_seq": 5671,
+ "story_seq": 5674,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17720,7 +17737,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T15:50:02.357802+00:00",
+ "last_run": "2026-11-07T15:55:05.035062+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
