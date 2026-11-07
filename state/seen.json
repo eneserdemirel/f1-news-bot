@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "567e9e2733c6ee2f": "2026-10-24T20:45:37.345768+00:00",
-  "89b32d2c64796828": "2026-10-24T20:45:37.345768+00:00",
-  "ffc249ceaa482e07": "2026-10-24T20:45:37.345768+00:00",
   "409254dc5a84c9b8": "2026-10-24T20:50:34.480032+00:00",
   "2911c99156b3ed92": "2026-10-24T20:50:34.480032+00:00",
   "152e6496f41fca35": "2026-10-24T20:50:34.480032+00:00",
@@ -7775,7 +7772,14 @@
   "b60a7625f5017c4b": "2026-11-07T20:45:02.129454+00:00",
   "187eba3007377c06": "2026-11-07T20:45:02.129454+00:00",
   "fd647169c31eea39": "2026-11-07T20:45:02.129454+00:00",
-  "3ce06381e993a7a3": "2026-11-07T20:45:02.129454+00:00"
+  "3ce06381e993a7a3": "2026-11-07T20:45:02.129454+00:00",
+  "859b082198ae6995": "2026-11-07T20:49:59.452775+00:00",
+  "f6d62de4eeb79bb2": "2026-11-07T20:49:59.452775+00:00",
+  "453e4e1a1374c61c": "2026-11-07T20:49:59.452775+00:00",
+  "e7b4363179d7ac30": "2026-11-07T20:49:59.452775+00:00",
+  "fb7097ed8d0b0de3": "2026-11-07T20:49:59.452775+00:00",
+  "2fb6472a77a6de2e": "2026-11-07T20:49:59.452775+00:00",
+  "31e67e65ea3bcbbd": "2026-11-07T20:49:59.452775+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8101,45 +8105,6 @@
     "AS": "Algo que Verstappen no esperaba"
    },
    "last": "2026-11-06T09:58:58.529620+00:00"
-  },
-  "S5069": {
-   "title": "FIA Thursday press conference transcript for Sao Paulo GP",
-   "first": "2026-11-05T20:45:25.232908+00:00",
-   "sources": {
-    "FIA": "2026-11-05T16:35:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FIA": "F1 - 2026 São Paulo Grand Prix - Thursday Press Conference Transcript"
-   },
-   "last": "2026-11-05T20:45:25.232926+00:00"
-  },
-  "S5070": {
-   "title": "FC Twente vs Pafos live score",
-   "first": "2026-11-05T20:45:25.232930+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T20:14:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "FC Twente vs. Pafos (5 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-05T20:45:25.232934+00:00"
-  },
-  "S5071": {
-   "title": "Camara thanks Ferrari ahead of shock Haas F1 debut",
-   "first": "2026-11-05T20:45:25.232937+00:00",
-   "sources": {
-    "GPFans": "2026-11-05T20:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 star thanks Ferrari ahead of shock grand prix debut"
-   },
-   "last": "2026-11-05T20:45:25.232940+00:00"
   },
   "S5072": {
    "title": "Mizuki Hiruta signs with MVP fight promotion",
@@ -17471,7 +17436,9 @@
     "Autosport": "2026-11-07T20:33:59+00:00",
     "Auto Motor und Sport": "2026-11-07T20:05:34+00:00",
     "Motorsport.com Italia": "2026-11-07T20:41:28+00:00",
-    "FormulaPassion": "2026-11-07T20:34:24+00:00"
+    "FormulaPassion": "2026-11-07T20:34:24+00:00",
+    "Sky Sports F1": "2026-11-07T19:00:00+00:00",
+    "Motorsport Week": "2026-11-07T20:32:46+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17487,9 +17454,11 @@
     "Autosport": "F1 Brazilian GP: Norris splashes to pole from Russell",
     "Auto Motor und Sport": "Formel 1: Qualifikation in Brasilien wird zum Drahtseilakt – Norris holt die Pole",
     "Motorsport.com Italia": "F1 | Norris brilla sotto la pioggia e riporta in pole la McLaren a Interlagos. Antonelli partirà 2°",
-    "FormulaPassion": "GP San Paolo 2026, griglia di partenza: Norris, pole sotto l’acqua! Kimi 2°, poi Lawson. Leclerc parte 14°"
+    "FormulaPassion": "GP San Paolo 2026, griglia di partenza: Norris, pole sotto l’acqua! Kimi 2°, poi Lawson. Leclerc parte 14°",
+    "Sky Sports F1": "Norris claims Sao Paulo GP pole after treacherous rain-hit qualifying",
+    "Motorsport Week": "Lando Norris takes rain-sodden Sao Paulo pole as surprises take over F1 grid"
    },
-   "last": "2026-11-07T20:45:10.264361+00:00"
+   "last": "2026-11-07T20:50:06.881428+00:00"
   },
   "S5750": {
    "title": "Sassuolo vs Genoa odds and spread (football)",
@@ -17930,16 +17899,18 @@
    "sources": {
     "Motorsport-Total": "2026-11-07T20:33:00+00:00",
     "GPblog": "2026-11-07T20:40:00+00:00",
-    "FormulaPassion": "2026-11-07T20:43:11+00:00"
+    "FormulaPassion": "2026-11-07T20:43:11+00:00",
+    "The Race": "2026-11-07T20:48:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Verrücktes Regen-Qualifying: George Russell tobt nach Pole von Lando Norris - Motorsport-Total.com",
     "GPblog": "Russell fumes at Mercedes after controversial call costs him shot at pole",
-    "FormulaPassion": "Furia Russell, scintille in radio con Mercedes. Teso botta e risposta con Wolff"
+    "FormulaPassion": "Furia Russell, scintille in radio con Mercedes. Teso botta e risposta con Wolff",
+    "The Race": "Norris on Brazilian GP pole as Russell rages at Mercedes over aborted lap"
    },
-   "last": "2026-11-07T20:45:10.264358+00:00"
+   "last": "2026-11-07T20:50:06.881408+00:00"
   },
   "S5784": {
    "title": "Updated Brazil GP starting order with grid penalties",
@@ -17966,9 +17937,37 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-07T20:45:10.264368+00:00"
+  },
+  "S5786": {
+   "title": "ESPN opinion on Arsenal and the Premier League title",
+   "first": "2026-11-07T20:50:06.881375+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T18:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "If Arsenal find attacking spark, they could run away with the Premier League"
+   },
+   "last": "2026-11-07T20:50:06.881394+00:00"
+  },
+  "S5787": {
+   "title": "Norris reacts to third straight Interlagos pole",
+   "first": "2026-11-07T20:50:06.881412+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-07T20:45:00+00:00",
+    "RacingNews365 NL": "2026-11-07T20:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lando Norris scores Sao Paulo GP hat-trick: 'I figured it out pretty quickly'",
+    "RacingNews365 NL": "Norris trekt positieve conclusie na poleposition: \"Snel onder de knie\""
+   },
+   "last": "2026-11-07T20:50:06.881420+00:00"
   }
  },
- "story_seq": 5785,
+ "story_seq": 5787,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18087,7 +18086,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T20:45:02.129454+00:00",
+ "last_run": "2026-11-07T20:49:59.452775+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
