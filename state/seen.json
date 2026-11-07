@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "752be3c3de5272b6": "2026-10-24T23:36:09.459830+00:00",
-  "213fbb3c8cf5a345": "2026-10-24T23:36:09.459830+00:00",
-  "fc7728ada9909587": "2026-10-24T23:36:09.459830+00:00",
-  "29a0f9301324d6f6": "2026-10-24T23:36:09.459830+00:00",
-  "081df2c729696fff": "2026-10-24T23:36:09.459830+00:00",
-  "a227c2746b56c451": "2026-10-24T23:36:09.459830+00:00",
-  "3ddcea03e6dff08b": "2026-10-24T23:36:09.459830+00:00",
-  "32efdebc59b878d8": "2026-10-24T23:36:09.459830+00:00",
   "1e0b15e70c225a9e": "2026-10-24T23:41:06.755280+00:00",
   "b89582b8ce3c7b1c": "2026-10-24T23:41:06.755280+00:00",
   "9a7e9987a730d424": "2026-10-24T23:41:06.755280+00:00",
@@ -7799,7 +7791,10 @@
   "9ac8149be39d5248": "2026-11-07T23:25:33.328433+00:00",
   "34bab636fd76689d": "2026-11-07T23:25:33.328433+00:00",
   "01070402291c26db": "2026-11-07T23:35:33.144742+00:00",
-  "0eabc2320adbb189": "2026-11-07T23:35:33.144742+00:00"
+  "0eabc2320adbb189": "2026-11-07T23:35:33.144742+00:00",
+  "f1f1aaa287896200": "2026-11-07T23:40:44.129279+00:00",
+  "ccfdd733923a382e": "2026-11-07T23:40:44.129279+00:00",
+  "6646957fc8099d2a": "2026-11-07T23:40:44.129279+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17875,7 +17870,8 @@
     "RacingNews365": "2026-11-07T21:45:00+00:00",
     "PlanetF1": "2026-11-07T22:15:58+00:00",
     "Formula 1": "2026-11-07T22:45:36.077628+00:00",
-    "GPblog": "2026-11-07T23:01:00+00:00"
+    "GPblog": "2026-11-07T23:01:00+00:00",
+    "Motorsport-Total": "2026-11-07T23:36:59+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17883,9 +17879,10 @@
     "RacingNews365": "Liam Lawson takes blame for key error despite equaling F1 career-best",
     "PlanetF1": "Liam Lawson reveals frustration despite equalling best F1 grid slot",
     "Formula 1": "Lawson concedes he 'didn't quite maximise' his Q3 effort",
-    "GPblog": "Lawson hints at missed golden opportunity despite yet another brilliant result"
+    "GPblog": "Lawson hints at missed golden opportunity despite yet another brilliant result",
+    "Motorsport-Total": "Verpasste Chance? Liam Lawson spricht über das Qualifying von Interlagos - Motorsport-Total.com"
    },
-   "last": "2026-11-07T23:05:38.890698+00:00"
+   "last": "2026-11-07T23:40:46.922215+00:00"
   },
   "S5818": {
    "title": "Russell blames miscommunication for qualifying radio outburst",
@@ -18564,9 +18561,35 @@
     "Sky Sports F1": "Can Verstappen, Hamilton come from the back in Sao Paulo 'reverse grid' race?"
    },
    "last": "2026-11-07T23:35:35.957784+00:00"
+  },
+  "S5870": {
+   "title": "Orlando 1-0 New England MLS match analysis",
+   "first": "2026-11-07T23:40:46.922175+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:37:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Orlando 1-0 New England (Nov 7, 2026) Game Analysis"
+   },
+   "last": "2026-11-07T23:40:46.922199+00:00"
+  },
+  "S5871": {
+   "title": "Texas A&M vs South Carolina college football highlights",
+   "first": "2026-11-07T23:40:46.922204+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:30:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Texas A&M Aggies vs. South Carolina Gamecocks: Full Highlights"
+   },
+   "last": "2026-11-07T23:40:46.922208+00:00"
   }
  },
- "story_seq": 5869,
+ "story_seq": 5871,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18685,7 +18708,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-07T23:35:33.144742+00:00",
+ "last_run": "2026-11-07T23:40:44.129279+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
