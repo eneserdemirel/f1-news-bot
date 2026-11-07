@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f69a56eae899275b": "2026-10-24T13:59:57.913237+00:00",
-  "af4230e47e494cbd": "2026-10-24T13:59:57.913237+00:00",
   "80b5bed48672f71b": "2026-10-24T14:05:03.546077+00:00",
   "9c141b4930ab4b9c": "2026-10-24T14:05:03.546077+00:00",
   "ea9e9b0e4251c77c": "2026-10-24T14:09:57.489599+00:00",
@@ -7742,7 +7740,10 @@
   "be18c6f87d43c9af": "2026-11-07T13:59:15.238992+00:00",
   "f830fe08b027c559": "2026-11-07T13:59:15.238992+00:00",
   "2fd0dbe05220e3d6": "2026-11-07T13:59:15.238992+00:00",
-  "74d5623e500a9cc3": "2026-11-07T13:59:15.238992+00:00"
+  "74d5623e500a9cc3": "2026-11-07T13:59:15.238992+00:00",
+  "eb3048aafcd27311": "2026-11-07T14:04:13.190779+00:00",
+  "976d55510e210018": "2026-11-07T14:04:13.190779+00:00",
+  "4b487199da3f2155": "2026-11-07T14:04:13.190779+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7977,45 +7978,6 @@
     "ESPN F1": "Cristiano Ronaldo's Portugal career: Best moments, key stats after his retirement from international soccer"
    },
    "last": "2026-11-05T14:23:56.425563+00:00"
-  },
-  "S4939": {
-   "title": "Steve Tandy says Wales must embrace English-based players",
-   "first": "2026-11-05T14:03:56.277155+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T13:39:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nations Championship: Wales must embrace English-based players - Steve Tandy"
-   },
-   "last": "2026-11-05T14:03:56.277175+00:00"
-  },
-  "S4940": {
-   "title": "Calls for stricter Ferrari rules after Hamilton-Leclerc clash",
-   "first": "2026-11-05T14:03:56.277181+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-05T13:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Are stricter Ferrari rules needed after latest Lewis Hamilton-Charles Leclerc clash?"
-   },
-   "last": "2026-11-05T14:03:56.277186+00:00"
-  },
-  "S4941": {
-   "title": "Ocon dropped early by two teams in three seasons analysis",
-   "first": "2026-11-05T14:03:56.277190+00:00",
-   "sources": {
-    "GPblog": "2026-11-05T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Esteban Ocon dropped early by two teams in three seasons as reserve role beckons"
-   },
-   "last": "2026-11-05T14:03:56.277196+00:00"
   },
   "S4942": {
    "title": "Mercedes preparing for possible constructors' title celebration in Brazil",
@@ -15077,16 +15039,18 @@
    "sources": {
     "Crash.net": "2026-11-06T22:12:10+00:00",
     "FormulaPassion": "2026-11-07T07:00:00+00:00",
-    "GPblog": "2026-11-07T08:44:00+00:00"
+    "GPblog": "2026-11-07T08:44:00+00:00",
+    "Motorsport Week": "2026-11-07T13:46:46+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Charles Leclerc claims Ferrari feud is “settled” after Lewis Hamilton talks",
     "FormulaPassion": "Leclerc: “Abbiamo parlato ed è tutto risolto. Ma sono state tra le peggiori FP2 dell’anno”",
-    "GPblog": "Leclerc reveals positive chat with Hamilton amid Friday woes for Ferrari"
+    "GPblog": "Leclerc reveals positive chat with Hamilton amid Friday woes for Ferrari",
+    "Motorsport Week": "Charles Leclerc reveals ‘needed’ Ferrari conversation after Lewis Hamilton clash"
    },
-   "last": "2026-11-07T08:48:49.859936+00:00"
+   "last": "2026-11-07T14:04:17.244867+00:00"
   },
   "S5457": {
    "title": "McLaren call Brazil upgrade a pleasant surprise",
@@ -17482,9 +17446,35 @@
     "ESPN F1": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others"
    },
    "last": "2026-11-07T13:59:19.917331+00:00"
+  },
+  "S5638": {
+   "title": "India cricket pace attack analysis (not F1)",
+   "first": "2026-11-07T14:04:17.244841+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T13:59:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Two extremes, few answers: India's search for a settled pace attack"
+   },
+   "last": "2026-11-07T14:04:17.244858+00:00"
+  },
+  "S5639": {
+   "title": "Interlagos rain forecast could help or hurt Verstappen",
+   "first": "2026-11-07T14:04:17.244872+00:00",
+   "sources": {
+    "GPblog": "2026-11-07T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Rain at Interlagos could cut both ways for Verstappen as Red Bull chase downshift fix"
+   },
+   "last": "2026-11-07T14:04:17.244878+00:00"
   }
  },
- "story_seq": 5637,
+ "story_seq": 5639,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17603,7 +17593,7 @@
   ]
  ],
  "calendar_updated": "2026-11-06T22:50:06.791925+00:00",
- "last_run": "2026-11-07T13:59:15.238992+00:00",
+ "last_run": "2026-11-07T14:04:13.190779+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 15:00",
