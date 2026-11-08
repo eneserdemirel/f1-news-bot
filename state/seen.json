@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "567cca61745a8fe1": "2026-10-25T19:33:47.883877+00:00",
-  "b1d7332771b8ec38": "2026-10-25T19:33:47.883877+00:00",
-  "dc43ed7bd8575973": "2026-10-25T19:33:47.883877+00:00",
   "fcfd43a90581a7d4": "2026-10-25T19:38:43.096875+00:00",
   "dc8c0e8233704c58": "2026-10-25T19:38:43.096875+00:00",
   "4ddd9c398c9f3cba": "2026-10-25T19:43:48.354955+00:00",
@@ -7830,7 +7827,10 @@
   "113104055dd7f301": "2026-11-08T19:33:10.828825+00:00",
   "ae2f00509891deea": "2026-11-08T19:33:10.828825+00:00",
   "082eee227b96db30": "2026-11-08T19:33:10.828825+00:00",
-  "f1e0dce475319516": "2026-11-08T19:33:10.828825+00:00"
+  "f1e0dce475319516": "2026-11-08T19:33:10.828825+00:00",
+  "c86df9ff09dfbe33": "2026-11-08T19:38:15.780441+00:00",
+  "701b8ff2977dfb22": "2026-11-08T19:38:15.780441+00:00",
+  "163c876ac3ca560a": "2026-11-08T19:38:15.780441+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8208,19 +8208,6 @@
     "ESPN F1": "Balagne vs. Montpellier (Nov 14, 2026) Live Score"
    },
    "last": "2026-11-06T23:10:17.869449+00:00"
-  },
-  "S5398": {
-   "title": "São Paulo Grand Prix weekend results page",
-   "first": "2026-11-06T19:35:18.272434+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T18:13:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026 MSC Cruises São Paulo Grand Prix Weekend Results"
-   },
-   "last": "2026-11-06T19:35:18.272455+00:00"
   },
   "S5399": {
    "title": "Dunkerque vs. Guingamp live score",
@@ -18279,7 +18266,7 @@
     "Motorsport.com Italia": "F1 | Norris vola e vince a Interlagos. Show di Max, 2° in rimonta. Kimi 5°, Mercedes vince il titolo costruttori",
     "FormulaPassion": "GP San Paolo 2026, ordine di arrivo: Norris vola sull’acqua, Max show (2°) con un’altra rimonta. Kimi 5°, Ferrari da incubo: Leclerc 7°, Hamilton 9°"
    },
-   "last": "2026-11-08T19:08:27.711242+00:00"
+   "last": "2026-11-08T19:38:18.876866+00:00"
   },
   "S6132": {
    "title": "Mercedes clinch 2026 constructors' title in Brazil",
@@ -18599,9 +18586,22 @@
     "FormulaPassion": "Hamilton-Ferrari, ancora caos nella gestione della strategia"
    },
    "last": "2026-11-08T19:33:17.912354+00:00"
+  },
+  "S6155": {
+   "title": "Man Utd 4-4 Aston Villa final score",
+   "first": "2026-11-08T19:38:18.876839+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T19:36:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man Utd 4-4 Aston Villa (Nov 8, 2026) Final Score"
+   },
+   "last": "2026-11-08T19:38:18.876858+00:00"
   }
  },
- "story_seq": 6154,
+ "story_seq": 6155,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18720,7 +18720,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T19:33:10.828825+00:00",
+ "last_run": "2026-11-08T19:38:15.780441+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
