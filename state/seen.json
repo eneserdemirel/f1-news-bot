@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "37fe18e5bdd8ea6d": "2026-10-25T00:51:08.886167+00:00",
-  "5d6797da8d013757": "2026-10-25T00:51:08.886167+00:00",
-  "f600eb12545b6d0f": "2026-10-25T00:51:08.886167+00:00",
   "f2f93c0a5ccfa447": "2026-10-25T00:56:05.801225+00:00",
   "0bd01ab25a5bea1a": "2026-10-25T01:01:16.494234+00:00",
   "94372dfd37a5d938": "2026-10-25T01:01:16.494234+00:00",
@@ -7809,7 +7806,10 @@
   "56e0995d194791c5": "2026-11-08T00:50:35.081106+00:00",
   "8b20d89fcdd95352": "2026-11-08T00:50:35.081106+00:00",
   "1b3c169dd0b88a52": "2026-11-08T00:50:35.081106+00:00",
-  "5dc673dbba4f1c17": "2026-11-08T00:50:35.081106+00:00"
+  "5dc673dbba4f1c17": "2026-11-08T00:50:35.081106+00:00",
+  "5ae7fc244e921e63": "2026-11-08T00:55:31.744344+00:00",
+  "990a5fd595a8ecc7": "2026-11-08T00:55:31.744344+00:00",
+  "144173f0552a7b90": "2026-11-08T00:55:31.744344+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18767,9 +18767,48 @@
     "ESPN F1": "LaNorris Sellers on why the No. 21 Gamecocks never lost faith"
    },
    "last": "2026-11-08T00:50:37.633708+00:00"
+  },
+  "S5899": {
+   "title": "Carson Hilbert 42-yard field goal (college football)",
+   "first": "2026-11-08T00:55:33.625801+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:51:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Carson Hilbert makes 42-yard field goal"
+   },
+   "last": "2026-11-08T00:55:33.625821+00:00"
+  },
+  "S5900": {
+   "title": "Kaden Anderson 41-yard TD pass (college football)",
+   "first": "2026-11-08T00:55:33.625826+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:49:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kaden Anderson connects for 41-yard TD pass"
+   },
+   "last": "2026-11-08T00:55:33.625829+00:00"
+  },
+  "S5901": {
+   "title": "Israel Carter 39-yard rushing TD (college football)",
+   "first": "2026-11-08T00:55:33.625832+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:47:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Israel Carter goes 39-yard on impressive rushing touchdown"
+   },
+   "last": "2026-11-08T00:55:33.625835+00:00"
   }
  },
- "story_seq": 5898,
+ "story_seq": 5901,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18888,7 +18927,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T00:50:35.081106+00:00",
+ "last_run": "2026-11-08T00:55:31.744344+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
