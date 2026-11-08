@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "77909d6476387ad4": "2026-10-25T18:08:10.761164+00:00",
-  "a130207b897e7b1f": "2026-10-25T18:08:10.761164+00:00",
   "732ac2746bb50647": "2026-10-25T18:13:09.530774+00:00",
   "04b5c378431aa742": "2026-10-25T18:18:11.654908+00:00",
   "456af41c8718ef29": "2026-10-25T18:18:11.654908+00:00",
@@ -7789,7 +7787,9 @@
   "1143a6b574b5a57f": "2026-11-08T18:02:30.059383+00:00",
   "35fd4e63e5bd5ee4": "2026-11-08T18:02:30.059383+00:00",
   "ad4b85fe85b65ad9": "2026-11-08T18:02:30.059383+00:00",
-  "7a4f68a78bd4923a": "2026-11-08T18:02:30.059383+00:00"
+  "7a4f68a78bd4923a": "2026-11-08T18:02:30.059383+00:00",
+  "3269592f8652c7cf": "2026-11-08T18:08:11.216175+00:00",
+  "30af29e771d85e4b": "2026-11-08T18:08:11.216175+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18520,9 +18520,35 @@
     "Gazzetta dello Sport": "Gp Brasile, partenza da videogioco di Hamilton: ne supera undici al via"
    },
    "last": "2026-11-08T18:02:35.672459+00:00"
+  },
+  "S6122": {
+   "title": "Stroll's 13th DNF of 2026 pushes him toward F1 record",
+   "first": "2026-11-08T18:08:14.223980+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-08T18:03:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lance Stroll closing in on all-time F1 record after latest Aston Martin failure"
+   },
+   "last": "2026-11-08T18:08:14.223998+00:00"
+  },
+  "S6123": {
+   "title": "Verstappen reveals Red Bull pit-stop mistake over radio",
+   "first": "2026-11-08T18:08:14.224003+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T18:02:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Boordradio Verstappen onthult probleem: \"Hoe kon dat gebeuren?\""
+   },
+   "last": "2026-11-08T18:08:14.224008+00:00"
   }
  },
- "story_seq": 6121,
+ "story_seq": 6123,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18641,22 +18667,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T18:03:16.850558+00:00",
+ "last_run": "2026-11-08T18:08:11.216175+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T18:05:34.770009+00:00",
-   "title": "Verstappen: Antonelli mütevazı bir genç, dünya şampiyonluğu onu değiştirmeyecek",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-05T18:05:35.252473+00:00",
-   "title": "Verstappen, Antonelli'nin şampiyonluğu sonrası ilk F1 titrini anlattı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-05T18:15:36.165709+00:00",
    "title": "Verstappen, Wolff'un sözlerini gülerek geçiştirdi",
@@ -20206,6 +20222,16 @@
    "t": "2026-11-08T18:02:39.275935+00:00",
    "title": "Hamilton'ın videooyun başlangıcı: Brezilya GP'de start görünümü",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-08T18:08:19.805058+00:00",
+   "title": "Verstappen'in boordradio'sunda ortaya çıkan balans sorunu",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T18:08:20.280223+00:00",
+   "title": "Lance Stroll, 13. kez yarışı tamamlayamadı; tüm zamanların rekoruna yaklaşıyor",
+   "source": "RacingNews365"
   }
  ]
 }
