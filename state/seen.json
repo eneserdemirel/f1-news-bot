@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c80c3dea449d40c1": "2026-10-25T09:28:03.905269+00:00",
   "73508e062fad31b3": "2026-10-25T09:33:05.474396+00:00",
   "ae55be90e4ba484e": "2026-10-25T09:38:07.754554+00:00",
   "804c5c2e4974fdcd": "2026-10-25T09:43:07.240424+00:00",
@@ -7810,7 +7809,10 @@
   "a68cd524b642b51e": "2026-11-08T09:21:38.856729+00:00",
   "b0032efa22a59532": "2026-11-08T09:26:37.089337+00:00",
   "be5e6b16504bd0db": "2026-11-08T09:26:37.089337+00:00",
-  "576f4abf619782a5": "2026-11-08T09:26:37.089337+00:00"
+  "576f4abf619782a5": "2026-11-08T09:26:37.089337+00:00",
+  "d966afbb5157bfd7": "2026-11-08T09:31:56.878053+00:00",
+  "448ab5097be8a830": "2026-11-08T09:31:56.878053+00:00",
+  "0b4daf71d3a66048": "2026-11-08T09:31:56.878053+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8117,19 +8119,6 @@
    },
    "last": "2026-11-06T20:00:43.923755+00:00"
   },
-  "S5204": {
-   "title": "Rosberg on 2016 Abu Dhabi battle with Verstappen crash risk",
-   "first": "2026-11-06T09:28:59.505180+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-06T09:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Nico Rosberg offers insight into ’50-50 chance of a crash’ 2016 Verstappen battle"
-   },
-   "last": "2026-11-06T09:28:59.505200+00:00"
-  },
   "S5205": {
    "title": "Motorsport-Total item with no content",
    "first": "2026-11-06T09:28:59.505206+00:00",
@@ -8142,19 +8131,6 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-06T19:05:18.894339+00:00"
-  },
-  "S5206": {
-   "title": "Marquez says Antonelli's youth helps him handle pressure",
-   "first": "2026-11-06T09:28:59.505214+00:00",
-   "sources": {
-    "AS": "2026-11-06T09:16:45+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Márquez sobre Antonelli: “Ser tan joven le ayuda”"
-   },
-   "last": "2026-11-06T09:28:59.505219+00:00"
   },
   "S5207": {
    "title": "Jaguars say they can be 'way better' after Ravens blowout",
@@ -16807,7 +16783,7 @@
     "FormulaPassion": "Leclerc: “In Ferrari ho sempre fatto fatica sul bagnato, ma in questa qualifica ho imparato tanto”",
     "Motorsport-Total": "Charles Leclerc: Regen ist immer Ferraris größte Schwäche - Motorsport-Total.com"
    },
-   "last": "2026-11-08T08:21:40.117111+00:00"
+   "last": "2026-11-08T09:32:01.544035+00:00"
   },
   "S5830": {
    "title": "Hamilton still aims for Brazil win despite back-of-grid start",
@@ -19064,9 +19040,35 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-08T09:26:41.842792+00:00"
+  },
+  "S6002": {
+   "title": "Stella says Russell had pole pace, Norris seized the chance",
+   "first": "2026-11-08T09:32:01.544002+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T09:26:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Stella riconosce: \"Russell era probabilmente il più veloce, Norris ha sfruttato l'occasione\""
+   },
+   "last": "2026-11-08T09:32:01.544022+00:00"
+  },
+  "S6003": {
+   "title": "Verstappen and Hamilton start from back with fresh wet tyres",
+   "first": "2026-11-08T09:32:01.544026+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T09:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen and Hamilton start at the back in Brazil with a tyre advantage their rivals spent"
+   },
+   "last": "2026-11-08T09:32:01.544030+00:00"
   }
  },
- "story_seq": 6001,
+ "story_seq": 6003,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19185,7 +19187,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T09:26:37.089337+00:00",
+ "last_run": "2026-11-08T09:31:56.878053+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20830,6 +20832,11 @@
    "t": "2026-11-08T09:16:47.834334+00:00",
    "title": "Sao Paulo GP'de lastik stratejisi seçenekleri neler?",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-08T09:32:08.368878+00:00",
+   "title": "Stella: Russell muhtemelen daha hızlıydı, Norris fırsatı değerlendirdi",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
