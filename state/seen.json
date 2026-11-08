@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f06e6e1790b815c4": "2026-10-25T10:57:27.720288+00:00",
-  "62e147f4fd55c336": "2026-10-25T10:57:27.720288+00:00",
-  "6a35ab87123e5190": "2026-10-25T10:57:27.720288+00:00",
-  "596a318b226ce204": "2026-10-25T10:57:27.720288+00:00",
-  "970eba54ab4b8790": "2026-10-25T10:57:27.720288+00:00",
   "b0b089a0187818bc": "2026-10-25T11:02:29.401857+00:00",
   "ce6c45766e9e8123": "2026-10-25T11:02:29.401857+00:00",
   "1ae856bfc213122c": "2026-10-25T11:02:29.401857+00:00",
@@ -7804,7 +7799,9 @@
   "17970c5898ce90e7": "2026-11-08T10:51:36.426730+00:00",
   "4e02def5009f79bd": "2026-11-08T10:51:36.426730+00:00",
   "a3536c28983f4224": "2026-11-08T10:56:37.328704+00:00",
-  "d437d13090d609cd": "2026-11-08T10:56:37.328704+00:00"
+  "d437d13090d609cd": "2026-11-08T10:56:37.328704+00:00",
+  "463592424b814dc3": "2026-11-08T11:01:44.001671+00:00",
+  "8a3bea7f831c379a": "2026-11-08T11:01:44.001671+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8159,19 +8156,6 @@
    },
    "last": "2026-11-06T12:08:57.005818+00:00"
   },
-  "S5230": {
-   "title": "Antonelli says preparation for 2027 F1 season starts now",
-   "first": "2026-11-06T10:59:00.790803+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T10:42:06+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Antonelli: Preparation for 2027 F1 season starts now"
-   },
-   "last": "2026-11-06T10:59:00.790821+00:00"
-  },
   "S5231": {
    "title": "F1 boss gives cautious verdict on season-ending Middle East races",
    "first": "2026-11-06T10:59:00.790834+00:00",
@@ -8186,19 +8170,6 @@
     "RacingNews365 NL": "F1-baas houdt slag om de arm rond GP Qatar en Abu Dhabi"
    },
    "last": "2026-11-06T11:58:56.599896+00:00"
-  },
-  "S5232": {
-   "title": "Neymar joins Hamilton's 400th GP celebrations in Brazil",
-   "first": "2026-11-06T10:59:00.790843+00:00",
-   "sources": {
-    "AS": "2026-11-06T10:49:59+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Neymar se suma a la fiesta de Hamilton"
-   },
-   "last": "2026-11-06T10:59:00.790847+00:00"
   },
   "S5233": {
    "title": "ESPN NBA podcast on Wembanyama, 76ers and SGA MVP debate",
@@ -16033,16 +16004,18 @@
    "sources": {
     "RacingNews365 NL": "2026-11-07T21:10:00+00:00",
     "GPblog": "2026-11-07T22:30:00+00:00",
-    "RacingNews365": "2026-11-08T06:15:00+00:00"
+    "RacingNews365": "2026-11-08T06:15:00+00:00",
+    "FormulaPassion": "2026-11-08T10:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Wolff verdedigt team na scheldkanonnade Russell",
     "GPblog": "Wolff delivers verdict on costly Mercedes call that left Russell furious",
-    "RacingNews365": "Toto Wolff bursts George Russell bubble after Brazil qualifying fury"
+    "RacingNews365": "Toto Wolff bursts George Russell bubble after Brazil qualifying fury",
+    "FormulaPassion": "Wolff si scusa con Russell: “Meritava la pole, era di un’altra categoria. Ma non abbiamo la sfera di cristallo”"
    },
-   "last": "2026-11-08T06:21:09.508380+00:00"
+   "last": "2026-11-08T11:01:48.375896+00:00"
   },
   "S5799": {
    "title": "Russell admits costly misjudgement in Brazil qualifying",
@@ -18975,9 +18948,22 @@
     "Motorsport-Total": "Katar und Abu Dhabi: Toto Wolff zeigt kein Verständnis für Panikmache - Motorsport-Total.com"
    },
    "last": "2026-11-08T10:56:40.141734+00:00"
+  },
+  "S6019": {
+   "title": "Live blog: Brazilian GP race, Norris leads Antonelli early",
+   "first": "2026-11-08T11:01:48.375867+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-08T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "F1 GP Brasile 2026, gara: Norris davanti ad Antonelli, le Ferrari e Max cercano la rimonta. Partenza alle 18.00 – DIRETTA"
+   },
+   "last": "2026-11-08T11:01:48.375889+00:00"
   }
  },
- "story_seq": 6018,
+ "story_seq": 6019,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19096,7 +19082,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T10:56:37.328704+00:00",
+ "last_run": "2026-11-08T11:01:44.001671+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20741,6 +20727,16 @@
    "t": "2026-11-08T10:56:43.640591+00:00",
    "title": "Toto Wolff, Katar ve Abu Dabi'deki panik havasına katılmıyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-08T11:01:58.268369+00:00",
+   "title": "Wolff, Russell'dan özür diledi: 'Pole'u hak ediyordu'",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-08T11:01:58.682659+00:00",
+   "title": "F1 Brezilya GP 2026: Norris pole'den, Antonelli ikinci sırada başlıyor",
+   "source": "FormulaPassion"
   }
  ]
 }
