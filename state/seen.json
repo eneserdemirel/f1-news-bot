@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "526d2d8e177249b7": "2026-10-25T22:48:45.433917+00:00",
-  "3482e55036ee4a7b": "2026-10-25T22:48:45.433917+00:00",
   "0258bc2ae079c414": "2026-10-25T22:53:57.967063+00:00",
   "abf9814b517a81db": "2026-10-25T22:53:57.967063+00:00",
   "0dc851dfac11eb8e": "2026-10-25T22:53:57.967063+00:00",
@@ -7865,7 +7863,11 @@
   "9a1dbde27e511b8c": "2026-11-08T22:38:14.740171+00:00",
   "1313fd1eade26159": "2026-11-08T22:43:14.160567+00:00",
   "8069521d0e1bb2eb": "2026-11-08T22:48:11.001362+00:00",
-  "edaa3c2171ecf7d3": "2026-11-08T22:48:11.001362+00:00"
+  "edaa3c2171ecf7d3": "2026-11-08T22:48:11.001362+00:00",
+  "561444a74532b528": "2026-11-08T22:53:14.674815+00:00",
+  "b646d5cf85dee14b": "2026-11-08T22:53:14.674815+00:00",
+  "1825db933cea5389": "2026-11-08T22:53:14.674815+00:00",
+  "be6c5c2aaa0b57d5": "2026-11-08T22:53:14.674815+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17445,7 +17447,7 @@
     "FormulaPassion": "Mondiale Costruttori 2026: la classifica dopo il GP del Brasile, Mercedes campione",
     "ESPN F1": "Mercedes completes the double with constructors' title at São Paulo Grand Prix"
    },
-   "last": "2026-11-08T19:13:15.802986+00:00"
+   "last": "2026-11-08T22:53:17.961209+00:00"
   },
   "S6133": {
    "title": "Kiera Staude scores for Georgia (college soccer)",
@@ -18915,9 +18917,35 @@
     "Sky Sports F1": "SkyPad analysis: How Verstappen went from 21st to 2nd at the Sao Paulo GP!"
    },
    "last": "2026-11-08T22:48:13.254466+00:00"
+  },
+  "S6240": {
+   "title": "Teams and drivers post-race reactions from Sao Paulo GP",
+   "first": "2026-11-08T22:53:17.961173+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T22:53:17.961189+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What the teams said – Race day in Brazil"
+   },
+   "last": "2026-11-08T22:53:17.961193+00:00"
+  },
+  "S6241": {
+   "title": "Michigan fires offensive coordinator Jason Beck",
+   "first": "2026-11-08T22:53:17.961198+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T22:46:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michigan fires offensive coordinator Jason Beck after loss to Michigan State"
+   },
+   "last": "2026-11-08T22:53:17.961202+00:00"
   }
  },
- "story_seq": 6239,
+ "story_seq": 6241,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19035,8 +19063,8 @@
    "Abu Dhabi Grand Prix"
   ]
  ],
- "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T22:48:11.001362+00:00",
+ "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
+ "last_run": "2026-11-08T22:53:14.674815+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
