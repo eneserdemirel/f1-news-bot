@@ -7809,7 +7809,9 @@
   "fc68ba7cd73bb651": "2026-11-08T17:12:23.099741+00:00",
   "3a4fd08c94635610": "2026-11-08T17:12:23.099741+00:00",
   "1b027a700b16e153": "2026-11-08T17:12:23.099741+00:00",
-  "a3fb924d20d0ec90": "2026-11-08T17:17:22.317491+00:00"
+  "a3fb924d20d0ec90": "2026-11-08T17:17:22.317491+00:00",
+  "1248a7d3650c6715": "2026-11-08T17:27:24.312625+00:00",
+  "c8ea103dac47fd09": "2026-11-08T17:27:24.312625+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8123,19 +8125,6 @@
     "Motorsport-Total": "Großer Preis von Brasilien 2026 in Interlagos: Gesamtergebnis 1. Trainingstag - Motorsport-Total.com"
    },
    "last": "2026-11-06T21:10:22.535707+00:00"
-  },
-  "S5355": {
-   "title": "Williams uses handbrake turns on Sainz and Albon this weekend",
-   "first": "2026-11-06T17:24:35.802158+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-06T17:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Williams gooit handrem erop bij Sainz en Albon"
-   },
-   "last": "2026-11-06T17:24:35.802175+00:00"
   },
   "S5356": {
    "title": "Ralf Schumacher says Colton Herta has no place in F1",
@@ -18316,14 +18305,16 @@
    "title": "Antonelli spins on way to Sao Paulo GP grid",
    "first": "2026-11-08T16:37:27.478630+00:00",
    "sources": {
-    "GPblog": "2026-11-08T16:32:00+00:00"
+    "GPblog": "2026-11-08T16:32:00+00:00",
+    "Gazzetta dello Sport": "2026-11-08T17:14:58+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Antonelli suffers pre-race scare as he spins on way to Sao Paulo GP grid"
+    "GPblog": "Antonelli suffers pre-race scare as he spins on way to Sao Paulo GP grid",
+    "Gazzetta dello Sport": "Gp Brasile, colpo di scena: Antonelli sull'erba nel giro di formazione"
    },
-   "last": "2026-11-08T16:37:27.478635+00:00"
+   "last": "2026-11-08T17:27:27.400438+00:00"
   },
   "S6098": {
    "title": "Man United vs Aston Villa live blog (Premier League)",
@@ -18443,9 +18434,22 @@
     "GPblog": "Full MotoGP Standings | What Marquez needs for 10th title"
    },
    "last": "2026-11-08T17:12:28.610890+00:00"
+  },
+  "S6107": {
+   "title": "Genoa 1-2 Milan match analysis",
+   "first": "2026-11-08T17:27:27.400409+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T17:14:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Genoa 1-2 Milan (Nov 8, 2026) Game Analysis"
+   },
+   "last": "2026-11-08T17:27:27.400429+00:00"
   }
  },
- "story_seq": 6106,
+ "story_seq": 6107,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18564,27 +18568,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T17:22:24.530574+00:00",
+ "last_run": "2026-11-08T17:27:24.312625+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T17:25:30.325852+00:00",
-   "title": "Andrea Kimi Antonelli, F1'de dinlediği danışmanları açıkladı",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-11-05T17:25:30.819216+00:00",
-   "title": "Freddie Slater, Audi'nin tarihi F1 debütünde zorlu bir gün yaşadı",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-11-05T17:25:31.310627+00:00",
-   "title": "Mercedes genç pilotu Luna Fluxa Cross, Las Vegas'ta F1 ACADEMY'de debut yapacak",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-05T17:35:34.430009+00:00",
    "title": "Verstappen, Red Bull'a 'antivirüs' kurduğunu söylüyor",
