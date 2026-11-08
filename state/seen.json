@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5a3381e96754d6fa": "2026-10-25T20:58:50.448375+00:00",
-  "32726662caa88101": "2026-10-25T20:58:50.448375+00:00",
   "911fda5b732d4143": "2026-10-25T21:08:46.899901+00:00",
   "34c8caa53c1ba440": "2026-10-25T21:13:44.550992+00:00",
   "1ce338629add63ad": "2026-10-25T21:13:44.550992+00:00",
@@ -7866,7 +7864,11 @@
   "bcd9de23b5ce37dd": "2026-11-08T20:53:15.280508+00:00",
   "01ee7413baea02ac": "2026-11-08T20:53:15.280508+00:00",
   "a0dadd1200ba3261": "2026-11-08T20:53:15.280508+00:00",
-  "8a760f4b1be3a4a1": "2026-11-08T20:58:10.677882+00:00"
+  "8a760f4b1be3a4a1": "2026-11-08T20:58:10.677882+00:00",
+  "08efb1eee2247701": "2026-11-08T21:03:16.553326+00:00",
+  "32478d74c501e39f": "2026-11-08T21:03:16.553326+00:00",
+  "df928fca872363ad": "2026-11-08T21:03:16.553326+00:00",
+  "89d56d98192c1ad9": "2026-11-08T21:03:16.553326+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8189,19 +8191,6 @@
     "Motorsport-Total": "Red Bull erklärt: Warum Max Verstappen das Freitagstraining vorzeitig beendet hat - Motorsport-Total.com"
    },
    "last": "2026-11-07T07:28:52.066746+00:00"
-  },
-  "S5436": {
-   "title": "SEC considering luxury tax on college sports spending",
-   "first": "2026-11-06T21:00:20.248208+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T20:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: SEC considering luxury tax for excessive spending on players"
-   },
-   "last": "2026-11-06T21:00:20.248227+00:00"
   },
   "S5437": {
    "title": "Antonelli names major challenge facing F1 drivers at Sao Paulo",
@@ -13437,7 +13426,7 @@
     "Motorsport Week": "Lewis Hamilton issues crucial update in Charles Leclerc Mexico spat",
     "GPblog": "Hamilton provides update on Leclerc feud without Vasseur: 'No demands from either side'"
    },
-   "last": "2026-11-08T11:46:43.207502+00:00"
+   "last": "2026-11-08T21:03:21.135580+00:00"
   },
   "S5813": {
    "title": "Reyna injury for Strasbourg and USMNT (non-F1)",
@@ -17466,16 +17455,18 @@
    "sources": {
     "RacingNews365": "2026-11-08T17:37:00+00:00",
     "GPFans": "2026-11-08T17:48:00+00:00",
-    "FormulaPassion": "2026-11-08T17:41:40+00:00"
+    "FormulaPassion": "2026-11-08T17:41:40+00:00",
+    "PlanetF1": "2026-11-08T20:58:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "George Russell spin nearly blocks pit-lane after crucial Sao Paulo pit-stop",
     "GPFans": "Mercedes stars in trouble at Brazilian Grand Prix as George Russell spins in pit lane",
-    "FormulaPassion": "Russell, che pasticcio: va in testacoda uscendo dalla corsia dei box"
+    "FormulaPassion": "Russell, che pasticcio: va in testacoda uscendo dalla corsia dei box",
+    "PlanetF1": "George Russell ‘paid the price’ for bizarre pit lane spin during Brazilian GP"
    },
-   "last": "2026-11-08T18:02:35.672451+00:00"
+   "last": "2026-11-08T21:03:21.135573+00:00"
   },
   "S6115": {
    "title": "Barcelona vs Villarreal odds and spread",
@@ -18387,14 +18378,16 @@
    "title": "Verstappen radio: 'what a disaster to drive this car' after P2",
    "first": "2026-11-08T20:18:16.562352+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-08T20:15:00+00:00"
+    "RacingNews365 NL": "2026-11-08T20:15:00+00:00",
+    "Crash.net": "2026-11-08T20:59:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Opmerkelijke boordradio Verstappen na P2: \"Wat een ramp om in deze auto te rijden!\""
+    "RacingNews365 NL": "Opmerkelijke boordradio Verstappen na P2: \"Wat een ramp om in deze auto te rijden!\"",
+    "Crash.net": "Max Verstappen makes foul-mouthed Red Bull complaint despite Brazil GP P2"
    },
-   "last": "2026-11-08T20:18:16.562356+00:00"
+   "last": "2026-11-08T21:03:21.135585+00:00"
   },
   "S6180": {
    "title": "Verstappen and Norris exchange fireworks after Brazil GP",
@@ -18644,9 +18637,22 @@
     "Motorsport-Total": "Starker Start, schwaches Ende: Warum Hamiltons Aufholjagd verpuffte - Motorsport-Total.com"
    },
    "last": "2026-11-08T20:58:13.338210+00:00"
+  },
+  "S6199": {
+   "title": "Antonelli explains 'weird' spin and car instability in Brazil",
+   "first": "2026-11-08T21:03:21.135546+00:00",
+   "sources": {
+    "Autosport": "2026-11-08T20:57:57+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win"
+   },
+   "last": "2026-11-08T21:03:21.135564+00:00"
   }
  },
- "story_seq": 6198,
+ "story_seq": 6199,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18765,7 +18771,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T20:58:10.677882+00:00",
+ "last_run": "2026-11-08T21:03:16.553326+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20340,6 +20346,11 @@
    "t": "2026-11-08T20:48:23.224063+00:00",
    "title": "Sky Sports'tan Ted Kravitz, Racing Bulls'u Liam Lawson sözleşmesindeki gecikme nedeniyle eleştirdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-08T21:03:26.262587+00:00",
+   "title": "Antonelli, Brezilya GP'sinde galibiyeti kaybettiren garip spini ve araç dengesizliğini anlattı",
+   "source": "Autosport"
   }
  ]
 }
