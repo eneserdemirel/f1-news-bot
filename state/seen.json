@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "24e9f724a39c2b60": "2026-10-25T14:33:23.014967+00:00",
-  "685b8faeadb262d7": "2026-10-25T14:33:23.014967+00:00",
-  "7ed148ca486955da": "2026-10-25T14:33:23.014967+00:00",
   "94860a7a9cf82fcd": "2026-10-25T14:38:07.985946+00:00",
   "c994c6b78e69c604": "2026-10-25T14:38:07.985946+00:00",
   "bf20bdb412589cad": "2026-10-25T14:43:07.490940+00:00",
@@ -7795,7 +7792,10 @@
   "a2b98c18ec8051fd": "2026-11-08T14:27:22.231844+00:00",
   "b3e591f6c10300b4": "2026-11-08T14:32:29.563177+00:00",
   "0feaf5830defbdd2": "2026-11-08T14:32:29.563177+00:00",
-  "1ab71833e8409607": "2026-11-08T14:32:29.563177+00:00"
+  "1ab71833e8409607": "2026-11-08T14:32:29.563177+00:00",
+  "8ac9d9e5db07fbe1": "2026-11-08T14:37:41.002516+00:00",
+  "1d64d078d51175ca": "2026-11-08T14:37:41.002516+00:00",
+  "24e042a8e7225b4d": "2026-11-08T14:37:41.002516+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8143,58 +8143,6 @@
     "GPblog": "Camara's F1 debut number may be short-lived as 2027 plans emerge"
    },
    "last": "2026-11-06T20:00:43.923788+00:00"
-  },
-  "S5298": {
-   "title": "Carlos Baleba set for long injury absence with hamstring",
-   "first": "2026-11-06T14:34:43.935329+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T14:28:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United's Carlos Baleba set for long injury absence with hamstring issue"
-   },
-   "last": "2026-11-06T14:34:43.935346+00:00"
-  },
-  "S5299": {
-   "title": "Tuchel says Palmer misses too many chances",
-   "first": "2026-11-06T14:34:43.935352+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T14:04:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tuchel: Palmer misses too many opportunities to impress"
-   },
-   "last": "2026-11-06T14:34:43.935358+00:00"
-  },
-  "S5300": {
-   "title": "Daily Mail accuses Leclerc of treating Ferrari as his own",
-   "first": "2026-11-06T14:34:43.935376+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-06T14:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Il Daily Mail attacca Leclerc: “Pensa che la Ferrari sia ‘sua’ e che possa fare ciò che vuole”"
-   },
-   "last": "2026-11-06T14:34:43.935381+00:00"
-  },
-  "S5301": {
-   "title": "Mercedes breaks curfew at start of Brazil weekend, no penalty",
-   "first": "2026-11-06T14:34:43.935384+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-06T14:10:32+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "La Mercedes inizia il weekend di Interlagos rompendo il coprifuoco"
-   },
-   "last": "2026-11-06T14:34:43.935388+00:00"
   },
   "S5302": {
    "title": "Denzel Bentley on Zuffa Boxing pitch",
@@ -18548,15 +18496,17 @@
    "first": "2026-11-08T13:32:32.837177+00:00",
    "sources": {
     "AS": "2026-11-08T13:21:18+00:00",
-    "RacingNews365 NL": "2026-11-08T14:00:00+00:00"
+    "RacingNews365 NL": "2026-11-08T14:00:00+00:00",
+    "GPblog": "2026-11-08T14:33:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "AS": "“Puede haber un accidente realmente horrible”",
-    "RacingNews365 NL": "Serieuze waarschuwing over kletsnat Brazilië: \"Als dit de race was geweest...\""
+    "RacingNews365 NL": "Serieuze waarschuwing over kletsnat Brazilië: \"Als dit de race was geweest...\"",
+    "GPblog": "Russell warns of 'horrific incident' if conditions are similar to qualifying"
    },
-   "last": "2026-11-08T14:07:28.166357+00:00"
+   "last": "2026-11-08T14:37:43.465681+00:00"
   },
   "S6056": {
    "title": "Lindblad to take new power unit after Sao Paulo qualifying failure",
@@ -18661,9 +18611,35 @@
     "Motorsport-Total": "\"Versuche, irgendwie zu gewinnen\": So sieht der Plan von Lewis Hamilton aus - Motorsport-Total.com"
    },
    "last": "2026-11-08T14:32:33.989574+00:00"
+  },
+  "S6064": {
+   "title": "Cologne vs Leverkusen match team stats",
+   "first": "2026-11-08T14:37:43.465644+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T14:32:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cologne vs. Leverkusen (Nov 8, 2026) Team Stats"
+   },
+   "last": "2026-11-08T14:37:43.465663+00:00"
+  },
+  "S6065": {
+   "title": "Manuel Neuer sidelined with foot injury",
+   "first": "2026-11-08T14:37:43.465669+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T14:08:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bayern Munich's Manuel Neuer set for spell on sidelines with foot injury"
+   },
+   "last": "2026-11-08T14:37:43.465674+00:00"
   }
  },
- "story_seq": 6063,
+ "story_seq": 6065,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18782,7 +18758,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T14:32:29.563177+00:00",
+ "last_run": "2026-11-08T14:37:41.002516+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
