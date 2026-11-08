@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2a9d573568360112": "2026-10-25T12:07:30.175313+00:00",
-  "90612ef73d3d7922": "2026-10-25T12:07:30.175313+00:00",
-  "a045852a273aa08f": "2026-10-25T12:07:30.175313+00:00",
-  "c9d6025bb75350ce": "2026-10-25T12:07:30.175313+00:00",
-  "b5572ed7dd2b1dde": "2026-10-25T12:07:30.175313+00:00",
   "35d6839372aefeaa": "2026-10-25T12:12:27.108523+00:00",
   "d23332fd91dfa654": "2026-10-25T12:17:30.448615+00:00",
   "df25ce69b219990f": "2026-10-25T12:27:30.602967+00:00",
@@ -7785,7 +7780,10 @@
   "51ab8e5a7709afeb": "2026-11-08T11:51:36.525332+00:00",
   "6ee170efd84932c0": "2026-11-08T12:01:35.743343+00:00",
   "69217f6ea7332e1e": "2026-11-08T12:01:35.743343+00:00",
-  "fb7d68a2be650eb2": "2026-11-08T12:06:38.488236+00:00"
+  "fb7d68a2be650eb2": "2026-11-08T12:06:38.488236+00:00",
+  "0eb58bd4dee7e1d9": "2026-11-08T12:11:34.500957+00:00",
+  "574bdbde8c31f64f": "2026-11-08T12:11:34.500957+00:00",
+  "54e09534d960c70e": "2026-11-08T12:11:34.500957+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8080,19 +8078,6 @@
    },
    "last": "2026-11-06T13:09:36.345391+00:00"
   },
-  "S5229": {
-   "title": "Rain threatens Interlagos and could upend the Brazilian GP",
-   "first": "2026-11-06T10:54:00.904434+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-06T10:42:45+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Nel mito di Senna, la pioggia minaccia Interlagos: ecco come il meteo può stravolgere il GP del Brasile"
-   },
-   "last": "2026-11-06T12:08:57.005818+00:00"
-  },
   "S5244": {
    "title": "Hamilton set to join exclusive F1 driver club in Brazil",
    "first": "2026-11-06T11:29:01.994416+00:00",
@@ -8120,19 +8105,6 @@
     "ESPN F1": "Former England and Wrexham defender Conor Coady announces retirement from football at 33"
    },
    "last": "2026-11-06T14:44:36.439163+00:00"
-  },
-  "S5251": {
-   "title": "Washington defense turnaround analysis",
-   "first": "2026-11-06T11:54:00.685302+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T10:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What turned around Washington's defense?"
-   },
-   "last": "2026-11-06T12:08:57.005811+00:00"
   },
   "S5253": {
    "title": "Live coverage of Brazilian GP FP1 session",
@@ -8173,32 +8145,6 @@
     "ESPN F1": "Inside LeBron's first game in Philly -- more than two decades ago"
    },
    "last": "2026-11-06T15:24:34.717399+00:00"
-  },
-  "S5257": {
-   "title": "Kompany close to full recovery after collapse",
-   "first": "2026-11-06T12:08:57.005783+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T12:01:26+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vincent Kompany: Bayern Munich boss close to 'full recovery' after collapse"
-   },
-   "last": "2026-11-06T12:08:57.005802+00:00"
-  },
-  "S5258": {
-   "title": "Motorsport-Total F1 Grand Prix reports index page",
-   "first": "2026-11-06T12:08:57.005822+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T11:09:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Formel-1-Grand-Prix-Berichte - Motorsport-Total.com"
-   },
-   "last": "2026-11-06T12:08:57.005827+00:00"
   },
   "S5259": {
    "title": "Aston Martin unhappy with Honda fix after Mexico power unit failures",
@@ -18791,9 +18737,48 @@
     "Formula 1": "Our Sao Paulo GP Bet Builder selections made"
    },
    "last": "2026-11-08T12:01:37.854850+00:00"
+  },
+  "S6031": {
+   "title": "Texas State 42-21 Oregon State college football recap",
+   "first": "2026-11-08T12:11:38.002704+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T08:03:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Texas State 42-21 Oregon State (Nov 7, 2026) Game Recap"
+   },
+   "last": "2026-11-08T12:11:38.002724+00:00"
+  },
+  "S6032": {
+   "title": "WEC Monza: Cadillac leads Genesis, two Ferraris penalised",
+   "first": "2026-11-08T12:11:38.002728+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T12:05:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Monza, 2a Ora: Cadillac davanti a Genesis, due Ferrari penalizzate"
+   },
+   "last": "2026-11-08T12:11:38.002733+00:00"
+  },
+  "S6033": {
+   "title": "Alonso's wet-weather Q3 record over last 15 qualifyings",
+   "first": "2026-11-08T12:11:38.002736+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-08T11:35:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Alonso mago della pioggia: in Q3 nelle ultime 15 qualifiche “bagnate”"
+   },
+   "last": "2026-11-08T12:11:38.002739+00:00"
   }
  },
- "story_seq": 6030,
+ "story_seq": 6033,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18912,7 +18897,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T12:06:38.488236+00:00",
+ "last_run": "2026-11-08T12:11:34.500957+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
