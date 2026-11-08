@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "32ff0937fbcecfc4": "2026-10-25T11:17:29.942365+00:00",
   "5d0a3f75bf5a123a": "2026-10-25T11:22:27.435441+00:00",
   "cbf5e9eced852898": "2026-10-25T11:22:27.435441+00:00",
   "52fce7479bb7b694": "2026-10-25T11:22:27.435441+00:00",
@@ -7793,7 +7792,9 @@
   "8a3bea7f831c379a": "2026-11-08T11:01:44.001671+00:00",
   "fe3562dbfdbb3a61": "2026-11-08T11:11:38.571985+00:00",
   "1eff924d966aec19": "2026-11-08T11:16:35.896809+00:00",
-  "e620bab2cec5e4aa": "2026-11-08T11:16:35.896809+00:00"
+  "e620bab2cec5e4aa": "2026-11-08T11:16:35.896809+00:00",
+  "00df916d288e83a7": "2026-11-08T11:21:35.796337+00:00",
+  "4a0e6d457ae7a396": "2026-11-08T11:21:35.796337+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7973,21 +7974,6 @@
    },
    "last": "2026-11-07T09:48:53.002761+00:00"
   },
-  "S5189": {
-   "title": "Cadillac F1 reportedly up for sale, threatening Horner return",
-   "first": "2026-11-06T07:58:59.162051+00:00",
-   "sources": {
-    "GPFans": "2026-11-06T07:58:00+00:00",
-    "GPblog": "2026-11-06T11:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner F1 return under threat from FSG",
-    "GPblog": "Liverpool owners in talks to buy Cadillac F1 team as $3bn sale emerges"
-   },
-   "last": "2026-11-06T11:19:01.584204+00:00"
-  },
   "S5195": {
    "title": "Bottas comments on Hamilton-Leclerc Ferrari tension",
    "first": "2026-11-06T08:49:08.366473+00:00",
@@ -8162,32 +8148,6 @@
     "RacingNews365 NL": "F1-baas houdt slag om de arm rond GP Qatar en Abu Dhabi"
    },
    "last": "2026-11-06T11:58:56.599896+00:00"
-  },
-  "S5236": {
-   "title": "Dolphins coach Hafley brings familiarity with Lions",
-   "first": "2026-11-06T11:19:01.584160+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T11:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dolphins coach Hafley brings familiarity with Lions"
-   },
-   "last": "2026-11-06T11:19:01.584178+00:00"
-  },
-  "S5237": {
-   "title": "WEC Monza practice: Alpine leads Ferrari in rain",
-   "first": "2026-11-06T11:19:01.584184+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-06T11:16:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "WEC | Monza, Libere 1: Alpine davanti a Ferrari ed Aston Martin sul bagnato"
-   },
-   "last": "2026-11-06T11:19:01.584198+00:00"
   },
   "S5238": {
    "title": "Jannik Sinner replaces Darren Cahill with Magnus Norman on coaching team",
@@ -18953,9 +18913,35 @@
     "GPblog": "Palmer 'sad' at F1 engine penalties as Verstappen and Hamilton start from the back in Brazil"
    },
    "last": "2026-11-08T11:16:39.365128+00:00"
+  },
+  "S6023": {
+   "title": "Russell calls for Mercedes talks after Sao Paulo miscommunication",
+   "first": "2026-11-08T11:21:39.467737+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-08T11:14:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "George Russell calls for Mercedes talks after vital Sao Paulo ‘miscommunication’"
+   },
+   "last": "2026-11-08T11:21:39.467754+00:00"
+  },
+  "S6024": {
+   "title": "Data analysis of cost of Russell's aborted Q3 lap",
+   "first": "2026-11-08T11:21:39.467758+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-08T11:17:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Cost of George Russell’s aborted Q3 lap laid bare in São Paulo data"
+   },
+   "last": "2026-11-08T11:21:39.467762+00:00"
   }
  },
- "story_seq": 6022,
+ "story_seq": 6024,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19074,7 +19060,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T11:16:35.896809+00:00",
+ "last_run": "2026-11-08T11:21:35.796337+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20719,6 +20705,16 @@
    "t": "2026-11-08T11:16:47.386793+00:00",
    "title": "Palmer, Brezilya'da ızgara cezalarından üzgün; Verstappen ve Hamilton geriden başlayacak",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T11:21:46.498957+00:00",
+   "title": "Russell, Sao Paulo'da pole kaçırdığı 'iletişim hatası' sonrası Mercedes ile görüşmek istiyor",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-08T11:21:48.052985+00:00",
+   "title": "Russell'ın São Paulo'da yarıda kalan Q3 turunun maliyeti ortaya çıktı",
+   "source": "PlanetF1"
   }
  ]
 }
