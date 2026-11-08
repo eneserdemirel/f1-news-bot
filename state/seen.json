@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ffe764f521d2874f": "2026-10-25T05:06:48.821850+00:00",
   "9382cd592b9a470a": "2026-10-25T05:11:50.590136+00:00",
   "726ad1b0ef016073": "2026-10-25T05:11:50.590136+00:00",
   "02f24b81320f05e9": "2026-10-25T05:11:50.590136+00:00",
@@ -7784,7 +7783,19 @@
   "ba7aea0a31c08889": "2026-11-08T04:56:05.846126+00:00",
   "53fa72730a7db775": "2026-11-08T04:56:05.846126+00:00",
   "b6ad1696d6f0555d": "2026-11-08T05:01:04.461107+00:00",
-  "5baa79226a3dc0d3": "2026-11-08T05:06:06.562765+00:00"
+  "5baa79226a3dc0d3": "2026-11-08T05:06:06.562765+00:00",
+  "00028f973d74c2ad": "2026-11-08T05:11:04.863754+00:00",
+  "c33cd92e701c32e5": "2026-11-08T05:11:04.863754+00:00",
+  "aef3b075ab9b9dc5": "2026-11-08T05:11:04.863754+00:00",
+  "1f909dab910b9d9a": "2026-11-08T05:11:04.863754+00:00",
+  "8bdeafce11a4a902": "2026-11-08T05:11:04.863754+00:00",
+  "0640719878b38af5": "2026-11-08T05:11:04.863754+00:00",
+  "413b37d544cb10aa": "2026-11-08T05:11:04.863754+00:00",
+  "bc67dc3c58dab6ff": "2026-11-08T05:11:04.863754+00:00",
+  "042e94ba1de368af": "2026-11-08T05:11:04.863754+00:00",
+  "59fcca76b9141024": "2026-11-08T05:11:04.863754+00:00",
+  "3bcfdcf17cdc85ef": "2026-11-08T05:11:04.863754+00:00",
+  "f007a0e82f4055b2": "2026-11-08T05:11:04.863754+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8058,19 +8069,6 @@
    },
    "last": "2026-11-06T05:18:15.181778+00:00"
   },
-  "S5140": {
-   "title": "Rangers 3-2 Flyers game recap (NHL)",
-   "first": "2026-11-06T02:58:14.224877+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T02:51:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rangers 3-2 Flyers (6 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-06T05:08:15.070784+00:00"
-  },
   "S5149": {
    "title": "Canadiens 5-4 Mammoth NHL game recap",
    "first": "2026-11-06T03:28:13.797249+00:00",
@@ -8122,19 +8120,6 @@
     "ESPN F1": "New Hampshire 66-55 Rider (Nov 5, 2026) Game Recap"
    },
    "last": "2026-11-06T09:08:59.034935+00:00"
-  },
-  "S5167": {
-   "title": "Hope Munson scores in the 37th minute",
-   "first": "2026-11-06T05:08:15.070793+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T00:06:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hope Munson scores in the 37'"
-   },
-   "last": "2026-11-06T05:08:15.070799+00:00"
   },
   "S5168": {
    "title": "LSU women's basketball beats Texas Southern 131-22",
@@ -18084,14 +18069,14 @@
    "title": "Cheavon Clarke upsets Chris Billam-Smith with 7th-round stoppage",
    "first": "2026-11-08T00:25:33.913465+00:00",
    "sources": {
-    "ESPN F1": "2026-11-08T00:24:44+00:00"
+    "ESPN F1": "2026-11-08T00:06:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Cheavon Clarke upsets Chris Billam-Smith with 7th-round stoppage"
    },
-   "last": "2026-11-08T00:25:33.913486+00:00"
+   "last": "2026-11-08T05:11:06.640049+00:00"
   },
   "S5889": {
    "title": "Donovyn Omolo 28-yard rushing touchdown in college football",
@@ -18898,9 +18883,35 @@
     "RacingNews365": "2026 F1 Sao Paulo Grand Prix - Brazil start time today"
    },
    "last": "2026-11-08T05:06:08.235401+00:00"
+  },
+  "S5951": {
+   "title": "UFC Fight Night Cortes Acosta vs. Walker live coverage",
+   "first": "2026-11-08T05:11:06.640012+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T03:10:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UFC Fight Night: Cortes Acosta vs. Walker Live Fight Coverage"
+   },
+   "last": "2026-11-08T05:11:06.640030+00:00"
+  },
+  "S5952": {
+   "title": "Messi becomes first back-to-back MLS Golden Boot winner",
+   "first": "2026-11-08T05:11:06.640035+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T02:15:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lionel Messi makes history as 1st back-to-back MLS Golden Boot winner"
+   },
+   "last": "2026-11-08T05:11:06.640041+00:00"
   }
  },
- "story_seq": 5950,
+ "story_seq": 5952,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19019,7 +19030,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T05:06:06.562765+00:00",
+ "last_run": "2026-11-08T05:11:04.863754+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
