@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "83692f64044b9f45": "2026-10-25T20:33:50.934942+00:00",
   "e9e9716e844833bc": "2026-10-25T20:38:46.979724+00:00",
   "42f9ead9b74dfe0d": "2026-10-25T20:43:49.586112+00:00",
   "b71268845d645cd5": "2026-10-25T20:43:49.586112+00:00",
@@ -7858,7 +7857,12 @@
   "513aacaf470e8a92": "2026-11-08T20:33:13.278556+00:00",
   "1718147bf6a7bfa6": "2026-11-08T20:33:13.278556+00:00",
   "e9f88de9d5e1b132": "2026-11-08T20:33:13.278556+00:00",
-  "4dcf0280c36c7441": "2026-11-08T20:33:13.278556+00:00"
+  "4dcf0280c36c7441": "2026-11-08T20:33:13.278556+00:00",
+  "6edfa83b9be83c80": "2026-11-08T20:38:11.475972+00:00",
+  "b85b2fb4ceb2e5cb": "2026-11-08T20:38:11.475972+00:00",
+  "4a60456d6970fed3": "2026-11-08T20:38:11.475972+00:00",
+  "02a9f3b218219f4f": "2026-11-08T20:38:11.475972+00:00",
+  "587623f5a4ad5367": "2026-11-08T20:38:11.475972+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8167,71 +8171,6 @@
    },
    "last": "2026-11-06T20:50:24.396898+00:00"
   },
-  "S5418": {
-   "title": "Komatsu explains why fast-tracking Camara was a tough decision",
-   "first": "2026-11-06T20:35:23.863308+00:00",
-   "sources": {
-    "Formula 1": "2026-11-06T20:35:23.863324+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Komatsu on why fast-tracking Camara was a ‘tough decision’"
-   },
-   "last": "2026-11-06T20:35:23.863328+00:00"
-  },
-  "S5419": {
-   "title": "Bristol Rovers vs. Cambridge live score",
-   "first": "2026-11-06T20:35:23.863334+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T20:32:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bristol Rovers vs. Cambridge (6 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-06T20:35:23.863340+00:00"
-  },
-  "S5420": {
-   "title": "Venezia vs. Udinese live score",
-   "first": "2026-11-06T20:35:23.863344+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T20:32:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Venezia vs. Udinese (6 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-06T20:35:23.863349+00:00"
-  },
-  "S5421": {
-   "title": "Raith vs. Dunfermline live score",
-   "first": "2026-11-06T20:35:23.863352+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T20:32:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Raith vs. Dunfermline (6 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-06T20:35:23.863357+00:00"
-  },
-  "S5422": {
-   "title": "Standard Liege vs. Waasland-Beveren team stats",
-   "first": "2026-11-06T20:35:23.863360+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T20:32:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Standard Liege vs. Waasland-Beveren (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T20:35:23.863364+00:00"
-  },
   "S5423": {
    "title": "Liam Lawson backed for new F1 option if Racing Bulls drop him",
    "first": "2026-11-06T20:35:23.863367+00:00",
@@ -8259,19 +8198,6 @@
     "GPblog": "Verstappen talks to his clutch in hilarious conversation: 'Otherwise, you’ll be punished!'"
    },
    "last": "2026-11-07T09:58:49.006892+00:00"
-  },
-  "S5425": {
-   "title": "Brundle scrutinises Lawson's F1 future and Red Bull stance",
-   "first": "2026-11-06T20:35:23.863381+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-06T20:32:16+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Liam Lawson ‘pathetic and childish’ F1 future theory under Brundle scrutiny"
-   },
-   "last": "2026-11-06T20:35:23.863385+00:00"
   },
   "S5426": {
    "title": "Derby vs. Bolton team stats (football)",
@@ -18656,17 +18582,71 @@
    "title": "Hamilton says missed Ferrari pit return was his decision",
    "first": "2026-11-08T20:33:19.090692+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-08T20:14:37+00:00"
+    "FormulaPassion": "2026-11-08T20:14:37+00:00",
+    "Crash.net": "2026-11-08T20:35:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Hamilton scioglie ogni dubbio: “Mancato rientro? Decisione mia. Ma mi hanno chiamato all’ultima curva…”"
+    "FormulaPassion": "Hamilton scioglie ogni dubbio: “Mancato rientro? Decisione mia. Ma mi hanno chiamato all’ultima curva…”",
+    "Crash.net": "Lewis Hamilton reveals Ferrari radio confusion behind costly Brazil GP mistake"
    },
-   "last": "2026-11-08T20:33:19.090696+00:00"
+   "last": "2026-11-08T20:38:17.906702+00:00"
+  },
+  "S6184": {
+   "title": "Fairfield Stags vs Bryant Bulldogs college basketball highlights",
+   "first": "2026-11-08T20:38:17.906660+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T20:04:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fairfield Stags vs. Bryant Bulldogs: Game Highlights"
+   },
+   "last": "2026-11-08T20:38:17.906680+00:00"
+  },
+  "S6185": {
+   "title": "Leclerc says first stint on intermediates was horrible",
+   "first": "2026-11-08T20:38:17.906685+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T20:31:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Leclerc: \"Il primo stint è stato orribile, poi il passo era buono. Per noi così è un terno al lotto\""
+   },
+   "last": "2026-11-08T20:38:17.906690+00:00"
+  },
+  "S6186": {
+   "title": "Verstappen credits rain overtaking trick for Brazil comeback",
+   "first": "2026-11-08T20:38:17.906693+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T20:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen wijst naar doorslaggevende factor in regenachtig Brazilië"
+   },
+   "last": "2026-11-08T20:38:17.906697+00:00"
+  },
+  "S6187": {
+   "title": "Gazzetta race highlights recap with Russell spin and Norris win",
+   "first": "2026-11-08T20:38:17.906705+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-08T19:58:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "F1, GP Brasile highlights: Russell si gira in pit lane e alla fine vince Norris"
+   },
+   "last": "2026-11-08T20:38:17.906709+00:00"
   }
  },
- "story_seq": 6183,
+ "story_seq": 6187,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18785,22 +18765,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T20:33:13.278556+00:00",
+ "last_run": "2026-11-08T20:38:11.475972+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T20:35:36.002100+00:00",
-   "title": "Russell, Meksika'daki kötü yarışın ardından yorgunluğunu dile getirdi",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-05T20:35:36.477417+00:00",
-   "title": "Antonelli Interlagos'a hazır: \"Aklımda hiçbir şey yok, kazanmaya devam etmek istiyorum\"",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-05T20:45:31.665417+00:00",
    "title": "F1 2026 São Paulo Grand Prix perşembe basın toplantısı yapıldı",
@@ -20380,6 +20350,16 @@
    "t": "2026-11-08T20:33:24.378364+00:00",
    "title": "Leclerc: Yağmurlu koşullarda dokuz yıldır işler bizden yana gitmiyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-08T20:38:24.606252+00:00",
+   "title": "Leclerc: İlk stint korkunçtu, sonra tempo iyiydi; yağmurda bizim için şans oyunu",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-08T20:38:25.117124+00:00",
+   "title": "Verstappen, yağmurlu Brezilya'da başarının ardındaki etkeni açıkladı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
