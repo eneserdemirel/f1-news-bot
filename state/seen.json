@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b56d842704fc3c05": "2026-10-25T15:53:05.727918+00:00",
   "98f254260f9657d2": "2026-10-25T15:58:07.069716+00:00",
   "df0a81ac037e2299": "2026-10-25T15:58:07.069716+00:00",
   "6d8121040a0a2b2e": "2026-10-25T16:03:13.579041+00:00",
@@ -7800,7 +7799,12 @@
   "e1add7cde2eb2654": "2026-11-08T15:42:26.640169+00:00",
   "a41a1865f72ee30b": "2026-11-08T15:42:26.640169+00:00",
   "10924b2750bb0d3c": "2026-11-08T15:42:26.640169+00:00",
-  "1c2709c2393e8a95": "2026-11-08T15:47:24.815587+00:00"
+  "1c2709c2393e8a95": "2026-11-08T15:47:24.815587+00:00",
+  "953a961920b7055b": "2026-11-08T15:57:24.876421+00:00",
+  "753eadc1ae8ad350": "2026-11-08T15:57:24.876421+00:00",
+  "8c3ab62a765bce4d": "2026-11-08T15:57:24.876421+00:00",
+  "ca4f981c11947605": "2026-11-08T15:57:24.876421+00:00",
+  "867076dfced040d6": "2026-11-08T15:57:24.876421+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8127,45 +8131,6 @@
     "GPblog": "Antonelli reveals what he did with iconic Hamilton-Verstappen photo"
    },
    "last": "2026-11-06T20:00:43.923779+00:00"
-  },
-  "S5321": {
-   "title": "FIFA chief legal officer steps down in second exit",
-   "first": "2026-11-06T15:54:36.644721+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T15:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "FIFA's chief legal officer steps down in second high-profile exit"
-   },
-   "last": "2026-11-06T15:54:36.644737+00:00"
-  },
-  "S5322": {
-   "title": "Moto2 Qatar practice results with title rivals close",
-   "first": "2026-11-06T15:54:36.644743+00:00",
-   "sources": {
-    "GPblog": "2026-11-06T15:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Qatar GP full Moto2 Practice results: Title rivals inseparable"
-   },
-   "last": "2026-11-06T15:54:36.644749+00:00"
-  },
-  "S5323": {
-   "title": "Honda takes immediate action on F1 power unit after Aston Martin problems",
-   "first": "2026-11-06T15:54:36.644754+00:00",
-   "sources": {
-    "GPFans": "2026-11-06T15:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Honda take immediate action on F1 power unit after Aston Martin disaster"
-   },
-   "last": "2026-11-06T15:54:36.644759+00:00"
   },
   "S5324": {
    "title": "Shedeur Sanders' Week 9 NFL start discussed by Stephen A.",
@@ -17758,16 +17723,18 @@
    "sources": {
     "FormulaPassion": "2026-11-08T11:00:00+00:00",
     "Sky Sports F1": "2026-11-08T15:20:00+00:00",
-    "Corriere dello Sport": "2026-11-08T15:40:40+00:00"
+    "Corriere dello Sport": "2026-11-08T15:40:40+00:00",
+    "RacingNews365": "2026-11-08T15:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "F1 GP Brasile 2026, gara: Norris davanti ad Antonelli, le Ferrari e Max cercano la rimonta. Partenza alle 18.00 – DIRETTA",
     "Sky Sports F1": "Sao Paulo GP: Norris on pole as rain arrives with Hamilton and Verstappen at back LIVE!",
-    "Corriere dello Sport": "GP Brasile diretta F1: segui la gara ad Interlagos di Hamilton e Leclerc LIVE"
+    "Corriere dello Sport": "GP Brasile diretta F1: segui la gara ad Interlagos di Hamilton e Leclerc LIVE",
+    "RacingNews365": "LIVE: 2026 F1 Sao Paulo Grand Prix - Brazil"
    },
-   "last": "2026-11-08T15:42:31.633210+00:00"
+   "last": "2026-11-08T15:57:30.421110+00:00"
   },
   "S6020": {
    "title": "Weekly New England Patriots notes on trade deadline",
@@ -18409,14 +18376,16 @@
    "title": "Two more F1 drivers receive grid penalties for Sao Paulo GP",
    "first": "2026-11-08T14:52:24.089943+00:00",
    "sources": {
-    "RacingNews365": "2026-11-08T14:45:00+00:00"
+    "RacingNews365": "2026-11-08T14:45:00+00:00",
+    "PlanetF1": "2026-11-08T15:54:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Two further F1 drivers handed grid penalties in crazy Sao Paulo GP grid"
+    "RacingNews365": "Two further F1 drivers handed grid penalties in crazy Sao Paulo GP grid",
+    "PlanetF1": "FIA confirms yet more Brazilian GP penalties ahead of Grand Prix"
    },
-   "last": "2026-11-08T14:52:24.089961+00:00"
+   "last": "2026-11-08T15:57:30.421116+00:00"
   },
   "S6069": {
    "title": "Vasseur revealed to have funded Ocon's 2016 Manor debut",
@@ -18599,9 +18568,48 @@
     "Motorsport Week": "Liam Lawson airs disappointment despite superb Sao Paulo qualifying result"
    },
    "last": "2026-11-08T15:47:27.635450+00:00"
+  },
+  "S6083": {
+   "title": "Michael Penix Jr. gives Falcons early lead in Madrid",
+   "first": "2026-11-08T15:57:30.421072+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T14:51:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Penix Jr. finds Charlie Woerner to give the Falcons an early lead in Madrid"
+   },
+   "last": "2026-11-08T15:57:30.421091+00:00"
+  },
+  "S6084": {
+   "title": "J.J. McCarthy impressing Giants after early concerns",
+   "first": "2026-11-08T15:57:30.421097+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T13:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "J.J. McCarthy wowing Giants after initial concerns over QB's 'maturity,' VP says"
+   },
+   "last": "2026-11-08T15:57:30.421103+00:00"
+  },
+  "S6085": {
+   "title": "F1 Driver of the Day voting explained for Brazilian GP",
+   "first": "2026-11-08T15:57:30.421119+00:00",
+   "sources": {
+    "GPFans": "2026-11-08T15:57:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Driver Of The Day: How it works and how to vote for the Brazilian Grand Prix"
+   },
+   "last": "2026-11-08T15:57:30.421123+00:00"
   }
  },
- "story_seq": 6082,
+ "story_seq": 6085,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18720,7 +18728,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T15:52:21.079023+00:00",
+ "last_run": "2026-11-08T15:57:24.876421+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
