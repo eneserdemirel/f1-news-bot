@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fcfd43a90581a7d4": "2026-10-25T19:38:43.096875+00:00",
-  "dc8c0e8233704c58": "2026-10-25T19:38:43.096875+00:00",
   "4ddd9c398c9f3cba": "2026-10-25T19:43:48.354955+00:00",
   "fd424e687352428a": "2026-10-25T19:43:48.354955+00:00",
   "f7ab59c3dc54f485": "2026-10-25T19:43:48.354955+00:00",
@@ -7830,7 +7828,11 @@
   "f1e0dce475319516": "2026-11-08T19:33:10.828825+00:00",
   "c86df9ff09dfbe33": "2026-11-08T19:38:15.780441+00:00",
   "701b8ff2977dfb22": "2026-11-08T19:38:15.780441+00:00",
-  "163c876ac3ca560a": "2026-11-08T19:38:15.780441+00:00"
+  "163c876ac3ca560a": "2026-11-08T19:38:15.780441+00:00",
+  "95d77ce189f35c3d": "2026-11-08T19:43:11.335346+00:00",
+  "a159ec9e56d023bc": "2026-11-08T19:43:11.335346+00:00",
+  "3af39be2f1f985b0": "2026-11-08T19:43:11.335346+00:00",
+  "dcc8f880b46bc3d9": "2026-11-08T19:43:11.335346+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8208,58 +8210,6 @@
     "ESPN F1": "Balagne vs. Montpellier (Nov 14, 2026) Live Score"
    },
    "last": "2026-11-06T23:10:17.869449+00:00"
-  },
-  "S5399": {
-   "title": "Dunkerque vs. Guingamp live score",
-   "first": "2026-11-06T19:40:17.818160+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T19:34:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dunkerque vs. Guingamp (6 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-06T19:40:17.818179+00:00"
-  },
-  "S5400": {
-   "title": "Willem II vs. PEC Zwolle team stats",
-   "first": "2026-11-06T19:40:17.818185+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T19:34:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Willem II vs. PEC Zwolle (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T19:40:17.818190+00:00"
-  },
-  "S5401": {
-   "title": "Nancy vs. Sochaux team stats",
-   "first": "2026-11-06T19:40:17.818195+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T19:34:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nancy vs. Sochaux (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T19:40:17.818199+00:00"
-  },
-  "S5402": {
-   "title": "Jong AZ vs. Almere City team stats",
-   "first": "2026-11-06T19:40:17.818203+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T19:34:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jong AZ vs. Almere City (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T19:40:17.818206+00:00"
   },
   "S5403": {
    "title": "Gladbach vs Dortmund odds and spread (betting, not F1)",
@@ -18321,16 +18271,18 @@
    "sources": {
     "GPblog": "2026-11-08T18:52:00+00:00",
     "PlanetF1": "2026-11-08T19:13:40+00:00",
-    "RacingNews365 NL": "2026-11-08T19:26:00+00:00"
+    "RacingNews365 NL": "2026-11-08T19:26:00+00:00",
+    "RacingNews365": "2026-11-08T19:36:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Antonelli's Brazil GP result hangs in the balance as FIA launch investigation",
     "PlanetF1": "Kimi Antonelli under threat as FIA launches Brazilian GP investigation",
-    "RacingNews365 NL": "Stewards roepen meerdere coureurs op het matje na GP Brazilië"
+    "RacingNews365 NL": "Stewards roepen meerdere coureurs op het matje na GP Brazilië",
+    "RacingNews365": "Kimi Antonelli among F1 drivers summoned to stewards after Sao Paulo GP"
    },
-   "last": "2026-11-08T19:33:17.912340+00:00"
+   "last": "2026-11-08T19:43:16.761747+00:00"
   },
   "S6136": {
    "title": "Thunder acquire Nique Clifford from Kings in trade",
@@ -18552,14 +18504,16 @@
    "title": "Wolff reacts to Mercedes nine-time constructors' title",
    "first": "2026-11-08T19:33:17.912329+00:00",
    "sources": {
-    "RacingNews365": "2026-11-08T19:26:00+00:00"
+    "RacingNews365": "2026-11-08T19:26:00+00:00",
+    "Crash.net": "2026-11-08T19:38:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Toto Wolff responds to matching F1 icon feat: 'Never thought it possible'"
+    "RacingNews365": "Toto Wolff responds to matching F1 icon feat: 'Never thought it possible'",
+    "Crash.net": "Toto Wolff's first words as Mercedes seal constructors’ F1 title"
    },
-   "last": "2026-11-08T19:33:17.912334+00:00"
+   "last": "2026-11-08T19:43:16.761770+00:00"
   },
   "S6153": {
    "title": "Norris, Verstappen and Hadjar react to Brazil GP result",
@@ -18599,9 +18553,22 @@
     "ESPN F1": "Man Utd 4-4 Aston Villa (Nov 8, 2026) Final Score"
    },
    "last": "2026-11-08T19:38:18.876858+00:00"
+  },
+  "S6156": {
+   "title": "FIA investigation into Leclerc and Lawson at Brazilian GP",
+   "first": "2026-11-08T19:43:16.761757+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-08T19:40:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA launches Charles Leclerc and Liam Lawson investigation at Brazilian GP"
+   },
+   "last": "2026-11-08T19:43:16.761764+00:00"
   }
  },
- "story_seq": 6155,
+ "story_seq": 6156,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18720,7 +18687,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T19:38:15.780441+00:00",
+ "last_run": "2026-11-08T19:43:11.335346+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20285,6 +20252,11 @@
    "t": "2026-11-08T19:33:30.954082+00:00",
    "title": "GP Brezilya sonrası stewardlar birkaç pilotu sorguya çağırdı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T19:43:20.467651+00:00",
+   "title": "FIA, Brezilya GP'de Leclerc ve Lawson'ı soruşturuyor",
+   "source": "PlanetF1"
   }
  ]
 }
