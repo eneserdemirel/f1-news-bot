@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "732ac2746bb50647": "2026-10-25T18:13:09.530774+00:00",
   "04b5c378431aa742": "2026-10-25T18:18:11.654908+00:00",
   "456af41c8718ef29": "2026-10-25T18:18:11.654908+00:00",
   "16a14222d4947695": "2026-10-25T18:18:11.654908+00:00",
@@ -7789,7 +7788,10 @@
   "ad4b85fe85b65ad9": "2026-11-08T18:02:30.059383+00:00",
   "7a4f68a78bd4923a": "2026-11-08T18:02:30.059383+00:00",
   "3269592f8652c7cf": "2026-11-08T18:08:11.216175+00:00",
-  "30af29e771d85e4b": "2026-11-08T18:08:11.216175+00:00"
+  "30af29e771d85e4b": "2026-11-08T18:08:11.216175+00:00",
+  "0459d6bde6a8ecf1": "2026-11-08T18:13:13.537132+00:00",
+  "ef23eed8280a7007": "2026-11-08T18:13:13.537132+00:00",
+  "c3acdee5ad38e762": "2026-11-08T18:13:13.537132+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8188,45 +8190,6 @@
     "GPFans": "Ferrari chief breaks silence on Lewis Hamilton and Charles Leclerc crisis talks"
    },
    "last": "2026-11-07T10:59:22.634262+00:00"
-  },
-  "S5366": {
-   "title": "Bottas insists Cadillac seat is safe despite axe rumours",
-   "first": "2026-11-06T18:09:38.614671+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-06T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Valtteri Bottas insists Cadillac seat safe despite growing F1 axe rumours"
-   },
-   "last": "2026-11-06T18:09:38.614688+00:00"
-  },
-  "S5367": {
-   "title": "Rosberg criticises Ferrari's handling of Hamilton and Leclerc",
-   "first": "2026-11-06T18:09:38.614701+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T18:02:59+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Rosberg kritisiert Ferrari im Umgang mit Hamilton und Leclerc - Motorsport-Total.com"
-   },
-   "last": "2026-11-06T18:09:38.614706+00:00"
-  },
-  "S5368": {
-   "title": "Illinois player reacts to Caitlin Clark watching game",
-   "first": "2026-11-06T18:10:19.422676+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T14:32:02+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'Yoooooo!' Illinois player can't believe Caitlin Clark was watching game"
-   },
-   "last": "2026-11-06T18:10:19.422696+00:00"
   },
   "S5369": {
    "title": "Mohammed Shami retires from Test cricket",
@@ -18546,9 +18509,48 @@
     "RacingNews365 NL": "Boordradio Verstappen onthult probleem: \"Hoe kon dat gebeuren?\""
    },
    "last": "2026-11-08T18:08:14.224008+00:00"
+  },
+  "S6124": {
+   "title": "Purdue fires defensive coordinator Kevin Kane",
+   "first": "2026-11-08T18:13:17.755346+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T18:11:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Purdue fires DC Kevin Kane after allowing 27 second-half points vs. Maryland"
+   },
+   "last": "2026-11-08T18:13:17.755364+00:00"
+  },
+  "S6125": {
+   "title": "Bengals beat Falcons 34-17 in Week 10 game recap",
+   "first": "2026-11-08T18:13:17.755370+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T17:39:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bengals 34-17 Falcons (Nov 8, 2026) Game Recap"
+   },
+   "last": "2026-11-08T18:13:17.755374+00:00"
+  },
+  "S6126": {
+   "title": "Hadjar asks Red Bull to let him pass Verstappen again",
+   "first": "2026-11-08T18:13:17.755378+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T18:12:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hadjar asks Red Bull to let him pass Verstappen again after team orders"
+   },
+   "last": "2026-11-08T18:13:17.755382+00:00"
   }
  },
- "story_seq": 6123,
+ "story_seq": 6126,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18667,7 +18669,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T18:08:11.216175+00:00",
+ "last_run": "2026-11-08T18:13:13.537132+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
@@ -20232,6 +20234,11 @@
    "t": "2026-11-08T18:08:20.280223+00:00",
    "title": "Lance Stroll, 13. kez yarışı tamamlayamadı; tüm zamanların rekoruna yaklaşıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-08T18:13:23.223174+00:00",
+   "title": "Hadjar, takım emirlerinin ardından Verstappen'i yeniden geçmek istedi",
+   "source": "GPblog"
   }
  ]
 }
