@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fa72395bf1be0ba4": "2026-10-25T21:28:47.621299+00:00",
-  "f3132ea9f8564a9a": "2026-10-25T21:28:47.621299+00:00",
-  "4b7f20259198e175": "2026-10-25T21:28:47.621299+00:00",
-  "1c693c7b84008f9f": "2026-10-25T21:28:47.621299+00:00",
   "941a641f57877cca": "2026-10-25T21:33:45.231002+00:00",
   "a7671ff3b8648a0a": "2026-10-25T21:33:45.231002+00:00",
   "3f9a1ecbe22d5c62": "2026-10-25T21:38:45.275748+00:00",
@@ -7883,7 +7879,11 @@
   "3c0e457558aa24de": "2026-11-08T21:23:10.807749+00:00",
   "3f7fbdc3c3dc85fa": "2026-11-08T21:28:14.908272+00:00",
   "96033cf4d878d34f": "2026-11-08T21:28:14.908272+00:00",
-  "932d0d5bb6f99a92": "2026-11-08T21:28:14.908272+00:00"
+  "932d0d5bb6f99a92": "2026-11-08T21:28:14.908272+00:00",
+  "705aa253e60652f7": "2026-11-08T21:33:11.047788+00:00",
+  "3cc68c00326befcb": "2026-11-08T21:33:11.047788+00:00",
+  "6a6b1e64d1eace7d": "2026-11-08T21:33:11.047788+00:00",
+  "6e2529d17c747190": "2026-11-08T21:33:11.047788+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8248,45 +8248,6 @@
     "Gazzetta dello Sport": "F1, GP Brasile: highlights prove libere. Antonelli e Norris si dividono le sessioni"
    },
    "last": "2026-11-06T22:45:28.722459+00:00"
-  },
-  "S5443": {
-   "title": "Crystal Palace vs Liverpool TV channel and kick-off time",
-   "first": "2026-11-06T21:30:19.222314+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T21:29:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Crystal Palace vs. Liverpool: TV channel, kick-off time (Sun Nov 8)"
-   },
-   "last": "2026-11-06T21:30:19.222332+00:00"
-  },
-  "S5444": {
-   "title": "Valencia vs Real Madrid TV channel and kick-off time",
-   "first": "2026-11-06T21:30:19.222338+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T21:29:07+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Valencia vs. Real Madrid: TV channel, kick-off time (Sat Nov 7)"
-   },
-   "last": "2026-11-06T21:30:19.222343+00:00"
-  },
-  "S5445": {
-   "title": "Rosberg recalls only food he could eat before 2016 title",
-   "first": "2026-11-06T21:30:19.222347+00:00",
-   "sources": {
-    "GPFans": "2026-11-06T21:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Nico Rosberg reveals only food he could eat before Lewis Hamilton F1 title showdown: 'It's not healthy'"
-   },
-   "last": "2026-11-06T21:30:19.222352+00:00"
   },
   "S5446": {
    "title": "Antonelli says good feelings and pole chances after FP2 lead",
@@ -18041,15 +18002,19 @@
    "first": "2026-11-08T19:43:16.761757+00:00",
    "sources": {
     "PlanetF1": "2026-11-08T19:40:28+00:00",
-    "Crash.net": "2026-11-08T21:27:22+00:00"
+    "Crash.net": "2026-11-08T21:27:22+00:00",
+    "RacingNews365": "2026-11-08T21:28:00+00:00",
+    "GPblog": "2026-11-08T21:31:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "FIA launches Charles Leclerc and Liam Lawson investigation at Brazilian GP",
-    "Crash.net": "Charles Leclerc hit with Brazil GP penalty for Liam Lawson collision"
+    "Crash.net": "Charles Leclerc hit with Brazil GP penalty for Liam Lawson collision",
+    "RacingNews365": "2026 F1 Sao Paulo Grand Prix results adjusted after Ferrari time penalty",
+    "GPblog": "FIA delivers double penalty following Brazilian GP investigations"
    },
-   "last": "2026-11-08T21:28:18.134848+00:00"
+   "last": "2026-11-08T21:33:18.074111+00:00"
   },
   "S6157": {
    "title": "Man United relegation risk after poor starts",
@@ -18755,9 +18720,35 @@
     "ESPN F1": "Gary Neville on Michael Carrick's Man United future: 'Ownership don't have a clue'"
    },
    "last": "2026-11-08T21:23:16.736118+00:00"
+  },
+  "S6210": {
+   "title": "Russell says he has no idea what caused pit-exit spin",
+   "first": "2026-11-08T21:33:18.074072+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T21:33:18.074087+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "'No idea what happened on that pit exit' spin – Russell"
+   },
+   "last": "2026-11-08T21:33:18.074090+00:00"
+  },
+  "S6211": {
+   "title": "Dutch report: stewards issue verdicts on three Brazil GP incidents",
+   "first": "2026-11-08T21:33:18.074103+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T21:24:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Stewards vellen oordeel over meerdere incidenten"
+   },
+   "last": "2026-11-08T21:33:18.074107+00:00"
   }
  },
- "story_seq": 6209,
+ "story_seq": 6211,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18876,7 +18867,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T21:28:14.908272+00:00",
+ "last_run": "2026-11-08T21:33:11.047788+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20451,6 +20442,21 @@
    "t": "2026-11-08T21:28:22.263139+00:00",
    "title": "Leclerc, Lawson ile temas nedeniyle Brezilya GP'de ceza aldı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-08T21:33:25.277549+00:00",
+   "title": "Stewards birden fazla olayda karar verdi, Leclerc'e ceza",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T21:33:25.741984+00:00",
+   "title": "FIA, Brezilya GP soruşturmaları sonrası Leclerc ve Bearman'a ceza verdi",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T21:33:26.210982+00:00",
+   "title": "Russell, pit çıkışındaki spin hakkında: \"Ne olduğuna dair hiçbir fikrim yok\"",
+   "source": "Formula 1"
   }
  ]
 }
