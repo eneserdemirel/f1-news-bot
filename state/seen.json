@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b21c5a688d1c3a95": "2026-10-25T11:57:30.501447+00:00",
   "6a6766fd656be89e": "2026-10-25T12:02:27.666675+00:00",
   "2a9d573568360112": "2026-10-25T12:07:30.175313+00:00",
   "90612ef73d3d7922": "2026-10-25T12:07:30.175313+00:00",
@@ -7784,7 +7783,9 @@
   "91d46472d8df0412": "2026-11-08T11:46:39.071742+00:00",
   "06daec5293a22e42": "2026-11-08T11:46:39.071742+00:00",
   "7c78e9f2eb31ec08": "2026-11-08T11:51:36.525332+00:00",
-  "51ab8e5a7709afeb": "2026-11-08T11:51:36.525332+00:00"
+  "51ab8e5a7709afeb": "2026-11-08T11:51:36.525332+00:00",
+  "6ee170efd84932c0": "2026-11-08T12:01:35.743343+00:00",
+  "69217f6ea7332e1e": "2026-11-08T12:01:35.743343+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8107,21 +8108,6 @@
    },
    "last": "2026-11-06T12:08:57.005818+00:00"
   },
-  "S5231": {
-   "title": "F1 boss gives cautious verdict on season-ending Middle East races",
-   "first": "2026-11-06T10:59:00.790834+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-06T10:55:00+00:00",
-    "RacingNews365 NL": "2026-11-06T11:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "F1 boss gives cautious 'at this stage' verdict on season-ending Middle East races",
-    "RacingNews365 NL": "F1-baas houdt slag om de arm rond GP Qatar en Abu Dhabi"
-   },
-   "last": "2026-11-06T11:58:56.599896+00:00"
-  },
   "S5244": {
    "title": "Hamilton set to join exclusive F1 driver club in Brazil",
    "first": "2026-11-06T11:29:01.994416+00:00",
@@ -8189,19 +8175,6 @@
     "Formula 1": "LIVE COVERAGE: First practice for the Sao Paulo GP"
    },
    "last": "2026-11-06T15:19:40.269563+00:00"
-  },
-  "S5254": {
-   "title": "The Race lists every 2026 rookie to drive in FP1",
-   "first": "2026-11-06T11:58:56.599870+00:00",
-   "sources": {
-    "The Race": "2026-11-06T10:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "The Race": "Every rookie to drive in FP1 in F1 2026"
-   },
-   "last": "2026-11-06T11:58:56.599888+00:00"
   },
   "S5255": {
    "title": "Retrospective on LeBron James' first game in Philadelphia",
@@ -18818,9 +18791,35 @@
     "Motorsport-Total": "Brasilien-Update bei McLaren: Teamchef Stella zieht positive Zwischenbilanz - Motorsport-Total.com"
    },
    "last": "2026-11-08T11:51:39.777419+00:00"
+  },
+  "S6029": {
+   "title": "Final Sao Paulo GP betting predictions and odds",
+   "first": "2026-11-08T12:01:37.854820+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T12:01:37.854838+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Our final Sao Paulo Grand Prix betting predictions"
+   },
+   "last": "2026-11-08T12:01:37.854842+00:00"
+  },
+  "S6030": {
+   "title": "Sao Paulo GP Bet Builder four-leg selections",
+   "first": "2026-11-08T12:01:37.854846+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T12:01:37.854848+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Our Sao Paulo GP Bet Builder selections made"
+   },
+   "last": "2026-11-08T12:01:37.854850+00:00"
   }
  },
- "story_seq": 6028,
+ "story_seq": 6030,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18939,11 +18938,11 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T11:56:36.536151+00:00",
+ "last_run": "2026-11-08T12:01:35.743343+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-07 22:00",
- "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
+ "last_digest_slot": "2026-11-08 15:00",
+ "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
   {
    "t": "2026-11-05T12:03:57.100273+00:00",
