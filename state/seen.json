@@ -7788,7 +7788,12 @@
   "70b38db6f92fb342": "2026-11-08T07:16:05.505748+00:00",
   "a1069cc1381afca4": "2026-11-08T07:16:05.505748+00:00",
   "438dca30676a0d2b": "2026-11-08T07:21:06.786809+00:00",
-  "a7241f3ff2b9d6a3": "2026-11-08T07:21:06.786809+00:00"
+  "a7241f3ff2b9d6a3": "2026-11-08T07:21:06.786809+00:00",
+  "0851e659c52f8f04": "2026-11-08T07:26:04.523780+00:00",
+  "36e34edd89932d27": "2026-11-08T07:26:04.523780+00:00",
+  "355938bd597f3c26": "2026-11-08T07:26:04.523780+00:00",
+  "4c55cac50978b247": "2026-11-08T07:26:04.523780+00:00",
+  "5577a99416063aed": "2026-11-08T07:26:04.523780+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18979,9 +18984,74 @@
     "ESPN F1": "UFC Fight Night: Adesanya vs Magomedov Live Fight Coverage"
    },
    "last": "2026-11-08T07:21:08.654028+00:00"
+  },
+  "S5976": {
+   "title": "Shuri Sakuma wins Japan Classic for first LPGA title",
+   "first": "2026-11-08T07:26:09.847613+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T07:24:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Shuri Sakuma cruises to 4-shot Japan Classic victory for first LPGA Tour title"
+   },
+   "last": "2026-11-08T07:26:09.847631+00:00"
+  },
+  "S5977": {
+   "title": "Knicks 109-97 Cavaliers game recap",
+   "first": "2026-11-08T07:26:09.847637+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T03:42:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Knicks 109-97 Cavaliers (Nov 7, 2026) Game Recap"
+   },
+   "last": "2026-11-08T07:26:09.847642+00:00"
+  },
+  "S5978": {
+   "title": "Explainer on why Verstappen starts ahead of Hamilton despite penalties",
+   "first": "2026-11-08T07:26:09.847646+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T07:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Gridstraffenbingo GP Brazilië: Waarom Hamilton voor Verstappen start ondanks dubbele straf"
+   },
+   "last": "2026-11-08T07:26:09.847651+00:00"
+  },
+  "S5979": {
+   "title": "Analysis of how Alonso reached Q3 in the rain",
+   "first": "2026-11-08T07:26:09.847655+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-08T07:24:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "How Fernando Alonso dragged the Aston Martin into Q3 in the rain at Interlagos"
+   },
+   "last": "2026-11-08T07:26:09.847659+00:00"
+  },
+  "S5980": {
+   "title": "Hülkenberg's 2010 Brazil P4 start recalled",
+   "first": "2026-11-08T07:26:09.847663+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T07:20:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Erinnerungen an 2010: Nico Hülkenberg in Brasilien auf P4 der Startaufstellung - Motorsport-Total.com"
+   },
+   "last": "2026-11-08T07:26:09.847666+00:00"
   }
  },
- "story_seq": 5975,
+ "story_seq": 5980,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19100,7 +19170,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T07:21:06.786809+00:00",
+ "last_run": "2026-11-08T07:26:04.523780+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20750,6 +20820,16 @@
    "t": "2026-11-08T07:16:17.542002+00:00",
    "title": "Antonelli: Ne bekleyeceğimi bilmiyordum, üçüncülük iyi",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-08T07:26:16.870480+00:00",
+   "title": "Brezilya GP'de Hamilton, Verstappen'in önünden start alacak",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T07:26:17.206154+00:00",
+   "title": "2010'da Hülkenberg Brezilya'da 4. sıradan başladı",
+   "source": "Motorsport-Total"
   }
  ]
 }
