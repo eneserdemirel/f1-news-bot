@@ -7807,7 +7807,10 @@
   "6fa988c8eda21d11": "2026-11-08T09:16:39.401754+00:00",
   "aae7d6b0371ec266": "2026-11-08T09:16:39.401754+00:00",
   "25ac27b525b12757": "2026-11-08T09:16:39.401754+00:00",
-  "a68cd524b642b51e": "2026-11-08T09:21:38.856729+00:00"
+  "a68cd524b642b51e": "2026-11-08T09:21:38.856729+00:00",
+  "b0032efa22a59532": "2026-11-08T09:26:37.089337+00:00",
+  "be5e6b16504bd0db": "2026-11-08T09:26:37.089337+00:00",
+  "576f4abf619782a5": "2026-11-08T09:26:37.089337+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16647,15 +16650,17 @@
    "first": "2026-11-07T21:50:44.729286+00:00",
    "sources": {
     "Crash.net": "2026-11-07T21:49:18+00:00",
-    "GPblog": "2026-11-08T06:01:00+00:00"
+    "GPblog": "2026-11-08T06:01:00+00:00",
+    "PlanetF1": "2026-11-08T09:22:54+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "George Russell explains “miscommunication” behind Brazil GP qualifying radio rage",
-    "GPblog": "Russell gives his side of the story after angry Brazilian GP radio outburst"
+    "GPblog": "Russell gives his side of the story after angry Brazilian GP radio outburst",
+    "PlanetF1": "George Russell responds to Toto Wolff team radio message after Brazil GP qualifying"
    },
-   "last": "2026-11-08T06:06:10.853141+00:00"
+   "last": "2026-11-08T09:26:41.842784+00:00"
   },
   "S5819": {
    "title": "Japan vs Nigeria player stats (football)",
@@ -19033,9 +19038,35 @@
     "Formula 1": "What are the tyre strategy options for the Sao Paulo GP?"
    },
    "last": "2026-11-08T09:16:42.397006+00:00"
+  },
+  "S6000": {
+   "title": "Betting safety tips for F1 fans at Brazil GP",
+   "first": "2026-11-08T09:26:41.842747+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T09:26:41.842763+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How F1 fans can avoid emotional betting in Brazil"
+   },
+   "last": "2026-11-08T09:26:41.842766+00:00"
+  },
+  "S6001": {
+   "title": "Motorsport-Total page with no readable content",
+   "first": "2026-11-08T09:26:41.842787+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T08:32:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-11-08T09:26:41.842792+00:00"
   }
  },
- "story_seq": 5999,
+ "story_seq": 6001,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19154,7 +19185,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T09:21:38.856729+00:00",
+ "last_run": "2026-11-08T09:26:37.089337+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
