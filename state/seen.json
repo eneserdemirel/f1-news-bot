@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d1dedc7dfea58a90": "2026-10-25T23:23:46.026012+00:00",
-  "66ad63cd57339898": "2026-10-25T23:23:46.026012+00:00",
-  "bb1ad0d0fcd1cb27": "2026-10-25T23:23:46.026012+00:00",
   "e3b71ef97eec482c": "2026-10-25T23:28:44.840229+00:00",
   "7cf935742832ebbd": "2026-10-25T23:28:44.840229+00:00",
   "81b48835eed9373b": "2026-10-25T23:28:44.840229+00:00",
@@ -7851,7 +7848,8 @@
   "9219898e54d3d36e": "2026-11-08T23:08:10.697154+00:00",
   "b262b0343b6cc9e1": "2026-11-08T23:08:10.697154+00:00",
   "2340e09eab9f2615": "2026-11-08T23:18:10.861895+00:00",
-  "0b9d63123a6c2ba1": "2026-11-08T23:18:50.330508+00:00"
+  "0b9d63123a6c2ba1": "2026-11-08T23:18:50.330508+00:00",
+  "c224ad02614c9e45": "2026-11-08T23:23:43.077290+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8281,19 +8279,6 @@
     "Motorsport.com Italia": "F1 | Ferrari, Interlagos è un brusco risveglio: mezzo secondo da recuperare sul passo gara"
    },
    "last": "2026-11-07T09:43:49.878211+00:00"
-  },
-  "S5467": {
-   "title": "NCAA wins fight over five-year eligibility rule",
-   "first": "2026-11-06T23:20:17.797089+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T22:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NCAA secures win in struggle for five-year eligibility rule"
-   },
-   "last": "2026-11-06T23:20:17.797108+00:00"
   },
   "S5468": {
    "title": "Operário PR vs. Sport (Nov 6) live score",
@@ -18959,9 +18944,22 @@
     "ESPN F1": "Jonathan Evans denies Virginia with save"
    },
    "last": "2026-11-08T23:18:12.411631+00:00"
+  },
+  "S6247": {
+   "title": "Analysis: Lawson makes his case with strong Brazil weekend",
+   "first": "2026-11-08T23:23:44.877419+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T23:23:44.877432+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How Lawson stated his case with a brilliant Brazilian weekend"
+   },
+   "last": "2026-11-08T23:23:44.877436+00:00"
   }
  },
- "story_seq": 6246,
+ "story_seq": 6247,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19080,7 +19078,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-08T23:18:50.330508+00:00",
+ "last_run": "2026-11-08T23:23:43.077290+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20700,6 +20698,11 @@
    "t": "2026-11-08T23:18:54.318509+00:00",
    "title": "Brezilya GP notları: Lando ve Max parladı, Antonelli'ye 5,5",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-08T23:23:48.996717+00:00",
+   "title": "Lawson, Brezilya'da parlak bir hafta sonuyla iddiasını ortaya koydu",
+   "source": "Formula 1"
   }
  ]
 }
