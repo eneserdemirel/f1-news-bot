@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e93e14f23023c66b": "2026-10-25T00:26:12.482837+00:00",
-  "bea094aee3348bd4": "2026-10-25T00:26:12.482837+00:00",
-  "ffa576d30726b743": "2026-10-25T00:26:12.482837+00:00",
-  "76a400a70a8fd6cf": "2026-10-25T00:26:12.482837+00:00",
   "453af46117bdce68": "2026-10-25T00:36:09.680470+00:00",
   "a5438320883e64d4": "2026-10-25T00:36:09.680470+00:00",
   "323d5abc06ed2fc7": "2026-10-25T00:36:09.680470+00:00",
@@ -7809,7 +7805,10 @@
   "0c75b53732c77d4c": "2026-11-08T00:20:34.436105+00:00",
   "6814d0cede1748e6": "2026-11-08T00:20:34.436105+00:00",
   "f65c3a2cdc041b7f": "2026-11-08T00:25:32.391243+00:00",
-  "00e43764b5ffc573": "2026-11-08T00:25:32.391243+00:00"
+  "00e43764b5ffc573": "2026-11-08T00:25:32.391243+00:00",
+  "f2f176807c5a7bb4": "2026-11-08T00:30:36.094865+00:00",
+  "87a2217cd998f2c5": "2026-11-08T00:30:36.094865+00:00",
+  "92c92a2b3d2f6c4a": "2026-11-08T00:30:36.094865+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18663,9 +18662,48 @@
     "ESPN F1": "Donovyn Omolo powers past defense for 28-yard rushing touchdown"
    },
    "last": "2026-11-08T00:25:33.913496+00:00"
+  },
+  "S5890": {
+   "title": "Washington State vs. High Point game highlights",
+   "first": "2026-11-08T00:30:38.464846+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:23:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Washington State Cougars vs. High Point Panthers: Game Highlights"
+   },
+   "last": "2026-11-08T00:30:38.464868+00:00"
+  },
+  "S5891": {
+   "title": "Nashville breaks Miami's MLS single-season points record",
+   "first": "2026-11-08T00:30:38.464873+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:09:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nashville breaks Miami's MLS single-season points record"
+   },
+   "last": "2026-11-08T00:30:38.464877+00:00"
+  },
+  "S5892": {
+   "title": "Analysis of how Hülkenberg excelled in Brazil qualifying",
+   "first": "2026-11-08T00:30:38.464880+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-08T00:06:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Warum Nico Hülkenberg in der Brasilien-Qualifikation zauberte"
+   },
+   "last": "2026-11-08T00:30:38.464884+00:00"
   }
  },
- "story_seq": 5889,
+ "story_seq": 5892,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18784,7 +18822,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T00:25:32.391243+00:00",
+ "last_run": "2026-11-08T00:30:36.094865+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20464,6 +20502,11 @@
    "t": "2026-11-08T00:01:12.848893+00:00",
    "title": "Brezilya GP sıralama turlarında kaos derinleşiyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T00:30:41.546786+00:00",
+   "title": "Nico Hülkenberg, Brezilya sıralama turunda neden öne çıktı?",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
