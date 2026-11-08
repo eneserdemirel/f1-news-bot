@@ -7877,7 +7877,10 @@
   "49a3014193cd3f6a": "2026-11-08T21:18:14.286306+00:00",
   "183ea0e4586c42c0": "2026-11-08T21:18:14.286306+00:00",
   "a7690e8af90d1f85": "2026-11-08T21:18:14.286306+00:00",
-  "c02bf0d29536386b": "2026-11-08T21:18:14.286306+00:00"
+  "c02bf0d29536386b": "2026-11-08T21:18:14.286306+00:00",
+  "155660ac1e7bd0ea": "2026-11-08T21:23:10.807749+00:00",
+  "ee80c8fa5d110366": "2026-11-08T21:23:10.807749+00:00",
+  "3c0e457558aa24de": "2026-11-08T21:23:10.807749+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18028,7 +18031,7 @@
    "titles": {
     "ESPN F1": "Man Utd 4-4 Aston Villa (Nov 8, 2026) Final Score"
    },
-   "last": "2026-11-08T20:53:23.769356+00:00"
+   "last": "2026-11-08T21:23:16.736126+00:00"
   },
   "S6156": {
    "title": "FIA investigation into Leclerc and Lawson at Brazilian GP",
@@ -18562,14 +18565,16 @@
    "title": "Hamilton says he ignored Ferrari radio call due to rain",
    "first": "2026-11-08T20:53:23.769374+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-08T20:48:37+00:00"
+    "Motorsport.com Italia": "2026-11-08T20:48:37+00:00",
+    "GPblog": "2026-11-08T21:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Hamilton non rispetta l'ordine via radio: \"Mi avevano detto che le condizioni restavano stabili\""
+    "Motorsport.com Italia": "F1 | Hamilton non rispetta l'ordine via radio: \"Mi avevano detto che le condizioni restavano stabili\"",
+    "GPblog": "Hamilton reveals costly misunderstanding that led to Brazil GP spin"
    },
-   "last": "2026-11-08T20:53:23.769377+00:00"
+   "last": "2026-11-08T21:23:16.736132+00:00"
   },
   "S6197": {
    "title": "Mercedes puzzled by sudden stability problems after Russell spin",
@@ -18728,9 +18733,22 @@
     "RacingNews365 NL": "Mekies maakt diepe buiging voor Verstappen: \"Hij verslaat zelfs de simulator!\""
    },
    "last": "2026-11-08T21:18:20.106363+00:00"
+  },
+  "S6209": {
+   "title": "Gary Neville criticises Man United ownership over Carrick",
+   "first": "2026-11-08T21:23:16.736100+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T21:17:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gary Neville on Michael Carrick's Man United future: 'Ownership don't have a clue'"
+   },
+   "last": "2026-11-08T21:23:16.736118+00:00"
   }
  },
- "story_seq": 6208,
+ "story_seq": 6209,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18849,7 +18867,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T21:18:14.286306+00:00",
+ "last_run": "2026-11-08T21:23:10.807749+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
