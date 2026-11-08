@@ -7783,7 +7783,8 @@
   "6cbf8c18f5581128": "2026-11-08T06:21:04.457898+00:00",
   "6a6b50d6b8aca000": "2026-11-08T06:21:04.457898+00:00",
   "14b0fb7c497f6d6d": "2026-11-08T06:31:10.581929+00:00",
-  "d9c0925b08c4512c": "2026-11-08T06:31:10.581929+00:00"
+  "d9c0925b08c4512c": "2026-11-08T06:31:10.581929+00:00",
+  "472d858119e4cedb": "2026-11-08T06:41:06.770992+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7892,19 +7893,6 @@
     "ESPN F1": "Ferrari confirms talks to diffuse Lewis Hamilton and Charles Leclerc tension"
    },
    "last": "2026-11-06T20:00:43.923740+00:00"
-  },
-  "S5053": {
-   "title": "Rosberg says Hamilton suspected a Mercedes conspiracy in 2016",
-   "first": "2026-11-05T19:55:30.080873+00:00",
-   "sources": {
-    "GPFans": "2026-11-05T19:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton thought there was a 'conspiracy' against him after controversial Mercedes decision"
-   },
-   "last": "2026-11-06T06:38:14.901057+00:00"
   },
   "S5065": {
    "title": "Verstappen says being P2 in standings is a big surprise",
@@ -18901,9 +18889,22 @@
     "ESPN F1": "Venables lauds Witten after Sooners shine in Oklahoma play caller's debut"
    },
    "last": "2026-11-08T06:31:12.971591+00:00"
+  },
+  "S5965": {
+   "title": "Wolff says Antonelli 'wouldn't have lasted' at Mercedes",
+   "first": "2026-11-08T06:41:08.925705+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-08T06:39:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Wolff makes Kimi Antonelli ‘wouldn’t have lasted’ Mercedes claim"
+   },
+   "last": "2026-11-08T06:41:08.925723+00:00"
   }
  },
- "story_seq": 5964,
+ "story_seq": 5965,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19022,7 +19023,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T06:36:04.436602+00:00",
+ "last_run": "2026-11-08T06:41:06.770992+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20682,6 +20683,11 @@
    "t": "2026-11-08T06:21:12.799020+00:00",
    "title": "Hamilton ODI: Yağmur ve saha belirsizliği sürüyor",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-08T06:41:12.623293+00:00",
+   "title": "Wolff: Antonelli başka bir takımda bu kadar dayanamazdı",
+   "source": "PlanetF1"
   }
  ]
 }
