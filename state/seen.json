@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ae55be90e4ba484e": "2026-10-25T09:38:07.754554+00:00",
   "804c5c2e4974fdcd": "2026-10-25T09:43:07.240424+00:00",
   "bf613bd0110dd372": "2026-10-25T09:48:04.220410+00:00",
   "2b705482c7afae60": "2026-10-25T09:48:04.220410+00:00",
@@ -7812,7 +7811,8 @@
   "d966afbb5157bfd7": "2026-11-08T09:31:56.878053+00:00",
   "448ab5097be8a830": "2026-11-08T09:31:56.878053+00:00",
   "0b4daf71d3a66048": "2026-11-08T09:31:56.878053+00:00",
-  "5e1cf7e79378d7c9": "2026-11-08T09:36:35.692753+00:00"
+  "5e1cf7e79378d7c9": "2026-11-08T09:36:35.692753+00:00",
+  "ce5f95f5f9f18c2f": "2026-11-08T09:41:38.401766+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8131,19 +8131,6 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-06T19:05:18.894339+00:00"
-  },
-  "S5207": {
-   "title": "Jaguars say they can be 'way better' after Ravens blowout",
-   "first": "2026-11-06T09:39:00.128838+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T06:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jaguars dominant again in blowout of Ravens, feel they can be 'way better'"
-   },
-   "last": "2026-11-06T09:39:00.128857+00:00"
   },
   "S5208": {
    "title": "Russell receives five-place grid penalty for Brazil GP",
@@ -19079,9 +19066,22 @@
     "Corriere dello Sport": "Formula 1 Gp Brasile, orario e dove vederlo in tv e streaming"
    },
    "last": "2026-11-08T09:36:38.521268+00:00"
+  },
+  "S6005": {
+   "title": "Feature on Sergio Perez's comeback to top F1 earnings",
+   "first": "2026-11-08T09:41:41.086961+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T09:33:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Sergio Perez: Vom Abstellgleis zu einem der absoluten Topverdiener der Formel 1 - Motorsport-Total.com"
+   },
+   "last": "2026-11-08T09:41:41.086982+00:00"
   }
  },
- "story_seq": 6004,
+ "story_seq": 6005,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19200,7 +19200,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T09:36:35.692753+00:00",
+ "last_run": "2026-11-08T09:41:38.401766+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20835,6 +20835,11 @@
    "t": "2026-11-08T09:32:08.368878+00:00",
    "title": "Stella: Russell muhtemelen daha hızlıydı, Norris fırsatı değerlendirdi",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-08T09:41:43.988548+00:00",
+   "title": "Sergio Pérez: Kenarda kalmaktan F1'in en çok kazananlarından birine",
+   "source": "Motorsport-Total"
   }
  ]
 }
