@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "453af46117bdce68": "2026-10-25T00:36:09.680470+00:00",
-  "a5438320883e64d4": "2026-10-25T00:36:09.680470+00:00",
-  "323d5abc06ed2fc7": "2026-10-25T00:36:09.680470+00:00",
   "00bda0fbbe3d8a71": "2026-10-25T00:41:12.840376+00:00",
   "bf8b3234cae2570c": "2026-10-25T00:46:06.758755+00:00",
   "84c1490d849234f6": "2026-10-25T00:46:06.758755+00:00",
@@ -7810,7 +7807,8 @@
   "87a2217cd998f2c5": "2026-11-08T00:30:36.094865+00:00",
   "92c92a2b3d2f6c4a": "2026-11-08T00:30:36.094865+00:00",
   "1ef4553cd33456d7": "2026-11-08T00:35:37.862906+00:00",
-  "609d0a9891ba8f21": "2026-11-08T00:35:37.862906+00:00"
+  "609d0a9891ba8f21": "2026-11-08T00:35:37.862906+00:00",
+  "ed8557095bd3c4ae": "2026-11-08T00:40:36.425869+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8070,19 +8068,6 @@
     "RacingNews365 NL": "Mentor Verstappen geeft advies aan kersvers F1-debutant"
    },
    "last": "2026-11-06T06:08:17.682519+00:00"
-  },
-  "S5120": {
-   "title": "Botafogo-SP vs. Londrina live score",
-   "first": "2026-11-06T00:36:08.100998+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T23:53:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Botafogo-SP vs. Londrina (5 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-06T00:36:08.101019+00:00"
   },
   "S5121": {
    "title": "Jaguars' Tuten and Walker to face Ravens on TNF",
@@ -18716,9 +18701,22 @@
     "ESPN F1": "Texas' 'King' jab at Missouri leads trolls from college football Week 10"
    },
    "last": "2026-11-08T00:35:40.185501+00:00"
+  },
+  "S5894": {
+   "title": "Philadelphia Union goals as they reach MLS playoffs",
+   "first": "2026-11-08T00:40:37.807581+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cavan, Quinn Sullivan both score as Philadelphia Union soar into playoffs"
+   },
+   "last": "2026-11-08T00:40:37.807602+00:00"
   }
  },
- "story_seq": 5893,
+ "story_seq": 5894,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18837,7 +18835,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T00:35:37.862906+00:00",
+ "last_run": "2026-11-08T00:40:36.425869+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
