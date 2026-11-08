@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "211bbee976b10686": "2026-10-25T22:28:46.795263+00:00",
-  "35e724383cf3f3ba": "2026-10-25T22:28:46.795263+00:00",
-  "0c3f84d9393a7947": "2026-10-25T22:28:46.795263+00:00",
   "30d8522b05c744c3": "2026-10-25T22:33:50.982789+00:00",
   "35a9af75980beab2": "2026-10-25T22:33:50.982789+00:00",
   "517e9ad550223189": "2026-10-25T22:33:50.982789+00:00",
@@ -7871,7 +7868,11 @@
   "aefa1467d6820d62": "2026-11-08T22:18:11.461835+00:00",
   "325455393ef4e494": "2026-11-08T22:18:11.461835+00:00",
   "2f1b9bd5ea01802b": "2026-11-08T22:23:12.580389+00:00",
-  "fe3047cd00642afa": "2026-11-08T22:28:11.415508+00:00"
+  "fe3047cd00642afa": "2026-11-08T22:28:11.415508+00:00",
+  "d2d4f0a5bccf6442": "2026-11-08T22:33:13.173038+00:00",
+  "a50e07e8b8983840": "2026-11-08T22:33:13.173038+00:00",
+  "43512ddba16863b4": "2026-11-08T22:33:13.173038+00:00",
+  "db78e7359285dfde": "2026-11-08T22:33:13.173038+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17495,7 +17496,7 @@
     "Gazzetta dello Sport": "F1, GP Brasile highlights: Russell si gira in pit lane e alla fine vince Norris",
     "FIA": "F1 – Norris triumphs in São Paulo as Mercedes secure 2026 Constructors’ Championship"
    },
-   "last": "2026-11-08T20:13:15.576953+00:00"
+   "last": "2026-11-08T22:33:17.810608+00:00"
   },
   "S6132": {
    "title": "Mercedes clinch 2026 constructors' title in Brazil",
@@ -18908,9 +18909,48 @@
     "Gazzetta dello Sport": "F1 GP Brasile, le pagelle: Lando e Max incantano, 9. Antonelli, troppi errori: 5,5"
    },
    "last": "2026-11-08T22:18:16.167291+00:00"
+  },
+  "S6234": {
+   "title": "Bryson DeChambeau reflects on LIV Golf move",
+   "first": "2026-11-08T22:33:17.810581+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T20:26:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bryson DeChambeau: No regrets about LIV Golf move, passion remains growing game"
+   },
+   "last": "2026-11-08T22:33:17.810599+00:00"
+  },
+  "S6235": {
+   "title": "Verstappen confesses unusual error during Brazil GP comeback",
+   "first": "2026-11-08T22:33:17.810612+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T22:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen confesses to unusual error during Brazilian GP comeback"
+   },
+   "last": "2026-11-08T22:33:17.810617+00:00"
+  },
+  "S6236": {
+   "title": "Verstappen wants to understand car problems after Brazil",
+   "first": "2026-11-08T22:33:17.810620+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T22:28:20+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Wie Tag und Nacht\": Max Verstappen will Probleme im Auto verstehen - Motorsport-Total.com"
+   },
+   "last": "2026-11-08T22:33:17.810624+00:00"
   }
  },
- "story_seq": 6233,
+ "story_seq": 6236,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19029,7 +19069,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T22:28:11.415508+00:00",
+ "last_run": "2026-11-08T22:33:13.173038+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20649,6 +20689,16 @@
    "t": "2026-11-08T22:28:17.860218+00:00",
    "title": "FIA, Brezilya GP'deki olay sonrası Kimi Antonelli'ye cezayı onayladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-08T22:33:22.433330+00:00",
+   "title": "Verstappen, arabadaki sorunları gece gündüz anlamak istiyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-08T22:33:22.900433+00:00",
+   "title": "Verstappen, Brezilya GP'deki geri dönüşünde yaptığı hatayı itiraf etti",
+   "source": "GPblog"
   }
  ]
 }
