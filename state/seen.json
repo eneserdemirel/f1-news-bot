@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5a3d192c47c241ba": "2026-10-25T14:03:05.802182+00:00",
   "3a0f1d367f0c1506": "2026-10-25T14:08:09.838246+00:00",
   "cfacee602c4284a7": "2026-10-25T14:08:09.838246+00:00",
   "28715aaf97bb9247": "2026-10-25T14:13:05.813978+00:00",
@@ -7796,7 +7795,10 @@
   "98ce219a785cbde5": "2026-11-08T13:47:20.994986+00:00",
   "eaebbe8bd7eaabe7": "2026-11-08T13:57:27.060561+00:00",
   "9140acc3e23849e6": "2026-11-08T14:02:26.306076+00:00",
-  "b307815f3348d2df": "2026-11-08T14:02:26.306076+00:00"
+  "b307815f3348d2df": "2026-11-08T14:02:26.306076+00:00",
+  "5693ceaa5ab57393": "2026-11-08T14:07:23.030078+00:00",
+  "e45d73a4a19cfc9e": "2026-11-08T14:07:23.030078+00:00",
+  "f580b19f19f3f5ae": "2026-11-08T14:07:23.030078+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8133,19 +8135,6 @@
     "ESPN F1": "Max Dowman earns first England Under-21 call-up"
    },
    "last": "2026-11-06T17:14:38.166276+00:00"
-  },
-  "S5290": {
-   "title": "Norris seeks upgrade boost amid McLaren podium drought",
-   "first": "2026-11-06T14:04:40.050981+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-06T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris reveals upgrade hope amid unwanted McLaren five-race streak"
-   },
-   "last": "2026-11-06T14:04:40.050998+00:00"
   },
   "S5291": {
    "title": "Damon Hill urges Ferrari to make Hamilton number one",
@@ -17857,14 +17846,16 @@
    "title": "Permane dodges Kravitz question on Lawson's future after qualifying",
    "first": "2026-11-08T08:51:37.212569+00:00",
    "sources": {
-    "GPblog": "2026-11-08T08:51:00+00:00"
+    "GPblog": "2026-11-08T08:51:00+00:00",
+    "PlanetF1": "2026-11-08T14:06:35+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Permane walks away as Kravitz confronts him over Lawson: 'They can't sack him now'"
+    "GPblog": "Permane walks away as Kravitz confronts him over Lawson: 'They can't sack him now'",
+    "PlanetF1": "Ted Kravitz challenges Racing Bulls over Liam Lawson’s uncertain future"
    },
-   "last": "2026-11-08T08:51:37.212591+00:00"
+   "last": "2026-11-08T14:07:28.166363+00:00"
   },
   "S5996": {
    "title": "RacingNews365 video: rain could help Verstappen's Brazil comeback",
@@ -18641,14 +18632,16 @@
    "title": "Russell says Q1 conditions could cause a horrific accident",
    "first": "2026-11-08T13:32:32.837177+00:00",
    "sources": {
-    "AS": "2026-11-08T13:21:18+00:00"
+    "AS": "2026-11-08T13:21:18+00:00",
+    "RacingNews365 NL": "2026-11-08T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "AS": "“Puede haber un accidente realmente horrible”"
+    "AS": "“Puede haber un accidente realmente horrible”",
+    "RacingNews365 NL": "Serieuze waarschuwing over kletsnat Brazilië: \"Als dit de race was geweest...\""
    },
-   "last": "2026-11-08T13:32:32.837181+00:00"
+   "last": "2026-11-08T14:07:28.166357+00:00"
   },
   "S6056": {
    "title": "Lindblad to take new power unit after Sao Paulo qualifying failure",
@@ -18714,9 +18707,22 @@
     "ESPN F1": "Sources: Lamar Jackson told Ravens teammates he plans to return this season"
    },
    "last": "2026-11-08T14:02:29.578399+00:00"
+  },
+  "S6061": {
+   "title": "WEC Monza 4 Hours race update, Cadillac leads",
+   "first": "2026-11-08T14:07:28.166331+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T14:02:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Monza, 4a Ora: Cadillac tenta una nuova fuga, BMW risale"
+   },
+   "last": "2026-11-08T14:07:28.166348+00:00"
   }
  },
- "story_seq": 6060,
+ "story_seq": 6061,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18835,7 +18841,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T14:02:26.306076+00:00",
+ "last_run": "2026-11-08T14:07:23.030078+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
