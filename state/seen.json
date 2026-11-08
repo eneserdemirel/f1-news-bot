@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a5b55b5a47ea5879": "2026-10-25T15:03:11.014067+00:00",
   "a0aeaeea4a148ab1": "2026-10-25T15:13:08.775940+00:00",
   "946a7b96df894aad": "2026-10-25T15:18:11.285053+00:00",
   "0405929f96a991ce": "2026-10-25T15:18:11.285053+00:00",
@@ -7795,7 +7794,9 @@
   "ab970562c954df4d": "2026-11-08T14:52:20.921141+00:00",
   "1cd29e50abf1335d": "2026-11-08T14:57:25.595955+00:00",
   "813e153798a7889d": "2026-11-08T14:57:25.595955+00:00",
-  "3865219d521421d9": "2026-11-08T15:02:21.714830+00:00"
+  "3865219d521421d9": "2026-11-08T15:02:21.714830+00:00",
+  "8c13874e45ace59c": "2026-11-08T15:07:27.210740+00:00",
+  "bb4b3738a5c7b151": "2026-11-08T15:07:27.210740+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8156,19 +8157,6 @@
     "ESPN F1": "Mahmud: 'Beating a batter is quite a good feeling'"
    },
    "last": "2026-11-06T15:39:38.775893+00:00"
-  },
-  "S5310": {
-   "title": "Hülkenberg apologises to Bearman after Mexico City collision",
-   "first": "2026-11-06T15:04:35.202820+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-06T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Oliver Bearman handed apology after 'misjudged' accident: 'Gave him a shove'"
-   },
-   "last": "2026-11-06T15:04:35.202838+00:00"
   },
   "S5311": {
    "title": "Haas's Komatsu speaks on Ocon's dismissal for first time",
@@ -18624,9 +18612,35 @@
     "GPFans": "Who is Alexa Rendell? Why Sky Sports F1 have signed 'rising star'"
    },
    "last": "2026-11-08T15:02:23.796331+00:00"
+  },
+  "S6072": {
+   "title": "Lawson qualifies fifth, starts third after Russell and Leclerc penalties",
+   "first": "2026-11-08T15:07:30.366288+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T15:02:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Lawson si gioca il futuro: a Interlagos parte terzo e mette pressione alla Red Bull"
+   },
+   "last": "2026-11-08T15:07:30.366306+00:00"
+  },
+  "S6073": {
+   "title": "Lawson admits no Plan B if he loses Racing Bulls seat",
+   "first": "2026-11-08T15:07:30.366313+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T15:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Lawson admits he has no Plan B if he loses Racing Bulls seat"
+   },
+   "last": "2026-11-08T15:07:30.366318+00:00"
   }
  },
- "story_seq": 6071,
+ "story_seq": 6073,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18745,27 +18759,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T15:02:21.714830+00:00",
+ "last_run": "2026-11-08T15:07:27.210740+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T15:04:38.462380+00:00",
-   "title": "San Marino, Kimi Antonelli'yi 'Dünya Şampiyonu 2026' yazısıyla karşıladı",
-   "source": "Corriere dello Sport"
-  },
-  {
-   "t": "2026-11-05T15:04:38.856138+00:00",
-   "title": "Sao Paulo GP FP1'de yedi F1 acemisi pistte olacak",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-05T15:04:39.217914+00:00",
-   "title": "Brezilya, Formula 1'de on yıl sonra yeniden iki pilotla temsil edilecek",
-   "source": "AS"
-  },
   {
    "t": "2026-11-05T15:24:35.584383+00:00",
    "title": "Wolff: Russell'ın aleyhine işleyen, pilotun kontrolü dışındaki koşullar oldu",
@@ -20380,6 +20379,11 @@
    "t": "2026-11-08T15:02:28.366441+00:00",
    "title": "Sky Sports, Alexa Rendell'i F1 multimedya gazetecisi olarak kadrosuna kattı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-08T15:07:35.707571+00:00",
+   "title": "Lawson, Racing Bulls koltuğunu kaybederse bir planı olmadığını itiraf etti",
+   "source": "GPblog"
   }
  ]
 }
