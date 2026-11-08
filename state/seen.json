@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5c9a047a37480588": "2026-10-25T18:53:46.656197+00:00",
   "63500360ab9aa3bb": "2026-10-25T18:58:42.968257+00:00",
   "bbaa7ea7de7d0d49": "2026-10-25T18:58:42.968257+00:00",
   "6810ea59a03b325a": "2026-10-25T19:03:46.758118+00:00",
@@ -7812,7 +7811,15 @@
   "7d436311eade029d": "2026-11-08T18:53:12.503812+00:00",
   "386bc49d732d5e88": "2026-11-08T18:53:12.503812+00:00",
   "ecfc5a1c97cbf73c": "2026-11-08T18:53:12.503812+00:00",
-  "f958b7f8a45bce04": "2026-11-08T18:53:12.503812+00:00"
+  "f958b7f8a45bce04": "2026-11-08T18:53:12.503812+00:00",
+  "2b45bec15916a684": "2026-11-08T18:58:11.055295+00:00",
+  "a190ab8e8e985aed": "2026-11-08T18:58:11.055295+00:00",
+  "6e566fe77f451b3e": "2026-11-08T18:58:11.055295+00:00",
+  "b6d4c10f72e8376c": "2026-11-08T18:58:11.055295+00:00",
+  "4cb61b3199a06314": "2026-11-08T18:58:11.055295+00:00",
+  "d11b407199ba931c": "2026-11-08T18:58:11.055295+00:00",
+  "2c381c38cd9a40bc": "2026-11-08T18:58:11.055295+00:00",
+  "c10cdafeb81b205e": "2026-11-08T18:58:11.055295+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8218,32 +8225,6 @@
     "GPblog": "'TV broadcasters threaten to boycott Qatar and Abu Dhabi F1 weekends'"
    },
    "last": "2026-11-06T20:00:43.923748+00:00"
-  },
-  "S5381": {
-   "title": "Mark McKenzie replaces injured George Campbell on USMNT roster",
-   "first": "2026-11-06T18:55:20.013976+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T16:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mark McKenzie replaces injured George Campbell on USMNT roster vs. Haiti"
-   },
-   "last": "2026-11-06T18:55:20.013991+00:00"
-  },
-  "S5382": {
-   "title": "Verstappen reacts to Wolff's comments on selfish, moaning drivers",
-   "first": "2026-11-06T18:55:20.014006+00:00",
-   "sources": {
-    "GPFans": "2026-11-06T18:43:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Max Verstappen reacts to Toto Wolff's comments on the era of selfish and 'moaning' drivers ending in F1"
-   },
-   "last": "2026-11-06T18:55:20.014011+00:00"
   },
   "S5383": {
    "title": "Zidane calls up Paris FC's Pablo Pagis to France squad",
@@ -18484,7 +18465,10 @@
     "GPFans": "2026-11-08T18:44:00+00:00",
     "Motorsport-Total": "2026-11-08T18:45:05+00:00",
     "Autosport": "2026-11-08T18:50:51+00:00",
-    "Motorsport Week": "2026-11-08T18:47:39+00:00"
+    "Motorsport Week": "2026-11-08T18:47:39+00:00",
+    "Formula 1": "2026-11-08T18:58:17.389755+00:00",
+    "ESPN F1": "2026-11-08T18:54:38+00:00",
+    "Sky Sports F1": "2026-11-08T18:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -18498,9 +18482,12 @@
     "GPFans": "F1 Results Today: Brazilian Grand Prix 2026 times and positions",
     "Motorsport-Total": "Trotz Verstappen-Aufholjagd: Lando Norris gewinnt im Regen von Sao Paulo - Motorsport-Total.com",
     "Autosport": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinches constructors’ title",
-    "Motorsport Week": "Lando Norris victorious in rainy Sao Paulo GP as Mercedes clinch the Constructors’ title"
+    "Motorsport Week": "Lando Norris victorious in rainy Sao Paulo GP as Mercedes clinch the Constructors’ title",
+    "Formula 1": "Norris wins wet Sao Paulo GP thriller as Mercedes claim title",
+    "ESPN F1": "Lando Norris holds off dicey Max Verstappen to win São Paulo Grand Prix",
+    "Sky Sports F1": "Norris wins wet Sao Paulo GP as Mercedes seal constructors' title"
    },
-   "last": "2026-11-08T18:53:16.697644+00:00"
+   "last": "2026-11-08T18:58:17.389796+00:00"
   },
   "S6132": {
    "title": "Mercedes clinch 2026 constructors' title in Brazil",
@@ -18517,7 +18504,7 @@
     "RacingNews365": "Breaking: Mercedes end painful five-year wait by reclaiming F1 constructors’ title",
     "RacingNews365 NL": "WK-stand F1 na GP Brazilië 2026: Verstappen doet gouden zaken, Mercedes kampioen"
    },
-   "last": "2026-11-08T18:48:16.159153+00:00"
+   "last": "2026-11-08T18:58:17.389814+00:00"
   },
   "S6133": {
    "title": "Kiera Staude scores for Georgia (college soccer)",
@@ -18557,9 +18544,48 @@
     "GPblog": "Antonelli's Brazil GP result hangs in the balance as FIA launch investigation"
    },
    "last": "2026-11-08T18:53:16.697651+00:00"
+  },
+  "S6136": {
+   "title": "Thunder acquire Nique Clifford from Kings in trade",
+   "first": "2026-11-08T18:58:17.389783+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T18:52:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thunder get Nique Clifford in trade with Kings, sources say"
+   },
+   "last": "2026-11-08T18:58:17.389787+00:00"
+  },
+  "S6137": {
+   "title": "Updated 2026 F1 championship standings after Sao Paulo GP",
+   "first": "2026-11-08T18:58:17.389799+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-08T18:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "2026 F1 championship standings after Sao Paulo Grand Prix"
+   },
+   "last": "2026-11-08T18:58:17.389802+00:00"
+  },
+  "S6138": {
+   "title": "Verstappen says Red Bull was uncontrollable behind the scenes",
+   "first": "2026-11-08T18:58:17.389805+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T18:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen verrast door 'onbestuurbare' Red Bull"
+   },
+   "last": "2026-11-08T18:58:17.389809+00:00"
   }
  },
- "story_seq": 6135,
+ "story_seq": 6138,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18678,17 +18704,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T18:53:12.503812+00:00",
+ "last_run": "2026-11-08T18:58:11.055295+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T18:55:31.098319+00:00",
-   "title": "Hamilton, Vasseur'ün 'saygısızlık' yorumlarına yanıt verdi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-05T19:05:33.954009+00:00",
    "title": "Oscar Piastri Brezilya GP antrenmanını kaçıracak, Fornaroli devralacak",
@@ -20203,6 +20224,16 @@
    "t": "2026-11-08T18:53:22.922653+00:00",
    "title": "Antonelli'nin Brezilya GP sonucu FIA soruşturmasıyla belirsizleşti",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T18:58:25.057077+00:00",
+   "title": "Mercedes 2026 F1 Konstrüktörler Şampiyonu oldu",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-08T18:58:25.633977+00:00",
+   "title": "Verstappen, Red Bull'un 'kontrol edilemez' araba sorununa rağmen Brezilya'da podyuma çıktı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
