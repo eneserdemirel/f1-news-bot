@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "327f3cdee2c1930d": "2026-10-25T18:38:43.372927+00:00",
   "c2225e279103457d": "2026-10-25T18:48:43.015568+00:00",
   "4a652e4d9e770886": "2026-10-25T18:48:43.015568+00:00",
   "04ae6462611e4acb": "2026-10-25T18:48:43.015568+00:00",
@@ -7788,7 +7787,21 @@
   "d0e844719d3dd0cd": "2026-11-08T18:28:16.906943+00:00",
   "46de622b9f97aacd": "2026-11-08T18:33:15.850822+00:00",
   "34ffb5164634b64a": "2026-11-08T18:33:15.850822+00:00",
-  "dc6f18b5a1b6db7c": "2026-11-08T18:33:15.850822+00:00"
+  "dc6f18b5a1b6db7c": "2026-11-08T18:33:15.850822+00:00",
+  "7a9e938660a6277e": "2026-11-08T18:43:13.886856+00:00",
+  "574d98f38ac29d3a": "2026-11-08T18:43:13.886856+00:00",
+  "38f31ff3b8928938": "2026-11-08T18:43:13.886856+00:00",
+  "e1dde91c0296e002": "2026-11-08T18:43:13.886856+00:00",
+  "343485ffdbf4a2ef": "2026-11-08T18:43:13.886856+00:00",
+  "8b4e6d1bac3f9af3": "2026-11-08T18:43:13.886856+00:00",
+  "2bda76a3551a74d9": "2026-11-08T18:43:13.886856+00:00",
+  "27d73c508c805e89": "2026-11-08T18:43:13.886856+00:00",
+  "325e0e3e611feed2": "2026-11-08T18:43:13.886856+00:00",
+  "b47b8d3ff97108ec": "2026-11-08T18:43:13.886856+00:00",
+  "fe8b6b43782fc7f6": "2026-11-08T18:43:13.886856+00:00",
+  "74739d5c59f4766c": "2026-11-08T18:43:13.886856+00:00",
+  "97eb57e73ab3d3dc": "2026-11-08T18:43:13.886856+00:00",
+  "4eb1fc81d0150768": "2026-11-08T18:43:13.886856+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8217,32 +8230,6 @@
     "RacingNews365 NL": "Wolff neemt MotoGP-coureurs op de korrel: \"Weten niets van wat er speelt\""
    },
    "last": "2026-11-07T11:24:16.972455+00:00"
-  },
-  "S5376": {
-   "title": "Braunschweig vs Cottbus team stats",
-   "first": "2026-11-06T18:40:20.413889+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T18:36:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "E Braunschweig vs. Cottbus (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T18:40:20.413907+00:00"
-  },
-  "S5377": {
-   "title": "Paris FC vs Montpellier team stats",
-   "first": "2026-11-06T18:40:20.413913+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T18:36:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Paris FC vs. Montpellier (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T18:40:20.413919+00:00"
   },
   "S5378": {
    "title": "TV broadcasters reportedly threaten to boycott Qatar and Abu Dhabi GPs",
@@ -18446,14 +18433,14 @@
    "title": "Purdue fires defensive coordinator Kevin Kane",
    "first": "2026-11-08T18:13:17.755346+00:00",
    "sources": {
-    "ESPN F1": "2026-11-08T18:11:29+00:00"
+    "ESPN F1": "2026-11-08T17:49:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Purdue fires DC Kevin Kane after allowing 27 second-half points vs. Maryland"
    },
-   "last": "2026-11-08T18:13:17.755364+00:00"
+   "last": "2026-11-08T18:43:22.486609+00:00"
   },
   "S6125": {
    "title": "Bengals beat Falcons 34-17 in Week 10 game recap",
@@ -18532,9 +18519,43 @@
     "ESPN F1": "Man Utd vs. Aston Villa (Nov 8, 2026) Team Stats"
    },
    "last": "2026-11-08T18:33:19.441161+00:00"
+  },
+  "S6131": {
+   "title": "Lando Norris wins rain-hit Brazilian Grand Prix",
+   "first": "2026-11-08T18:43:22.486618+00:00",
+   "sources": {
+    "The Race": "2026-11-08T18:40:54+00:00",
+    "RacingNews365 NL": "2026-11-08T18:39:00+00:00",
+    "PlanetF1": "2026-11-08T18:39:36+00:00",
+    "GPblog": "2026-11-08T18:38:00+00:00",
+    "Crash.net": "2026-11-08T18:40:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 2026 Brazilian Grand Prix race result",
+    "RacingNews365 NL": "Uitslag race F1 GP Brazilië 2026 in São Paulo",
+    "PlanetF1": "Sao Paulo Grand Prix 2026 – F1 race results (Interlagos)",
+    "GPblog": "F1 Full Results | Lando Norris wins the 2026 Sao Paulo Grand Prix",
+    "Crash.net": "Lando Norris beats recovering Max Verstappen to win Brazil GP as Mercedes seals F1 title double"
+   },
+   "last": "2026-11-08T18:43:22.486662+00:00"
+  },
+  "S6132": {
+   "title": "Mercedes clinch 2026 constructors' title in Brazil",
+   "first": "2026-11-08T18:43:22.486647+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T18:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 Standings | Mercedes win 2026 Constructors' championship in Brazil"
+   },
+   "last": "2026-11-08T18:43:22.486651+00:00"
   }
  },
- "story_seq": 6130,
+ "story_seq": 6132,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18653,7 +18674,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T18:38:12.231970+00:00",
+ "last_run": "2026-11-08T18:43:13.886856+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
@@ -20188,6 +20209,16 @@
    "t": "2026-11-08T18:13:23.223174+00:00",
    "title": "Hadjar, takım emirlerinin ardından Verstappen'i yeniden geçmek istedi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T18:43:26.463902+00:00",
+   "title": "Mercedes, São Paulo GP'de 2026 Konstrüktörler Şampiyonası'nı kazandı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T18:43:26.935870+00:00",
+   "title": "Norris, Brezilya Grand Prix'sini kazandı; Verstappen ikinci oldu",
+   "source": "The Race"
   }
  ]
 }
