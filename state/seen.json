@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3d0caa43c2ce14cf": "2026-10-25T20:03:47.630616+00:00",
-  "5680fe7cc43e815d": "2026-10-25T20:03:47.630616+00:00",
   "a9b644dcbe7ff4d0": "2026-10-25T20:13:46.159501+00:00",
   "c98f917e30ef2dcd": "2026-10-25T20:13:46.159501+00:00",
   "5707356f2ca41d2e": "2026-10-25T20:18:45.719519+00:00",
@@ -7848,7 +7846,10 @@
   "e6549df4067d2fde": "2026-11-08T20:03:14.271224+00:00",
   "4153aa4b885a8a8a": "2026-11-08T20:03:14.271224+00:00",
   "e911978af0a2e737": "2026-11-08T20:03:14.271224+00:00",
-  "270a7925b54960b6": "2026-11-08T20:03:14.271224+00:00"
+  "270a7925b54960b6": "2026-11-08T20:03:14.271224+00:00",
+  "698016de9abd12d5": "2026-11-08T20:08:10.117101+00:00",
+  "aa03cceaaa1d43da": "2026-11-08T20:08:10.117101+00:00",
+  "3a7fafebd943fd6f": "2026-11-08T20:08:10.117101+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8100,19 +8101,6 @@
     "Gazzetta dello Sport": "\"Che c***o fa?\": Leclerc sfiora il muro ed evita Camara per miracolo"
    },
    "last": "2026-11-06T21:35:23.181416+00:00"
-  },
-  "S5407": {
-   "title": "Strasbourg vs Brest live score",
-   "first": "2026-11-06T20:05:28.785232+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T20:02:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Strasbourg vs. Brest (Nov 21, 2026) Live Score"
-   },
-   "last": "2026-11-06T20:05:28.785250+00:00"
   },
   "S5408": {
    "title": "Tuchel on Bellingham relationship with England",
@@ -18028,7 +18016,8 @@
     "Sky Sports F1": "2026-11-08T18:30:00+00:00",
     "Motorsport.com Italia": "2026-11-08T18:55:11+00:00",
     "FormulaPassion": "2026-11-08T18:45:57+00:00",
-    "AS": "2026-11-08T19:05:55+00:00"
+    "AS": "2026-11-08T19:05:55+00:00",
+    "Gazzetta dello Sport": "2026-11-08T19:58:08+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -18048,9 +18037,10 @@
     "Sky Sports F1": "Norris wins wet Sao Paulo GP as Mercedes seal constructors' title",
     "Motorsport.com Italia": "F1 | Norris vola e vince a Interlagos. Show di Max, 2° in rimonta. Kimi 5°, Mercedes vince il titolo costruttori",
     "FormulaPassion": "GP San Paolo 2026, ordine di arrivo: Norris vola sull’acqua, Max show (2°) con un’altra rimonta. Kimi 5°, Ferrari da incubo: Leclerc 7°, Hamilton 9°",
-    "AS": "Resultados F1: clasificación del GP de Brasil y Mundial"
+    "AS": "Resultados F1: clasificación del GP de Brasil y Mundial",
+    "Gazzetta dello Sport": "F1, GP Brasile highlights: Russell si gira in pit lane e alla fine vince Norris"
    },
-   "last": "2026-11-08T20:03:22.542295+00:00"
+   "last": "2026-11-08T20:08:14.239372+00:00"
   },
   "S6132": {
    "title": "Mercedes clinch 2026 constructors' title in Brazil",
@@ -18629,9 +18619,35 @@
     "AS": "“Con todo lo que perdemos en las rectas y luchamos con Ferrari”"
    },
    "last": "2026-11-08T20:03:22.542291+00:00"
+  },
+  "S6174": {
+   "title": "Thunder acquire Nique Clifford from Kings in trade",
+   "first": "2026-11-08T20:08:14.239349+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T18:47:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thunder get Nique Clifford in trade with Kings, sources say"
+   },
+   "last": "2026-11-08T20:08:14.239365+00:00"
+  },
+  "S6175": {
+   "title": "Motorsport-Total page with no readable content",
+   "first": "2026-11-08T20:08:14.239376+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T19:20:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-11-08T20:08:14.239381+00:00"
   }
  },
- "story_seq": 6173,
+ "story_seq": 6175,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18750,7 +18766,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T20:03:14.271224+00:00",
+ "last_run": "2026-11-08T20:08:10.117101+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
