@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7a67104fbd8139e6": "2026-10-25T15:28:08.501969+00:00",
-  "3712c06378a8e897": "2026-10-25T15:28:08.501969+00:00",
   "6aeb7009e665446a": "2026-10-25T15:33:04.899735+00:00",
   "ecb8b7ef41e980e7": "2026-10-25T15:33:04.899735+00:00",
   "4f3b67a57144dea3": "2026-10-25T15:33:04.899735+00:00",
@@ -7798,7 +7796,12 @@
   "512c00bdb6ba6bba": "2026-11-08T15:17:25.323380+00:00",
   "ac7e23e223507353": "2026-11-08T15:27:24.578484+00:00",
   "08a4138f952f1f70": "2026-11-08T15:27:24.578484+00:00",
-  "9e3383abf53e80b0": "2026-11-08T15:27:24.578484+00:00"
+  "9e3383abf53e80b0": "2026-11-08T15:27:24.578484+00:00",
+  "338395024c056469": "2026-11-08T15:32:22.121195+00:00",
+  "58d2553fa7c7ddf6": "2026-11-08T15:32:22.121195+00:00",
+  "eba4347c87e77c1d": "2026-11-08T15:32:22.121195+00:00",
+  "05a684e410b2d817": "2026-11-08T15:32:22.121195+00:00",
+  "b7c158dd3461ce54": "2026-11-08T15:32:22.121195+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16610,7 +16613,7 @@
    "titles": {
     "ESPN F1": "UAAP Season 89: UE Red Warriors win but still have winning culture to build"
    },
-   "last": "2026-11-08T03:56:08.301168+00:00"
+   "last": "2026-11-08T15:32:26.241994+00:00"
   },
   "S5929": {
    "title": "Thomas Castellanos 29-yard college football touchdown",
@@ -18282,16 +18285,18 @@
    "sources": {
     "AS": "2026-11-08T13:21:18+00:00",
     "RacingNews365 NL": "2026-11-08T14:00:00+00:00",
-    "GPblog": "2026-11-08T14:33:00+00:00"
+    "GPblog": "2026-11-08T14:33:00+00:00",
+    "RacingNews365": "2026-11-08T15:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "AS": "“Puede haber un accidente realmente horrible”",
     "RacingNews365 NL": "Serieuze waarschuwing over kletsnat Brazilië: \"Als dit de race was geweest...\"",
-    "GPblog": "Russell warns of 'horrific incident' if conditions are similar to qualifying"
+    "GPblog": "Russell warns of 'horrific incident' if conditions are similar to qualifying",
+    "RacingNews365": "George Russell issues F1 'horrific accident' warning after survival challenge"
    },
-   "last": "2026-11-08T14:37:43.465681+00:00"
+   "last": "2026-11-08T15:32:26.242034+00:00"
   },
   "S6056": {
    "title": "Lindblad to take new power unit after Sao Paulo qualifying failure",
@@ -18565,9 +18570,48 @@
     "RacingNews365 NL": "Verstappen en co. met grote vraagtekens GP Brazilië in"
    },
    "last": "2026-11-08T15:27:28.640931+00:00"
+  },
+  "S6077": {
+   "title": "Fighting Maroons' UAAP title hopes hinge on Veejay Pre",
+   "first": "2026-11-08T15:32:26.242005+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T15:29:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UAAP Season 89: Fighting Maroons' title hopes hinge on star Veejay Pre"
+   },
+   "last": "2026-11-08T15:32:26.242011+00:00"
+  },
+  "S6078": {
+   "title": "Rayo vs. Valencia odds and spread",
+   "first": "2026-11-08T15:32:26.242016+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T15:26:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rayo vs. Valencia (Nov 21, 2026) Odds and Spread"
+   },
+   "last": "2026-11-08T15:32:26.242021+00:00"
+  },
+  "S6079": {
+   "title": "Bruno Guimaraes says Arsenal will keep Premier League title pace",
+   "first": "2026-11-08T15:32:26.242025+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T11:59:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bruno Guimaraes vows 'unbelievable' Arsenal will keep up Premier League title pace"
+   },
+   "last": "2026-11-08T15:32:26.242029+00:00"
   }
  },
- "story_seq": 6076,
+ "story_seq": 6079,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18686,7 +18730,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T15:27:24.578484+00:00",
+ "last_run": "2026-11-08T15:32:22.121195+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
