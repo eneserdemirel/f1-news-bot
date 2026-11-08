@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d3dd27b30de00c5e": "2026-10-25T04:11:55.783155+00:00",
   "274288da887190c6": "2026-10-25T04:26:50.144255+00:00",
   "7be91cdbf188f23d": "2026-10-25T04:26:50.144255+00:00",
   "2166525ac7f9cbf5": "2026-10-25T04:26:50.144255+00:00",
@@ -7777,7 +7776,9 @@
   "0944163b1a8c6d15": "2026-11-08T04:06:10.028983+00:00",
   "f5891fd2618cccc2": "2026-11-08T04:06:10.028983+00:00",
   "5108e6603ce565c6": "2026-11-08T04:11:04.900091+00:00",
-  "76a80e30f37c429d": "2026-11-08T04:11:04.900091+00:00"
+  "76a80e30f37c429d": "2026-11-08T04:11:04.900091+00:00",
+  "30b5966aaa29c559": "2026-11-08T04:16:07.556302+00:00",
+  "018707ab75e322af": "2026-11-08T04:16:07.556302+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18709,9 +18710,35 @@
     "ESPN F1": "Washington Wizards vs. Oklahoma City Thunder: Game Highlights"
    },
    "last": "2026-11-08T04:11:07.032182+00:00"
+  },
+  "S5934": {
+   "title": "Utah Valley vs. Weber State game highlights",
+   "first": "2026-11-08T04:16:09.064126+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T04:06:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Utah Valley Wolverines vs. Weber State Wildcats: Game Highlights"
+   },
+   "last": "2026-11-08T04:16:09.064143+00:00"
+  },
+  "S5935": {
+   "title": "Jack Cassidy 29-yard field goal",
+   "first": "2026-11-08T04:16:09.064149+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T04:04:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jack Cassidy kicks 29-yard field goal"
+   },
+   "last": "2026-11-08T04:16:09.064155+00:00"
   }
  },
- "story_seq": 5933,
+ "story_seq": 5935,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18830,7 +18857,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T04:11:04.900091+00:00",
+ "last_run": "2026-11-08T04:16:07.556302+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
