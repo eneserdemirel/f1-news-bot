@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1768fa9edcafec6a": "2026-10-25T17:43:09.621176+00:00",
-  "e6d884d7c95e5471": "2026-10-25T17:43:09.621176+00:00",
-  "492b72e5ba499a22": "2026-10-25T17:43:09.621176+00:00",
-  "df593df0382cdfa7": "2026-10-25T17:43:09.621176+00:00",
   "d034d419c37f16a7": "2026-10-25T17:48:04.791949+00:00",
   "87b76746218d00b6": "2026-10-25T17:53:33.495894+00:00",
   "0463c5a0517b5bfc": "2026-10-25T17:53:33.495894+00:00",
@@ -7811,7 +7807,10 @@
   "45728d94df54b91c": "2026-11-08T17:37:23.013135+00:00",
   "1d4634d4bb8a1eb4": "2026-11-08T17:42:25.065757+00:00",
   "f4a9168902850e70": "2026-11-08T17:42:25.065757+00:00",
-  "a23edb8255aec951": "2026-11-08T17:42:25.065757+00:00"
+  "a23edb8255aec951": "2026-11-08T17:42:25.065757+00:00",
+  "4ca46de4874d0702": "2026-11-08T17:47:22.132422+00:00",
+  "66b379512411a8e8": "2026-11-08T17:47:22.132422+00:00",
+  "e2c22b71d97eb789": "2026-11-08T17:47:22.132422+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8171,32 +8170,6 @@
     "Formula 1": "LIVE COVERAGE: Second practice in Sao Paulo"
    },
    "last": "2026-11-06T18:50:24.469694+00:00"
-  },
-  "S5360": {
-   "title": "Rob Smedley weighs in on Hamilton-Leclerc Ferrari clash",
-   "first": "2026-11-06T17:44:42.826295+00:00",
-   "sources": {
-    "GPFans": "2026-11-06T17:44:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "The Lewis Hamilton detail that says everything about his character – Ferrari insider"
-   },
-   "last": "2026-11-06T17:44:42.826301+00:00"
-  },
-  "S5361": {
-   "title": "Alonso and Verstappen say 24 races per season is at limit",
-   "first": "2026-11-06T17:44:42.826307+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T17:40:24+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Alonso & Verstappen: 24 Rennen pro Saison sind \"am Limit\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-06T17:44:42.826311+00:00"
   },
   "S5362": {
    "title": "Xabi Alonso happy with Cole Palmer despite England omission",
@@ -18491,14 +18464,14 @@
    "title": "Brighton 2-0 Brentford final score",
    "first": "2026-11-08T17:42:30.395639+00:00",
    "sources": {
-    "ESPN F1": "2026-11-08T17:37:51+00:00"
+    "ESPN F1": "2026-11-08T14:09:55+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Brighton 2-0 Brentford (8 Nov, 2026) Final Score"
    },
-   "last": "2026-11-08T17:42:30.395656+00:00"
+   "last": "2026-11-08T17:47:24.544096+00:00"
   },
   "S6114": {
    "title": "Russell spins during Sao Paulo GP pit-stop, nearly blocking pit lane",
@@ -18512,9 +18485,35 @@
     "RacingNews365": "George Russell spin nearly blocks pit-lane after crucial Sao Paulo pit-stop"
    },
    "last": "2026-11-08T17:42:30.395676+00:00"
+  },
+  "S6115": {
+   "title": "Barcelona vs Villarreal odds and spread",
+   "first": "2026-11-08T17:47:24.544059+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T17:39:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Barcelona vs. Villarreal (Nov 22, 2026) Odds and Spread"
+   },
+   "last": "2026-11-08T17:47:24.544077+00:00"
+  },
+  "S6116": {
+   "title": "Bengals vs Falcons game highlights",
+   "first": "2026-11-08T17:47:24.544083+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T17:34:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cincinnati Bengals vs. Atlanta Falcons: Game Highlights"
+   },
+   "last": "2026-11-08T17:47:24.544088+00:00"
   }
  },
- "story_seq": 6114,
+ "story_seq": 6116,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18633,17 +18632,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T17:42:25.065757+00:00",
+ "last_run": "2026-11-08T17:47:22.132422+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T17:45:32.248659+00:00",
-   "title": "Camara, Ocon'un yerine Haas'ta F1 debütü yapacak",
-   "source": "Autosport"
-  },
   {
    "t": "2026-11-05T18:05:34.770009+00:00",
    "title": "Verstappen: Antonelli mütevazı bir genç, dünya şampiyonluğu onu değiştirmeyecek",
