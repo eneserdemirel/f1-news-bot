@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2ef8f601863ce87a": "2026-10-25T07:26:50.301446+00:00",
-  "592d3539df5190f4": "2026-10-25T07:26:50.301446+00:00",
   "da6c500529792faf": "2026-10-25T07:31:49.032182+00:00",
   "8c70a715dbc22de1": "2026-10-25T07:36:52.064750+00:00",
   "5f66e3b5f7a2b2fe": "2026-10-25T07:36:52.064750+00:00",
@@ -7793,7 +7791,8 @@
   "36e34edd89932d27": "2026-11-08T07:26:04.523780+00:00",
   "355938bd597f3c26": "2026-11-08T07:26:04.523780+00:00",
   "4c55cac50978b247": "2026-11-08T07:26:04.523780+00:00",
-  "5577a99416063aed": "2026-11-08T07:26:04.523780+00:00"
+  "5577a99416063aed": "2026-11-08T07:26:04.523780+00:00",
+  "eaec39585af37305": "2026-11-08T07:31:07.214507+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7854,31 +7853,6 @@
     "Motorsport-Total": "Pierre Gasly: Wenn du Helmut Marko überlebt hast, haut dich nichts mehr um! - Motorsport-Total.com"
    },
    "last": "2026-11-06T08:18:57.391101+00:00"
-  },
-  "S5030": {
-   "title": "Hamilton one-word response to Leclerc, says Leclerc races him harder",
-   "first": "2026-11-05T18:45:32.401835+00:00",
-   "sources": {
-    "GPblog": "2026-11-05T18:35:00+00:00",
-    "RacingNews365 NL": "2026-11-05T18:40:00+00:00",
-    "Autosport": "2026-11-05T18:58:43+00:00",
-    "FormulaPassion": "2026-11-05T19:08:36+00:00",
-    "Sky Sports F1": "2026-11-05T20:54:00+00:00",
-    "RacingNews365": "2026-11-06T05:30:00+00:00",
-    "Motorsport Week": "2026-11-06T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton refuses to ease tensions with striking one-word Leclerc response",
-    "RacingNews365 NL": "Hamilton haalt opnieuw uit naar Leclerc: \"Tegen Max trekt hij z'n keutel in!\"",
-    "Autosport": "Hamilton backs claims Leclerc races him harder than F1 rivals",
-    "FormulaPassion": "Hamilton attacca ancora Leclerc: “Con me è più aggressivo. Ha fatto lo stesso con Vettel e Sainz”",
-    "Sky Sports F1": "Hamilton: Leclerc more aggressive racing me than other drivers",
-    "RacingNews365": "Lewis Hamilton agrees with bold claim on how Charles Leclerc races Ferrari team-mates",
-    "Motorsport Week": "Lewis Hamilton issues blunt answer to crucial Charles Leclerc question"
-   },
-   "last": "2026-11-06T07:28:18.177557+00:00"
   },
   "S5051": {
    "title": "Ferrari drivers to hold crunch meeting in Brazil on Friday",
@@ -8126,32 +8100,6 @@
     "ESPN F1": "Ravens refuse to blame historic rut on loss of Lamar Jackson"
    },
    "last": "2026-11-06T09:44:00.709526+00:00"
-  },
-  "S5186": {
-   "title": "Verstappen sees key to success for Brazil weekend rain",
-   "first": "2026-11-06T07:28:18.177546+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-06T07:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen kent sleutel tot succes voor nieuwe heldentocht in Brazilië"
-   },
-   "last": "2026-11-06T07:28:18.177551+00:00"
-  },
-  "S5187": {
-   "title": "Sainz recalls good memories racing Leclerc",
-   "first": "2026-11-06T07:28:18.177560+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T06:45:52+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Carlos Sainz betont: Gute Erinnerungen an Racing gegen Charles Leclerc - Motorsport-Total.com"
-   },
-   "last": "2026-11-06T07:28:18.177564+00:00"
   },
   "S5188": {
    "title": "Orlando Magic vs. Phoenix Suns game highlights",
@@ -19049,9 +18997,22 @@
     "Motorsport-Total": "Erinnerungen an 2010: Nico Hülkenberg in Brasilien auf P4 der Startaufstellung - Motorsport-Total.com"
    },
    "last": "2026-11-08T07:26:09.847666+00:00"
+  },
+  "S5981": {
+   "title": "Warriors 126-119 Magic NBA game recap",
+   "first": "2026-11-08T07:31:09.672279+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T04:46:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Warriors 126-119 Magic (Nov 7, 2026) Game Recap"
+   },
+   "last": "2026-11-08T07:31:09.672297+00:00"
   }
  },
- "story_seq": 5980,
+ "story_seq": 5981,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19170,7 +19131,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T07:26:04.523780+00:00",
+ "last_run": "2026-11-08T07:31:07.214507+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
