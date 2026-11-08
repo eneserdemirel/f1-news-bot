@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c6080df5c8bfbc60": "2026-10-25T19:48:44.777520+00:00",
-  "787c57064f2417b2": "2026-10-25T19:48:44.777520+00:00",
   "fb5c1e7aaa86f0e3": "2026-10-25T19:53:45.867497+00:00",
   "da9db4408b773f71": "2026-10-25T19:58:45.134496+00:00",
   "3d0caa43c2ce14cf": "2026-10-25T20:03:47.630616+00:00",
@@ -7831,7 +7829,10 @@
   "226c4a5525c8a774": "2026-11-08T19:48:12.306495+00:00",
   "0800035aca5074b8": "2026-11-08T19:48:12.306495+00:00",
   "7e792171bb68eefc": "2026-11-08T19:48:12.306495+00:00",
-  "41a7516bec5ba1e8": "2026-11-08T19:48:12.306495+00:00"
+  "41a7516bec5ba1e8": "2026-11-08T19:48:12.306495+00:00",
+  "ef1ed24680f6418f": "2026-11-08T19:53:17.142625+00:00",
+  "260d73403d608ec2": "2026-11-08T19:53:17.142625+00:00",
+  "623af9b216ac5772": "2026-11-08T19:53:17.142625+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18154,14 +18155,14 @@
    "title": "Man Utd vs Aston Villa match team stats",
    "first": "2026-11-08T18:33:19.441155+00:00",
    "sources": {
-    "ESPN F1": "2026-11-08T16:34:44+00:00"
+    "ESPN F1": "2026-11-08T16:34:19+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Man Utd vs. Aston Villa (Nov 8, 2026) Team Stats"
    },
-   "last": "2026-11-08T18:33:19.441161+00:00"
+   "last": "2026-11-08T19:53:20.171131+00:00"
   },
   "S6131": {
    "title": "Lando Norris wins rain-hit Brazilian Grand Prix",
@@ -18593,9 +18594,35 @@
     "GPblog": "Verstappen and Norris shocked by Hamilton spin in Sao Paulo cooldown footage"
    },
    "last": "2026-11-08T19:48:15.849405+00:00"
+  },
+  "S6160": {
+   "title": "Man Utd vs Aston Villa player stats",
+   "first": "2026-11-08T19:53:20.171141+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T16:34:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man Utd 4-4 Aston Villa (Nov 8, 2026) Player Stats"
+   },
+   "last": "2026-11-08T19:53:20.171146+00:00"
+  },
+  "S6161": {
+   "title": "Hamilton and Leclerc clash again in Interlagos duel",
+   "first": "2026-11-08T19:53:20.171150+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-08T19:44:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "F1, Gp Brasile: Hamilton-Leclerc, altre scintille! Che duello a Interlagos"
+   },
+   "last": "2026-11-08T19:53:20.171154+00:00"
   }
  },
- "story_seq": 6159,
+ "story_seq": 6161,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18714,7 +18741,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T19:48:12.306495+00:00",
+ "last_run": "2026-11-08T19:53:17.142625+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20284,6 +20311,11 @@
    "t": "2026-11-08T19:48:20.276465+00:00",
    "title": "Verstappen ve Norris, Hamilton'ın Interlagos'taki spinini görünce şaşırdı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T19:53:23.821914+00:00",
+   "title": "Brezilya GP'de Hamilton ile Leclerc arasında heyecanlı mücadele",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
