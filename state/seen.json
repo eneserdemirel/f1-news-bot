@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a6d00cee2efad526": "2026-10-25T13:33:07.342573+00:00",
-  "e9f5b561b7e85aa5": "2026-10-25T13:33:07.342573+00:00",
-  "4b4e4d18b324bfff": "2026-10-25T13:33:07.342573+00:00",
   "a3b108a9bec1f59f": "2026-10-25T13:38:07.878546+00:00",
   "758697a9836feadb": "2026-10-25T13:58:06.913486+00:00",
   "5a3d192c47c241ba": "2026-10-25T14:03:05.802182+00:00",
@@ -7794,7 +7791,8 @@
   "0cea4836d68ee0b4": "2026-11-08T13:32:26.787385+00:00",
   "2a6d894a49926ff2": "2026-11-08T13:32:26.787385+00:00",
   "92a5537a30fc2dfe": "2026-11-08T13:32:26.787385+00:00",
-  "6575e55d33b5cc04": "2026-11-08T13:32:26.787385+00:00"
+  "6575e55d33b5cc04": "2026-11-08T13:32:26.787385+00:00",
+  "cc6b41da22004180": "2026-11-08T13:37:21.278645+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18708,9 +18706,22 @@
     "AS": "“Puede haber un accidente realmente horrible”"
    },
    "last": "2026-11-08T13:32:32.837181+00:00"
+  },
+  "S6056": {
+   "title": "Lindblad to take new power unit after Sao Paulo qualifying failure",
+   "first": "2026-11-08T13:37:23.081821+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T13:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "F1 driver receives new power unit after Sao Paulo GP qualifying issue"
+   },
+   "last": "2026-11-08T13:37:23.081840+00:00"
   }
  },
- "story_seq": 6055,
+ "story_seq": 6056,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18829,17 +18840,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T13:32:26.787385+00:00",
+ "last_run": "2026-11-08T13:37:21.278645+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T13:33:59.448062+00:00",
-   "title": "Wolff: Antonelli şampiyonluğu sonrası konstrüktörler için henüz iş bitmedi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-05T14:13:59.292767+00:00",
    "title": "Alex Dunne'ın F1 hayali 2028 fırsatlarıyla canlı tutuluyor",
@@ -20464,6 +20470,11 @@
    "t": "2026-11-08T13:32:40.953206+00:00",
    "title": "Russell ve Norris Q1'deki koşullara tepki gösterdi",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-08T13:37:27.102498+00:00",
+   "title": "Lindblad, Sao Paulo'da eleme turundaki arıza sonrası yeni güç ünitesi alacak",
+   "source": "GPblog"
   }
  ]
 }
