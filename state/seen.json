@@ -1,18 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "45de90a618af4466": "2026-10-25T21:48:44.704047+00:00",
-  "a984950c0a0975eb": "2026-10-25T21:48:44.704047+00:00",
-  "157e08f56e146da3": "2026-10-25T21:48:44.704047+00:00",
-  "eecdb5a8bc67aeb4": "2026-10-25T21:48:44.704047+00:00",
-  "6a5fb686182b04b8": "2026-10-25T21:48:44.704047+00:00",
-  "62486368710e282d": "2026-10-25T21:48:44.704047+00:00",
-  "03460b36e6162f8b": "2026-10-25T21:48:44.704047+00:00",
-  "41985d7fa8227a3b": "2026-10-25T21:48:44.704047+00:00",
-  "2a0bd16451d1684d": "2026-10-25T21:48:44.704047+00:00",
-  "4d7811ec6546b10e": "2026-10-25T21:48:44.704047+00:00",
-  "934f8400aa4a39b1": "2026-10-25T21:48:44.704047+00:00",
-  "c79e915f8f849ec7": "2026-10-25T21:48:44.704047+00:00",
   "4b92a52012ccc1be": "2026-10-25T21:53:52.764581+00:00",
   "98059195a9bf525c": "2026-10-25T21:53:52.764581+00:00",
   "b74527e404b8805e": "2026-10-25T21:53:52.764581+00:00",
@@ -7890,7 +7878,10 @@
   "b31b441651b48a55": "2026-11-08T21:48:12.450419+00:00",
   "30c1adefebfa2ab7": "2026-11-08T21:48:12.450419+00:00",
   "d00cb7bd4cfee26f": "2026-11-08T21:48:12.450419+00:00",
-  "24e432b6ef52f7d7": "2026-11-08T21:48:12.450419+00:00"
+  "24e432b6ef52f7d7": "2026-11-08T21:48:12.450419+00:00",
+  "63680716c36f24e9": "2026-11-08T21:53:09.695944+00:00",
+  "5bc7d981b0bb5478": "2026-11-08T21:53:09.695944+00:00",
+  "2d0b6f84adfc043c": "2026-11-08T21:53:09.695944+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8255,32 +8246,6 @@
     "GPblog": "Norris assesses McLaren upgrades after positive first day in Brazil"
    },
    "last": "2026-11-07T11:09:17.155443+00:00"
-  },
-  "S5448": {
-   "title": "Stroll reacts to pit-lane start clash with Verstappen",
-   "first": "2026-11-06T21:50:18.924222+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-06T21:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Lance reageert ‘op zijn Strolls’ op proefstartincident met Verstappen"
-   },
-   "last": "2026-11-06T21:50:18.924240+00:00"
-  },
-  "S5449": {
-   "title": "McLaren give first impressions of Brazil GP upgrade package",
-   "first": "2026-11-06T21:50:18.924247+00:00",
-   "sources": {
-    "Crash.net": "2026-11-06T21:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "First impressions of McLaren’s big Brazil GP upgrade"
-   },
-   "last": "2026-11-06T21:50:18.924253+00:00"
   },
   "S5450": {
    "title": "Leclerc says Friday was his worst feeling of the season",
@@ -17686,7 +17651,7 @@
     "RacingNews365": "Kimi Antonelli among F1 drivers summoned to stewards after Sao Paulo GP",
     "Crash.net": "Kimi Antonelli and Mercedes punished for unsafe release in messy Brazil GP"
    },
-   "last": "2026-11-08T21:48:16.558536+00:00"
+   "last": "2026-11-08T21:53:13.788930+00:00"
   },
   "S6136": {
    "title": "Thunder acquire Nique Clifford from Kings in trade",
@@ -18003,7 +17968,7 @@
     "The Race": "Leclerc loses two points for Lawson collision",
     "Motorsport.com Italia": "F1 | Leclerc penalizzato per il contatto con Lawson: scivola all’ottavo posto"
    },
-   "last": "2026-11-08T21:48:16.558531+00:00"
+   "last": "2026-11-08T21:53:13.788935+00:00"
   },
   "S6157": {
    "title": "Man United relegation risk after poor starts",
@@ -18656,7 +18621,7 @@
    "titles": {
     "ESPN F1": "Carrick backs Dalot after getting booed by Man United fans"
    },
-   "last": "2026-11-08T21:13:15.163531+00:00"
+   "last": "2026-11-08T21:53:13.788917+00:00"
   },
   "S6206": {
    "title": "Jyi Dawkins and-1 basketball play highlight",
@@ -18973,7 +18938,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T21:48:12.450419+00:00",
+ "last_run": "2026-11-08T21:53:09.695944+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20578,6 +20543,11 @@
    "t": "2026-11-08T21:48:20.313391+00:00",
    "title": "Antonelli ve Mercedes, Brezilya GP'de güvensiz çıkış nedeniyle cezalandırıldı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-08T21:53:18.404611+00:00",
+   "title": "Antonelli'ye güvensiz çıkış nedeniyle 5 saniye ceza",
+   "source": "RacingNews365"
   }
  ]
 }
