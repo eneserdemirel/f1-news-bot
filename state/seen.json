@@ -7781,7 +7781,9 @@
   "73b27d5d49258b08": "2026-11-08T02:51:08.565964+00:00",
   "f44bec98d80031b6": "2026-11-08T02:56:04.245928+00:00",
   "589847539efb3365": "2026-11-08T03:06:04.274650+00:00",
-  "1e07525004c4d07b": "2026-11-08T03:06:04.274650+00:00"
+  "1e07525004c4d07b": "2026-11-08T03:06:04.274650+00:00",
+  "4ecfc2842f1eb3d6": "2026-11-08T03:11:07.433002+00:00",
+  "63dade36aaf9f681": "2026-11-08T03:11:07.433002+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8067,58 +8069,6 @@
     "ESPN F1": "Rangers 3-2 Flyers (6 Nov, 2026) Game Recap"
    },
    "last": "2026-11-06T05:08:15.070784+00:00"
-  },
-  "S5142": {
-   "title": "Owen McCown throws 20-yard touchdown for UTSA",
-   "first": "2026-11-06T03:08:16.860787+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T02:21:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Owen McCown throws 20-yard touchdown for UTSA"
-   },
-   "last": "2026-11-06T03:08:16.860804+00:00"
-  },
-  "S5143": {
-   "title": "Kate Langfelder scores vs. Texas Tech",
-   "first": "2026-11-06T03:08:16.860809+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T02:09:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kate Langfelder scores in the 79' vs. Texas Tech"
-   },
-   "last": "2026-11-06T03:08:16.860814+00:00"
-  },
-  "S5144": {
-   "title": "AS Etoile Matoury 2026-27 fixtures",
-   "first": "2026-11-06T03:08:16.860818+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T01:33:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AS Etoile Matoury 2026-27 Fixtures"
-   },
-   "last": "2026-11-06T03:08:16.860822+00:00"
-  },
-  "S5145": {
-   "title": "Maye wins AFC Offensive Player of the Month for October",
-   "first": "2026-11-06T03:08:16.860824+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-05T23:37:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Maye wins AFC Offensive Player of the Month for October"
-   },
-   "last": "2026-11-06T03:08:16.860827+00:00"
   },
   "S5146": {
    "title": "Heat vs. Warriors (6 Nov, 2026) live score",
@@ -18752,9 +18702,35 @@
     "ESPN F1": "Vanderbilt 25-23 Mississippi State (Nov 7, 2026) Game Recap"
    },
    "last": "2026-11-08T03:06:05.831337+00:00"
+  },
+  "S5919": {
+   "title": "Brandon Johnson 8-yard TD in college football",
+   "first": "2026-11-08T03:11:09.341880+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T03:06:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Brandon Johnson finds the end zone for 8-yard TD"
+   },
+   "last": "2026-11-08T03:11:09.341897+00:00"
+  },
+  "S5920": {
+   "title": "KJ Bolden interception for Georgia in college football",
+   "first": "2026-11-08T03:11:09.341904+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T02:22:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "KJ Bolden picks off Trinidad Chambliss for Georgia"
+   },
+   "last": "2026-11-08T03:11:09.341909+00:00"
   }
  },
- "story_seq": 5918,
+ "story_seq": 5920,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18873,7 +18849,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T03:06:04.274650+00:00",
+ "last_run": "2026-11-08T03:11:07.433002+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
