@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5b94a42c34433167": "2026-10-25T13:28:09.971338+00:00",
-  "edb907fc0e83245e": "2026-10-25T13:28:09.971338+00:00",
-  "1dd77e0cb63e25f4": "2026-10-25T13:28:09.971338+00:00",
   "a6d00cee2efad526": "2026-10-25T13:33:07.342573+00:00",
   "e9f5b561b7e85aa5": "2026-10-25T13:33:07.342573+00:00",
   "4b4e4d18b324bfff": "2026-10-25T13:33:07.342573+00:00",
@@ -7792,7 +7789,12 @@
   "a70ff23fb65af894": "2026-11-08T13:17:21.912901+00:00",
   "ad207ae458d05877": "2026-11-08T13:22:28.611173+00:00",
   "c22436939d667b2a": "2026-11-08T13:27:21.189989+00:00",
-  "c2e79a12fce406d9": "2026-11-08T13:27:21.189989+00:00"
+  "c2e79a12fce406d9": "2026-11-08T13:27:21.189989+00:00",
+  "a95588a448ae85f2": "2026-11-08T13:32:26.787385+00:00",
+  "0cea4836d68ee0b4": "2026-11-08T13:32:26.787385+00:00",
+  "2a6d894a49926ff2": "2026-11-08T13:32:26.787385+00:00",
+  "92a5537a30fc2dfe": "2026-11-08T13:32:26.787385+00:00",
+  "6575e55d33b5cc04": "2026-11-08T13:32:26.787385+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8091,21 +8093,6 @@
    },
    "last": "2026-11-06T15:24:34.717399+00:00"
   },
-  "S5261": {
-   "title": "Bottas explains cause of Mexico crash; Cadillac changes parts",
-   "first": "2026-11-06T12:18:56.174984+00:00",
-   "sources": {
-    "GPblog": "2026-11-06T12:15:00+00:00",
-    "Motorsport.com Italia": "2026-11-06T13:24:57+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Bottas reveals what caused his Mexico crash as Cadillac changes parts for Brazil",
-    "Motorsport.com Italia": "F1 | Cadillac: la sospensione di Bottas ha ceduto perché… sciolta dal calore dei freni"
-   },
-   "last": "2026-11-06T13:29:41.041183+00:00"
-  },
   "S5271": {
    "title": "Boxing experts make predictions for Turhan-Baumgardner fight",
    "first": "2026-11-06T12:54:57.829467+00:00",
@@ -8157,19 +8144,6 @@
     "ESPN F1": "Mourinho warns Vinícius he is not a guaranteed Real Madrid start"
    },
    "last": "2026-11-06T13:44:45.917927+00:00"
-  },
-  "S5285": {
-   "title": "Sainz on Ferrari pressure behind Hamilton-Leclerc rivalry",
-   "first": "2026-11-06T13:29:41.041188+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-06T13:25:43+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Carlos Sainz lifts lid on the Ferrari pressure behind Hamilton and Leclerc’s rivalry"
-   },
-   "last": "2026-11-06T13:29:41.041193+00:00"
   },
   "S5286": {
    "title": "Mount Roskill South Asian food feature, not F1 news",
@@ -15551,7 +15525,8 @@
     "RacingNews365 NL": "2026-11-07T21:45:00+00:00",
     "Motorsport-Total": "2026-11-07T22:17:54+00:00",
     "Crash.net": "2026-11-07T22:29:49+00:00",
-    "GPblog": "2026-11-08T07:34:00+00:00"
+    "GPblog": "2026-11-08T07:34:00+00:00",
+    "Motorsport Week": "2026-11-08T13:26:56+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15559,9 +15534,10 @@
     "RacingNews365 NL": "Verstappen krijgt lachers op zijn hand: \"12 uur van mijn leven verspild!\"",
     "Motorsport-Total": "\"Ich habe die Premier League geschaut\": Verstappen spricht über die Regenpause - Motorsport-Total.com",
     "Crash.net": "Max Verstappen “lost 12 hours of my life I’ll never get back” with Brazil GP penalty",
-    "GPblog": "Verstappen Enjoyed Himself During the Red Flag: “I Watched Football”"
+    "GPblog": "Verstappen Enjoyed Himself During the Red Flag: “I Watched Football”",
+    "Motorsport Week": "How Max Verstappen stayed entertained during São Paulo red flag"
    },
-   "last": "2026-11-08T10:01:47.175702+00:00"
+   "last": "2026-11-08T13:32:32.837166+00:00"
   },
   "S5816": {
    "title": "Jack Ham hospitalized after medical emergency",
@@ -18680,9 +18656,61 @@
     "RacingNews365 NL": "Verstappen dolt met 'vader' Leclerc: \"Wordt alleen maar beter!\""
    },
    "last": "2026-11-08T13:27:23.481148+00:00"
+  },
+  "S6052": {
+   "title": "Preview: can Hamilton and Verstappen fight back at Interlagos",
+   "first": "2026-11-08T13:32:32.837127+00:00",
+   "sources": {
+    "Autosport": "2026-11-08T13:29:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?"
+   },
+   "last": "2026-11-08T13:32:32.837146+00:00"
+  },
+  "S6053": {
+   "title": "Ferrari says it chose to take Brazil grid penalties deliberately",
+   "first": "2026-11-08T13:32:32.837152+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T13:26:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Ferrari, la pioggia sarà un'alleata: a Interlagos rimonta possibile, ma Lewis non crede ai sorpassi"
+   },
+   "last": "2026-11-08T13:32:32.837158+00:00"
+  },
+  "S6054": {
+   "title": "Norris hopes for rain after admitting McLaren lacks dry pace",
+   "first": "2026-11-08T13:32:32.837170+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Norris prays for Sao Paulo GP rain after dry-pace warning over Mercedes"
+   },
+   "last": "2026-11-08T13:32:32.837174+00:00"
+  },
+  "S6055": {
+   "title": "Russell says Q1 conditions could cause a horrific accident",
+   "first": "2026-11-08T13:32:32.837177+00:00",
+   "sources": {
+    "AS": "2026-11-08T13:21:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "“Puede haber un accidente realmente horrible”"
+   },
+   "last": "2026-11-08T13:32:32.837181+00:00"
   }
  },
- "story_seq": 6051,
+ "story_seq": 6055,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18801,7 +18829,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T13:27:21.189989+00:00",
+ "last_run": "2026-11-08T13:32:26.787385+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
@@ -20431,6 +20459,11 @@
    "t": "2026-11-08T13:27:27.917767+00:00",
    "title": "Verstappen, baba olan Leclerc'e: \"Sadece daha iyi olacak!\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T13:32:40.953206+00:00",
+   "title": "Russell ve Norris Q1'deki koşullara tepki gösterdi",
+   "source": "AS"
   }
  ]
 }
