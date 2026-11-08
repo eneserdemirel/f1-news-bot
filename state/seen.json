@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "71e037294955ecea": "2026-10-25T23:03:49.038652+00:00",
-  "dcb8f8753de5b8ae": "2026-10-25T23:03:49.038652+00:00",
   "6aecc07a97ddb935": "2026-10-25T23:08:46.529754+00:00",
   "90859baaa41fc2e0": "2026-10-25T23:08:46.529754+00:00",
   "84db996a8c34658b": "2026-10-25T23:13:46.030307+00:00",
@@ -7865,7 +7863,9 @@
   "b94938e47d20de64": "2026-11-08T23:03:13.073376+00:00",
   "293074d9106960cd": "2026-11-08T23:03:13.073376+00:00",
   "0e6e27dc811a8ca2": "2026-11-08T23:03:13.073376+00:00",
-  "1063210a6d597ad9": "2026-11-08T23:03:13.073376+00:00"
+  "1063210a6d597ad9": "2026-11-08T23:03:13.073376+00:00",
+  "9219898e54d3d36e": "2026-11-08T23:08:10.697154+00:00",
+  "b262b0343b6cc9e1": "2026-11-08T23:08:10.697154+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8293,19 +8293,6 @@
     "GPblog": "Hamilton's Ferrari feud gives Wolff Rosberg déjà vu as he warns it may need to boil over"
    },
    "last": "2026-11-07T17:05:06.744140+00:00"
-  },
-  "S5465": {
-   "title": "Permane says Racing Bulls line-up decision close but not final",
-   "first": "2026-11-06T23:05:21.851543+00:00",
-   "sources": {
-    "GPblog": "2026-11-06T23:02:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Racing Bulls team boss reveals new update on Liam Lawson's F1 future"
-   },
-   "last": "2026-11-06T23:05:21.851561+00:00"
   },
   "S5466": {
    "title": "Longrun pace in Brazil: Antonelli dominates, Ferrari struggles",
@@ -18926,14 +18913,14 @@
    "title": "Michigan fires offensive coordinator Jason Beck",
    "first": "2026-11-08T22:53:17.961198+00:00",
    "sources": {
-    "ESPN F1": "2026-11-08T22:46:08+00:00"
+    "ESPN F1": "2026-11-08T22:40:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Michigan fires offensive coordinator Jason Beck after loss to Michigan State"
    },
-   "last": "2026-11-08T22:53:17.961202+00:00"
+   "last": "2026-11-08T23:08:12.542954+00:00"
   },
   "S6242": {
    "title": "Antonelli says team title matters more than Brazil result",
@@ -18973,9 +18960,22 @@
     "ESPN F1": "Stephan Soghomonian slots in the goal for Smu"
    },
    "last": "2026-11-08T23:03:16.951597+00:00"
+  },
+  "S6245": {
+   "title": "Jalen Duren to miss weeks with hamstring injury (NBA)",
+   "first": "2026-11-08T23:08:12.542926+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T22:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jalen Duren to miss at least two more weeks with hamstring injury"
+   },
+   "last": "2026-11-08T23:08:12.542945+00:00"
   }
  },
- "story_seq": 6244,
+ "story_seq": 6245,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19094,7 +19094,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-08T23:03:13.073376+00:00",
+ "last_run": "2026-11-08T23:08:10.697154+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
