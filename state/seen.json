@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6d8121040a0a2b2e": "2026-10-25T16:03:13.579041+00:00",
-  "a8186dc95153714f": "2026-10-25T16:03:13.579041+00:00",
   "67d0b7e5a6a205e1": "2026-10-25T16:08:04.893878+00:00",
   "ac17420d56c9aef9": "2026-10-25T16:13:09.623083+00:00",
   "6ed7e1a36049063f": "2026-10-25T16:13:09.623083+00:00",
@@ -7807,7 +7805,9 @@
   "99d6627604014585": "2026-11-08T16:02:22.187769+00:00",
   "3516fdec2a54a4c9": "2026-11-08T16:02:22.187769+00:00",
   "0b50c4a8d9247c8d": "2026-11-08T16:02:22.187769+00:00",
-  "59f42994be9172e8": "2026-11-08T16:02:22.187769+00:00"
+  "59f42994be9172e8": "2026-11-08T16:02:22.187769+00:00",
+  "51225b52452952ee": "2026-11-08T16:07:24.421559+00:00",
+  "b4aeb9ce6e77a8b9": "2026-11-08T16:07:24.421559+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18349,15 +18349,17 @@
    "first": "2026-11-08T14:52:24.089943+00:00",
    "sources": {
     "RacingNews365": "2026-11-08T14:45:00+00:00",
-    "PlanetF1": "2026-11-08T15:54:57+00:00"
+    "PlanetF1": "2026-11-08T15:54:57+00:00",
+    "GPblog": "2026-11-08T16:03:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Two further F1 drivers handed grid penalties in crazy Sao Paulo GP grid",
-    "PlanetF1": "FIA confirms yet more Brazilian GP penalties ahead of Grand Prix"
+    "PlanetF1": "FIA confirms yet more Brazilian GP penalties ahead of Grand Prix",
+    "GPblog": "Norris on pole as FIA penalties shake up final Sao Paulo GP starting grid"
    },
-   "last": "2026-11-08T15:57:30.421116+00:00"
+   "last": "2026-11-08T16:07:27.314626+00:00"
   },
   "S6069": {
    "title": "Vasseur revealed to have funded Ocon's 2016 Manor debut",
@@ -18713,37 +18715,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T16:02:22.187769+00:00",
+ "last_run": "2026-11-08T16:07:24.421559+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T16:05:37.025401+00:00",
-   "title": "Hirakawa, şampiyonları taklit ediyor: ilk puanını aldı",
-   "source": "AS"
-  },
-  {
-   "t": "2026-11-05T16:05:37.526778+00:00",
-   "title": "Câmara, Interlagos'un yanı sıra Haas'ın kalan yarışlarda da sahalara çıkmasını istiyor",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-05T16:05:37.997680+00:00",
-   "title": "Verstappen'in yeni takım kıyafetinde Adidas logosu görüldü",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-05T16:05:38.472087+00:00",
-   "title": "Pierre Gasly, Sao Paulo GP öncesi sabah erken saatte doping testine alındı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-05T16:05:38.931919+00:00",
-   "title": "Gasly, Marko ile çalışmanın kendisini her baskıya hazırladığını söyledi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-05T16:15:27.786807+00:00",
    "title": "2026 Sao Paulo Grand Prix hafta sonu öncesi canlı yayın",
