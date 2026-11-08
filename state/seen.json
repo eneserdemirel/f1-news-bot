@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "34c8caa53c1ba440": "2026-10-25T21:13:44.550992+00:00",
-  "1ce338629add63ad": "2026-10-25T21:13:44.550992+00:00",
-  "623e2ca3bb64eba1": "2026-10-25T21:13:44.550992+00:00",
-  "96e7414f714c9396": "2026-10-25T21:13:44.550992+00:00",
   "fa72395bf1be0ba4": "2026-10-25T21:28:47.621299+00:00",
   "f3132ea9f8564a9a": "2026-10-25T21:28:47.621299+00:00",
   "4b7f20259198e175": "2026-10-25T21:28:47.621299+00:00",
@@ -7876,7 +7872,12 @@
   "01df0391eedbc95c": "2026-11-08T21:08:12.666681+00:00",
   "7bb30e789ed16b0b": "2026-11-08T21:13:12.950710+00:00",
   "acc9576a0cf86140": "2026-11-08T21:13:12.950710+00:00",
-  "568e18edb94c6f40": "2026-11-08T21:13:12.950710+00:00"
+  "568e18edb94c6f40": "2026-11-08T21:13:12.950710+00:00",
+  "7065e561fde797ee": "2026-11-08T21:18:14.286306+00:00",
+  "49a3014193cd3f6a": "2026-11-08T21:18:14.286306+00:00",
+  "183ea0e4586c42c0": "2026-11-08T21:18:14.286306+00:00",
+  "a7690e8af90d1f85": "2026-11-08T21:18:14.286306+00:00",
+  "c02bf0d29536386b": "2026-11-08T21:18:14.286306+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8113,19 +8114,6 @@
     "ESPN F1": "Thomas Tuchel: 'Up and down' Jude Bellingham relationship now in 'good place'"
    },
    "last": "2026-11-06T22:00:22.006363+00:00"
-  },
-  "S5409": {
-   "title": "Verstappen comments on Brazil FP2 pace gaps",
-   "first": "2026-11-06T20:05:28.785266+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-06T20:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Motorfluisteraar Verstappen op de trekhaak in tweede training Brazilië"
-   },
-   "last": "2026-11-06T21:15:25.774478+00:00"
   },
   "S5423": {
    "title": "Liam Lawson backed for new F1 option if Racing Bulls drop him",
@@ -17905,7 +17893,8 @@
     "RacingNews365": "2026-11-08T19:10:00+00:00",
     "RacingNews365 NL": "2026-11-08T19:40:00+00:00",
     "Crash.net": "2026-11-08T20:16:22+00:00",
-    "GPblog": "2026-11-08T20:31:00+00:00"
+    "GPblog": "2026-11-08T20:31:00+00:00",
+    "PlanetF1": "2026-11-08T21:16:58+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -17913,9 +17902,10 @@
     "RacingNews365": "Lando Norris suffers podium disaster after smashing celebrations in Sao Paulo",
     "RacingNews365 NL": "Norris ontsnapt aan verwondingen tijdens podium-incident in Brazilië",
     "Crash.net": "Lando Norris suffers Brazil GP mishap as podium celebration goes wrong",
-    "GPblog": "Norris cannot stop breaking things on the podium after Brazilian GP win"
+    "GPblog": "Norris cannot stop breaking things on the podium after Brazilian GP win",
+    "PlanetF1": "Lando Norris suffers firework incident on dramatic Brazilian GP podium"
    },
-   "last": "2026-11-08T20:33:19.090672+00:00"
+   "last": "2026-11-08T21:18:20.106368+00:00"
   },
   "S6147": {
    "title": "Adam Rank on Bijan Robinson's fantasy performance vs Bengals",
@@ -18611,14 +18601,16 @@
    "title": "Antonelli explains 'weird' spin and car instability in Brazil",
    "first": "2026-11-08T21:03:21.135546+00:00",
    "sources": {
-    "Autosport": "2026-11-08T20:57:57+00:00"
+    "Autosport": "2026-11-08T20:57:57+00:00",
+    "Motorsport.com Italia": "2026-11-08T21:12:23+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win"
+    "Autosport": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
+    "Motorsport.com Italia": "F1 | Antonelli, vittoria sfumata tra i rimpianti: \"Sono arrabbiato, è successo qualcosa di anomalo alla vettura\""
    },
-   "last": "2026-11-08T21:03:21.135564+00:00"
+   "last": "2026-11-08T21:18:20.106356+00:00"
   },
   "S6200": {
    "title": "Luka Doncic sits out vs Pistons with back tightness",
@@ -18697,9 +18689,48 @@
     "ESPN F1": "Carrick backs Dalot after getting booed by Man United fans"
    },
    "last": "2026-11-08T21:13:15.163531+00:00"
+  },
+  "S6206": {
+   "title": "Jyi Dawkins and-1 basketball play highlight",
+   "first": "2026-11-08T21:18:20.106321+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T21:01:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jyi Dawkins gets the and-1 to fall"
+   },
+   "last": "2026-11-08T21:18:20.106339+00:00"
+  },
+  "S6207": {
+   "title": "Vermont vs Fairfield college basketball highlights",
+   "first": "2026-11-08T21:18:20.106345+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T21:01:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Vermont Catamounts vs. Fairfield Stags: Game Highlights"
+   },
+   "last": "2026-11-08T21:18:20.106350+00:00"
+  },
+  "S6208": {
+   "title": "Mekies praises Verstappen's Brazil podium drive",
+   "first": "2026-11-08T21:18:20.106359+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T21:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Mekies maakt diepe buiging voor Verstappen: \"Hij verslaat zelfs de simulator!\""
+   },
+   "last": "2026-11-08T21:18:20.106363+00:00"
   }
  },
- "story_seq": 6205,
+ "story_seq": 6208,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18818,22 +18849,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T21:13:12.950710+00:00",
+ "last_run": "2026-11-08T21:18:14.286306+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T21:15:34.077928+00:00",
-   "title": "Hamilton: Schumacher'in Interlagos rekoru ona göre yeterince iyi değil",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-05T21:15:34.543543+00:00",
-   "title": "Hamilton, Brezilya'da Ferrari ile Leclerc konusunu görüşmek istiyor",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-05T21:36:18.509613+00:00",
    "title": "Cadillac patronu Bottas'ın 2027 geleceği hakkında konuştu",
@@ -20393,6 +20414,11 @@
    "t": "2026-11-08T21:03:26.262587+00:00",
    "title": "Antonelli, Brezilya GP'sinde galibiyeti kaybettiren garip spini ve araç dengesizliğini anlattı",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-08T21:18:25.136737+00:00",
+   "title": "Mekies Verstappen'in performansını övdü: Simülatörü bile geçiyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
