@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c4c728cfb868d8f9": "2026-10-25T07:11:51.078801+00:00",
-  "2cefd549ead8c746": "2026-10-25T07:11:51.078801+00:00",
-  "a0e13491e556a329": "2026-10-25T07:11:51.078801+00:00",
   "ff098294703a1367": "2026-10-25T07:16:50.373998+00:00",
   "2ef8f601863ce87a": "2026-10-25T07:26:50.301446+00:00",
   "592d3539df5190f4": "2026-10-25T07:26:50.301446+00:00",
@@ -7783,7 +7780,14 @@
   "aa454259cbbb754c": "2026-11-08T06:51:08.728482+00:00",
   "6aaaec11369bc9e3": "2026-11-08T06:56:04.980045+00:00",
   "d882c814a1d71617": "2026-11-08T07:06:04.978656+00:00",
-  "c86e0bb1f8332529": "2026-11-08T07:06:04.978656+00:00"
+  "c86e0bb1f8332529": "2026-11-08T07:06:04.978656+00:00",
+  "582bbb53f5eb70cc": "2026-11-08T07:16:05.505748+00:00",
+  "1803d0fd5b7d1fdd": "2026-11-08T07:16:05.505748+00:00",
+  "7f7992c9ae68760b": "2026-11-08T07:16:05.505748+00:00",
+  "16d8f09256905655": "2026-11-08T07:16:05.505748+00:00",
+  "667a3cb781b826bd": "2026-11-08T07:16:05.505748+00:00",
+  "70b38db6f92fb342": "2026-11-08T07:16:05.505748+00:00",
+  "a1069cc1381afca4": "2026-11-08T07:16:05.505748+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16450,7 +16454,8 @@
     "Crash.net": "2026-11-07T21:06:59+00:00",
     "GPblog": "2026-11-07T21:15:00+00:00",
     "RacingNews365 NL": "2026-11-07T21:30:00+00:00",
-    "RacingNews365": "2026-11-07T22:00:00+00:00"
+    "RacingNews365": "2026-11-07T22:00:00+00:00",
+    "GPFans": "2026-11-08T07:14:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16460,9 +16465,10 @@
     "Crash.net": "F1 2026 Brazil Grand Prix: Mixed up starting grid after five engine penalties",
     "GPblog": "Brazilian GP provisional grid sees major changes after multiple penalties",
     "RacingNews365 NL": "Aangepaste startopstelling GP Brazilie 2026 na forse gridstraffen Verstappen en Hamilton",
-    "RacingNews365": "Sao Paulo GP starting grid heavily adjusted after severe Lewis Hamilton, Max Verstappen penalties"
+    "RacingNews365": "Sao Paulo GP starting grid heavily adjusted after severe Lewis Hamilton, Max Verstappen penalties",
+    "GPFans": "Amended F1 2026 Brazilian Grand Prix starting grid with all FIA penalties applied"
    },
-   "last": "2026-11-08T00:01:08.733120+00:00"
+   "last": "2026-11-08T07:16:11.713783+00:00"
   },
   "S5785": {
    "title": "Unidentified Motorsport-Total.com item with no content",
@@ -17459,14 +17465,16 @@
    "title": "Hamilton says he used qualifying as a test session",
    "first": "2026-11-07T23:05:38.890665+00:00",
    "sources": {
-    "Formula 1": "2026-11-07T23:05:38.890682+00:00"
+    "Formula 1": "2026-11-07T23:05:38.890682+00:00",
+    "FormulaPassion": "2026-11-08T07:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Hamilton reflects on grid penalties and PU changes in Brazil"
+    "Formula 1": "Hamilton reflects on grid penalties and PU changes in Brazil",
+    "FormulaPassion": "Hamilton: “Le qualifiche sono state un test. Adoro guidare sotto la pioggia”"
    },
-   "last": "2026-11-07T23:05:38.890685+00:00"
+   "last": "2026-11-08T07:16:11.713791+00:00"
   },
   "S5859": {
    "title": "PlanetF1 news roundup on Norris pole and penalties",
@@ -18905,9 +18913,74 @@
     "Motorsport-Total": "\"Er wollte sie unbedingt\": Verständnis für Russell-Ärger nach verpasster Pole - Motorsport-Total.com"
    },
    "last": "2026-11-08T06:56:08.204757+00:00"
+  },
+  "S5969": {
+   "title": "Michigan State 15-6 Michigan college football recap",
+   "first": "2026-11-08T07:16:11.713746+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T04:51:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michigan State 15-6 Michigan (Nov 7, 2026) Game Recap"
+   },
+   "last": "2026-11-08T07:16:11.713765+00:00"
+  },
+  "S5970": {
+   "title": "Lontrell Turner 9-yard rushing TD in college football",
+   "first": "2026-11-08T07:16:11.713771+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T04:06:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lontrell Turner scores 9-yard rushing TD"
+   },
+   "last": "2026-11-08T07:16:11.713777+00:00"
+  },
+  "S5971": {
+   "title": "Antonelli says third on grid is fine after Russell penalty",
+   "first": "2026-11-08T07:16:11.713795+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-08T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli: “Non sapevo cosa aspettarmi, la terza posizione va bene”"
+   },
+   "last": "2026-11-08T07:16:11.713799+00:00"
+  },
+  "S5972": {
+   "title": "Damon Hill says Ferrari should make Hamilton first driver",
+   "first": "2026-11-08T07:16:11.713803+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-08T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton-Leclerc, Damon Hill non ha dubbi: “La Ferrari deve eleggere Lewis prima guida”"
+   },
+   "last": "2026-11-08T07:16:11.713807+00:00"
+  },
+  "S5973": {
+   "title": "Wolff says Vasseur doesn't need his advice on Hamilton-Leclerc",
+   "first": "2026-11-08T07:16:11.713810+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-08T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Tensioni Hamilton-Leclerc, Wolff: “Vasseur non ha bisogno dei miei consigli, a volte servono episodi duri per chiarire le cose”"
+   },
+   "last": "2026-11-08T07:16:11.713814+00:00"
   }
  },
- "story_seq": 5968,
+ "story_seq": 5973,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19026,17 +19099,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T07:11:07.433830+00:00",
+ "last_run": "2026-11-08T07:16:05.505748+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T07:13:19.682441+00:00",
-   "title": "Kimi Antonelli, F1 tarihinin en genç şampiyonu oldu",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-05T07:33:16.653308+00:00",
    "title": "Rosberg, Hamilton'ı savunuyor: \"Hep Charles'ın hatası\"",
@@ -20676,6 +20744,11 @@
    "t": "2026-11-08T06:46:12.918487+00:00",
    "title": "Hadjar, kötü zamanlamadan dolayı hayal kırıklığına uğradı: \"Bu çok adaletsiz\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T07:16:17.542002+00:00",
+   "title": "Antonelli: Ne bekleyeceğimi bilmiyordum, üçüncülük iyi",
+   "source": "FormulaPassion"
   }
  ]
 }
