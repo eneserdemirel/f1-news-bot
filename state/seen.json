@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4ddd9c398c9f3cba": "2026-10-25T19:43:48.354955+00:00",
-  "fd424e687352428a": "2026-10-25T19:43:48.354955+00:00",
-  "f7ab59c3dc54f485": "2026-10-25T19:43:48.354955+00:00",
-  "f0c769d4e7d91b94": "2026-10-25T19:43:48.354955+00:00",
-  "7d42d2ea1ca997e2": "2026-10-25T19:43:48.354955+00:00",
   "c6080df5c8bfbc60": "2026-10-25T19:48:44.777520+00:00",
   "787c57064f2417b2": "2026-10-25T19:48:44.777520+00:00",
   "fb5c1e7aaa86f0e3": "2026-10-25T19:53:45.867497+00:00",
@@ -7832,7 +7827,11 @@
   "95d77ce189f35c3d": "2026-11-08T19:43:11.335346+00:00",
   "a159ec9e56d023bc": "2026-11-08T19:43:11.335346+00:00",
   "3af39be2f1f985b0": "2026-11-08T19:43:11.335346+00:00",
-  "dcc8f880b46bc3d9": "2026-11-08T19:43:11.335346+00:00"
+  "dcc8f880b46bc3d9": "2026-11-08T19:43:11.335346+00:00",
+  "226c4a5525c8a774": "2026-11-08T19:48:12.306495+00:00",
+  "0800035aca5074b8": "2026-11-08T19:48:12.306495+00:00",
+  "7e792171bb68eefc": "2026-11-08T19:48:12.306495+00:00",
+  "41a7516bec5ba1e8": "2026-11-08T19:48:12.306495+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8210,19 +8209,6 @@
     "ESPN F1": "Balagne vs. Montpellier (Nov 14, 2026) Live Score"
    },
    "last": "2026-11-06T23:10:17.869449+00:00"
-  },
-  "S5403": {
-   "title": "Gladbach vs Dortmund odds and spread (betting, not F1)",
-   "first": "2026-11-06T19:45:18.990304+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T19:39:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gladbach vs. Dortmund (Nov 21, 2026) Odds and Spread"
-   },
-   "last": "2026-11-06T19:45:18.990322+00:00"
   },
   "S5404": {
    "title": "Browns start Sanders at QB vs. Saints, Watson in protocol",
@@ -18426,14 +18412,16 @@
    "title": "Norris podium celebration mishap after Sao Paulo win",
    "first": "2026-11-08T19:18:15.607548+00:00",
    "sources": {
-    "RacingNews365": "2026-11-08T19:10:00+00:00"
+    "RacingNews365": "2026-11-08T19:10:00+00:00",
+    "RacingNews365 NL": "2026-11-08T19:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Lando Norris suffers podium disaster after smashing celebrations in Sao Paulo"
+    "RacingNews365": "Lando Norris suffers podium disaster after smashing celebrations in Sao Paulo",
+    "RacingNews365 NL": "Norris ontsnapt aan verwondingen tijdens podium-incident in Brazilië"
    },
-   "last": "2026-11-08T19:18:15.607567+00:00"
+   "last": "2026-11-08T19:48:15.849397+00:00"
   },
   "S6147": {
    "title": "Adam Rank on Bijan Robinson's fantasy performance vs Bengals",
@@ -18566,9 +18554,48 @@
     "PlanetF1": "FIA launches Charles Leclerc and Liam Lawson investigation at Brazilian GP"
    },
    "last": "2026-11-08T19:43:16.761764+00:00"
+  },
+  "S6157": {
+   "title": "Man United relegation risk after poor starts",
+   "first": "2026-11-08T19:48:15.849364+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T19:00:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United's poor starts have Premier League relegation looking more likely"
+   },
+   "last": "2026-11-08T19:48:15.849381+00:00"
+  },
+  "S6158": {
+   "title": "Pedro Martinez MLB resolution and 1994 strike comments",
+   "first": "2026-11-08T19:48:15.849386+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T15:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pedro Martinez appeals for MLB resolution, reflects on effects of 1994 strike"
+   },
+   "last": "2026-11-08T19:48:15.849392+00:00"
+  },
+  "S6159": {
+   "title": "Hamilton spin revealed in podium cooldown room footage",
+   "first": "2026-11-08T19:48:15.849400+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T19:44:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen and Norris shocked by Hamilton spin in Sao Paulo cooldown footage"
+   },
+   "last": "2026-11-08T19:48:15.849405+00:00"
   }
  },
- "story_seq": 6156,
+ "story_seq": 6159,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18687,17 +18714,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T19:43:11.335346+00:00",
+ "last_run": "2026-11-08T19:48:12.306495+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T19:45:31.965909+00:00",
-   "title": "Rafael Camara, Haas'taki F1 debütüne 'olağandışı' hazırlıklarla çıkıyor",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-05T19:55:38.850928+00:00",
    "title": "Ferrari pilotları Brezilya'da kritik toplantıya çağrılıyor",
@@ -20257,6 +20279,11 @@
    "t": "2026-11-08T19:43:20.467651+00:00",
    "title": "FIA, Brezilya GP'de Leclerc ve Lawson'ı soruşturuyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-08T19:48:20.276465+00:00",
+   "title": "Verstappen ve Norris, Hamilton'ın Interlagos'taki spinini görünce şaşırdı",
+   "source": "GPblog"
   }
  ]
 }
