@@ -1,21 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "18fc9cc7788c4fcc": "2026-10-25T10:47:27.607698+00:00",
-  "b251ce7c8d8c7e9f": "2026-10-25T10:47:27.607698+00:00",
-  "bc65f0eecc390ac1": "2026-10-25T10:47:27.607698+00:00",
-  "20ac0b4f03b831ac": "2026-10-25T10:47:27.607698+00:00",
-  "e957cda3dc767098": "2026-10-25T10:47:27.607698+00:00",
-  "8e6983a745487e0c": "2026-10-25T10:47:27.607698+00:00",
-  "547890932f400529": "2026-10-25T10:47:27.607698+00:00",
-  "f9b4d0ac76804f97": "2026-10-25T10:47:27.607698+00:00",
-  "743674dacce20652": "2026-10-25T10:47:27.607698+00:00",
-  "68d8cde97fd2b5db": "2026-10-25T10:47:27.607698+00:00",
-  "aa97733dae840459": "2026-10-25T10:47:27.607698+00:00",
-  "9bc6bb8bda0391ee": "2026-10-25T10:47:27.607698+00:00",
-  "8183b34f3d80a60c": "2026-10-25T10:47:27.607698+00:00",
-  "5f5b51ff421092be": "2026-10-25T10:47:27.607698+00:00",
-  "a76504f893d301d7": "2026-10-25T10:47:27.607698+00:00",
   "616051de015f9613": "2026-10-25T10:52:30.478526+00:00",
   "f06e6e1790b815c4": "2026-10-25T10:57:27.720288+00:00",
   "62e147f4fd55c336": "2026-10-25T10:57:27.720288+00:00",
@@ -7815,7 +7800,10 @@
   "c6f1ba1c9dc4cbf2": "2026-11-08T10:46:38.356370+00:00",
   "52f48394c4305fbc": "2026-11-08T10:46:38.356370+00:00",
   "ea65f57823d0b796": "2026-11-08T10:46:38.356370+00:00",
-  "b1f0bc2209d6631e": "2026-11-08T10:46:38.356370+00:00"
+  "b1f0bc2209d6631e": "2026-11-08T10:46:38.356370+00:00",
+  "e7220cb5ad92aa70": "2026-11-08T10:51:36.426730+00:00",
+  "17970c5898ce90e7": "2026-11-08T10:51:36.426730+00:00",
+  "4e02def5009f79bd": "2026-11-08T10:51:36.426730+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8156,19 +8144,6 @@
     "RacingNews365": "Kimi Antonelli issues health update after fighting Mexican illness"
    },
    "last": "2026-11-06T13:09:36.345391+00:00"
-  },
-  "S5228": {
-   "title": "Bortoleto and Colapinto back FIA stance on online abuse",
-   "first": "2026-11-06T10:48:56.698179+00:00",
-   "sources": {
-    "GPblog": "2026-11-06T10:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Bortoleto calls online abusers 'cowards' as Colapinto backs FIA push"
-   },
-   "last": "2026-11-06T10:48:56.698184+00:00"
   },
   "S5229": {
    "title": "Rain threatens Interlagos and could upend the Brazilian GP",
@@ -18934,9 +18909,48 @@
     "RacingNews365 NL": "Gevatte Alonso countert: \"Dan ben ik ineens te oud!\""
    },
    "last": "2026-11-08T10:46:43.156676+00:00"
+  },
+  "S6014": {
+   "title": "F1 drivers worried 2026 rules could hurt Brazilian GP overtaking",
+   "first": "2026-11-08T10:51:41.088536+00:00",
+   "sources": {
+    "The Race": "2026-11-08T10:48:17+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "What's got F1 drivers so worried about Brazilian GP spectacle"
+   },
+   "last": "2026-11-08T10:51:41.088554+00:00"
+  },
+  "S6015": {
+   "title": "Ralf Schumacher criticises Colton Herta's F1 prospects",
+   "first": "2026-11-08T10:51:41.088559+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-08T10:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Ralf Schumacher issues brutal Colton Herta criticism: 'Just burning fuel'"
+   },
+   "last": "2026-11-08T10:51:41.088563+00:00"
+  },
+  "S6016": {
+   "title": "McLaren only team bringing Sao Paulo upgrades, hinting at 2027 car",
+   "first": "2026-11-08T10:51:41.088566+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-08T10:35:48+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "McLaren shows a glimpse of what’s to come in F1 2027 with Sao Paulo upgrade"
+   },
+   "last": "2026-11-08T10:51:41.088569+00:00"
   }
  },
- "story_seq": 6013,
+ "story_seq": 6016,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19055,7 +19069,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T10:46:38.356370+00:00",
+ "last_run": "2026-11-08T10:51:36.426730+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20690,6 +20704,11 @@
    "t": "2026-11-08T10:46:49.417038+00:00",
    "title": "FIA, Perez'e pistte parça atması nedeniyle resmi uyarı verdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-08T10:51:47.722899+00:00",
+   "title": "F1 pilotları Brezilya GP'sinde yarış seyrinden endişeli",
+   "source": "The Race"
   }
  ]
 }
