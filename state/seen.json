@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0df809ddc4676645": "2026-10-25T10:23:07.887661+00:00",
-  "73d46b9ee8582c52": "2026-10-25T10:23:07.887661+00:00",
   "769a7b632d92be00": "2026-10-25T10:38:02.779267+00:00",
   "12173d0c0a12b0ae": "2026-10-25T10:43:06.089141+00:00",
   "8b48d67ed85d1442": "2026-10-25T10:43:06.089141+00:00",
@@ -7814,7 +7812,8 @@
   "4d1c30e03cf7cc66": "2026-11-08T10:06:35.033144+00:00",
   "6e3f4ddaf6bd5929": "2026-11-08T10:06:35.033144+00:00",
   "24fd2c6a128aca5d": "2026-11-08T10:21:38.230128+00:00",
-  "55cab895461d931f": "2026-11-08T10:21:38.230128+00:00"
+  "55cab895461d931f": "2026-11-08T10:21:38.230128+00:00",
+  "41ee593ed83a9c3a": "2026-11-08T10:26:38.328462+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8155,19 +8154,6 @@
     "PlanetF1": "Max Verstappen responds to Toto Wolff claim over F1 champion image"
    },
    "last": "2026-11-06T12:04:04.133139+00:00"
-  },
-  "S5222": {
-   "title": "Verstappen explains why Brazil idolises Senna over Piquet",
-   "first": "2026-11-06T10:23:58.619284+00:00",
-   "sources": {
-    "GPblog": "2026-11-06T10:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Max Verstappen explains why Brazil worships Senna over Piquet"
-   },
-   "last": "2026-11-06T10:23:58.619303+00:00"
   },
   "S5223": {
    "title": "Speculation on chaos at F1 season finale in war-affected region",
@@ -18979,9 +18965,22 @@
     "GPblog": "Fresh Iran war escalation raises stakes for F1’s Middle East finale"
    },
    "last": "2026-11-08T10:21:39.922141+00:00"
+  },
+  "S6012": {
+   "title": "Wolff says Antonelli could become like Gianni Agnelli",
+   "first": "2026-11-08T10:26:39.805029+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T10:22:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Toto Wolff: Kimi Antonelli soll ein bisschen so werden wie Gianni Agnelli - Motorsport-Total.com"
+   },
+   "last": "2026-11-08T10:26:39.805047+00:00"
   }
  },
- "story_seq": 6011,
+ "story_seq": 6012,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19100,17 +19099,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T10:21:38.230128+00:00",
+ "last_run": "2026-11-08T10:26:38.328462+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T10:24:03.130441+00:00",
-   "title": "Rosberg: Ferrari'de net bir yarış kuralı yok, Wolff bunu Mercedes'te açıkça belirlemişti",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-05T10:44:01.782363+00:00",
    "title": "Wolff, Antonelli'nin şampiyonluğunun Hamilton dönemiyle farkını anlattı",
@@ -20735,6 +20729,11 @@
    "t": "2026-11-08T10:21:43.791612+00:00",
    "title": "İran'da yeni saldırılar F1'in Orta Doğu finaline gölge düşürüyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T10:26:42.725679+00:00",
+   "title": "Toto Wolff: Kimi Antonelli, Gianni Agnelli'ye biraz benzemeli",
+   "source": "Motorsport-Total"
   }
  ]
 }
