@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bf8b3234cae2570c": "2026-10-25T00:46:06.758755+00:00",
-  "84c1490d849234f6": "2026-10-25T00:46:06.758755+00:00",
   "37fe18e5bdd8ea6d": "2026-10-25T00:51:08.886167+00:00",
   "5d6797da8d013757": "2026-10-25T00:51:08.886167+00:00",
   "f600eb12545b6d0f": "2026-10-25T00:51:08.886167+00:00",
@@ -7807,7 +7805,11 @@
   "92c92a2b3d2f6c4a": "2026-11-08T00:30:36.094865+00:00",
   "1ef4553cd33456d7": "2026-11-08T00:35:37.862906+00:00",
   "609d0a9891ba8f21": "2026-11-08T00:35:37.862906+00:00",
-  "ed8557095bd3c4ae": "2026-11-08T00:40:36.425869+00:00"
+  "ed8557095bd3c4ae": "2026-11-08T00:40:36.425869+00:00",
+  "56e0995d194791c5": "2026-11-08T00:50:35.081106+00:00",
+  "8b20d89fcdd95352": "2026-11-08T00:50:35.081106+00:00",
+  "1b3c169dd0b88a52": "2026-11-08T00:50:35.081106+00:00",
+  "5dc673dbba4f1c17": "2026-11-08T00:50:35.081106+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18713,9 +18715,61 @@
     "ESPN F1": "Cavan, Quinn Sullivan both score as Philadelphia Union soar into playoffs"
    },
    "last": "2026-11-08T00:40:37.807602+00:00"
+  },
+  "S5895": {
+   "title": "Middle Tennessee vs Western Kentucky college football game recap",
+   "first": "2026-11-08T00:50:37.633680+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:46:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Middle Tennessee 51-42 Western Kentucky (Nov 7, 2026) Game Recap"
+   },
+   "last": "2026-11-08T00:50:37.633692+00:00"
+  },
+  "S5896": {
+   "title": "Unidentified 'Where To Watch' page with no F1 content",
+   "first": "2026-11-08T00:50:37.633695+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:31:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Where To Watch"
+   },
+   "last": "2026-11-08T00:50:37.633699+00:00"
+  },
+  "S5897": {
+   "title": "Atletico Madrid vs Barcelona attack preview video",
+   "first": "2026-11-08T00:50:37.633701+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T00:29:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Can Atletico Madrid slow down Barcelona's stellar attack? | ESPN FC - Stream the Video - Watch ESPN"
+   },
+   "last": "2026-11-08T00:50:37.633704+00:00"
+  },
+  "S5898": {
+   "title": "LaNorris Sellers on South Carolina Gamecocks never losing faith",
+   "first": "2026-11-08T00:50:37.633706+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-07T23:55:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LaNorris Sellers on why the No. 21 Gamecocks never lost faith"
+   },
+   "last": "2026-11-08T00:50:37.633708+00:00"
   }
  },
- "story_seq": 5894,
+ "story_seq": 5898,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18834,7 +18888,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T00:45:32.972471+00:00",
+ "last_run": "2026-11-08T00:50:35.081106+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
