@@ -7804,7 +7804,11 @@
   "5d5fcced4273e175": "2026-11-08T08:56:39.407223+00:00",
   "1191847a10652e87": "2026-11-08T09:01:36.715464+00:00",
   "a8f04c2a589502e9": "2026-11-08T09:06:42.456925+00:00",
-  "c5fbc865384b2b02": "2026-11-08T09:11:36.335733+00:00"
+  "c5fbc865384b2b02": "2026-11-08T09:11:36.335733+00:00",
+  "fe848630b4a567b8": "2026-11-08T09:16:39.401754+00:00",
+  "6fa988c8eda21d11": "2026-11-08T09:16:39.401754+00:00",
+  "aae7d6b0371ec266": "2026-11-08T09:16:39.401754+00:00",
+  "25ac27b525b12757": "2026-11-08T09:16:39.401754+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18756,14 +18760,16 @@
    "title": "Explainer on why Verstappen starts ahead of Hamilton despite penalties",
    "first": "2026-11-08T07:26:09.847646+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-08T07:20:00+00:00"
+    "RacingNews365 NL": "2026-11-08T07:20:00+00:00",
+    "RacingNews365": "2026-11-08T09:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Gridstraffenbingo GP Brazilië: Waarom Hamilton voor Verstappen start ondanks dubbele straf"
+    "RacingNews365 NL": "Gridstraffenbingo GP Brazilië: Waarom Hamilton voor Verstappen start ondanks dubbele straf",
+    "RacingNews365": "Why Lewis Hamilton starts ahead of Max Verstappen despite bigger penalty explained"
    },
-   "last": "2026-11-08T07:26:09.847651+00:00"
+   "last": "2026-11-08T09:16:42.397011+00:00"
   },
   "S5979": {
    "title": "Analysis of how Alonso reached Q3 in the rain",
@@ -19000,9 +19006,48 @@
     "RacingNews365 NL": "Onverwachte troef kan Verstappen helpen wéér te stunten in Brazilië"
    },
    "last": "2026-11-08T08:56:42.731803+00:00"
+  },
+  "S5997": {
+   "title": "Hamilton's life and projects beyond Formula 1",
+   "first": "2026-11-08T09:16:42.396971+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T09:16:42.396988+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Hamilton's remarkable projects away from F1"
+   },
+   "last": "2026-11-08T09:16:42.396991+00:00"
+  },
+  "S5998": {
+   "title": "Rivals pay tribute as Hamilton reaches 400 starts",
+   "first": "2026-11-08T09:16:42.396996+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T09:16:42.396998+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Rivals pay tribute as Hamilton reaches 400 F1 starts"
+   },
+   "last": "2026-11-08T09:16:42.397000+00:00"
+  },
+  "S5999": {
+   "title": "Tyre strategy options for Sao Paulo GP race",
+   "first": "2026-11-08T09:16:42.397003+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T09:16:42.397005+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What are the tyre strategy options for the Sao Paulo GP?"
+   },
+   "last": "2026-11-08T09:16:42.397006+00:00"
   }
  },
- "story_seq": 5996,
+ "story_seq": 5999,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19121,7 +19166,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T09:11:36.335733+00:00",
+ "last_run": "2026-11-08T09:16:39.401754+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
@@ -20756,6 +20801,16 @@
    "t": "2026-11-08T08:51:41.351501+00:00",
    "title": "Permane, Kravitz'in Lawson sorusunu yanıtsız bıraktı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T09:16:47.402938+00:00",
+   "title": "Hamilton 400. F1 yarışına ulaştı, rakipleri tebrik etti",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-08T09:16:47.834334+00:00",
+   "title": "Sao Paulo GP'de lastik stratejisi seçenekleri neler?",
+   "source": "Formula 1"
   }
  ]
 }
