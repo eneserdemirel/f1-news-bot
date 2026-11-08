@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fd7fb1a46ae9e5a6": "2026-10-25T16:33:10.651828+00:00",
   "32c45755db1e8c13": "2026-10-25T16:38:07.078249+00:00",
   "ce7551b95f91d01e": "2026-10-25T16:38:07.078249+00:00",
   "2610def5d56b2568": "2026-10-25T16:38:07.078249+00:00",
@@ -7806,7 +7805,11 @@
   "51f775de0aa5d531": "2026-11-08T16:27:21.777385+00:00",
   "be89d0fe82348391": "2026-11-08T16:27:21.777385+00:00",
   "2723d88599c1aeee": "2026-11-08T16:27:21.777385+00:00",
-  "58022a2529dfb094": "2026-11-08T16:32:27.804452+00:00"
+  "58022a2529dfb094": "2026-11-08T16:32:27.804452+00:00",
+  "4080fb41f2dc6371": "2026-11-08T16:37:22.929561+00:00",
+  "6186726da6fd8235": "2026-11-08T16:37:22.929561+00:00",
+  "96ab79fc95b2b692": "2026-11-08T16:37:22.929561+00:00",
+  "01dbfe4b65465a4f": "2026-11-08T16:37:22.929561+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18579,9 +18582,48 @@
     "ESPN F1": "Adam Schefter's players to watch at the trade deadline"
    },
    "last": "2026-11-08T16:32:29.079937+00:00"
+  },
+  "S6095": {
+   "title": "Dutch derby cancelled after fans block team bus",
+   "first": "2026-11-08T16:37:27.478595+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T13:59:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dutch derby cancelled after De Graafschap fans block own team's bus from leaving"
+   },
+   "last": "2026-11-08T16:37:27.478614+00:00"
+  },
+  "S6096": {
+   "title": "Fans weigh in on Verstappen going from 21st to 1st",
+   "first": "2026-11-08T16:37:27.478620+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-08T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen handed sensational Sao Paulo Grand Prix verdict"
+   },
+   "last": "2026-11-08T16:37:27.478626+00:00"
+  },
+  "S6097": {
+   "title": "Antonelli spins on way to Sao Paulo GP grid",
+   "first": "2026-11-08T16:37:27.478630+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T16:32:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli suffers pre-race scare as he spins on way to Sao Paulo GP grid"
+   },
+   "last": "2026-11-08T16:37:27.478635+00:00"
   }
  },
- "story_seq": 6094,
+ "story_seq": 6097,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18700,17 +18742,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T16:32:27.804452+00:00",
+ "last_run": "2026-11-08T16:37:22.929561+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T16:35:31.803517+00:00",
-   "title": "Camara Haas'ta F1 debütü yapacak, F2 şampiyonluğundan vazgeçebilir",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-05T16:55:30.345803+00:00",
    "title": "Bottas, Mexico City'deki kazanın nedenini açıkladı: 'kırmızı bölge' sorunu",
@@ -20295,6 +20332,11 @@
    "t": "2026-11-08T16:22:38.137120+00:00",
    "title": "Sao Paulo Grand Prix'de resmi grid belli oldu",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-08T16:37:32.361407+00:00",
+   "title": "Antonelli, Sao Paulo GP grid yoluna giderken pistte spin attı",
+   "source": "GPblog"
   }
  ]
 }
