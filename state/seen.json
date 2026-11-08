@@ -7786,7 +7786,9 @@
   "6638091c4f76f551": "2026-11-08T12:41:35.700950+00:00",
   "1b43783a2991c477": "2026-11-08T12:46:37.795916+00:00",
   "46d29934fcc225e2": "2026-11-08T12:46:37.795916+00:00",
-  "2d28524c975df2c3": "2026-11-08T12:46:37.795916+00:00"
+  "2d28524c975df2c3": "2026-11-08T12:46:37.795916+00:00",
+  "d893a1c0e1243534": "2026-11-08T12:57:22.877967+00:00",
+  "bdd7d9bf07cd34c9": "2026-11-08T12:57:22.877967+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7948,21 +7950,6 @@
     "Motorsport-Total": "George Russell: In 14 Rennen hatte ich Probleme, nur sechs Rennen liefen glatt - Motorsport-Total.com"
    },
    "last": "2026-11-07T09:48:53.002761+00:00"
-  },
-  "S5195": {
-   "title": "Bottas comments on Hamilton-Leclerc Ferrari tension",
-   "first": "2026-11-06T08:49:08.366473+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-06T08:40:16+00:00",
-    "FormulaPassion": "2026-11-06T12:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton and Charles Leclerc Ferrari tension addressed by Bottas",
-    "FormulaPassion": "Bottas: “I rapporti tra Hamilton e Leclerc sono buoni, Lewis ha ritrovato lo smalto dei giorni migliori ed è normale avere brevi attriti”"
-   },
-   "last": "2026-11-06T12:54:57.829502+00:00"
   },
   "S5201": {
    "title": "Alan Permane signs new Racing Bulls team principal contract",
@@ -8191,19 +8178,6 @@
     "ESPN F1": "Boxing experts make predictions, picks for Elif Nur Turhan-Alycia Baumgardner"
    },
    "last": "2026-11-06T18:50:24.469704+00:00"
-  },
-  "S5272": {
-   "title": "Jets trading Quinnen Williams and Sauce Gardner, a year later",
-   "first": "2026-11-06T12:54:57.829489+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T11:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "How the Jets trading stars Quinnen Williams and Sauce Gardner looks a year later"
-   },
-   "last": "2026-11-06T12:54:57.829495+00:00"
   },
   "S5273": {
    "title": "WWE Crown Jewel preview with Zayn and Stratton",
@@ -18779,9 +18753,35 @@
     "GPblog": "Verstappen dismisses Herbert's criticism after intimidation accusation"
    },
    "last": "2026-11-08T12:46:42.233810+00:00"
+  },
+  "S6044": {
+   "title": "Russell responds to Hamilton's 'built differently' comment",
+   "first": "2026-11-08T12:57:25.868717+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-08T12:55:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton ‘built different’ comment under Russell microscope"
+   },
+   "last": "2026-11-08T12:57:25.868734+00:00"
+  },
+  "S6045": {
+   "title": "Official storm warning issued for Sao Paulo GP race day",
+   "first": "2026-11-08T12:57:25.868740+00:00",
+   "sources": {
+    "GPFans": "2026-11-08T12:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Brazilian GP under storm threat as official weather warning forecasts brutal conditions"
+   },
+   "last": "2026-11-08T12:57:25.868746+00:00"
   }
  },
- "story_seq": 6043,
+ "story_seq": 6045,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18900,27 +18900,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T12:52:21.247569+00:00",
+ "last_run": "2026-11-08T12:57:22.877967+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T12:54:01.583064+00:00",
-   "title": "2026 sezonunun kaosu yeni 2007 olabilir mi?",
-   "source": "ESPN F1"
-  },
-  {
-   "t": "2026-11-05T12:54:02.012166+00:00",
-   "title": "Red Bull'da Racing Bulls kadrosu için Lawson-Tsolov ikilemi",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-05T12:54:02.420315+00:00",
-   "title": "Brezilya GP'si ve Autodromo Jose Carlos Pace hakkında bilmeniz gerekenler",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-05T13:04:00.323280+00:00",
    "title": "Ecclestone: Antonelli 2-3 yılda Verstappen gibi olacak",
@@ -20550,6 +20535,11 @@
    "t": "2026-11-08T12:46:48.363295+00:00",
    "title": "Verstappen, Herbert'in eleştirilerini önemsemediğini söyledi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T12:57:30.026940+00:00",
+   "title": "Hamilton'ın 'farklı yapılmış' sözüne Russell'dan destek",
+   "source": "PlanetF1"
   }
  ]
 }
