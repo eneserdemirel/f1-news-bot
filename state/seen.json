@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3a0f1d367f0c1506": "2026-10-25T14:08:09.838246+00:00",
-  "cfacee602c4284a7": "2026-10-25T14:08:09.838246+00:00",
   "28715aaf97bb9247": "2026-10-25T14:13:05.813978+00:00",
   "77405c519621889d": "2026-10-25T14:13:05.813978+00:00",
   "de60cb36b32fdd67": "2026-10-25T14:13:05.813978+00:00",
@@ -7798,7 +7796,8 @@
   "b307815f3348d2df": "2026-11-08T14:02:26.306076+00:00",
   "5693ceaa5ab57393": "2026-11-08T14:07:23.030078+00:00",
   "e45d73a4a19cfc9e": "2026-11-08T14:07:23.030078+00:00",
-  "f580b19f19f3f5ae": "2026-11-08T14:07:23.030078+00:00"
+  "f580b19f19f3f5ae": "2026-11-08T14:07:23.030078+00:00",
+  "b9f2ae9af405fdb0": "2026-11-08T14:12:24.630871+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18720,9 +18719,22 @@
     "Motorsport.com Italia": "WEC | Monza, 4a Ora: Cadillac tenta una nuova fuga, BMW risale"
    },
    "last": "2026-11-08T14:07:28.166348+00:00"
+  },
+  "S6062": {
+   "title": "Sao Paulo GP may end up dry despite earlier rain fears",
+   "first": "2026-11-08T14:12:27.226759+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-08T14:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 drivers face major Sao Paulo GP headache after weather surprise"
+   },
+   "last": "2026-11-08T14:12:27.226776+00:00"
   }
  },
- "story_seq": 6061,
+ "story_seq": 6062,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18841,7 +18853,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T14:07:23.030078+00:00",
+ "last_run": "2026-11-08T14:12:24.630871+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
@@ -20481,6 +20493,11 @@
    "t": "2026-11-08T13:57:33.228187+00:00",
    "title": "Karun Chandhok, Lance Stroll'un direksiyon kullanımını 'garip' buldu",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-08T14:12:32.638609+00:00",
+   "title": "São Paulo GP'de hava tahmini tur stratejisini belirsizleştiriyor",
+   "source": "RacingNews365"
   }
  ]
 }
