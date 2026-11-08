@@ -7788,7 +7788,10 @@
   "d893a1c0e1243534": "2026-11-08T12:57:22.877967+00:00",
   "bdd7d9bf07cd34c9": "2026-11-08T12:57:22.877967+00:00",
   "94020c26769c2f34": "2026-11-08T13:02:21.910666+00:00",
-  "2faa9f0d6a64c625": "2026-11-08T13:12:30.224321+00:00"
+  "2faa9f0d6a64c625": "2026-11-08T13:12:30.224321+00:00",
+  "0a9b2a451f242ff7": "2026-11-08T13:17:21.912901+00:00",
+  "7c2dcaf465ba038c": "2026-11-08T13:17:21.912901+00:00",
+  "a70ff23fb65af894": "2026-11-08T13:17:21.912901+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8127,19 +8130,6 @@
     "ESPN F1": "Ranking the top 50 players in women's college basketball"
    },
    "last": "2026-11-06T17:09:42.387241+00:00"
-  },
-  "S5280": {
-   "title": "Verstappen says F1 has too many races, comments on Red Bull contract",
-   "first": "2026-11-06T13:14:37.394273+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-06T13:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Gevatte Verstappen wijst naar Red Bull-contract: \"Daar moeten we naar kijken!\""
-   },
-   "last": "2026-11-06T13:14:37.394280+00:00"
   },
   "S5281": {
    "title": "Max Dowman earns first England Under-21 call-up",
@@ -18650,9 +18640,35 @@
     "RacingNews365": "George Russell issues Mercedes engineer defence after 'wrong decision' frustration"
    },
    "last": "2026-11-08T13:02:25.955646+00:00"
+  },
+  "S6047": {
+   "title": "Column questions F1 safety versus money amid Iran tensions",
+   "first": "2026-11-08T13:17:24.805119+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T13:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Safety comes first - except when millions are at stake?"
+   },
+   "last": "2026-11-08T13:17:24.805137+00:00"
+  },
+  "S6048": {
+   "title": "Pirelli says no gap between full wet and intermediate tyres",
+   "first": "2026-11-08T13:17:24.805142+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-08T13:11:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Pirelli zufrieden: \"Keine Lücke\" zwischen Full-Wet-Regenreifen und Intermediate - Motorsport-Total.com"
+   },
+   "last": "2026-11-08T13:17:24.805148+00:00"
   }
  },
- "story_seq": 6046,
+ "story_seq": 6048,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18771,17 +18787,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T13:12:30.224321+00:00",
+ "last_run": "2026-11-08T13:17:21.912901+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T13:14:05.584294+00:00",
-   "title": "Brembo, José Carlos Pace'in adını taşıyan ödül için Gazzetta'dan haber",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-11-05T13:23:56.496225+00:00",
    "title": "Mercedes, uzun süredir beklenen motor güncellemesi için karar verdi",
@@ -20406,6 +20417,11 @@
    "t": "2026-11-08T12:57:30.026940+00:00",
    "title": "Hamilton'ın 'farklı yapılmış' sözüne Russell'dan destek",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-08T13:17:29.583528+00:00",
+   "title": "Pirelli: Full-wet ve intermediate lastikler arasında 'fark yok'",
+   "source": "Motorsport-Total"
   }
  ]
 }
