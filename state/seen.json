@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "30a60dbe2e5dd830": "2026-10-25T17:28:06.340411+00:00",
-  "e25fa40b46ff67c4": "2026-10-25T17:28:06.340411+00:00",
   "10acea2f5ebdf0ee": "2026-10-25T17:33:08.437937+00:00",
   "50d5f04699f0e291": "2026-10-25T17:33:08.437937+00:00",
   "5e8c30694644d790": "2026-10-25T17:33:08.437937+00:00",
@@ -7811,7 +7809,9 @@
   "1b027a700b16e153": "2026-11-08T17:12:23.099741+00:00",
   "a3fb924d20d0ec90": "2026-11-08T17:17:22.317491+00:00",
   "1248a7d3650c6715": "2026-11-08T17:27:24.312625+00:00",
-  "c8ea103dac47fd09": "2026-11-08T17:27:24.312625+00:00"
+  "c8ea103dac47fd09": "2026-11-08T17:27:24.312625+00:00",
+  "b2736f3247bc80de": "2026-11-08T17:32:26.701673+00:00",
+  "8fffc30c62117ac2": "2026-11-08T17:32:26.701673+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18447,9 +18447,35 @@
     "ESPN F1": "Genoa 1-2 Milan (Nov 8, 2026) Game Analysis"
    },
    "last": "2026-11-08T17:27:27.400429+00:00"
+  },
+  "S6108": {
+   "title": "Emma Peschel debut goal as U.S. beats Germany at hockey worlds",
+   "first": "2026-11-08T17:32:28.324487+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T17:29:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Emma Peschel scores in debut as U.S. shuts out Germany at women's hockey worlds"
+   },
+   "last": "2026-11-08T17:32:28.324509+00:00"
+  },
+  "S6109": {
+   "title": "Imane Khelif set for Paris boxing return in December",
+   "first": "2026-11-08T17:32:28.324515+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T17:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Olympic boxing champion Imane Khelif set for Paris return in December"
+   },
+   "last": "2026-11-08T17:32:28.324522+00:00"
   }
  },
- "story_seq": 6107,
+ "story_seq": 6109,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18568,7 +18594,7 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T17:27:24.312625+00:00",
+ "last_run": "2026-11-08T17:32:26.701673+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
