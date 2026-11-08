@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a19046d43f1e0c30": "2026-10-25T08:53:03.518438+00:00",
   "131770074c924383": "2026-10-25T08:58:13.836792+00:00",
   "06f0c3eb026b538a": "2026-10-25T09:08:04.477101+00:00",
   "f807f663e6246696": "2026-10-25T09:08:04.477101+00:00",
@@ -7804,7 +7803,8 @@
   "f8a090a56616fae0": "2026-11-08T08:41:35.877634+00:00",
   "7a03e1d4ba1b577a": "2026-11-08T08:46:40.484276+00:00",
   "035cbc7a54e47062": "2026-11-08T08:46:40.484276+00:00",
-  "270794ca1a6d0fd2": "2026-11-08T08:51:35.168938+00:00"
+  "270794ca1a6d0fd2": "2026-11-08T08:51:35.168938+00:00",
+  "5d5fcced4273e175": "2026-11-08T08:56:39.407223+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -19048,9 +19048,22 @@
     "GPblog": "Permane walks away as Kravitz confronts him over Lawson: 'They can't sack him now'"
    },
    "last": "2026-11-08T08:51:37.212591+00:00"
+  },
+  "S5996": {
+   "title": "RacingNews365 video: rain could help Verstappen's Brazil comeback",
+   "first": "2026-11-08T08:56:42.731782+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T08:53:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Onverwachte troef kan Verstappen helpen wéér te stunten in Brazilië"
+   },
+   "last": "2026-11-08T08:56:42.731803+00:00"
   }
  },
- "story_seq": 5995,
+ "story_seq": 5996,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19169,17 +19182,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T08:51:35.168938+00:00",
+ "last_run": "2026-11-08T08:56:39.407223+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T08:53:42.275920+00:00",
-   "title": "Katar, F1 yarışı yaklaşırken büyük bir etkinliği iptal etti",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-05T09:03:23.687925+00:00",
    "title": "Piastri neden bu kadar zorlanıyor?",
