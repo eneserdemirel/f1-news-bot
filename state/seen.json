@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "73508e062fad31b3": "2026-10-25T09:33:05.474396+00:00",
   "ae55be90e4ba484e": "2026-10-25T09:38:07.754554+00:00",
   "804c5c2e4974fdcd": "2026-10-25T09:43:07.240424+00:00",
   "bf613bd0110dd372": "2026-10-25T09:48:04.220410+00:00",
@@ -7812,7 +7811,8 @@
   "576f4abf619782a5": "2026-11-08T09:26:37.089337+00:00",
   "d966afbb5157bfd7": "2026-11-08T09:31:56.878053+00:00",
   "448ab5097be8a830": "2026-11-08T09:31:56.878053+00:00",
-  "0b4daf71d3a66048": "2026-11-08T09:31:56.878053+00:00"
+  "0b4daf71d3a66048": "2026-11-08T09:31:56.878053+00:00",
+  "5e1cf7e79378d7c9": "2026-11-08T09:36:35.692753+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -19066,9 +19066,22 @@
     "GPblog": "Verstappen and Hamilton start at the back in Brazil with a tyre advantage their rivals spent"
    },
    "last": "2026-11-08T09:32:01.544030+00:00"
+  },
+  "S6004": {
+   "title": "Corriere dello Sport guide to Brazil GP start time and TV coverage",
+   "first": "2026-11-08T09:36:38.521249+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-08T09:27:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Formula 1 Gp Brasile, orario e dove vederlo in tv e streaming"
+   },
+   "last": "2026-11-08T09:36:38.521268+00:00"
   }
  },
- "story_seq": 6003,
+ "story_seq": 6004,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19187,27 +19200,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T09:31:56.878053+00:00",
+ "last_run": "2026-11-08T09:36:35.692753+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T09:34:00.494729+00:00",
-   "title": "Mark Hughes: Alan Jones rakiplerini korkuttu, Williams için mükemmeldi",
-   "source": "The Race"
-  },
-  {
-   "t": "2026-11-05T09:34:00.909125+00:00",
-   "title": "Constructeurs yarışında Mercedes lider, McLaren ile Red Bull arasında mücadele sürüyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-05T09:34:01.334100+00:00",
-   "title": "Verstappen yalnız değil: F1'de üst düzey isimler Katar'da 'en kötü senaryodan' endişe ediyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-05T09:44:02.252353+00:00",
    "title": "Hamilton ile Leclerc arasındaki çatışma rotası nasıl oluştu?",
