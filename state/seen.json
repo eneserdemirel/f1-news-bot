@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "841665658e93474f": "2026-10-25T22:43:49.041851+00:00",
-  "13076915c94e7276": "2026-10-25T22:43:49.041851+00:00",
-  "33b865bbeef97c38": "2026-10-25T22:43:49.041851+00:00",
-  "61fc78ebc8cc6264": "2026-10-25T22:43:49.041851+00:00",
   "526d2d8e177249b7": "2026-10-25T22:48:45.433917+00:00",
   "3482e55036ee4a7b": "2026-10-25T22:48:45.433917+00:00",
   "0258bc2ae079c414": "2026-10-25T22:53:57.967063+00:00",
@@ -7867,7 +7863,9 @@
   "db78e7359285dfde": "2026-11-08T22:33:13.173038+00:00",
   "9ca9be469209734f": "2026-11-08T22:38:14.740171+00:00",
   "9a1dbde27e511b8c": "2026-11-08T22:38:14.740171+00:00",
-  "1313fd1eade26159": "2026-11-08T22:43:14.160567+00:00"
+  "1313fd1eade26159": "2026-11-08T22:43:14.160567+00:00",
+  "8069521d0e1bb2eb": "2026-11-08T22:48:11.001362+00:00",
+  "edaa3c2171ecf7d3": "2026-11-08T22:48:11.001362+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8188,19 +8186,6 @@
    },
    "last": "2026-11-07T16:45:08.271933+00:00"
   },
-  "S5442": {
-   "title": "Gazzetta highlights: Antonelli and Norris split Brazil practice sessions",
-   "first": "2026-11-06T21:25:27.322592+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-06T21:18:32+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "F1, GP Brasile: highlights prove libere. Antonelli e Norris si dividono le sessioni"
-   },
-   "last": "2026-11-06T22:45:28.722459+00:00"
-  },
   "S5447": {
    "title": "Norris says early McLaren upgrade verdict is positive",
    "first": "2026-11-06T21:45:20.932605+00:00",
@@ -8289,19 +8274,6 @@
     "RacingNews365 NL": "Red Bull grijpt in na opvallend probleem bij Verstappen: \"Had geen zin meer\""
    },
    "last": "2026-11-07T06:08:48.115745+00:00"
-  },
-  "S5462": {
-   "title": "Teams and drivers report back from Friday practice in Brazil",
-   "first": "2026-11-06T22:45:28.722445+00:00",
-   "sources": {
-    "Formula 1": "2026-11-06T22:45:28.722448+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "What the teams said – Friday in Brazil"
-   },
-   "last": "2026-11-06T22:45:28.722451+00:00"
   },
   "S5463": {
    "title": "Wolff sees Ferrari déjà vu and says escalation is sometimes needed",
@@ -18917,9 +18889,35 @@
     "Sky Sports F1": "'Not many sports teams have done it' - Wolff 'proud' of Mercedes turnaround"
    },
    "last": "2026-11-08T22:38:18.252330+00:00"
+  },
+  "S6238": {
+   "title": "Patrick Mahomes fantasy football QB outlook",
+   "first": "2026-11-08T22:48:13.254432+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T22:34:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What kind of fantasy QB is Patrick Mahomes right now?"
+   },
+   "last": "2026-11-08T22:48:13.254455+00:00"
+  },
+  "S6239": {
+   "title": "SkyPad analysis of Verstappen's 21st-to-2nd Sao Paulo drive",
+   "first": "2026-11-08T22:48:13.254461+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-08T19:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "SkyPad analysis: How Verstappen went from 21st to 2nd at the Sao Paulo GP!"
+   },
+   "last": "2026-11-08T22:48:13.254466+00:00"
   }
  },
- "story_seq": 6237,
+ "story_seq": 6239,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19038,17 +19036,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T22:43:14.160567+00:00",
+ "last_run": "2026-11-08T22:48:11.001362+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T22:46:13.900644+00:00",
-   "title": "F1'in gelirleri rekor kırdı: 3. çeyrekte 1,1 milyar dolar",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-05T22:56:13.012374+00:00",
    "title": "Câmara'nın Ocon'un Haas koltuğunu alması isteniyor",
