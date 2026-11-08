@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7542f77c40ead8ed": "2026-10-25T11:32:27.641989+00:00",
-  "96edee74266f0ada": "2026-10-25T11:32:27.641989+00:00",
-  "ec82a6824b1efd41": "2026-10-25T11:32:27.641989+00:00",
-  "9c3371efbb0240d2": "2026-10-25T11:32:27.641989+00:00",
   "aab368fc01e08f28": "2026-10-25T11:37:30.495105+00:00",
   "295d101c56e97898": "2026-10-25T11:37:30.495105+00:00",
   "b2d008a098d1fe93": "2026-10-25T11:37:30.495105+00:00",
@@ -7792,7 +7788,10 @@
   "4a0e6d457ae7a396": "2026-11-08T11:21:35.796337+00:00",
   "d5df5e87a95acdf4": "2026-11-08T11:26:39.293442+00:00",
   "432916a9bf46328c": "2026-11-08T11:26:39.293442+00:00",
-  "8aa8e06ba19a5c7c": "2026-11-08T11:31:35.941387+00:00"
+  "8aa8e06ba19a5c7c": "2026-11-08T11:31:35.941387+00:00",
+  "50935bfce06c07f7": "2026-11-08T11:36:44.785651+00:00",
+  "6eff2215c412fbbf": "2026-11-08T11:36:44.785651+00:00",
+  "efa8de1898ca279e": "2026-11-08T11:36:44.785651+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8161,19 +8160,6 @@
     "RacingNews365 NL": "Lewis Hamilton bereikt duizelingwekkende mijlpaal in Brazilië"
    },
    "last": "2026-11-06T14:19:43.617203+00:00"
-  },
-  "S5246": {
-   "title": "College football top 40 freshmen ranking for 2026",
-   "first": "2026-11-06T11:33:55.520483+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T11:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ranking college football's top 40 freshmen in 2026"
-   },
-   "last": "2026-11-06T11:33:55.520500+00:00"
   },
   "S5247": {
    "title": "Conor Coady announces retirement from football at 33",
@@ -16024,7 +16010,8 @@
     "Motorsport.com Italia": "2026-11-07T22:25:30+00:00",
     "Motorsport-Total": "2026-11-07T23:03:17+00:00",
     "FormulaPassion": "2026-11-08T06:00:00+00:00",
-    "GPFans": "2026-11-08T11:27:00+00:00"
+    "GPFans": "2026-11-08T11:27:00+00:00",
+    "Motorsport Week": "2026-11-08T11:31:04+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16037,9 +16024,10 @@
     "Motorsport.com Italia": "F1 | Hamilton conciliante: \"Abbiamo voltato pagina. E ora divertiamoci perché adoro Interlagos con l'acqua\"",
     "Motorsport-Total": "Frieden bei Ferrari? Hamilton und Leclerc reden über Aussprache in Brasilien - Motorsport-Total.com",
     "FormulaPassion": "Hamilton: “Nessuna richiesta da parte mia o di Leclerc. Abbiamo appianato le cose”",
-    "GPFans": "Lewis Hamilton and Charles Leclerc held crisis talks - but 'Fred hasn't cleared the air'"
+    "GPFans": "Lewis Hamilton and Charles Leclerc held crisis talks - but 'Fred hasn't cleared the air'",
+    "Motorsport Week": "Lewis Hamilton issues crucial update in Charles Leclerc Mexico spat"
    },
-   "last": "2026-11-08T11:31:38.447511+00:00"
+   "last": "2026-11-08T11:36:48.631653+00:00"
   },
   "S5813": {
    "title": "Reyna injury for Strasbourg and USMNT (non-F1)",
@@ -16684,14 +16672,16 @@
    "title": "Alonso disappointed despite first Q3 of the season in Brazil",
    "first": "2026-11-07T23:10:39.077974+00:00",
    "sources": {
-    "Crash.net": "2026-11-07T23:09:58+00:00"
+    "Crash.net": "2026-11-07T23:09:58+00:00",
+    "FormulaPassion": "2026-11-08T11:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Why Fernando Alonso was disappointed despite Brazil GP qualifying heroics"
+    "Crash.net": "Why Fernando Alonso was disappointed despite Brazil GP qualifying heroics",
+    "FormulaPassion": "Alonso in Q3 da eroe, ma non è contento: “Prima gomme fredde come il ghiaccio, poi batteria scarica”"
    },
-   "last": "2026-11-07T23:10:39.077996+00:00"
+   "last": "2026-11-08T11:36:48.631658+00:00"
   },
   "S5861": {
    "title": "Brazil qualifying result changed overnight due to engine penalties",
@@ -18861,9 +18851,22 @@
     "RacingNews365 NL": "Verstappen zonder enige twijfel: \"Altijd, anders stop ik ermee!\""
    },
    "last": "2026-11-08T11:26:41.305325+00:00"
+  },
+  "S6026": {
+   "title": "Preview of Hamilton's greatest F1 victory before 400th start",
+   "first": "2026-11-08T11:36:48.631624+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-08T11:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "What is greatest Lewis Hamilton F1 victory ahead of landmark 400th start?"
+   },
+   "last": "2026-11-08T11:36:48.631645+00:00"
   }
  },
- "story_seq": 6025,
+ "story_seq": 6026,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18982,32 +18985,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T11:31:35.941387+00:00",
+ "last_run": "2026-11-08T11:36:44.785651+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-07 22:00",
  "last_digest_at": "2026-11-07T19:00:12.667410+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T11:34:12.526427+00:00",
-   "title": "Hamilton, Meksika GP galibiyetini neyin mahrum ettiğini açıkladı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-05T11:34:12.933147+00:00",
-   "title": "Leclerc, Brezilya GP medya gününü kaçıracak",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-05T11:34:13.343081+00:00",
-   "title": "Verstappen ve Red Bull şampiyonluk formuna doğru yükseliyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-05T11:34:13.772568+00:00",
-   "title": "F1 ekipmanları Katar'a yola çıktı, tahliye planları hazırlandı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-05T12:03:57.100273+00:00",
    "title": "Rossi, Antonelli'yi över: \"Altı dünya şampiyonluğu kazanabilir\"",
@@ -20642,6 +20625,11 @@
    "t": "2026-11-08T11:26:46.027387+00:00",
    "title": "Verstappen: \"Altijd, anders stop ik ermee!\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T11:36:53.388460+00:00",
+   "title": "Hamilton'ın en büyük F1 zaferi hangisi? 400. yarış öncesi okuyucular oylıyor",
+   "source": "RacingNews365"
   }
  ]
 }
