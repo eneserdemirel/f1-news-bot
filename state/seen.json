@@ -7795,7 +7795,10 @@
   "8c13874e45ace59c": "2026-11-08T15:07:27.210740+00:00",
   "bb4b3738a5c7b151": "2026-11-08T15:07:27.210740+00:00",
   "823d51c000163f1e": "2026-11-08T15:17:25.323380+00:00",
-  "512c00bdb6ba6bba": "2026-11-08T15:17:25.323380+00:00"
+  "512c00bdb6ba6bba": "2026-11-08T15:17:25.323380+00:00",
+  "ac7e23e223507353": "2026-11-08T15:27:24.578484+00:00",
+  "08a4138f952f1f70": "2026-11-08T15:27:24.578484+00:00",
+  "9e3383abf53e80b0": "2026-11-08T15:27:24.578484+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8007,19 +8010,6 @@
    },
    "last": "2026-11-07T07:33:53.663255+00:00"
   },
-  "S5255": {
-   "title": "Retrospective on LeBron James' first game in Philadelphia",
-   "first": "2026-11-06T12:04:04.133097+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T11:57:12+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Inside LeBron's first game in Philly -- more than two decades ago"
-   },
-   "last": "2026-11-06T15:24:34.717399+00:00"
-  },
   "S5271": {
    "title": "Boxing experts make predictions for Turhan-Baumgardner fight",
    "first": "2026-11-06T12:54:57.829467+00:00",
@@ -8148,32 +8138,6 @@
     "ESPN F1": "Iraola not panicking after consecutive Liverpool defeats"
    },
    "last": "2026-11-06T15:44:40.843380+00:00"
-  },
-  "S5316": {
-   "title": "De Zerbi on Tottenham's Luca Williams-Barnett",
-   "first": "2026-11-06T15:24:34.717363+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T15:17:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Roberto De Zerbi: Tottenham rising star Luca Williams-Barnett ready to start matches"
-   },
-   "last": "2026-11-06T15:24:34.717380+00:00"
-  },
-  "S5317": {
-   "title": "Notre Dame-Miami rivalry's seven memorable games",
-   "first": "2026-11-06T15:24:34.717386+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T14:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Notre Dame-Miami rivalry defined by seven memorable games"
-   },
-   "last": "2026-11-06T15:24:34.717392+00:00"
   },
   "S5318": {
    "title": "Antonelli frames championship photo with Hamilton and Verstappen",
@@ -17525,15 +17489,17 @@
    "first": "2026-11-08T08:51:37.212569+00:00",
    "sources": {
     "GPblog": "2026-11-08T08:51:00+00:00",
-    "PlanetF1": "2026-11-08T14:06:35+00:00"
+    "PlanetF1": "2026-11-08T14:06:35+00:00",
+    "Crash.net": "2026-11-08T15:25:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Permane walks away as Kravitz confronts him over Lawson: 'They can't sack him now'",
-    "PlanetF1": "Ted Kravitz challenges Racing Bulls over Liam Lawson’s uncertain future"
+    "PlanetF1": "Ted Kravitz challenges Racing Bulls over Liam Lawson’s uncertain future",
+    "Crash.net": "Ted Kravitz insists Racing Bulls ‘can’t sack’ Liam Lawson amid 2027 uncertainty"
    },
-   "last": "2026-11-08T14:07:28.166363+00:00"
+   "last": "2026-11-08T15:27:28.640938+00:00"
   },
   "S5996": {
    "title": "RacingNews365 video: rain could help Verstappen's Brazil comeback",
@@ -17840,14 +17806,16 @@
    "title": "Live blog: Brazilian GP race, Norris leads Antonelli early",
    "first": "2026-11-08T11:01:48.375867+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-08T11:00:00+00:00"
+    "FormulaPassion": "2026-11-08T11:00:00+00:00",
+    "Sky Sports F1": "2026-11-08T15:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "F1 GP Brasile 2026, gara: Norris davanti ad Antonelli, le Ferrari e Max cercano la rimonta. Partenza alle 18.00 – DIRETTA"
+    "FormulaPassion": "F1 GP Brasile 2026, gara: Norris davanti ad Antonelli, le Ferrari e Max cercano la rimonta. Partenza alle 18.00 – DIRETTA",
+    "Sky Sports F1": "Sao Paulo GP: Norris on pole as rain arrives with Hamilton and Verstappen at back LIVE!"
    },
-   "last": "2026-11-08T11:01:48.375889+00:00"
+   "last": "2026-11-08T15:27:28.640915+00:00"
   },
   "S6020": {
    "title": "Weekly New England Patriots notes on trade deadline",
@@ -18584,9 +18552,22 @@
     "ESPN F1": "Conor McGregor insists it has to be Max Holloway for final UFC fight"
    },
    "last": "2026-11-08T15:17:26.996306+00:00"
+  },
+  "S6076": {
+   "title": "Uncertainty over rain and dry conditions for Sao Paulo race",
+   "first": "2026-11-08T15:27:28.640924+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-08T15:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen en co. met grote vraagtekens GP Brazilië in"
+   },
+   "last": "2026-11-08T15:27:28.640931+00:00"
   }
  },
- "story_seq": 6075,
+ "story_seq": 6076,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18705,22 +18686,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T15:22:21.215434+00:00",
+ "last_run": "2026-11-08T15:27:24.578484+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T15:24:35.584383+00:00",
-   "title": "Wolff: Russell'ın aleyhine işleyen, pilotun kontrolü dışındaki koşullar oldu",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-05T15:24:43.297852+00:00",
-   "title": "Krack, F1'in Orta Doğu kararı öncesi medyayı korku yaymakla suçladı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-05T15:44:36.577306+00:00",
    "title": "Antonelli, Senna'nın mezarını ziyaret etti",
