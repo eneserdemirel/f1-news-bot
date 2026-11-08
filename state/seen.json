@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "42f9ead9b74dfe0d": "2026-10-25T20:43:49.586112+00:00",
-  "b71268845d645cd5": "2026-10-25T20:43:49.586112+00:00",
-  "57834bd5aeb2ce17": "2026-10-25T20:43:49.586112+00:00",
-  "ee624fc686429961": "2026-10-25T20:43:49.586112+00:00",
   "0da82225da2831bc": "2026-10-25T20:48:44.234336+00:00",
   "2100ece802c9bcba": "2026-10-25T20:53:46.727866+00:00",
   "d2661e66f6daadee": "2026-10-25T20:53:46.727866+00:00",
@@ -7864,7 +7860,9 @@
   "587623f5a4ad5367": "2026-11-08T20:38:11.475972+00:00",
   "e214f7231312acd6": "2026-11-08T20:43:14.406044+00:00",
   "a76504f893d301d7": "2026-11-08T20:43:14.406044+00:00",
-  "c9a895469206dbac": "2026-11-08T20:43:14.406044+00:00"
+  "c9a895469206dbac": "2026-11-08T20:43:14.406044+00:00",
+  "a78426bdc7c83170": "2026-11-08T20:48:10.788739+00:00",
+  "92708a5e2f24548c": "2026-11-08T20:48:10.788739+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8213,19 +8211,6 @@
     "ESPN F1": "Jessica Pegula: Hot mic comments about Mirra Andreeva an 'unfortunate situation'"
    },
    "last": "2026-11-06T20:55:18.187929+00:00"
-  },
-  "S5432": {
-   "title": "Jerry Jones says paying coaches never an issue",
-   "first": "2026-11-06T20:45:22.782973+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T18:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cowboys' Jerry Jones says paying coaches never been an issue"
-   },
-   "last": "2026-11-06T20:45:22.782980+00:00"
   },
   "S5433": {
    "title": "Knicks appreciative of Taylor Swift after fandom question",
@@ -18620,9 +18605,35 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-08T20:43:17.796429+00:00"
+  },
+  "S6191": {
+   "title": "Verstappen reflects on overtaking many cars from P21",
+   "first": "2026-11-08T20:48:15.020774+00:00",
+   "sources": {
+    "Formula 1": "2026-11-08T20:48:15.020790+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Verstappen reflects on 'challenging' P21 to podium charge"
+   },
+   "last": "2026-11-08T20:48:15.020794+00:00"
+  },
+  "S6192": {
+   "title": "Kravitz criticises Racing Bulls over delayed Lawson contract after Brazil",
+   "first": "2026-11-08T20:48:15.020799+00:00",
+   "sources": {
+    "GPFans": "2026-11-08T20:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Sky Sports F1 presenter savages Racing Bulls over Liam Lawson contract decision"
+   },
+   "last": "2026-11-08T20:48:15.020804+00:00"
   }
  },
- "story_seq": 6190,
+ "story_seq": 6192,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18741,22 +18752,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T20:43:14.406044+00:00",
+ "last_run": "2026-11-08T20:48:10.788739+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T20:45:31.665417+00:00",
-   "title": "F1 2026 São Paulo Grand Prix perşembe basın toplantısı yapıldı",
-   "source": "FIA"
-  },
-  {
-   "t": "2026-11-05T20:45:32.166852+00:00",
-   "title": "Hirakawa'nın yerine Camara Brezilya'da F1 debutosunu yapacak",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-05T20:55:34.300518+00:00",
    "title": "Russell, 2026 sezonundaki \"korkunç şanssızlıkları\" sorguluyor",
@@ -20336,6 +20337,11 @@
    "t": "2026-11-08T20:38:25.117124+00:00",
    "title": "Verstappen, yağmurlu Brezilya'da başarının ardındaki etkeni açıkladı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-08T20:48:23.224063+00:00",
+   "title": "Sky Sports'tan Ted Kravitz, Racing Bulls'u Liam Lawson sözleşmesindeki gecikme nedeniyle eleştirdi",
+   "source": "GPFans"
   }
  ]
 }
