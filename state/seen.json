@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "10acea2f5ebdf0ee": "2026-10-25T17:33:08.437937+00:00",
-  "50d5f04699f0e291": "2026-10-25T17:33:08.437937+00:00",
-  "5e8c30694644d790": "2026-10-25T17:33:08.437937+00:00",
-  "4842c70a8525191d": "2026-10-25T17:33:08.437937+00:00",
-  "31f186777b73246f": "2026-10-25T17:33:08.437937+00:00",
   "ae5dec029bcae98c": "2026-10-25T17:38:05.626500+00:00",
   "6e441a53ebd19c70": "2026-10-25T17:38:05.626500+00:00",
   "1768fa9edcafec6a": "2026-10-25T17:43:09.621176+00:00",
@@ -7811,7 +7806,11 @@
   "1248a7d3650c6715": "2026-11-08T17:27:24.312625+00:00",
   "c8ea103dac47fd09": "2026-11-08T17:27:24.312625+00:00",
   "b2736f3247bc80de": "2026-11-08T17:32:26.701673+00:00",
-  "8fffc30c62117ac2": "2026-11-08T17:32:26.701673+00:00"
+  "8fffc30c62117ac2": "2026-11-08T17:32:26.701673+00:00",
+  "47c1beafb1740f40": "2026-11-08T17:37:23.013135+00:00",
+  "fee8e5729940df4a": "2026-11-08T17:37:23.013135+00:00",
+  "2727768a347b3788": "2026-11-08T17:37:23.013135+00:00",
+  "45728d94df54b91c": "2026-11-08T17:37:23.013135+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8171,19 +8170,6 @@
     "Formula 1": "LIVE COVERAGE: Second practice in Sao Paulo"
    },
    "last": "2026-11-06T18:50:24.469694+00:00"
-  },
-  "S5358": {
-   "title": "NFL Week 9 betting preview and TD predictions",
-   "first": "2026-11-06T17:34:34.835711+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T17:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday"
-   },
-   "last": "2026-11-06T17:34:34.835728+00:00"
   },
   "S5359": {
    "title": "FIA stewards reach decision on Colton Herta after Brazil incident",
@@ -18472,10 +18458,49 @@
    "titles": {
     "ESPN F1": "Olympic boxing champion Imane Khelif set for Paris return in December"
    },
-   "last": "2026-11-08T17:32:28.324522+00:00"
+   "last": "2026-11-08T17:37:28.333960+00:00"
+  },
+  "S6110": {
+   "title": "NBA fantasy hoops adds and betting picks",
+   "first": "2026-11-08T17:37:28.333972+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T16:32:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sunday's fantasy hoops adds, NBA bets to make: Nets, Clippers offer value"
+   },
+   "last": "2026-11-08T17:37:28.333979+00:00"
+  },
+  "S6111": {
+   "title": "Elche 0-2 Betis match team stats",
+   "first": "2026-11-08T17:37:28.333983+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T13:04:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Elche 0-2 Betis (Nov 8, 2026) Team Stats"
+   },
+   "last": "2026-11-08T17:37:28.333988+00:00"
+  },
+  "S6112": {
+   "title": "Antonelli spins out of Brazilian GP lead after radio message",
+   "first": "2026-11-08T17:37:28.333994+00:00",
+   "sources": {
+    "GPblog": "2026-11-08T17:36:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli spins out of Brazilian GP lead moments after alarming radio message"
+   },
+   "last": "2026-11-08T17:37:28.333998+00:00"
   }
  },
- "story_seq": 6109,
+ "story_seq": 6112,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18594,22 +18619,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T17:32:26.701673+00:00",
+ "last_run": "2026-11-08T17:37:23.013135+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T17:35:34.430009+00:00",
-   "title": "Verstappen, Red Bull'a 'antivirüs' kurduğunu söylüyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-05T17:35:35.103032+00:00",
-   "title": "F1, Apple'ın ABD dışındaki yayın haklarına da girmek isteyeceğini düşünüyor",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-05T17:45:32.248659+00:00",
    "title": "Camara, Ocon'un yerine Haas'ta F1 debütü yapacak",
@@ -20158,6 +20173,11 @@
   {
    "t": "2026-11-08T17:12:32.738635+00:00",
    "title": "Antonelli güzel startla liderliği aldı; Hamilton ve Verstappen de öne çıktı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-08T17:37:32.490571+00:00",
+   "title": "Antonelli, Brezilya GP'sinde liderliği kaybetti: Pistte döndü",
    "source": "GPblog"
   }
  ]
