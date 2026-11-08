@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e3b71ef97eec482c": "2026-10-25T23:28:44.840229+00:00",
-  "7cf935742832ebbd": "2026-10-25T23:28:44.840229+00:00",
-  "81b48835eed9373b": "2026-10-25T23:28:44.840229+00:00",
   "3020c7adc28df92a": "2026-10-25T23:33:48.811757+00:00",
   "06537e24eb235b91": "2026-10-25T23:33:48.811757+00:00",
   "6bd699c524348b49": "2026-10-25T23:33:48.811757+00:00",
@@ -7849,7 +7846,8 @@
   "b262b0343b6cc9e1": "2026-11-08T23:08:10.697154+00:00",
   "2340e09eab9f2615": "2026-11-08T23:18:10.861895+00:00",
   "0b9d63123a6c2ba1": "2026-11-08T23:18:50.330508+00:00",
-  "c224ad02614c9e45": "2026-11-08T23:23:43.077290+00:00"
+  "c224ad02614c9e45": "2026-11-08T23:23:43.077290+00:00",
+  "c377bee82e45b831": "2026-11-08T23:28:47.968062+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8279,45 +8277,6 @@
     "Motorsport.com Italia": "F1 | Ferrari, Interlagos è un brusco risveglio: mezzo secondo da recuperare sul passo gara"
    },
    "last": "2026-11-07T09:43:49.878211+00:00"
-  },
-  "S5468": {
-   "title": "Operário PR vs. Sport (Nov 6) live score",
-   "first": "2026-11-06T23:25:20.144937+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T22:44:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Operário PR vs. Sport (Nov 6, 2026) Live Score"
-   },
-   "last": "2026-11-06T23:25:20.144955+00:00"
-  },
-  "S5469": {
-   "title": "Gazzetta Ferrari item with no headline content",
-   "first": "2026-11-06T23:25:20.144961+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-06T21:31:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Ferrari"
-   },
-   "last": "2026-11-06T23:25:20.144966+00:00"
-  },
-  "S5470": {
-   "title": "The Race winners and losers from Brazil GP Friday practice",
-   "first": "2026-11-06T23:25:58.560237+00:00",
-   "sources": {
-    "The Race": "2026-11-06T23:25:22+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Winners & losers from F1 2026 Brazilian GP Friday practice"
-   },
-   "last": "2026-11-06T23:25:58.560256+00:00"
   },
   "S5471": {
    "title": "Chicó FC vs. Inter Bogotá team stats",
@@ -18957,9 +18916,22 @@
     "Formula 1": "How Lawson stated his case with a brilliant Brazilian weekend"
    },
    "last": "2026-11-08T23:23:44.877436+00:00"
+  },
+  "S6248": {
+   "title": "Nicol says Chelsea are a shambles defensively under Alonso",
+   "first": "2026-11-08T23:28:49.233423+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T22:57:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nicol: Chelsea are a shambles defensively under Alonso"
+   },
+   "last": "2026-11-08T23:28:49.233440+00:00"
   }
  },
- "story_seq": 6247,
+ "story_seq": 6248,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19078,7 +19050,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-08T23:23:43.077290+00:00",
+ "last_run": "2026-11-08T23:28:47.968062+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
