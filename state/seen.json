@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bf20bdb412589cad": "2026-10-25T14:43:07.490940+00:00",
-  "645f14b0cb321a9d": "2026-10-25T14:43:07.490940+00:00",
-  "5409ed9f48985c9e": "2026-10-25T14:43:07.490940+00:00",
   "3b908fa437b724a9": "2026-10-25T14:48:10.157801+00:00",
   "acee6c72344d6a61": "2026-10-25T14:48:10.157801+00:00",
   "27d29ea054315192": "2026-10-25T14:53:08.756058+00:00",
@@ -7794,7 +7791,9 @@
   "8ac9d9e5db07fbe1": "2026-11-08T14:37:41.002516+00:00",
   "1d64d078d51175ca": "2026-11-08T14:37:41.002516+00:00",
   "24e042a8e7225b4d": "2026-11-08T14:37:41.002516+00:00",
-  "7ca7327f7c90cf8e": "2026-11-08T14:42:20.671711+00:00"
+  "7ca7327f7c90cf8e": "2026-11-08T14:42:20.671711+00:00",
+  "86ce529af5b69e9a": "2026-11-08T14:47:23.669140+00:00",
+  "3c83020b661bcc31": "2026-11-08T14:47:23.669140+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8006,19 +8005,6 @@
    },
    "last": "2026-11-07T07:33:53.663255+00:00"
   },
-  "S5247": {
-   "title": "Conor Coady announces retirement from football at 33",
-   "first": "2026-11-06T11:44:01.380283+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T11:28:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Former England and Wrexham defender Conor Coady announces retirement from football at 33"
-   },
-   "last": "2026-11-06T14:44:36.439163+00:00"
-  },
   "S5253": {
    "title": "Live coverage of Brazilian GP FP1 session",
    "first": "2026-11-06T11:54:00.685324+00:00",
@@ -8143,19 +8129,6 @@
    },
    "last": "2026-11-06T20:00:43.923788+00:00"
   },
-  "S5304": {
-   "title": "GOA vs Bengaluru match team stats",
-   "first": "2026-11-06T14:44:36.439112+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T14:38:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "GOA vs. Bengaluru (6 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-06T14:44:36.439139+00:00"
-  },
   "S5305": {
    "title": "Iraola says Liverpool are too honest on refereeing",
    "first": "2026-11-06T14:44:36.439143+00:00",
@@ -8168,19 +8141,6 @@
     "ESPN F1": "Liverpool are 'too honest' a team - Andoni Iraola on recent refereeing decisions"
    },
    "last": "2026-11-06T16:54:42.155180+00:00"
-  },
-  "S5306": {
-   "title": "New Zealand vs India second ODI match preview",
-   "first": "2026-11-06T14:44:36.439153+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T14:38:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Match Preview New Zealand vs India, 2nd ODI 2026"
-   },
-   "last": "2026-11-06T14:44:36.439157+00:00"
   },
   "S5307": {
    "title": "Mahmud says beating a batter feels good",
@@ -18612,9 +18572,35 @@
     "ESPN F1": "Bayern Munich's Manuel Neuer set for spell on sidelines with foot injury"
    },
    "last": "2026-11-08T14:37:43.465674+00:00"
+  },
+  "S6066": {
+   "title": "Rosario Central mistakenly celebrate Argentine title after Boca winner",
+   "first": "2026-11-08T14:47:26.540983+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T14:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rosario Central celebrate Argentina title by mistake after late Boca Juniors winner"
+   },
+   "last": "2026-11-08T14:47:26.541000+00:00"
+  },
+  "S6067": {
+   "title": "Analysis: Sao Paulo GP likely two-stop strategy, Hard tyre key",
+   "first": "2026-11-08T14:47:26.541006+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-08T14:41:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | GP di San Paolo del Brasile, strategie: si va verso le 2 soste e attenzione alle Hard"
+   },
+   "last": "2026-11-08T14:47:26.541012+00:00"
   }
  },
- "story_seq": 6065,
+ "story_seq": 6067,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18733,17 +18719,12 @@
   ]
  ],
  "calendar_updated": "2026-11-07T22:50:24.032900+00:00",
- "last_run": "2026-11-08T14:42:20.671711+00:00",
+ "last_run": "2026-11-08T14:47:23.669140+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 15:00",
  "last_digest_at": "2026-11-08T12:01:37.855338+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-05T14:44:31.901459+00:00",
-   "title": "Verstappen'in olası şanzıman cezasına dair yeni detaylar",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-05T15:04:38.462380+00:00",
    "title": "San Marino, Kimi Antonelli'yi 'Dünya Şampiyonu 2026' yazısıyla karşıladı",
@@ -20363,6 +20344,11 @@
    "t": "2026-11-08T14:12:32.638609+00:00",
    "title": "São Paulo GP'de hava tahmini tur stratejisini belirsizleştiriyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-08T14:47:30.826950+00:00",
+   "title": "Brezilya GP'de strateji: İki pit stop bekleniyor, Hard lastik önemli olabilir",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
