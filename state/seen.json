@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0a077cdd574257a4": "2026-10-26T13:01:08.786944+00:00",
-  "f2dc9200b0f338a8": "2026-10-26T13:01:08.786944+00:00",
-  "f1d5d1713d376509": "2026-10-26T13:01:08.786944+00:00",
-  "aa5a041a3d5bb954": "2026-10-26T13:01:08.786944+00:00",
   "93e5cce8d71c4738": "2026-10-26T13:11:14.687902+00:00",
   "132b4a5912a07b8f": "2026-10-26T13:11:14.687902+00:00",
   "b40f89d060c372c6": "2026-10-26T13:11:14.687902+00:00",
@@ -7781,7 +7777,12 @@
   "846f2540966fe972": "2026-11-09T12:45:01.977822+00:00",
   "54fd89503b4fc75d": "2026-11-09T12:55:05.110668+00:00",
   "72b8bd6b31025cf6": "2026-11-09T12:55:05.110668+00:00",
-  "0fa4d2ae58667396": "2026-11-09T12:55:05.110668+00:00"
+  "0fa4d2ae58667396": "2026-11-09T12:55:05.110668+00:00",
+  "e8743246991a35f8": "2026-11-09T13:05:04.589453+00:00",
+  "b76c607bf825153d": "2026-11-09T13:05:04.589453+00:00",
+  "ef57bbc4fe870340": "2026-11-09T13:05:04.589453+00:00",
+  "0d1b7cce6c3f126a": "2026-11-09T13:05:04.589453+00:00",
+  "ec1a4734c0406088": "2026-11-09T13:05:04.589453+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8051,45 +8052,6 @@
     "ESPN F1": "Man United's JJ Gabriel amid Real Madrid move talk: 'Dream to win a Ballon d'Or'"
    },
    "last": "2026-11-07T15:39:18.005019+00:00"
-  },
-  "S5624": {
-   "title": "Arizona onside kick and late field goal beat TCU",
-   "first": "2026-11-07T12:59:17.384540+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T11:09:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arizona grabs onside kick, hits late FG to pull out TCU win"
-   },
-   "last": "2026-11-07T12:59:17.384561+00:00"
-  },
-  "S5625": {
-   "title": "Official storm warning issued for Sao Paulo region ahead of Brazil GP",
-   "first": "2026-11-07T12:59:17.384567+00:00",
-   "sources": {
-    "GPFans": "2026-11-07T12:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Brazilian Grand Prix weather fears as official storm warning issued in Sao Paulo region"
-   },
-   "last": "2026-11-07T12:59:17.384573+00:00"
-  },
-  "S5626": {
-   "title": "Qatar GP shelter plans revealed for drivers and teams under attack",
-   "first": "2026-11-07T13:04:15.402425+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Revealed: where F1 drivers and teams would shelter if the Qatar GP weekend comes under attack"
-   },
-   "last": "2026-11-07T13:04:15.402445+00:00"
   },
   "S5627": {
    "title": "Bristol City vs Norwich City live score",
@@ -15293,7 +15255,7 @@
     "PlanetF1": "Lando Norris suffers firework incident on dramatic Brazilian GP podium",
     "Motorsport-Total": "Norris zerlegt Champagner und läuft in Feuerwerk: Podium-Panne geht viral - Motorsport-Total.com"
    },
-   "last": "2026-11-08T21:38:22.863836+00:00"
+   "last": "2026-11-09T13:05:12.665499+00:00"
   },
   "S6147": {
    "title": "Adam Rank on Bijan Robinson's fantasy performance vs Bengals",
@@ -18433,7 +18395,7 @@
    "titles": {
     "ESPN F1": "Sir Jim Ratcliffe chose to appoint rookies at Man United, and it has them facing relegation﻿ fight"
    },
-   "last": "2026-11-09T12:45:04.108318+00:00"
+   "last": "2026-11-09T13:05:12.665480+00:00"
   },
   "S6379": {
    "title": "ESPN power rankings of top 25 after Week 10 (not F1)",
@@ -18452,14 +18414,18 @@
    "title": "Hamilton reacts on social media to unravelled Sao Paulo GP",
    "first": "2026-11-09T12:55:09.359711+00:00",
    "sources": {
-    "RacingNews365": "2026-11-09T12:44:00+00:00"
+    "RacingNews365": "2026-11-09T12:44:00+00:00",
+    "RacingNews365 NL": "2026-11-09T13:00:00+00:00",
+    "GPFans": "2026-11-09T12:57:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Lewis Hamilton ‘devastated’ as Sao Paulo GP unravels after ‘rocket’ start"
+    "RacingNews365": "Lewis Hamilton ‘devastated’ as Sao Paulo GP unravels after ‘rocket’ start",
+    "RacingNews365 NL": "Hamilton 'kapot' na teleurstellend einde GP Brazilië",
+    "GPFans": "Lewis Hamilton seeks Ferrari answers after 'devastating' end to Brazilian GP"
    },
-   "last": "2026-11-09T12:55:09.359716+00:00"
+   "last": "2026-11-09T13:05:12.665504+00:00"
   },
   "S6381": {
    "title": "Motorsport-Total driver ratings from Sao Paulo GP",
@@ -18473,9 +18439,22 @@
     "Motorsport-Total": "Fotostrecke: Sao Paulo: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
    },
    "last": "2026-11-09T12:55:09.359724+00:00"
+  },
+  "S6382": {
+   "title": "Hadjar says he never faced so many challenges in one race",
+   "first": "2026-11-09T13:05:12.665509+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-09T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hadjar: “Non ho mai dovuto affrontare così tante sfide in una sola corsa”"
+   },
+   "last": "2026-11-09T13:05:12.665514+00:00"
   }
  },
- "story_seq": 6381,
+ "story_seq": 6382,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18594,22 +18573,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T12:55:05.110668+00:00",
+ "last_run": "2026-11-09T13:05:04.589453+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T12:59:58.167755+00:00",
-   "title": "Perez, Cadillac F1 satış söylentilerine tepki gösterdi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-06T12:59:58.766853+00:00",
-   "title": "McLaren'ın 2027 ön kanadı Brezilya'da ortaya çıktı",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-06T13:09:40.531631+00:00",
    "title": "Hülkenberg, Williams'ın blokajı için FIA'nın bunu yasaklaması gerektiğini söyledi",
@@ -20179,6 +20148,16 @@
    "t": "2026-11-09T12:25:13.072314+00:00",
    "title": "Norris, McLaren'ın gelişimi konusunda temkinli: \"Hâlâ yapılacak işler var\"",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-09T13:05:20.191375+00:00",
+   "title": "Hamilton, Brezilya GP'sinden hayal kırıklığıyla ayrıldı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T13:05:20.780906+00:00",
+   "title": "Hadjar: “Tek bir yarışta bu kadar çok zorlukla hiç karşılaşmadım”",
+   "source": "FormulaPassion"
   }
  ]
 }
