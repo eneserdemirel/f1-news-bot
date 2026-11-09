@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "95b9d7de25c18c36": "2026-10-26T08:00:18.289947+00:00",
   "50f707fc8a4fe886": "2026-10-26T08:10:18.277742+00:00",
   "c8826265c5b0c25d": "2026-10-26T08:10:18.277742+00:00",
   "864ac39dd8a74ea8": "2026-10-26T08:20:17.070987+00:00",
@@ -7784,7 +7783,11 @@
   "f6734709c3ff0263": "2026-11-09T07:54:15.335239+00:00",
   "3d59b95acd26bcb5": "2026-11-09T07:54:15.335239+00:00",
   "33fec21bdb9526f8": "2026-11-09T07:54:15.335239+00:00",
-  "91f693fe88a0658c": "2026-11-09T07:54:15.335239+00:00"
+  "91f693fe88a0658c": "2026-11-09T07:54:15.335239+00:00",
+  "12549973503c95b6": "2026-11-09T08:04:15.580829+00:00",
+  "fffbb0958781fe08": "2026-11-09T08:04:15.580829+00:00",
+  "6f38cfe8bbbf4f76": "2026-11-09T08:04:15.580829+00:00",
+  "adcf9d550f306929": "2026-11-09T08:04:15.580829+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8215,45 +8218,6 @@
     "ESPN F1": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy"
    },
    "last": "2026-11-07T08:28:47.073799+00:00"
-  },
-  "S5563": {
-   "title": "Brundle says Hamilton sent Italy a message over Mexico radio",
-   "first": "2026-11-07T07:58:49.884222+00:00",
-   "sources": {
-    "GPFans": "2026-11-07T07:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Martin Brundle claims Lewis Hamilton 'sent a message to Italy' as Brit eyes being Ferrari No. 1"
-   },
-   "last": "2026-11-07T07:58:49.884245+00:00"
-  },
-  "S5564": {
-   "title": "Russell says Mercedes Mexico investigation has ended",
-   "first": "2026-11-07T08:04:00.450747+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T08:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell 'praying' Mercedes issues end as post-Mexico investigation launched"
-   },
-   "last": "2026-11-07T08:04:00.450766+00:00"
-  },
-  "S5565": {
-   "title": "Verstappen exposes Red Bull problem after Brazil practice",
-   "first": "2026-11-07T08:04:00.450770+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T08:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen legt probleem met Red Bull bloot in Brazilië"
-   },
-   "last": "2026-11-07T08:04:00.450775+00:00"
   },
   "S5566": {
    "title": "San Antonio vs Portland after Wembanyama's 52-point game",
@@ -18664,9 +18628,61 @@
     "ESPN F1": "Titans WR Ridley involved in incident at Nashville airport"
    },
    "last": "2026-11-09T07:54:19.230528+00:00"
+  },
+  "S6326": {
+   "title": "Analysis of Verstappen's 30-place penalty Interlagos podium drive",
+   "first": "2026-11-09T08:04:23.122058+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "How Max Verstappen turned a 30-place penalty into another Interlagos miracle"
+   },
+   "last": "2026-11-09T08:04:23.122075+00:00"
+  },
+  "S6327": {
+   "title": "Verstappen admires Hamilton's Brazil start",
+   "first": "2026-11-09T08:04:23.122081+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Max Verstappen jaloers op Lewis Hamilton: \"Hem lukte dat wél!\""
+   },
+   "last": "2026-11-09T08:04:23.122086+00:00"
+  },
+  "S6328": {
+   "title": "Official Brazil GP results changed after several post-race penalties",
+   "first": "2026-11-09T08:04:23.122091+00:00",
+   "sources": {
+    "GPFans": "2026-11-09T07:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 Brazilian Grand Prix results changed as FIA announce post-race penalties"
+   },
+   "last": "2026-11-09T08:04:23.122096+00:00"
+  },
+  "S6329": {
+   "title": "Alonso and Krack on Honda's five retirements in three races",
+   "first": "2026-11-09T08:04:23.122099+00:00",
+   "sources": {
+    "AS": "2026-11-09T07:51:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Un espejismo de Alonso mientras los problemas se agravan"
+   },
+   "last": "2026-11-09T08:04:23.122104+00:00"
   }
  },
- "story_seq": 6325,
+ "story_seq": 6329,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18785,17 +18801,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T07:54:15.335239+00:00",
+ "last_run": "2026-11-09T08:04:15.580829+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T07:59:04.220362+00:00",
-   "title": "Cadillac F1 takımı satışa çıkarılabilir; Horner'ın dönüşü tehlikede",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-06T08:19:02.636417+00:00",
    "title": "Ollie Bearman, takım arkadaşı Rafa Camara'yı karşılıyor",
@@ -20425,6 +20436,16 @@
    "t": "2026-11-09T07:34:21.755256+00:00",
    "title": "Leclerc, Brezilya'da Hamilton'la neden savaşmadığını açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-09T08:04:33.218211+00:00",
+   "title": "Aston Martin'de Honda sorunları ağırlaşıyor, Alonso Brezilya'da puansız kaldı",
+   "source": "AS"
+  },
+  {
+   "t": "2026-11-09T08:04:33.642178+00:00",
+   "title": "Verstappen, Hamilton'ın ilk turdaki performansını kıskandığını söyledi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
