@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "38e7fbe794887b01": "2026-10-26T10:10:18.968948+00:00",
-  "46828472b0fac972": "2026-10-26T10:10:18.968948+00:00",
-  "4df9077baf737f22": "2026-10-26T10:10:18.968948+00:00",
   "e8040e8b4d096c53": "2026-10-26T10:20:19.709808+00:00",
   "f8a673359c6b84d2": "2026-10-26T10:20:19.709808+00:00",
   "36f2596e74dbd0c8": "2026-10-26T10:20:19.709808+00:00",
@@ -7789,7 +7786,8 @@
   "ff2921a79b9029fa": "2026-11-09T10:05:05.213784+00:00",
   "a0f56c04a67f9438": "2026-11-09T10:05:05.213784+00:00",
   "a7eb89d0176da702": "2026-11-09T10:05:05.213784+00:00",
-  "7320cb546fe195e5": "2026-11-09T10:05:05.213784+00:00"
+  "7320cb546fe195e5": "2026-11-09T10:05:05.213784+00:00",
+  "770f1c0814962ee7": "2026-11-09T10:15:05.814220+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8174,19 +8172,6 @@
     "Formula 1": "LIVE COVERAGE: Third practice in Sao Paulo"
    },
    "last": "2026-11-07T14:19:21.977834+00:00"
-  },
-  "S5583": {
-   "title": "Antonelli describes title party hangover after Mexico City win",
-   "first": "2026-11-07T10:13:49.462159+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T10:12:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Antonelli shares title party hangover after Verstappen's 'still drunk' confession"
-   },
-   "last": "2026-11-07T10:13:49.462164+00:00"
   },
   "S5584": {
    "title": "Ferrari says BoP abolition should be the final goal for 2030 Hypercar rules",
@@ -18711,9 +18696,22 @@
     "RacingNews365 NL": "Italiaanse media zien met Verstappen angstaanjagend Red Bull: \"Twee leiders aan het roer\""
    },
    "last": "2026-11-09T10:05:10.620378+00:00"
+  },
+  "S6352": {
+   "title": "Wolff on Mercedes rebirth: 'four difficult years, we kept believing in people'",
+   "first": "2026-11-09T10:15:09.610927+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-09T10:11:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Wolff racconta la rinascita Mercedes: “Quattro anni difficili, ma abbiamo continuato a credere nelle persone”"
+   },
+   "last": "2026-11-09T10:15:09.610947+00:00"
   }
  },
- "story_seq": 6351,
+ "story_seq": 6352,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18832,17 +18830,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T10:05:05.213784+00:00",
+ "last_run": "2026-11-09T10:15:05.814220+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T10:14:05.351018+00:00",
-   "title": "Russell Meksika GP'sinden erken ayrıldı, Mercedes 5.000 € ceza aldı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-06T10:19:28.662399+00:00",
    "title": "Russell, Antonelli'nin F1 şampiyonluğunun ardından duygusal bir itirafta bulundu",
