@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f66cbeab9eb1271a": "2026-10-26T12:51:08.913715+00:00",
-  "8591de1c16dd3511": "2026-10-26T12:51:08.913715+00:00",
   "0a077cdd574257a4": "2026-10-26T13:01:08.786944+00:00",
   "f2dc9200b0f338a8": "2026-10-26T13:01:08.786944+00:00",
   "f1d5d1713d376509": "2026-10-26T13:01:08.786944+00:00",
@@ -7780,7 +7778,10 @@
   "0d332d4788dc8a6e": "2026-11-09T12:25:05.524565+00:00",
   "6766e8e92fa96042": "2026-11-09T12:35:05.945108+00:00",
   "8d01a138b47b5ec0": "2026-11-09T12:35:05.945108+00:00",
-  "846f2540966fe972": "2026-11-09T12:45:01.977822+00:00"
+  "846f2540966fe972": "2026-11-09T12:45:01.977822+00:00",
+  "54fd89503b4fc75d": "2026-11-09T12:55:05.110668+00:00",
+  "72b8bd6b31025cf6": "2026-11-09T12:55:05.110668+00:00",
+  "0fa4d2ae58667396": "2026-11-09T12:55:05.110668+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8050,19 +8051,6 @@
     "ESPN F1": "Man United's JJ Gabriel amid Real Madrid move talk: 'Dream to win a Ballon d'Or'"
    },
    "last": "2026-11-07T15:39:18.005019+00:00"
-  },
-  "S5623": {
-   "title": "John Watson claims Todt-linked faction shields Leclerc at Ferrari",
-   "first": "2026-11-07T12:54:16.759452+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T12:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "John Watson claims Todt-linked 'faction' shields Leclerc as Hamilton fights for Ferrari status"
-   },
-   "last": "2026-11-07T12:54:16.759459+00:00"
   },
   "S5624": {
    "title": "Arizona onside kick and late field goal beat TCU",
@@ -18446,9 +18434,48 @@
     "ESPN F1": "Sir Jim Ratcliffe chose to appoint rookies at Man United, and it has them facing relegation﻿ fight"
    },
    "last": "2026-11-09T12:45:04.108318+00:00"
+  },
+  "S6379": {
+   "title": "ESPN power rankings of top 25 after Week 10 (not F1)",
+   "first": "2026-11-09T12:55:09.359686+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T12:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Power Rankings: How an action-packed Week 10 changed the top 25"
+   },
+   "last": "2026-11-09T12:55:09.359705+00:00"
+  },
+  "S6380": {
+   "title": "Hamilton reacts on social media to unravelled Sao Paulo GP",
+   "first": "2026-11-09T12:55:09.359711+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T12:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton ‘devastated’ as Sao Paulo GP unravels after ‘rocket’ start"
+   },
+   "last": "2026-11-09T12:55:09.359716+00:00"
+  },
+  "S6381": {
+   "title": "Motorsport-Total driver ratings from Sao Paulo GP",
+   "first": "2026-11-09T12:55:09.359720+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T12:47:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Fotostrecke: Sao Paulo: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T12:55:09.359724+00:00"
   }
  },
- "story_seq": 6378,
+ "story_seq": 6381,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18567,17 +18594,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T12:45:01.977822+00:00",
+ "last_run": "2026-11-09T12:55:05.110668+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T12:49:03.573337+00:00",
-   "title": "Ricciardo, F1 dışlanmasının ardından 2027'de geri dönüş için gizli görüşmeler yaptı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T12:59:58.167755+00:00",
    "title": "Perez, Cadillac F1 satış söylentilerine tepki gösterdi",
