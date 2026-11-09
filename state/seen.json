@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f4fc0da7728adb5e": "2026-10-26T18:02:05.807983+00:00",
-  "7fc6db5cff87e32b": "2026-10-26T18:02:05.807983+00:00",
-  "5b7a4c0e539b253a": "2026-10-26T18:02:05.807983+00:00",
   "6fe54ea19ed3a945": "2026-10-26T18:12:09.304996+00:00",
   "917d8efdc52fc91c": "2026-10-26T18:12:09.304996+00:00",
   "bb7856156f21b33d": "2026-10-26T18:12:09.304996+00:00",
@@ -7803,7 +7800,11 @@
   "551454afab40de12": "2026-11-09T17:45:40.338843+00:00",
   "fafd862e1f590a35": "2026-11-09T17:45:40.338843+00:00",
   "1d5b1a424d75ae9f": "2026-11-09T17:55:42.147437+00:00",
-  "859a936b7c880bfc": "2026-11-09T17:55:42.147437+00:00"
+  "859a936b7c880bfc": "2026-11-09T17:55:42.147437+00:00",
+  "0bf8cc3b3a8e6d7f": "2026-11-09T18:05:40.062649+00:00",
+  "abc61a26b9f78aee": "2026-11-09T18:05:40.062649+00:00",
+  "02f82a49fa4c8455": "2026-11-09T18:05:40.062649+00:00",
+  "e692407fa8da94ec": "2026-11-09T18:05:40.062649+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7825,25 +7826,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S5311": {
-   "title": "Haas's Komatsu speaks on Ocon's dismissal for first time",
-   "first": "2026-11-06T15:09:46.777325+00:00",
-   "sources": {
-    "GPblog": "2026-11-06T15:06:00+00:00",
-    "Crash.net": "2026-11-06T21:31:27+00:00",
-    "Autosport": "2026-11-07T11:00:49+00:00",
-    "Motorsport-Total": "2026-11-07T17:57:55+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Haas team principal Komatsu speaks for the first time about Ocon’s dismissal",
-    "Crash.net": "Haas F1 boss opens up on ‘professional’ decision to axe Esteban Ocon",
-    "Autosport": "Esteban Ocon axing ‘surprised everybody at Haas’",
-    "Motorsport-Total": "Teamchef Komatsu über Ocons Haas-Aus: \"Alle waren überrascht\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T18:05:09.173490+00:00"
-  },
   "S5589": {
    "title": "Hamilton nears career milestone only Alonso has reached",
    "first": "2026-11-07T10:39:16.007574+00:00",
@@ -17988,9 +17970,61 @@
     "RacingNews365 NL": "GP Brazilië legt indrukwekkend talent Verstappen bloot: \"Dan belanden ze in de vangrail!\""
    },
    "last": "2026-11-09T17:55:44.665240+00:00"
+  },
+  "S6458": {
+   "title": "Dale Benkenstein appointed Bangladesh batting specialist",
+   "first": "2026-11-09T18:05:43.869356+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T17:56:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dale Benkenstein appointed Bangladesh's batting specialist ahead of SA tour"
+   },
+   "last": "2026-11-09T18:05:43.869373+00:00"
+  },
+  "S6459": {
+   "title": "AP women's college basketball Top 25 poll breakdown",
+   "first": "2026-11-09T18:05:43.869380+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 AP women's college basketball Top 25 poll breakdown"
+   },
+   "last": "2026-11-09T18:05:43.869386+00:00"
+  },
+  "S6460": {
+   "title": "Villeneuve says Russell's F1 reputation damaged by Antonelli defeat",
+   "first": "2026-11-09T18:05:43.869390+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Russell told his F1 reputation has suffered a devastating blow in 2026"
+   },
+   "last": "2026-11-09T18:05:43.869395+00:00"
+  },
+  "S6461": {
+   "title": "Sainz recalls Ferrari struggles with Leclerc's fanbase",
+   "first": "2026-11-09T18:05:43.869398+00:00",
+   "sources": {
+    "GPFans": "2026-11-09T17:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Carlos Sainz reveals Ferrari issues with 'radical' Charles Leclerc fans"
+   },
+   "last": "2026-11-09T18:05:43.869403+00:00"
   }
  },
- "story_seq": 6457,
+ "story_seq": 6461,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18109,17 +18143,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T17:55:42.147437+00:00",
+ "last_run": "2026-11-09T18:05:40.062649+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T18:00:01.799213+00:00",
-   "title": "Vasseur, Hamilton ve Leclerc ile oturdu: 'Mesaj açıktı'",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T18:35:29.457758+00:00",
    "title": "Racing Bulls'ta kadro kararı hâlâ belirsiz, Permane sabırlı olunmasını istedi",
@@ -19699,6 +19728,16 @@
    "t": "2026-11-09T17:55:51.183843+00:00",
    "title": "Verstappen Brezilya'da yağmurda ustalığını gösterdi, podyuma çıktı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T18:05:48.247036+00:00",
+   "title": "Sainz, Ferrari'de Leclerc ile yaşadığı gerginlikleri ve taraftar tepkilerini anlattı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-09T18:05:48.779021+00:00",
+   "title": "Villeneuve: Russell'ın F1'deki itibarı 2026'da ciddi darbe aldı",
+   "source": "GPblog"
   }
  ]
 }
