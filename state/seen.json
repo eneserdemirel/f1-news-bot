@@ -1,21 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0913972e93c7c893": "2026-10-26T17:02:28.239070+00:00",
-  "b0e2e82b1b8d7e10": "2026-10-26T17:02:28.239070+00:00",
-  "d2d5fbcfac785cee": "2026-10-26T17:02:28.239070+00:00",
-  "ece405fa44d53746": "2026-10-26T17:02:28.239070+00:00",
-  "bd31e9966eb9ddca": "2026-10-26T17:02:28.239070+00:00",
-  "fae403f69173d70c": "2026-10-26T17:02:28.239070+00:00",
-  "59e07b32453e9cb3": "2026-10-26T17:02:28.239070+00:00",
-  "9088093ccb80d7c1": "2026-10-26T17:02:28.239070+00:00",
-  "232966e44a93882e": "2026-10-26T17:02:28.239070+00:00",
-  "376de083f1483260": "2026-10-26T17:02:28.239070+00:00",
-  "d677e0998343fc73": "2026-10-26T17:02:28.239070+00:00",
-  "29d73babbec7899f": "2026-10-26T17:02:28.239070+00:00",
-  "ce9d87cd94addb02": "2026-10-26T17:02:28.239070+00:00",
-  "0ddb3e200575baba": "2026-10-26T17:02:28.239070+00:00",
-  "dc8632b41cc4217c": "2026-10-26T17:02:28.239070+00:00",
   "455345ec7859387b": "2026-10-26T17:12:04.977697+00:00",
   "5d0a73ea68ba7088": "2026-10-26T17:12:04.977697+00:00",
   "c9b0c78da709ae9e": "2026-10-26T17:12:04.977697+00:00",
@@ -7815,7 +7800,11 @@
   "0bf2290912249b5a": "2026-11-09T16:55:39.751599+00:00",
   "57afb6d162938557": "2026-11-09T16:55:39.751599+00:00",
   "db7934f155e49b69": "2026-11-09T16:55:39.751599+00:00",
-  "e5872cbd68d50560": "2026-11-09T16:55:39.751599+00:00"
+  "e5872cbd68d50560": "2026-11-09T16:55:39.751599+00:00",
+  "951447294ffd26e6": "2026-11-09T17:05:40.491816+00:00",
+  "4e9b30502ade6c04": "2026-11-09T17:05:40.491816+00:00",
+  "1961b6111fe0167d": "2026-11-09T17:05:40.491816+00:00",
+  "1894a2e89cffab12": "2026-11-09T17:05:40.491816+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7879,25 +7868,6 @@
    },
    "last": "2026-11-07T17:50:09.648608+00:00"
   },
-  "S5463": {
-   "title": "Wolff sees Ferrari déjà vu and says escalation is sometimes needed",
-   "first": "2026-11-06T22:55:19.431328+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T22:48:40+00:00",
-    "Crash.net": "2026-11-07T08:00:00+00:00",
-    "PlanetF1": "2026-11-07T12:10:15+00:00",
-    "GPblog": "2026-11-07T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Toto Wolff und das Deja-vu bei Ferrari: Eskalation ist manchmal notwendig! - Motorsport-Total.com",
-    "Crash.net": "Lewis Hamilton, Charles Leclerc Ferrari tension gives Toto Wolff “deja vu” after Mercedes escalation",
-    "PlanetF1": "Lewis Hamilton Ferrari dispute sparks ‘deja vu’ remark from Toto Wolff",
-    "GPblog": "Hamilton's Ferrari feud gives Wolff Rosberg déjà vu as he warns it may need to boil over"
-   },
-   "last": "2026-11-07T17:05:06.744140+00:00"
-  },
   "S5589": {
    "title": "Hamilton nears career milestone only Alonso has reached",
    "first": "2026-11-07T10:39:16.007574+00:00",
@@ -7912,21 +7882,6 @@
     "Gazzetta dello Sport": "Hamilton, in Brasile la gara numero 400. Ma chi ha corso più Gran Premi di lui?"
    },
    "last": "2026-11-07T19:30:03.614640+00:00"
-  },
-  "S5621": {
-   "title": "Damon Hill urges Ferrari to make Hamilton clear number one",
-   "first": "2026-11-07T12:39:28.404868+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T12:36:29+00:00",
-    "GPFans": "2026-11-07T16:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Damon Hill tells Ferrari to ‘make Lewis Hamilton clear number one’ and ‘end’ Leclerc ‘debate’",
-    "GPFans": "F1 champion demands Ferrari make Lewis Hamilton their No.1 driver: 'He will deliver'"
-   },
-   "last": "2026-11-07T17:00:12.381298+00:00"
   },
   "S5634": {
    "title": "Verstappen to start Brazilian GP from back of grid",
@@ -7995,47 +7950,6 @@
     "GPFans": "F1 make significant Brazilian Grand Prix announcement ahead of Sunday's race"
    },
    "last": "2026-11-08T08:01:40.344858+00:00"
-  },
-  "S5667": {
-   "title": "Verstappen tops Brazil GP FP3 ahead of Antonelli, Hamilton engine issue",
-   "first": "2026-11-07T15:34:20.342705+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T15:32:37+00:00",
-    "GPblog": "2026-11-07T15:30:00+00:00",
-    "The Race": "2026-11-07T15:38:03+00:00",
-    "RacingNews365": "2026-11-07T15:30:00+00:00",
-    "RacingNews365 NL": "2026-11-07T15:33:00+00:00",
-    "GPFans": "2026-11-07T15:34:00+00:00",
-    "Crash.net": "2026-11-07T15:37:03+00:00",
-    "Autosport": "2026-11-07T15:37:40+00:00",
-    "Motorsport Week": "2026-11-07T15:34:36+00:00",
-    "Formula 1": "2026-11-07T15:55:12.429665+00:00",
-    "ESPN F1": "2026-11-07T15:47:51+00:00",
-    "Motorsport.com Italia": "2026-11-07T15:51:56+00:00",
-    "FormulaPassion": "2026-11-07T15:46:50+00:00",
-    "FIA": "2026-11-07T16:48:00+00:00",
-    "Sky Sports F1": "2026-11-07T15:12:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Brazilian GP: Verstappen fastest as Hamilton hits Ferrari engine drama",
-    "GPblog": "F1 Full Results | Max Verstappen lays marker down in São Paulo GP FP3",
-    "The Race": "What happened in final Brazil F1 practice",
-    "RacingNews365": "2026 F1 Sao Paulo Grand Prix - Brazil Free Practice 3 results",
-    "RacingNews365 NL": "Uitslag derde vrije training F1 GP Brazilië 2026 in São Paulo",
-    "GPFans": "F1 Results Today: Brazilian Grand Prix final practice times and positions",
-    "Crash.net": "Max Verstappen tops Brazil GP FP3 as Lewis Hamilton suffers engine trouble",
-    "Autosport": "F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble",
-    "Motorsport Week": "Max Verstappen fastest in Brazil FP3 as problems mount for Lewis Hamilton",
-    "Formula 1": "Verstappen beats Antonelli and Norris in Sao Paulo FP3",
-    "ESPN F1": "Max Verstappen tops final practice; starts São Paulo GP from back of grid",
-    "Motorsport.com Italia": "F1 | Interlagos, Libere 3: Verstappen detta il passo su Antonelli e Norris. Hamilton rompe il motore nuovo",
-    "FormulaPassion": "GP San Paolo 2026 – Classifica FP3: tra Max e Kimi solo 25 millesimi, Norris 3°. Ferrari lontana: Leclerc 5°, Hamilton ko",
-    "FIA": "F1 – Verstappen edges Antonelli in tight final practice in São Paulo but grid penalties bite",
-    "Sky Sports F1": "Verstappen goes fastest in Sao Paulo GP final practice!"
-   },
-   "last": "2026-11-07T17:00:12.381292+00:00"
   },
   "S5670": {
    "title": "Perez faces investigation over object thrown from cockpit in FP3",
@@ -14013,7 +13927,8 @@
     "Crash.net": "2026-11-08T20:16:22+00:00",
     "GPblog": "2026-11-08T20:31:00+00:00",
     "PlanetF1": "2026-11-08T21:16:58+00:00",
-    "Motorsport-Total": "2026-11-08T21:31:32+00:00"
+    "Motorsport-Total": "2026-11-08T21:31:32+00:00",
+    "GPFans": "2026-11-09T16:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14023,9 +13938,10 @@
     "Crash.net": "Lando Norris suffers Brazil GP mishap as podium celebration goes wrong",
     "GPblog": "Norris cannot stop breaking things on the podium after Brazilian GP win",
     "PlanetF1": "Lando Norris suffers firework incident on dramatic Brazilian GP podium",
-    "Motorsport-Total": "Norris zerlegt Champagner und läuft in Feuerwerk: Podium-Panne geht viral - Motorsport-Total.com"
+    "Motorsport-Total": "Norris zerlegt Champagner und läuft in Feuerwerk: Podium-Panne geht viral - Motorsport-Total.com",
+    "GPFans": "Lando Norris podium trick backfires AGAIN in spectacular fashion"
    },
-   "last": "2026-11-09T14:15:33.993451+00:00"
+   "last": "2026-11-09T17:05:44.490581+00:00"
   },
   "S6147": {
    "title": "Adam Rank on Bijan Robinson's fantasy performance vs Bengals",
@@ -18063,9 +17979,48 @@
     "Motorsport-Total": "Erst Teamorder, dann Entschuldigung: Was bei Hadjar und Verstappen los war - Motorsport-Total.com"
    },
    "last": "2026-11-09T16:55:45.357716+00:00"
+  },
+  "S6446": {
+   "title": "Bangladesh cricket: Shanto on failing to use home conditions",
+   "first": "2026-11-09T17:05:44.490535+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:55:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Shanto: Bangladesh failed to make use of home conditions"
+   },
+   "last": "2026-11-09T17:05:44.490555+00:00"
+  },
+  "S6447": {
+   "title": "Verstappen says Red Bull must apply 2026 lessons to next car",
+   "first": "2026-11-09T17:05:44.490561+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen herinnert Red Bull aan belangrijk doel"
+   },
+   "last": "2026-11-09T17:05:44.490567+00:00"
+  },
+  "S6448": {
+   "title": "Marc Marquez MotoGP title scenarios for Portugal",
+   "first": "2026-11-09T17:05:44.490571+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T17:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez MotoGP title scenarios: How he can clinch in Portugal"
+   },
+   "last": "2026-11-09T17:05:44.490576+00:00"
   }
  },
- "story_seq": 6445,
+ "story_seq": 6448,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18184,22 +18139,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T16:55:39.751599+00:00",
+ "last_run": "2026-11-09T17:05:40.491816+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T16:59:49.047418+00:00",
-   "title": "Russell, Brezilya GP'de FIA cezası nedeniyle 5 pozisyon geriden başlayacak",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-06T17:04:42.145782+00:00",
-   "title": "Verstappen, Stroll'un garip manevrasına sert tepki verdi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-06T17:09:47.803054+00:00",
    "title": "Camara, Bearman'dan öğrenmek istiyor; Brezilya'da sürpriz F1 debutu",
@@ -19809,6 +19754,11 @@
    "t": "2026-11-09T16:35:56.395952+00:00",
    "title": "Russell, Verstappen takibini küçümsedi; Wolff ikinciliği istiyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-09T17:05:51.188253+00:00",
+   "title": "Verstappen, Red Bull'un önündeki asıl hedefi hatırlattı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
