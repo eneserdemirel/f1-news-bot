@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "76eda3928bb5774c": "2026-10-26T16:42:03.678910+00:00",
   "788ac30f28f89d37": "2026-10-26T16:52:11.247750+00:00",
   "0913972e93c7c893": "2026-10-26T17:02:28.239070+00:00",
   "b0e2e82b1b8d7e10": "2026-10-26T17:02:28.239070+00:00",
@@ -7810,7 +7809,10 @@
   "bb8c92e68f713d32": "2026-11-09T16:35:42.947367+00:00",
   "035dba8b49728eae": "2026-11-09T16:35:42.947367+00:00",
   "743e01d76bc76291": "2026-11-09T16:35:42.947367+00:00",
-  "bd5c6e392ba4faf4": "2026-11-09T16:35:42.947367+00:00"
+  "bd5c6e392ba4faf4": "2026-11-09T16:35:42.947367+00:00",
+  "cd201f95d264f463": "2026-11-09T16:45:43.416687+00:00",
+  "b8950017060e754e": "2026-11-09T16:45:43.416687+00:00",
+  "6c97320778eb12f0": "2026-11-09T16:45:43.416687+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7873,31 +7875,6 @@
     "GPblog": "Ralf Schumacher delivers ruthless verdict on F1 hopeful: 'He's just burning fuel'"
    },
    "last": "2026-11-07T17:50:09.648608+00:00"
-  },
-  "S5441": {
-   "title": "Rookie Camara learns stewards' decision after Leclerc FP2 incident",
-   "first": "2026-11-06T21:25:27.322561+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-06T20:24:00+00:00",
-    "PlanetF1": "2026-11-06T21:24:11+00:00",
-    "GPblog": "2026-11-06T21:31:00+00:00",
-    "The Race": "2026-11-06T22:24:10+00:00",
-    "Crash.net": "2026-11-06T22:46:28+00:00",
-    "GPFans": "2026-11-07T11:57:00+00:00",
-    "Motorsport Week": "2026-11-07T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "F1 rookie learns stewards fate after 'clearly dangerous' Charles Leclerc incident",
-    "PlanetF1": "FIA confirms Rafael Camara punishment after Charles Leclerc investigation",
-    "GPblog": "FIA stewards deliver verdict on 'dangerous' FP2 incident at Interlagos",
-    "The Race": "F1 debutant Camara punished for 'dangerous' Leclerc impeding",
-    "Crash.net": "F1 debutant Rafael Camara penalised for ‘dangerous’ Charles Leclerc incident",
-    "GPFans": "FIA announce punishment for Ferrari wonderkid after 'dangerous' Leclerc incident",
-    "Motorsport Week": "Rafael Camara issued first-ever F1 penalty for ‘dangerous’ Charles Leclerc incident"
-   },
-   "last": "2026-11-07T16:45:08.271933+00:00"
   },
   "S5463": {
    "title": "Wolff sees Ferrari déjà vu and says escalation is sometimes needed",
@@ -8089,19 +8066,6 @@
    },
    "last": "2026-11-07T19:50:10.064811+00:00"
   },
-  "S5700": {
-   "title": "Guiseley vs Sutton United live score",
-   "first": "2026-11-07T16:20:11.473925+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T15:08:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Guiseley vs. Sutton Utd (7 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T16:40:03.871155+00:00"
-  },
   "S5710": {
    "title": "Italian live blog of Brazil GP qualifying",
    "first": "2026-11-07T16:30:06.005965+00:00",
@@ -8151,32 +8115,6 @@
     "Sky Sports F1": "Heavy rain causes chaos before Qualifying is red flagged in Sao Paulo!"
    },
    "last": "2026-11-07T18:50:02.530851+00:00"
-  },
-  "S5713": {
-   "title": "Chesterfield vs Yeovil live score (football)",
-   "first": "2026-11-07T16:45:08.271916+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T16:14:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chesterfield vs. Yeovil (7 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T16:45:08.271922+00:00"
-  },
-  "S5714": {
-   "title": "Racing Bulls reveals 2027 driver decision timeline",
-   "first": "2026-11-07T16:45:08.271937+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T16:39:15+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Racing Bulls reveals F1 2027 driver timeline amid Liam Lawson uncertainty"
-   },
-   "last": "2026-11-07T16:45:08.271942+00:00"
   },
   "S5715": {
    "title": "Hamilton two points from Verstappen in championship; engine penalties hit rivals",
@@ -14871,7 +14809,7 @@
     "FormulaPassion": "Antonelli insaziabile: “Peccato, potevo vincere, la macchina mi è partita di colpo”",
     "RacingNews365": "Kimi Antonelli voices anger after 'no warning' race-deciding F1 spin"
    },
-   "last": "2026-11-09T10:35:17.468091+00:00"
+   "last": "2026-11-09T16:45:50.266197+00:00"
   },
   "S6200": {
    "title": "Luka Doncic sits out vs Pistons with back tightness",
@@ -16355,16 +16293,18 @@
    "sources": {
     "GPblog": "2026-11-09T06:00:00+00:00",
     "PlanetF1": "2026-11-09T07:21:40+00:00",
-    "RacingNews365 NL": "2026-11-09T12:20:00+00:00"
+    "RacingNews365 NL": "2026-11-09T12:20:00+00:00",
+    "Motorsport Week": "2026-11-09T16:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Verstappen reveals what went wrong with RB22 despite impressive charge",
     "PlanetF1": "Max Verstappen exposes Red Bull problem that cost him a shot at victory in Brazil",
-    "RacingNews365 NL": "Verstappen betreurt impact van 'fout' Red Bull"
+    "RacingNews365 NL": "Verstappen betreurt impact van 'fout' Red Bull",
+    "Motorsport Week": "Max Verstappen reveals ‘night and day’ Red Bull issue despite seismic Sao Paulo comeback"
    },
-   "last": "2026-11-09T12:35:08.484240+00:00"
+   "last": "2026-11-09T16:45:50.266209+00:00"
   },
   "S6313": {
    "title": "Verstappen says his Brazil comeback is not normal, criticises misconception",
@@ -16478,16 +16418,18 @@
    "sources": {
     "The Race": "2026-11-09T07:24:26+00:00",
     "Crash.net": "2026-11-09T09:34:59+00:00",
-    "GPblog": "2026-11-09T11:30:00+00:00"
+    "GPblog": "2026-11-09T11:30:00+00:00",
+    "Gazzetta dello Sport": "2026-11-09T16:35:54+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Lawson closing in on F1 2027 stay with Racing Bulls",
     "Crash.net": "Racing Bulls closing on F1 2027 driver decision after Liam Lawson statement",
-    "GPblog": "Lawson Nears Contract Extension: Red Bull Leaves the Choice to Racing Bulls"
+    "GPblog": "Lawson Nears Contract Extension: Red Bull Leaves the Choice to Racing Bulls",
+    "Gazzetta dello Sport": "Lawson-Racing Bulls, firma in arrivo. Bearman-Haas in attesa. Le scadenze di tutti i piloti F1"
    },
-   "last": "2026-11-09T14:15:33.993471+00:00"
+   "last": "2026-11-09T16:45:50.266217+00:00"
   },
   "S6322": {
    "title": "Leclerc explains why he didn't fight Hamilton in Brazil",
@@ -18213,7 +18155,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T16:35:42.947367+00:00",
+ "last_run": "2026-11-09T16:45:43.416687+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
