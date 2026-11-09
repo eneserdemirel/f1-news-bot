@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6fcc1e838c57aff7": "2026-10-26T21:02:45.856233+00:00",
-  "89745bc28b5cadf9": "2026-10-26T21:02:45.856233+00:00",
-  "ccd3e3d97d9bb1b1": "2026-10-26T21:02:45.856233+00:00",
-  "672a58d0c2c84057": "2026-10-26T21:02:45.856233+00:00",
-  "d5f00388e6655509": "2026-10-26T21:02:45.856233+00:00",
-  "ac41633e43925ab4": "2026-10-26T21:02:45.856233+00:00",
   "84887bc155988d7c": "2026-10-26T21:12:38.950580+00:00",
   "ed8abd84877d5a5d": "2026-10-26T21:22:40.313014+00:00",
   "79bd974114782d5a": "2026-10-26T21:22:40.313014+00:00",
@@ -7799,7 +7793,12 @@
   "e23cff5dd00e268c": "2026-11-09T20:36:27.866528+00:00",
   "74769826df151386": "2026-11-09T20:36:27.866528+00:00",
   "e0ca9e183325e04d": "2026-11-09T20:46:23.677887+00:00",
-  "74c142848de9ba2c": "2026-11-09T20:56:24.042381+00:00"
+  "74c142848de9ba2c": "2026-11-09T20:56:24.042381+00:00",
+  "743185c39e365189": "2026-11-09T21:06:22.599018+00:00",
+  "ac9f118b219faf04": "2026-11-09T21:06:22.599018+00:00",
+  "3356159e4d0afc15": "2026-11-09T21:06:22.599018+00:00",
+  "76caab370b1f0cd4": "2026-11-09T21:06:22.599018+00:00",
+  "78ededc5a4046e17": "2026-11-09T21:06:22.599018+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8083,58 +8082,6 @@
     "Motorsport Week": "F1 2026 Sao Paulo Grand Prix – Revised Grid"
    },
    "last": "2026-11-08T16:27:25.726538+00:00"
-  },
-  "S5790": {
-   "title": "David Olano 40-yard college football field goal",
-   "first": "2026-11-07T21:00:06.931844+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T20:45:40+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "David Olano makes 40-yard field goal"
-   },
-   "last": "2026-11-07T21:00:06.931863+00:00"
-  },
-  "S5791": {
-   "title": "Jackson Martin goal for Princeton (college sport)",
-   "first": "2026-11-07T21:00:06.931868+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T20:25:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jackson Martin slots in the goal for Princeton"
-   },
-   "last": "2026-11-07T21:00:06.931873+00:00"
-  },
-  "S5792": {
-   "title": "Arteta on Arsenal's attacking struggles",
-   "first": "2026-11-07T21:00:06.931876+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T19:21:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mikel Arteta on Arsenal's attacking struggles: Must stop chasing 'perfect goal'"
-   },
-   "last": "2026-11-07T21:00:06.931880+00:00"
-  },
-  "S5793": {
-   "title": "ADO Den Haag vs Sparta live score",
-   "first": "2026-11-07T21:00:06.931882+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T18:11:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "ADO Den Haag vs. Sparta (7 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T21:00:06.931886+00:00"
   },
   "S5794": {
    "title": "AS Roma vs Sassuolo team stats (football)",
@@ -17569,9 +17516,61 @@
     "ESPN F1": "Jordyn Tyson's Saints debut showed promise, rookie mistakes"
    },
    "last": "2026-11-09T20:56:25.483696+00:00"
+  },
+  "S6490": {
+   "title": "Kansas' Melvin Council Jr. suffers broken foot",
+   "first": "2026-11-09T21:06:26.807959+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T20:58:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kansas' Melvin Council Jr. suffers broken foot, may be out until January"
+   },
+   "last": "2026-11-09T21:06:26.807977+00:00"
+  },
+  "S6491": {
+   "title": "Nebraska extends defensive coordinator Rob Aurich",
+   "first": "2026-11-09T21:06:26.807982+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T19:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nebraska rewards defensive coordinator Rob Aurich with 2-year extension"
+   },
+   "last": "2026-11-09T21:06:26.807987+00:00"
+  },
+  "S6492": {
+   "title": "Piastri describes scary moment with Russell in Brazil",
+   "first": "2026-11-09T21:06:26.807991+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T21:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Piastri recalls 'scary' moment with Russell during chaotic Brazilian GP"
+   },
+   "last": "2026-11-09T21:06:26.807995+00:00"
+  },
+  "S6493": {
+   "title": "Lawson sends blunt message to Red Bull over 2027 seat",
+   "first": "2026-11-09T21:06:26.807998+00:00",
+   "sources": {
+    "GPFans": "2026-11-09T20:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Liam Lawson sends blunt Red Bull message over uncertain F1 future"
+   },
+   "last": "2026-11-09T21:06:26.808001+00:00"
   }
  },
- "story_seq": 6489,
+ "story_seq": 6493,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17690,17 +17689,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T20:56:24.042381+00:00",
+ "last_run": "2026-11-09T21:06:22.599018+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T21:05:25.984534+00:00",
-   "title": "Antonelli: Sao Paulo'da Turn 1 frenlemesi her pilot için zorlu",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-06T21:10:25.852931+00:00",
    "title": "Wolff: Vasseur, Ocon için 1 milyon avroyu cebinden ödedi",
