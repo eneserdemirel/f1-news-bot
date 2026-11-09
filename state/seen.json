@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4acda3aa89c89011": "2026-10-26T06:50:17.778449+00:00",
-  "b391337b2268b847": "2026-10-26T06:50:17.778449+00:00",
   "b1dba00f1d25a80b": "2026-10-26T06:55:19.159802+00:00",
   "40823a3d20c750f1": "2026-10-26T07:00:15.129115+00:00",
   "0bdd98b00995c94b": "2026-10-26T07:05:16.357324+00:00",
@@ -7808,7 +7806,8 @@
   "0afa087039cf9008": "2026-11-09T06:34:13.285154+00:00",
   "4a83646a11764422": "2026-11-09T06:44:14.060339+00:00",
   "015b3b1039ddafec": "2026-11-09T06:44:14.060339+00:00",
-  "0d986f66a2947958": "2026-11-09T06:44:14.060339+00:00"
+  "0d986f66a2947958": "2026-11-09T06:44:14.060339+00:00",
+  "f683ae08e7108ba8": "2026-11-09T06:54:14.118792+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8249,19 +8248,6 @@
     "ESPN F1": "Portland Trail Blazers vs. Los Angeles Lakers: Game Highlights"
    },
    "last": "2026-11-07T07:28:52.066741+00:00"
-  },
-  "S5542": {
-   "title": "Hamilton continues stinging criticism of Leclerc's conduct",
-   "first": "2026-11-07T06:48:48.085183+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T06:46:57+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton continues stinging Charles Leclerc criticism"
-   },
-   "last": "2026-11-07T06:48:48.085187+00:00"
   },
   "S5543": {
    "title": "Hamilton calls Brazil FP2 complicated, says work needed",
@@ -18849,9 +18835,22 @@
     "RacingNews365 NL": "Max Verstappen geeft bijzonder cadeau aan Red Bull-veteraan"
    },
    "last": "2026-11-09T06:44:16.359735+00:00"
+  },
+  "S6316": {
+   "title": "Vasseur congratulates Mercedes on constructors' title",
+   "first": "2026-11-09T06:54:16.240415+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-09T06:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “Complimenti alla Mercedes per il titolo Costruttori, hanno fatto un ottimo lavoro”"
+   },
+   "last": "2026-11-09T06:54:16.240433+00:00"
   }
  },
- "story_seq": 6315,
+ "story_seq": 6316,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18970,17 +18969,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T06:44:14.060339+00:00",
+ "last_run": "2026-11-09T06:54:14.118792+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T06:48:21.231529+00:00",
-   "title": "Lance Stroll, F1 tarihindeki olumsuz bir rekora yaklaşıyor",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-06T07:08:22.888256+00:00",
    "title": "Hamilton: \"Sözlerim hesaplanmış değil, takım beni hiç susturmadı\"",
@@ -20609,6 +20603,11 @@
   {
    "t": "2026-11-09T06:24:23.631573+00:00",
    "title": "Hamilton, Bearman'a yaptığı sorpasta ceza almayacak",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-09T06:54:22.394126+00:00",
+   "title": "Vasseur: Mercedes'e Constructors şampiyonluğu için tebrik",
    "source": "FormulaPassion"
   }
  ]
