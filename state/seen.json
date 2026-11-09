@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fd842f8f2adb3865": "2026-10-26T11:41:11.610439+00:00",
-  "37a6a52d4eea2047": "2026-10-26T11:41:11.610439+00:00",
-  "063e12c4411a32df": "2026-10-26T11:41:11.610439+00:00",
-  "0d332d4788dc8a6e": "2026-10-26T11:41:11.610439+00:00",
   "e49b6d4ee3a179b2": "2026-10-26T11:51:07.153528+00:00",
   "6520ab85bb2f7b80": "2026-10-26T11:51:07.153528+00:00",
   "4704d3bb50468766": "2026-10-26T12:01:11.534864+00:00",
@@ -7788,7 +7784,9 @@
   "2e2db263f61221e5": "2026-11-09T11:35:03.825942+00:00",
   "14e2876555fcdbd6": "2026-11-09T11:35:03.825942+00:00",
   "4a7c50a2cf0f3440": "2026-11-09T11:35:03.825942+00:00",
-  "b03ded97140f6c9c": "2026-11-09T11:35:03.825942+00:00"
+  "b03ded97140f6c9c": "2026-11-09T11:35:03.825942+00:00",
+  "86e4fa5be4d203f2": "2026-11-09T11:45:02.632418+00:00",
+  "83ca9ce78c3c1783": "2026-11-09T11:45:02.632418+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8017,32 +8015,6 @@
     "Gazzetta dello Sport": "Hamilton, in Brasile la gara numero 400. Ma chi ha corso più Gran Premi di lui?"
    },
    "last": "2026-11-07T19:30:03.614640+00:00"
-  },
-  "S5603": {
-   "title": "US air strikes on Iran raise doubts over Qatar and Abu Dhabi GPs",
-   "first": "2026-11-07T11:39:17.354090+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T11:34:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Trump confirms new air strikes on Iran as F1 Grands Prix approach"
-   },
-   "last": "2026-11-07T11:39:17.354106+00:00"
-  },
-  "S5604": {
-   "title": "Lawson says Racing Bulls early upgrades were midfield 'green flag'",
-   "first": "2026-11-07T11:44:14.804236+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-07T11:00:48+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Liam Lawson pinpoints major Racing Bulls 2026 midfield ‘green flag’"
-   },
-   "last": "2026-11-07T11:44:14.804253+00:00"
   },
   "S5605": {
    "title": "ESPN NFL Week 9 predictions and fantasy picks",
@@ -18505,9 +18477,35 @@
     "Motorsport-Total": "Wann Mercedes die Formel-1-WM 2026 wirklich entschieden hat - Motorsport-Total.com"
    },
    "last": "2026-11-09T11:35:08.422110+00:00"
+  },
+  "S6367": {
+   "title": "Stella explains McLaren's race calls behind Norris Brazil win",
+   "first": "2026-11-09T11:45:05.692124+00:00",
+   "sources": {
+    "Formula 1": "2026-11-09T11:45:05.692142+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Stella reveals how McLaren triumphed at Interlagos"
+   },
+   "last": "2026-11-09T11:45:05.692145+00:00"
+  },
+  "S6368": {
+   "title": "Analysis of Verstappen as wet-weather master in Brazil",
+   "first": "2026-11-09T11:45:05.692150+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T11:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Onnavolgbare Verstappen levert ultiem bewijs als regenmeester van F1"
+   },
+   "last": "2026-11-09T11:45:05.692156+00:00"
   }
  },
- "story_seq": 6366,
+ "story_seq": 6368,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18626,7 +18624,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T11:35:03.825942+00:00",
+ "last_run": "2026-11-09T11:45:02.632418+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20201,6 +20199,16 @@
    "t": "2026-11-09T11:35:13.945227+00:00",
    "title": "Elkann, Hamilton-Leclerc gerginliği nedeniyle Ferrari'de devreye girdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-09T11:45:13.276360+00:00",
+   "title": "Verstappen, yağmurlu koşullarda olağanüstü performansıyla öne çıkıyor",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T11:45:13.738301+00:00",
+   "title": "Stella: McLaren, Interlagos'ta lastik yönetimiyle Norris'in zaferini sağladı",
+   "source": "Formula 1"
   }
  ]
 }
