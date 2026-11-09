@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b09f54aa08e29d42": "2026-10-26T14:01:09.342754+00:00",
-  "d8185dda407670e0": "2026-10-26T14:01:09.342754+00:00",
-  "1b9905d416faf323": "2026-10-26T14:01:09.342754+00:00",
-  "43df7ff01448e1d1": "2026-10-26T14:01:09.342754+00:00",
   "5a9f02e3c8ca59de": "2026-10-26T14:11:09.928414+00:00",
   "02241d5f85362f2e": "2026-10-26T14:11:09.928414+00:00",
   "63f33a8b1ae48987": "2026-10-26T14:21:14.309201+00:00",
@@ -7783,7 +7779,10 @@
   "ea70b55549fc59f5": "2026-11-09T13:45:05.441352+00:00",
   "a78978e2435f1e88": "2026-11-09T13:55:03.454467+00:00",
   "2ff8ab89b750620b": "2026-11-09T13:55:03.454467+00:00",
-  "2b75da4d4f0da104": "2026-11-09T13:55:03.454467+00:00"
+  "2b75da4d4f0da104": "2026-11-09T13:55:03.454467+00:00",
+  "177f98f4bfca363a": "2026-11-09T14:05:03.724974+00:00",
+  "f92f0a3ef2efd111": "2026-11-09T14:05:03.724974+00:00",
+  "1c152aada63c4e4b": "2026-11-09T14:05:03.724974+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8048,58 +8047,6 @@
     "ESPN F1": "Max Verstappen tops final practice; starts São Paulo GP from back of grid"
    },
    "last": "2026-11-07T21:16:02.500685+00:00"
-  },
-  "S5636": {
-   "title": "Jon Rahm leads Abu Dhabi golf by one shot",
-   "first": "2026-11-07T13:59:19.917300+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T13:57:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jon Rahm shoots 66 to lead by one in Abu Dhabi; Rory McIlroy 2 shots back"
-   },
-   "last": "2026-11-07T13:59:19.917318+00:00"
-  },
-  "S5637": {
-   "title": "ESPN NFL trade deadline deal proposals",
-   "first": "2026-11-07T13:59:19.917325+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T11:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others"
-   },
-   "last": "2026-11-07T13:59:19.917331+00:00"
-  },
-  "S5638": {
-   "title": "India cricket pace attack analysis (not F1)",
-   "first": "2026-11-07T14:04:17.244841+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T13:59:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Two extremes, few answers: India's search for a settled pace attack"
-   },
-   "last": "2026-11-07T14:04:17.244858+00:00"
-  },
-  "S5639": {
-   "title": "Interlagos rain forecast could help or hurt Verstappen",
-   "first": "2026-11-07T14:04:17.244872+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Rain at Interlagos could cut both ways for Verstappen as Red Bull chase downshift fix"
-   },
-   "last": "2026-11-07T14:04:17.244878+00:00"
   },
   "S5640": {
    "title": "Mercedes faces unexpected problem after Sao Paulo start",
@@ -15997,16 +15944,18 @@
    "sources": {
     "RacingNews365 NL": "2026-11-08T21:10:00+00:00",
     "Formula 1": "2026-11-09T12:05:09.976467+00:00",
-    "Motorsport.com Italia": "2026-11-09T12:01:22+00:00"
+    "Motorsport.com Italia": "2026-11-09T12:01:22+00:00",
+    "GPblog": "2026-11-09T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Mekies maakt diepe buiging voor Verstappen: \"Hij verslaat zelfs de simulator!\"",
     "Formula 1": "How Verstappen outperformed Red Bull’s simulations in Brazil",
-    "Motorsport.com Italia": "F1 | Verstappen, l'impossibile diventa normale. Mekies: \"Max batte anche le nostre simulazioni\""
+    "Motorsport.com Italia": "F1 | Verstappen, l'impossibile diventa normale. Mekies: \"Max batte anche le nostre simulazioni\"",
+    "GPblog": "Mekies admits Red Bull's simulator could never have predicted Verstappen's Brazil comeback"
    },
-   "last": "2026-11-09T12:05:09.976502+00:00"
+   "last": "2026-11-09T14:05:07.589384+00:00"
   },
   "S6209": {
    "title": "Gary Neville criticises Man United ownership over Carrick",
@@ -18468,9 +18417,35 @@
     "ESPN F1": "Sources: Ohio State fires special teams coordinator Robby Discher after 9 months"
    },
    "last": "2026-11-09T13:55:05.991173+00:00"
+  },
+  "S6394": {
+   "title": "Poll on Verstappen's best Sao Paulo GP drive",
+   "first": "2026-11-09T14:05:07.589345+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T14:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Which has been Max Verstappen's best São Paulo GP drive over last three years?"
+   },
+   "last": "2026-11-09T14:05:07.589365+00:00"
+  },
+  "S6395": {
+   "title": "FIA punishes Oliver Bearman after Leclerc Brazil incident",
+   "first": "2026-11-09T14:05:07.589372+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T13:57:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA confirms Oliver Bearman punishment after Leclerc Brazilian GP incident"
+   },
+   "last": "2026-11-09T14:05:07.589377+00:00"
   }
  },
- "story_seq": 6393,
+ "story_seq": 6395,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18589,17 +18564,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T13:55:03.454467+00:00",
+ "last_run": "2026-11-09T14:05:03.724974+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T14:04:45.220313+00:00",
-   "title": "Hill: Ferrari Hamilton'ı 1 numara pilot yapmalı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T14:19:46.725485+00:00",
    "title": "Hülkenberg, Rubens Barrichello ile yeniden buluşmayı ve mentorluğunu anlatıyor",
@@ -20158,6 +20128,11 @@
   {
    "t": "2026-11-09T13:45:12.527688+00:00",
    "title": "Toto Wolff, Antonelli'nin şampiyonluğunun ardından sızan Mercedes e-postasına yanıt verdi",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T14:05:12.416929+00:00",
+   "title": "FIA, Bearman'ın Leclerc olayı sonrası cezasını doğruladı",
    "source": "PlanetF1"
   }
  ]
