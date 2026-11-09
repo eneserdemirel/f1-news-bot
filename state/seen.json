@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "43ba62e0fc40cb62": "2026-10-26T13:51:12.539866+00:00",
-  "3c59ed1a68785e38": "2026-10-26T13:51:12.539866+00:00",
   "b09f54aa08e29d42": "2026-10-26T14:01:09.342754+00:00",
   "d8185dda407670e0": "2026-10-26T14:01:09.342754+00:00",
   "1b9905d416faf323": "2026-10-26T14:01:09.342754+00:00",
@@ -7782,7 +7780,10 @@
   "b0c07525f7d3708b": "2026-11-09T13:35:04.705938+00:00",
   "e2517cb43b2a980e": "2026-11-09T13:45:05.441352+00:00",
   "1e7e0b9fee54b0a0": "2026-11-09T13:45:05.441352+00:00",
-  "ea70b55549fc59f5": "2026-11-09T13:45:05.441352+00:00"
+  "ea70b55549fc59f5": "2026-11-09T13:45:05.441352+00:00",
+  "a78978e2435f1e88": "2026-11-09T13:55:03.454467+00:00",
+  "2ff8ab89b750620b": "2026-11-09T13:55:03.454467+00:00",
+  "2b75da4d4f0da104": "2026-11-09T13:55:03.454467+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8023,32 +8024,6 @@
    },
    "last": "2026-11-07T15:39:18.005019+00:00"
   },
-  "S5632": {
-   "title": "Schmitz says Red Bull shows similarities to Ferrari at times",
-   "first": "2026-11-07T13:49:18.581101+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T13:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull ziet opvallende overeenkomst met Ferrari: \"Dat is vaker zo\""
-   },
-   "last": "2026-11-07T13:49:18.581129+00:00"
-  },
-  "S5633": {
-   "title": "Lindblad edits Tsolov post amid fan speculation on Lawson",
-   "first": "2026-11-07T13:49:18.581135+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T13:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Lindblad edits Tsolov post after fans read it as sign Lawson will be replaced"
-   },
-   "last": "2026-11-07T13:49:18.581141+00:00"
-  },
   "S5634": {
    "title": "Verstappen to start Brazilian GP from back of grid",
    "first": "2026-11-07T13:54:16.522968+00:00",
@@ -8073,19 +8048,6 @@
     "ESPN F1": "Max Verstappen tops final practice; starts São Paulo GP from back of grid"
    },
    "last": "2026-11-07T21:16:02.500685+00:00"
-  },
-  "S5635": {
-   "title": "Haas boss explains why Camara drives in Brazil, not Hirakawa",
-   "first": "2026-11-07T13:54:16.522992+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-07T13:48:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Haas-Teamchef verrät: Darum fährt Rafael Camara in Brasilien - und nicht Hirakawa - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T13:54:16.522997+00:00"
   },
   "S5636": {
    "title": "Jon Rahm leads Abu Dhabi golf by one shot",
@@ -18325,16 +18287,18 @@
    "sources": {
     "RacingNews365": "2026-11-09T12:44:00+00:00",
     "RacingNews365 NL": "2026-11-09T13:00:00+00:00",
-    "GPFans": "2026-11-09T12:57:00+00:00"
+    "GPFans": "2026-11-09T12:57:00+00:00",
+    "Crash.net": "2026-11-09T13:50:47+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Lewis Hamilton ‘devastated’ as Sao Paulo GP unravels after ‘rocket’ start",
     "RacingNews365 NL": "Hamilton 'kapot' na teleurstellend einde GP Brazilië",
-    "GPFans": "Lewis Hamilton seeks Ferrari answers after 'devastating' end to Brazilian GP"
+    "GPFans": "Lewis Hamilton seeks Ferrari answers after 'devastating' end to Brazilian GP",
+    "Crash.net": "“Devastated” Lewis Hamilton seeks Ferrari answers after Brazil GP unravels"
    },
-   "last": "2026-11-09T13:05:12.665504+00:00"
+   "last": "2026-11-09T13:55:05.991181+00:00"
   },
   "S6381": {
    "title": "Motorsport-Total driver ratings from Sao Paulo GP",
@@ -18491,9 +18455,22 @@
     "PlanetF1": "Toto Wolff responds to ‘leaked’ Mercedes email after Antonelli title win"
    },
    "last": "2026-11-09T13:45:08.460595+00:00"
+  },
+  "S6393": {
+   "title": "Ohio State fires special teams coordinator Robby Discher",
+   "first": "2026-11-09T13:55:05.991155+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T13:38:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Ohio State fires special teams coordinator Robby Discher after 9 months"
+   },
+   "last": "2026-11-09T13:55:05.991173+00:00"
   }
  },
- "story_seq": 6392,
+ "story_seq": 6393,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18612,17 +18589,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T13:45:05.441352+00:00",
+ "last_run": "2026-11-09T13:55:03.454467+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T13:49:40.937026+00:00",
-   "title": "Hamilton: Ferrari 2027'de şampiyonluk için mücadele edebilir",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T14:04:45.220313+00:00",
    "title": "Hill: Ferrari Hamilton'ı 1 numara pilot yapmalı",
