@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7caf72373240983f": "2026-10-26T11:21:06.693141+00:00",
-  "02e67efb2c7a74c6": "2026-10-26T11:21:06.693141+00:00",
-  "257f6faa15823b83": "2026-10-26T11:21:06.693141+00:00",
-  "f7c34da247a9f980": "2026-10-26T11:21:06.693141+00:00",
-  "b2bfb0f2cfbef501": "2026-10-26T11:21:06.693141+00:00",
-  "0bbbcfd0eb8c2aeb": "2026-10-26T11:21:06.693141+00:00",
   "861465b020ac3e9c": "2026-10-26T11:31:09.634527+00:00",
   "b83428a808804d35": "2026-10-26T11:31:09.634527+00:00",
   "da1e0dc6e4d4bb3f": "2026-10-26T11:31:09.634527+00:00",
@@ -7793,7 +7787,8 @@
   "585e41febeb481bd": "2026-11-09T11:15:07.583833+00:00",
   "6139797d709d5cbd": "2026-11-09T11:15:07.583833+00:00",
   "89a39d9fa5739086": "2026-11-09T11:15:07.583833+00:00",
-  "5a8e2734f018a148": "2026-11-09T11:15:07.583833+00:00"
+  "5a8e2734f018a148": "2026-11-09T11:15:07.583833+00:00",
+  "640ec2c5389f0911": "2026-11-09T11:25:04.481221+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7856,23 +7851,6 @@
     "GPblog": "Ralf Schumacher delivers ruthless verdict on F1 hopeful: 'He's just burning fuel'"
    },
    "last": "2026-11-07T17:50:09.648608+00:00"
-  },
-  "S5374": {
-   "title": "Wolff criticises MotoGP riders over Qatar GP standoff",
-   "first": "2026-11-06T18:35:22.622058+00:00",
-   "sources": {
-    "Crash.net": "2026-11-06T18:25:00+00:00",
-    "The Race": "2026-11-06T20:20:20+00:00",
-    "RacingNews365 NL": "2026-11-07T11:22:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Toto Wolff takes swipe at MotoGP riders ‘who know nothing’ over Qatar standoff",
-    "The Race": "Wolff backs MotoGP's handling of calendar dissent",
-    "RacingNews365 NL": "Wolff neemt MotoGP-coureurs op de korrel: \"Weten niets van wat er speelt\""
-   },
-   "last": "2026-11-07T11:24:16.972455+00:00"
   },
   "S5440": {
    "title": "Wolff reveals Vasseur paid Ocon's million from own pocket",
@@ -8074,32 +8052,6 @@
    },
    "last": "2026-11-07T19:30:03.614640+00:00"
   },
-  "S5597": {
-   "title": "Darren Williams knocks down a 3-point shot",
-   "first": "2026-11-07T11:19:15.958337+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T10:33:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Darren Williams knocks down the 3-point shot"
-   },
-   "last": "2026-11-07T11:19:15.958353+00:00"
-  },
-  "S5598": {
-   "title": "Eyupspor vs Kocaelispor live score",
-   "first": "2026-11-07T11:24:16.972413+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T11:20:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Eyupspor vs. Kocaelispor (7 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T11:24:16.972430+00:00"
-  },
   "S5599": {
    "title": "Andy Farrell wants more ruthless Ireland after Argentina win",
    "first": "2026-11-07T11:24:16.972435+00:00",
@@ -8112,19 +8064,6 @@
     "ESPN F1": "Andy Farrell wants Ireland to be more ruthless despite big win over Argentina"
    },
    "last": "2026-11-07T11:34:17.288243+00:00"
-  },
-  "S5600": {
-   "title": "Verstappen urges Red Bull fix and makes wet weather plea",
-   "first": "2026-11-07T11:24:16.972445+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T11:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen urges Red Bull problem fix as wet weather plea issued"
-   },
-   "last": "2026-11-07T11:24:16.972449+00:00"
   },
   "S5601": {
    "title": "Chloe Brinson scores goal (football, not F1)",
@@ -18572,9 +18511,22 @@
     "FormulaPassion": "Una brutta Fazenda e le altre storie dal Brasile: I Doppiati F1 Podcast – VIDEO"
    },
    "last": "2026-11-09T11:15:12.337874+00:00"
+  },
+  "S6362": {
+   "title": "Mercedes unsure of Brazil car problems as Russell chases P2",
+   "first": "2026-11-09T11:25:07.194293+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T11:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes mystery threatens Russell's P2 push as Verstappen's lead grows"
+   },
+   "last": "2026-11-09T11:25:07.194312+00:00"
   }
  },
- "story_seq": 6361,
+ "story_seq": 6362,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18693,17 +18645,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T11:15:07.583833+00:00",
+ "last_run": "2026-11-09T11:25:04.481221+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T11:19:06.361125+00:00",
-   "title": "Liverpool'un sahibi Cadillac F1 takımına talip oluyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T11:29:09.046486+00:00",
    "title": "Hamilton, Ferrari'de Leclerc karşısında kariyer riski taşıyor",
