@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "44b44c0ba140e5b9": "2026-10-26T21:52:41.180712+00:00",
-  "1c2c00f7b4e819c3": "2026-10-26T21:52:41.180712+00:00",
   "de5edfd2d4eb06d0": "2026-10-26T22:02:39.029945+00:00",
   "13013b04c54e53bb": "2026-10-26T22:02:39.029945+00:00",
   "bacb67b501152b42": "2026-10-26T22:12:39.684810+00:00",
@@ -7802,7 +7800,10 @@
   "634c9504f9f3e8e5": "2026-11-09T21:36:25.033927+00:00",
   "96660a978526cbc8": "2026-11-09T21:36:25.033927+00:00",
   "e516633d16b9e99f": "2026-11-09T21:46:24.576217+00:00",
-  "a9c4dbb40b510c74": "2026-11-09T21:46:24.576217+00:00"
+  "a9c4dbb40b510c74": "2026-11-09T21:46:24.576217+00:00",
+  "b0bcc785f86344cb": "2026-11-09T21:56:25.869453+00:00",
+  "63ab037d2d9ef0da": "2026-11-09T21:56:25.869453+00:00",
+  "9ffe8a4c1d1dff37": "2026-11-09T21:56:25.869453+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8085,21 +8086,6 @@
    },
    "last": "2026-11-07T23:20:39.534063+00:00"
   },
-  "S5800": {
-   "title": "Vasseur says Ferrari saved tyres; Brazil suits comeback",
-   "first": "2026-11-07T21:16:02.500701+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-07T21:12:27+00:00",
-    "Motorsport.com Italia": "2026-11-07T21:45:51+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Vasseur: “Condizioni estreme, noi abbiamo risparmiato le gomme. Il Brasile è ideale per rimontare”",
-    "Motorsport.com Italia": "F1 | Vasseur: \"Sul bagnato la Ferrari ha il passo e abbiamo risparmiato le gomme rain\""
-   },
-   "last": "2026-11-07T21:50:44.729278+00:00"
-  },
   "S5806": {
    "title": "Orlando vs New England team stats",
    "first": "2026-11-07T21:30:38.612871+00:00",
@@ -8167,19 +8153,6 @@
    },
    "last": "2026-11-08T13:32:32.837166+00:00"
   },
-  "S5816": {
-   "title": "Jack Ham hospitalized after medical emergency",
-   "first": "2026-11-07T21:50:44.729264+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T20:12:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hall of Famer Jack Ham hospitalized after medical emergency"
-   },
-   "last": "2026-11-07T21:50:44.729269+00:00"
-  },
   "S5817": {
    "title": "Lawson admits qualifying error despite career-best grid slot",
    "first": "2026-11-07T21:50:44.729280+00:00",
@@ -8220,19 +8193,6 @@
    },
    "last": "2026-11-08T12:06:41.506109+00:00"
   },
-  "S5819": {
-   "title": "Japan vs Nigeria player stats (football)",
-   "first": "2026-11-07T21:55:41.128790+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:52:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Japan 1-2 Nigeria (7 Nov, 2026) Player Stats"
-   },
-   "last": "2026-11-07T21:55:41.128810+00:00"
-  },
   "S5820": {
    "title": "Trump asks Dana White to be press secretary",
    "first": "2026-11-07T21:55:41.128814+00:00",
@@ -8245,84 +8205,6 @@
     "ESPN F1": "Trump says he's asked UFC boss Dana White to take over as press secretary"
    },
    "last": "2026-11-08T00:35:40.185507+00:00"
-  },
-  "S5821": {
-   "title": "Cade Fields 32-yard rushing touchdown",
-   "first": "2026-11-07T21:55:41.128821+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:49:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cade Fields breaks off 32-yard rushing touchdown"
-   },
-   "last": "2026-11-07T21:55:41.128824+00:00"
-  },
-  "S5822": {
-   "title": "Ben Croasdale 40-yard rushing touchdown",
-   "first": "2026-11-07T21:55:41.128826+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:48:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ben Croasdale goes 40-yard on impressive rushing touchdown"
-   },
-   "last": "2026-11-07T21:55:41.128829+00:00"
-  },
-  "S5823": {
-   "title": "Brandon Sims 43-yard field goal",
-   "first": "2026-11-07T21:55:41.128831+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:47:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brandon Sims makes 43-yard field goal"
-   },
-   "last": "2026-11-07T21:55:41.128833+00:00"
-  },
-  "S5824": {
-   "title": "Lennon Harrington scores for Cornell",
-   "first": "2026-11-07T21:55:41.128836+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:31:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lennon Harrington finds the back of the net for Cornell"
-   },
-   "last": "2026-11-07T21:55:41.128838+00:00"
-  },
-  "S5825": {
-   "title": "Kailee Wilson scores for Seattle U",
-   "first": "2026-11-07T21:55:41.128840+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:28:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kailee Wilson slots in the goal for Seattle U"
-   },
-   "last": "2026-11-07T21:55:41.128842+00:00"
-  },
-  "S5826": {
-   "title": "Norris expects battle with Kimi after Sao Paulo pole",
-   "first": "2026-11-07T21:55:41.128844+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-07T21:16:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "'I expect a battle with Kimi' - Elated Norris ready for a clash with Merc!"
-   },
-   "last": "2026-11-07T21:55:41.128846+00:00"
   },
   "S5827": {
    "title": "Sainz says earlier inter tyre call could have changed Brazil qualifying",
@@ -17227,14 +17109,14 @@
    "title": "49ers' 7-1 start driven by young players' contributions",
    "first": "2026-11-09T20:36:30.482543+00:00",
    "sources": {
-    "ESPN F1": "2026-11-09T20:11:22+00:00"
+    "ESPN F1": "2026-11-09T19:55:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "The key behind 49ers' 7-1 start? Big contributions from the team's youth"
    },
-   "last": "2026-11-09T20:36:30.482561+00:00"
+   "last": "2026-11-09T21:56:27.753649+00:00"
   },
   "S6487": {
    "title": "Antonelli talks Bologna, Virtus and food in personal interview",
@@ -17247,7 +17129,7 @@
    "titles": {
     "Gazzetta dello Sport": "Antonelli: \"Programmi? Bologna, Virtus e tagliatelle, perché la cucina altrove..."
    },
-   "last": "2026-11-09T20:36:30.482571+00:00"
+   "last": "2026-11-09T21:56:27.753660+00:00"
   },
   "S6488": {
    "title": "Harry Kane left off FIFPRO men's team of the year",
@@ -17525,17 +17407,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T21:46:24.576217+00:00",
+ "last_run": "2026-11-09T21:56:25.869453+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T21:50:24.926594+00:00",
-   "title": "Lance Stroll, Verstappen ile yaşanan pit çıkışı olayına kısa yanıt verdi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-06T22:00:28.239818+00:00",
    "title": "Ferrari, Sao Paulo'da şimdiden başlangıç sırası cezası tehdidiyle karşı karşıya",
