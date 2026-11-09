@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cfd4f29f290d553c": "2026-10-26T00:04:32.464653+00:00",
-  "fdb282e70c06ecc1": "2026-10-26T00:04:32.464653+00:00",
-  "591804153726b066": "2026-10-26T00:04:32.464653+00:00",
-  "eda3163e28317aae": "2026-10-26T00:04:32.464653+00:00",
-  "431f4884adc8ee01": "2026-10-26T00:04:32.464653+00:00",
-  "e76b6beee5cfe743": "2026-10-26T00:04:32.464653+00:00",
-  "aa15e623de50d491": "2026-10-26T00:04:32.464653+00:00",
-  "d3ded9dfedd16c00": "2026-10-26T00:04:32.464653+00:00",
   "49023cef68203b79": "2026-10-26T00:14:32.309867+00:00",
   "8acaa1b974067e23": "2026-10-26T00:14:32.309867+00:00",
   "1049c334c9e2129d": "2026-10-26T00:14:32.309867+00:00",
@@ -7813,7 +7805,8 @@
   "9a1017ef10ab8511": "2026-11-08T23:38:45.340007+00:00",
   "d289f9dca8e0402f": "2026-11-08T23:53:42.088103+00:00",
   "7a7b2075f94d3f52": "2026-11-08T23:58:44.474167+00:00",
-  "78baedf5b0686387": "2026-11-08T23:58:44.474167+00:00"
+  "78baedf5b0686387": "2026-11-08T23:58:44.474167+00:00",
+  "df2a821fa0470e74": "2026-11-09T00:08:45.632061+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8258,32 +8251,6 @@
     "PlanetF1": "Rafael Camara ‘very special’ trait highlighted as Ocon sack triggers early debut"
    },
    "last": "2026-11-07T11:29:19.443303+00:00"
-  },
-  "S5477": {
-   "title": "Frank Lampard unhappy with three referee decisions in Coventry loss",
-   "first": "2026-11-07T00:08:18.556595+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T23:47:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Frank Lampard unhappy with 3 big referee decisions in Coventry loss to Everton"
-   },
-   "last": "2026-11-07T00:08:18.556611+00:00"
-  },
-  "S5478": {
-   "title": "Toulouse 3-1 Strasbourg player stats",
-   "first": "2026-11-07T00:08:18.556616+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T21:51:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Toulouse 3-1 Strasbourg (Nov 6, 2026) Player Stats"
-   },
-   "last": "2026-11-07T00:08:18.556621+00:00"
   },
   "S5479": {
    "title": "Seahawks' Quenton Nelson and Sam Darnold ruled out (NFL)",
@@ -18897,9 +18864,22 @@
     "ESPN F1": "Army honors the Ivy Soldiers with special camouflage uniforms against Navy"
    },
    "last": "2026-11-08T23:58:46.246228+00:00"
+  },
+  "S6254": {
+   "title": "Piastri describes scary unusual sight leaving Interlagos pit lane",
+   "first": "2026-11-09T00:08:47.246551+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T00:04:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri reveals ‘scary’ Brazilian GP moment"
+   },
+   "last": "2026-11-09T00:08:47.246568+00:00"
   }
  },
- "story_seq": 6253,
+ "story_seq": 6254,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19018,7 +18998,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T00:03:43.253801+00:00",
+ "last_run": "2026-11-09T00:08:45.632061+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20643,6 +20623,11 @@
    "t": "2026-11-08T23:23:48.996717+00:00",
    "title": "Lawson, Brezilya'da parlak bir hafta sonuyla iddiasını ortaya koydu",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-09T00:08:50.626992+00:00",
+   "title": "Piastri, Brezilya GP'de Russell'ın spininden kaçındığını anlattı",
+   "source": "PlanetF1"
   }
  ]
 }
