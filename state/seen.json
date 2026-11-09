@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e49b6d4ee3a179b2": "2026-10-26T11:51:07.153528+00:00",
-  "6520ab85bb2f7b80": "2026-10-26T11:51:07.153528+00:00",
   "4704d3bb50468766": "2026-10-26T12:01:11.534864+00:00",
   "d7b96f102bd20789": "2026-10-26T12:01:11.534864+00:00",
   "8fbb4b61e894aa98": "2026-10-26T12:01:11.534864+00:00",
@@ -7786,7 +7784,10 @@
   "4a7c50a2cf0f3440": "2026-11-09T11:35:03.825942+00:00",
   "b03ded97140f6c9c": "2026-11-09T11:35:03.825942+00:00",
   "86e4fa5be4d203f2": "2026-11-09T11:45:02.632418+00:00",
-  "83ca9ce78c3c1783": "2026-11-09T11:45:02.632418+00:00"
+  "83ca9ce78c3c1783": "2026-11-09T11:45:02.632418+00:00",
+  "ed44330e322341e0": "2026-11-09T11:55:06.609849+00:00",
+  "49956e4cd294ee1e": "2026-11-09T11:55:06.609849+00:00",
+  "07290ba73c90b6f5": "2026-11-09T11:55:06.609849+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8015,32 +8016,6 @@
     "Gazzetta dello Sport": "Hamilton, in Brasile la gara numero 400. Ma chi ha corso più Gran Premi di lui?"
    },
    "last": "2026-11-07T19:30:03.614640+00:00"
-  },
-  "S5605": {
-   "title": "ESPN NFL Week 9 predictions and fantasy picks",
-   "first": "2026-11-07T11:49:16.909923+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T11:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL Week 9 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more"
-   },
-   "last": "2026-11-07T11:49:16.909943+00:00"
-  },
-  "S5606": {
-   "title": "Top F1 drivers warn of rain forecast for Brazil Saturday",
-   "first": "2026-11-07T11:49:16.909949+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T11:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "F1-coureurs waarschuwen: \"Neem je regenjas mee!\""
-   },
-   "last": "2026-11-07T11:49:16.909955+00:00"
   },
   "S5607": {
    "title": "Red Bull's Schmitz positive on overnight changes for Verstappen in Brazil",
@@ -18503,9 +18478,48 @@
     "RacingNews365 NL": "Onnavolgbare Verstappen levert ultiem bewijs als regenmeester van F1"
    },
    "last": "2026-11-09T11:45:05.692156+00:00"
+  },
+  "S6369": {
+   "title": "Verstappen wants a change for the next Sao Paulo GP",
+   "first": "2026-11-09T11:55:09.656268+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T11:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen expresses a major wish for the next edition of the Brazilian Grand Prix"
+   },
+   "last": "2026-11-09T11:55:09.656286+00:00"
+  },
+  "S6370": {
+   "title": "RTL to show an extra 2026 F1 race on free-to-air TV",
+   "first": "2026-11-09T11:55:09.656291+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T11:45:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Überraschung: RTL zeigt zusätzliches Formel-1-Rennen 2026 im Free-TV - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T11:55:09.656297+00:00"
+  },
+  "S6371": {
+   "title": "Feature on the secret behind Mercedes' title-winning factory",
+   "first": "2026-11-09T11:55:09.656301+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-09T10:51:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Das Geheimnis der Titel-Fabrik von Mercedes"
+   },
+   "last": "2026-11-09T11:55:09.656305+00:00"
   }
  },
- "story_seq": 6368,
+ "story_seq": 6371,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18624,17 +18638,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T11:45:02.632418+00:00",
+ "last_run": "2026-11-09T11:55:06.609849+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T11:54:09.444660+00:00",
-   "title": "Hadjar, Red Bull'un start sorununun çözüldüğü konusunda temkinli",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-06T12:14:05.091383+00:00",
    "title": "Aston Martin, Honda'daki 'anormal' sorun sonrası 'yetersiz' çözümden memnuniyetsiz",
@@ -20209,6 +20218,21 @@
    "t": "2026-11-09T11:45:13.738301+00:00",
    "title": "Stella: McLaren, Interlagos'ta lastik yönetimiyle Norris'in zaferini sağladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-09T11:55:14.419543+00:00",
+   "title": "Mercedes'in şampiyonluk fabrikasının sırrı",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-09T11:55:14.893276+00:00",
+   "title": "Verstappen'den Brezilya GP'si için önemli bir istek",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-09T11:55:15.386287+00:00",
+   "title": "RTL, 2026'da ek bir Formula 1 yarışını ücretsiz yayınlayacak",
+   "source": "Motorsport-Total"
   }
  ]
 }
