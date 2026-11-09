@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3621cf7aa8679d6f": "2026-10-26T12:31:09.174861+00:00",
-  "ec2534caa5c88407": "2026-10-26T12:31:09.174861+00:00",
   "60d070fc1128c381": "2026-10-26T12:41:07.870342+00:00",
   "703209412b8b7bf2": "2026-10-26T12:41:07.870342+00:00",
   "bfb9ee427c3f0082": "2026-10-26T12:41:07.870342+00:00",
@@ -7785,7 +7783,9 @@
   "ac04619eac91221f": "2026-11-09T12:15:02.423278+00:00",
   "a2204a60f0e8a3ef": "2026-11-09T12:25:05.524565+00:00",
   "b301d54bbd7f4fbc": "2026-11-09T12:25:05.524565+00:00",
-  "0d332d4788dc8a6e": "2026-11-09T12:25:05.524565+00:00"
+  "0d332d4788dc8a6e": "2026-11-09T12:25:05.524565+00:00",
+  "6766e8e92fa96042": "2026-11-09T12:35:05.945108+00:00",
+  "8d01a138b47b5ec0": "2026-11-09T12:35:05.945108+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8027,47 +8027,6 @@
     "ESPN F1": "Colts in Daniel Jones trade talks as multiple teams call about QB, sources say"
    },
    "last": "2026-11-07T13:14:15.161517+00:00"
-  },
-  "S5617": {
-   "title": "MotoGP Qatar qualifying: Bezzecchi beats Marquez to pole",
-   "first": "2026-11-07T12:29:15.944328+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T12:20:00+00:00",
-    "The Race": "2026-11-07T12:29:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "MotoGP Qatar qualifying results | Marquez beaten by Aprilia",
-    "The Race": "Bezzecchi dominates for Qatar MotoGP pole"
-   },
-   "last": "2026-11-07T12:34:25.277182+00:00"
-  },
-  "S5618": {
-   "title": "Ferrari upgrades spark debate over Mercedes comparison",
-   "first": "2026-11-07T12:29:15.944353+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-07T11:23:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Ferrari attackiert Mercedes: Diese Upgrades sorgen für Diskussionen"
-   },
-   "last": "2026-11-07T12:29:15.944359+00:00"
-  },
-  "S5619": {
-   "title": "Permane understands frustration over delayed Racing Bulls driver decision",
-   "first": "2026-11-07T12:34:25.277187+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-07T12:30:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Racing-Bulls-Teamchef \"versteht Frust\" über verzögerte Fahrerentscheidung - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T12:34:25.277209+00:00"
   },
   "S5620": {
    "title": "Gaël Monfils stays as France Davis Cup captain",
@@ -17604,15 +17563,17 @@
    "first": "2026-11-09T06:04:19.576579+00:00",
    "sources": {
     "GPblog": "2026-11-09T06:00:00+00:00",
-    "PlanetF1": "2026-11-09T07:21:40+00:00"
+    "PlanetF1": "2026-11-09T07:21:40+00:00",
+    "RacingNews365 NL": "2026-11-09T12:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Verstappen reveals what went wrong with RB22 despite impressive charge",
-    "PlanetF1": "Max Verstappen exposes Red Bull problem that cost him a shot at victory in Brazil"
+    "PlanetF1": "Max Verstappen exposes Red Bull problem that cost him a shot at victory in Brazil",
+    "RacingNews365 NL": "Verstappen betreurt impact van 'fout' Red Bull"
    },
-   "last": "2026-11-09T07:24:18.859422+00:00"
+   "last": "2026-11-09T12:35:08.484240+00:00"
   },
   "S6313": {
    "title": "Verstappen says his Brazil comeback is not normal, criticises misconception",
@@ -18477,9 +18438,22 @@
     "Motorsport-Total": "Formel-1-Meinung: Kommentare & Kolumnen der Redaktion - Motorsport-Total.com"
    },
    "last": "2026-11-09T12:25:08.346063+00:00"
+  },
+  "S6377": {
+   "title": "Alisson discusses possible new Liverpool contract",
+   "first": "2026-11-09T12:35:08.484214+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Alisson in talks over new Liverpool contract: 'I'm happy to stay'"
+   },
+   "last": "2026-11-09T12:35:08.484232+00:00"
   }
  },
- "story_seq": 6376,
+ "story_seq": 6377,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18598,17 +18572,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T12:25:05.524565+00:00",
+ "last_run": "2026-11-09T12:35:05.945108+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T12:29:01.461953+00:00",
-   "title": "Antonelli, Senna'nın ailesi tarafından Brezilya'da karşılandı",
-   "source": "Corriere dello Sport"
-  },
   {
    "t": "2026-11-06T12:49:03.573337+00:00",
    "title": "Ricciardo, F1 dışlanmasının ardından 2027'de geri dönüş için gizli görüşmeler yaptı",
