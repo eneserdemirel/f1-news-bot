@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bda36cee6570f3ba": "2026-10-26T10:00:22.375761+00:00",
-  "2313d014b980e2d9": "2026-10-26T10:00:22.375761+00:00",
-  "6e3011cfcd898537": "2026-10-26T10:00:22.375761+00:00",
   "38e7fbe794887b01": "2026-10-26T10:10:18.968948+00:00",
   "46828472b0fac972": "2026-10-26T10:10:18.968948+00:00",
   "4df9077baf737f22": "2026-10-26T10:10:18.968948+00:00",
@@ -7786,7 +7783,13 @@
   "c94570bd8a51ecf2": "2026-11-09T09:44:16.972974+00:00",
   "936f24835c6cef79": "2026-11-09T09:45:03.724066+00:00",
   "9c8b196cfc0f5f12": "2026-11-09T09:55:02.578366+00:00",
-  "09617d1eef21a366": "2026-11-09T09:55:02.578366+00:00"
+  "09617d1eef21a366": "2026-11-09T09:55:02.578366+00:00",
+  "a2aab2d25f0bed71": "2026-11-09T10:05:05.213784+00:00",
+  "d96797cb75a82dde": "2026-11-09T10:05:05.213784+00:00",
+  "ff2921a79b9029fa": "2026-11-09T10:05:05.213784+00:00",
+  "a0f56c04a67f9438": "2026-11-09T10:05:05.213784+00:00",
+  "a7eb89d0176da702": "2026-11-09T10:05:05.213784+00:00",
+  "7320cb546fe195e5": "2026-11-09T10:05:05.213784+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7905,21 +7908,6 @@
     "RacingNews365 NL": "Wolff neemt MotoGP-coureurs op de korrel: \"Weten niets van wat er speelt\""
    },
    "last": "2026-11-07T11:24:16.972455+00:00"
-  },
-  "S5424": {
-   "title": "Verstappen jokes about onboard radio during Brazil practice",
-   "first": "2026-11-06T20:35:23.863375+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-06T20:30:00+00:00",
-    "GPblog": "2026-11-06T21:16:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen grapt over Red Bull-problemen: \"Anders krijg je straf!\"",
-    "GPblog": "Verstappen talks to his clutch in hilarious conversation: 'Otherwise, you’ll be punished!'"
-   },
-   "last": "2026-11-07T09:58:49.006892+00:00"
   },
   "S5433": {
    "title": "Knicks appreciative of Taylor Swift after fandom question",
@@ -8186,19 +8174,6 @@
     "Formula 1": "LIVE COVERAGE: Third practice in Sao Paulo"
    },
    "last": "2026-11-07T14:19:21.977834+00:00"
-  },
-  "S5582": {
-   "title": "Rio Ngumoha linked with Bayern Munich transfer (football)",
-   "first": "2026-11-07T09:58:49.006864+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T09:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Transfer rumors, news: Liverpool's Rio Ngumoha still a Bayern Munich target"
-   },
-   "last": "2026-11-07T09:58:49.006884+00:00"
   },
   "S5583": {
    "title": "Antonelli describes title party hangover after Mexico City win",
@@ -16725,15 +16700,17 @@
    "first": "2026-11-08T21:03:21.135546+00:00",
    "sources": {
     "Autosport": "2026-11-08T20:57:57+00:00",
-    "Motorsport.com Italia": "2026-11-08T21:12:23+00:00"
+    "Motorsport.com Italia": "2026-11-08T21:12:23+00:00",
+    "FormulaPassion": "2026-11-09T09:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
-    "Motorsport.com Italia": "F1 | Antonelli, vittoria sfumata tra i rimpianti: \"Sono arrabbiato, è successo qualcosa di anomalo alla vettura\""
+    "Motorsport.com Italia": "F1 | Antonelli, vittoria sfumata tra i rimpianti: \"Sono arrabbiato, è successo qualcosa di anomalo alla vettura\"",
+    "FormulaPassion": "Antonelli insaziabile: “Peccato, potevo vincere, la macchina mi è partita di colpo”"
    },
-   "last": "2026-11-08T21:18:20.106356+00:00"
+   "last": "2026-11-09T10:05:10.620389+00:00"
   },
   "S6200": {
    "title": "Luka Doncic sits out vs Pistons with back tightness",
@@ -18482,7 +18459,9 @@
     "Autosport": "2026-11-09T08:43:40+00:00",
     "RacingNews365": "2026-11-09T08:42:00+00:00",
     "RacingNews365 NL": "2026-11-09T08:42:00+00:00",
-    "GPblog": "2026-11-09T09:00:00+00:00"
+    "GPblog": "2026-11-09T09:00:00+00:00",
+    "GPFans": "2026-11-09T09:57:00+00:00",
+    "Motorsport-Total": "2026-11-09T09:54:44+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -18493,9 +18472,11 @@
     "Autosport": "Piastri and Webber terminate management agreement",
     "RacingNews365": "Breaking: Oscar Piastri ends management agreement with Mark Webber",
     "RacingNews365 NL": "Oscar Piastri breekt per direct met management",
-    "GPblog": "Oscar Piastri splits with Mark Webber’s management team"
+    "GPblog": "Oscar Piastri splits with Mark Webber’s management team",
+    "GPFans": "F1 star Oscar Piastri makes major decision as shock split confirmed",
+    "Motorsport-Total": "Nach sieben Jahren ist Schluss: Oscar Piastri und Mark Webber trennen sich - Motorsport-Total.com"
    },
-   "last": "2026-11-09T09:04:16.849752+00:00"
+   "last": "2026-11-09T10:05:10.620408+00:00"
   },
   "S6334": {
    "title": "Antonelli frustrated after losing Brazil win from second on grid",
@@ -18704,9 +18685,35 @@
     "GPblog": "Wolff claims Kimi Antonelli would have been dropped elsewhere in thinly veiled dig at Red Bull"
    },
    "last": "2026-11-09T09:55:05.879440+00:00"
+  },
+  "S6350": {
+   "title": "MotoGP Qatar GP 2026 rider rankings",
+   "first": "2026-11-09T10:05:10.620348+00:00",
+   "sources": {
+    "The Race": "2026-11-09T09:58:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "The Race": "Qatar Grand Prix 2026 MotoGP rider rankings"
+   },
+   "last": "2026-11-09T10:05:10.620367+00:00"
+  },
+  "S6351": {
+   "title": "Italian media praise Verstappen's Brazil drive as Red Bull's leader",
+   "first": "2026-11-09T10:05:10.620373+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T09:52:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Italiaanse media zien met Verstappen angstaanjagend Red Bull: \"Twee leiders aan het roer\""
+   },
+   "last": "2026-11-09T10:05:10.620378+00:00"
   }
  },
- "story_seq": 6349,
+ "story_seq": 6351,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18825,17 +18832,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T09:55:02.578366+00:00",
+ "last_run": "2026-11-09T10:05:05.213784+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T09:59:03.291922+00:00",
-   "title": "Kimi Antonelli: WM şampiyonluğu, T-shirt sayesinde gerçek oldu",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-06T10:14:05.351018+00:00",
    "title": "Russell Meksika GP'sinden erken ayrıldı, Mercedes 5.000 € ceza aldı",
@@ -20455,6 +20457,11 @@
    "t": "2026-11-09T09:45:13.582943+00:00",
    "title": "Hamilton'dan sonra Leclerc de box çağrısına uymadı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-09T10:05:18.918239+00:00",
+   "title": "Verstappen 21. pozisyondan ikinciliğe yükseldi, İtalyan basını Red Bull'u övdü",
+   "source": "RacingNews365 NL"
   }
  ]
 }
