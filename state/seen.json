@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "64dab1a0e9b5165e": "2026-10-26T19:42:08.393264+00:00",
-  "bd298901820aa7da": "2026-10-26T19:42:08.393264+00:00",
   "475a28d1b0512b25": "2026-10-26T19:52:10.432198+00:00",
   "a15066c7b4a83e4a": "2026-10-26T20:02:06.580807+00:00",
   "43c4f8af1314aa71": "2026-10-26T20:02:06.580807+00:00",
@@ -7802,7 +7800,8 @@
   "c562de1aab70a5fa": "2026-11-09T19:05:40.716506+00:00",
   "4890e373403d240e": "2026-11-09T19:25:40.133137+00:00",
   "ace509d132244989": "2026-11-09T19:25:40.133137+00:00",
-  "7d785164970e2590": "2026-11-09T19:35:38.786729+00:00"
+  "7d785164970e2590": "2026-11-09T19:35:38.786729+00:00",
+  "631dc133dd2fbf59": "2026-11-09T19:45:40.669851+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7996,32 +7995,6 @@
     "RacingNews365 NL": "Nieuwe starttijd kwalificatie GP Brazilië bekend"
    },
    "last": "2026-11-08T00:01:08.733142+00:00"
-  },
-  "S5747": {
-   "title": "Nottingham Forest beat Man City for City's third straight Premier League loss",
-   "first": "2026-11-07T19:40:02.293793+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T19:36:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nottingham Forest condemn Man City to 3rd straight Premier League loss"
-   },
-   "last": "2026-11-07T19:40:02.293811+00:00"
-  },
-  "S5748": {
-   "title": "Tristan Alvano kicks 50-yard field goal",
-   "first": "2026-11-07T19:45:04.672891+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T19:35:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tristan Alvano kicks 50-yard field goal"
-   },
-   "last": "2026-11-07T19:45:04.672910+00:00"
   },
   "S5749": {
    "title": "Brazilian GP 2026 qualifying results published after delay",
@@ -17992,9 +17965,22 @@
     "ESPN F1": "Sources: Jets trade safety Andre Cisco to injury-plagued Lions"
    },
    "last": "2026-11-09T19:35:40.486193+00:00"
+  },
+  "S6481": {
+   "title": "Plymouth vs. Berkhamsted live score",
+   "first": "2026-11-09T19:45:42.438153+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:44:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Plymouth vs. Berkhamsted (Nov 9, 2026) Live Score"
+   },
+   "last": "2026-11-09T19:45:42.438171+00:00"
   }
  },
- "story_seq": 6480,
+ "story_seq": 6481,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18113,7 +18099,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T19:35:38.786729+00:00",
+ "last_run": "2026-11-09T19:45:40.669851+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
