@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "df44c4a3924fd646": "2026-10-26T19:02:22.328589+00:00",
-  "42541d10db6f5da8": "2026-10-26T19:02:22.328589+00:00",
   "b5a82a8216706954": "2026-10-26T19:12:08.166194+00:00",
   "0453bdd8e3847221": "2026-10-26T19:12:08.166194+00:00",
   "634bdfdd202d84d1": "2026-10-26T19:12:08.166194+00:00",
@@ -7807,7 +7805,13 @@
   "9d1190b6c2c9a2b7": "2026-11-09T18:55:39.134763+00:00",
   "32754a3a26b480c8": "2026-11-09T18:55:39.134763+00:00",
   "7ab8ba51970933ee": "2026-11-09T18:55:39.134763+00:00",
-  "57d922f3862a93da": "2026-11-09T18:55:39.134763+00:00"
+  "57d922f3862a93da": "2026-11-09T18:55:39.134763+00:00",
+  "3a9975f75dbc476f": "2026-11-09T19:05:40.716506+00:00",
+  "9adfaa0a369e0b70": "2026-11-09T19:05:40.716506+00:00",
+  "58c16359552c2206": "2026-11-09T19:05:40.716506+00:00",
+  "b3319633a0892faa": "2026-11-09T19:05:40.716506+00:00",
+  "54a25884bbfbfc8f": "2026-11-09T19:05:40.716506+00:00",
+  "c562de1aab70a5fa": "2026-11-09T19:05:40.716506+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7957,19 +7961,6 @@
    },
    "last": "2026-11-07T19:55:02.880523+00:00"
   },
-  "S5718": {
-   "title": "FIA confirms 30-place grid penalty for Perez at Brazilian GP",
-   "first": "2026-11-07T17:15:03.459926+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T17:11:24+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "FIA confirms 30-place Sergio Perez penalty for Brazilian Grand Prix"
-   },
-   "last": "2026-11-07T19:05:05.207632+00:00"
-  },
   "S5727": {
    "title": "Roundup of every FIA grid penalty for Brazilian GP",
    "first": "2026-11-07T17:40:07.130409+00:00",
@@ -8014,32 +8005,6 @@
     "GPblog": "Fans receive emergency warning as extreme weather strikes at Interlagos"
    },
    "last": "2026-11-08T00:01:08.733152+00:00"
-  },
-  "S5737": {
-   "title": "Brazilian GP qualifying restart hopes fade after track inspection",
-   "first": "2026-11-07T19:00:04.797985+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T18:54:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hopes of Brazilian GP qualifying restart fade after latest inspection"
-   },
-   "last": "2026-11-07T19:00:04.798006+00:00"
-  },
-  "S5738": {
-   "title": "David Lynch 2-yard TD pass to Luke Petitta (American football)",
-   "first": "2026-11-07T19:05:05.207606+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T18:54:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "David Lynch throws 2-yard TD pass to Luke Petitta"
-   },
-   "last": "2026-11-07T19:05:05.207624+00:00"
   },
   "S5739": {
    "title": "Brundle backs Lawson; Red Bull would be 'pathetic' to drop him",
@@ -16169,7 +16134,7 @@
    "titles": {
     "The Race": "F1 podcast: Did Red Bull problems cost Verstappen a shot at win?"
    },
-   "last": "2026-11-09T08:34:17.591134+00:00"
+   "last": "2026-11-09T19:05:47.840184+00:00"
   },
   "S6333": {
    "title": "Oscar Piastri ends partnership with manager Mark Webber",
@@ -18051,9 +18016,74 @@
     "ESPN F1": "Xabi Alonso insists Chelsea were not 'bullied' by Sunderland after defeat"
    },
    "last": "2026-11-09T18:55:42.194375+00:00"
+  },
+  "S6474": {
+   "title": "Browns return to Watson as starting QB1 after Sanders' fill-in",
+   "first": "2026-11-09T19:05:47.840157+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:52:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Source: Browns returning to Watson as QB1 despite Sanders' strong fill-in start"
+   },
+   "last": "2026-11-09T19:05:47.840175+00:00"
+  },
+  "S6475": {
+   "title": "Ricciardo reveals his message to Verstappen after Red Bull win",
+   "first": "2026-11-09T19:05:47.840189+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Daniel Ricciardo reveals Max Verstappen message after historic Red Bull victory"
+   },
+   "last": "2026-11-09T19:05:47.840195+00:00"
+  },
+  "S6476": {
+   "title": "Red Bull praise Lawson as Racing Bulls delay 2027 decision",
+   "first": "2026-11-09T19:05:47.840199+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T18:55:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Red Bull hail Liam Lawson performance as Racing Bulls stall on contract decision"
+   },
+   "last": "2026-11-09T19:05:47.840203+00:00"
+  },
+  "S6477": {
+   "title": "Wolff jokes Hamilton will travel home with Mercedes staff",
+   "first": "2026-11-09T19:05:47.840207+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff cannot resist Hamilton joke as Mercedes celebrate F1 title triumph"
+   },
+   "last": "2026-11-09T19:05:47.840211+00:00"
+  },
+  "S6478": {
+   "title": "Alonso claims Honda power unit holds back Aston Martin",
+   "first": "2026-11-09T19:05:47.840214+00:00",
+   "sources": {
+    "GPFans": "2026-11-09T18:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Fernando Alonso's astonishing Aston Martin claim says everything about Honda"
+   },
+   "last": "2026-11-09T19:05:47.840218+00:00"
   }
  },
- "story_seq": 6473,
+ "story_seq": 6478,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18172,22 +18202,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T18:55:39.134763+00:00",
+ "last_run": "2026-11-09T19:05:40.716506+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-09 15:00",
- "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
+ "last_digest_slot": "2026-11-09 22:00",
+ "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T19:05:24.353476+00:00",
-   "title": "Formula 1 kaderi mi zorluyor?",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-11-06T19:05:24.960424+00:00",
-   "title": "Wolff, Ocon'un Haas'tan çıkarılmasına ilk kez ışık tuttu",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-06T19:10:25.993350+00:00",
    "title": "Antonelli, çevrimiçi tartışmalara yanıt verdi: Ben de yeni araçlara uyum sağlamak zorunda kaldım",
@@ -19777,6 +19797,16 @@
    "t": "2026-11-09T18:45:51.679373+00:00",
    "title": "Toto Wolff: Mercedes yeni bir baskın dönemin başladığına inanmıyor",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-09T19:05:56.122557+00:00",
+   "title": "Red Bull, Liam Lawson'ın performansını övdü; Racing Bulls sözleşme kararını erteliyor",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T19:05:56.650508+00:00",
+   "title": "Ricciardo, Verstappen'e Red Bull'un tarihi zaferi için tebrik mesajı attı",
+   "source": "RacingNews365"
   }
  ]
 }
