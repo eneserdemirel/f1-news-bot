@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d60db1eb2f6a9662": "2026-10-26T17:22:04.003739+00:00",
-  "08cfbd330f03f977": "2026-10-26T17:22:04.003739+00:00",
-  "1d22f2adabb27121": "2026-10-26T17:22:04.003739+00:00",
-  "277dc16de946db0e": "2026-10-26T17:22:04.003739+00:00",
   "e92d95f46c5a9bd1": "2026-10-26T17:32:31.469707+00:00",
   "1ed13ba5d2d680e8": "2026-10-26T17:32:31.469707+00:00",
   "5cc04047e4aad480": "2026-10-26T17:32:31.469707+00:00",
@@ -7805,7 +7801,14 @@
   "1be8d1d5d8c596b4": "2026-11-09T17:15:38.348624+00:00",
   "5f38b29a4dd6c426": "2026-11-09T17:15:38.348624+00:00",
   "23fb7e2b6e8bfb2f": "2026-11-09T17:15:38.348624+00:00",
-  "dcbdbc46b38f8ca8": "2026-11-09T17:15:38.348624+00:00"
+  "dcbdbc46b38f8ca8": "2026-11-09T17:15:38.348624+00:00",
+  "2cc347a378fa01f0": "2026-11-09T17:25:42.954734+00:00",
+  "59a356fcf408caf0": "2026-11-09T17:25:42.954734+00:00",
+  "c4c56bef76e7905b": "2026-11-09T17:25:42.954734+00:00",
+  "9093c891245e48b6": "2026-11-09T17:25:42.954734+00:00",
+  "7730dcb46f51b279": "2026-11-09T17:25:42.954734+00:00",
+  "fa926032803b5c26": "2026-11-09T17:25:42.954734+00:00",
+  "865aa7452bf0bd9f": "2026-11-09T17:25:42.954734+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8059,45 +8062,6 @@
     "PlanetF1": "FIA confirms 30-place Sergio Perez penalty for Brazilian Grand Prix"
    },
    "last": "2026-11-07T19:05:05.207632+00:00"
-  },
-  "S5720": {
-   "title": "Galatasaray vs Amed SFK team stats (football)",
-   "first": "2026-11-07T17:20:03.112627+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T17:12:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Galatasaray vs. Amed SFK (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T17:20:03.112647+00:00"
-  },
-  "S5721": {
-   "title": "Fulham 1-1 Newcastle game analysis (football)",
-   "first": "2026-11-07T17:20:03.112652+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T17:11:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fulham 1-1 Newcastle (Nov 7, 2026) Game Analysis"
-   },
-   "last": "2026-11-07T17:20:03.112657+00:00"
-  },
-  "S5722": {
-   "title": "Saturday fantasy hoops adds and NBA betting picks",
-   "first": "2026-11-07T17:25:05.565798+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T16:10:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Saturday's fantasy hoops adds, NBA bets to make: Traore, Eason among top options"
-   },
-   "last": "2026-11-07T17:25:05.565819+00:00"
   },
   "S5723": {
    "title": "Hamilton to start Brazil GP from back after full power unit change",
@@ -16846,14 +16810,16 @@
    "title": "Norris explains champagne bottle smashing on Brazil podium",
    "first": "2026-11-09T11:15:12.337863+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-09T11:05:00+00:00"
+    "RacingNews365 NL": "2026-11-09T11:05:00+00:00",
+    "GPblog": "2026-11-09T17:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Norris geeft opvallende verklaring voor kapotslaan champagnefles: \"Wedstrijdje\""
+    "RacingNews365 NL": "Norris geeft opvallende verklaring voor kapotslaan champagnefles: \"Wedstrijdje\"",
+    "GPblog": "Norris breaks silence on bizarre champagne mishap after Brazilian GP win"
    },
-   "last": "2026-11-09T11:15:12.337868+00:00"
+   "last": "2026-11-09T17:25:48.027310+00:00"
   },
   "S6361": {
    "title": "FormulaPassion podcast on Brazil GP weekend",
@@ -17129,12 +17095,12 @@
    "sources": {
     "Motorsport-Total": "2026-11-09T12:47:59+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Fotostrecke: Sao Paulo: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
    },
-   "last": "2026-11-09T12:55:09.359724+00:00"
+   "last": "2026-11-09T17:25:48.027318+00:00"
   },
   "S6382": {
    "title": "Hadjar says he never faced so many challenges in one race",
@@ -18034,9 +18000,61 @@
     "PlanetF1": "Rafael Camara issues verdict after tough F1 debut"
    },
    "last": "2026-11-09T17:15:42.482782+00:00"
+  },
+  "S6451": {
+   "title": "Mercedes title celebration photo gallery from Sao Paulo",
+   "first": "2026-11-09T17:25:48.027255+00:00",
+   "sources": {
+    "Formula 1": "2026-11-09T17:25:48.027271+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The best images from Mercedes' title celebrations"
+   },
+   "last": "2026-11-09T17:25:48.027276+00:00"
+  },
+  "S6452": {
+   "title": "ESPN fantasy football risers and fallers",
+   "first": "2026-11-09T17:25:48.027282+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:41:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy risers and fallers: Add Burries, give more time to struggling Buzelis?"
+   },
+   "last": "2026-11-09T17:25:48.027288+00:00"
+  },
+  "S6453": {
+   "title": "Rasheed Walker analysing blind-side protection issue",
+   "first": "2026-11-09T17:25:48.027292+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:37:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rasheed Walker keeps 'analyzing issue' in protecting Bryce Young's blind side"
+   },
+   "last": "2026-11-09T17:25:48.027297+00:00"
+  },
+  "S6454": {
+   "title": "CFP and ESPN reportedly agree $1.7B expansion deal",
+   "first": "2026-11-09T17:25:48.027300+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T15:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "CFP, ESPN ink 5-year, $1.7B deal to expand field, sources say"
+   },
+   "last": "2026-11-09T17:25:48.027304+00:00"
   }
  },
- "story_seq": 6450,
+ "story_seq": 6454,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18155,32 +18173,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T17:15:38.348624+00:00",
+ "last_run": "2026-11-09T17:25:42.954734+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T17:19:48.527288+00:00",
-   "title": "Perez, Cadillac'ın 2027 takım arkadaşı için kriteri açıkladı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-06T17:19:49.046504+00:00",
-   "title": "Brundle: Hamilton, Ferrari'de 'birinci numara' olmak için fırsat yakalıyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-06T17:24:41.720429+00:00",
-   "title": "Williams, Sainz ve Albon'un motorlarında kilometre sınırlaması uyguluyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-06T17:24:42.240775+00:00",
-   "title": "Ralf Schumacher, Colton Herta'yı eleştirdi: \"F1'de yeri yok\"",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-06T17:29:45.284922+00:00",
    "title": "F1 Brezilya GP 2026: FP2 seansı bu akşam canlı yayında",
