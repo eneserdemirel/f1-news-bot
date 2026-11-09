@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f1a21e2ad9faa6dd": "2026-10-26T01:24:48.719198+00:00",
-  "ba9c424d84b5d5ae": "2026-10-26T01:24:48.719198+00:00",
-  "48ff928829def1ee": "2026-10-26T01:24:48.719198+00:00",
   "5a11cb2f35af4ad2": "2026-10-26T01:29:32.032353+00:00",
   "55dd2306409e2838": "2026-10-26T01:29:32.032353+00:00",
   "f9ce823c9d073c79": "2026-10-26T01:34:34.635538+00:00",
@@ -7798,7 +7795,9 @@
   "0b48c12a6121a1cc": "2026-11-09T01:13:47.348945+00:00",
   "a3a66ab1a96aaca8": "2026-11-09T01:13:47.348945+00:00",
   "1fca93744f8481fa": "2026-11-09T01:18:42.879857+00:00",
-  "701469ae4b3f70e0": "2026-11-09T01:23:47.845553+00:00"
+  "701469ae4b3f70e0": "2026-11-09T01:23:47.845553+00:00",
+  "07d06ae082cdffd8": "2026-11-09T01:28:43.378943+00:00",
+  "cbed14bc680d61c4": "2026-11-09T01:28:43.378943+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8235,32 +8234,6 @@
     "ESPN F1": "Schools vote down men's college soccer schedule change: How did we get here, what comes next?"
    },
    "last": "2026-11-07T01:43:20.152982+00:00"
-  },
-  "S5486": {
-   "title": "Japan vs. Nigeria live score (7 Nov 2026)",
-   "first": "2026-11-07T01:28:14.375196+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T01:26:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Japan vs. Nigeria (7 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T01:28:14.375228+00:00"
-  },
-  "S5487": {
-   "title": "Al Ahli vs. Al Taawoun postponed (7 Nov 2026)",
-   "first": "2026-11-07T01:28:14.375233+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T01:26:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Al Ahli vs. Al Taawoun (7 Nov, 2026) Postponed"
-   },
-   "last": "2026-11-07T01:28:14.375238+00:00"
   },
   "S5488": {
    "title": "Pachuca vs. Puebla (Nov 6, 2026) live score",
@@ -18913,9 +18886,35 @@
     "ESPN F1": "Chiefs 35-12 Jets (Nov 8, 2026) Game Recap"
    },
    "last": "2026-11-09T01:23:49.148314+00:00"
+  },
+  "S6266": {
+   "title": "Jets losing streak hits four games, on and off field",
+   "first": "2026-11-09T01:28:46.396431+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T01:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets begin to unravel on and off field as losing streak hits four games"
+   },
+   "last": "2026-11-09T01:28:46.396449+00:00"
+  },
+  "S6267": {
+   "title": "Antonelli retroactively penalised in Brazil for unsafe release",
+   "first": "2026-11-09T01:28:46.396455+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T01:24:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Unsafe Release: Darum wurde Antonelli in Brasilien nachträglich bestraft - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T01:28:46.396461+00:00"
   }
  },
- "story_seq": 6265,
+ "story_seq": 6267,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19034,7 +19033,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T01:23:47.845553+00:00",
+ "last_run": "2026-11-09T01:28:43.378943+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20663,6 +20662,11 @@
   {
    "t": "2026-11-09T00:18:52.831151+00:00",
    "title": "Toto Wolff doğruladı: Antonelli, Russell'ın yerine P2 aracını kullanacak",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-09T01:28:49.623058+00:00",
+   "title": "Antonelli, Brezilya'da güvensiz pit çıkışı nedeniyle sonradan cezalandırıldı",
    "source": "Motorsport-Total"
   }
  ]
