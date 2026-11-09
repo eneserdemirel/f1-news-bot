@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "864ac39dd8a74ea8": "2026-10-26T08:20:17.070987+00:00",
-  "57b419069fa71a7b": "2026-10-26T08:20:17.070987+00:00",
-  "91ef9e2cd670d417": "2026-10-26T08:20:17.070987+00:00",
-  "db7de5a4618d0726": "2026-10-26T08:20:17.070987+00:00",
-  "770c167928017e13": "2026-10-26T08:20:17.070987+00:00",
   "2b00ce940ec0f017": "2026-10-26T08:30:21.828755+00:00",
   "6af2028fc6ab668c": "2026-10-26T08:30:21.828755+00:00",
   "783bdde759936cad": "2026-10-26T08:30:21.828755+00:00",
@@ -7785,7 +7780,12 @@
   "12549973503c95b6": "2026-11-09T08:04:15.580829+00:00",
   "fffbb0958781fe08": "2026-11-09T08:04:15.580829+00:00",
   "6f38cfe8bbbf4f76": "2026-11-09T08:04:15.580829+00:00",
-  "adcf9d550f306929": "2026-11-09T08:04:15.580829+00:00"
+  "adcf9d550f306929": "2026-11-09T08:04:15.580829+00:00",
+  "58394787d6674270": "2026-11-09T08:24:16.728599+00:00",
+  "e9d9721c40f9aa89": "2026-11-09T08:24:16.728599+00:00",
+  "fdd5449a4b7b326d": "2026-11-09T08:24:16.728599+00:00",
+  "ff56204afcc652b4": "2026-11-09T08:24:16.728599+00:00",
+  "e129ff7552de3898": "2026-11-09T08:24:16.728599+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7949,21 +7949,6 @@
     "ESPN F1": "Knicks 'appreciative' of Taylor Swift after Kolek, McBride question fandom"
    },
    "last": "2026-11-07T11:04:15.309215+00:00"
-  },
-  "S5438": {
-   "title": "Verstappen fumes at unacceptable Red Bull issues in Brazil practice",
-   "first": "2026-11-06T21:05:19.867685+00:00",
-   "sources": {
-    "Crash.net": "2026-11-06T21:05:00+00:00",
-    "PlanetF1": "2026-11-07T08:15:24+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Max Verstappen fumes at “unacceptable” issues during Brazil GP practice",
-    "PlanetF1": "Max Verstappen delivers furious ‘unacceptable’ outburst as Red Bull issues persist in Brazil"
-   },
-   "last": "2026-11-07T08:23:49.053488+00:00"
   },
   "S5440": {
    "title": "Wolff reveals Vasseur paid Ocon's million from own pocket",
@@ -8216,19 +8201,6 @@
     "ESPN F1": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy"
    },
    "last": "2026-11-07T08:28:47.073799+00:00"
-  },
-  "S5566": {
-   "title": "San Antonio vs Portland after Wembanyama's 52-point game",
-   "first": "2026-11-07T08:23:49.053454+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T08:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "San Antonio faces Portland following Wembanyama's 52-point game"
-   },
-   "last": "2026-11-07T08:23:49.053475+00:00"
   },
   "S5567": {
    "title": "Ghini column on Ferrari's Hamilton-Leclerc problems in Brazil",
@@ -16587,15 +16559,17 @@
    "first": "2026-11-08T20:03:22.542271+00:00",
    "sources": {
     "FormulaPassion": "2026-11-08T19:34:39+00:00",
-    "Motorsport.com Italia": "2026-11-08T21:23:09+00:00"
+    "Motorsport.com Italia": "2026-11-08T21:23:09+00:00",
+    "GPblog": "2026-11-09T08:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Vasseur: “Super partenza di Hamilton e poi crisi? È dipesa dalla pressione delle gomme”",
-    "Motorsport.com Italia": "F1 | Vasseur: \"Abbiamo avuto problemi con le pressioni. Non si fa un primo giro così senza pagarne conseguenze\""
+    "Motorsport.com Italia": "F1 | Vasseur: \"Abbiamo avuto problemi con le pressioni. Non si fa un primo giro così senza pagarne conseguenze\"",
+    "GPblog": "Vasseur reveals why Hamilton's 11-place Brazil charge came at a cost for Ferrari"
    },
-   "last": "2026-11-08T21:28:18.134829+00:00"
+   "last": "2026-11-09T08:24:19.801983+00:00"
   },
   "S6172": {
    "title": "Sainz says Williams-era Brazil result was impossible to salvage",
@@ -18678,9 +18652,35 @@
     "AS": "Un espejismo de Alonso mientras los problemas se agravan"
    },
    "last": "2026-11-09T08:04:23.122104+00:00"
+  },
+  "S6330": {
+   "title": "Warriors guard Will Richard sidelined with thumb ligament tear",
+   "first": "2026-11-09T08:24:19.801947+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T04:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Golden State Warriors guard Will Richard sidelined with torn ligament in thumb"
+   },
+   "last": "2026-11-09T08:24:19.801965+00:00"
+  },
+  "S6331": {
+   "title": "Kubica announces he will leave Ferrari's WEC AF Corse seat",
+   "first": "2026-11-09T08:24:19.801971+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-09T08:19:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Robert Kubica annuncia l'addio alla Ferrari di AF Corse"
+   },
+   "last": "2026-11-09T08:24:19.801977+00:00"
   }
  },
- "story_seq": 6329,
+ "story_seq": 6331,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18799,17 +18799,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T08:14:14.116035+00:00",
+ "last_run": "2026-11-09T08:24:16.728599+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T08:19:02.636417+00:00",
-   "title": "Ollie Bearman, takım arkadaşı Rafa Camara'yı karşılıyor",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-06T08:49:13.386473+00:00",
    "title": "Piastri, Red Bull'u gelişim konusunda ölçüt olarak gösterdi",
