@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "84887bc155988d7c": "2026-10-26T21:12:38.950580+00:00",
   "ed8abd84877d5a5d": "2026-10-26T21:22:40.313014+00:00",
   "79bd974114782d5a": "2026-10-26T21:22:40.313014+00:00",
   "bbe2c424f03cb9eb": "2026-10-26T21:32:41.485331+00:00",
@@ -7798,7 +7797,8 @@
   "ac9f118b219faf04": "2026-11-09T21:06:22.599018+00:00",
   "3356159e4d0afc15": "2026-11-09T21:06:22.599018+00:00",
   "76caab370b1f0cd4": "2026-11-09T21:06:22.599018+00:00",
-  "78ededc5a4046e17": "2026-11-09T21:06:22.599018+00:00"
+  "78ededc5a4046e17": "2026-11-09T21:06:22.599018+00:00",
+  "a3ea4c19de6ad68c": "2026-11-09T21:16:24.427657+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7820,31 +7820,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S5634": {
-   "title": "Verstappen to start Brazilian GP from back of grid",
-   "first": "2026-11-07T13:54:16.522968+00:00",
-   "sources": {
-    "The Race": "2026-11-07T13:52:03+00:00",
-    "RacingNews365": "2026-11-07T13:54:00+00:00",
-    "RacingNews365 NL": "2026-11-07T13:50:00+00:00",
-    "PlanetF1": "2026-11-07T14:41:50+00:00",
-    "FormulaPassion": "2026-11-07T14:15:00+00:00",
-    "Motorsport-Total": "2026-11-07T15:33:05+00:00",
-    "ESPN F1": "2026-11-07T15:35:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Verstappen set to start from the back at F1's Brazilian GP",
-    "RacingNews365": "Max Verstappen set for major back of the grid Sao Paulo GP penalty",
-    "RacingNews365 NL": "Breaking: Verstappen krijgt gridstraf voor GP Brazilië",
-    "PlanetF1": "Max Verstappen braced for FIA penalty at Brazilian Grand Prix",
-    "FormulaPassion": "Max Verstappen cambia la power unit: partirà dal fondo della griglia nel GP del Brasile",
-    "Motorsport-Total": "Motorstrafe in Brasilien: Verstappen muss von ganz hinten starten - Motorsport-Total.com",
-    "ESPN F1": "Max Verstappen tops final practice; starts São Paulo GP from back of grid"
-   },
-   "last": "2026-11-07T21:16:02.500685+00:00"
-  },
   "S5647": {
    "title": "Brazilian GP signs five-year contract extension to mid-2030s",
    "first": "2026-11-07T14:34:19.481241+00:00",
@@ -8082,58 +8057,6 @@
     "Motorsport Week": "F1 2026 Sao Paulo Grand Prix – Revised Grid"
    },
    "last": "2026-11-08T16:27:25.726538+00:00"
-  },
-  "S5794": {
-   "title": "AS Roma vs Sassuolo team stats (football)",
-   "first": "2026-11-07T21:10:41.756605+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:08:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AS Roma vs. Sassuolo (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T21:10:41.756625+00:00"
-  },
-  "S5795": {
-   "title": "Motherwell vs Rangers live score (football)",
-   "first": "2026-11-07T21:10:41.756629+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:08:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Motherwell vs. Rangers (21 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T21:10:41.756633+00:00"
-  },
-  "S5796": {
-   "title": "Excelsior vs Go Ahead Eagles team stats (football)",
-   "first": "2026-11-07T21:10:41.756636+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:08:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Excelsior vs. Go Ahead Eagles (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T21:10:41.756639+00:00"
-  },
-  "S5797": {
-   "title": "Alan Woods III 26-yard TD run in American football",
-   "first": "2026-11-07T21:16:02.500662+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T20:56:18+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alan Woods III runs for 26-yard TD"
-   },
-   "last": "2026-11-07T21:16:02.500678+00:00"
   },
   "S5798": {
    "title": "Wolff defends Mercedes after Russell's qualifying outburst",
@@ -17568,9 +17491,22 @@
     "GPFans": "Liam Lawson sends blunt Red Bull message over uncertain F1 future"
    },
    "last": "2026-11-09T21:06:26.808001+00:00"
+  },
+  "S6494": {
+   "title": "2026 Champions Classic basketball viewing schedule",
+   "first": "2026-11-09T21:16:25.766676+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T21:06:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026 Champions Classic: Where to watch, basketball schedule"
+   },
+   "last": "2026-11-09T21:16:25.766694+00:00"
   }
  },
- "story_seq": 6493,
+ "story_seq": 6494,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17689,17 +17625,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T21:06:22.599018+00:00",
+ "last_run": "2026-11-09T21:16:24.427657+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T21:10:25.852931+00:00",
-   "title": "Wolff: Vasseur, Ocon için 1 milyon avroyu cebinden ödedi",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-06T21:30:23.954790+00:00",
    "title": "Rosberg, 2016 şampiyonluk yarışı öncesi tek yiyebildiği yiyeceği açıkladı",
