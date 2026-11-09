@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e56b6900de5fb197": "2026-10-26T09:00:19.205105+00:00",
-  "c6a41249691cb128": "2026-10-26T09:00:19.205105+00:00",
-  "d081097c72fadc91": "2026-10-26T09:00:19.205105+00:00",
-  "2ef3e147514f3af0": "2026-10-26T09:00:19.205105+00:00",
   "7bb4a1cb93a4497c": "2026-10-26T09:10:21.069749+00:00",
   "c505b96ae98caed0": "2026-10-26T09:10:21.069749+00:00",
   "aa25d31f169da9c7": "2026-10-26T09:10:21.069749+00:00",
@@ -7786,7 +7782,10 @@
   "d69ede596fc975be": "2026-11-09T08:54:13.637166+00:00",
   "8c64a6c3375e0c10": "2026-11-09T08:54:13.637166+00:00",
   "e7e0a4e255fba20b": "2026-11-09T08:54:13.637166+00:00",
-  "f88a0937954f5fdf": "2026-11-09T08:54:13.637166+00:00"
+  "f88a0937954f5fdf": "2026-11-09T08:54:13.637166+00:00",
+  "63ae927bb74588ec": "2026-11-09T09:04:13.978956+00:00",
+  "aa03543894cd2f5a": "2026-11-09T09:04:13.978956+00:00",
+  "940aee5a2329ca23": "2026-11-09T09:04:13.978956+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18600,7 +18599,8 @@
     "The Race": "2026-11-09T08:45:05+00:00",
     "Autosport": "2026-11-09T08:43:40+00:00",
     "RacingNews365": "2026-11-09T08:42:00+00:00",
-    "RacingNews365 NL": "2026-11-09T08:42:00+00:00"
+    "RacingNews365 NL": "2026-11-09T08:42:00+00:00",
+    "GPblog": "2026-11-09T09:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -18610,9 +18610,10 @@
     "The Race": "Piastri splits with Webber's F1 management team",
     "Autosport": "Piastri and Webber terminate management agreement",
     "RacingNews365": "Breaking: Oscar Piastri ends management agreement with Mark Webber",
-    "RacingNews365 NL": "Oscar Piastri breekt per direct met management"
+    "RacingNews365 NL": "Oscar Piastri breekt per direct met management",
+    "GPblog": "Oscar Piastri splits with Mark Webber’s management team"
    },
-   "last": "2026-11-09T08:54:19.280481+00:00"
+   "last": "2026-11-09T09:04:16.849752+00:00"
   },
   "S6334": {
    "title": "Antonelli frustrated after losing Brazil win from second on grid",
@@ -18639,9 +18640,35 @@
     "ESPN F1": "Bears 27-24 Buccaneers (Nov 8, 2026) Game Recap"
    },
    "last": "2026-11-09T08:54:19.280456+00:00"
+  },
+  "S6336": {
+   "title": "Hamilton faces awkward Mercedes reception after Ferrari title loss",
+   "first": "2026-11-09T09:04:16.849726+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T09:00:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton faces awkward Mercedes experience after Ferrari title defeat"
+   },
+   "last": "2026-11-09T09:04:16.849743+00:00"
+  },
+  "S6337": {
+   "title": "Ralf Schumacher says Hamilton is not fast enough",
+   "first": "2026-11-09T09:04:16.849756+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T08:58:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Ralf Schumacher: \"Lewis Hamilton ist einfach nicht schnell genug\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T09:04:16.849762+00:00"
   }
  },
- "story_seq": 6335,
+ "story_seq": 6337,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18760,17 +18787,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T08:54:13.637166+00:00",
+ "last_run": "2026-11-09T09:04:13.978956+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T08:59:08.227414+00:00",
-   "title": "Verstappen: Bazıları Senna kadar sevilmek istemeyebilir",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-06T09:19:07.675467+00:00",
    "title": "Ferrari kriz zirvesi Meksika'da neden yapılmadı?",
@@ -20395,6 +20417,16 @@
    "t": "2026-11-09T08:44:24.168840+00:00",
    "title": "Antonelli: \"Yarış o noktada kaybedilmişti\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T09:04:23.687480+00:00",
+   "title": "Ralf Schumacher: Lewis Hamilton yeterince hızlı değil",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-09T09:04:24.199808+00:00",
+   "title": "Hamilton, Ferrari'nin şampiyonluk umutlarının bitmesinin ardından Mercedes'te garip bir deneyimle karşı karşıya",
+   "source": "PlanetF1"
   }
  ]
 }
