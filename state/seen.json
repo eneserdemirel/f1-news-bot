@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "60b78e1dbbc55353": "2026-10-26T08:50:16.126775+00:00",
-  "eef14380ea436813": "2026-10-26T08:50:16.126775+00:00",
   "e56b6900de5fb197": "2026-10-26T09:00:19.205105+00:00",
   "c6a41249691cb128": "2026-10-26T09:00:19.205105+00:00",
   "d081097c72fadc91": "2026-10-26T09:00:19.205105+00:00",
@@ -7782,7 +7780,13 @@
   "c4bc4662d90e1fde": "2026-11-09T08:34:15.224318+00:00",
   "3d54413f2fa6d936": "2026-11-09T08:34:15.224318+00:00",
   "e44e12493d809dd1": "2026-11-09T08:44:13.590001+00:00",
-  "58f24941cef42531": "2026-11-09T08:44:13.590001+00:00"
+  "58f24941cef42531": "2026-11-09T08:44:13.590001+00:00",
+  "5d3f2c65c86c876f": "2026-11-09T08:54:13.637166+00:00",
+  "bc360ad71d2ef8f1": "2026-11-09T08:54:13.637166+00:00",
+  "d69ede596fc975be": "2026-11-09T08:54:13.637166+00:00",
+  "8c64a6c3375e0c10": "2026-11-09T08:54:13.637166+00:00",
+  "e7e0a4e255fba20b": "2026-11-09T08:54:13.637166+00:00",
+  "f88a0937954f5fdf": "2026-11-09T08:54:13.637166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8198,19 +8202,6 @@
     "ESPN F1": "'Don't think everyone would have known' - Lehmann denies Khawaja's claim"
    },
    "last": "2026-11-07T09:18:47.167276+00:00"
-  },
-  "S5574": {
-   "title": "Antonelli urges caution after strong Brazil Friday practice",
-   "first": "2026-11-07T08:48:49.859927+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-07T08:43:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Antonelli non si ferma: il campione del mondo detta il passo a Interlagos"
-   },
-   "last": "2026-11-07T08:48:49.859931+00:00"
   },
   "S5575": {
    "title": "Ricciardo reportedly linked with Formula E seat for 2027",
@@ -16631,15 +16622,17 @@
    "first": "2026-11-08T20:33:19.090692+00:00",
    "sources": {
     "FormulaPassion": "2026-11-08T20:14:37+00:00",
-    "Crash.net": "2026-11-08T20:35:00+00:00"
+    "Crash.net": "2026-11-08T20:35:00+00:00",
+    "GPFans": "2026-11-09T08:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Hamilton scioglie ogni dubbio: “Mancato rientro? Decisione mia. Ma mi hanno chiamato all’ultima curva…”",
-    "Crash.net": "Lewis Hamilton reveals Ferrari radio confusion behind costly Brazil GP mistake"
+    "Crash.net": "Lewis Hamilton reveals Ferrari radio confusion behind costly Brazil GP mistake",
+    "GPFans": "Lewis Hamilton blames Ferrari miscommunication after Brazilian GP error"
    },
-   "last": "2026-11-08T20:38:17.906702+00:00"
+   "last": "2026-11-09T08:54:19.280486+00:00"
   },
   "S6184": {
    "title": "Fairfield Stags vs Bryant Bulldogs college basketball highlights",
@@ -18603,15 +18596,23 @@
    "first": "2026-11-09T08:34:17.591141+00:00",
    "sources": {
     "PlanetF1": "2026-11-09T08:25:33+00:00",
-    "Crash.net": "2026-11-09T08:35:59+00:00"
+    "Crash.net": "2026-11-09T08:35:59+00:00",
+    "The Race": "2026-11-09T08:45:05+00:00",
+    "Autosport": "2026-11-09T08:43:40+00:00",
+    "RacingNews365": "2026-11-09T08:42:00+00:00",
+    "RacingNews365 NL": "2026-11-09T08:42:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Oscar Piastri splits with manager Mark Webber in shock announcement",
-    "Crash.net": "Oscar Piastri confirms split with F1 career manager Mark Webber"
+    "Crash.net": "Oscar Piastri confirms split with F1 career manager Mark Webber",
+    "The Race": "Piastri splits with Webber's F1 management team",
+    "Autosport": "Piastri and Webber terminate management agreement",
+    "RacingNews365": "Breaking: Oscar Piastri ends management agreement with Mark Webber",
+    "RacingNews365 NL": "Oscar Piastri breekt per direct met management"
    },
-   "last": "2026-11-09T08:44:17.431777+00:00"
+   "last": "2026-11-09T08:54:19.280481+00:00"
   },
   "S6334": {
    "title": "Antonelli frustrated after losing Brazil win from second on grid",
@@ -18625,9 +18626,22 @@
     "RacingNews365 NL": "Antonelli in zak en as: \"Toen was alles verloren\""
    },
    "last": "2026-11-09T08:44:17.431768+00:00"
+  },
+  "S6335": {
+   "title": "Bears 27-24 Buccaneers NFL game recap",
+   "first": "2026-11-09T08:54:19.280438+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T08:36:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bears 27-24 Buccaneers (Nov 8, 2026) Game Recap"
+   },
+   "last": "2026-11-09T08:54:19.280456+00:00"
   }
  },
- "story_seq": 6334,
+ "story_seq": 6335,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18746,27 +18760,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T08:44:13.590001+00:00",
+ "last_run": "2026-11-09T08:54:13.637166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T08:49:13.386473+00:00",
-   "title": "Piastri, Red Bull'u gelişim konusunda ölçüt olarak gösterdi",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-06T08:49:13.774032+00:00",
-   "title": "Bottas: Hamilton ile Leclerc arasındaki gerginlik normal",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-06T08:49:14.149615+00:00",
-   "title": "Madring'de 2027 için değişiklik beklentisi; gece yarışı iddiası yalanlandı",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-06T08:59:08.227414+00:00",
    "title": "Verstappen: Bazıları Senna kadar sevilmek istemeyebilir",
