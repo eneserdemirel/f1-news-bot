@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ec586006fe6c37f5": "2026-10-26T10:31:07.397583+00:00",
-  "54aed2b627efbf0d": "2026-10-26T10:31:07.397583+00:00",
   "498f4ab4a9b7481a": "2026-10-26T10:41:05.813098+00:00",
   "feb0450bbfffb9f7": "2026-10-26T10:41:05.813098+00:00",
   "faca00fd466c1ab9": "2026-10-26T10:41:05.813098+00:00",
@@ -7784,7 +7782,15 @@
   "a7eb89d0176da702": "2026-11-09T10:05:05.213784+00:00",
   "7320cb546fe195e5": "2026-11-09T10:05:05.213784+00:00",
   "770f1c0814962ee7": "2026-11-09T10:15:05.814220+00:00",
-  "dad324b88b811966": "2026-11-09T10:25:02.390166+00:00"
+  "dad324b88b811966": "2026-11-09T10:25:02.390166+00:00",
+  "6e00ef05d1f2f432": "2026-11-09T10:35:10.368726+00:00",
+  "b7a15a1c0863de8b": "2026-11-09T10:35:10.368726+00:00",
+  "34c40757036e19d1": "2026-11-09T10:35:10.368726+00:00",
+  "ba838cde52357f0d": "2026-11-09T10:35:10.368726+00:00",
+  "98c84c6d13b7366c": "2026-11-09T10:35:10.368726+00:00",
+  "be1cfd0a38f3f6a1": "2026-11-09T10:35:10.368726+00:00",
+  "36ec726ccdb7e8fc": "2026-11-09T10:35:10.368726+00:00",
+  "164102bbc0d4034b": "2026-11-09T10:35:10.368726+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8067,25 +8073,6 @@
    },
    "last": "2026-11-07T11:29:19.443303+00:00"
   },
-  "S5528": {
-   "title": "Sao Paulo GP qualifying start time announced",
-   "first": "2026-11-07T05:08:18.098610+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T05:00:00+00:00",
-    "RacingNews365 NL": "2026-11-07T07:00:00+00:00",
-    "GPFans": "2026-11-07T09:57:00+00:00",
-    "Corriere dello Sport": "2026-11-07T10:30:03+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "2026 F1 Sao Paulo Grand Prix - Brazil qualifying start time today",
-    "RacingNews365 NL": "Hoe laat begint de kwalificatie voor de F1 GP Brazilië 2026 in São Paulo?",
-    "GPFans": "F1 Qualifying Today: Brazilian Grand Prix 2026 start time, schedule and how to watch live and FREE",
-    "Corriere dello Sport": "Qualifiche F1 GP Brasile: orario e dove vederle in tv e streaming"
-   },
-   "last": "2026-11-07T10:34:17.032818+00:00"
-  },
   "S5549": {
    "title": "Wolff comments on F1 Middle East travel dilemma",
    "first": "2026-11-07T07:18:52.811140+00:00",
@@ -8169,45 +8156,6 @@
     "Formula 1": "LIVE COVERAGE: Third practice in Sao Paulo"
    },
    "last": "2026-11-07T14:19:21.977834+00:00"
-  },
-  "S5586": {
-   "title": "Man United crossroads over Carrick future (football)",
-   "first": "2026-11-07T10:34:17.032773+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T10:33:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United approaching a crossroads: Back Carrick, or move on?"
-   },
-   "last": "2026-11-07T10:34:17.032791+00:00"
-  },
-  "S5587": {
-   "title": "Hadjar positive as Red Bull plans changes in Brazil",
-   "first": "2026-11-07T10:34:17.032797+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T10:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Positieve Hadjar zet Red Bull aan het werk"
-   },
-   "last": "2026-11-07T10:34:17.032803+00:00"
-  },
-  "S5588": {
-   "title": "Antonelli's Brazil lead analysed as Mercedes advantage",
-   "first": "2026-11-07T10:34:17.032807+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T10:31:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Kimi Antonelli exposes Mercedes’ huge advantage as rivals struggle in Brazil"
-   },
-   "last": "2026-11-07T10:34:17.032812+00:00"
   },
   "S5589": {
    "title": "Hamilton nears career milestone only Alonso has reached",
@@ -16657,16 +16605,18 @@
    "sources": {
     "Autosport": "2026-11-08T20:57:57+00:00",
     "Motorsport.com Italia": "2026-11-08T21:12:23+00:00",
-    "FormulaPassion": "2026-11-09T09:55:00+00:00"
+    "FormulaPassion": "2026-11-09T09:55:00+00:00",
+    "RacingNews365": "2026-11-09T10:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
     "Motorsport.com Italia": "F1 | Antonelli, vittoria sfumata tra i rimpianti: \"Sono arrabbiato, è successo qualcosa di anomalo alla vettura\"",
-    "FormulaPassion": "Antonelli insaziabile: “Peccato, potevo vincere, la macchina mi è partita di colpo”"
+    "FormulaPassion": "Antonelli insaziabile: “Peccato, potevo vincere, la macchina mi è partita di colpo”",
+    "RacingNews365": "Kimi Antonelli voices anger after 'no warning' race-deciding F1 spin"
    },
-   "last": "2026-11-09T10:05:10.620389+00:00"
+   "last": "2026-11-09T10:35:17.468091+00:00"
   },
   "S6200": {
    "title": "Luka Doncic sits out vs Pistons with back tightness",
@@ -18419,7 +18369,10 @@
     "RacingNews365 NL": "2026-11-09T08:42:00+00:00",
     "GPblog": "2026-11-09T09:00:00+00:00",
     "GPFans": "2026-11-09T09:57:00+00:00",
-    "Motorsport-Total": "2026-11-09T09:54:44+00:00"
+    "Motorsport-Total": "2026-11-09T09:54:44+00:00",
+    "Formula 1": "2026-11-09T10:35:17.468057+00:00",
+    "ESPN F1": "2026-11-09T10:30:41+00:00",
+    "FormulaPassion": "2026-11-09T10:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -18432,9 +18385,12 @@
     "RacingNews365 NL": "Oscar Piastri breekt per direct met management",
     "GPblog": "Oscar Piastri splits with Mark Webber’s management team",
     "GPFans": "F1 star Oscar Piastri makes major decision as shock split confirmed",
-    "Motorsport-Total": "Nach sieben Jahren ist Schluss: Oscar Piastri und Mark Webber trennen sich - Motorsport-Total.com"
+    "Motorsport-Total": "Nach sieben Jahren ist Schluss: Oscar Piastri und Mark Webber trennen sich - Motorsport-Total.com",
+    "Formula 1": "Piastri and management team mutually terminate agreement",
+    "ESPN F1": "Oscar Piastri splits from Mark Webber's management after eventful seven years",
+    "FormulaPassion": "Ufficiale: Piastri si separa dal manager Mark Webber"
    },
-   "last": "2026-11-09T10:05:10.620408+00:00"
+   "last": "2026-11-09T10:35:17.468114+00:00"
   },
   "S6334": {
    "title": "Antonelli frustrated after losing Brazil win from second on grid",
@@ -18682,9 +18638,35 @@
     "Motorsport.com Italia": "F1 | Wolff racconta la rinascita Mercedes: “Quattro anni difficili, ma abbiamo continuato a credere nelle persone”"
    },
    "last": "2026-11-09T10:15:09.610947+00:00"
+  },
+  "S6353": {
+   "title": "Wolff defends Russell over car behaviour, cites Verstappen",
+   "first": "2026-11-09T10:35:17.468096+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Wolff op de bres voor George Russell: \"Max Verstappen zei hetzelfde\""
+   },
+   "last": "2026-11-09T10:35:17.468101+00:00"
+  },
+  "S6354": {
+   "title": "Russell backs Hamilton's claim that retirement is off the table",
+   "first": "2026-11-09T10:35:17.468105+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton backed by Russell as retirement stays off the table after 400 F1 starts"
+   },
+   "last": "2026-11-09T10:35:17.468109+00:00"
   }
  },
- "story_seq": 6352,
+ "story_seq": 6354,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18803,7 +18785,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T10:25:02.390166+00:00",
+ "last_run": "2026-11-09T10:35:10.368726+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20412,6 +20394,11 @@
   {
    "t": "2026-11-09T10:05:18.918239+00:00",
    "title": "Verstappen 21. pozisyondan ikinciliğe yükseldi, İtalyan basını Red Bull'u övdü",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T10:35:23.693454+00:00",
+   "title": "Wolff, Russell'ı savunuyor: \"Max Verstappen de aynısını söyledi\"",
    "source": "RacingNews365 NL"
   }
  ]
