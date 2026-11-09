@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ce43459b959cde3d": "2026-10-26T08:40:17.855245+00:00",
-  "3d9068e7c4a688ab": "2026-10-26T08:40:17.855245+00:00",
   "60b78e1dbbc55353": "2026-10-26T08:50:16.126775+00:00",
   "eef14380ea436813": "2026-10-26T08:50:16.126775+00:00",
   "e56b6900de5fb197": "2026-10-26T09:00:19.205105+00:00",
@@ -7782,7 +7780,9 @@
   "ff56204afcc652b4": "2026-11-09T08:24:16.728599+00:00",
   "e129ff7552de3898": "2026-11-09T08:24:16.728599+00:00",
   "c4bc4662d90e1fde": "2026-11-09T08:34:15.224318+00:00",
-  "3d54413f2fa6d936": "2026-11-09T08:34:15.224318+00:00"
+  "3d54413f2fa6d936": "2026-11-09T08:34:15.224318+00:00",
+  "e44e12493d809dd1": "2026-11-09T08:44:13.590001+00:00",
+  "58f24941cef42531": "2026-11-09T08:44:13.590001+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8185,58 +8185,6 @@
     "Motorsport.com Italia": "F1 | McLaren: la nuova ala anteriore cambia la filosofia della MCL40. Nel 2027 allungherà il passo"
    },
    "last": "2026-11-07T10:59:22.634252+00:00"
-  },
-  "S5569": {
-   "title": "Interlagos betting markets and real-time betting preview",
-   "first": "2026-11-07T08:38:54.357844+00:00",
-   "sources": {
-    "Formula 1": "2026-11-07T08:38:54.357861+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "What could shake-up the Interlagos betting markets?"
-   },
-   "last": "2026-11-07T08:38:54.357864+00:00"
-  },
-  "S5570": {
-   "title": "LeBron James struggles in 76ers loss to Cavaliers",
-   "first": "2026-11-07T08:38:54.357868+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T05:51:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "In Cleveland return, LeBron James struggles to find 'good rhythm' in 76ers' loss"
-   },
-   "last": "2026-11-07T08:38:54.357872+00:00"
-  },
-  "S5571": {
-   "title": "Hamilton says he never wanted to become bitter like older drivers",
-   "first": "2026-11-07T08:38:54.357875+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-07T08:33:20+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Lewis Hamilton: Wollte nie so verbittert werden wie die anderen alten Fahrer - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T08:38:54.357878+00:00"
-  },
-  "S5572": {
-   "title": "Another F1 driver reports illness at Brazilian Grand Prix",
-   "first": "2026-11-07T08:43:53.067266+00:00",
-   "sources": {
-    "GPFans": "2026-11-07T08:43:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Another F1 star reports ill at Brazilian Grand Prix"
-   },
-   "last": "2026-11-07T08:43:53.067271+00:00"
   },
   "S5573": {
    "title": "Lehmann denies Khawaja's claim (cricket, not F1)",
@@ -18654,17 +18602,32 @@
    "title": "Oscar Piastri ends partnership with manager Mark Webber",
    "first": "2026-11-09T08:34:17.591141+00:00",
    "sources": {
-    "PlanetF1": "2026-11-09T08:25:33+00:00"
+    "PlanetF1": "2026-11-09T08:25:33+00:00",
+    "Crash.net": "2026-11-09T08:35:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Oscar Piastri splits with manager Mark Webber in shock announcement"
+    "PlanetF1": "Oscar Piastri splits with manager Mark Webber in shock announcement",
+    "Crash.net": "Oscar Piastri confirms split with F1 career manager Mark Webber"
    },
-   "last": "2026-11-09T08:34:17.591146+00:00"
+   "last": "2026-11-09T08:44:17.431777+00:00"
+  },
+  "S6334": {
+   "title": "Antonelli frustrated after losing Brazil win from second on grid",
+   "first": "2026-11-09T08:44:17.431750+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T08:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli in zak en as: \"Toen was alles verloren\""
+   },
+   "last": "2026-11-09T08:44:17.431768+00:00"
   }
  },
- "story_seq": 6333,
+ "story_seq": 6334,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18783,7 +18746,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T08:34:15.224318+00:00",
+ "last_run": "2026-11-09T08:44:13.590001+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20428,6 +20391,11 @@
    "t": "2026-11-09T08:34:24.260210+00:00",
    "title": "Oscar Piastri, menajeri Mark Webber ile yollarını ayırdı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T08:44:24.168840+00:00",
+   "title": "Antonelli: \"Yarış o noktada kaybedilmişti\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
