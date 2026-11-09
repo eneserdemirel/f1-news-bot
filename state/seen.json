@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bacb67b501152b42": "2026-10-26T22:12:39.684810+00:00",
-  "b6ed068256d4c4ba": "2026-10-26T22:12:39.684810+00:00",
   "cbfd9dd5b6f1925b": "2026-10-26T22:22:40.588585+00:00",
   "717a50014bde8c19": "2026-10-26T22:52:41.387369+00:00",
   "6c13706ca2364d8c": "2026-10-26T22:52:41.387369+00:00",
@@ -7816,7 +7814,9 @@
   "23fb6a369cf3e1e2": "2026-11-09T22:06:23.839726+00:00",
   "2a08e8b5eb4779df": "2026-11-09T22:06:23.839726+00:00",
   "cc1c29576432b5b5": "2026-11-09T22:06:23.839726+00:00",
-  "6cb847cf23ca3dda": "2026-11-09T22:06:23.839726+00:00"
+  "6cb847cf23ca3dda": "2026-11-09T22:06:23.839726+00:00",
+  "2cf0fb480d26cd0f": "2026-11-09T22:16:23.559499+00:00",
+  "320a42218770e483": "2026-11-09T22:16:23.559499+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8099,19 +8099,6 @@
    },
    "last": "2026-11-07T23:20:39.534063+00:00"
   },
-  "S5806": {
-   "title": "Orlando vs New England team stats",
-   "first": "2026-11-07T21:30:38.612871+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:26:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Orlando vs. New England (Nov 7, 2026) Team Stats"
-   },
-   "last": "2026-11-07T22:10:37.187514+00:00"
-  },
   "S5812": {
    "title": "Hamilton reveals details of meeting with Leclerc",
    "first": "2026-11-07T21:35:40.488284+00:00",
@@ -8250,58 +8237,6 @@
     "GPblog": "Hamilton refuses to rule out Brazilian GP win despite back-of-grid start"
    },
    "last": "2026-11-08T00:01:08.733111+00:00"
-  },
-  "S5831": {
-   "title": "Chicago vs Columbus MLS team stats",
-   "first": "2026-11-07T22:10:37.187478+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:58:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chicago vs. Columbus (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T22:10:37.187500+00:00"
-  },
-  "S5832": {
-   "title": "CF Montréal vs Vancouver MLS team stats",
-   "first": "2026-11-07T22:10:37.187504+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:58:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "CF Montréal vs. Vancouver (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T22:10:37.187509+00:00"
-  },
-  "S5833": {
-   "title": "D.C. United vs NYCFC MLS team stats",
-   "first": "2026-11-07T22:10:37.187528+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:58:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "D.C. United vs. NYCFC (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T22:10:37.187531+00:00"
-  },
-  "S5834": {
-   "title": "LaNorris Sellers sacked in American football game",
-   "first": "2026-11-07T22:10:37.187533+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:23:02+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LaNorris Sellers heads into the tent after brutal sack"
-   },
-   "last": "2026-11-07T22:10:37.187536+00:00"
   },
   "S5835": {
    "title": "Valencia 0-3 Real Madrid match analysis",
@@ -17366,9 +17301,35 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-09T22:06:30.637053+00:00"
+  },
+  "S6507": {
+   "title": "Raiders' Kubiak expresses confidence in DC Rob Leonard",
+   "first": "2026-11-09T22:16:25.080085+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T21:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raiders' Klint Kubiak expresses confidence in DC Rob Leonard amid struggles"
+   },
+   "last": "2026-11-09T22:16:25.080102+00:00"
+  },
+  "S6508": {
+   "title": "Gotham to play NWSL semi at 5K-seat stadium",
+   "first": "2026-11-09T22:16:25.080107+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T20:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gotham to play NWSL semi at 5K seat Ichan Stadium due to shoddy home field"
+   },
+   "last": "2026-11-09T22:16:25.080112+00:00"
   }
  },
- "story_seq": 6506,
+ "story_seq": 6508,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17487,17 +17448,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T22:06:23.839726+00:00",
+ "last_run": "2026-11-09T22:16:23.559499+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T22:15:25.033318+00:00",
-   "title": "Leclerc: Hamilton ile Ferrari'deki gerginlik \"çözüldü\"",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-06T22:45:35.605413+00:00",
    "title": "Brezilya'da Cuma antrenmanları: takımlar ne dedi?",
