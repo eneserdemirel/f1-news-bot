@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "865c73fb4b23da76": "2026-10-26T09:40:39.254530+00:00",
-  "4c030cb17a0162f1": "2026-10-26T09:40:39.254530+00:00",
-  "c3480d01e1ac5412": "2026-10-26T09:40:39.254530+00:00",
   "f9c44eef2aca8631": "2026-10-26T09:50:19.296601+00:00",
   "32d6e70bdd2eb836": "2026-10-26T09:50:19.296601+00:00",
   "906539eb2e532f2b": "2026-10-26T09:50:19.296601+00:00",
@@ -7785,7 +7782,11 @@
   "069223e657d60cc2": "2026-11-09T09:34:14.467968+00:00",
   "85794cb8a2a2bf0f": "2026-11-09T09:34:14.467968+00:00",
   "df0b5c19c08128f2": "2026-11-09T09:34:14.467968+00:00",
-  "addf245de32ae729": "2026-11-09T09:34:14.467968+00:00"
+  "addf245de32ae729": "2026-11-09T09:34:14.467968+00:00",
+  "8fc40808eb583304": "2026-11-09T09:44:16.972974+00:00",
+  "2a972724494d2fd8": "2026-11-09T09:44:16.972974+00:00",
+  "58ba9489ae2ee63a": "2026-11-09T09:44:16.972974+00:00",
+  "c94570bd8a51ecf2": "2026-11-09T09:44:16.972974+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8085,21 +8086,6 @@
    },
    "last": "2026-11-07T17:05:06.744140+00:00"
   },
-  "S5466": {
-   "title": "Longrun pace in Brazil: Antonelli dominates, Ferrari struggles",
-   "first": "2026-11-06T23:05:21.851568+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T22:59:09+00:00",
-    "Motorsport.com Italia": "2026-11-07T09:40:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Longruns Brasilien: Antonelli dominiert, Ferrari erlebt Debakel - Motorsport-Total.com",
-    "Motorsport.com Italia": "F1 | Ferrari, Interlagos è un brusco risveglio: mezzo secondo da recuperare sul passo gara"
-   },
-   "last": "2026-11-07T09:43:49.878211+00:00"
-  },
   "S5472": {
    "title": "Camara reflects on first 2026 F1 car drive before Haas debut",
    "first": "2026-11-06T23:35:56.608907+00:00",
@@ -8217,19 +8203,6 @@
     "Formula 1": "LIVE COVERAGE: Third practice in Sao Paulo"
    },
    "last": "2026-11-07T14:19:21.977834+00:00"
-  },
-  "S5578": {
-   "title": "Bearman says he really misses Ocon at Haas",
-   "first": "2026-11-07T09:43:49.878219+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T09:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Oliver Bearman opens up on 'really missing' Esteban Ocon at Haas"
-   },
-   "last": "2026-11-07T09:43:49.878223+00:00"
   },
   "S5579": {
    "title": "Brundle theorises Hamilton's Ferrari number one status",
@@ -18401,14 +18374,16 @@
    "title": "Lawson closing in on 2027 Racing Bulls F1 deal",
    "first": "2026-11-09T07:34:16.479796+00:00",
    "sources": {
-    "The Race": "2026-11-09T07:24:26+00:00"
+    "The Race": "2026-11-09T07:24:26+00:00",
+    "Crash.net": "2026-11-09T09:34:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Lawson closing in on F1 2027 stay with Racing Bulls"
+    "The Race": "Lawson closing in on F1 2027 stay with Racing Bulls",
+    "Crash.net": "Racing Bulls closing on F1 2027 driver decision after Liam Lawson statement"
    },
-   "last": "2026-11-09T07:34:16.479813+00:00"
+   "last": "2026-11-09T09:44:22.194598+00:00"
   },
   "S6322": {
    "title": "Leclerc explains why he didn't fight Hamilton in Brazil",
@@ -18707,9 +18682,48 @@
     "Motorsport-Total": "Wer letzte Nacht am schlechtesten geschlafen hat: Fernando Alonso - Motorsport-Total.com"
    },
    "last": "2026-11-09T09:34:23.225317+00:00"
+  },
+  "S6344": {
+   "title": "Stella praises Norris's adaptability to changing Brazil conditions",
+   "first": "2026-11-09T09:44:22.194563+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-09T09:35:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Norris, la vittoria della maturità. Stella: \"Nell'adattarsi alle condizioni è un maestro\""
+   },
+   "last": "2026-11-09T09:44:22.194581+00:00"
+  },
+  "S6345": {
+   "title": "PlanetF1 driver ratings from Brazilian Grand Prix",
+   "first": "2026-11-09T09:44:22.194587+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T09:39:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "2026 Brazilian GP Driver Ratings: Verstappen’s incredible recovery, Norris dominates"
+   },
+   "last": "2026-11-09T09:44:22.194592+00:00"
+  },
+  "S6346": {
+   "title": "Accorsi recounts meeting young Kimi Antonelli on TV show",
+   "first": "2026-11-09T09:44:22.194602+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-09T09:38:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Kimi Antonelli da bambino, Stefano Accorsi svela un segreto: \"Perché era diverso dagli altri\""
+   },
+   "last": "2026-11-09T09:44:22.194623+00:00"
   }
  },
- "story_seq": 6343,
+ "story_seq": 6346,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18828,17 +18842,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T09:34:14.467968+00:00",
+ "last_run": "2026-11-09T09:44:16.972974+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T09:39:04.568009+00:00",
-   "title": "George Russell, Brezilya GP'de 5 sıra cezası alıyor",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-06T09:54:02.509618+00:00",
    "title": "F1'in gelirleri, iptal edilen 2026 yarışlarının ardından istikrar kazandı",
@@ -20458,6 +20467,11 @@
    "t": "2026-11-09T09:34:30.012360+00:00",
    "title": "Dün gece en kötü uyuyan: Fernando Alonso",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-09T09:44:29.674014+00:00",
+   "title": "Norris, olgunluk galibiyetini aldı; Stella: \"Koşullara adaptasyonda bir usta\"",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
