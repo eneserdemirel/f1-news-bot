@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a982f31e9ebeb638": "2026-10-26T20:52:40.548560+00:00",
-  "4fbc41e00edac9bd": "2026-10-26T20:52:40.548560+00:00",
   "6fcc1e838c57aff7": "2026-10-26T21:02:45.856233+00:00",
   "89745bc28b5cadf9": "2026-10-26T21:02:45.856233+00:00",
   "ccd3e3d97d9bb1b1": "2026-10-26T21:02:45.856233+00:00",
@@ -7800,7 +7798,8 @@
   "ce656c92d83e67ff": "2026-11-09T20:16:25.617831+00:00",
   "e23cff5dd00e268c": "2026-11-09T20:36:27.866528+00:00",
   "74769826df151386": "2026-11-09T20:36:27.866528+00:00",
-  "e0ca9e183325e04d": "2026-11-09T20:46:23.677887+00:00"
+  "e0ca9e183325e04d": "2026-11-09T20:46:23.677887+00:00",
+  "74c142848de9ba2c": "2026-11-09T20:56:24.042381+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8084,60 +8083,6 @@
     "Motorsport Week": "F1 2026 Sao Paulo Grand Prix – Revised Grid"
    },
    "last": "2026-11-08T16:27:25.726538+00:00"
-  },
-  "S5786": {
-   "title": "ESPN opinion on Arsenal and the Premier League title",
-   "first": "2026-11-07T20:50:06.881375+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T18:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "If Arsenal find attacking spark, they could run away with the Premier League"
-   },
-   "last": "2026-11-07T20:50:06.881394+00:00"
-  },
-  "S5787": {
-   "title": "Norris reacts to third straight Interlagos pole",
-   "first": "2026-11-07T20:50:06.881412+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T20:45:00+00:00",
-    "RacingNews365 NL": "2026-11-07T20:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris scores Sao Paulo GP hat-trick: 'I figured it out pretty quickly'",
-    "RacingNews365 NL": "Norris trekt positieve conclusie na poleposition: \"Snel onder de knie\""
-   },
-   "last": "2026-11-07T20:50:06.881420+00:00"
-  },
-  "S5788": {
-   "title": "Anna Bragg goal for Creighton (non-F1 college match)",
-   "first": "2026-11-07T20:55:04.170351+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T20:36:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Anna Bragg slots in the goal for Creighton"
-   },
-   "last": "2026-11-07T20:55:04.170371+00:00"
-  },
-  "S5789": {
-   "title": "Nottingham Forest 3-1 Man City player stats (football)",
-   "first": "2026-11-07T20:55:04.170377+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T17:48:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nottm Forest 3-1 Man City (Nov 7, 2026) Player Stats"
-   },
-   "last": "2026-11-07T20:55:04.170382+00:00"
   },
   "S5790": {
    "title": "David Olano 40-yard college football field goal",
@@ -17611,9 +17556,22 @@
     "ESPN F1": "Ballon d'Or winner Harry Kane left off FIFPRO men's team of year"
    },
    "last": "2026-11-09T20:46:25.101618+00:00"
+  },
+  "S6489": {
+   "title": "Jordyn Tyson's Saints debut shows promise and rookie mistakes",
+   "first": "2026-11-09T20:56:25.483679+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T19:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jordyn Tyson's Saints debut showed promise, rookie mistakes"
+   },
+   "last": "2026-11-09T20:56:25.483696+00:00"
   }
  },
- "story_seq": 6488,
+ "story_seq": 6489,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17732,17 +17690,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T20:46:23.677887+00:00",
+ "last_run": "2026-11-09T20:56:24.042381+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T20:50:30.014868+00:00",
-   "title": "Red Bull sorunları Verstappen'i antrenmanı erken bitirmeye zorladı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-06T21:05:25.984534+00:00",
    "title": "Antonelli: Sao Paulo'da Turn 1 frenlemesi her pilot için zorlu",
