@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a15066c7b4a83e4a": "2026-10-26T20:02:06.580807+00:00",
-  "43c4f8af1314aa71": "2026-10-26T20:02:06.580807+00:00",
-  "cb51bef5dcfd43c3": "2026-10-26T20:02:06.580807+00:00",
   "c84a7515d9f9cf6d": "2026-10-26T20:12:05.846254+00:00",
   "977c6958fdfa4439": "2026-10-26T20:12:05.846254+00:00",
   "76f4b54c644ef3de": "2026-10-26T20:22:05.691939+00:00",
@@ -7801,7 +7798,12 @@
   "ace509d132244989": "2026-11-09T19:25:40.133137+00:00",
   "7d785164970e2590": "2026-11-09T19:35:38.786729+00:00",
   "631dc133dd2fbf59": "2026-11-09T19:45:40.669851+00:00",
-  "386ac6c25d943bc6": "2026-11-09T19:55:41.058359+00:00"
+  "386ac6c25d943bc6": "2026-11-09T19:55:41.058359+00:00",
+  "2447bfd0e8280c9a": "2026-11-09T20:05:40.993760+00:00",
+  "46f5425617f27a12": "2026-11-09T20:05:40.993760+00:00",
+  "12840109566f622f": "2026-11-09T20:05:40.993760+00:00",
+  "6af40a98a4af2cf7": "2026-11-09T20:05:40.993760+00:00",
+  "440467406eeb8d39": "2026-11-09T20:05:40.993760+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8015,19 +8017,6 @@
    },
    "last": "2026-11-08T00:01:08.733135+00:00"
   },
-  "S5751": {
-   "title": "ESPN: Riley Warzynski 13-yard touchdown (American football)",
-   "first": "2026-11-07T20:00:05.016365+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T19:53:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Riley Warzynski throws 13-yard touchdown"
-   },
-   "last": "2026-11-07T20:00:05.016383+00:00"
-  },
   "S5752": {
    "title": "Verstappen stops his qualifying early after Q1 in Brazil",
    "first": "2026-11-07T20:00:05.016388+00:00",
@@ -8042,32 +8031,6 @@
     "RacingNews365": "Max Verstappen bales out of Sao Paulo GP qualifying with penalties loming"
    },
    "last": "2026-11-07T20:40:08.529283+00:00"
-  },
-  "S5753": {
-   "title": "Verstappen puzzled by bizarre Lance Stroll incident in Brazil",
-   "first": "2026-11-07T20:00:05.016396+00:00",
-   "sources": {
-    "GPFans": "2026-11-07T19:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Max Verstappen left confused by bizarre Lance Stroll incident at Brazilian Grand Prix"
-   },
-   "last": "2026-11-07T20:00:05.016400+00:00"
-  },
-  "S5754": {
-   "title": "FA Cup first round results and non-league upsets",
-   "first": "2026-11-07T20:05:04.501281+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T18:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "FA Cup first round: Shock results, non-league giant-killings as Guiseley progress"
-   },
-   "last": "2026-11-07T20:05:04.501299+00:00"
   },
   "S5755": {
    "title": "Blues vs. Predators NHL live score",
@@ -15933,14 +15896,16 @@
    "title": "Kubica announces he will leave Ferrari's WEC AF Corse seat",
    "first": "2026-11-09T08:24:19.801971+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-09T08:19:26+00:00"
+    "Motorsport.com Italia": "2026-11-09T08:19:26+00:00",
+    "AS": "2026-11-09T19:57:40+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "WEC | Robert Kubica annuncia l'addio alla Ferrari di AF Corse"
+    "Motorsport.com Italia": "WEC | Robert Kubica annuncia l'addio alla Ferrari di AF Corse",
+    "AS": "Robert Kubica dice adiós a Ferrari"
    },
-   "last": "2026-11-09T08:24:19.801977+00:00"
+   "last": "2026-11-09T20:05:46.333296+00:00"
   },
   "S6332": {
    "title": "The Race podcast debates whether Red Bull problems cost Verstappen Brazil win",
@@ -17585,7 +17550,7 @@
    "titles": {
     "ESPN F1": "CFP, ESPN ink 5-year, $1.7B deal to expand field, sources say"
    },
-   "last": "2026-11-09T17:35:41.469009+00:00"
+   "last": "2026-11-09T20:05:46.333255+00:00"
   },
   "S6455": {
    "title": "FA Cup manager sent off for headbutting rival player",
@@ -17952,9 +17917,48 @@
     "Gazzetta dello Sport": "Mercedes F1"
    },
    "last": "2026-11-09T19:55:42.759229+00:00"
+  },
+  "S6483": {
+   "title": "Lawson explains Sao Paulo dilemma after tricky F1 test",
+   "first": "2026-11-09T20:05:46.333265+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T20:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson explains major Sao Paulo dilemma after tricky F1 test"
+   },
+   "last": "2026-11-09T20:05:46.333272+00:00"
+  },
+  "S6484": {
+   "title": "Insider says McLaren could be Hamilton's exit route from Ferrari",
+   "first": "2026-11-09T20:05:46.333277+00:00",
+   "sources": {
+    "GPFans": "2026-11-09T19:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton back to McLaren? F1 insider tips Ferrari escape route"
+   },
+   "last": "2026-11-09T20:05:46.333282+00:00"
+  },
+  "S6485": {
+   "title": "Rafael Camara driver profile and statistics",
+   "first": "2026-11-09T20:05:46.333286+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T16:00:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Rafael Camara im Porträt: Infos und Statistiken - Steckbrief - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T20:05:46.333291+00:00"
   }
  },
- "story_seq": 6482,
+ "story_seq": 6485,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18073,17 +18077,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T19:55:41.058359+00:00",
+ "last_run": "2026-11-09T20:05:40.993760+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T20:05:33.565448+00:00",
-   "title": "Verstappen ikinci antrenmanda Brezilya'da yine üçüncü pozisyonda",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-06T20:25:26.131757+00:00",
    "title": "Wolff, MotoGP'nin Katar takvimi tartışmasını yönetme biçimini destekledi",
@@ -19657,6 +19656,16 @@
   {
    "t": "2026-11-09T19:05:56.650508+00:00",
    "title": "Ricciardo, Verstappen'e Red Bull'un tarihi zaferi için tebrik mesajı attı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-09T20:05:53.073663+00:00",
+   "title": "Hamilton Ferrari'den ayrılırsa McLaren'a dönebilir",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-09T20:05:53.609780+00:00",
+   "title": "Lawson, Interlagos'ta lastik graining sorunu ve zor bir strateji ikilemi yaşadı",
    "source": "RacingNews365"
   }
  ]
