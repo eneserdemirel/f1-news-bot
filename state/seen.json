@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "475a28d1b0512b25": "2026-10-26T19:52:10.432198+00:00",
   "a15066c7b4a83e4a": "2026-10-26T20:02:06.580807+00:00",
   "43c4f8af1314aa71": "2026-10-26T20:02:06.580807+00:00",
   "cb51bef5dcfd43c3": "2026-10-26T20:02:06.580807+00:00",
@@ -7801,7 +7800,8 @@
   "4890e373403d240e": "2026-11-09T19:25:40.133137+00:00",
   "ace509d132244989": "2026-11-09T19:25:40.133137+00:00",
   "7d785164970e2590": "2026-11-09T19:35:38.786729+00:00",
-  "631dc133dd2fbf59": "2026-11-09T19:45:40.669851+00:00"
+  "631dc133dd2fbf59": "2026-11-09T19:45:40.669851+00:00",
+  "386ac6c25d943bc6": "2026-11-09T19:55:41.058359+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7910,32 +7910,6 @@
    },
    "last": "2026-11-08T10:46:43.156685+00:00"
   },
-  "S5672": {
-   "title": "2026-27 Premier League standings",
-   "first": "2026-11-07T15:55:12.429688+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T15:49:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026-27 English Premier League Standings"
-   },
-   "last": "2026-11-07T19:50:10.064811+00:00"
-  },
-  "S5717": {
-   "title": "Arsenal 1-0 Hull match analysis",
-   "first": "2026-11-07T17:10:05.016941+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T17:03:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arsenal 1-0 Hull (Nov 7, 2026) Game Analysis"
-   },
-   "last": "2026-11-07T19:55:02.880523+00:00"
-  },
   "S5727": {
    "title": "Roundup of every FIA grid penalty for Brazilian GP",
    "first": "2026-11-07T17:40:07.130409+00:00",
@@ -8040,19 +8014,6 @@
     "FIA": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos"
    },
    "last": "2026-11-08T00:01:08.733135+00:00"
-  },
-  "S5750": {
-   "title": "Sassuolo vs Genoa odds and spread (football)",
-   "first": "2026-11-07T19:55:02.880496+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T19:54:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sassuolo vs. Genoa (Nov 22, 2026) Odds and Spread"
-   },
-   "last": "2026-11-07T19:55:02.880514+00:00"
   },
   "S5751": {
    "title": "ESPN: Riley Warzynski 13-yard touchdown (American football)",
@@ -17978,9 +17939,22 @@
     "ESPN F1": "Plymouth vs. Berkhamsted (Nov 9, 2026) Live Score"
    },
    "last": "2026-11-09T19:45:42.438171+00:00"
+  },
+  "S6482": {
+   "title": "Gazzetta dello Sport Mercedes F1 section page (no headline)",
+   "first": "2026-11-09T19:55:42.759211+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-09T18:49:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Mercedes F1"
+   },
+   "last": "2026-11-09T19:55:42.759229+00:00"
   }
  },
- "story_seq": 6481,
+ "story_seq": 6482,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18099,17 +18073,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T19:45:40.669851+00:00",
+ "last_run": "2026-11-09T19:55:41.058359+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T19:55:29.319009+00:00",
-   "title": "Debutant Camara, Leclerc olayı nedeniyle soruşturma altında",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-06T20:05:33.565448+00:00",
    "title": "Verstappen ikinci antrenmanda Brezilya'da yine üçüncü pozisyonda",
