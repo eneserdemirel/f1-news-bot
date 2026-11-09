@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "788ac30f28f89d37": "2026-10-26T16:52:11.247750+00:00",
   "0913972e93c7c893": "2026-10-26T17:02:28.239070+00:00",
   "b0e2e82b1b8d7e10": "2026-10-26T17:02:28.239070+00:00",
   "d2d5fbcfac785cee": "2026-10-26T17:02:28.239070+00:00",
@@ -7812,7 +7811,11 @@
   "bd5c6e392ba4faf4": "2026-11-09T16:35:42.947367+00:00",
   "cd201f95d264f463": "2026-11-09T16:45:43.416687+00:00",
   "b8950017060e754e": "2026-11-09T16:45:43.416687+00:00",
-  "6c97320778eb12f0": "2026-11-09T16:45:43.416687+00:00"
+  "6c97320778eb12f0": "2026-11-09T16:45:43.416687+00:00",
+  "0bf2290912249b5a": "2026-11-09T16:55:39.751599+00:00",
+  "57afb6d162938557": "2026-11-09T16:55:39.751599+00:00",
+  "db7934f155e49b69": "2026-11-09T16:55:39.751599+00:00",
+  "e5872cbd68d50560": "2026-11-09T16:55:39.751599+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8115,32 +8118,6 @@
     "Sky Sports F1": "Heavy rain causes chaos before Qualifying is red flagged in Sao Paulo!"
    },
    "last": "2026-11-07T18:50:02.530851+00:00"
-  },
-  "S5715": {
-   "title": "Hamilton two points from Verstappen in championship; engine penalties hit rivals",
-   "first": "2026-11-07T16:50:06.222516+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T16:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton two points from overtaking Verstappen as Brazil engine penalties hit every rival for second"
-   },
-   "last": "2026-11-07T16:50:06.222521+00:00"
-  },
-  "S5716": {
-   "title": "Marquez wins MotoGP Qatar sprint after Bezzecchi crash",
-   "first": "2026-11-07T16:50:06.222525+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T16:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "MotoGP Full Sprint Race Results | Marquez wins amid Aprilia fury"
-   },
-   "last": "2026-11-07T16:50:06.222528+00:00"
   },
   "S5717": {
    "title": "Arsenal 1-0 Hull match analysis",
@@ -18034,9 +18011,61 @@
     "Auto Motor und Sport": "Formel 1: Verstappen nach GP Brasilien: „12 Stunden verschwendete Lebenszeit!“"
    },
    "last": "2026-11-09T16:35:50.555976+00:00"
+  },
+  "S6442": {
+   "title": "Mark Matthews commits to Georgia after dropping Texas A&M pledge",
+   "first": "2026-11-09T16:55:45.357673+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:36:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "5-star tackle Mark Matthews commits to Georgia after dropping pledge to Texas A&M"
+   },
+   "last": "2026-11-09T16:55:45.357688+00:00"
+  },
+  "S6443": {
+   "title": "College football Week 10 takeaways and lasting impressions",
+   "first": "2026-11-09T16:55:45.357694+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T12:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "College football takeaways - Lasting impressions from Week 10"
+   },
+   "last": "2026-11-09T16:55:45.357700+00:00"
+  },
+  "S6444": {
+   "title": "Mercedes considers plan to help Russell overtake Verstappen for P2",
+   "first": "2026-11-09T16:55:45.357704+00:00",
+   "sources": {
+    "Crash.net": "2026-11-09T16:47:55+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Mercedes considers plan to help George Russell beat Max Verstappen in F1 runner-up battle"
+   },
+   "last": "2026-11-09T16:55:45.357709+00:00"
+  },
+  "S6445": {
+   "title": "Explainer on Red Bull team order and Hadjar-Verstappen apology",
+   "first": "2026-11-09T16:55:45.357712+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T14:39:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Erst Teamorder, dann Entschuldigung: Was bei Hadjar und Verstappen los war - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T16:55:45.357716+00:00"
   }
  },
- "story_seq": 6441,
+ "story_seq": 6445,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18155,7 +18184,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T16:45:43.416687+00:00",
+ "last_run": "2026-11-09T16:55:39.751599+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
