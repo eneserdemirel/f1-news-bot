@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "49023cef68203b79": "2026-10-26T00:14:32.309867+00:00",
-  "8acaa1b974067e23": "2026-10-26T00:14:32.309867+00:00",
-  "1049c334c9e2129d": "2026-10-26T00:14:32.309867+00:00",
-  "dbe6d0ee04bc168c": "2026-10-26T00:14:32.309867+00:00",
   "aaf13c321eeb805c": "2026-10-26T00:19:34.215534+00:00",
   "2da4f9dab3d9393c": "2026-10-26T00:24:32.541341+00:00",
   "896d0e331113f4a8": "2026-10-26T00:29:34.351467+00:00",
@@ -7806,7 +7802,8 @@
   "d289f9dca8e0402f": "2026-11-08T23:53:42.088103+00:00",
   "7a7b2075f94d3f52": "2026-11-08T23:58:44.474167+00:00",
   "78baedf5b0686387": "2026-11-08T23:58:44.474167+00:00",
-  "df2a821fa0470e74": "2026-11-09T00:08:45.632061+00:00"
+  "df2a821fa0470e74": "2026-11-09T00:08:45.632061+00:00",
+  "112cb69f57680694": "2026-11-09T00:18:46.995675+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8264,19 +8261,6 @@
     "ESPN F1": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out"
    },
    "last": "2026-11-07T05:33:51.817779+00:00"
-  },
-  "S5480": {
-   "title": "Brandon Aiyuk meets 49ers, says he is healthy and wants reinstatement",
-   "first": "2026-11-07T00:18:18.102827+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T23:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brandon Aiyuk meets with 49ers, says he's healthy, 'looking to get reinstated'"
-   },
-   "last": "2026-11-07T00:18:18.102845+00:00"
   },
   "S5481": {
    "title": "Everton 3-1 Coventry game analysis (Nov 6, 2026)",
@@ -18877,9 +18861,22 @@
     "PlanetF1": "Oscar Piastri reveals ‘scary’ Brazilian GP moment"
    },
    "last": "2026-11-09T00:08:47.246568+00:00"
+  },
+  "S6255": {
+   "title": "Wolff confirms Antonelli takes over Russell's P2 role at Mercedes",
+   "first": "2026-11-09T00:18:49.457704+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T00:14:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Toto Wolff bestätigt: Jetzt fährt Antonelli für Russells P2 - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T00:18:49.457721+00:00"
   }
  },
- "story_seq": 6254,
+ "story_seq": 6255,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18998,7 +18995,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T00:13:44.485586+00:00",
+ "last_run": "2026-11-09T00:18:46.995675+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20628,6 +20625,11 @@
    "t": "2026-11-09T00:08:50.626992+00:00",
    "title": "Piastri, Brezilya GP'de Russell'ın spininden kaçındığını anlattı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T00:18:52.831151+00:00",
+   "title": "Toto Wolff doğruladı: Antonelli, Russell'ın yerine P2 aracını kullanacak",
+   "source": "Motorsport-Total"
   }
  ]
 }
