@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "de386b36babeb2fc": "2026-10-26T15:11:11.032596+00:00",
-  "d331c47829f9ea14": "2026-10-26T15:11:11.032596+00:00",
-  "17a01b33a0023175": "2026-10-26T15:11:11.032596+00:00",
-  "770976f12c14b925": "2026-10-26T15:11:11.032596+00:00",
-  "b59aeebda8503813": "2026-10-26T15:11:11.032596+00:00",
   "c040c7d28a1bc564": "2026-10-26T15:21:08.680701+00:00",
   "60aa74af8582e603": "2026-10-26T15:21:08.680701+00:00",
   "222acac1751ba7dd": "2026-10-26T15:31:14.352853+00:00",
@@ -7814,7 +7809,13 @@
   "085c951ccf45247b": "2026-11-09T15:05:40.247733+00:00",
   "42059fe0e4408980": "2026-11-09T15:05:40.247733+00:00",
   "84e23274c3b0ed2f": "2026-11-09T15:05:40.247733+00:00",
-  "9ebb8719cb5fdd7a": "2026-11-09T15:05:40.247733+00:00"
+  "9ebb8719cb5fdd7a": "2026-11-09T15:05:40.247733+00:00",
+  "86796ec55fa9981a": "2026-11-09T15:15:39.388726+00:00",
+  "6a8cd00c3d391040": "2026-11-09T15:15:39.388726+00:00",
+  "1f98092fb6cadddf": "2026-11-09T15:15:39.388726+00:00",
+  "9d8937ac60b377d4": "2026-11-09T15:15:39.388726+00:00",
+  "70578b018157a86f": "2026-11-09T15:15:39.388726+00:00",
+  "6ea0b01d22be9f96": "2026-11-09T15:15:39.388726+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8097,32 +8098,6 @@
     "Motorsport-Total": "Motorwechsel: Verstappen, beide Ferraris und Russell mit Gridstrafen - Motorsport-Total.com"
    },
    "last": "2026-11-07T16:35:09.286993+00:00"
-  },
-  "S5659": {
-   "title": "Hull vs. Brighton odds and spread (football, not F1)",
-   "first": "2026-11-07T15:14:13.978288+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T15:10:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hull vs. Brighton (Nov 22, 2026) Odds and Spread"
-   },
-   "last": "2026-11-07T15:14:13.978305+00:00"
-  },
-  "S5660": {
-   "title": "Burnley vs. Blackburn live score (football, not F1)",
-   "first": "2026-11-07T15:14:13.978311+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T15:10:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Burnley vs. Blackburn (Nov 22, 2026) Live Score"
-   },
-   "last": "2026-11-07T15:14:13.978316+00:00"
   },
   "S5661": {
    "title": "RB Leipzig vs. Augsburg live score (football)",
@@ -18414,7 +18389,7 @@
    "titles": {
     "RacingNews365": "‘Clinical’ Verstappen as Ferrari face ‘now-or-never’ problem"
    },
-   "last": "2026-11-09T15:05:47.634597+00:00"
+   "last": "2026-11-09T15:15:44.069787+00:00"
   },
   "S6413": {
    "title": "Russell walks out of unfinished press conference",
@@ -18441,9 +18416,74 @@
     "GPblog": "Hamilton's unheard Brazil radio reveals Ferrari could not tell him where he was running"
    },
    "last": "2026-11-09T15:05:47.634611+00:00"
+  },
+  "S6415": {
+   "title": "Teddy Riner announces run for French presidency",
+   "first": "2026-11-09T15:15:44.069741+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T15:11:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Olympic judo champion Teddy Riner announces run for French presidency"
+   },
+   "last": "2026-11-09T15:15:44.069758+00:00"
+  },
+  "S6416": {
+   "title": "The Race takeaways from 2026 Brazilian Grand Prix",
+   "first": "2026-11-09T15:15:44.069764+00:00",
+   "sources": {
+    "The Race": "2026-11-09T15:15:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Everything we learned from F1's 2026 Brazilian Grand Prix"
+   },
+   "last": "2026-11-09T15:15:44.069770+00:00"
+  },
+  "S6417": {
+   "title": "McLaren signs Malthe Jakobsen for WEC Hypercar programme",
+   "first": "2026-11-09T15:15:44.069775+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-09T15:06:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | McLaren annuncia l'ingaggio di Malthe Jakobsen per salire sulla MCL-HY LMDh"
+   },
+   "last": "2026-11-09T15:15:44.069780+00:00"
+  },
+  "S6418": {
+   "title": "FIA hands Alex Albon double punishment after Brazil investigation",
+   "first": "2026-11-09T15:15:44.069791+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T15:12:31+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA confirms double Alex Albon punishment after Brazilian GP investigation"
+   },
+   "last": "2026-11-09T15:15:44.069795+00:00"
+  },
+  "S6419": {
+   "title": "Alonso says Interlagos duels were competitive, 12th place",
+   "first": "2026-11-09T15:15:44.069798+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-09T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Alonso grintoso anche in Brasile: “Protagonisti di bei duelli in pista”"
+   },
+   "last": "2026-11-09T15:15:44.069802+00:00"
   }
  },
- "story_seq": 6414,
+ "story_seq": 6419,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18562,17 +18602,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T15:05:40.247733+00:00",
+ "last_run": "2026-11-09T15:15:39.388726+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T15:09:50.888172+00:00",
-   "title": "Haas patronu Komatsu, Ocon'un görevden alınması hakkında ilk kez konuştu",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T15:34:41.645443+00:00",
    "title": "Antonelli, Hamilton ve Verstappen'ın fotoğrafını çerçeveletti",
@@ -20152,6 +20187,21 @@
    "t": "2026-11-09T15:05:58.873405+00:00",
    "title": "Hamilton'ın Brezilya telsiz kayıtları: Ferrari yerini bilmiyordu",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-09T15:15:54.051767+00:00",
+   "title": "Alonso Brezilya'da mücadeleci: \"Pistte güzel düellolara katıldık\"",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-09T15:15:54.579703+00:00",
+   "title": "FIA, Albon'a Brezilya GP'de çifte ceza verdi",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T15:15:55.123633+00:00",
+   "title": "2026 Brezilya Grand Prix'sinden öğrenilenler",
+   "source": "The Race"
   }
  ]
 }
