@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bbe2c424f03cb9eb": "2026-10-26T21:32:41.485331+00:00",
   "454d38af0307cc96": "2026-10-26T21:42:45.108825+00:00",
   "44b44c0ba140e5b9": "2026-10-26T21:52:41.180712+00:00",
   "1c2c00f7b4e819c3": "2026-10-26T21:52:41.180712+00:00",
@@ -7798,7 +7797,11 @@
   "78ededc5a4046e17": "2026-11-09T21:06:22.599018+00:00",
   "a3ea4c19de6ad68c": "2026-11-09T21:16:24.427657+00:00",
   "f75f06a4f3fb29c2": "2026-11-09T21:26:24.036870+00:00",
-  "1044c93951c2b826": "2026-11-09T21:26:24.036870+00:00"
+  "1044c93951c2b826": "2026-11-09T21:26:24.036870+00:00",
+  "a68aa346b58fefb0": "2026-11-09T21:36:25.033927+00:00",
+  "98f9b08e8b6ee6d9": "2026-11-09T21:36:25.033927+00:00",
+  "634c9504f9f3e8e5": "2026-11-09T21:36:25.033927+00:00",
+  "96660a978526cbc8": "2026-11-09T21:36:25.033927+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7987,19 +7990,6 @@
    },
    "last": "2026-11-08T00:01:08.733138+00:00"
   },
-  "S5780": {
-   "title": "Nebraska fires offensive coordinator Holgorsen amid losing streak",
-   "first": "2026-11-07T20:35:10.660622+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T18:15:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'Angry' Rhule fires OC Holgorsen amid Nebraska's 4-game skid"
-   },
-   "last": "2026-11-07T21:35:40.488276+00:00"
-  },
   "S5783": {
    "title": "Russell reacts angrily to Norris pole in Brazil qualifying",
    "first": "2026-11-07T20:40:08.529285+00:00",
@@ -8109,32 +8099,6 @@
    },
    "last": "2026-11-07T21:50:44.729278+00:00"
   },
-  "S5804": {
-   "title": "Alonso says first Q3 of season feels good",
-   "first": "2026-11-07T21:30:38.612847+00:00",
-   "sources": {
-    "Formula 1": "2026-11-07T21:30:38.612857+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "'First Q3 of the season feels good' in Brazil – Alonso"
-   },
-   "last": "2026-11-07T21:30:38.612859+00:00"
-  },
-  "S5805": {
-   "title": "Verstappen outlines race goal from back of grid",
-   "first": "2026-11-07T21:30:38.612864+00:00",
-   "sources": {
-    "Formula 1": "2026-11-07T21:30:38.612866+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Verstappen sets out goal from back of the grid in Sao Paulo"
-   },
-   "last": "2026-11-07T21:30:38.612868+00:00"
-  },
   "S5806": {
    "title": "Orlando vs New England team stats",
    "first": "2026-11-07T21:30:38.612871+00:00",
@@ -8147,71 +8111,6 @@
     "ESPN F1": "Orlando vs. New England (Nov 7, 2026) Team Stats"
    },
    "last": "2026-11-07T22:10:37.187514+00:00"
-  },
-  "S5807": {
-   "title": "Kyle Cottee 17-yard touchdown",
-   "first": "2026-11-07T21:30:38.612876+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:11:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kyle Cottee throws 17-yard touchdown"
-   },
-   "last": "2026-11-07T21:30:38.612878+00:00"
-  },
-  "S5808": {
-   "title": "Liam Lawson pleads over uncertain F1 future",
-   "first": "2026-11-07T21:30:38.612880+00:00",
-   "sources": {
-    "GPFans": "2026-11-07T21:27:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Liam Lawson makes desperate plea as F1 future hangs in the balance"
-   },
-   "last": "2026-11-07T21:30:38.612882+00:00"
-  },
-  "S5809": {
-   "title": "Nick Billoups 2-yard rushing touchdown",
-   "first": "2026-11-07T21:35:40.488250+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:21:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nick Billoups rushes in for 2-yard TD"
-   },
-   "last": "2026-11-07T21:35:40.488264+00:00"
-  },
-  "S5810": {
-   "title": "Pennsylvania vs Cornell college football highlights",
-   "first": "2026-11-07T21:35:40.488268+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:19:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pennsylvania Quakers vs. Cornell Big Red: Full Highlights"
-   },
-   "last": "2026-11-07T21:35:40.488272+00:00"
-  },
-  "S5811": {
-   "title": "Analysis: FIA handling of rain-delayed Brazil qualifying",
-   "first": "2026-11-07T21:35:40.488279+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-07T21:29:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | La pioggia esalta i piloti: Interlagos premia le scelte della FIA"
-   },
-   "last": "2026-11-07T21:35:40.488282+00:00"
   },
   "S5812": {
    "title": "Hamilton reveals details of meeting with Leclerc",
@@ -16526,7 +16425,7 @@
    "titles": {
     "RacingNews365": "Red Bull reveal plan to impose team orders on Max Verstappen"
    },
-   "last": "2026-11-09T15:35:42.652116+00:00"
+   "last": "2026-11-09T21:36:28.709901+00:00"
   },
   "S6423": {
    "title": "William Saliba returns from injury with Arsenal Under-21 outing",
@@ -17405,14 +17304,14 @@
    "title": "Kansas' Melvin Council Jr. suffers broken foot",
    "first": "2026-11-09T21:06:26.807959+00:00",
    "sources": {
-    "ESPN F1": "2026-11-09T20:58:29+00:00"
+    "ESPN F1": "2026-11-09T20:36:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Kansas' Melvin Council Jr. suffers broken foot, may be out until January"
    },
-   "last": "2026-11-09T21:06:26.807977+00:00"
+   "last": "2026-11-09T21:36:28.709880+00:00"
   },
   "S6491": {
    "title": "Nebraska extends defensive coordinator Rob Aurich",
@@ -17491,9 +17390,22 @@
     "Auto Motor und Sport": "Formel 1: Wieder Audi-Punkte: Hülkenberg greift in den Titelkampf ein"
    },
    "last": "2026-11-09T21:26:27.884477+00:00"
+  },
+  "S6497": {
+   "title": "Whittingham: Michigan starting QB to be determined vs. Oregon",
+   "first": "2026-11-09T21:36:28.709889+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T15:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Whittingham -- Michigan's starting QB to be determined vs. Oregon"
+   },
+   "last": "2026-11-09T21:36:28.709895+00:00"
   }
  },
- "story_seq": 6496,
+ "story_seq": 6497,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17612,17 +17524,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T21:26:24.036870+00:00",
+ "last_run": "2026-11-09T21:36:25.033927+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T21:30:23.954790+00:00",
-   "title": "Rosberg, 2016 şampiyonluk yarışı öncesi tek yiyebildiği yiyeceği açıkladı",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-06T21:45:29.124939+00:00",
    "title": "Norris, McLaren'ın São Paulo güncellemesi hakkında konuştu",
