@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bcc532c11cfa9d86": "2026-10-26T02:04:32.493933+00:00",
   "b522ca85fe16397f": "2026-10-26T02:19:44.420937+00:00",
   "f4b8b0544231eac2": "2026-10-26T02:24:33.145919+00:00",
   "63d75fc9cd20328c": "2026-10-26T02:24:33.145919+00:00",
@@ -7793,7 +7792,10 @@
   "898c2028a9a01d00": "2026-11-09T01:38:42.287209+00:00",
   "bae3e79cf891318b": "2026-11-09T01:38:42.287209+00:00",
   "fbdfb0a03928bfca": "2026-11-09T01:43:44.177915+00:00",
-  "e9f31d8f881ed2b4": "2026-11-09T01:58:48.014564+00:00"
+  "e9f31d8f881ed2b4": "2026-11-09T01:58:48.014564+00:00",
+  "4ca5a0e20322b262": "2026-11-09T02:08:45.858086+00:00",
+  "f523400f4cda72d6": "2026-11-09T02:08:45.858086+00:00",
+  "764c27e7cd4085a3": "2026-11-09T02:08:45.858086+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8217,19 +8219,6 @@
     "ESPN F1": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out"
    },
    "last": "2026-11-07T05:33:51.817779+00:00"
-  },
-  "S5500": {
-   "title": "Alex Godley Jr. basket and foul highlight (basketball)",
-   "first": "2026-11-07T02:08:16.023180+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T00:08:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alex Godley Jr. gets the basket plus the foul"
-   },
-   "last": "2026-11-07T02:08:16.023197+00:00"
   },
   "S5501": {
    "title": "Grace Bickett scores a goal",
@@ -18767,9 +18756,48 @@
     "ESPN F1": "Herbert to undergo testing after exiting Chargers' 44-22 loss with finger injury"
    },
    "last": "2026-11-09T01:58:49.600783+00:00"
+  },
+  "S6270": {
+   "title": "Chengdu lose Chinese Super League title lead",
+   "first": "2026-11-09T02:08:47.892721+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T01:53:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chengdu let astonishing 14-point lead slip to miss Chinese Super League title"
+   },
+   "last": "2026-11-09T02:08:47.892738+00:00"
+  },
+  "S6271": {
+   "title": "Mikael Granlund scores on power play",
+   "first": "2026-11-09T02:08:47.892744+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T01:28:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mikael Granlund capitalizes on the power play"
+   },
+   "last": "2026-11-09T02:08:47.892749+00:00"
+  },
+  "S6272": {
+   "title": "Brandon Hagel scores for Lightning",
+   "first": "2026-11-09T02:08:47.892752+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T01:23:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Brandon Hagel nets goal for Lightning"
+   },
+   "last": "2026-11-09T02:08:47.892757+00:00"
   }
  },
- "story_seq": 6269,
+ "story_seq": 6272,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18888,7 +18916,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T02:03:43.724320+00:00",
+ "last_run": "2026-11-09T02:08:45.858086+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
