@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e92d95f46c5a9bd1": "2026-10-26T17:32:31.469707+00:00",
-  "1ed13ba5d2d680e8": "2026-10-26T17:32:31.469707+00:00",
-  "5cc04047e4aad480": "2026-10-26T17:32:31.469707+00:00",
-  "9122d9e44136511c": "2026-10-26T17:32:31.469707+00:00",
-  "c74eaf0084f04e82": "2026-10-26T17:32:31.469707+00:00",
-  "62720af41ba55a1c": "2026-10-26T17:32:31.469707+00:00",
   "7bf643e822c58658": "2026-10-26T17:42:08.233499+00:00",
   "0cd646955f9b2821": "2026-10-26T17:42:08.233499+00:00",
   "32c5b514d3862eab": "2026-10-26T17:52:07.750009+00:00",
@@ -7808,7 +7802,9 @@
   "9093c891245e48b6": "2026-11-09T17:25:42.954734+00:00",
   "7730dcb46f51b279": "2026-11-09T17:25:42.954734+00:00",
   "fa926032803b5c26": "2026-11-09T17:25:42.954734+00:00",
-  "865aa7452bf0bd9f": "2026-11-09T17:25:42.954734+00:00"
+  "865aa7452bf0bd9f": "2026-11-09T17:25:42.954734+00:00",
+  "34fe991c8990b394": "2026-11-09T17:35:39.843036+00:00",
+  "9ad71acb99d79473": "2026-11-09T17:35:39.843036+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8091,45 +8087,6 @@
     "PlanetF1": "Lewis Hamilton hit with further Brazilian GP penalty as Ferrari issues statement"
    },
    "last": "2026-11-07T18:15:07.259936+00:00"
-  },
-  "S5724": {
-   "title": "David Silva returns from retirement with goal for Man City",
-   "first": "2026-11-07T17:30:07.059892+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T15:53:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man City legend David Silva returns from retirement with goal, player of match award"
-   },
-   "last": "2026-11-07T17:30:07.059910+00:00"
-  },
-  "S5725": {
-   "title": "FormulaPassion analysis of Brazil FP3 and qualifying outlook",
-   "first": "2026-11-07T17:35:07.155611+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-07T17:01:09+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Telemetria FP3 Brasile: qualifica impronosticabile, penalità e pioggia sconvolgeranno gli assetti"
-   },
-   "last": "2026-11-07T17:35:07.155616+00:00"
-  },
-  "S5726": {
-   "title": "Report on tracks leaving and joining F1 2027 calendar",
-   "first": "2026-11-07T17:35:07.155619+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-07T17:29:39+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Formel-1-Kalender 2027: Welche Strecken raus sind und welche neu dazukommen - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T17:35:07.155624+00:00"
   },
   "S5727": {
    "title": "Roundup of every FIA grid penalty for Brazilian GP",
@@ -18044,17 +18001,30 @@
    "title": "CFP and ESPN reportedly agree $1.7B expansion deal",
    "first": "2026-11-09T17:25:48.027300+00:00",
    "sources": {
-    "ESPN F1": "2026-11-09T15:56:00+00:00"
+    "ESPN F1": "2026-11-09T15:44:46+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "CFP, ESPN ink 5-year, $1.7B deal to expand field, sources say"
    },
-   "last": "2026-11-09T17:25:48.027304+00:00"
+   "last": "2026-11-09T17:35:41.469009+00:00"
+  },
+  "S6455": {
+   "title": "FA Cup manager sent off for headbutting rival player",
+   "first": "2026-11-09T17:35:41.468983+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T16:37:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "FA Cup manager sent off for headbutting rival player before extra-time winner"
+   },
+   "last": "2026-11-09T17:35:41.469000+00:00"
   }
  },
- "story_seq": 6454,
+ "story_seq": 6455,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18173,17 +18143,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T17:25:42.954734+00:00",
+ "last_run": "2026-11-09T17:35:39.843036+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T17:29:45.284922+00:00",
-   "title": "F1 Brezilya GP 2026: FP2 seansı bu akşam canlı yayında",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-06T17:39:45.040358+00:00",
    "title": "FIA, Colton Herta'nın Brezilya GP'deki olayında karar verdi",
