@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "983e77ed64ddb854": "2026-10-26T00:34:33.298389+00:00",
-  "d1fcbbe43259e4f0": "2026-10-26T00:34:33.298389+00:00",
   "e2661ad77aeaf323": "2026-10-26T00:39:34.299480+00:00",
   "ce4f549f7bc97755": "2026-10-26T00:54:33.121064+00:00",
   "3610f8e243681862": "2026-10-26T00:54:33.121064+00:00",
@@ -7801,7 +7799,9 @@
   "112cb69f57680694": "2026-11-09T00:18:46.995675+00:00",
   "ec609bf184c04381": "2026-11-09T00:23:45.565951+00:00",
   "60922adfe09f0e4a": "2026-11-09T00:28:44.835376+00:00",
-  "d86e8a89c92ddbba": "2026-11-09T00:28:44.835376+00:00"
+  "d86e8a89c92ddbba": "2026-11-09T00:28:44.835376+00:00",
+  "ee20a90717e4a7c2": "2026-11-09T00:38:44.794505+00:00",
+  "c726b5cb824cf49a": "2026-11-09T00:38:44.794505+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8238,19 +8238,6 @@
     "ESPN F1": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out"
    },
    "last": "2026-11-07T05:33:51.817779+00:00"
-  },
-  "S5481": {
-   "title": "Everton 3-1 Coventry game analysis (Nov 6, 2026)",
-   "first": "2026-11-07T00:38:15.266566+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-06T22:35:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Everton 3-1 Coventry (Nov 6, 2026) Game Analysis"
-   },
-   "last": "2026-11-07T00:38:15.266584+00:00"
   },
   "S5482": {
    "title": "Hislop says Ronaldo's Portugal retirement was not dependent on Martínez",
@@ -18864,9 +18851,35 @@
     "ESPN F1": "Hornets' Kon Knueppel out at least 4 weeks with latest hamstring strain"
    },
    "last": "2026-11-09T00:28:46.950116+00:00"
+  },
+  "S6257": {
+   "title": "Sean Payton replay challenge leads to Broncos interception",
+   "first": "2026-11-09T00:38:46.419563+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T23:59:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sean Payton's replay challenge results in key interception in Broncos' victory"
+   },
+   "last": "2026-11-09T00:38:46.419580+00:00"
+  },
+  "S6258": {
+   "title": "Harbaugh says Giants pulled Jonathan Taylor offer",
+   "first": "2026-11-09T00:38:46.419585+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-08T23:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "John Harbaugh: Giants did pull offer for Jonathan Taylor but 'things do change'"
+   },
+   "last": "2026-11-09T00:38:46.419590+00:00"
   }
  },
- "story_seq": 6256,
+ "story_seq": 6258,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18985,7 +18998,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T00:33:47.231659+00:00",
+ "last_run": "2026-11-09T00:38:44.794505+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
