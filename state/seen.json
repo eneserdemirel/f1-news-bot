@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f8bd643bbb2da0bc": "2026-10-26T01:04:32.065227+00:00",
   "53e7aab70aa9aaaa": "2026-10-26T01:09:34.962119+00:00",
   "f82b39f7a0747f04": "2026-10-26T01:14:32.010437+00:00",
   "9cb27c2b1db050c3": "2026-10-26T01:14:32.010437+00:00",
@@ -7799,7 +7798,8 @@
   "827f867156d8d9d0": "2026-11-09T00:58:43.259212+00:00",
   "6004d94592a317bd": "2026-11-09T01:03:46.263732+00:00",
   "12dc900a93a8425f": "2026-11-09T01:03:46.263732+00:00",
-  "ff90af89728ac156": "2026-11-09T01:03:46.263732+00:00"
+  "ff90af89728ac156": "2026-11-09T01:03:46.263732+00:00",
+  "c7ae34004e13b5e3": "2026-11-09T01:08:42.776204+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -18875,9 +18875,22 @@
     "ESPN F1": "Blades Brown, 19, outlasts Ben James, becomes youngest PGA Tour winner since '38"
    },
    "last": "2026-11-09T01:03:47.954662+00:00"
+  },
+  "S6262": {
+   "title": "Angel Lopez Martin scores goal for South Carolina",
+   "first": "2026-11-09T01:08:44.173126+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T01:01:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Angel Lopez Martin scores goal for South Carolina"
+   },
+   "last": "2026-11-09T01:08:44.173144+00:00"
   }
  },
- "story_seq": 6261,
+ "story_seq": 6262,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18996,17 +19009,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T01:03:46.263732+00:00",
+ "last_run": "2026-11-09T01:08:42.776204+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T01:06:12.079971+00:00",
-   "title": "Formula 1: Barcelona'da yedi pilot cezalı olabilir",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-11-06T05:28:17.969800+00:00",
    "title": "Bir Formula 1 dünya şampiyonu ne kadar genç olabilir?",
