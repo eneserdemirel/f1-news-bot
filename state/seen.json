@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6daac4b3da78f3b2": "2026-10-26T19:32:05.337680+00:00",
-  "b5512268f5b6a18d": "2026-10-26T19:32:05.337680+00:00",
-  "a9ddec9d1038da95": "2026-10-26T19:32:05.337680+00:00",
   "64dab1a0e9b5165e": "2026-10-26T19:42:08.393264+00:00",
   "bd298901820aa7da": "2026-10-26T19:42:08.393264+00:00",
   "475a28d1b0512b25": "2026-10-26T19:52:10.432198+00:00",
@@ -7804,7 +7801,8 @@
   "54a25884bbfbfc8f": "2026-11-09T19:05:40.716506+00:00",
   "c562de1aab70a5fa": "2026-11-09T19:05:40.716506+00:00",
   "4890e373403d240e": "2026-11-09T19:25:40.133137+00:00",
-  "ace509d132244989": "2026-11-09T19:25:40.133137+00:00"
+  "ace509d132244989": "2026-11-09T19:25:40.133137+00:00",
+  "7d785164970e2590": "2026-11-09T19:35:38.786729+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7826,21 +7824,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S5589": {
-   "title": "Hamilton nears career milestone only Alonso has reached",
-   "first": "2026-11-07T10:39:16.007574+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T10:30:00+00:00",
-    "Gazzetta dello Sport": "2026-11-07T15:48:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton career highs and heartbreak revisited ahead of staggering milestone",
-    "Gazzetta dello Sport": "Hamilton, in Brasile la gara numero 400. Ma chi ha corso più Gran Premi di lui?"
-   },
-   "last": "2026-11-07T19:30:03.614640+00:00"
-  },
   "S5634": {
    "title": "Verstappen to start Brazilian GP from back of grid",
    "first": "2026-11-07T13:54:16.522968+00:00",
@@ -8013,19 +7996,6 @@
     "RacingNews365 NL": "Nieuwe starttijd kwalificatie GP Brazilië bekend"
    },
    "last": "2026-11-08T00:01:08.733142+00:00"
-  },
-  "S5746": {
-   "title": "Marquez says Bezzecchi made an error in Qatar sprint crash",
-   "first": "2026-11-07T19:35:06.556455+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-07T19:32:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Marquez punge Bezzecchi: “Ha fatto un errore. Ero stupito di trovarlo lì”"
-   },
-   "last": "2026-11-07T19:35:06.556473+00:00"
   },
   "S5747": {
    "title": "Nottingham Forest beat Man City for City's third straight Premier League loss",
@@ -18009,9 +17979,22 @@
     "ESPN F1": "Seahawks to start QB Drew Lock vs. Raiders, giving Sam Darnold more time to heal"
    },
    "last": "2026-11-09T19:25:43.453119+00:00"
+  },
+  "S6480": {
+   "title": "Jets trade safety Andre Cisco to Lions",
+   "first": "2026-11-09T19:35:40.486176+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T18:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Jets trade safety Andre Cisco to injury-plagued Lions"
+   },
+   "last": "2026-11-09T19:35:40.486193+00:00"
   }
  },
- "story_seq": 6479,
+ "story_seq": 6480,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18130,7 +18113,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T19:25:40.133137+00:00",
+ "last_run": "2026-11-09T19:35:38.786729+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
