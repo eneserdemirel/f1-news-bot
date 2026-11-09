@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0bdd98b00995c94b": "2026-10-26T07:05:16.357324+00:00",
   "138f2a0b60e5d24b": "2026-10-26T07:15:19.921256+00:00",
   "ed84e8d5d771cb62": "2026-10-26T07:15:19.921256+00:00",
   "959dc078356fcc01": "2026-10-26T07:15:19.921256+00:00",
@@ -7807,7 +7806,10 @@
   "0d986f66a2947958": "2026-11-09T06:44:14.060339+00:00",
   "f683ae08e7108ba8": "2026-11-09T06:54:14.118792+00:00",
   "75822000e3e1b34d": "2026-11-09T07:04:15.162090+00:00",
-  "8e16d087f6ba7cb1": "2026-11-09T07:04:15.162090+00:00"
+  "8e16d087f6ba7cb1": "2026-11-09T07:04:15.162090+00:00",
+  "f69fde2ae394d535": "2026-11-09T07:14:18.967729+00:00",
+  "18ae70ac4f3cec8d": "2026-11-09T07:14:18.967729+00:00",
+  "388ef037d5b65e8c": "2026-11-09T07:14:18.967729+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8248,58 +8250,6 @@
     "ESPN F1": "Portland Trail Blazers vs. Los Angeles Lakers: Game Highlights"
    },
    "last": "2026-11-07T07:28:52.066741+00:00"
-  },
-  "S5543": {
-   "title": "Hamilton calls Brazil FP2 complicated, says work needed",
-   "first": "2026-11-07T07:08:48.213995+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-07T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hamilton: “Giornata impegnativa, FP2 complicate. C’è da lavorare”"
-   },
-   "last": "2026-11-07T07:08:48.213999+00:00"
-  },
-  "S5544": {
-   "title": "Antonelli doubts Ferrari will improve in qualifying",
-   "first": "2026-11-07T07:08:48.214003+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-07T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli non si fida della Ferrari: “Troverà qualcosa in più quando si arriva in Qualifica”"
-   },
-   "last": "2026-11-07T07:08:48.214006+00:00"
-  },
-  "S5545": {
-   "title": "Montezemolo says karting shaped Antonelli, praises Wolff's handling",
-   "first": "2026-11-07T07:08:48.214008+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-07T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Montezemolo: “Antonelli ha nel DNA i kart, come Schumacher, Senna e Verstappen. Wolff lo ha gestito nel modo giusto”"
-   },
-   "last": "2026-11-07T07:08:48.214011+00:00"
-  },
-  "S5546": {
-   "title": "Rosberg says Lauda was angry about his 2016 retirement",
-   "first": "2026-11-07T07:13:48.044917+00:00",
-   "sources": {
-    "GPFans": "2026-11-07T07:13:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Mercedes chief was 'angry' at F1 champion after dropping quit bombshell"
-   },
-   "last": "2026-11-07T07:13:48.044937+00:00"
   },
   "S5547": {
    "title": "Luka Doncic scores inside over a defender",
@@ -16718,7 +16668,8 @@
     "The Race": "2026-11-08T21:42:34+00:00",
     "Motorsport.com Italia": "2026-11-08T21:44:04+00:00",
     "Autosport": "2026-11-08T21:59:31+00:00",
-    "Motorsport-Total": "2026-11-08T22:56:11+00:00"
+    "Motorsport-Total": "2026-11-08T22:56:11+00:00",
+    "GPFans": "2026-11-09T07:12:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16733,9 +16684,10 @@
     "The Race": "Leclerc loses two points for Lawson collision",
     "Motorsport.com Italia": "F1 | Leclerc penalizzato per il contatto con Lawson: scivola all’ottavo posto",
     "Autosport": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
-    "Motorsport-Total": "Platz sieben weg: Leclerc erhält für Lawson-Kollision Zeitstrafe - Motorsport-Total.com"
+    "Motorsport-Total": "Platz sieben weg: Leclerc erhält für Lawson-Kollision Zeitstrafe - Motorsport-Total.com",
+    "GPFans": "Ferrari star loses Brazilian GP position as FIA confirm trio of post-race penalties"
    },
-   "last": "2026-11-08T23:03:16.951617+00:00"
+   "last": "2026-11-09T07:14:24.551860+00:00"
   },
   "S6157": {
    "title": "Man United relegation risk after poor starts",
@@ -18861,9 +18813,35 @@
     "ESPN F1": "Giants' Malik Nabers takes issue with Greg Olsen, Fox for comments during game"
    },
    "last": "2026-11-09T07:04:18.381840+00:00"
+  },
+  "S6318": {
+   "title": "Wolfsburg vs. Union Berlin live score",
+   "first": "2026-11-09T07:14:24.551823+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T07:09:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wolfsburg vs. Union Berlin (Nov 12, 2026) Live Score"
+   },
+   "last": "2026-11-09T07:14:24.551841+00:00"
+  },
+  "S6319": {
+   "title": "Norris makes striking claim after nasty-conditions Brazil win",
+   "first": "2026-11-09T07:14:24.551847+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lando Norris makes striking claim after 'nasty conditions' victory"
+   },
+   "last": "2026-11-09T07:14:24.551853+00:00"
   }
  },
- "story_seq": 6317,
+ "story_seq": 6319,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18982,17 +18960,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T07:04:15.162090+00:00",
+ "last_run": "2026-11-09T07:14:18.967729+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T07:08:22.888256+00:00",
-   "title": "Hamilton: \"Sözlerim hesaplanmış değil, takım beni hiç susturmadı\"",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-06T07:18:27.192828+00:00",
    "title": "Steiner: Hamilton-Leclerc gerilimi Ferrari için \"iyi bir sorun\"",
@@ -20622,6 +20595,11 @@
    "t": "2026-11-09T06:54:22.394126+00:00",
    "title": "Vasseur: Mercedes'e Constructors şampiyonluğu için tebrik",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-09T07:14:32.330360+00:00",
+   "title": "Norris, São Paulo'daki zorlu yağmurlu yarışı kazanmasını 'en iyilerden biri' olarak niteledi",
+   "source": "RacingNews365"
   }
  ]
 }
