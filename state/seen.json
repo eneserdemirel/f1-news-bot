@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "32c5b514d3862eab": "2026-10-26T17:52:07.750009+00:00",
-  "c16e11021db27f67": "2026-10-26T17:52:07.750009+00:00",
-  "ceda772cc2c26fce": "2026-10-26T17:52:07.750009+00:00",
   "f4fc0da7728adb5e": "2026-10-26T18:02:05.807983+00:00",
   "7fc6db5cff87e32b": "2026-10-26T18:02:05.807983+00:00",
   "5b7a4c0e539b253a": "2026-10-26T18:02:05.807983+00:00",
@@ -7804,7 +7801,9 @@
   "34fe991c8990b394": "2026-11-09T17:35:39.843036+00:00",
   "9ad71acb99d79473": "2026-11-09T17:35:39.843036+00:00",
   "551454afab40de12": "2026-11-09T17:45:40.338843+00:00",
-  "fafd862e1f590a35": "2026-11-09T17:45:40.338843+00:00"
+  "fafd862e1f590a35": "2026-11-09T17:45:40.338843+00:00",
+  "1d5b1a424d75ae9f": "2026-11-09T17:55:42.147437+00:00",
+  "859a936b7c880bfc": "2026-11-09T17:55:42.147437+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7844,29 +7843,6 @@
     "Motorsport-Total": "Teamchef Komatsu über Ocons Haas-Aus: \"Alle waren überrascht\" - Motorsport-Total.com"
    },
    "last": "2026-11-07T18:05:09.173490+00:00"
-  },
-  "S5356": {
-   "title": "Ralf Schumacher says Colton Herta has no place in F1",
-   "first": "2026-11-06T17:24:35.802181+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T17:21:08+00:00",
-    "PlanetF1": "2026-11-06T22:20:30+00:00",
-    "RacingNews365 NL": "2026-11-07T10:09:00+00:00",
-    "GPFans": "2026-11-07T13:57:00+00:00",
-    "Crash.net": "2026-11-07T16:51:00+00:00",
-    "GPblog": "2026-11-07T17:49:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ralf Schumacher zieht über Colton Herta her: \"Hat in der F1 nichts zu suchen\" - Motorsport-Total.com",
-    "PlanetF1": "Colton Herta ‘just burning fuel’ as F1 future savaged by Schumacher",
-    "RacingNews365 NL": "Schumacher vernietigend over Herta: \"Verbrandt alleen maar brandstof!\"",
-    "GPFans": "'He has no place in F1' - Top insider's savage verdict on young star",
-    "Crash.net": "Ralf Schumacher’s brutal verdict on Colton Herta: “Has no place in F1”",
-    "GPblog": "Ralf Schumacher delivers ruthless verdict on F1 hopeful: 'He's just burning fuel'"
-   },
-   "last": "2026-11-07T17:50:09.648608+00:00"
   },
   "S5589": {
    "title": "Hamilton nears career milestone only Alonso has reached",
@@ -8081,19 +8057,6 @@
     "RacingNews365": "Hamilton and Verstappen hit with massive penalties as rain chaos shakes up grid"
    },
    "last": "2026-11-08T08:46:45.428741+00:00"
-  },
-  "S5728": {
-   "title": "Burton Albion vs AFC Rushden team stats",
-   "first": "2026-11-07T17:50:09.648577+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T16:14:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Burton Albion vs. AFC Rushden (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T17:50:09.648594+00:00"
   },
   "S5729": {
    "title": "Scott Parker awaits first West Ham win after Blackburn defeat",
@@ -17471,14 +17434,14 @@
    "title": "Teddy Riner announces run for French presidency",
    "first": "2026-11-09T15:15:44.069741+00:00",
    "sources": {
-    "ESPN F1": "2026-11-09T15:11:15+00:00"
+    "ESPN F1": "2026-11-09T14:32:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Olympic judo champion Teddy Riner announces run for French presidency"
    },
-   "last": "2026-11-09T15:15:44.069758+00:00"
+   "last": "2026-11-09T17:55:44.665223+00:00"
   },
   "S6416": {
    "title": "The Race takeaways from 2026 Brazilian Grand Prix",
@@ -18012,9 +17975,22 @@
     "ESPN F1": "Why the Raiders are better off staying pat at the NFL trade deadline"
    },
    "last": "2026-11-09T17:45:43.529737+00:00"
+  },
+  "S6457": {
+   "title": "Hezemans and Coronel praise Verstappen's Brazil rain comeback talent",
+   "first": "2026-11-09T17:55:44.665234+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "GP Brazilië legt indrukwekkend talent Verstappen bloot: \"Dan belanden ze in de vangrail!\""
+   },
+   "last": "2026-11-09T17:55:44.665240+00:00"
   }
  },
- "story_seq": 6456,
+ "story_seq": 6457,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18133,7 +18109,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T17:45:40.338843+00:00",
+ "last_run": "2026-11-09T17:55:42.147437+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
@@ -19718,6 +19694,11 @@
    "t": "2026-11-09T17:15:51.117552+00:00",
    "title": "Rafael Camara zorlu F1 debutosunu değerlendirdi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T17:55:51.183843+00:00",
+   "title": "Verstappen Brezilya'da yağmurda ustalığını gösterdi, podyuma çıktı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
