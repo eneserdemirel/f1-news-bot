@@ -7814,7 +7814,8 @@
   "17e4f8eb7d84da42": "2026-11-09T04:23:43.598402+00:00",
   "32454de0ebb3f84b": "2026-11-09T04:28:45.338154+00:00",
   "27525a64ae4066b9": "2026-11-09T04:39:12.102762+00:00",
-  "b5fffdf809a43342": "2026-11-09T04:44:16.075570+00:00"
+  "b5fffdf809a43342": "2026-11-09T04:44:16.075570+00:00",
+  "28c2a90aea3ee220": "2026-11-09T04:54:16.943744+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8251,19 +8252,6 @@
     "ESPN F1": "Jayson Tatum spectacular in rout of the Hornets"
    },
    "last": "2026-11-07T07:43:45.883539+00:00"
-  },
-  "S5523": {
-   "title": "Darius Acuff Jr. slam dunk highlight (basketball)",
-   "first": "2026-11-07T04:53:18.094340+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T03:36:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Darius Acuff Jr. rocks the rim with slam"
-   },
-   "last": "2026-11-07T04:53:18.094357+00:00"
   },
   "S5524": {
    "title": "ESPN NCAA bracketology feature",
@@ -18918,9 +18906,22 @@
     "ESPN F1": "49ers 38-17 Raiders (Nov 8, 2026) Game Recap"
    },
    "last": "2026-11-09T04:44:17.398015+00:00"
+  },
+  "S6302": {
+   "title": "Viewing figures for rain-hit Sao Paulo GP in Germany",
+   "first": "2026-11-09T04:54:18.606239+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T04:49:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Zuschauer: So viele sahen das Regenrennen in Sao Paulo - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T04:54:18.606256+00:00"
   }
  },
- "story_seq": 6301,
+ "story_seq": 6302,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -19039,7 +19040,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T04:49:12.510671+00:00",
+ "last_run": "2026-11-09T04:54:16.943744+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20684,6 +20685,11 @@
    "t": "2026-11-09T04:08:53.930535+00:00",
    "title": "Fisher, Tickner'in stand-down protokolleri kapsamında yedek olarak eklendi",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-09T04:54:21.668686+00:00",
+   "title": "Sao Paulo'daki yağmurlu yarışı kaç kişi izledi?",
+   "source": "Motorsport-Total"
   }
  ]
 }
