@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2b00ce940ec0f017": "2026-10-26T08:30:21.828755+00:00",
-  "6af2028fc6ab668c": "2026-10-26T08:30:21.828755+00:00",
-  "783bdde759936cad": "2026-10-26T08:30:21.828755+00:00",
-  "1bbc41fee7c09413": "2026-10-26T08:30:21.828755+00:00",
-  "c0a7beecf7c27b4d": "2026-10-26T08:30:21.828755+00:00",
   "ce43459b959cde3d": "2026-10-26T08:40:17.855245+00:00",
   "3d9068e7c4a688ab": "2026-10-26T08:40:17.855245+00:00",
   "60b78e1dbbc55353": "2026-10-26T08:50:16.126775+00:00",
@@ -7785,7 +7780,9 @@
   "e9d9721c40f9aa89": "2026-11-09T08:24:16.728599+00:00",
   "fdd5449a4b7b326d": "2026-11-09T08:24:16.728599+00:00",
   "ff56204afcc652b4": "2026-11-09T08:24:16.728599+00:00",
-  "e129ff7552de3898": "2026-11-09T08:24:16.728599+00:00"
+  "e129ff7552de3898": "2026-11-09T08:24:16.728599+00:00",
+  "c4bc4662d90e1fde": "2026-11-09T08:34:15.224318+00:00",
+  "3d54413f2fa6d936": "2026-11-09T08:34:15.224318+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8188,45 +8185,6 @@
     "Motorsport.com Italia": "F1 | McLaren: la nuova ala anteriore cambia la filosofia della MCL40. Nel 2027 allungherà il passo"
    },
    "last": "2026-11-07T10:59:22.634252+00:00"
-  },
-  "S5558": {
-   "title": "Hardik left out of Baroda squad for Syed Mushtaq Ali Trophy",
-   "first": "2026-11-07T07:38:50.498664+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T07:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy"
-   },
-   "last": "2026-11-07T08:28:47.073799+00:00"
-  },
-  "S5567": {
-   "title": "Ghini column on Ferrari's Hamilton-Leclerc problems in Brazil",
-   "first": "2026-11-07T08:23:49.053479+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-07T08:15:36+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "Ghini: \"Chi risolverà il rebus della Ferrari?\""
-   },
-   "last": "2026-11-07T08:28:47.073812+00:00"
-  },
-  "S5568": {
-   "title": "Corriere dello Sport: Leclerc-Hamilton one-hour talk, 2027 pact reported",
-   "first": "2026-11-07T08:28:47.073816+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-07T08:19:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Retroscena Ferrari: un’ora di confronto tra Leclerc e Hamilton, si va verso un patto per il 2027"
-   },
-   "last": "2026-11-07T08:28:47.073820+00:00"
   },
   "S5569": {
    "title": "Interlagos betting markets and real-time betting preview",
@@ -18678,9 +18636,35 @@
     "Motorsport.com Italia": "WEC | Robert Kubica annuncia l'addio alla Ferrari di AF Corse"
    },
    "last": "2026-11-09T08:24:19.801977+00:00"
+  },
+  "S6332": {
+   "title": "The Race podcast debates whether Red Bull problems cost Verstappen Brazil win",
+   "first": "2026-11-09T08:34:17.591118+00:00",
+   "sources": {
+    "The Race": "2026-11-09T08:28:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 podcast: Did Red Bull problems cost Verstappen a shot at win?"
+   },
+   "last": "2026-11-09T08:34:17.591134+00:00"
+  },
+  "S6333": {
+   "title": "Oscar Piastri ends partnership with manager Mark Webber",
+   "first": "2026-11-09T08:34:17.591141+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T08:25:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri splits with manager Mark Webber in shock announcement"
+   },
+   "last": "2026-11-09T08:34:17.591146+00:00"
   }
  },
- "story_seq": 6331,
+ "story_seq": 6333,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18799,7 +18783,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T08:24:16.728599+00:00",
+ "last_run": "2026-11-09T08:34:15.224318+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
@@ -20439,6 +20423,11 @@
    "t": "2026-11-09T08:04:33.642178+00:00",
    "title": "Verstappen, Hamilton'ın ilk turdaki performansını kıskandığını söyledi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T08:34:24.260210+00:00",
+   "title": "Oscar Piastri, menajeri Mark Webber ile yollarını ayırdı",
+   "source": "PlanetF1"
   }
  ]
 }
