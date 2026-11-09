@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "60f1550ce88e8c49": "2026-10-26T13:31:11.769405+00:00",
-  "2f87eee839c68902": "2026-10-26T13:31:11.769405+00:00",
-  "38c9f7446db14e50": "2026-10-26T13:31:11.769405+00:00",
-  "e73673f750c4d69c": "2026-10-26T13:31:11.769405+00:00",
-  "4db497ff79ad0565": "2026-10-26T13:31:11.769405+00:00",
-  "e9869213597ffa82": "2026-10-26T13:31:11.769405+00:00",
   "bb757e8399ddc269": "2026-10-26T13:41:09.998890+00:00",
   "43ba62e0fc40cb62": "2026-10-26T13:51:12.539866+00:00",
   "3c59ed1a68785e38": "2026-10-26T13:51:12.539866+00:00",
@@ -7782,7 +7776,11 @@
   "566f945763161ee2": "2026-11-09T13:15:05.787839+00:00",
   "486c138f7ec0b3db": "2026-11-09T13:25:02.908451+00:00",
   "b8481c93a102179f": "2026-11-09T13:25:02.908451+00:00",
-  "7393de358535e132": "2026-11-09T13:25:02.908451+00:00"
+  "7393de358535e132": "2026-11-09T13:25:02.908451+00:00",
+  "74950bdfe74fe8f1": "2026-11-09T13:35:04.705938+00:00",
+  "74c905e54e956bab": "2026-11-09T13:35:04.705938+00:00",
+  "2682f62cce8de5fe": "2026-11-09T13:35:04.705938+00:00",
+  "b0c07525f7d3708b": "2026-11-09T13:35:04.705938+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7845,23 +7843,6 @@
     "GPblog": "Ralf Schumacher delivers ruthless verdict on F1 hopeful: 'He's just burning fuel'"
    },
    "last": "2026-11-07T17:50:09.648608+00:00"
-  },
-  "S5440": {
-   "title": "Wolff reveals Vasseur paid Ocon's million from own pocket",
-   "first": "2026-11-06T21:10:22.535694+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-06T21:02:08+00:00",
-    "PlanetF1": "2026-11-07T05:46:34+00:00",
-    "Motorsport Week": "2026-11-07T13:27:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Toto Wolff verrät: Vasseur hat für Ocon eine Million aus eigener Tasche bezahlt - Motorsport-Total.com",
-    "PlanetF1": "Toto Wolff drops Esteban Ocon and Vasseur ‘$1 million’ bombshell",
-    "Motorsport Week": "Toto Wolff makes staggering Fred Vasseur claim amid Esteban Ocon exit"
-   },
-   "last": "2026-11-07T13:34:16.284053+00:00"
   },
   "S5441": {
    "title": "Rookie Camara learns stewards' decision after Leclerc FP2 incident",
@@ -8039,32 +8020,6 @@
     "ESPN F1": "Man United's JJ Gabriel amid Real Madrid move talk: 'Dream to win a Ballon d'Or'"
    },
    "last": "2026-11-07T15:39:18.005019+00:00"
-  },
-  "S5629": {
-   "title": "Gurnoor Brar on timing of bouncers in cricket",
-   "first": "2026-11-07T13:29:17.040324+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T13:27:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gurnoor Brar: 'Picking right time to bowl bouncers is important'"
-   },
-   "last": "2026-11-07T13:29:17.040342+00:00"
-  },
-  "S5630": {
-   "title": "Red Bull mechanic Schack praises Verstappen, retiring after Brazil",
-   "first": "2026-11-07T13:34:16.284027+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T13:25:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen in het zonnetje gezet: \"Als Ronaldo en Messi, maar dan in F1-auto!\""
-   },
-   "last": "2026-11-07T13:34:16.284045+00:00"
   },
   "S5631": {
    "title": "Antonelli responds to Vettel's advice as F1 record falls",
@@ -18480,9 +18435,61 @@
     "ESPN F1": "Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'"
    },
    "last": "2026-11-09T13:25:05.222133+00:00"
+  },
+  "S6388": {
+   "title": "Mohammed Shami profile piece (cricket, not F1)",
+   "first": "2026-11-09T13:35:10.088343+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T12:46:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mohammed Shami - fast, rarely furious, and a thing of beauty"
+   },
+   "last": "2026-11-09T13:35:10.088363+00:00"
+  },
+  "S6389": {
+   "title": "RacingNews365 Sao Paulo GP driver ratings",
+   "first": "2026-11-09T13:35:10.088369+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "2026 F1 Sao Paulo Grand Prix Driver Ratings: See which drivers scored a 10"
+   },
+   "last": "2026-11-09T13:35:10.088374+00:00"
+  },
+  "S6390": {
+   "title": "Red Bull team order against Hadjar in Brazil explained",
+   "first": "2026-11-09T13:35:10.088377+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T13:30:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Red-Bull-Teamorder gegen Hadjar: Warum er seinen Platz nicht zurückbekam - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T13:35:10.088382+00:00"
+  },
+  "S6391": {
+   "title": "Toto Wolff named best-sleeping driver after Brazil GP",
+   "first": "2026-11-09T13:35:10.088386+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T13:25:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Wer letzte Nacht am besten geschlafen hat: Toto Wolff - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T13:35:10.088389+00:00"
   }
  },
- "story_seq": 6387,
+ "story_seq": 6391,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18601,22 +18608,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T13:25:02.908451+00:00",
+ "last_run": "2026-11-09T13:35:04.705938+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T13:29:46.749103+00:00",
-   "title": "Sainz, Hamilton-Leclerc rekabetinin arkasındaki Ferrari baskısını anlattı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-06T13:29:47.320252+00:00",
-   "title": "McLaren, Brezilya GP için kapsamlı aerodinamik paket getirdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T13:44:51.904752+00:00",
    "title": "McLaren, Sao Paulo GP'de tek takım olarak yeni parça getiriyor",
@@ -20181,6 +20178,11 @@
    "t": "2026-11-09T13:15:14.765522+00:00",
    "title": "Hamilton, Leclerc ile yaşadığı gerginliği geride bıraktı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T13:35:14.755273+00:00",
+   "title": "Red Bull takım emri: Hadjar neden yerini geri alamadı",
+   "source": "Motorsport-Total"
   }
  ]
 }
