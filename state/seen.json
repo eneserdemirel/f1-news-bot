@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3de7cec51d9d3333": "2026-10-26T02:29:34.187053+00:00",
   "c954b16d107da859": "2026-10-26T02:34:33.058324+00:00",
   "e1689418630a0ec1": "2026-10-26T02:34:33.058324+00:00",
   "6cbcb35d68fae69f": "2026-10-26T02:49:36.464974+00:00",
@@ -7798,7 +7797,8 @@
   "631b63f61889eb7b": "2026-11-09T02:23:43.317348+00:00",
   "46c4bec9f334f100": "2026-11-09T02:23:43.317348+00:00",
   "ae3ff12c989cb94d": "2026-11-09T02:28:48.478522+00:00",
-  "1b8d334a5287cc2e": "2026-11-09T02:28:48.478522+00:00"
+  "1b8d334a5287cc2e": "2026-11-09T02:28:48.478522+00:00",
+  "dc2f3758c4dd46da": "2026-11-09T02:33:48.879433+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8222,19 +8222,6 @@
     "ESPN F1": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out"
    },
    "last": "2026-11-07T05:33:51.817779+00:00"
-  },
-  "S5503": {
-   "title": "Mitchell Robinson connects on alley-oop jam",
-   "first": "2026-11-07T02:33:18.611941+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T01:43:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mitchell Robinson connects on alley-oop jam"
-   },
-   "last": "2026-11-07T02:33:18.611960+00:00"
   },
   "S5504": {
    "title": "Alabama's Ryan Coleman-Williams among trio to return vs. LSU",
@@ -18850,9 +18837,22 @@
     "ESPN F1": "Chiefs' Patrick Mahomes brushes off injury scare during rout of Jets"
    },
    "last": "2026-11-09T02:28:50.074114+00:00"
+  },
+  "S6279": {
+   "title": "ESPN NFL Week 9 overreactions and trade deadline column",
+   "first": "2026-11-09T02:33:50.423724+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T00:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline"
+   },
+   "last": "2026-11-09T02:33:50.423741+00:00"
   }
  },
- "story_seq": 6278,
+ "story_seq": 6279,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18971,7 +18971,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T02:28:48.478522+00:00",
+ "last_run": "2026-11-09T02:33:48.879433+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
