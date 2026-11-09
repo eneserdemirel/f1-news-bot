@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c98ede54c4c2b53d": "2026-10-26T09:30:20.492918+00:00",
-  "7290193fbda8b92e": "2026-10-26T09:30:20.492918+00:00",
   "865c73fb4b23da76": "2026-10-26T09:40:39.254530+00:00",
   "4c030cb17a0162f1": "2026-10-26T09:40:39.254530+00:00",
   "c3480d01e1ac5412": "2026-10-26T09:40:39.254530+00:00",
@@ -7783,7 +7781,11 @@
   "5d3d6a5e920d46e7": "2026-11-09T09:14:16.362208+00:00",
   "e3065aeabce37612": "2026-11-09T09:24:13.299804+00:00",
   "bb5ca1b768a51f29": "2026-11-09T09:24:13.299804+00:00",
-  "b084b60e042d4a8d": "2026-11-09T09:24:13.299804+00:00"
+  "b084b60e042d4a8d": "2026-11-09T09:24:13.299804+00:00",
+  "069223e657d60cc2": "2026-11-09T09:34:14.467968+00:00",
+  "85794cb8a2a2bf0f": "2026-11-09T09:34:14.467968+00:00",
+  "df0b5c19c08128f2": "2026-11-09T09:34:14.467968+00:00",
+  "addf245de32ae729": "2026-11-09T09:34:14.467968+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8215,19 +8217,6 @@
     "Formula 1": "LIVE COVERAGE: Third practice in Sao Paulo"
    },
    "last": "2026-11-07T14:19:21.977834+00:00"
-  },
-  "S5577": {
-   "title": "Melbourne City vs. Western Sydney live score (A-League)",
-   "first": "2026-11-07T09:28:44.733575+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T09:20:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Melbourne C vs. Western Sydney (7 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-07T09:28:44.733595+00:00"
   },
   "S5578": {
    "title": "Bearman says he really misses Ocon at Haas",
@@ -16579,14 +16568,16 @@
    "title": "Leclerc says Ferrari's wet-weather struggles have persisted for nine years",
    "first": "2026-11-08T20:33:19.090682+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-08T20:20:00+00:00"
+    "FormulaPassion": "2026-11-08T20:20:00+00:00",
+    "RacingNews365": "2026-11-09T09:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Ferrari, Leclerc è quasi rassegnato: “È da 9 anni che in queste condizioni le cose vanno così”"
+    "FormulaPassion": "Ferrari, Leclerc è quasi rassegnato: “È da 9 anni che in queste condizioni le cose vanno così”",
+    "RacingNews365": "Charles Leclerc pained by 'complete disaster' Ferrari in wet weather 'coin flip'"
    },
-   "last": "2026-11-08T20:33:19.090688+00:00"
+   "last": "2026-11-09T09:34:23.225308+00:00"
   },
   "S6183": {
    "title": "Hamilton says missed Ferrari pit return was his decision",
@@ -18677,9 +18668,48 @@
     "RacingNews365 NL": "Mekies tóch weer verbluft door Verstappen: \"Iets wat alleen hij kan\""
    },
    "last": "2026-11-09T09:24:16.885648+00:00"
+  },
+  "S6341": {
+   "title": "Lamonato analysis of Verstappen's 110-second Sao Paulo charge",
+   "first": "2026-11-09T09:34:23.225271+00:00",
+   "sources": {
+    "Formula 1": "2026-11-09T09:34:23.225285+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The 110 seconds that almost won Verstappen the Sao Paulo GP"
+   },
+   "last": "2026-11-09T09:34:23.225290+00:00"
+  },
+  "S6342": {
+   "title": "ESPN names Clarke as cover for Tickner under stand-down protocols",
+   "first": "2026-11-09T09:34:23.225295+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T09:22:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Clarke added as cover with Tickner following stand-down protocols"
+   },
+   "last": "2026-11-09T09:34:23.225301+00:00"
+  },
+  "S6343": {
+   "title": "Alonso named worst-sleeping driver after Brazil GP",
+   "first": "2026-11-09T09:34:23.225312+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-09T09:27:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Wer letzte Nacht am schlechtesten geschlafen hat: Fernando Alonso - Motorsport-Total.com"
+   },
+   "last": "2026-11-09T09:34:23.225317+00:00"
   }
  },
- "story_seq": 6340,
+ "story_seq": 6343,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18798,17 +18828,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T09:24:13.299804+00:00",
+ "last_run": "2026-11-09T09:34:14.467968+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T09:29:03.187258+00:00",
-   "title": "Márquez: Antonelli'nin genç olması ona yardımcı oluyor",
-   "source": "AS"
-  },
   {
    "t": "2026-11-06T09:39:04.568009+00:00",
    "title": "George Russell, Brezilya GP'de 5 sıra cezası alıyor",
@@ -20428,6 +20453,11 @@
    "t": "2026-11-09T09:04:24.199808+00:00",
    "title": "Hamilton, Ferrari'nin şampiyonluk umutlarının bitmesinin ardından Mercedes'te garip bir deneyimle karşı karşıya",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-09T09:34:30.012360+00:00",
+   "title": "Dün gece en kötü uyuyan: Fernando Alonso",
+   "source": "Motorsport-Total"
   }
  ]
 }
