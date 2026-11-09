@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f1f31157770de3fb": "2026-10-26T23:02:40.499092+00:00",
-  "8a4dbae243d45eb0": "2026-10-26T23:02:40.499092+00:00",
-  "6f079cbc60442fe8": "2026-10-26T23:02:40.499092+00:00",
-  "a1815414c777e541": "2026-10-26T23:02:40.499092+00:00",
-  "d45d173708289aba": "2026-10-26T23:02:40.499092+00:00",
   "d6540a1eaf1853cc": "2026-10-26T23:22:41.634849+00:00",
   "af66f91d12c8938a": "2026-10-26T23:22:41.634849+00:00",
   "3df54a3fccde3f97": "2026-10-26T23:22:41.634849+00:00",
@@ -7822,7 +7817,11 @@
   "ae9accf50b139d5a": "2026-11-09T22:56:27.620159+00:00",
   "3c9babf84e05c9ea": "2026-11-09T22:56:27.620159+00:00",
   "379044ade8b81518": "2026-11-09T22:56:27.620159+00:00",
-  "8ca367c290737e0b": "2026-11-09T22:56:27.620159+00:00"
+  "8ca367c290737e0b": "2026-11-09T22:56:27.620159+00:00",
+  "ea101ec3383af62d": "2026-11-09T23:06:25.316671+00:00",
+  "f75dfb636184f95a": "2026-11-09T23:06:25.316671+00:00",
+  "8b082a7e70e9308a": "2026-11-09T23:06:25.316671+00:00",
+  "4dd8e803557642e4": "2026-11-09T23:06:25.316671+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8276,19 +8275,6 @@
    },
    "last": "2026-11-08T13:47:23.814389+00:00"
   },
-  "S5856": {
-   "title": "DJ Delmore comes up with an interception",
-   "first": "2026-11-07T23:00:45.867539+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T22:52:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "DJ Delmore comes up with an interception"
-   },
-   "last": "2026-11-07T23:00:45.867560+00:00"
-  },
   "S5857": {
    "title": "Kimi on difficult Brazil conditions; Leclerc says Hamilton issue clarified",
    "first": "2026-11-07T23:00:45.867565+00:00",
@@ -8316,19 +8302,6 @@
     "FormulaPassion": "Hamilton: “Le qualifiche sono state un test. Adoro guidare sotto la pioggia”"
    },
    "last": "2026-11-08T07:16:11.713791+00:00"
-  },
-  "S5859": {
-   "title": "PlanetF1 news roundup on Norris pole and penalties",
-   "first": "2026-11-07T23:05:38.890688+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T23:00:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Norris on Brazilian GP pole as Hamilton and Verstappen face grid penalties – roundup"
-   },
-   "last": "2026-11-07T23:05:38.890693+00:00"
   },
   "S5860": {
    "title": "Alonso disappointed despite first Q3 of the season in Brazil",
@@ -16883,14 +16856,16 @@
    "title": "Lawson sends blunt message to Red Bull over 2027 seat",
    "first": "2026-11-09T21:06:26.807998+00:00",
    "sources": {
-    "GPFans": "2026-11-09T20:57:00+00:00"
+    "GPFans": "2026-11-09T20:57:00+00:00",
+    "GPblog": "2026-11-09T23:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Liam Lawson sends blunt Red Bull message over uncertain F1 future"
+    "GPFans": "Liam Lawson sends blunt Red Bull message over uncertain F1 future",
+    "GPblog": "Lawson sends pointed message to Red Bull as 2027 decision draws closer"
    },
-   "last": "2026-11-09T21:06:26.808001+00:00"
+   "last": "2026-11-09T23:06:28.517623+00:00"
   },
   "S6494": {
    "title": "2026 Champions Classic basketball viewing schedule",
@@ -17203,9 +17178,48 @@
     "ESPN F1": "Matt LaFleur: Packers' Josh Jacobs needs surgery on finger, IR not ruled out"
    },
    "last": "2026-11-09T22:56:32.077956+00:00"
+  },
+  "S6518": {
+   "title": "Rams' Nacua likely to hit IR with MCL/PCL sprain",
+   "first": "2026-11-09T23:06:28.517565+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T22:16:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rams' Nacua likely to hit IR with MCL/PCL sprain, turf toe"
+   },
+   "last": "2026-11-09T23:06:28.517602+00:00"
+  },
+  "S6519": {
+   "title": "Tom Brady's Birmingham club top of Championship",
+   "first": "2026-11-09T23:06:28.517607+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T21:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tom Brady leaves Birmingham with club top of Championship"
+   },
+   "last": "2026-11-09T23:06:28.517611+00:00"
+  },
+  "S6520": {
+   "title": "Cricket stats: two 40-plus centurions, three 500-plus totals",
+   "first": "2026-11-09T23:06:28.517615+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T17:14:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stats - Two 40-plus centurions and three 500-plus totals"
+   },
+   "last": "2026-11-09T23:06:28.517618+00:00"
   }
  },
- "story_seq": 6517,
+ "story_seq": 6520,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17324,17 +17338,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-09T22:56:27.620159+00:00",
+ "last_run": "2026-11-09T23:06:25.316671+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T23:05:29.379217+00:00",
-   "title": "Brezilya uzun turları: Antonelli domine etti, Ferrari debaklı yaşadı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-06T23:26:03.429079+00:00",
    "title": "Brezilya GP Cuma antrenmanı: kazananlar ve kaybedenler",
