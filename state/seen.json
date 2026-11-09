@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9a4446104dc92f12": "2026-10-26T15:42:04.887484+00:00",
-  "65354ec762395a66": "2026-10-26T15:42:04.887484+00:00",
-  "d710cad1a20aaa38": "2026-10-26T15:42:04.887484+00:00",
-  "365d89d372b7c0a7": "2026-10-26T15:42:04.887484+00:00",
   "14779559b502216f": "2026-10-26T16:02:05.200444+00:00",
   "c9e0e87c2a5f2bc6": "2026-10-26T16:02:05.200444+00:00",
   "ec2aef201287d709": "2026-10-26T16:02:05.200444+00:00",
@@ -7809,7 +7805,9 @@
   "ff279d6768bb579b": "2026-11-09T15:25:39.416696+00:00",
   "8558b1e4b362c1bd": "2026-11-09T15:25:39.416696+00:00",
   "d1064a52df0633c7": "2026-11-09T15:35:38.960934+00:00",
-  "f2220d48391aa31c": "2026-11-09T15:35:38.960934+00:00"
+  "f2220d48391aa31c": "2026-11-09T15:35:38.960934+00:00",
+  "ccabaefc20cb5883": "2026-11-09T15:45:40.878787+00:00",
+  "6a73706f0808c72c": "2026-11-09T15:45:40.878787+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7964,19 +7962,6 @@
    },
    "last": "2026-11-07T17:00:12.381298+00:00"
   },
-  "S5622": {
-   "title": "Man United's JJ Gabriel linked with Real Madrid move",
-   "first": "2026-11-07T12:44:13.739513+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T12:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United's JJ Gabriel amid Real Madrid move talk: 'Dream to win a Ballon d'Or'"
-   },
-   "last": "2026-11-07T15:39:18.005019+00:00"
-  },
   "S5634": {
    "title": "Verstappen to start Brazilian GP from back of grid",
    "first": "2026-11-07T13:54:16.522968+00:00",
@@ -8121,32 +8106,6 @@
    },
    "last": "2026-11-07T17:00:12.381292+00:00"
   },
-  "S5668": {
-   "title": "Alex Eala outlasts Sakkari in Hong Kong Open semifinal",
-   "first": "2026-11-07T15:39:18.004985+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T12:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alex Eala outlasts Maria Sakkari in rain-soaked Hong Kong Open semifinals, faces Claire Liu in final"
-   },
-   "last": "2026-11-07T15:39:18.005009+00:00"
-  },
-  "S5669": {
-   "title": "Verstappen upbeat about qualifying after FP3 in Brazil",
-   "first": "2026-11-07T15:39:18.005040+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T15:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen geeft hoopvol signaal af richting kwalificatie Brazilië"
-   },
-   "last": "2026-11-07T15:39:18.005045+00:00"
-  },
   "S5670": {
    "title": "Perez faces investigation over object thrown from cockpit in FP3",
    "first": "2026-11-07T15:44:25.340831+00:00",
@@ -8165,19 +8124,6 @@
     "GPFans": "FIA confirms penalty verdict for F1 driver throwing part of his car away on track"
    },
    "last": "2026-11-08T10:46:43.156685+00:00"
-  },
-  "S5671": {
-   "title": "Analysis: why Verstappen can't take pole despite FP3 lead",
-   "first": "2026-11-07T15:44:25.340847+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-07T15:38:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Verstappen-Bestzeit in Brasilien: Warum er trotzdem keine Pole holen kann - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T15:44:25.340852+00:00"
   },
   "S5672": {
    "title": "2026-27 Premier League standings",
@@ -18423,9 +18369,35 @@
     "RacingNews365": "Red Bull reveal plan to impose team orders on Max Verstappen"
    },
    "last": "2026-11-09T15:35:42.652116+00:00"
+  },
+  "S6423": {
+   "title": "William Saliba returns from injury with Arsenal Under-21 outing",
+   "first": "2026-11-09T15:45:44.358832+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T11:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "William Saliba injury comeback ramps up with Arsenal Under-21 outing"
+   },
+   "last": "2026-11-09T15:45:44.358850+00:00"
+  },
+  "S6424": {
+   "title": "Domenicali congratulates Mercedes and praises Wolff's relentless drive",
+   "first": "2026-11-09T15:45:44.358856+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T15:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "F1-baas lauwert Toto Wolff met superlatieven: “Meedogenloze zoektocht”"
+   },
+   "last": "2026-11-09T15:45:44.358862+00:00"
   }
  },
- "story_seq": 6422,
+ "story_seq": 6424,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18544,7 +18516,7 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T15:35:38.960934+00:00",
+ "last_run": "2026-11-09T15:45:40.878787+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
@@ -20144,6 +20116,11 @@
    "t": "2026-11-09T15:25:46.126263+00:00",
    "title": "Horner'ın Red Bull'dan kovulmasına dair yeni ayrıntılar",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-09T15:45:50.918937+00:00",
+   "title": "Domenicali, Mercedes'in 2026 konstrüktörler şampiyonluğunu ve Toto Wolff'u kutladı",
+   "source": "RacingNews365 NL"
   }
  ]
 }
