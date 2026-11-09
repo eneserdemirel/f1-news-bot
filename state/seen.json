@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "629d9fcde96c5136": "2026-10-26T09:20:15.529702+00:00",
-  "88d402b39065c833": "2026-10-26T09:20:15.529702+00:00",
   "c98ede54c4c2b53d": "2026-10-26T09:30:20.492918+00:00",
   "7290193fbda8b92e": "2026-10-26T09:30:20.492918+00:00",
   "865c73fb4b23da76": "2026-10-26T09:40:39.254530+00:00",
@@ -7782,7 +7780,10 @@
   "63ae927bb74588ec": "2026-11-09T09:04:13.978956+00:00",
   "aa03543894cd2f5a": "2026-11-09T09:04:13.978956+00:00",
   "940aee5a2329ca23": "2026-11-09T09:04:13.978956+00:00",
-  "5d3d6a5e920d46e7": "2026-11-09T09:14:16.362208+00:00"
+  "5d3d6a5e920d46e7": "2026-11-09T09:14:16.362208+00:00",
+  "e3065aeabce37612": "2026-11-09T09:24:13.299804+00:00",
+  "bb5ca1b768a51f29": "2026-11-09T09:24:13.299804+00:00",
+  "b084b60e042d4a8d": "2026-11-09T09:24:13.299804+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8185,32 +8186,6 @@
     "Motorsport.com Italia": "F1 | McLaren: la nuova ala anteriore cambia la filosofia della MCL40. Nel 2027 allungherà il passo"
    },
    "last": "2026-11-07T10:59:22.634252+00:00"
-  },
-  "S5573": {
-   "title": "Lehmann denies Khawaja's claim (cricket, not F1)",
-   "first": "2026-11-07T08:48:49.859901+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T08:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'Don't think everyone would have known' - Lehmann denies Khawaja's claim"
-   },
-   "last": "2026-11-07T09:18:47.167276+00:00"
-  },
-  "S5575": {
-   "title": "Ricciardo reportedly linked with Formula E seat for 2027",
-   "first": "2026-11-07T09:18:47.167284+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T09:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ricciardo gepolst voor comeback in 2027"
-   },
-   "last": "2026-11-07T09:18:47.167289+00:00"
   },
   "S5576": {
    "title": "Brazil GP FP3 live coverage ahead of qualifying",
@@ -18676,9 +18651,35 @@
     "Auto Motor und Sport": "Formel 1: Brasilien-Analyse: Warum war McLaren so gut und Ferrari so schlecht?"
    },
    "last": "2026-11-09T09:14:19.686254+00:00"
+  },
+  "S6339": {
+   "title": "Warner backs Khawaja over sandpapergate revelations (cricket)",
+   "first": "2026-11-09T09:24:16.885603+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T08:21:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'100% accurate' - Warner throws his support behind Khawaja on sandpapergate revelations"
+   },
+   "last": "2026-11-09T09:24:16.885636+00:00"
+  },
+  "S6340": {
+   "title": "Mekies says Verstappen does something only he can after Brazil",
+   "first": "2026-11-09T09:24:16.885642+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-09T09:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Mekies tóch weer verbluft door Verstappen: \"Iets wat alleen hij kan\""
+   },
+   "last": "2026-11-09T09:24:16.885648+00:00"
   }
  },
- "story_seq": 6338,
+ "story_seq": 6340,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18797,22 +18798,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T09:14:16.362208+00:00",
+ "last_run": "2026-11-09T09:24:13.299804+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T09:19:07.675467+00:00",
-   "title": "Ferrari kriz zirvesi Meksika'da neden yapılmadı?",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-11-06T09:19:08.051200+00:00",
-   "title": "Racing Bulls, Alan Permane ile 2031'e kadar uzatılan sözleşme imzaladı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-06T09:29:03.187258+00:00",
    "title": "Márquez: Antonelli'nin genç olması ona yardımcı oluyor",
