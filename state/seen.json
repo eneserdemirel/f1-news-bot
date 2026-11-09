@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f9c44eef2aca8631": "2026-10-26T09:50:19.296601+00:00",
-  "32d6e70bdd2eb836": "2026-10-26T09:50:19.296601+00:00",
-  "906539eb2e532f2b": "2026-10-26T09:50:19.296601+00:00",
   "bda36cee6570f3ba": "2026-10-26T10:00:22.375761+00:00",
   "2313d014b980e2d9": "2026-10-26T10:00:22.375761+00:00",
   "6e3011cfcd898537": "2026-10-26T10:00:22.375761+00:00",
@@ -7787,7 +7784,9 @@
   "2a972724494d2fd8": "2026-11-09T09:44:16.972974+00:00",
   "58ba9489ae2ee63a": "2026-11-09T09:44:16.972974+00:00",
   "c94570bd8a51ecf2": "2026-11-09T09:44:16.972974+00:00",
-  "936f24835c6cef79": "2026-11-09T09:45:03.724066+00:00"
+  "936f24835c6cef79": "2026-11-09T09:45:03.724066+00:00",
+  "9c8b196cfc0f5f12": "2026-11-09T09:55:02.578366+00:00",
+  "09617d1eef21a366": "2026-11-09T09:55:02.578366+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7809,23 +7808,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S5184": {
-   "title": "Russell says most Mercedes breakdowns this year hit his car",
-   "first": "2026-11-06T07:18:18.800674+00:00",
-   "sources": {
-    "AS": "2026-11-06T07:06:34+00:00",
-    "GPblog": "2026-11-06T16:59:00+00:00",
-    "Motorsport-Total": "2026-11-07T09:44:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "El gran derrotado de Mercedes: “He tenido problemas en 14 carreras”",
-    "GPblog": "Russell discloses shocking Mercedes statistic as frustrations boil over",
-    "Motorsport-Total": "George Russell: In 14 Rennen hatte ich Probleme, nur sechs Rennen liefen glatt - Motorsport-Total.com"
-   },
-   "last": "2026-11-07T09:48:53.002761+00:00"
-  },
   "S5311": {
    "title": "Haas's Komatsu speaks on Ocon's dismissal for first time",
    "first": "2026-11-06T15:09:46.777325+00:00",
@@ -8204,45 +8186,6 @@
     "Formula 1": "LIVE COVERAGE: Third practice in Sao Paulo"
    },
    "last": "2026-11-07T14:19:21.977834+00:00"
-  },
-  "S5579": {
-   "title": "Brundle theorises Hamilton's Ferrari number one status",
-   "first": "2026-11-07T09:48:53.002738+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T09:42:10+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton Ferrari ‘number one’ theory put forward by Brundle"
-   },
-   "last": "2026-11-07T09:48:53.002754+00:00"
-  },
-  "S5580": {
-   "title": "Melbourne City vs Western Sydney team stats (A-League)",
-   "first": "2026-11-07T09:53:48.996401+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T09:23:12+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Melbourne C vs. Western Sydney (7 Nov, 2026) Team Stats"
-   },
-   "last": "2026-11-07T09:53:48.996414+00:00"
-  },
-  "S5581": {
-   "title": "San Diego Wave coach Eidevall positive after NWSL playoff exit",
-   "first": "2026-11-07T09:53:48.996418+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T09:13:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "San Diego Wave coach Jonas Eidevall staying positive despite NWSL playoffs exit"
-   },
-   "last": "2026-11-07T09:53:48.996421+00:00"
   },
   "S5582": {
    "title": "Rio Ngumoha linked with Bayern Munich transfer (football)",
@@ -18735,9 +18678,35 @@
     "FormulaPassion": "Non solo Hamilton: anche Leclerc non è rientrato ai box al richiamo del muretto Ferrari"
    },
    "last": "2026-11-09T09:45:06.538353+00:00"
+  },
+  "S6348": {
+   "title": "Vasseur explains Ferrari's tyre window struggles in Brazil",
+   "first": "2026-11-09T09:55:05.879407+00:00",
+   "sources": {
+    "Formula 1": "2026-11-09T09:55:05.879424+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Vasseur explains Ferrari’s tyre struggles in Brazil"
+   },
+   "last": "2026-11-09T09:55:05.879428+00:00"
+  },
+  "S6349": {
+   "title": "Wolff says Antonelli would have been dropped by other teams",
+   "first": "2026-11-09T09:55:05.879434+00:00",
+   "sources": {
+    "GPblog": "2026-11-09T09:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff claims Kimi Antonelli would have been dropped elsewhere in thinly veiled dig at Red Bull"
+   },
+   "last": "2026-11-09T09:55:05.879440+00:00"
   }
  },
- "story_seq": 6347,
+ "story_seq": 6349,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18856,17 +18825,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T09:45:03.724066+00:00",
+ "last_run": "2026-11-09T09:55:02.578366+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-08 22:00",
  "last_digest_at": "2026-11-08T19:03:34.464654+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T09:54:02.509618+00:00",
-   "title": "F1'in gelirleri, iptal edilen 2026 yarışlarının ardından istikrar kazandı",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-06T09:59:03.291922+00:00",
    "title": "Kimi Antonelli: WM şampiyonluğu, T-shirt sayesinde gerçek oldu",
