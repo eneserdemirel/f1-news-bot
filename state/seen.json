@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "455345ec7859387b": "2026-10-26T17:12:04.977697+00:00",
-  "5d0a73ea68ba7088": "2026-10-26T17:12:04.977697+00:00",
-  "c9b0c78da709ae9e": "2026-10-26T17:12:04.977697+00:00",
   "d60db1eb2f6a9662": "2026-10-26T17:22:04.003739+00:00",
   "08cfbd330f03f977": "2026-10-26T17:22:04.003739+00:00",
   "1d22f2adabb27121": "2026-10-26T17:22:04.003739+00:00",
@@ -7804,7 +7801,11 @@
   "951447294ffd26e6": "2026-11-09T17:05:40.491816+00:00",
   "4e9b30502ade6c04": "2026-11-09T17:05:40.491816+00:00",
   "1961b6111fe0167d": "2026-11-09T17:05:40.491816+00:00",
-  "1894a2e89cffab12": "2026-11-09T17:05:40.491816+00:00"
+  "1894a2e89cffab12": "2026-11-09T17:05:40.491816+00:00",
+  "1be8d1d5d8c596b4": "2026-11-09T17:15:38.348624+00:00",
+  "5f38b29a4dd6c426": "2026-11-09T17:15:38.348624+00:00",
+  "23fb7e2b6e8bfb2f": "2026-11-09T17:15:38.348624+00:00",
+  "dcbdbc46b38f8ca8": "2026-11-09T17:15:38.348624+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8058,19 +8059,6 @@
     "PlanetF1": "FIA confirms 30-place Sergio Perez penalty for Brazilian Grand Prix"
    },
    "last": "2026-11-07T19:05:05.207632+00:00"
-  },
-  "S5719": {
-   "title": "Marquez reveals airbag triggered by Bezzecchi crash",
-   "first": "2026-11-07T17:15:03.459935+00:00",
-   "sources": {
-    "GPblog": "2026-11-07T17:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Marquez reveals airbag triggered by controversial Bezzecchi crash"
-   },
-   "last": "2026-11-07T17:15:03.459939+00:00"
   },
   "S5720": {
    "title": "Galatasaray vs Amed SFK team stats (football)",
@@ -16393,14 +16381,16 @@
    "title": "Verstappen admires Hamilton's Brazil start",
    "first": "2026-11-09T08:04:23.122081+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-09T08:00:00+00:00"
+    "RacingNews365 NL": "2026-11-09T08:00:00+00:00",
+    "FormulaPassion": "2026-11-09T17:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Max Verstappen jaloers op Lewis Hamilton: \"Hem lukte dat wél!\""
+    "RacingNews365 NL": "Max Verstappen jaloers op Lewis Hamilton: \"Hem lukte dat wél!\"",
+    "FormulaPassion": "Verstappen applaude Hamilton: “Gran primo giro, sono deluso di non essere scattato come lui”"
    },
-   "last": "2026-11-09T08:04:23.122086+00:00"
+   "last": "2026-11-09T17:15:42.482788+00:00"
   },
   "S6328": {
    "title": "Official Brazil GP results changed after several post-race penalties",
@@ -18018,9 +18008,35 @@
     "GPblog": "Marc Marquez MotoGP title scenarios: How he can clinch in Portugal"
    },
    "last": "2026-11-09T17:05:44.490576+00:00"
+  },
+  "S6449": {
+   "title": "McLaren reacts to Norris champagne and pyrotechnics mishap",
+   "first": "2026-11-09T17:15:42.482750+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-09T17:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren react to Lando Norris champagne and 'pyrotechnics' issues"
+   },
+   "last": "2026-11-09T17:15:42.482770+00:00"
+  },
+  "S6450": {
+   "title": "Rafael Camara reflects on his tough F1 debut weekend",
+   "first": "2026-11-09T17:15:42.482776+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-09T17:11:44+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Rafael Camara issues verdict after tough F1 debut"
+   },
+   "last": "2026-11-09T17:15:42.482782+00:00"
   }
  },
- "story_seq": 6448,
+ "story_seq": 6450,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -18139,17 +18155,12 @@
   ]
  ],
  "calendar_updated": "2026-11-08T22:53:00.998857+00:00",
- "last_run": "2026-11-09T17:05:40.491816+00:00",
+ "last_run": "2026-11-09T17:15:38.348624+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 15:00",
  "last_digest_at": "2026-11-09T12:05:15.013238+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-06T17:09:47.803054+00:00",
-   "title": "Camara, Bearman'dan öğrenmek istiyor; Brezilya'da sürpriz F1 debutu",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-06T17:19:48.527288+00:00",
    "title": "Perez, Cadillac'ın 2027 takım arkadaşı için kriteri açıkladı",
@@ -19759,6 +19770,16 @@
    "t": "2026-11-09T17:05:51.188253+00:00",
    "title": "Verstappen, Red Bull'un önündeki asıl hedefi hatırlattı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-09T17:15:50.562787+00:00",
+   "title": "McLaren, Lando Norris'in podyum kazasını açıkladı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-09T17:15:51.117552+00:00",
+   "title": "Rafael Camara zorlu F1 debutosunu değerlendirdi",
+   "source": "PlanetF1"
   }
  ]
 }
