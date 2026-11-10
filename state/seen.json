@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "72c44c3d5be304cd": "2026-10-27T06:23:19.007453+00:00",
-  "58fc9d90781d9b40": "2026-10-27T06:23:19.007453+00:00",
   "105a8207860ef60e": "2026-10-27T06:33:22.461262+00:00",
   "5b266adcb520c6b6": "2026-10-27T06:53:20.281773+00:00",
   "8385167532d7748f": "2026-10-27T07:03:19.299632+00:00",
@@ -7815,7 +7813,11 @@
   "1147fd54964ac02a": "2026-11-10T05:46:59.497935+00:00",
   "2359e97387fc848b": "2026-11-10T06:06:54.821494+00:00",
   "3509f45458d9a70b": "2026-11-10T06:06:54.821494+00:00",
-  "96010125dc7728d6": "2026-11-10T06:16:55.180166+00:00"
+  "96010125dc7728d6": "2026-11-10T06:16:55.180166+00:00",
+  "2df1b11921dc6d9f": "2026-11-10T06:26:54.989234+00:00",
+  "7a1a91d432edac92": "2026-11-10T06:26:54.989234+00:00",
+  "aac937d6fa766d60": "2026-11-10T06:26:54.989234+00:00",
+  "c4cf8da1bfa309df": "2026-11-10T06:26:54.989234+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8242,32 +8244,6 @@
     "ESPN F1": "Mario Cristobal blasts refs' call denying Miami tying TD in loss to Notre Dame"
    },
    "last": "2026-11-08T08:16:45.985863+00:00"
-  },
-  "S5962": {
-   "title": "Hamilton piece on wet weather and uncertainty at Interlagos",
-   "first": "2026-11-08T06:21:09.508343+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T06:01:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hamilton ODI: more wet weather, more uncertainty around the pitch"
-   },
-   "last": "2026-11-08T06:21:09.508361+00:00"
-  },
-  "S5963": {
-   "title": "ESPN streaming service landing page",
-   "first": "2026-11-08T06:21:09.508367+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T01:50:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Watch ESPN - Stream Live Sports & ESPN Originals"
-   },
-   "last": "2026-11-08T06:21:09.508373+00:00"
   },
   "S5964": {
    "title": "Venables praises Witten after Oklahoma play-caller debut",
@@ -13237,15 +13213,17 @@
    "first": "2026-11-09T08:04:23.122081+00:00",
    "sources": {
     "RacingNews365 NL": "2026-11-09T08:00:00+00:00",
-    "FormulaPassion": "2026-11-09T17:00:00+00:00"
+    "FormulaPassion": "2026-11-09T17:00:00+00:00",
+    "RacingNews365": "2026-11-10T06:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Max Verstappen jaloers op Lewis Hamilton: \"Hem lukte dat wél!\"",
-    "FormulaPassion": "Verstappen applaude Hamilton: “Gran primo giro, sono deluso di non essere scattato come lui”"
+    "FormulaPassion": "Verstappen applaude Hamilton: “Gran primo giro, sono deluso di non essere scattato come lui”",
+    "RacingNews365": "Max Verstappen bitterness after failing to match early Lewis Hamilton heroics"
    },
-   "last": "2026-11-09T17:15:42.482788+00:00"
+   "last": "2026-11-10T06:27:01.621317+00:00"
   },
   "S6328": {
    "title": "Official Brazil GP results changed after several post-race penalties",
@@ -16435,9 +16413,48 @@
     "ESPN F1": "Flyers 3-1 Canucks (10 Nov, 2026) Game Recap"
    },
    "last": "2026-11-10T06:16:57.348836+00:00"
+  },
+  "S6569": {
+   "title": "Luka Doncic 32 points, 10 assists in Lakers win",
+   "first": "2026-11-10T06:27:01.621291+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T05:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic returns, has 32 points, 10 assists in Lakers' sixth straight win"
+   },
+   "last": "2026-11-10T06:27:01.621309+00:00"
+  },
+  "S6570": {
+   "title": "Verstappen says he would never run two number ones",
+   "first": "2026-11-10T06:27:01.621321+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Verstappen: “Se fossi un team principal non avrei mai due prime guide come piloti”"
+   },
+   "last": "2026-11-10T06:27:01.621326+00:00"
+  },
+  "S6571": {
+   "title": "Reasons behind Piastri's split from Mark Webber revealed",
+   "first": "2026-11-10T06:27:01.621329+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-10T06:22:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Warum sich Oscar Piastri wirklich von Mark Webber getrennt hat - Motorsport-Total.com"
+   },
+   "last": "2026-11-10T06:27:01.621333+00:00"
   }
  },
- "story_seq": 6568,
+ "story_seq": 6571,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16556,17 +16573,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T06:16:55.180166+00:00",
+ "last_run": "2026-11-10T06:26:54.989234+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T06:23:56.665439+00:00",
-   "title": "Vasseur: Hamilton ve Leclerc'in yönetimi zor ama yeni sayfa açıldı",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-07T06:43:50.856686+00:00",
    "title": "Verstappen, Red Bull veteranı Ole Schack'in veda yarışına damga vurabilir",
@@ -18036,6 +18048,11 @@
    "t": "2026-11-10T06:07:04.205614+00:00",
    "title": "Hamilton'dan Brezilya GP'de Alonso dövüşü hakkında tek kelime",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-10T06:27:08.213666+00:00",
+   "title": "Verstappen: Team principal olsam asla iki birinci pilot seçmezdim",
+   "source": "FormulaPassion"
   }
  ]
 }
