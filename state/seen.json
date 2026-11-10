@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1e02e13ed42aea0f": "2026-10-27T21:05:27.815483+00:00",
-  "b4dc099996d5ba79": "2026-10-27T21:05:27.815483+00:00",
-  "1f06b7f22f2248cf": "2026-10-27T21:05:27.815483+00:00",
-  "229817fdfd7ca215": "2026-10-27T21:05:27.815483+00:00",
   "8a5ae01f9cc171ed": "2026-10-27T21:15:28.949852+00:00",
   "028b77a7bb8faca9": "2026-10-27T21:25:34.761726+00:00",
   "7306e020c5b0b73f": "2026-10-27T21:25:34.761726+00:00",
@@ -7831,7 +7827,8 @@
   "f9da554314891943": "2026-11-10T20:49:13.581734+00:00",
   "255b048db512ba27": "2026-11-10T20:49:13.581734+00:00",
   "805fe328f5099be9": "2026-11-10T20:59:13.565662+00:00",
-  "8088c9058bb66f8f": "2026-11-10T20:59:13.565662+00:00"
+  "8088c9058bb66f8f": "2026-11-10T20:59:13.565662+00:00",
+  "9282baf9064d9885": "2026-11-10T21:09:18.140513+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7853,71 +7850,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S5812": {
-   "title": "Hamilton reveals details of meeting with Leclerc",
-   "first": "2026-11-07T21:35:40.488284+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-07T21:30:00+00:00",
-    "PlanetF1": "2026-11-07T21:40:14+00:00",
-    "Crash.net": "2026-11-07T21:32:05+00:00",
-    "Autosport": "2026-11-07T21:48:47+00:00",
-    "Sky Sports F1": "2026-11-07T22:10:00+00:00",
-    "Motorsport.com Italia": "2026-11-07T22:25:30+00:00",
-    "Motorsport-Total": "2026-11-07T23:03:17+00:00",
-    "FormulaPassion": "2026-11-08T06:00:00+00:00",
-    "GPFans": "2026-11-08T11:27:00+00:00",
-    "Motorsport Week": "2026-11-08T11:31:04+00:00",
-    "GPblog": "2026-11-08T11:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton reveals details of Charles Leclerc meeting after Ferrari tension",
-    "PlanetF1": "Lewis Hamilton reveals Leclerc crunch talks as Ferrari outcome emerges",
-    "Crash.net": "Lewis Hamilton insists Charles Leclerc relationship “just fine” after post-Mexico talks",
-    "Autosport": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
-    "Sky Sports F1": "'We squashed it' - Hamilton reveals details of talks with Leclerc after fall out",
-    "Motorsport.com Italia": "F1 | Hamilton conciliante: \"Abbiamo voltato pagina. E ora divertiamoci perché adoro Interlagos con l'acqua\"",
-    "Motorsport-Total": "Frieden bei Ferrari? Hamilton und Leclerc reden über Aussprache in Brasilien - Motorsport-Total.com",
-    "FormulaPassion": "Hamilton: “Nessuna richiesta da parte mia o di Leclerc. Abbiamo appianato le cose”",
-    "GPFans": "Lewis Hamilton and Charles Leclerc held crisis talks - but 'Fred hasn't cleared the air'",
-    "Motorsport Week": "Lewis Hamilton issues crucial update in Charles Leclerc Mexico spat",
-    "GPblog": "Hamilton provides update on Leclerc feud without Vasseur: 'No demands from either side'"
-   },
-   "last": "2026-11-08T21:03:21.135580+00:00"
-  },
-  "S6105": {
-   "title": "Inter Milan vs Como match team stats",
-   "first": "2026-11-08T17:12:28.610844+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T17:08:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Inter Milan vs. Como (Nov 8, 2026) Team Stats"
-   },
-   "last": "2026-11-08T21:08:18.947320+00:00"
-  },
-  "S6114": {
-   "title": "Russell spins during Sao Paulo GP pit-stop, nearly blocking pit lane",
-   "first": "2026-11-08T17:42:30.395671+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T17:37:00+00:00",
-    "GPFans": "2026-11-08T17:48:00+00:00",
-    "FormulaPassion": "2026-11-08T17:41:40+00:00",
-    "PlanetF1": "2026-11-08T20:58:06+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell spin nearly blocks pit-lane after crucial Sao Paulo pit-stop",
-    "GPFans": "Mercedes stars in trouble at Brazilian Grand Prix as George Russell spins in pit lane",
-    "FormulaPassion": "Russell, che pasticcio: va in testacoda uscendo dalla corsia dei box",
-    "PlanetF1": "George Russell ‘paid the price’ for bizarre pit lane spin during Brazilian GP"
-   },
-   "last": "2026-11-08T21:03:21.135573+00:00"
-  },
   "S6119": {
    "title": "NFL Week 9 takeaways and fantasy spin",
    "first": "2026-11-08T18:02:35.672422+00:00",
@@ -8092,25 +8024,6 @@
    },
    "last": "2026-11-09T17:05:44.490581+00:00"
   },
-  "S6152": {
-   "title": "Wolff reacts to Mercedes nine-time constructors' title",
-   "first": "2026-11-08T19:33:17.912329+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T19:26:00+00:00",
-    "Crash.net": "2026-11-08T19:38:00+00:00",
-    "RacingNews365 NL": "2026-11-08T19:55:00+00:00",
-    "AS": "2026-11-08T20:56:20+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Toto Wolff responds to matching F1 icon feat: 'Never thought it possible'",
-    "Crash.net": "Toto Wolff's first words as Mercedes seal constructors’ F1 title",
-    "RacingNews365 NL": "Wolff staat stil bij bijzondere prestatie Mercedes: \"Nooit voor mogelijk gehouden\"",
-    "AS": "Wolff alcanza a las leyendas"
-   },
-   "last": "2026-11-08T21:08:18.947331+00:00"
-  },
   "S6155": {
    "title": "Man Utd 4-4 Aston Villa final score",
    "first": "2026-11-08T19:38:18.876839+00:00",
@@ -8194,19 +8107,6 @@
     "Crash.net": "Ferrari reveals reason for Lewis Hamilton Brazil GP struggles after stunning start"
    },
    "last": "2026-11-09T12:05:09.976539+00:00"
-  },
-  "S6174": {
-   "title": "Thunder acquire Nique Clifford from Kings in trade",
-   "first": "2026-11-08T20:08:14.239349+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T18:47:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Thunder get Nique Clifford in trade with Kings, sources say"
-   },
-   "last": "2026-11-08T21:08:18.947291+00:00"
   },
   "S6179": {
    "title": "Verstappen radio: 'what a disaster to drive this car' after P2",
@@ -8371,32 +8271,6 @@
     "RacingNews365": "Kimi Antonelli voices anger after 'no warning' race-deciding F1 spin"
    },
    "last": "2026-11-09T16:45:50.266197+00:00"
-  },
-  "S6200": {
-   "title": "Luka Doncic sits out vs Pistons with back tightness",
-   "first": "2026-11-08T21:08:18.947300+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T18:34:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luka Doncic to sit out vs. Pistons due to lower back tightness"
-   },
-   "last": "2026-11-08T21:08:18.947306+00:00"
-  },
-  "S6201": {
-   "title": "Inter Milan 2-0 Como player stats",
-   "first": "2026-11-08T21:08:18.947310+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T17:22:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Inter Milan 2-0 Como (Nov 8, 2026) Player Stats"
-   },
-   "last": "2026-11-08T21:08:18.947314+00:00"
   },
   "S6202": {
    "title": "Russell concedes high-risk stakes behind Sao Paulo pit-lane spin",
@@ -14299,7 +14173,7 @@
    "titles": {
     "RacingNews365": "Max Verstappen calls for Red Bull investigation: 'There is something wrong'"
    },
-   "last": "2026-11-10T13:28:26.681125+00:00"
+   "last": "2026-11-10T21:09:20.896479+00:00"
   },
   "S6641": {
    "title": "Kasper Schormans wins Spanish F4 title",
@@ -15880,7 +15754,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T20:59:13.565662+00:00",
+ "last_run": "2026-11-10T21:09:18.140513+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
