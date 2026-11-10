@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e85ccb2c75645c2a": "2026-10-27T14:04:48.594539+00:00",
   "994e5e8174f851bf": "2026-10-27T14:14:49.178028+00:00",
   "5fb1a9e27ee0e25f": "2026-10-27T14:14:49.178028+00:00",
   "eab49c0497638042": "2026-10-27T14:14:49.178028+00:00",
@@ -7840,7 +7839,9 @@
   "7bf8988835eb68b0": "2026-11-10T13:48:21.993598+00:00",
   "79505101d52ba9e4": "2026-11-10T13:48:21.993598+00:00",
   "200dcdb643657110": "2026-11-10T13:48:21.993598+00:00",
-  "0999f67db38521fd": "2026-11-10T13:58:21.735979+00:00"
+  "0999f67db38521fd": "2026-11-10T13:58:21.735979+00:00",
+  "60488270bb533327": "2026-11-10T14:08:22.307938+00:00",
+  "10b2bc9efd6c4b68": "2026-11-10T14:08:22.307938+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8038,21 +8039,6 @@
    },
    "last": "2026-11-08T17:12:28.610880+00:00"
   },
-  "S6036": {
-   "title": "Leclerc responds to Hamilton's accusations, refuses to escalate",
-   "first": "2026-11-08T12:16:44.025193+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-08T12:14:58+00:00",
-    "GPblog": "2026-11-08T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Charles Leclerc responds to race teammates harder accusation levelled by Hamilton",
-    "GPblog": "Leclerc put on the spot over Hamilton claim: 'There's been way too many comments'"
-   },
-   "last": "2026-11-08T14:02:29.578408+00:00"
-  },
   "S6043": {
    "title": "Verstappen dismisses Herbert's criticism over Lawson intimidation claim",
    "first": "2026-11-08T12:46:42.233807+00:00",
@@ -8101,32 +8087,6 @@
     "Crash.net": "George Russell warns F1 over risks of “horrific incident” at Brazil GP"
    },
    "last": "2026-11-08T15:37:28.629300+00:00"
-  },
-  "S6060": {
-   "title": "Lamar Jackson reportedly plans to return to Ravens this season",
-   "first": "2026-11-08T14:02:29.578382+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Lamar Jackson told Ravens teammates he plans to return this season"
-   },
-   "last": "2026-11-08T14:02:29.578399+00:00"
-  },
-  "S6061": {
-   "title": "WEC Monza 4 Hours race update, Cadillac leads",
-   "first": "2026-11-08T14:07:28.166331+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-08T14:02:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "WEC | Monza, 4a Ora: Cadillac tenta una nuova fuga, BMW risale"
-   },
-   "last": "2026-11-08T14:07:28.166348+00:00"
   },
   "S6062": {
    "title": "Sao Paulo GP may end up dry despite earlier rain fears",
@@ -13445,15 +13405,17 @@
    "first": "2026-11-09T17:15:42.482776+00:00",
    "sources": {
     "PlanetF1": "2026-11-09T17:11:44+00:00",
-    "Motorsport-Total": "2026-11-10T09:16:04+00:00"
+    "Motorsport-Total": "2026-11-10T09:16:04+00:00",
+    "Formula 1": "2026-11-10T14:08:25.341957+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Rafael Camara issues verdict after tough F1 debut",
-    "Motorsport-Total": "Zwei Unfälle und Letzter: Warum das Camara-Debüt trotzdem \"positiv\" war - Motorsport-Total.com"
+    "Motorsport-Total": "Zwei Unfälle und Letzter: Warum das Camara-Debüt trotzdem \"positiv\" war - Motorsport-Total.com",
+    "Formula 1": "Camara experiences every condition in ‘tricky’ Haas debut"
    },
-   "last": "2026-11-10T09:27:42.574280+00:00"
+   "last": "2026-11-10T14:08:25.341973+00:00"
   },
   "S6451": {
    "title": "Mercedes title celebration photo gallery from Sao Paulo",
@@ -16058,9 +16020,22 @@
     "Crash.net": "Esteban Ocon releases fresh statement amid uncertainty over F1 future"
    },
    "last": "2026-11-10T13:48:27.900585+00:00"
+  },
+  "S6647": {
+   "title": "Ferrari pit-wall miscommunication during Hamilton's Brazil pitstop",
+   "first": "2026-11-10T14:08:25.341981+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-10T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Ferrari slaat plank opnieuw mis met miscommunicatie Hamilton"
+   },
+   "last": "2026-11-10T14:08:25.341988+00:00"
   }
  },
- "story_seq": 6646,
+ "story_seq": 6647,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16179,17 +16154,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T13:58:21.735979+00:00",
+ "last_run": "2026-11-10T14:08:22.307938+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T13:59:24.023569+00:00",
-   "title": "Verstappen, São Paulo GP'de büyük grid cezasıyla geriden başlayacak",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-07T14:19:30.631537+00:00",
    "title": "Verstappen, Brezilya GP'de grid cezasına tepki verdi",
