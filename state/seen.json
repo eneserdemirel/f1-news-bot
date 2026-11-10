@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8385167532d7748f": "2026-10-27T07:03:19.299632+00:00",
-  "906ea0c35ca867f3": "2026-10-27T07:03:19.299632+00:00",
   "fb6a110d88342bfc": "2026-10-27T07:13:58.253160+00:00",
   "9ab8b4806e2cb973": "2026-10-27T07:24:00.212798+00:00",
   "a259e8f0699a4931": "2026-10-27T07:24:00.212798+00:00",
@@ -7820,7 +7818,10 @@
   "27df13c456d5abcc": "2026-11-10T06:37:38.976648+00:00",
   "8ac978835191f0c9": "2026-11-10T06:37:38.976648+00:00",
   "7418b0d7abe222de": "2026-11-10T06:37:38.976648+00:00",
-  "5980389d677cd7c0": "2026-11-10T06:47:38.608647+00:00"
+  "5980389d677cd7c0": "2026-11-10T06:47:38.608647+00:00",
+  "e2705a55c011d628": "2026-11-10T07:07:38.810254+00:00",
+  "715bf596f7349eec": "2026-11-10T07:07:38.810254+00:00",
+  "a1c817796271b33c": "2026-11-10T07:07:38.810254+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14332,15 +14333,17 @@
    "first": "2026-11-09T15:05:47.634601+00:00",
    "sources": {
     "RacingNews365 NL": "2026-11-09T15:00:00+00:00",
-    "RacingNews365": "2026-11-09T15:55:00+00:00"
+    "RacingNews365": "2026-11-09T15:55:00+00:00",
+    "PlanetF1": "2026-11-10T07:02:02+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Russell loopt weg uit persconferentie: \"Ik dacht 'George, chill...'\"",
-    "RacingNews365": "George Russell walked out of FIA press conference: 'I thought, you need to chill'"
+    "RacingNews365": "George Russell walked out of FIA press conference: 'I thought, you need to chill'",
+    "PlanetF1": "‘Chill’ – George Russell accused of FIA press conference ‘walk out’"
    },
-   "last": "2026-11-09T15:55:44.729616+00:00"
+   "last": "2026-11-10T07:07:41.827925+00:00"
   },
   "S6414": {
    "title": "Unheard Hamilton Brazil radio shows Ferrari communication gaps",
@@ -16431,9 +16434,35 @@
     "ESPN F1": "Sharks 3-2 Islanders (Nov 9, 2026) Game Recap"
    },
    "last": "2026-11-10T06:37:43.404411+00:00"
+  },
+  "S6574": {
+   "title": "USWNT players Yohannes and Girma in Women's Champions League feature",
+   "first": "2026-11-10T07:07:41.827889+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T06:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USWNT's Yohannes and Girma bring Habesha vibes to UEFA Women's Champions League"
+   },
+   "last": "2026-11-10T07:07:41.827907+00:00"
+  },
+  "S6575": {
+   "title": "Red Bull's unique streak and stats after 2026 turnaround",
+   "first": "2026-11-10T07:07:41.827913+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-10T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen en Red Bull bezig met unieke reeks na knappe ommekeer"
+   },
+   "last": "2026-11-10T07:07:41.827919+00:00"
   }
  },
- "story_seq": 6573,
+ "story_seq": 6575,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16552,7 +16581,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T06:57:38.380717+00:00",
+ "last_run": "2026-11-10T07:07:38.810254+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
@@ -18027,6 +18056,11 @@
    "t": "2026-11-10T06:27:08.213666+00:00",
    "title": "Verstappen: Team principal olsam asla iki birinci pilot seçmezdim",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T07:07:47.003134+00:00",
+   "title": "Verstappen ve Red Bull, Baku güncellemesinden sonra dikkat çeken bir yükseliş yaşıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
