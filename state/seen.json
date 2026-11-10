@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "98b879e83e9bc5b4": "2026-10-27T10:14:00.826352+00:00",
-  "849aa3f201d19e39": "2026-10-27T10:14:00.826352+00:00",
   "0c21a6d7c6e34f21": "2026-10-27T10:23:59.543929+00:00",
   "a4a01168fb659bd8": "2026-10-27T10:23:59.543929+00:00",
   "bed39275e90cff2f": "2026-10-27T10:33:59.217276+00:00",
@@ -7839,7 +7837,9 @@
   "455e63997c38b79b": "2026-11-10T09:57:40.164856+00:00",
   "11639bc8fb9b1827": "2026-11-10T09:57:40.164856+00:00",
   "14f0454e8b5f5679": "2026-11-10T09:57:40.164856+00:00",
-  "3d02d516e662f29f": "2026-11-10T10:07:39.211251+00:00"
+  "3d02d516e662f29f": "2026-11-10T10:07:39.211251+00:00",
+  "0719912248b1f69f": "2026-11-10T10:17:38.033238+00:00",
+  "6c9786527d3600e0": "2026-11-10T10:17:38.033238+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16265,9 +16265,22 @@
     "FormulaPassion": "Ferrari, Vasseur: “I progressi fatti creano un buon clima in vista della pausa invernale”"
    },
    "last": "2026-11-10T09:57:43.953583+00:00"
+  },
+  "S6611": {
+   "title": "Red Bull rejects claim about Verstappen's Brazil grid penalty",
+   "first": "2026-11-10T10:17:40.623205+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T10:15:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Red Bull rejects notion over Max Verstappen Brazilian GP grid penalty"
+   },
+   "last": "2026-11-10T10:17:40.623221+00:00"
   }
  },
- "story_seq": 6610,
+ "story_seq": 6611,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16386,17 +16399,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T10:07:39.211251+00:00",
+ "last_run": "2026-11-10T10:17:38.033238+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T10:13:54.259562+00:00",
-   "title": "Antonelli, şampiyonluk partisinin ardından yaşadığı hangover'ı anlattı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-07T10:34:23.224104+00:00",
    "title": "Hadjar, Red Bull'un çalışması gereken noktaları ele aldı",
@@ -17866,6 +17874,11 @@
    "t": "2026-11-10T09:57:47.725884+00:00",
    "title": "Vasseur: Kış molası öncesi ilerleme olumlu bir hava yaratıyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T10:17:45.554518+00:00",
+   "title": "Red Bull, Verstappen'in Brezilya'daki ceza sonrası geri dönüşünü değerlendirdi",
+   "source": "PlanetF1"
   }
  ]
 }
