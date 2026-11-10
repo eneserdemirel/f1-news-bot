@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c502724f89faac56": "2026-10-27T09:23:59.291862+00:00",
-  "93f4a1037ffd9780": "2026-10-27T09:23:59.291862+00:00",
-  "d21bf64ab46c6740": "2026-10-27T09:23:59.291862+00:00",
-  "c7d2b59cdaf5cb12": "2026-10-27T09:23:59.291862+00:00",
   "d597c3ab52eaafaf": "2026-10-27T09:33:58.917713+00:00",
   "d69a56d1f6052514": "2026-10-27T09:33:58.917713+00:00",
   "fa1b697664c6d66f": "2026-10-27T09:33:58.917713+00:00",
@@ -7843,7 +7839,9 @@
   "e5bd6135f82744aa": "2026-11-10T09:07:38.556163+00:00",
   "bd9fb2327fa63914": "2026-11-10T09:07:38.556163+00:00",
   "76487107897815bf": "2026-11-10T09:07:38.556163+00:00",
-  "d1bc27adaf0de312": "2026-11-10T09:07:38.556163+00:00"
+  "d1bc27adaf0de312": "2026-11-10T09:07:38.556163+00:00",
+  "4bbc52bcd979d2a7": "2026-11-10T09:27:39.276374+00:00",
+  "7b4bcc2cdb2e9247": "2026-11-10T09:27:39.276374+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8153,21 +8151,6 @@
    },
    "last": "2026-11-08T10:01:47.175707+00:00"
   },
-  "S5956": {
-   "title": "Verstappen doubts repeat of Brazil comeback from back of grid",
-   "first": "2026-11-08T05:36:09.994124+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T05:30:00+00:00",
-    "RacingNews365 NL": "2026-11-08T09:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen raises doubt over historic Brazil F1 win repeat",
-    "RacingNews365 NL": "Verstappen trapt op de rem: \"Dat wordt een stuk lastiger\""
-   },
-   "last": "2026-11-08T09:21:42.731891+00:00"
-  },
   "S5965": {
    "title": "Wolff says Antonelli 'wouldn't have lasted' at Mercedes",
    "first": "2026-11-08T06:41:08.925705+00:00",
@@ -8199,32 +8182,6 @@
     "Crash.net": "Ted Kravitz insists Racing Bulls ‘can’t sack’ Liam Lawson amid 2027 uncertainty"
    },
    "last": "2026-11-08T15:27:28.640938+00:00"
-  },
-  "S6000": {
-   "title": "Betting safety tips for F1 fans at Brazil GP",
-   "first": "2026-11-08T09:26:41.842747+00:00",
-   "sources": {
-    "Formula 1": "2026-11-08T09:26:41.842763+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "How F1 fans can avoid emotional betting in Brazil"
-   },
-   "last": "2026-11-08T09:26:41.842766+00:00"
-  },
-  "S6001": {
-   "title": "Motorsport-Total page with no readable content",
-   "first": "2026-11-08T09:26:41.842787+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T08:32:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "- Motorsport-Total.com"
-   },
-   "last": "2026-11-08T09:26:41.842792+00:00"
   },
   "S6002": {
    "title": "Stella says Russell had pole pace, Norris seized the chance",
@@ -14348,14 +14305,16 @@
    "title": "Rafael Camara reflects on his tough F1 debut weekend",
    "first": "2026-11-09T17:15:42.482776+00:00",
    "sources": {
-    "PlanetF1": "2026-11-09T17:11:44+00:00"
+    "PlanetF1": "2026-11-09T17:11:44+00:00",
+    "Motorsport-Total": "2026-11-10T09:16:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Rafael Camara issues verdict after tough F1 debut"
+    "PlanetF1": "Rafael Camara issues verdict after tough F1 debut",
+    "Motorsport-Total": "Zwei Unfälle und Letzter: Warum das Camara-Debüt trotzdem \"positiv\" war - Motorsport-Total.com"
    },
-   "last": "2026-11-09T17:15:42.482782+00:00"
+   "last": "2026-11-10T09:27:42.574280+00:00"
   },
   "S6451": {
    "title": "Mercedes title celebration photo gallery from Sao Paulo",
@@ -16340,9 +16299,22 @@
     "Auto Motor und Sport": "Formel 1: Punktabzug für Brasilien-Sieger Lando Norris"
    },
    "last": "2026-11-10T09:07:43.433240+00:00"
+  },
+  "S6603": {
+   "title": "Terruzzi says Vasseur seems detached from Ferrari",
+   "first": "2026-11-10T09:27:42.574253+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T09:08:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Terruzzi: “Vasseur sembra un osservatore esterno, pare non importargli granché”"
+   },
+   "last": "2026-11-10T09:27:42.574271+00:00"
   }
  },
- "story_seq": 6602,
+ "story_seq": 6603,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16461,17 +16433,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T09:17:39.223915+00:00",
+ "last_run": "2026-11-10T09:27:39.276374+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T09:18:56.992848+00:00",
-   "title": "F1 Brezilya GP 2026: FP3 seansı bugün 15.30'da başlıyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-07T09:43:54.842915+00:00",
    "title": "Bearman, Haas'ta Ocon'un yokluğunu 'gerçekten özlediğini' söyledi",
@@ -17926,6 +17893,11 @@
    "t": "2026-11-10T09:07:50.693515+00:00",
    "title": "Formula 1: Brezilya galibi Lando Norris'e puan cezası",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-10T09:27:46.911885+00:00",
+   "title": "Terruzzi: Vasseur dışarıdan bir gözlemci gibi, umursamıyor gibi",
+   "source": "FormulaPassion"
   }
  ]
 }
