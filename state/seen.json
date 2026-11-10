@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "22bf77ca8a90d576": "2026-10-27T18:55:28.504278+00:00",
-  "c1065a425e3ca96b": "2026-10-27T18:55:28.504278+00:00",
-  "efd19d04e8715251": "2026-10-27T18:55:28.504278+00:00",
   "8cf1b306778ec497": "2026-10-27T19:05:28.391374+00:00",
   "c739e213cb0ee3a3": "2026-10-27T19:05:28.391374+00:00",
   "76d552ae5e04712f": "2026-10-27T19:05:28.391374+00:00",
@@ -7834,7 +7831,9 @@
   "0f6139634d87de87": "2026-11-10T18:49:18.129424+00:00",
   "dd3bff127203fe6d": "2026-11-10T18:49:18.129424+00:00",
   "522fd81be1a134df": "2026-11-10T18:49:18.129424+00:00",
-  "f06ac7f84d4805a9": "2026-11-10T18:49:18.129424+00:00"
+  "f06ac7f84d4805a9": "2026-11-10T18:49:18.129424+00:00",
+  "2c2220e5afad6ec0": "2026-11-10T18:59:12.733172+00:00",
+  "35341edcfcd04ef3": "2026-11-10T18:59:12.733172+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8054,19 +8053,6 @@
    },
    "last": "2026-11-08T22:53:17.961209+00:00"
   },
-  "S6134": {
-   "title": "Man United fans 'Owners out' banner walkout falls through",
-   "first": "2026-11-08T18:53:16.697608+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T17:49:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United fans unveil 'Owners out' banner but 21st-minute walkout falls through"
-   },
-   "last": "2026-11-08T18:53:16.697626+00:00"
-  },
   "S6135": {
    "title": "FIA investigates Antonelli unsafe release involving Colapinto",
    "first": "2026-11-08T18:53:16.697647+00:00",
@@ -8090,19 +8076,6 @@
    },
    "last": "2026-11-08T22:28:13.944422+00:00"
   },
-  "S6136": {
-   "title": "Thunder acquire Nique Clifford from Kings in trade",
-   "first": "2026-11-08T18:58:17.389783+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T18:52:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Thunder get Nique Clifford in trade with Kings, sources say"
-   },
-   "last": "2026-11-08T18:58:17.389787+00:00"
-  },
   "S6137": {
    "title": "Updated 2026 F1 championship standings after Sao Paulo GP",
    "first": "2026-11-08T18:58:17.389799+00:00",
@@ -8123,19 +8096,6 @@
     "GPFans": "F1 standings after Brazilian Grand Prix: Hamilton loses ground on Verstappen as Mercedes crowned champions"
    },
    "last": "2026-11-08T19:58:16.103583+00:00"
-  },
-  "S6138": {
-   "title": "Verstappen says Red Bull was uncontrollable behind the scenes",
-   "first": "2026-11-08T18:58:17.389805+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-08T18:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen verrast door 'onbestuurbare' Red Bull"
-   },
-   "last": "2026-11-08T18:58:17.389809+00:00"
   },
   "S6139": {
    "title": "Verstappen describes 'completely opposite' feeling after Sao Paulo comeback",
@@ -15991,9 +15951,35 @@
     "GPFans": "Honda set for ANOTHER Aston Martin investigation as Fernando Alonso makes stunning admission"
    },
    "last": "2026-11-10T18:49:22.479829+00:00"
+  },
+  "S6720": {
+   "title": "Samson named Keralam captain for Syed Mushtaq Ali Trophy",
+   "first": "2026-11-10T18:59:14.382660+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T18:07:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Samson named Keralam captain for Syed Mushtaq Ali Trophy"
+   },
+   "last": "2026-11-10T18:59:14.382679+00:00"
+  },
+  "S6721": {
+   "title": "Rutgers retains coach Greg Schiano in program's best interests",
+   "first": "2026-11-10T18:59:14.382686+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T16:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rutgers retains coach Greg Schiano in 'best long-term interests' of program"
+   },
+   "last": "2026-11-10T18:59:14.382692+00:00"
   }
  },
- "story_seq": 6719,
+ "story_seq": 6721,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16112,7 +16098,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T18:49:18.129424+00:00",
+ "last_run": "2026-11-10T18:59:12.733172+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
