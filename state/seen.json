@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "994e5e8174f851bf": "2026-10-27T14:14:49.178028+00:00",
-  "5fb1a9e27ee0e25f": "2026-10-27T14:14:49.178028+00:00",
-  "eab49c0497638042": "2026-10-27T14:14:49.178028+00:00",
-  "e216df9d8529e225": "2026-10-27T14:14:49.178028+00:00",
   "42b897bb2c188a47": "2026-10-27T14:24:51.697962+00:00",
   "8827a6a3dc190f2e": "2026-10-27T14:24:51.697962+00:00",
   "b6b31a4f9040ceec": "2026-10-27T14:24:51.697962+00:00",
@@ -7841,7 +7837,9 @@
   "200dcdb643657110": "2026-11-10T13:48:21.993598+00:00",
   "0999f67db38521fd": "2026-11-10T13:58:21.735979+00:00",
   "60488270bb533327": "2026-11-10T14:08:22.307938+00:00",
-  "10b2bc9efd6c4b68": "2026-11-10T14:08:22.307938+00:00"
+  "10b2bc9efd6c4b68": "2026-11-10T14:08:22.307938+00:00",
+  "7bfd0fc0966020f6": "2026-11-10T14:18:21.870170+00:00",
+  "97785c39110d8839": "2026-11-10T14:18:21.870170+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8087,19 +8085,6 @@
     "Crash.net": "George Russell warns F1 over risks of “horrific incident” at Brazil GP"
    },
    "last": "2026-11-08T15:37:28.629300+00:00"
-  },
-  "S6062": {
-   "title": "Sao Paulo GP may end up dry despite earlier rain fears",
-   "first": "2026-11-08T14:12:27.226759+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T14:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "F1 drivers face major Sao Paulo GP headache after weather surprise"
-   },
-   "last": "2026-11-08T14:12:27.226776+00:00"
   },
   "S6063": {
    "title": "Hamilton explains his plan to find a way to win in Brazil",
@@ -15582,14 +15567,16 @@
    "title": "Alonso credits 'phenomenal' Aston Martin car after Brazil drive",
    "first": "2026-11-10T10:57:46.058132+00:00",
    "sources": {
-    "Formula 1": "2026-11-10T10:57:46.058147+00:00"
+    "Formula 1": "2026-11-10T10:57:46.058147+00:00",
+    "RacingNews365": "2026-11-10T14:10:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Alonso credits ‘phenomenal’ car after strong drive in Brazil"
+    "Formula 1": "Alonso credits ‘phenomenal’ car after strong drive in Brazil",
+    "RacingNews365": "Fernando Alonso pinpoints 'phenomenal' Aston Martin strength after rare F1 duels"
    },
-   "last": "2026-11-10T10:57:46.058151+00:00"
+   "last": "2026-11-10T14:18:23.887574+00:00"
   },
   "S6617": {
    "title": "Mourinho comments on Ancelotti and Endrick minutes",
@@ -16033,9 +16020,22 @@
     "RacingNews365 NL": "Ferrari slaat plank opnieuw mis met miscommunicatie Hamilton"
    },
    "last": "2026-11-10T14:08:25.341988+00:00"
+  },
+  "S6648": {
+   "title": "Hamilton and engineer Santi's surreal team radio exchange at Interlagos",
+   "first": "2026-11-10T14:18:23.887584+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "“Dove sono?”, “Ti faccio sapere”: il surreale team radio tra Hamilton e Santi a Interlagos"
+   },
+   "last": "2026-11-10T14:18:23.887591+00:00"
   }
  },
- "story_seq": 6647,
+ "story_seq": 6648,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16154,7 +16154,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T14:08:22.307938+00:00",
+ "last_run": "2026-11-10T14:18:21.870170+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
