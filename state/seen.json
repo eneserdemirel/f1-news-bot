@@ -1,16 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9ab8b4806e2cb973": "2026-10-27T07:24:00.212798+00:00",
-  "a259e8f0699a4931": "2026-10-27T07:24:00.212798+00:00",
-  "2e8b6a85ab87ecad": "2026-10-27T07:24:00.212798+00:00",
-  "e7efd9cc63963df6": "2026-10-27T07:24:00.212798+00:00",
-  "0703e634a2688b7e": "2026-10-27T07:24:00.212798+00:00",
-  "44cd36166b37ee33": "2026-10-27T07:24:00.212798+00:00",
-  "e08c83f2d925b25c": "2026-10-27T07:24:00.212798+00:00",
-  "5205f95ad885f125": "2026-10-27T07:24:00.212798+00:00",
-  "127871e9f6930d4b": "2026-10-27T07:24:00.212798+00:00",
-  "1b328b9d37adf5c6": "2026-10-27T07:24:00.212798+00:00",
   "68e903ae34d98883": "2026-10-27T07:33:57.893358+00:00",
   "a95b812bfaab0989": "2026-10-27T07:33:57.893358+00:00",
   "f68e4c96e37d0878": "2026-10-27T07:33:57.893358+00:00",
@@ -7822,7 +7812,11 @@
   "715bf596f7349eec": "2026-11-10T07:07:38.810254+00:00",
   "a1c817796271b33c": "2026-11-10T07:07:38.810254+00:00",
   "9f45f08650fb7d0b": "2026-11-10T07:17:39.978122+00:00",
-  "e3a7b98cf1b85194": "2026-11-10T07:17:39.978122+00:00"
+  "e3a7b98cf1b85194": "2026-11-10T07:17:39.978122+00:00",
+  "e4fb78bc39d1136f": "2026-11-10T07:27:38.863086+00:00",
+  "cd6afa0e892f421a": "2026-11-10T07:27:38.863086+00:00",
+  "e71d8ed7b42fbcc7": "2026-11-10T07:27:38.863086+00:00",
+  "fff3c70b0f3f331e": "2026-11-10T07:27:38.863086+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8250,32 +8244,6 @@
    },
    "last": "2026-11-08T10:06:38.293623+00:00"
   },
-  "S5974": {
-   "title": "Spurs 125-103 Trail Blazers NBA game recap",
-   "first": "2026-11-08T07:21:08.653998+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T05:59:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Spurs 125-103 Trail Blazers (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T07:21:08.654017+00:00"
-  },
-  "S5975": {
-   "title": "UFC Fight Night Adesanya vs Magomedov live coverage",
-   "first": "2026-11-08T07:21:08.654023+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T04:02:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UFC Fight Night: Adesanya vs Magomedov Live Fight Coverage"
-   },
-   "last": "2026-11-08T07:21:08.654028+00:00"
-  },
   "S5976": {
    "title": "Shuri Sakuma wins Japan Classic for first LPGA title",
    "first": "2026-11-08T07:26:09.847613+00:00",
@@ -8288,19 +8256,6 @@
     "ESPN F1": "Shuri Sakuma cruises to 4-shot Japan Classic victory for first LPGA Tour title"
    },
    "last": "2026-11-08T08:16:45.985831+00:00"
-  },
-  "S5977": {
-   "title": "Knicks 109-97 Cavaliers game recap",
-   "first": "2026-11-08T07:26:09.847637+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T03:42:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Knicks 109-97 Cavaliers (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T07:26:09.847642+00:00"
   },
   "S5978": {
    "title": "Explainer on why Verstappen starts ahead of Hamilton despite penalties",
@@ -8316,32 +8271,6 @@
     "RacingNews365": "Why Lewis Hamilton starts ahead of Max Verstappen despite bigger penalty explained"
    },
    "last": "2026-11-08T09:16:42.397011+00:00"
-  },
-  "S5979": {
-   "title": "Analysis of how Alonso reached Q3 in the rain",
-   "first": "2026-11-08T07:26:09.847655+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-08T07:24:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "How Fernando Alonso dragged the Aston Martin into Q3 in the rain at Interlagos"
-   },
-   "last": "2026-11-08T07:26:09.847659+00:00"
-  },
-  "S5980": {
-   "title": "Hülkenberg's 2010 Brazil P4 start recalled",
-   "first": "2026-11-08T07:26:09.847663+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T07:20:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Erinnerungen an 2010: Nico Hülkenberg in Brasilien auf P4 der Startaufstellung - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T07:26:09.847666+00:00"
   },
   "S5981": {
    "title": "Warriors 126-119 Magic NBA game recap",
@@ -16407,9 +16336,61 @@
     "GPFans": "Ted Kravitz raises alarm over absent Red Bull figure: 'This isn't usual'"
    },
    "last": "2026-11-10T07:17:42.727310+00:00"
+  },
+  "S6578": {
+   "title": "Warriors blow out Pelicans by 51 points for eighth straight win",
+   "first": "2026-11-10T07:27:43.999981+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T05:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Warriors blow out Pelicans by 51 points for 8th straight win"
+   },
+   "last": "2026-11-10T07:27:43.999999+00:00"
+  },
+  "S6579": {
+   "title": "Anthony Davis scores 44 points against Pistons",
+   "first": "2026-11-10T07:27:44.000005+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T03:16:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Anthony Davis drops 44 points vs. Pistons"
+   },
+   "last": "2026-11-10T07:27:44.000010+00:00"
+  },
+  "S6580": {
+   "title": "Ferrari explains pace fluctuations during Brazilian GP",
+   "first": "2026-11-10T07:27:44.000015+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T07:25:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari reveals reason for drastic pace fluctuations during Brazilian GP"
+   },
+   "last": "2026-11-10T07:27:44.000020+00:00"
+  },
+  "S6581": {
+   "title": "FormulaPassion feature on Mercedes W17 car strengths",
+   "first": "2026-11-10T07:27:44.000023+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Una grande macchina per un grande Kimi: la Mercedes W17"
+   },
+   "last": "2026-11-10T07:27:44.000027+00:00"
   }
  },
- "story_seq": 6577,
+ "story_seq": 6581,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16528,17 +16509,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T07:17:39.978122+00:00",
+ "last_run": "2026-11-10T07:27:38.863086+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T07:19:01.690528+00:00",
-   "title": "Wolff: Orta Doğu'ya gitmek istemeyen gitmesin",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-07T07:28:55.141443+00:00",
    "title": "Aston Martin, Interlagos'ta Honda'nın güç eksikliğinden zorlanıyor",
@@ -17998,6 +17974,11 @@
    "t": "2026-11-10T07:17:49.067425+00:00",
    "title": "Kravitz, Red Bull'da görülmeyen isim için alarm verdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-10T07:27:52.177786+00:00",
+   "title": "Mercedes W17, Antonelli'nin şampiyonluğunda büyük rol oynadı",
+   "source": "FormulaPassion"
   }
  ]
 }
