@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "dcffe857dc47c08c": "2026-10-27T12:54:48.557395+00:00",
   "ac032312b6b2e881": "2026-10-27T13:04:48.904488+00:00",
   "4c63806a0dccad08": "2026-10-27T13:04:48.904488+00:00",
   "6245f12be455c6ea": "2026-10-27T13:04:48.904488+00:00",
@@ -7847,7 +7846,9 @@
   "fe4ffdf83451cac9": "2026-11-10T12:48:21.577641+00:00",
   "ffd73e1ad4bf43fa": "2026-11-10T12:48:21.577641+00:00",
   "41338354abfd6d1f": "2026-11-10T12:48:21.577641+00:00",
-  "4d13cd5e2b1e361d": "2026-11-10T12:48:21.577641+00:00"
+  "4d13cd5e2b1e361d": "2026-11-10T12:48:21.577641+00:00",
+  "e32c744ecc443828": "2026-11-10T12:58:22.548017+00:00",
+  "f5b15cd46b0822db": "2026-11-10T12:58:22.548017+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8112,32 +8113,6 @@
     "RacingNews365 NL": "Verstappen wuift kritiek weg: \"Boeit me helemaal niks!\""
    },
    "last": "2026-11-08T14:42:23.612164+00:00"
-  },
-  "S6044": {
-   "title": "Russell responds to Hamilton's 'built differently' comment",
-   "first": "2026-11-08T12:57:25.868717+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-08T12:55:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton ‘built different’ comment under Russell microscope"
-   },
-   "last": "2026-11-08T12:57:25.868734+00:00"
-  },
-  "S6045": {
-   "title": "Official storm warning issued for Sao Paulo GP race day",
-   "first": "2026-11-08T12:57:25.868740+00:00",
-   "sources": {
-    "GPFans": "2026-11-08T12:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 Brazilian GP under storm threat as official weather warning forecasts brutal conditions"
-   },
-   "last": "2026-11-08T12:57:25.868746+00:00"
   },
   "S6046": {
    "title": "Russell defends Mercedes engineer after qualifying 'wrong decision' frustration",
@@ -16160,9 +16135,22 @@
     "GPblog": "Ocon shares emotional message after being let go by Haas"
    },
    "last": "2026-11-10T12:48:26.994039+00:00"
+  },
+  "S6638": {
+   "title": "Verstappen claims he would quit over F1 best-driver debate",
+   "first": "2026-11-10T12:58:24.533204+00:00",
+   "sources": {
+    "Crash.net": "2026-11-10T12:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Max Verstappen makes bold ‘I’d quit’ claim over F1's best driver debate"
+   },
+   "last": "2026-11-10T12:58:24.533220+00:00"
   }
  },
- "story_seq": 6637,
+ "story_seq": 6638,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16281,22 +16269,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T12:48:21.577641+00:00",
+ "last_run": "2026-11-10T12:58:22.548017+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T12:54:21.985135+00:00",
-   "title": "Watson: Todt bağlantılı grup Leclerc'i koruyor, Hamilton statü savaşında",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-07T12:54:22.378566+00:00",
-   "title": "Hamilton, Brezilya GP'de motor değişimi nedeniyle grid cezası alacak",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-07T12:59:23.149634+00:00",
    "title": "Brezilya GP öncesi São Paulo'da resmi fırtına uyarısı yapıldı",
@@ -17806,6 +17784,11 @@
    "t": "2026-11-10T12:48:31.518308+00:00",
    "title": "Ocon, Haas'tan ayrılmasının ardından duygusal bir mesaj paylaştı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-10T12:58:28.501830+00:00",
+   "title": "Verstappen: \"Kendimi hâlâ en iyi pilot olarak görüyorum, yoksa bırakırdım\"",
+   "source": "Crash.net"
   }
  ]
 }
