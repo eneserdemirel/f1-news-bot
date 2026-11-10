@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f1077de3c9ce72f1": "2026-10-27T13:14:50.125019+00:00",
-  "413228b621380c6d": "2026-10-27T13:14:50.125019+00:00",
-  "5fe3cf785b82bb45": "2026-10-27T13:14:50.125019+00:00",
   "c07cceb14a016abb": "2026-10-27T13:24:49.352403+00:00",
   "8fb5cad446cf7d67": "2026-10-27T13:34:50.767002+00:00",
   "0d6bc42987e52c4a": "2026-10-27T13:44:49.759281+00:00",
@@ -7845,7 +7842,8 @@
   "e32c744ecc443828": "2026-11-10T12:58:22.548017+00:00",
   "f5b15cd46b0822db": "2026-11-10T12:58:22.548017+00:00",
   "2827aeb5fa9c8ccb": "2026-11-10T13:08:21.089348+00:00",
-  "8379a1f5a345bec8": "2026-11-10T13:08:21.089348+00:00"
+  "8379a1f5a345bec8": "2026-11-10T13:08:21.089348+00:00",
+  "5a0f7978656f1f7b": "2026-11-10T13:18:21.542847+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8110,32 +8108,6 @@
     "RacingNews365 NL": "Verstappen wuift kritiek weg: \"Boeit me helemaal niks!\""
    },
    "last": "2026-11-08T14:42:23.612164+00:00"
-  },
-  "S6047": {
-   "title": "Column questions F1 safety versus money amid Iran tensions",
-   "first": "2026-11-08T13:17:24.805119+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T13:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Safety comes first - except when millions are at stake?"
-   },
-   "last": "2026-11-08T13:17:24.805137+00:00"
-  },
-  "S6048": {
-   "title": "Pirelli says no gap between full wet and intermediate tyres",
-   "first": "2026-11-08T13:17:24.805142+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T13:11:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Pirelli zufrieden: \"Keine Lücke\" zwischen Full-Wet-Regenreifen und Intermediate - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T13:17:24.805148+00:00"
   },
   "S6049": {
    "title": "Rahm wins Abu Dhabi golf event ahead of McIlroy and Hatton",
@@ -16136,9 +16108,22 @@
     "Crash.net": "Max Verstappen makes bold ‘I’d quit’ claim over F1's best driver debate"
    },
    "last": "2026-11-10T12:58:24.533220+00:00"
+  },
+  "S6639": {
+   "title": "Gasly frustrated at missing points again after Brazil 14th",
+   "first": "2026-11-10T13:18:23.651250+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Gasly: “È deludente mancare ancora una volta la zona punti”"
+   },
+   "last": "2026-11-10T13:18:23.651269+00:00"
   }
  },
- "story_seq": 6638,
+ "story_seq": 6639,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16257,7 +16242,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T13:08:21.089348+00:00",
+ "last_run": "2026-11-10T13:18:21.542847+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
@@ -17772,6 +17757,11 @@
    "t": "2026-11-10T12:58:28.501830+00:00",
    "title": "Verstappen: \"Kendimi hâlâ en iyi pilot olarak görüyorum, yoksa bırakırdım\"",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-10T13:18:27.390907+00:00",
+   "title": "Gasly: \"Bir kez daha puan bölgesini kaçırmak hayal kırıklığı\"",
+   "source": "FormulaPassion"
   }
  ]
 }
