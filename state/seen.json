@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "56ffdf1063562b6b": "2026-10-27T08:43:59.889515+00:00",
-  "edcbb2207feb5519": "2026-10-27T08:43:59.889515+00:00",
   "fb26bfe683dd1647": "2026-10-27T08:53:59.059013+00:00",
   "d4e10c524323c15a": "2026-10-27T08:53:59.059013+00:00",
   "f803c834c8430a1b": "2026-10-27T08:53:59.059013+00:00",
@@ -7845,7 +7843,10 @@
   "d8576379006657b8": "2026-11-10T08:17:38.771628+00:00",
   "1c9c60dc9132b7b2": "2026-11-10T08:17:38.771628+00:00",
   "6335bbfa128ad652": "2026-11-10T08:27:37.636423+00:00",
-  "1fe8f3f29f2ce0c3": "2026-11-10T08:37:38.198714+00:00"
+  "1fe8f3f29f2ce0c3": "2026-11-10T08:37:38.198714+00:00",
+  "6c537a39e95744e5": "2026-11-10T08:47:38.870609+00:00",
+  "97d8be776744e025": "2026-11-10T08:47:38.870609+00:00",
+  "24fe3b03d4b8e54c": "2026-11-10T08:47:38.870609+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7885,25 +7886,6 @@
     "GPFans": "FIA confirms penalty verdict for F1 driver throwing part of his car away on track"
    },
    "last": "2026-11-08T10:46:43.156685+00:00"
-  },
-  "S5727": {
-   "title": "Roundup of every FIA grid penalty for Brazilian GP",
-   "first": "2026-11-07T17:40:07.130409+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-07T17:34:41+00:00",
-    "GPFans": "2026-11-07T17:45:00+00:00",
-    "AS": "2026-11-07T21:57:29+00:00",
-    "RacingNews365": "2026-11-08T00:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "2026 Brazilian Grand Prix: Every grid penalty handed out by FIA stewards",
-    "GPFans": "FIA confirm HUGE Lewis Hamilton penalty at F1 Brazilian Grand Prix",
-    "AS": "Tercera seguida de Norris y doble sanción para Hamilton",
-    "RacingNews365": "Hamilton and Verstappen hit with massive penalties as rain chaos shakes up grid"
-   },
-   "last": "2026-11-08T08:46:45.428741+00:00"
   },
   "S5783": {
    "title": "Russell reacts angrily to Norris pole in Brazil qualifying",
@@ -8218,21 +8200,6 @@
     "RacingNews365": "Why Lewis Hamilton starts ahead of Max Verstappen despite bigger penalty explained"
    },
    "last": "2026-11-08T09:16:42.397011+00:00"
-  },
-  "S5994": {
-   "title": "Sunday weather update for Sao Paulo GP as rain threat remains",
-   "first": "2026-11-08T08:31:38.477297+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T08:30:00+00:00",
-    "RacingNews365 NL": "2026-11-08T08:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Sunday morning Brazil F1 weather update as rain threat remains",
-    "RacingNews365 NL": "Weerupdate F1 GP Brazilië: Krijgt Verstappen hulp van regengoden?"
-   },
-   "last": "2026-11-08T08:46:45.428728+00:00"
   },
   "S5995": {
    "title": "Permane dodges Kravitz question on Lawson's future after qualifying",
@@ -16363,9 +16330,35 @@
     "ESPN F1": "Premier League overreactions: Brighton vs. Arsenal for title? Man United's resilience will save them?"
    },
    "last": "2026-11-10T08:37:39.719230+00:00"
+  },
+  "S6597": {
+   "title": "Norris warns McLaren is not getting ahead of itself after Brazil win",
+   "first": "2026-11-10T08:47:42.633452+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T08:37:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lando Norris airs McLaren warning despite commanding Brazil win"
+   },
+   "last": "2026-11-10T08:47:42.633472+00:00"
+  },
+  "S6598": {
+   "title": "Hamilton flies home from Brazil with Wolff amid Mercedes celebrations",
+   "first": "2026-11-10T08:47:42.633479+00:00",
+   "sources": {
+    "GPFans": "2026-11-10T08:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton in painful night flight on Toto Wolff party plane"
+   },
+   "last": "2026-11-10T08:47:42.633485+00:00"
   }
  },
- "story_seq": 6596,
+ "story_seq": 6598,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16484,22 +16477,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T08:37:38.198714+00:00",
+ "last_run": "2026-11-10T08:47:38.870609+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T08:38:57.422867+00:00",
-   "title": "Lewis Hamilton: Diğer eski pilotlar gibi kırgın biri olmak istemedim",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-07T08:43:57.035337+00:00",
-   "title": "Colton Herta hastalandı, Brezilya GP'de medya etkinliklerini iptal etti",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-07T09:18:56.992848+00:00",
    "title": "F1 Brezilya GP 2026: FP3 seansı bugün 15.30'da başlıyor",
@@ -17944,6 +17927,11 @@
    "t": "2026-11-10T08:07:51.471930+00:00",
    "title": "Audi, Nico Hülkenberg'e verilen cezayı neden anlamadığını açıkladı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-10T08:47:48.246825+00:00",
+   "title": "Hamilton, Wolff'un şampiyonluk uçağında zorlu bir yolculuğa çıkıyor",
+   "source": "GPFans"
   }
  ]
 }
