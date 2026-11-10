@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7a8ccb0b56e79c1c": "2026-10-27T12:44:48.134148+00:00",
-  "abbd9ea66d1e6368": "2026-10-27T12:44:48.134148+00:00",
-  "5b09f8e4f0a9e7be": "2026-10-27T12:44:48.134148+00:00",
-  "4b645a055ca8a895": "2026-10-27T12:44:48.134148+00:00",
-  "98418f412ed9732c": "2026-10-27T12:44:48.134148+00:00",
-  "e5d370a7c2c2564f": "2026-10-27T12:44:48.134148+00:00",
-  "92300c821406e1cc": "2026-10-27T12:44:48.134148+00:00",
   "dcffe857dc47c08c": "2026-10-27T12:54:48.557395+00:00",
   "ac032312b6b2e881": "2026-10-27T13:04:48.904488+00:00",
   "4c63806a0dccad08": "2026-10-27T13:04:48.904488+00:00",
@@ -7848,7 +7841,13 @@
   "8853604818b025aa": "2026-11-10T12:38:22.485028+00:00",
   "30574818f1cd6ed4": "2026-11-10T12:38:22.485028+00:00",
   "6bc1cebe187956dd": "2026-11-10T12:38:22.485028+00:00",
-  "7199587a301d6558": "2026-11-10T12:38:22.485028+00:00"
+  "7199587a301d6558": "2026-11-10T12:38:22.485028+00:00",
+  "fcf45ccb26fa0a6c": "2026-11-10T12:48:21.577641+00:00",
+  "470b717b08e262f1": "2026-11-10T12:48:21.577641+00:00",
+  "fe4ffdf83451cac9": "2026-11-10T12:48:21.577641+00:00",
+  "ffd73e1ad4bf43fa": "2026-11-10T12:48:21.577641+00:00",
+  "41338354abfd6d1f": "2026-11-10T12:48:21.577641+00:00",
+  "4d13cd5e2b1e361d": "2026-11-10T12:48:21.577641+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8084,19 +8083,6 @@
    },
    "last": "2026-11-08T17:12:28.610880+00:00"
   },
-  "S6034": {
-   "title": "Seahawks' Sam Darnold injury status for Week 10 (NFL)",
-   "first": "2026-11-08T12:16:44.025164+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Seahawks' Sam Darnold in jeopardy of missing Week 10 game vs. Raiders"
-   },
-   "last": "2026-11-08T12:46:42.233789+00:00"
-  },
   "S6036": {
    "title": "Leclerc responds to Hamilton's accusations, refuses to escalate",
    "first": "2026-11-08T12:16:44.025193+00:00",
@@ -8111,32 +8097,6 @@
     "GPblog": "Leclerc put on the spot over Hamilton claim: 'There's been way too many comments'"
    },
    "last": "2026-11-08T14:02:29.578408+00:00"
-  },
-  "S6041": {
-   "title": "Verstappen reacts to funny Red Bull onboard radio in Brazil",
-   "first": "2026-11-08T12:41:37.739574+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-08T12:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen reageert op hilarische Red Bull-boordradio"
-   },
-   "last": "2026-11-08T12:41:37.739596+00:00"
-  },
-  "S6042": {
-   "title": "Komatsu explains why Haas picked Câmara for debut",
-   "first": "2026-11-08T12:46:42.233799+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-08T12:40:42+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Câmara, che debutto! A Interlagos sfiora l'impresa, Komatsu: \"Ecco perché lo abbiamo scelto\""
-   },
-   "last": "2026-11-08T12:46:42.233803+00:00"
   },
   "S6043": {
    "title": "Verstappen dismisses Herbert's criticism over Lawson intimidation claim",
@@ -15949,7 +15909,8 @@
     "PlanetF1": "2026-11-10T12:00:30+00:00",
     "Crash.net": "2026-11-10T12:10:00+00:00",
     "Motorsport-Total": "2026-11-10T12:10:24+00:00",
-    "Sky Sports F1": "2026-11-10T12:00:00+00:00"
+    "Sky Sports F1": "2026-11-10T12:00:00+00:00",
+    "GPFans": "2026-11-10T12:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15966,9 +15927,10 @@
     "PlanetF1": "FIA confirms findings after final F1 2026 ADUO window closes",
     "Crash.net": "FIA announces results of final 2026 F1 ADUO engine review",
     "Motorsport-Total": "FIA veröffentlicht finale ADUO-Ergebnisse 2026 ohne Änderungen - Motorsport-Total.com",
-    "Sky Sports F1": "No further F1 engine upgrades handed out after final 2026 review period"
+    "Sky Sports F1": "No further F1 engine upgrades handed out after final 2026 review period",
+    "GPFans": "FIA announce crucial final ADUO results as upgrade plans for every F1 team revealed"
    },
-   "last": "2026-11-10T12:38:27.875895+00:00"
+   "last": "2026-11-10T12:48:26.994045+00:00"
   },
   "S6621": {
    "title": "Lawson shares mentality approach amid F1 seat speculation",
@@ -16133,9 +16095,74 @@
     "ESPN F1": "Seven things Solak thinks for NFL Week 10: Jaguars trades, All-Pro picks, more"
    },
    "last": "2026-11-10T12:28:27.348591+00:00"
+  },
+  "S6633": {
+   "title": "Champions Classic preview: Duke-Michigan State, Kentucky-Kansas",
+   "first": "2026-11-10T12:48:26.993984+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T12:31:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Champions Classic 2026: Previewing Duke-Michigan State, Kentucky-Kansas"
+   },
+   "last": "2026-11-10T12:48:26.994002+00:00"
+  },
+  "S6634": {
+   "title": "College Football Playoff bubble watch after Week 10",
+   "first": "2026-11-10T12:48:26.994008+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T12:16:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "College Football Playoff Bubble Watch after Week 10"
+   },
+   "last": "2026-11-10T12:48:26.994014+00:00"
+  },
+  "S6635": {
+   "title": "Jannik Sinner plans return at Saudi exhibition",
+   "first": "2026-11-10T12:48:26.994018+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T12:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jannik Sinner (knee) plans return at Saudi exhibition in Aussie prep"
+   },
+   "last": "2026-11-10T12:48:26.994024+00:00"
+  },
+  "S6636": {
+   "title": "Jaylen Brown faces Celtics for first time, questions linger",
+   "first": "2026-11-10T12:48:26.994027+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "As Jaylen Brown faces the Celtics for the first time, familiar questions linger"
+   },
+   "last": "2026-11-10T12:48:26.994032+00:00"
+  },
+  "S6637": {
+   "title": "Ocon thanks fans after being let go by Haas",
+   "first": "2026-11-10T12:48:26.994035+00:00",
+   "sources": {
+    "GPblog": "2026-11-10T12:46:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ocon shares emotional message after being let go by Haas"
+   },
+   "last": "2026-11-10T12:48:26.994039+00:00"
   }
  },
- "story_seq": 6632,
+ "story_seq": 6637,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16254,7 +16281,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T12:38:22.485028+00:00",
+ "last_run": "2026-11-10T12:48:21.577641+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
@@ -17774,6 +17801,11 @@
    "t": "2026-11-10T12:28:31.781201+00:00",
    "title": "McLaren, Mercedes'in tersine ön kanat değişikliği yaptı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-10T12:48:31.518308+00:00",
+   "title": "Ocon, Haas'tan ayrılmasının ardından duygusal bir mesaj paylaştı",
+   "source": "GPblog"
   }
  ]
 }
