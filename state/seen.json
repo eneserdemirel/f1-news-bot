@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f2c570d2317c2f38": "2026-10-27T17:35:29.635877+00:00",
-  "fbf3a957c0584fa8": "2026-10-27T17:35:29.635877+00:00",
-  "b4f82eda30e3ee93": "2026-10-27T17:35:29.635877+00:00",
-  "d4dd39c9a6c0d60d": "2026-10-27T17:35:29.635877+00:00",
   "cc27e78d5680d777": "2026-10-27T17:45:30.654975+00:00",
   "c13fcbdfd435e6e7": "2026-10-27T17:45:30.654975+00:00",
   "e548d360bcd7cd41": "2026-10-27T17:45:30.654975+00:00",
@@ -7844,7 +7840,12 @@
   "69f8969f8bf1e04e": "2026-11-10T17:19:12.271350+00:00",
   "1d0000e1258a0add": "2026-11-10T17:19:12.271350+00:00",
   "e842d42f613e0963": "2026-11-10T17:19:12.271350+00:00",
-  "1843119b843cdd0c": "2026-11-10T17:19:12.271350+00:00"
+  "1843119b843cdd0c": "2026-11-10T17:19:12.271350+00:00",
+  "6d408ce61dd6aae8": "2026-11-10T17:39:12.319290+00:00",
+  "c5e112f4356f8ba7": "2026-11-10T17:39:12.319290+00:00",
+  "3135425b272d29c5": "2026-11-10T17:39:12.319290+00:00",
+  "594f56e1d923796f": "2026-11-10T17:39:12.319290+00:00",
+  "aa2e6f130661a2e3": "2026-11-10T17:39:12.319290+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7993,71 +7994,6 @@
     "ESPN F1": "Genoa 1-2 Milan (Nov 8, 2026) Game Analysis"
    },
    "last": "2026-11-08T18:02:35.672446+00:00"
-  },
-  "S6108": {
-   "title": "Emma Peschel debut goal as U.S. beats Germany at hockey worlds",
-   "first": "2026-11-08T17:32:28.324487+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T17:29:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Emma Peschel scores in debut as U.S. shuts out Germany at women's hockey worlds"
-   },
-   "last": "2026-11-08T17:32:28.324509+00:00"
-  },
-  "S6109": {
-   "title": "Imane Khelif set for Paris boxing return in December",
-   "first": "2026-11-08T17:32:28.324515+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T17:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Olympic boxing champion Imane Khelif set for Paris return in December"
-   },
-   "last": "2026-11-08T17:37:28.333960+00:00"
-  },
-  "S6110": {
-   "title": "NBA fantasy hoops adds and betting picks",
-   "first": "2026-11-08T17:37:28.333972+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T16:32:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sunday's fantasy hoops adds, NBA bets to make: Nets, Clippers offer value"
-   },
-   "last": "2026-11-08T17:37:28.333979+00:00"
-  },
-  "S6111": {
-   "title": "Elche 0-2 Betis match team stats",
-   "first": "2026-11-08T17:37:28.333983+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T13:04:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Elche 0-2 Betis (Nov 8, 2026) Team Stats"
-   },
-   "last": "2026-11-08T17:37:28.333988+00:00"
-  },
-  "S6112": {
-   "title": "Antonelli spins out of Brazilian GP lead after radio message",
-   "first": "2026-11-08T17:37:28.333994+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T17:36:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Antonelli spins out of Brazilian GP lead moments after alarming radio message"
-   },
-   "last": "2026-11-08T17:37:28.333998+00:00"
   },
   "S6113": {
    "title": "Brighton 2-0 Brentford final score",
@@ -15331,14 +15267,16 @@
    "title": "Ferrari special hats and t-shirts for Las Vegas GP",
    "first": "2026-11-10T13:48:27.900572+00:00",
    "sources": {
-    "GPblog": "2026-11-10T13:45:00+00:00"
+    "GPblog": "2026-11-10T13:45:00+00:00",
+    "FormulaPassion": "2026-11-10T17:00:12+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Ferrari reveals fresh look for Hamilton and Leclerc at the Las Vegas GP"
+    "GPblog": "Ferrari reveals fresh look for Hamilton and Leclerc at the Las Vegas GP",
+    "FormulaPassion": "Ferrari, kit giallo-nero per Las Vegas"
    },
-   "last": "2026-11-10T13:48:27.900577+00:00"
+   "last": "2026-11-10T17:39:16.990230+00:00"
   },
   "S6646": {
    "title": "Ocon statement on uncertain 2027 F1 future",
@@ -16060,9 +15998,61 @@
     "GPblog": "Marc Marquez tipped to retire after tenth title by former Honda teammate"
    },
    "last": "2026-11-10T17:19:18.444049+00:00"
+  },
+  "S6701": {
+   "title": "RacingNews365 explainer on Verstappen's wet-weather grip",
+   "first": "2026-11-10T17:39:16.990188+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T17:31:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Why Max Verstappen destroys his rivals in the rain | F1 Explainer"
+   },
+   "last": "2026-11-10T17:39:16.990204+00:00"
+  },
+  "S6702": {
+   "title": "Craig Skinner joins Cadillac as chief development engineer",
+   "first": "2026-11-10T17:39:16.990211+00:00",
+   "sources": {
+    "GPblog": "2026-11-10T17:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Former Red Bull executive starts at his new F1 team"
+   },
+   "last": "2026-11-10T17:39:16.990215+00:00"
+  },
+  "S6703": {
+   "title": "Fornaroli completes final McLaren test of 2026",
+   "first": "2026-11-10T17:39:16.990220+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T17:10:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Fornaroli, completato l’ultimo test dell’anno con McLaren: “Sono soddisfatto dei progressi fatti. Il 2027 sarà entusiasmante”"
+   },
+   "last": "2026-11-10T17:39:16.990225+00:00"
+  },
+  "S6704": {
+   "title": "Montoya says Verstappen cannot resent Antonelli",
+   "first": "2026-11-10T17:39:16.990234+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Montoya: “Per Verstappen è impossibile avercela con Antonelli, rivede in Kimi il se stesso di pochi anni fa”"
+   },
+   "last": "2026-11-10T17:39:16.990238+00:00"
   }
  },
- "story_seq": 6700,
+ "story_seq": 6704,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16181,22 +16171,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T17:29:11.649786+00:00",
+ "last_run": "2026-11-10T17:39:12.319290+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T17:35:16.247162+00:00",
-   "title": "Brezilya FP3: Tahmin edilemez sıralama, cezalar ve yağmur etkisi",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-07T17:35:16.660118+00:00",
-   "title": "2027 Formula 1 takvimi: Çıkan ve yeni eklenen pistler",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-07T18:10:09.225337+00:00",
    "title": "Brezilya GP sıralama turları yoğun yağış nedeniyle durduruldu",
@@ -17681,6 +17661,21 @@
    "t": "2026-11-10T17:19:24.328754+00:00",
    "title": "Liberty Media kurucusu F1 ana şirketinin oy hakkını sattı",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-10T17:39:26.984967+00:00",
+   "title": "Montoya: Verstappen, Antonelli ile rekabet etmenin imkansız olduğunu söylüyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T17:39:27.417853+00:00",
+   "title": "Fornaroli, McLaren ile 2026'nın son testini tamamladı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T17:39:27.846201+00:00",
+   "title": "Red Bull'un eski ismi Craig Skinner Cadillac'ta işe başlıyor",
+   "source": "GPblog"
   }
  ]
 }
