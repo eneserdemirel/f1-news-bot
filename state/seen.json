@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2fa0437a70a05ab0": "2026-10-27T09:43:58.551055+00:00",
-  "37014362611b45d8": "2026-10-27T09:43:58.551055+00:00",
   "3fe70d428c18d036": "2026-10-27T09:54:00.014224+00:00",
   "b37fbd1ddec38832": "2026-10-27T10:03:58.810980+00:00",
   "91accc4bb26248b5": "2026-10-27T10:03:58.810980+00:00",
@@ -7838,7 +7836,12 @@
   "d1bc27adaf0de312": "2026-11-10T09:07:38.556163+00:00",
   "4bbc52bcd979d2a7": "2026-11-10T09:27:39.276374+00:00",
   "7b4bcc2cdb2e9247": "2026-11-10T09:27:39.276374+00:00",
-  "4ce1ea95f98b04ce": "2026-11-10T09:37:41.902446+00:00"
+  "4ce1ea95f98b04ce": "2026-11-10T09:37:41.902446+00:00",
+  "9eaa09f7d42841b2": "2026-11-10T09:47:38.852643+00:00",
+  "9eeacf7c09862d9b": "2026-11-10T09:47:38.852643+00:00",
+  "8018bfe5ab47369a": "2026-11-10T09:47:38.852643+00:00",
+  "71746c878cfeec79": "2026-11-10T09:47:38.852643+00:00",
+  "32b2ed64ee8a0199": "2026-11-10T09:47:38.852643+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8179,19 +8182,6 @@
     "Crash.net": "Ted Kravitz insists Racing Bulls ‘can’t sack’ Liam Lawson amid 2027 uncertainty"
    },
    "last": "2026-11-08T15:27:28.640938+00:00"
-  },
-  "S6005": {
-   "title": "Feature on Sergio Perez's comeback to top F1 earnings",
-   "first": "2026-11-08T09:41:41.086961+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T09:33:36+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Sergio Perez: Vom Abstellgleis zu einem der absoluten Topverdiener der Formel 1 - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T09:41:41.086982+00:00"
   },
   "S6006": {
    "title": "Man United scout defender Mahamadou Nagida transfer rumour",
@@ -16283,9 +16273,61 @@
     "ESPN F1": "'Unbelievable' Flagg finishes with 43 points as Mavericks outlast Pacers"
    },
    "last": "2026-11-10T09:37:43.964072+00:00"
+  },
+  "S6605": {
+   "title": "Luton vs. Peterborough live score",
+   "first": "2026-11-10T09:47:42.104404+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T09:18:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luton vs. Peterborough (Nov 17, 2026) Live Score"
+   },
+   "last": "2026-11-10T09:47:42.104423+00:00"
+  },
+  "S6606": {
+   "title": "Bearman blames Haas for poor São Paulo race",
+   "first": "2026-11-10T09:47:42.104429+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T09:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oliver Bearman feels Haas 'giving it away' in Audi fight after pit-stop disaster"
+   },
+   "last": "2026-11-10T09:47:42.104434+00:00"
+  },
+  "S6607": {
+   "title": "Ricciardo praises Verstappen as best around",
+   "first": "2026-11-10T09:47:42.104439+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-10T09:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Ricciardo lyrisch over Verstappen: \"Niemand beter dan Max!\""
+   },
+   "last": "2026-11-10T09:47:42.104444+00:00"
+  },
+  "S6608": {
+   "title": "Sainz calls for better Pirelli wet tyres",
+   "first": "2026-11-10T09:47:42.104447+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T09:44:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘Not good enough’ – Carlos Sainz demands Pirelli wet tyre improvements"
+   },
+   "last": "2026-11-10T09:47:42.104451+00:00"
   }
  },
- "story_seq": 6604,
+ "story_seq": 6608,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16404,17 +16446,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T09:37:41.902446+00:00",
+ "last_run": "2026-11-10T09:47:38.852643+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T09:43:54.842915+00:00",
-   "title": "Bearman, Haas'ta Ocon'un yokluğunu 'gerçekten özlediğini' söyledi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-07T10:13:54.259562+00:00",
    "title": "Antonelli, şampiyonluk partisinin ardından yaşadığı hangover'ı anlattı",
@@ -17869,6 +17906,21 @@
    "t": "2026-11-10T09:27:46.911885+00:00",
    "title": "Terruzzi: Vasseur dışarıdan bir gözlemci gibi, umursamıyor gibi",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T09:47:48.934647+00:00",
+   "title": "Bearman: Haas, yedinciliği Audi'ye kaptırıyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-10T09:47:49.390879+00:00",
+   "title": "Sainz, Pirelli'den yağmur lastiklerinde iyileştirme istedi",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-10T09:47:49.793018+00:00",
+   "title": "Ricciardo, Verstappen'i övdü: \"Max'ten daha iyi bir pilot yok!\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
