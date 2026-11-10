@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "52b2cb34d2bb12cf": "2026-10-27T16:34:50.125849+00:00",
-  "bd69accc40a5b74b": "2026-10-27T16:34:50.125849+00:00",
-  "e8a6411a7530f43e": "2026-10-27T16:34:50.125849+00:00",
-  "e841dc21f4805887": "2026-10-27T16:34:50.125849+00:00",
-  "0c14207987a90080": "2026-10-27T16:34:50.125849+00:00",
   "3e4d7ce537901384": "2026-10-27T16:44:49.832850+00:00",
   "15f709726096d69a": "2026-10-27T16:44:49.832850+00:00",
   "4cedcbcee9b3d71a": "2026-10-27T16:44:49.832850+00:00",
@@ -7844,7 +7839,12 @@
   "2967c0baba664ad6": "2026-11-10T16:28:21.460833+00:00",
   "1a283ecdadde7f8b": "2026-11-10T16:28:21.460833+00:00",
   "3581a3cf70a13753": "2026-11-10T16:28:21.460833+00:00",
-  "51dfadc160afc4c1": "2026-11-10T16:28:21.460833+00:00"
+  "51dfadc160afc4c1": "2026-11-10T16:28:21.460833+00:00",
+  "182eae758e4fcd44": "2026-11-10T16:38:22.161201+00:00",
+  "20516459f073e7fb": "2026-11-10T16:38:22.161201+00:00",
+  "f815fb9ff775c480": "2026-11-10T16:38:22.161201+00:00",
+  "cc07373ee89f8b3d": "2026-11-10T16:38:22.161201+00:00",
+  "e9ee305900ce5931": "2026-11-10T16:38:22.161201+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7955,45 +7955,6 @@
     "Motorsport-Total": "Jetzt abstimmen: Wer waren in Interlagos die besten Fahrer? - Motorsport-Total.com"
    },
    "last": "2026-11-08T18:48:16.159169+00:00"
-  },
-  "S6094": {
-   "title": "Adam Schefter's players to watch at the trade deadline",
-   "first": "2026-11-08T16:32:29.079916+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T16:05:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Adam Schefter's players to watch at the trade deadline"
-   },
-   "last": "2026-11-08T16:32:29.079937+00:00"
-  },
-  "S6095": {
-   "title": "Dutch derby cancelled after fans block team bus",
-   "first": "2026-11-08T16:37:27.478595+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T13:59:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dutch derby cancelled after De Graafschap fans block own team's bus from leaving"
-   },
-   "last": "2026-11-08T16:37:27.478614+00:00"
-  },
-  "S6096": {
-   "title": "Fans weigh in on Verstappen going from 21st to 1st",
-   "first": "2026-11-08T16:37:27.478620+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen handed sensational Sao Paulo Grand Prix verdict"
-   },
-   "last": "2026-11-08T16:37:27.478626+00:00"
   },
   "S6097": {
    "title": "Antonelli spins on way to Sao Paulo GP grid",
@@ -15538,7 +15499,7 @@
    "titles": {
     "ESPN F1": "Rory McIlroy says Bryson DeChambeau would 'bring eyeballs' to DP World Tour"
    },
-   "last": "2026-11-10T14:38:29.763186+00:00"
+   "last": "2026-11-10T16:38:26.948327+00:00"
   },
   "S6650": {
    "title": "Formula 2 announces documentary marking 10 years",
@@ -15944,9 +15905,61 @@
     "RacingNews365 NL": "Rubens Barrichello in tranen na baanrecord bij F1-'comeback'"
    },
    "last": "2026-11-10T16:28:24.326239+00:00"
+  },
+  "S6681": {
+   "title": "Stephen A. blames O'Connell for Jefferson's frustrations",
+   "first": "2026-11-10T16:38:26.948298+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T16:27:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stephen A. holds Kevin O'Connell responsible for Justin Jefferson's frustrations"
+   },
+   "last": "2026-11-10T16:38:26.948317+00:00"
+  },
+  "S6682": {
+   "title": "Camara's debut impresses Ferrari and Haas, Italian feature",
+   "first": "2026-11-10T16:38:26.948332+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-10T16:32:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | \"Ha mostrato una velocità impressionante\": come Camara ha convinto Ferrari e Haas al debutto"
+   },
+   "last": "2026-11-10T16:38:26.948338+00:00"
+  },
+  "S6683": {
+   "title": "Vowles doubles down on Sainz and Albon claim",
+   "first": "2026-11-10T16:38:26.948342+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T16:30:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "James Vowles doubles down on bold Carlos Sainz, Alex Albon claim"
+   },
+   "last": "2026-11-10T16:38:26.948347+00:00"
+  },
+  "S6684": {
+   "title": "Hamilton thanks fans after 'devastating' Brazil GP",
+   "first": "2026-11-10T16:38:26.948350+00:00",
+   "sources": {
+    "GPblog": "2026-11-10T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton shares heartfelt message after 'devastating' Brazil GP"
+   },
+   "last": "2026-11-10T16:38:26.948354+00:00"
   }
  },
- "story_seq": 6680,
+ "story_seq": 6684,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16065,17 +16078,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T16:28:21.460833+00:00",
+ "last_run": "2026-11-10T16:38:22.161201+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T16:30:13.622338+00:00",
-   "title": "F1 Brezilya GP'de pole mücadelesi: Antonelli ve McLaren'lar öne çıkıyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-07T16:40:08.021520+00:00",
    "title": "Interlagos'ta kwalifikasyon öncesi şiddetli yağmur",
@@ -17560,6 +17568,16 @@
    "t": "2026-11-10T16:28:28.873312+00:00",
    "title": "Barrichello, FW33 ile Velocitta'da baanrecord kırdı ve gözyaşlarına boğuldu",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-10T16:38:32.454768+00:00",
+   "title": "Vowles, Sainz ve Albon'un şampiyonluk potansiyelini savunuyor",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-10T16:38:32.977611+00:00",
+   "title": "Camara, Ferrari ve Haas'ı debütüyle etkiledi",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
