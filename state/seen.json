@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1ed828bdc885937a": "2026-10-27T00:12:39.268430+00:00",
-  "816edeb19d208be3": "2026-10-27T00:12:39.268430+00:00",
-  "987a557ceaeeae93": "2026-10-27T00:12:39.268430+00:00",
   "c8a3f77eb96066d9": "2026-10-27T00:22:41.458394+00:00",
   "cecfdcc5a8f228d2": "2026-10-27T00:32:42.238942+00:00",
   "57ec09c4d7122132": "2026-10-27T00:32:42.238942+00:00",
@@ -7827,7 +7824,8 @@
   "88d5f0f3d6c28a6f": "2026-11-09T23:56:22.995626+00:00",
   "fb2fcc79ef7b5f4b": "2026-11-09T23:56:22.995626+00:00",
   "bb680bf76eb91249": "2026-11-09T23:56:22.995626+00:00",
-  "9a1a14e88dad5fa2": "2026-11-10T00:06:24.843596+00:00"
+  "9a1a14e88dad5fa2": "2026-11-10T00:06:24.843596+00:00",
+  "11936215113c11bb": "2026-11-10T00:16:23.360338+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8209,45 +8207,6 @@
     "FormulaPassion": "Leclerc su Hamilton: “È normale che ci sia tensione e che a volte ci siano disaccordi”"
    },
    "last": "2026-11-08T14:32:33.989562+00:00"
-  },
-  "S5882": {
-   "title": "Daune Morris 66-yard rushing touchdown (college football)",
-   "first": "2026-11-08T00:10:35.339155+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T00:05:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Daune Morris scores 66-yard rushing touchdown"
-   },
-   "last": "2026-11-08T00:10:35.339176+00:00"
-  },
-  "S5883": {
-   "title": "Delaware Blue Hens vs. Kennesaw State college football highlights",
-   "first": "2026-11-08T00:10:35.339181+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T00:03:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Delaware Blue Hens vs. Kennesaw State Owls: Full Highlights"
-   },
-   "last": "2026-11-08T00:10:35.339185+00:00"
-  },
-  "S5884": {
-   "title": "Vikings quarterback situation taking shape (NFL)",
-   "first": "2026-11-08T00:10:35.339188+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T23:35:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vikings' QB situation starting to take shape"
-   },
-   "last": "2026-11-08T00:10:35.339191+00:00"
   },
   "S5885": {
    "title": "San Diego vs. Kansas City team stats (Nov 7, 2026)",
@@ -16941,9 +16900,22 @@
     "ESPN F1": "Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critiques"
    },
    "last": "2026-11-10T00:06:26.734882+00:00"
+  },
+  "S6530": {
+   "title": "Verstappen hits back at Herbert over Lawson 'threat' claim",
+   "first": "2026-11-10T00:16:25.050606+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T00:05:34+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen hits back at Johnny Herbert over Liam Lawson ‘threat’ claim"
+   },
+   "last": "2026-11-10T00:16:25.050623+00:00"
   }
  },
- "story_seq": 6529,
+ "story_seq": 6530,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17062,7 +17034,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T00:06:24.843596+00:00",
+ "last_run": "2026-11-10T00:16:23.360338+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
