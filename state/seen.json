@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "92482dc4ee0537ca": "2026-10-27T19:45:29.900240+00:00",
-  "c1b479ec8b6ae95c": "2026-10-27T19:45:29.900240+00:00",
-  "707d4575533c3e8e": "2026-10-27T19:45:29.900240+00:00",
   "7c66acfbd38391e6": "2026-10-27T19:55:30.416019+00:00",
   "ee9c194f9a75ba0f": "2026-10-27T19:55:30.416019+00:00",
   "272d0ad614b7a8a4": "2026-10-27T19:55:30.416019+00:00",
@@ -7835,7 +7832,11 @@
   "6501c976e8e91e86": "2026-11-10T19:29:15.649846+00:00",
   "92cc95ff3c8c7994": "2026-11-10T19:29:15.649846+00:00",
   "5ce26f0c58612c13": "2026-11-10T19:39:11.605516+00:00",
-  "ad1c8951082bb7e6": "2026-11-10T19:39:11.605516+00:00"
+  "ad1c8951082bb7e6": "2026-11-10T19:39:11.605516+00:00",
+  "6ac91d9ca750e18b": "2026-11-10T19:49:11.971955+00:00",
+  "a113804766337fbe": "2026-11-10T19:49:11.971955+00:00",
+  "a2114f074b37bfcd": "2026-11-10T19:49:11.971955+00:00",
+  "3639d8e48ae96d0b": "2026-11-10T19:49:11.971955+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8237,45 +8238,6 @@
     "GPFans": "Ferrari star loses Brazilian GP position as FIA confirm trio of post-race penalties"
    },
    "last": "2026-11-09T07:14:24.551860+00:00"
-  },
-  "S6157": {
-   "title": "Man United relegation risk after poor starts",
-   "first": "2026-11-08T19:48:15.849364+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T19:00:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United's poor starts have Premier League relegation looking more likely"
-   },
-   "last": "2026-11-08T19:48:15.849381+00:00"
-  },
-  "S6158": {
-   "title": "Pedro Martinez MLB resolution and 1994 strike comments",
-   "first": "2026-11-08T19:48:15.849386+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T15:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pedro Martinez appeals for MLB resolution, reflects on effects of 1994 strike"
-   },
-   "last": "2026-11-08T19:48:15.849392+00:00"
-  },
-  "S6159": {
-   "title": "Hamilton spin revealed in podium cooldown room footage",
-   "first": "2026-11-08T19:48:15.849400+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T19:44:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen and Norris shocked by Hamilton spin in Sao Paulo cooldown footage"
-   },
-   "last": "2026-11-08T19:48:15.849405+00:00"
   },
   "S6160": {
    "title": "Man Utd vs Aston Villa player stats",
@@ -15944,9 +15906,61 @@
     "PlanetF1": "Liam Lawson told to leave Red Bull as Guenther Steiner backs world title potential"
    },
    "last": "2026-11-10T19:39:14.015294+00:00"
+  },
+  "S6730": {
+   "title": "Connor Hellebuyck discusses why he wanted out of Winnipeg",
+   "first": "2026-11-10T19:49:15.027231+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T19:46:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Connor Hellebuyck discusses why he wanted out of Winnipeg"
+   },
+   "last": "2026-11-10T19:49:15.027248+00:00"
+  },
+  "S6731": {
+   "title": "Ovechkin says Russians want to play for country at worlds",
+   "first": "2026-11-10T19:49:15.027254+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T19:18:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ovechkin: Russians want to play for country, doesn't weigh in on worlds"
+   },
+   "last": "2026-11-10T19:49:15.027259+00:00"
+  },
+  "S6732": {
+   "title": "Futures Basketball League to launch in April for U18 players",
+   "first": "2026-11-10T19:49:15.027263+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T16:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Futures Basketball League to launch in April for U18 players"
+   },
+   "last": "2026-11-10T19:49:15.027268+00:00"
+  },
+  "S6733": {
+   "title": "Why Red Bull Ford lacks engine-development help despite Mercedes titles",
+   "first": "2026-11-10T19:49:15.027271+00:00",
+   "sources": {
+    "GPblog": "2026-11-10T19:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes won both titles, so why is Red Bull missing out on engine help?"
+   },
+   "last": "2026-11-10T19:49:15.027275+00:00"
   }
  },
- "story_seq": 6729,
+ "story_seq": 6733,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16065,7 +16079,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T19:39:11.605516+00:00",
+ "last_run": "2026-11-10T19:49:11.971955+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -17585,6 +17599,11 @@
    "t": "2026-11-10T19:39:18.178517+00:00",
    "title": "Guenther Steiner: Liam Lawson Red Bull'dan ayrılmalı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-10T19:49:19.087990+00:00",
+   "title": "Mercedes iki şampiyonluğu kazandı, peki Red Bull neden motor desteği alamıyor?",
+   "source": "GPblog"
   }
  ]
 }
