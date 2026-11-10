@@ -7842,7 +7842,12 @@
   "1ec713d8a8a20763": "2026-11-10T14:48:22.951503+00:00",
   "d34a2a8d00ee7e24": "2026-11-10T14:48:22.951503+00:00",
   "385938926c39c640": "2026-11-10T14:48:22.951503+00:00",
-  "656222b4ecd93739": "2026-11-10T14:48:22.951503+00:00"
+  "656222b4ecd93739": "2026-11-10T14:48:22.951503+00:00",
+  "66ea3687fbedabb7": "2026-11-10T14:58:25.608257+00:00",
+  "f21c953562e6d42a": "2026-11-10T14:58:25.608257+00:00",
+  "1f8451324e534698": "2026-11-10T14:58:25.608257+00:00",
+  "1bd226f097619106": "2026-11-10T14:58:25.608257+00:00",
+  "5f0ef31900c79d4b": "2026-11-10T14:58:25.608257+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8052,32 +8057,6 @@
     "GPblog": "Norris on pole as FIA penalties shake up final Sao Paulo GP starting grid"
    },
    "last": "2026-11-08T16:07:27.314626+00:00"
-  },
-  "S6069": {
-   "title": "Vasseur revealed to have funded Ocon's 2016 Manor debut",
-   "first": "2026-11-08T14:52:24.089967+00:00",
-   "sources": {
-    "Crash.net": "2026-11-08T14:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Fred Vasseur’s $1 million contribution to Esteban Ocon’s F1 debut revealed"
-   },
-   "last": "2026-11-08T14:52:24.089973+00:00"
-  },
-  "S6070": {
-   "title": "Izan Guevara retires from Qatar Moto2 race",
-   "first": "2026-11-08T14:57:27.420826+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T14:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Moto2 Full Race Results | Guevara suffers brutal retirement"
-   },
-   "last": "2026-11-08T14:57:27.420844+00:00"
   },
   "S6071": {
    "title": "Sky Sports F1 adds Alexa Rendell as multimedia journalist",
@@ -15589,7 +15568,9 @@
     "RacingNews365": "2026-11-10T12:33:00+00:00",
     "RacingNews365 NL": "2026-11-10T12:28:00+00:00",
     "Gazzetta dello Sport": "2026-11-10T13:51:21+00:00",
-    "Corriere dello Sport": "2026-11-10T14:32:55+00:00"
+    "Corriere dello Sport": "2026-11-10T14:32:55+00:00",
+    "Autosport": "2026-11-10T14:52:26+00:00",
+    "Crash.net": "2026-11-10T14:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15600,9 +15581,11 @@
     "RacingNews365": "FIA reaffirms commitment to ending F1 season in Qatar and Abu Dhabi",
     "RacingNews365 NL": "FIA-president komt met statement over GP's van Qatar en Abu Dhabi",
     "Gazzetta dello Sport": "F1 2026, arriva la conferma: si corrono i GP di Qatar e Abu Dhabi. Salta l'ipotesi Imola",
-    "Corriere dello Sport": "Niente Imola per il finale di F1: confermati i GP del Qatar e di Abu Dhabi nonostante le tensioni"
+    "Corriere dello Sport": "Niente Imola per il finale di F1: confermati i GP del Qatar e di Abu Dhabi nonostante le tensioni",
+    "Autosport": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
+    "Crash.net": "F1 delivers update on Qatar and Abu Dhabi GPs as Imola ruled out"
    },
-   "last": "2026-11-10T14:38:29.763222+00:00"
+   "last": "2026-11-10T14:58:32.365461+00:00"
   },
   "S6624": {
    "title": "Hamilton visits Egypt humanitarian aid facilities near Gaza",
@@ -15997,9 +15980,35 @@
     "ESPN F1": "Professional Women's Hockey League unveils branding for its four new franchises"
    },
    "last": "2026-11-10T14:48:31.291360+00:00"
+  },
+  "S6654": {
+   "title": "ESPN Heisman race after Week 10 college football",
+   "first": "2026-11-10T14:58:32.365430+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heisman race after Week 10 - CJ Carr, new contenders emerge"
+   },
+   "last": "2026-11-10T14:58:32.365446+00:00"
+  },
+  "S6655": {
+   "title": "Norris discusses bizarre fireworks incident on podium",
+   "first": "2026-11-10T14:58:32.365466+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-10T13:56:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Gefährliches Feuerwerk: Norris spricht über bizarren Podiums-Unfall"
+   },
+   "last": "2026-11-10T14:58:32.365471+00:00"
   }
  },
- "story_seq": 6653,
+ "story_seq": 6655,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16118,17 +16127,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T14:48:22.951503+00:00",
+ "last_run": "2026-11-10T14:58:25.608257+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T14:54:25.670497+00:00",
-   "title": "Hamilton, Leclerc ve Verstappen Brezilya'da grid cezası aldı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-07T14:59:27.180615+00:00",
    "title": "Verstappen, Brezilya antrenmanında Red Bull'daki yeni sorunla ilgili alaylı konuştu",
@@ -17608,6 +17612,11 @@
    "t": "2026-11-10T14:38:39.000045+00:00",
    "title": "F1, Imola yedek pist kararını açıkladı; Katar ve Abu Dabi yarışları planlandığı gibi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-10T14:58:39.003961+00:00",
+   "title": "F1 2026 takvimi: Imola yedek plan olarak yok, İran savaşı büyürse planB yok",
+   "source": "Autosport"
   }
  ]
 }
