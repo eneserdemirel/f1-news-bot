@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ef7863a212f0586a": "2026-10-27T15:54:48.628524+00:00",
-  "5c5f960fe893558c": "2026-10-27T15:54:48.628524+00:00",
   "e657da9944f6acea": "2026-10-27T16:04:50.339507+00:00",
   "1b23cb4e18036af1": "2026-10-27T16:04:50.339507+00:00",
   "587ffab48a0ed6eb": "2026-10-27T16:14:49.464358+00:00",
@@ -7841,7 +7839,10 @@
   "9aaad133d8bbb966": "2026-11-10T15:48:20.841333+00:00",
   "a67e2870b1da164f": "2026-11-10T15:48:20.841333+00:00",
   "718119df2cca7646": "2026-11-10T15:48:20.841333+00:00",
-  "4d3d65f241a26942": "2026-11-10T15:48:20.841333+00:00"
+  "4d3d65f241a26942": "2026-11-10T15:48:20.841333+00:00",
+  "10962ede08006d64": "2026-11-10T15:58:24.036532+00:00",
+  "e3207fd2f12e80f2": "2026-11-10T15:58:24.036532+00:00",
+  "869f3af82e74406d": "2026-11-10T15:58:24.036532+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8000,32 +8001,6 @@
     "GPblog": "Norris on pole as FIA penalties shake up final Sao Paulo GP starting grid"
    },
    "last": "2026-11-08T16:07:27.314626+00:00"
-  },
-  "S6083": {
-   "title": "Michael Penix Jr. gives Falcons early lead in Madrid",
-   "first": "2026-11-08T15:57:30.421072+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T14:51:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michael Penix Jr. finds Charlie Woerner to give the Falcons an early lead in Madrid"
-   },
-   "last": "2026-11-08T15:57:30.421091+00:00"
-  },
-  "S6084": {
-   "title": "J.J. McCarthy impressing Giants after early concerns",
-   "first": "2026-11-08T15:57:30.421097+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T13:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "J.J. McCarthy wowing Giants after initial concerns over QB's 'maturity,' VP says"
-   },
-   "last": "2026-11-08T15:57:30.421103+00:00"
   },
   "S6085": {
    "title": "F1 Driver of the Day voting explained for Brazilian GP",
@@ -16000,9 +15975,48 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-10T15:48:27.598891+00:00"
+  },
+  "S6671": {
+   "title": "Tennessee men's basketball team works on CBA-like deal",
+   "first": "2026-11-10T15:58:27.397584+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T14:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tennessee, men's basketball team work on CBA-like deal"
+   },
+   "last": "2026-11-10T15:58:27.397602+00:00"
+  },
+  "S6672": {
+   "title": "Brundle verdict on chaotic Interlagos GP as Mercedes seal title",
+   "first": "2026-11-10T15:58:27.397608+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-10T15:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'"
+   },
+   "last": "2026-11-10T15:58:27.397614+00:00"
+  },
+  "S6673": {
+   "title": "Formula E billionaire calls F1 a 'smelly old dinosaur'",
+   "first": "2026-11-10T15:58:27.397618+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T15:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 branded a ‘smelly old dinosaur’ by Formula E billionaire: ‘It should be a museum'"
+   },
+   "last": "2026-11-10T15:58:27.397623+00:00"
   }
  },
- "story_seq": 6670,
+ "story_seq": 6673,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16121,7 +16135,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T15:48:20.841333+00:00",
+ "last_run": "2026-11-10T15:58:24.036532+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
@@ -17611,6 +17625,16 @@
    "t": "2026-11-10T15:38:31.379427+00:00",
    "title": "Neden son yıllarda F2 şampiyonları F1'e çıkamıyor?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-10T15:58:32.641198+00:00",
+   "title": "Mercedes 2026 Konstrüktörler Şampiyonluğunu garantiledi, Norris Sao Paulo'da kazandı",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-10T15:58:33.185150+00:00",
+   "title": "Fortescue'nun patronu F1'i 'kokuşmuş eski dinozor' olarak niteledi",
+   "source": "RacingNews365"
   }
  ]
 }
