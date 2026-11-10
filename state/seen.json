@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "026d1ec1f44c3efd": "2026-10-27T15:34:53.490200+00:00",
-  "7a3e44ae53251a7c": "2026-10-27T15:34:53.490200+00:00",
   "0957e4ade79cbe48": "2026-10-27T15:44:50.284899+00:00",
   "0d92266f0925274d": "2026-10-27T15:44:50.284899+00:00",
   "9aeca65f09aefa25": "2026-10-27T15:44:50.284899+00:00",
@@ -7845,7 +7843,10 @@
   "bbde643932d93ebc": "2026-11-10T15:18:22.718591+00:00",
   "a3477abee43b9d64": "2026-11-10T15:18:22.718591+00:00",
   "fafd7a264bcacbd2": "2026-11-10T15:28:21.281307+00:00",
-  "a3f2ae94a1081c9d": "2026-11-10T15:28:21.281307+00:00"
+  "a3f2ae94a1081c9d": "2026-11-10T15:28:21.281307+00:00",
+  "de5286a28c677909": "2026-11-10T15:38:21.530643+00:00",
+  "a7bedbb528bebdd4": "2026-11-10T15:38:21.530643+00:00",
+  "74c17047b39e5015": "2026-11-10T15:38:21.530643+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7946,19 +7947,6 @@
    },
    "last": "2026-11-08T16:27:25.726525+00:00"
   },
-  "S5928": {
-   "title": "UAAP Season 89 volleyball result for UE Red Warriors",
-   "first": "2026-11-08T03:56:08.301151+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T03:55:02+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UAAP Season 89: UE Red Warriors win but still have winning culture to build"
-   },
-   "last": "2026-11-08T15:32:26.241994+00:00"
-  },
   "S6019": {
    "title": "Live blog: Brazilian GP race, Norris leads Antonelli early",
    "first": "2026-11-08T11:01:48.375867+00:00",
@@ -8001,27 +7989,6 @@
    },
    "last": "2026-11-08T20:03:22.542222+00:00"
   },
-  "S6055": {
-   "title": "Russell says Q1 conditions could cause a horrific accident",
-   "first": "2026-11-08T13:32:32.837177+00:00",
-   "sources": {
-    "AS": "2026-11-08T13:21:18+00:00",
-    "RacingNews365 NL": "2026-11-08T14:00:00+00:00",
-    "GPblog": "2026-11-08T14:33:00+00:00",
-    "RacingNews365": "2026-11-08T15:30:00+00:00",
-    "Crash.net": "2026-11-08T15:35:17+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "“Puede haber un accidente realmente horrible”",
-    "RacingNews365 NL": "Serieuze waarschuwing over kletsnat Brazilië: \"Als dit de race was geweest...\"",
-    "GPblog": "Russell warns of 'horrific incident' if conditions are similar to qualifying",
-    "RacingNews365": "George Russell issues F1 'horrific accident' warning after survival challenge",
-    "Crash.net": "George Russell warns F1 over risks of “horrific incident” at Brazil GP"
-   },
-   "last": "2026-11-08T15:37:28.629300+00:00"
-  },
   "S6068": {
    "title": "Two more F1 drivers receive grid penalties for Sao Paulo GP",
    "first": "2026-11-08T14:52:24.089943+00:00",
@@ -8038,45 +8005,6 @@
     "GPblog": "Norris on pole as FIA penalties shake up final Sao Paulo GP starting grid"
    },
    "last": "2026-11-08T16:07:27.314626+00:00"
-  },
-  "S6077": {
-   "title": "Fighting Maroons' UAAP title hopes hinge on Veejay Pre",
-   "first": "2026-11-08T15:32:26.242005+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T15:29:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UAAP Season 89: Fighting Maroons' title hopes hinge on star Veejay Pre"
-   },
-   "last": "2026-11-08T15:32:26.242011+00:00"
-  },
-  "S6078": {
-   "title": "Rayo vs. Valencia odds and spread",
-   "first": "2026-11-08T15:32:26.242016+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T15:26:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rayo vs. Valencia (Nov 21, 2026) Odds and Spread"
-   },
-   "last": "2026-11-08T15:32:26.242021+00:00"
-  },
-  "S6079": {
-   "title": "Bruno Guimaraes says Arsenal will keep Premier League title pace",
-   "first": "2026-11-08T15:32:26.242025+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T11:59:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bruno Guimaraes vows 'unbelievable' Arsenal will keep up Premier League title pace"
-   },
-   "last": "2026-11-08T15:32:26.242029+00:00"
   },
   "S6080": {
    "title": "Hamilton targets points finish from 20th on 400th start",
@@ -16008,9 +15936,48 @@
     "Motorsport Week": "Motorsport Week’s 2026 F1 Sao Paulo GP Driver Ratings"
    },
    "last": "2026-11-10T15:28:25.433298+00:00"
+  },
+  "S6663": {
+   "title": "Häkkinen recalls surviving horror crash 31 years ago",
+   "first": "2026-11-10T15:38:25.087820+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-10T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Häkkinen ontsnapt aan de dood na akelige horrorcrash - terugblik"
+   },
+   "last": "2026-11-10T15:38:25.087839+00:00"
+  },
+  "S6664": {
+   "title": "Mekies praises Lawson but defers 2027 decision to Racing Bulls",
+   "first": "2026-11-10T15:38:25.087845+00:00",
+   "sources": {
+    "Crash.net": "2026-11-10T15:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Red Bull boss praises Liam Lawson but refuses to weigh in on 2027 decision"
+   },
+   "last": "2026-11-10T15:38:25.087851+00:00"
+  },
+  "S6665": {
+   "title": "Why few F2 champions have recently graduated to F1",
+   "first": "2026-11-10T15:38:25.087856+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-10T15:31:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Warum schaffte zuletzt kaum ein Formel-2-Champion den Formel-1-Aufstieg? - Motorsport-Total.com"
+   },
+   "last": "2026-11-10T15:38:25.087861+00:00"
   }
  },
- "story_seq": 6662,
+ "story_seq": 6665,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16129,17 +16096,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T15:28:21.281307+00:00",
+ "last_run": "2026-11-10T15:38:21.530643+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T15:34:25.621696+00:00",
-   "title": "Brezilya GP: Verstappen en hızlı, Hamilton motor sorunu yaşadı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-07T15:44:30.990795+00:00",
    "title": "Perez, Brezilya antrenmanında kokpitten cisim attığı iddiasıyla soruşturulacak",
@@ -17619,6 +17581,16 @@
    "t": "2026-11-10T15:18:39.295730+00:00",
    "title": "Ferrari, Hamilton'ın 65 sıra cezasının ardındaki kararı açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-10T15:38:30.845813+00:00",
+   "title": "Häkkinen, 1995'te korkunç kazadan ölümden döndü",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-10T15:38:31.379427+00:00",
+   "title": "Neden son yıllarda F2 şampiyonları F1'e çıkamıyor?",
+   "source": "Motorsport-Total"
   }
  ]
 }
