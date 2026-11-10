@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "564829a66ecca914": "2026-10-27T14:44:49.137193+00:00",
-  "751fc4e7534edab5": "2026-10-27T14:44:49.137193+00:00",
-  "06c11fd75fa41138": "2026-10-27T14:44:49.137193+00:00",
-  "d75b4f13f4056c86": "2026-10-27T14:44:49.137193+00:00",
   "75bbec93668517ec": "2026-10-27T15:04:49.277097+00:00",
   "e09423e6a842fb29": "2026-10-27T15:04:49.277097+00:00",
   "c7917a579fb5746e": "2026-10-27T15:04:49.277097+00:00",
@@ -7838,7 +7834,15 @@
   "6f59615c42949be2": "2026-11-10T14:38:22.397188+00:00",
   "c288853d9a13b955": "2026-11-10T14:38:22.397188+00:00",
   "289fb2884a08ddb8": "2026-11-10T14:38:22.397188+00:00",
-  "813dd9811228a9c5": "2026-11-10T14:38:22.397188+00:00"
+  "813dd9811228a9c5": "2026-11-10T14:38:22.397188+00:00",
+  "88d8efa15e703bd8": "2026-11-10T14:48:22.951503+00:00",
+  "c5de172686d1e6d6": "2026-11-10T14:48:22.951503+00:00",
+  "3c6f070686c69db7": "2026-11-10T14:48:22.951503+00:00",
+  "ead36d4d6c2d7d2f": "2026-11-10T14:48:22.951503+00:00",
+  "1ec713d8a8a20763": "2026-11-10T14:48:22.951503+00:00",
+  "d34a2a8d00ee7e24": "2026-11-10T14:48:22.951503+00:00",
+  "385938926c39c640": "2026-11-10T14:48:22.951503+00:00",
+  "656222b4ecd93739": "2026-11-10T14:48:22.951503+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7998,21 +8002,6 @@
    },
    "last": "2026-11-08T17:12:28.610880+00:00"
   },
-  "S6043": {
-   "title": "Verstappen dismisses Herbert's criticism over Lawson intimidation claim",
-   "first": "2026-11-08T12:46:42.233807+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T12:45:00+00:00",
-    "RacingNews365 NL": "2026-11-08T14:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen dismisses Herbert's criticism after intimidation accusation",
-    "RacingNews365 NL": "Verstappen wuift kritiek weg: \"Boeit me helemaal niks!\""
-   },
-   "last": "2026-11-08T14:42:23.612164+00:00"
-  },
   "S6049": {
    "title": "Rahm wins Abu Dhabi golf event ahead of McIlroy and Hatton",
    "first": "2026-11-08T13:22:29.963662+00:00",
@@ -8046,32 +8035,6 @@
     "Crash.net": "George Russell warns F1 over risks of “horrific incident” at Brazil GP"
    },
    "last": "2026-11-08T15:37:28.629300+00:00"
-  },
-  "S6066": {
-   "title": "Rosario Central mistakenly celebrate Argentine title after Boca winner",
-   "first": "2026-11-08T14:47:26.540983+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T14:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rosario Central celebrate Argentina title by mistake after late Boca Juniors winner"
-   },
-   "last": "2026-11-08T14:47:26.541000+00:00"
-  },
-  "S6067": {
-   "title": "Analysis: Sao Paulo GP likely two-stop strategy, Hard tyre key",
-   "first": "2026-11-08T14:47:26.541006+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-08T14:41:10+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | GP di San Paolo del Brasile, strategie: si va verso le 2 soste e attenzione alle Hard"
-   },
-   "last": "2026-11-08T14:47:26.541012+00:00"
   },
   "S6068": {
    "title": "Two more F1 drivers receive grid penalties for Sao Paulo GP",
@@ -15476,16 +15439,24 @@
    "sources": {
     "GPblog": "2026-11-10T10:38:00+00:00",
     "Motorsport.com Italia": "2026-11-10T12:19:19+00:00",
-    "The Race": "2026-11-10T14:22:02+00:00"
+    "The Race": "2026-11-10T14:22:02+00:00",
+    "Sky Sports F1": "2026-11-10T14:00:00+00:00",
+    "RacingNews365 NL": "2026-11-10T14:40:00+00:00",
+    "PlanetF1": "2026-11-10T14:44:17+00:00",
+    "FormulaPassion": "2026-11-10T14:35:19+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Formula 1 makes a decision on season finale in Imola",
     "Motorsport.com Italia": "F1 | Imola, sfuma il sogno di chiudere la stagione 2026. Qatar e Abu Dhabi confermati, ma non sono ancora al sicuro",
-    "The Race": "F1 stands Imola down - what it means for 2026 and '27 calendars"
+    "The Race": "F1 stands Imola down - what it means for 2026 and '27 calendars",
+    "Sky Sports F1": "F1 planning to finish season in Middle East as Imola deadline passes",
+    "RacingNews365 NL": "Imola krijgt definitief uitsluitsel over mogelijke invalbeurt",
+    "PlanetF1": "F1 confirms 2026 season finale with new announcement",
+    "FormulaPassion": "Ufficiale, la F1 conferma Qatar e Abu Dhabi: niente Imola a fine anno"
    },
-   "last": "2026-11-10T14:38:29.763217+00:00"
+   "last": "2026-11-10T14:48:31.291385+00:00"
   },
   "S6616": {
    "title": "Alonso credits 'phenomenal' Aston Martin car after Brazil drive",
@@ -15558,7 +15529,8 @@
     "Crash.net": "2026-11-10T12:10:00+00:00",
     "Motorsport-Total": "2026-11-10T12:10:24+00:00",
     "Sky Sports F1": "2026-11-10T12:00:00+00:00",
-    "GPFans": "2026-11-10T12:45:00+00:00"
+    "GPFans": "2026-11-10T12:45:00+00:00",
+    "Motorsport Week": "2026-11-10T14:32:48+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15576,9 +15548,10 @@
     "Crash.net": "FIA announces results of final 2026 F1 ADUO engine review",
     "Motorsport-Total": "FIA veröffentlicht finale ADUO-Ergebnisse 2026 ohne Änderungen - Motorsport-Total.com",
     "Sky Sports F1": "No further F1 engine upgrades handed out after final 2026 review period",
-    "GPFans": "FIA announce crucial final ADUO results as upgrade plans for every F1 team revealed"
+    "GPFans": "FIA announce crucial final ADUO results as upgrade plans for every F1 team revealed",
+    "Motorsport Week": "FIA reveals findings of final F1 ADUO window"
    },
-   "last": "2026-11-10T12:48:26.994045+00:00"
+   "last": "2026-11-10T14:48:31.291377+00:00"
   },
   "S6621": {
    "title": "Lawson shares mentality approach amid F1 seat speculation",
@@ -15998,9 +15971,35 @@
     "Motorsport-Total": "Verstappen ahnte es schon vor dem Start: Was ihm in Brasilien sofort auffiel - Motorsport-Total.com"
    },
    "last": "2026-11-10T14:38:29.763231+00:00"
+  },
+  "S6652": {
+   "title": "Rio Ferdinand comments on William Saliba's return to Arsenal",
+   "first": "2026-11-10T14:48:31.291330+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T14:27:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "William Saliba's return gives Arsenal's Arteta a selection headache - Rio Ferdinand"
+   },
+   "last": "2026-11-10T14:48:31.291348+00:00"
+  },
+  "S6653": {
+   "title": "PWHL unveils branding for four new franchises",
+   "first": "2026-11-10T14:48:31.291354+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T13:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Professional Women's Hockey League unveils branding for its four new franchises"
+   },
+   "last": "2026-11-10T14:48:31.291360+00:00"
   }
  },
- "story_seq": 6651,
+ "story_seq": 6653,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16119,17 +16118,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T14:38:22.397188+00:00",
+ "last_run": "2026-11-10T14:48:22.951503+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T14:39:22.511017+00:00",
-   "title": "Silverstone'da hırsızlık: Polis iki Verstappen kaskını arıyor",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-11-07T14:54:25.670497+00:00",
    "title": "Hamilton, Leclerc ve Verstappen Brezilya'da grid cezası aldı",
