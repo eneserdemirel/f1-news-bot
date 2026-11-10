@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "13965aced3807b58": "2026-10-27T18:45:30.440672+00:00",
-  "cfbb6476a5d990ca": "2026-10-27T18:45:30.440672+00:00",
-  "249c88078d312cc6": "2026-10-27T18:45:30.440672+00:00",
-  "4a3ec54565a44083": "2026-10-27T18:45:30.440672+00:00",
-  "c5599c8942c9f101": "2026-10-27T18:45:30.440672+00:00",
   "22bf77ca8a90d576": "2026-10-27T18:55:28.504278+00:00",
   "c1065a425e3ca96b": "2026-10-27T18:55:28.504278+00:00",
   "efd19d04e8715251": "2026-10-27T18:55:28.504278+00:00",
@@ -7833,7 +7828,13 @@
   "08695bda73bc4e84": "2026-11-10T18:19:12.572529+00:00",
   "c7e95634fb9ad3eb": "2026-11-10T18:29:11.500270+00:00",
   "c0457d146848e8ea": "2026-11-10T18:29:11.500270+00:00",
-  "ce7ebd01200216bf": "2026-11-10T18:39:13.126447+00:00"
+  "ce7ebd01200216bf": "2026-11-10T18:39:13.126447+00:00",
+  "d07cf93dc3ab6420": "2026-11-10T18:49:18.129424+00:00",
+  "0f4ac9836aa8485c": "2026-11-10T18:49:18.129424+00:00",
+  "0f6139634d87de87": "2026-11-10T18:49:18.129424+00:00",
+  "dd3bff127203fe6d": "2026-11-10T18:49:18.129424+00:00",
+  "522fd81be1a134df": "2026-11-10T18:49:18.129424+00:00",
+  "f06ac7f84d4805a9": "2026-11-10T18:49:18.129424+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7901,21 +7902,6 @@
    },
    "last": "2026-11-08T20:03:22.542222+00:00"
   },
-  "S6085": {
-   "title": "F1 Driver of the Day voting explained for Brazilian GP",
-   "first": "2026-11-08T15:57:30.421119+00:00",
-   "sources": {
-    "GPFans": "2026-11-08T15:57:00+00:00",
-    "Motorsport-Total": "2026-11-08T18:42:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 Driver Of The Day: How it works and how to vote for the Brazilian Grand Prix",
-    "Motorsport-Total": "Jetzt abstimmen: Wer waren in Interlagos die besten Fahrer? - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T18:48:16.159169+00:00"
-  },
   "S6105": {
    "title": "Inter Milan vs Como match team stats",
    "first": "2026-11-08T17:12:28.610844+00:00",
@@ -7973,19 +7959,6 @@
     "ESPN F1": "Tenerife vow to financially support Jesús de Miguel's daughter until she turns 18"
    },
    "last": "2026-11-08T20:28:15.455871+00:00"
-  },
-  "S6124": {
-   "title": "Purdue fires defensive coordinator Kevin Kane",
-   "first": "2026-11-08T18:13:17.755346+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T17:49:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Purdue fires DC Kevin Kane after allowing 27 second-half points vs. Maryland"
-   },
-   "last": "2026-11-08T18:43:22.486609+00:00"
   },
   "S6125": {
    "title": "Bengals beat Falcons 34-17 in Week 10 game recap",
@@ -8080,19 +8053,6 @@
     "ESPN F1": "Mercedes completes the double with constructors' title at São Paulo Grand Prix"
    },
    "last": "2026-11-08T22:53:17.961209+00:00"
-  },
-  "S6133": {
-   "title": "Kiera Staude scores for Georgia (college soccer)",
-   "first": "2026-11-08T18:48:16.159114+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T18:21:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kiera Staude finds the back of the net for Georgia"
-   },
-   "last": "2026-11-08T18:48:16.159135+00:00"
   },
   "S6134": {
    "title": "Man United fans 'Owners out' banner walkout falls through",
@@ -14590,7 +14550,8 @@
     "RacingNews365 NL": "2026-11-10T14:40:00+00:00",
     "PlanetF1": "2026-11-10T14:44:17+00:00",
     "FormulaPassion": "2026-11-10T14:35:19+00:00",
-    "Motorsport-Total": "2026-11-10T15:44:19+00:00"
+    "Motorsport-Total": "2026-11-10T15:44:19+00:00",
+    "Motorsport Week": "2026-11-10T18:30:14+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14602,9 +14563,10 @@
     "RacingNews365 NL": "Imola krijgt definitief uitsluitsel over mogelijke invalbeurt",
     "PlanetF1": "F1 confirms 2026 season finale with new announcement",
     "FormulaPassion": "Ufficiale, la F1 conferma Qatar e Abu Dhabi: niente Imola a fine anno",
-    "Motorsport-Total": "Absage an Imola: Formel 1 setzt alles auf Katar und Abu Dhabi - Motorsport-Total.com"
+    "Motorsport-Total": "Absage an Imola: Formel 1 setzt alles auf Katar und Abu Dhabi - Motorsport-Total.com",
+    "Motorsport Week": "F1 makes crucial decision on Middle East races"
    },
-   "last": "2026-11-10T17:09:15.948525+00:00"
+   "last": "2026-11-10T18:49:22.479822+00:00"
   },
   "S6616": {
    "title": "Alonso credits 'phenomenal' Aston Martin car after Brazil drive",
@@ -15103,14 +15065,14 @@
    "title": "Rory McIlroy says DeChambeau would 'bring eyeballs' to DP World Tour",
    "first": "2026-11-10T14:28:30.016286+00:00",
    "sources": {
-    "ESPN F1": "2026-11-10T14:21:47+00:00"
+    "ESPN F1": "2026-11-10T14:15:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Rory McIlroy says Bryson DeChambeau would 'bring eyeballs' to DP World Tour"
    },
-   "last": "2026-11-10T16:38:26.948327+00:00"
+   "last": "2026-11-10T18:49:22.479817+00:00"
   },
   "S6650": {
    "title": "Formula 2 announces documentary marking 10 years",
@@ -15977,9 +15939,61 @@
     "ESPN F1": "Xavi Simons reveals emotional toll of Spurs ACL injury as return nears"
    },
    "last": "2026-11-10T18:39:14.506512+00:00"
+  },
+  "S6716": {
+   "title": "John Florence surfing Olympic-sized decision feature",
+   "first": "2026-11-10T18:49:22.479772+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T18:47:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision"
+   },
+   "last": "2026-11-10T18:49:22.479789+00:00"
+  },
+  "S6717": {
+   "title": "Pros and cons of USMNT or Man United for Pochettino",
+   "first": "2026-11-10T18:49:22.479795+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T18:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USMNT or Manchester United: Pros and cons of Pochettino's options"
+   },
+   "last": "2026-11-10T18:49:22.479801+00:00"
+  },
+  "S6718": {
+   "title": "Oregon State QB Braden Atkinson re-signs for 2027",
+   "first": "2026-11-10T18:49:22.479805+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T14:36:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Oregon State QB Braden Atkinson re-signs for 2027"
+   },
+   "last": "2026-11-10T18:49:22.479810+00:00"
+  },
+  "S6719": {
+   "title": "Honda to investigate Stroll's Brazil DNF, Alonso comments",
+   "first": "2026-11-10T18:49:22.479825+00:00",
+   "sources": {
+    "GPFans": "2026-11-10T18:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Honda set for ANOTHER Aston Martin investigation as Fernando Alonso makes stunning admission"
+   },
+   "last": "2026-11-10T18:49:22.479829+00:00"
   }
  },
- "story_seq": 6715,
+ "story_seq": 6719,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16098,7 +16112,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T18:39:13.126447+00:00",
+ "last_run": "2026-11-10T18:49:18.129424+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
