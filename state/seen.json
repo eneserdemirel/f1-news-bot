@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cecfdcc5a8f228d2": "2026-10-27T00:32:42.238942+00:00",
-  "57ec09c4d7122132": "2026-10-27T00:32:42.238942+00:00",
-  "aa3199e8f21cdae3": "2026-10-27T00:32:42.238942+00:00",
   "662e40158a64c4eb": "2026-10-27T00:42:39.256586+00:00",
   "7c73526b26efc69c": "2026-10-27T00:42:39.256586+00:00",
   "65f702ae9847b59f": "2026-10-27T00:42:39.256586+00:00",
@@ -7825,7 +7822,8 @@
   "bb680bf76eb91249": "2026-11-09T23:56:22.995626+00:00",
   "9a1a14e88dad5fa2": "2026-11-10T00:06:24.843596+00:00",
   "11936215113c11bb": "2026-11-10T00:16:23.360338+00:00",
-  "62101cd85f21f5b7": "2026-11-10T00:26:23.665281+00:00"
+  "62101cd85f21f5b7": "2026-11-10T00:26:23.665281+00:00",
+  "2d29f7915391f3b1": "2026-11-10T00:36:24.290843+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8078,19 +8076,6 @@
    },
    "last": "2026-11-08T12:06:41.506109+00:00"
   },
-  "S5820": {
-   "title": "Trump asks Dana White to be press secretary",
-   "first": "2026-11-07T21:55:41.128814+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T21:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Trump says he's asked UFC boss Dana White to take over as press secretary"
-   },
-   "last": "2026-11-08T00:35:40.185507+00:00"
-  },
   "S5829": {
    "title": "Leclerc says wet qualifying lab session valuable despite P4",
    "first": "2026-11-07T22:05:48.603832+00:00",
@@ -8220,58 +8205,6 @@
     "ESPN F1": "Cheavon Clarke upsets Chris Billam-Smith with 7th-round stoppage"
    },
    "last": "2026-11-08T05:11:06.640049+00:00"
-  },
-  "S5890": {
-   "title": "Washington State vs. High Point game highlights",
-   "first": "2026-11-08T00:30:38.464846+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T00:23:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Washington State Cougars vs. High Point Panthers: Game Highlights"
-   },
-   "last": "2026-11-08T00:30:38.464868+00:00"
-  },
-  "S5891": {
-   "title": "Nashville breaks Miami's MLS single-season points record",
-   "first": "2026-11-08T00:30:38.464873+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T23:09:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nashville breaks Miami's MLS single-season points record"
-   },
-   "last": "2026-11-08T00:30:38.464877+00:00"
-  },
-  "S5892": {
-   "title": "Analysis of how Hülkenberg excelled in Brazil qualifying",
-   "first": "2026-11-08T00:30:38.464880+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-08T00:06:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Warum Nico Hülkenberg in der Brasilien-Qualifikation zauberte"
-   },
-   "last": "2026-11-08T00:30:38.464884+00:00"
-  },
-  "S5893": {
-   "title": "Texas 'King' jab at Missouri trolls college football fans",
-   "first": "2026-11-08T00:35:40.185486+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-07T23:57:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Texas' 'King' jab at Missouri leads trolls from college football Week 10"
-   },
-   "last": "2026-11-08T00:35:40.185501+00:00"
   },
   "S5894": {
    "title": "Philadelphia Union goals as they reach MLS playoffs",
@@ -16861,9 +16794,22 @@
     "PlanetF1": "Max Verstappen hits back at Johnny Herbert over Liam Lawson ‘threat’ claim"
    },
    "last": "2026-11-10T00:16:25.050623+00:00"
+  },
+  "S6531": {
+   "title": "Jeff Hafley criticises Dolphins' discipline after 11 penalties",
+   "first": "2026-11-10T00:36:25.571713+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T22:14:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jeff Hafley calls out Dolphins' discipline after 11 penalties"
+   },
+   "last": "2026-11-10T00:36:25.571730+00:00"
   }
  },
- "story_seq": 6530,
+ "story_seq": 6531,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16982,7 +16928,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T00:26:23.665281+00:00",
+ "last_run": "2026-11-10T00:36:24.290843+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
