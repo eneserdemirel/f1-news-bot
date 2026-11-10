@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c07cceb14a016abb": "2026-10-27T13:24:49.352403+00:00",
   "8fb5cad446cf7d67": "2026-10-27T13:34:50.767002+00:00",
   "0d6bc42987e52c4a": "2026-10-27T13:44:49.759281+00:00",
   "ba940a0ef4eb24be": "2026-10-27T13:44:49.759281+00:00",
@@ -7843,7 +7842,10 @@
   "f5b15cd46b0822db": "2026-11-10T12:58:22.548017+00:00",
   "2827aeb5fa9c8ccb": "2026-11-10T13:08:21.089348+00:00",
   "8379a1f5a345bec8": "2026-11-10T13:08:21.089348+00:00",
-  "5a0f7978656f1f7b": "2026-11-10T13:18:21.542847+00:00"
+  "5a0f7978656f1f7b": "2026-11-10T13:18:21.542847+00:00",
+  "9ab2d3a9121056c2": "2026-11-10T13:28:22.227216+00:00",
+  "815e864c4311fbf6": "2026-11-10T13:28:22.227216+00:00",
+  "a0be521b9fd61675": "2026-11-10T13:28:22.227216+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8121,32 +8123,6 @@
     "ESPN F1": "Rahm kicks off career rebuild with Abu Dhabi win, holding off McIlroy and Hatton"
    },
    "last": "2026-11-08T20:03:22.542222+00:00"
-  },
-  "S6050": {
-   "title": "Wyoming 41-35 UNLV college football game recap",
-   "first": "2026-11-08T13:27:23.481116+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T08:03:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wyoming 41-35 UNLV (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T13:27:23.481135+00:00"
-  },
-  "S6051": {
-   "title": "Verstappen congratulates Leclerc on daughter's birth in Brazil",
-   "first": "2026-11-08T13:27:23.481142+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-08T13:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen dolt met 'vader' Leclerc: \"Wordt alleen maar beter!\""
-   },
-   "last": "2026-11-08T13:27:23.481148+00:00"
   },
   "S6052": {
    "title": "Preview: can Hamilton and Verstappen fight back at Interlagos",
@@ -16121,9 +16097,48 @@
     "FormulaPassion": "Gasly: “È deludente mancare ancora una volta la zona punti”"
    },
    "last": "2026-11-10T13:18:23.651269+00:00"
+  },
+  "S6640": {
+   "title": "Verstappen calls for Red Bull investigation after Brazil comeback",
+   "first": "2026-11-10T13:28:26.681108+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T13:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen calls for Red Bull investigation: 'There is something wrong'"
+   },
+   "last": "2026-11-10T13:28:26.681125+00:00"
+  },
+  "S6641": {
+   "title": "Kasper Schormans wins Spanish F4 title",
+   "first": "2026-11-10T13:28:26.681131+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-10T13:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Nederlandse autosporttalenten timmeren hard aan de weg richting F1"
+   },
+   "last": "2026-11-10T13:28:26.681137+00:00"
+  },
+  "S6642": {
+   "title": "Wolff says he does not want to be compared with Frank Williams",
+   "first": "2026-11-10T13:28:26.681141+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-10T13:15:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Warum sich Toto Wolff nicht mit Frank Williams vergleichen will - Motorsport-Total.com"
+   },
+   "last": "2026-11-10T13:28:26.681146+00:00"
   }
  },
- "story_seq": 6639,
+ "story_seq": 6642,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16242,7 +16257,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T13:18:21.542847+00:00",
+ "last_run": "2026-11-10T13:28:22.227216+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
@@ -17762,6 +17777,11 @@
    "t": "2026-11-10T13:18:27.390907+00:00",
    "title": "Gasly: \"Bir kez daha puan bölgesini kaçırmak hayal kırıklığı\"",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T13:28:29.612919+00:00",
+   "title": "Toto Wolff neden Frank Williams ile kıyaslanmak istemiyor",
+   "source": "Motorsport-Total"
   }
  ]
 }
