@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d94d36830cfe0cc8": "2026-10-27T06:13:19.620921+00:00",
   "72c44c3d5be304cd": "2026-10-27T06:23:19.007453+00:00",
   "58fc9d90781d9b40": "2026-10-27T06:23:19.007453+00:00",
   "105a8207860ef60e": "2026-10-27T06:33:22.461262+00:00",
@@ -7815,7 +7814,8 @@
   "bd4d9787cde69eb3": "2026-11-10T05:46:59.497935+00:00",
   "1147fd54964ac02a": "2026-11-10T05:46:59.497935+00:00",
   "2359e97387fc848b": "2026-11-10T06:06:54.821494+00:00",
-  "3509f45458d9a70b": "2026-11-10T06:06:54.821494+00:00"
+  "3509f45458d9a70b": "2026-11-10T06:06:54.821494+00:00",
+  "96010125dc7728d6": "2026-11-10T06:16:55.180166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16422,9 +16422,22 @@
     "GPblog": "Hamilton has just one word to say about Alonso battle at Brazilian GP"
    },
    "last": "2026-11-10T06:06:57.652840+00:00"
+  },
+  "S6568": {
+   "title": "Flyers 3-1 Canucks (10 Nov, 2026) game recap",
+   "first": "2026-11-10T06:16:57.348816+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T06:09:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Flyers 3-1 Canucks (10 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-10T06:16:57.348836+00:00"
   }
  },
- "story_seq": 6567,
+ "story_seq": 6568,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16543,17 +16556,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T06:06:54.821494+00:00",
+ "last_run": "2026-11-10T06:16:55.180166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T06:08:52.905608+00:00",
-   "title": "Verstappen, Red Bull'un doğru seçiminden yararlanabilir; Norris alternatifi gösteriyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-07T06:23:56.665439+00:00",
    "title": "Vasseur: Hamilton ve Leclerc'in yönetimi zor ama yeni sayfa açıldı",
