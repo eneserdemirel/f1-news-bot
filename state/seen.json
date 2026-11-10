@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c5c4c5dc615280f9": "2026-10-27T12:13:58.492567+00:00",
-  "0cabde1071a2228c": "2026-10-27T12:13:58.492567+00:00",
-  "058c6f372bc5236b": "2026-10-27T12:13:58.492567+00:00",
-  "dd6bd338794a0428": "2026-10-27T12:13:58.492567+00:00",
-  "6675525570001198": "2026-10-27T12:13:58.492567+00:00",
   "697803eb1e913c1d": "2026-10-27T12:24:47.961944+00:00",
   "91db0ab3f90982d1": "2026-10-27T12:24:47.961944+00:00",
   "f944ff13085fd690": "2026-10-27T12:34:49.820848+00:00",
@@ -7838,7 +7833,13 @@
   "41834fad56e2cf64": "2026-11-10T12:08:20.913341+00:00",
   "bde1877c762eac7a": "2026-11-10T12:08:20.913341+00:00",
   "f47cff32ca87c80c": "2026-11-10T12:08:20.913341+00:00",
-  "90bd1cbed03972f3": "2026-11-10T12:08:20.913341+00:00"
+  "90bd1cbed03972f3": "2026-11-10T12:08:20.913341+00:00",
+  "d7fedece1551d59f": "2026-11-10T12:18:21.344967+00:00",
+  "b5345b37017327df": "2026-11-10T12:18:21.344967+00:00",
+  "d8222d3fd124de41": "2026-11-10T12:18:21.344967+00:00",
+  "d7c788a7cef73498": "2026-11-10T12:18:21.344967+00:00",
+  "e18b68ae291654f2": "2026-11-10T12:18:21.344967+00:00",
+  "d60ab8a52700dddd": "2026-11-10T12:18:21.344967+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8045,19 +8046,6 @@
    },
    "last": "2026-11-08T15:27:28.640938+00:00"
   },
-  "S6018": {
-   "title": "Wolff dismisses panic over Qatar and Abu Dhabi security concerns",
-   "first": "2026-11-08T10:56:40.141729+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T10:51:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Katar und Abu Dhabi: Toto Wolff zeigt kein Verständnis für Panikmache - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T12:16:44.025214+00:00"
-  },
   "S6019": {
    "title": "Live blog: Brazilian GP race, Norris leads Antonelli early",
    "first": "2026-11-08T11:01:48.375867+00:00",
@@ -8086,45 +8074,6 @@
     "PlanetF1": "F1 Brazil GP LIVE: Race updates as Norris takes pole, Hamilton reaches 400 GP starts"
    },
    "last": "2026-11-08T17:12:28.610880+00:00"
-  },
-  "S6031": {
-   "title": "Texas State 42-21 Oregon State college football recap",
-   "first": "2026-11-08T12:11:38.002704+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T08:03:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Texas State 42-21 Oregon State (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T12:11:38.002724+00:00"
-  },
-  "S6032": {
-   "title": "WEC Monza: Cadillac leads Genesis, two Ferraris penalised",
-   "first": "2026-11-08T12:11:38.002728+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-08T12:05:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "WEC | Monza, 2a Ora: Cadillac davanti a Genesis, due Ferrari penalizzate"
-   },
-   "last": "2026-11-08T12:11:38.002733+00:00"
-  },
-  "S6033": {
-   "title": "Alonso's wet-weather Q3 record over last 15 qualifyings",
-   "first": "2026-11-08T12:11:38.002736+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-08T11:35:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Alonso mago della pioggia: in Q3 nelle ultime 15 qualifiche “bagnate”"
-   },
-   "last": "2026-11-08T12:11:38.002739+00:00"
   },
   "S6034": {
    "title": "Seahawks' Sam Darnold injury status for Week 10 (NFL)",
@@ -8166,32 +8115,6 @@
     "GPblog": "Leclerc put on the spot over Hamilton claim: 'There's been way too many comments'"
    },
    "last": "2026-11-08T14:02:29.578408+00:00"
-  },
-  "S6037": {
-   "title": "Massa analysis on why Ferrari cannot impose team orders",
-   "first": "2026-11-08T12:16:44.025199+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Massa reveals why Ferrari cannot give Hamilton and Leclerc team orders"
-   },
-   "last": "2026-11-08T12:16:44.025203+00:00"
-  },
-  "S6038": {
-   "title": "Departing Red Bull mechanic Ole Schack comments on Verstappen",
-   "first": "2026-11-08T12:16:44.025204+00:00",
-   "sources": {
-    "GPFans": "2026-11-08T12:12:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Departing Red Bull mechanic spills the beans on Max Verstappen"
-   },
-   "last": "2026-11-08T12:16:44.025208+00:00"
   },
   "S6039": {
    "title": "Antonelli says he will frame Hamilton and Verstappen podium photo",
@@ -16051,7 +15974,9 @@
     "Autosport": "2026-11-10T11:45:39+00:00",
     "RacingNews365": "2026-11-10T11:48:00+00:00",
     "Motorsport.com Italia": "2026-11-10T11:55:23+00:00",
-    "PlanetF1": "2026-11-10T12:00:30+00:00"
+    "PlanetF1": "2026-11-10T12:00:30+00:00",
+    "Crash.net": "2026-11-10T12:10:00+00:00",
+    "Motorsport-Total": "2026-11-10T12:10:24+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16065,9 +15990,11 @@
     "Autosport": "FIA reveals ADUO results in final review of 2026 F1 season",
     "RacingNews365": "FIA make key decision affecting Red Bull for start of 2027 F1 season",
     "Motorsport.com Italia": "F1 | La FIA svela i nuovi risultati dell'ADUO senza deroge extra: si lavora a una revisione per il 2027",
-    "PlanetF1": "FIA confirms findings after final F1 2026 ADUO window closes"
+    "PlanetF1": "FIA confirms findings after final F1 2026 ADUO window closes",
+    "Crash.net": "FIA announces results of final 2026 F1 ADUO engine review",
+    "Motorsport-Total": "FIA veröffentlicht finale ADUO-Ergebnisse 2026 ohne Änderungen - Motorsport-Total.com"
    },
-   "last": "2026-11-10T12:08:25.454715+00:00"
+   "last": "2026-11-10T12:18:28.904360+00:00"
   },
   "S6621": {
    "title": "Lawson shares mentality approach amid F1 seat speculation",
@@ -16099,14 +16026,18 @@
    "title": "Final Qatar and Abu Dhabi GP decision said to be imminent",
    "first": "2026-11-10T11:27:43.395374+00:00",
    "sources": {
-    "PlanetF1": "2026-11-10T11:23:06+00:00"
+    "PlanetF1": "2026-11-10T11:23:06+00:00",
+    "GPblog": "2026-11-10T12:08:00+00:00",
+    "FormulaPassion": "2026-11-10T11:57:31+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Final Qatar, Abu Dhabi GP decision imminent in fresh F1 2026 update"
+    "PlanetF1": "Final Qatar, Abu Dhabi GP decision imminent in fresh F1 2026 update",
+    "GPblog": "FIA President Ben Sulayem shares clear message on F1 season finale",
+    "FormulaPassion": "Niente Imola, la FIA conferma Qatar e Abu Dhabi"
    },
-   "last": "2026-11-10T11:27:43.395379+00:00"
+   "last": "2026-11-10T12:18:28.904356+00:00"
   },
   "S6624": {
    "title": "Hamilton visits Egypt humanitarian aid facilities near Gaza",
@@ -16172,9 +16103,35 @@
     "RacingNews365 NL": "Verstappen maakt indruk met psychologisch steekspel: \"Was dat wel terecht?\""
    },
    "last": "2026-11-10T12:08:25.454708+00:00"
+  },
+  "S6629": {
+   "title": "Bakambu files fair housing lawsuit",
+   "first": "2026-11-10T12:18:28.904306+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T11:49:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ex-San Diego FC forward Cédric Bakambu files fair housing lawsuit"
+   },
+   "last": "2026-11-10T12:18:28.904325+00:00"
+  },
+  "S6630": {
+   "title": "Mekies praises Red Bull's double podium at Interlagos",
+   "first": "2026-11-10T12:18:28.904346+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-10T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Doppio podio per la Red Bull a Interlagos, Mekies: “Frutto del nostro grande lavoro”"
+   },
+   "last": "2026-11-10T12:18:28.904351+00:00"
   }
  },
- "story_seq": 6628,
+ "story_seq": 6630,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16293,17 +16250,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T12:08:20.913341+00:00",
+ "last_run": "2026-11-10T12:18:21.344967+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T12:09:21.903012+00:00",
-   "title": "Gabriele Minì, Interlagos'ta FP1'de yedinci oldu",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-07T12:29:18.807158+00:00",
    "title": "Ferrari, Mercedes'e saldırıyor: Bu yükseltmeler tartışma yarattı",
@@ -17803,6 +17755,21 @@
    "t": "2026-11-10T12:08:30.817508+00:00",
    "title": "Verstappen'in psikolojik oyunu: \"Bu gerçekten hak mı?\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-10T12:18:38.436310+00:00",
+   "title": "Red Bull Interlagos'ta çifte podyum yaptı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-10T12:18:38.956326+00:00",
+   "title": "FIA Başkanı Ben Sulayem'den F1 sezon finali için net mesaj",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-10T12:18:39.495322+00:00",
+   "title": "FIA, 2026 ADUO nihai sonuçlarını değişiklik yapmadan yayımladı",
+   "source": "Motorsport-Total"
   }
  ]
 }
