@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fb6a110d88342bfc": "2026-10-27T07:13:58.253160+00:00",
   "9ab8b4806e2cb973": "2026-10-27T07:24:00.212798+00:00",
   "a259e8f0699a4931": "2026-10-27T07:24:00.212798+00:00",
   "2e8b6a85ab87ecad": "2026-10-27T07:24:00.212798+00:00",
@@ -7821,7 +7820,9 @@
   "5980389d677cd7c0": "2026-11-10T06:47:38.608647+00:00",
   "e2705a55c011d628": "2026-11-10T07:07:38.810254+00:00",
   "715bf596f7349eec": "2026-11-10T07:07:38.810254+00:00",
-  "a1c817796271b33c": "2026-11-10T07:07:38.810254+00:00"
+  "a1c817796271b33c": "2026-11-10T07:07:38.810254+00:00",
+  "9f45f08650fb7d0b": "2026-11-10T07:17:39.978122+00:00",
+  "e3a7b98cf1b85194": "2026-11-10T07:17:39.978122+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8125,21 +8126,6 @@
    },
    "last": "2026-11-08T13:47:23.814389+00:00"
   },
-  "S5858": {
-   "title": "Hamilton says he used qualifying as a test session",
-   "first": "2026-11-07T23:05:38.890665+00:00",
-   "sources": {
-    "Formula 1": "2026-11-07T23:05:38.890682+00:00",
-    "FormulaPassion": "2026-11-08T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Hamilton reflects on grid penalties and PU changes in Brazil",
-    "FormulaPassion": "Hamilton: “Le qualifiche sono state un test. Adoro guidare sotto la pioggia”"
-   },
-   "last": "2026-11-08T07:16:11.713791+00:00"
-  },
   "S5860": {
    "title": "Alonso disappointed despite first Q3 of the season in Brazil",
    "first": "2026-11-07T23:10:39.077974+00:00",
@@ -8263,71 +8249,6 @@
     "RacingNews365": "Toto Wolff makes remarkable Kimi Antonelli claim: 'He wouldn't have lasted'"
    },
    "last": "2026-11-08T10:06:38.293623+00:00"
-  },
-  "S5969": {
-   "title": "Michigan State 15-6 Michigan college football recap",
-   "first": "2026-11-08T07:16:11.713746+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T04:51:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michigan State 15-6 Michigan (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T07:16:11.713765+00:00"
-  },
-  "S5970": {
-   "title": "Lontrell Turner 9-yard rushing TD in college football",
-   "first": "2026-11-08T07:16:11.713771+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T04:06:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lontrell Turner scores 9-yard rushing TD"
-   },
-   "last": "2026-11-08T07:16:11.713777+00:00"
-  },
-  "S5971": {
-   "title": "Antonelli says third on grid is fine after Russell penalty",
-   "first": "2026-11-08T07:16:11.713795+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-08T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli: “Non sapevo cosa aspettarmi, la terza posizione va bene”"
-   },
-   "last": "2026-11-08T07:16:11.713799+00:00"
-  },
-  "S5972": {
-   "title": "Damon Hill says Ferrari should make Hamilton first driver",
-   "first": "2026-11-08T07:16:11.713803+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-08T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hamilton-Leclerc, Damon Hill non ha dubbi: “La Ferrari deve eleggere Lewis prima guida”"
-   },
-   "last": "2026-11-08T07:16:11.713807+00:00"
-  },
-  "S5973": {
-   "title": "Wolff says Vasseur doesn't need his advice on Hamilton-Leclerc",
-   "first": "2026-11-08T07:16:11.713810+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-08T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Tensioni Hamilton-Leclerc, Wolff: “Vasseur non ha bisogno dei miei consigli, a volte servono episodi duri per chiarire le cose”"
-   },
-   "last": "2026-11-08T07:16:11.713814+00:00"
   },
   "S5974": {
    "title": "Spurs 125-103 Trail Blazers NBA game recap",
@@ -16460,9 +16381,35 @@
     "RacingNews365 NL": "Verstappen en Red Bull bezig met unieke reeks na knappe ommekeer"
    },
    "last": "2026-11-10T07:07:41.827919+00:00"
+  },
+  "S6576": {
+   "title": "Hamilton explains Ferrari issue behind Brazil race fade",
+   "first": "2026-11-10T07:17:42.727263+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton explains 'massive' Ferrari issue after surprise failure"
+   },
+   "last": "2026-11-10T07:17:42.727281+00:00"
+  },
+  "S6577": {
+   "title": "Kravitz flags unusual absence from Red Bull garage in Brazil",
+   "first": "2026-11-10T07:17:42.727304+00:00",
+   "sources": {
+    "GPFans": "2026-11-10T07:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Ted Kravitz raises alarm over absent Red Bull figure: 'This isn't usual'"
+   },
+   "last": "2026-11-10T07:17:42.727310+00:00"
   }
  },
- "story_seq": 6575,
+ "story_seq": 6577,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16581,32 +16528,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T07:07:38.810254+00:00",
+ "last_run": "2026-11-10T07:17:39.978122+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T07:08:57.180435+00:00",
-   "title": "Hamilton: Interlagos'ta zorlu bir gün, FP2'de sorunlar var",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-07T07:08:57.614690+00:00",
-   "title": "Antonelli: Ferrari Qualifying'de daha fazlasını bulacak",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-07T07:08:58.046831+00:00",
-   "title": "Montezemolo: Antonelli'de Schumacher, Senna ve Verstappen gibi DNA var",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-07T07:13:52.413498+00:00",
-   "title": "Rosberg: Lauda emeklilik kararım yüzünden kızgındı",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-07T07:19:01.690528+00:00",
    "title": "Wolff: Orta Doğu'ya gitmek istemeyen gitmesin",
@@ -18061,6 +17988,16 @@
    "t": "2026-11-10T07:07:47.003134+00:00",
    "title": "Verstappen ve Red Bull, Baku güncellemesinden sonra dikkat çeken bir yükseliş yaşıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-10T07:17:48.642435+00:00",
+   "title": "Hamilton, Sao Paulo'da ani oversteer sorununu anlattı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-10T07:17:49.067425+00:00",
+   "title": "Kravitz, Red Bull'da görülmeyen isim için alarm verdi",
+   "source": "GPFans"
   }
  ]
 }
