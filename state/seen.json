@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8992805521a26e64": "2026-10-27T16:54:50.560488+00:00",
-  "020e6b0e8db27e97": "2026-10-27T16:54:50.560488+00:00",
   "4f59d581cf36e467": "2026-10-27T17:04:51.192792+00:00",
   "d8002aeaff1c8ca7": "2026-10-27T17:04:51.192792+00:00",
   "0a1dff67ee9fea30": "2026-10-27T17:04:51.192792+00:00",
@@ -7844,7 +7842,10 @@
   "46a017dfcefc69dd": "2026-11-10T16:48:21.492530+00:00",
   "5d8569fe4be4e1ed": "2026-11-10T16:48:21.492530+00:00",
   "6decd71b56fa2480": "2026-11-10T16:48:21.492530+00:00",
-  "890433984abce6b0": "2026-11-10T16:48:21.492530+00:00"
+  "890433984abce6b0": "2026-11-10T16:48:21.492530+00:00",
+  "e8c7485ce0ba18ff": "2026-11-10T16:59:16.288323+00:00",
+  "a692815607360c64": "2026-11-10T16:59:16.288323+00:00",
+  "e8f8963ddb43bcfb": "2026-11-10T16:59:16.288323+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7984,21 +7985,6 @@
    },
    "last": "2026-11-08T17:12:28.610872+00:00"
   },
-  "S6100": {
-   "title": "WEC Monza 6 Hours: Cadillac wins, Toyota takes title",
-   "first": "2026-11-08T16:47:27.309344+00:00",
-   "sources": {
-    "AS": "2026-11-08T16:21:31+00:00",
-    "Motorsport.com Italia": "2026-11-08T16:45:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "AS": "Cadillac gana en Monza, el Toyota #8 reina en el WEC y podio de Aston Martin",
-    "Motorsport.com Italia": "WEC | Cadillac vince la 6h di Monza, Ferrari a podio. Toyota #8 ed Edgar-Corvette Campioni"
-   },
-   "last": "2026-11-08T16:52:30.322529+00:00"
-  },
   "S6101": {
    "title": "Ipswich 1-2 Bournemouth match analysis",
    "first": "2026-11-08T16:52:30.322496+00:00",
@@ -8024,32 +8010,6 @@
     "ESPN F1": "Cowboys WR Pickens, CB Porter, LB Overshown inactive against Colts"
    },
    "last": "2026-11-08T18:23:16.716069+00:00"
-  },
-  "S6103": {
-   "title": "Analysis: Bezzecchi wins Qatar, Marquez closes in on MotoGP title",
-   "first": "2026-11-08T16:57:24.613747+00:00",
-   "sources": {
-    "The Race": "2026-11-08T16:54:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "The Race": "Bezzecchi dominates but Marquez on brink of title"
-   },
-   "last": "2026-11-08T16:57:24.613752+00:00"
-  },
-  "S6104": {
-   "title": "Aramco office in Riyadh damaged by debris after attack, Aston Martin sponsor",
-   "first": "2026-11-08T16:57:24.613756+00:00",
-   "sources": {
-    "GPFans": "2026-11-08T16:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Aston Martin sponsor hit by Riyadh attack amid fears over F1 races"
-   },
-   "last": "2026-11-08T16:57:24.613760+00:00"
   },
   "S6105": {
    "title": "Inter Milan vs Como match team stats",
@@ -15974,9 +15934,35 @@
     "ESPN F1": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite"
    },
    "last": "2026-11-10T16:48:25.255547+00:00"
+  },
+  "S6687": {
+   "title": "Palmer column: why Norris's Sao Paulo win was among his best",
+   "first": "2026-11-10T16:59:19.433071+00:00",
+   "sources": {
+    "Formula 1": "2026-11-10T16:59:19.433086+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins"
+   },
+   "last": "2026-11-10T16:59:19.433090+00:00"
+  },
+  "S6688": {
+   "title": "Hamilton and Leclerc joke after Ferrari crisis meeting",
+   "first": "2026-11-10T16:59:19.433095+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-10T16:55:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Ferrari: Hamilton und Leclerc machten Witze nach dem Krisengespräch - Motorsport-Total.com"
+   },
+   "last": "2026-11-10T16:59:19.433102+00:00"
   }
  },
- "story_seq": 6686,
+ "story_seq": 6688,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16095,17 +16081,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T16:49:16.226067+00:00",
+ "last_run": "2026-11-10T16:59:16.288323+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T16:50:13.014467+00:00",
-   "title": "Brezilya'da motor cezaları ikinci sıra mücadelesini karıştırdı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-07T17:10:08.592043+00:00",
    "title": "FIA, Perez'in Brezilya GP antrenmanındaki olaya ilişkin kararını açıkladı",
@@ -17595,6 +17576,11 @@
    "t": "2026-11-10T16:48:29.023166+00:00",
    "title": "Sao Paulo'da Power Rankings jüri üyelerini kim etkiledi?",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-10T16:59:23.654604+00:00",
+   "title": "Ferrari: Hamilton ve Leclerc kriz görüşmesinin ardından şaka yaptı",
+   "source": "Motorsport-Total"
   }
  ]
 }
