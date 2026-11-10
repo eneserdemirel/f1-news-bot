@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b980d09360cd3fb6": "2026-10-27T08:13:59.265107+00:00",
   "5a92dd43ab03fc3b": "2026-10-27T08:23:58.795447+00:00",
   "dc8d715dfdeb5a91": "2026-10-27T08:23:58.795447+00:00",
   "3de7b35d159bf4e4": "2026-10-27T08:33:59.874358+00:00",
@@ -7845,7 +7844,9 @@
   "760e01501f09412e": "2026-11-10T08:07:39.215143+00:00",
   "6c7afb6624e8e2e8": "2026-11-10T08:07:39.215143+00:00",
   "3e498d85cda372da": "2026-11-10T08:07:39.215143+00:00",
-  "7055b1ba2a87a3ca": "2026-11-10T08:07:39.215143+00:00"
+  "7055b1ba2a87a3ca": "2026-11-10T08:07:39.215143+00:00",
+  "d8576379006657b8": "2026-11-10T08:17:38.771628+00:00",
+  "1c9c60dc9132b7b2": "2026-11-10T08:17:38.771628+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8155,19 +8156,6 @@
    },
    "last": "2026-11-08T15:32:26.241994+00:00"
   },
-  "S5936": {
-   "title": "Georgia beats Ole Miss 42-7 with Gunner Stockton leading",
-   "first": "2026-11-08T04:21:05.930736+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T04:10:28+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gunner Stockton, Georgia dominate Ole Miss 42-7"
-   },
-   "last": "2026-11-08T08:16:45.985859+00:00"
-  },
   "S5950": {
    "title": "Sao Paulo Grand Prix race start time for today",
    "first": "2026-11-08T05:06:08.235384+00:00",
@@ -8202,19 +8190,6 @@
    },
    "last": "2026-11-08T09:21:42.731891+00:00"
   },
-  "S5961": {
-   "title": "Mario Cristobal criticizes refs' call in Miami loss to Notre Dame",
-   "first": "2026-11-08T06:11:05.472001+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T05:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mario Cristobal blasts refs' call denying Miami tying TD in loss to Notre Dame"
-   },
-   "last": "2026-11-08T08:16:45.985863+00:00"
-  },
   "S5965": {
    "title": "Wolff says Antonelli 'wouldn't have lasted' at Mercedes",
    "first": "2026-11-08T06:41:08.925705+00:00",
@@ -8230,19 +8205,6 @@
    },
    "last": "2026-11-08T10:06:38.293623+00:00"
   },
-  "S5976": {
-   "title": "Shuri Sakuma wins Japan Classic for first LPGA title",
-   "first": "2026-11-08T07:26:09.847613+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T07:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Shuri Sakuma cruises to 4-shot Japan Classic victory for first LPGA Tour title"
-   },
-   "last": "2026-11-08T08:16:45.985831+00:00"
-  },
   "S5978": {
    "title": "Explainer on why Verstappen starts ahead of Hamilton despite penalties",
    "first": "2026-11-08T07:26:09.847646+00:00",
@@ -8257,84 +8219,6 @@
     "RacingNews365": "Why Lewis Hamilton starts ahead of Max Verstappen despite bigger penalty explained"
    },
    "last": "2026-11-08T09:16:42.397011+00:00"
-  },
-  "S5985": {
-   "title": "College Football Playoff predictions article",
-   "first": "2026-11-08T08:16:45.985842+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T06:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Predicting the College Football Playoff: Who's most likely to make the field?"
-   },
-   "last": "2026-11-08T08:16:45.985847+00:00"
-  },
-  "S5986": {
-   "title": "College Football Playoff top 12 projection",
-   "first": "2026-11-08T08:16:45.985850+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T06:19:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "College Football Playoff top 12 projection after Week 10"
-   },
-   "last": "2026-11-08T08:16:45.985854+00:00"
-  },
-  "S5987": {
-   "title": "Suns 102-99 Rockets NBA game recap",
-   "first": "2026-11-08T08:16:45.985866+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T04:51:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Suns 102-99 Rockets (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T08:16:45.985869+00:00"
-  },
-  "S5988": {
-   "title": "Hawks 124-121 Nets NBA game recap",
-   "first": "2026-11-08T08:16:45.985871+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T03:34:12+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hawks 124-121 Nets (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T08:16:45.985874+00:00"
-  },
-  "S5989": {
-   "title": "Steiner says Ferrari must take harder line on Hamilton-Leclerc",
-   "first": "2026-11-08T08:16:45.985875+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-08T08:14:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘Send you home’ – Guenther Steiner’s Ferrari solution to Hamilton and Leclerc’s rivalry"
-   },
-   "last": "2026-11-08T08:16:45.985878+00:00"
-  },
-  "S5990": {
-   "title": "Hülkenberg's Brazil grid slot is best since 2020",
-   "first": "2026-11-08T08:16:45.985881+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T07:20:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Hülkenberg überrascht in Brasilien: Der beste Startplatz seit Silverstone 2020 - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T08:16:45.985883+00:00"
   },
   "S5991": {
    "title": "RacingNews365 NL how to watch Brazil GP live on TV",
@@ -16480,9 +16364,22 @@
     "Motorsport-Total": "Darum versteht Audi die Strafe gegen Nico Hülkenberg nicht - Motorsport-Total.com"
    },
    "last": "2026-11-10T08:07:44.492839+00:00"
+  },
+  "S6594": {
+   "title": "WEC 6 Hours of Monza crowd figures and winners",
+   "first": "2026-11-10T08:17:40.568733+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-10T08:05:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Grande successo di pubblico per la 6h di Monza: presenze a 75.181"
+   },
+   "last": "2026-11-10T08:17:40.568752+00:00"
   }
  },
- "story_seq": 6593,
+ "story_seq": 6594,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16601,7 +16498,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T08:07:39.215143+00:00",
+ "last_run": "2026-11-10T08:17:38.771628+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
