@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8a5ae01f9cc171ed": "2026-10-27T21:15:28.949852+00:00",
   "028b77a7bb8faca9": "2026-10-27T21:25:34.761726+00:00",
   "7306e020c5b0b73f": "2026-10-27T21:25:34.761726+00:00",
   "173ffa76ba05131f": "2026-10-27T21:25:34.761726+00:00",
@@ -7828,7 +7827,9 @@
   "255b048db512ba27": "2026-11-10T20:49:13.581734+00:00",
   "805fe328f5099be9": "2026-11-10T20:59:13.565662+00:00",
   "8088c9058bb66f8f": "2026-11-10T20:59:13.565662+00:00",
-  "9282baf9064d9885": "2026-11-10T21:09:18.140513+00:00"
+  "9282baf9064d9885": "2026-11-10T21:09:18.140513+00:00",
+  "2b08ac1697fb9d1e": "2026-11-10T21:19:11.197641+00:00",
+  "6cc1c3f4fd3569ef": "2026-11-10T21:19:11.197641+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8287,32 +8288,6 @@
    },
    "last": "2026-11-09T11:15:12.337879+00:00"
   },
-  "S6203": {
-   "title": "Jacob Moore dunk highlight, not Formula 1",
-   "first": "2026-11-08T21:13:15.163495+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T21:01:12+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jacob Moore rocks the rim with powerful jam"
-   },
-   "last": "2026-11-08T21:13:15.163514+00:00"
-  },
-  "S6204": {
-   "title": "Ky'Den Mays slam vs Wofford, college basketball",
-   "first": "2026-11-08T21:13:15.163519+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T21:00:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ky'Den Mays throws down big slam vs. Wofford Terriers"
-   },
-   "last": "2026-11-08T21:13:15.163524+00:00"
-  },
   "S6205": {
    "title": "Carrick backs Dalot after Man United fans boo him",
    "first": "2026-11-08T21:13:15.163527+00:00",
@@ -8325,32 +8300,6 @@
     "ESPN F1": "Carrick backs Dalot after getting booed by Man United fans"
    },
    "last": "2026-11-08T21:53:13.788917+00:00"
-  },
-  "S6206": {
-   "title": "Jyi Dawkins and-1 basketball play highlight",
-   "first": "2026-11-08T21:18:20.106321+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T21:01:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jyi Dawkins gets the and-1 to fall"
-   },
-   "last": "2026-11-08T21:18:20.106339+00:00"
-  },
-  "S6207": {
-   "title": "Vermont vs Fairfield college basketball highlights",
-   "first": "2026-11-08T21:18:20.106345+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T21:01:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vermont Catamounts vs. Fairfield Stags: Game Highlights"
-   },
-   "last": "2026-11-08T21:18:20.106350+00:00"
   },
   "S6208": {
    "title": "Mekies praises Verstappen's Brazil podium drive",
@@ -13788,7 +13737,7 @@
     "Motorsport-Total": "Absage an Imola: Formel 1 setzt alles auf Katar und Abu Dhabi - Motorsport-Total.com",
     "Motorsport Week": "F1 makes crucial decision on Middle East races"
    },
-   "last": "2026-11-10T18:49:22.479822+00:00"
+   "last": "2026-11-10T21:19:14.563468+00:00"
   },
   "S6616": {
    "title": "Alonso credits 'phenomenal' Aston Martin car after Brazil drive",
@@ -15633,9 +15582,22 @@
     "ESPN F1": "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era"
    },
    "last": "2026-11-10T20:59:15.776395+00:00"
+  },
+  "S6752": {
+   "title": "BK Häcken 0-0 Chelsea Champions League game analysis",
+   "first": "2026-11-10T21:19:14.563441+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T21:11:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "BK Häcken 0-0 Chelsea (10 Nov, 2026) Game Analysis"
+   },
+   "last": "2026-11-10T21:19:14.563458+00:00"
   }
  },
- "story_seq": 6751,
+ "story_seq": 6752,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15754,27 +15716,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T21:09:18.140513+00:00",
+ "last_run": "2026-11-10T21:19:11.197641+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T21:16:09.640278+00:00",
-   "title": "Wolff, Russell'ın sözlerine rağmen takımını savunuyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-07T21:16:10.046432+00:00",
-   "title": "Vasseur: Zorlu koşullarda lastikleri koruduk, Brezilya geri dönüş için ideal",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-07T21:16:10.457203+00:00",
-   "title": "Brezilya GP sıralama: Norris pole, Russell 'yanlış değerlendirme' itirafı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-07T21:20:40.085143+00:00",
    "title": "Brezilya GP geçici grid: çok sayıda ceza sonrası büyük değişiklikler",
