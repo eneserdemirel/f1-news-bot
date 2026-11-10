@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "394fb998c1ba97b8": "2026-10-27T20:15:28.463398+00:00",
-  "f07f2038087ace25": "2026-10-27T20:15:28.463398+00:00",
-  "c7c9ac96aad64d3c": "2026-10-27T20:15:28.463398+00:00",
-  "1fc7bfe2b7f2a326": "2026-10-27T20:15:28.463398+00:00",
-  "d241836ef15aef68": "2026-10-27T20:15:28.463398+00:00",
-  "729405cf4bbc8b3b": "2026-10-27T20:15:28.463398+00:00",
   "269387c0f321c124": "2026-10-27T20:25:29.018185+00:00",
   "2386d3f5bbd47f65": "2026-10-27T20:25:29.018185+00:00",
   "df47f5bb6abe2b92": "2026-10-27T20:25:29.018185+00:00",
@@ -7835,7 +7829,12 @@
   "6593a145f9fbd6c8": "2026-11-10T19:59:16.932194+00:00",
   "f4744491d96e5974": "2026-11-10T20:09:12.848541+00:00",
   "f160aaf51effafcc": "2026-11-10T20:09:12.848541+00:00",
-  "9d6c7c876f530167": "2026-11-10T20:09:12.848541+00:00"
+  "9d6c7c876f530167": "2026-11-10T20:09:12.848541+00:00",
+  "52c778545ece48ee": "2026-11-10T20:19:12.603956+00:00",
+  "fb7d744001270818": "2026-11-10T20:19:12.603956+00:00",
+  "e541c831eee00a94": "2026-11-10T20:19:12.603956+00:00",
+  "d41aac4608bd6e46": "2026-11-10T20:19:12.603956+00:00",
+  "6032b7743b1dce5a": "2026-11-10T20:19:12.603956+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8240,45 +8239,6 @@
    },
    "last": "2026-11-08T21:08:18.947291+00:00"
   },
-  "S6176": {
-   "title": "Washington vs Portland (Nov 8, 2026) team stats",
-   "first": "2026-11-08T20:13:15.576962+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T20:07:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Washington vs. Portland (Nov 8, 2026) Team Stats"
-   },
-   "last": "2026-11-08T20:13:15.576968+00:00"
-  },
-  "S6177": {
-   "title": "Borthwick praises Henry Pollock after England beat Australia",
-   "first": "2026-11-08T20:18:16.562320+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T20:13:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Steve Borthwick lauds 'excellent' Henry Pollock after England beat Australia"
-   },
-   "last": "2026-11-08T20:18:16.562337+00:00"
-  },
-  "S6178": {
-   "title": "Luca Nikolai scores in goal for North Carolina",
-   "first": "2026-11-08T20:18:16.562343+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T19:57:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luca Nikolai slots in the goal for North Carolina"
-   },
-   "last": "2026-11-08T20:18:16.562348+00:00"
-  },
   "S6179": {
    "title": "Verstappen radio: 'what a disaster to drive this car' after P2",
    "first": "2026-11-08T20:18:16.562352+00:00",
@@ -8295,19 +8255,6 @@
     "GPFans": "Max Verstappen slams Red Bull 'disaster' in furious Brazilian Grand Prix radio message"
    },
    "last": "2026-11-09T06:34:15.349983+00:00"
-  },
-  "S6180": {
-   "title": "Verstappen and Norris exchange fireworks after Brazil GP",
-   "first": "2026-11-08T20:18:16.562364+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T19:56:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Verstappen-Feuerwerk in Brasilien - doch Norris hat die perfekte Antwort! - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T20:18:16.562367+00:00"
   },
   "S6181": {
    "title": "FIA explains its decision on Hamilton after Brazilian GP incident",
@@ -15791,9 +15738,74 @@
     "ESPN F1": "Cubs starter Brown undergoes spine surgery, sources say"
    },
    "last": "2026-11-10T20:09:15.419694+00:00"
+  },
+  "S6738": {
+   "title": "Florida cancels Notre Dame series; Irish add Washington games",
+   "first": "2026-11-10T20:19:16.638510+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T19:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Florida cancels Notre Dame series; Irish then add games vs. Washington"
+   },
+   "last": "2026-11-10T20:19:16.638529+00:00"
+  },
+  "S6739": {
+   "title": "Raiders trading Kirk Cousins to Vikings, per insiders",
+   "first": "2026-11-10T20:19:16.638535+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T19:42:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Trade: The Raiders are trading QB Kirk Cousins to the Vikings, per @rapsheet and me."
+   },
+   "last": "2026-11-10T20:19:16.638541+00:00"
+  },
+  "S6740": {
+   "title": "Hall of Famer Ham recovering from medical emergency",
+   "first": "2026-11-10T20:19:16.638545+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T19:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hall of Famer Ham recovering from medical emergency, Penn State says"
+   },
+   "last": "2026-11-10T20:19:16.638550+00:00"
+  },
+  "S6741": {
+   "title": "Kings' Mats Zuccarello expected to return from injury",
+   "first": "2026-11-10T20:19:16.638553+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T18:41:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The Kings are getting healthier: Mats Zuccarello is expected..."
+   },
+   "last": "2026-11-10T20:19:16.638557+00:00"
+  },
+  "S6742": {
+   "title": "Interlagos record crowd and economic impact of São Paulo GP",
+   "first": "2026-11-10T20:19:16.638560+00:00",
+   "sources": {
+    "AS": "2026-11-10T20:02:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Interlagos vale oro"
+   },
+   "last": "2026-11-10T20:19:16.638564+00:00"
   }
  },
- "story_seq": 6737,
+ "story_seq": 6742,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15912,7 +15924,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T20:09:12.848541+00:00",
+ "last_run": "2026-11-10T20:19:12.603956+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -17437,6 +17449,11 @@
    "t": "2026-11-10T19:59:23.726682+00:00",
    "title": "Kelly Piquet, Verstappen ailesine yeni katılanları duyurdu",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-10T20:19:20.536092+00:00",
+   "title": "Interlagos rekor izleyici ve ekonomik etkiyle zirvede",
+   "source": "AS"
   }
  ]
 }
