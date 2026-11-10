@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "721bdeb4fa7c73a8": "2026-10-27T03:13:22.956269+00:00",
   "6f80ede02d30faf5": "2026-10-27T03:23:18.576920+00:00",
   "39a68a8646665a9a": "2026-10-27T03:33:20.709243+00:00",
   "52916b67fc8688f3": "2026-10-27T03:43:19.431106+00:00",
@@ -7820,7 +7819,9 @@
   "5f904584522a1a72": "2026-11-10T02:56:54.268708+00:00",
   "1dbd3b0584341e9b": "2026-11-10T02:56:54.268708+00:00",
   "b0fe737ea9444af1": "2026-11-10T02:56:54.268708+00:00",
-  "96807e3130f44d4a": "2026-11-10T03:06:56.339355+00:00"
+  "96807e3130f44d4a": "2026-11-10T03:06:56.339355+00:00",
+  "d4f3c7acf4e1bccc": "2026-11-10T03:16:55.552477+00:00",
+  "ecffc685db42dd44": "2026-11-10T03:16:55.552477+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8202,45 +8203,6 @@
     "ESPN F1": "Cheavon Clarke upsets Chris Billam-Smith with 7th-round stoppage"
    },
    "last": "2026-11-08T05:11:06.640049+00:00"
-  },
-  "S5919": {
-   "title": "Brandon Johnson 8-yard TD in college football",
-   "first": "2026-11-08T03:11:09.341880+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T03:06:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brandon Johnson finds the end zone for 8-yard TD"
-   },
-   "last": "2026-11-08T03:11:09.341897+00:00"
-  },
-  "S5920": {
-   "title": "KJ Bolden interception for Georgia in college football",
-   "first": "2026-11-08T03:11:09.341904+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T02:22:28+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "KJ Bolden picks off Trinidad Chambliss for Georgia"
-   },
-   "last": "2026-11-08T03:11:09.341909+00:00"
-  },
-  "S5921": {
-   "title": "Canucks vs. Oilers (Nov 7, 2026) live score",
-   "first": "2026-11-08T03:16:06.791310+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T03:13:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canucks vs. Oilers (Nov 7, 2026) Live Score"
-   },
-   "last": "2026-11-08T03:16:06.791327+00:00"
   },
   "S5922": {
    "title": "Cardiff 5-4 Burnley (7 Nov, 2026) match analysis",
@@ -16686,10 +16648,23 @@
    "titles": {
     "ESPN F1": "Pistons 122-111 Wizards (Nov 9, 2026) Game Recap"
    },
-   "last": "2026-11-10T03:06:57.787749+00:00"
+   "last": "2026-11-10T03:16:57.359327+00:00"
+  },
+  "S6548": {
+   "title": "Pennsylvania 78-65 Howard college basketball final score",
+   "first": "2026-11-10T03:16:57.359338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-09T23:49:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pennsylvania 78-65 Howard (Nov 9, 2026) Final Score"
+   },
+   "last": "2026-11-10T03:16:57.359344+00:00"
   }
  },
- "story_seq": 6547,
+ "story_seq": 6548,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16808,7 +16783,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T03:06:56.339355+00:00",
+ "last_run": "2026-11-10T03:16:55.552477+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
