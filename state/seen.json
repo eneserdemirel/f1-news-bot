@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "044703da5e6a6460": "2026-10-27T11:04:01.164849+00:00",
-  "a546d0b759b04121": "2026-10-27T11:04:01.164849+00:00",
   "f5b367c6724604ce": "2026-10-27T11:14:03.137146+00:00",
   "8bf3cc50ffa4bf60": "2026-10-27T11:14:03.137146+00:00",
   "5096244317fbc07e": "2026-10-27T11:23:58.296685+00:00",
@@ -7838,7 +7836,8 @@
   "97316b864a634829": "2026-11-10T10:57:39.687598+00:00",
   "249f1fbde5ff6626": "2026-11-10T10:57:39.687598+00:00",
   "0046ec4e21ef8d53": "2026-11-10T10:57:39.687598+00:00",
-  "76cee8180f081c81": "2026-11-10T10:57:39.687598+00:00"
+  "76cee8180f081c81": "2026-11-10T10:57:39.687598+00:00",
+  "7b6af9d4661b8e86": "2026-11-10T11:07:38.480413+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7917,25 +7916,6 @@
     "Motorsport Week": "F1 2026 Sao Paulo Grand Prix – Revised Grid"
    },
    "last": "2026-11-08T16:27:25.726538+00:00"
-  },
-  "S5798": {
-   "title": "Wolff defends Mercedes after Russell's qualifying outburst",
-   "first": "2026-11-07T21:16:02.500689+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-07T21:10:00+00:00",
-    "GPblog": "2026-11-07T22:30:00+00:00",
-    "RacingNews365": "2026-11-08T06:15:00+00:00",
-    "FormulaPassion": "2026-11-08T10:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Wolff verdedigt team na scheldkanonnade Russell",
-    "GPblog": "Wolff delivers verdict on costly Mercedes call that left Russell furious",
-    "RacingNews365": "Toto Wolff bursts George Russell bubble after Brazil qualifying fury",
-    "FormulaPassion": "Wolff si scusa con Russell: “Meritava la pole, era di un’altra categoria. Ma non abbiamo la sfera di cristallo”"
-   },
-   "last": "2026-11-08T11:01:48.375896+00:00"
   },
   "S5812": {
    "title": "Hamilton reveals details of meeting with Leclerc",
@@ -16245,9 +16225,22 @@
     "Auto Motor und Sport": "Formel 1: Boeing in McLaren-Lackierung: Papaya-Dreamliner stellt Weltrekord auf"
    },
    "last": "2026-11-10T10:57:46.058192+00:00"
+  },
+  "S6620": {
+   "title": "FIA announces ADUO results after third review periods of 2026",
+   "first": "2026-11-10T11:07:40.731924+00:00",
+   "sources": {
+    "FIA": "2026-11-10T10:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "FIA announces ADUO results following third review periods of 2026"
+   },
+   "last": "2026-11-10T11:07:40.731943+00:00"
   }
  },
- "story_seq": 6619,
+ "story_seq": 6620,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16366,22 +16359,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T10:57:39.687598+00:00",
+ "last_run": "2026-11-10T11:07:38.480413+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T10:59:28.085957+00:00",
-   "title": "Daniel Ricciardo neden iki yıldır F1 paddock'una gelmiyor?",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-07T10:59:28.490642+00:00",
-   "title": "Gary Anderson, McLaren'ın 2027 odaklı ön kanat güncellemesini değerlendirdi",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-07T11:29:24.118068+00:00",
    "title": "Câmara, Interlagos'ta Haas'ta ilk gününü tamamladı",
@@ -17856,6 +17839,11 @@
    "t": "2026-11-10T10:57:49.698232+00:00",
    "title": "Ferrari'nin yağmurdaki yıllardır süren krizinin arkasında ne var?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-10T11:07:43.081885+00:00",
+   "title": "FIA, 2026 üçüncü inceleme döneminin ADUO sonuçlarını açıkladı",
+   "source": "FIA"
   }
  ]
 }
