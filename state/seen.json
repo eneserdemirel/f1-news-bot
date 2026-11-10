@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "587ffab48a0ed6eb": "2026-10-27T16:14:49.464358+00:00",
-  "3c0573aeb9e0e168": "2026-10-27T16:14:49.464358+00:00",
   "77772d59c67e889d": "2026-10-27T16:24:47.942750+00:00",
   "dd3388abb49fd6b5": "2026-10-27T16:24:47.942750+00:00",
   "bdc49ac155bfc049": "2026-10-27T16:24:47.942750+00:00",
@@ -7841,7 +7839,12 @@
   "10962ede08006d64": "2026-11-10T15:58:24.036532+00:00",
   "e3207fd2f12e80f2": "2026-11-10T15:58:24.036532+00:00",
   "869f3af82e74406d": "2026-11-10T15:58:24.036532+00:00",
-  "6dee4e6566d50fb6": "2026-11-10T16:08:21.950658+00:00"
+  "6dee4e6566d50fb6": "2026-11-10T16:08:21.950658+00:00",
+  "d9545a9fd2fdbfce": "2026-11-10T16:18:22.223798+00:00",
+  "d880fc244e33f122": "2026-11-10T16:18:22.223798+00:00",
+  "22d47eb251b82cc3": "2026-11-10T16:18:22.223798+00:00",
+  "3d6010c1cf3798f5": "2026-11-10T16:18:22.223798+00:00",
+  "a172a412abe51f6b": "2026-11-10T16:18:22.223798+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7998,71 +8001,6 @@
     "Motorsport-Total": "Jetzt abstimmen: Wer waren in Interlagos die besten Fahrer? - Motorsport-Total.com"
    },
    "last": "2026-11-08T18:48:16.159169+00:00"
-  },
-  "S6087": {
-   "title": "Crystal Palace 1-3 Liverpool match analysis",
-   "first": "2026-11-08T16:12:24.507573+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T16:08:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "C Palace 1-3 Liverpool (Nov 8, 2026) Game Analysis"
-   },
-   "last": "2026-11-08T16:12:24.507592+00:00"
-  },
-  "S6088": {
-   "title": "Celebrity guestlist announced for 2026 Sao Paulo GP",
-   "first": "2026-11-08T16:12:24.507599+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-08T16:00:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Football royalty, popstars, fashion icons and social sensations: The 2026 F1 Sao Paulo GP guestlist"
-   },
-   "last": "2026-11-08T16:12:24.507605+00:00"
-  },
-  "S6089": {
-   "title": "Ben Johnson's Stanky Legg dance becomes Bears postgame tradition",
-   "first": "2026-11-08T16:17:33.090579+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T16:06:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ben Johnson's Stanky Legg dance is Chicago Bears' latest postgame tradition"
-   },
-   "last": "2026-11-08T16:17:33.090598+00:00"
-  },
-  "S6090": {
-   "title": "Texans defense looks to bounce back in Week 9",
-   "first": "2026-11-08T16:17:33.090604+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T14:45:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Can the Texans defense bounce back in Week 9?"
-   },
-   "last": "2026-11-08T16:17:33.090610+00:00"
-  },
-  "S6091": {
-   "title": "AS live blog: Brazilian GP race with Alonso and Sainz",
-   "first": "2026-11-08T16:17:33.090615+00:00",
-   "sources": {
-    "AS": "2026-11-08T16:12:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Carrera GP Brasil F1, en directo: última hora de Alonso y Sainz hoy en Interlagos, en vivo"
-   },
-   "last": "2026-11-08T16:17:33.090619+00:00"
   },
   "S6092": {
    "title": "Hirakawa wins WEC title a week after F1 debut",
@@ -15043,14 +14981,16 @@
    "title": "Ricciardo praises Verstappen as best around",
    "first": "2026-11-10T09:47:42.104439+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-10T09:45:00+00:00"
+    "RacingNews365 NL": "2026-11-10T09:45:00+00:00",
+    "Crash.net": "2026-11-10T15:31:24+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Ricciardo lyrisch over Verstappen: \"Niemand beter dan Max!\""
+    "RacingNews365 NL": "Ricciardo lyrisch over Verstappen: \"Niemand beter dan Max!\"",
+    "Crash.net": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’"
    },
-   "last": "2026-11-10T09:47:42.104444+00:00"
+   "last": "2026-11-10T16:18:25.483218+00:00"
   },
   "S6608": {
    "title": "Sainz calls for better Pirelli wet tyres",
@@ -15501,16 +15441,18 @@
    "sources": {
     "GPblog": "2026-11-10T12:46:00+00:00",
     "PlanetF1": "2026-11-10T13:02:20+00:00",
-    "RacingNews365": "2026-11-10T15:00:00+00:00"
+    "RacingNews365": "2026-11-10T15:00:00+00:00",
+    "Motorsport Week": "2026-11-10T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Ocon shares emotional message after being let go by Haas",
     "PlanetF1": "Esteban Ocon delivers heartfelt message after Haas axing",
-    "RacingNews365": "Esteban Ocon shares 'heartfelt' statement as F1 career hangs in balance"
+    "RacingNews365": "Esteban Ocon shares 'heartfelt' statement as F1 career hangs in balance",
+    "Motorsport Week": "Esteban Ocon issues message to fans after Haas F1 axe"
    },
-   "last": "2026-11-10T15:08:26.774828+00:00"
+   "last": "2026-11-10T16:18:25.483213+00:00"
   },
   "S6638": {
    "title": "Verstappen claims he would quit over F1 best-driver debate",
@@ -15720,7 +15662,7 @@
    "titles": {
     "ESPN F1": "Professional Women's Hockey League unveils branding for its four new franchises"
    },
-   "last": "2026-11-10T14:48:31.291360+00:00"
+   "last": "2026-11-10T16:18:25.483197+00:00"
   },
   "S6654": {
    "title": "ESPN Heisman race after Week 10 college football",
@@ -15996,9 +15938,35 @@
     "Motorsport.com Italia": "F1 | Live post GP San Paolo: la pioggia di Interlagos esalta Norris e Max, affonda la Ferrari"
    },
    "last": "2026-11-10T16:08:23.863724+00:00"
+  },
+  "S6675": {
+   "title": "Jaguars deny trading WR Brian Thomas Jr. to teams",
+   "first": "2026-11-10T16:18:25.483168+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T15:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Jaguars telling teams they aren't trading WR Brian Thomas Jr."
+   },
+   "last": "2026-11-10T16:18:25.483187+00:00"
+  },
+  "S6676": {
+   "title": "Congo and Central African Republic draw 1-1",
+   "first": "2026-11-10T16:18:25.483202+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T13:08:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Congo 1-1 Cent Afr Rep (Nov 10, 2026) Final Score"
+   },
+   "last": "2026-11-10T16:18:25.483208+00:00"
   }
  },
- "story_seq": 6674,
+ "story_seq": 6676,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16117,22 +16085,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T16:08:21.950658+00:00",
+ "last_run": "2026-11-10T16:18:22.223798+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T16:10:09.015369+00:00",
-   "title": "FIA, Verstappen'e Brezilya GP'de 30 sıra cezasını onayladı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-07T16:15:14.387016+00:00",
-   "title": "FIA, Brezilya GP'de Hamilton ve Leclerc'e 10 sıra ceza verdi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-07T16:30:13.622338+00:00",
    "title": "F1 Brezilya GP'de pole mücadelesi: Antonelli ve McLaren'lar öne çıkıyor",
