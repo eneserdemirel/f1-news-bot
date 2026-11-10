@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fb26bfe683dd1647": "2026-10-27T08:53:59.059013+00:00",
-  "d4e10c524323c15a": "2026-10-27T08:53:59.059013+00:00",
-  "f803c834c8430a1b": "2026-10-27T08:53:59.059013+00:00",
-  "979e75c636ce540f": "2026-10-27T08:53:59.059013+00:00",
   "7529a90bf5e76412": "2026-10-27T09:04:01.423675+00:00",
   "cf5ae3aabc343050": "2026-10-27T09:04:01.423675+00:00",
   "ad51cb4cbeacf860": "2026-10-27T09:14:00.222132+00:00",
@@ -7846,7 +7842,9 @@
   "1fe8f3f29f2ce0c3": "2026-11-10T08:37:38.198714+00:00",
   "6c537a39e95744e5": "2026-11-10T08:47:38.870609+00:00",
   "97d8be776744e025": "2026-11-10T08:47:38.870609+00:00",
-  "24fe3b03d4b8e54c": "2026-11-10T08:47:38.870609+00:00"
+  "24fe3b03d4b8e54c": "2026-11-10T08:47:38.870609+00:00",
+  "adb954b84557da15": "2026-11-10T08:57:41.957072+00:00",
+  "2e21ff103d722405": "2026-11-10T08:57:41.957072+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8217,19 +8215,6 @@
     "Crash.net": "Ted Kravitz insists Racing Bulls ‘can’t sack’ Liam Lawson amid 2027 uncertainty"
    },
    "last": "2026-11-08T15:27:28.640938+00:00"
-  },
-  "S5996": {
-   "title": "RacingNews365 video: rain could help Verstappen's Brazil comeback",
-   "first": "2026-11-08T08:56:42.731782+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-08T08:53:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Onverwachte troef kan Verstappen helpen wéér te stunten in Brazilië"
-   },
-   "last": "2026-11-08T08:56:42.731803+00:00"
   },
   "S5997": {
    "title": "Hamilton's life and projects beyond Formula 1",
@@ -16356,9 +16341,35 @@
     "GPFans": "Lewis Hamilton in painful night flight on Toto Wolff party plane"
    },
    "last": "2026-11-10T08:47:42.633485+00:00"
+  },
+  "S6599": {
+   "title": "The Race analysis of Verstappen's wet-weather mastery",
+   "first": "2026-11-10T08:57:46.057284+00:00",
+   "sources": {
+    "The Race": "2026-11-10T08:54:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1's underrated rain master has proven himself again"
+   },
+   "last": "2026-11-10T08:57:46.057318+00:00"
+  },
+  "S6600": {
+   "title": "Red Bull claim no simulator could predict Verstappen's Brazil charge",
+   "first": "2026-11-10T08:57:46.057324+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T08:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Red Bull make unbelievable claim about Max Verstappen: 'No sim able to do that'"
+   },
+   "last": "2026-11-10T08:57:46.057330+00:00"
   }
  },
- "story_seq": 6598,
+ "story_seq": 6600,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16477,7 +16488,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T08:47:38.870609+00:00",
+ "last_run": "2026-11-10T08:57:41.957072+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
