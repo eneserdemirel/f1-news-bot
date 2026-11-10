@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "904b2acf05f8eade": "2026-10-27T05:33:19.781440+00:00",
-  "ec4cdd73b861433a": "2026-10-27T05:33:19.781440+00:00",
   "118fcf401ebe96a9": "2026-10-27T05:53:24.107324+00:00",
   "1f7cc078b73febe9": "2026-10-27T05:53:24.107324+00:00",
   "9f747a8a9f40196c": "2026-10-27T06:03:19.483628+00:00",
@@ -7818,7 +7816,10 @@
   "30783ae3d461f28d": "2026-11-10T05:07:03.058263+00:00",
   "b3a87f935c8ce97c": "2026-11-10T05:26:56.338086+00:00",
   "f7bbfe168ad8e5a2": "2026-11-10T05:26:56.338086+00:00",
-  "835881f26294aa1e": "2026-11-10T05:26:56.338086+00:00"
+  "835881f26294aa1e": "2026-11-10T05:26:56.338086+00:00",
+  "8c24e3a231f45f01": "2026-11-10T05:36:56.821875+00:00",
+  "0998ac778cb9a2e7": "2026-11-10T05:36:56.821875+00:00",
+  "769d0c5bbea746fa": "2026-11-10T05:36:56.821875+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8233,32 +8234,6 @@
    },
    "last": "2026-11-08T10:01:47.175707+00:00"
   },
-  "S5954": {
-   "title": "Portland State Vikings vs. Seattle U Redhawks game highlights",
-   "first": "2026-11-08T05:31:06.067196+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T05:17:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Portland State Vikings vs. Seattle U Redhawks: Game Highlights"
-   },
-   "last": "2026-11-08T05:31:06.067215+00:00"
-  },
-  "S5955": {
-   "title": "ESPN college football recap: Alabama 31-13 LSU",
-   "first": "2026-11-08T05:36:09.994099+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T00:47:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alabama 31-13 LSU (Nov 7, 2026) Game Recap"
-   },
-   "last": "2026-11-08T05:36:09.994117+00:00"
-  },
   "S5956": {
    "title": "Verstappen doubts repeat of Brazil comeback from back of grid",
    "first": "2026-11-08T05:36:09.994124+00:00",
@@ -8273,19 +8248,6 @@
     "RacingNews365 NL": "Verstappen trapt op de rem: \"Dat wordt een stuk lastiger\""
    },
    "last": "2026-11-08T09:21:42.731891+00:00"
-  },
-  "S5957": {
-   "title": "Motorsport-Total editors rate Antonelli's best 2026 performance",
-   "first": "2026-11-08T05:36:09.994134+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-08T05:30:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Unsere Redakteure bewerten: Was war Kimi Antonellis beste Leistung 2026? - Motorsport-Total.com"
-   },
-   "last": "2026-11-08T05:36:09.994139+00:00"
   },
   "S5958": {
    "title": "Stephen Curry history-making night keeps Warriors rolling",
@@ -15531,14 +15493,16 @@
    "title": "Piastri describes scary moment with Russell in Brazil",
    "first": "2026-11-09T21:06:26.807991+00:00",
    "sources": {
-    "GPblog": "2026-11-09T21:01:00+00:00"
+    "GPblog": "2026-11-09T21:01:00+00:00",
+    "RacingNews365": "2026-11-10T05:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Piastri recalls 'scary' moment with Russell during chaotic Brazilian GP"
+    "GPblog": "Piastri recalls 'scary' moment with Russell during chaotic Brazilian GP",
+    "RacingNews365": "Oscar Piastri reveals 'scary' George Russell encounter after spin"
    },
-   "last": "2026-11-09T21:06:26.807995+00:00"
+   "last": "2026-11-10T05:36:59.145405+00:00"
   },
   "S6493": {
    "title": "Lawson sends blunt message to Red Bull over 2027 seat",
@@ -16451,9 +16415,35 @@
     "ESPN F1": "Ole Miss fined $250K for fans throwing debris on field"
    },
    "last": "2026-11-10T05:26:59.338785+00:00"
+  },
+  "S6563": {
+   "title": "Oregon linebacker Teitum Tuioti out for season with knee injury",
+   "first": "2026-11-10T05:36:59.145367+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T03:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Oregon linebacker Teitum Tuioti out for season with knee injury"
+   },
+   "last": "2026-11-10T05:36:59.145388+00:00"
+  },
+  "S6564": {
+   "title": "Marcus Spears Jr. slam dunk lob after baseline cut",
+   "first": "2026-11-10T05:36:59.145394+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T02:15:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Marcus Spears Jr. slams down lob after nice baseline cut"
+   },
+   "last": "2026-11-10T05:36:59.145399+00:00"
   }
  },
- "story_seq": 6562,
+ "story_seq": 6564,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16572,17 +16562,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T05:26:56.338086+00:00",
+ "last_run": "2026-11-10T05:36:56.821875+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T05:33:57.228034+00:00",
-   "title": "Red Bull, Verstappen'in Brezilya antrenmanını erken bitirme nedenini açıkladı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-07T06:08:52.905608+00:00",
    "title": "Verstappen, Red Bull'un doğru seçiminden yararlanabilir; Norris alternatifi gösteriyor",
