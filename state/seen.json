@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bed39275e90cff2f": "2026-10-27T10:33:59.217276+00:00",
-  "38199ea9addbbd46": "2026-10-27T10:33:59.217276+00:00",
-  "6b761b656345cd8b": "2026-10-27T10:33:59.217276+00:00",
-  "4c0ba6f2470f018e": "2026-10-27T10:33:59.217276+00:00",
   "7b79efec34427367": "2026-10-27T10:43:58.913821+00:00",
   "85d6f8a7fc788d21": "2026-10-27T10:43:58.913821+00:00",
   "62e11b9b1af9ab07": "2026-10-27T10:43:58.913821+00:00",
@@ -7838,7 +7834,9 @@
   "3d02d516e662f29f": "2026-11-10T10:07:39.211251+00:00",
   "0719912248b1f69f": "2026-11-10T10:17:38.033238+00:00",
   "6c9786527d3600e0": "2026-11-10T10:17:38.033238+00:00",
-  "1d387a93c2ce8197": "2026-11-10T10:27:44.823417+00:00"
+  "1d387a93c2ce8197": "2026-11-10T10:27:44.823417+00:00",
+  "5599e920b78bef63": "2026-11-10T10:37:38.567495+00:00",
+  "3ce81f681dab4a76": "2026-11-10T10:37:38.567495+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8047,21 +8045,6 @@
     "RacingNews365": "Charles Leclerc surprise after nine-year Ferrari 'biggest weakness' progress"
    },
    "last": "2026-11-08T14:32:33.989550+00:00"
-  },
-  "S5842": {
-   "title": "Norris explains how he mastered wet Sao Paulo qualifying",
-   "first": "2026-11-07T22:35:38.915492+00:00",
-   "sources": {
-    "Formula 1": "2026-11-07T22:35:38.915508+00:00",
-    "Motorsport Week": "2026-11-08T10:21:42+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Norris details how he excelled in wet Sao Paulo Qualifying",
-    "Motorsport Week": "Lando Norris reveals ‘pretty quick’ McLaren lesson en route to Sao Paulo pole"
-   },
-   "last": "2026-11-08T10:36:37.576902+00:00"
   },
   "S5845": {
    "title": "Piastri explains the trigger behind his Brazil Q2 exit",
@@ -16264,9 +16247,35 @@
     "Formula 1": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg"
    },
    "last": "2026-11-10T10:27:48.047481+00:00"
+  },
+  "S6613": {
+   "title": "Wembanyama scores 40 as Spurs win ninth straight",
+   "first": "2026-11-10T10:37:41.006872+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T07:22:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   },
+   "last": "2026-11-10T10:37:41.006890+00:00"
+  },
+  "S6614": {
+   "title": "Norris to review opening-corner start in Sao Paulo GP",
+   "first": "2026-11-10T10:37:41.006896+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-10T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lando Norris eyes review after perplexing issue triggered mixed emotions"
+   },
+   "last": "2026-11-10T10:37:41.006902+00:00"
   }
  },
- "story_seq": 6612,
+ "story_seq": 6614,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16385,22 +16394,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T10:27:44.823417+00:00",
+ "last_run": "2026-11-10T10:37:38.567495+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
  "last_digest_at": "2026-11-09T19:05:56.650950+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T10:34:23.224104+00:00",
-   "title": "Hadjar, Red Bull'un çalışması gereken noktaları ele aldı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-07T10:34:23.605818+00:00",
-   "title": "Antonelli, Brezilya'da Mercedes'in büyük avantajını gösteriyor",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-07T10:59:28.085957+00:00",
    "title": "Daniel Ricciardo neden iki yıldır F1 paddock'una gelmiyor?",
@@ -17870,6 +17869,11 @@
    "t": "2026-11-10T10:27:51.851788+00:00",
    "title": "Hulkenberg: Sao Paulo'da 10. olmak mümkün olanın en iyisiydi",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-10T10:37:45.642254+00:00",
+   "title": "Norris, São Paulo'daki kötü startını gözden geçirecek",
+   "source": "RacingNews365"
   }
  ]
 }
