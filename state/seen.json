@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d597c3ab52eaafaf": "2026-10-27T09:33:58.917713+00:00",
-  "d69a56d1f6052514": "2026-10-27T09:33:58.917713+00:00",
-  "fa1b697664c6d66f": "2026-10-27T09:33:58.917713+00:00",
-  "2c1d11f0a74ff70b": "2026-10-27T09:33:58.917713+00:00",
   "2fa0437a70a05ab0": "2026-10-27T09:43:58.551055+00:00",
   "37014362611b45d8": "2026-10-27T09:43:58.551055+00:00",
   "3fe70d428c18d036": "2026-10-27T09:54:00.014224+00:00",
@@ -7841,7 +7837,8 @@
   "76487107897815bf": "2026-11-10T09:07:38.556163+00:00",
   "d1bc27adaf0de312": "2026-11-10T09:07:38.556163+00:00",
   "4bbc52bcd979d2a7": "2026-11-10T09:27:39.276374+00:00",
-  "7b4bcc2cdb2e9247": "2026-11-10T09:27:39.276374+00:00"
+  "7b4bcc2cdb2e9247": "2026-11-10T09:27:39.276374+00:00",
+  "4ce1ea95f98b04ce": "2026-11-10T09:37:41.902446+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8182,45 +8179,6 @@
     "Crash.net": "Ted Kravitz insists Racing Bulls ‘can’t sack’ Liam Lawson amid 2027 uncertainty"
    },
    "last": "2026-11-08T15:27:28.640938+00:00"
-  },
-  "S6002": {
-   "title": "Stella says Russell had pole pace, Norris seized the chance",
-   "first": "2026-11-08T09:32:01.544002+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-08T09:26:10+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Stella riconosce: \"Russell era probabilmente il più veloce, Norris ha sfruttato l'occasione\""
-   },
-   "last": "2026-11-08T09:32:01.544022+00:00"
-  },
-  "S6003": {
-   "title": "Verstappen and Hamilton start from back with fresh wet tyres",
-   "first": "2026-11-08T09:32:01.544026+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T09:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen and Hamilton start at the back in Brazil with a tyre advantage their rivals spent"
-   },
-   "last": "2026-11-08T09:32:01.544030+00:00"
-  },
-  "S6004": {
-   "title": "Corriere dello Sport guide to Brazil GP start time and TV coverage",
-   "first": "2026-11-08T09:36:38.521249+00:00",
-   "sources": {
-    "Corriere dello Sport": "2026-11-08T09:27:11+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Corriere dello Sport": "Formula 1 Gp Brasile, orario e dove vederlo in tv e streaming"
-   },
-   "last": "2026-11-08T09:36:38.521268+00:00"
   },
   "S6005": {
    "title": "Feature on Sergio Perez's comeback to top F1 earnings",
@@ -16312,9 +16270,22 @@
     "FormulaPassion": "Terruzzi: “Vasseur sembra un osservatore esterno, pare non importargli granché”"
    },
    "last": "2026-11-10T09:27:42.574271+00:00"
+  },
+  "S6604": {
+   "title": "Cooper Flagg scores 43 as Mavericks beat Pacers",
+   "first": "2026-11-10T09:37:43.964053+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T06:46:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'Unbelievable' Flagg finishes with 43 points as Mavericks outlast Pacers"
+   },
+   "last": "2026-11-10T09:37:43.964072+00:00"
   }
  },
- "story_seq": 6603,
+ "story_seq": 6604,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16433,7 +16404,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T09:27:39.276374+00:00",
+ "last_run": "2026-11-10T09:37:41.902446+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-09 22:00",
