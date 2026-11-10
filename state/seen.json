@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3e4d7ce537901384": "2026-10-27T16:44:49.832850+00:00",
-  "15f709726096d69a": "2026-10-27T16:44:49.832850+00:00",
-  "4cedcbcee9b3d71a": "2026-10-27T16:44:49.832850+00:00",
-  "c475fdd57eb87617": "2026-10-27T16:44:49.832850+00:00",
-  "9922253c40968e9b": "2026-10-27T16:44:49.832850+00:00",
   "8992805521a26e64": "2026-10-27T16:54:50.560488+00:00",
   "020e6b0e8db27e97": "2026-10-27T16:54:50.560488+00:00",
   "4f59d581cf36e467": "2026-10-27T17:04:51.192792+00:00",
@@ -7844,7 +7839,12 @@
   "20516459f073e7fb": "2026-11-10T16:38:22.161201+00:00",
   "f815fb9ff775c480": "2026-11-10T16:38:22.161201+00:00",
   "cc07373ee89f8b3d": "2026-11-10T16:38:22.161201+00:00",
-  "e9ee305900ce5931": "2026-11-10T16:38:22.161201+00:00"
+  "e9ee305900ce5931": "2026-11-10T16:38:22.161201+00:00",
+  "f1370b7d25b397ec": "2026-11-10T16:48:21.492530+00:00",
+  "46a017dfcefc69dd": "2026-11-10T16:48:21.492530+00:00",
+  "5d8569fe4be4e1ed": "2026-11-10T16:48:21.492530+00:00",
+  "6decd71b56fa2480": "2026-11-10T16:48:21.492530+00:00",
+  "890433984abce6b0": "2026-11-10T16:48:21.492530+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7983,19 +7983,6 @@
     "ESPN F1": "Man United vs. Aston Villa LIVE: Premier League updates, score and commentary"
    },
    "last": "2026-11-08T17:12:28.610872+00:00"
-  },
-  "S6099": {
-   "title": "MotoGP Qatar race: Bezzecchi beats Marquez, title delayed",
-   "first": "2026-11-08T16:47:27.309334+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T16:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "MotoGP Full Race Results | Marquez title delayed by Bezzecchi"
-   },
-   "last": "2026-11-08T16:47:27.309340+00:00"
   },
   "S6100": {
    "title": "WEC Monza 6 Hours: Cadillac wins, Toyota takes title",
@@ -15331,7 +15318,8 @@
     "GPblog": "2026-11-10T12:46:00+00:00",
     "PlanetF1": "2026-11-10T13:02:20+00:00",
     "RacingNews365": "2026-11-10T15:00:00+00:00",
-    "Motorsport Week": "2026-11-10T16:00:00+00:00"
+    "Motorsport Week": "2026-11-10T16:00:00+00:00",
+    "GPFans": "2026-11-10T16:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15339,9 +15327,10 @@
     "GPblog": "Ocon shares emotional message after being let go by Haas",
     "PlanetF1": "Esteban Ocon delivers heartfelt message after Haas axing",
     "RacingNews365": "Esteban Ocon shares 'heartfelt' statement as F1 career hangs in balance",
-    "Motorsport Week": "Esteban Ocon issues message to fans after Haas F1 axe"
+    "Motorsport Week": "Esteban Ocon issues message to fans after Haas F1 axe",
+    "GPFans": "Esteban Ocon issues emotional statement after big decision on F1 future"
    },
-   "last": "2026-11-10T16:18:25.483213+00:00"
+   "last": "2026-11-10T16:48:25.255562+00:00"
   },
   "S6638": {
    "title": "Verstappen claims he would quit over F1 best-driver debate",
@@ -15676,14 +15665,16 @@
    "title": "Häkkinen recalls surviving horror crash 31 years ago",
    "first": "2026-11-10T15:38:25.087820+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-10T15:30:00+00:00"
+    "RacingNews365 NL": "2026-11-10T15:30:00+00:00",
+    "RacingNews365": "2026-11-10T16:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Häkkinen ontsnapt aan de dood na akelige horrorcrash - terugblik"
+    "RacingNews365 NL": "Häkkinen ontsnapt aan de dood na akelige horrorcrash - terugblik",
+    "RacingNews365": "Mika Häkkinen escapes death after a horrific crash in Australia - On This Day"
    },
-   "last": "2026-11-10T15:38:25.087839+00:00"
+   "last": "2026-11-10T16:48:25.255555+00:00"
   },
   "S6664": {
    "title": "Mekies praises Lawson but defers 2027 decision to Racing Bulls",
@@ -15957,9 +15948,35 @@
     "GPblog": "Hamilton shares heartfelt message after 'devastating' Brazil GP"
    },
    "last": "2026-11-10T16:38:26.948354+00:00"
+  },
+  "S6685": {
+   "title": "F1 Power Rankings judges' top picks after Sao Paulo GP",
+   "first": "2026-11-10T16:48:25.255515+00:00",
+   "sources": {
+    "Formula 1": "2026-11-10T16:48:25.255530+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Who impressed our Power Rankings judges in Sao Paulo?"
+   },
+   "last": "2026-11-10T16:48:25.255534+00:00"
+  },
+  "S6686": {
+   "title": "Joe Burrow overtakes Josh Allen as NFL MVP favorite",
+   "first": "2026-11-10T16:48:25.255541+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T16:13:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite"
+   },
+   "last": "2026-11-10T16:48:25.255547+00:00"
   }
  },
- "story_seq": 6684,
+ "story_seq": 6686,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16078,17 +16095,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T16:38:22.161201+00:00",
+ "last_run": "2026-11-10T16:48:21.492530+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T16:40:08.021520+00:00",
-   "title": "Interlagos'ta kwalifikasyon öncesi şiddetli yağmur",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-07T16:50:13.014467+00:00",
    "title": "Brezilya'da motor cezaları ikinci sıra mücadelesini karıştırdı",
@@ -17578,6 +17590,11 @@
    "t": "2026-11-10T16:38:32.977611+00:00",
    "title": "Camara, Ferrari ve Haas'ı debütüyle etkiledi",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-10T16:48:29.023166+00:00",
+   "title": "Sao Paulo'da Power Rankings jüri üyelerini kim etkiledi?",
+   "source": "Formula 1"
   }
  ]
 }
