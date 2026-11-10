@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "08f22894c9bd91c8": "2026-10-27T18:25:30.581123+00:00",
-  "e8aa2e99ea08b3d6": "2026-10-27T18:25:30.581123+00:00",
-  "73df16191e7ecf8a": "2026-10-27T18:25:30.581123+00:00",
-  "d3df01bcc249c007": "2026-10-27T18:25:30.581123+00:00",
   "3988c73e94647723": "2026-10-27T18:35:30.935452+00:00",
   "8541a5097b7f0124": "2026-10-27T18:35:30.935452+00:00",
   "16011c10cec9457b": "2026-10-27T18:35:30.935452+00:00",
@@ -7838,7 +7834,9 @@
   "bb70f772ee2c76b3": "2026-11-10T18:19:12.572529+00:00",
   "2d64225fde780aa9": "2026-11-10T18:19:12.572529+00:00",
   "91abfe35d4dda1c6": "2026-11-10T18:19:12.572529+00:00",
-  "08695bda73bc4e84": "2026-11-10T18:19:12.572529+00:00"
+  "08695bda73bc4e84": "2026-11-10T18:19:12.572529+00:00",
+  "c7e95634fb9ad3eb": "2026-11-10T18:29:11.500270+00:00",
+  "c0457d146848e8ea": "2026-11-10T18:29:11.500270+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7920,19 +7918,6 @@
     "Motorsport-Total": "Jetzt abstimmen: Wer waren in Interlagos die besten Fahrer? - Motorsport-Total.com"
    },
    "last": "2026-11-08T18:48:16.159169+00:00"
-  },
-  "S6102": {
-   "title": "Cowboys WR Pickens, CB Porter, LB Overshown inactive vs Colts",
-   "first": "2026-11-08T16:57:24.613714+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T16:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cowboys WR Pickens, CB Porter, LB Overshown inactive against Colts"
-   },
-   "last": "2026-11-08T18:23:16.716069+00:00"
   },
   "S6105": {
    "title": "Inter Milan vs Como match team stats",
@@ -8030,32 +8015,6 @@
     "ESPN F1": "Bengals 34-17 Falcons (Nov 8, 2026) Game Recap"
    },
    "last": "2026-11-08T22:13:15.883237+00:00"
-  },
-  "S6127": {
-   "title": "Philip Rivers top coaching candidate at alma mater NC State",
-   "first": "2026-11-08T18:18:14.158471+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T18:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Philip Rivers top coaching candidate at alma mater NC State"
-   },
-   "last": "2026-11-08T18:28:18.559920+00:00"
-  },
-  "S6129": {
-   "title": "Sunderland 1-0 Chelsea final score",
-   "first": "2026-11-08T18:28:18.559931+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T18:12:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sunderland 1-0 Chelsea (8 Nov, 2026) Final Score"
-   },
-   "last": "2026-11-08T18:28:18.559937+00:00"
   },
   "S6130": {
    "title": "Man Utd vs Aston Villa match team stats",
@@ -15995,9 +15954,35 @@
     "RacingNews365 NL": "Racing Bulls geeft toptalent kans op nieuwe F1-test, Lawson in de wachtkamer"
    },
    "last": "2026-11-10T18:19:17.067093+00:00"
+  },
+  "S6713": {
+   "title": "Scott McTominay heart shock before Scotland World Cup opener",
+   "first": "2026-11-10T18:29:14.038515+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T18:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
+   },
+   "last": "2026-11-10T18:29:14.038533+00:00"
+  },
+  "S6714": {
+   "title": "Analysis: Brazilian GP win flattered McLaren's upgrades",
+   "first": "2026-11-10T18:29:14.038539+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T18:18:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Why Brazilian GP victory flattered McLaren upgrades"
+   },
+   "last": "2026-11-10T18:29:14.038544+00:00"
   }
  },
- "story_seq": 6712,
+ "story_seq": 6714,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16116,7 +16101,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T18:19:12.572529+00:00",
+ "last_run": "2026-11-10T18:29:11.500270+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
@@ -17631,6 +17616,11 @@
    "t": "2026-11-10T18:19:22.633095+00:00",
    "title": "Lawson beklerken Tsolov yeni bir F1 testine çıkıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-10T18:29:19.774266+00:00",
+   "title": "McLaren Brezilya zaferinde yükseltmelerden çok hava koşullarını öne çıkardı",
+   "source": "PlanetF1"
   }
  ]
 }
