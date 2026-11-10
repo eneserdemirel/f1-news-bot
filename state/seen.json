@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4547384ef6178c0c": "2026-10-27T15:14:51.313144+00:00",
-  "6521e0c9897033aa": "2026-10-27T15:14:51.313144+00:00",
-  "fd389d005e1480de": "2026-10-27T15:14:51.313144+00:00",
-  "77aac408acca4fe7": "2026-10-27T15:14:51.313144+00:00",
-  "d2ca8ff15c83716a": "2026-10-27T15:14:51.313144+00:00",
   "bfdca4a4f3ca6e06": "2026-10-27T15:24:50.103734+00:00",
   "18c061004b4a5dd9": "2026-10-27T15:24:50.103734+00:00",
   "f071d8a51b3a3751": "2026-10-27T15:24:50.103734+00:00",
@@ -7844,7 +7839,14 @@
   "eb0b2c69ae9338ad": "2026-11-10T15:08:21.103934+00:00",
   "433b80c28f513944": "2026-11-10T15:08:21.103934+00:00",
   "489ce3215a8cf63d": "2026-11-10T15:08:21.103934+00:00",
-  "aa1653ca6ce32fbb": "2026-11-10T15:08:21.103934+00:00"
+  "aa1653ca6ce32fbb": "2026-11-10T15:08:21.103934+00:00",
+  "7f8eabc2d7dd88a7": "2026-11-10T15:18:22.718591+00:00",
+  "f1a1f12145d4c5af": "2026-11-10T15:18:22.718591+00:00",
+  "b9c6f5d173163129": "2026-11-10T15:18:22.718591+00:00",
+  "f0c5e7e88c82d516": "2026-11-10T15:18:22.718591+00:00",
+  "d7c6af500aa61ff1": "2026-11-10T15:18:22.718591+00:00",
+  "bbde643932d93ebc": "2026-11-10T15:18:22.718591+00:00",
+  "a3477abee43b9d64": "2026-11-10T15:18:22.718591+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8054,32 +8056,6 @@
     "GPblog": "Norris on pole as FIA penalties shake up final Sao Paulo GP starting grid"
    },
    "last": "2026-11-08T16:07:27.314626+00:00"
-  },
-  "S6074": {
-   "title": "Elche vs. Real Betis game highlights",
-   "first": "2026-11-08T15:17:26.996275+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T15:13:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Elche vs. Real Betis - Game Highlights"
-   },
-   "last": "2026-11-08T15:17:26.996294+00:00"
-  },
-  "S6075": {
-   "title": "McGregor says final UFC fight must be Max Holloway",
-   "first": "2026-11-08T15:17:26.996301+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T13:22:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Conor McGregor insists it has to be Max Holloway for final UFC fight"
-   },
-   "last": "2026-11-08T15:17:26.996306+00:00"
   },
   "S6076": {
    "title": "Uncertainty over rain and dry conditions for Sao Paulo race",
@@ -15335,14 +15311,16 @@
    "title": "Hulkenberg calls P10 finish in Sao Paulo the maximum possible",
    "first": "2026-11-10T10:27:48.047462+00:00",
    "sources": {
-    "Formula 1": "2026-11-10T10:27:48.047476+00:00"
+    "Formula 1": "2026-11-10T10:27:48.047476+00:00",
+    "FormulaPassion": "2026-11-10T15:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg"
+    "Formula 1": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg",
+    "FormulaPassion": "Hülkenberg: “È positivo portare a casa un punto da una gara così complessa”"
    },
-   "last": "2026-11-10T10:27:48.047481+00:00"
+   "last": "2026-11-10T15:18:30.132329+00:00"
   },
   "S6613": {
    "title": "Wembanyama scores 40 as Spurs win ninth straight",
@@ -15528,7 +15506,8 @@
     "Gazzetta dello Sport": "2026-11-10T13:51:21+00:00",
     "Corriere dello Sport": "2026-11-10T14:32:55+00:00",
     "Autosport": "2026-11-10T14:52:26+00:00",
-    "Crash.net": "2026-11-10T14:55:00+00:00"
+    "Crash.net": "2026-11-10T14:55:00+00:00",
+    "GPFans": "2026-11-10T15:14:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15541,9 +15520,10 @@
     "Gazzetta dello Sport": "F1 2026, arriva la conferma: si corrono i GP di Qatar e Abu Dhabi. Salta l'ipotesi Imola",
     "Corriere dello Sport": "Niente Imola per il finale di F1: confermati i GP del Qatar e di Abu Dhabi nonostante le tensioni",
     "Autosport": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
-    "Crash.net": "F1 delivers update on Qatar and Abu Dhabi GPs as Imola ruled out"
+    "Crash.net": "F1 delivers update on Qatar and Abu Dhabi GPs as Imola ruled out",
+    "GPFans": "FIA president confirms final decision on Qatar and Abu Dhabi races as Imola deadline passes"
    },
-   "last": "2026-11-10T14:58:32.365461+00:00"
+   "last": "2026-11-10T15:18:30.132324+00:00"
   },
   "S6624": {
    "title": "Hamilton visits Egypt humanitarian aid facilities near Gaza",
@@ -15958,14 +15938,16 @@
    "title": "Norris discusses bizarre fireworks incident on podium",
    "first": "2026-11-10T14:58:32.365466+00:00",
    "sources": {
-    "Auto Motor und Sport": "2026-11-10T13:56:52+00:00"
+    "Auto Motor und Sport": "2026-11-10T13:56:52+00:00",
+    "GPblog": "2026-11-10T15:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Auto Motor und Sport": "Formel 1: Gefährliches Feuerwerk: Norris spricht über bizarren Podiums-Unfall"
+    "Auto Motor und Sport": "Formel 1: Gefährliches Feuerwerk: Norris spricht über bizarren Podiums-Unfall",
+    "GPblog": "Norris shares update on his ear after scary Brazil GP fireworks incident"
    },
-   "last": "2026-11-10T14:58:32.365471+00:00"
+   "last": "2026-11-10T15:18:30.132318+00:00"
   },
   "S6656": {
    "title": "F1 Academy announces 2027 calendar with seven rounds",
@@ -15992,9 +15974,61 @@
     "Motorsport.com Italia": "WEC | Futuro Alpine offuscato, ma Sinault insiste: \"C'è ancora tempo e proseguiamo le trattative\""
    },
    "last": "2026-11-10T15:08:26.774822+00:00"
+  },
+  "S6658": {
+   "title": "Pochettino open to Man United head coach role",
+   "first": "2026-11-10T15:18:30.132265+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T15:01:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mauricio Pochettino would be open to becoming Man United head coach - sources"
+   },
+   "last": "2026-11-10T15:18:30.132283+00:00"
+  },
+  "S6659": {
+   "title": "Kompany returns to Bayern training after collapse",
+   "first": "2026-11-10T15:18:30.132290+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T14:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Vincent Kompany returns to Bayern Munich training for first time since collapse"
+   },
+   "last": "2026-11-10T15:18:30.132296+00:00"
+  },
+  "S6660": {
+   "title": "Man United executives meet over Carrick's future",
+   "first": "2026-11-10T15:18:30.132300+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T12:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United executives, Sir Jim Ratcliffe meeting to discuss Carrick future - sources"
+   },
+   "last": "2026-11-10T15:18:30.132305+00:00"
+  },
+  "S6661": {
+   "title": "Ferrari explains Hamilton's 65-place grid penalty decision",
+   "first": "2026-11-10T15:18:30.132308+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-10T15:16:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari lifts lid on Lewis Hamilton decision after 65-place penalty"
+   },
+   "last": "2026-11-10T15:18:30.132312+00:00"
   }
  },
- "story_seq": 6657,
+ "story_seq": 6661,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16113,7 +16147,7 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T15:08:21.103934+00:00",
+ "last_run": "2026-11-10T15:18:22.718591+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
@@ -17598,6 +17632,21 @@
    "t": "2026-11-10T15:08:30.881685+00:00",
    "title": "F1 ACADEMY 2027 takvimini açıkladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-10T15:18:38.140293+00:00",
+   "title": "F1 2026 sezonu sonu Katar ve Abu Dabi'de yapılacak",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-10T15:18:38.660366+00:00",
+   "title": "Norris, Brezilya GP'deki havai fişek kazasından sonra kulağının durumunu açıkladı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-10T15:18:39.295730+00:00",
+   "title": "Ferrari, Hamilton'ın 65 sıra cezasının ardındaki kararı açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
