@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3988c73e94647723": "2026-10-27T18:35:30.935452+00:00",
-  "8541a5097b7f0124": "2026-10-27T18:35:30.935452+00:00",
-  "16011c10cec9457b": "2026-10-27T18:35:30.935452+00:00",
-  "15fb21ad0717537d": "2026-10-27T18:35:30.935452+00:00",
   "13965aced3807b58": "2026-10-27T18:45:30.440672+00:00",
   "cfbb6476a5d990ca": "2026-10-27T18:45:30.440672+00:00",
   "249c88078d312cc6": "2026-10-27T18:45:30.440672+00:00",
@@ -7836,7 +7832,8 @@
   "91abfe35d4dda1c6": "2026-11-10T18:19:12.572529+00:00",
   "08695bda73bc4e84": "2026-11-10T18:19:12.572529+00:00",
   "c7e95634fb9ad3eb": "2026-11-10T18:29:11.500270+00:00",
-  "c0457d146848e8ea": "2026-11-10T18:29:11.500270+00:00"
+  "c0457d146848e8ea": "2026-11-10T18:29:11.500270+00:00",
+  "ce7ebd01200216bf": "2026-11-10T18:39:13.126447+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7950,19 +7947,6 @@
     "PlanetF1": "George Russell ‘paid the price’ for bizarre pit lane spin during Brazilian GP"
    },
    "last": "2026-11-08T21:03:21.135573+00:00"
-  },
-  "S6117": {
-   "title": "ESPN F1 Brighton 2-0 Brentford match analysis",
-   "first": "2026-11-08T17:52:25.719147+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-08T16:05:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brighton 2-0 Brentford (Nov 8, 2026) Game Analysis"
-   },
-   "last": "2026-11-08T18:33:19.441145+00:00"
   },
   "S6119": {
    "title": "NFL Week 9 takeaways and fantasy spin",
@@ -15980,9 +15964,22 @@
     "PlanetF1": "Why Brazilian GP victory flattered McLaren upgrades"
    },
    "last": "2026-11-10T18:29:14.038544+00:00"
+  },
+  "S6715": {
+   "title": "Xavi Simons reveals emotional toll of Spurs ACL injury",
+   "first": "2026-11-10T18:39:14.506495+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T14:57:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Xavi Simons reveals emotional toll of Spurs ACL injury as return nears"
+   },
+   "last": "2026-11-10T18:39:14.506512+00:00"
   }
  },
- "story_seq": 6714,
+ "story_seq": 6715,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16101,17 +16098,12 @@
   ]
  ],
  "calendar_updated": "2026-11-09T22:56:14.474246+00:00",
- "last_run": "2026-11-10T18:29:11.500270+00:00",
+ "last_run": "2026-11-10T18:39:13.126447+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 15:00",
  "last_digest_at": "2026-11-10T12:08:30.817942+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-07T18:35:18.561193+00:00",
-   "title": "Çevrimiçi Tacize Karşı Birlik Kampanyası São Paulo Grand Prix'sine Taşınıyor",
-   "source": "FIA"
-  },
   {
    "t": "2026-11-07T19:00:12.666970+00:00",
    "title": "Interlagos'ta sıralama turlarının yeniden başlaması belirsizliğini koruyor",
