@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "22f62b62d6a46b5e": "2026-10-28T17:47:56.086275+00:00",
-  "00730dda19d7b214": "2026-10-28T17:47:56.086275+00:00",
-  "7fcbeafe6da32cf7": "2026-10-28T17:47:56.086275+00:00",
-  "f7a4cefb1e7d0e79": "2026-10-28T17:47:56.086275+00:00",
-  "27352276d9a9e49f": "2026-10-28T17:47:56.086275+00:00",
   "75f22fa076315646": "2026-10-28T17:57:55.882554+00:00",
   "2623b58d139e7c9e": "2026-10-28T17:57:55.882554+00:00",
   "21f3d01e2a21dbe7": "2026-10-28T17:57:55.882554+00:00",
@@ -7741,7 +7736,9 @@
   "5c9370b6d58091c6": "2026-11-11T17:32:01.474322+00:00",
   "9879cf75ece06a4a": "2026-11-11T17:32:01.474322+00:00",
   "e3af9264740a95c8": "2026-11-11T17:42:03.201571+00:00",
-  "79bdebe0e9ae6e73": "2026-11-11T17:42:03.201571+00:00"
+  "79bdebe0e9ae6e73": "2026-11-11T17:42:03.201571+00:00",
+  "0f8ae48057e0f090": "2026-11-11T17:52:04.408985+00:00",
+  "e03eb577ae25a597": "2026-11-11T17:52:04.408985+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7763,23 +7760,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S6182": {
-   "title": "Leclerc says Ferrari's wet-weather struggles have persisted for nine years",
-   "first": "2026-11-08T20:33:19.090682+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-08T20:20:00+00:00",
-    "RacingNews365": "2026-11-09T09:30:00+00:00",
-    "Motorsport Week": "2026-11-09T17:35:44+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Ferrari, Leclerc è quasi rassegnato: “È da 9 anni che in queste condizioni le cose vanno così”",
-    "RacingNews365": "Charles Leclerc pained by 'complete disaster' Ferrari in wet weather 'coin flip'",
-    "Motorsport Week": "Charles Leclerc airs ‘disastrous and undriveable’ Ferrari verdict after Sao Paulo woe"
-   },
-   "last": "2026-11-09T17:45:43.529746+00:00"
-  },
   "S6312": {
    "title": "Verstappen explains what went wrong with RB22 in Brazil",
    "first": "2026-11-09T06:04:19.576579+00:00",
@@ -8036,19 +8016,6 @@
     "ESPN F1": "CFP, ESPN ink 5-year, $1.7B deal to expand field, sources say"
    },
    "last": "2026-11-09T20:05:46.333255+00:00"
-  },
-  "S6456": {
-   "title": "Raiders staying pat at NFL trade deadline analysis",
-   "first": "2026-11-09T17:45:43.529718+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T17:06:58+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why the Raiders are better off staying pat at the NFL trade deadline"
-   },
-   "last": "2026-11-09T17:45:43.529737+00:00"
   },
   "S6457": {
    "title": "Hezemans and Coronel praise Verstappen's Brazil rain comeback talent",
@@ -14559,9 +14526,35 @@
     "GPblog": "Making Hamilton Ferrari’s number one would not answer Vasseur’s biggest question"
    },
    "last": "2026-11-11T17:22:04.530346+00:00"
+  },
+  "S6943": {
+   "title": "Russell refuses to give up on first world title hopes",
+   "first": "2026-11-11T17:52:07.455852+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Russell weigert op te geven: \"Zelfs de allergrootsten...\""
+   },
+   "last": "2026-11-11T17:52:07.455871+00:00"
+  },
+  "S6944": {
+   "title": "Vowles calls F1 cost cap 'not a healthy sport'",
+   "first": "2026-11-11T17:52:07.455878+00:00",
+   "sources": {
+    "GPFans": "2026-11-11T17:43:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 team boss savages cost cap rules - 'That isn't a healthy sport'"
+   },
+   "last": "2026-11-11T17:52:07.455884+00:00"
   }
  },
- "story_seq": 6942,
+ "story_seq": 6944,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14680,17 +14673,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T17:42:03.201571+00:00",
+ "last_run": "2026-11-11T17:52:04.408985+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T17:42:34.446953+00:00",
-   "title": "Russell, Sao Paulo'da pit çıkışında spin attı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-08T18:02:39.275935+00:00",
    "title": "Hamilton'ın videooyun başlangıcı: Brezilya GP'de start görünümü",
@@ -16150,6 +16138,11 @@
    "t": "2026-11-11T17:22:09.125435+00:00",
    "title": "Hamilton'ı birinci pilot yapmak Vasseur'ün asıl sorusunu yanıtlamaz",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T17:52:14.105300+00:00",
+   "title": "Russell pes etmeyi reddediyor: \"Zor yıllar herkese olur\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
