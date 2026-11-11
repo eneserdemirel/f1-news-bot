@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b2ae385bc17f6ef1": "2026-10-28T19:07:56.858787+00:00",
-  "0b3a9abe068e63e3": "2026-10-28T19:07:56.858787+00:00",
-  "1d2a3e11e7c99249": "2026-10-28T19:07:56.858787+00:00",
-  "0b8eb4cd93e53c46": "2026-10-28T19:07:56.858787+00:00",
-  "5e180fb1cddc98eb": "2026-10-28T19:07:56.858787+00:00",
-  "f4a99b2b379220e5": "2026-10-28T19:07:56.858787+00:00",
-  "af54e6057cc6224d": "2026-10-28T19:07:56.858787+00:00",
-  "7100e9f5e16aa78e": "2026-10-28T19:07:56.858787+00:00",
   "882ec526ca152c2d": "2026-10-28T19:17:57.550983+00:00",
   "b2bf0cf3b44bc8ea": "2026-10-28T19:17:57.550983+00:00",
   "15363a22ba1cb4df": "2026-10-28T19:17:57.550983+00:00",
@@ -7731,7 +7723,8 @@
   "440848d639c0b91a": "2026-11-11T18:42:40.522210+00:00",
   "5327275f2035b678": "2026-11-11T18:52:41.670311+00:00",
   "4099c68f75871f8e": "2026-11-11T18:52:41.670311+00:00",
-  "e571eacb853db9b8": "2026-11-11T19:02:41.594925+00:00"
+  "e571eacb853db9b8": "2026-11-11T19:02:41.594925+00:00",
+  "0117d8409e28cafe": "2026-11-11T19:12:42.152791+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7803,19 +7796,6 @@
     "AS": "Robert Kubica dice adiós a Ferrari"
    },
    "last": "2026-11-09T20:05:46.333296+00:00"
-  },
-  "S6332": {
-   "title": "The Race podcast debates whether Red Bull problems cost Verstappen Brazil win",
-   "first": "2026-11-09T08:34:17.591118+00:00",
-   "sources": {
-    "The Race": "2026-11-09T08:28:35+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "F1 podcast: Did Red Bull problems cost Verstappen a shot at win?"
-   },
-   "last": "2026-11-09T19:05:47.840184+00:00"
   },
   "S6333": {
    "title": "Oscar Piastri ends partnership with manager Mark Webber",
@@ -8009,58 +7989,6 @@
     "ESPN F1": "Giants 'feel fairly good' about QB J.J. McCarthy (hip) playing Thursday"
    },
    "last": "2026-11-09T22:06:30.637021+00:00"
-  },
-  "S6474": {
-   "title": "Browns return to Watson as starting QB1 after Sanders' fill-in",
-   "first": "2026-11-09T19:05:47.840157+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Source: Browns returning to Watson as QB1 despite Sanders' strong fill-in start"
-   },
-   "last": "2026-11-09T19:05:47.840175+00:00"
-  },
-  "S6475": {
-   "title": "Ricciardo reveals his message to Verstappen after Red Bull win",
-   "first": "2026-11-09T19:05:47.840189+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-09T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Daniel Ricciardo reveals Max Verstappen message after historic Red Bull victory"
-   },
-   "last": "2026-11-09T19:05:47.840195+00:00"
-  },
-  "S6476": {
-   "title": "Red Bull praise Lawson as Racing Bulls delay 2027 decision",
-   "first": "2026-11-09T19:05:47.840199+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-09T18:55:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Red Bull hail Liam Lawson performance as Racing Bulls stall on contract decision"
-   },
-   "last": "2026-11-09T19:05:47.840203+00:00"
-  },
-  "S6477": {
-   "title": "Wolff jokes Hamilton will travel home with Mercedes staff",
-   "first": "2026-11-09T19:05:47.840207+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Wolff cannot resist Hamilton joke as Mercedes celebrate F1 title triumph"
-   },
-   "last": "2026-11-09T19:05:47.840211+00:00"
   },
   "S6478": {
    "title": "Alonso claims Honda power unit holds back Aston Martin",
@@ -14493,9 +14421,22 @@
     "GPblog": "F1’s wet-tyre dispute turns on a question Pirelli’s verdict does not fully answer"
    },
    "last": "2026-11-11T19:02:44.332542+00:00"
+  },
+  "S6958": {
+   "title": "Mekies explains why Lawson's 2027 decision is delayed",
+   "first": "2026-11-11T19:12:44.469321+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson reason for F1 future decision delay addressed by Red Bull"
+   },
+   "last": "2026-11-11T19:12:44.469340+00:00"
   }
  },
- "story_seq": 6957,
+ "story_seq": 6958,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14614,37 +14555,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T19:02:41.594925+00:00",
+ "last_run": "2026-11-11T19:12:42.152791+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T19:03:32.845953+00:00",
-   "title": "Lando Norris, Sao Paulo Grand Prix'sini kazanarak sezonun üçüncü galibiyetini aldı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-08T19:03:33.388663+00:00",
-   "title": "Lando Norris, Antonelli'yi nasıl kandırdı?",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-11-08T19:03:33.899102+00:00",
-   "title": "Verstappen, São Paulo'da 21. dan ikinciliğe yükseldi ama tuhaf bir his yaşadı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-08T19:03:34.464216+00:00",
-   "title": "Norris, Interlagos'ta McLaren'a kariyerinin 14. zaferini getirdi",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-08T19:08:33.687669+00:00",
-   "title": "Verstappen, Brezilya'da olası hasar şüphesi dile getirdi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-08T19:18:19.950891+00:00",
    "title": "Lando Norris, Sao Paulo'da podyumda şampanya şişesini kırdı",
@@ -16059,6 +15975,11 @@
    "t": "2026-11-11T18:42:47.001695+00:00",
    "title": "Montoya, Vasseur'ün Ferrari'deki yetkisini sorguladı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-11T19:12:50.002211+00:00",
+   "title": "Red Bull, Liam Lawson'ın F1 geleceği kararında acele etmediğini açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
