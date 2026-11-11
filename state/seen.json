@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fcd3fdaa058a1271": "2026-10-28T22:28:33.064967+00:00",
-  "a3154a19a5fdf946": "2026-10-28T22:28:33.064967+00:00",
-  "5706333bf9518e7b": "2026-10-28T22:28:33.064967+00:00",
   "028c81178ff1c1b0": "2026-10-28T22:38:36.367702+00:00",
   "b1847f731f701de7": "2026-10-28T22:38:36.367702+00:00",
   "27d587d20267f331": "2026-10-28T22:38:36.367702+00:00",
@@ -7751,7 +7748,9 @@
   "e3d46e455079a50e": "2026-11-11T22:12:40.557212+00:00",
   "dde89083828ac88c": "2026-11-11T22:12:40.557212+00:00",
   "8217004eb1db2c61": "2026-11-11T22:12:40.557212+00:00",
-  "6cadf18589d7b1b1": "2026-11-11T22:22:39.875334+00:00"
+  "6cadf18589d7b1b1": "2026-11-11T22:22:39.875334+00:00",
+  "f504a78f1c55ca8d": "2026-11-11T22:32:40.448786+00:00",
+  "126baa8030cbb977": "2026-11-11T22:32:40.448786+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7986,19 +7985,6 @@
     "GPblog": "Lawson sends pointed message to Red Bull as 2027 decision draws closer"
    },
    "last": "2026-11-09T23:06:28.517623+00:00"
-  },
-  "S6509": {
-   "title": "Ryan Hopkins to remain Wisconsin starting QB vs. Maryland",
-   "first": "2026-11-09T22:26:25.711600+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T19:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ryan Hopkins to remain Wisconsin's starting QB vs. Maryland"
-   },
-   "last": "2026-11-09T22:26:25.711617+00:00"
   },
   "S6510": {
    "title": "Jaguars acquire Jordan Davis from Eagles in trade",
@@ -14405,9 +14391,22 @@
     "ESPN F1": "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27"
    },
    "last": "2026-11-11T22:12:42.477040+00:00"
+  },
+  "S6988": {
+   "title": "Hamilton urges Israel to let aid trucks into Gaza",
+   "first": "2026-11-11T22:32:43.117036+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-11T20:48:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Hamilton urges Israel to 'let the aid trucks in' to Gaza after Rafah border visit"
+   },
+   "last": "2026-11-11T22:32:43.117054+00:00"
   }
  },
- "story_seq": 6987,
+ "story_seq": 6988,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14526,17 +14525,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T22:22:39.875334+00:00",
+ "last_run": "2026-11-11T22:32:40.448786+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T22:28:17.860218+00:00",
-   "title": "FIA, Brezilya GP'deki olay sonrası Kimi Antonelli'ye cezayı onayladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-08T22:33:22.433330+00:00",
    "title": "Verstappen, arabadaki sorunları gece gündüz anlamak istiyor",
@@ -15791,6 +15785,11 @@
    "t": "2026-11-11T21:52:49.671474+00:00",
    "title": "Ferrari'nin riski tutmadı: Hamilton startta herkesi geçti",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-11T22:32:47.716039+00:00",
+   "title": "Hamilton, Refah sınırı ziyaretinin ardından Gazze'ye yardım tırlarının girmesi çağrısı yaptı",
+   "source": "Sky Sports F1"
   }
  ]
 }
