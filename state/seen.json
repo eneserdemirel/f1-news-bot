@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "053671dbbc562a31": "2026-10-28T19:38:34.272540+00:00",
-  "a9f4e260e00dd21f": "2026-10-28T19:38:34.272540+00:00",
   "0c15fd20dc93871d": "2026-10-28T19:58:31.938918+00:00",
   "0330d25473c2af43": "2026-10-28T19:58:31.938918+00:00",
   "fa4b63c0cecd7bf4": "2026-10-28T19:58:31.938918+00:00",
@@ -7725,7 +7723,10 @@
   "52fadbc338ace5a3": "2026-11-11T19:22:41.613026+00:00",
   "ce858d004b13f1cc": "2026-11-11T19:22:41.613026+00:00",
   "482c391ef8d48276": "2026-11-11T19:22:41.613026+00:00",
-  "74669ad212db2a00": "2026-11-11T19:32:42.513037+00:00"
+  "74669ad212db2a00": "2026-11-11T19:32:42.513037+00:00",
+  "7fd4b7d6aa18a6bb": "2026-11-11T19:42:39.541503+00:00",
+  "af379efbc989352a": "2026-11-11T19:42:39.541503+00:00",
+  "0114758d97be082a": "2026-11-11T19:42:39.541503+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7986,19 +7987,6 @@
     "GPblog": "Alonso makes 'phenomenal' Aston Martin claim after battling F1 giants"
    },
    "last": "2026-11-09T22:06:30.637042+00:00"
-  },
-  "S6480": {
-   "title": "Jets trade safety Andre Cisco to Lions",
-   "first": "2026-11-09T19:35:40.486176+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T18:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Jets trade safety Andre Cisco to injury-plagued Lions"
-   },
-   "last": "2026-11-09T19:35:40.486193+00:00"
   },
   "S6481": {
    "title": "Plymouth vs. Berkhamsted live score",
@@ -14429,9 +14417,35 @@
     "FormulaPassion": "Hamilton: “Il genocidio di Israele a Gaza è sconvolgente. Non possiamo voltarci dall’altra parte”"
    },
    "last": "2026-11-11T19:22:44.606787+00:00"
+  },
+  "S6961": {
+   "title": "Eibar vs Real Sociedad II live score",
+   "first": "2026-11-11T19:42:43.480823+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T19:36:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Eibar vs. Real Sociedad II (Jan 3, 2027) Live Score"
+   },
+   "last": "2026-11-11T19:42:43.480841+00:00"
+  },
+  "S6962": {
+   "title": "Racing Bulls says Lawson 2027 decision coming soon",
+   "first": "2026-11-11T19:42:43.480847+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T19:30:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Final Liam Lawson decision ‘soon’ as Racing Bulls issues update"
+   },
+   "last": "2026-11-11T19:42:43.480854+00:00"
   }
  },
- "story_seq": 6960,
+ "story_seq": 6962,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14550,27 +14564,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T19:32:42.513037+00:00",
+ "last_run": "2026-11-11T19:42:39.541503+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T19:33:30.000542+00:00",
-   "title": "Hamilton-Ferrari'de strateji karmaşası sürüyor",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-08T19:33:30.481004+00:00",
-   "title": "Wolff, Williams'la eşit sayıda konstrüktörler şampiyonluğuna ulaştı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-08T19:33:30.954082+00:00",
-   "title": "GP Brezilya sonrası stewardlar birkaç pilotu sorguya çağırdı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-08T19:43:20.467651+00:00",
    "title": "FIA, Brezilya GP'de Leclerc ve Lawson'ı soruşturuyor",
