@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cb5bc82c5fd20ad6": "2026-10-28T16:27:58.685527+00:00",
-  "d96d6d531d31d52f": "2026-10-28T16:27:58.685527+00:00",
   "7e1015e5fcc1c340": "2026-10-28T16:37:56.859518+00:00",
   "d45c1c0b5837a925": "2026-10-28T16:37:56.859518+00:00",
   "a66ec3ddc2ad52cd": "2026-10-28T16:37:56.859518+00:00",
@@ -7766,7 +7764,13 @@
   "7cd2fc310646a4a8": "2026-11-11T16:22:05.497814+00:00",
   "10fc02fd0b9390bd": "2026-11-11T16:22:05.497814+00:00",
   "18b33f059fe5838e": "2026-11-11T16:22:05.497814+00:00",
-  "8e1bf8bbbe48b2dc": "2026-11-11T16:22:05.497814+00:00"
+  "8e1bf8bbbe48b2dc": "2026-11-11T16:22:05.497814+00:00",
+  "88609da99a190327": "2026-11-11T16:32:01.747862+00:00",
+  "81ac02eae00d337c": "2026-11-11T16:32:01.747862+00:00",
+  "2ec18fd113e6cb14": "2026-11-11T16:32:01.747862+00:00",
+  "0cc1f5824962825a": "2026-11-11T16:32:01.747862+00:00",
+  "0755bd0a13714593": "2026-11-11T16:32:01.747862+00:00",
+  "1f674b11c625ad05": "2026-11-11T16:32:01.747862+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7994,21 +7998,6 @@
    },
    "last": "2026-11-10T07:38:04.363507+00:00"
   },
-  "S6355": {
-   "title": "PlanetF1 winners and losers list from Brazilian Grand Prix",
-   "first": "2026-11-09T10:55:08.263688+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-09T10:46:25+00:00",
-    "RacingNews365": "2026-11-09T16:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Winners and losers from the 2026 Brazilian Grand Prix",
-    "RacingNews365": "Max Verstappen jaw-dropping as Lewis Hamilton suffers - Sao Paulo GP Winners and Losers"
-   },
-   "last": "2026-11-09T16:25:44.525519+00:00"
-  },
   "S6360": {
    "title": "Norris explains champagne bottle smashing on Brazil podium",
    "first": "2026-11-09T11:15:12.337863+00:00",
@@ -8107,19 +8096,6 @@
     "ESPN F1": "William Saliba injury comeback ramps up with Arsenal Under-21 outing"
    },
    "last": "2026-11-09T22:46:29.069199+00:00"
-  },
-  "S6435": {
-   "title": "Race to Dubai permutations for McIlroy's record 8th title",
-   "first": "2026-11-09T16:25:44.525491+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:16:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Race to Dubai permutations: How can Rory McIlroy win record-equalling 8th title?"
-   },
-   "last": "2026-11-09T16:25:44.525510+00:00"
   },
   "S6436": {
    "title": "Ferrari to launch SF-26 investigation after Brazilian GP",
@@ -10372,16 +10348,18 @@
    "sources": {
     "RacingNews365 NL": "2026-11-10T09:45:00+00:00",
     "Crash.net": "2026-11-10T15:31:24+00:00",
-    "Motorsport Week": "2026-11-11T10:00:00+00:00"
+    "Motorsport Week": "2026-11-11T10:00:00+00:00",
+    "GPFans": "2026-11-11T16:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Ricciardo lyrisch over Verstappen: \"Niemand beter dan Max!\"",
     "Crash.net": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’",
-    "Motorsport Week": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’"
+    "Motorsport Week": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’",
+    "GPFans": "Daniel Ricciardo heaps praise on Max Verstappen as all-time F1 great: 'Insane talent'"
    },
-   "last": "2026-11-11T10:21:28.744101+00:00"
+   "last": "2026-11-11T16:32:06.424911+00:00"
   },
   "S6608": {
    "title": "Sainz calls for better Pirelli wet tyres",
@@ -14758,9 +14736,61 @@
     "PlanetF1": "Mercedes confirms findings after investigation into Brazilian GP struggles"
    },
    "last": "2026-11-11T16:22:10.868748+00:00"
+  },
+  "S6932": {
+   "title": "LSU-Texas college football best bets preview",
+   "first": "2026-11-11T16:32:06.424867+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LSU-Texas best bets: Will Saturday in Baton Rouge be a defensive struggle?"
+   },
+   "last": "2026-11-11T16:32:06.424884+00:00"
+  },
+  "S6933": {
+   "title": "Claire Williams comments on Williams' painful season",
+   "first": "2026-11-11T16:32:06.424891+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T16:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Former senior Williams figure issues 'safe hands' confidence amid painful season"
+   },
+   "last": "2026-11-11T16:32:06.424897+00:00"
+  },
+  "S6934": {
+   "title": "Ex-Ferrari engineer Mazzola on Hamilton's ignored pit call",
+   "first": "2026-11-11T16:32:06.424901+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ex-Ferrari engineer says Schumacher never made a mistake like Hamilton's Brazil pit call"
+   },
+   "last": "2026-11-11T16:32:06.424905+00:00"
+  },
+  "S6935": {
+   "title": "Coulthard criticises F1's cautious approach to rain racing",
+   "first": "2026-11-11T16:32:06.424915+00:00",
+   "sources": {
+    "Crash.net": "2026-11-11T16:28:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "David Coulthard critiques F1 for not ‘fully respecting history’ with cautious stance on rain"
+   },
+   "last": "2026-11-11T16:32:06.424919+00:00"
   }
  },
- "story_seq": 6931,
+ "story_seq": 6935,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14879,17 +14909,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T16:22:05.497814+00:00",
+ "last_run": "2026-11-11T16:32:01.747862+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T16:22:38.137120+00:00",
-   "title": "Sao Paulo Grand Prix'de resmi grid belli oldu",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-08T16:37:32.361407+00:00",
    "title": "Antonelli, Sao Paulo GP grid yoluna giderken pistte spin attı",
@@ -16339,6 +16364,21 @@
    "t": "2026-11-11T16:22:17.000096+00:00",
    "title": "Mercedes, Brezilya GP'deki sorunların lastik sıcaklığından kaynaklandığını açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-11T16:32:11.189861+00:00",
+   "title": "Claire Williams: Williams 'güvenli ellerde', zor sezondan toparlanacak",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T16:32:11.601695+00:00",
+   "title": "Coulthard: F1, yağmurda aşırı temkinli davranarak tarihe tam saygı göstermiyor",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-11T16:32:11.981450+00:00",
+   "title": "Eski Ferrari mühendisi: Hamilton'ın Brezilya pit çağrısı gibi bir hata Schumacher'de görülmedi",
+   "source": "GPblog"
   }
  ]
 }
