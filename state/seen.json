@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "19a8645dae9aa4d8": "2026-10-28T15:58:00.824138+00:00",
-  "0a90923d17e699be": "2026-10-28T15:58:00.824138+00:00",
   "9e683b1703687a98": "2026-10-28T16:07:55.309532+00:00",
   "40e5e27454f43011": "2026-10-28T16:07:55.309532+00:00",
   "a1f6d4d98cf9cbcb": "2026-10-28T16:17:57.774806+00:00",
@@ -7770,7 +7768,9 @@
   "4ee6d7fb385b2c16": "2026-11-11T15:42:07.345554+00:00",
   "9e08a1f42b077dab": "2026-11-11T15:52:04.347591+00:00",
   "da70071e408ec20c": "2026-11-11T15:52:04.347591+00:00",
-  "5996a78116fefc3b": "2026-11-11T15:52:04.347591+00:00"
+  "5996a78116fefc3b": "2026-11-11T15:52:04.347591+00:00",
+  "adac649d8fcab72d": "2026-11-11T16:02:01.785499+00:00",
+  "c15ca9b67b00cfce": "2026-11-11T16:02:01.785499+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8111,32 +8111,6 @@
     "ESPN F1": "William Saliba injury comeback ramps up with Arsenal Under-21 outing"
    },
    "last": "2026-11-09T22:46:29.069199+00:00"
-  },
-  "S6425": {
-   "title": "Analysis of Jessie Bates III's fit with Jaguars defense",
-   "first": "2026-11-09T15:55:44.729580+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T15:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "How does Jessie Bates III help the Jaguars defense? Are Falcons still contending?"
-   },
-   "last": "2026-11-09T15:55:44.729598+00:00"
-  },
-  "S6426": {
-   "title": "The Race Brazilian GP driver tier list rankings",
-   "first": "2026-11-09T15:55:44.729604+00:00",
-   "sources": {
-    "The Race": "2026-11-09T15:53:24+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Edd Straw's F1 2026 Brazilian Grand Prix tier list driver rankings"
-   },
-   "last": "2026-11-09T15:55:44.729610+00:00"
   },
   "S6427": {
    "title": "WTC reshaping the second tier of Test cricket",
@@ -14812,9 +14786,35 @@
     "GPblog": "Verstappen's title-winning Red Bull crew is breaking up: who has gone, who is going and who is still left"
    },
    "last": "2026-11-11T15:52:07.934491+00:00"
+  },
+  "S6926": {
+   "title": "Mark Andrews Week 10 fantasy football outlook",
+   "first": "2026-11-11T16:02:04.256670+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T15:33:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mark Andrews' Week 10 fantasy outlook"
+   },
+   "last": "2026-11-11T16:02:04.256688+00:00"
+  },
+  "S6927": {
+   "title": "Analysis of the Raiders' reasoning behind Kirk Cousins trade",
+   "first": "2026-11-11T16:02:04.256694+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T14:35:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Behind the Raiders' decision to trade Cousins"
+   },
+   "last": "2026-11-11T16:02:04.256700+00:00"
   }
  },
- "story_seq": 6925,
+ "story_seq": 6927,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14933,7 +14933,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T15:52:04.347591+00:00",
+ "last_run": "2026-11-11T16:02:01.785499+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
