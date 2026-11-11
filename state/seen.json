@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7e1015e5fcc1c340": "2026-10-28T16:37:56.859518+00:00",
-  "d45c1c0b5837a925": "2026-10-28T16:37:56.859518+00:00",
-  "a66ec3ddc2ad52cd": "2026-10-28T16:37:56.859518+00:00",
   "18d9dfa6e619319c": "2026-10-28T16:47:56.656818+00:00",
   "8af382ae271d8f23": "2026-10-28T16:47:56.656818+00:00",
   "0043c21cb6994e20": "2026-10-28T16:47:56.656818+00:00",
@@ -7770,7 +7767,9 @@
   "2ec18fd113e6cb14": "2026-11-11T16:32:01.747862+00:00",
   "0cc1f5824962825a": "2026-11-11T16:32:01.747862+00:00",
   "0755bd0a13714593": "2026-11-11T16:32:01.747862+00:00",
-  "1f674b11c625ad05": "2026-11-11T16:32:01.747862+00:00"
+  "1f674b11c625ad05": "2026-11-11T16:32:01.747862+00:00",
+  "110d791354c9a347": "2026-11-11T16:42:06.034568+00:00",
+  "3ad4b3fe2471a76b": "2026-11-11T16:42:06.034568+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8111,71 +8110,6 @@
     "GPFans": "'Devastated' Hamilton seeks Ferrari answers as John Elkann steps in - F1 News Today"
    },
    "last": "2026-11-10T06:37:43.404420+00:00"
-  },
-  "S6437": {
-   "title": "F1.com winners and losers from Sao Paulo GP",
-   "first": "2026-11-09T16:35:50.555922+00:00",
-   "sources": {
-    "Formula 1": "2026-11-09T16:35:50.555937+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "5 Winners and 5 Losers from Sao Paulo"
-   },
-   "last": "2026-11-09T16:35:50.555941+00:00"
-  },
-  "S6438": {
-   "title": "MLB awards week MVP and Cy Young picks",
-   "first": "2026-11-09T16:35:50.555948+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T12:12:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Who will win MVP? Cy Young? Picks, analysis for 2026 MLB awards week"
-   },
-   "last": "2026-11-09T16:35:50.555953+00:00"
-  },
-  "S6439": {
-   "title": "Russell downplays Verstappen chase as Wolff pushes for P2",
-   "first": "2026-11-09T16:35:50.555958+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Russell plays down Verstappen chase as Wolff wants him to finish second"
-   },
-   "last": "2026-11-09T16:35:50.555963+00:00"
-  },
-  "S6440": {
-   "title": "Motorsport-Total commentary on F1 critics after Brazil",
-   "first": "2026-11-09T16:35:50.555966+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T16:30:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Kommentar: Wie die Formel 1 ihre Kritiker eines Besseren belehrte - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T16:35:50.555970+00:00"
-  },
-  "S6441": {
-   "title": "Verstappen says Brazil trip wasted 12 hours of life",
-   "first": "2026-11-09T16:35:50.555972+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-09T16:04:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Verstappen nach GP Brasilien: „12 Stunden verschwendete Lebenszeit!“"
-   },
-   "last": "2026-11-09T16:35:50.555976+00:00"
   },
   "S6442": {
    "title": "Mark Matthews commits to Georgia after dropping Texas A&M pledge",
@@ -14788,9 +14722,35 @@
     "Crash.net": "David Coulthard critiques F1 for not ‘fully respecting history’ with cautious stance on rain"
    },
    "last": "2026-11-11T16:32:06.424919+00:00"
+  },
+  "S6936": {
+   "title": "Harry Kane thanks doctor ahead of record 126th England cap",
+   "first": "2026-11-11T16:42:07.785754+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T16:14:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kane thanks doctor who reinvigorated his career ahead of record-breaking 126th cap"
+   },
+   "last": "2026-11-11T16:42:07.785771+00:00"
+  },
+  "S6937": {
+   "title": "Astros reportedly hire Brad Ausmus as new manager",
+   "first": "2026-11-11T16:42:07.785777+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T16:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Source - Astros to hire Brad Ausmus as new manager"
+   },
+   "last": "2026-11-11T16:42:07.785782+00:00"
   }
  },
- "story_seq": 6935,
+ "story_seq": 6937,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14909,17 +14869,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T16:32:01.747862+00:00",
+ "last_run": "2026-11-11T16:42:06.034568+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T16:37:32.361407+00:00",
-   "title": "Antonelli, Sao Paulo GP grid yoluna giderken pistte spin attı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-08T16:57:29.126258+00:00",
    "title": "Aston Martin sponsoru Aramco'ya Riyad'da saldırı girişimi sonrası hasar",
