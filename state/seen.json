@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5ee95fdb9876ef12": "2026-10-28T09:17:13.272150+00:00",
-  "522ca088a46fdddb": "2026-10-28T09:17:13.272150+00:00",
   "513395f1d13b3906": "2026-10-28T09:27:12.040474+00:00",
   "125fe2d17d35c269": "2026-10-28T09:27:12.040474+00:00",
   "805b24a7de23d089": "2026-10-28T09:27:12.040474+00:00",
@@ -7844,7 +7842,9 @@
   "a54af83d952a22c3": "2026-11-11T09:01:23.393440+00:00",
   "8fe94f19f4f7fb6b": "2026-11-11T09:11:19.604076+00:00",
   "7573590d133a8afc": "2026-11-11T09:11:19.604076+00:00",
-  "2876eb9166af57ed": "2026-11-11T09:11:19.604076+00:00"
+  "2876eb9166af57ed": "2026-11-11T09:11:19.604076+00:00",
+  "523b40a1e2a59580": "2026-11-11T09:21:20.071036+00:00",
+  "e8c8fa21525dc890": "2026-11-11T09:21:20.071036+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8201,19 +8201,6 @@
     "Auto Motor und Sport": "Formel 1: Nach sieben F1-Jahren: Oscar Piastri trennt sich von Manager Mark Webber"
    },
    "last": "2026-11-10T13:08:24.243432+00:00"
-  },
-  "S6338": {
-   "title": "Analysis of why McLaren excelled and Ferrari struggled in Brazil",
-   "first": "2026-11-09T09:14:19.686235+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-09T09:03:15+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Brasilien-Analyse: Warum war McLaren so gut und Ferrari so schlecht?"
-   },
-   "last": "2026-11-09T09:14:19.686254+00:00"
   },
   "S6339": {
    "title": "Warner backs Khawaja over sandpapergate revelations (cricket)",
@@ -14609,14 +14596,16 @@
    "title": "Analyst says Antonelli could move to Ferrari soon",
    "first": "2026-11-11T06:30:34.182902+00:00",
    "sources": {
-    "RacingNews365": "2026-11-11T06:20:00+00:00"
+    "RacingNews365": "2026-11-11T06:20:00+00:00",
+    "RacingNews365 NL": "2026-11-11T09:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Kimi Antonelli handed verdict over future Ferrari drive: 'He could go tomorrow'"
+    "RacingNews365": "Kimi Antonelli handed verdict over future Ferrari drive: 'He could go tomorrow'",
+    "RacingNews365 NL": "Kimi Antonelli 'kan morgen naar Ferrari gaan'"
    },
-   "last": "2026-11-11T06:30:34.182921+00:00"
+   "last": "2026-11-11T09:21:24.864697+00:00"
   },
   "S6820": {
    "title": "Celtics troll 76ers with 'Throw the ball up' slogan postgame",
@@ -14985,9 +14974,22 @@
     "Motorsport-Total": "Formel 1 im Regen: Was nach den Warnungen von Brasilien übrig bleibt - Motorsport-Total.com"
    },
    "last": "2026-11-11T09:11:23.575014+00:00"
+  },
+  "S6848": {
+   "title": "Analysis of Verstappen's São Paulo data and Mekies' response",
+   "first": "2026-11-11T09:21:24.864709+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-11T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Why Max Verstappen’s São Paulo data backs his drive, but not the diagnosis"
+   },
+   "last": "2026-11-11T09:21:24.864715+00:00"
   }
  },
- "story_seq": 6847,
+ "story_seq": 6848,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15106,22 +15108,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T09:11:19.604076+00:00",
+ "last_run": "2026-11-11T09:21:20.071036+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T09:16:47.402938+00:00",
-   "title": "Hamilton 400. F1 yarışına ulaştı, rakipleri tebrik etti",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-08T09:16:47.834334+00:00",
-   "title": "Sao Paulo GP'de lastik stratejisi seçenekleri neler?",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-08T09:32:08.368878+00:00",
    "title": "Stella: Russell muhtemelen daha hızlıydı, Norris fırsatı değerlendirdi",
@@ -16541,6 +16533,11 @@
    "t": "2026-11-11T09:11:29.647827+00:00",
    "title": "Yağmurlu F1: Brezilya uyarılarından sonra geriye ne kalıyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-11T09:21:31.425852+00:00",
+   "title": "Verstappen'in São Paulo verileri sürüşünü destekliyor ama teşhisini desteklemiyor",
+   "source": "Motorsport Week"
   }
  ]
 }
