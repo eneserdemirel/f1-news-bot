@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c3b102f46b787bd6": "2026-10-28T12:57:12.525561+00:00",
-  "3f4e6f36f7266f99": "2026-10-28T12:57:12.525561+00:00",
-  "f5f8d7797e399052": "2026-10-28T12:57:12.525561+00:00",
-  "4dca79394197df8f": "2026-10-28T12:57:12.525561+00:00",
-  "b1b8f28642e91163": "2026-10-28T12:57:12.525561+00:00",
   "f813d24b458a2058": "2026-10-28T13:07:13.723789+00:00",
   "ddd0519112c3abb2": "2026-10-28T13:07:13.723789+00:00",
   "9abae23db4a4bb90": "2026-10-28T13:07:13.723789+00:00",
@@ -7792,7 +7787,9 @@
   "ae787feac3734660": "2026-11-11T12:41:19.201397+00:00",
   "ace3b1df8d184b16": "2026-11-11T12:41:19.201397+00:00",
   "8004767b72214509": "2026-11-11T12:51:20.429711+00:00",
-  "ce9c806d0be41233": "2026-11-11T12:51:20.429711+00:00"
+  "ce9c806d0be41233": "2026-11-11T12:51:20.429711+00:00",
+  "719367fda8b0c56f": "2026-11-11T13:01:24.958708+00:00",
+  "8fb1dd7355af37f4": "2026-11-11T13:01:24.958708+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8206,19 +8203,6 @@
     "ESPN F1": "Sir Jim Ratcliffe chose to appoint rookies at Man United, and it has them facing relegation﻿ fight"
    },
    "last": "2026-11-09T13:05:12.665480+00:00"
-  },
-  "S6379": {
-   "title": "ESPN power rankings of top 25 after Week 10 (not F1)",
-   "first": "2026-11-09T12:55:09.359686+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T12:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Power Rankings: How an action-packed Week 10 changed the top 25"
-   },
-   "last": "2026-11-09T12:55:09.359705+00:00"
   },
   "S6380": {
    "title": "Hamilton reacts on social media to unravelled Sao Paulo GP",
@@ -14663,15 +14647,17 @@
    "first": "2026-11-11T10:31:24.156919+00:00",
    "sources": {
     "PlanetF1": "2026-11-11T10:26:36+00:00",
-    "Crash.net": "2026-11-11T12:17:09+00:00"
+    "Crash.net": "2026-11-11T12:17:09+00:00",
+    "GPFans": "2026-11-11T12:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Charles Leclerc penalty under scrutiny as Lando Norris breaks rank on FIA decision",
-    "Crash.net": "Lando Norris disagrees with F1 stewards’ verdict on Charles Leclerc penalty at Brazil GP"
+    "Crash.net": "Lando Norris disagrees with F1 stewards’ verdict on Charles Leclerc penalty at Brazil GP",
+    "GPFans": "Lando Norris questions result-changing Brazilian Grand Prix penalty"
    },
-   "last": "2026-11-11T12:21:28.637992+00:00"
+   "last": "2026-11-11T13:01:27.111636+00:00"
   },
   "S6863": {
    "title": "Bearman relieved after tough Haas triple-header ends",
@@ -15170,17 +15156,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T12:51:20.429711+00:00",
+ "last_run": "2026-11-11T13:01:24.958708+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T12:57:30.026940+00:00",
-   "title": "Hamilton'ın 'farklı yapılmış' sözüne Russell'dan destek",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-08T13:17:29.583528+00:00",
    "title": "Pirelli: Full-wet ve intermediate lastikler arasında 'fark yok'",
