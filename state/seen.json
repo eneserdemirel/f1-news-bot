@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "03d221c02c497bd9": "2026-10-28T00:16:06.436160+00:00",
-  "0d9f099be55c1ef4": "2026-10-28T00:16:06.436160+00:00",
   "507999bfbba65527": "2026-10-28T00:36:04.693213+00:00",
   "e0e82a6033d2cd4f": "2026-10-28T00:46:05.017579+00:00",
   "4a7d1b6b6a921ea8": "2026-10-28T00:46:05.017579+00:00",
@@ -7824,7 +7822,9 @@
   "38cd703145c990c6": "2026-11-10T23:19:52.542921+00:00",
   "e8d3a812d3b4fa1b": "2026-11-10T23:29:54.196878+00:00",
   "0108d3b395bb9ae0": "2026-11-10T23:39:52.808560+00:00",
-  "2b1dc77e85cf1416": "2026-11-10T23:59:52.226885+00:00"
+  "2b1dc77e85cf1416": "2026-11-10T23:59:52.226885+00:00",
+  "4b8a3edfed2ba443": "2026-11-11T00:19:54.295918+00:00",
+  "ad1a21a895b573b3": "2026-11-11T00:19:54.295918+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8223,19 +8223,6 @@
     "ESPN F1": "Nuggets' starters all questionable vs. Rockets after delays leaving Mexico"
    },
    "last": "2026-11-09T03:18:49.841343+00:00"
-  },
-  "S6255": {
-   "title": "Wolff confirms Antonelli takes over Russell's P2 role at Mercedes",
-   "first": "2026-11-09T00:18:49.457704+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T00:14:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Toto Wolff bestätigt: Jetzt fährt Antonelli für Russells P2 - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T00:18:49.457721+00:00"
   },
   "S6256": {
    "title": "Kon Knueppel out at least four weeks with hamstring strain",
@@ -15127,9 +15114,35 @@
     "ESPN F1": "Giants' Nabers calls Fox analyst Olsen's body language critique a 'lie'"
    },
    "last": "2026-11-10T23:59:53.409766+00:00"
+  },
+  "S6771": {
+   "title": "Ava Mcdonald scores in goal for Texas",
+   "first": "2026-11-11T00:19:56.581338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T23:54:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ava Mcdonald slots in the goal for Texas"
+   },
+   "last": "2026-11-11T00:19:56.581355+00:00"
+  },
+  "S6772": {
+   "title": "Yankees' Fried has bone spur removed, will resume throwing in December",
+   "first": "2026-11-11T00:19:56.581361+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-10T22:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Yankees' Fried has bone spur removed, to start throwing again in Dec."
+   },
+   "last": "2026-11-11T00:19:56.581366+00:00"
   }
  },
- "story_seq": 6770,
+ "story_seq": 6772,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15248,7 +15261,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T00:09:52.776900+00:00",
+ "last_run": "2026-11-11T00:19:54.295918+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
