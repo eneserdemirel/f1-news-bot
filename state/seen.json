@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7955aba1cbeaf6af": "2026-10-28T12:37:12.709210+00:00",
-  "4fe9c8d262c1f8ab": "2026-10-28T12:37:12.709210+00:00",
-  "d4bd4299e3954fa9": "2026-10-28T12:37:12.709210+00:00",
   "19679ee402352245": "2026-10-28T12:47:14.567849+00:00",
   "c3f15aabdeb1bb6c": "2026-10-28T12:47:14.567849+00:00",
   "c3b102f46b787bd6": "2026-10-28T12:57:12.525561+00:00",
@@ -7790,7 +7787,12 @@
   "894712df3e048780": "2026-11-11T12:21:23.422698+00:00",
   "2cc716f88e253faf": "2026-11-11T12:21:23.422698+00:00",
   "aff1d84e5823e05c": "2026-11-11T12:21:23.422698+00:00",
-  "bed7398d7fbae941": "2026-11-11T12:31:19.979024+00:00"
+  "bed7398d7fbae941": "2026-11-11T12:31:19.979024+00:00",
+  "3a0b1ccbdee7412c": "2026-11-11T12:41:19.201397+00:00",
+  "e07e8e0c669fe0d7": "2026-11-11T12:41:19.201397+00:00",
+  "7fdbf4e557916970": "2026-11-11T12:41:19.201397+00:00",
+  "ae787feac3734660": "2026-11-11T12:41:19.201397+00:00",
+  "ace3b1df8d184b16": "2026-11-11T12:41:19.201397+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8191,19 +8193,6 @@
     "Sky Sports F1": "Norris: McLaren still not at championship level"
    },
    "last": "2026-11-09T13:15:09.834840+00:00"
-  },
-  "S6377": {
-   "title": "Alisson discusses possible new Liverpool contract",
-   "first": "2026-11-09T12:35:08.484214+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alisson in talks over new Liverpool contract: 'I'm happy to stay'"
-   },
-   "last": "2026-11-09T12:35:08.484232+00:00"
   },
   "S6378": {
    "title": "Ratcliffe's rookie appointments leave Man United facing relegation",
@@ -14980,9 +14969,74 @@
     "ESPN F1": "Fantasy football matchup rankings: Upgrade Ollie Gordon II, sit Jordan Love"
    },
    "last": "2026-11-11T12:31:21.429078+00:00"
+  },
+  "S6886": {
+   "title": "Why protected picks aren't common in NFL trades",
+   "first": "2026-11-11T12:41:24.051467+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T11:40:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why protected picks aren't common in NFL trades"
+   },
+   "last": "2026-11-11T12:41:24.051508+00:00"
+  },
+  "S6887": {
+   "title": "Red Bull champion praises Palmowski, F1 Academy nickname",
+   "first": "2026-11-11T12:41:24.051515+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T12:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull-kampioen trots op Verstappen-bijnaam: \"Hij is er echt voor me\""
+   },
+   "last": "2026-11-11T12:41:24.051521+00:00"
+  },
+  "S6888": {
+   "title": "Horner's Red Bull 'mojo' claim rejected after winning surge",
+   "first": "2026-11-11T12:41:24.051525+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T12:34:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Christian Horner’s Red Bull ‘mojo’ claim rejected after winning surge"
+   },
+   "last": "2026-11-11T12:41:24.051530+00:00"
+  },
+  "S6889": {
+   "title": "Bortoleto happy with pace but frustrated by Brazil home race",
+   "first": "2026-11-11T12:41:24.051534+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T12:33:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mit der Pace \"ziemlich zufrieden\", aber: Bortoleto hadert mit Brasilien-Heimspiel - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T12:41:24.051538+00:00"
+  },
+  "S6890": {
+   "title": "Verstappen says he would never sign two number one drivers",
+   "first": "2026-11-11T12:41:24.051541+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T12:31:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Max Verstappen: \"Würde niemals zwei Nummer-1-Fahrer verpflichten\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T12:41:24.051546+00:00"
   }
  },
- "story_seq": 6885,
+ "story_seq": 6890,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15101,7 +15155,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T12:31:19.979024+00:00",
+ "last_run": "2026-11-11T12:41:19.201397+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
@@ -16531,6 +16585,16 @@
    "t": "2026-11-11T12:21:35.831691+00:00",
    "title": "Albon: Brezilya'da puan için daha sürekli yağmura ihtiyacımız vardı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-11T12:41:28.435279+00:00",
+   "title": "Bortoleto, Brezilya'daki ev sahibi yarışta pace'ten memnun ama hayal kırıklığında",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-11T12:41:28.949341+00:00",
+   "title": "Horner'ın Red Bull için 'mojo' iddiasına Mekies'ten yanıt",
+   "source": "PlanetF1"
   }
  ]
 }
