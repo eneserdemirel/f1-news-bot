@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3914ae5a96a16428": "2026-10-28T14:27:57.382463+00:00",
-  "a589b894949d19c3": "2026-10-28T14:27:57.382463+00:00",
   "c3fbaa014b77146e": "2026-10-28T14:37:56.585374+00:00",
   "c48e256c5b406a71": "2026-10-28T14:37:56.585374+00:00",
   "3a2e06cb5b9f8f27": "2026-10-28T14:57:57.375688+00:00",
@@ -7781,7 +7779,9 @@
   "faa0b5cd9dd9f531": "2026-11-11T14:12:04.045722+00:00",
   "363255844f869688": "2026-11-11T14:22:02.581018+00:00",
   "e7bcb933a2942fc6": "2026-11-11T14:22:02.581018+00:00",
-  "65e9d7839ee05e7a": "2026-11-11T14:22:02.581018+00:00"
+  "65e9d7839ee05e7a": "2026-11-11T14:22:02.581018+00:00",
+  "3a937bf0971df1d1": "2026-11-11T14:32:05.391933+00:00",
+  "d139942bac31d300": "2026-11-11T14:32:05.391933+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8077,19 +8077,6 @@
     "ESPN F1": "Chase: Our improved game against spin helped us win in Bangladesh"
    },
    "last": "2026-11-09T18:45:47.205461+00:00"
-  },
-  "S6399": {
-   "title": "Mekies distances himself from Lawson's 2027 seat decision",
-   "first": "2026-11-09T14:25:05.556028+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T14:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Mekies trekt handen af van Lawson-besluit: \"Probeer ik net 3 minuten uit te leggen\""
-   },
-   "last": "2026-11-09T14:25:05.556047+00:00"
   },
   "S6400": {
    "title": "Duke veteran core and fifth-year coach title hopes (college sports preview)",
@@ -14290,14 +14277,16 @@
    "title": "Bearman relieved after tough Haas triple-header ends",
    "first": "2026-11-11T10:41:24.769295+00:00",
    "sources": {
-    "Formula 1": "2026-11-11T10:41:24.769308+00:00"
+    "Formula 1": "2026-11-11T10:41:24.769308+00:00",
+    "FormulaPassion": "2026-11-11T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Bearman relieved ‘horrible three weeks’ for Haas are over"
+    "Formula 1": "Bearman relieved ‘horrible three weeks’ for Haas are over",
+    "FormulaPassion": "Bearman guarda a Las Vegas: “Sono state tre settimane deludenti”"
    },
-   "last": "2026-11-11T10:41:24.769313+00:00"
+   "last": "2026-11-11T14:32:09.787768+00:00"
   },
   "S6864": {
    "title": "Drivers criticise safety speed limit at Sao Paulo GP",
@@ -14876,9 +14865,22 @@
     "Motorsport.com Italia": "Macau | Harmony Racing presenta le Ferrari di Rovera e Ye per la FIA GT World Cup 2026"
    },
    "last": "2026-11-11T14:12:05.516512+00:00"
+  },
+  "S6908": {
+   "title": "Italian pundits criticise Vasseur as Ferrari pressure reaches Elkann",
+   "first": "2026-11-11T14:32:09.787740+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T14:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Vasseur accused of acting like an 'outside observer' as Ferrari pressure turns to Elkann"
+   },
+   "last": "2026-11-11T14:32:09.787758+00:00"
   }
  },
- "story_seq": 6907,
+ "story_seq": 6908,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14997,7 +14999,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T14:22:02.581018+00:00",
+ "last_run": "2026-11-11T14:32:05.391933+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
