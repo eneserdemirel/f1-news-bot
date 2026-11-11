@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f45ef9144851c7f3": "2026-10-28T04:06:38.634620+00:00",
   "c2f24d8ba3bd2cf5": "2026-10-28T04:16:42.902822+00:00",
   "b7110454a7ce9a94": "2026-10-28T04:16:42.902822+00:00",
   "0157609a3debe3ea": "2026-10-28T04:46:39.597768+00:00",
@@ -7827,7 +7826,11 @@
   "047079b32e422e05": "2026-11-11T03:40:29.966038+00:00",
   "36ba5ce95c17d848": "2026-11-11T03:40:29.966038+00:00",
   "1acd8b7998f09850": "2026-11-11T03:50:33.506667+00:00",
-  "82e59f24ba1efcb8": "2026-11-11T04:00:28.534291+00:00"
+  "82e59f24ba1efcb8": "2026-11-11T04:00:28.534291+00:00",
+  "6d359ed989f36495": "2026-11-11T04:10:34.979421+00:00",
+  "65683778079d30d0": "2026-11-11T04:10:34.979421+00:00",
+  "078c037da5ad2468": "2026-11-11T04:10:34.979421+00:00",
+  "e70afbd91b21b25e": "2026-11-11T04:10:34.979421+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8226,45 +8229,6 @@
     "ESPN F1": "Is there ANY HOPE for Man United? | ESPN FC - Stream the Video - Watch ESPN"
    },
    "last": "2026-11-09T04:39:13.888411+00:00"
-  },
-  "S6293": {
-   "title": "Lakers 121-116 Pistons NBA game recap",
-   "first": "2026-11-09T03:48:56.771551+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T02:03:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lakers 121-116 Pistons (Nov 8, 2026) Game Recap"
-   },
-   "last": "2026-11-09T04:08:51.463679+00:00"
-  },
-  "S6295": {
-   "title": "Ducks 5-2 Penguins NHL game recap",
-   "first": "2026-11-09T04:03:44.123874+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T03:59:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ducks 5-2 Penguins (9 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-09T04:03:44.123891+00:00"
-  },
-  "S6296": {
-   "title": "Fisher added as cover with Tickner under stand-down protocols",
-   "first": "2026-11-09T04:08:51.463688+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T03:11:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fisher added as cover with Tickner following stand-down protocols"
-   },
-   "last": "2026-11-09T04:08:51.463694+00:00"
   },
   "S6297": {
    "title": "PlanetF1 telemetry reveals how Verstappen managed Brazil recovery",
@@ -14959,9 +14923,48 @@
     "ESPN F1": "Mercer 97-91 Georgia Southern (Nov 10, 2026) Final Score"
    },
    "last": "2026-11-11T03:50:34.913095+00:00"
+  },
+  "S6797": {
+   "title": "Nadia Ramadan goal for Kentucky women's soccer",
+   "first": "2026-11-11T04:10:37.663140+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T04:07:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nadia Ramadan finds the back of the net for Kentucky"
+   },
+   "last": "2026-11-11T04:10:37.663156+00:00"
+  },
+  "S6798": {
+   "title": "Olympic guru advises Wallabies amid pay saga",
+   "first": "2026-11-11T04:10:37.663161+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T03:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Olympic guru's advice to Wallabies as pay saga rolls on"
+   },
+   "last": "2026-11-11T04:10:37.663166+00:00"
+  },
+  "S6799": {
+   "title": "Untelevised Verstappen team radio emerges from Brazilian GP",
+   "first": "2026-11-11T04:10:37.663169+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T04:01:25+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Untelevised Max Verstappen team radio emerges after Brazilian GP ‘disaster’"
+   },
+   "last": "2026-11-11T04:10:37.663173+00:00"
   }
  },
- "story_seq": 6796,
+ "story_seq": 6799,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15080,17 +15083,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T04:00:28.534291+00:00",
+ "last_run": "2026-11-11T04:10:34.979421+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T04:06:17.491872+00:00",
-   "title": "FIA, Hamilton'a Brezilya GP'de 65 grid cezası verdi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-08T06:21:12.799020+00:00",
    "title": "Hamilton ODI: Yağmur ve saha belirsizliği sürüyor",
@@ -16480,6 +16478,11 @@
    "t": "2026-11-11T02:09:59.702471+00:00",
    "title": "Permane, Lawson kararının bir an önce açıklanmasını istiyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T04:10:41.403061+00:00",
+   "title": "Verstappen'in Brezilya GP telsiz kaydı ortaya çıktı: \"Felaket bir araba\"",
+   "source": "PlanetF1"
   }
  ]
 }
