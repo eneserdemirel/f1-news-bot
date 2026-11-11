@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "929a705856b0c615": "2026-10-28T07:06:36.114202+00:00",
-  "7fdce052d338f39a": "2026-10-28T07:06:36.114202+00:00",
   "e56422ed0e1d3615": "2026-10-28T07:16:38.155008+00:00",
   "f190691ba7fb4b50": "2026-10-28T07:16:38.155008+00:00",
   "2dec2464bef3a97c": "2026-10-28T07:16:38.155008+00:00",
@@ -7862,7 +7860,11 @@
   "cbf7225a6955cffb": "2026-11-11T07:00:56.719838+00:00",
   "4c5b0ad89c0f0bbd": "2026-11-11T07:00:56.719838+00:00",
   "fb40c8a32791eeab": "2026-11-11T07:00:56.719838+00:00",
-  "e5afac0257e7b636": "2026-11-11T07:00:56.719838+00:00"
+  "e5afac0257e7b636": "2026-11-11T07:00:56.719838+00:00",
+  "0508a246e0d0c88d": "2026-11-11T07:10:30.409421+00:00",
+  "747d32af09559978": "2026-11-11T07:10:30.409421+00:00",
+  "c1eae2d0ca203518": "2026-11-11T07:10:30.409421+00:00",
+  "d4ed615d11931f3f": "2026-11-11T07:10:30.409421+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8029,19 +8031,6 @@
    },
    "last": "2026-11-09T08:54:19.280486+00:00"
   },
-  "S6186": {
-   "title": "Verstappen credits rain overtaking trick for Brazil comeback",
-   "first": "2026-11-08T20:38:17.906693+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-08T20:35:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen wijst naar doorslaggevende factor in regenachtig Brazilië"
-   },
-   "last": "2026-11-09T07:04:18.381850+00:00"
-  },
   "S6198": {
    "title": "Analysis of why Hamilton's Brazil comeback faded after strong start",
    "first": "2026-11-08T20:58:13.338190+00:00",
@@ -8205,19 +8194,6 @@
     "GPblog": "Verstappen hands his Brazil helmet to departing Red Bull mechanic after 20 years"
    },
    "last": "2026-11-09T14:15:33.993457+00:00"
-  },
-  "S6317": {
-   "title": "Malik Nabers criticises Greg Olsen and Fox over in-game comments",
-   "first": "2026-11-09T07:04:18.381823+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T05:11:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giants' Malik Nabers takes issue with Greg Olsen, Fox for comments during game"
-   },
-   "last": "2026-11-09T07:04:18.381840+00:00"
   },
   "S6318": {
    "title": "Wolfsburg vs. Union Berlin live score",
@@ -14971,9 +14947,61 @@
     "GPblog": "Toto Wolff takes a jab at MotoGP riders: 'They know nothing geopolitically'"
    },
    "last": "2026-11-11T07:01:00.004198+00:00"
+  },
+  "S6823": {
+   "title": "Brazil GP result signals early Las Vegas betting markets",
+   "first": "2026-11-11T07:10:34.081466+00:00",
+   "sources": {
+    "Formula 1": "2026-11-11T07:10:34.081482+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "3 drivers to watch in the early Las Vegas GP markets"
+   },
+   "last": "2026-11-11T07:10:34.081486+00:00"
+  },
+  "S6824": {
+   "title": "Vowles says Williams got carried away, 2026 a blip",
+   "first": "2026-11-11T07:10:34.081491+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-11T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Vowles: Williams got carried away with success but 2026 only a blip"
+   },
+   "last": "2026-11-11T07:10:34.081496+00:00"
+  },
+  "S6825": {
+   "title": "Verstappen's early Brazil GP pace threatened McLaren's Norris",
+   "first": "2026-11-11T07:10:34.081500+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen vormde bedreiging voor McLaren: \"Heb de beelden teruggekeken\""
+   },
+   "last": "2026-11-11T07:10:34.081505+00:00"
+  },
+  "S6826": {
+   "title": "Red Bull's Monaghan misses second race, Cadillac links resurface",
+   "first": "2026-11-11T07:10:34.081507+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Red Bull chief engineer Monaghan misses second race in a row as Cadillac links resurface"
+   },
+   "last": "2026-11-11T07:10:34.081511+00:00"
   }
  },
- "story_seq": 6822,
+ "story_seq": 6826,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15092,7 +15120,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T07:00:56.719838+00:00",
+ "last_run": "2026-11-11T07:10:30.409421+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16497,6 +16525,26 @@
    "t": "2026-11-11T07:01:02.706559+00:00",
    "title": "Toto Wolff, MotoGP pilotlarını jeopolitik konularda bilgisiz olmakla eleştirdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T07:10:40.209489+00:00",
+   "title": "Vowles: Williams başarıya kapılmıştı, 2026 sadece bir aksaklık",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-11T07:10:40.631115+00:00",
+   "title": "Verstappen, McLaren için tehdit oluşturuyordu: \"Görüntüleri tekrar izledim\"",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-11T07:10:41.146277+00:00",
+   "title": "Red Bull baş mühendisi Monaghan art arda ikinci yarışı kaçırdı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T07:10:41.575025+00:00",
+   "title": "Las Vegas GP erken pazarlarında izlenmesi gereken 3 pilot",
+   "source": "Formula 1"
   }
  ]
 }
