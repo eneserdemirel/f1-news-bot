@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2b4011a44b0b3f7f": "2026-10-28T16:57:58.333379+00:00",
-  "ebd4d0c3efd94d95": "2026-10-28T16:57:58.333379+00:00",
-  "d58e33bbec025607": "2026-10-28T16:57:58.333379+00:00",
   "00e5c827731e9707": "2026-10-28T17:08:01.050407+00:00",
   "4e6077ef5dcb423b": "2026-10-28T17:08:01.050407+00:00",
   "7f751413c27560a1": "2026-10-28T17:08:01.050407+00:00",
@@ -7762,7 +7759,9 @@
   "0755bd0a13714593": "2026-11-11T16:32:01.747862+00:00",
   "1f674b11c625ad05": "2026-11-11T16:32:01.747862+00:00",
   "110d791354c9a347": "2026-11-11T16:42:06.034568+00:00",
-  "3ad4b3fe2471a76b": "2026-11-11T16:42:06.034568+00:00"
+  "3ad4b3fe2471a76b": "2026-11-11T16:42:06.034568+00:00",
+  "74ddc951a3a1d09d": "2026-11-11T17:02:02.007602+00:00",
+  "13d4aa73a75beb26": "2026-11-11T17:02:02.007602+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8066,32 +8065,6 @@
    },
    "last": "2026-11-10T06:37:43.404420+00:00"
   },
-  "S6442": {
-   "title": "Mark Matthews commits to Georgia after dropping Texas A&M pledge",
-   "first": "2026-11-09T16:55:45.357673+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:36:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "5-star tackle Mark Matthews commits to Georgia after dropping pledge to Texas A&M"
-   },
-   "last": "2026-11-09T16:55:45.357688+00:00"
-  },
-  "S6443": {
-   "title": "College football Week 10 takeaways and lasting impressions",
-   "first": "2026-11-09T16:55:45.357694+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T12:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "College football takeaways - Lasting impressions from Week 10"
-   },
-   "last": "2026-11-09T16:55:45.357700+00:00"
-  },
   "S6444": {
    "title": "Mercedes considers plan to help Russell overtake Verstappen for P2",
    "first": "2026-11-09T16:55:45.357704+00:00",
@@ -8106,19 +8079,6 @@
     "RacingNews365 NL": "Mercedes overweegt Russell tot eerste coureur te bombarderen"
    },
    "last": "2026-11-10T10:57:46.058169+00:00"
-  },
-  "S6445": {
-   "title": "Explainer on Red Bull team order and Hadjar-Verstappen apology",
-   "first": "2026-11-09T16:55:45.357712+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T14:39:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Erst Teamorder, dann Entschuldigung: Was bei Hadjar und Verstappen los war - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T16:55:45.357716+00:00"
   },
   "S6446": {
    "title": "Bangladesh cricket: Shanto on failing to use home conditions",
@@ -14703,9 +14663,35 @@
     "ESPN F1": "Source - Astros to hire Brad Ausmus as new manager"
    },
    "last": "2026-11-11T16:42:07.785782+00:00"
+  },
+  "S6938": {
+   "title": "Bradley Lord explains Mercedes Brazil podium miss due to tyre window",
+   "first": "2026-11-11T17:02:06.705320+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-11T16:58:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Mercedes in difficoltà: le gomme di Antonelli entravano e uscivano della finestra di temperatura"
+   },
+   "last": "2026-11-11T17:02:06.705337+00:00"
+  },
+  "S6939": {
+   "title": "Hinchcliffe rates Antonelli's season above Verstappen's",
+   "first": "2026-11-11T17:02:06.705344+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Seizoen Antonelli boven Verstappen verkozen: \"Bij Max ligt dat anders\""
+   },
+   "last": "2026-11-11T17:02:06.705349+00:00"
   }
  },
- "story_seq": 6937,
+ "story_seq": 6939,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14824,17 +14810,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T16:52:03.185724+00:00",
+ "last_run": "2026-11-11T17:02:02.007602+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T16:57:29.126258+00:00",
-   "title": "Aston Martin sponsoru Aramco'ya Riyad'da saldırı girişimi sonrası hasar",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-08T17:12:32.738635+00:00",
    "title": "Antonelli güzel startla liderliği aldı; Hamilton ve Verstappen de öne çıktı",
@@ -16289,6 +16270,11 @@
    "t": "2026-11-11T16:32:11.981450+00:00",
    "title": "Eski Ferrari mühendisi: Hamilton'ın Brezilya pit çağrısı gibi bir hata Schumacher'de görülmedi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T17:02:13.095885+00:00",
+   "title": "Antonelli, Verstappen'e üstün tutuldu: \"Max'te durum farklı\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
