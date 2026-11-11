@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e9bf11ea04f2938f": "2026-10-28T21:58:32.374455+00:00",
-  "751466813fa912c6": "2026-10-28T21:58:32.374455+00:00",
-  "2460c39c882fc1b1": "2026-10-28T21:58:32.374455+00:00",
   "3915c6dc7475427e": "2026-10-28T22:08:33.030741+00:00",
   "ae7571319be67827": "2026-10-28T22:08:33.030741+00:00",
   "5b740a42565dfbb4": "2026-10-28T22:08:33.030741+00:00",
@@ -7751,7 +7748,12 @@
   "1825eed9e0c42514": "2026-11-11T21:52:38.472223+00:00",
   "1eac1dca53a84fb8": "2026-11-11T21:52:38.472223+00:00",
   "f4cca7720b418ab7": "2026-11-11T21:52:38.472223+00:00",
-  "03e25ed94be3dc81": "2026-11-11T21:52:38.472223+00:00"
+  "03e25ed94be3dc81": "2026-11-11T21:52:38.472223+00:00",
+  "d9f67e72e8df3056": "2026-11-11T22:02:42.435789+00:00",
+  "287a96a1391d3e94": "2026-11-11T22:02:42.435789+00:00",
+  "b4b069f58a0b0cbe": "2026-11-11T22:02:42.435789+00:00",
+  "8a908bb6544a9dd7": "2026-11-11T22:02:42.435789+00:00",
+  "0b68bd0362706f9f": "2026-11-11T22:02:42.435789+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7984,32 +7986,6 @@
     "GPblog": "Alonso makes 'phenomenal' Aston Martin claim after battling F1 giants"
    },
    "last": "2026-11-09T22:06:30.637042+00:00"
-  },
-  "S6486": {
-   "title": "49ers' 7-1 start driven by young players' contributions",
-   "first": "2026-11-09T20:36:30.482543+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T19:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The key behind 49ers' 7-1 start? Big contributions from the team's youth"
-   },
-   "last": "2026-11-09T21:56:27.753649+00:00"
-  },
-  "S6487": {
-   "title": "Antonelli talks Bologna, Virtus and food in personal interview",
-   "first": "2026-11-09T20:36:30.482566+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-09T20:22:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Antonelli: \"Programmi? Bologna, Virtus e tagliatelle, perché la cucina altrove..."
-   },
-   "last": "2026-11-09T21:56:27.753660+00:00"
   },
   "S6488": {
    "title": "Harry Kane left off FIFPRO men's team of the year",
@@ -12674,15 +12650,17 @@
    "first": "2026-11-11T08:51:24.381223+00:00",
    "sources": {
     "PlanetF1": "2026-11-11T08:43:39+00:00",
-    "RacingNews365": "2026-11-11T12:10:00+00:00"
+    "RacingNews365": "2026-11-11T12:10:00+00:00",
+    "GPblog": "2026-11-11T22:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "‘Don’t know’ – Valtteri Bottas responds to Colton Herta’s Super Licence points",
-    "RacingNews365": "Valtteri Bottas responds to Colton Herta breaking crucial threshold to race in F1"
+    "RacingNews365": "Valtteri Bottas responds to Colton Herta breaking crucial threshold to race in F1",
+    "GPblog": "Bottas admits he does not know his Cadillac future as Herta clears Super Licence hurdle"
    },
-   "last": "2026-11-11T12:21:28.637985+00:00"
+   "last": "2026-11-11T22:02:46.229751+00:00"
   },
   "S6844": {
    "title": "Antonelli reportedly earns a tenth of Russell's salary",
@@ -14417,7 +14395,7 @@
    "titles": {
     "ESPN F1": "U.S. withdraws from FIFA U17 World Cup in Qatar over safety concerns"
    },
-   "last": "2026-11-11T21:32:43.456607+00:00"
+   "last": "2026-11-11T22:02:46.229690+00:00"
   },
   "S6975": {
    "title": "Barrichello backs Antonelli's eventual move to Ferrari",
@@ -14522,9 +14500,48 @@
     "FormulaPassion": "Una Ferrari 488 Challenge Evo distrutta in pista | FP - News - Auto"
    },
    "last": "2026-11-11T21:52:44.997192+00:00"
+  },
+  "S6983": {
+   "title": "McVay says Davante Adams could return sooner than later",
+   "first": "2026-11-11T22:02:46.229722+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T21:46:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'"
+   },
+   "last": "2026-11-11T22:02:46.229728+00:00"
+  },
+  "S6984": {
+   "title": "Cardinals coach praises rookie QB Carson Beck",
+   "first": "2026-11-11T22:02:46.229733+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T21:39:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cardinals coach: Carson Beck's been a pro since he's been here"
+   },
+   "last": "2026-11-11T22:02:46.229738+00:00"
+  },
+  "S6985": {
+   "title": "Will McDonald to get more playing time with Jets",
+   "first": "2026-11-11T22:02:46.229742+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T21:02:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Will McDonald to get more playing time with the Jets"
+   },
+   "last": "2026-11-11T22:02:46.229746+00:00"
   }
  },
- "story_seq": 6982,
+ "story_seq": 6985,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14643,17 +14660,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T21:52:38.472223+00:00",
+ "last_run": "2026-11-11T22:02:42.435789+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T21:53:18.404611+00:00",
-   "title": "Antonelli'ye güvensiz çıkış nedeniyle 5 saniye ceza",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-08T22:03:30.774301+00:00",
    "title": "Leclerc, Lawson ile temas nedeniyle ceza aldı; Antonelli ve Bearman da cezalandırıldı",
