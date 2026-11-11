@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "450f270904b9f07e": "2026-10-28T10:27:12.510926+00:00",
-  "e330aad2025da6d6": "2026-10-28T10:27:12.510926+00:00",
-  "2fe515db747b6485": "2026-10-28T10:27:12.510926+00:00",
   "c26663cf272cf38e": "2026-10-28T10:37:15.779226+00:00",
   "ececeb22749edd26": "2026-10-28T10:37:15.779226+00:00",
   "ac44cce107961f3d": "2026-10-28T10:47:21.740231+00:00",
@@ -7844,7 +7841,10 @@
   "18daf7e1ac6b9814": "2026-11-11T10:21:24.605971+00:00",
   "61123d77d623a73d": "2026-11-11T10:21:24.605971+00:00",
   "f372e2a811162a85": "2026-11-11T10:21:24.605971+00:00",
-  "47c4280fe1257acd": "2026-11-11T10:21:24.605971+00:00"
+  "47c4280fe1257acd": "2026-11-11T10:21:24.605971+00:00",
+  "754804e69307be52": "2026-11-11T10:31:19.141347+00:00",
+  "76195aea4d06069d": "2026-11-11T10:31:19.141347+00:00",
+  "a9b95485986c05c9": "2026-11-11T10:31:19.141347+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8028,21 +8028,6 @@
     "ESPN F1": "Toto Wolff: Mercedes face fierce 2027 battle after winning constructors' title"
    },
    "last": "2026-11-09T10:45:05.973213+00:00"
-  },
-  "S6235": {
-   "title": "Verstappen confesses unusual error during Brazil GP comeback",
-   "first": "2026-11-08T22:33:17.810612+00:00",
-   "sources": {
-    "GPblog": "2026-11-08T22:30:00+00:00",
-    "Crash.net": "2026-11-09T10:19:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen confesses to unusual error during Brazilian GP comeback",
-    "Crash.net": "Max Verstappen owns up to rare unseen error at Brazil GP"
-   },
-   "last": "2026-11-09T10:25:04.152176+00:00"
   },
   "S6242": {
    "title": "Antonelli says team title matters more than Brazil result",
@@ -11871,16 +11856,18 @@
    "sources": {
     "Crash.net": "2026-11-10T11:35:00+00:00",
     "FormulaPassion": "2026-11-10T13:39:11+00:00",
-    "GPFans": "2026-11-10T21:27:00+00:00"
+    "GPFans": "2026-11-10T21:27:00+00:00",
+    "Motorsport.com Italia": "2026-11-11T10:29:19+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Lewis Hamilton travels to Egypt to visit Gaza humanitarian aid facilities",
     "FormulaPassion": "Hamilton campione in pista e fuori: in Egitto per visitare le strutture di aiuti umanitari per Gaza",
-    "GPFans": "Lewis Hamilton jets in to support Gaza humanitarian efforts"
+    "GPFans": "Lewis Hamilton jets in to support Gaza humanitarian efforts",
+    "Motorsport.com Italia": "F1 | Hamilton al valico di Rafah per supportare gli aiuti a Gaza: sappiamo chi è il vero Lewis?"
    },
-   "last": "2026-11-10T21:29:13.448213+00:00"
+   "last": "2026-11-11T10:31:24.156908+00:00"
   },
   "S6625": {
    "title": "NFL Power Rankings for Week 10",
@@ -12784,15 +12771,17 @@
    "first": "2026-11-10T17:09:15.948514+00:00",
    "sources": {
     "Crash.net": "2026-11-10T17:00:00+00:00",
-    "PlanetF1": "2026-11-11T07:14:57+00:00"
+    "PlanetF1": "2026-11-11T07:14:57+00:00",
+    "GPblog": "2026-11-11T10:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "David Coulthard’s urgent plea to Lando Norris after taking firework to the face on Brazil GP podium",
-    "PlanetF1": "David Coulthard slams Lando Norris over stunt children are taught to avoid"
+    "PlanetF1": "David Coulthard slams Lando Norris over stunt children are taught to avoid",
+    "GPblog": "FIA told to 'rework' podium rules amid scary Norris incident"
    },
-   "last": "2026-11-11T07:20:34.932584+00:00"
+   "last": "2026-11-11T10:31:24.156932+00:00"
   },
   "S6693": {
    "title": "DeMario Douglas fantasy upside for NFL Week 10",
@@ -15008,9 +14997,22 @@
     "Motorsport-Total": "Andrea Stella: Startphase von Verstappen und Hamilton war \"einfach unglaublich\" - Motorsport-Total.com"
    },
    "last": "2026-11-11T10:21:28.744126+00:00"
+  },
+  "S6862": {
+   "title": "Leclerc Interlagos penalty under scrutiny; Norris criticises FIA",
+   "first": "2026-11-11T10:31:24.156919+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T10:26:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Charles Leclerc penalty under scrutiny as Lando Norris breaks rank on FIA decision"
+   },
+   "last": "2026-11-11T10:31:24.156925+00:00"
   }
  },
- "story_seq": 6861,
+ "story_seq": 6862,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15129,22 +15131,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T10:21:24.605971+00:00",
+ "last_run": "2026-11-11T10:31:19.141347+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T10:21:43.791612+00:00",
-   "title": "İran'da yeni saldırılar F1'in Orta Doğu finaline gölge düşürüyor",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-08T10:26:42.725679+00:00",
-   "title": "Toto Wolff: Kimi Antonelli, Gianni Agnelli'ye biraz benzemeli",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-08T10:46:48.905296+00:00",
    "title": "Alonso: Brezilya'da Q3'e kalmak ve yaşının eleştirilmesi",
@@ -16579,6 +16571,11 @@
    "t": "2026-11-11T10:21:35.303942+00:00",
    "title": "Antonelli'nin eski junior takım patronu erken potansiyelini anlatıyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-11T10:31:28.263182+00:00",
+   "title": "Leclerc'in cezasına Norris'ten itiraz: 'Mükemmel yerleştirilmiş bir itme'",
+   "source": "PlanetF1"
   }
  ]
 }
