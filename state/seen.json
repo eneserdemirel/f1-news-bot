@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a7934395562697d7": "2026-10-28T14:18:02.319704+00:00",
   "3914ae5a96a16428": "2026-10-28T14:27:57.382463+00:00",
   "a589b894949d19c3": "2026-10-28T14:27:57.382463+00:00",
   "c3fbaa014b77146e": "2026-10-28T14:37:56.585374+00:00",
@@ -7779,7 +7778,10 @@
   "a7f424c4b81abbf9": "2026-11-11T14:02:02.240563+00:00",
   "af6c34c92901f478": "2026-11-11T14:02:02.240563+00:00",
   "5b3bf9c8c2cdeb60": "2026-11-11T14:02:02.240563+00:00",
-  "faa0b5cd9dd9f531": "2026-11-11T14:12:04.045722+00:00"
+  "faa0b5cd9dd9f531": "2026-11-11T14:12:04.045722+00:00",
+  "363255844f869688": "2026-11-11T14:22:02.581018+00:00",
+  "e7bcb933a2942fc6": "2026-11-11T14:22:02.581018+00:00",
+  "65e9d7839ee05e7a": "2026-11-11T14:22:02.581018+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7862,25 +7864,6 @@
    },
    "last": "2026-11-09T16:45:50.266197+00:00"
   },
-  "S6208": {
-   "title": "Mekies praises Verstappen's Brazil podium drive",
-   "first": "2026-11-08T21:18:20.106359+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-08T21:10:00+00:00",
-    "Formula 1": "2026-11-09T12:05:09.976467+00:00",
-    "Motorsport.com Italia": "2026-11-09T12:01:22+00:00",
-    "GPblog": "2026-11-09T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Mekies maakt diepe buiging voor Verstappen: \"Hij verslaat zelfs de simulator!\"",
-    "Formula 1": "How Verstappen outperformed Red Bull’s simulations in Brazil",
-    "Motorsport.com Italia": "F1 | Verstappen, l'impossibile diventa normale. Mekies: \"Max batte anche le nostre simulazioni\"",
-    "GPblog": "Mekies admits Red Bull's simulator could never have predicted Verstappen's Brazil comeback"
-   },
-   "last": "2026-11-09T14:15:33.993445+00:00"
-  },
   "S6312": {
    "title": "Verstappen explains what went wrong with RB22 in Brazil",
    "first": "2026-11-09T06:04:19.576579+00:00",
@@ -7899,21 +7882,6 @@
     "Motorsport Week": "Max Verstappen reveals ‘night and day’ Red Bull issue despite seismic Sao Paulo comeback"
    },
    "last": "2026-11-09T19:25:43.453128+00:00"
-  },
-  "S6315": {
-   "title": "Verstappen gives farewell gift to long-serving Red Bull veteran Ole Schack",
-   "first": "2026-11-09T06:44:16.359709+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T06:40:00+00:00",
-    "GPblog": "2026-11-09T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Max Verstappen geeft bijzonder cadeau aan Red Bull-veteraan",
-    "GPblog": "Verstappen hands his Brazil helmet to departing Red Bull mechanic after 20 years"
-   },
-   "last": "2026-11-09T14:15:33.993457+00:00"
   },
   "S6321": {
    "title": "Lawson closing in on 2027 Racing Bulls F1 deal",
@@ -8024,19 +7992,6 @@
    },
    "last": "2026-11-10T13:08:24.243432+00:00"
   },
-  "S6349": {
-   "title": "Wolff says Antonelli would have been dropped by other teams",
-   "first": "2026-11-09T09:55:05.879434+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T09:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Wolff claims Kimi Antonelli would have been dropped elsewhere in thinly veiled dig at Red Bull"
-   },
-   "last": "2026-11-09T14:15:33.993484+00:00"
-  },
   "S6352": {
    "title": "Wolff on Mercedes rebirth: 'four difficult years, we kept believing in people'",
    "first": "2026-11-09T10:15:09.610927+00:00",
@@ -8053,19 +8008,6 @@
     "FormulaPassion": "Mercedes e gli anni duro lavoro"
    },
    "last": "2026-11-10T07:38:04.363507+00:00"
-  },
-  "S6354": {
-   "title": "Russell backs Hamilton's claim that retirement is off the table",
-   "first": "2026-11-09T10:35:17.468105+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton backed by Russell as retirement stays off the table after 400 F1 starts"
-   },
-   "last": "2026-11-09T14:15:33.993480+00:00"
   },
   "S6355": {
    "title": "PlanetF1 winners and losers list from Brazilian Grand Prix",
@@ -8097,19 +8039,6 @@
    },
    "last": "2026-11-09T17:25:48.027310+00:00"
   },
-  "S6362": {
-   "title": "Mercedes unsure of Brazil car problems as Russell chases P2",
-   "first": "2026-11-09T11:25:07.194293+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T11:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Mercedes mystery threatens Russell's P2 push as Verstappen's lead grows"
-   },
-   "last": "2026-11-09T14:15:33.993476+00:00"
-  },
   "S6368": {
    "title": "Analysis of Verstappen as wet-weather master in Brazil",
    "first": "2026-11-09T11:45:05.692150+00:00",
@@ -8122,32 +8051,6 @@
     "RacingNews365 NL": "Onnavolgbare Verstappen levert ultiem bewijs als regenmeester van F1"
    },
    "last": "2026-11-09T15:25:42.599042+00:00"
-  },
-  "S6369": {
-   "title": "Verstappen wants a change for the next Sao Paulo GP",
-   "first": "2026-11-09T11:55:09.656268+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T11:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen expresses a major wish for the next edition of the Brazilian Grand Prix"
-   },
-   "last": "2026-11-09T14:15:33.993462+00:00"
-  },
-  "S6373": {
-   "title": "Rossi says 2015 Marquez clash still hurts",
-   "first": "2026-11-09T12:05:09.976515+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T11:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Valentino Rossi admits 2015 Marc Marquez controversy still hurts 11 years later"
-   },
-   "last": "2026-11-09T14:15:33.993466+00:00"
   },
   "S6381": {
    "title": "Motorsport-Total driver ratings from Sao Paulo GP",
@@ -8174,45 +8077,6 @@
     "ESPN F1": "Chase: Our improved game against spin helped us win in Bangladesh"
    },
    "last": "2026-11-09T18:45:47.205461+00:00"
-  },
-  "S6396": {
-   "title": "Hamilton's Ferrari direction and Leclerc feud analysed",
-   "first": "2026-11-09T14:15:33.993418+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-09T14:04:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Ferrari: dove vuole arrivare Lewis Hamilton?"
-   },
-   "last": "2026-11-09T14:15:33.993435+00:00"
-  },
-  "S6397": {
-   "title": "Lawson says Racing Bulls used everything available in Brazil",
-   "first": "2026-11-09T14:15:33.993493+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-09T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Lawson eroe in Brasile: “Abbiamo sfruttato tutto ciò che avevamo a disposizione”"
-   },
-   "last": "2026-11-09T14:15:33.993498+00:00"
-  },
-  "S6398": {
-   "title": "Engineers face setup puzzle for Madrid event",
-   "first": "2026-11-09T14:15:33.993501+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-09T12:39:21+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Setup-Rätsel in Madrid: Ingenieure erwartet unlösbare Aufgabe"
-   },
-   "last": "2026-11-09T14:15:33.993504+00:00"
   },
   "S6399": {
    "title": "Mekies distances himself from Lawson's 2027 seat decision",
@@ -11246,7 +11110,8 @@
     "Crash.net": "2026-11-10T11:35:00+00:00",
     "FormulaPassion": "2026-11-10T13:39:11+00:00",
     "GPFans": "2026-11-10T21:27:00+00:00",
-    "Motorsport.com Italia": "2026-11-11T10:29:19+00:00"
+    "Motorsport.com Italia": "2026-11-11T10:29:19+00:00",
+    "Motorsport-Total": "2026-11-11T14:17:46+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11254,9 +11119,10 @@
     "Crash.net": "Lewis Hamilton travels to Egypt to visit Gaza humanitarian aid facilities",
     "FormulaPassion": "Hamilton campione in pista e fuori: in Egitto per visitare le strutture di aiuti umanitari per Gaza",
     "GPFans": "Lewis Hamilton jets in to support Gaza humanitarian efforts",
-    "Motorsport.com Italia": "F1 | Hamilton al valico di Rafah per supportare gli aiuti a Gaza: sappiamo chi è il vero Lewis?"
+    "Motorsport.com Italia": "F1 | Hamilton al valico di Rafah per supportare gli aiuti a Gaza: sappiamo chi è il vero Lewis?",
+    "Motorsport-Total": "Lewis Hamilton besucht Hilfsorganisationen an der Grenze zum Gazastreifen - Motorsport-Total.com"
    },
-   "last": "2026-11-11T10:31:24.156908+00:00"
+   "last": "2026-11-11T14:22:05.798141+00:00"
   },
   "S6625": {
    "title": "NFL Power Rankings for Week 10",
@@ -12418,16 +12284,18 @@
    "sources": {
     "Sky Sports F1": "2026-11-10T17:02:00+00:00",
     "GPFans": "2026-11-11T11:27:00+00:00",
-    "GPblog": "2026-11-11T12:45:00+00:00"
+    "GPblog": "2026-11-11T12:45:00+00:00",
+    "AS": "2026-11-11T14:08:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc",
     "GPFans": "F1 champion tells Ferrari they must back Lewis Hamilton over Charles Leclerc in internal battle",
-    "GPblog": "Former champion urges Ferrari to make Hamilton number one for 2027"
+    "GPblog": "Former champion urges Ferrari to make Hamilton number one for 2027",
+    "AS": "“Lo lógico es apostar por Hamilton”"
    },
-   "last": "2026-11-11T12:51:23.626101+00:00"
+   "last": "2026-11-11T14:22:05.798147+00:00"
   },
   "S6712": {
    "title": "Racing Bulls gives Tsolov Hungaroring TPC test as Lawson waits",
@@ -14800,15 +14668,17 @@
    "first": "2026-11-11T13:11:22.602968+00:00",
    "sources": {
     "RacingNews365": "2026-11-11T13:07:00+00:00",
-    "RacingNews365 NL": "2026-11-11T13:17:00+00:00"
+    "RacingNews365 NL": "2026-11-11T13:17:00+00:00",
+    "Crash.net": "2026-11-11T14:18:14+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Kimi Antonelli hilariously makes radical hair change to celebrate F1 title",
-    "RacingNews365 NL": "Antonelli verrast Mercedes met opvallend nieuw kapsel na F1-titel"
+    "RacingNews365 NL": "Antonelli verrast Mercedes met opvallend nieuw kapsel na F1-titel",
+    "Crash.net": "Kimi Antonelli honours F1 title promise with hilarious Valentino Rossi look"
    },
-   "last": "2026-11-11T13:21:29.315916+00:00"
+   "last": "2026-11-11T14:22:05.798127+00:00"
   },
   "S6893": {
    "title": "Russell praises Wolff's leadership method at Mercedes",
@@ -15127,17 +14997,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T14:12:04.045722+00:00",
+ "last_run": "2026-11-11T14:22:02.581018+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T14:12:32.638609+00:00",
-   "title": "São Paulo GP'de hava tahmini tur stratejisini belirsizleştiriyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-08T14:47:30.826950+00:00",
    "title": "Brezilya GP'de strateji: İki pit stop bekleniyor, Hard lastik önemli olabilir",
