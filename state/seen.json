@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "31de49f453a5951b": "2026-10-28T11:17:13.419529+00:00",
-  "41818689d8d1eeda": "2026-10-28T11:17:13.419529+00:00",
-  "7b73f82d55ee9ab1": "2026-10-28T11:17:13.419529+00:00",
   "e107406f9465d63e": "2026-10-28T11:27:33.482167+00:00",
   "2fec14bc300b025f": "2026-10-28T11:27:33.482167+00:00",
   "f64a015718daede0": "2026-10-28T11:27:33.482167+00:00",
@@ -7813,7 +7810,11 @@
   "3dab1b33ec4a0b4f": "2026-11-11T11:01:23.272202+00:00",
   "b731d6dfc39e1f50": "2026-11-11T11:11:18.402548+00:00",
   "715472c2c45bdb18": "2026-11-11T11:11:18.402548+00:00",
-  "c560bc0ee2df030d": "2026-11-11T11:11:18.402548+00:00"
+  "c560bc0ee2df030d": "2026-11-11T11:11:18.402548+00:00",
+  "d36f99679a56bbdc": "2026-11-11T11:21:22.103854+00:00",
+  "892c0d248317e3a2": "2026-11-11T11:21:22.103854+00:00",
+  "63ca2e7d44db1ca4": "2026-11-11T11:21:22.103854+00:00",
+  "9153007703d0db7d": "2026-11-11T11:21:22.103854+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7931,21 +7932,6 @@
     "RacingNews365": "Kimi Antonelli voices anger after 'no warning' race-deciding F1 spin"
    },
    "last": "2026-11-09T16:45:50.266197+00:00"
-  },
-  "S6202": {
-   "title": "Russell concedes high-risk stakes behind Sao Paulo pit-lane spin",
-   "first": "2026-11-08T21:08:18.947323+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T21:00:00+00:00",
-    "FormulaPassion": "2026-11-09T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell concedes to 'high-risk' stakes in Sao Paulo F1 pit-lane spin",
-    "FormulaPassion": "Testacoda in pit-lane, Russell: “Volevo vincere, ho rischiato troppo”"
-   },
-   "last": "2026-11-09T11:15:12.337879+00:00"
   },
   "S6208": {
    "title": "Mekies praises Verstappen's Brazil podium drive",
@@ -8199,32 +8185,6 @@
    },
    "last": "2026-11-09T16:25:44.525519+00:00"
   },
-  "S6358": {
-   "title": "ESPN piece on whether Broncos are lucky or good (NFL)",
-   "first": "2026-11-09T11:15:12.337823+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T06:47:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Are the Broncos lucky or just good?"
-   },
-   "last": "2026-11-09T11:15:12.337842+00:00"
-  },
-  "S6359": {
-   "title": "Hadjar reveals near Red Bull wipeout before Brazil podium",
-   "first": "2026-11-09T11:15:12.337855+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-09T11:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Isack Hadjar reveals near Red Bull wipeout disaster before Brazil podium"
-   },
-   "last": "2026-11-09T11:15:12.337860+00:00"
-  },
   "S6360": {
    "title": "Norris explains champagne bottle smashing on Brazil podium",
    "first": "2026-11-09T11:15:12.337863+00:00",
@@ -8239,19 +8199,6 @@
     "GPblog": "Norris breaks silence on bizarre champagne mishap after Brazilian GP win"
    },
    "last": "2026-11-09T17:25:48.027310+00:00"
-  },
-  "S6361": {
-   "title": "FormulaPassion podcast on Brazil GP weekend",
-   "first": "2026-11-09T11:15:12.337871+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-09T11:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Una brutta Fazenda e le altre storie dal Brasile: I Doppiati F1 Podcast – VIDEO"
-   },
-   "last": "2026-11-09T11:15:12.337874+00:00"
   },
   "S6362": {
    "title": "Mercedes unsure of Brazil car problems as Russell chases P2",
@@ -14802,14 +14749,16 @@
    "title": "Damon Hill says Hamilton has rebuilt himself after Abu Dhabi 2021",
    "first": "2026-11-11T09:41:26.050109+00:00",
    "sources": {
-    "Crash.net": "2026-11-11T09:32:07+00:00"
+    "Crash.net": "2026-11-11T09:32:07+00:00",
+    "Motorsport Week": "2026-11-11T11:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Lewis Hamilton has “rebuilt himself” after Abu Dhabi 2021 controversy, says Damon Hill"
+    "Crash.net": "Lewis Hamilton has “rebuilt himself” after Abu Dhabi 2021 controversy, says Damon Hill",
+    "Motorsport Week": "F1 champion calls Lewis Hamilton ‘rebuilt’ after Abu Dhabi 2021 heartbreak"
    },
-   "last": "2026-11-11T09:41:26.050116+00:00"
+   "last": "2026-11-11T11:21:27.172565+00:00"
   },
   "S6854": {
    "title": "Kevin Sinfield on Feyi-Waboso and Tom Curry injury management",
@@ -15005,9 +14954,48 @@
     "Crash.net": "Lewis Hamilton shock F1 move predicted if he’s “fed up” with Ferrari"
    },
    "last": "2026-11-11T11:11:21.826757+00:00"
+  },
+  "S6869": {
+   "title": "Bethell out of Australia white-ball tour with knee injury",
+   "first": "2026-11-11T11:21:27.172518+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T11:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bethell out of Australia white-ball tour with knee injury 'setback'"
+   },
+   "last": "2026-11-11T11:21:27.172536+00:00"
+  },
+  "S6870": {
+   "title": "USWNT's Yohannes and Girma feature in UEFA Women's Champions League",
+   "first": "2026-11-11T11:21:27.172543+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T07:24:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USWNT's Yohannes and Girma bring Habesha vibes to UEFA Women's Champions League"
+   },
+   "last": "2026-11-11T11:21:27.172548+00:00"
+  },
+  "S6871": {
+   "title": "Verstappen receives praise for Brazil GP Norris chase",
+   "first": "2026-11-11T11:21:27.172554+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "'Savage' Max Verstappen handed 'outrageous' appraisal after Lando Norris hunt"
+   },
+   "last": "2026-11-11T11:21:27.172559+00:00"
   }
  },
- "story_seq": 6868,
+ "story_seq": 6871,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15126,22 +15114,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T11:11:18.402548+00:00",
+ "last_run": "2026-11-11T11:21:22.103854+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T11:16:46.880185+00:00",
-   "title": "Brezilya GP sıralama turlarında ıslak pist zorlukları",
-   "source": "Autosport"
-  },
-  {
-   "t": "2026-11-08T11:16:47.386793+00:00",
-   "title": "Palmer, Brezilya'da ızgara cezalarından üzgün; Verstappen ve Hamilton geriden başlayacak",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-08T11:21:46.498957+00:00",
    "title": "Russell, Sao Paulo'da pole kaçırdığı 'iletişim hatası' sonrası Mercedes ile görüşmek istiyor",
@@ -16566,6 +16544,11 @@
    "t": "2026-11-11T11:11:28.612088+00:00",
    "title": "McLaren'da Norris'in olgunluğu ve MCL40'ın gelişimi birlikte ilerliyor",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-11T11:21:33.280120+00:00",
+   "title": "Verstappen'e Hinchcliffe'ten 'çok cesur' övgü: Norris'i kovalama",
+   "source": "RacingNews365"
   }
  ]
 }
