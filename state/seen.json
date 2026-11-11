@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "19679ee402352245": "2026-10-28T12:47:14.567849+00:00",
-  "c3f15aabdeb1bb6c": "2026-10-28T12:47:14.567849+00:00",
   "c3b102f46b787bd6": "2026-10-28T12:57:12.525561+00:00",
   "3f4e6f36f7266f99": "2026-10-28T12:57:12.525561+00:00",
   "f5f8d7797e399052": "2026-10-28T12:57:12.525561+00:00",
@@ -7792,7 +7790,9 @@
   "e07e8e0c669fe0d7": "2026-11-11T12:41:19.201397+00:00",
   "7fdbf4e557916970": "2026-11-11T12:41:19.201397+00:00",
   "ae787feac3734660": "2026-11-11T12:41:19.201397+00:00",
-  "ace3b1df8d184b16": "2026-11-11T12:41:19.201397+00:00"
+  "ace3b1df8d184b16": "2026-11-11T12:41:19.201397+00:00",
+  "8004767b72214509": "2026-11-11T12:51:20.429711+00:00",
+  "ce9c806d0be41233": "2026-11-11T12:51:20.429711+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12674,15 +12674,17 @@
    "first": "2026-11-10T18:19:17.067073+00:00",
    "sources": {
     "Sky Sports F1": "2026-11-10T17:02:00+00:00",
-    "GPFans": "2026-11-11T11:27:00+00:00"
+    "GPFans": "2026-11-11T11:27:00+00:00",
+    "GPblog": "2026-11-11T12:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc",
-    "GPFans": "F1 champion tells Ferrari they must back Lewis Hamilton over Charles Leclerc in internal battle"
+    "GPFans": "F1 champion tells Ferrari they must back Lewis Hamilton over Charles Leclerc in internal battle",
+    "GPblog": "Former champion urges Ferrari to make Hamilton number one for 2027"
    },
-   "last": "2026-11-11T11:31:25.082213+00:00"
+   "last": "2026-11-11T12:51:23.626101+00:00"
   },
   "S6712": {
    "title": "Racing Bulls gives Tsolov Hungaroring TPC test as Lawson waits",
@@ -15034,9 +15036,22 @@
     "Motorsport-Total": "Max Verstappen: \"Würde niemals zwei Nummer-1-Fahrer verpflichten\" - Motorsport-Total.com"
    },
    "last": "2026-11-11T12:41:24.051546+00:00"
+  },
+  "S6891": {
+   "title": "Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool",
+   "first": "2026-11-11T12:51:23.626074+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T12:41:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool"
+   },
+   "last": "2026-11-11T12:51:23.626091+00:00"
   }
  },
- "story_seq": 6890,
+ "story_seq": 6891,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15155,22 +15170,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T12:41:19.201397+00:00",
+ "last_run": "2026-11-11T12:51:20.429711+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T12:46:47.889086+00:00",
-   "title": "Câmara'dan Interlagos'ta etkileyici debut; Q2'de hatalar ve kaza",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-08T12:46:48.363295+00:00",
-   "title": "Verstappen, Herbert'in eleştirilerini önemsemediğini söyledi",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-08T12:57:30.026940+00:00",
    "title": "Hamilton'ın 'farklı yapılmış' sözüne Russell'dan destek",
