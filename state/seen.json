@@ -1,18 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7ba01aa6c942b50f": "2026-10-28T15:07:55.084017+00:00",
-  "340c762b758f937e": "2026-10-28T15:07:55.084017+00:00",
-  "61c86c9a694dfe6e": "2026-10-28T15:07:55.084017+00:00",
-  "1a0241b64cdcf419": "2026-10-28T15:07:55.084017+00:00",
-  "0a6701c29663a903": "2026-10-28T15:07:55.084017+00:00",
-  "19f061d41e5e730d": "2026-10-28T15:07:55.084017+00:00",
-  "a0b221d3592ba9ec": "2026-10-28T15:07:55.084017+00:00",
-  "1428ce3192bc9f5f": "2026-10-28T15:07:55.084017+00:00",
-  "2956fd62c1e02f34": "2026-10-28T15:07:55.084017+00:00",
-  "1f12134f6bf4e4b0": "2026-10-28T15:07:55.084017+00:00",
-  "f90c69698ecbd05a": "2026-10-28T15:07:55.084017+00:00",
-  "1e3562119b7f022f": "2026-10-28T15:07:55.084017+00:00",
   "9ebd4db65a08a8b2": "2026-10-28T15:17:58.229809+00:00",
   "128fa41921cc923b": "2026-10-28T15:17:58.229809+00:00",
   "94c673e3f9146fea": "2026-10-28T15:17:58.229809+00:00",
@@ -7788,7 +7776,10 @@
   "17c4d2ad82c10a19": "2026-11-11T15:02:07.165902+00:00",
   "faabbdf2899fb0fb": "2026-11-11T15:02:07.165902+00:00",
   "cfeed2c0e5afc3f7": "2026-11-11T15:02:07.165902+00:00",
-  "c6edbe3341230401": "2026-11-11T15:02:07.165902+00:00"
+  "c6edbe3341230401": "2026-11-11T15:02:07.165902+00:00",
+  "fe44f31a4e5c399e": "2026-11-11T15:12:03.824212+00:00",
+  "fc9f070e52bf40f9": "2026-11-11T15:12:03.824212+00:00",
+  "7e61d720a14fe444": "2026-11-11T15:12:03.824212+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8085,71 +8076,6 @@
    },
    "last": "2026-11-09T18:45:47.205461+00:00"
   },
-  "S6407": {
-   "title": "Rivals congratulate Mercedes on constructors' championship",
-   "first": "2026-11-09T15:05:47.634534+00:00",
-   "sources": {
-    "Formula 1": "2026-11-09T15:05:47.634549+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Rivals congratulate Mercedes on Constructors' Championship"
-   },
-   "last": "2026-11-09T15:05:47.634553+00:00"
-  },
-  "S6408": {
-   "title": "Mohammed Shami cricket performance feature",
-   "first": "2026-11-09T15:05:47.634559+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T13:59:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mohammed Shami - unbeaten at home, sensational in the second innings"
-   },
-   "last": "2026-11-09T15:05:47.634565+00:00"
-  },
-  "S6409": {
-   "title": "Opinion: Man United should not keep Carrick",
-   "first": "2026-11-09T15:05:47.634570+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T13:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United shouldn't keep Carrick despite Villa comeback; how Barça beat Atletico"
-   },
-   "last": "2026-11-09T15:05:47.634574+00:00"
-  },
-  "S6410": {
-   "title": "Notre Dame college football 1988 comparison",
-   "first": "2026-11-09T15:05:47.634578+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T12:48:18+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Is Notre Dame ready to party like it's 1988?"
-   },
-   "last": "2026-11-09T15:05:47.634582+00:00"
-  },
-  "S6411": {
-   "title": "Bobby Marks NBA core danger tiers",
-   "first": "2026-11-09T15:05:47.634585+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming"
-   },
-   "last": "2026-11-09T15:05:47.634589+00:00"
-  },
   "S6412": {
    "title": "RacingNews365 podcast on Verstappen and Ferrari problem",
    "first": "2026-11-09T15:05:47.634593+00:00",
@@ -8179,19 +8105,6 @@
     "PlanetF1": "‘Chill’ – George Russell accused of FIA press conference ‘walk out’"
    },
    "last": "2026-11-10T07:07:41.827925+00:00"
-  },
-  "S6414": {
-   "title": "Unheard Hamilton Brazil radio shows Ferrari communication gaps",
-   "first": "2026-11-09T15:05:47.634608+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton's unheard Brazil radio reveals Ferrari could not tell him where he was running"
-   },
-   "last": "2026-11-09T15:05:47.634611+00:00"
   },
   "S6415": {
    "title": "Teddy Riner announces run for French presidency",
@@ -14889,9 +14802,48 @@
     "FormulaPassion": "Brasile: un altro weekend disastroso per la Cadillac"
    },
    "last": "2026-11-11T15:02:11.256613+00:00"
+  },
+  "S6916": {
+   "title": "Jeff Saturday says Cowboys have 'no hope'",
+   "first": "2026-11-11T15:12:07.288897+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T14:52:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Jeff Saturday has 'no hope' for the Cowboys"
+   },
+   "last": "2026-11-11T15:12:07.288915+00:00"
+  },
+  "S6917": {
+   "title": "Quinshon Judkins Week 10 fantasy football outlook",
+   "first": "2026-11-11T15:12:07.288921+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T14:49:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Quinshon Judkins' Week 10 fantasy outlook"
+   },
+   "last": "2026-11-11T15:12:07.288927+00:00"
+  },
+  "S6918": {
+   "title": "Mekies explains why Red Bull kept Verstappen ahead of Hadjar in Brazil",
+   "first": "2026-11-11T15:12:07.288932+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T15:02:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Why Red Bull did not reverse Verstappen and Hadjar's positions in Brazil"
+   },
+   "last": "2026-11-11T15:12:07.288936+00:00"
   }
  },
- "story_seq": 6915,
+ "story_seq": 6918,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15010,22 +14962,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T15:02:07.165902+00:00",
+ "last_run": "2026-11-11T15:12:03.824212+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T15:02:28.366441+00:00",
-   "title": "Sky Sports, Alexa Rendell'i F1 multimedya gazetecisi olarak kadrosuna kattı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-08T15:07:35.707571+00:00",
-   "title": "Lawson, Racing Bulls koltuğunu kaybederse bir planı olmadığını itiraf etti",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-08T15:42:38.069164+00:00",
    "title": "Hamilton 400. yarışında Brezilya'da toparlanmayı hedefliyor",
