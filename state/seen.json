@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "99b818654515ab87": "2026-10-28T18:07:58.000554+00:00",
-  "f6b7345de05ab0c6": "2026-10-28T18:07:58.000554+00:00",
-  "33623bad05e0e8a8": "2026-10-28T18:07:58.000554+00:00",
-  "454ed2639eb94e65": "2026-10-28T18:07:58.000554+00:00",
-  "0a9c510440a880b3": "2026-10-28T18:07:58.000554+00:00",
-  "18c07c2d41fa62a9": "2026-10-28T18:07:58.000554+00:00",
   "50e7be66d79c702b": "2026-10-28T18:17:58.450902+00:00",
   "2b731c66f01457da": "2026-10-28T18:17:58.450902+00:00",
   "d416df3bd77fde7a": "2026-10-28T18:17:58.450902+00:00",
@@ -7738,7 +7732,10 @@
   "e03eb577ae25a597": "2026-11-11T17:52:04.408985+00:00",
   "b130c461b29b8406": "2026-11-11T18:02:06.281154+00:00",
   "e4bf1974c8fa3908": "2026-11-11T18:02:06.281154+00:00",
-  "6e50d6f0d2024a6d": "2026-11-11T18:02:06.281154+00:00"
+  "6e50d6f0d2024a6d": "2026-11-11T18:02:06.281154+00:00",
+  "b3aca1febd05d79e": "2026-11-11T18:12:02.637402+00:00",
+  "445173aa7d6baa6c": "2026-11-11T18:12:02.637402+00:00",
+  "5b2bb5087a5d60ec": "2026-11-11T18:12:02.637402+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8016,45 +8013,6 @@
     "ESPN F1": "Dale Benkenstein appointed Bangladesh's batting specialist ahead of SA tour"
    },
    "last": "2026-11-09T18:55:42.194364+00:00"
-  },
-  "S6459": {
-   "title": "AP women's college basketball Top 25 poll breakdown",
-   "first": "2026-11-09T18:05:43.869380+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026 AP women's college basketball Top 25 poll breakdown"
-   },
-   "last": "2026-11-09T18:05:43.869386+00:00"
-  },
-  "S6460": {
-   "title": "Villeneuve says Russell's F1 reputation damaged by Antonelli defeat",
-   "first": "2026-11-09T18:05:43.869390+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Russell told his F1 reputation has suffered a devastating blow in 2026"
-   },
-   "last": "2026-11-09T18:05:43.869395+00:00"
-  },
-  "S6461": {
-   "title": "Sainz recalls Ferrari struggles with Leclerc's fanbase",
-   "first": "2026-11-09T18:05:43.869398+00:00",
-   "sources": {
-    "GPFans": "2026-11-09T17:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Carlos Sainz reveals Ferrari issues with 'radical' Charles Leclerc fans"
-   },
-   "last": "2026-11-09T18:05:43.869403+00:00"
   },
   "S6462": {
    "title": "International media reactions to Sao Paulo GP, Lawson and Verstappen",
@@ -14565,9 +14523,48 @@
     "FormulaPassion": "Windsor: “Leclerc è un pilota scorretto e lo sapevano tutti tranne Hamilton. Le sue lamentele ora sono ridicole”"
    },
    "last": "2026-11-11T18:02:08.866297+00:00"
+  },
+  "S6948": {
+   "title": "Rex Ryan faces charges after alleged hit-and-run",
+   "first": "2026-11-11T18:12:06.392712+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T17:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ex-NFL coach Rex Ryan facing charges after alleged hit-and-run"
+   },
+   "last": "2026-11-11T18:12:06.392731+00:00"
+  },
+  "S6949": {
+   "title": "Ricciardo recalls crash after maiden win celebrations",
+   "first": "2026-11-11T18:12:06.392737+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T18:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Daniel Ricciardo recalls hilarious ‘crash’ after Red Bull ‘ruckus’"
+   },
+   "last": "2026-11-11T18:12:06.392743+00:00"
+  },
+  "S6950": {
+   "title": "Norris calls Brazil win one of his best performances",
+   "first": "2026-11-11T18:12:06.392747+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T18:05:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Lando Norris: Sieg in Brasilien \"eine meiner besten Leistungen überhaupt\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T18:12:06.392752+00:00"
   }
  },
- "story_seq": 6947,
+ "story_seq": 6950,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14686,27 +14683,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T18:02:06.281154+00:00",
+ "last_run": "2026-11-11T18:12:02.637402+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T18:02:39.275935+00:00",
-   "title": "Hamilton'ın videooyun başlangıcı: Brezilya GP'de start görünümü",
-   "source": "Gazzetta dello Sport"
-  },
-  {
-   "t": "2026-11-08T18:08:19.805058+00:00",
-   "title": "Verstappen'in boordradio'sunda ortaya çıkan balans sorunu",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-08T18:08:20.280223+00:00",
-   "title": "Lance Stroll, 13. kez yarışı tamamlayamadı; tüm zamanların rekoruna yaklaşıyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-08T18:13:23.223174+00:00",
    "title": "Hadjar, takım emirlerinin ardından Verstappen'i yeniden geçmek istedi",
@@ -16161,6 +16143,16 @@
    "t": "2026-11-11T18:02:13.326605+00:00",
    "title": "Will Stevens: F1'de daha fazla gösterebilirdim, ama bu hayat",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T18:12:11.091015+00:00",
+   "title": "Ricciardo, 2014 Kanada GP galibiyetini ve gece kutlamasını anlattı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T18:12:11.537064+00:00",
+   "title": "Lando Norris: Brezilya zaferi \"en iyi performanslarımdan biri\"",
+   "source": "Motorsport-Total"
   }
  ]
 }
