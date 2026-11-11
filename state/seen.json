@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "85320d00cf2dd32f": "2026-10-28T15:47:58.196561+00:00",
-  "3913bb7d6135a3c7": "2026-10-28T15:47:58.196561+00:00",
   "19a8645dae9aa4d8": "2026-10-28T15:58:00.824138+00:00",
   "0a90923d17e699be": "2026-10-28T15:58:00.824138+00:00",
   "9e683b1703687a98": "2026-10-28T16:07:55.309532+00:00",
@@ -7769,7 +7767,10 @@
   "bf37026375170aab": "2026-11-11T15:42:07.345554+00:00",
   "2c4fe37ed58eba70": "2026-11-11T15:42:07.345554+00:00",
   "e5adeab7871e3245": "2026-11-11T15:42:07.345554+00:00",
-  "4ee6d7fb385b2c16": "2026-11-11T15:42:07.345554+00:00"
+  "4ee6d7fb385b2c16": "2026-11-11T15:42:07.345554+00:00",
+  "9e08a1f42b077dab": "2026-11-11T15:52:04.347591+00:00",
+  "da70071e408ec20c": "2026-11-11T15:52:04.347591+00:00",
+  "5996a78116fefc3b": "2026-11-11T15:52:04.347591+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8110,19 +8111,6 @@
     "ESPN F1": "William Saliba injury comeback ramps up with Arsenal Under-21 outing"
    },
    "last": "2026-11-09T22:46:29.069199+00:00"
-  },
-  "S6424": {
-   "title": "Domenicali congratulates Mercedes and praises Wolff's relentless drive",
-   "first": "2026-11-09T15:45:44.358856+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T15:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "F1-baas lauwert Toto Wolff met superlatieven: “Meedogenloze zoektocht”"
-   },
-   "last": "2026-11-09T15:45:44.358862+00:00"
   },
   "S6425": {
    "title": "Analysis of Jessie Bates III's fit with Jaguars defense",
@@ -10787,7 +10775,8 @@
     "Corriere dello Sport": "2026-11-10T14:32:55+00:00",
     "Autosport": "2026-11-10T14:52:26+00:00",
     "Crash.net": "2026-11-10T14:55:00+00:00",
-    "GPFans": "2026-11-10T15:14:00+00:00"
+    "GPFans": "2026-11-10T15:14:00+00:00",
+    "AS": "2026-11-11T15:42:23+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10801,9 +10790,10 @@
     "Corriere dello Sport": "Niente Imola per il finale di F1: confermati i GP del Qatar e di Abu Dhabi nonostante le tensioni",
     "Autosport": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
     "Crash.net": "F1 delivers update on Qatar and Abu Dhabi GPs as Imola ruled out",
-    "GPFans": "FIA president confirms final decision on Qatar and Abu Dhabi races as Imola deadline passes"
+    "GPFans": "FIA president confirms final decision on Qatar and Abu Dhabi races as Imola deadline passes",
+    "AS": "La F1 mantiene su final en Oriente Medio"
    },
-   "last": "2026-11-11T06:30:34.182929+00:00"
+   "last": "2026-11-11T15:52:07.934499+00:00"
   },
   "S6624": {
    "title": "Hamilton visits Egypt humanitarian aid facilities near Gaza",
@@ -14460,15 +14450,17 @@
    "first": "2026-11-11T13:31:21.852147+00:00",
    "sources": {
     "Gazzetta dello Sport": "2026-11-11T13:20:37+00:00",
-    "FormulaPassion": "2026-11-11T13:25:32+00:00"
+    "FormulaPassion": "2026-11-11T13:25:32+00:00",
+    "Motorsport.com Italia": "2026-11-11T15:49:43+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Gazzetta dello Sport": "Kimi capelli tricolore, una promessa mantenuta: la reazione di Wolff e Russell",
-    "FormulaPassion": "Promessa mantenuta! Antonelli a Brackley con i capelli tricolore"
+    "FormulaPassion": "Promessa mantenuta! Antonelli a Brackley con i capelli tricolore",
+    "Motorsport.com Italia": "F1 | Kimi festeggia il mondiale a Brackley con la chioma tricolore: ha mantenuto la promessa"
    },
-   "last": "2026-11-11T15:02:11.256621+00:00"
+   "last": "2026-11-11T15:52:07.934474+00:00"
   },
   "S6899": {
    "title": "Lindblad scoreless again; what went wrong in Brazil",
@@ -14807,9 +14799,22 @@
     "RacingNews365 NL": "Red Bull glundert na compliment aan Mercedes: \"Minstens zo indrukwekkend\""
    },
    "last": "2026-11-11T15:42:10.473512+00:00"
+  },
+  "S6925": {
+   "title": "Verstappen's title-winning Red Bull crew breaking up, Horner comments",
+   "first": "2026-11-11T15:52:07.934485+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T15:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen's title-winning Red Bull crew is breaking up: who has gone, who is going and who is still left"
+   },
+   "last": "2026-11-11T15:52:07.934491+00:00"
   }
  },
- "story_seq": 6924,
+ "story_seq": 6925,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14928,17 +14933,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T15:42:07.345554+00:00",
+ "last_run": "2026-11-11T15:52:04.347591+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T15:42:38.069164+00:00",
-   "title": "Hamilton 400. yarışında Brezilya'da toparlanmayı hedefliyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-08T16:02:33.170337+00:00",
    "title": "Antonelli ve Russell, Mercedes'i şampiyonluğa taşımak istiyor",
@@ -16388,6 +16388,11 @@
    "t": "2026-11-11T15:42:15.878187+00:00",
    "title": "Hamilton, 2026'da 'en pazarlanabilir sporcu' unvanını kaybetti",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-11T15:52:12.730297+00:00",
+   "title": "Verstappen'in şampiyon Red Bull ekibi dağılıyor: kimler gitti, kimler gidiyor",
+   "source": "GPblog"
   }
  ]
 }
