@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b35dcc1777062420": "2026-10-28T13:27:12.643736+00:00",
-  "fcaf191a3f8db5c8": "2026-10-28T13:27:12.643736+00:00",
-  "2c3472590497080d": "2026-10-28T13:27:12.643736+00:00",
-  "52658b35a91f7976": "2026-10-28T13:27:12.643736+00:00",
-  "9b4c4d0a06e2f061": "2026-10-28T13:27:12.643736+00:00",
-  "da5afba8e58802ab": "2026-10-28T13:27:12.643736+00:00",
-  "7244e7b51306c1cd": "2026-10-28T13:27:12.643736+00:00",
-  "e45c055c6bf023c7": "2026-10-28T13:27:12.643736+00:00",
   "b2ae73030483e88f": "2026-10-28T13:37:13.976134+00:00",
   "f6abd84fafecb342": "2026-10-28T13:37:13.976134+00:00",
   "e40ae6dd32cc4f35": "2026-10-28T13:37:13.976134+00:00",
@@ -7789,7 +7781,9 @@
   "b7c5810fc6c41ebb": "2026-11-11T13:21:23.626079+00:00",
   "e60623a99ce96ed4": "2026-11-11T13:21:23.626079+00:00",
   "357eebcfcc54e628": "2026-11-11T13:21:23.626079+00:00",
-  "9323ec7c1cc51702": "2026-11-11T13:21:23.626079+00:00"
+  "9323ec7c1cc51702": "2026-11-11T13:21:23.626079+00:00",
+  "5c0fb1030f596e64": "2026-11-11T13:31:18.650528+00:00",
+  "d8f318ee124f4a3e": "2026-11-11T13:31:18.650528+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8233,32 +8227,6 @@
     "ESPN F1": "Chase: Our improved game against spin helped us win in Bangladesh"
    },
    "last": "2026-11-09T18:45:47.205461+00:00"
-  },
-  "S6386": {
-   "title": "Raúl González lands first manager job at Real Oviedo",
-   "first": "2026-11-09T13:25:05.222117+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T13:11:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Real Madrid legend Raúl González lands first manager job with Real Oviedo"
-   },
-   "last": "2026-11-09T13:25:05.222123+00:00"
-  },
-  "S6387": {
-   "title": "Giannis Antetokounmpo speechless over Doc Rivers barbs",
-   "first": "2026-11-09T13:25:05.222128+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T13:10:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'"
-   },
-   "last": "2026-11-09T13:25:05.222133+00:00"
   },
   "S6388": {
    "title": "Mohammed Shami profile piece (cricket, not F1)",
@@ -15063,9 +15031,35 @@
     "Corriere dello Sport": "Gli orologi di Schumacher venduti all’asta: incasso milionario a Ginevra"
    },
    "last": "2026-11-11T13:21:29.315931+00:00"
+  },
+  "S6898": {
+   "title": "Wolff and Russell react to Antonelli's tricolore hair change",
+   "first": "2026-11-11T13:31:21.852147+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-11T13:20:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi capelli tricolore, una promessa mantenuta: la reazione di Wolff e Russell"
+   },
+   "last": "2026-11-11T13:31:21.852167+00:00"
+  },
+  "S6899": {
+   "title": "Lindblad scoreless again; what went wrong in Brazil",
+   "first": "2026-11-11T13:31:21.852174+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T13:28:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Arvid Lindblad erneut ohne Punkte: Was in Brasilien genau schiefgelaufen ist - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T13:31:21.852180+00:00"
   }
  },
- "story_seq": 6897,
+ "story_seq": 6899,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15184,17 +15178,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T13:21:23.626079+00:00",
+ "last_run": "2026-11-11T13:31:18.650528+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T13:27:27.917767+00:00",
-   "title": "Verstappen, baba olan Leclerc'e: \"Sadece daha iyi olacak!\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-08T13:32:40.953206+00:00",
    "title": "Russell ve Norris Q1'deki koşullara tepki gösterdi",
@@ -16619,6 +16608,16 @@
    "t": "2026-11-11T13:21:35.168051+00:00",
    "title": "Schumacher'in saatleri Cenevre'de açık artırmada milyonluk gelirle satıldı",
    "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-11-11T13:31:26.983406+00:00",
+   "title": "Wolff ve Russell'ın tepkisi: Kimi'nin üç renkli saçları",
+   "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-11T13:31:27.495293+00:00",
+   "title": "Arvid Lindblad Brezilya'da neden puan alamadı?",
+   "source": "Motorsport-Total"
   }
  ]
 }
