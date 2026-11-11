@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d6dcddbae3f322d3": "2026-10-28T17:27:55.785726+00:00",
-  "772dba32e050cdc6": "2026-10-28T17:27:55.785726+00:00",
-  "e669cd2e577db969": "2026-10-28T17:27:55.785726+00:00",
   "8ccf762f86759906": "2026-10-28T17:38:25.517054+00:00",
   "52eda86592599d03": "2026-10-28T17:38:25.517054+00:00",
   "e53b9ee9998eb88d": "2026-10-28T17:38:25.517054+00:00",
@@ -7758,7 +7755,9 @@
   "f3ab99c8248b023d": "2026-11-11T17:12:04.085103+00:00",
   "f8c10af2b469cdd0": "2026-11-11T17:12:04.085103+00:00",
   "2351fd7f28c188e1": "2026-11-11T17:12:04.085103+00:00",
-  "ddc94eb946630772": "2026-11-11T17:22:02.576844+00:00"
+  "ddc94eb946630772": "2026-11-11T17:22:02.576844+00:00",
+  "5c9370b6d58091c6": "2026-11-11T17:32:01.474322+00:00",
+  "9879cf75ece06a4a": "2026-11-11T17:32:01.474322+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7923,34 +7922,6 @@
    },
    "last": "2026-11-10T07:38:04.363507+00:00"
   },
-  "S6360": {
-   "title": "Norris explains champagne bottle smashing on Brazil podium",
-   "first": "2026-11-09T11:15:12.337863+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T11:05:00+00:00",
-    "GPblog": "2026-11-09T17:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Norris geeft opvallende verklaring voor kapotslaan champagnefles: \"Wedstrijdje\"",
-    "GPblog": "Norris breaks silence on bizarre champagne mishap after Brazilian GP win"
-   },
-   "last": "2026-11-09T17:25:48.027310+00:00"
-  },
-  "S6381": {
-   "title": "Motorsport-Total driver ratings from Sao Paulo GP",
-   "first": "2026-11-09T12:55:09.359720+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T12:47:59+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Fotostrecke: Sao Paulo: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T17:25:48.027318+00:00"
-  },
   "S6384": {
    "title": "Chase credits improved spin play for Bangladesh win",
    "first": "2026-11-09T13:15:09.834828+00:00",
@@ -8068,45 +8039,6 @@
     "Formula 1": "Camara experiences every condition in ‘tricky’ Haas debut"
    },
    "last": "2026-11-10T14:08:25.341973+00:00"
-  },
-  "S6451": {
-   "title": "Mercedes title celebration photo gallery from Sao Paulo",
-   "first": "2026-11-09T17:25:48.027255+00:00",
-   "sources": {
-    "Formula 1": "2026-11-09T17:25:48.027271+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "The best images from Mercedes' title celebrations"
-   },
-   "last": "2026-11-09T17:25:48.027276+00:00"
-  },
-  "S6452": {
-   "title": "ESPN fantasy football risers and fallers",
-   "first": "2026-11-09T17:25:48.027282+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:41:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fantasy risers and fallers: Add Burries, give more time to struggling Buzelis?"
-   },
-   "last": "2026-11-09T17:25:48.027288+00:00"
-  },
-  "S6453": {
-   "title": "Rasheed Walker analysing blind-side protection issue",
-   "first": "2026-11-09T17:25:48.027292+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:37:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rasheed Walker keeps 'analyzing issue' in protecting Bryce Young's blind side"
-   },
-   "last": "2026-11-09T17:25:48.027297+00:00"
   },
   "S6454": {
    "title": "CFP and ESPN reportedly agree $1.7B expansion deal",
@@ -12747,14 +12679,16 @@
    "title": "Untelevised Verstappen team radio emerges from Brazilian GP",
    "first": "2026-11-11T04:10:37.663169+00:00",
    "sources": {
-    "PlanetF1": "2026-11-11T04:01:25+00:00"
+    "PlanetF1": "2026-11-11T04:01:25+00:00",
+    "FormulaPassion": "2026-11-11T17:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Untelevised Max Verstappen team radio emerges after Brazilian GP ‘disaster’"
+    "PlanetF1": "Untelevised Max Verstappen team radio emerges after Brazilian GP ‘disaster’",
+    "FormulaPassion": "Insaziabile Verstappen, furioso con il team nonostante la rimonta: “La macchina è stata un disastro”"
    },
-   "last": "2026-11-11T04:10:37.663173+00:00"
+   "last": "2026-11-11T17:32:03.668847+00:00"
   },
   "S6800": {
    "title": "Giannis Antetokounmpo powerful rim-rocking flush highlight",
@@ -13541,14 +13475,16 @@
    "title": "Brundle says a team boss is at wit's end over reliability",
    "first": "2026-11-11T10:21:28.744106+00:00",
    "sources": {
-    "Crash.net": "2026-11-11T10:12:07+00:00"
+    "Crash.net": "2026-11-11T10:12:07+00:00",
+    "Motorsport Week": "2026-11-11T17:24:55+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Martin Brundle reveals F1 team boss “at wit’s end” over reliability issues"
+    "Crash.net": "Martin Brundle reveals F1 team boss “at wit’s end” over reliability issues",
+    "Motorsport Week": "Martin Brundle makes Aston Martin claim after Sao Paulo reliability woes"
    },
-   "last": "2026-11-11T10:21:28.744111+00:00"
+   "last": "2026-11-11T17:32:03.668834+00:00"
   },
   "S6860": {
    "title": "Imola mayor reacts to FIA and F1 season finale decision",
@@ -14773,7 +14709,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T17:22:02.576844+00:00",
+ "last_run": "2026-11-11T17:32:01.474322+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
