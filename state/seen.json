@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "513395f1d13b3906": "2026-10-28T09:27:12.040474+00:00",
-  "125fe2d17d35c269": "2026-10-28T09:27:12.040474+00:00",
-  "805b24a7de23d089": "2026-10-28T09:27:12.040474+00:00",
-  "b195ac0392d7ecae": "2026-10-28T09:27:12.040474+00:00",
   "8ad05f6d273c265b": "2026-10-28T09:37:16.090207+00:00",
   "cbf9d9db7923ec1a": "2026-10-28T09:37:16.090207+00:00",
   "a82151855af44361": "2026-10-28T09:37:16.090207+00:00",
@@ -7844,7 +7840,12 @@
   "7573590d133a8afc": "2026-11-11T09:11:19.604076+00:00",
   "2876eb9166af57ed": "2026-11-11T09:11:19.604076+00:00",
   "523b40a1e2a59580": "2026-11-11T09:21:20.071036+00:00",
-  "e8c8fa21525dc890": "2026-11-11T09:21:20.071036+00:00"
+  "e8c8fa21525dc890": "2026-11-11T09:21:20.071036+00:00",
+  "ce17fec9cd2531eb": "2026-11-11T09:31:19.371246+00:00",
+  "b1077f702eb85490": "2026-11-11T09:31:19.371246+00:00",
+  "a0f28167c8b79f58": "2026-11-11T09:31:19.371246+00:00",
+  "cbbcdb3a04b1b6d2": "2026-11-11T09:31:19.371246+00:00",
+  "f81fc0ace1d0d925": "2026-11-11T09:31:19.371246+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8201,32 +8202,6 @@
     "Auto Motor und Sport": "Formel 1: Nach sieben F1-Jahren: Oscar Piastri trennt sich von Manager Mark Webber"
    },
    "last": "2026-11-10T13:08:24.243432+00:00"
-  },
-  "S6339": {
-   "title": "Warner backs Khawaja over sandpapergate revelations (cricket)",
-   "first": "2026-11-09T09:24:16.885603+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T08:21:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'100% accurate' - Warner throws his support behind Khawaja on sandpapergate revelations"
-   },
-   "last": "2026-11-09T09:24:16.885636+00:00"
-  },
-  "S6340": {
-   "title": "Mekies says Verstappen does something only he can after Brazil",
-   "first": "2026-11-09T09:24:16.885642+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T09:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Mekies tóch weer verbluft door Verstappen: \"Iets wat alleen hij kan\""
-   },
-   "last": "2026-11-09T09:24:16.885648+00:00"
   },
   "S6341": {
    "title": "Lamonato analysis of Verstappen's 110-second Sao Paulo charge",
@@ -14793,14 +14768,16 @@
    "title": "Former Ferrari F1 hopeful completes Lola Formula E switch",
    "first": "2026-11-11T08:10:33.522148+00:00",
    "sources": {
-    "RacingNews365": "2026-11-11T08:00:00+00:00"
+    "RacingNews365": "2026-11-11T08:00:00+00:00",
+    "Motorsport.com Italia": "2026-11-11T09:21:48+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Former Ferrari F1 hopeful completes 'demanding' Lola Formula E switch"
+    "RacingNews365": "Former Ferrari F1 hopeful completes 'demanding' Lola Formula E switch",
+    "Motorsport.com Italia": "Nuova sfida per Robert Shwartzman: sbarca in Formula E con LOLA per la Gen4"
    },
-   "last": "2026-11-11T08:10:33.522167+00:00"
+   "last": "2026-11-11T09:31:24.074841+00:00"
   },
   "S6835": {
    "title": "ESPN CFP committee top 25 and bracket release",
@@ -14987,9 +14964,61 @@
     "Motorsport Week": "Why Max Verstappen’s São Paulo data backs his drive, but not the diagnosis"
    },
    "last": "2026-11-11T09:21:24.864715+00:00"
+  },
+  "S6849": {
+   "title": "Man United contact Pochettino; Carrick leads training",
+   "first": "2026-11-11T09:31:24.074790+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T09:16:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United contact Mauricio Pochettino, Michael Carrick leads training - sources"
+   },
+   "last": "2026-11-11T09:31:24.074811+00:00"
+  },
+  "S6850": {
+   "title": "Paul George torches 76ers in Celtics rivalry game",
+   "first": "2026-11-11T09:31:24.074817+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T03:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Paul George torches 76ers as Celtics take edge in renewed rivalry"
+   },
+   "last": "2026-11-11T09:31:24.074823+00:00"
+  },
+  "S6851": {
+   "title": "Analysis of what Brazil GP showed about F1 wet-weather ability",
+   "first": "2026-11-11T09:31:24.074828+00:00",
+   "sources": {
+    "Autosport": "2026-11-11T09:23:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "What the Brazilian GP revealed about F1's ability to cope with rain"
+   },
+   "last": "2026-11-11T09:31:24.074833+00:00"
+  },
+  "S6852": {
+   "title": "Two Chinese car brands reportedly want to enter F1",
+   "first": "2026-11-11T09:31:24.074845+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-11T09:12:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Konkurrenz aus Fernost: Diese zwei China-Marken wollen in die Formel 1"
+   },
+   "last": "2026-11-11T09:31:24.074851+00:00"
   }
  },
- "story_seq": 6848,
+ "story_seq": 6852,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15108,7 +15137,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T09:21:20.071036+00:00",
+ "last_run": "2026-11-11T09:31:19.371246+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16538,6 +16567,16 @@
    "t": "2026-11-11T09:21:31.425852+00:00",
    "title": "Verstappen'in São Paulo verileri sürüşünü destekliyor ama teşhisini desteklemiyor",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-11T09:31:30.048079+00:00",
+   "title": "Formula 1'e iki Çinli marka girmek istiyor",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-11T09:31:30.562304+00:00",
+   "title": "Brezilya GP, F1'in yağmurla başa çıkma kapasitesi hakkında ne gösterdi?",
+   "source": "Autosport"
   }
  ]
 }
