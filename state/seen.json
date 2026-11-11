@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "dd997638b5218595": "2026-10-28T08:46:37.210130+00:00",
-  "9363ed45d96f0932": "2026-10-28T08:46:37.210130+00:00",
-  "c489b75a9b0120eb": "2026-10-28T08:46:37.210130+00:00",
   "acdb08c8aba901d2": "2026-10-28T08:56:37.420910+00:00",
   "038ead2460d3e690": "2026-10-28T08:56:37.420910+00:00",
   "2f878f30a3fe8f2c": "2026-10-28T08:56:37.420910+00:00",
@@ -7847,7 +7844,11 @@
   "9be284ead155a3be": "2026-11-11T08:31:20.437315+00:00",
   "b081775934a0f148": "2026-11-11T08:41:18.919517+00:00",
   "e40c8e3a5bbb60f3": "2026-11-11T08:41:18.919517+00:00",
-  "9f070b88e4838642": "2026-11-11T08:41:18.919517+00:00"
+  "9f070b88e4838642": "2026-11-11T08:41:18.919517+00:00",
+  "3b27e366775c9c44": "2026-11-11T08:51:20.245670+00:00",
+  "fa43fdead183105e": "2026-11-11T08:51:20.245670+00:00",
+  "63c47683ef4ec78d": "2026-11-11T08:51:20.245670+00:00",
+  "6019439c28e98a9e": "2026-11-11T08:51:20.245670+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8221,19 +8222,6 @@
     "Auto Motor und Sport": "Formel 1: Nach sieben F1-Jahren: Oscar Piastri trennt sich von Manager Mark Webber"
    },
    "last": "2026-11-10T13:08:24.243432+00:00"
-  },
-  "S6334": {
-   "title": "Antonelli frustrated after losing Brazil win from second on grid",
-   "first": "2026-11-09T08:44:17.431750+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T08:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Antonelli in zak en as: \"Toen was alles verloren\""
-   },
-   "last": "2026-11-09T08:44:17.431768+00:00"
   },
   "S6335": {
    "title": "Bears 27-24 Buccaneers NFL game recap",
@@ -12530,15 +12518,17 @@
    "first": "2026-11-10T14:58:32.365466+00:00",
    "sources": {
     "Auto Motor und Sport": "2026-11-10T13:56:52+00:00",
-    "GPblog": "2026-11-10T15:15:00+00:00"
+    "GPblog": "2026-11-10T15:15:00+00:00",
+    "GPFans": "2026-11-11T08:43:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Auto Motor und Sport": "Formel 1: Gefährliches Feuerwerk: Norris spricht über bizarren Podiums-Unfall",
-    "GPblog": "Norris shares update on his ear after scary Brazil GP fireworks incident"
+    "GPblog": "Norris shares update on his ear after scary Brazil GP fireworks incident",
+    "GPFans": "Lando Norris shares health update after smashing champagne bottle and walking into firework"
    },
-   "last": "2026-11-10T15:18:30.132318+00:00"
+   "last": "2026-11-11T08:51:24.381235+00:00"
   },
   "S6656": {
    "title": "F1 Academy announces 2027 calendar with seven rounds",
@@ -14699,7 +14689,7 @@
    "titles": {
     "ESPN F1": "Celtics turn 76ers' 'Throw the ball up' slogan into postgame troll"
    },
-   "last": "2026-11-11T06:50:31.247028+00:00"
+   "last": "2026-11-11T08:51:24.381217+00:00"
   },
   "S6821": {
    "title": "ACC and strength of schedule in weekly Anger Index",
@@ -14975,9 +14965,35 @@
     "RacingNews365 NL": "Ferrari gedoemd door pijnlijk compromis in debacle GP Brazilië"
    },
    "last": "2026-11-11T08:41:22.670527+00:00"
+  },
+  "S6842": {
+   "title": "Jaylen Brown says he wasn't paying attention to Tatum pregame",
+   "first": "2026-11-11T08:51:24.381189+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T06:24:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Brown: 'Wasn't paying attention' to Tatum in pregame exchange"
+   },
+   "last": "2026-11-11T08:51:24.381208+00:00"
+  },
+  "S6843": {
+   "title": "Bottas responds to Herta's F1 Super Licence points",
+   "first": "2026-11-11T08:51:24.381223+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T08:43:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘Don’t know’ – Valtteri Bottas responds to Colton Herta’s Super Licence points"
+   },
+   "last": "2026-11-11T08:51:24.381228+00:00"
   }
  },
- "story_seq": 6841,
+ "story_seq": 6843,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15096,7 +15112,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T08:41:18.919517+00:00",
+ "last_run": "2026-11-11T08:51:20.245670+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16516,6 +16532,11 @@
    "t": "2026-11-11T08:21:31.478679+00:00",
    "title": "Leclerc radyoda hayal kırıklığını dile getirdi: \"Basit sorular soruyorum, basit cevaplar bekliyorum\"",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-11T08:51:29.031349+00:00",
+   "title": "Bottas, Herta'nın Süper Lisans puanları hakkında: 'Bilmiyorum'",
+   "source": "PlanetF1"
   }
  ]
 }
