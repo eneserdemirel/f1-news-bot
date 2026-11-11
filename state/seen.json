@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "50d770025d0b39f0": "2026-10-28T08:36:38.176073+00:00",
-  "83e7d33f57aa13b8": "2026-10-28T08:36:38.176073+00:00",
   "dd997638b5218595": "2026-10-28T08:46:37.210130+00:00",
   "9363ed45d96f0932": "2026-10-28T08:46:37.210130+00:00",
   "c489b75a9b0120eb": "2026-10-28T08:46:37.210130+00:00",
@@ -7846,7 +7844,10 @@
   "5674570c765b9e4d": "2026-11-11T08:20:37.887940+00:00",
   "a198b559b71b73fe": "2026-11-11T08:21:24.007468+00:00",
   "9212bbcc43eb4341": "2026-11-11T08:21:24.007468+00:00",
-  "9be284ead155a3be": "2026-11-11T08:31:20.437315+00:00"
+  "9be284ead155a3be": "2026-11-11T08:31:20.437315+00:00",
+  "b081775934a0f148": "2026-11-11T08:41:18.919517+00:00",
+  "e40c8e3a5bbb60f3": "2026-11-11T08:41:18.919517+00:00",
+  "9f070b88e4838642": "2026-11-11T08:41:18.919517+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14912,14 +14913,16 @@
    "title": "Hadjar told of Red Bull next step amid Verstappen challenge",
    "first": "2026-11-11T08:20:40.263740+00:00",
    "sources": {
-    "RacingNews365": "2026-11-11T08:10:00+00:00"
+    "RacingNews365": "2026-11-11T08:10:00+00:00",
+    "RacingNews365 NL": "2026-11-11T08:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Isack Hadjar told of 'next step' with Red Bull in face of Max Verstappen challenge"
+    "RacingNews365": "Isack Hadjar told of 'next step' with Red Bull in face of Max Verstappen challenge",
+    "RacingNews365 NL": "Wache stippelt 'volgende stap' van Hadjar bij Red Bull uit"
    },
-   "last": "2026-11-11T08:20:40.263743+00:00"
+   "last": "2026-11-11T08:41:22.670517+00:00"
   },
   "S6838": {
    "title": "Leclerc's team radio shows frustration with Ferrari pit wall",
@@ -14946,9 +14949,35 @@
     "ESPN F1": "Source: Tigers agree to 1-year deal with reliever Emilio Pagan"
    },
    "last": "2026-11-11T08:31:21.737853+00:00"
+  },
+  "S6840": {
+   "title": "Man United shortlist Brentford defender Nathan Collins",
+   "first": "2026-11-11T08:41:22.670490+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T08:26:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Man United add Brentford defender Nathan Collins to shortlist"
+   },
+   "last": "2026-11-11T08:41:22.670508+00:00"
+  },
+  "S6841": {
+   "title": "Filisetti explains Ferrari's flawed Brazil GP compromise",
+   "first": "2026-11-11T08:41:22.670522+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T08:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Ferrari gedoemd door pijnlijk compromis in debacle GP Brazilië"
+   },
+   "last": "2026-11-11T08:41:22.670527+00:00"
   }
  },
- "story_seq": 6839,
+ "story_seq": 6841,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15067,22 +15096,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T08:31:20.437315+00:00",
+ "last_run": "2026-11-11T08:41:18.919517+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T08:31:43.928378+00:00",
-   "title": "Brezilya GP öncesi pazar sabahı hava durumu: yağmur tehdidi sürüyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-08T08:31:44.331543+00:00",
-   "title": "Russell: Brezilya'daki yağmur koşullarında yarış 'korkunç bir kaza' riski taşırdı",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-08T08:51:41.351501+00:00",
    "title": "Permane, Kravitz'in Lawson sorusunu yanıtsız bıraktı",
