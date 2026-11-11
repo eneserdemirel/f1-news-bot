@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c26663cf272cf38e": "2026-10-28T10:37:15.779226+00:00",
-  "ececeb22749edd26": "2026-10-28T10:37:15.779226+00:00",
   "ac44cce107961f3d": "2026-10-28T10:47:21.740231+00:00",
   "84a67f421592dd09": "2026-10-28T10:47:21.740231+00:00",
   "8abcad0b721ce591": "2026-10-28T10:47:21.740231+00:00",
@@ -7844,7 +7842,9 @@
   "47c4280fe1257acd": "2026-11-11T10:21:24.605971+00:00",
   "754804e69307be52": "2026-11-11T10:31:19.141347+00:00",
   "76195aea4d06069d": "2026-11-11T10:31:19.141347+00:00",
-  "a9b95485986c05c9": "2026-11-11T10:31:19.141347+00:00"
+  "a9b95485986c05c9": "2026-11-11T10:31:19.141347+00:00",
+  "49f9ba3437a19bbb": "2026-11-11T10:41:21.943085+00:00",
+  "530a7b8a47c96516": "2026-11-11T10:41:21.943085+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8216,19 +8216,6 @@
     "FormulaPassion": "Mercedes e gli anni duro lavoro"
    },
    "last": "2026-11-10T07:38:04.363507+00:00"
-  },
-  "S6353": {
-   "title": "Wolff defends Russell over car behaviour, cites Verstappen",
-   "first": "2026-11-09T10:35:17.468096+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Wolff op de bres voor George Russell: \"Max Verstappen zei hetzelfde\""
-   },
-   "last": "2026-11-09T10:35:17.468101+00:00"
   },
   "S6354": {
    "title": "Russell backs Hamilton's claim that retirement is off the table",
@@ -15010,9 +14997,35 @@
     "PlanetF1": "Charles Leclerc penalty under scrutiny as Lando Norris breaks rank on FIA decision"
    },
    "last": "2026-11-11T10:31:24.156925+00:00"
+  },
+  "S6863": {
+   "title": "Bearman relieved after tough Haas triple-header ends",
+   "first": "2026-11-11T10:41:24.769295+00:00",
+   "sources": {
+    "Formula 1": "2026-11-11T10:41:24.769308+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Bearman relieved ‘horrible three weeks’ for Haas are over"
+   },
+   "last": "2026-11-11T10:41:24.769313+00:00"
+  },
+  "S6864": {
+   "title": "Drivers criticise safety speed limit at Sao Paulo GP",
+   "first": "2026-11-11T10:41:24.769318+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 drivers air frustrations after 'speed limit' introduction"
+   },
+   "last": "2026-11-11T10:41:24.769324+00:00"
   }
  },
- "story_seq": 6862,
+ "story_seq": 6864,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15131,7 +15144,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T10:31:19.141347+00:00",
+ "last_run": "2026-11-11T10:41:21.943085+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16576,6 +16589,16 @@
    "t": "2026-11-11T10:31:28.263182+00:00",
    "title": "Leclerc'in cezasına Norris'ten itiraz: 'Mükemmel yerleştirilmiş bir itme'",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-11T10:41:29.762300+00:00",
+   "title": "F1 pilotları 'hız limiti' uygulamasından şikayetçi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T10:41:30.267891+00:00",
+   "title": "Bearman, Haas için 'korkunç üç hafta'nın bittiğine seviniyor",
+   "source": "Formula 1"
   }
  ]
 }
