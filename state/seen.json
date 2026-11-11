@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e56422ed0e1d3615": "2026-10-28T07:16:38.155008+00:00",
-  "f190691ba7fb4b50": "2026-10-28T07:16:38.155008+00:00",
-  "2dec2464bef3a97c": "2026-10-28T07:16:38.155008+00:00",
-  "7c6d3424fbaad69a": "2026-10-28T07:16:38.155008+00:00",
-  "a811d9ffc4cdb6c9": "2026-10-28T07:16:38.155008+00:00",
   "932d04c8ee244436": "2026-10-28T07:26:44.541733+00:00",
   "8777514d079ef8ed": "2026-10-28T07:26:44.541733+00:00",
   "6b9c3867fbe81059": "2026-10-28T07:26:44.541733+00:00",
@@ -7864,7 +7859,11 @@
   "0508a246e0d0c88d": "2026-11-11T07:10:30.409421+00:00",
   "747d32af09559978": "2026-11-11T07:10:30.409421+00:00",
   "c1eae2d0ca203518": "2026-11-11T07:10:30.409421+00:00",
-  "d4ed615d11931f3f": "2026-11-11T07:10:30.409421+00:00"
+  "d4ed615d11931f3f": "2026-11-11T07:10:30.409421+00:00",
+  "57e80a4b411d66d7": "2026-11-11T07:20:29.484513+00:00",
+  "39215a6226201058": "2026-11-11T07:20:29.484513+00:00",
+  "cdd888df44c01f3c": "2026-11-11T07:20:29.484513+00:00",
+  "c1471df71e2909f5": "2026-11-11T07:20:29.484513+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7925,41 +7924,6 @@
     "GPFans": "Lando Norris podium trick backfires AGAIN in spectacular fashion"
    },
    "last": "2026-11-09T17:05:44.490581+00:00"
-  },
-  "S6156": {
-   "title": "FIA investigation into Leclerc and Lawson at Brazilian GP",
-   "first": "2026-11-08T19:43:16.761757+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-08T19:40:28+00:00",
-    "Crash.net": "2026-11-08T21:27:22+00:00",
-    "RacingNews365": "2026-11-08T21:28:00+00:00",
-    "GPblog": "2026-11-08T21:31:00+00:00",
-    "RacingNews365 NL": "2026-11-08T21:32:00+00:00",
-    "FormulaPassion": "2026-11-08T21:35:25+00:00",
-    "Formula 1": "2026-11-08T21:43:20.179474+00:00",
-    "The Race": "2026-11-08T21:42:34+00:00",
-    "Motorsport.com Italia": "2026-11-08T21:44:04+00:00",
-    "Autosport": "2026-11-08T21:59:31+00:00",
-    "Motorsport-Total": "2026-11-08T22:56:11+00:00",
-    "GPFans": "2026-11-09T07:12:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "FIA launches Charles Leclerc and Liam Lawson investigation at Brazilian GP",
-    "Crash.net": "Charles Leclerc hit with Brazil GP penalty for Liam Lawson collision",
-    "RacingNews365": "2026 F1 Sao Paulo Grand Prix results adjusted after Ferrari time penalty",
-    "GPblog": "FIA delivers double penalty following Brazilian GP investigations",
-    "RacingNews365 NL": "Aangepaste uitslag F1 GP Brazilië na tijdstraffen",
-    "FormulaPassion": "Leclerc penalizzato di 5″ per il contatto con Lawson: scala 8°",
-    "Formula 1": "Leclerc hit with post-race penalty for Sao Paulo collision",
-    "The Race": "Leclerc loses two points for Lawson collision",
-    "Motorsport.com Italia": "F1 | Leclerc penalizzato per il contatto con Lawson: scivola all’ottavo posto",
-    "Autosport": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
-    "Motorsport-Total": "Platz sieben weg: Leclerc erhält für Lawson-Kollision Zeitstrafe - Motorsport-Total.com",
-    "GPFans": "Ferrari star loses Brazilian GP position as FIA confirm trio of post-race penalties"
-   },
-   "last": "2026-11-09T07:14:24.551860+00:00"
   },
   "S6171": {
    "title": "Vasseur blames tyre pressure for Hamilton's post-start slump",
@@ -8194,32 +8158,6 @@
     "GPblog": "Verstappen hands his Brazil helmet to departing Red Bull mechanic after 20 years"
    },
    "last": "2026-11-09T14:15:33.993457+00:00"
-  },
-  "S6318": {
-   "title": "Wolfsburg vs. Union Berlin live score",
-   "first": "2026-11-09T07:14:24.551823+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T07:09:26+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wolfsburg vs. Union Berlin (Nov 12, 2026) Live Score"
-   },
-   "last": "2026-11-09T07:14:24.551841+00:00"
-  },
-  "S6319": {
-   "title": "Norris makes striking claim after nasty-conditions Brazil win",
-   "first": "2026-11-09T07:14:24.551847+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-09T07:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris makes striking claim after 'nasty conditions' victory"
-   },
-   "last": "2026-11-09T07:14:24.551853+00:00"
   },
   "S6320": {
    "title": "Hadjar acknowledges gap to Verstappen after Brazil podium",
@@ -13243,14 +13181,16 @@
    "title": "Coulthard warns Norris over podium firework injury",
    "first": "2026-11-10T17:09:15.948514+00:00",
    "sources": {
-    "Crash.net": "2026-11-10T17:00:00+00:00"
+    "Crash.net": "2026-11-10T17:00:00+00:00",
+    "PlanetF1": "2026-11-11T07:14:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "David Coulthard’s urgent plea to Lando Norris after taking firework to the face on Brazil GP podium"
+    "Crash.net": "David Coulthard’s urgent plea to Lando Norris after taking firework to the face on Brazil GP podium",
+    "PlanetF1": "David Coulthard slams Lando Norris over stunt children are taught to avoid"
    },
-   "last": "2026-11-10T17:09:15.948518+00:00"
+   "last": "2026-11-11T07:20:34.932584+00:00"
   },
   "S6693": {
    "title": "DeMario Douglas fantasy upside for NFL Week 10",
@@ -14842,7 +14782,7 @@
    "titles": {
     "ESPN F1": "76ers' Brown gives Tatum frosty reception early in first post-trade matchup"
    },
-   "last": "2026-11-11T06:00:29.604123+00:00"
+   "last": "2026-11-11T07:20:34.932563+00:00"
   },
   "S6815": {
    "title": "Predators 3-0 Kings game recap",
@@ -14999,9 +14939,35 @@
     "GPblog": "Red Bull chief engineer Monaghan misses second race in a row as Cadillac links resurface"
    },
    "last": "2026-11-11T07:10:34.081511+00:00"
+  },
+  "S6827": {
+   "title": "Hamilton backed to race in 2030 and fulfil Africa dream",
+   "first": "2026-11-11T07:20:34.932573+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton backed to still be on F1 grid in 2030 and fulfil Africa dream"
+   },
+   "last": "2026-11-11T07:20:34.932579+00:00"
+  },
+  "S6828": {
+   "title": "Horner addresses possible F1 return, says world was taken away",
+   "first": "2026-11-11T07:20:34.932588+00:00",
+   "sources": {
+    "GPFans": "2026-11-11T07:12:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Christian Horner addresses F1 return after intense speculation: 'My world had been taken away'"
+   },
+   "last": "2026-11-11T07:20:34.932592+00:00"
   }
  },
- "story_seq": 6826,
+ "story_seq": 6828,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15120,17 +15086,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T07:10:30.409421+00:00",
+ "last_run": "2026-11-11T07:20:29.484513+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T07:16:17.542002+00:00",
-   "title": "Antonelli: Ne bekleyeceğimi bilmiyordum, üçüncülük iyi",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-08T07:26:16.870480+00:00",
    "title": "Brezilya GP'de Hamilton, Verstappen'in önünden start alacak",
@@ -16545,6 +16506,16 @@
    "t": "2026-11-11T07:10:41.575025+00:00",
    "title": "Las Vegas GP erken pazarlarında izlenmesi gereken 3 pilot",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-11T07:20:39.708911+00:00",
+   "title": "Hamilton'ın 2030'da hâlâ F1'de olabileceği yönünde anket sonucu",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T07:20:40.158456+00:00",
+   "title": "Christian Horner F1'e dönüş spekülasyonlarına yanıt verdi",
+   "source": "GPFans"
   }
  ]
 }
