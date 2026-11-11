@@ -7845,7 +7845,9 @@
   "579cd8a5fd5c1dc1": "2026-11-11T08:10:31.083941+00:00",
   "5cf5792e75100d86": "2026-11-11T08:20:37.887940+00:00",
   "d26108ee220db41d": "2026-11-11T08:20:37.887940+00:00",
-  "5674570c765b9e4d": "2026-11-11T08:20:37.887940+00:00"
+  "5674570c765b9e4d": "2026-11-11T08:20:37.887940+00:00",
+  "a198b559b71b73fe": "2026-11-11T08:21:24.007468+00:00",
+  "9212bbcc43eb4341": "2026-11-11T08:21:24.007468+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13518,14 +13520,16 @@
    "title": "Steiner backs Lawson's world title potential, cites obstacle",
    "first": "2026-11-10T19:39:14.015288+00:00",
    "sources": {
-    "PlanetF1": "2026-11-10T19:30:17+00:00"
+    "PlanetF1": "2026-11-10T19:30:17+00:00",
+    "FormulaPassion": "2026-11-11T08:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Liam Lawson told to leave Red Bull as Guenther Steiner backs world title potential"
+    "PlanetF1": "Liam Lawson told to leave Red Bull as Guenther Steiner backs world title potential",
+    "FormulaPassion": "Steiner: “Lawson può diventare campione del mondo, ma deve lasciare la famiglia Red Bull”"
    },
-   "last": "2026-11-10T19:39:14.015294+00:00"
+   "last": "2026-11-11T08:21:26.984929+00:00"
   },
   "S6730": {
    "title": "Connor Hellebuyck discusses why he wanted out of Winnipeg",
@@ -14930,9 +14934,22 @@
     "RacingNews365": "Isack Hadjar told of 'next step' with Red Bull in face of Max Verstappen challenge"
    },
    "last": "2026-11-11T08:20:40.263743+00:00"
+  },
+  "S6838": {
+   "title": "Leclerc's team radio shows frustration with Ferrari pit wall",
+   "first": "2026-11-11T08:21:26.984902+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-11T08:19:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Leclerc-Ferrari, la frustrazione cresce anche via radio: “Vi faccio domande semplici! Datemi risposte semplici”"
+   },
+   "last": "2026-11-11T08:21:26.984920+00:00"
   }
  },
- "story_seq": 6837,
+ "story_seq": 6838,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15051,7 +15068,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T08:20:37.887940+00:00",
+ "last_run": "2026-11-11T08:21:24.007468+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16481,6 +16498,11 @@
    "t": "2026-11-11T08:20:44.269873+00:00",
    "title": "Hadjar'ın Red Bull'daki 'bir sonraki adımı': Verstappen'e meydan okuma",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T08:21:31.478679+00:00",
+   "title": "Leclerc radyoda hayal kırıklığını dile getirdi: \"Basit sorular soruyorum, basit cevaplar bekliyorum\"",
+   "source": "FormulaPassion"
   }
  ]
 }
