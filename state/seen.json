@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7ae23e67fd12ec7a": "2026-10-28T09:07:12.401086+00:00",
-  "8e7b51c9ede8989f": "2026-10-28T09:07:12.401086+00:00",
-  "23d213be3976d4e6": "2026-10-28T09:07:12.401086+00:00",
-  "e940861ded0bdd45": "2026-10-28T09:07:12.401086+00:00",
   "5ee95fdb9876ef12": "2026-10-28T09:17:13.272150+00:00",
   "522ca088a46fdddb": "2026-10-28T09:17:13.272150+00:00",
   "513395f1d13b3906": "2026-10-28T09:27:12.040474+00:00",
@@ -7845,7 +7841,10 @@
   "6019439c28e98a9e": "2026-11-11T08:51:20.245670+00:00",
   "99d9d1582fddfd2e": "2026-11-11T09:01:23.393440+00:00",
   "d1b460d00dc909c6": "2026-11-11T09:01:23.393440+00:00",
-  "a54af83d952a22c3": "2026-11-11T09:01:23.393440+00:00"
+  "a54af83d952a22c3": "2026-11-11T09:01:23.393440+00:00",
+  "8fe94f19f4f7fb6b": "2026-11-11T09:11:19.604076+00:00",
+  "7573590d133a8afc": "2026-11-11T09:11:19.604076+00:00",
+  "2876eb9166af57ed": "2026-11-11T09:11:19.604076+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8202,32 +8201,6 @@
     "Auto Motor und Sport": "Formel 1: Nach sieben F1-Jahren: Oscar Piastri trennt sich von Manager Mark Webber"
    },
    "last": "2026-11-10T13:08:24.243432+00:00"
-  },
-  "S6336": {
-   "title": "Hamilton faces awkward Mercedes reception after Ferrari title loss",
-   "first": "2026-11-09T09:04:16.849726+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-09T09:00:21+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton faces awkward Mercedes experience after Ferrari title defeat"
-   },
-   "last": "2026-11-09T09:04:16.849743+00:00"
-  },
-  "S6337": {
-   "title": "Ralf Schumacher says Hamilton is not fast enough",
-   "first": "2026-11-09T09:04:16.849756+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T08:58:06+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ralf Schumacher: \"Lewis Hamilton ist einfach nicht schnell genug\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T09:04:16.849762+00:00"
   },
   "S6338": {
    "title": "Analysis of why McLaren excelled and Ferrari struggled in Brazil",
@@ -14973,9 +14946,48 @@
     "FormulaPassion": "12 milioni di bonus per Antonelli, ma un aumento è d’obbligo: attualmente percepisce un decimo dello stipendio di Russell"
    },
    "last": "2026-11-11T09:01:26.998220+00:00"
+  },
+  "S6845": {
+   "title": "Heat 115-109 Jazz NBA game recap",
+   "first": "2026-11-11T09:11:23.574974+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T05:06:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heat 115-109 Jazz (Nov 10, 2026) Game Recap"
+   },
+   "last": "2026-11-11T09:11:23.574993+00:00"
+  },
+  "S6846": {
+   "title": "Verstappen and Hadjar criticise Pirelli wet tyres before Las Vegas",
+   "first": "2026-11-11T09:11:23.575000+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T09:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen and Hadjar call out Pirelli's wet tyres ahead of cold Las Vegas"
+   },
+   "last": "2026-11-11T09:11:23.575005+00:00"
+  },
+  "S6847": {
+   "title": "Analysis of what remains of Pirelli wet-tyre warnings from Brazil",
+   "first": "2026-11-11T09:11:23.575009+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T09:03:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel 1 im Regen: Was nach den Warnungen von Brasilien übrig bleibt - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T09:11:23.575014+00:00"
   }
  },
- "story_seq": 6844,
+ "story_seq": 6847,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15094,7 +15106,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T09:01:23.393440+00:00",
+ "last_run": "2026-11-11T09:11:19.604076+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16519,6 +16531,16 @@
    "t": "2026-11-11T09:01:36.237974+00:00",
    "title": "Antonelli'ye 12 milyon dolar bonus, ama maaşında artış bekleniyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-11T09:11:29.071967+00:00",
+   "title": "Verstappen ve Hadjar, Pirelli'nin yağmur lastiklerini eleştirdi",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T09:11:29.647827+00:00",
+   "title": "Yağmurlu F1: Brezilya uyarılarından sonra geriye ne kalıyor",
+   "source": "Motorsport-Total"
   }
  ]
 }
