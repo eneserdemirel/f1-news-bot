@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cc88556da63b981f": "2026-10-28T08:06:38.304000+00:00",
-  "db0756258238e89b": "2026-10-28T08:06:38.304000+00:00",
-  "e59c4aacabca4c12": "2026-10-28T08:06:38.304000+00:00",
-  "244657db6f84bd5f": "2026-10-28T08:06:38.304000+00:00",
-  "360ff5c3b4390d76": "2026-10-28T08:06:38.304000+00:00",
   "2e69b52315da24af": "2026-10-28T08:16:36.969746+00:00",
   "53ffffa0a64f5a88": "2026-10-28T08:16:36.969746+00:00",
   "567d292441289f29": "2026-10-28T08:16:36.969746+00:00",
@@ -7849,7 +7844,8 @@
   "68df33b7a1683f47": "2026-11-11T07:50:27.896391+00:00",
   "e8e2881e9a364760": "2026-11-11T08:00:35.040889+00:00",
   "b888c40751c5bdd1": "2026-11-11T08:00:35.040889+00:00",
-  "4b47f6b2f85f8827": "2026-11-11T08:00:35.040889+00:00"
+  "4b47f6b2f85f8827": "2026-11-11T08:00:35.040889+00:00",
+  "579cd8a5fd5c1dc1": "2026-11-11T08:10:31.083941+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8134,19 +8130,6 @@
    },
    "last": "2026-11-09T16:45:50.266217+00:00"
   },
-  "S6326": {
-   "title": "Analysis of Verstappen's 30-place penalty Interlagos podium drive",
-   "first": "2026-11-09T08:04:23.122058+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-09T08:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "How Max Verstappen turned a 30-place penalty into another Interlagos miracle"
-   },
-   "last": "2026-11-09T08:04:23.122075+00:00"
-  },
   "S6327": {
    "title": "Verstappen admires Hamilton's Brazil start",
    "first": "2026-11-09T08:04:23.122081+00:00",
@@ -8163,32 +8146,6 @@
     "RacingNews365": "Max Verstappen bitterness after failing to match early Lewis Hamilton heroics"
    },
    "last": "2026-11-10T06:27:01.621317+00:00"
-  },
-  "S6328": {
-   "title": "Official Brazil GP results changed after several post-race penalties",
-   "first": "2026-11-09T08:04:23.122091+00:00",
-   "sources": {
-    "GPFans": "2026-11-09T07:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 Brazilian Grand Prix results changed as FIA announce post-race penalties"
-   },
-   "last": "2026-11-09T08:04:23.122096+00:00"
-  },
-  "S6329": {
-   "title": "Alonso and Krack on Honda's five retirements in three races",
-   "first": "2026-11-09T08:04:23.122099+00:00",
-   "sources": {
-    "AS": "2026-11-09T07:51:50+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Un espejismo de Alonso mientras los problemas se agravan"
-   },
-   "last": "2026-11-09T08:04:23.122104+00:00"
   },
   "S6330": {
    "title": "Warriors guard Will Richard sidelined with thumb ligament tear",
@@ -14921,9 +14878,22 @@
     "Motorsport-Total": "Haas verschenkt wichtige WM-Punkte: Bearman rechnet mit seinem Team ab - Motorsport-Total.com"
    },
    "last": "2026-11-11T08:00:39.629660+00:00"
+  },
+  "S6834": {
+   "title": "Former Ferrari F1 hopeful completes Lola Formula E switch",
+   "first": "2026-11-11T08:10:33.522148+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T08:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Former Ferrari F1 hopeful completes 'demanding' Lola Formula E switch"
+   },
+   "last": "2026-11-11T08:10:33.522167+00:00"
   }
  },
- "story_seq": 6833,
+ "story_seq": 6834,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15042,7 +15012,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T08:00:35.040889+00:00",
+ "last_run": "2026-11-11T08:10:31.083941+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
