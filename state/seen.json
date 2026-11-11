@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bb479cc0d6998701": "2026-10-28T20:48:34.950976+00:00",
-  "845add48c5d4d91c": "2026-10-28T20:48:34.950976+00:00",
-  "7f5168539828eaf7": "2026-10-28T20:48:34.950976+00:00",
   "7fecc6dd7912d186": "2026-10-28T20:58:38.344581+00:00",
   "4ff0274ebe038de4": "2026-10-28T20:58:38.344581+00:00",
   "fde7ea111f69bf05": "2026-10-28T20:58:38.344581+00:00",
@@ -7718,7 +7715,9 @@
   "7fd59ad8226c1157": "2026-11-11T20:02:38.357494+00:00",
   "81e61cd7ed1059fc": "2026-11-11T20:02:38.357494+00:00",
   "7f657d29320fa2a6": "2026-11-11T20:02:38.357494+00:00",
-  "4e0987b480812ae0": "2026-11-11T20:32:41.420695+00:00"
+  "4e0987b480812ae0": "2026-11-11T20:32:41.420695+00:00",
+  "a82b2196e51f1694": "2026-11-11T20:52:40.305446+00:00",
+  "bcb8ef5053b3995e": "2026-11-11T20:52:40.305446+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14284,14 +14283,16 @@
    "title": "Mekies explains why Lawson's 2027 decision is delayed",
    "first": "2026-11-11T19:12:44.469321+00:00",
    "sources": {
-    "RacingNews365": "2026-11-11T19:00:00+00:00"
+    "RacingNews365": "2026-11-11T19:00:00+00:00",
+    "GPFans": "2026-11-11T20:43:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Liam Lawson reason for F1 future decision delay addressed by Red Bull"
+    "RacingNews365": "Liam Lawson reason for F1 future decision delay addressed by Red Bull",
+    "GPFans": "Red Bull F1 chief insists he's not to blame for Liam Lawson contract decision"
    },
-   "last": "2026-11-11T19:12:44.469340+00:00"
+   "last": "2026-11-11T20:52:43.199146+00:00"
   },
   "S6959": {
    "title": "Lawson admits Lindblad is a perfect teammate foil",
@@ -14422,9 +14423,22 @@
     "ESPN F1": "NFL survivor power rankings: Why this is the week to use Rams, Bills"
    },
    "last": "2026-11-11T20:32:42.829834+00:00"
+  },
+  "S6969": {
+   "title": "AFL draft prospect Gus Teixeira injury and illness update",
+   "first": "2026-11-11T20:52:43.199120+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T20:41:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AFL Draft: Despite injury and illness, Gus Teixeira is still one of this year's top prospects"
+   },
+   "last": "2026-11-11T20:52:43.199137+00:00"
   }
  },
- "story_seq": 6968,
+ "story_seq": 6969,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14543,17 +14557,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T20:42:39.898438+00:00",
+ "last_run": "2026-11-11T20:52:40.305446+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T20:48:23.224063+00:00",
-   "title": "Sky Sports'tan Ted Kravitz, Racing Bulls'u Liam Lawson sözleşmesindeki gecikme nedeniyle eleştirdi",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-08T21:03:26.262587+00:00",
    "title": "Antonelli, Brezilya GP'sinde galibiyeti kaybettiren garip spini ve araç dengesizliğini anlattı",
