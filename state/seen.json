@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "882ec526ca152c2d": "2026-10-28T19:17:57.550983+00:00",
-  "b2bf0cf3b44bc8ea": "2026-10-28T19:17:57.550983+00:00",
-  "15363a22ba1cb4df": "2026-10-28T19:17:57.550983+00:00",
   "32f165658fdba04d": "2026-10-28T19:28:31.952055+00:00",
   "053671dbbc562a31": "2026-10-28T19:38:34.272540+00:00",
   "a9f4e260e00dd21f": "2026-10-28T19:38:34.272540+00:00",
@@ -7724,7 +7721,11 @@
   "5327275f2035b678": "2026-11-11T18:52:41.670311+00:00",
   "4099c68f75871f8e": "2026-11-11T18:52:41.670311+00:00",
   "e571eacb853db9b8": "2026-11-11T19:02:41.594925+00:00",
-  "0117d8409e28cafe": "2026-11-11T19:12:42.152791+00:00"
+  "0117d8409e28cafe": "2026-11-11T19:12:42.152791+00:00",
+  "a7261e86851ec80c": "2026-11-11T19:22:41.613026+00:00",
+  "52fadbc338ace5a3": "2026-11-11T19:22:41.613026+00:00",
+  "ce858d004b13f1cc": "2026-11-11T19:22:41.613026+00:00",
+  "482c391ef8d48276": "2026-11-11T19:22:41.613026+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14335,14 +14336,14 @@
    "title": "Tarik Skubal free agency tracker",
    "first": "2026-11-11T18:32:07.014846+00:00",
    "sources": {
-    "ESPN F1": "2026-11-11T18:22:06+00:00"
+    "ESPN F1": "2026-11-11T18:00:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Tarik Skubal free agency tracker: Latest on top MLB free agent"
    },
-   "last": "2026-11-11T18:32:07.014864+00:00"
+   "last": "2026-11-11T19:22:44.606761+00:00"
   },
   "S6952": {
    "title": "Chiefs keep Harrison Butker as kicker this week",
@@ -14434,9 +14435,35 @@
     "RacingNews365": "Liam Lawson reason for F1 future decision delay addressed by Red Bull"
    },
    "last": "2026-11-11T19:12:44.469340+00:00"
+  },
+  "S6959": {
+   "title": "Lawson admits Lindblad is a perfect teammate foil",
+   "first": "2026-11-11T19:22:44.606772+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-11T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Liam Lawson makes Arvid Lindblad admission amid Racing Bulls F1 surge"
+   },
+   "last": "2026-11-11T19:22:44.606778+00:00"
+  },
+  "S6960": {
+   "title": "Hamilton calls Israel's Gaza actions shocking",
+   "first": "2026-11-11T19:22:44.606783+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-11T18:45:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Hamilton: “Il genocidio di Israele a Gaza è sconvolgente. Non possiamo voltarci dall’altra parte”"
+   },
+   "last": "2026-11-11T19:22:44.606787+00:00"
   }
  },
- "story_seq": 6958,
+ "story_seq": 6960,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14555,17 +14582,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T19:12:42.152791+00:00",
+ "last_run": "2026-11-11T19:22:41.613026+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T19:18:19.950891+00:00",
-   "title": "Lando Norris, Sao Paulo'da podyumda şampanya şişesini kırdı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-08T19:23:21.430147+00:00",
    "title": "Hadjar, Brezilya'da podyuma çıktı; pit ekibini neredeyse ezecekti",
@@ -15980,6 +16002,16 @@
    "t": "2026-11-11T19:12:50.002211+00:00",
    "title": "Red Bull, Liam Lawson'ın F1 geleceği kararında acele etmediğini açıkladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T19:22:49.235454+00:00",
+   "title": "Hamilton: Gazze'deki İsrail soykırımı sarsıcı, yüz çeviremeyiz",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-11T19:22:49.609343+00:00",
+   "title": "Lawson, Lindblad ile Racing Bulls'taki yükselişi üzerine konuştu",
+   "source": "Motorsport Week"
   }
  ]
 }
