@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "dce07f5efcf97809": "2026-10-28T21:38:32.079020+00:00",
-  "6399362c3f8872c8": "2026-10-28T21:38:32.079020+00:00",
   "cf32b486ad669fb9": "2026-10-28T21:48:32.634247+00:00",
   "bec93b2e5ebb4ce9": "2026-10-28T21:48:32.634247+00:00",
   "e9bf11ea04f2938f": "2026-10-28T21:58:32.374455+00:00",
@@ -7712,7 +7710,12 @@
   "53a5cfd865eece26": "2026-11-11T21:32:39.225543+00:00",
   "797b8c3f6ec8b6a7": "2026-11-11T21:32:39.225543+00:00",
   "9548c8aee0e708ca": "2026-11-11T21:32:39.225543+00:00",
-  "78d8e87ad096e78f": "2026-11-11T21:32:39.225543+00:00"
+  "78d8e87ad096e78f": "2026-11-11T21:32:39.225543+00:00",
+  "032d1f17994264dd": "2026-11-11T21:42:39.087003+00:00",
+  "c22834a4d239b61e": "2026-11-11T21:42:39.087003+00:00",
+  "8e586745a30fe344": "2026-11-11T21:42:39.087003+00:00",
+  "f6676d5eb510ad95": "2026-11-11T21:42:39.087003+00:00",
+  "299aae847abb016b": "2026-11-11T21:42:39.087003+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7985,19 +7988,6 @@
    },
    "last": "2026-11-09T23:46:27.610576+00:00"
   },
-  "S6490": {
-   "title": "Kansas' Melvin Council Jr. suffers broken foot",
-   "first": "2026-11-09T21:06:26.807959+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T20:36:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kansas' Melvin Council Jr. suffers broken foot, may be out until January"
-   },
-   "last": "2026-11-09T21:36:28.709880+00:00"
-  },
   "S6492": {
    "title": "Piastri describes scary moment with Russell in Brazil",
    "first": "2026-11-09T21:06:26.807991+00:00",
@@ -8027,19 +8017,6 @@
     "GPblog": "Lawson sends pointed message to Red Bull as 2027 decision draws closer"
    },
    "last": "2026-11-09T23:06:28.517623+00:00"
-  },
-  "S6497": {
-   "title": "Whittingham: Michigan starting QB to be determined vs. Oregon",
-   "first": "2026-11-09T21:36:28.709889+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T15:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Whittingham -- Michigan's starting QB to be determined vs. Oregon"
-   },
-   "last": "2026-11-09T21:36:28.709895+00:00"
   },
   "S6498": {
    "title": "Saints starting center Erik McCoy to miss time with biceps injury",
@@ -14313,7 +14290,7 @@
    "titles": {
     "ESPN F1": "Mike Tomlin: 'Excited' about broadcast role, hasn't considered coaching return"
    },
-   "last": "2026-11-11T20:02:42.701551+00:00"
+   "last": "2026-11-11T21:42:41.910450+00:00"
   },
   "S6966": {
    "title": "Horner discusses 'difficult' inappropriate behaviour allegations at Red Bull",
@@ -14332,14 +14309,14 @@
    "title": "Motorsport-Total item with no content",
    "first": "2026-11-11T20:02:42.701570+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-11T18:38:07+00:00"
+    "Motorsport-Total": "2026-11-11T18:18:05+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "- Motorsport-Total.com"
    },
-   "last": "2026-11-11T20:02:42.701574+00:00"
+   "last": "2026-11-11T21:42:41.910457+00:00"
   },
   "S6968": {
    "title": "NFL survivor pool power rankings: Rams and Bills picks",
@@ -14457,9 +14434,35 @@
     "AS": "McLaren aguanta el pulso"
    },
    "last": "2026-11-11T21:32:43.456635+00:00"
+  },
+  "S6977": {
+   "title": "South Alabama vs Florida Atlantic game highlights",
+   "first": "2026-11-11T21:42:41.910413+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T20:39:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "South Alabama Jaguars vs. Florida Atlantic Owls: Game Highlights"
+   },
+   "last": "2026-11-11T21:42:41.910430+00:00"
+  },
+  "S6978": {
+   "title": "Browns sticking with Deshaun Watson",
+   "first": "2026-11-11T21:42:41.910436+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T20:04:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Browns sticking with Deshaun Watson"
+   },
+   "last": "2026-11-11T21:42:41.910443+00:00"
   }
  },
- "story_seq": 6976,
+ "story_seq": 6978,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14578,37 +14581,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T21:32:39.225543+00:00",
+ "last_run": "2026-11-11T21:42:39.087003+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T21:33:25.277549+00:00",
-   "title": "Stewards birden fazla olayda karar verdi, Leclerc'e ceza",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-08T21:33:25.741984+00:00",
-   "title": "FIA, Brezilya GP soruşturmaları sonrası Leclerc ve Bearman'a ceza verdi",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-08T21:33:26.210982+00:00",
-   "title": "Russell, pit çıkışındaki spin hakkında: \"Ne olduğuna dair hiçbir fikrim yok\"",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-08T21:38:29.466793+00:00",
-   "title": "Norris Brezilya'da kazandı, Mercedes konstrüktörler şampiyonu oldu",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-08T21:38:29.929198+00:00",
-   "title": "Brezilya GP'de zaman cezaları sonrası sonuçlar değişti",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-08T21:43:26.592097+00:00",
    "title": "Wolff, Russell'ın Verstappen'i yakalaması için yeni Mercedes stratejisine işaret etti",
