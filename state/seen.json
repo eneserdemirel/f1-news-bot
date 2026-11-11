@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8312fc94f924e255": "2026-10-28T21:28:31.926052+00:00",
-  "88283808aed0fc3f": "2026-10-28T21:28:31.926052+00:00",
-  "ab4ed61c37731145": "2026-10-28T21:28:31.926052+00:00",
-  "37f97d72dc5d625a": "2026-10-28T21:28:31.926052+00:00",
-  "70976c86169e3d63": "2026-10-28T21:28:31.926052+00:00",
   "dce07f5efcf97809": "2026-10-28T21:38:32.079020+00:00",
   "6399362c3f8872c8": "2026-10-28T21:38:32.079020+00:00",
   "cf32b486ad669fb9": "2026-10-28T21:48:32.634247+00:00",
@@ -7713,7 +7708,11 @@
   "5efb054d0aef6fa8": "2026-11-11T21:02:39.400341+00:00",
   "fc969e498ecf1bdf": "2026-11-11T21:02:39.400341+00:00",
   "3630123df2bdf424": "2026-11-11T21:12:41.094977+00:00",
-  "fd3382a8123c0885": "2026-11-11T21:22:41.638099+00:00"
+  "fd3382a8123c0885": "2026-11-11T21:22:41.638099+00:00",
+  "53a5cfd865eece26": "2026-11-11T21:32:39.225543+00:00",
+  "797b8c3f6ec8b6a7": "2026-11-11T21:32:39.225543+00:00",
+  "9548c8aee0e708ca": "2026-11-11T21:32:39.225543+00:00",
+  "78d8e87ad096e78f": "2026-11-11T21:32:39.225543+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8028,32 +8027,6 @@
     "GPblog": "Lawson sends pointed message to Red Bull as 2027 decision draws closer"
    },
    "last": "2026-11-09T23:06:28.517623+00:00"
-  },
-  "S6495": {
-   "title": "UCLA enters AP men's Top 25 top 10; Florida stays No. 1",
-   "first": "2026-11-09T21:26:27.884449+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T18:07:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UCLA hops into top 10 of men's AP Top 25 hoops poll, while Florida remains No. 1"
-   },
-   "last": "2026-11-09T21:26:27.884467+00:00"
-  },
-  "S6496": {
-   "title": "Hülkenberg scores Audi points again, enters title-fight talk",
-   "first": "2026-11-09T21:26:27.884472+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-09T19:53:26+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Wieder Audi-Punkte: Hülkenberg greift in den Titelkampf ein"
-   },
-   "last": "2026-11-09T21:26:27.884477+00:00"
   },
   "S6497": {
    "title": "Whittingham: Michigan starting QB to be determined vs. Oregon",
@@ -13228,7 +13201,7 @@
    "titles": {
     "GPblog": "Trump shares update on Iran war that could be very welcome for Formula 1"
    },
-   "last": "2026-11-11T12:11:23.429745+00:00"
+   "last": "2026-11-11T21:32:43.456617+00:00"
   },
   "S6882": {
    "title": "Army football fans ferrygating feature (off-topic for F1)",
@@ -14445,9 +14418,48 @@
     "ESPN F1": "Cardinals to start rookie QB Carson Beck against Rams"
    },
    "last": "2026-11-11T21:22:42.814548+00:00"
+  },
+  "S6974": {
+   "title": "US withdraws from FIFA U17 World Cup in Qatar over safety",
+   "first": "2026-11-11T21:32:43.456589+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T21:07:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "U.S. withdraws from FIFA U17 World Cup in Qatar over safety concerns"
+   },
+   "last": "2026-11-11T21:32:43.456607+00:00"
+  },
+  "S6975": {
+   "title": "Barrichello backs Antonelli's eventual move to Ferrari",
+   "first": "2026-11-11T21:32:43.456623+00:00",
+   "sources": {
+    "GPFans": "2026-11-11T21:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Long-time Ferrari star thinks Kimi Antonelli could be tempted by Scuderia switch"
+   },
+   "last": "2026-11-11T21:32:43.456627+00:00"
+  },
+  "S6976": {
+   "title": "Stella praises Norris in mixed conditions as McLaren wing works",
+   "first": "2026-11-11T21:32:43.456631+00:00",
+   "sources": {
+    "AS": "2026-11-11T21:19:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "McLaren aguanta el pulso"
+   },
+   "last": "2026-11-11T21:32:43.456635+00:00"
   }
  },
- "story_seq": 6973,
+ "story_seq": 6976,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14566,17 +14578,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T21:22:41.638099+00:00",
+ "last_run": "2026-11-11T21:32:39.225543+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
  "last_digest_at": "2026-11-11T19:02:48.496503+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T21:28:22.263139+00:00",
-   "title": "Leclerc, Lawson ile temas nedeniyle Brezilya GP'de ceza aldı",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-08T21:33:25.277549+00:00",
    "title": "Stewards birden fazla olayda karar verdi, Leclerc'e ceza",
@@ -15896,6 +15903,11 @@
    "t": "2026-11-11T21:12:47.427169+00:00",
    "title": "Coulthard, Norris'in podyum kutlamasında yaşanan tehlikeli an sonrası FIA'ya çağrıda bulundu",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T21:32:49.674809+00:00",
+   "title": "Barrichello: Antonelli'nin Ferrari'ye geçebileceğini düşünüyor",
+   "source": "GPFans"
   }
  ]
 }
