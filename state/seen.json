@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8ad05f6d273c265b": "2026-10-28T09:37:16.090207+00:00",
-  "cbf9d9db7923ec1a": "2026-10-28T09:37:16.090207+00:00",
-  "a82151855af44361": "2026-10-28T09:37:16.090207+00:00",
   "eda5d5f3164730b3": "2026-10-28T09:47:12.504416+00:00",
   "e8fc7217239895ce": "2026-10-28T09:47:12.504416+00:00",
   "c157bb2d4daad7d1": "2026-10-28T09:57:12.921025+00:00",
@@ -7845,7 +7842,9 @@
   "b1077f702eb85490": "2026-11-11T09:31:19.371246+00:00",
   "a0f28167c8b79f58": "2026-11-11T09:31:19.371246+00:00",
   "cbbcdb3a04b1b6d2": "2026-11-11T09:31:19.371246+00:00",
-  "f81fc0ace1d0d925": "2026-11-11T09:31:19.371246+00:00"
+  "f81fc0ace1d0d925": "2026-11-11T09:31:19.371246+00:00",
+  "fc742a1c9eeb8829": "2026-11-11T09:41:22.899119+00:00",
+  "8fb5cb64574aa0a8": "2026-11-11T09:41:22.899119+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8202,45 +8201,6 @@
     "Auto Motor und Sport": "Formel 1: Nach sieben F1-Jahren: Oscar Piastri trennt sich von Manager Mark Webber"
    },
    "last": "2026-11-10T13:08:24.243432+00:00"
-  },
-  "S6341": {
-   "title": "Lamonato analysis of Verstappen's 110-second Sao Paulo charge",
-   "first": "2026-11-09T09:34:23.225271+00:00",
-   "sources": {
-    "Formula 1": "2026-11-09T09:34:23.225285+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "The 110 seconds that almost won Verstappen the Sao Paulo GP"
-   },
-   "last": "2026-11-09T09:34:23.225290+00:00"
-  },
-  "S6342": {
-   "title": "ESPN names Clarke as cover for Tickner under stand-down protocols",
-   "first": "2026-11-09T09:34:23.225295+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T09:22:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Clarke added as cover with Tickner following stand-down protocols"
-   },
-   "last": "2026-11-09T09:34:23.225301+00:00"
-  },
-  "S6343": {
-   "title": "Alonso named worst-sleeping driver after Brazil GP",
-   "first": "2026-11-09T09:34:23.225312+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T09:27:06+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Wer letzte Nacht am schlechtesten geschlafen hat: Fernando Alonso - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T09:34:23.225317+00:00"
   },
   "S6344": {
    "title": "Stella praises Norris's adaptability to changing Brazil conditions",
@@ -14716,14 +14676,16 @@
    "title": "Danner praises Verstappen's P21-to-P2 Brazil comeback",
    "first": "2026-11-11T07:50:31.199622+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-11T07:45:00+00:00"
+    "RacingNews365 NL": "2026-11-11T07:45:00+00:00",
+    "RacingNews365": "2026-11-11T09:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Max Verstappen krijgt 'een punt erbij': \"De meester was sensationeel\""
+    "RacingNews365 NL": "Max Verstappen krijgt 'een punt erbij': \"De meester was sensationeel\"",
+    "RacingNews365": "Max Verstappen given 'an extra point' for 'simply sensational' reason"
    },
-   "last": "2026-11-11T07:50:31.199628+00:00"
+   "last": "2026-11-11T09:41:26.050099+00:00"
   },
   "S6831": {
    "title": "Zenit vs Trabzonspor live score",
@@ -15016,9 +14978,22 @@
     "Auto Motor und Sport": "Formel 1: Konkurrenz aus Fernost: Diese zwei China-Marken wollen in die Formel 1"
    },
    "last": "2026-11-11T09:31:24.074851+00:00"
+  },
+  "S6853": {
+   "title": "Damon Hill says Hamilton has rebuilt himself after Abu Dhabi 2021",
+   "first": "2026-11-11T09:41:26.050109+00:00",
+   "sources": {
+    "Crash.net": "2026-11-11T09:32:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton has “rebuilt himself” after Abu Dhabi 2021 controversy, says Damon Hill"
+   },
+   "last": "2026-11-11T09:41:26.050116+00:00"
   }
  },
- "story_seq": 6852,
+ "story_seq": 6853,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15137,17 +15112,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T09:31:19.371246+00:00",
+ "last_run": "2026-11-11T09:41:22.899119+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T09:32:08.368878+00:00",
-   "title": "Stella: Russell muhtemelen daha hızlıydı, Norris fırsatı değerlendirdi",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-08T09:41:43.988548+00:00",
    "title": "Sergio Pérez: Kenarda kalmaktan F1'in en çok kazananlarından birine",
@@ -16577,6 +16547,11 @@
    "t": "2026-11-11T09:31:30.562304+00:00",
    "title": "Brezilya GP, F1'in yağmurla başa çıkma kapasitesi hakkında ne gösterdi?",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-11T09:41:30.330393+00:00",
+   "title": "Damon Hill: Hamilton Abu Dhabi sonrası \"kendini yeniden inşa etti\"",
+   "source": "Crash.net"
   }
  ]
 }
