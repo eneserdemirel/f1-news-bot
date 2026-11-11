@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c24d199f4f72011b": "2026-10-28T06:46:41.152370+00:00",
   "6680fb5005799bbc": "2026-10-28T06:56:38.345691+00:00",
   "9d2a3d0e714cb1e4": "2026-10-28T06:56:38.345691+00:00",
   "929a705856b0c615": "2026-10-28T07:06:36.114202+00:00",
@@ -7838,7 +7837,9 @@
   "47483b88e9b43f67": "2026-11-11T06:20:41.466995+00:00",
   "df47613a9671c5e2": "2026-11-11T06:20:41.466995+00:00",
   "18f803d24aa8f1ea": "2026-11-11T06:30:30.193499+00:00",
-  "c59890470fdaff8d": "2026-11-11T06:30:30.193499+00:00"
+  "c59890470fdaff8d": "2026-11-11T06:30:30.193499+00:00",
+  "de38cb90320a54de": "2026-11-11T06:50:29.302703+00:00",
+  "5f42363c3f6e3ae7": "2026-11-11T06:50:29.302703+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8147,19 +8148,6 @@
     "PlanetF1": "Kimi Antonelli keeps a lid on Brazilian GP anger amid Mercedes title success"
    },
    "last": "2026-11-09T12:05:09.976512+00:00"
-  },
-  "S6309": {
-   "title": "Alonso says Aston Martin was phenomenal in rain in Brazil",
-   "first": "2026-11-09T05:44:15.773725+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-09T05:37:14+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Fernando Alonso: Im Regen war der Aston Martin \"phänomenal\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-09T06:44:16.359746+00:00"
   },
   "S6312": {
    "title": "Verstappen explains what went wrong with RB22 in Brazil",
@@ -14934,9 +14922,35 @@
     "RacingNews365": "Kimi Antonelli handed verdict over future Ferrari drive: 'He could go tomorrow'"
    },
    "last": "2026-11-11T06:30:34.182921+00:00"
+  },
+  "S6820": {
+   "title": "Celtics troll 76ers with 'Throw the ball up' slogan postgame",
+   "first": "2026-11-11T06:50:31.247011+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T04:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Celtics turn 76ers' 'Throw the ball up' slogan into postgame troll"
+   },
+   "last": "2026-11-11T06:50:31.247028+00:00"
+  },
+  "S6821": {
+   "title": "ACC and strength of schedule in weekly Anger Index",
+   "first": "2026-11-11T06:50:31.247034+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T04:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The ACC and strength of schedule top this week's Anger Index"
+   },
+   "last": "2026-11-11T06:50:31.247038+00:00"
   }
  },
- "story_seq": 6819,
+ "story_seq": 6821,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15055,22 +15069,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T06:40:31.071767+00:00",
+ "last_run": "2026-11-11T06:50:29.302703+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T06:41:12.623293+00:00",
-   "title": "Wolff: Antonelli başka bir takımda bu kadar dayanamazdı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-08T06:46:12.918487+00:00",
-   "title": "Hadjar, kötü zamanlamadan dolayı hayal kırıklığına uğradı: \"Bu çok adaletsiz\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-08T07:16:17.542002+00:00",
    "title": "Antonelli: Ne bekleyeceğimi bilmiyordum, üçüncülük iyi",
