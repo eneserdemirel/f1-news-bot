@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "459731a79bd77ea2": "2026-10-28T10:07:15.204571+00:00",
-  "cba02fc3e9709b69": "2026-10-28T10:07:15.204571+00:00",
-  "1335b5d86c3ab7b3": "2026-10-28T10:07:15.204571+00:00",
-  "2757d6e8b47953aa": "2026-10-28T10:07:15.204571+00:00",
   "32b9b3ca81e2e481": "2026-10-28T10:17:12.508089+00:00",
   "534ec491a1bb8c2e": "2026-10-28T10:17:12.508089+00:00",
   "ed7058a831abfcaa": "2026-10-28T10:17:12.508089+00:00",
@@ -7844,7 +7840,11 @@
   "b805facd20dc1c45": "2026-11-11T10:01:21.181289+00:00",
   "bece59baaddb1748": "2026-11-11T10:01:21.181289+00:00",
   "87fa0d65166e17f3": "2026-11-11T10:01:21.181289+00:00",
-  "781ee84140b61d6a": "2026-11-11T10:01:21.181289+00:00"
+  "781ee84140b61d6a": "2026-11-11T10:01:21.181289+00:00",
+  "d3bfaffbd7a67ef1": "2026-11-11T10:11:22.049145+00:00",
+  "3aff6507b221ae39": "2026-11-11T10:11:22.049145+00:00",
+  "1f6e576f0f36fbae": "2026-11-11T10:11:22.049145+00:00",
+  "e6709e6f9853c190": "2026-11-11T10:11:22.049145+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8214,32 +8214,6 @@
     "GPblog": "Wolff claims Kimi Antonelli would have been dropped elsewhere in thinly veiled dig at Red Bull"
    },
    "last": "2026-11-09T14:15:33.993484+00:00"
-  },
-  "S6350": {
-   "title": "MotoGP Qatar GP 2026 rider rankings",
-   "first": "2026-11-09T10:05:10.620348+00:00",
-   "sources": {
-    "The Race": "2026-11-09T09:58:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "The Race": "Qatar Grand Prix 2026 MotoGP rider rankings"
-   },
-   "last": "2026-11-09T10:05:10.620367+00:00"
-  },
-  "S6351": {
-   "title": "Italian media praise Verstappen's Brazil drive as Red Bull's leader",
-   "first": "2026-11-09T10:05:10.620373+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T09:52:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Italiaanse media zien met Verstappen angstaanjagend Red Bull: \"Twee leiders aan het roer\""
-   },
-   "last": "2026-11-09T10:05:10.620378+00:00"
   },
   "S6352": {
    "title": "Wolff on Mercedes rebirth: 'four difficult years, we kept believing in people'",
@@ -12556,14 +12530,16 @@
    "title": "Formula E billionaire calls F1 a 'smelly old dinosaur'",
    "first": "2026-11-10T15:58:27.397618+00:00",
    "sources": {
-    "RacingNews365": "2026-11-10T15:50:00+00:00"
+    "RacingNews365": "2026-11-10T15:50:00+00:00",
+    "RacingNews365 NL": "2026-11-11T10:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "F1 branded a ‘smelly old dinosaur’ by Formula E billionaire: ‘It should be a museum'"
+    "RacingNews365": "F1 branded a ‘smelly old dinosaur’ by Formula E billionaire: ‘It should be a museum'",
+    "RacingNews365 NL": "F1 krijgt snoeiharde waarschuwing van Formule E-nieuwkomer"
    },
-   "last": "2026-11-10T15:58:27.397623+00:00"
+   "last": "2026-11-11T10:11:25.713459+00:00"
   },
   "S6674": {
    "title": "Motorsport.com Italia live blog recapping Brazilian GP weekend",
@@ -14931,14 +14907,14 @@
    "title": "Kevin Sinfield on Feyi-Waboso and Tom Curry injury management",
    "first": "2026-11-11T10:01:24.327318+00:00",
    "sources": {
-    "ESPN F1": "2026-11-11T09:51:28+00:00"
+    "ESPN F1": "2026-11-11T09:26:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Kevin Sinfield: Feyi-Waboso, Tom Curry injury management crucial for England"
    },
-   "last": "2026-11-11T10:01:24.327336+00:00"
+   "last": "2026-11-11T10:11:25.713452+00:00"
   },
   "S6855": {
    "title": "GPFans opinion: Red Bull should sell Racing Bulls over Lawson call",
@@ -14952,9 +14928,35 @@
     "GPFans": "Red Bull must be forced to sell Racing Bulls and controversial Liam Lawson call proves it"
    },
    "last": "2026-11-11T10:01:24.327348+00:00"
+  },
+  "S6856": {
+   "title": "Fabiana Ecclestone's Brazil agenda on road safety and female empowerment",
+   "first": "2026-11-11T10:11:25.713425+00:00",
+   "sources": {
+    "FIA": "2026-11-11T09:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FIA": "Fabiana Ecclestone leads high-impact agenda in Brazil focusing on road safety and female empowerment"
+   },
+   "last": "2026-11-11T10:11:25.713443+00:00"
+  },
+  "S6857": {
+   "title": "Verstappen reveals the secret behind his 'never give up' charge",
+   "first": "2026-11-11T10:11:25.713464+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T10:01:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen reveals secret behind ‘never give up’ charge"
+   },
+   "last": "2026-11-11T10:11:25.713469+00:00"
   }
  },
- "story_seq": 6855,
+ "story_seq": 6857,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15073,27 +15075,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T10:01:21.181289+00:00",
+ "last_run": "2026-11-11T10:11:22.049145+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T10:01:54.232454+00:00",
-   "title": "Alonso: Motor hâlâ köşe ve yol tutuşta çok önemli",
-   "source": "AS"
-  },
-  {
-   "t": "2026-11-08T10:01:54.634568+00:00",
-   "title": "Haas, Esteban Ocon'la yollarını ayırdığını açıkladı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-08T10:06:44.284253+00:00",
-   "title": "Hamilton, Verstappen'in görüşüne katılıyor: Brezilya'da inişler zorlaşacak",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-08T10:21:43.791612+00:00",
    "title": "İran'da yeni saldırılar F1'in Orta Doğu finaline gölge düşürüyor",
@@ -16508,6 +16495,16 @@
    "t": "2026-11-11T09:41:30.330393+00:00",
    "title": "Damon Hill: Hamilton Abu Dhabi sonrası \"kendini yeniden inşa etti\"",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-11T10:11:31.204282+00:00",
+   "title": "Fabiana Ecclestone, Brezilya'da yol güvenliği ve kadın güçlendirmesine odaklanan bir gündem yürütüyor",
+   "source": "FIA"
+  },
+  {
+   "t": "2026-11-11T10:11:31.718829+00:00",
+   "title": "Verstappen, 'asla pes etmeme' yaklaşımının sırrını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
