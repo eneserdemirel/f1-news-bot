@@ -7823,7 +7823,9 @@
   "ad1a21a895b573b3": "2026-11-11T00:19:54.295918+00:00",
   "13f2733e5a9c6d7e": "2026-11-11T00:29:51.879100+00:00",
   "dc86f50f634f4966": "2026-11-11T00:39:52.092931+00:00",
-  "e87264955493f203": "2026-11-11T00:59:54.443341+00:00"
+  "e87264955493f203": "2026-11-11T00:59:54.443341+00:00",
+  "455adacbb6fdbbb9": "2026-11-11T01:09:51.837420+00:00",
+  "4efee870d74a4c66": "2026-11-11T01:09:51.837420+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8222,32 +8224,6 @@
     "ESPN F1": "Texans 44-22 Chargers (Nov 8, 2026) Game Recap"
    },
    "last": "2026-11-09T05:24:15.208484+00:00"
-  },
-  "S6261": {
-   "title": "Blades Brown becomes youngest PGA Tour winner since 1938",
-   "first": "2026-11-09T01:03:47.954631+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T00:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Blades Brown, 19, outlasts Ben James, becomes youngest PGA Tour winner since '38"
-   },
-   "last": "2026-11-09T01:03:47.954662+00:00"
-  },
-  "S6262": {
-   "title": "Angel Lopez Martin scores goal for South Carolina",
-   "first": "2026-11-09T01:08:44.173126+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T01:01:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Angel Lopez Martin scores goal for South Carolina"
-   },
-   "last": "2026-11-09T01:08:44.173144+00:00"
   },
   "S6263": {
    "title": "Reid says no decision yet on Harrison Butker's Chiefs future",
@@ -15100,9 +15076,35 @@
     "ESPN F1": "Warriors lose guard Brandon Williams to mild hamstring strain"
    },
    "last": "2026-11-11T00:59:55.566901+00:00"
+  },
+  "S6775": {
+   "title": "NHL GMs discuss technology to help officials at fall meeting",
+   "first": "2026-11-11T01:09:54.387801+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T01:06:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NHL general managers discuss ways technology can help officials at fall meeting"
+   },
+   "last": "2026-11-11T01:09:54.387818+00:00"
+  },
+  "S6776": {
+   "title": "Camara in discussions to finish 2026 F1 season with Haas",
+   "first": "2026-11-11T01:09:54.387824+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T01:05:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Rafael Camara reveals ‘discussions’ to see out F1 season with Haas"
+   },
+   "last": "2026-11-11T01:09:54.387830+00:00"
   }
  },
- "story_seq": 6774,
+ "story_seq": 6776,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15221,7 +15223,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T00:59:54.443341+00:00",
+ "last_run": "2026-11-11T01:09:51.837420+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
@@ -16611,6 +16613,11 @@
    "t": "2026-11-10T22:10:01.037929+00:00",
    "title": "Lawson'ın puanı Alpine pilotlarının toplamından fazla, koltuğu neden hâlâ belirsiz?",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T01:09:58.224261+00:00",
+   "title": "Rafael Camara, Haas ile sezonun kalanı için görüşmeler yapıldığını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
