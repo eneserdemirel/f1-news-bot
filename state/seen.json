@@ -1,32 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8cdbb93061427db4": "2026-10-28T11:07:32.559811+00:00",
-  "88596bc308826fe1": "2026-10-28T11:07:32.559811+00:00",
-  "96fef418c788ebc4": "2026-10-28T11:07:32.559811+00:00",
-  "1df48c6d390280f6": "2026-10-28T11:07:32.559811+00:00",
-  "043def9e2f6dd8b5": "2026-10-28T11:07:32.559811+00:00",
-  "7ebbec2e1c5cfeac": "2026-10-28T11:07:32.559811+00:00",
-  "2826eaea7d18b216": "2026-10-28T11:07:32.559811+00:00",
-  "53252a4cc3d3bc25": "2026-10-28T11:07:32.559811+00:00",
-  "da92cfd9b1c03441": "2026-10-28T11:07:32.559811+00:00",
-  "c412dad69cb35540": "2026-10-28T11:07:32.559811+00:00",
-  "cef2c3886fb341aa": "2026-10-28T11:07:32.559811+00:00",
-  "1450e6cb5b9440e0": "2026-10-28T11:07:32.559811+00:00",
-  "a4bba7c2716d7d01": "2026-10-28T11:07:32.559811+00:00",
-  "9e0464cd72402cd9": "2026-10-28T11:07:32.559811+00:00",
-  "78edd9c0eee7aeb7": "2026-10-28T11:07:32.559811+00:00",
-  "66cad3f2f55e1e73": "2026-10-28T11:07:32.559811+00:00",
-  "4e9b92fafe7735de": "2026-10-28T11:07:32.559811+00:00",
-  "004f685707955d47": "2026-10-28T11:07:32.559811+00:00",
-  "03a22a99cbc7184e": "2026-10-28T11:07:32.559811+00:00",
-  "ec8deaf2b9d32a66": "2026-10-28T11:07:32.559811+00:00",
-  "d782551b84df5bb8": "2026-10-28T11:07:32.559811+00:00",
-  "771310e41070cf81": "2026-10-28T11:07:32.559811+00:00",
-  "c0b413db50a5a97a": "2026-10-28T11:07:32.559811+00:00",
-  "c1f73061dd41c60e": "2026-10-28T11:07:32.559811+00:00",
-  "29ba0701a02fbaf8": "2026-10-28T11:07:32.559811+00:00",
-  "b002bddd3b042ff6": "2026-10-28T11:07:32.559811+00:00",
   "31de49f453a5951b": "2026-10-28T11:17:13.419529+00:00",
   "41818689d8d1eeda": "2026-10-28T11:17:13.419529+00:00",
   "7b73f82d55ee9ab1": "2026-10-28T11:17:13.419529+00:00",
@@ -7836,7 +7810,10 @@
   "49f9ba3437a19bbb": "2026-11-11T10:41:21.943085+00:00",
   "530a7b8a47c96516": "2026-11-11T10:41:21.943085+00:00",
   "b051ec504eea6335": "2026-11-11T10:51:19.754026+00:00",
-  "3dab1b33ec4a0b4f": "2026-11-11T11:01:23.272202+00:00"
+  "3dab1b33ec4a0b4f": "2026-11-11T11:01:23.272202+00:00",
+  "b731d6dfc39e1f50": "2026-11-11T11:11:18.402548+00:00",
+  "715472c2c45bdb18": "2026-11-11T11:11:18.402548+00:00",
+  "c560bc0ee2df030d": "2026-11-11T11:11:18.402548+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8221,19 +8198,6 @@
     "RacingNews365": "Max Verstappen jaw-dropping as Lewis Hamilton suffers - Sao Paulo GP Winners and Losers"
    },
    "last": "2026-11-09T16:25:44.525519+00:00"
-  },
-  "S6357": {
-   "title": "Motorsport.com Italia video analysis of Brazil GP weekend",
-   "first": "2026-11-09T11:05:05.094490+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-09T11:03:17+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Analisi post GP San Paolo: la lezione iridata Mercedes non ha insegnato niente alla Ferrari"
-   },
-   "last": "2026-11-09T11:05:05.094510+00:00"
   },
   "S6358": {
    "title": "ESPN piece on whether Broncos are lucky or good (NFL)",
@@ -15002,9 +14966,48 @@
     "PlanetF1": "‘Are you guys listening?’ – Untelevised Lewis Hamilton team radio after Brazilian GP"
    },
    "last": "2026-11-11T11:01:25.719751+00:00"
+  },
+  "S6866": {
+   "title": "Rocchiccioli seeks Harmer's offspin advice (cricket)",
+   "first": "2026-11-11T11:11:21.826718+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T11:01:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rocchiccioli reveals call with Harmer for advice on offspin"
+   },
+   "last": "2026-11-11T11:11:21.826737+00:00"
+  },
+  "S6867": {
+   "title": "Telemetry analysis of how Norris won Sao Paulo",
+   "first": "2026-11-11T11:11:21.826743+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-11T11:03:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | McLaren: la maturità di Norris viaggia insieme alla crescita della MCL40"
+   },
+   "last": "2026-11-11T11:11:21.826748+00:00"
+  },
+  "S6868": {
+   "title": "Windsor predicts Hamilton move if fed up with Ferrari",
+   "first": "2026-11-11T11:11:21.826753+00:00",
+   "sources": {
+    "Crash.net": "2026-11-11T11:02:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton shock F1 move predicted if he’s “fed up” with Ferrari"
+   },
+   "last": "2026-11-11T11:11:21.826757+00:00"
   }
  },
- "story_seq": 6865,
+ "story_seq": 6868,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15123,22 +15126,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T11:01:23.272202+00:00",
+ "last_run": "2026-11-11T11:11:18.402548+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T11:01:58.268369+00:00",
-   "title": "Wolff, Russell'dan özür diledi: 'Pole'u hak ediyordu'",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-08T11:01:58.682659+00:00",
-   "title": "F1 Brezilya GP 2026: Norris pole'den, Antonelli ikinci sırada başlıyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-08T11:16:46.880185+00:00",
    "title": "Brezilya GP sıralama turlarında ıslak pist zorlukları",
@@ -16563,6 +16556,16 @@
    "t": "2026-11-11T11:01:30.860837+00:00",
    "title": "Hamilton'ın Brezilya GP'deki takım telsiz konuşmaları ortaya çıktı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-11T11:11:28.097213+00:00",
+   "title": "Hamilton'ın Ferrari'den bıkması halinde McLaren'a dönebileceği öne sürüldü",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-11T11:11:28.612088+00:00",
+   "title": "McLaren'da Norris'in olgunluğu ve MCL40'ın gelişimi birlikte ilerliyor",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
