@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a1f6d4d98cf9cbcb": "2026-10-28T16:17:57.774806+00:00",
-  "2f5b117c61923969": "2026-10-28T16:17:57.774806+00:00",
-  "0ab436ef4d5cd383": "2026-10-28T16:17:57.774806+00:00",
-  "e19cfab75c8a0995": "2026-10-28T16:17:57.774806+00:00",
-  "0ee08cb290bfa02d": "2026-10-28T16:17:57.774806+00:00",
-  "8c0c3d84751db592": "2026-10-28T16:17:57.774806+00:00",
-  "7196409f9b142f2d": "2026-10-28T16:17:57.774806+00:00",
   "cb5bc82c5fd20ad6": "2026-10-28T16:27:58.685527+00:00",
   "d96d6d531d31d52f": "2026-10-28T16:27:58.685527+00:00",
   "7e1015e5fcc1c340": "2026-10-28T16:37:56.859518+00:00",
@@ -7769,7 +7762,11 @@
   "5996a78116fefc3b": "2026-11-11T15:52:04.347591+00:00",
   "adac649d8fcab72d": "2026-11-11T16:02:01.785499+00:00",
   "c15ca9b67b00cfce": "2026-11-11T16:02:01.785499+00:00",
-  "1a0e10e51df6d9a5": "2026-11-11T16:12:05.112206+00:00"
+  "1a0e10e51df6d9a5": "2026-11-11T16:12:05.112206+00:00",
+  "7cd2fc310646a4a8": "2026-11-11T16:22:05.497814+00:00",
+  "10fc02fd0b9390bd": "2026-11-11T16:22:05.497814+00:00",
+  "18b33f059fe5838e": "2026-11-11T16:22:05.497814+00:00",
+  "8e1bf8bbbe48b2dc": "2026-11-11T16:22:05.497814+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8110,58 +8107,6 @@
     "ESPN F1": "William Saliba injury comeback ramps up with Arsenal Under-21 outing"
    },
    "last": "2026-11-09T22:46:29.069199+00:00"
-  },
-  "S6431": {
-   "title": "Patterson-White tops England spin pecking order (cricket)",
-   "first": "2026-11-09T16:15:45.138483+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T15:17:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Patterson-White tops the pecking order as England reassess spin stocks"
-   },
-   "last": "2026-11-09T16:15:45.138501+00:00"
-  },
-  "S6432": {
-   "title": "Antonelli reveals source of Mercedes anger at Sao Paulo GP",
-   "first": "2026-11-09T16:15:45.138507+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-09T16:00:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Kimi Antonelli reveals source of Mercedes ‘anger’ at F1 Sao Paulo GP"
-   },
-   "last": "2026-11-09T16:15:45.138513+00:00"
-  },
-  "S6433": {
-   "title": "Ben Sulayem wants to scrap FIA age limit for officials",
-   "first": "2026-11-09T16:15:45.138517+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T16:14:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "'Ben Sulayem wants to change the rules again to stay in office longer'"
-   },
-   "last": "2026-11-09T16:15:45.138522+00:00"
-  },
-  "S6434": {
-   "title": "FormulaPassion driver ratings from Brazilian GP",
-   "first": "2026-11-09T16:15:45.138525+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-09T16:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Brasile 2026, l’altro podio"
-   },
-   "last": "2026-11-09T16:15:45.138529+00:00"
   },
   "S6435": {
    "title": "Race to Dubai permutations for McIlroy's record 8th title",
@@ -14556,14 +14501,16 @@
    "title": "Ben Sulayem wants to scrap FIA presidential age limit",
    "first": "2026-11-11T14:42:06.673737+00:00",
    "sources": {
-    "Auto Motor und Sport": "2026-11-11T14:06:30+00:00"
+    "Auto Motor und Sport": "2026-11-11T14:06:30+00:00",
+    "FormulaPassion": "2026-11-11T16:05:35+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Auto Motor und Sport": "Formel 1: FIA-Präsident auf Lebenszeit? Ben Sulayem will Alterslimit aufheben"
+    "Auto Motor und Sport": "Formel 1: FIA-Präsident auf Lebenszeit? Ben Sulayem will Alterslimit aufheben",
+    "FormulaPassion": "FIA, Mohammed Ben Sulayem all’attacco del limite d’età: così potrà restare Presidente a vita"
    },
-   "last": "2026-11-11T14:42:06.673741+00:00"
+   "last": "2026-11-11T16:22:10.868754+00:00"
   },
   "S6913": {
    "title": "Coulthard praises Verstappen's Brazil comeback as sign of talent",
@@ -14772,9 +14719,48 @@
     "ESPN F1": "Sources: Giants called Falcons to ask about Bijan Robinson before trade deadline"
    },
    "last": "2026-11-11T16:12:06.940798+00:00"
+  },
+  "S6929": {
+   "title": "USMNT players weigh Pochettino Man United links and replacements",
+   "first": "2026-11-11T16:22:10.868710+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T15:39:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Could USMNT stomach losing Pochettino to Man United? Who could replace him?"
+   },
+   "last": "2026-11-11T16:22:10.868726+00:00"
+  },
+  "S6930": {
+   "title": "Verstappen backs FIA handling of Qatar and Abu Dhabi finale question",
+   "first": "2026-11-11T16:22:10.868732+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T16:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen staat achter FIA rondom vraagstuk seizoensfinale"
+   },
+   "last": "2026-11-11T16:22:10.868738+00:00"
+  },
+  "S6931": {
+   "title": "Mercedes confirms findings of investigation into Brazil GP struggles",
+   "first": "2026-11-11T16:22:10.868743+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T16:21:41+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Mercedes confirms findings after investigation into Brazilian GP struggles"
+   },
+   "last": "2026-11-11T16:22:10.868748+00:00"
   }
  },
- "story_seq": 6928,
+ "story_seq": 6931,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14893,17 +14879,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T16:12:05.112206+00:00",
+ "last_run": "2026-11-11T16:22:05.497814+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
  "last_digest_at": "2026-11-11T12:01:25.935287+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T16:12:28.670705+00:00",
-   "title": "2026 São Paulo GP'sinde futbol, müzik ve moda ünlüleri paddock'ta",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-08T16:22:38.137120+00:00",
    "title": "Sao Paulo Grand Prix'de resmi grid belli oldu",
@@ -16348,6 +16329,16 @@
    "t": "2026-11-11T15:52:12.730297+00:00",
    "title": "Verstappen'in şampiyon Red Bull ekibi dağılıyor: kimler gitti, kimler gidiyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-11T16:22:16.595140+00:00",
+   "title": "Verstappen, son yarışlar konusunda FIA'ya güvendiğini söyledi",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-11T16:22:17.000096+00:00",
+   "title": "Mercedes, Brezilya GP'deki sorunların lastik sıcaklığından kaynaklandığını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
