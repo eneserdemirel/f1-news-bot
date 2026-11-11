@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "de63b0ba65a2942e": "2026-10-28T10:57:16.129647+00:00",
-  "f09e63ccacb23415": "2026-10-28T10:57:16.129647+00:00",
-  "b705aee84ece311d": "2026-10-28T10:57:16.129647+00:00",
   "8cdbb93061427db4": "2026-10-28T11:07:32.559811+00:00",
   "88596bc308826fe1": "2026-10-28T11:07:32.559811+00:00",
   "96fef418c788ebc4": "2026-10-28T11:07:32.559811+00:00",
@@ -7838,7 +7835,8 @@
   "a9b95485986c05c9": "2026-11-11T10:31:19.141347+00:00",
   "49f9ba3437a19bbb": "2026-11-11T10:41:21.943085+00:00",
   "530a7b8a47c96516": "2026-11-11T10:41:21.943085+00:00",
-  "b051ec504eea6335": "2026-11-11T10:51:19.754026+00:00"
+  "b051ec504eea6335": "2026-11-11T10:51:19.754026+00:00",
+  "3dab1b33ec4a0b4f": "2026-11-11T11:01:23.272202+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8223,19 +8221,6 @@
     "RacingNews365": "Max Verstappen jaw-dropping as Lewis Hamilton suffers - Sao Paulo GP Winners and Losers"
    },
    "last": "2026-11-09T16:25:44.525519+00:00"
-  },
-  "S6356": {
-   "title": "Russell warns F1 organisers about racing in extreme wet conditions",
-   "first": "2026-11-09T10:55:08.263714+00:00",
-   "sources": {
-    "GPFans": "2026-11-09T10:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "George Russell warned of 'really horrific incident' at Brazilian Grand Prix"
-   },
-   "last": "2026-11-09T10:55:08.263719+00:00"
   },
   "S6357": {
    "title": "Motorsport.com Italia video analysis of Brazil GP weekend",
@@ -15004,9 +14989,22 @@
     "RacingNews365": "F1 drivers air frustrations after 'speed limit' introduction"
    },
    "last": "2026-11-11T10:41:24.769324+00:00"
+  },
+  "S6865": {
+   "title": "Untelevised Hamilton team radio emerges after Brazilian GP",
+   "first": "2026-11-11T11:01:25.719732+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-11T10:59:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘Are you guys listening?’ – Untelevised Lewis Hamilton team radio after Brazilian GP"
+   },
+   "last": "2026-11-11T11:01:25.719751+00:00"
   }
  },
- "story_seq": 6864,
+ "story_seq": 6865,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15125,22 +15123,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T10:51:19.754026+00:00",
+ "last_run": "2026-11-11T11:01:23.272202+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T10:51:47.722899+00:00",
-   "title": "F1 pilotları Brezilya GP'sinde yarış seyrinden endişeli",
-   "source": "The Race"
-  },
-  {
-   "t": "2026-11-08T10:56:43.640591+00:00",
-   "title": "Toto Wolff, Katar ve Abu Dabi'deki panik havasına katılmıyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-08T11:01:58.268369+00:00",
    "title": "Wolff, Russell'dan özür diledi: 'Pole'u hak ediyordu'",
@@ -16570,6 +16558,11 @@
    "t": "2026-11-11T10:41:30.267891+00:00",
    "title": "Bearman, Haas için 'korkunç üç hafta'nın bittiğine seviniyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-11T11:01:30.860837+00:00",
+   "title": "Hamilton'ın Brezilya GP'deki takım telsiz konuşmaları ortaya çıktı",
+   "source": "PlanetF1"
   }
  ]
 }
