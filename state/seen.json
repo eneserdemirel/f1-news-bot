@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b7fb1357aaa0779f": "2026-10-28T22:48:31.384913+00:00",
-  "6ba72e40804ddb9a": "2026-10-28T22:48:31.384913+00:00",
-  "dfe38f691d755d78": "2026-10-28T22:48:31.384913+00:00",
-  "3641e974cbb15037": "2026-10-28T22:48:31.384913+00:00",
-  "e3bb9f9e2a004852": "2026-10-28T22:48:31.384913+00:00",
   "ae3ed866b0f137e2": "2026-10-28T23:08:32.522240+00:00",
   "4eede947239f8e49": "2026-10-28T23:08:32.522240+00:00",
   "3f40f1d843b649fd": "2026-10-28T23:18:32.577420+00:00",
@@ -7745,7 +7740,9 @@
   "6cadf18589d7b1b1": "2026-11-11T22:22:39.875334+00:00",
   "f504a78f1c55ca8d": "2026-11-11T22:32:40.448786+00:00",
   "126baa8030cbb977": "2026-11-11T22:32:40.448786+00:00",
-  "b1c3a5d1bd8bb04c": "2026-11-11T22:42:39.147305+00:00"
+  "b1c3a5d1bd8bb04c": "2026-11-11T22:42:39.147305+00:00",
+  "795cb9666e6677b5": "2026-11-11T22:52:39.543203+00:00",
+  "ab432eede66425c7": "2026-11-11T22:52:39.543203+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7878,19 +7875,6 @@
    },
    "last": "2026-11-10T09:07:43.433214+00:00"
   },
-  "S6423": {
-   "title": "William Saliba returns from injury with Arsenal Under-21 outing",
-   "first": "2026-11-09T15:45:44.358832+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T11:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "William Saliba injury comeback ramps up with Arsenal Under-21 outing"
-   },
-   "last": "2026-11-09T22:46:29.069199+00:00"
-  },
   "S6436": {
    "title": "Ferrari to launch SF-26 investigation after Brazilian GP",
    "first": "2026-11-09T16:25:44.525529+00:00",
@@ -7993,32 +7977,6 @@
     "ESPN F1": "Chelsea warn staff over team leaks on Fantasy Premier League - sources"
    },
    "last": "2026-11-10T04:26:59.221228+00:00"
-  },
-  "S6512": {
-   "title": "Dan Orlovsky reacts to Jaguars' Jordan Davis trade",
-   "first": "2026-11-09T22:46:29.069165+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T22:02:54+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dan Orlovsky stunned by Jags' trade for Eagles' Jordan Davis"
-   },
-   "last": "2026-11-09T22:46:29.069183+00:00"
-  },
-  "S6513": {
-   "title": "Cardinals WR Michael Wilson out for season with neck injury",
-   "first": "2026-11-09T22:46:29.069188+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T21:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cardinals WR Michael Wilson (neck) to miss rest of season"
-   },
-   "last": "2026-11-09T22:46:29.069193+00:00"
   },
   "S6514": {
    "title": "CF Montréal owner Joey Saputo announces club is up for sale",
@@ -14339,14 +14297,14 @@
    "title": "Will McDonald to get more playing time with Jets",
    "first": "2026-11-11T22:02:46.229742+00:00",
    "sources": {
-    "ESPN F1": "2026-11-11T21:02:57+00:00"
+    "ESPN F1": "2026-11-11T20:32:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Will McDonald to get more playing time with the Jets"
    },
-   "last": "2026-11-11T22:02:46.229746+00:00"
+   "last": "2026-11-11T22:52:41.721432+00:00"
   },
   "S6986": {
    "title": "U.S. beats Czechs at hockey worlds with Knight hat trick",
@@ -14386,9 +14344,22 @@
     "Sky Sports F1": "Hamilton urges Israel to 'let the aid trucks in' to Gaza after Rafah border visit"
    },
    "last": "2026-11-11T22:32:43.117054+00:00"
+  },
+  "S6989": {
+   "title": "Stephen Curry confronts critics over comments about wife Ayesha",
+   "first": "2026-11-11T22:52:41.721405+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T22:36:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Curry confronts critics over comments about wife Ayesha"
+   },
+   "last": "2026-11-11T22:52:41.721422+00:00"
   }
  },
- "story_seq": 6988,
+ "story_seq": 6989,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14507,7 +14478,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T22:42:39.147305+00:00",
+ "last_run": "2026-11-11T22:52:39.543203+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
