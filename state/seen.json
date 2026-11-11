@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e107406f9465d63e": "2026-10-28T11:27:33.482167+00:00",
-  "2fec14bc300b025f": "2026-10-28T11:27:33.482167+00:00",
-  "f64a015718daede0": "2026-10-28T11:27:33.482167+00:00",
-  "8b8e264a284fca93": "2026-10-28T11:27:33.482167+00:00",
-  "9566f34098f56ebf": "2026-10-28T11:27:33.482167+00:00",
-  "e6e19c1934986489": "2026-10-28T11:27:33.482167+00:00",
-  "c4c96d7e2a876f7e": "2026-10-28T11:27:33.482167+00:00",
   "19795d7f8cffc174": "2026-10-28T11:37:20.590754+00:00",
   "387da55ee69c2a0b": "2026-10-28T11:37:20.590754+00:00",
   "33b8247a5b378a32": "2026-10-28T11:57:16.828084+00:00",
@@ -7814,7 +7807,12 @@
   "d36f99679a56bbdc": "2026-11-11T11:21:22.103854+00:00",
   "892c0d248317e3a2": "2026-11-11T11:21:22.103854+00:00",
   "63ca2e7d44db1ca4": "2026-11-11T11:21:22.103854+00:00",
-  "9153007703d0db7d": "2026-11-11T11:21:22.103854+00:00"
+  "9153007703d0db7d": "2026-11-11T11:21:22.103854+00:00",
+  "92910227f6fefc3f": "2026-11-11T11:31:19.830229+00:00",
+  "7b67a2110d769390": "2026-11-11T11:31:19.830229+00:00",
+  "7914c33d1c0a3889": "2026-11-11T11:31:19.830229+00:00",
+  "8b84ab87b5bebf0c": "2026-11-11T11:31:19.830229+00:00",
+  "c5c47c6c7eb2b7d9": "2026-11-11T11:31:19.830229+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11543,7 +11541,8 @@
     "PlanetF1": "2026-11-10T14:44:17+00:00",
     "FormulaPassion": "2026-11-10T14:35:19+00:00",
     "Motorsport-Total": "2026-11-10T15:44:19+00:00",
-    "Motorsport Week": "2026-11-10T18:30:14+00:00"
+    "Motorsport Week": "2026-11-10T18:30:14+00:00",
+    "Auto Motor und Sport": "2026-11-11T11:13:25+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11556,9 +11555,10 @@
     "PlanetF1": "F1 confirms 2026 season finale with new announcement",
     "FormulaPassion": "Ufficiale, la F1 conferma Qatar e Abu Dhabi: niente Imola a fine anno",
     "Motorsport-Total": "Absage an Imola: Formel 1 setzt alles auf Katar und Abu Dhabi - Motorsport-Total.com",
-    "Motorsport Week": "F1 makes crucial decision on Middle East races"
+    "Motorsport Week": "F1 makes crucial decision on Middle East races",
+    "Auto Motor und Sport": "Formel 1: Imola-Option abgesagt: Was passiert, wenn der Krieg wieder ausbricht?"
    },
-   "last": "2026-11-10T21:19:14.563468+00:00"
+   "last": "2026-11-11T11:31:25.082224+00:00"
   },
   "S6616": {
    "title": "Alonso credits 'phenomenal' Aston Martin car after Brazil drive",
@@ -12887,14 +12887,16 @@
    "title": "Damon Hill says Ferrari should back Hamilton over Leclerc",
    "first": "2026-11-10T18:19:17.067073+00:00",
    "sources": {
-    "Sky Sports F1": "2026-11-10T17:02:00+00:00"
+    "Sky Sports F1": "2026-11-10T17:02:00+00:00",
+    "GPFans": "2026-11-11T11:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Sky Sports F1": "Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc"
+    "Sky Sports F1": "Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc",
+    "GPFans": "F1 champion tells Ferrari they must back Lewis Hamilton over Charles Leclerc in internal battle"
    },
-   "last": "2026-11-10T19:29:21.451526+00:00"
+   "last": "2026-11-11T11:31:25.082213+00:00"
   },
   "S6712": {
    "title": "Racing Bulls gives Tsolov Hungaroring TPC test as Lawson waits",
@@ -13387,14 +13389,16 @@
    "title": "Red Bull decision-makers named for Liam Lawson 2027 seat choice",
    "first": "2026-11-10T20:49:17.114942+00:00",
    "sources": {
-    "GPFans": "2026-11-10T20:43:00+00:00"
+    "GPFans": "2026-11-10T20:43:00+00:00",
+    "Motorsport-Total": "2026-11-11T11:23:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Red Bull decision-makers named as key Liam Lawson choice set to be made"
+    "GPFans": "Red Bull decision-makers named as key Liam Lawson choice set to be made",
+    "Motorsport-Total": "Mekies stellt klar: Wer über die Zukunft von Liam Lawson entscheidet - Motorsport-Total.com"
    },
-   "last": "2026-11-10T20:49:17.114946+00:00"
+   "last": "2026-11-11T11:31:25.082219+00:00"
   },
   "S6750": {
    "title": "Fantasy impacts of NFL trade deadline Cousins and Allen trades",
@@ -14993,9 +14997,35 @@
     "RacingNews365": "'Savage' Max Verstappen handed 'outrageous' appraisal after Lando Norris hunt"
    },
    "last": "2026-11-11T11:21:27.172559+00:00"
+  },
+  "S6872": {
+   "title": "NFL Week 10 intel and post-trade deadline news roundup",
+   "first": "2026-11-11T11:31:25.082175+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T11:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 10 latest intel, buzz questions, fantasy tips, post-trade deadline news"
+   },
+   "last": "2026-11-11T11:31:25.082194+00:00"
+  },
+  "S6873": {
+   "title": "Ralf Schumacher says Mercedes wouldn't suit Verstappen's style",
+   "first": "2026-11-11T11:31:25.082200+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-11T11:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Schumacher: \"Dat aspect van Verstappen ziet Mercedes niet zitten\""
+   },
+   "last": "2026-11-11T11:31:25.082206+00:00"
   }
  },
- "story_seq": 6871,
+ "story_seq": 6873,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15114,27 +15144,12 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T11:21:22.103854+00:00",
+ "last_run": "2026-11-11T11:31:19.830229+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-10 22:00",
  "last_digest_at": "2026-11-10T19:09:22.253417+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-08T11:21:46.498957+00:00",
-   "title": "Russell, Sao Paulo'da pole kaçırdığı 'iletişim hatası' sonrası Mercedes ile görüşmek istiyor",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-11-08T11:21:48.052985+00:00",
-   "title": "Russell'ın São Paulo'da yarıda kalan Q3 turunun maliyeti ortaya çıktı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-08T11:26:46.027387+00:00",
-   "title": "Verstappen: \"Altijd, anders stop ik ermee!\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-08T11:36:53.388460+00:00",
    "title": "Hamilton'ın en büyük F1 zaferi hangisi? 400. yarış öncesi okuyucular oylıyor",
@@ -16549,6 +16564,16 @@
    "t": "2026-11-11T11:21:33.280120+00:00",
    "title": "Verstappen'e Hinchcliffe'ten 'çok cesur' övgü: Norris'i kovalama",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T11:31:30.645197+00:00",
+   "title": "Mekies: Liam Lawson'ın geleceğine kimin karar vereceğini açıkladı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-11T11:31:31.169972+00:00",
+   "title": "Schumacher: Verstappen'ın bu yönü Mercedes'in hoşuna gitmez",
+   "source": "RacingNews365 NL"
   }
  ]
 }
