@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7fecc6dd7912d186": "2026-10-28T20:58:38.344581+00:00",
-  "4ff0274ebe038de4": "2026-10-28T20:58:38.344581+00:00",
-  "fde7ea111f69bf05": "2026-10-28T20:58:38.344581+00:00",
-  "49c6fc5b9979e307": "2026-10-28T20:58:38.344581+00:00",
   "7ddd38b8a9a21ca5": "2026-10-28T21:08:36.257224+00:00",
   "69860c6db39fc38e": "2026-10-28T21:08:36.257224+00:00",
   "6c83cf621aefdefb": "2026-10-28T21:08:36.257224+00:00",
@@ -7717,7 +7713,9 @@
   "7f657d29320fa2a6": "2026-11-11T20:02:38.357494+00:00",
   "4e0987b480812ae0": "2026-11-11T20:32:41.420695+00:00",
   "a82b2196e51f1694": "2026-11-11T20:52:40.305446+00:00",
-  "bcb8ef5053b3995e": "2026-11-11T20:52:40.305446+00:00"
+  "bcb8ef5053b3995e": "2026-11-11T20:52:40.305446+00:00",
+  "5efb054d0aef6fa8": "2026-11-11T21:02:39.400341+00:00",
+  "fc969e498ecf1bdf": "2026-11-11T21:02:39.400341+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7989,19 +7987,6 @@
     "ESPN F1": "Ballon d'Or winner Harry Kane left off FIFPRO men's team of year"
    },
    "last": "2026-11-09T23:46:27.610576+00:00"
-  },
-  "S6489": {
-   "title": "Jordyn Tyson's Saints debut shows promise and rookie mistakes",
-   "first": "2026-11-09T20:56:25.483679+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T19:12:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jordyn Tyson's Saints debut showed promise, rookie mistakes"
-   },
-   "last": "2026-11-09T20:56:25.483696+00:00"
   },
   "S6490": {
    "title": "Kansas' Melvin Council Jr. suffers broken foot",
@@ -14436,9 +14421,35 @@
     "ESPN F1": "AFL Draft: Despite injury and illness, Gus Teixeira is still one of this year's top prospects"
    },
    "last": "2026-11-11T20:52:43.199137+00:00"
+  },
+  "S6970": {
+   "title": "Miami (Ohio) flagged for distracting images during FG attempt",
+   "first": "2026-11-11T21:02:42.186333+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T16:22:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Miami (Ohio) flagged for distracting images during FG attempt"
+   },
+   "last": "2026-11-11T21:02:42.186352+00:00"
+  },
+  "S6971": {
+   "title": "Teams let staff decide whether to skip Qatar finale trip",
+   "first": "2026-11-11T21:02:42.186358+00:00",
+   "sources": {
+    "GPblog": "2026-11-11T21:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes staff free to skip Qatar as F1 teams quietly let crews decide on Gulf finale"
+   },
+   "last": "2026-11-11T21:02:42.186363+00:00"
   }
  },
- "story_seq": 6969,
+ "story_seq": 6971,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14557,7 +14568,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T20:52:40.305446+00:00",
+ "last_run": "2026-11-11T21:02:39.400341+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
@@ -15887,6 +15898,11 @@
    "t": "2026-11-11T20:02:46.940406+00:00",
    "title": "Christian Horner, Red Bull'daki iddiaların 'zor' olduğunu söyledi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-11T21:02:47.156600+00:00",
+   "title": "Mercedes personeli Katar'a gitmekte serbest; takımlar ekipe karar bırakıyor",
+   "source": "GPblog"
   }
  ]
 }
