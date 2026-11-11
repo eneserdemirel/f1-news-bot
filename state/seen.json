@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f813d24b458a2058": "2026-10-28T13:07:13.723789+00:00",
-  "ddd0519112c3abb2": "2026-10-28T13:07:13.723789+00:00",
-  "9abae23db4a4bb90": "2026-10-28T13:07:13.723789+00:00",
-  "f7b2e97497d9528e": "2026-10-28T13:07:13.723789+00:00",
-  "ad1ba2167c1c2729": "2026-10-28T13:07:13.723789+00:00",
-  "5cd77c6e37f5b70e": "2026-10-28T13:07:13.723789+00:00",
   "b8e0dccb91b5f6be": "2026-10-28T13:17:13.472775+00:00",
   "47988e9baaaa9391": "2026-10-28T13:17:13.472775+00:00",
   "b35dcc1777062420": "2026-10-28T13:27:12.643736+00:00",
@@ -7789,7 +7783,10 @@
   "8004767b72214509": "2026-11-11T12:51:20.429711+00:00",
   "ce9c806d0be41233": "2026-11-11T12:51:20.429711+00:00",
   "719367fda8b0c56f": "2026-11-11T13:01:24.958708+00:00",
-  "8fb1dd7355af37f4": "2026-11-11T13:01:24.958708+00:00"
+  "8fb1dd7355af37f4": "2026-11-11T13:01:24.958708+00:00",
+  "9f77a0525492b182": "2026-11-11T13:11:19.441120+00:00",
+  "8226345716770b09": "2026-11-11T13:11:19.441120+00:00",
+  "bea1d3cc97a708db": "2026-11-11T13:11:19.441120+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8191,19 +8188,6 @@
    },
    "last": "2026-11-09T13:15:09.834840+00:00"
   },
-  "S6378": {
-   "title": "Ratcliffe's rookie appointments leave Man United facing relegation",
-   "first": "2026-11-09T12:45:04.108300+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T11:47:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sir Jim Ratcliffe chose to appoint rookies at Man United, and it has them facing relegation﻿ fight"
-   },
-   "last": "2026-11-09T13:05:12.665480+00:00"
-  },
   "S6380": {
    "title": "Hamilton reacts on social media to unravelled Sao Paulo GP",
    "first": "2026-11-09T12:55:09.359711+00:00",
@@ -8235,19 +8219,6 @@
     "Motorsport-Total": "Fotostrecke: Sao Paulo: Die Fahrernoten von Marc Surer und der Redaktion - Motorsport-Total.com"
    },
    "last": "2026-11-09T17:25:48.027318+00:00"
-  },
-  "S6382": {
-   "title": "Hadjar says he never faced so many challenges in one race",
-   "first": "2026-11-09T13:05:12.665509+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-09T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hadjar: “Non ho mai dovuto affrontare così tante sfide in una sola corsa”"
-   },
-   "last": "2026-11-09T13:05:12.665514+00:00"
   },
   "S6383": {
    "title": "Jaguars acquire Jessie Bates III in trade from Falcons",
@@ -15035,9 +15006,48 @@
     "ESPN F1": "Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool"
    },
    "last": "2026-11-11T12:51:23.626091+00:00"
+  },
+  "S6892": {
+   "title": "Antonelli dyes hair in Italian flag colours after title",
+   "first": "2026-11-11T13:11:22.602968+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T13:07:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli hilariously makes radical hair change to celebrate F1 title"
+   },
+   "last": "2026-11-11T13:11:22.602986+00:00"
+  },
+  "S6893": {
+   "title": "Russell praises Wolff's leadership method at Mercedes",
+   "first": "2026-11-11T13:11:22.602991+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-11T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Unusual Toto Wolff method hailed for helping Mercedes through 'extremely tough times'"
+   },
+   "last": "2026-11-11T13:11:22.602997+00:00"
+  },
+  "S6894": {
+   "title": "Verstappen criticises Ferrari's driver selection approach",
+   "first": "2026-11-11T13:11:22.603001+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T12:31:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Verstappen kritisiert Ferraris Fahrerwahl: \"Dann bekommt man genau das\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T13:11:22.603006+00:00"
   }
  },
- "story_seq": 6891,
+ "story_seq": 6894,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15156,7 +15166,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T13:01:24.958708+00:00",
+ "last_run": "2026-11-11T13:11:19.441120+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
@@ -16581,6 +16591,16 @@
    "t": "2026-11-11T12:41:28.949341+00:00",
    "title": "Horner'ın Red Bull için 'mojo' iddiasına Mekies'ten yanıt",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-11T13:11:30.817808+00:00",
+   "title": "Russell, Wolff'un Mercedes'teki istikrarlı liderliğini övdü",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-11T13:11:31.320631+00:00",
+   "title": "Kimi Antonelli, F1 şampiyonluğunu saçını İtalya bayrağı renkleriyle boyayarak kutladı",
+   "source": "RacingNews365"
   }
  ]
 }
