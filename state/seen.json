@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c1b517441b10df3d": "2026-10-28T18:37:56.989656+00:00",
-  "07b05dd21a4acdd2": "2026-10-28T18:37:56.989656+00:00",
-  "6f9987ee2612682a": "2026-10-28T18:37:56.989656+00:00",
-  "82c7c9b96f413c31": "2026-10-28T18:37:56.989656+00:00",
   "e2e119872ab6f1c0": "2026-10-28T18:48:01.465308+00:00",
   "00e1c95c682361c5": "2026-10-28T18:48:01.465308+00:00",
   "12ed8a434d0937ff": "2026-10-28T18:48:01.465308+00:00",
@@ -7734,7 +7730,10 @@
   "f8e62486eccce15c": "2026-11-11T18:32:04.899729+00:00",
   "5d872a06e617cac7": "2026-11-11T18:32:04.899729+00:00",
   "2264d03991554af9": "2026-11-11T18:32:04.899729+00:00",
-  "427ed70a7130e37b": "2026-11-11T18:32:04.899729+00:00"
+  "427ed70a7130e37b": "2026-11-11T18:32:04.899729+00:00",
+  "7023f29d5b2b8104": "2026-11-11T18:42:04.532196+00:00",
+  "534cb91b328d8a5e": "2026-11-11T18:42:04.532196+00:00",
+  "30fea22764d4416f": "2026-11-11T18:42:04.532196+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -8040,45 +8039,6 @@
     "ESPN F1": "Breaking down the men's 2026-27 AP week 1 Top 25 basketball poll"
    },
    "last": "2026-11-09T22:06:30.637007+00:00"
-  },
-  "S6467": {
-   "title": "Tennessee loses top pass rusher Tyree Weathersby for season",
-   "first": "2026-11-09T18:35:50.925149+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T17:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tennessee loses top pass rusher Tyree Weathersby for season"
-   },
-   "last": "2026-11-09T18:35:50.925154+00:00"
-  },
-  "S6468": {
-   "title": "Brundle urges Red Bull not to drop Lawson over Mexico incident",
-   "first": "2026-11-09T18:35:50.925159+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Brundle doet nadrukkelijk beroep op Red Bull: \"Dat zou zó kinderachtig zijn!\""
-   },
-   "last": "2026-11-09T18:35:50.925164+00:00"
-  },
-  "S6469": {
-   "title": "Tribute to 1980 F1 champion Alan Jones after his death",
-   "first": "2026-11-09T18:35:50.925167+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-09T18:16:11+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Alan Jones: The man who drove Williams towards F1’s dizzy heights"
-   },
-   "last": "2026-11-09T18:35:50.925171+00:00"
   },
   "S6470": {
    "title": "Giants say J.J. McCarthy feels fairly good about playing Thursday",
@@ -13721,15 +13681,17 @@
    "first": "2026-11-11T12:41:24.051541+00:00",
    "sources": {
     "Motorsport-Total": "2026-11-11T12:31:27+00:00",
-    "Crash.net": "2026-11-11T15:28:36+00:00"
+    "Crash.net": "2026-11-11T15:28:36+00:00",
+    "RacingNews365 NL": "2026-11-11T18:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Max Verstappen: \"Würde niemals zwei Nummer-1-Fahrer verpflichten\" - Motorsport-Total.com",
-    "Crash.net": "Max Verstappen weighs in on Lewis Hamilton and Charles Leclerc skirmish: “I’d never get two No 1 drivers\""
+    "Crash.net": "Max Verstappen weighs in on Lewis Hamilton and Charles Leclerc skirmish: “I’d never get two No 1 drivers\"",
+    "RacingNews365 NL": "Verstappen velt duidelijk oordeel over Ferrari-situatie"
    },
-   "last": "2026-11-11T15:32:05.098262+00:00"
+   "last": "2026-11-11T18:42:07.355847+00:00"
   },
   "S6891": {
    "title": "Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool",
@@ -13804,14 +13766,14 @@
    "title": "College basketball early signing window storylines",
    "first": "2026-11-11T13:21:29.315903+00:00",
    "sources": {
-    "ESPN F1": "2026-11-11T13:11:30+00:00"
+    "ESPN F1": "2026-11-11T12:57:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Men's basketball recruiting early signing window storylines to watch"
    },
-   "last": "2026-11-11T13:21:29.315908+00:00"
+   "last": "2026-11-11T18:42:07.355840+00:00"
   },
   "S6897": {
    "title": "Schumacher's watches sold at Geneva auction for millions",
@@ -14548,9 +14510,22 @@
     "ESPN F1": "Chiefs sticking with struggling Harrison Butker as kicker this week"
    },
    "last": "2026-11-11T18:32:07.014876+00:00"
+  },
+  "S6953": {
+   "title": "Lauri Markkanen sustains non-displaced injury",
+   "first": "2026-11-11T18:42:07.355813+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-11T18:34:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Utah Jazz star Lauri Markkanen has sustained a non-displaced..."
+   },
+   "last": "2026-11-11T18:42:07.355831+00:00"
   }
  },
- "story_seq": 6952,
+ "story_seq": 6953,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14669,7 +14644,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T18:32:04.899729+00:00",
+ "last_run": "2026-11-11T18:42:04.532196+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
