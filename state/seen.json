@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "00e5c827731e9707": "2026-10-28T17:08:01.050407+00:00",
-  "4e6077ef5dcb423b": "2026-10-28T17:08:01.050407+00:00",
-  "7f751413c27560a1": "2026-10-28T17:08:01.050407+00:00",
-  "e01a3b56841bbdd6": "2026-10-28T17:08:01.050407+00:00",
   "f0b42481767779d3": "2026-10-28T17:17:58.015022+00:00",
   "1d1f1c019a11f46f": "2026-10-28T17:17:58.015022+00:00",
   "c87c0ab7f0136334": "2026-10-28T17:17:58.015022+00:00",
@@ -7761,7 +7757,11 @@
   "110d791354c9a347": "2026-11-11T16:42:06.034568+00:00",
   "3ad4b3fe2471a76b": "2026-11-11T16:42:06.034568+00:00",
   "74ddc951a3a1d09d": "2026-11-11T17:02:02.007602+00:00",
-  "13d4aa73a75beb26": "2026-11-11T17:02:02.007602+00:00"
+  "13d4aa73a75beb26": "2026-11-11T17:02:02.007602+00:00",
+  "4748cfd5f7662647": "2026-11-11T17:12:04.085103+00:00",
+  "f3ab99c8248b023d": "2026-11-11T17:12:04.085103+00:00",
+  "f8c10af2b469cdd0": "2026-11-11T17:12:04.085103+00:00",
+  "2351fd7f28c188e1": "2026-11-11T17:12:04.085103+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7783,31 +7783,6 @@
  },
  "last_alert": "2026-11-04T14:01:26.306228+00:00",
  "stories": {
-  "S6146": {
-   "title": "Norris podium celebration mishap after Sao Paulo win",
-   "first": "2026-11-08T19:18:15.607548+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-08T19:10:00+00:00",
-    "RacingNews365 NL": "2026-11-08T19:40:00+00:00",
-    "Crash.net": "2026-11-08T20:16:22+00:00",
-    "GPblog": "2026-11-08T20:31:00+00:00",
-    "PlanetF1": "2026-11-08T21:16:58+00:00",
-    "Motorsport-Total": "2026-11-08T21:31:32+00:00",
-    "GPFans": "2026-11-09T16:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris suffers podium disaster after smashing celebrations in Sao Paulo",
-    "RacingNews365 NL": "Norris ontsnapt aan verwondingen tijdens podium-incident in Brazilië",
-    "Crash.net": "Lando Norris suffers Brazil GP mishap as podium celebration goes wrong",
-    "GPblog": "Norris cannot stop breaking things on the podium after Brazilian GP win",
-    "PlanetF1": "Lando Norris suffers firework incident on dramatic Brazilian GP podium",
-    "Motorsport-Total": "Norris zerlegt Champagner und läuft in Feuerwerk: Podium-Panne geht viral - Motorsport-Total.com",
-    "GPFans": "Lando Norris podium trick backfires AGAIN in spectacular fashion"
-   },
-   "last": "2026-11-09T17:05:44.490581+00:00"
-  },
   "S6182": {
    "title": "Leclerc says Ferrari's wet-weather struggles have persisted for nine years",
    "first": "2026-11-08T20:33:19.090682+00:00",
@@ -8079,45 +8054,6 @@
     "RacingNews365 NL": "Mercedes overweegt Russell tot eerste coureur te bombarderen"
    },
    "last": "2026-11-10T10:57:46.058169+00:00"
-  },
-  "S6446": {
-   "title": "Bangladesh cricket: Shanto on failing to use home conditions",
-   "first": "2026-11-09T17:05:44.490535+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-09T16:55:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Shanto: Bangladesh failed to make use of home conditions"
-   },
-   "last": "2026-11-09T17:05:44.490555+00:00"
-  },
-  "S6447": {
-   "title": "Verstappen says Red Bull must apply 2026 lessons to next car",
-   "first": "2026-11-09T17:05:44.490561+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-09T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen herinnert Red Bull aan belangrijk doel"
-   },
-   "last": "2026-11-09T17:05:44.490567+00:00"
-  },
-  "S6448": {
-   "title": "Marc Marquez MotoGP title scenarios for Portugal",
-   "first": "2026-11-09T17:05:44.490571+00:00",
-   "sources": {
-    "GPblog": "2026-11-09T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Marc Marquez MotoGP title scenarios: How he can clinch in Portugal"
-   },
-   "last": "2026-11-09T17:05:44.490576+00:00"
   },
   "S6449": {
    "title": "McLaren reacts to Norris champagne and pyrotechnics mishap",
@@ -13993,14 +13929,16 @@
    "title": "Red Bull champion praises Palmowski, F1 Academy nickname",
    "first": "2026-11-11T12:41:24.051515+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-11T12:33:00+00:00"
+    "RacingNews365 NL": "2026-11-11T12:33:00+00:00",
+    "RacingNews365": "2026-11-11T17:10:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Red Bull-kampioen trots op Verstappen-bijnaam: \"Hij is er echt voor me\""
+    "RacingNews365 NL": "Red Bull-kampioen trots op Verstappen-bijnaam: \"Hij is er echt voor me\"",
+    "RacingNews365": "Red Bull champion hails 'open and welcoming' Max Verstappen support"
    },
-   "last": "2026-11-11T12:41:24.051521+00:00"
+   "last": "2026-11-11T17:12:10.457918+00:00"
   },
   "S6888": {
    "title": "Horner's Red Bull 'mojo' claim rejected after winning surge",
@@ -14198,14 +14136,16 @@
    "title": "Vasseur explains why Ferrari accepted Hamilton's power unit penalty",
    "first": "2026-11-11T13:42:07.223294+00:00",
    "sources": {
-    "GPblog": "2026-11-11T13:33:00+00:00"
+    "GPblog": "2026-11-11T13:33:00+00:00",
+    "PlanetF1": "2026-11-11T17:07:42+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Vasseur reveals why Ferrari accepted Hamilton's grid penalty in Brazil"
+    "GPblog": "Vasseur reveals why Ferrari accepted Hamilton's grid penalty in Brazil",
+    "PlanetF1": "Ferrari explains 65-place Lewis Hamilton penalty as untelevised team radio emerges – roundup"
    },
-   "last": "2026-11-11T13:42:07.223299+00:00"
+   "last": "2026-11-11T17:12:10.457924+00:00"
   },
   "S6903": {
    "title": "Analysis of how dangerous 2026 F1 is in wet conditions",
@@ -14689,9 +14629,35 @@
     "RacingNews365 NL": "Seizoen Antonelli boven Verstappen verkozen: \"Bij Max ligt dat anders\""
    },
    "last": "2026-11-11T17:02:06.705349+00:00"
+  },
+  "S6940": {
+   "title": "Ricciardo looks back at his best career moments",
+   "first": "2026-11-11T17:12:10.457892+00:00",
+   "sources": {
+    "Formula 1": "2026-11-11T17:12:10.457905+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Ricciardo reacts to his best career moments"
+   },
+   "last": "2026-11-11T17:12:10.457909+00:00"
+  },
+  "S6941": {
+   "title": "Mercedes explains cause of Antonelli's Brazil spin",
+   "first": "2026-11-11T17:12:10.457929+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-11T17:01:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mercedes erklärt Ursache für Kimi Antonellis Dreher in Brasilien - Motorsport-Total.com"
+   },
+   "last": "2026-11-11T17:12:10.457934+00:00"
   }
  },
- "story_seq": 6939,
+ "story_seq": 6941,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14810,7 +14776,7 @@
   ]
  ],
  "calendar_updated": "2026-11-10T22:59:42.705740+00:00",
- "last_run": "2026-11-11T17:02:02.007602+00:00",
+ "last_run": "2026-11-11T17:12:04.085103+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 15:00",
@@ -16275,6 +16241,16 @@
    "t": "2026-11-11T17:02:13.095885+00:00",
    "title": "Antonelli, Verstappen'e üstün tutuldu: \"Max'te durum farklı\"",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-11T17:12:14.305576+00:00",
+   "title": "Mercedes, Kimi Antonelli'nin Brezilya'daki spin nedenini açıkladı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-11T17:12:14.690401+00:00",
+   "title": "Palmowski, Verstappen'in açık ve yardımsever tutumunu övdü",
+   "source": "RacingNews365"
   }
  ]
 }
