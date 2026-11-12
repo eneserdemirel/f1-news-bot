@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "65c027663d8756bf": "2026-10-29T15:50:57.149341+00:00",
-  "3abe8f03fb09b504": "2026-10-29T15:50:57.149341+00:00",
   "287f144c3034ffae": "2026-10-29T16:01:30.540342+00:00",
   "b1c98b97fd6bfab7": "2026-10-29T16:11:32.285537+00:00",
   "4b7e601d82d96259": "2026-10-29T16:11:32.285537+00:00",
@@ -7549,7 +7547,9 @@
   "213541f8a12f4b5e": "2026-11-12T15:35:26.147625+00:00",
   "fb3e3e73d029a575": "2026-11-12T15:45:16.431884+00:00",
   "3c5e11fbd8e69ca0": "2026-11-12T15:45:16.431884+00:00",
-  "ab940383fdf66048": "2026-11-12T15:45:16.431884+00:00"
+  "ab940383fdf66048": "2026-11-12T15:45:16.431884+00:00",
+  "338806080eca14f0": "2026-11-12T15:55:05.749858+00:00",
+  "61aa1047bf8e250a": "2026-11-12T15:55:05.749858+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7741,21 +7741,6 @@
    },
    "last": "2026-11-10T17:39:16.990230+00:00"
   },
-  "S6646": {
-   "title": "Ocon statement on uncertain 2027 F1 future",
-   "first": "2026-11-10T13:48:27.900580+00:00",
-   "sources": {
-    "Crash.net": "2026-11-10T13:45:00+00:00",
-    "Motorsport.com Italia": "2026-11-10T15:37:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Esteban Ocon releases fresh statement amid uncertainty over F1 future",
-    "Motorsport.com Italia": "F1 | Ocon torna a farsi sentire dopo l'addio ad Haas: \"La mia passione per le corse rimane più forte che mai\""
-   },
-   "last": "2026-11-10T15:48:27.598877+00:00"
-  },
   "S6649": {
    "title": "Rory McIlroy says DeChambeau would 'bring eyeballs' to DP World Tour",
    "first": "2026-11-10T14:28:30.016286+00:00",
@@ -7854,58 +7839,6 @@
     "Motorsport-Total": "Warum schaffte zuletzt kaum ein Formel-2-Champion den Formel-1-Aufstieg? - Motorsport-Total.com"
    },
    "last": "2026-11-10T17:59:13.658126+00:00"
-  },
-  "S6666": {
-   "title": "Radio show segment with Evan, Canty and Michelle",
-   "first": "2026-11-10T15:48:27.598824+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T15:37:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Unsportsmanlike with Evan, Canty and Michelle - Hour 4: Canty's Birthday Drama"
-   },
-   "last": "2026-11-10T15:48:27.598843+00:00"
-  },
-  "S6667": {
-   "title": "Opinion on whether Jaguars are now AFC favorites",
-   "first": "2026-11-10T15:48:27.598849+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T15:37:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Are the Jaguars now the AFC favorites?"
-   },
-   "last": "2026-11-10T15:48:27.598854+00:00"
-  },
-  "S6668": {
-   "title": "Opinion piece on Steph Curry and Kevin Durant longevity",
-   "first": "2026-11-10T15:48:27.598859+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The historic (and absurd) longevity of Steph Curry and Kevin Durant"
-   },
-   "last": "2026-11-10T15:48:27.598864+00:00"
-  },
-  "S6669": {
-   "title": "South Africa women's squad change for FIFA playoffs",
-   "first": "2026-11-10T15:48:27.598867+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T11:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "South Africa boss Des Ellis adds Wendy Shongwe for FIFA Women's World Cup playoffs"
-   },
-   "last": "2026-11-10T15:48:27.598872+00:00"
   },
   "S6670": {
    "title": "Motorsport-Total page with no content",
@@ -12265,17 +12198,12 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T15:45:16.431884+00:00",
+ "last_run": "2026-11-12T15:55:05.749858+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 15:00",
  "last_digest_at": "2026-11-12T12:04:26.572747+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-09T15:45:50.918937+00:00",
-   "title": "Domenicali, Mercedes'in 2026 konstrüktörler şampiyonluğunu ve Toto Wolff'u kutladı",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-09T15:55:50.668598+00:00",
    "title": "Edd Straw'un 2026 Brezilya GP pilot sıralaması: tier listesi",
