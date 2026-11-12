@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f9c9b385dda10edb": "2026-10-29T18:11:31.322195+00:00",
-  "b12977be1e3977a1": "2026-10-29T18:11:31.322195+00:00",
-  "a52b612907e77880": "2026-10-29T18:11:31.322195+00:00",
   "27db85582a4f64bf": "2026-10-29T18:21:30.615565+00:00",
   "0ac16a24d8394520": "2026-10-29T18:21:30.615565+00:00",
   "6826ea42c29b2d14": "2026-10-29T18:31:28.174991+00:00",
@@ -7556,7 +7553,11 @@
   "9f320d5b63104991": "2026-11-12T17:55:11.438664+00:00",
   "8fc10abe0b2228ce": "2026-11-12T18:05:11.575631+00:00",
   "884c6e2153dba174": "2026-11-12T18:05:11.575631+00:00",
-  "9e7a1505c69d106c": "2026-11-12T18:05:11.575631+00:00"
+  "9e7a1505c69d106c": "2026-11-12T18:05:11.575631+00:00",
+  "68274d846600217b": "2026-11-12T18:15:07.025494+00:00",
+  "9613da0b8151aa8f": "2026-11-12T18:15:07.025494+00:00",
+  "0fdbfa6f8fb54056": "2026-11-12T18:15:07.025494+00:00",
+  "c25be2b9533b44fa": "2026-11-12T18:15:07.025494+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7684,29 +7685,6 @@
    },
    "last": "2026-11-11T20:02:42.701558+00:00"
   },
-  "S6637": {
-   "title": "Ocon thanks fans after being let go by Haas",
-   "first": "2026-11-10T12:48:26.994035+00:00",
-   "sources": {
-    "GPblog": "2026-11-10T12:46:00+00:00",
-    "PlanetF1": "2026-11-10T13:02:20+00:00",
-    "RacingNews365": "2026-11-10T15:00:00+00:00",
-    "Motorsport Week": "2026-11-10T16:00:00+00:00",
-    "GPFans": "2026-11-10T16:45:00+00:00",
-    "FormulaPassion": "2026-11-10T17:36:09+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Ocon shares emotional message after being let go by Haas",
-    "PlanetF1": "Esteban Ocon delivers heartfelt message after Haas axing",
-    "RacingNews365": "Esteban Ocon shares 'heartfelt' statement as F1 career hangs in balance",
-    "Motorsport Week": "Esteban Ocon issues message to fans after Haas F1 axe",
-    "GPFans": "Esteban Ocon issues emotional statement after big decision on F1 future",
-    "FormulaPassion": "Ocon saluta i suoi fan sui social. Un messaggio che sa di ritiro"
-   },
-   "last": "2026-11-10T18:09:22.697768+00:00"
-  },
   "S6640": {
    "title": "Verstappen calls for Red Bull investigation after Brazil comeback",
    "first": "2026-11-10T13:28:26.681108+00:00",
@@ -7828,45 +7806,6 @@
     "Motorsport Week": "Lando Norris called to reconsider celebrations after ‘lucky escape’ on Sao Paulo podium"
    },
    "last": "2026-11-11T13:21:29.315922+00:00"
-  },
-  "S6707": {
-   "title": "Bengals nix agreed trade with Eagles, per sources",
-   "first": "2026-11-10T18:09:22.697732+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T17:38:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bengals nix agreed upon trade with Eagles, sources say"
-   },
-   "last": "2026-11-10T18:09:22.697750+00:00"
-  },
-  "S6708": {
-   "title": "FormulaPassion analysis of Verstappen, Mercedes and Norris in Brazil",
-   "first": "2026-11-10T18:09:22.697756+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-10T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Brasile, lo straordinario diventa abitudine"
-   },
-   "last": "2026-11-10T18:09:22.697761+00:00"
-  },
-  "S6709": {
-   "title": "Critic says Pirelli wet tyres don't work well",
-   "first": "2026-11-10T18:09:22.697773+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-10T17:58:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Kritik an Pirelli-Regenreifen: \"Funktionieren nicht besonders gut\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-10T18:09:22.697778+00:00"
   },
   "S6710": {
    "title": "Eibar vs. Cádiz betting odds and spread",
@@ -11692,22 +11631,12 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T18:05:11.575631+00:00",
+ "last_run": "2026-11-12T18:15:07.025494+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 15:00",
  "last_digest_at": "2026-11-12T12:04:26.572747+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-09T18:05:48.247036+00:00",
-   "title": "Sainz, Ferrari'de Leclerc ile yaşadığı gerginlikleri ve taraftar tepkilerini anlattı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-09T18:05:48.779021+00:00",
-   "title": "Villeneuve: Russell'ın F1'deki itibarı 2026'da ciddi darbe aldı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-09T18:15:50.237861+00:00",
    "title": "Norris, yağmurlu São Paulo GP'sini kazandı; Mercedes şampiyonluğunu taçlandırdı",
