@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5f2aa92e56b06b9e": "2026-10-29T14:10:55.987517+00:00",
-  "86169d058b64ec56": "2026-10-29T14:10:55.987517+00:00",
   "6010e4a85ee19775": "2026-10-29T14:20:55.757324+00:00",
   "557123fbcb378659": "2026-10-29T14:30:56.685293+00:00",
   "db8c3b2e7ac754c9": "2026-10-29T14:30:56.685293+00:00",
@@ -7556,7 +7554,8 @@
   "a691b03b794b6a04": "2026-11-12T14:04:27.065089+00:00",
   "6f90153c821a17c2": "2026-11-12T14:04:27.065089+00:00",
   "dcd53f288caa0902": "2026-11-12T14:04:27.065089+00:00",
-  "6f0747f58db55d84": "2026-11-12T14:04:27.065089+00:00"
+  "6f0747f58db55d84": "2026-11-12T14:04:27.065089+00:00",
+  "b2282d67effe7a16": "2026-11-12T14:14:27.224833+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7578,23 +7577,6 @@
  },
  "last_alert": "2026-11-12T14:04:27.413361+00:00",
  "stories": {
-  "S6450": {
-   "title": "Rafael Camara reflects on his tough F1 debut weekend",
-   "first": "2026-11-09T17:15:42.482776+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-09T17:11:44+00:00",
-    "Motorsport-Total": "2026-11-10T09:16:04+00:00",
-    "Formula 1": "2026-11-10T14:08:25.341957+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Rafael Camara issues verdict after tough F1 debut",
-    "Motorsport-Total": "Zwei Unfälle und Letzter: Warum das Camara-Debüt trotzdem \"positiv\" war - Motorsport-Total.com",
-    "Formula 1": "Camara experiences every condition in ‘tricky’ Haas debut"
-   },
-   "last": "2026-11-10T14:08:25.341973+00:00"
-  },
   "S6607": {
    "title": "Ricciardo praises Verstappen as best around",
    "first": "2026-11-10T09:47:42.104439+00:00",
@@ -7863,19 +7845,6 @@
     "Motorsport.com Italia": "F1 | Ocon torna a farsi sentire dopo l'addio ad Haas: \"La mia passione per le corse rimane più forte che mai\""
    },
    "last": "2026-11-10T15:48:27.598877+00:00"
-  },
-  "S6647": {
-   "title": "Ferrari pit-wall miscommunication during Hamilton's Brazil pitstop",
-   "first": "2026-11-10T14:08:25.341981+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-10T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ferrari slaat plank opnieuw mis met miscommunicatie Hamilton"
-   },
-   "last": "2026-11-10T14:08:25.341988+00:00"
   },
   "S6648": {
    "title": "Hamilton and engineer Santi's surreal team radio exchange at Interlagos",
@@ -12529,17 +12498,12 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T14:04:27.065089+00:00",
+ "last_run": "2026-11-12T14:14:27.224833+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 15:00",
  "last_digest_at": "2026-11-12T12:04:26.572747+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-09T14:05:12.416929+00:00",
-   "title": "FIA, Bearman'ın Leclerc olayı sonrası cezasını doğruladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-09T14:15:44.087046+00:00",
    "title": "Valentino Rossi, 2015 Marc Márquez tartışmasının hâlâ acı verdiğini itiraf etti",
