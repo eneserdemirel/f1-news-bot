@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ef4aa0c5ab61fee1": "2026-10-29T13:10:54.418899+00:00",
-  "dcbd0765c2970433": "2026-10-29T13:10:54.418899+00:00",
-  "476d037e06d4c2c8": "2026-10-29T13:10:54.418899+00:00",
-  "f71932f0def0261c": "2026-10-29T13:10:54.418899+00:00",
   "b709e90ac4033867": "2026-10-29T13:20:53.075233+00:00",
   "c383b9fc46cf01ee": "2026-10-29T13:20:53.075233+00:00",
   "db5b78139922f77f": "2026-10-29T13:20:53.075233+00:00",
@@ -7566,7 +7562,12 @@
   "bb6a3b5580a61535": "2026-11-12T13:04:27.412394+00:00",
   "e8e7c0c9a4deb923": "2026-11-12T13:04:27.412394+00:00",
   "6169e1dfddddfb7e": "2026-11-12T13:04:27.412394+00:00",
-  "1150d8b2db01f2cc": "2026-11-12T13:04:27.412394+00:00"
+  "1150d8b2db01f2cc": "2026-11-12T13:04:27.412394+00:00",
+  "ef2f46c83280b8d6": "2026-11-12T13:14:28.523140+00:00",
+  "e0fc05d7d7462ea4": "2026-11-12T13:14:28.523140+00:00",
+  "f948c13c7bba29b8": "2026-11-12T13:14:28.523140+00:00",
+  "9a42a45425061794": "2026-11-12T13:14:28.523140+00:00",
+  "ae29073f3847abf3": "2026-11-12T13:14:28.523140+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7588,51 +7589,6 @@
  },
  "last_alert": "2026-11-12T11:04:27.130193+00:00",
  "stories": {
-  "S6333": {
-   "title": "Oscar Piastri ends partnership with manager Mark Webber",
-   "first": "2026-11-09T08:34:17.591141+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-09T08:25:33+00:00",
-    "Crash.net": "2026-11-09T08:35:59+00:00",
-    "The Race": "2026-11-09T08:45:05+00:00",
-    "Autosport": "2026-11-09T08:43:40+00:00",
-    "RacingNews365": "2026-11-09T08:42:00+00:00",
-    "RacingNews365 NL": "2026-11-09T08:42:00+00:00",
-    "GPblog": "2026-11-09T09:00:00+00:00",
-    "GPFans": "2026-11-09T09:57:00+00:00",
-    "Motorsport-Total": "2026-11-09T09:54:44+00:00",
-    "Formula 1": "2026-11-09T10:35:17.468057+00:00",
-    "ESPN F1": "2026-11-09T10:30:41+00:00",
-    "FormulaPassion": "2026-11-09T10:20:00+00:00",
-    "Sky Sports F1": "2026-11-09T11:00:00+00:00",
-    "Motorsport Week": "2026-11-09T11:40:52+00:00",
-    "Motorsport.com Italia": "2026-11-09T14:51:07+00:00",
-    "AS": "2026-11-09T15:28:19+00:00",
-    "Auto Motor und Sport": "2026-11-10T13:03:36+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Oscar Piastri splits with manager Mark Webber in shock announcement",
-    "Crash.net": "Oscar Piastri confirms split with F1 career manager Mark Webber",
-    "The Race": "Piastri splits with Webber's F1 management team",
-    "Autosport": "Piastri and Webber terminate management agreement",
-    "RacingNews365": "Breaking: Oscar Piastri ends management agreement with Mark Webber",
-    "RacingNews365 NL": "Oscar Piastri breekt per direct met management",
-    "GPblog": "Oscar Piastri splits with Mark Webber’s management team",
-    "GPFans": "F1 star Oscar Piastri makes major decision as shock split confirmed",
-    "Motorsport-Total": "Nach sieben Jahren ist Schluss: Oscar Piastri und Mark Webber trennen sich - Motorsport-Total.com",
-    "Formula 1": "Piastri and management team mutually terminate agreement",
-    "ESPN F1": "Oscar Piastri splits from Mark Webber's management after eventful seven years",
-    "FormulaPassion": "Ufficiale: Piastri si separa dal manager Mark Webber",
-    "Sky Sports F1": "Piastri splits from manager Webber",
-    "Motorsport Week": "Oscar Piastri and Mark Webber reach termination of F1 management deal",
-    "Motorsport.com Italia": "F1 | Piastri, si chiude un capitolo per iniziare un altro: Webber non sarà più il suo manager",
-    "AS": "Piastri y Webber separan sus caminos",
-    "Auto Motor und Sport": "Formel 1: Nach sieben F1-Jahren: Oscar Piastri trennt sich von Manager Mark Webber"
-   },
-   "last": "2026-11-10T13:08:24.243432+00:00"
-  },
   "S6450": {
    "title": "Rafael Camara reflects on his tough F1 debut weekend",
    "first": "2026-11-09T17:15:42.482776+00:00",
@@ -12649,22 +12605,12 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T13:04:27.412394+00:00",
+ "last_run": "2026-11-12T13:14:28.523140+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 15:00",
  "last_digest_at": "2026-11-12T12:04:26.572747+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-09T13:05:20.191375+00:00",
-   "title": "Hamilton, Brezilya GP'sinden hayal kırıklığıyla ayrıldı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-09T13:05:20.780906+00:00",
-   "title": "Hadjar: “Tek bir yarışta bu kadar çok zorlukla hiç karşılaşmadım”",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-09T13:15:14.765522+00:00",
    "title": "Hamilton, Leclerc ile yaşadığı gerginliği geride bıraktı",
