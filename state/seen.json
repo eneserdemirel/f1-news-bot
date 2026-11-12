@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "036a0bb2f095a637": "2026-10-29T15:20:55.888882+00:00",
-  "2b2937290f2edace": "2026-10-29T15:20:55.888882+00:00",
-  "46309da9f525fbb0": "2026-10-29T15:20:55.888882+00:00",
-  "8529a09483bc816e": "2026-10-29T15:20:55.888882+00:00",
-  "d6e84c8bf15ac669": "2026-10-29T15:20:55.888882+00:00",
   "851275d3abd9fa36": "2026-10-29T15:30:56.159154+00:00",
   "9d0ffc66918751fa": "2026-10-29T15:30:56.159154+00:00",
   "87fd0c4e103999b3": "2026-10-29T15:30:56.159154+00:00",
@@ -7551,7 +7546,11 @@
   "60de4c3efa532b35": "2026-11-12T15:04:27.903637+00:00",
   "4adf227f094a6260": "2026-11-12T15:04:27.903637+00:00",
   "96107350766e7c72": "2026-11-12T15:14:26.836781+00:00",
-  "a9ab7712476711d3": "2026-11-12T15:14:26.836781+00:00"
+  "a9ab7712476711d3": "2026-11-12T15:14:26.836781+00:00",
+  "58fb91903bc6c7be": "2026-11-12T15:24:30.238865+00:00",
+  "1234112f646b2e3f": "2026-11-12T15:24:30.238865+00:00",
+  "f837305ff890ceba": "2026-11-12T15:24:30.238865+00:00",
+  "56ccc7ba0abf36af": "2026-11-12T15:24:30.238865+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7591,21 +7590,6 @@
     "GPFans": "Daniel Ricciardo heaps praise on Max Verstappen as all-time F1 great: 'Insane talent'"
    },
    "last": "2026-11-11T16:32:06.424911+00:00"
-  },
-  "S6612": {
-   "title": "Hulkenberg calls P10 finish in Sao Paulo the maximum possible",
-   "first": "2026-11-10T10:27:48.047462+00:00",
-   "sources": {
-    "Formula 1": "2026-11-10T10:27:48.047476+00:00",
-    "FormulaPassion": "2026-11-10T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg",
-    "FormulaPassion": "Hülkenberg: “È positivo portare a casa un punto da una gara così complessa”"
-   },
-   "last": "2026-11-10T15:18:30.132329+00:00"
   },
   "S6615": {
    "title": "FOM to inform Imola it can halt preparations for season finale",
@@ -7831,32 +7815,6 @@
    },
    "last": "2026-11-10T19:29:21.451519+00:00"
   },
-  "S6658": {
-   "title": "Pochettino open to Man United head coach role",
-   "first": "2026-11-10T15:18:30.132265+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T15:01:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mauricio Pochettino would be open to becoming Man United head coach - sources"
-   },
-   "last": "2026-11-10T15:18:30.132283+00:00"
-  },
-  "S6659": {
-   "title": "Kompany returns to Bayern training after collapse",
-   "first": "2026-11-10T15:18:30.132290+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T14:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vincent Kompany returns to Bayern Munich training for first time since collapse"
-   },
-   "last": "2026-11-10T15:18:30.132296+00:00"
-  },
   "S6660": {
    "title": "Man United executives meet over Carrick's future",
    "first": "2026-11-10T15:18:30.132300+00:00",
@@ -7869,19 +7827,6 @@
     "ESPN F1": "Man United executives, Sir Jim Ratcliffe meeting to discuss Carrick future - sources"
    },
    "last": "2026-11-10T17:19:18.444014+00:00"
-  },
-  "S6661": {
-   "title": "Ferrari explains Hamilton's 65-place grid penalty decision",
-   "first": "2026-11-10T15:18:30.132308+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-10T15:16:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Ferrari lifts lid on Lewis Hamilton decision after 65-place penalty"
-   },
-   "last": "2026-11-10T15:18:30.132312+00:00"
   },
   "S6662": {
    "title": "Motorsport Week Sao Paulo GP driver ratings published",
@@ -12347,27 +12292,12 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T15:14:26.836781+00:00",
+ "last_run": "2026-11-12T15:24:30.238865+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 15:00",
  "last_digest_at": "2026-11-12T12:04:26.572747+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-09T15:15:54.051767+00:00",
-   "title": "Alonso Brezilya'da mücadeleci: \"Pistte güzel düellolara katıldık\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-09T15:15:54.579703+00:00",
-   "title": "FIA, Albon'a Brezilya GP'de çifte ceza verdi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-09T15:15:55.123633+00:00",
-   "title": "2026 Brezilya Grand Prix'sinden öğrenilenler",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-09T15:25:46.126263+00:00",
    "title": "Horner'ın Red Bull'dan kovulmasına dair yeni ayrıntılar",
