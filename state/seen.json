@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d7307b2b2af81336": "2026-10-29T08:00:03.549043+00:00",
-  "61eb1a34ea8ea74a": "2026-10-29T08:00:03.549043+00:00",
-  "fd64d6e5742dd098": "2026-10-29T08:00:03.549043+00:00",
   "bfb04e4a1a64258e": "2026-10-29T08:10:03.027490+00:00",
   "0b7f58bc23c6ef42": "2026-10-29T08:10:03.027490+00:00",
   "8a6921bcbee53831": "2026-10-29T08:10:03.027490+00:00",
@@ -7615,7 +7612,9 @@
   "76125036c3c9b54d": "2026-11-12T07:43:51.843644+00:00",
   "6d8c9af2068510b1": "2026-11-12T07:53:53.544828+00:00",
   "60d0450d4e7f4bfc": "2026-11-12T07:53:53.544828+00:00",
-  "89819d48485902c4": "2026-11-12T07:53:53.544828+00:00"
+  "89819d48485902c4": "2026-11-12T07:53:53.544828+00:00",
+  "7285c25020436c65": "2026-11-12T08:03:59.284541+00:00",
+  "a6bfb1d4fde6089b": "2026-11-12T08:03:59.284541+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7635,7 +7634,7 @@
   "FormulaPassion": "https://www.formulapassion.it/category/f1/feed/",
   "PlanetF1": "https://www.planetf1.com/rss"
  },
- "last_alert": "2026-11-12T05:03:53.775481+00:00",
+ "last_alert": "2026-11-12T08:03:59.686555+00:00",
  "stories": {
   "S6333": {
    "title": "Oscar Piastri ends partnership with manager Mark Webber",
@@ -7771,32 +7770,6 @@
     "GPFans": "Toto Wolff never intended for 'leaked' 1000-word Mercedes email to go public"
    },
    "last": "2026-11-10T11:27:43.395385+00:00"
-  },
-  "S6587": {
-   "title": "Sinayoko and Zabiri scoring form, football feature",
-   "first": "2026-11-10T07:57:44.181984+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T07:46:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Are scoring sensations Lassine Sinayoko and Yassir Zabiri as good as they seem?"
-   },
-   "last": "2026-11-10T07:57:44.182000+00:00"
-  },
-  "S6588": {
-   "title": "Verstappen Interlagos comeback overtaking highlights compilation",
-   "first": "2026-11-10T07:57:44.182006+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-10T07:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Zien! Geweldenaar Max Verstappen stormt alles en iedereen voorbij!"
-   },
-   "last": "2026-11-10T07:57:44.182012+00:00"
   },
   "S6589": {
    "title": "Five betting lessons from Norris's Brazilian GP win",
@@ -13319,7 +13292,7 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T07:53:53.544828+00:00",
+ "last_run": "2026-11-12T08:03:59.284541+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-11 22:00",
