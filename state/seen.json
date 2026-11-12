@@ -7644,7 +7644,9 @@
   "75a1819d50d6de3a": "2026-11-12T22:15:40.353831+00:00",
   "a1d3512d8e5a70ff": "2026-11-12T22:25:42.838935+00:00",
   "a04de987aa721b4a": "2026-11-12T22:35:44.352551+00:00",
-  "b35303ce9391c34e": "2026-11-12T22:35:44.352551+00:00"
+  "b35303ce9391c34e": "2026-11-12T22:35:44.352551+00:00",
+  "3083253362c059a6": "2026-11-12T22:45:40.620858+00:00",
+  "45f5568f219bb6d0": "2026-11-12T22:45:40.620858+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7927,19 +7929,6 @@
     "ESPN F1": "LIV Golf files bankruptcy plan, eyes January liquidation"
    },
    "last": "2026-11-11T03:09:54.809383+00:00"
-  },
-  "S6761": {
-   "title": "Fury and Joshua late show angers residents as license verdict nears",
-   "first": "2026-11-10T22:29:55.184142+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T22:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tyson Fury, Anthony Joshua late show angers residents as license verdict nears"
-   },
-   "last": "2026-11-10T22:39:55.430201+00:00"
   },
   "S6763": {
    "title": "Analysis: what Piastri's split from Webber means for his future",
@@ -11853,9 +11842,35 @@
     "ESPN F1": "Czechia vs. Spain (Nov 12, 2026) Player Stats"
    },
    "last": "2026-11-12T22:35:46.298345+00:00"
+  },
+  "S7058": {
+   "title": "Italy 3-1 France football match analysis",
+   "first": "2026-11-12T22:45:42.546743+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-12T22:32:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Italy 3-1 France (12 Nov, 2026) Game Analysis"
+   },
+   "last": "2026-11-12T22:45:42.546761+00:00"
+  },
+  "S7059": {
+   "title": "Cristiano Ronaldo Jr. Portugal U17 debut",
+   "first": "2026-11-12T22:45:42.546766+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-12T18:16:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cristiano Ronaldo Jr. makes Portugal U17 debut one week after dad's retirement"
+   },
+   "last": "2026-11-12T22:45:42.546771+00:00"
   }
  },
- "story_seq": 7057,
+ "story_seq": 7059,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11974,7 +11989,7 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T22:35:44.352551+00:00",
+ "last_run": "2026-11-12T22:45:40.620858+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
