@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0a0f05c2023cd79e": "2026-10-29T18:51:29.111472+00:00",
-  "f46ad14fcd581475": "2026-10-29T18:51:29.111472+00:00",
-  "4eebfadc2acf3a9a": "2026-10-29T18:51:29.111472+00:00",
-  "2c90749c975aeee5": "2026-10-29T18:51:29.111472+00:00",
   "b6be6cdc2cf39021": "2026-10-29T19:01:33.207850+00:00",
   "a0fef6cc52580ab3": "2026-10-29T19:01:33.207850+00:00",
   "66cbf881286076d3": "2026-10-29T19:01:33.207850+00:00",
@@ -7564,7 +7560,8 @@
   "fb54b9d007578983": "2026-11-12T18:45:08.067222+00:00",
   "9ce379d3347d5d35": "2026-11-12T18:45:08.067222+00:00",
   "fa30c350a19583f8": "2026-11-12T18:45:08.067222+00:00",
-  "38ac19278762c161": "2026-11-12T18:45:08.067222+00:00"
+  "38ac19278762c161": "2026-11-12T18:45:08.067222+00:00",
+  "eb398c58345c359c": "2026-11-12T18:55:08.704423+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7705,19 +7702,6 @@
    },
    "last": "2026-11-10T21:09:20.896479+00:00"
   },
-  "S6649": {
-   "title": "Rory McIlroy says DeChambeau would 'bring eyeballs' to DP World Tour",
-   "first": "2026-11-10T14:28:30.016286+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T14:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rory McIlroy says Bryson DeChambeau would 'bring eyeballs' to DP World Tour"
-   },
-   "last": "2026-11-10T18:49:22.479817+00:00"
-  },
   "S6655": {
    "title": "Norris discusses bizarre fireworks incident on podium",
    "first": "2026-11-10T14:58:32.365466+00:00",
@@ -7832,58 +7816,6 @@
     "AS": "“Lo lógico es apostar por Hamilton”"
    },
    "last": "2026-11-11T14:22:05.798147+00:00"
-  },
-  "S6716": {
-   "title": "John Florence surfing Olympic-sized decision feature",
-   "first": "2026-11-10T18:49:22.479772+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T18:47:26+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision"
-   },
-   "last": "2026-11-10T18:49:22.479789+00:00"
-  },
-  "S6717": {
-   "title": "Pros and cons of USMNT or Man United for Pochettino",
-   "first": "2026-11-10T18:49:22.479795+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T18:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USMNT or Manchester United: Pros and cons of Pochettino's options"
-   },
-   "last": "2026-11-10T18:49:22.479801+00:00"
-  },
-  "S6718": {
-   "title": "Oregon State QB Braden Atkinson re-signs for 2027",
-   "first": "2026-11-10T18:49:22.479805+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T14:36:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Oregon State QB Braden Atkinson re-signs for 2027"
-   },
-   "last": "2026-11-10T18:49:22.479810+00:00"
-  },
-  "S6719": {
-   "title": "Honda to investigate Stroll's Brazil DNF, Alonso comments",
-   "first": "2026-11-10T18:49:22.479825+00:00",
-   "sources": {
-    "GPFans": "2026-11-10T18:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Honda set for ANOTHER Aston Martin investigation as Fernando Alonso makes stunning admission"
-   },
-   "last": "2026-11-10T18:49:22.479829+00:00"
   },
   "S6720": {
    "title": "Samson named Keralam captain for Syed Mushtaq Ali Trophy",
@@ -11571,17 +11503,12 @@
   ]
  ],
  "calendar_updated": "2026-11-11T23:02:29.447959+00:00",
- "last_run": "2026-11-12T18:45:08.067222+00:00",
+ "last_run": "2026-11-12T18:55:08.704423+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 15:00",
  "last_digest_at": "2026-11-12T12:04:26.572747+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-09T18:45:51.679373+00:00",
-   "title": "Toto Wolff: Mercedes yeni bir baskın dönemin başladığına inanmıyor",
-   "source": "AS"
-  },
   {
    "t": "2026-11-09T19:05:56.122557+00:00",
    "title": "Red Bull, Liam Lawson'ın performansını övdü; Racing Bulls sözleşme kararını erteliyor",
