@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f180e9802c7dd677": "2026-10-30T01:22:18.773397+00:00",
-  "20cc808ad02e01da": "2026-10-30T01:22:18.773397+00:00",
-  "446d90a3356a7f17": "2026-10-30T01:22:18.773397+00:00",
   "9e64e1b2231b9d0b": "2026-10-30T01:32:16.111146+00:00",
   "57a26927e325b4c0": "2026-10-30T01:42:21.048518+00:00",
   "1273f08d90316aad": "2026-10-30T01:42:21.048518+00:00",
@@ -7626,7 +7623,10 @@
   "519caddd9ded0313": "2026-11-13T00:25:41.094540+00:00",
   "9bb1c83e12d56a8d": "2026-11-13T00:45:41.247165+00:00",
   "8520943255099230": "2026-11-13T00:45:41.247165+00:00",
-  "5f445d1662f115bd": "2026-11-13T00:55:40.973521+00:00"
+  "5f445d1662f115bd": "2026-11-13T00:55:40.973521+00:00",
+  "48721fa8c12c40ee": "2026-11-13T01:25:44.639376+00:00",
+  "a5a13ceec0b77147": "2026-11-13T01:25:44.639376+00:00",
+  "a53c32e163617421": "2026-11-13T01:25:44.639376+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10711,7 +10711,7 @@
    "titles": {
     "ESPN F1": "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27"
    },
-   "last": "2026-11-11T22:12:42.477040+00:00"
+   "last": "2026-11-13T01:25:47.736226+00:00"
   },
   "S6988": {
    "title": "Hamilton urges Israel to let aid trucks into Gaza",
@@ -11096,7 +11096,7 @@
    "titles": {
     "ESPN F1": "Balogun wants Pochettino to stay amid Man United talks: He raised standard"
    },
-   "last": "2026-11-12T22:06:36.736014+00:00"
+   "last": "2026-11-13T01:25:47.736247+00:00"
   },
   "S7017": {
    "title": "Robbie Avila finalizing deal to play for TCU",
@@ -11915,9 +11915,22 @@
     "ESPN F1": "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
    },
    "last": "2026-11-13T00:55:43.060146+00:00"
+  },
+  "S7079": {
+   "title": "Tuchel downplays fears White could leave England over boos",
+   "first": "2026-11-13T01:25:47.736235+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-12T23:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tuchel downplays fears White could walk away from England over fans' boos"
+   },
+   "last": "2026-11-13T01:25:47.736241+00:00"
   }
  },
- "story_seq": 7078,
+ "story_seq": 7079,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12036,7 +12049,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T01:15:40.006652+00:00",
+ "last_run": "2026-11-13T01:25:44.639376+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
