@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fb7ab5eef38349fa": "2026-10-30T11:43:41.480784+00:00",
-  "0555aae0611fdfc9": "2026-10-30T11:43:41.480784+00:00",
-  "c842fab20cd54319": "2026-10-30T11:43:41.480784+00:00",
   "e81cab380714286e": "2026-10-30T11:53:42.041801+00:00",
   "6fddf34ee24a2770": "2026-10-30T11:53:42.041801+00:00",
   "49ba6c750a2034a6": "2026-10-30T11:53:42.041801+00:00",
@@ -7604,7 +7601,11 @@
   "c4de21d24fdc690b": "2026-11-13T11:36:49.540135+00:00",
   "83adcaab2c3afd98": "2026-11-13T11:36:49.540135+00:00",
   "fc8021c15bc9f3cf": "2026-11-13T11:36:49.540135+00:00",
-  "626d56f15c3cd85e": "2026-11-13T11:36:49.540135+00:00"
+  "626d56f15c3cd85e": "2026-11-13T11:36:49.540135+00:00",
+  "b61346b98b00a936": "2026-11-13T11:46:48.254683+00:00",
+  "545d794b36515955": "2026-11-13T11:46:48.254683+00:00",
+  "b170d07920dbcb79": "2026-11-13T11:46:48.254683+00:00",
+  "813c5f5b3312784d": "2026-11-13T11:46:48.254683+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7803,19 +7804,6 @@
    },
    "last": "2026-11-11T12:11:23.429737+00:00"
   },
-  "S6856": {
-   "title": "Fabiana Ecclestone's Brazil agenda on road safety and female empowerment",
-   "first": "2026-11-11T10:11:25.713425+00:00",
-   "sources": {
-    "FIA": "2026-11-11T09:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FIA": "Fabiana Ecclestone leads high-impact agenda in Brazil focusing on road safety and female empowerment"
-   },
-   "last": "2026-11-11T11:41:26.173200+00:00"
-  },
   "S6859": {
    "title": "Brundle says a team boss is at wit's end over reliability",
    "first": "2026-11-11T10:21:28.744106+00:00",
@@ -7865,19 +7853,6 @@
    },
    "last": "2026-11-11T14:32:09.787768+00:00"
   },
-  "S6866": {
-   "title": "Rocchiccioli seeks Harmer's offspin advice (cricket)",
-   "first": "2026-11-11T11:11:21.826718+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T10:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rocchiccioli reveals call with Harmer for advice on offspin"
-   },
-   "last": "2026-11-11T11:41:26.173213+00:00"
-  },
   "S6869": {
    "title": "Bethell out of Australia white-ball tour with knee injury",
    "first": "2026-11-11T11:21:27.172518+00:00",
@@ -7905,19 +7880,6 @@
     "RacingNews365": "Max Verstappen handed Mercedes warning in 'egotistical' Lewis Hamilton take down"
    },
    "last": "2026-11-11T14:52:04.568057+00:00"
-  },
-  "S6874": {
-   "title": "Lightning strike explains Stroll's unseen Brazil GP retirement",
-   "first": "2026-11-11T11:41:26.173220+00:00",
-   "sources": {
-    "Crash.net": "2026-11-11T11:36:24+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Lightning strikes twice for F1 driver as unseen Brazil GP retirement explained"
-   },
-   "last": "2026-11-11T11:41:26.173226+00:00"
   },
   "S6875": {
    "title": "Analysis questions whether Kirk Cousins lifts Vikings after trade",
@@ -10149,14 +10111,16 @@
    "title": "Wolff reveals he offered to quit Mercedes several times",
    "first": "2026-11-12T22:06:36.736208+00:00",
    "sources": {
-    "GPFans": "2026-11-12T19:57:00+00:00"
+    "GPFans": "2026-11-12T19:57:00+00:00",
+    "PlanetF1": "2026-11-13T11:40:53+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Toto Wolff wanted to quit Mercedes but one man refused to let him walk away"
+    "GPFans": "Toto Wolff wanted to quit Mercedes but one man refused to let him walk away",
+    "PlanetF1": "Toto Wolff drops Mercedes resignation quip amid F1 future update"
    },
-   "last": "2026-11-12T22:06:36.736211+00:00"
+   "last": "2026-11-13T11:46:52.313818+00:00"
   },
   "S7042": {
    "title": "Ole Schack reflects on final Red Bull weekend with Verstappen",
@@ -12013,7 +11977,7 @@
    "titles": {
     "ESPN F1": "NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips"
    },
-   "last": "2026-11-13T11:36:56.439495+00:00"
+   "last": "2026-11-13T11:46:52.313814+00:00"
   },
   "S7183": {
    "title": "Imola could be 2027 reserve venue if Jeddah doubts grow",
@@ -12040,9 +12004,35 @@
     "RacingNews365 NL": "Verstappen bejubeld na fenomenale inhaalrace: \"In deze vorm...\""
    },
    "last": "2026-11-13T11:36:56.439504+00:00"
+  },
+  "S7185": {
+   "title": "Feature profile of Toto Wolff's rise to nine titles",
+   "first": "2026-11-13T11:46:52.313789+00:00",
+   "sources": {
+    "Formula 1": "2026-11-13T11:46:52.313798+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Toto Wolff's journey from Williams to nine F1 titles"
+   },
+   "last": "2026-11-13T11:46:52.313800+00:00"
+  },
+  "S7186": {
+   "title": "NFL fantasy football deep-league pickups",
+   "first": "2026-11-13T11:46:52.313805+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T11:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy football last-minute pickups: Twelve who can help in deep leagues"
+   },
+   "last": "2026-11-13T11:46:52.313809+00:00"
   }
  },
- "story_seq": 7184,
+ "story_seq": 7186,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12161,17 +12151,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T11:36:49.540135+00:00",
+ "last_run": "2026-11-13T11:46:48.254683+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T11:37:46.396001+00:00",
-   "title": "Lewis Hamilton, Gazze insani yardım tesislerini ziyaret etmek için Mısır'a gitti",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-10T11:48:30.662295+00:00",
    "title": "FIA ADUO kararını açıkladı, 2027'de revizyona işaret etti",
@@ -13236,6 +13221,11 @@
    "t": "2026-11-13T11:37:03.484717+00:00",
    "title": "Imola 2027'de yedek pist mi olacak? Jeddah'a ilişkin kuşkular var",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-13T11:46:56.178112+00:00",
+   "title": "Toto Wolff, Williams'tan dokuz şampiyonluğa uzanan yolculuğu",
+   "source": "Formula 1"
   }
  ]
 }
