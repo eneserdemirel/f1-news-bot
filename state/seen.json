@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "010729f3674a906f": "2026-10-30T12:13:43.463727+00:00",
-  "1c85653b8be5404c": "2026-10-30T12:13:43.463727+00:00",
-  "dfc7e24c8c774bcf": "2026-10-30T12:13:43.463727+00:00",
-  "6584badaa9877d92": "2026-10-30T12:13:43.463727+00:00",
-  "27e903e3866a2d82": "2026-10-30T12:13:43.463727+00:00",
-  "2e26efc659a48e34": "2026-10-30T12:13:43.463727+00:00",
-  "23ae9caeafcfdee6": "2026-10-30T12:13:43.463727+00:00",
   "f71828d066f421b4": "2026-10-30T12:23:41.543733+00:00",
   "6fc86f8ad69b5bd4": "2026-10-30T12:23:41.543733+00:00",
   "db590dc874e65390": "2026-10-30T12:23:41.543733+00:00",
@@ -7600,7 +7593,10 @@
   "42d4af81e5956050": "2026-11-13T12:06:47.174489+00:00",
   "7c7842d15b5fc4ec": "2026-11-13T12:06:47.174489+00:00",
   "328b58f1ac277601": "2026-11-13T12:06:47.174489+00:00",
-  "4d1e07c33ce5ae46": "2026-11-13T12:06:47.174489+00:00"
+  "4d1e07c33ce5ae46": "2026-11-13T12:06:47.174489+00:00",
+  "8169c3f817368349": "2026-11-13T12:17:36.618092+00:00",
+  "7bf03003ef9f6af6": "2026-11-13T12:17:36.618092+00:00",
+  "02fa8203e83f4cd5": "2026-11-13T12:17:36.618092+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7784,21 +7780,6 @@
    },
    "last": "2026-11-11T22:02:46.229751+00:00"
   },
-  "S6853": {
-   "title": "Damon Hill says Hamilton has rebuilt himself after Abu Dhabi 2021",
-   "first": "2026-11-11T09:41:26.050109+00:00",
-   "sources": {
-    "Crash.net": "2026-11-11T09:32:07+00:00",
-    "Motorsport Week": "2026-11-11T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Lewis Hamilton has “rebuilt himself” after Abu Dhabi 2021 controversy, says Damon Hill",
-    "Motorsport Week": "F1 champion calls Lewis Hamilton ‘rebuilt’ after Abu Dhabi 2021 heartbreak"
-   },
-   "last": "2026-11-11T12:11:23.429737+00:00"
-  },
   "S6859": {
    "title": "Brundle says a team boss is at wit's end over reliability",
    "first": "2026-11-11T10:21:28.744106+00:00",
@@ -7848,19 +7829,6 @@
    },
    "last": "2026-11-11T14:32:09.787768+00:00"
   },
-  "S6869": {
-   "title": "Bethell out of Australia white-ball tour with knee injury",
-   "first": "2026-11-11T11:21:27.172518+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T11:12:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bethell out of Australia white-ball tour with knee injury 'setback'"
-   },
-   "last": "2026-11-11T12:11:23.429722+00:00"
-  },
   "S6873": {
    "title": "Ralf Schumacher says Mercedes wouldn't suit Verstappen's style",
    "first": "2026-11-11T11:31:25.082200+00:00",
@@ -7875,45 +7843,6 @@
     "RacingNews365": "Max Verstappen handed Mercedes warning in 'egotistical' Lewis Hamilton take down"
    },
    "last": "2026-11-11T14:52:04.568057+00:00"
-  },
-  "S6878": {
-   "title": "Group chat bonding Black NBA coaches off the court",
-   "first": "2026-11-11T12:11:23.429684+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The group chat that bonds Black NBA coaches off the court"
-   },
-   "last": "2026-11-11T12:11:23.429703+00:00"
-  },
-  "S6879": {
-   "title": "CFP Top 25 team strengths explainer",
-   "first": "2026-11-11T12:11:23.429709+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "CFP Top 25: Strengths to know for every ranked team"
-   },
-   "last": "2026-11-11T12:11:23.429715+00:00"
-  },
-  "S6880": {
-   "title": "McLaren WEC final phase preview",
-   "first": "2026-11-11T12:11:23.429727+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-11T12:00:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "WEC | McLaren alla fase finale: \"Approccio umile, ma vogliamo essere subito nel gruppo per giocarcela\""
-   },
-   "last": "2026-11-11T12:11:23.429731+00:00"
   },
   "S6881": {
    "title": "Trump holds off Iran attacks, may ease Qatar GP concerns",
@@ -11351,7 +11280,7 @@
    "titles": {
     "ESPN F1": "Mauricio Pochettino agrees Man United deal, announcement expected - sources"
    },
-   "last": "2026-11-13T12:06:52.203155+00:00"
+   "last": "2026-11-13T12:17:39.736377+00:00"
   },
   "S7139": {
    "title": "Wolff reveals Mercedes cost cap proposal given to FIA",
@@ -12044,9 +11973,35 @@
     "ESPN F1": "It's a battle for the AFC North: Steelers at Bengals Week 10 primer"
    },
    "last": "2026-11-13T12:06:52.203172+00:00"
+  },
+  "S7191": {
+   "title": "Tuchel says Spain vs England is 'winner takes it all'",
+   "first": "2026-11-13T12:17:39.736390+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T10:52:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Spain vs. England is 'winner takes it all' - Thomas Tuchel"
+   },
+   "last": "2026-11-13T12:17:39.736397+00:00"
+  },
+  "S7192": {
+   "title": "F1 drivers voice dissent over major test despite Russell optimism",
+   "first": "2026-11-13T12:17:39.736404+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T12:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "F1 drivers voice dissent after major test despite George Russell optimism"
+   },
+   "last": "2026-11-13T12:17:39.736412+00:00"
   }
  },
- "story_seq": 7190,
+ "story_seq": 7192,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12165,17 +12120,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T12:07:33.060296+00:00",
+ "last_run": "2026-11-13T12:17:36.618092+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T12:08:30.817508+00:00",
-   "title": "Verstappen'in psikolojik oyunu: \"Bu gerçekten hak mı?\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-10T12:18:38.436310+00:00",
    "title": "Red Bull Interlagos'ta çifte podyum yaptı",
@@ -13225,6 +13175,11 @@
    "t": "2026-11-13T11:46:56.178112+00:00",
    "title": "Toto Wolff, Williams'tan dokuz şampiyonluğa uzanan yolculuğu",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-13T12:17:44.117879+00:00",
+   "title": "F1 pilotları Pirelli'nin yağmur lastiklerinden memnun değil",
+   "source": "RacingNews365"
   }
  ]
 }
