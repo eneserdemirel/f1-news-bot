@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4f087a50ec90bc26": "2026-10-30T19:10:07.612139+00:00",
-  "641b86cf20e63af2": "2026-10-30T19:10:07.612139+00:00",
-  "93e49bb1c352f3dc": "2026-10-30T19:10:07.612139+00:00",
-  "48b63608a77f82cf": "2026-10-30T19:15:09.110903+00:00",
-  "c924630f66940a20": "2026-10-30T19:15:09.110903+00:00",
   "c709c37515c015b5": "2026-10-30T19:20:12.833395+00:00",
   "35090a16069cfb1e": "2026-10-30T19:20:12.833395+00:00",
   "1b9a35da819d7af4": "2026-10-30T19:30:11.098244+00:00",
@@ -7537,7 +7532,9 @@
   "f0b1dbab316c326f": "2026-11-13T19:08:39.419036+00:00",
   "65f735dac45aaab3": "2026-11-13T19:08:39.419036+00:00",
   "d1604d997402f6f4": "2026-11-13T19:08:39.419036+00:00",
-  "c08e0ad254c13425": "2026-11-13T19:08:39.419036+00:00"
+  "c08e0ad254c13425": "2026-11-13T19:08:39.419036+00:00",
+  "2ce7eb498fe3d116": "2026-11-13T19:18:34.402690+00:00",
+  "eea0b0aa012e834f": "2026-11-13T19:18:34.402690+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12132,9 +12129,22 @@
     "RacingNews365": "Oscar Piastri details McLaren 'manhandling' challenge as F1 woes continue"
    },
    "last": "2026-11-13T19:08:43.373034+00:00"
+  },
+  "S7281": {
+   "title": "Lawson says he told Red Bull he helped Verstappen in Brazil",
+   "first": "2026-11-13T19:18:36.438826+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T19:05:31+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson alerted Red Bull to Verstappen help in Brazil after Mexico spat"
+   },
+   "last": "2026-11-13T19:18:36.438844+00:00"
   }
  },
- "story_seq": 7280,
+ "story_seq": 7281,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12253,22 +12263,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T19:08:39.419036+00:00",
+ "last_run": "2026-11-13T19:18:34.402690+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T19:09:21.793772+00:00",
-   "title": "Piastri, McLaren'ın zorlu 2026 sezonunda şampiyonluk mücadelesini özlediğini söyledi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-10T19:09:22.252998+00:00",
-   "title": "Hamilton'ın Leclerc ile gerilimi yatıştı; asıl tehdit Norris",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-10T19:29:26.375828+00:00",
    "title": "F1 Academy 2027 takvimi açıklandı, Budapeşte'de ilk kez yarışacak",
@@ -13303,6 +13303,11 @@
    "t": "2026-11-13T19:08:51.022335+00:00",
    "title": "Piastri: McLaren'ı 'zorlayarak' sürmek zorundayım",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T19:18:40.478214+00:00",
+   "title": "Lawson, Brezilya'da Verstappen'in geri dönüşüne yardım etti",
+   "source": "PlanetF1"
   }
  ]
 }
