@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "82fea356e2790ef2": "2026-10-30T03:12:54.202697+00:00",
-  "83f01c24731375c6": "2026-10-30T03:12:54.202697+00:00",
-  "9b2062bd3fcaaadd": "2026-10-30T03:12:54.202697+00:00",
-  "6a221e7bc888a7c8": "2026-10-30T03:12:54.202697+00:00",
-  "31393c2e9d65fc5e": "2026-10-30T03:12:54.202697+00:00",
   "94115dbb70d2bdc4": "2026-10-30T03:22:54.751502+00:00",
   "54f33beb456792d6": "2026-10-30T03:32:53.564997+00:00",
   "081cd755722c6734": "2026-10-30T03:42:55.845987+00:00",
@@ -7638,7 +7633,8 @@
   "c3da38399a25d86a": "2026-11-13T02:46:17.069279+00:00",
   "29902eb4d5baf6cb": "2026-11-13T02:56:16.894226+00:00",
   "bcf754687ef1c78e": "2026-11-13T03:06:17.127455+00:00",
-  "22f6d53d83891edd": "2026-11-13T03:06:17.127455+00:00"
+  "22f6d53d83891edd": "2026-11-13T03:06:17.127455+00:00",
+  "876811934ea6070b": "2026-11-13T03:16:18.383190+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7882,19 +7878,6 @@
     "Motorsport-Total": "Mekies stellt klar: Wer über die Zukunft von Liam Lawson entscheidet - Motorsport-Total.com"
    },
    "last": "2026-11-11T11:31:25.082219+00:00"
-  },
-  "S6760": {
-   "title": "LIV Golf files bankruptcy plan, eyes January liquidation",
-   "first": "2026-11-10T22:19:56.596983+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-10T21:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LIV Golf files bankruptcy plan, eyes January liquidation"
-   },
-   "last": "2026-11-11T03:09:54.809383+00:00"
   },
   "S6764": {
    "title": "Tatjana Smith to swim for Netherlands at event",
@@ -11901,9 +11884,22 @@
     "ESPN F1": "76ers 123-112 Raptors (Nov 12, 2026) Game Recap"
    },
    "last": "2026-11-13T02:46:18.657510+00:00"
+  },
+  "S7088": {
+   "title": "Cubs' Crow-Armstrong and Astros' Alvarez win unanimous MVP awards",
+   "first": "2026-11-13T03:16:19.990309+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T00:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cubs' Pete Crow-Armstrong, Astros' Yordan Alvarez unanimous MVP winners"
+   },
+   "last": "2026-11-13T03:16:19.990327+00:00"
   }
  },
- "story_seq": 7087,
+ "story_seq": 7088,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12022,7 +12018,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T03:06:17.127455+00:00",
+ "last_run": "2026-11-13T03:16:18.383190+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
