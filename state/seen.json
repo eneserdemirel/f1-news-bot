@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "45af96df2af2d293": "2026-10-30T07:02:53.828348+00:00",
-  "524a6d6cf7fb4ab3": "2026-10-30T07:02:53.828348+00:00",
   "e098a94fcaf6f7ca": "2026-10-30T07:12:55.623090+00:00",
   "1d0466a98028a415": "2026-10-30T07:12:55.623090+00:00",
   "7554f500fb4a4282": "2026-10-30T07:12:55.623090+00:00",
@@ -7622,7 +7620,9 @@
   "379d10b9ab906712": "2026-11-13T06:26:18.087093+00:00",
   "a93da199665d6350": "2026-11-13T06:36:17.435227+00:00",
   "9fbb4a2649c3321f": "2026-11-13T06:36:17.435227+00:00",
-  "a11363dcf17ef2f1": "2026-11-13T06:46:16.247563+00:00"
+  "a11363dcf17ef2f1": "2026-11-13T06:46:16.247563+00:00",
+  "4ec6f168c89f13b9": "2026-11-13T07:06:46.327373+00:00",
+  "d12cee475d09fa9e": "2026-11-13T07:06:46.327373+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7867,19 +7867,6 @@
    },
    "last": "2026-11-11T14:52:04.568081+00:00"
   },
-  "S6781": {
-   "title": "Permane wants Lawson 2027 seat decision done quickly",
-   "first": "2026-11-11T02:09:56.415279+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T02:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Permane wants Lawson decision done: 'I want you guys to stop asking me'"
-   },
-   "last": "2026-11-11T07:01:00.004204+00:00"
-  },
   "S6799": {
    "title": "Untelevised Verstappen team radio emerges from Brazilian GP",
    "first": "2026-11-11T04:10:37.663169+00:00",
@@ -7921,19 +7908,6 @@
    },
    "last": "2026-11-11T07:20:34.932563+00:00"
   },
-  "S6817": {
-   "title": "Liberty CEO visited Qatar before Gulf finale decision",
-   "first": "2026-11-11T06:10:31.667060+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Liberty boss went to Qatar in person before F1 gave its Gulf finale the green light"
-   },
-   "last": "2026-11-11T07:01:00.004182+00:00"
-  },
   "S6819": {
    "title": "Analyst says Antonelli could move to Ferrari soon",
    "first": "2026-11-11T06:30:34.182902+00:00",
@@ -7961,19 +7935,6 @@
     "ESPN F1": "Celtics turn 76ers' 'Throw the ball up' slogan into postgame troll"
    },
    "last": "2026-11-11T08:51:24.381217+00:00"
-  },
-  "S6822": {
-   "title": "Wolff mocks MotoGP riders' geopolitical knowledge",
-   "first": "2026-11-11T07:01:00.004193+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T03:00:44+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Toto Wolff takes a jab at MotoGP riders: 'They know nothing geopolitically'"
-   },
-   "last": "2026-11-11T07:01:00.004198+00:00"
   },
   "S6823": {
    "title": "Brazil GP result signals early Las Vegas betting markets",
@@ -11954,9 +11915,35 @@
     "ESPN F1": "Bo Horvat lights the lamp for Islanders"
    },
    "last": "2026-11-13T06:36:19.917388+00:00"
+  },
+  "S7123": {
+   "title": "Coulthard says Interlagos is Verstappen's favourite track, feels like home",
+   "first": "2026-11-13T07:06:49.032942+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-13T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Coulthard grapt over 'favoriete stoel' Verstappen: \"Voelt als thuiskomen!\""
+   },
+   "last": "2026-11-13T07:06:49.032957+00:00"
+  },
+  "S7124": {
+   "title": "Wolff says Antonelli is not Senna but could be a 'Senninha'",
+   "first": "2026-11-13T07:06:49.032961+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-13T06:58:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Toto Wolff: Antonelli ist nicht Senna, aber er könnte ein \"Senninha\" sein - Motorsport-Total.com"
+   },
+   "last": "2026-11-13T07:06:49.032965+00:00"
   }
  },
- "story_seq": 7122,
+ "story_seq": 7124,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12075,7 +12062,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T06:56:46.674709+00:00",
+ "last_run": "2026-11-13T07:06:46.327373+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13090,6 +13077,16 @@
    "t": "2026-11-13T06:26:24.605890+00:00",
    "title": "Verstappen: Las Vegas'ta lastik ısınması Red Bull için belirleyici",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T07:06:54.690003+00:00",
+   "title": "Toto Wolff: Antonelli Senna değil, ama 'Senninha' olabilir",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-13T07:06:55.096094+00:00",
+   "title": "Coulthard: Verstappen için Interlagos 'favori koltuk' gibi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
