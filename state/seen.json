@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cad32d7bbe31a96b": "2026-10-30T09:53:42.593468+00:00",
-  "0f0f2e55e5ae4c29": "2026-10-30T09:53:42.593468+00:00",
-  "de383658b921ca2e": "2026-10-30T09:53:42.593468+00:00",
   "42bd7dc7b61907a9": "2026-10-30T10:04:01.185954+00:00",
   "7696713c52598706": "2026-10-30T10:04:01.185954+00:00",
   "5b7f299314950328": "2026-10-30T10:04:01.185954+00:00",
@@ -7618,7 +7615,11 @@
   "f38115d40acbac21": "2026-11-13T09:26:44.954220+00:00",
   "990aad274bb6940d": "2026-11-13T09:36:47.358565+00:00",
   "9ca1eb89829b48c4": "2026-11-13T09:36:47.358565+00:00",
-  "c6e159a836623d3a": "2026-11-13T09:36:47.358565+00:00"
+  "c6e159a836623d3a": "2026-11-13T09:36:47.358565+00:00",
+  "4397a8523947fe07": "2026-11-13T09:56:44.911261+00:00",
+  "d6956bff97c2921c": "2026-11-13T09:56:44.911261+00:00",
+  "e1a6f85376b2ea02": "2026-11-13T09:56:44.911261+00:00",
+  "b5b3802e34e1735a": "2026-11-13T09:56:44.911261+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11857,9 +11858,61 @@
     "ESPN F1": "Yorkshire confirm Hasan Ali return on two-year Blast contract"
    },
    "last": "2026-11-13T09:36:49.216342+00:00"
+  },
+  "S7154": {
+   "title": "NCAA Season 102 quarterfinal matchups preview",
+   "first": "2026-11-13T09:56:47.711398+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T09:37:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NCAA Season 102: Quarterfinal matchups and key statistical battles"
+   },
+   "last": "2026-11-13T09:56:47.711416+00:00"
+  },
+  "S7155": {
+   "title": "Australia ask England to bat in ODI, Beardman debuts",
+   "first": "2026-11-13T09:56:47.711420+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T08:17:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Australia ask England to bat, hand Beardman an ODI debut"
+   },
+   "last": "2026-11-13T09:56:47.711424+00:00"
+  },
+  "S7156": {
+   "title": "Newey says Honda disappointing at Aston Martin",
+   "first": "2026-11-13T09:56:47.711426+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T09:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Adrian Newey makes important claim about Aston Martin and 'disappointed' Honda"
+   },
+   "last": "2026-11-13T09:56:47.711430+00:00"
+  },
+  "S7157": {
+   "title": "Perez comments on Cadillac's three new hires",
+   "first": "2026-11-13T09:56:47.711431+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T09:47:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Sergio Perez makes ‘very basic’ Cadillac F1 admission over new hires"
+   },
+   "last": "2026-11-13T09:56:47.711434+00:00"
   }
  },
- "story_seq": 7153,
+ "story_seq": 7157,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -11978,27 +12031,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T09:47:04.827894+00:00",
+ "last_run": "2026-11-13T09:56:44.911261+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T09:47:48.934647+00:00",
-   "title": "Bearman: Haas, yedinciliği Audi'ye kaptırıyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-10T09:47:49.390879+00:00",
-   "title": "Sainz, Pirelli'den yağmur lastiklerinde iyileştirme istedi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-10T09:47:49.793018+00:00",
-   "title": "Ricciardo, Verstappen'i övdü: \"Max'ten daha iyi bir pilot yok!\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-10T09:57:47.725884+00:00",
    "title": "Vasseur: Kış molası öncesi ilerleme olumlu bir hava yaratıyor",
@@ -13033,6 +13071,16 @@
    "t": "2026-11-13T09:26:54.504039+00:00",
    "title": "Coulthard: Verstappen de Le Mans'ta simülatör testinden geçmek zorunda kalabilir",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-13T09:56:51.788331+00:00",
+   "title": "Newey: Honda hayal kırıklığına uğradı ama Aston Martin ile gelecek odaklı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T09:56:52.201302+00:00",
+   "title": "Perez, Cadillac'ın yeni transferlerini değerlendirdi",
+   "source": "PlanetF1"
   }
  ]
 }
