@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "53c04a30f8069674": "2026-10-30T11:03:46.680337+00:00",
-  "f8542308449c9099": "2026-10-30T11:03:46.680337+00:00",
   "842f65c81b9f4451": "2026-10-30T11:13:41.702809+00:00",
   "9410e50dbf65f228": "2026-10-30T11:23:41.407910+00:00",
   "62009e58187a3d98": "2026-10-30T11:23:41.407910+00:00",
@@ -7594,7 +7592,11 @@
   "64b73a681ad3628f": "2026-11-13T10:46:48.301643+00:00",
   "97bea20216e9758a": "2026-11-13T10:56:45.628599+00:00",
   "e28d930df1ef47f8": "2026-11-13T10:56:45.628599+00:00",
-  "66e8e98fd605acd0": "2026-11-13T10:56:45.628599+00:00"
+  "66e8e98fd605acd0": "2026-11-13T10:56:45.628599+00:00",
+  "cda7c3060ab287b3": "2026-11-13T11:06:48.286691+00:00",
+  "a5c38cd0bd5aec6d": "2026-11-13T11:06:48.286691+00:00",
+  "c7e94afbdb841a05": "2026-11-13T11:06:48.286691+00:00",
+  "20af626eb458d6f7": "2026-11-13T11:06:48.286691+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7900,19 +7902,6 @@
     "FormulaPassion": "Bearman guarda a Las Vegas: “Sono state tre settimane deludenti”"
    },
    "last": "2026-11-11T14:32:09.787768+00:00"
-  },
-  "S6865": {
-   "title": "Untelevised Hamilton team radio emerges after Brazilian GP",
-   "first": "2026-11-11T11:01:25.719732+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T10:59:06+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘Are you guys listening?’ – Untelevised Lewis Hamilton team radio after Brazilian GP"
-   },
-   "last": "2026-11-11T11:01:25.719751+00:00"
   },
   "S6866": {
    "title": "Rocchiccioli seeks Harmer's offspin advice (cricket)",
@@ -11673,14 +11662,18 @@
    "title": "FIA suspends journalist McEvoy for rest of season over Leclerc column",
    "first": "2026-11-13T09:06:50.012206+00:00",
    "sources": {
-    "GPblog": "2026-11-13T09:00:00+00:00"
+    "GPblog": "2026-11-13T09:00:00+00:00",
+    "Crash.net": "2026-11-13T11:02:41+00:00",
+    "Auto Motor und Sport": "2026-11-13T10:48:14+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "FIA bans British journalist for rest of the season after Leclerc jibe"
+    "GPblog": "FIA bans British journalist for rest of the season after Leclerc jibe",
+    "Crash.net": "F1 journalist claims he has been banned from paddock after Charles Leclerc criticism",
+    "Auto Motor und Sport": "Formel 1: Skandal-Kolumne über Leclerc: FIA entzieht Reporter den Fahrerlager-Pass"
    },
-   "last": "2026-11-13T09:06:50.012209+00:00"
+   "last": "2026-11-13T11:06:52.397651+00:00"
   },
   "S7150": {
    "title": "Speculation on Piastri pressure and Zak Brown's response",
@@ -11945,9 +11938,35 @@
     "Motorsport Week": "David Coulthard makes ‘disrespect’ claim on wet weather F1 races"
    },
    "last": "2026-11-13T10:56:49.045980+00:00"
+  },
+  "S7170": {
+   "title": "McLaren WEC 2027 debut and 2030 regulation approach",
+   "first": "2026-11-13T11:06:52.397631+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-13T11:01:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | McLaren tra esordio 2027 e regole 2030: \"Non vogliamo stravolgimenti regolamentari\""
+   },
+   "last": "2026-11-13T11:06:52.397642+00:00"
+  },
+  "S7171": {
+   "title": "Verstappen says he would not run two number one drivers at Ferrari",
+   "first": "2026-11-13T11:06:52.397654+00:00",
+   "sources": {
+    "AS": "2026-11-13T10:50:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Así solucionaría Verstappen lo de Ferrari"
+   },
+   "last": "2026-11-13T11:06:52.397657+00:00"
   }
  },
- "story_seq": 7169,
+ "story_seq": 7171,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12066,17 +12085,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T10:56:45.628599+00:00",
+ "last_run": "2026-11-13T11:06:48.286691+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T10:57:49.698232+00:00",
-   "title": "Ferrari'nin yağmurdaki yıllardır süren krizinin arkasında ne var?",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-10T11:07:43.081885+00:00",
    "title": "FIA, 2026 üçüncü inceleme döneminin ADUO sonuçlarını açıkladı",
@@ -13131,6 +13145,11 @@
    "t": "2026-11-13T10:56:54.035234+00:00",
    "title": "Coulthard: Yağmurlu F1 yarışlarında FIA'nın ihtiyatlı yaklaşımı sporu zarara uğratıyor",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-13T11:06:56.271728+00:00",
+   "title": "Verstappen, Ferrari'nin sorununu nasıl çözerdi?",
+   "source": "AS"
   }
  ]
 }
