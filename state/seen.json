@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8bc7e3780a27992f": "2026-10-30T07:22:55.127310+00:00",
-  "0e2e83dababbb219": "2026-10-30T07:22:55.127310+00:00",
-  "c7fd6be6d0410028": "2026-10-30T07:22:55.127310+00:00",
-  "e5ff7c0092e5be77": "2026-10-30T07:22:55.127310+00:00",
   "57047f2f301be338": "2026-10-30T07:32:56.061131+00:00",
   "d88acd521723715f": "2026-10-30T07:32:56.061131+00:00",
   "7dfcbc6557a99d99": "2026-10-30T07:43:41.074904+00:00",
@@ -7622,7 +7618,9 @@
   "b6306a94bba7b8bd": "2026-11-13T07:16:48.145454+00:00",
   "5bec69f1609125e5": "2026-11-13T07:16:48.145454+00:00",
   "24adcb1d343998f1": "2026-11-13T07:16:48.145454+00:00",
-  "49441968dfb2bb9b": "2026-11-13T07:16:48.145454+00:00"
+  "49441968dfb2bb9b": "2026-11-13T07:16:48.145454+00:00",
+  "6dcb0cbc68a762f5": "2026-11-13T07:26:51.768350+00:00",
+  "ec7527b88edea10a": "2026-11-13T07:26:51.768350+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7895,19 +7893,6 @@
    },
    "last": "2026-11-11T07:30:32.183006+00:00"
   },
-  "S6814": {
-   "title": "76ers' Jaylen Brown gives Jayson Tatum frosty reception in return",
-   "first": "2026-11-11T06:00:29.604106+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T01:28:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "76ers' Brown gives Tatum frosty reception early in first post-trade matchup"
-   },
-   "last": "2026-11-11T07:20:34.932563+00:00"
-  },
   "S6819": {
    "title": "Analyst says Antonelli could move to Ferrari soon",
    "first": "2026-11-11T06:30:34.182902+00:00",
@@ -7935,32 +7920,6 @@
     "ESPN F1": "Celtics turn 76ers' 'Throw the ball up' slogan into postgame troll"
    },
    "last": "2026-11-11T08:51:24.381217+00:00"
-  },
-  "S6827": {
-   "title": "Hamilton backed to race in 2030 and fulfil Africa dream",
-   "first": "2026-11-11T07:20:34.932573+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T07:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton backed to still be on F1 grid in 2030 and fulfil Africa dream"
-   },
-   "last": "2026-11-11T07:20:34.932579+00:00"
-  },
-  "S6828": {
-   "title": "Horner addresses possible F1 return, says world was taken away",
-   "first": "2026-11-11T07:20:34.932588+00:00",
-   "sources": {
-    "GPFans": "2026-11-11T07:12:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner addresses F1 return after intense speculation: 'My world had been taken away'"
-   },
-   "last": "2026-11-11T07:20:34.932592+00:00"
   },
   "S6829": {
    "title": "Pirelli wet-weather tyres to change for 2027 season",
@@ -8371,15 +8330,17 @@
    "first": "2026-11-11T10:21:28.744106+00:00",
    "sources": {
     "Crash.net": "2026-11-11T10:12:07+00:00",
-    "Motorsport Week": "2026-11-11T17:24:55+00:00"
+    "Motorsport Week": "2026-11-11T17:24:55+00:00",
+    "PlanetF1": "2026-11-13T07:23:35+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Martin Brundle reveals F1 team boss “at wit’s end” over reliability issues",
-    "Motorsport Week": "Martin Brundle makes Aston Martin claim after Sao Paulo reliability woes"
+    "Motorsport Week": "Martin Brundle makes Aston Martin claim after Sao Paulo reliability woes",
+    "PlanetF1": "Lawrence Stroll ‘at wit’s end’ in new Brundle Aston Martin claim"
    },
-   "last": "2026-11-11T17:32:03.668834+00:00"
+   "last": "2026-11-13T07:26:54.944018+00:00"
   },
   "S6860": {
    "title": "Imola mayor reacts to FIA and F1 season finale decision",
@@ -11928,9 +11889,22 @@
     "GPFans": "Christian Horner F1 return boost as team sale process begins"
    },
    "last": "2026-11-13T07:16:51.757148+00:00"
+  },
+  "S7128": {
+   "title": "Antonelli interview: ready to challenge Sinner on karts, 2027 talk",
+   "first": "2026-11-13T07:26:54.944026+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-13T07:13:39+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Kimi Antonelli esclusivo: “Pronto a sfidare Sinner sui kart, abbiamo già un appuntamento”"
+   },
+   "last": "2026-11-13T07:26:54.944031+00:00"
   }
  },
- "story_seq": 7127,
+ "story_seq": 7128,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12049,22 +12023,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T07:16:48.145454+00:00",
+ "last_run": "2026-11-13T07:26:51.768350+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T07:17:48.642435+00:00",
-   "title": "Hamilton, Sao Paulo'da ani oversteer sorununu anlattı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-10T07:17:49.067425+00:00",
-   "title": "Kravitz, Red Bull'da görülmeyen isim için alarm verdi",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-10T07:27:52.177786+00:00",
    "title": "Mercedes W17, Antonelli'nin şampiyonluğunda büyük rol oynadı",
@@ -13079,6 +13043,11 @@
    "t": "2026-11-13T07:16:57.900421+00:00",
    "title": "Otro Capital, Alpine'deki %24'lük hissesini satmak için süreci başlattı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-13T07:26:58.738400+00:00",
+   "title": "Kimi Antonelli: Sinner ile kartta yarışmaya hazırım, randevumuz var",
+   "source": "Corriere dello Sport"
   }
  ]
 }
