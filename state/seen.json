@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "89eb63d0ea3feebf": "2026-10-30T10:43:42.892105+00:00",
-  "e4e3493a4b84662a": "2026-10-30T10:43:42.892105+00:00",
-  "d537a224a36a4cf8": "2026-10-30T10:43:42.892105+00:00",
   "7116feee9780777c": "2026-10-30T10:53:41.586567+00:00",
   "cb84e718b243ca9b": "2026-10-30T10:53:41.586567+00:00",
   "5bd3a0297a6b8dc9": "2026-10-30T10:53:41.586567+00:00",
@@ -7597,7 +7594,8 @@
   "1af0663164f4f525": "2026-11-13T10:26:46.033484+00:00",
   "6c8d33c90de79bdc": "2026-11-13T10:36:46.854714+00:00",
   "6dd6cd944307edce": "2026-11-13T10:36:46.854714+00:00",
-  "92441f5eda9e0294": "2026-11-13T10:36:46.854714+00:00"
+  "92441f5eda9e0294": "2026-11-13T10:36:46.854714+00:00",
+  "64b73a681ad3628f": "2026-11-13T10:46:48.301643+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7903,19 +7901,6 @@
     "FormulaPassion": "Bearman guarda a Las Vegas: “Sono state tre settimane deludenti”"
    },
    "last": "2026-11-11T14:32:09.787768+00:00"
-  },
-  "S6864": {
-   "title": "Drivers criticise safety speed limit at Sao Paulo GP",
-   "first": "2026-11-11T10:41:24.769318+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "F1 drivers air frustrations after 'speed limit' introduction"
-   },
-   "last": "2026-11-11T10:41:24.769324+00:00"
   },
   "S6865": {
    "title": "Untelevised Hamilton team radio emerges after Brazilian GP",
@@ -11931,9 +11916,22 @@
     "GPblog": "Lawson named as future McLaren option as Piastri receives warning"
    },
    "last": "2026-11-13T10:36:49.485677+00:00"
+  },
+  "S7168": {
+   "title": "NHL Tonight preview of Rangers-Canucks and Predators-Golden Knights",
+   "first": "2026-11-13T10:46:49.804669+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T10:37:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NHL Tonight: What to watch in Rangers-Canucks, Predators-Golden Knights"
+   },
+   "last": "2026-11-13T10:46:49.804679+00:00"
   }
  },
- "story_seq": 7167,
+ "story_seq": 7168,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12052,17 +12050,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T10:36:46.854714+00:00",
+ "last_run": "2026-11-13T10:46:48.301643+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T10:37:45.642254+00:00",
-   "title": "Norris, São Paulo'daki kötü startını gözden geçirecek",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-10T10:47:51.007435+00:00",
    "title": "Imola'da F1 yarışı yapılmayacak, sezon Las Vegas'ta bitebilir",
