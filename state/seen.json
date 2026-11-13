@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9de6d431d004eb27": "2026-10-30T17:29:28.087815+00:00",
-  "1948793270901404": "2026-10-30T17:34:32.854983+00:00",
-  "cd3157e48f02360c": "2026-10-30T17:34:32.854983+00:00",
-  "3dae7ffe0f3f3a71": "2026-10-30T17:34:32.854983+00:00",
   "54ee9d11f10fed43": "2026-10-30T17:39:31.195760+00:00",
   "bc6d7d925d1710db": "2026-10-30T17:39:31.195760+00:00",
   "1f14412eb2cb84f9": "2026-10-30T17:44:32.613505+00:00",
@@ -7550,7 +7546,9 @@
   "3aa31535a33a1112": "2026-11-13T17:28:34.121466+00:00",
   "d2f83f20f9a20b0c": "2026-11-13T17:28:34.121466+00:00",
   "03d3938fbd5d62bb": "2026-11-13T17:28:34.121466+00:00",
-  "d0ca179207f29389": "2026-11-13T17:28:34.121466+00:00"
+  "d0ca179207f29389": "2026-11-13T17:28:34.121466+00:00",
+  "d4a8ff0af8aedd32": "2026-11-13T17:38:35.405732+00:00",
+  "59acfea84472b057": "2026-11-13T17:38:35.405732+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10788,15 +10786,17 @@
    "first": "2026-11-13T10:26:51.253392+00:00",
    "sources": {
     "Crash.net": "2026-11-13T10:15:44+00:00",
-    "RacingNews365 NL": "2026-11-13T16:10:00+00:00"
+    "RacingNews365 NL": "2026-11-13T16:10:00+00:00",
+    "GPblog": "2026-11-13T17:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice",
-    "RacingNews365 NL": "Red Bull stuurt F1-auto het ijs op tegen MotoGP en rally"
+    "RacingNews365 NL": "Red Bull stuurt F1-auto het ijs op tegen MotoGP en rally",
+    "GPblog": "MotoGP legend races against Sebastian Vettel's Red Bull F1 car on snow"
    },
-   "last": "2026-11-13T16:17:43.189552+00:00"
+   "last": "2026-11-13T17:38:40.310988+00:00"
   },
   "S7164": {
    "title": "McEvoy attacks Vasseur over press pass withdrawal",
@@ -12068,9 +12068,22 @@
     "Autosport": "The surprising convergence behind F1's increasingly competitive 2026 season"
    },
    "last": "2026-11-13T17:28:36.613695+00:00"
+  },
+  "S7261": {
+   "title": "Ranking Verstappen's three São Paulo GP performances, best verdict",
+   "first": "2026-11-13T17:38:40.310964+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T17:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen victory takes the spoils from sensational hat-trick"
+   },
+   "last": "2026-11-13T17:38:40.310980+00:00"
   }
  },
- "story_seq": 7260,
+ "story_seq": 7261,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12189,7 +12202,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T17:28:34.121466+00:00",
+ "last_run": "2026-11-13T17:38:35.405732+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
@@ -13229,6 +13242,16 @@
    "t": "2026-11-13T17:28:40.043033+00:00",
    "title": "Mercedes 2026 şampiyonluğunu erken garantiledi; ikinci yarıda rekabet sıkılaştı",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-13T17:38:46.451069+00:00",
+   "title": "Verstappen, Interlagos'ta 21. sıradan yarışa üçüncü kez dramatik dönüşle başladı; okurların en iyi toparlanma seçildi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T17:38:47.045612+00:00",
+   "title": "MotoGP efsanesi Pedrosa, Vettel'in Red Bull F1 aracına karşı karlı pistte yarıştı ve kazandı",
+   "source": "GPblog"
   }
  ]
 }
