@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9410e50dbf65f228": "2026-10-30T11:23:41.407910+00:00",
-  "62009e58187a3d98": "2026-10-30T11:23:41.407910+00:00",
-  "c63e40ae47f26453": "2026-10-30T11:23:41.407910+00:00",
-  "8376e99c3880461e": "2026-10-30T11:23:41.407910+00:00",
-  "bcc32b65cf570217": "2026-10-30T11:23:41.407910+00:00",
-  "d811621799a77d79": "2026-10-30T11:23:41.407910+00:00",
   "cbde0156059f4bf9": "2026-10-30T11:33:42.184084+00:00",
   "adc0220f1fc87ef4": "2026-10-30T11:33:42.184084+00:00",
   "28b31f726f9beece": "2026-10-30T11:33:42.184084+00:00",
@@ -7600,7 +7594,12 @@
   "9abd53d91fbd6256": "2026-11-13T11:16:52.965492+00:00",
   "f814897e6195136e": "2026-11-13T11:16:52.965492+00:00",
   "dbca9de0853a3c69": "2026-11-13T11:16:52.965492+00:00",
-  "604d6488c73fe10b": "2026-11-13T11:16:52.965492+00:00"
+  "604d6488c73fe10b": "2026-11-13T11:16:52.965492+00:00",
+  "899ec68f4aaf37f3": "2026-11-13T11:26:47.580368+00:00",
+  "4442aa2d340c9a1f": "2026-11-13T11:26:47.580368+00:00",
+  "0415fca5a7048679": "2026-11-13T11:26:47.580368+00:00",
+  "1d63a1cee4d8bdbe": "2026-11-13T11:26:47.580368+00:00",
+  "222ae2483bad0a8f": "2026-11-13T11:26:47.580368+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7932,32 +7931,6 @@
     "ESPN F1": "Bethell out of Australia white-ball tour with knee injury 'setback'"
    },
    "last": "2026-11-11T12:11:23.429722+00:00"
-  },
-  "S6870": {
-   "title": "USWNT's Yohannes and Girma feature in UEFA Women's Champions League",
-   "first": "2026-11-11T11:21:27.172543+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T07:24:57+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USWNT's Yohannes and Girma bring Habesha vibes to UEFA Women's Champions League"
-   },
-   "last": "2026-11-11T11:21:27.172548+00:00"
-  },
-  "S6871": {
-   "title": "Verstappen receives praise for Brazil GP Norris chase",
-   "first": "2026-11-11T11:21:27.172554+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T11:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "'Savage' Max Verstappen handed 'outrageous' appraisal after Lando Norris hunt"
-   },
-   "last": "2026-11-11T11:21:27.172559+00:00"
   },
   "S6872": {
    "title": "NFL Week 10 intel and post-trade deadline news roundup",
@@ -9916,7 +9889,8 @@
     "The Race": "2026-11-12T16:30:27+00:00",
     "RacingNews365": "2026-11-12T16:54:00+00:00",
     "RacingNews365 NL": "2026-11-12T17:01:00+00:00",
-    "FormulaPassion": "2026-11-13T09:15:06+00:00"
+    "FormulaPassion": "2026-11-13T09:15:06+00:00",
+    "PlanetF1": "2026-11-13T11:24:39+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9924,9 +9898,10 @@
     "The Race": "Hearing set for Audi Tsunoda appeal",
     "RacingNews365": "FIA set hearing date with F1-comeback hero's result at risk",
     "RacingNews365 NL": "FIA plant hoorzitting voor protest GP Italië in",
-    "FormulaPassion": "GP d’Italia 2026: la FIA conferma la data d’udienza dopo il ricorso presentato dall’Audi"
+    "FormulaPassion": "GP d’Italia 2026: la FIA conferma la data d’udienza dopo il ricorso presentato dall’Audi",
+    "PlanetF1": "FIA sets court hearing date in Audi F1 appeal against Yuki Tsunoda"
    },
-   "last": "2026-11-13T09:36:49.216349+00:00"
+   "last": "2026-11-13T11:26:52.429246+00:00"
   },
   "S7019": {
    "title": "Hulkenberg in points again at Interlagos",
@@ -11988,17 +11963,58 @@
    "title": "Madrid F1 GP generated 544 million euro economic impact",
    "first": "2026-11-13T11:16:56.989141+00:00",
    "sources": {
-    "AS": "2026-11-13T11:10:11+00:00"
+    "AS": "2026-11-13T11:10:11+00:00",
+    "The Race": "2026-11-13T11:24:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "AS": "El GP de F1 en Madring generó un impacto económico de 544 millones"
+    "AS": "El GP de F1 en Madring generó un impacto económico de 544 millones",
+    "The Race": "How Madrid F1 race’s economic impact compares to Barcelona’s"
    },
-   "last": "2026-11-13T11:16:56.989143+00:00"
+   "last": "2026-11-13T11:26:52.429237+00:00"
+  },
+  "S7176": {
+   "title": "McCullum says team faces live challenges ahead",
+   "first": "2026-11-13T11:26:52.429213+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T11:22:37+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "McCullum: 'Got some live challenges in front of us'"
+   },
+   "last": "2026-11-13T11:26:52.429225+00:00"
+  },
+  "S7177": {
+   "title": "Cameron and Mayer rematch on Jake Paul undercard",
+   "first": "2026-11-13T11:26:52.429229+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T11:17:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chantelle Cameron, Mikaela Mayer to rematch on Jake Paul Dec. 24 undercard"
+   },
+   "last": "2026-11-13T11:26:52.429232+00:00"
+  },
+  "S7178": {
+   "title": "Norris praised for standout trait in Sao Paulo",
+   "first": "2026-11-13T11:26:52.429239+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lando Norris 'master' trait singled out after stunning tour de force"
+   },
+   "last": "2026-11-13T11:26:52.429242+00:00"
   }
  },
- "story_seq": 7175,
+ "story_seq": 7178,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12117,17 +12133,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T11:16:52.965492+00:00",
+ "last_run": "2026-11-13T11:26:47.580368+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T11:17:48.042075+00:00",
-   "title": "Liam Lawson, koltuk spekülasyonları arasında zihniyetini anlattı",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-10T11:27:48.993154+00:00",
    "title": "Wolff, sızan Mercedes e-postasının kamuya açılmasını istemediğini söyledi",
@@ -13187,6 +13198,21 @@
    "t": "2026-11-13T11:17:01.361898+00:00",
    "title": "Sainz: Şimdi daha iyi bir pilotum ama araç yetersiz",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-13T11:26:57.382687+00:00",
+   "title": "Norris'in adaptasyon becerisi McLaren patronu Stella'dan övgü topladı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T11:26:57.821258+00:00",
+   "title": "McCullum: \"Önümüzde bazı gerçek zorluklar var\"",
+   "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-13T11:26:58.333427+00:00",
+   "title": "Madrid F1 yarışının ekonomik etkisi 544 milyon euro olarak açıklandı",
+   "source": "The Race"
   }
  ]
 }
