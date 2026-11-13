@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "863bd401c87ce6bb": "2026-10-30T16:39:30.363265+00:00",
-  "f703e05e4c1448b0": "2026-10-30T16:39:30.363265+00:00",
-  "6a1d31484d359ac6": "2026-10-30T16:44:31.777481+00:00",
-  "83617efd343c4e5d": "2026-10-30T16:44:31.777481+00:00",
   "47f7962e7e16b428": "2026-10-30T16:49:30.873662+00:00",
   "f5ce67b767eb4529": "2026-10-30T16:54:33.563024+00:00",
   "a7727b2152236627": "2026-10-30T16:54:33.563024+00:00",
@@ -7546,7 +7542,9 @@
   "9f4a6fb81a089953": "2026-11-13T16:17:36.754479+00:00",
   "bffb9c1af8e27039": "2026-11-13T16:17:36.754479+00:00",
   "5d0b60c160b64d62": "2026-11-13T16:27:35.430315+00:00",
-  "f8d7a67f7024d5f5": "2026-11-13T16:37:37.194280+00:00"
+  "f8d7a67f7024d5f5": "2026-11-13T16:37:37.194280+00:00",
+  "bed04fa90248fe80": "2026-11-13T16:47:35.159477+00:00",
+  "a42d6691ae791889": "2026-11-13T16:47:35.159477+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7864,32 +7862,6 @@
     "Crash.net": "Lewis Hamilton loses 'most marketable athlete' crown and overtaken by F1 rival"
    },
    "last": "2026-11-13T10:06:53.499946+00:00"
-  },
-  "S6936": {
-   "title": "Harry Kane thanks doctor ahead of record 126th England cap",
-   "first": "2026-11-11T16:42:07.785754+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T16:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kane thanks doctor who reinvigorated his career ahead of record-breaking 126th cap"
-   },
-   "last": "2026-11-11T16:42:07.785771+00:00"
-  },
-  "S6937": {
-   "title": "Astros reportedly hire Brad Ausmus as new manager",
-   "first": "2026-11-11T16:42:07.785777+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T16:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Source - Astros to hire Brad Ausmus as new manager"
-   },
-   "last": "2026-11-11T16:42:07.785782+00:00"
   },
   "S6938": {
    "title": "Bradley Lord explains Mercedes Brazil podium miss due to tyre window",
@@ -10866,14 +10838,16 @@
    "title": "Russell makes special offer to 25 children",
    "first": "2026-11-13T10:06:53.499948+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-13T09:58:04+00:00"
+    "Motorsport-Total": "2026-11-13T09:58:04+00:00",
+    "GPFans": "2026-11-13T16:45:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Formel-1-Star George Russell macht 25 Kindern ein besonderes Angebot - Motorsport-Total.com"
+    "Motorsport-Total": "Formel-1-Star George Russell macht 25 Kindern ein besonderes Angebot - Motorsport-Total.com",
+    "GPFans": "F1 star George Russell launches £25 golden ticket for next generation of racers"
    },
-   "last": "2026-11-13T10:06:53.499950+00:00"
+   "last": "2026-11-13T16:47:37.547619+00:00"
   },
   "S7162": {
    "title": "F1 Academy champion Palmowski gets funded 2027 FREC seat",
@@ -12142,22 +12116,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T16:37:37.194280+00:00",
+ "last_run": "2026-11-13T16:47:35.159477+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T16:38:32.454768+00:00",
-   "title": "Vowles, Sainz ve Albon'un şampiyonluk potansiyelini savunuyor",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-10T16:38:32.977611+00:00",
-   "title": "Camara, Ferrari ve Haas'ı debütüyle etkiledi",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-10T16:48:29.023166+00:00",
    "title": "Sao Paulo'da Power Rankings jüri üyelerini kim etkiledi?",
