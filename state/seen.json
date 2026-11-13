@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ec34a91af3e8e2dc": "2026-10-30T14:19:31.012151+00:00",
-  "3878a970632d9f48": "2026-10-30T14:19:31.012151+00:00",
   "467eb9bad279654e": "2026-10-30T14:29:30.830152+00:00",
   "f112460fa9c54649": "2026-10-30T14:29:30.830152+00:00",
   "ffda2e1715377f6e": "2026-10-30T14:34:49.496323+00:00",
@@ -7570,7 +7568,9 @@
   "81947ebd1425dea1": "2026-11-13T13:57:34.398659+00:00",
   "7769954f7d23ed4b": "2026-11-13T13:57:34.398659+00:00",
   "13a5921a36ac7b93": "2026-11-13T13:57:34.398659+00:00",
-  "345b6bddc8fbb9fa": "2026-11-13T14:07:48.444153+00:00"
+  "345b6bddc8fbb9fa": "2026-11-13T14:07:48.444153+00:00",
+  "9eda65873ec88a4f": "2026-11-13T14:27:33.520063+00:00",
+  "ac593dea806a8691": "2026-11-13T14:27:33.520063+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7666,25 +7666,6 @@
     "GPblog": "Hamilton visits Gaza border crossing in Egypt days after 400th F1 start"
    },
    "last": "2026-11-11T20:02:42.701558+00:00"
-  },
-  "S6711": {
-   "title": "Damon Hill says Ferrari should back Hamilton over Leclerc",
-   "first": "2026-11-10T18:19:17.067073+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-10T17:02:00+00:00",
-    "GPFans": "2026-11-11T11:27:00+00:00",
-    "GPblog": "2026-11-11T12:45:00+00:00",
-    "AS": "2026-11-11T14:08:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc",
-    "GPFans": "F1 champion tells Ferrari they must back Lewis Hamilton over Charles Leclerc in internal battle",
-    "GPblog": "Former champion urges Ferrari to make Hamilton number one for 2027",
-    "AS": "“Lo lógico es apostar por Hamilton”"
-   },
-   "last": "2026-11-11T14:22:05.798147+00:00"
   },
   "S6776": {
    "title": "Camara in discussions to finish 2026 F1 season with Haas",
@@ -12062,9 +12043,35 @@
     "FormulaPassion": "Claire Williams: “Il team è in ottime mani con James Vowles e Dorilton Capital”"
    },
    "last": "2026-11-13T14:07:50.201731+00:00"
+  },
+  "S7221": {
+   "title": "Stellantis CEO speaks at ANFIA automotive assembly",
+   "first": "2026-11-13T14:27:35.632205+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-13T14:17:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "ANFIA | Filosa, AD Stellantis: “La sfida dei prossimi anni si giocherà su competitività e competizione equa sul mercato”"
+   },
+   "last": "2026-11-13T14:27:35.632224+00:00"
+  },
+  "S7222": {
+   "title": "Former Liberty CEO Maffei predicts F1 sale for $30bn",
+   "first": "2026-11-13T14:27:35.632231+00:00",
+   "sources": {
+    "GPFans": "2026-11-13T14:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 tipped for $30billion sale as former boss makes stunning prediction"
+   },
+   "last": "2026-11-13T14:27:35.632237+00:00"
   }
  },
- "story_seq": 7220,
+ "story_seq": 7222,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12183,7 +12190,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T14:17:34.399242+00:00",
+ "last_run": "2026-11-13T14:27:33.520063+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
@@ -13243,6 +13250,11 @@
    "t": "2026-11-13T14:07:56.675143+00:00",
    "title": "Claire Williams: Takım James Vowles ve Dorilton Capital'in elinde",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T14:27:39.605565+00:00",
+   "title": "Eski Liberty Media CEO'su: F1 on yıl içinde borsadan çıkabilir",
+   "source": "GPFans"
   }
  ]
 }
