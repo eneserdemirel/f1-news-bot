@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e385c5bac042cb1e": "2026-10-30T13:39:31.973579+00:00",
-  "34d3e74461de2631": "2026-10-30T13:39:31.973579+00:00",
   "c6d63a2f003eb0f5": "2026-10-30T13:49:27.468217+00:00",
   "831a210c0e9f2caf": "2026-10-30T13:49:27.468217+00:00",
   "ec76a36bc330f3c7": "2026-10-30T13:49:27.468217+00:00",
@@ -7575,7 +7573,11 @@
   "ea7a4acb51915d55": "2026-11-13T13:37:39.887984+00:00",
   "d11f6ecd6d88d4cf": "2026-11-13T13:37:39.887984+00:00",
   "524e86c05ac472c5": "2026-11-13T13:37:39.887984+00:00",
-  "12302adb1281a8ad": "2026-11-13T13:37:39.887984+00:00"
+  "12302adb1281a8ad": "2026-11-13T13:37:39.887984+00:00",
+  "b5fbdc1e4e1f1ce0": "2026-11-13T13:47:34.328921+00:00",
+  "86096c1d41f840a1": "2026-11-13T13:47:34.328921+00:00",
+  "43bf8f2c572e5b08": "2026-11-13T13:47:34.328921+00:00",
+  "2059a69f0f2a25c2": "2026-11-13T13:47:34.328921+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7881,32 +7883,6 @@
    },
    "last": "2026-11-12T22:06:36.736181+00:00"
   },
-  "S6900": {
-   "title": "Harry Kane's Ballon d'Or rise and England legacy profile",
-   "first": "2026-11-11T13:42:07.223260+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T09:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "How Harry Kane rose to win Ballon d'Or and became an England legend"
-   },
-   "last": "2026-11-11T13:42:07.223278+00:00"
-  },
-  "S6901": {
-   "title": "Untelevised George Russell team radio emerges from Brazil GP",
-   "first": "2026-11-11T13:42:07.223284+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T13:33:14+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "New George Russell evidence as Brazilian Grand Prix team radio emerges"
-   },
-   "last": "2026-11-11T13:42:07.223290+00:00"
-  },
   "S6902": {
    "title": "Vasseur explains why Ferrari accepted Hamilton's power unit penalty",
    "first": "2026-11-11T13:42:07.223294+00:00",
@@ -7921,19 +7897,6 @@
     "PlanetF1": "Ferrari explains 65-place Lewis Hamilton penalty as untelevised team radio emerges – roundup"
    },
    "last": "2026-11-11T17:12:10.457924+00:00"
-  },
-  "S6903": {
-   "title": "Analysis of how dangerous 2026 F1 is in wet conditions",
-   "first": "2026-11-11T13:42:07.223302+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T09:03:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Nach Regen-Chaos in Brasilien: Wie gefährlich ist die Formel 1 von 2026 wirklich? - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T13:42:07.223307+00:00"
   },
   "S6904": {
    "title": "Aston Martin sees positive signs but painful disparity at Interlagos",
@@ -11782,14 +11745,14 @@
    "title": "AI analysis and Blade 7 dartboard feature",
    "first": "2026-11-13T12:27:38.434878+00:00",
    "sources": {
-    "ESPN F1": "2026-11-13T12:22:32+00:00"
+    "ESPN F1": "2026-11-13T12:00:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "AI analysis and 10 million darts: Inside the PDC's new Blade 7 dartboard"
    },
-   "last": "2026-11-13T12:27:38.434898+00:00"
+   "last": "2026-11-13T13:47:37.805251+00:00"
   },
   "S7194": {
    "title": "Review of Pochettino's USMNT tenure",
@@ -12039,9 +12002,48 @@
     "GPblog": "Norris fears ‘scary’ situation for F1 drivers in Las Vegas"
    },
    "last": "2026-11-13T13:37:44.860644+00:00"
+  },
+  "S7213": {
+   "title": "Opinion: Pochettino seen as proper Man United hire",
+   "first": "2026-11-13T13:47:37.805218+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "In Pochettino, Man United have finally hired a proper manager"
+   },
+   "last": "2026-11-13T13:47:37.805240+00:00"
+  },
+  "S7214": {
+   "title": "Bunting comments on Littler struggling in darts",
+   "first": "2026-11-13T13:47:37.805256+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T11:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'Sigh of relief' to see Littler struggle - Bunting"
+   },
+   "last": "2026-11-13T13:47:37.805260+00:00"
+  },
+  "S7215": {
+   "title": "Modrić praises Harry Kane's record-breaking achievement",
+   "first": "2026-11-13T13:47:37.805264+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T09:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Modrić hails record-breaker Harry Kane: 'He deserves it'"
+   },
+   "last": "2026-11-13T13:47:37.805268+00:00"
   }
  },
- "story_seq": 7212,
+ "story_seq": 7215,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12160,7 +12162,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T13:37:39.887984+00:00",
+ "last_run": "2026-11-13T13:47:34.328921+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
