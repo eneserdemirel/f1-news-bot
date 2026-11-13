@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c6d63a2f003eb0f5": "2026-10-30T13:49:27.468217+00:00",
-  "831a210c0e9f2caf": "2026-10-30T13:49:27.468217+00:00",
-  "ec76a36bc330f3c7": "2026-10-30T13:49:27.468217+00:00",
-  "6629f23f25699afa": "2026-10-30T13:54:30.359199+00:00",
-  "e8a0a19830ffb697": "2026-10-30T13:54:30.359199+00:00",
-  "32b125e909f004d7": "2026-10-30T13:54:30.359199+00:00",
   "48787937ea5fc2a1": "2026-10-30T14:09:33.424461+00:00",
   "416fd6abdaac01b6": "2026-10-30T14:09:33.424461+00:00",
   "70d38ffd8ed83ccf": "2026-10-30T14:09:33.424461+00:00",
@@ -7577,7 +7571,12 @@
   "b5fbdc1e4e1f1ce0": "2026-11-13T13:47:34.328921+00:00",
   "86096c1d41f840a1": "2026-11-13T13:47:34.328921+00:00",
   "43bf8f2c572e5b08": "2026-11-13T13:47:34.328921+00:00",
-  "2059a69f0f2a25c2": "2026-11-13T13:47:34.328921+00:00"
+  "2059a69f0f2a25c2": "2026-11-13T13:47:34.328921+00:00",
+  "582fa72276988663": "2026-11-13T13:57:34.398659+00:00",
+  "ca1bef1a19b0b5cf": "2026-11-13T13:57:34.398659+00:00",
+  "81947ebd1425dea1": "2026-11-13T13:57:34.398659+00:00",
+  "7769954f7d23ed4b": "2026-11-13T13:57:34.398659+00:00",
+  "13a5921a36ac7b93": "2026-11-13T13:57:34.398659+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7897,19 +7896,6 @@
     "PlanetF1": "Ferrari explains 65-place Lewis Hamilton penalty as untelevised team radio emerges – roundup"
    },
    "last": "2026-11-11T17:12:10.457924+00:00"
-  },
-  "S6904": {
-   "title": "Aston Martin sees positive signs but painful disparity at Interlagos",
-   "first": "2026-11-11T13:52:10.016459+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T13:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Aston Martin highlight painful disparity after 'unfortunate takeaway'"
-   },
-   "last": "2026-11-11T13:52:10.016477+00:00"
   },
   "S6905": {
    "title": "Jarrell Miller to face Tony Yoka in boxing bout in Ghana",
@@ -9722,14 +9708,16 @@
    "title": "Montoya says Lawson could be next Verstappen",
    "first": "2026-11-12T22:06:36.736203+00:00",
    "sources": {
-    "GPFans": "2026-11-12T20:57:00+00:00"
+    "GPFans": "2026-11-12T20:57:00+00:00",
+    "RacingNews365 NL": "2026-11-13T13:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Liam Lawson 'could be the next Verstappen' as F1 legend makes stunning claim"
+    "GPFans": "Liam Lawson 'could be the next Verstappen' as F1 legend makes stunning claim",
+    "RacingNews365 NL": "Montoya bombardeert Lawson tot nieuwe Verstappen: \"Dat zou kunnen\""
    },
-   "last": "2026-11-12T22:06:36.736206+00:00"
+   "last": "2026-11-13T13:57:38.943193+00:00"
   },
   "S7041": {
    "title": "Wolff reveals he offered to quit Mercedes several times",
@@ -12041,9 +12029,61 @@
     "ESPN F1": "Luka Modrić hails record-breaker Harry Kane: 'He deserves it'"
    },
    "last": "2026-11-13T13:47:37.805268+00:00"
+  },
+  "S7216": {
+   "title": "McIlroy and Hatton share Dubai golf lead",
+   "first": "2026-11-13T13:57:38.943144+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T13:24:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rory McIlroy, Tyrrell Hatton share 36-hole lead in Dubai"
+   },
+   "last": "2026-11-13T13:57:38.943165+00:00"
+  },
+  "S7217": {
+   "title": "Lane Kiffin and LSU playoff hopes",
+   "first": "2026-11-13T13:57:38.943172+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T12:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Can Lane Kiffin and LSU save their playoff hopes?"
+   },
+   "last": "2026-11-13T13:57:38.943178+00:00"
+  },
+  "S7218": {
+   "title": "Antonelli reveals tactic for adapting to new F1 cars",
+   "first": "2026-11-13T13:57:38.943182+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T13:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli divulges secret tactic to unlock radical new F1 cars"
+   },
+   "last": "2026-11-13T13:57:38.943187+00:00"
+  },
+  "S7219": {
+   "title": "Hadjar admits Red Bull's post-Marko era changes",
+   "first": "2026-11-13T13:57:38.943197+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T13:53:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Isack Hadjar makes honest Red Bull admission in post-Marko era"
+   },
+   "last": "2026-11-13T13:57:38.943202+00:00"
   }
  },
- "story_seq": 7215,
+ "story_seq": 7219,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12162,27 +12202,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T13:47:34.328921+00:00",
+ "last_run": "2026-11-13T13:57:34.398659+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T13:48:35.285070+00:00",
-   "title": "McLaren'ın 2027 öncesi ilk önemli ipucu: Yeni ön kanat",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-10T13:48:35.812086+00:00",
-   "title": "Ferrari, Las Vegas GP için Hamilton ve Leclerc'e özel tasarım sundu",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-10T13:48:36.378256+00:00",
-   "title": "Ocon, Haas'tan ayrılığının ardından F1 geleceği konusunda yeni açıklama yaptı",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-10T14:38:38.442484+00:00",
    "title": "Verstappen, Brezilya'da start öncesinde bir sorun olduğunu hemen fark etti",
@@ -13222,6 +13247,16 @@
    "t": "2026-11-13T13:37:49.323310+00:00",
    "title": "Grosjean 23 yıllık kariyerine son veriyor: \"Bunu artık istemiyorum\"",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-13T13:57:44.325207+00:00",
+   "title": "Antonelli yeni F1 araçlarına uyum sırını anlattı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T13:57:44.762213+00:00",
+   "title": "Hadjar: Helmut Marko'nun Red Bull'da olmamasını özlüyorum",
+   "source": "PlanetF1"
   }
  ]
 }
