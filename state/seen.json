@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "009d9f117db105ad": "2026-10-30T07:53:41.594927+00:00",
-  "6ad40902d8dba185": "2026-10-30T07:53:41.594927+00:00",
   "781606f2cb669171": "2026-10-30T08:03:44.137751+00:00",
   "f7ccbb6fc7167c57": "2026-10-30T08:03:44.137751+00:00",
   "ef8434f711821185": "2026-10-30T08:03:44.137751+00:00",
@@ -7620,7 +7618,13 @@
   "1ea9fad88a6add4d": "2026-11-13T07:36:56.808726+00:00",
   "cda2398fdbb0a311": "2026-11-13T07:36:56.808726+00:00",
   "7d20ff297cf0453e": "2026-11-13T07:36:56.808726+00:00",
-  "341d652757590f7f": "2026-11-13T07:46:45.851391+00:00"
+  "341d652757590f7f": "2026-11-13T07:46:45.851391+00:00",
+  "aafb82c6a24add96": "2026-11-13T07:56:50.055083+00:00",
+  "f87378240cb21f2d": "2026-11-13T07:56:50.055083+00:00",
+  "8d0acdb7fe9af7f0": "2026-11-13T07:56:50.055083+00:00",
+  "ceafa2e949ab7522": "2026-11-13T07:56:50.055083+00:00",
+  "f4b767fce6517f47": "2026-11-13T07:56:50.055083+00:00",
+  "693c250bbf58f5fe": "2026-11-13T07:56:50.055083+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7907,19 +7911,6 @@
     "ESPN F1": "Celtics turn 76ers' 'Throw the ball up' slogan into postgame troll"
    },
    "last": "2026-11-11T08:51:24.381217+00:00"
-  },
-  "S6829": {
-   "title": "Pirelli wet-weather tyres to change for 2027 season",
-   "first": "2026-11-11T07:50:31.199600+00:00",
-   "sources": {
-    "The Race": "2026-11-11T07:41:56+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "F1's divisive wet weather tyres to change in 2027 - what we know"
-   },
-   "last": "2026-11-11T07:50:31.199617+00:00"
   },
   "S6830": {
    "title": "Danner praises Verstappen's P21-to-P2 Brazil comeback",
@@ -9816,14 +9807,16 @@
    "title": "Teams let staff decide whether to skip Qatar finale trip",
    "first": "2026-11-11T21:02:42.186358+00:00",
    "sources": {
-    "GPblog": "2026-11-11T21:00:00+00:00"
+    "GPblog": "2026-11-11T21:00:00+00:00",
+    "FormulaPassion": "2026-11-13T07:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Mercedes staff free to skip Qatar as F1 teams quietly let crews decide on Gulf finale"
+    "GPblog": "Mercedes staff free to skip Qatar as F1 teams quietly let crews decide on Gulf finale",
+    "FormulaPassion": "Qatar e Abu Dhabi, Ferrari e Mercedes lasciano libero lo staff: chi non vuole partire può restare a casa"
    },
-   "last": "2026-11-11T21:02:42.186363+00:00"
+   "last": "2026-11-13T07:56:56.574608+00:00"
   },
   "S6972": {
    "title": "Calls for FIA podium intervention after Antonelli's podium decision",
@@ -11632,14 +11625,16 @@
    "title": "Hamilton accuses F1 peers of talking smack, lacking empathy",
    "first": "2026-11-13T05:36:22.038009+00:00",
    "sources": {
-    "RacingNews365": "2026-11-13T05:30:00+00:00"
+    "RacingNews365": "2026-11-13T05:30:00+00:00",
+    "FormulaPassion": "2026-11-13T07:41:32+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Lewis Hamilton lambasts F1 peers for 'talking smack' and lacking empathy"
+    "RacingNews365": "Lewis Hamilton lambasts F1 peers for 'talking smack' and lacking empathy",
+    "FormulaPassion": "Hamilton, frecciata ad Alonso? “Ci sono piloti più anziani che parlano male dei giovani. Non voglio essere come loro”"
    },
-   "last": "2026-11-13T05:36:22.038012+00:00"
+   "last": "2026-11-13T07:56:56.574603+00:00"
   },
   "S7110": {
    "title": "Expert says Ferrari would win more with other drivers",
@@ -11928,9 +11923,61 @@
     "RacingNews365 NL": "McLaren maakt verschil met cruciale upgrade"
    },
    "last": "2026-11-13T07:46:48.978172+00:00"
+  },
+  "S7132": {
+   "title": "The Race analysis: Ferrari Leclerc-Hamilton tensions persist despite calm",
+   "first": "2026-11-13T07:56:56.574584+00:00",
+   "sources": {
+    "The Race": "2026-11-13T07:52:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Ferrari's Leclerc-Hamilton problem is far from solved"
+   },
+   "last": "2026-11-13T07:56:56.574597+00:00"
+  },
+  "S7133": {
+   "title": "EASA flight-safety ruling could affect Qatar and Abu Dhabi GP logistics",
+   "first": "2026-11-13T07:56:56.574611+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T07:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Qatar, Abu Dhabi e il rebus dei voli: una data può cambiare le sorti del finale 2026"
+   },
+   "last": "2026-11-13T07:56:56.574614+00:00"
+  },
+  "S7134": {
+   "title": "Antonelli autographed card sells for $878,400 at auction",
+   "first": "2026-11-13T07:56:56.574616+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Esplode la ‘Kimi-Mania’: Topps vende la carta autografata da Antonelli a 878.400 dollari"
+   },
+   "last": "2026-11-13T07:56:56.574618+00:00"
+  },
+  "S7135": {
+   "title": "Red Bull's plans for reserve driver Nikola Tsolov explored",
+   "first": "2026-11-13T07:56:56.574620+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-13T07:49:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Was Red Bull jetzt mit Nikola Tsolov vorhat - Motorsport-Total.com"
+   },
+   "last": "2026-11-13T07:56:56.574623+00:00"
   }
  },
- "story_seq": 7131,
+ "story_seq": 7135,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12049,7 +12096,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T07:46:45.851391+00:00",
+ "last_run": "2026-11-13T07:56:50.055083+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13074,6 +13121,21 @@
    "t": "2026-11-13T07:46:54.649234+00:00",
    "title": "McLaren, Brezilya'da kritik bir güncellemeyle fark yaratıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-13T07:57:04.154069+00:00",
+   "title": "Antonelli'nin imzalı kartı 878.400 dolara satıldı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T07:57:04.582328+00:00",
+   "title": "Qatar ve Abu Dhabi finali için EASA kararı 16 Kasım'da bekleniyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T07:57:04.980323+00:00",
+   "title": "Ferrari'de Leclerc-Hamilton sorunu hâlâ çözülmüş değil",
+   "source": "The Race"
   }
  ]
 }
