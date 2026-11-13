@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5980c0601cda9b1d": "2026-10-30T18:55:10.561965+00:00",
-  "cbae8aadcfb2192e": "2026-10-30T18:55:10.561965+00:00",
   "2d4b0c342bb268a4": "2026-10-30T19:05:08.692705+00:00",
   "405e3cc8cd1fa888": "2026-10-30T19:05:08.692705+00:00",
   "4f087a50ec90bc26": "2026-10-30T19:10:07.612139+00:00",
@@ -7535,7 +7533,9 @@
   "6744f5b207cc96b1": "2026-11-13T18:38:33.137629+00:00",
   "0424566fabc5e91b": "2026-11-13T18:48:33.948368+00:00",
   "6daeb497ba35f45c": "2026-11-13T18:48:33.948368+00:00",
-  "48e991c83ef968b5": "2026-11-13T18:48:33.948368+00:00"
+  "48e991c83ef968b5": "2026-11-13T18:48:33.948368+00:00",
+  "bfd9b262323fce02": "2026-11-13T18:58:34.196253+00:00",
+  "706436894e2a5157": "2026-11-13T18:58:34.196253+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7819,32 +7819,6 @@
     "ESPN F1": "Tarik Skubal free agency tracker: Latest on top MLB free agent"
    },
    "last": "2026-11-11T19:22:44.606761+00:00"
-  },
-  "S6955": {
-   "title": "Women's World Cup 2027 seeding: top four kept apart until semifinals",
-   "first": "2026-11-11T18:52:43.365200+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T18:07:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Women's World Cup 2027: Top-four ranked teams to be kept apart until semifinals"
-   },
-   "last": "2026-11-11T18:52:43.365217+00:00"
-  },
-  "S6956": {
-   "title": "NHL Department of Player Safety ruling on Jakob Chychrun hit",
-   "first": "2026-11-11T18:52:43.365223+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T17:21:08+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NHL Department of Player Safety deemed Jakob Chychrun’s hit on..."
-   },
-   "last": "2026-11-11T18:52:43.365228+00:00"
   },
   "S6957": {
    "title": "Analysis: Pirelli's Brazil verdict leaves wet-tyre dispute unresolved",
@@ -8262,7 +8236,8 @@
     "Sky Sports F1": "2026-11-11T20:48:00+00:00",
     "Motorsport Week": "2026-11-12T17:00:00+00:00",
     "Crash.net": "2026-11-13T09:08:15+00:00",
-    "GPblog": "2026-11-13T12:00:00+00:00"
+    "GPblog": "2026-11-13T12:00:00+00:00",
+    "GPFans": "2026-11-13T18:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -8270,9 +8245,10 @@
     "Sky Sports F1": "Hamilton urges Israel to 'let the aid trucks in' to Gaza after Rafah border visit",
     "Motorsport Week": "Lewis Hamilton makes heartfelt tribute after witnessing ‘suffering’ during recent visit",
     "Crash.net": "Lewis Hamilton shares heartfelt message after visiting Palestinian children",
-    "GPblog": "Hamilton says meeting children evacuated from Gaza 'broke my heart'"
+    "GPblog": "Hamilton says meeting children evacuated from Gaza 'broke my heart'",
+    "GPFans": "Lewis Hamilton’s emotional encounter with Gaza’s children ‘broke his heart’"
    },
-   "last": "2026-11-13T12:06:52.203176+00:00"
+   "last": "2026-11-13T18:58:37.485408+00:00"
   },
   "S6989": {
    "title": "Stephen Curry confronts critics over comments about wife Ayesha",
@@ -11052,15 +11028,17 @@
    "first": "2026-11-13T12:27:38.434931+00:00",
    "sources": {
     "Gazzetta dello Sport": "2026-11-13T12:19:27+00:00",
-    "Corriere dello Sport": "2026-11-13T18:23:51+00:00"
+    "Corriere dello Sport": "2026-11-13T18:23:51+00:00",
+    "FormulaPassion": "2026-11-13T18:33:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Gazzetta dello Sport": "Kimi Antonelli atteso al Quirinale: oggi l'incontro con il Presidente Sergio Mattarella",
-    "Corriere dello Sport": "Kimi Antonelli e l'incontro con Mattarella: la frase scritta sul casco è bellissima"
+    "Corriere dello Sport": "Kimi Antonelli e l'incontro con Mattarella: la frase scritta sul casco è bellissima",
+    "FormulaPassion": "Antonelli, che onore! Mattarella lo riceve al Quirinale, Kimi gli regala un casco e…lo invita a Monza"
    },
-   "last": "2026-11-13T18:48:37.084520+00:00"
+   "last": "2026-11-13T18:58:37.485419+00:00"
   },
   "S7197": {
    "title": "College football 2028 recruiting class overview",
@@ -12245,7 +12223,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T18:48:33.948368+00:00",
+ "last_run": "2026-11-13T18:58:34.196253+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
@@ -13285,6 +13263,11 @@
    "t": "2026-11-13T18:48:40.570392+00:00",
    "title": "Kimi Antonelli, Mattarella'yı Monza'ya davet etti",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-13T18:58:48.461213+00:00",
+   "title": "Antonelli, Cumhurbaşkanı Mattarella ile Quirinale'de buluştu",
+   "source": "FormulaPassion"
   }
  ]
 }
