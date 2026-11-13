@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bd6a6fa277953a03": "2026-10-30T12:59:29.351264+00:00",
-  "7d9d79be69760fff": "2026-10-30T12:59:29.351264+00:00",
-  "e88ad7b818df3bed": "2026-10-30T12:59:29.351264+00:00",
-  "424deec8c34e11ef": "2026-10-30T13:04:28.626815+00:00",
-  "59c7e9b426d973ec": "2026-10-30T13:04:28.626815+00:00",
-  "ab1066cc0d3a0004": "2026-10-30T13:04:28.626815+00:00",
   "69120afcf7ecf9f0": "2026-10-30T13:09:31.140561+00:00",
   "9a1a720a82273f91": "2026-10-30T13:19:51.037540+00:00",
   "084e8770ffc01304": "2026-10-30T13:19:51.037540+00:00",
@@ -7596,7 +7590,10 @@
   "7349f18b301d8731": "2026-11-13T12:47:34.564083+00:00",
   "bfbd11b14910fa00": "2026-11-13T12:47:34.564083+00:00",
   "1947a9a30f2a53f2": "2026-11-13T12:57:36.240368+00:00",
-  "ef1b9f4e07232dc5": "2026-11-13T12:57:36.240368+00:00"
+  "ef1b9f4e07232dc5": "2026-11-13T12:57:36.240368+00:00",
+  "8dd769bd08e789b6": "2026-11-13T13:07:34.799028+00:00",
+  "04080d17c8b3f369": "2026-11-13T13:07:34.799028+00:00",
+  "ef81cfd617059eef": "2026-11-13T13:07:34.799028+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7796,23 +7793,6 @@
     "PlanetF1": "Lawrence Stroll ‘at wit’s end’ in new Brundle Aston Martin claim"
    },
    "last": "2026-11-13T07:26:54.944018+00:00"
-  },
-  "S6862": {
-   "title": "Leclerc Interlagos penalty under scrutiny; Norris criticises FIA",
-   "first": "2026-11-11T10:31:24.156919+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T10:26:36+00:00",
-    "Crash.net": "2026-11-11T12:17:09+00:00",
-    "GPFans": "2026-11-11T12:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Charles Leclerc penalty under scrutiny as Lando Norris breaks rank on FIA decision",
-    "Crash.net": "Lando Norris disagrees with F1 stewards’ verdict on Charles Leclerc penalty at Brazil GP",
-    "GPFans": "Lando Norris questions result-changing Brazilian Grand Prix penalty"
-   },
-   "last": "2026-11-11T13:01:27.111636+00:00"
   },
   "S6863": {
    "title": "Bearman relieved after tough Haas triple-header ends",
@@ -12042,9 +12022,48 @@
     "GPFans": "Suzuka's iconic 130R corner has been sold to a video game"
    },
    "last": "2026-11-13T12:57:39.049915+00:00"
+  },
+  "S7204": {
+   "title": "JuJu Watkins projected No. 1 WNBA pick in 2027 mock draft",
+   "first": "2026-11-13T13:07:37.255539+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T12:26:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "JuJu Watkins projected No. 1 WNBA pick in latest 2027 mock draft"
+   },
+   "last": "2026-11-13T13:07:37.255559+00:00"
+  },
+  "S7205": {
+   "title": "Hamilton vows things will keep changing at Ferrari",
+   "first": "2026-11-13T13:07:37.255566+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton fires 'how it's going to be' vow after Ferrari F1 furore"
+   },
+   "last": "2026-11-13T13:07:37.255572+00:00"
+  },
+  "S7206": {
+   "title": "Hezemans expects Verstappen to contend for 2027 title",
+   "first": "2026-11-13T13:07:37.255592+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-13T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Interessante Verstappen-factor wijst op toekomstig succes: \"Dan maakt hij serieus kans\""
+   },
+   "last": "2026-11-13T13:07:37.255598+00:00"
   }
  },
- "story_seq": 7203,
+ "story_seq": 7206,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12163,17 +12182,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T12:57:36.240368+00:00",
+ "last_run": "2026-11-13T13:07:34.799028+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T12:58:28.501830+00:00",
-   "title": "Verstappen: \"Kendimi hâlâ en iyi pilot olarak görüyorum, yoksa bırakırdım\"",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-10T13:18:27.390907+00:00",
    "title": "Gasly: \"Bir kez daha puan bölgesini kaçırmak hayal kırıklığı\"",
@@ -13218,6 +13232,16 @@
    "t": "2026-11-13T12:57:43.832925+00:00",
    "title": "Suzuka'nın efsanevi 130R virajının adı bir video oyununa satıldı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-13T13:07:42.824514+00:00",
+   "title": "Hamilton: Ferrari'de kaldığım sürece değişim için baskı yapmaya devam edeceğim",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T13:07:43.254871+00:00",
+   "title": "Hezemans: Verstappen'in tutarlılığı 2027 şampiyonluk şansını artırıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
