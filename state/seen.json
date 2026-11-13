@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c806cc675f6e4b3a": "2026-10-30T16:09:36.397316+00:00",
-  "7eb0ef88dbb1c8c3": "2026-10-30T16:09:36.397316+00:00",
-  "c9c5bc5f8032a8b4": "2026-10-30T16:09:36.397316+00:00",
-  "6e5c5586992538b2": "2026-10-30T16:09:36.397316+00:00",
-  "ca3e7a1e4a437bed": "2026-10-30T16:09:36.397316+00:00",
-  "7ccd98565e60570d": "2026-10-30T16:14:28.647778+00:00",
   "5dfd0fbfaf6f7126": "2026-10-30T16:19:31.253874+00:00",
   "60ca180e9194cf05": "2026-10-30T16:19:31.253874+00:00",
   "accb278ceceb574a": "2026-10-30T16:29:32.207166+00:00",
@@ -7552,7 +7546,13 @@
   "6063f158ad5267b3": "2026-11-13T16:07:35.506330+00:00",
   "7125b63f2ac71455": "2026-11-13T16:07:35.506330+00:00",
   "c85f321bcd2fbc77": "2026-11-13T16:07:35.506330+00:00",
-  "9c4503ce6677cce8": "2026-11-13T16:07:35.506330+00:00"
+  "9c4503ce6677cce8": "2026-11-13T16:07:35.506330+00:00",
+  "f81f9f316e25d0fa": "2026-11-13T16:17:36.754479+00:00",
+  "4552167ee2264534": "2026-11-13T16:17:36.754479+00:00",
+  "36aef91bbe4be592": "2026-11-13T16:17:36.754479+00:00",
+  "9821cae3c8f3bbb1": "2026-11-13T16:17:36.754479+00:00",
+  "9f4a6fb81a089953": "2026-11-13T16:17:36.754479+00:00",
+  "bffb9c1af8e27039": "2026-11-13T16:17:36.754479+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7889,19 +7889,6 @@
     "Crash.net": "Lewis Hamilton loses 'most marketable athlete' crown and overtaken by F1 rival"
    },
    "last": "2026-11-13T10:06:53.499946+00:00"
-  },
-  "S6928": {
-   "title": "Giants reportedly asked Falcons about Bijan Robinson before trade deadline",
-   "first": "2026-11-11T16:12:06.940781+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T16:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Giants called Falcons to ask about Bijan Robinson before trade deadline"
-   },
-   "last": "2026-11-11T16:12:06.940798+00:00"
   },
   "S6929": {
    "title": "USMNT players weigh Pochettino Man United links and replacements",
@@ -9447,15 +9434,17 @@
    "first": "2026-11-12T22:06:36.736227+00:00",
    "sources": {
     "Crash.net": "2026-11-12T16:31:30+00:00",
-    "Motorsport-Total": "2026-11-13T13:34:05+00:00"
+    "Motorsport-Total": "2026-11-13T13:34:05+00:00",
+    "PlanetF1": "2026-11-13T16:15:50+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Ex-F1 star Romain Grosjean makes significant racing career declaration",
-    "Motorsport-Total": "Grosjean zieht nach 23 Jahren einen Schlussstrich: \"Das will ich nicht mehr\" - Motorsport-Total.com"
+    "Motorsport-Total": "Grosjean zieht nach 23 Jahren einen Schlussstrich: \"Das will ich nicht mehr\" - Motorsport-Total.com",
+    "PlanetF1": "Ex-F1 star Romain Grosjean makes huge racing career declaration"
    },
-   "last": "2026-11-13T13:37:44.860651+00:00"
+   "last": "2026-11-13T16:17:43.189557+00:00"
   },
   "S7045": {
    "title": "Braves agree 3-year, $35M deal with reliever Evan Phillips",
@@ -11023,14 +11012,16 @@
    "title": "Pedrosa races KTM MotoGP bike against F1 car on ice",
    "first": "2026-11-13T10:26:51.253392+00:00",
    "sources": {
-    "Crash.net": "2026-11-13T10:15:44+00:00"
+    "Crash.net": "2026-11-13T10:15:44+00:00",
+    "RacingNews365 NL": "2026-11-13T16:10:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice"
+    "Crash.net": "Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice",
+    "RacingNews365 NL": "Red Bull stuurt F1-auto het ijs op tegen MotoGP en rally"
    },
-   "last": "2026-11-13T10:26:51.253396+00:00"
+   "last": "2026-11-13T16:17:43.189552+00:00"
   },
   "S7164": {
    "title": "McEvoy attacks Vasseur over press pass withdrawal",
@@ -11684,7 +11675,7 @@
    "titles": {
     "ESPN F1": "In Pochettino, Man United have finally hired a proper manager"
    },
-   "last": "2026-11-13T13:47:37.805240+00:00"
+   "last": "2026-11-13T16:17:43.189546+00:00"
   },
   "S7214": {
    "title": "Bunting comments on Littler struggling in darts",
@@ -11742,14 +11733,16 @@
    "title": "Antonelli reveals tactic for adapting to new F1 cars",
    "first": "2026-11-13T13:57:38.943182+00:00",
    "sources": {
-    "RacingNews365": "2026-11-13T13:50:00+00:00"
+    "RacingNews365": "2026-11-13T13:50:00+00:00",
+    "FormulaPassion": "2026-11-13T16:00:24+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Kimi Antonelli divulges secret tactic to unlock radical new F1 cars"
+    "RacingNews365": "Kimi Antonelli divulges secret tactic to unlock radical new F1 cars",
+    "FormulaPassion": "Retroscena Antonelli: dietro il titolo un mese non-stop al simulatore"
    },
-   "last": "2026-11-13T13:57:38.943187+00:00"
+   "last": "2026-11-13T16:17:43.189562+00:00"
   },
   "S7219": {
    "title": "Hadjar admits Red Bull's post-Marko era changes",
@@ -12114,9 +12107,35 @@
     "Motorsport-Total": "Bei Mercedes gelernt: Toto Wolff verrät seine wichtigste Lebensweisheit - Motorsport-Total.com"
    },
    "last": "2026-11-13T16:07:43.524733+00:00"
+  },
+  "S7247": {
+   "title": "Oklahoma adds Kamieon Compton-Nero to 2028 recruiting class",
+   "first": "2026-11-13T16:17:43.189506+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T15:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Oklahoma adds Kamieon Compton-Nero to 2028 recruiting class"
+   },
+   "last": "2026-11-13T16:17:43.189526+00:00"
+  },
+  "S7248": {
+   "title": "Where to watch PFL Dubai Nemkov vs Bilostenniy",
+   "first": "2026-11-13T16:17:43.189533+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T15:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Where to watch PFL Dubai: Nemkov-Bilostenniy"
+   },
+   "last": "2026-11-13T16:17:43.189538+00:00"
   }
  },
- "story_seq": 7246,
+ "story_seq": 7248,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12235,7 +12254,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T16:07:35.506330+00:00",
+ "last_run": "2026-11-13T16:17:36.754479+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
@@ -13285,6 +13304,11 @@
    "t": "2026-11-13T16:07:47.092312+00:00",
    "title": "Toto Wolff, Mercedes'te öğrendiği en önemli yaşam dersini açıkladı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-13T16:17:46.974372+00:00",
+   "title": "Red Bull, F1 aracını donmuş gölde MotoGP ve ralli araçlarıyla yarıştırıyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
