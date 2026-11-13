@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "643ecc117e874913": "2026-10-30T19:50:08.657493+00:00",
-  "440d830b6b6dc2bf": "2026-10-30T19:50:08.657493+00:00",
-  "c5b1941284cb87d4": "2026-10-30T19:50:08.657493+00:00",
-  "df45e917632faabd": "2026-10-30T19:55:12.044669+00:00",
-  "e8bbc57502e5d519": "2026-10-30T19:55:12.044669+00:00",
-  "8a501ae0631fe7f8": "2026-10-30T19:55:12.044669+00:00",
   "fd84c7f1e4fdab43": "2026-10-30T20:00:10.094039+00:00",
   "1d5a835491366982": "2026-10-30T20:00:10.094039+00:00",
   "76f1a73f975e9150": "2026-10-30T20:00:10.094039+00:00",
@@ -7513,7 +7507,11 @@
   "eea0b0aa012e834f": "2026-11-13T19:18:34.402690+00:00",
   "6f97653223f3ed05": "2026-11-13T19:28:36.683561+00:00",
   "f766ba7eb84ff883": "2026-11-13T19:38:35.442055+00:00",
-  "281e7a3dec2cfb31": "2026-11-13T19:48:34.912879+00:00"
+  "281e7a3dec2cfb31": "2026-11-13T19:48:34.912879+00:00",
+  "9ff3dc505b7252ff": "2026-11-13T19:58:33.399022+00:00",
+  "45b6088ddd02552f": "2026-11-13T19:58:33.399022+00:00",
+  "94032a4d59ad7df9": "2026-11-13T19:58:33.399022+00:00",
+  "1b4ae4016be13247": "2026-11-13T19:58:33.399022+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7814,19 +7812,6 @@
     "GPFans": "Lewis Hamilton launches scathing attack over Gaza aid crisis: 'No excuse'"
    },
    "last": "2026-11-12T22:06:36.736215+00:00"
-  },
-  "S6963": {
-   "title": "Bengals' Zac Taylor apologizes for failed Eagles trade",
-   "first": "2026-11-11T19:52:45.948008+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T19:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bengals' Zac Taylor apologizes for failed trade with Eagles: 'It was on our end'"
-   },
-   "last": "2026-11-11T19:52:45.948025+00:00"
   },
   "S6964": {
    "title": "UFC's Josh Hokit defends vulgar Michelle Obama remarks",
@@ -12095,9 +12080,48 @@
     "ESPN F1": "Can Minnesota complete full rivalry trophy gauntlet vs. Penn State?"
    },
    "last": "2026-11-13T19:48:36.377231+00:00"
+  },
+  "S7284": {
+   "title": "Sources say Pelicans' Murray wants trade; talks ongoing",
+   "first": "2026-11-13T19:58:35.976244+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T19:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   },
+   "last": "2026-11-13T19:58:35.976269+00:00"
+  },
+  "S7285": {
+   "title": "Saudi Arabia 3-2 South Korea player stats",
+   "first": "2026-11-13T19:58:35.976274+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T15:40:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Saudi Arabia 3-2 South Korea (Nov 13, 2026) Player Stats"
+   },
+   "last": "2026-11-13T19:58:35.976278+00:00"
+  },
+  "S7286": {
+   "title": "Peter Windsor says Webber friendship broke over Piastri move",
+   "first": "2026-11-13T19:58:35.976282+00:00",
+   "sources": {
+    "GPFans": "2026-11-13T19:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 journalist claims Mark Webber friendship broke down over Oscar Piastri move"
+   },
+   "last": "2026-11-13T19:58:35.976286+00:00"
   }
  },
- "story_seq": 7283,
+ "story_seq": 7286,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12216,17 +12240,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T19:48:34.912879+00:00",
+ "last_run": "2026-11-13T19:58:33.399022+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T19:49:19.087990+00:00",
-   "title": "Mercedes iki şampiyonluğu kazandı, peki Red Bull neden motor desteği alamıyor?",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-10T19:59:23.726682+00:00",
    "title": "Kelly Piquet, Verstappen ailesine yeni katılanları duyurdu",
@@ -13246,6 +13265,11 @@
    "t": "2026-11-13T19:18:40.478214+00:00",
    "title": "Lawson, Brezilya'da Verstappen'in geri dönüşüne yardım etti",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-13T19:58:42.333531+00:00",
+   "title": "Peter Windsor: Mark Webber ile arkadaşlığım Piastri'nin McLaren hamlesi yüzünden bitti",
+   "source": "GPFans"
   }
  ]
 }
