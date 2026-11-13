@@ -7571,7 +7571,11 @@
   "a09012c93212089b": "2026-11-13T13:17:35.770211+00:00",
   "421513376f54dad0": "2026-11-13T13:17:35.770211+00:00",
   "c8f2a0d6e64ffa57": "2026-11-13T13:27:36.475530+00:00",
-  "f3f29375a79670b4": "2026-11-13T13:27:36.475530+00:00"
+  "f3f29375a79670b4": "2026-11-13T13:27:36.475530+00:00",
+  "ea7a4acb51915d55": "2026-11-13T13:37:39.887984+00:00",
+  "d11f6ecd6d88d4cf": "2026-11-13T13:37:39.887984+00:00",
+  "524e86c05ac472c5": "2026-11-13T13:37:39.887984+00:00",
+  "12302adb1281a8ad": "2026-11-13T13:37:39.887984+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7876,19 +7880,6 @@
     "GPblog": "Antonelli leaves Toto Wolff speechless with Italian tricolour hairstyle"
    },
    "last": "2026-11-12T22:06:36.736181+00:00"
-  },
-  "S6899": {
-   "title": "Lindblad scoreless again; what went wrong in Brazil",
-   "first": "2026-11-11T13:31:21.852174+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T13:28:43+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Arvid Lindblad erneut ohne Punkte: Was in Brasilien genau schiefgelaufen ist - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T13:31:21.852180+00:00"
   },
   "S6900": {
    "title": "Harry Kane's Ballon d'Or rise and England legacy profile",
@@ -9824,14 +9815,16 @@
    "title": "Grosjean says single-seater racing career likely over",
    "first": "2026-11-12T22:06:36.736227+00:00",
    "sources": {
-    "Crash.net": "2026-11-12T16:31:30+00:00"
+    "Crash.net": "2026-11-12T16:31:30+00:00",
+    "Motorsport-Total": "2026-11-13T13:34:05+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Ex-F1 star Romain Grosjean makes significant racing career declaration"
+    "Crash.net": "Ex-F1 star Romain Grosjean makes significant racing career declaration",
+    "Motorsport-Total": "Grosjean zieht nach 23 Jahren einen Schlussstrich: \"Das will ich nicht mehr\" - Motorsport-Total.com"
    },
-   "last": "2026-11-12T22:06:36.736231+00:00"
+   "last": "2026-11-13T13:37:44.860651+00:00"
   },
   "S7045": {
    "title": "Braves agree 3-year, $35M deal with reliever Evan Phillips",
@@ -12007,9 +12000,48 @@
     "FormulaPassion": "Verstappen non parte mai troppo indietro: podio da 18 posizioni diverse"
    },
    "last": "2026-11-13T13:27:39.788694+00:00"
+  },
+  "S7210": {
+   "title": "Michael Carrick breaks silence after Man United sacking",
+   "first": "2026-11-13T13:37:44.860601+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T13:02:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michael Carrick breaks silence after Man United sacking, love for club 'never dies'"
+   },
+   "last": "2026-11-13T13:37:44.860622+00:00"
+  },
+  "S7211": {
+   "title": "Bruno Fernandes rejects contract offer, talks continue",
+   "first": "2026-11-13T13:37:44.860628+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T11:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bruno Fernandes rejects contract, Man United relaxed as talks continue - sources"
+   },
+   "last": "2026-11-13T13:37:44.860635+00:00"
+  },
+  "S7212": {
+   "title": "Norris warns of 'scary' Las Vegas tyre temperature conditions",
+   "first": "2026-11-13T13:37:44.860639+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Norris fears ‘scary’ situation for F1 drivers in Las Vegas"
+   },
+   "last": "2026-11-13T13:37:44.860644+00:00"
   }
  },
- "story_seq": 7209,
+ "story_seq": 7212,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12128,17 +12160,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T13:27:36.475530+00:00",
+ "last_run": "2026-11-13T13:37:39.887984+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T13:28:29.612919+00:00",
-   "title": "Toto Wolff neden Frank Williams ile kıyaslanmak istemiyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-10T13:48:35.285070+00:00",
    "title": "McLaren'ın 2027 öncesi ilk önemli ipucu: Yeni ön kanat",
@@ -13183,6 +13210,16 @@
    "t": "2026-11-13T13:07:43.254871+00:00",
    "title": "Hezemans: Verstappen'in tutarlılığı 2027 şampiyonluk şansını artırıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-13T13:37:48.830379+00:00",
+   "title": "Norris, Las Vegas'ta pistlerdeki lastik ısınma sorununa dikkat çekti",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-13T13:37:49.323310+00:00",
+   "title": "Grosjean 23 yıllık kariyerine son veriyor: \"Bunu artık istemiyorum\"",
+   "source": "Motorsport-Total"
   }
  ]
 }
