@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0cc6e844df0d232e": "2026-10-30T18:04:32.657715+00:00",
-  "f1f95be714f8e692": "2026-10-30T18:04:32.657715+00:00",
-  "4048159d4cb68fd6": "2026-10-30T18:04:32.657715+00:00",
-  "3e2d353fc13036e5": "2026-10-30T18:04:32.657715+00:00",
-  "93b9ff46cea22b07": "2026-10-30T18:05:10.048869+00:00",
   "80cf377cba5aa463": "2026-10-30T18:15:05.846123+00:00",
   "983e1e209aa830b3": "2026-10-30T18:20:12.220014+00:00",
   "69dcebac13967ad9": "2026-10-30T18:20:12.220014+00:00",
@@ -7542,7 +7537,11 @@
   "59acfea84472b057": "2026-11-13T17:38:35.405732+00:00",
   "dbf9df55d3a68852": "2026-11-13T17:48:48.969468+00:00",
   "4ba347c4baa1dec9": "2026-11-13T17:48:48.969468+00:00",
-  "185b541e68fcb832": "2026-11-13T17:58:37.534548+00:00"
+  "185b541e68fcb832": "2026-11-13T17:58:37.534548+00:00",
+  "7124c8aff608baa2": "2026-11-13T18:08:34.749643+00:00",
+  "5c0ec546c1aeb482": "2026-11-13T18:08:34.749643+00:00",
+  "13d7070ef2f53638": "2026-11-13T18:08:34.749643+00:00",
+  "f83e1c187379695f": "2026-11-13T18:08:34.749643+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7843,19 +7842,6 @@
     "ESPN F1": "Panthers 4-1 Blue Jackets (Nov 10, 2026) Game Recap"
    },
    "last": "2026-11-11T22:42:41.868824+00:00"
-  },
-  "S6946": {
-   "title": "Will Stevens says he could have achieved more in F1",
-   "first": "2026-11-11T18:02:08.866282+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T18:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "'I would have liked to have shown more in Formula 1, but that's life'"
-   },
-   "last": "2026-11-11T18:02:08.866288+00:00"
   },
   "S6947": {
    "title": "Windsor says Leclerc is a dirty driver and Hamilton's complaints are ridiculous",
@@ -10356,14 +10342,16 @@
    "title": "Antonelli autographed card sells for $878,400 at auction",
    "first": "2026-11-13T07:56:56.574616+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-13T07:00:00+00:00"
+    "FormulaPassion": "2026-11-13T07:00:00+00:00",
+    "GPblog": "2026-11-13T18:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Esplode la ‘Kimi-Mania’: Topps vende la carta autografata da Antonelli a 878.400 dollari"
+    "FormulaPassion": "Esplode la ‘Kimi-Mania’: Topps vende la carta autografata da Antonelli a 878.400 dollari",
+    "GPblog": "Antonelli mania hits new heights as F1 collectible sells for almost $1 million"
    },
-   "last": "2026-11-13T07:56:56.574618+00:00"
+   "last": "2026-11-13T18:08:37.740064+00:00"
   },
   "S7135": {
    "title": "Red Bull's plans for reserve driver Nikola Tsolov explored",
@@ -12088,9 +12076,48 @@
     "RacingNews365 NL": "Waarom Piastri maar niet kan aanhaken bij Norris"
    },
    "last": "2026-11-13T17:58:39.744366+00:00"
+  },
+  "S7265": {
+   "title": "Canada and Finland reach women's hockey worlds semifinals",
+   "first": "2026-11-13T18:08:37.740021+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T18:02:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canada, Finland advance to women's hockey worlds semifinals"
+   },
+   "last": "2026-11-13T18:08:37.740040+00:00"
+  },
+  "S7266": {
+   "title": "Alyssa Naeher announces retirement after 16-year NWSL career",
+   "first": "2026-11-13T18:08:37.740046+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T17:13:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USWNT, NWSL legend Alyssa Naeher announces retirement after 16-year career"
+   },
+   "last": "2026-11-13T18:08:37.740051+00:00"
+  },
+  "S7267": {
+   "title": "Connelly previews NFL Week 11 make-or-break games",
+   "first": "2026-11-13T18:08:37.740055+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T12:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Connelly previews Week 11 - 32 make-or-break showdowns"
+   },
+   "last": "2026-11-13T18:08:37.740059+00:00"
   }
  },
- "story_seq": 7264,
+ "story_seq": 7267,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12209,7 +12236,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T17:58:37.534548+00:00",
+ "last_run": "2026-11-13T18:08:34.749643+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
