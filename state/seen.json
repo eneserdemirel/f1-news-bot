@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "55a71d1c82af1e9c": "2026-10-30T10:23:40.900295+00:00",
   "190a36809249788d": "2026-10-30T10:33:41.005196+00:00",
   "1b0200a1c48a7aef": "2026-10-30T10:33:41.005196+00:00",
   "3073e82d7fb8a8fb": "2026-10-30T10:33:41.005196+00:00",
@@ -7590,7 +7589,15 @@
   "214e3d3e513d2d45": "2026-11-13T10:06:46.083275+00:00",
   "32e283d4ca0e333e": "2026-11-13T10:06:46.083275+00:00",
   "3d06dfffd07d78d3": "2026-11-13T10:06:46.083275+00:00",
-  "fa3299fffbbee750": "2026-11-13T10:06:46.083275+00:00"
+  "fa3299fffbbee750": "2026-11-13T10:06:46.083275+00:00",
+  "7f3a5f64f39a92b0": "2026-11-13T10:26:46.033484+00:00",
+  "bc9e0f5720d2eb01": "2026-11-13T10:26:46.033484+00:00",
+  "f2aadde640d233df": "2026-11-13T10:26:46.033484+00:00",
+  "41bde0f41ec4a9d4": "2026-11-13T10:26:46.033484+00:00",
+  "65c56a4206d56e0e": "2026-11-13T10:26:46.033484+00:00",
+  "18f71f940a851721": "2026-11-13T10:26:46.033484+00:00",
+  "c8fcb7b1f2544abf": "2026-11-13T10:26:46.033484+00:00",
+  "1af0663164f4f525": "2026-11-13T10:26:46.033484+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7848,19 +7855,6 @@
    },
    "last": "2026-11-11T11:41:26.173200+00:00"
   },
-  "S6858": {
-   "title": "Rene Rosin says Antonelli's potential was clear early on",
-   "first": "2026-11-11T10:21:28.744072+00:00",
-   "sources": {
-    "Formula 1": "2026-11-11T10:21:28.744087+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "‘He was immediately fast’ – Antonelli’s junior racing boss on his early potential"
-   },
-   "last": "2026-11-11T10:21:28.744091+00:00"
-  },
   "S6859": {
    "title": "Brundle says a team boss is at wit's end over reliability",
    "first": "2026-11-11T10:21:28.744106+00:00",
@@ -7877,32 +7871,6 @@
     "PlanetF1": "Lawrence Stroll ‘at wit’s end’ in new Brundle Aston Martin claim"
    },
    "last": "2026-11-13T07:26:54.944018+00:00"
-  },
-  "S6860": {
-   "title": "Imola mayor reacts to FIA and F1 season finale decision",
-   "first": "2026-11-11T10:21:28.744115+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T10:17:58+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Il Sindaco di Imola prende atto della decisione finale di FIA e F1"
-   },
-   "last": "2026-11-11T10:21:28.744119+00:00"
-  },
-  "S6861": {
-   "title": "Andrea Stella praises Verstappen and Hamilton's start phase",
-   "first": "2026-11-11T10:21:28.744122+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T10:11:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Andrea Stella: Startphase von Verstappen und Hamilton war \"einfach unglaublich\" - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T10:21:28.744126+00:00"
   },
   "S6862": {
    "title": "Leclerc Interlagos penalty under scrutiny; Norris criticises FIA",
@@ -11885,9 +11853,48 @@
     "Motorsport-Total": "Formel-1-Star George Russell macht 25 Kindern ein besonderes Angebot - Motorsport-Total.com"
    },
    "last": "2026-11-13T10:06:53.499950+00:00"
+  },
+  "S7162": {
+   "title": "F1 Academy champion Palmowski gets funded 2027 FREC seat",
+   "first": "2026-11-13T10:26:51.253377+00:00",
+   "sources": {
+    "Formula 1": "2026-11-13T10:26:51.253386+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "F1 ACADEMY Champion Palmowski graduates to Formula Regional"
+   },
+   "last": "2026-11-13T10:26:51.253388+00:00"
+  },
+  "S7163": {
+   "title": "Pedrosa races KTM MotoGP bike against F1 car on ice",
+   "first": "2026-11-13T10:26:51.253392+00:00",
+   "sources": {
+    "Crash.net": "2026-11-13T10:15:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice"
+   },
+   "last": "2026-11-13T10:26:51.253396+00:00"
+  },
+  "S7164": {
+   "title": "McEvoy attacks Vasseur over press pass withdrawal",
+   "first": "2026-11-13T10:26:51.253398+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T10:08:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Giornalista del Daily Mail si scaglia contro Vasseur per il ritiro del pass. Ma la Ferrari non c’entra"
+   },
+   "last": "2026-11-13T10:26:51.253401+00:00"
   }
  },
- "story_seq": 7161,
+ "story_seq": 7164,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12006,17 +12013,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T10:16:46.115536+00:00",
+ "last_run": "2026-11-13T10:26:46.033484+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T10:17:45.554518+00:00",
-   "title": "Red Bull, Verstappen'in Brezilya'daki ceza sonrası geri dönüşünü değerlendirdi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-10T10:27:51.851788+00:00",
    "title": "Hulkenberg: Sao Paulo'da 10. olmak mümkün olanın en iyisiydi",
@@ -13065,6 +13067,11 @@
   {
    "t": "2026-11-13T10:06:59.300640+00:00",
    "title": "Mercedes, Formula 1 tarihindeki dokuzuncu takımlar şampiyonluğunu kazandı",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-13T10:26:55.438161+00:00",
+   "title": "Palmowski, Rodin Motorsport ile 2027'de Formula Regional'a yükseliyor",
    "source": "Formula 1"
   }
  ]
