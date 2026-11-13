@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e26d7f94122d9794": "2026-10-30T12:38:40.222941+00:00",
-  "4fd111ffda0e767f": "2026-10-30T12:43:46.039590+00:00",
-  "668dbd5cc4982354": "2026-10-30T12:43:46.039590+00:00",
-  "e233f591debf549c": "2026-10-30T12:43:46.039590+00:00",
   "2d5ebb141c4365ea": "2026-10-30T12:48:41.798802+00:00",
   "fbfe1dc82c82ec56": "2026-10-30T12:48:41.798802+00:00",
   "d9ae5b0ba2e36c41": "2026-10-30T12:48:41.798802+00:00",
@@ -7602,7 +7598,10 @@
   "ffe637c80d76dea2": "2026-11-13T12:37:33.576375+00:00",
   "ed2b640fbf6efca8": "2026-11-13T12:37:33.576375+00:00",
   "479d927e6922b9ef": "2026-11-13T12:37:33.576375+00:00",
-  "aa899332635a7424": "2026-11-13T12:37:33.576375+00:00"
+  "aa899332635a7424": "2026-11-13T12:37:33.576375+00:00",
+  "eaac22976fc4b7ae": "2026-11-13T12:47:34.564083+00:00",
+  "7349f18b301d8731": "2026-11-13T12:47:34.564083+00:00",
+  "bfbd11b14910fa00": "2026-11-13T12:47:34.564083+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7863,19 +7862,6 @@
    },
    "last": "2026-11-11T21:32:43.456617+00:00"
   },
-  "S6886": {
-   "title": "Why protected picks aren't common in NFL trades",
-   "first": "2026-11-11T12:41:24.051467+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T11:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why protected picks aren't common in NFL trades"
-   },
-   "last": "2026-11-11T12:41:24.051508+00:00"
-  },
   "S6887": {
    "title": "Red Bull champion praises Palmowski, F1 Academy nickname",
    "first": "2026-11-11T12:41:24.051515+00:00",
@@ -7890,32 +7876,6 @@
     "RacingNews365": "Red Bull champion hails 'open and welcoming' Max Verstappen support"
    },
    "last": "2026-11-11T17:12:10.457918+00:00"
-  },
-  "S6888": {
-   "title": "Horner's Red Bull 'mojo' claim rejected after winning surge",
-   "first": "2026-11-11T12:41:24.051525+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T12:34:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Christian Horner’s Red Bull ‘mojo’ claim rejected after winning surge"
-   },
-   "last": "2026-11-11T12:41:24.051530+00:00"
-  },
-  "S6889": {
-   "title": "Bortoleto happy with pace but frustrated by Brazil home race",
-   "first": "2026-11-11T12:41:24.051534+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T12:33:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Mit der Pace \"ziemlich zufrieden\", aber: Bortoleto hadert mit Brasilien-Heimspiel - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T12:41:24.051538+00:00"
   },
   "S6890": {
    "title": "Verstappen says he would never sign two number one drivers",
@@ -11360,15 +11320,17 @@
    "first": "2026-11-13T09:06:50.012190+00:00",
    "sources": {
     "PlanetF1": "2026-11-13T09:05:11+00:00",
-    "RacingNews365 NL": "2026-11-13T12:15:00+00:00"
+    "RacingNews365 NL": "2026-11-13T12:15:00+00:00",
+    "GPblog": "2026-11-13T12:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "George Russell hit with ‘Antonelli’s Barrichello’ warning from Schumacher",
-    "RacingNews365 NL": "Russell ontvangt 'Barrichello'-waarschuwing: \"Twijfel ik geen moment aan\""
+    "RacingNews365 NL": "Russell ontvangt 'Barrichello'-waarschuwing: \"Twijfel ik geen moment aan\"",
+    "GPblog": "Russell tipped to become ‘Antonelli’s Barrichello’ in blunt verdict"
    },
-   "last": "2026-11-13T12:27:38.434919+00:00"
+   "last": "2026-11-13T12:47:37.142981+00:00"
   },
   "S7149": {
    "title": "FIA suspends journalist McEvoy for rest of season over Leclerc column",
@@ -11980,7 +11942,7 @@
    "titles": {
     "ESPN F1": "Pochettino's USMNT tenure had ups, downs and an ever-present mercenary feel"
    },
-   "last": "2026-11-13T12:27:38.434912+00:00"
+   "last": "2026-11-13T12:47:37.142957+00:00"
   },
   "S7195": {
    "title": "Ben Sulayem says rules won't change for Chinese team entry",
@@ -12059,9 +12021,22 @@
     "Corriere dello Sport": "Il “wow” e gli occhi lucidi di Kimi Antonelli fanno il giro del mondo: i retroscena sulla maglia e un incontro speciale"
    },
    "last": "2026-11-13T12:37:37.680677+00:00"
+  },
+  "S7201": {
+   "title": "Hamilton says where Ferrari should focus for final three races",
+   "first": "2026-11-13T12:47:37.142967+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T12:43:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton reveals key Ferrari focus for remainder of F1 2026"
+   },
+   "last": "2026-11-13T12:47:37.142974+00:00"
   }
  },
- "story_seq": 7200,
+ "story_seq": 7201,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12180,7 +12155,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T12:37:33.576375+00:00",
+ "last_run": "2026-11-13T12:47:34.564083+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
@@ -13230,6 +13205,11 @@
    "t": "2026-11-13T12:37:42.380074+00:00",
    "title": "Kimi Antonelli'nin San Siro'daki duygusal anları ve özel maillsi",
    "source": "Corriere dello Sport"
+  },
+  {
+   "t": "2026-11-13T12:47:43.062242+00:00",
+   "title": "Hamilton: Ferrari sezon sonuna kadar ikinciliğe odaklanmalı",
+   "source": "PlanetF1"
   }
  ]
 }
