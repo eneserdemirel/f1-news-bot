@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "af41b47e342b5e40": "2026-10-30T06:22:58.427485+00:00",
-  "0c4bdd75849968c1": "2026-10-30T06:22:58.427485+00:00",
   "327bfba0db588377": "2026-10-30T06:32:53.639423+00:00",
   "a761501c4276206a": "2026-10-30T06:32:53.639423+00:00",
   "cdfb038dbf0e8e49": "2026-10-30T06:32:53.639423+00:00",
@@ -7626,7 +7624,9 @@
   "2878dc39a19a7bd0": "2026-11-13T06:06:17.327052+00:00",
   "3a115e48ddbd9ef0": "2026-11-13T06:06:17.327052+00:00",
   "4a4bf2d6ef659dbd": "2026-11-13T06:06:17.327052+00:00",
-  "6acbc08bb3f42833": "2026-11-13T06:16:16.979922+00:00"
+  "6acbc08bb3f42833": "2026-11-13T06:16:16.979922+00:00",
+  "a81ce21876b8a750": "2026-11-13T06:26:18.087093+00:00",
+  "379d10b9ab906712": "2026-11-13T06:26:18.087093+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7786,21 +7786,6 @@
    },
    "last": "2026-11-11T10:11:25.713459+00:00"
   },
-  "S6688": {
-   "title": "Hamilton and Leclerc joke after Ferrari crisis meeting",
-   "first": "2026-11-10T16:59:19.433095+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-10T16:55:04+00:00",
-    "FormulaPassion": "2026-11-11T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ferrari: Hamilton und Leclerc machten Witze nach dem Krisengespräch - Motorsport-Total.com",
-    "FormulaPassion": "Vasseur: “Leclerc e Hamilton sono usciti dalla riunione scherzando. Spero continui così”"
-   },
-   "last": "2026-11-11T06:20:44.952808+00:00"
-  },
   "S6692": {
    "title": "Coulthard warns Norris over podium firework injury",
    "first": "2026-11-10T17:09:15.948514+00:00",
@@ -7952,19 +7937,6 @@
     "GPblog": "Liberty boss went to Qatar in person before F1 gave its Gulf finale the green light"
    },
    "last": "2026-11-11T07:01:00.004182+00:00"
-  },
-  "S6818": {
-   "title": "Ferrari's rain performance improving despite Brazil struggles",
-   "first": "2026-11-11T06:20:44.952783+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "La Ferrari non ama la pioggia, ma fa progressi"
-   },
-   "last": "2026-11-11T06:20:44.952800+00:00"
   },
   "S6819": {
    "title": "Analyst says Antonelli could move to Ferrari soon",
@@ -11560,14 +11532,14 @@
    "title": "Panthers 5-4 Red Wings NHL game recap",
    "first": "2026-11-13T03:26:18.612940+00:00",
    "sources": {
-    "ESPN F1": "2026-11-13T03:17:28+00:00"
+    "ESPN F1": "2026-11-13T03:17:06+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Panthers 5-4 Red Wings (13 Nov, 2026) Game Recap"
    },
-   "last": "2026-11-13T03:26:18.612957+00:00"
+   "last": "2026-11-13T06:26:20.282300+00:00"
   },
   "S7090": {
    "title": "Travis Hunter jokes about Jessie Bates' Jaguars trade with nephews",
@@ -11971,9 +11943,22 @@
     "ESPN F1": "Canadiens 5-2 Bruins (Nov 12, 2026) Game Recap"
    },
    "last": "2026-11-13T06:16:18.692033+00:00"
+  },
+  "S7121": {
+   "title": "Verstappen names Red Bull factor behind Las Vegas car challenge",
+   "first": "2026-11-13T06:26:20.282311+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen reveals key Red Bull factor in facing major Las Vegas issue"
+   },
+   "last": "2026-11-13T06:26:20.282317+00:00"
   }
  },
- "story_seq": 7120,
+ "story_seq": 7121,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12092,7 +12077,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T06:16:16.979922+00:00",
+ "last_run": "2026-11-13T06:26:18.087093+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13107,6 +13092,11 @@
    "t": "2026-11-13T06:06:31.410532+00:00",
    "title": "Jock Clear: Leclerc Hamilton'ın meydan okumasından kaçmaz",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-13T06:26:24.605890+00:00",
+   "title": "Verstappen: Las Vegas'ta lastik ısınması Red Bull için belirleyici",
+   "source": "RacingNews365"
   }
  ]
 }
