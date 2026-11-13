@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fd84c7f1e4fdab43": "2026-10-30T20:00:10.094039+00:00",
-  "1d5a835491366982": "2026-10-30T20:00:10.094039+00:00",
-  "76f1a73f975e9150": "2026-10-30T20:00:10.094039+00:00",
-  "d3d8400b47357f4a": "2026-10-30T20:05:10.464377+00:00",
   "7c101b21502d1667": "2026-10-30T20:10:06.401914+00:00",
   "ad2aa23187622b6f": "2026-10-30T20:15:09.411008+00:00",
   "34efcb6017659ef2": "2026-10-30T20:15:09.411008+00:00",
@@ -7511,7 +7507,9 @@
   "9ff3dc505b7252ff": "2026-11-13T19:58:33.399022+00:00",
   "45b6088ddd02552f": "2026-11-13T19:58:33.399022+00:00",
   "94032a4d59ad7df9": "2026-11-13T19:58:33.399022+00:00",
-  "1b4ae4016be13247": "2026-11-13T19:58:33.399022+00:00"
+  "1b4ae4016be13247": "2026-11-13T19:58:33.399022+00:00",
+  "005167f2dd7b7fe0": "2026-11-13T20:08:34.975175+00:00",
+  "79d42680655275cd": "2026-11-13T20:08:34.975175+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7565,29 +7563,6 @@
     "AS": "La F1 mantiene su final en Oriente Medio"
    },
    "last": "2026-11-12T22:06:36.736109+00:00"
-  },
-  "S6624": {
-   "title": "Hamilton visits Egypt humanitarian aid facilities near Gaza",
-   "first": "2026-11-10T11:37:43.337560+00:00",
-   "sources": {
-    "Crash.net": "2026-11-10T11:35:00+00:00",
-    "FormulaPassion": "2026-11-10T13:39:11+00:00",
-    "GPFans": "2026-11-10T21:27:00+00:00",
-    "Motorsport.com Italia": "2026-11-11T10:29:19+00:00",
-    "Motorsport-Total": "2026-11-11T14:17:46+00:00",
-    "GPblog": "2026-11-11T20:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Lewis Hamilton travels to Egypt to visit Gaza humanitarian aid facilities",
-    "FormulaPassion": "Hamilton campione in pista e fuori: in Egitto per visitare le strutture di aiuti umanitari per Gaza",
-    "GPFans": "Lewis Hamilton jets in to support Gaza humanitarian efforts",
-    "Motorsport.com Italia": "F1 | Hamilton al valico di Rafah per supportare gli aiuti a Gaza: sappiamo chi è il vero Lewis?",
-    "Motorsport-Total": "Lewis Hamilton besucht Hilfsorganisationen an der Grenze zum Gazastreifen - Motorsport-Total.com",
-    "GPblog": "Hamilton visits Gaza border crossing in Egypt days after 400th F1 start"
-   },
-   "last": "2026-11-11T20:02:42.701558+00:00"
   },
   "S6799": {
    "title": "Untelevised Verstappen team radio emerges from Brazilian GP",
@@ -7813,19 +7788,6 @@
    },
    "last": "2026-11-12T22:06:36.736215+00:00"
   },
-  "S6964": {
-   "title": "UFC's Josh Hokit defends vulgar Michelle Obama remarks",
-   "first": "2026-11-11T20:02:42.701523+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T19:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UFC's Josh Hokit says he'll 'never' regret vulgar Michelle Obama remarks"
-   },
-   "last": "2026-11-11T20:02:42.701540+00:00"
-  },
   "S6965": {
    "title": "Mike Tomlin excited about broadcast role, no coaching return",
    "first": "2026-11-11T20:02:42.701546+00:00",
@@ -7838,19 +7800,6 @@
     "ESPN F1": "Mike Tomlin: 'Excited' about broadcast role, hasn't considered coaching return"
    },
    "last": "2026-11-11T21:42:41.910450+00:00"
-  },
-  "S6966": {
-   "title": "Horner discusses 'difficult' inappropriate behaviour allegations at Red Bull",
-   "first": "2026-11-11T20:02:42.701562+00:00",
-   "sources": {
-    "GPFans": "2026-11-11T19:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner opens up on 'difficult' allegations of 'inappropriate behaviour' at Red Bull"
-   },
-   "last": "2026-11-11T20:02:42.701567+00:00"
   },
   "S6967": {
    "title": "Motorsport-Total item with no content",
@@ -12119,9 +12068,35 @@
     "GPFans": "F1 journalist claims Mark Webber friendship broke down over Oscar Piastri move"
    },
    "last": "2026-11-13T19:58:35.976286+00:00"
+  },
+  "S7287": {
+   "title": "France vs South Africa rugby live match updates",
+   "first": "2026-11-13T20:08:36.988165+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T19:57:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "France vs. South Africa: LIVE updates as it happens"
+   },
+   "last": "2026-11-13T20:08:36.988183+00:00"
+  },
+  "S7288": {
+   "title": "Serbia vs Germany match team stats",
+   "first": "2026-11-13T20:08:36.988189+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T19:47:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Serbia vs. Germany (Nov 13, 2026) Team Stats"
+   },
+   "last": "2026-11-13T20:08:36.988194+00:00"
   }
  },
- "story_seq": 7286,
+ "story_seq": 7288,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12240,17 +12215,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T19:58:33.399022+00:00",
+ "last_run": "2026-11-13T20:08:34.975175+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T19:59:23.726682+00:00",
-   "title": "Kelly Piquet, Verstappen ailesine yeni katılanları duyurdu",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-10T20:19:20.536092+00:00",
    "title": "Interlagos rekor izleyici ve ekonomik etkiyle zirvede",
