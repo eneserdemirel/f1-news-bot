@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fba75620b048668c": "2026-10-30T06:02:55.343691+00:00",
-  "9281d5ede3359244": "2026-10-30T06:02:55.343691+00:00",
-  "1d9aea8966ae99e9": "2026-10-30T06:02:55.343691+00:00",
   "af41b47e342b5e40": "2026-10-30T06:22:58.427485+00:00",
   "0c4bdd75849968c1": "2026-10-30T06:22:58.427485+00:00",
   "327bfba0db588377": "2026-10-30T06:32:53.639423+00:00",
@@ -7621,7 +7618,14 @@
   "fb1ffb9dd0dd22e4": "2026-11-13T05:46:17.470159+00:00",
   "3e5d672171189cc8": "2026-11-13T05:46:17.470159+00:00",
   "8faf1732763acb2c": "2026-11-13T05:46:17.470159+00:00",
-  "805909830480f644": "2026-11-13T05:56:17.879463+00:00"
+  "805909830480f644": "2026-11-13T05:56:17.879463+00:00",
+  "4ba7d7998dc5f2ea": "2026-11-13T06:06:17.327052+00:00",
+  "5342c81cba388c47": "2026-11-13T06:06:17.327052+00:00",
+  "5cea10f81f9482aa": "2026-11-13T06:06:17.327052+00:00",
+  "884add431bd11120": "2026-11-13T06:06:17.327052+00:00",
+  "2878dc39a19a7bd0": "2026-11-13T06:06:17.327052+00:00",
+  "3a115e48ddbd9ef0": "2026-11-13T06:06:17.327052+00:00",
+  "4a4bf2d6ef659dbd": "2026-11-13T06:06:17.327052+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10992,14 +10996,16 @@
    "title": "F1 teams' combined valuation reaches $50 billion",
    "first": "2026-11-12T22:06:36.736222+00:00",
    "sources": {
-    "GPFans": "2026-11-12T16:55:00+00:00"
+    "GPFans": "2026-11-12T16:55:00+00:00",
+    "FormulaPassion": "2026-11-13T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "F1 team valuations explode as Ferrari lead $50 billion rankings"
+    "GPFans": "F1 team valuations explode as Ferrari lead $50 billion rankings",
+    "FormulaPassion": "È una F1 ricchissima: il team Ferrari vale ben 8,2 miliardi di dollari"
    },
-   "last": "2026-11-12T22:06:36.736225+00:00"
+   "last": "2026-11-13T06:06:23.494066+00:00"
   },
   "S7044": {
    "title": "Grosjean says single-seater racing career likely over",
@@ -11912,9 +11918,87 @@
     "ESPN F1": "Cam Skattebo celebrates Giants TD with backflip"
    },
    "last": "2026-11-13T05:46:20.165744+00:00"
+  },
+  "S7114": {
+   "title": "Lando Norris birthday tribute and 2025 title recap video",
+   "first": "2026-11-13T06:06:23.494011+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-13T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Happy birthday Lando! Relive the moment he became F1 world champion last year!"
+   },
+   "last": "2026-11-13T06:06:23.494027+00:00"
+  },
+  "S7115": {
+   "title": "Las Vegas GP UK broadcast schedule and viewing details",
+   "first": "2026-11-13T06:06:23.494033+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-13T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Las Vegas GP: UK schedule and how to watch on Sky Sports"
+   },
+   "last": "2026-11-13T06:06:23.494037+00:00"
+  },
+  "S7116": {
+   "title": "Insider teases Leclerc response to Hamilton challenge",
+   "first": "2026-11-13T06:06:23.494040+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T06:03:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lewis Hamilton on alert as Charles Leclerc insider teases fierce response"
+   },
+   "last": "2026-11-13T06:06:23.494044+00:00"
+  },
+  "S7117": {
+   "title": "Ralf Schumacher says Hamilton not fast enough versus Leclerc",
+   "first": "2026-11-13T06:06:23.494047+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T06:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "'The problem is that Hamilton is simply not fast enough compared to Leclerc'"
+   },
+   "last": "2026-11-13T06:06:23.494050+00:00"
+  },
+  "S7118": {
+   "title": "Montoya compares Russell and Antonelli speed and adaptability",
+   "first": "2026-11-13T06:06:23.494053+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Montoya: “Come velocità pura Russell vale Antonelli, ma Kimi è molto più bravo quando la vettura diventa imprevedibile”"
+   },
+   "last": "2026-11-13T06:06:23.494056+00:00"
+  },
+  "S7119": {
+   "title": "Verstappen explains Interlagos strength, wants front start in 2027",
+   "first": "2026-11-13T06:06:23.494059+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Verstappen spiega le magie in Brasile: “Interlagos ti permette traiettorie diverse. Ma nel 2027 voglio partire davanti”"
+   },
+   "last": "2026-11-13T06:06:23.494062+00:00"
   }
  },
- "story_seq": 7113,
+ "story_seq": 7119,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12033,7 +12117,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T05:56:17.879463+00:00",
+ "last_run": "2026-11-13T06:06:17.327052+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13028,6 +13112,36 @@
    "t": "2026-11-13T05:36:27.246358+00:00",
    "title": "F1 uzmanına göre Ferrari, diğer pilotlarla daha fazla yarış kazanabilirdi",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-13T06:06:29.651826+00:00",
+   "title": "Lando Norris'in 27. yaş günü: 2025 dünya şampiyonluğunu yeniden izleyin",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-13T06:06:30.022184+00:00",
+   "title": "Las Vegas GP 2026: İngiltere saatleri ve Sky Sports'ta nasıl izlenir",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-13T06:06:30.369460+00:00",
+   "title": "Montoya: Russell hız, Antonelli ise kontrol konusunda üstün",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T06:06:30.721979+00:00",
+   "title": "Verstappen, Interlagos'ta rimontaların sırrını anlattı: 2027'de önden başlamak istiyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T06:06:31.068552+00:00",
+   "title": "Schumacher: Hamilton, Leclerc'e karşı yeterince hızlı değil",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-13T06:06:31.410532+00:00",
+   "title": "Jock Clear: Leclerc Hamilton'ın meydan okumasından kaçmaz",
+   "source": "PlanetF1"
   }
  ]
 }
