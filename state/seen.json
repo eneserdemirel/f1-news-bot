@@ -1,17 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ea645d9ecf57f4c6": "2026-10-30T22:50:09.311024+00:00",
-  "e0d84cd54beb9128": "2026-10-30T22:50:09.311024+00:00",
-  "09e4caff7cf8bbe0": "2026-10-30T22:50:09.311024+00:00",
-  "37789aefb5f9b4de": "2026-10-30T22:50:09.311024+00:00",
-  "7654c9537dc4d074": "2026-10-30T22:50:09.311024+00:00",
-  "650b2b09b3ad81aa": "2026-10-30T22:50:09.311024+00:00",
-  "4cd1cdf11407820a": "2026-10-30T22:50:09.311024+00:00",
-  "4020ea65b1c9e01e": "2026-10-30T22:50:09.311024+00:00",
-  "bf81621369b918a7": "2026-10-30T22:55:06.829436+00:00",
-  "2b0f49c8282961f8": "2026-10-30T22:55:06.829436+00:00",
-  "b0dc4cb908c6b6f9": "2026-10-30T22:55:06.829436+00:00",
   "e4f0a999d823b02f": "2026-10-30T23:00:10.343883+00:00",
   "69650033cde81761": "2026-10-30T23:05:09.526269+00:00",
   "179b9b1239766991": "2026-10-30T23:05:09.526269+00:00",
@@ -7459,7 +7448,11 @@
   "0665c8276f5bde1a": "2026-11-13T22:29:08.900149+00:00",
   "59698136b6ab09ec": "2026-11-13T22:39:06.739641+00:00",
   "d458d0219565e74f": "2026-11-13T22:39:06.739641+00:00",
-  "a6141bb244236286": "2026-11-13T22:49:04.100254+00:00"
+  "a6141bb244236286": "2026-11-13T22:49:04.100254+00:00",
+  "8adc7353185f1123": "2026-11-13T22:59:03.210635+00:00",
+  "3ccae0a949335ba9": "2026-11-13T22:59:03.210635+00:00",
+  "62bab959e6a1434e": "2026-11-13T22:59:03.210635+00:00",
+  "f8afa95202332475": "2026-11-13T22:59:03.210635+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7652,19 +7645,6 @@
    },
    "last": "2026-11-13T07:56:56.574608+00:00"
   },
-  "S6985": {
-   "title": "Will McDonald to get more playing time with Jets",
-   "first": "2026-11-11T22:02:46.229742+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T20:32:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Will McDonald to get more playing time with the Jets"
-   },
-   "last": "2026-11-11T22:52:41.721432+00:00"
-  },
   "S6987": {
    "title": "Kamario Taylor finalizing return to Mississippi State in 2027",
    "first": "2026-11-11T22:12:42.477027+00:00",
@@ -7698,19 +7678,6 @@
     "GPFans": "Lewis Hamilton’s emotional encounter with Gaza’s children ‘broke his heart’"
    },
    "last": "2026-11-13T18:58:37.485408+00:00"
-  },
-  "S6989": {
-   "title": "Stephen Curry confronts critics over comments about wife Ayesha",
-   "first": "2026-11-11T22:52:41.721405+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T22:36:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Curry confronts critics over comments about wife Ayesha"
-   },
-   "last": "2026-11-11T22:52:41.721422+00:00"
   },
   "S6990": {
    "title": "Analysis of remaining 2027 F1 driver market moves",
@@ -11895,9 +11862,48 @@
     "ESPN F1": "Goalkeeper banned 12 games for collision that led to Spanish player's death"
    },
    "last": "2026-11-13T22:49:05.384213+00:00"
+  },
+  "S7304": {
+   "title": "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "first": "2026-11-13T22:59:05.206434+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T22:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lakers' Austin Reaves day-to-day with left heel bruise"
+   },
+   "last": "2026-11-13T22:59:05.206455+00:00"
+  },
+  "S7305": {
+   "title": "49ers injury report: Williams, Greenlaw questionable, Evans out",
+   "first": "2026-11-13T22:59:05.206461+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T22:46:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
+   },
+   "last": "2026-11-13T22:59:05.206466+00:00"
+  },
+  "S7306": {
+   "title": "Myles Garrett listed as questionable vs. Cardinals",
+   "first": "2026-11-13T22:59:05.206470+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T21:01:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Myles Garrett listed as questionable vs. Cardinals"
+   },
+   "last": "2026-11-13T22:59:05.206475+00:00"
   }
  },
- "story_seq": 7303,
+ "story_seq": 7306,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12016,7 +12022,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T22:49:04.100254+00:00",
+ "last_run": "2026-11-13T22:59:03.210635+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
