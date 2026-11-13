@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "47faf37a66ab6965": "2026-10-30T03:52:53.993942+00:00",
-  "30fdb8396e7c30f7": "2026-10-30T03:52:53.993942+00:00",
-  "f33942e019bd7130": "2026-10-30T03:52:53.993942+00:00",
-  "653fd4cece5d1951": "2026-10-30T03:52:53.993942+00:00",
-  "fda63d05994912cd": "2026-10-30T03:52:53.993942+00:00",
-  "608335716f211359": "2026-10-30T03:52:53.993942+00:00",
   "8d3cdb0a97fa11fd": "2026-10-30T04:22:56.313315+00:00",
   "3f3b637a5150d98a": "2026-10-30T04:22:56.313315+00:00",
   "796231bffa3f268f": "2026-10-30T04:32:54.496881+00:00",
@@ -7636,7 +7630,8 @@
   "22eac6d01f327dcc": "2026-11-13T03:36:16.606160+00:00",
   "0ec239ca1637cd87": "2026-11-13T03:46:17.884455+00:00",
   "9d3db1d2085ffe9e": "2026-11-13T03:46:17.884455+00:00",
-  "d978cf8e4c636564": "2026-11-13T03:46:17.884455+00:00"
+  "d978cf8e4c636564": "2026-11-13T03:46:17.884455+00:00",
+  "202844503f8c3f7c": "2026-11-13T03:56:17.786632+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7934,19 +7929,6 @@
     "ESPN F1": "Jayson Tatum's dunk on LeBron James brings back rookie-year memories"
    },
    "last": "2026-11-11T05:10:37.047188+00:00"
-  },
-  "S6796": {
-   "title": "Mercer 97-91 Georgia Southern college basketball final score",
-   "first": "2026-11-11T03:50:34.913077+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T00:56:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mercer 97-91 Georgia Southern (Nov 10, 2026) Final Score"
-   },
-   "last": "2026-11-11T03:50:34.913095+00:00"
   },
   "S6797": {
    "title": "Nadia Ramadan goal for Kentucky women's soccer",
@@ -11899,9 +11881,22 @@
     "ESPN F1": "Vikings 'hyped' to welcome back 'leader' Cousins on 1st day of practice"
    },
    "last": "2026-11-13T03:46:20.294729+00:00"
+  },
+  "S7095": {
+   "title": "Canisius 86-81 Brown college basketball final score",
+   "first": "2026-11-13T03:56:19.359516+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T03:46:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canisius 86-81 Brown (Nov 12, 2026) Final Score"
+   },
+   "last": "2026-11-13T03:56:19.359535+00:00"
   }
  },
- "story_seq": 7094,
+ "story_seq": 7095,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12020,7 +12015,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T03:46:17.884455+00:00",
+ "last_run": "2026-11-13T03:56:17.786632+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
