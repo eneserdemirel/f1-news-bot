@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aab7fd74918503ed": "2026-10-30T22:00:09.460919+00:00",
-  "213861a2dd0e7e20": "2026-10-30T22:00:09.460919+00:00",
-  "50630500ea2aa02b": "2026-10-30T22:05:11.559293+00:00",
-  "a2ad316a77b1c405": "2026-10-30T22:05:11.559293+00:00",
   "c9e78228e217f2ea": "2026-10-30T22:15:11.869140+00:00",
   "069377be1b10f874": "2026-10-30T22:25:09.694692+00:00",
   "dca466886f9629a5": "2026-10-30T22:25:09.694692+00:00",
@@ -7467,7 +7463,10 @@
   "e2e769c7c246f38c": "2026-11-13T21:28:47.516443+00:00",
   "4942e6c8493e18cf": "2026-11-13T21:38:35.173503+00:00",
   "35835e77f205a824": "2026-11-13T21:58:37.231302+00:00",
-  "88b7012ddf81975f": "2026-11-13T21:58:37.231302+00:00"
+  "88b7012ddf81975f": "2026-11-13T21:58:37.231302+00:00",
+  "8e60f941d6da122b": "2026-11-13T22:08:36.132400+00:00",
+  "5416356c9e9d5309": "2026-11-13T22:08:36.132400+00:00",
+  "a66b4d14d4f7e21a": "2026-11-13T22:08:36.132400+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7521,23 +7520,6 @@
     "AS": "La F1 mantiene su final en Oriente Medio"
    },
    "last": "2026-11-12T22:06:36.736109+00:00"
-  },
-  "S6843": {
-   "title": "Bottas responds to Herta's F1 Super Licence points",
-   "first": "2026-11-11T08:51:24.381223+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T08:43:39+00:00",
-    "RacingNews365": "2026-11-11T12:10:00+00:00",
-    "GPblog": "2026-11-11T22:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘Don’t know’ – Valtteri Bottas responds to Colton Herta’s Super Licence points",
-    "RacingNews365": "Valtteri Bottas responds to Colton Herta breaking crucial threshold to race in F1",
-    "GPblog": "Bottas admits he does not know his Cadillac future as Herta clears Super Licence hurdle"
-   },
-   "last": "2026-11-11T22:02:46.229751+00:00"
   },
   "S6859": {
    "title": "Brundle says a team boss is at wit's end over reliability",
@@ -7690,19 +7672,6 @@
    },
    "last": "2026-11-13T07:56:56.574608+00:00"
   },
-  "S6974": {
-   "title": "US withdraws from FIFA U17 World Cup in Qatar over safety",
-   "first": "2026-11-11T21:32:43.456589+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T21:07:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "U.S. withdraws from FIFA U17 World Cup in Qatar over safety concerns"
-   },
-   "last": "2026-11-11T22:02:46.229690+00:00"
-  },
   "S6978": {
    "title": "Browns sticking with Deshaun Watson",
    "first": "2026-11-11T21:42:41.910436+00:00",
@@ -7715,32 +7684,6 @@
     "ESPN F1": "Browns sticking with Deshaun Watson"
    },
    "last": "2026-11-11T22:22:41.754570+00:00"
-  },
-  "S6983": {
-   "title": "McVay says Davante Adams could return sooner than later",
-   "first": "2026-11-11T22:02:46.229722+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T21:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'"
-   },
-   "last": "2026-11-11T22:02:46.229728+00:00"
-  },
-  "S6984": {
-   "title": "Cardinals coach praises rookie QB Carson Beck",
-   "first": "2026-11-11T22:02:46.229733+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T21:39:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cardinals coach: Carson Beck's been a pro since he's been here"
-   },
-   "last": "2026-11-11T22:02:46.229738+00:00"
   },
   "S6985": {
    "title": "Will McDonald to get more playing time with Jets",
@@ -11920,9 +11863,35 @@
     "GPFans": "US wonderkid Ugo Ugochukwu takes next step towards F1"
    },
    "last": "2026-11-13T21:58:39.850364+00:00"
+  },
+  "S7298": {
+   "title": "PlanetF1 roundup of Stroll, Hamilton and FIA hearing news",
+   "first": "2026-11-13T22:08:39.455341+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T22:00:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lawrence Stroll ‘at wit’s end’; Hamilton on alert; FIA court hearing set – roundup"
+   },
+   "last": "2026-11-13T22:08:39.455360+00:00"
+  },
+  "S7299": {
+   "title": "Steiner warns Russell and Piastri of decisive 2027 season",
+   "first": "2026-11-13T22:08:39.455365+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T22:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Russell and Piastri face ruthless ultimatum as F1 futures come under threat"
+   },
+   "last": "2026-11-13T22:08:39.455370+00:00"
   }
  },
- "story_seq": 7297,
+ "story_seq": 7299,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12041,7 +12010,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T21:58:37.231302+00:00",
+ "last_run": "2026-11-13T22:08:36.132400+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
