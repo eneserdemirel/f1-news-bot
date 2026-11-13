@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d514ba08bf1587c5": "2026-10-30T15:04:28.680145+00:00",
-  "3770252477a8d3d5": "2026-10-30T15:04:28.680145+00:00",
   "fb43f92520925dec": "2026-10-30T15:09:30.931321+00:00",
   "0ac5bd52fc3229ba": "2026-10-30T15:09:30.931321+00:00",
   "6c641d21bedfe822": "2026-10-30T15:09:30.931321+00:00",
@@ -7558,7 +7556,10 @@
   "ace3e918c919c7cb": "2026-11-13T14:47:35.659253+00:00",
   "e50f6f8921aa387a": "2026-11-13T14:47:35.659253+00:00",
   "992be754514d0eda": "2026-11-13T14:57:33.570981+00:00",
-  "d9940abee60ca7ed": "2026-11-13T14:57:33.570981+00:00"
+  "d9940abee60ca7ed": "2026-11-13T14:57:33.570981+00:00",
+  "f822affce716a4fb": "2026-11-13T15:07:35.128875+00:00",
+  "20dc0b3f1d727754": "2026-11-13T15:07:35.128875+00:00",
+  "3fd6977c716b8df7": "2026-11-13T15:07:35.128875+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7857,32 +7858,6 @@
     "FormulaPassion": "FIA, Mohammed Ben Sulayem all’attacco del limite d’età: così potrà restare Presidente a vita"
    },
    "last": "2026-11-11T21:52:44.997197+00:00"
-  },
-  "S6914": {
-   "title": "Newey backs rival's call for cost cap relief for lower teams",
-   "first": "2026-11-11T15:02:11.256581+00:00",
-   "sources": {
-    "GPFans": "2026-11-11T14:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Adrian Newey backs F1 rival over controversial cost cap claim"
-   },
-   "last": "2026-11-11T15:02:11.256600+00:00"
-  },
-  "S6915": {
-   "title": "Cadillac struggles in Brazil as Bottas misses race with technical issue",
-   "first": "2026-11-11T15:02:11.256607+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T15:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Brasile: un altro weekend disastroso per la Cadillac"
-   },
-   "last": "2026-11-11T15:02:11.256613+00:00"
   },
   "S6916": {
    "title": "Jeff Saturday says Cowboys have 'no hope'",
@@ -10563,16 +10538,18 @@
    "sources": {
     "GPblog": "2026-11-13T06:01:00+00:00",
     "GPFans": "2026-11-13T06:27:00+00:00",
-    "Crash.net": "2026-11-13T11:49:08+00:00"
+    "Crash.net": "2026-11-13T11:49:08+00:00",
+    "Motorsport Week": "2026-11-13T14:44:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "'The problem is that Hamilton is simply not fast enough compared to Leclerc'",
     "GPFans": "Lewis Hamilton 'not fast enough' as Verstappen questions Ferrari decision - F1 News Today",
-    "Crash.net": "Lewis Hamilton ‘not fast enough’ against Charles Leclerc says Ralf Schumacher in brutal jibe"
+    "Crash.net": "Lewis Hamilton ‘not fast enough’ against Charles Leclerc says Ralf Schumacher in brutal jibe",
+    "Motorsport Week": "Lewis Hamilton handed shocking Al Capone comparison in blunt Ferrari verdict"
    },
-   "last": "2026-11-13T11:56:52.264434+00:00"
+   "last": "2026-11-13T15:07:38.848985+00:00"
   },
   "S7118": {
    "title": "Montoya compares Russell and Antonelli speed and adaptability",
@@ -12051,9 +12028,35 @@
     "Motorsport-Total": "Fährt Kimi Antonelli bald ein Formel-1-Auto von Ayrton Senna? - Motorsport-Total.com"
    },
    "last": "2026-11-13T14:57:36.745608+00:00"
+  },
+  "S7230": {
+   "title": "WEC Monza race not neutralised after Cadillac-Peugeot crash",
+   "first": "2026-11-13T15:07:38.848955+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-13T15:00:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Una scelta per responsabilizzare i piloti: perché a Monza la gara non è stata neutralizzata"
+   },
+   "last": "2026-11-13T15:07:38.848976+00:00"
+  },
+  "S7231": {
+   "title": "Wolff doubts Mercedes can repeat dominant era",
+   "first": "2026-11-13T15:07:38.848991+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff doubts Mercedes can repeat dominant era despite F1 title double"
+   },
+   "last": "2026-11-13T15:07:38.848996+00:00"
   }
  },
- "story_seq": 7229,
+ "story_seq": 7231,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12172,17 +12175,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T14:57:33.570981+00:00",
+ "last_run": "2026-11-13T15:07:35.128875+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T14:58:39.003961+00:00",
-   "title": "F1 2026 takvimi: Imola yedek plan olarak yok, İran savaşı büyürse planB yok",
-   "source": "Autosport"
-  },
   {
    "t": "2026-11-10T15:08:30.881685+00:00",
    "title": "F1 ACADEMY 2027 takvimini açıkladı",
