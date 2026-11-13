@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6a301de692ddee58": "2026-10-30T21:50:08.431867+00:00",
-  "6f093a9009f75f63": "2026-10-30T21:50:08.431867+00:00",
-  "53974b15ccd9bd2a": "2026-10-30T21:50:08.431867+00:00",
-  "224ce5306b66b63b": "2026-10-30T21:50:08.431867+00:00",
-  "e51d2c6a222681a3": "2026-10-30T21:55:06.863966+00:00",
-  "2901e7ce310d2273": "2026-10-30T21:55:06.863966+00:00",
-  "62a4ecfccc5ec0a6": "2026-10-30T21:55:06.863966+00:00",
   "aab7fd74918503ed": "2026-10-30T22:00:09.460919+00:00",
   "213861a2dd0e7e20": "2026-10-30T22:00:09.460919+00:00",
   "50630500ea2aa02b": "2026-10-30T22:05:11.559293+00:00",
@@ -7472,7 +7465,9 @@
   "1088e2d5f80d9c56": "2026-11-13T21:08:34.770584+00:00",
   "375aafdea3fa2ca3": "2026-11-13T21:08:34.770584+00:00",
   "e2e769c7c246f38c": "2026-11-13T21:28:47.516443+00:00",
-  "4942e6c8493e18cf": "2026-11-13T21:38:35.173503+00:00"
+  "4942e6c8493e18cf": "2026-11-13T21:38:35.173503+00:00",
+  "35835e77f205a824": "2026-11-13T21:58:37.231302+00:00",
+  "88b7012ddf81975f": "2026-11-13T21:58:37.231302+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7526,21 +7521,6 @@
     "AS": "La F1 mantiene su final en Oriente Medio"
    },
    "last": "2026-11-12T22:06:36.736109+00:00"
-  },
-  "S6799": {
-   "title": "Untelevised Verstappen team radio emerges from Brazilian GP",
-   "first": "2026-11-11T04:10:37.663169+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T04:01:25+00:00",
-    "FormulaPassion": "2026-11-11T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Untelevised Max Verstappen team radio emerges after Brazilian GP ‘disaster’",
-    "FormulaPassion": "Insaziabile Verstappen, furioso con il team nonostante la rimonta: “La macchina è stata un disastro”"
-   },
-   "last": "2026-11-11T21:52:44.997185+00:00"
   },
   "S6843": {
    "title": "Bottas responds to Herta's F1 Super Licence points",
@@ -7631,21 +7611,6 @@
    },
    "last": "2026-11-12T22:06:36.736244+00:00"
   },
-  "S6912": {
-   "title": "Ben Sulayem wants to scrap FIA presidential age limit",
-   "first": "2026-11-11T14:42:06.673737+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-11T14:06:30+00:00",
-    "FormulaPassion": "2026-11-11T16:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: FIA-Präsident auf Lebenszeit? Ben Sulayem will Alterslimit aufheben",
-    "FormulaPassion": "FIA, Mohammed Ben Sulayem all’attacco del limite d’età: così potrà restare Presidente a vita"
-   },
-   "last": "2026-11-11T21:52:44.997197+00:00"
-  },
   "S6918": {
    "title": "Mekies explains why Red Bull kept Verstappen ahead of Hadjar in Brazil",
    "first": "2026-11-11T15:12:07.288932+00:00",
@@ -7694,19 +7659,6 @@
     "ESPN F1": "Panthers 4-1 Blue Jackets (Nov 10, 2026) Game Recap"
    },
    "last": "2026-11-11T22:42:41.868824+00:00"
-  },
-  "S6947": {
-   "title": "Windsor says Leclerc is a dirty driver and Hamilton's complaints are ridiculous",
-   "first": "2026-11-11T18:02:08.866292+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Windsor: “Leclerc è un pilota scorretto e lo sapevano tutti tranne Hamilton. Le sue lamentele ora sono ridicole”"
-   },
-   "last": "2026-11-11T21:52:44.997172+00:00"
   },
   "S6960": {
    "title": "Hamilton calls Israel's Gaza actions shocking",
@@ -7763,58 +7715,6 @@
     "ESPN F1": "Browns sticking with Deshaun Watson"
    },
    "last": "2026-11-11T22:22:41.754570+00:00"
-  },
-  "S6979": {
-   "title": "FormulaPassion generic Ferrari page, no specific news",
-   "first": "2026-11-11T21:52:44.997143+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T19:17:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Ferrari - FormulaPassion"
-   },
-   "last": "2026-11-11T21:52:44.997150+00:00"
-  },
-  "S6980": {
-   "title": "Video: Hamilton leads at Brazil start, Ferrari gamble backfires",
-   "first": "2026-11-11T21:52:44.997155+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T19:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "F1 | Ferrari, l'azzardo non paga: Hamilton supera tutti al via, ma poi... - Formula 1 - Video"
-   },
-   "last": "2026-11-11T21:52:44.997160+00:00"
-  },
-  "S6981": {
-   "title": "BYD Dolphin G DM-i Black Friday promotion",
-   "first": "2026-11-11T21:52:44.997176+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T17:17:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "BYD DOLPHIN G DM-i, arriva il Black Friday"
-   },
-   "last": "2026-11-11T21:52:44.997180+00:00"
-  },
-  "S6982": {
-   "title": "Ferrari 488 Challenge Evo crashes on track",
-   "first": "2026-11-11T21:52:44.997189+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T16:53:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Una Ferrari 488 Challenge Evo distrutta in pista | FP - News - Auto"
-   },
-   "last": "2026-11-11T21:52:44.997192+00:00"
   },
   "S6983": {
    "title": "McVay says Davante Adams could return sooner than later",
@@ -11994,9 +11894,35 @@
     "ESPN F1": "Patriots enjoying themselves in Munich"
    },
    "last": "2026-11-13T21:38:36.322355+00:00"
+  },
+  "S7296": {
+   "title": "Borussia Dortmund to end arms-manufacturer sponsorship",
+   "first": "2026-11-13T21:58:39.850338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T18:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Borussia Dortmund to end controversial sponsorship with arms manufacturer"
+   },
+   "last": "2026-11-13T21:58:39.850354+00:00"
+  },
+  "S7297": {
+   "title": "Ugo Ugochukwu graduates to F2 with Campos for 2027",
+   "first": "2026-11-13T21:58:39.850359+00:00",
+   "sources": {
+    "GPFans": "2026-11-13T21:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "US wonderkid Ugo Ugochukwu takes next step towards F1"
+   },
+   "last": "2026-11-13T21:58:39.850364+00:00"
   }
  },
- "story_seq": 7295,
+ "story_seq": 7297,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12115,7 +12041,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T21:48:35.824237+00:00",
+ "last_run": "2026-11-13T21:58:37.231302+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
@@ -13135,6 +13061,11 @@
    "t": "2026-11-13T21:08:46.219354+00:00",
    "title": "Piastri'nin Verstappen'i devirmesi bekleniyordu, Norris'e boyun eğmesi değil",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-13T21:58:43.830950+00:00",
+   "title": "Ugo Ugochukwu, 2027'de Campos Racing ile F2'de yarışacak",
+   "source": "GPFans"
   }
  ]
 }
