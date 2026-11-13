@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "54ee9d11f10fed43": "2026-10-30T17:39:31.195760+00:00",
-  "bc6d7d925d1710db": "2026-10-30T17:39:31.195760+00:00",
-  "1f14412eb2cb84f9": "2026-10-30T17:44:32.613505+00:00",
-  "ac02d2027069de12": "2026-10-30T17:44:32.613505+00:00",
   "6117a407bdd800ac": "2026-10-30T17:49:28.650264+00:00",
   "a1686406004cb990": "2026-10-30T17:49:28.650264+00:00",
   "7a39ded40dd8ad58": "2026-10-30T17:54:34.090233+00:00",
@@ -7548,7 +7544,9 @@
   "03d3938fbd5d62bb": "2026-11-13T17:28:34.121466+00:00",
   "d0ca179207f29389": "2026-11-13T17:28:34.121466+00:00",
   "d4a8ff0af8aedd32": "2026-11-13T17:38:35.405732+00:00",
-  "59acfea84472b057": "2026-11-13T17:38:35.405732+00:00"
+  "59acfea84472b057": "2026-11-13T17:38:35.405732+00:00",
+  "dbf9df55d3a68852": "2026-11-13T17:48:48.969468+00:00",
+  "4ba347c4baa1dec9": "2026-11-13T17:48:48.969468+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12081,9 +12079,35 @@
     "RacingNews365": "Max Verstappen victory takes the spoils from sensational hat-trick"
    },
    "last": "2026-11-13T17:38:40.310980+00:00"
+  },
+  "S7262": {
+   "title": "FIA promotes World Cup events at Macau Grand Prix",
+   "first": "2026-11-13T17:48:51.995036+00:00",
+   "sources": {
+    "FIA": "2026-11-13T17:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FIA": "FIA World Cups bring added excitement to Macau Grand Prix"
+   },
+   "last": "2026-11-13T17:48:51.995053+00:00"
+  },
+  "S7263": {
+   "title": "Former F1 boss doubts Cadillac's $3bn team sale price",
+   "first": "2026-11-13T17:48:51.995058+00:00",
+   "sources": {
+    "GPFans": "2026-11-13T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "$3bn Cadillac price tag roasted by F1 insider - 'They're doing pretty s***'"
+   },
+   "last": "2026-11-13T17:48:51.995063+00:00"
   }
  },
- "story_seq": 7261,
+ "story_seq": 7263,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12202,27 +12226,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T17:38:35.405732+00:00",
+ "last_run": "2026-11-13T17:48:48.969468+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T17:39:26.984967+00:00",
-   "title": "Montoya: Verstappen, Antonelli ile rekabet etmenin imkansız olduğunu söylüyor",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-10T17:39:27.417853+00:00",
-   "title": "Fornaroli, McLaren ile 2026'nın son testini tamamladı",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-10T17:39:27.846201+00:00",
-   "title": "Red Bull'un eski ismi Craig Skinner Cadillac'ta işe başlıyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-10T17:49:20.723565+00:00",
    "title": "Eski F1 insider'ı Leclerc'i 'kirli sürücü' olarak niteledi",
@@ -13252,6 +13261,11 @@
    "t": "2026-11-13T17:38:47.045612+00:00",
    "title": "MotoGP efsanesi Pedrosa, Vettel'in Red Bull F1 aracına karşı karlı pistte yarıştı ve kazandı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-13T17:48:56.280004+00:00",
+   "title": "Cadillac'ın 3 milyar dolarlık satış fiyatı eleştirildi",
+   "source": "GPFans"
   }
  ]
 }
