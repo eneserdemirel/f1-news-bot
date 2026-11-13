@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2d5ebb141c4365ea": "2026-10-30T12:48:41.798802+00:00",
-  "fbfe1dc82c82ec56": "2026-10-30T12:48:41.798802+00:00",
-  "d9ae5b0ba2e36c41": "2026-10-30T12:48:41.798802+00:00",
-  "35e45d663cdf34e4": "2026-10-30T12:54:27.267995+00:00",
-  "79a5b1276e3e5d8f": "2026-10-30T12:54:27.267995+00:00",
-  "850ec2bd1da6f513": "2026-10-30T12:54:27.267995+00:00",
-  "bd32c9a8fcd98de8": "2026-10-30T12:54:27.267995+00:00",
   "bd6a6fa277953a03": "2026-10-30T12:59:29.351264+00:00",
   "7d9d79be69760fff": "2026-10-30T12:59:29.351264+00:00",
   "e88ad7b818df3bed": "2026-10-30T12:59:29.351264+00:00",
@@ -7601,7 +7594,9 @@
   "aa899332635a7424": "2026-11-13T12:37:33.576375+00:00",
   "eaac22976fc4b7ae": "2026-11-13T12:47:34.564083+00:00",
   "7349f18b301d8731": "2026-11-13T12:47:34.564083+00:00",
-  "bfbd11b14910fa00": "2026-11-13T12:47:34.564083+00:00"
+  "bfbd11b14910fa00": "2026-11-13T12:47:34.564083+00:00",
+  "1947a9a30f2a53f2": "2026-11-13T12:57:36.240368+00:00",
+  "ef1b9f4e07232dc5": "2026-11-13T12:57:36.240368+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7893,19 +7888,6 @@
     "RacingNews365 NL": "Verstappen velt duidelijk oordeel over Ferrari-situatie"
    },
    "last": "2026-11-11T18:42:07.355847+00:00"
-  },
-  "S6891": {
-   "title": "Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool",
-   "first": "2026-11-11T12:51:23.626074+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T12:41:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool"
-   },
-   "last": "2026-11-11T12:51:23.626091+00:00"
   },
   "S6892": {
    "title": "Antonelli dyes hair in Italian flag colours after title",
@@ -12034,9 +12016,35 @@
     "PlanetF1": "Lewis Hamilton reveals key Ferrari focus for remainder of F1 2026"
    },
    "last": "2026-11-13T12:47:37.142974+00:00"
+  },
+  "S7202": {
+   "title": "Marquez reflects on career and retirement after injury comeback",
+   "first": "2026-11-13T12:57:39.049879+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T12:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez reflects on career and retirement after remarkable injury comeback"
+   },
+   "last": "2026-11-13T12:57:39.049901+00:00"
+  },
+  "S7203": {
+   "title": "Suzuka's 130R corner naming rights sold to video game",
+   "first": "2026-11-13T12:57:39.049908+00:00",
+   "sources": {
+    "GPFans": "2026-11-13T12:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Suzuka's iconic 130R corner has been sold to a video game"
+   },
+   "last": "2026-11-13T12:57:39.049915+00:00"
   }
  },
- "story_seq": 7201,
+ "story_seq": 7203,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12155,17 +12163,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T12:47:34.564083+00:00",
+ "last_run": "2026-11-13T12:57:36.240368+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T12:48:31.518308+00:00",
-   "title": "Ocon, Haas'tan ayrılmasının ardından duygusal bir mesaj paylaştı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-10T12:58:28.501830+00:00",
    "title": "Verstappen: \"Kendimi hâlâ en iyi pilot olarak görüyorum, yoksa bırakırdım\"",
@@ -13210,6 +13213,11 @@
    "t": "2026-11-13T12:47:43.062242+00:00",
    "title": "Hamilton: Ferrari sezon sonuna kadar ikinciliğe odaklanmalı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-13T12:57:43.832925+00:00",
+   "title": "Suzuka'nın efsanevi 130R virajının adı bir video oyununa satıldı",
+   "source": "GPFans"
   }
  ]
 }
