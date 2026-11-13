@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "eaaf4b5124ecfa81": "2026-10-30T09:23:40.486651+00:00",
-  "60ab3be7d520c23d": "2026-10-30T09:23:40.486651+00:00",
-  "d3f30c26165a485c": "2026-10-30T09:23:40.486651+00:00",
-  "415d594343a75902": "2026-10-30T09:23:40.486651+00:00",
-  "0c8c4c88e0c7a011": "2026-10-30T09:23:40.486651+00:00",
   "d43b4e5dd1928bf3": "2026-10-30T09:33:41.272641+00:00",
   "44774d1205ac5097": "2026-10-30T09:33:41.272641+00:00",
   "513d3f0d764adbdd": "2026-10-30T09:43:40.812028+00:00",
@@ -7620,7 +7615,10 @@
   "f66524719d9a646e": "2026-11-13T09:06:46.529588+00:00",
   "b3d0625cf70d9769": "2026-11-13T09:06:46.529588+00:00",
   "8bb5bfbe60363c15": "2026-11-13T09:16:46.026741+00:00",
-  "488b299c1a52f5d8": "2026-11-13T09:16:46.026741+00:00"
+  "488b299c1a52f5d8": "2026-11-13T09:16:46.026741+00:00",
+  "b542fd72f6e4acdd": "2026-11-13T09:26:44.954220+00:00",
+  "9a771da1f090b508": "2026-11-13T09:26:44.954220+00:00",
+  "f38115d40acbac21": "2026-11-13T09:26:44.954220+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7848,21 +7846,6 @@
    },
    "last": "2026-11-11T21:52:44.997185+00:00"
   },
-  "S6819": {
-   "title": "Analyst says Antonelli could move to Ferrari soon",
-   "first": "2026-11-11T06:30:34.182902+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T06:20:00+00:00",
-    "RacingNews365 NL": "2026-11-11T09:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli handed verdict over future Ferrari drive: 'He could go tomorrow'",
-    "RacingNews365 NL": "Kimi Antonelli 'kan morgen naar Ferrari gaan'"
-   },
-   "last": "2026-11-11T09:21:24.864697+00:00"
-  },
   "S6830": {
    "title": "Danner praises Verstappen's P21-to-P2 Brazil comeback",
    "first": "2026-11-11T07:50:31.199622+00:00",
@@ -7909,19 +7892,6 @@
     "GPblog": "Bottas admits he does not know his Cadillac future as Herta clears Super Licence hurdle"
    },
    "last": "2026-11-11T22:02:46.229751+00:00"
-  },
-  "S6848": {
-   "title": "Analysis of Verstappen's São Paulo data and Mekies' response",
-   "first": "2026-11-11T09:21:24.864709+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-11T09:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Why Max Verstappen’s São Paulo data backs his drive, but not the diagnosis"
-   },
-   "last": "2026-11-11T09:21:24.864715+00:00"
   },
   "S6849": {
    "title": "Man United contact Pochettino; Carrick leads training",
@@ -11928,9 +11898,35 @@
     "Motorsport-Total": "Piastri unter Druck? \"Dann wird Zak den nächsten Oscar suchen\" - Motorsport-Total.com"
    },
    "last": "2026-11-13T09:06:50.012215+00:00"
+  },
+  "S7151": {
+   "title": "Man United reportedly eye Balogun and Freeman for Pochettino",
+   "first": "2026-11-13T09:26:50.197730+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T09:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino"
+   },
+   "last": "2026-11-13T09:26:50.197741+00:00"
+  },
+  "S7152": {
+   "title": "Coulthard questions Le Mans rule requiring simulator for returning drivers",
+   "first": "2026-11-13T09:26:50.197745+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-13T09:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "'Verbazingwekkende' regel 24 uur van Le Mans treft óók Max Verstappen"
+   },
+   "last": "2026-11-13T09:26:50.197748+00:00"
   }
  },
- "story_seq": 7150,
+ "story_seq": 7152,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12049,7 +12045,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T09:16:46.026741+00:00",
+ "last_run": "2026-11-13T09:26:44.954220+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13104,6 +13100,11 @@
    "t": "2026-11-13T09:06:55.701323+00:00",
    "title": "Schumacher: Russell, Antonelli için Barrichello olacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-13T09:26:54.504039+00:00",
+   "title": "Coulthard: Verstappen de Le Mans'ta simülatör testinden geçmek zorunda kalabilir",
+   "source": "RacingNews365 NL"
   }
  ]
 }
