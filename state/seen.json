@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fb43f92520925dec": "2026-10-30T15:09:30.931321+00:00",
-  "0ac5bd52fc3229ba": "2026-10-30T15:09:30.931321+00:00",
-  "6c641d21bedfe822": "2026-10-30T15:09:30.931321+00:00",
-  "ebfc368d491af5dc": "2026-10-30T15:14:31.147861+00:00",
-  "fe5ca6811d566c0d": "2026-10-30T15:14:31.147861+00:00",
-  "36dd135f2f74b67e": "2026-10-30T15:14:31.147861+00:00",
   "35bd1602d153a3d5": "2026-10-30T15:19:28.024427+00:00",
   "20166275d0656170": "2026-10-30T15:19:28.024427+00:00",
   "beba19c8854b856f": "2026-10-30T15:24:34.806828+00:00",
@@ -7559,7 +7553,8 @@
   "d9940abee60ca7ed": "2026-11-13T14:57:33.570981+00:00",
   "f822affce716a4fb": "2026-11-13T15:07:35.128875+00:00",
   "20dc0b3f1d727754": "2026-11-13T15:07:35.128875+00:00",
-  "3fd6977c716b8df7": "2026-11-13T15:07:35.128875+00:00"
+  "3fd6977c716b8df7": "2026-11-13T15:07:35.128875+00:00",
+  "02e2fbe71e4ddb67": "2026-11-13T15:17:33.521788+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7858,32 +7853,6 @@
     "FormulaPassion": "FIA, Mohammed Ben Sulayem all’attacco del limite d’età: così potrà restare Presidente a vita"
    },
    "last": "2026-11-11T21:52:44.997197+00:00"
-  },
-  "S6916": {
-   "title": "Jeff Saturday says Cowboys have 'no hope'",
-   "first": "2026-11-11T15:12:07.288897+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T14:52:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why Jeff Saturday has 'no hope' for the Cowboys"
-   },
-   "last": "2026-11-11T15:12:07.288915+00:00"
-  },
-  "S6917": {
-   "title": "Quinshon Judkins Week 10 fantasy football outlook",
-   "first": "2026-11-11T15:12:07.288921+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T14:49:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Quinshon Judkins' Week 10 fantasy outlook"
-   },
-   "last": "2026-11-11T15:12:07.288927+00:00"
   },
   "S6918": {
    "title": "Mekies explains why Red Bull kept Verstappen ahead of Hadjar in Brazil",
@@ -12054,9 +12023,22 @@
     "GPblog": "Wolff doubts Mercedes can repeat dominant era despite F1 title double"
    },
    "last": "2026-11-13T15:07:38.848996+00:00"
+  },
+  "S7232": {
+   "title": "Early WSL title decider: Chelsea vs Man City preview",
+   "first": "2026-11-13T15:17:34.962635+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T14:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "An early WSL title decider: How early Chelsea vs. Man City can define season ahead"
+   },
+   "last": "2026-11-13T15:17:34.962655+00:00"
   }
  },
- "story_seq": 7231,
+ "story_seq": 7232,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12175,17 +12157,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T15:07:35.128875+00:00",
+ "last_run": "2026-11-13T15:17:33.521788+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T15:08:30.881685+00:00",
-   "title": "F1 ACADEMY 2027 takvimini açıkladı",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-10T15:18:38.140293+00:00",
    "title": "F1 2026 sezonu sonu Katar ve Abu Dabi'de yapılacak",
