@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e50e27bfe777b89c": "2026-10-30T17:09:28.526985+00:00",
-  "de3cee91a4e382d5": "2026-10-30T17:09:28.526985+00:00",
-  "1dd906e13f5dceef": "2026-10-30T17:14:35.972162+00:00",
-  "a1d968caeb4aa41d": "2026-10-30T17:14:35.972162+00:00",
-  "9a9df690693ea08c": "2026-10-30T17:14:35.972162+00:00",
   "47c0d55ee88d07aa": "2026-10-30T17:19:29.274868+00:00",
   "f23e8d8f2f9a4f95": "2026-10-30T17:19:29.274868+00:00",
   "2d9a1ca910e7feee": "2026-10-30T17:19:29.274868+00:00",
@@ -7544,7 +7539,14 @@
   "20fbb37509c432c7": "2026-11-13T16:57:34.000685+00:00",
   "b92e9322f1471cda": "2026-11-13T16:57:34.000685+00:00",
   "8a0c370744d2d774": "2026-11-13T17:07:33.536188+00:00",
-  "df6b77abf209a92b": "2026-11-13T17:07:33.536188+00:00"
+  "df6b77abf209a92b": "2026-11-13T17:07:33.536188+00:00",
+  "679d8d18922ae3b7": "2026-11-13T17:17:34.833643+00:00",
+  "cd935534eabd8cf3": "2026-11-13T17:17:34.833643+00:00",
+  "f94b84902c3b0272": "2026-11-13T17:17:34.833643+00:00",
+  "9c007a46f12ac67f": "2026-11-13T17:17:34.833643+00:00",
+  "3ab880e3f112426d": "2026-11-13T17:17:34.833643+00:00",
+  "227ffd2ce7b331b8": "2026-11-13T17:17:34.833643+00:00",
+  "e23d507e7ee8befb": "2026-11-13T17:17:34.833643+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7686,21 +7688,6 @@
    },
    "last": "2026-11-11T21:32:43.456617+00:00"
   },
-  "S6887": {
-   "title": "Red Bull champion praises Palmowski, F1 Academy nickname",
-   "first": "2026-11-11T12:41:24.051515+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-11T12:33:00+00:00",
-    "RacingNews365": "2026-11-11T17:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull-kampioen trots op Verstappen-bijnaam: \"Hij is er echt voor me\"",
-    "RacingNews365": "Red Bull champion hails 'open and welcoming' Max Verstappen support"
-   },
-   "last": "2026-11-11T17:12:10.457918+00:00"
-  },
   "S6890": {
    "title": "Verstappen says he would never sign two number one drivers",
    "first": "2026-11-11T12:41:24.051541+00:00",
@@ -7768,21 +7755,6 @@
     "GPblog": "Antonelli leaves Toto Wolff speechless with Italian tricolour hairstyle"
    },
    "last": "2026-11-12T22:06:36.736181+00:00"
-  },
-  "S6902": {
-   "title": "Vasseur explains why Ferrari accepted Hamilton's power unit penalty",
-   "first": "2026-11-11T13:42:07.223294+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T13:33:00+00:00",
-    "PlanetF1": "2026-11-11T17:07:42+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Vasseur reveals why Ferrari accepted Hamilton's grid penalty in Brazil",
-    "PlanetF1": "Ferrari explains 65-place Lewis Hamilton penalty as untelevised team radio emerges – roundup"
-   },
-   "last": "2026-11-11T17:12:10.457924+00:00"
   },
   "S6905": {
    "title": "Jarrell Miller to face Tony Yoka in boxing bout in Ghana",
@@ -7862,32 +7834,6 @@
     "Crash.net": "Lewis Hamilton loses 'most marketable athlete' crown and overtaken by F1 rival"
    },
    "last": "2026-11-13T10:06:53.499946+00:00"
-  },
-  "S6940": {
-   "title": "Ricciardo looks back at his best career moments",
-   "first": "2026-11-11T17:12:10.457892+00:00",
-   "sources": {
-    "Formula 1": "2026-11-11T17:12:10.457905+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Ricciardo reacts to his best career moments"
-   },
-   "last": "2026-11-11T17:12:10.457909+00:00"
-  },
-  "S6941": {
-   "title": "Mercedes explains cause of Antonelli's Brazil spin",
-   "first": "2026-11-11T17:12:10.457929+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T17:01:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Mercedes erklärt Ursache für Kimi Antonellis Dreher in Brasilien - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T17:12:10.457934+00:00"
   },
   "S6942": {
    "title": "Analysis: Hamilton as Ferrari number one would not solve Vasseur's problem",
@@ -12010,9 +11956,100 @@
     "GPblog": "Valentino Rossi swears on his daughters over Marc Marquez kick accusation"
    },
    "last": "2026-11-13T17:07:37.706486+00:00"
+  },
+  "S7252": {
+   "title": "Piastri reflects on tough 2026 season and future growth",
+   "first": "2026-11-13T17:17:40.701464+00:00",
+   "sources": {
+    "Formula 1": "2026-11-13T17:17:40.701479+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Piastri on his tough 2026 and why it could make him stronger"
+   },
+   "last": "2026-11-13T17:17:40.701484+00:00"
+  },
+  "S7253": {
+   "title": "Robert Griffin III expected to interview for Baylor job",
+   "first": "2026-11-13T17:17:40.701490+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T17:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources - Robert Griffin III expected to interview for Baylor job"
+   },
+   "last": "2026-11-13T17:17:40.701497+00:00"
+  },
+  "S7254": {
+   "title": "Mike Clay on Rashee Rice as a WR2",
+   "first": "2026-11-13T17:17:40.701501+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T15:26:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Mike Clay feels good about Rashee Rice as a WR2"
+   },
+   "last": "2026-11-13T17:17:40.701506+00:00"
+  },
+  "S7255": {
+   "title": "Las Vegas GP 2026 session times and weekend schedule",
+   "first": "2026-11-13T17:17:40.701509+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T17:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Formula 1 Las Vegas GP 2026: All session times and full weekend schedule"
+   },
+   "last": "2026-11-13T17:17:40.701513+00:00"
+  },
+  "S7256": {
+   "title": "Antonelli explains how he solved Austin track limits problem",
+   "first": "2026-11-13T17:17:40.701517+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Così Antonelli ha risolto il problema dei track limit: “Prima mio padre mi ha minacciato, ma poi…”"
+   },
+   "last": "2026-11-13T17:17:40.701521+00:00"
+  },
+  "S7257": {
+   "title": "Pirelli confirms tyre compounds for final three 2026 GPs",
+   "first": "2026-11-13T17:17:40.701524+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T16:57:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Pirelli, scelte le mescole per gli ultimi 3 GP"
+   },
+   "last": "2026-11-13T17:17:40.701527+00:00"
+  },
+  "S7258": {
+   "title": "Overview of F1 2027 test and reserve drivers",
+   "first": "2026-11-13T17:17:40.701530+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-13T17:13:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Übersicht: Die Test- und Ersatzfahrer der Formel 1 2027 - Motorsport-Total.com"
+   },
+   "last": "2026-11-13T17:17:40.701534+00:00"
   }
  },
- "story_seq": 7251,
+ "story_seq": 7258,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12131,22 +12168,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T17:07:33.536188+00:00",
+ "last_run": "2026-11-13T17:17:34.833643+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T17:09:22.095459+00:00",
-   "title": "Hezemans: Red Bull'un çok sayıda şampiyonluk kazanmasının nedeni var",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-10T17:09:22.528769+00:00",
-   "title": "Coulthard'dan Norris'e uyarı: Podyumda şişe ve havai fişek tehlikesi",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-10T17:19:24.328754+00:00",
    "title": "Liberty Media kurucusu F1 ana şirketinin oy hakkını sattı",
@@ -13161,6 +13188,26 @@
    "t": "2026-11-13T16:17:46.974372+00:00",
    "title": "Red Bull, F1 aracını donmuş gölde MotoGP ve ralli araçlarıyla yarıştırıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-13T17:17:52.867793+00:00",
+   "title": "Pirelli, son 3 GP'nin lastik karışımlarını açıkladı",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T17:17:53.314444+00:00",
+   "title": "Antonelli track limit sorununu nasıl çözdü?",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T17:17:53.784122+00:00",
+   "title": "2027 Formula 1 test ve yedek pilotlarına genel bakış",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-13T17:17:54.228822+00:00",
+   "title": "Piastri, zorlu 2026 sezonu ve MCL40 ile mücadelesi hakkında konuştu",
+   "source": "Formula 1"
   }
  ]
 }
