@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a1b710a70ffadb4c": "2026-10-30T23:10:12.370178+00:00",
-  "ca91b08ed62cc94f": "2026-10-30T23:10:12.370178+00:00",
-  "48631e076b207ccf": "2026-10-30T23:15:09.290847+00:00",
-  "212cc4435a81b230": "2026-10-30T23:15:09.290847+00:00",
   "eeae79d5c2ffd1e5": "2026-10-30T23:20:11.344255+00:00",
   "6e9bed871b6f3db3": "2026-10-30T23:20:11.344255+00:00",
   "3ee69c6144cc30f6": "2026-10-30T23:20:11.344255+00:00",
@@ -7441,7 +7437,11 @@
   "f8afa95202332475": "2026-11-13T22:59:03.210635+00:00",
   "a125c389e11c999e": "2026-11-13T23:09:07.720770+00:00",
   "f6ef39675fc7b148": "2026-11-13T23:09:07.720770+00:00",
-  "3e8585634ad2394f": "2026-11-13T23:09:07.720770+00:00"
+  "3e8585634ad2394f": "2026-11-13T23:09:07.720770+00:00",
+  "7b6ca1cb35d27bfe": "2026-11-13T23:19:04.813992+00:00",
+  "4654a391fe76dca9": "2026-11-13T23:19:04.813992+00:00",
+  "2828ca14db7d2e42": "2026-11-13T23:19:04.813992+00:00",
+  "99833258ed707063": "2026-11-13T23:19:04.813992+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11902,7 +11902,7 @@
    "titles": {
     "ESPN F1": "FAA ground stop disrupting air travel for college football teams"
    },
-   "last": "2026-11-13T23:09:10.358319+00:00"
+   "last": "2026-11-13T23:19:07.218456+00:00"
   },
   "S7308": {
    "title": "Alabama to start QB Austin Mack; Keelon Russell available",
@@ -11929,9 +11929,48 @@
     "GPblog": "Poll: Does Lawson have the talent to justify Montoya's bold prediction?"
    },
    "last": "2026-11-13T23:09:10.358339+00:00"
+  },
+  "S7310": {
+   "title": "Cowboys aim to turn around their season",
+   "first": "2026-11-13T23:19:07.218467+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T22:47:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hope for the Cowboys to right the ship"
+   },
+   "last": "2026-11-13T23:19:07.218473+00:00"
+  },
+  "S7311": {
+   "title": "San Jose Earthquakes sold for $625 million",
+   "first": "2026-11-13T23:19:07.218477+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T21:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "San Jose Earthquakes sold for $625 million to Heath Freeman"
+   },
+   "last": "2026-11-13T23:19:07.218482+00:00"
+  },
+  "S7312": {
+   "title": "Prosecutors say Rozier and friend planned Hornets bets",
+   "first": "2026-11-13T23:19:07.218486+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T18:32:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Prosecutors: Text shows Rozier, friend planned to bet unders on Hornets teammate"
+   },
+   "last": "2026-11-13T23:19:07.218490+00:00"
   }
  },
- "story_seq": 7309,
+ "story_seq": 7312,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12050,7 +12089,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-13T23:09:07.720770+00:00",
+ "last_run": "2026-11-13T23:19:04.813992+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
