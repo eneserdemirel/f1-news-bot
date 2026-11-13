@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0d4e78e3d6e07ac7": "2026-10-30T09:13:40.429784+00:00",
-  "f46e7235828b7155": "2026-10-30T09:13:40.429784+00:00",
-  "0e5a9973eb26a88e": "2026-10-30T09:13:40.429784+00:00",
-  "567f32d7ac2378dc": "2026-10-30T09:13:40.429784+00:00",
   "eaaf4b5124ecfa81": "2026-10-30T09:23:40.486651+00:00",
   "60ab3be7d520c23d": "2026-10-30T09:23:40.486651+00:00",
   "d3f30c26165a485c": "2026-10-30T09:23:40.486651+00:00",
@@ -7622,7 +7618,9 @@
   "e947831af92535f3": "2026-11-13T09:06:46.529588+00:00",
   "984343ca6ed45914": "2026-11-13T09:06:46.529588+00:00",
   "f66524719d9a646e": "2026-11-13T09:06:46.529588+00:00",
-  "b3d0625cf70d9769": "2026-11-13T09:06:46.529588+00:00"
+  "b3d0625cf70d9769": "2026-11-13T09:06:46.529588+00:00",
+  "8bb5bfbe60363c15": "2026-11-13T09:16:46.026741+00:00",
+  "488b299c1a52f5d8": "2026-11-13T09:16:46.026741+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7911,45 +7909,6 @@
     "GPblog": "Bottas admits he does not know his Cadillac future as Herta clears Super Licence hurdle"
    },
    "last": "2026-11-11T22:02:46.229751+00:00"
-  },
-  "S6845": {
-   "title": "Heat 115-109 Jazz NBA game recap",
-   "first": "2026-11-11T09:11:23.574974+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T05:06:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Heat 115-109 Jazz (Nov 10, 2026) Game Recap"
-   },
-   "last": "2026-11-11T09:11:23.574993+00:00"
-  },
-  "S6846": {
-   "title": "Verstappen and Hadjar criticise Pirelli wet tyres before Las Vegas",
-   "first": "2026-11-11T09:11:23.575000+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T09:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen and Hadjar call out Pirelli's wet tyres ahead of cold Las Vegas"
-   },
-   "last": "2026-11-11T09:11:23.575005+00:00"
-  },
-  "S6847": {
-   "title": "Analysis of what remains of Pirelli wet-tyre warnings from Brazil",
-   "first": "2026-11-11T09:11:23.575009+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T09:03:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Formel 1 im Regen: Was nach den Warnungen von Brasilien übrig bleibt - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T09:11:23.575014+00:00"
   },
   "S6848": {
    "title": "Analysis of Verstappen's São Paulo data and Mekies' response",
@@ -8972,16 +8931,18 @@
    "sources": {
     "The Race": "2026-11-11T15:33:14+00:00",
     "Motorsport-Total": "2026-11-12T18:36:04+00:00",
-    "GPFans": "2026-11-13T07:58:00+00:00"
+    "GPFans": "2026-11-13T07:58:00+00:00",
+    "Auto Motor und Sport": "2026-11-13T09:08:03+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Hamilton loses 'most marketable athlete' status in 2026",
     "Motorsport-Total": "Lewis Hamilton stürzt in Sportler-Ranking ab: Ferrari-Teamkollege zieht vorbei - Motorsport-Total.com",
-    "GPFans": "Lewis Hamilton knocked off commercial throne as Charles Leclerc overtakes him"
+    "GPFans": "Lewis Hamilton knocked off commercial throne as Charles Leclerc overtakes him",
+    "Auto Motor und Sport": "Formel 1: Marketing-Ranking: In dieser Rangliste ist Hamilton nicht mehr Nr. 1"
    },
-   "last": "2026-11-13T08:06:50.916750+00:00"
+   "last": "2026-11-13T09:16:48.831322+00:00"
   },
   "S6924": {
    "title": "Mekies congratulates Mercedes on constructors' title",
@@ -9826,15 +9787,17 @@
    "first": "2026-11-11T22:32:43.117036+00:00",
    "sources": {
     "Sky Sports F1": "2026-11-11T20:48:00+00:00",
-    "Motorsport Week": "2026-11-12T17:00:00+00:00"
+    "Motorsport Week": "2026-11-12T17:00:00+00:00",
+    "Crash.net": "2026-11-13T09:08:15+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Hamilton urges Israel to 'let the aid trucks in' to Gaza after Rafah border visit",
-    "Motorsport Week": "Lewis Hamilton makes heartfelt tribute after witnessing ‘suffering’ during recent visit"
+    "Motorsport Week": "Lewis Hamilton makes heartfelt tribute after witnessing ‘suffering’ during recent visit",
+    "Crash.net": "Lewis Hamilton shares heartfelt message after visiting Palestinian children"
    },
-   "last": "2026-11-12T22:06:36.736121+00:00"
+   "last": "2026-11-13T09:16:48.831314+00:00"
   },
   "S6989": {
    "title": "Stephen Curry confronts critics over comments about wife Ayesha",
@@ -12086,22 +12049,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T09:06:46.529588+00:00",
+ "last_run": "2026-11-13T09:16:46.026741+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T09:07:50.105985+00:00",
-   "title": "Russell, Norris ve Verstappen'in izinden giden yeni bir proje hazırlıyor",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-10T09:07:50.693515+00:00",
-   "title": "Formula 1: Brezilya galibi Lando Norris'e puan cezası",
-   "source": "Auto Motor und Sport"
-  },
   {
    "t": "2026-11-10T09:27:46.911885+00:00",
    "title": "Terruzzi: Vasseur dışarıdan bir gözlemci gibi, umursamıyor gibi",
