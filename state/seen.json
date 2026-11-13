@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2d4b0c342bb268a4": "2026-10-30T19:05:08.692705+00:00",
-  "405e3cc8cd1fa888": "2026-10-30T19:05:08.692705+00:00",
   "4f087a50ec90bc26": "2026-10-30T19:10:07.612139+00:00",
   "641b86cf20e63af2": "2026-10-30T19:10:07.612139+00:00",
   "93e49bb1c352f3dc": "2026-10-30T19:10:07.612139+00:00",
@@ -7535,7 +7533,11 @@
   "6daeb497ba35f45c": "2026-11-13T18:48:33.948368+00:00",
   "48e991c83ef968b5": "2026-11-13T18:48:33.948368+00:00",
   "bfd9b262323fce02": "2026-11-13T18:58:34.196253+00:00",
-  "706436894e2a5157": "2026-11-13T18:58:34.196253+00:00"
+  "706436894e2a5157": "2026-11-13T18:58:34.196253+00:00",
+  "f0b1dbab316c326f": "2026-11-13T19:08:39.419036+00:00",
+  "65f735dac45aaab3": "2026-11-13T19:08:39.419036+00:00",
+  "d1604d997402f6f4": "2026-11-13T19:08:39.419036+00:00",
+  "c08e0ad254c13425": "2026-11-13T19:08:39.419036+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7819,19 +7821,6 @@
     "ESPN F1": "Tarik Skubal free agency tracker: Latest on top MLB free agent"
    },
    "last": "2026-11-11T19:22:44.606761+00:00"
-  },
-  "S6957": {
-   "title": "Analysis: Pirelli's Brazil verdict leaves wet-tyre dispute unresolved",
-   "first": "2026-11-11T19:02:44.332524+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "F1’s wet-tyre dispute turns on a question Pirelli’s verdict does not fully answer"
-   },
-   "last": "2026-11-11T19:02:44.332542+00:00"
   },
   "S6958": {
    "title": "Mekies explains why Lawson's 2027 decision is delayed",
@@ -8963,15 +8952,17 @@
    "first": "2026-11-12T22:06:36.736208+00:00",
    "sources": {
     "GPFans": "2026-11-12T19:57:00+00:00",
-    "PlanetF1": "2026-11-13T11:40:53+00:00"
+    "PlanetF1": "2026-11-13T11:40:53+00:00",
+    "GPblog": "2026-11-13T19:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPFans": "Toto Wolff wanted to quit Mercedes but one man refused to let him walk away",
-    "PlanetF1": "Toto Wolff drops Mercedes resignation quip amid F1 future update"
+    "PlanetF1": "Toto Wolff drops Mercedes resignation quip amid F1 future update",
+    "GPblog": "Toto Wolff reveals he repeatedly tried to quit Mercedes amid F1 struggles"
    },
-   "last": "2026-11-13T11:46:52.313818+00:00"
+   "last": "2026-11-13T19:08:43.373039+00:00"
   },
   "S7042": {
    "title": "Ole Schack reflects on final Red Bull weekend with Verstappen",
@@ -12102,9 +12093,48 @@
     "ESPN F1": "Oregon, Houston headline best uniforms of college football Week 11"
    },
    "last": "2026-11-13T18:48:37.084514+00:00"
+  },
+  "S7278": {
+   "title": "UTSA fires head coach Claunch; Bowman takes over",
+   "first": "2026-11-13T19:08:43.372999+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T18:22:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UTSA moves on from head coach Claunch; Bowman takes helm rest of season"
+   },
+   "last": "2026-11-13T19:08:43.373015+00:00"
+  },
+  "S7279": {
+   "title": "NC State officially hires Philip Rivers as football coach",
+   "first": "2026-11-13T19:08:43.373021+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T17:24:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NC State officially hires Philip Rivers as football coach"
+   },
+   "last": "2026-11-13T19:08:43.373026+00:00"
+  },
+  "S7280": {
+   "title": "Piastri describes McLaren 'manhandling' challenge in tough F1 season",
+   "first": "2026-11-13T19:08:43.373030+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oscar Piastri details McLaren 'manhandling' challenge as F1 woes continue"
+   },
+   "last": "2026-11-13T19:08:43.373034+00:00"
   }
  },
- "story_seq": 7277,
+ "story_seq": 7280,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12223,11 +12253,11 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T18:58:34.196253+00:00",
+ "last_run": "2026-11-13T19:08:39.419036+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-13 15:00",
- "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
+ "last_digest_slot": "2026-11-13 22:00",
+ "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
   {
    "t": "2026-11-10T19:09:21.793772+00:00",
@@ -13268,6 +13298,11 @@
    "t": "2026-11-13T18:58:48.461213+00:00",
    "title": "Antonelli, Cumhurbaşkanı Mattarella ile Quirinale'de buluştu",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T19:08:51.022335+00:00",
+   "title": "Piastri: McLaren'ı 'zorlayarak' sürmek zorundayım",
+   "source": "RacingNews365"
   }
  ]
 }
