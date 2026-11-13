@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d43b4e5dd1928bf3": "2026-10-30T09:33:41.272641+00:00",
-  "44774d1205ac5097": "2026-10-30T09:33:41.272641+00:00",
   "513d3f0d764adbdd": "2026-10-30T09:43:40.812028+00:00",
   "cad32d7bbe31a96b": "2026-10-30T09:53:42.593468+00:00",
   "0f0f2e55e5ae4c29": "2026-10-30T09:53:42.593468+00:00",
@@ -7618,7 +7616,10 @@
   "488b299c1a52f5d8": "2026-11-13T09:16:46.026741+00:00",
   "b542fd72f6e4acdd": "2026-11-13T09:26:44.954220+00:00",
   "9a771da1f090b508": "2026-11-13T09:26:44.954220+00:00",
-  "f38115d40acbac21": "2026-11-13T09:26:44.954220+00:00"
+  "f38115d40acbac21": "2026-11-13T09:26:44.954220+00:00",
+  "990aad274bb6940d": "2026-11-13T09:36:47.358565+00:00",
+  "9ca1eb89829b48c4": "2026-11-13T09:36:47.358565+00:00",
+  "c6e159a836623d3a": "2026-11-13T09:36:47.358565+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7861,21 +7862,6 @@
    },
    "last": "2026-11-11T09:41:26.050099+00:00"
   },
-  "S6834": {
-   "title": "Former Ferrari F1 hopeful completes Lola Formula E switch",
-   "first": "2026-11-11T08:10:33.522148+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T08:00:00+00:00",
-    "Motorsport.com Italia": "2026-11-11T09:21:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Former Ferrari F1 hopeful completes 'demanding' Lola Formula E switch",
-    "Motorsport.com Italia": "Nuova sfida per Robert Shwartzman: sbarca in Formula E con LOLA per la Gen4"
-   },
-   "last": "2026-11-11T09:31:24.074841+00:00"
-  },
   "S6843": {
    "title": "Bottas responds to Herta's F1 Super Licence points",
    "first": "2026-11-11T08:51:24.381223+00:00",
@@ -7892,58 +7878,6 @@
     "GPblog": "Bottas admits he does not know his Cadillac future as Herta clears Super Licence hurdle"
    },
    "last": "2026-11-11T22:02:46.229751+00:00"
-  },
-  "S6849": {
-   "title": "Man United contact Pochettino; Carrick leads training",
-   "first": "2026-11-11T09:31:24.074790+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T09:16:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United contact Mauricio Pochettino, Michael Carrick leads training - sources"
-   },
-   "last": "2026-11-11T09:31:24.074811+00:00"
-  },
-  "S6850": {
-   "title": "Paul George torches 76ers in Celtics rivalry game",
-   "first": "2026-11-11T09:31:24.074817+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T03:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Paul George torches 76ers as Celtics take edge in renewed rivalry"
-   },
-   "last": "2026-11-11T09:31:24.074823+00:00"
-  },
-  "S6851": {
-   "title": "Analysis of what Brazil GP showed about F1 wet-weather ability",
-   "first": "2026-11-11T09:31:24.074828+00:00",
-   "sources": {
-    "Autosport": "2026-11-11T09:23:42+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "What the Brazilian GP revealed about F1's ability to cope with rain"
-   },
-   "last": "2026-11-11T09:31:24.074833+00:00"
-  },
-  "S6852": {
-   "title": "Two Chinese car brands reportedly want to enter F1",
-   "first": "2026-11-11T09:31:24.074845+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-11T09:12:02+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Konkurrenz aus Fernost: Diese zwei China-Marken wollen in die Formel 1"
-   },
-   "last": "2026-11-11T09:31:24.074851+00:00"
   },
   "S6853": {
    "title": "Damon Hill says Hamilton has rebuilt himself after Abu Dhabi 2021",
@@ -10158,16 +10092,18 @@
    "sources": {
     "The Race": "2026-11-12T16:30:27+00:00",
     "RacingNews365": "2026-11-12T16:54:00+00:00",
-    "RacingNews365 NL": "2026-11-12T17:01:00+00:00"
+    "RacingNews365 NL": "2026-11-12T17:01:00+00:00",
+    "FormulaPassion": "2026-11-13T09:15:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Hearing set for Audi Tsunoda appeal",
     "RacingNews365": "FIA set hearing date with F1-comeback hero's result at risk",
-    "RacingNews365 NL": "FIA plant hoorzitting voor protest GP Italië in"
+    "RacingNews365 NL": "FIA plant hoorzitting voor protest GP Italië in",
+    "FormulaPassion": "GP d’Italia 2026: la FIA conferma la data d’udienza dopo il ricorso presentato dall’Audi"
    },
-   "last": "2026-11-12T22:06:36.736103+00:00"
+   "last": "2026-11-13T09:36:49.216349+00:00"
   },
   "S7019": {
    "title": "Hulkenberg in points again at Interlagos",
@@ -11924,9 +11860,22 @@
     "RacingNews365 NL": "'Verbazingwekkende' regel 24 uur van Le Mans treft óók Max Verstappen"
    },
    "last": "2026-11-13T09:26:50.197748+00:00"
+  },
+  "S7153": {
+   "title": "Yorkshire re-sign Hasan Ali on two-year Blast deal",
+   "first": "2026-11-13T09:36:49.216324+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T09:25:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Yorkshire confirm Hasan Ali return on two-year Blast contract"
+   },
+   "last": "2026-11-13T09:36:49.216342+00:00"
   }
  },
- "story_seq": 7152,
+ "story_seq": 7153,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12045,17 +11994,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T09:26:44.954220+00:00",
+ "last_run": "2026-11-13T09:36:47.358565+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T09:27:46.911885+00:00",
-   "title": "Terruzzi: Vasseur dışarıdan bir gözlemci gibi, umursamıyor gibi",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-10T09:47:48.934647+00:00",
    "title": "Bearman: Haas, yedinciliği Audi'ye kaptırıyor",
