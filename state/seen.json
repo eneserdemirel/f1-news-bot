@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "47c0d55ee88d07aa": "2026-10-30T17:19:29.274868+00:00",
-  "f23e8d8f2f9a4f95": "2026-10-30T17:19:29.274868+00:00",
-  "2d9a1ca910e7feee": "2026-10-30T17:19:29.274868+00:00",
   "9de6d431d004eb27": "2026-10-30T17:29:28.087815+00:00",
   "1948793270901404": "2026-10-30T17:34:32.854983+00:00",
   "cd3157e48f02360c": "2026-10-30T17:34:32.854983+00:00",
@@ -7547,7 +7544,13 @@
   "3ab880e3f112426d": "2026-11-13T17:17:34.833643+00:00",
   "227ffd2ce7b331b8": "2026-11-13T17:17:34.833643+00:00",
   "e23d507e7ee8befb": "2026-11-13T17:17:34.833643+00:00",
-  "70a318aad512f6b8": "2026-11-13T17:18:31.733186+00:00"
+  "70a318aad512f6b8": "2026-11-13T17:18:31.733186+00:00",
+  "a9208500871857ca": "2026-11-13T17:28:34.121466+00:00",
+  "fd1b88152d288209": "2026-11-13T17:28:34.121466+00:00",
+  "3aa31535a33a1112": "2026-11-13T17:28:34.121466+00:00",
+  "d2f83f20f9a20b0c": "2026-11-13T17:28:34.121466+00:00",
+  "03d3938fbd5d62bb": "2026-11-13T17:28:34.121466+00:00",
+  "d0ca179207f29389": "2026-11-13T17:28:34.121466+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7835,19 +7838,6 @@
     "Crash.net": "Lewis Hamilton loses 'most marketable athlete' crown and overtaken by F1 rival"
    },
    "last": "2026-11-13T10:06:53.499946+00:00"
-  },
-  "S6942": {
-   "title": "Analysis: Hamilton as Ferrari number one would not solve Vasseur's problem",
-   "first": "2026-11-11T17:22:04.530329+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T17:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Making Hamilton Ferrari’s number one would not answer Vasseur’s biggest question"
-   },
-   "last": "2026-11-11T17:22:04.530346+00:00"
   },
   "S6943": {
    "title": "Russell refuses to give up on first world title hopes",
@@ -12029,14 +12019,16 @@
    "title": "Pirelli confirms tyre compounds for final three 2026 GPs",
    "first": "2026-11-13T17:17:40.701524+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-13T16:57:38+00:00"
+    "FormulaPassion": "2026-11-13T16:57:38+00:00",
+    "Motorsport.com Italia": "2026-11-13T17:19:59+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Pirelli, scelte le mescole per gli ultimi 3 GP"
+    "FormulaPassion": "Pirelli, scelte le mescole per gli ultimi 3 GP",
+    "Motorsport.com Italia": "F1 | Pirelli ha svelato le mescole per gli ultimi 3 GP della stagione 2026"
    },
-   "last": "2026-11-13T17:17:40.701527+00:00"
+   "last": "2026-11-13T17:28:36.613701+00:00"
   },
   "S7258": {
    "title": "Overview of F1 2027 test and reserve drivers",
@@ -12050,9 +12042,35 @@
     "Motorsport-Total": "Übersicht: Die Test- und Ersatzfahrer der Formel 1 2027 - Motorsport-Total.com"
    },
    "last": "2026-11-13T17:17:40.701534+00:00"
+  },
+  "S7259": {
+   "title": "Sam Hartman to star on The Bachelor",
+   "first": "2026-11-13T17:28:36.613668+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T16:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season"
+   },
+   "last": "2026-11-13T17:28:36.613684+00:00"
+  },
+  "S7260": {
+   "title": "Analysis of convergence behind F1's 2026 competitiveness",
+   "first": "2026-11-13T17:28:36.613690+00:00",
+   "sources": {
+    "Autosport": "2026-11-13T17:14:52+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "The surprising convergence behind F1's increasingly competitive 2026 season"
+   },
+   "last": "2026-11-13T17:28:36.613695+00:00"
   }
  },
- "story_seq": 7258,
+ "story_seq": 7260,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12171,17 +12189,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T17:18:31.733186+00:00",
+ "last_run": "2026-11-13T17:28:34.121466+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T17:19:24.328754+00:00",
-   "title": "Liberty Media kurucusu F1 ana şirketinin oy hakkını sattı",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-10T17:39:26.984967+00:00",
    "title": "Montoya: Verstappen, Antonelli ile rekabet etmenin imkansız olduğunu söylüyor",
@@ -13211,6 +13224,11 @@
    "t": "2026-11-13T17:17:54.228822+00:00",
    "title": "Piastri, zorlu 2026 sezonu ve MCL40 ile mücadelesi hakkında konuştu",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-13T17:28:40.043033+00:00",
+   "title": "Mercedes 2026 şampiyonluğunu erken garantiledi; ikinci yarıda rekabet sıkılaştı",
+   "source": "Autosport"
   }
  ]
 }
