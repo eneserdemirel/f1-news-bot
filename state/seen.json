@@ -1,20 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e81cab380714286e": "2026-10-30T11:53:42.041801+00:00",
-  "6fddf34ee24a2770": "2026-10-30T11:53:42.041801+00:00",
-  "49ba6c750a2034a6": "2026-10-30T11:53:42.041801+00:00",
-  "94304f242c8f6e48": "2026-10-30T11:53:42.041801+00:00",
-  "294cc2d38ef864fe": "2026-10-30T11:53:42.041801+00:00",
-  "340c1a4565b837c6": "2026-10-30T11:53:42.041801+00:00",
-  "8928f555644fc70e": "2026-10-30T11:53:42.041801+00:00",
-  "a3d631e04c783822": "2026-10-30T11:53:42.041801+00:00",
-  "de5eb7fcd966894f": "2026-10-30T11:53:42.041801+00:00",
-  "55aaea36b9a086c0": "2026-10-30T11:53:42.041801+00:00",
-  "7dba21c7483bb406": "2026-10-30T11:53:42.041801+00:00",
-  "7ab7311b0e4794d5": "2026-10-30T11:53:42.041801+00:00",
-  "466cec851bd46e38": "2026-10-30T11:53:42.041801+00:00",
-  "3aa2f2bb3dd8346f": "2026-10-30T11:53:42.041801+00:00",
   "010729f3674a906f": "2026-10-30T12:13:43.463727+00:00",
   "1c85653b8be5404c": "2026-10-30T12:13:43.463727+00:00",
   "dfc7e24c8c774bcf": "2026-10-30T12:13:43.463727+00:00",
@@ -7605,7 +7591,10 @@
   "b61346b98b00a936": "2026-11-13T11:46:48.254683+00:00",
   "545d794b36515955": "2026-11-13T11:46:48.254683+00:00",
   "b170d07920dbcb79": "2026-11-13T11:46:48.254683+00:00",
-  "813c5f5b3312784d": "2026-11-13T11:46:48.254683+00:00"
+  "813c5f5b3312784d": "2026-11-13T11:46:48.254683+00:00",
+  "ff7bac0707ef73fb": "2026-11-13T11:56:49.470851+00:00",
+  "0496879661d79ab1": "2026-11-13T11:56:49.470851+00:00",
+  "59a297062757afc8": "2026-11-13T11:56:49.470851+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7880,32 +7869,6 @@
     "RacingNews365": "Max Verstappen handed Mercedes warning in 'egotistical' Lewis Hamilton take down"
    },
    "last": "2026-11-11T14:52:04.568057+00:00"
-  },
-  "S6875": {
-   "title": "Analysis questions whether Kirk Cousins lifts Vikings after trade",
-   "first": "2026-11-11T11:51:21.813580+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T11:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Questions on 2026 NFL trade deadline deals: Does Kirk Cousins lift the Vikings?"
-   },
-   "last": "2026-11-11T11:51:21.813598+00:00"
-  },
-  "S6876": {
-   "title": "Trail Blazers beat Thunder 123-103 in NBA game recap",
-   "first": "2026-11-11T11:51:21.813604+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T07:05:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Trail Blazers 123-103 Thunder (Nov 10, 2026) Game Recap"
-   },
-   "last": "2026-11-11T11:51:21.813609+00:00"
   },
   "S6877": {
    "title": "Honda faces return of F1 reliability problems with new issue",
@@ -11108,15 +11071,17 @@
    "first": "2026-11-13T06:06:23.494047+00:00",
    "sources": {
     "GPblog": "2026-11-13T06:01:00+00:00",
-    "GPFans": "2026-11-13T06:27:00+00:00"
+    "GPFans": "2026-11-13T06:27:00+00:00",
+    "Crash.net": "2026-11-13T11:49:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "'The problem is that Hamilton is simply not fast enough compared to Leclerc'",
-    "GPFans": "Lewis Hamilton 'not fast enough' as Verstappen questions Ferrari decision - F1 News Today"
+    "GPFans": "Lewis Hamilton 'not fast enough' as Verstappen questions Ferrari decision - F1 News Today",
+    "Crash.net": "Lewis Hamilton ‘not fast enough’ against Charles Leclerc says Ralf Schumacher in brutal jibe"
    },
-   "last": "2026-11-13T06:36:19.917396+00:00"
+   "last": "2026-11-13T11:56:52.264434+00:00"
   },
   "S7118": {
    "title": "Montoya compares Russell and Antonelli speed and adaptability",
@@ -12030,9 +11995,35 @@
     "ESPN F1": "Fantasy football last-minute pickups: Twelve who can help in deep leagues"
    },
    "last": "2026-11-13T11:46:52.313809+00:00"
+  },
+  "S7187": {
+   "title": "Fantasy lineup preview: Cousins' Vikings return boosts Jefferson",
+   "first": "2026-11-13T11:56:52.264412+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T11:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What to know to set your lineup: Cousins' Vikings return elevates Jefferson"
+   },
+   "last": "2026-11-13T11:56:52.264423+00:00"
+  },
+  "S7188": {
+   "title": "France vs South Africa rugby kick-off time and team news",
+   "first": "2026-11-13T11:56:52.264427+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T07:18:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "France vs. South Africa - Kick-off time, team news, how to watch the Springboks"
+   },
+   "last": "2026-11-13T11:56:52.264430+00:00"
   }
  },
- "story_seq": 7186,
+ "story_seq": 7188,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12151,17 +12142,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T11:46:48.254683+00:00",
+ "last_run": "2026-11-13T11:56:49.470851+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T11:48:30.662295+00:00",
-   "title": "FIA ADUO kararını açıkladı, 2027'de revizyona işaret etti",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-10T11:58:30.279204+00:00",
    "title": "FIA, 2026 sezonunun son ADUO analizinde değişiklik olmadığını açıkladı",
