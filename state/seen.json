@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e8d007fcffd564a7": "2026-10-30T09:03:42.344463+00:00",
-  "a5fa57be9b131003": "2026-10-30T09:03:42.344463+00:00",
-  "cabb941a9fdec95a": "2026-10-30T09:03:42.344463+00:00",
-  "67dcbcef5bf7bbda": "2026-10-30T09:03:42.344463+00:00",
-  "9735b6e043edfeab": "2026-10-30T09:03:42.344463+00:00",
   "0d4e78e3d6e07ac7": "2026-10-30T09:13:40.429784+00:00",
   "f46e7235828b7155": "2026-10-30T09:13:40.429784+00:00",
   "0e5a9973eb26a88e": "2026-10-30T09:13:40.429784+00:00",
@@ -7623,7 +7618,11 @@
   "610634d835cfb417": "2026-11-13T08:36:46.275543+00:00",
   "00e65ea6c1901d87": "2026-11-13T08:56:45.344096+00:00",
   "6927ccf4015088cd": "2026-11-13T08:56:45.344096+00:00",
-  "5b4e88954e57f3a1": "2026-11-13T08:56:45.344096+00:00"
+  "5b4e88954e57f3a1": "2026-11-13T08:56:45.344096+00:00",
+  "e947831af92535f3": "2026-11-13T09:06:46.529588+00:00",
+  "984343ca6ed45914": "2026-11-13T09:06:46.529588+00:00",
+  "f66524719d9a646e": "2026-11-13T09:06:46.529588+00:00",
+  "b3d0625cf70d9769": "2026-11-13T09:06:46.529588+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7896,21 +7895,6 @@
    },
    "last": "2026-11-11T09:31:24.074841+00:00"
   },
-  "S6841": {
-   "title": "Filisetti explains Ferrari's flawed Brazil GP compromise",
-   "first": "2026-11-11T08:41:22.670522+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-11T08:30:00+00:00",
-    "RacingNews365": "2026-11-11T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ferrari gedoemd door pijnlijk compromis in debacle GP Brazilië",
-    "RacingNews365": "Ferrari doomed by painful compromise in São Paulo GP debacle"
-   },
-   "last": "2026-11-11T09:01:26.998203+00:00"
-  },
   "S6843": {
    "title": "Bottas responds to Herta's F1 Super Licence points",
    "first": "2026-11-11T08:51:24.381223+00:00",
@@ -7927,19 +7911,6 @@
     "GPblog": "Bottas admits he does not know his Cadillac future as Herta clears Super Licence hurdle"
    },
    "last": "2026-11-11T22:02:46.229751+00:00"
-  },
-  "S6844": {
-   "title": "Antonelli reportedly earns a tenth of Russell's salary",
-   "first": "2026-11-11T09:01:26.998213+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T08:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "12 milioni di bonus per Antonelli, ma un aumento è d’obbligo: attualmente percepisce un decimo dello stipendio di Russell"
-   },
-   "last": "2026-11-11T09:01:26.998220+00:00"
   },
   "S6845": {
    "title": "Heat 115-109 Jazz NBA game recap",
@@ -11955,9 +11926,48 @@
     "GPFans": "Former F1 star makes surprise return with McLaren"
    },
    "last": "2026-11-13T08:56:49.942494+00:00"
+  },
+  "S7148": {
+   "title": "Schumacher warns Russell he could become Antonelli's Barrichello",
+   "first": "2026-11-13T09:06:50.012190+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-13T09:05:11+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "George Russell hit with ‘Antonelli’s Barrichello’ warning from Schumacher"
+   },
+   "last": "2026-11-13T09:06:50.012201+00:00"
+  },
+  "S7149": {
+   "title": "FIA suspends journalist McEvoy for rest of season over Leclerc column",
+   "first": "2026-11-13T09:06:50.012206+00:00",
+   "sources": {
+    "GPblog": "2026-11-13T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "FIA bans British journalist for rest of the season after Leclerc jibe"
+   },
+   "last": "2026-11-13T09:06:50.012209+00:00"
+  },
+  "S7150": {
+   "title": "Speculation on Piastri pressure and Zak Brown's response",
+   "first": "2026-11-13T09:06:50.012212+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-13T09:01:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Piastri unter Druck? \"Dann wird Zak den nächsten Oscar suchen\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-13T09:06:50.012215+00:00"
   }
  },
- "story_seq": 7147,
+ "story_seq": 7150,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12076,7 +12086,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T08:56:45.344096+00:00",
+ "last_run": "2026-11-13T09:06:46.529588+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13126,6 +13136,21 @@
    "t": "2026-11-13T08:56:54.870363+00:00",
    "title": "Nyck de Vries, McLaren ile MCL39 aracında test sürüşü yaptı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-13T09:06:54.789135+00:00",
+   "title": "FIA, Leclerc'e hakaret eden İngiliz gazeteci McEvoy'u sezon sonuna kadar askıya aldı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-13T09:06:55.295327+00:00",
+   "title": "Piastri baskı altında mı? Zak'in yeni Oscar arayacağı iddiası",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-13T09:06:55.701323+00:00",
+   "title": "Schumacher: Russell, Antonelli için Barrichello olacak",
+   "source": "PlanetF1"
   }
  ]
 }
