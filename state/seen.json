@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "accb278ceceb574a": "2026-10-30T16:29:32.207166+00:00",
-  "e27f87a875c8bc13": "2026-10-30T16:29:32.207166+00:00",
-  "8d583dd07a1d7c11": "2026-10-30T16:34:31.634785+00:00",
-  "be794addc886be85": "2026-10-30T16:34:31.634785+00:00",
-  "6588e8a012acc552": "2026-10-30T16:34:31.634785+00:00",
-  "995bdf669336f0de": "2026-10-30T16:34:31.634785+00:00",
   "863bd401c87ce6bb": "2026-10-30T16:39:30.363265+00:00",
   "f703e05e4c1448b0": "2026-10-30T16:39:30.363265+00:00",
   "6a1d31484d359ac6": "2026-10-30T16:44:31.777481+00:00",
@@ -7551,7 +7545,8 @@
   "9821cae3c8f3bbb1": "2026-11-13T16:17:36.754479+00:00",
   "9f4a6fb81a089953": "2026-11-13T16:17:36.754479+00:00",
   "bffb9c1af8e27039": "2026-11-13T16:17:36.754479+00:00",
-  "5d0b60c160b64d62": "2026-11-13T16:27:35.430315+00:00"
+  "5d0b60c160b64d62": "2026-11-13T16:27:35.430315+00:00",
+  "f8d7a67f7024d5f5": "2026-11-13T16:37:37.194280+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7573,25 +7568,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S6607": {
-   "title": "Ricciardo praises Verstappen as best around",
-   "first": "2026-11-10T09:47:42.104439+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-10T09:45:00+00:00",
-    "Crash.net": "2026-11-10T15:31:24+00:00",
-    "Motorsport Week": "2026-11-11T10:00:00+00:00",
-    "GPFans": "2026-11-11T16:27:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Ricciardo lyrisch over Verstappen: \"Niemand beter dan Max!\"",
-    "Crash.net": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’",
-    "Motorsport Week": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’",
-    "GPFans": "Daniel Ricciardo heaps praise on Max Verstappen as all-time F1 great: 'Insane talent'"
-   },
-   "last": "2026-11-11T16:32:06.424911+00:00"
-  },
   "S6623": {
    "title": "Final Qatar and Abu Dhabi GP decision said to be imminent",
    "first": "2026-11-10T11:27:43.395374+00:00",
@@ -7888,58 +7864,6 @@
     "Crash.net": "Lewis Hamilton loses 'most marketable athlete' crown and overtaken by F1 rival"
    },
    "last": "2026-11-13T10:06:53.499946+00:00"
-  },
-  "S6932": {
-   "title": "LSU-Texas college football best bets preview",
-   "first": "2026-11-11T16:32:06.424867+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LSU-Texas best bets: Will Saturday in Baton Rouge be a defensive struggle?"
-   },
-   "last": "2026-11-11T16:32:06.424884+00:00"
-  },
-  "S6933": {
-   "title": "Claire Williams comments on Williams' painful season",
-   "first": "2026-11-11T16:32:06.424891+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T16:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Former senior Williams figure issues 'safe hands' confidence amid painful season"
-   },
-   "last": "2026-11-11T16:32:06.424897+00:00"
-  },
-  "S6934": {
-   "title": "Ex-Ferrari engineer Mazzola on Hamilton's ignored pit call",
-   "first": "2026-11-11T16:32:06.424901+00:00",
-   "sources": {
-    "GPblog": "2026-11-11T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Ex-Ferrari engineer says Schumacher never made a mistake like Hamilton's Brazil pit call"
-   },
-   "last": "2026-11-11T16:32:06.424905+00:00"
-  },
-  "S6935": {
-   "title": "Coulthard criticises F1's cautious approach to rain racing",
-   "first": "2026-11-11T16:32:06.424915+00:00",
-   "sources": {
-    "Crash.net": "2026-11-11T16:28:26+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "David Coulthard critiques F1 for not ‘fully respecting history’ with cautious stance on rain"
-   },
-   "last": "2026-11-11T16:32:06.424919+00:00"
   },
   "S6936": {
    "title": "Harry Kane thanks doctor ahead of record 126th England cap",
@@ -9336,15 +9260,17 @@
    "first": "2026-11-12T22:06:36.736203+00:00",
    "sources": {
     "GPFans": "2026-11-12T20:57:00+00:00",
-    "RacingNews365 NL": "2026-11-13T13:45:00+00:00"
+    "RacingNews365 NL": "2026-11-13T13:45:00+00:00",
+    "GPblog": "2026-11-13T16:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPFans": "Liam Lawson 'could be the next Verstappen' as F1 legend makes stunning claim",
-    "RacingNews365 NL": "Montoya bombardeert Lawson tot nieuwe Verstappen: \"Dat zou kunnen\""
+    "RacingNews365 NL": "Montoya bombardeert Lawson tot nieuwe Verstappen: \"Dat zou kunnen\"",
+    "GPblog": "Liam Lawson 'could be the next Max Verstappen' as F1 legend makes bold claim"
    },
-   "last": "2026-11-13T13:57:38.943193+00:00"
+   "last": "2026-11-13T16:37:39.639095+00:00"
   },
   "S7041": {
    "title": "Wolff reveals he offered to quit Mercedes several times",
@@ -12216,17 +12142,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T16:27:35.430315+00:00",
+ "last_run": "2026-11-13T16:37:37.194280+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T16:28:28.873312+00:00",
-   "title": "Barrichello, FW33 ile Velocitta'da baanrecord kırdı ve gözyaşlarına boğuldu",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-10T16:38:32.454768+00:00",
    "title": "Vowles, Sainz ve Albon'un şampiyonluk potansiyelini savunuyor",
