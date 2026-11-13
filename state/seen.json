@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "327bfba0db588377": "2026-10-30T06:32:53.639423+00:00",
-  "a761501c4276206a": "2026-10-30T06:32:53.639423+00:00",
-  "cdfb038dbf0e8e49": "2026-10-30T06:32:53.639423+00:00",
   "9bedd0fff5a1c78c": "2026-10-30T06:42:53.926019+00:00",
   "9ece91137cecae29": "2026-10-30T06:42:53.926019+00:00",
   "9c423937932852b2": "2026-10-30T06:42:53.926019+00:00",
@@ -7626,7 +7623,9 @@
   "4a4bf2d6ef659dbd": "2026-11-13T06:06:17.327052+00:00",
   "6acbc08bb3f42833": "2026-11-13T06:16:16.979922+00:00",
   "a81ce21876b8a750": "2026-11-13T06:26:18.087093+00:00",
-  "379d10b9ab906712": "2026-11-13T06:26:18.087093+00:00"
+  "379d10b9ab906712": "2026-11-13T06:26:18.087093+00:00",
+  "a93da199665d6350": "2026-11-13T06:36:17.435227+00:00",
+  "9fbb4a2649c3321f": "2026-11-13T06:36:17.435227+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11896,14 +11895,16 @@
    "title": "Ralf Schumacher says Hamilton not fast enough versus Leclerc",
    "first": "2026-11-13T06:06:23.494047+00:00",
    "sources": {
-    "GPblog": "2026-11-13T06:01:00+00:00"
+    "GPblog": "2026-11-13T06:01:00+00:00",
+    "GPFans": "2026-11-13T06:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "'The problem is that Hamilton is simply not fast enough compared to Leclerc'"
+    "GPblog": "'The problem is that Hamilton is simply not fast enough compared to Leclerc'",
+    "GPFans": "Lewis Hamilton 'not fast enough' as Verstappen questions Ferrari decision - F1 News Today"
    },
-   "last": "2026-11-13T06:06:23.494050+00:00"
+   "last": "2026-11-13T06:36:19.917396+00:00"
   },
   "S7118": {
    "title": "Montoya compares Russell and Antonelli speed and adaptability",
@@ -11956,9 +11957,22 @@
     "RacingNews365": "Max Verstappen reveals key Red Bull factor in facing major Las Vegas issue"
    },
    "last": "2026-11-13T06:26:20.282317+00:00"
+  },
+  "S7122": {
+   "title": "Bo Horvat scores goal for Islanders",
+   "first": "2026-11-13T06:36:19.917370+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T05:53:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bo Horvat lights the lamp for Islanders"
+   },
+   "last": "2026-11-13T06:36:19.917388+00:00"
   }
  },
- "story_seq": 7121,
+ "story_seq": 7122,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12077,17 +12091,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T06:26:18.087093+00:00",
+ "last_run": "2026-11-13T06:36:17.435227+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T06:27:08.213666+00:00",
-   "title": "Verstappen: Team principal olsam asla iki birinci pilot seçmezdim",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-10T07:07:47.003134+00:00",
    "title": "Verstappen ve Red Bull, Baku güncellemesinden sonra dikkat çeken bir yükseliş yaşıyor",
