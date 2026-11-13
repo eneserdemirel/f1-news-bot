@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "781606f2cb669171": "2026-10-30T08:03:44.137751+00:00",
-  "f7ccbb6fc7167c57": "2026-10-30T08:03:44.137751+00:00",
-  "ef8434f711821185": "2026-10-30T08:03:44.137751+00:00",
-  "b29a63b23cc597bb": "2026-10-30T08:03:44.137751+00:00",
   "f5af0f00d7659da4": "2026-10-30T08:13:43.898368+00:00",
   "537f237b7d02e341": "2026-10-30T08:13:43.898368+00:00",
   "39ad249b68a8ef04": "2026-10-30T08:13:43.898368+00:00",
@@ -7624,7 +7620,10 @@
   "8d0acdb7fe9af7f0": "2026-11-13T07:56:50.055083+00:00",
   "ceafa2e949ab7522": "2026-11-13T07:56:50.055083+00:00",
   "f4b767fce6517f47": "2026-11-13T07:56:50.055083+00:00",
-  "693c250bbf58f5fe": "2026-11-13T07:56:50.055083+00:00"
+  "693c250bbf58f5fe": "2026-11-13T07:56:50.055083+00:00",
+  "53de073b6a617fbe": "2026-11-13T08:06:45.714487+00:00",
+  "b7e5ebaad409c780": "2026-11-13T08:06:45.714487+00:00",
+  "5878e401867de9e0": "2026-11-13T08:06:45.714487+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7926,45 +7925,6 @@
     "RacingNews365": "Max Verstappen given 'an extra point' for 'simply sensational' reason"
    },
    "last": "2026-11-11T09:41:26.050099+00:00"
-  },
-  "S6831": {
-   "title": "Zenit vs Trabzonspor live score",
-   "first": "2026-11-11T08:00:39.629625+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T07:59:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Zenit vs. Trabzonspor (Nov 15, 2026) Live Score"
-   },
-   "last": "2026-11-11T08:00:39.629643+00:00"
-  },
-  "S6832": {
-   "title": "Montoya backs Hamilton's claim Leclerc races him aggressively",
-   "first": "2026-11-11T08:00:39.629648+00:00",
-   "sources": {
-    "GPFans": "2026-11-11T07:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton backed in Charles Leclerc F1 row as Ferrari tensions simmer"
-   },
-   "last": "2026-11-11T08:00:39.629653+00:00"
-  },
-  "S6833": {
-   "title": "Bearman criticises Haas for losing key points",
-   "first": "2026-11-11T08:00:39.629657+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-11T07:50:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Haas verschenkt wichtige WM-Punkte: Bearman rechnet mit seinem Team ab - Motorsport-Total.com"
-   },
-   "last": "2026-11-11T08:00:39.629660+00:00"
   },
   "S6834": {
    "title": "Former Ferrari F1 hopeful completes Lola Formula E switch",
@@ -9178,15 +9138,17 @@
    "first": "2026-11-11T15:42:10.473497+00:00",
    "sources": {
     "The Race": "2026-11-11T15:33:14+00:00",
-    "Motorsport-Total": "2026-11-12T18:36:04+00:00"
+    "Motorsport-Total": "2026-11-12T18:36:04+00:00",
+    "GPFans": "2026-11-13T07:58:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Hamilton loses 'most marketable athlete' status in 2026",
-    "Motorsport-Total": "Lewis Hamilton stürzt in Sportler-Ranking ab: Ferrari-Teamkollege zieht vorbei - Motorsport-Total.com"
+    "Motorsport-Total": "Lewis Hamilton stürzt in Sportler-Ranking ab: Ferrari-Teamkollege zieht vorbei - Motorsport-Total.com",
+    "GPFans": "Lewis Hamilton knocked off commercial throne as Charles Leclerc overtakes him"
    },
-   "last": "2026-11-12T22:06:36.736236+00:00"
+   "last": "2026-11-13T08:06:50.916750+00:00"
   },
   "S6924": {
    "title": "Mekies congratulates Mercedes on constructors' title",
@@ -11975,9 +11937,35 @@
     "Motorsport-Total": "Was Red Bull jetzt mit Nikola Tsolov vorhat - Motorsport-Total.com"
    },
    "last": "2026-11-13T07:56:56.574623+00:00"
+  },
+  "S7136": {
+   "title": "Stefon Diggs late go-ahead touchdown for Commanders over Giants",
+   "first": "2026-11-13T08:06:50.916727+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T04:21:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stefon Diggs stuns Giants with late go-ahead TD for Commanders"
+   },
+   "last": "2026-11-13T08:06:50.916738+00:00"
+  },
+  "S7137": {
+   "title": "McLaren faces risky dilemma over upcoming F1 rule change",
+   "first": "2026-11-13T08:06:50.916742+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren face risky dilemma over impending change to F1 rules"
+   },
+   "last": "2026-11-13T08:06:50.916746+00:00"
   }
  },
- "story_seq": 7135,
+ "story_seq": 7137,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12096,7 +12084,7 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T07:56:50.055083+00:00",
+ "last_run": "2026-11-13T08:06:45.714487+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
@@ -13136,6 +13124,11 @@
    "t": "2026-11-13T07:57:04.980323+00:00",
    "title": "Ferrari'de Leclerc-Hamilton sorunu hâlâ çözülmüş değil",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-13T08:06:56.439552+00:00",
+   "title": "McLaren, 2027 kurallarına geçiş öncesi riskli bir ikilemle karşı karşıya",
+   "source": "RacingNews365"
   }
  ]
 }
