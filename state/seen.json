@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "46567c9a3c5dd023": "2026-10-30T08:53:40.932313+00:00",
-  "ef92ed05f29af960": "2026-10-30T08:53:40.932313+00:00",
-  "ae6f784677f6c6cf": "2026-10-30T08:53:40.932313+00:00",
   "e8d007fcffd564a7": "2026-10-30T09:03:42.344463+00:00",
   "a5fa57be9b131003": "2026-10-30T09:03:42.344463+00:00",
   "cabb941a9fdec95a": "2026-10-30T09:03:42.344463+00:00",
@@ -7623,7 +7620,10 @@
   "e09333bf7cbce0cf": "2026-11-13T08:36:46.275543+00:00",
   "8362d89655df9ac7": "2026-11-13T08:36:46.275543+00:00",
   "1ed1c786172be198": "2026-11-13T08:36:46.275543+00:00",
-  "610634d835cfb417": "2026-11-13T08:36:46.275543+00:00"
+  "610634d835cfb417": "2026-11-13T08:36:46.275543+00:00",
+  "00e65ea6c1901d87": "2026-11-13T08:56:45.344096+00:00",
+  "6927ccf4015088cd": "2026-11-13T08:56:45.344096+00:00",
+  "5b4e88954e57f3a1": "2026-11-13T08:56:45.344096+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7751,23 +7751,6 @@
    },
    "last": "2026-11-11T20:02:42.701558+00:00"
   },
-  "S6655": {
-   "title": "Norris discusses bizarre fireworks incident on podium",
-   "first": "2026-11-10T14:58:32.365466+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-10T13:56:52+00:00",
-    "GPblog": "2026-11-10T15:15:00+00:00",
-    "GPFans": "2026-11-11T08:43:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Gefährliches Feuerwerk: Norris spricht über bizarren Podiums-Unfall",
-    "GPblog": "Norris shares update on his ear after scary Brazil GP fireworks incident",
-    "GPFans": "Lando Norris shares health update after smashing champagne bottle and walking into firework"
-   },
-   "last": "2026-11-11T08:51:24.381235+00:00"
-  },
   "S6673": {
    "title": "Formula E billionaire calls F1 a 'smelly old dinosaur'",
    "first": "2026-11-10T15:58:27.397618+00:00",
@@ -7883,19 +7866,6 @@
    },
    "last": "2026-11-11T09:21:24.864697+00:00"
   },
-  "S6820": {
-   "title": "Celtics troll 76ers with 'Throw the ball up' slogan postgame",
-   "first": "2026-11-11T06:50:31.247011+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T04:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Celtics turn 76ers' 'Throw the ball up' slogan into postgame troll"
-   },
-   "last": "2026-11-11T08:51:24.381217+00:00"
-  },
   "S6830": {
    "title": "Danner praises Verstappen's P21-to-P2 Brazil comeback",
    "first": "2026-11-11T07:50:31.199622+00:00",
@@ -7940,19 +7910,6 @@
     "RacingNews365": "Ferrari doomed by painful compromise in São Paulo GP debacle"
    },
    "last": "2026-11-11T09:01:26.998203+00:00"
-  },
-  "S6842": {
-   "title": "Jaylen Brown says he wasn't paying attention to Tatum pregame",
-   "first": "2026-11-11T08:51:24.381189+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T06:24:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brown: 'Wasn't paying attention' to Tatum in pregame exchange"
-   },
-   "last": "2026-11-11T08:51:24.381208+00:00"
   },
   "S6843": {
    "title": "Bottas responds to Herta's F1 Super Licence points",
@@ -11959,9 +11916,48 @@
     "RacingNews365 NL": "Steiner teleurgesteld in resultaat Verstappen: \"Voltooide de missie niet\""
    },
    "last": "2026-11-13T08:36:49.519706+00:00"
+  },
+  "S7145": {
+   "title": "Jameis Winston 'dogs out' fourth-down play in Commanders-Giants game",
+   "first": "2026-11-13T08:56:49.942470+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T06:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Giants' Jameis Winston lets 'the dogs out' on 4th down; Commanders don't bite"
+   },
+   "last": "2026-11-13T08:56:49.942481+00:00"
+  },
+  "S7146": {
+   "title": "Wolff outlines Mercedes long-term vision, rejects fire-and-hire approach",
+   "first": "2026-11-13T08:56:49.942485+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-13T08:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff discloses 'long-term vision' for Mercedes' F1 success"
+   },
+   "last": "2026-11-13T08:56:49.942489+00:00"
+  },
+  "S7147": {
+   "title": "Nyck de Vries completes two-day McLaren test in Jerez",
+   "first": "2026-11-13T08:56:49.942491+00:00",
+   "sources": {
+    "GPFans": "2026-11-13T08:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Former F1 star makes surprise return with McLaren"
+   },
+   "last": "2026-11-13T08:56:49.942494+00:00"
   }
  },
- "story_seq": 7144,
+ "story_seq": 7147,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12080,17 +12076,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T08:46:46.723574+00:00",
+ "last_run": "2026-11-13T08:56:45.344096+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-12 22:00",
  "last_digest_at": "2026-11-12T19:05:31.360840+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T08:47:48.246825+00:00",
-   "title": "Hamilton, Wolff'un şampiyonluk uçağında zorlu bir yolculuğa çıkıyor",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-10T09:07:50.105985+00:00",
    "title": "Russell, Norris ve Verstappen'in izinden giden yeni bir proje hazırlıyor",
@@ -13125,6 +13116,16 @@
    "t": "2026-11-13T08:36:54.193958+00:00",
    "title": "Steiner, Verstappen'in Brezilya performansından hayal kırıklığına uğradığını söyledi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-13T08:56:54.439235+00:00",
+   "title": "Toto Wolff, Mercedes'in uzun vadeli F1 vizyonunu açıkladı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T08:56:54.870363+00:00",
+   "title": "Nyck de Vries, McLaren ile MCL39 aracında test sürüşü yaptı",
+   "source": "GPFans"
   }
  ]
 }
