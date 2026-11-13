@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f71828d066f421b4": "2026-10-30T12:23:41.543733+00:00",
-  "6fc86f8ad69b5bd4": "2026-10-30T12:23:41.543733+00:00",
-  "db590dc874e65390": "2026-10-30T12:23:41.543733+00:00",
   "e26d7f94122d9794": "2026-10-30T12:38:40.222941+00:00",
   "4fd111ffda0e767f": "2026-10-30T12:43:46.039590+00:00",
   "668dbd5cc4982354": "2026-10-30T12:43:46.039590+00:00",
@@ -7596,7 +7593,12 @@
   "4d1e07c33ce5ae46": "2026-11-13T12:06:47.174489+00:00",
   "8169c3f817368349": "2026-11-13T12:17:36.618092+00:00",
   "7bf03003ef9f6af6": "2026-11-13T12:17:36.618092+00:00",
-  "02fa8203e83f4cd5": "2026-11-13T12:17:36.618092+00:00"
+  "02fa8203e83f4cd5": "2026-11-13T12:17:36.618092+00:00",
+  "d8bb611270a7fc6f": "2026-11-13T12:27:34.244173+00:00",
+  "cc02bb96b62c98c9": "2026-11-13T12:27:34.244173+00:00",
+  "0b84abc227729bb8": "2026-11-13T12:27:34.244173+00:00",
+  "c915ee554e106bea": "2026-11-13T12:27:34.244173+00:00",
+  "23b8b2871e004e3f": "2026-11-13T12:27:34.244173+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7856,45 +7858,6 @@
     "GPblog": "Trump shares update on Iran war that could be very welcome for Formula 1"
    },
    "last": "2026-11-11T21:32:43.456617+00:00"
-  },
-  "S6882": {
-   "title": "Army football fans ferrygating feature (off-topic for F1)",
-   "first": "2026-11-11T12:21:28.637956+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-11T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What's it like ferrygating with Army football's newest fans"
-   },
-   "last": "2026-11-11T12:21:28.637976+00:00"
-  },
-  "S6883": {
-   "title": "Albon says Williams needed steadier rain for better result",
-   "first": "2026-11-11T12:21:28.637997+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T12:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Albon: “Avremmo avuto bisogno di una pioggia più costante per massimizzare il risultato”"
-   },
-   "last": "2026-11-11T12:21:28.638003+00:00"
-  },
-  "S6884": {
-   "title": "Verstappen's 21st-to-2nd Brazil comeback called beyond any simulator",
-   "first": "2026-11-11T12:21:28.638006+00:00",
-   "sources": {
-    "AS": "2026-11-11T12:08:41+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "“No hay ningún simulador capaz de hacer lo de Max”"
-   },
-   "last": "2026-11-11T12:21:28.638011+00:00"
   },
   "S6885": {
    "title": "ESPN fantasy football Week matchup rankings: Gordon up, Love down",
@@ -11405,14 +11368,16 @@
    "title": "Schumacher warns Russell he could become Antonelli's Barrichello",
    "first": "2026-11-13T09:06:50.012190+00:00",
    "sources": {
-    "PlanetF1": "2026-11-13T09:05:11+00:00"
+    "PlanetF1": "2026-11-13T09:05:11+00:00",
+    "RacingNews365 NL": "2026-11-13T12:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "George Russell hit with ‘Antonelli’s Barrichello’ warning from Schumacher"
+    "PlanetF1": "George Russell hit with ‘Antonelli’s Barrichello’ warning from Schumacher",
+    "RacingNews365 NL": "Russell ontvangt 'Barrichello'-waarschuwing: \"Twijfel ik geen moment aan\""
    },
-   "last": "2026-11-13T09:06:50.012201+00:00"
+   "last": "2026-11-13T12:27:38.434919+00:00"
   },
   "S7149": {
    "title": "FIA suspends journalist McEvoy for rest of season over Leclerc column",
@@ -11999,9 +11964,61 @@
     "RacingNews365": "F1 drivers voice dissent after major test despite George Russell optimism"
    },
    "last": "2026-11-13T12:17:39.736412+00:00"
+  },
+  "S7193": {
+   "title": "AI analysis and Blade 7 dartboard feature",
+   "first": "2026-11-13T12:27:38.434878+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T12:22:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AI analysis and 10 million darts: Inside the PDC's new Blade 7 dartboard"
+   },
+   "last": "2026-11-13T12:27:38.434898+00:00"
+  },
+  "S7194": {
+   "title": "Review of Pochettino's USMNT tenure",
+   "first": "2026-11-13T12:27:38.434905+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-13T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pochettino's USMNT tenure had ups, downs and an ever-present mercenary feel"
+   },
+   "last": "2026-11-13T12:27:38.434912+00:00"
+  },
+  "S7195": {
+   "title": "Ben Sulayem says rules won't change for Chinese team entry",
+   "first": "2026-11-13T12:27:38.434923+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-13T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ben Sulayem: “Le regole non cambieranno per favorire l’ingresso di un team cinese in F1”"
+   },
+   "last": "2026-11-13T12:27:38.434928+00:00"
+  },
+  "S7196": {
+   "title": "Antonelli to meet President Mattarella at Quirinale",
+   "first": "2026-11-13T12:27:38.434931+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-13T12:19:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi Antonelli atteso al Quirinale: oggi l'incontro con il Presidente Sergio Mattarella"
+   },
+   "last": "2026-11-13T12:27:38.434935+00:00"
   }
  },
- "story_seq": 7192,
+ "story_seq": 7196,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12120,27 +12137,12 @@
   ]
  ],
  "calendar_updated": "2026-11-12T23:05:29.050322+00:00",
- "last_run": "2026-11-13T12:17:36.618092+00:00",
+ "last_run": "2026-11-13T12:27:34.244173+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 15:00",
  "last_digest_at": "2026-11-13T12:06:52.203478+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-10T12:18:38.436310+00:00",
-   "title": "Red Bull Interlagos'ta çifte podyum yaptı",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-10T12:18:38.956326+00:00",
-   "title": "FIA Başkanı Ben Sulayem'den F1 sezon finali için net mesaj",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-10T12:18:39.495322+00:00",
-   "title": "FIA, 2026 ADUO nihai sonuçlarını değişiklik yapmadan yayımladı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-10T12:28:31.225899+00:00",
    "title": "FIA, 2026 ADUO nihai sonuçlarını yayımladı",
@@ -13180,6 +13182,16 @@
    "t": "2026-11-13T12:17:44.117879+00:00",
    "title": "F1 pilotları Pirelli'nin yağmur lastiklerinden memnun değil",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-13T12:27:44.227182+00:00",
+   "title": "Ben Sulayem: Çinli takım için F1 kuralları değişmeyecek",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-13T12:27:44.664057+00:00",
+   "title": "Kimi Antonelli bugün Cumhurbaşkanı Mattarella ile görüşecek",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
