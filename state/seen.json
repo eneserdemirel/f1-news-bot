@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "719317ccaacdf690": "2026-10-31T10:32:34.826116+00:00",
-  "b48f6eeee4743b3e": "2026-10-31T10:37:11.740568+00:00",
-  "d1ad0a847256b60e": "2026-10-31T10:37:11.740568+00:00",
-  "cbb003339fe3b1ca": "2026-10-31T10:37:11.740568+00:00",
   "b1346ef2b7f2862e": "2026-10-31T10:42:12.568324+00:00",
   "805b42013dd6c535": "2026-10-31T10:57:13.552039+00:00",
   "ef7057a19f919b3f": "2026-10-31T10:57:13.552039+00:00",
@@ -7317,7 +7313,9 @@
   "9e78a1b386286278": "2026-11-14T10:10:42.029649+00:00",
   "84fd8ba7c04c0a60": "2026-11-14T10:20:37.461258+00:00",
   "0b6168f9f3803594": "2026-11-14T10:30:38.021601+00:00",
-  "ae2a41aa7d0ab291": "2026-11-14T10:30:38.021601+00:00"
+  "ae2a41aa7d0ab291": "2026-11-14T10:30:38.021601+00:00",
+  "3522d3373fe690c7": "2026-11-14T10:40:41.425811+00:00",
+  "bfa86a4424c6b9ee": "2026-11-14T10:40:41.425811+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13036,9 +13034,35 @@
     "Motorsport-Total": "FIA sperrt Formel-1-Journalisten: Hat er diese Strafe wirklich verdient? - Motorsport-Total.com"
    },
    "last": "2026-11-14T10:30:40.803460+00:00"
+  },
+  "S7403": {
+   "title": "Listicle: F1 events since GTA 5 release",
+   "first": "2026-11-14T10:40:44.327683+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T10:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "10 things that have happened in F1 before we got GTA 6"
+   },
+   "last": "2026-11-14T10:40:44.327701+00:00"
+  },
+  "S7404": {
+   "title": "Analysis of Verstappen's Interlagos race pace ahead of Las Vegas",
+   "first": "2026-11-14T10:40:44.327706+00:00",
+   "sources": {
+    "GPblog": "2026-11-14T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen faster than everyone: promising figures for Las Vegas"
+   },
+   "last": "2026-11-14T10:40:44.327710+00:00"
   }
  },
- "story_seq": 7402,
+ "story_seq": 7404,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13157,17 +13181,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T10:30:38.021601+00:00",
+ "last_run": "2026-11-14T10:40:41.425811+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T10:31:28.263182+00:00",
-   "title": "Leclerc'in cezasına Norris'ten itiraz: 'Mükemmel yerleştirilmiş bir itme'",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T10:41:29.762300+00:00",
    "title": "F1 pilotları 'hız limiti' uygulamasından şikayetçi",
@@ -14152,6 +14171,11 @@
    "t": "2026-11-14T10:20:44.198541+00:00",
    "title": "Eski Ferrari mühendisinden Hamilton ve Leclerc için uyarı",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-14T10:40:48.567576+00:00",
+   "title": "Verstappen, Las Vegas öncesi umut verici verilerle rakiplerinden hızlı",
+   "source": "GPblog"
   }
  ]
 }
