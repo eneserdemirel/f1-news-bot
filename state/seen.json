@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1aaae8dda5ee0364": "2026-10-31T08:31:29.526142+00:00",
-  "71c31c0a726fe70a": "2026-10-31T08:36:23.288688+00:00",
-  "107febabc14fc7cf": "2026-10-31T08:36:23.288688+00:00",
-  "7648f7270e4f25b5": "2026-10-31T08:36:23.288688+00:00",
   "3a3c90e5b90e4fc8": "2026-10-31T08:41:30.770513+00:00",
   "8ed98c0888e373ae": "2026-10-31T08:41:30.770513+00:00",
   "0968c436c04c4377": "2026-10-31T08:46:24.616447+00:00",
@@ -7354,7 +7350,10 @@
   "78bd5f3e73206096": "2026-11-14T08:09:47.672747+00:00",
   "b4303ce18cc47e7d": "2026-11-14T08:19:46.363112+00:00",
   "c2b26cea1d9a2533": "2026-11-14T08:19:46.363112+00:00",
-  "c5fca7e4ba119575": "2026-11-14T08:29:47.278192+00:00"
+  "c5fca7e4ba119575": "2026-11-14T08:29:47.278192+00:00",
+  "aa3c9cb44c9859fa": "2026-11-14T08:39:49.998096+00:00",
+  "0a2127660da7d4e7": "2026-11-14T08:39:49.998096+00:00",
+  "cd05f561c6fabed1": "2026-11-14T08:39:49.998096+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11052,14 +11051,16 @@
    "title": "Antonelli names biggest threat to his 2027 title defence",
    "first": "2026-11-13T16:57:36.904282+00:00",
    "sources": {
-    "Formula 1": "2026-11-13T16:57:36.904298+00:00"
+    "Formula 1": "2026-11-13T16:57:36.904298+00:00",
+    "RacingNews365 NL": "2026-11-14T08:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Antonelli identifies the biggest threat to his title defence"
+    "Formula 1": "Antonelli identifies the biggest threat to his title defence",
+    "RacingNews365 NL": "Antonelli gealarmeerd door Verstappen: \"Zal voor meeste problemen zorgen!\""
    },
-   "last": "2026-11-13T16:57:36.904302+00:00"
+   "last": "2026-11-14T08:39:53.547085+00:00"
   },
   "S7250": {
    "title": "RacingNews365 poll on Ferrari number one driver policy",
@@ -12664,7 +12665,7 @@
    "titles": {
     "ESPN F1": "Spurs 123-85 Warriors (Nov 13, 2026) Game Recap"
    },
-   "last": "2026-11-14T07:29:51.716390+00:00"
+   "last": "2026-11-14T08:39:53.547064+00:00"
   },
   "S7373": {
    "title": "Newey salary demand from Red Bull revealed in Horner book",
@@ -12795,9 +12796,22 @@
     "Motorsport.com Italia": "F1 | Ghini: \"I dogmi di monsignore Wolff e i tormenti di Don Abbondio Vasseur\""
    },
    "last": "2026-11-14T08:29:49.149369+00:00"
+  },
+  "S7383": {
+   "title": "Lendeborg struggles in Warriors blowout loss to Spurs",
+   "first": "2026-11-14T08:39:53.547074+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T06:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Warriors' Yaxel Lendeborg (1-for-13) 'flustered' in blowout loss to Spurs"
+   },
+   "last": "2026-11-14T08:39:53.547080+00:00"
   }
  },
- "story_seq": 7382,
+ "story_seq": 7383,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12916,7 +12930,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T08:29:47.278192+00:00",
+ "last_run": "2026-11-14T08:39:49.998096+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
