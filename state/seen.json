@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "419449a82e34467f": "2026-10-31T12:02:12.751439+00:00",
-  "5217489037c69468": "2026-10-31T12:07:13.017689+00:00",
   "77c132adb998bf15": "2026-10-31T12:17:10.577670+00:00",
   "473eadbc69419809": "2026-10-31T12:17:10.577670+00:00",
   "e2ed3bbd88e63ad9": "2026-10-31T12:17:10.577670+00:00",
@@ -7309,7 +7307,10 @@
   "5928ceed51b7c50e": "2026-11-14T11:40:37.131670+00:00",
   "64218f6b991053ff": "2026-11-14T11:50:37.417625+00:00",
   "ddb5743dbb5f67f5": "2026-11-14T12:00:42.086442+00:00",
-  "da1aa583d008edf4": "2026-11-14T12:00:42.086442+00:00"
+  "da1aa583d008edf4": "2026-11-14T12:00:42.086442+00:00",
+  "fee504ef4ab01062": "2026-11-14T12:10:41.566302+00:00",
+  "e1066787857f0d94": "2026-11-14T12:10:41.566302+00:00",
+  "07c056d717d002c3": "2026-11-14T12:10:41.566302+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13253,9 +13254,48 @@
     "ESPN F1": "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more"
    },
    "last": "2026-11-14T12:00:45.417375+00:00"
+  },
+  "S7420": {
+   "title": "Trail Blazers 120-107 Kings NBA game recap",
+   "first": "2026-11-14T12:10:44.328461+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T10:53:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Trail Blazers 120-107 Kings (Nov 13, 2026) Game Recap"
+   },
+   "last": "2026-11-14T12:10:44.328481+00:00"
+  },
+  "S7421": {
+   "title": "Verstappen-Alonso Le Mans third-seat audition draws positive response",
+   "first": "2026-11-14T12:10:44.328486+00:00",
+   "sources": {
+    "GPblog": "2026-11-14T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "An audition for a Le Mans race with Verstappen and Alonso gets a positive response"
+   },
+   "last": "2026-11-14T12:10:44.328491+00:00"
+  },
+  "S7422": {
+   "title": "FIA's Ben Sulayem seeks controversial change to presidency rule",
+   "first": "2026-11-14T12:10:44.328494+00:00",
+   "sources": {
+    "Crash.net": "2026-11-14T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "FIA boss looking to make controversial change to presidency rule"
+   },
+   "last": "2026-11-14T12:10:44.328498+00:00"
   }
  },
- "story_seq": 7419,
+ "story_seq": 7422,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13374,17 +13414,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T12:00:42.086442+00:00",
+ "last_run": "2026-11-14T12:10:41.566302+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T12:01:25.934850+00:00",
-   "title": "Honda'nın yeni güvenilirlik sorunu: kök neden henüz bulunamadı",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-11T12:11:28.832866+00:00",
    "title": "Trump'tan İran savaşına dair açıklama: F1 için sevindirici olabilir",
@@ -14374,6 +14409,16 @@
    "t": "2026-11-14T11:50:42.640878+00:00",
    "title": "Verstappen'in şefi Jon Caller Red Bull'dan ayrılıp Ford'a katılıyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-14T12:10:50.284129+00:00",
+   "title": "Verstappen ve Alonso ile Le Mans yarışı için yapılan \"seçme\" öneri olumlu karşılandı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-14T12:10:50.868571+00:00",
+   "title": "FIA başkanı, başkanlık yaş sınırını kaldırmak istiyor",
+   "source": "Crash.net"
   }
  ]
 }
