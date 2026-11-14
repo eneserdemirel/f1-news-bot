@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "475d47cce6d1fee2": "2026-10-31T16:13:09.180789+00:00",
-  "3ee81c07076d82ff": "2026-10-31T16:13:09.180789+00:00",
-  "176a016f25a3cd03": "2026-10-31T16:13:09.180789+00:00",
-  "2831fa3c92d5907b": "2026-10-31T16:17:51.849410+00:00",
-  "c1827e42885170f6": "2026-10-31T16:17:51.849410+00:00",
   "f3076c8e185f3deb": "2026-10-31T16:27:52.558886+00:00",
   "06a9d4109dc8d682": "2026-10-31T16:27:52.558886+00:00",
   "31e6cb1ca42c0074": "2026-10-31T16:32:53.898686+00:00",
@@ -7252,7 +7247,9 @@
   "0d88de4b1ad9e44e": "2026-11-14T16:01:19.120988+00:00",
   "ef48b734d5f6c61f": "2026-11-14T16:11:21.210683+00:00",
   "339f4dd706763167": "2026-11-14T16:11:21.210683+00:00",
-  "37e1884100c647d2": "2026-11-14T16:11:21.210683+00:00"
+  "37e1884100c647d2": "2026-11-14T16:11:21.210683+00:00",
+  "3f48773f4654af4a": "2026-11-14T16:21:21.346694+00:00",
+  "9c5a57be4784d2d1": "2026-11-14T16:21:21.346694+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13719,9 +13716,35 @@
     "Motorsport-Total": "\"Mit Kimi fühlt man sich wohl\": Der Kimi Antonelli, den man nicht kennt - Motorsport-Total.com"
    },
    "last": "2026-11-14T16:11:23.744285+00:00"
+  },
+  "S7459": {
+   "title": "New F1 rules could cause grip problems at Las Vegas GP",
+   "first": "2026-11-14T16:21:24.079012+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-14T16:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Groot hoofdpijndossier dreigt in Las Vegas door nieuwe F1-regels"
+   },
+   "last": "2026-11-14T16:21:24.079032+00:00"
+  },
+  "S7460": {
+   "title": "Bottas's 2027 F1 seat still unconfirmed despite Cadillac performance",
+   "first": "2026-11-14T16:21:24.079037+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-14T16:06:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Valtteri Bottas delivers Cadillac promise as 2027 F1 speculation continues"
+   },
+   "last": "2026-11-14T16:21:24.079042+00:00"
   }
  },
- "story_seq": 7458,
+ "story_seq": 7460,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13840,7 +13863,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T16:11:21.210683+00:00",
+ "last_run": "2026-11-14T16:21:21.346694+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
@@ -14805,6 +14828,16 @@
    "t": "2026-11-14T16:11:29.132681+00:00",
    "title": "Button, Alonso'yu motive eden şeyi açıkladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-14T16:21:31.939232+00:00",
+   "title": "Bottas, Cadillac'la 2027 sözleşmesi iddiasını sürdürüyor",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-14T16:21:32.404947+00:00",
+   "title": "Las Vegas'ta soğuk hava ve yeni 2026 kuralları lastik yönetimini zorlaştırabilir",
+   "source": "RacingNews365 NL"
   }
  ]
 }
