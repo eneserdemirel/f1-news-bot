@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3f238ca4579e8377": "2026-10-31T14:02:13.884780+00:00",
-  "02b7e847585c0cc2": "2026-10-31T14:07:16.528214+00:00",
-  "86e9dd717cbb9e26": "2026-10-31T14:07:16.528214+00:00",
-  "7b14b0f2b4141e02": "2026-10-31T14:07:16.528214+00:00",
   "a8ddae7d9e555e4c": "2026-10-31T14:12:10.470664+00:00",
   "f41ea0b38888d93c": "2026-10-31T14:17:12.174165+00:00",
   "520eb1107400c5e5": "2026-10-31T14:22:13.451192+00:00",
@@ -7304,7 +7300,10 @@
   "a28017e806df03df": "2026-11-14T13:50:36.752587+00:00",
   "8581c289dbbfe035": "2026-11-14T14:00:38.413927+00:00",
   "f75002c76ce9d9e0": "2026-11-14T14:00:38.413927+00:00",
-  "b6818685f98ebaf5": "2026-11-14T14:00:38.413927+00:00"
+  "b6818685f98ebaf5": "2026-11-14T14:00:38.413927+00:00",
+  "0d53ad59e3b8cc12": "2026-11-14T14:11:22.119232+00:00",
+  "e124ad8cf3aedbc3": "2026-11-14T14:11:22.119232+00:00",
+  "ba5321dd90628d98": "2026-11-14T14:11:22.119232+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13516,9 +13515,48 @@
     "GPFans": "Honda sound alarm over recurring Aston Martin failure"
    },
    "last": "2026-11-14T14:00:41.308200+00:00"
+  },
+  "S7440": {
+   "title": "Chelsea vs Man City match team stats",
+   "first": "2026-11-14T14:11:25.033286+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T13:51:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chelsea vs. Man City (Nov 14, 2026) Team Stats"
+   },
+   "last": "2026-11-14T14:11:25.033304+00:00"
+  },
+  "S7441": {
+   "title": "Raiders name Fernando Mendoza as starting quarterback",
+   "first": "2026-11-14T14:11:25.033310+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why the Raiders named Fernando Mendoza as the starter"
+   },
+   "last": "2026-11-14T14:11:25.033315+00:00"
+  },
+  "S7442": {
+   "title": "Analysis of Hamilton's 2026 form under new regulations",
+   "first": "2026-11-14T14:11:25.033318+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-14T14:04:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | La seconda giovinezza di Hamilton: perché ha ritrovato i suoi punti di forza con il regolamento 2026"
+   },
+   "last": "2026-11-14T14:11:25.033322+00:00"
   }
  },
- "story_seq": 7439,
+ "story_seq": 7442,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13637,17 +13675,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T14:01:23.346032+00:00",
+ "last_run": "2026-11-14T14:11:22.119232+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T14:02:10.808032+00:00",
-   "title": "Nyck de Vries, McLaren'ın şampiyon MCL39 aracını Jerez'de sürdü",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-11T14:42:10.946140+00:00",
    "title": "FIA Başkanı Ben Sulayem yaş sınırını kaldırmak istiyor",
@@ -14627,6 +14660,11 @@
    "t": "2026-11-14T14:00:47.967346+00:00",
    "title": "Honda, Aston Martin'deki tekrarlayan arızaya dikkat çekti",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-14T14:11:29.345578+00:00",
+   "title": "Hamilton'ın ikinci gençliği: 2026 regülasyonu eski güçlü yönlerini geri getirdi",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
