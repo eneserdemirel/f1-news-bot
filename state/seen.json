@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3a3c90e5b90e4fc8": "2026-10-31T08:41:30.770513+00:00",
-  "8ed98c0888e373ae": "2026-10-31T08:41:30.770513+00:00",
-  "0968c436c04c4377": "2026-10-31T08:46:24.616447+00:00",
-  "e529dd23d413b7b6": "2026-10-31T08:46:24.616447+00:00",
   "6f8d22626516bc64": "2026-10-31T08:56:24.368391+00:00",
   "971557c9cb561f3a": "2026-10-31T08:56:24.368391+00:00",
   "4da0516416b57112": "2026-10-31T09:01:27.304602+00:00",
@@ -7353,7 +7349,12 @@
   "c5fca7e4ba119575": "2026-11-14T08:29:47.278192+00:00",
   "aa3c9cb44c9859fa": "2026-11-14T08:39:49.998096+00:00",
   "0a2127660da7d4e7": "2026-11-14T08:39:49.998096+00:00",
-  "cd05f561c6fabed1": "2026-11-14T08:39:49.998096+00:00"
+  "cd05f561c6fabed1": "2026-11-14T08:39:49.998096+00:00",
+  "107a5382d086a0be": "2026-11-14T08:49:48.808959+00:00",
+  "138df3e7d0efad66": "2026-11-14T08:49:48.808959+00:00",
+  "7256392fafbc155a": "2026-11-14T08:49:48.808959+00:00",
+  "8c7956abc2f24f62": "2026-11-14T08:49:48.808959+00:00",
+  "9f6185ce2d5cd83d": "2026-11-14T08:49:48.808959+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10352,16 +10353,18 @@
    "sources": {
     "Gazzetta dello Sport": "2026-11-13T12:19:27+00:00",
     "Corriere dello Sport": "2026-11-13T18:23:51+00:00",
-    "FormulaPassion": "2026-11-13T18:33:45+00:00"
+    "FormulaPassion": "2026-11-13T18:33:45+00:00",
+    "Motorsport.com Italia": "2026-11-14T08:42:15+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Gazzetta dello Sport": "Kimi Antonelli atteso al Quirinale: oggi l'incontro con il Presidente Sergio Mattarella",
     "Corriere dello Sport": "Kimi Antonelli e l'incontro con Mattarella: la frase scritta sul casco è bellissima",
-    "FormulaPassion": "Antonelli, che onore! Mattarella lo riceve al Quirinale, Kimi gli regala un casco e…lo invita a Monza"
+    "FormulaPassion": "Antonelli, che onore! Mattarella lo riceve al Quirinale, Kimi gli regala un casco e…lo invita a Monza",
+    "Motorsport.com Italia": "F1 | Kimi Antonelli ricevuto in Quirinale dal Presidente della Repubblica Mattarella"
    },
-   "last": "2026-11-13T20:48:37.538603+00:00"
+   "last": "2026-11-14T08:49:54.063673+00:00"
   },
   "S7197": {
    "title": "College football 2028 recruiting class overview",
@@ -12809,9 +12812,61 @@
     "ESPN F1": "Warriors' Yaxel Lendeborg (1-for-13) 'flustered' in blowout loss to Spurs"
    },
    "last": "2026-11-14T08:39:53.547080+00:00"
+  },
+  "S7384": {
+   "title": "F1 writers give takes on Antonelli's 2026 title",
+   "first": "2026-11-14T08:49:54.063629+00:00",
+   "sources": {
+    "Formula 1": "2026-11-14T08:49:54.063645+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Our writers on Antonelli’s title success and what it means"
+   },
+   "last": "2026-11-14T08:49:54.063648+00:00"
+  },
+  "S7385": {
+   "title": "ESPN column on Pochettino's Man United to-do list",
+   "first": "2026-11-14T08:49:54.063654+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T08:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Man United, Pochettino's to-do list based on what's gone wrong this season"
+   },
+   "last": "2026-11-14T08:49:54.063659+00:00"
+  },
+  "S7386": {
+   "title": "'ADUO for teams' cost cap proposal to be debated by F1 Commission",
+   "first": "2026-11-14T08:49:54.063663+00:00",
+   "sources": {
+    "The Race": "2026-11-14T08:47:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "'ADUO for teams' plan to be discussed by F1"
+   },
+   "last": "2026-11-14T08:49:54.063667+00:00"
+  },
+  "S7387": {
+   "title": "Michael Schumacher's impact on Mercedes insider's perceptions",
+   "first": "2026-11-14T08:49:54.063676+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-14T08:43:26+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "‘How wrong I was’ – How Michael Schumacher took Mercedes insider by surprise"
+   },
+   "last": "2026-11-14T08:49:54.063680+00:00"
   }
  },
- "story_seq": 7383,
+ "story_seq": 7387,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12930,7 +12985,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T08:39:49.998096+00:00",
+ "last_run": "2026-11-14T08:49:48.808959+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
@@ -13945,6 +14000,26 @@
    "t": "2026-11-14T08:19:53.572228+00:00",
    "title": "Sag Cestas 2026-27 Kadrosunda Yer Alıyor",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-14T08:50:00.545511+00:00",
+   "title": "Kimi Antonelli, Cumhurbaşkanı Mattarella'yı Quirinale'de kabul etti",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-14T08:50:00.894116+00:00",
+   "title": "Jock Clear: Schumacher'i yanlış değerlendirdiğimi fark ettim",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-14T08:50:01.233581+00:00",
+   "title": "F1'de takımlar için 'ADUO' planı görüşülecek",
+   "source": "The Race"
+  },
+  {
+   "t": "2026-11-14T08:50:01.563548+00:00",
+   "title": "Antonelli'nin şampiyonluğu ve bunun anlamı: yazarlarımız yorumluyor",
+   "source": "Formula 1"
   }
  ]
 }
