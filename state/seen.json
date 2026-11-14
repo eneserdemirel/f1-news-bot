@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "39feed82097d23c2": "2026-10-31T11:12:11.313629+00:00",
-  "5b73e7f28035c2bd": "2026-10-31T11:17:14.510214+00:00",
   "e4d1b1f24ee74a6d": "2026-10-31T11:22:12.140986+00:00",
   "992130d557c171e0": "2026-10-31T11:22:12.140986+00:00",
   "84c25d60537ccac9": "2026-10-31T11:32:19.208807+00:00",
@@ -7315,7 +7313,8 @@
   "4086f5288e774257": "2026-11-14T11:00:40.441810+00:00",
   "bc4a735947df1285": "2026-11-14T11:10:38.272509+00:00",
   "88f176de315e4f46": "2026-11-14T11:10:38.272509+00:00",
-  "c5afb244a75b7854": "2026-11-14T11:10:38.272509+00:00"
+  "c5afb244a75b7854": "2026-11-14T11:10:38.272509+00:00",
+  "87067eb0de307c28": "2026-11-14T11:20:41.175828+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13127,9 +13126,22 @@
     "Motorsport-Total": "Horner enthüllt: Diese Nachricht schickte Wolff nach Abu Dhabi 2021 - Motorsport-Total.com"
    },
    "last": "2026-11-14T11:10:42.182571+00:00"
+  },
+  "S7410": {
+   "title": "Verstappen plans Spa and Nürburgring 24 Hours, not Le Mans",
+   "first": "2026-11-14T11:20:43.448906+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-14T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Verstappen: “Probabilmente correrò le 24 Ore di Spa e del Nürburgring. Le Mans non è nei miei piani, per adesso”"
+   },
+   "last": "2026-11-14T11:20:43.448927+00:00"
   }
  },
- "story_seq": 7409,
+ "story_seq": 7410,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13248,22 +13260,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T11:10:38.272509+00:00",
+ "last_run": "2026-11-14T11:20:41.175828+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T11:11:28.097213+00:00",
-   "title": "Hamilton'ın Ferrari'den bıkması halinde McLaren'a dönebileceği öne sürüldü",
-   "source": "Crash.net"
-  },
-  {
-   "t": "2026-11-11T11:11:28.612088+00:00",
-   "title": "McLaren'da Norris'in olgunluğu ve MCL40'ın gelişimi birlikte ilerliyor",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-11T11:21:33.280120+00:00",
    "title": "Verstappen'e Hinchcliffe'ten 'çok cesur' övgü: Norris'i kovalama",
@@ -14253,6 +14255,11 @@
    "t": "2026-11-14T11:10:49.181662+00:00",
    "title": "Horner, Wolff'un Abu Dhabi 2021 sonrası gönderdiği mesajı açıkladı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-14T11:20:51.419130+00:00",
+   "title": "Verstappen: Nürburgring ve Spa'da yarışmaya muhtemelen katılacak, Le Mans'a şimdilik bakmıyor",
+   "source": "FormulaPassion"
   }
  ]
 }
