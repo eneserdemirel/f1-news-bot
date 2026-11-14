@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "72b7542f5397b923": "2026-10-31T16:42:54.122106+00:00",
-  "db98d55ea9b57b07": "2026-10-31T16:42:54.122106+00:00",
-  "39345b1440c7f27c": "2026-10-31T16:42:54.122106+00:00",
   "78c094e05f30b94d": "2026-10-31T16:52:54.212490+00:00",
   "142caad733f0835e": "2026-10-31T16:57:52.845673+00:00",
   "62c483741af895bb": "2026-10-31T16:57:52.845673+00:00",
@@ -7245,7 +7242,9 @@
   "3d11f4f068a3f571": "2026-11-14T16:31:19.394617+00:00",
   "999a8d807b4d8565": "2026-11-14T16:31:19.394617+00:00",
   "1eb6cae13301aa7e": "2026-11-14T16:31:19.394617+00:00",
-  "81f29374d8529217": "2026-11-14T16:41:20.747625+00:00"
+  "81f29374d8529217": "2026-11-14T16:41:20.747625+00:00",
+  "5c2e6925ab1dc4f4": "2026-11-14T16:51:22.951289+00:00",
+  "3ef490364baca5ff": "2026-11-14T16:51:22.951289+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13790,9 +13789,35 @@
     "ESPN F1": "Bavuma ready for Mehidy in latest offspin face-off"
    },
    "last": "2026-11-14T16:41:22.095122+00:00"
+  },
+  "S7465": {
+   "title": "England vs Japan live score and updates from Nations Championship",
+   "first": "2026-11-14T16:51:25.179132+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T15:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "England vs. Japan LIVE: Nations Championship score, updates and commentary"
+   },
+   "last": "2026-11-14T16:51:25.179150+00:00"
+  },
+  "S7466": {
+   "title": "Colorado upsets No. 14 Houston for first AP top-15 win since 2007",
+   "first": "2026-11-14T16:51:25.179156+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T12:16:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colorado upsets No. 14 Houston for first AP top-15 win since 2007"
+   },
+   "last": "2026-11-14T16:51:25.179160+00:00"
   }
  },
- "story_seq": 7464,
+ "story_seq": 7466,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13911,7 +13936,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T16:41:20.747625+00:00",
+ "last_run": "2026-11-14T16:51:22.951289+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
