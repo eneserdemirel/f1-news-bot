@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "71da763ad185eba8": "2026-10-31T05:21:27.661465+00:00",
   "330bc2049a3dfe61": "2026-10-31T05:31:26.488868+00:00",
   "06ea206ae3ac38ba": "2026-10-31T05:31:26.488868+00:00",
   "fbd52879f21a5228": "2026-10-31T05:36:25.787317+00:00",
@@ -7379,7 +7378,9 @@
   "bdeca2f33aabd098": "2026-11-14T04:59:50.840907+00:00",
   "63f1d3eb947af40b": "2026-11-14T05:09:46.754538+00:00",
   "678c31ce3d12242b": "2026-11-14T05:09:46.754538+00:00",
-  "c40a63d264f55c3a": "2026-11-14T05:19:47.095662+00:00"
+  "c40a63d264f55c3a": "2026-11-14T05:19:47.095662+00:00",
+  "47739e13374930b6": "2026-11-14T05:29:46.455892+00:00",
+  "3855e510743d4d90": "2026-11-14T05:29:46.455892+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12400,9 +12401,35 @@
     "ESPN F1": "Rangers 5-1 Canucks (14 Nov, 2026) Final Score"
    },
    "last": "2026-11-14T05:19:48.491555+00:00"
+  },
+  "S7351": {
+   "title": "Pakistan ask India to field first in U19 Asia Cup final",
+   "first": "2026-11-14T05:29:49.616606+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T05:22:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pakistan ask India to field in Under-19 Asia Cup final"
+   },
+   "last": "2026-11-14T05:29:49.616625+00:00"
+  },
+  "S7352": {
+   "title": "Sky, Now and TV8 broadcast times for Las Vegas GP",
+   "first": "2026-11-14T05:29:49.616631+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-14T05:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "GP Las Vegas 2026: orari Sky/Now e TV8"
+   },
+   "last": "2026-11-14T05:29:49.616635+00:00"
   }
  },
- "story_seq": 7350,
+ "story_seq": 7352,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12521,7 +12548,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T05:19:47.095662+00:00",
+ "last_run": "2026-11-14T05:29:46.455892+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
@@ -13536,6 +13563,11 @@
    "t": "2026-11-14T03:39:11.179463+00:00",
    "title": "Konstas, öğrenme sürecinin ardından Test kadrosuna geri çağrılmasını istiyor",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-14T05:29:57.508925+00:00",
+   "title": "2026 Las Vegas GP: Sky ve TV8'de yayın saatleri",
+   "source": "FormulaPassion"
   }
  ]
 }
