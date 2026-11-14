@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f3076c8e185f3deb": "2026-10-31T16:27:52.558886+00:00",
-  "06a9d4109dc8d682": "2026-10-31T16:27:52.558886+00:00",
   "31e6cb1ca42c0074": "2026-10-31T16:32:53.898686+00:00",
   "a6aafe4572b788fd": "2026-10-31T16:32:53.898686+00:00",
   "4b03d5182763e8b1": "2026-10-31T16:32:53.898686+00:00",
@@ -7249,7 +7247,11 @@
   "339f4dd706763167": "2026-11-14T16:11:21.210683+00:00",
   "37e1884100c647d2": "2026-11-14T16:11:21.210683+00:00",
   "3f48773f4654af4a": "2026-11-14T16:21:21.346694+00:00",
-  "9c5a57be4784d2d1": "2026-11-14T16:21:21.346694+00:00"
+  "9c5a57be4784d2d1": "2026-11-14T16:21:21.346694+00:00",
+  "9b856c75d7eb1750": "2026-11-14T16:31:19.394617+00:00",
+  "3d11f4f068a3f571": "2026-11-14T16:31:19.394617+00:00",
+  "999a8d807b4d8565": "2026-11-14T16:31:19.394617+00:00",
+  "1eb6cae13301aa7e": "2026-11-14T16:31:19.394617+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13565,14 +13567,14 @@
    "title": "Vikings made initial Kirk Cousins trade call to Raiders",
    "first": "2026-11-14T15:11:23.754924+00:00",
    "sources": {
-    "ESPN F1": "2026-11-14T14:55:08+00:00"
+    "ESPN F1": "2026-11-14T14:44:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Sources: Vikings made initial Kirk Cousins trade call to Raiders before MNF"
    },
-   "last": "2026-11-14T15:11:23.754929+00:00"
+   "last": "2026-11-14T16:31:23.474553+00:00"
   },
   "S7448": {
    "title": "Ferrari makes big concession over 2026 title loss to Mercedes",
@@ -13742,9 +13744,48 @@
     "Motorsport Week": "Valtteri Bottas delivers Cadillac promise as 2027 F1 speculation continues"
    },
    "last": "2026-11-14T16:21:24.079042+00:00"
+  },
+  "S7461": {
+   "title": "German skier Emma Aicher wins first World Cup slalom",
+   "first": "2026-11-14T16:31:23.474524+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T16:27:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "German skier Emma Aicher wins first World Cup slalom race"
+   },
+   "last": "2026-11-14T16:31:23.474543+00:00"
+  },
+  "S7462": {
+   "title": "Opinion on whether Esteban Ocon could return to F1",
+   "first": "2026-11-14T16:31:23.474557+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T16:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Should Esteban Ocon make a return to F1 in the future?"
+   },
+   "last": "2026-11-14T16:31:23.474561+00:00"
+  },
+  "S7463": {
+   "title": "Allison says Russell faces Antonelli's raw pace at Mercedes",
+   "first": "2026-11-14T16:31:23.474564+00:00",
+   "sources": {
+    "GPblog": "2026-11-14T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes chief says Russell is 'staring down the barrel' at Antonelli's pace"
+   },
+   "last": "2026-11-14T16:31:23.474568+00:00"
   }
  },
- "story_seq": 7460,
+ "story_seq": 7463,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13863,22 +13904,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T16:21:21.346694+00:00",
+ "last_run": "2026-11-14T16:31:19.394617+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T16:22:16.595140+00:00",
-   "title": "Verstappen, son yarışlar konusunda FIA'ya güvendiğini söyledi",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-11T16:22:17.000096+00:00",
-   "title": "Mercedes, Brezilya GP'deki sorunların lastik sıcaklığından kaynaklandığını açıkladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T16:32:11.189861+00:00",
    "title": "Claire Williams: Williams 'güvenli ellerde', zor sezondan toparlanacak",
@@ -14838,6 +14869,16 @@
    "t": "2026-11-14T16:21:32.404947+00:00",
    "title": "Las Vegas'ta soğuk hava ve yeni 2026 kuralları lastik yönetimini zorlaştırabilir",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-14T16:31:28.719075+00:00",
+   "title": "Esteban Ocon'un F1'e dönüşü mümkün mü?",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-14T16:31:29.159086+00:00",
+   "title": "Mercedes'in teknik direktörü Russell'ın Antonelli'nin temposuyla yüzleştiğini söyledi",
+   "source": "GPblog"
   }
  ]
 }
