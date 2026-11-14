@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7817dffedec1bc02": "2026-10-31T21:03:39.096342+00:00",
-  "beb2a763bb91febe": "2026-10-31T21:03:39.096342+00:00",
-  "3298cd15502018a6": "2026-10-31T21:03:39.096342+00:00",
-  "4cc42b75072a6f3b": "2026-10-31T21:03:39.096342+00:00",
-  "5e9f548a512e7d23": "2026-10-31T21:08:40.805886+00:00",
   "13062ce36f39db48": "2026-10-31T21:13:38.490411+00:00",
   "f08c70afdd1afcf5": "2026-10-31T21:13:38.490411+00:00",
   "0cc76899a599ce27": "2026-10-31T21:13:38.490411+00:00",
@@ -7163,7 +7158,10 @@
   "794cb47a39620abc": "2026-11-14T21:02:05.905529+00:00",
   "3a8fdc7ba2dcd997": "2026-11-14T21:02:05.905529+00:00",
   "b565e29e43fa63ab": "2026-11-14T21:02:05.905529+00:00",
-  "79f87af8205a5236": "2026-11-14T21:02:05.905529+00:00"
+  "79f87af8205a5236": "2026-11-14T21:02:05.905529+00:00",
+  "f181dfbf16e6dd68": "2026-11-14T21:12:05.782168+00:00",
+  "2984693ce1a96e26": "2026-11-14T21:12:05.782168+00:00",
+  "7d5902d44d7534e5": "2026-11-14T21:12:05.782168+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14411,9 +14409,48 @@
     "GPblog": "Bernie Ecclestone slams FIA ban on F1 journalist as 'completely mad'"
    },
    "last": "2026-11-14T21:02:12.328306+00:00"
+  },
+  "S7518": {
+   "title": "Kevin Jennings throws 19-yard TD pass to Yannick Smith",
+   "first": "2026-11-14T21:12:07.999158+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T19:43:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kevin Jennings throws 19-yard TD pass to Yannick Smith"
+   },
+   "last": "2026-11-14T21:12:07.999180+00:00"
+  },
+  "S7519": {
+   "title": "Machala Musty makes save for Northeastern Huskies",
+   "first": "2026-11-14T21:12:07.999185+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T19:40:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Machala Musty robs Northeastern Huskies with a save"
+   },
+   "last": "2026-11-14T21:12:07.999189+00:00"
+  },
+  "S7520": {
+   "title": "Garrett Johnson throws down slam dunk",
+   "first": "2026-11-14T21:12:07.999192+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T19:39:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Garrett Johnson skies for big slam"
+   },
+   "last": "2026-11-14T21:12:07.999196+00:00"
   }
  },
- "story_seq": 7517,
+ "story_seq": 7520,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14532,17 +14569,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T21:02:05.905529+00:00",
+ "last_run": "2026-11-14T21:12:05.782168+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
  "last_digest_at": "2026-11-14T19:01:30.543739+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T21:02:47.156600+00:00",
-   "title": "Mercedes personeli Katar'a gitmekte serbest; takımlar ekipe karar bırakıyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-11T21:12:47.427169+00:00",
    "title": "Coulthard, Norris'in podyum kutlamasında yaşanan tehlikeli an sonrası FIA'ya çağrıda bulundu",
