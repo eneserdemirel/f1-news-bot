@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1d5b75eae0430038": "2026-10-31T18:27:56.123758+00:00",
   "059627a3d55203f2": "2026-10-31T18:32:52.714006+00:00",
   "da8f8088a80f0fcd": "2026-10-31T18:37:55.448221+00:00",
   "12fceb9a2ea0467e": "2026-10-31T18:37:55.448221+00:00",
@@ -7240,7 +7239,10 @@
   "de80d04e350fb95a": "2026-11-14T18:11:18.498346+00:00",
   "d42cad183d2ef41e": "2026-11-14T18:11:18.498346+00:00",
   "b393c3030c49f8ab": "2026-11-14T18:11:18.498346+00:00",
-  "184e6bf5dafe0148": "2026-11-14T18:21:18.721099+00:00"
+  "184e6bf5dafe0148": "2026-11-14T18:21:18.721099+00:00",
+  "e9fe5666c2fc4a5a": "2026-11-14T18:31:22.359422+00:00",
+  "692ab108ed06c78b": "2026-11-14T18:31:22.359422+00:00",
+  "13e9bd75af43127b": "2026-11-14T18:31:22.359422+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14094,9 +14096,48 @@
     "Motorsport-Total": "Piastri-Trennung von Webber: Günther Steiner sieht einen möglichen Grund - Motorsport-Total.com"
    },
    "last": "2026-11-14T18:11:24.300061+00:00"
+  },
+  "S7488": {
+   "title": "Guingamp vs Rodez Aveyron odds and spread",
+   "first": "2026-11-14T18:31:24.785325+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T18:26:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Guingamp vs. Rodez Aveyron (Nov 20, 2026) Odds and Spread"
+   },
+   "last": "2026-11-14T18:31:24.785344+00:00"
+  },
+  "S7489": {
+   "title": "Alabama starts Keelon Russell at quarterback",
+   "first": "2026-11-14T18:31:24.785350+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T18:22:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Alabama makes last-second call to start QB Keelon Russell"
+   },
+   "last": "2026-11-14T18:31:24.785354+00:00"
+  },
+  "S7490": {
+   "title": "McIlroy set for Race to Dubai showdown with Chacarra",
+   "first": "2026-11-14T18:31:24.785357+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T14:19:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rory McIlroy set for showdown with Eugenio Chacarra for Race to Dubai title"
+   },
+   "last": "2026-11-14T18:31:24.785361+00:00"
   }
  },
- "story_seq": 7487,
+ "story_seq": 7490,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14215,7 +14256,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T18:21:18.721099+00:00",
+ "last_run": "2026-11-14T18:31:22.359422+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
