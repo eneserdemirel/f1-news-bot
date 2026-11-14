@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "38751ba52701f350": "2026-10-31T13:32:15.582091+00:00",
-  "0bb1a8d09e50418b": "2026-10-31T13:32:15.582091+00:00",
-  "0b16978db7fe38fa": "2026-10-31T13:37:11.222013+00:00",
-  "a5c6595f72e11e72": "2026-10-31T13:37:11.222013+00:00",
   "eee283357c268dd5": "2026-10-31T13:42:12.919903+00:00",
   "30eccd76f9e7afc6": "2026-10-31T13:47:15.284528+00:00",
   "59bb112422a01b5f": "2026-10-31T13:57:10.462089+00:00",
@@ -7302,7 +7298,9 @@
   "a3dce3c758c8cf68": "2026-11-14T13:10:36.174617+00:00",
   "7d10126dca004377": "2026-11-14T13:20:40.536174+00:00",
   "4f48bafad2f54d97": "2026-11-14T13:20:40.536174+00:00",
-  "1649201ede830ffc": "2026-11-14T13:30:39.875131+00:00"
+  "1649201ede830ffc": "2026-11-14T13:30:39.875131+00:00",
+  "f3a9182e47cff138": "2026-11-14T13:40:37.320769+00:00",
+  "1a1546452e998dc3": "2026-11-14T13:40:37.320769+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12887,7 +12885,7 @@
    "titles": {
     "ESPN F1": "South Korea vs. Belgium (Dec 2, 2026) Live Score"
    },
-   "last": "2026-11-14T09:10:42.928735+00:00"
+   "last": "2026-11-14T13:40:39.678811+00:00"
   },
   "S7392": {
    "title": "Giannis and Adebayo lead Heat win over Cavaliers",
@@ -13434,9 +13432,22 @@
     "ESPN F1": "espn.com"
    },
    "last": "2026-11-14T13:30:41.796135+00:00"
+  },
+  "S7434": {
+   "title": "Hamilton criticises ex-F1 drivers over treatment of young drivers",
+   "first": "2026-11-14T13:40:39.678822+00:00",
+   "sources": {
+    "GPblog": "2026-11-14T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton slams ex-Formula 1 drivers for 'talking smack' and lacking 'empathy'"
+   },
+   "last": "2026-11-14T13:40:39.678828+00:00"
   }
  },
- "story_seq": 7433,
+ "story_seq": 7434,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13555,22 +13566,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T13:30:39.875131+00:00",
+ "last_run": "2026-11-14T13:40:37.320769+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T13:31:26.983406+00:00",
-   "title": "Wolff ve Russell'ın tepkisi: Kimi'nin üç renkli saçları",
-   "source": "Gazzetta dello Sport"
-  },
-  {
-   "t": "2026-11-11T13:31:27.495293+00:00",
-   "title": "Arvid Lindblad Brezilya'da neden puan alamadı?",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-11T13:42:12.412585+00:00",
    "title": "Brezilya'daki yağmur kaosunun ardından 2026 F1 ne kadar tehlikeli?",
