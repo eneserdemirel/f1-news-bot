@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ece5c5251639f456": "2026-10-31T12:42:14.620040+00:00",
-  "0743e2344ff0fe31": "2026-10-31T12:47:13.745567+00:00",
   "98053876e13765f8": "2026-10-31T12:52:09.506542+00:00",
   "1fa66c3a16205829": "2026-10-31T12:57:12.633972+00:00",
   "95274c721c5e7f2e": "2026-10-31T12:57:12.633972+00:00",
@@ -7313,7 +7311,9 @@
   "8807872e04bed5cc": "2026-11-14T12:30:39.624492+00:00",
   "8b846bc2220a5d0b": "2026-11-14T12:30:39.624492+00:00",
   "8c7625a2f0a4cd4e": "2026-11-14T12:40:41.198332+00:00",
-  "46788af445eb10fa": "2026-11-14T12:40:41.198332+00:00"
+  "46788af445eb10fa": "2026-11-14T12:40:41.198332+00:00",
+  "fd29317c33cd7601": "2026-11-14T12:50:40.590946+00:00",
+  "ee8fa7851877523a": "2026-11-14T12:50:40.590946+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10384,7 +10384,8 @@
     "Crash.net": "2026-11-13T13:24:55+00:00",
     "RacingNews365": "2026-11-13T16:20:00+00:00",
     "Motorsport Week": "2026-11-13T18:24:34+00:00",
-    "PlanetF1": "2026-11-14T10:07:12+00:00"
+    "PlanetF1": "2026-11-14T10:07:12+00:00",
+    "GPblog": "2026-11-14T12:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10393,9 +10394,10 @@
     "Crash.net": "Kimi Antonelli moved to tears as stadium crowd chants his name at Italy and France match",
     "RacingNews365": "Kimi Antonelli close to tears after hero’s welcome at national sporting event",
     "Motorsport Week": "Kimi Antonelli given hero’s reception by fans at Italian football match",
-    "PlanetF1": "Kimi Antonelli in awe after international football fans chant his name"
+    "PlanetF1": "Kimi Antonelli in awe after international football fans chant his name",
+    "GPblog": "Antonelli visibly moved as Italy fans salute F1 world champion"
    },
-   "last": "2026-11-14T10:10:45.656600+00:00"
+   "last": "2026-11-14T12:50:43.089206+00:00"
   },
   "S7201": {
    "title": "Hamilton says where Ferrari should focus for final three races",
@@ -13365,9 +13367,22 @@
     "GPFans": "‘Schumacher never did that’: Lewis Hamilton faces Ferrari criticism"
    },
    "last": "2026-11-14T12:30:44.443883+00:00"
+  },
+  "S7428": {
+   "title": "Audi explains rationale after Hulkenberg penalty at Interlagos",
+   "first": "2026-11-14T12:50:43.089177+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-14T12:43:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA penalty decision under Audi microscope after Brazilian GP"
+   },
+   "last": "2026-11-14T12:50:43.089197+00:00"
   }
  },
- "story_seq": 7427,
+ "story_seq": 7428,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13486,22 +13501,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T12:40:41.198332+00:00",
+ "last_run": "2026-11-14T12:50:40.590946+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T12:41:28.435279+00:00",
-   "title": "Bortoleto, Brezilya'daki ev sahibi yarışta pace'ten memnun ama hayal kırıklığında",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-11T12:41:28.949341+00:00",
-   "title": "Horner'ın Red Bull için 'mojo' iddiasına Mekies'ten yanıt",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T13:11:30.817808+00:00",
    "title": "Russell, Wolff'un Mercedes'teki istikrarlı liderliğini övdü",
@@ -14491,6 +14496,11 @@
    "t": "2026-11-14T12:30:47.881200+00:00",
    "title": "Hamilton'a Ferrari eleştirisi: \"Schumacher asla böyle yapmadı\"",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-14T12:50:47.627235+00:00",
+   "title": "Audi'den Hülkenberg'in cezasına ilişkin açıklama: \"Çok tartışmalı bir durum\"",
+   "source": "PlanetF1"
   }
  ]
 }
