@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "14b0583b72fb9251": "2026-10-31T14:52:10.589001+00:00",
-  "1c4a64d5cadc4b78": "2026-10-31T14:52:10.589001+00:00",
-  "ea20117a69c17263": "2026-10-31T14:52:10.589001+00:00",
-  "fcc2023e32735c4b": "2026-10-31T14:57:17.439395+00:00",
   "f16d5578ac8f4e76": "2026-10-31T15:02:10.698867+00:00",
   "8bf66770debf5d07": "2026-10-31T15:02:10.698867+00:00",
   "9b3f696c626cee88": "2026-10-31T15:02:10.698867+00:00",
@@ -7282,7 +7278,9 @@
   "ba5321dd90628d98": "2026-11-14T14:11:22.119232+00:00",
   "c57dbfa89df9d627": "2026-11-14T14:41:31.186888+00:00",
   "ef964750054a3823": "2026-11-14T14:41:31.186888+00:00",
-  "1bc160577ae39a2f": "2026-11-14T14:51:19.621002+00:00"
+  "1bc160577ae39a2f": "2026-11-14T14:51:19.621002+00:00",
+  "88e430f545d0ba35": "2026-11-14T15:01:19.947777+00:00",
+  "324f8b4135a1c405": "2026-11-14T15:01:19.947777+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13548,9 +13546,35 @@
     "RacingNews365": "Toto Wolff reveals when he knew Kimi Antonelli would win 2026 F1 title"
    },
    "last": "2026-11-14T14:51:22.307422+00:00"
+  },
+  "S7444": {
+   "title": "Imola vows to fight for F1 return after finale hopes end",
+   "first": "2026-11-14T15:01:24.499933+00:00",
+   "sources": {
+    "GPblog": "2026-11-14T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Imola vows to fight for F1 return after season finale hopes end"
+   },
+   "last": "2026-11-14T15:01:24.499953+00:00"
+  },
+  "S7445": {
+   "title": "Las Vegas GP 2026 schedule and UK TV start times",
+   "first": "2026-11-14T15:01:24.499958+00:00",
+   "sources": {
+    "GPFans": "2026-11-14T14:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Las Vegas Grand Prix 2026: Full F1 schedule, UK start times and how to watch on TV"
+   },
+   "last": "2026-11-14T15:01:24.499963+00:00"
   }
  },
- "story_seq": 7443,
+ "story_seq": 7445,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13669,17 +13693,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T14:51:19.621002+00:00",
+ "last_run": "2026-11-14T15:01:19.947777+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T14:52:09.029894+00:00",
-   "title": "Coulthard, Verstappen'in Interlagos'taki etkileyici geri dönüşünü övdü",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-11T15:02:20.224865+00:00",
    "title": "Newey, Vowles'in maliyet tavanı önerisini destekledi",
