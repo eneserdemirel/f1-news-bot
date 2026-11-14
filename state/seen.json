@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9037217e9cc08729": "2026-10-31T06:26:30.570099+00:00",
   "3b6ad7dd5d88f216": "2026-10-31T06:31:25.546215+00:00",
   "ff86cce9392fb3c2": "2026-10-31T06:31:25.546215+00:00",
   "46128227990bf70b": "2026-10-31T06:31:25.546215+00:00",
@@ -7383,7 +7382,8 @@
   "6a007370bd224c3b": "2026-11-14T06:09:49.799328+00:00",
   "749a82aaaf91ccee": "2026-11-14T06:09:49.799328+00:00",
   "7d68767802ef450c": "2026-11-14T06:09:49.799328+00:00",
-  "6a872a03970ca2c1": "2026-11-14T06:09:49.799328+00:00"
+  "6a872a03970ca2c1": "2026-11-14T06:09:49.799328+00:00",
+  "9b1799745842ee0e": "2026-11-14T06:29:46.337362+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12523,9 +12523,22 @@
     "Motorsport-Total": "Die ältesten Formel-1-Weltmeister: Alle lebenden Champions nach Geburtsdatum - Motorsport-Total.com"
    },
    "last": "2026-11-14T06:09:54.992763+00:00"
+  },
+  "S7360": {
+   "title": "McLaren to bring Las Vegas upgrades laying 2027 car foundation",
+   "first": "2026-11-14T06:29:48.147177+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren to deliver 'foundation' for 2027 F1 car with fresh Las Vegas updates"
+   },
+   "last": "2026-11-14T06:29:48.147195+00:00"
   }
  },
- "story_seq": 7359,
+ "story_seq": 7360,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12644,7 +12657,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T06:19:47.451681+00:00",
+ "last_run": "2026-11-14T06:29:46.337362+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
@@ -13664,6 +13677,11 @@
    "t": "2026-11-14T06:09:59.851549+00:00",
    "title": "Verstappen'in yükselişi Mercedes'i 2027 için alarma geçirdi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-14T06:29:52.249334+00:00",
+   "title": "McLaren, Las Vegas güncellemeleriyle 2027 aracının temelini atacak",
+   "source": "RacingNews365"
   }
  ]
 }
