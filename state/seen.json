@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b470c496cb11157e": "2026-10-31T07:41:30.222135+00:00",
-  "2ee8280d7a88d000": "2026-10-31T07:41:30.222135+00:00",
-  "227416046f350489": "2026-10-31T07:41:30.222135+00:00",
   "7375f026e57b2cba": "2026-10-31T07:51:27.838918+00:00",
   "47ee6e02131e53f7": "2026-10-31T08:01:26.493102+00:00",
   "f65933458bf20d65": "2026-10-31T08:01:26.493102+00:00",
@@ -7375,7 +7372,9 @@
   "5a0bb5a4253154af": "2026-11-14T07:19:47.695765+00:00",
   "a65b6b3b22c79e41": "2026-11-14T07:29:49.562380+00:00",
   "99973b55c4f77155": "2026-11-14T07:29:49.562380+00:00",
-  "f28538826ab6627b": "2026-11-14T07:39:48.740466+00:00"
+  "f28538826ab6627b": "2026-11-14T07:39:48.740466+00:00",
+  "827d3c6f73cec3c2": "2026-11-14T07:49:48.075069+00:00",
+  "5344fdd896611757": "2026-11-14T07:49:48.075069+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12712,9 +12711,35 @@
     "GPblog": "How wonderkid Antonelli stole the Mercedes fairytale written for Russell"
    },
    "last": "2026-11-14T07:39:51.053781+00:00"
+  },
+  "S7375": {
+   "title": "Kieron Pollard signs as MI Emirates wildcard for ILT20",
+   "first": "2026-11-14T07:49:50.928135+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T07:42:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kieron Pollard joins MI Emirates as their wildcard signing for ILT20"
+   },
+   "last": "2026-11-14T07:49:50.928154+00:00"
+  },
+  "S7376": {
+   "title": "Minardi praises Verstappen's Brazil comeback and title push",
+   "first": "2026-11-14T07:49:50.928160+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-14T07:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Max Verstappen in het zonnetje gezet: \"Buitengewoon!\""
+   },
+   "last": "2026-11-14T07:49:50.928164+00:00"
   }
  },
- "story_seq": 7374,
+ "story_seq": 7376,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12833,7 +12858,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T07:39:48.740466+00:00",
+ "last_run": "2026-11-14T07:49:48.075069+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
@@ -13858,6 +13883,11 @@
    "t": "2026-11-14T07:39:54.440998+00:00",
    "title": "Antonelli, Russell'ın Mercedes masalını nasıl çaldı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-14T07:49:55.399549+00:00",
+   "title": "Verstappen, Brezilya'da Norris'in ardından ikinci oldu",
+   "source": "RacingNews365 NL"
   }
  ]
 }
