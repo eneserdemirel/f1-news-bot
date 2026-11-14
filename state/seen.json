@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "499557f3dcf244c1": "2026-10-31T22:03:39.942154+00:00",
-  "4e1adeb1b2025588": "2026-10-31T22:03:39.942154+00:00",
-  "7c00c811b02e0d78": "2026-10-31T22:03:39.942154+00:00",
   "302a3516a0ecb5b4": "2026-10-31T22:13:41.350294+00:00",
   "200610c1e7a2d940": "2026-10-31T22:13:41.350294+00:00",
   "f10c03dc6d34e4af": "2026-10-31T22:13:41.350294+00:00",
@@ -7144,7 +7141,11 @@
   "71510d7d41e2c45a": "2026-11-14T22:02:09.418788+00:00",
   "74cd05e9232f0bf5": "2026-11-14T22:02:09.418788+00:00",
   "da81a4b225bb3c88": "2026-11-14T22:02:09.418788+00:00",
-  "c49ed4e9760a48f4": "2026-11-14T22:02:09.418788+00:00"
+  "c49ed4e9760a48f4": "2026-11-14T22:02:09.418788+00:00",
+  "34c410191f424795": "2026-11-14T22:12:09.424349+00:00",
+  "86b98af5fef1741b": "2026-11-14T22:12:09.424349+00:00",
+  "e4e58246a060b2b1": "2026-11-14T22:12:09.424349+00:00",
+  "52a89637bce74d2e": "2026-11-14T22:12:09.424349+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7166,39 +7167,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S6623": {
-   "title": "Final Qatar and Abu Dhabi GP decision said to be imminent",
-   "first": "2026-11-10T11:27:43.395374+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-10T11:23:06+00:00",
-    "GPblog": "2026-11-10T12:08:00+00:00",
-    "FormulaPassion": "2026-11-10T11:57:31+00:00",
-    "RacingNews365": "2026-11-10T12:33:00+00:00",
-    "RacingNews365 NL": "2026-11-10T12:28:00+00:00",
-    "Gazzetta dello Sport": "2026-11-10T13:51:21+00:00",
-    "Corriere dello Sport": "2026-11-10T14:32:55+00:00",
-    "Autosport": "2026-11-10T14:52:26+00:00",
-    "Crash.net": "2026-11-10T14:55:00+00:00",
-    "GPFans": "2026-11-10T15:14:00+00:00",
-    "AS": "2026-11-11T15:42:23+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Final Qatar, Abu Dhabi GP decision imminent in fresh F1 2026 update",
-    "GPblog": "FIA President Ben Sulayem shares clear message on F1 season finale",
-    "FormulaPassion": "Niente Imola, la FIA conferma Qatar e Abu Dhabi",
-    "RacingNews365": "FIA reaffirms commitment to ending F1 season in Qatar and Abu Dhabi",
-    "RacingNews365 NL": "FIA-president komt met statement over GP's van Qatar en Abu Dhabi",
-    "Gazzetta dello Sport": "F1 2026, arriva la conferma: si corrono i GP di Qatar e Abu Dhabi. Salta l'ipotesi Imola",
-    "Corriere dello Sport": "Niente Imola per il finale di F1: confermati i GP del Qatar e di Abu Dhabi nonostante le tensioni",
-    "Autosport": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
-    "Crash.net": "F1 delivers update on Qatar and Abu Dhabi GPs as Imola ruled out",
-    "GPFans": "FIA president confirms final decision on Qatar and Abu Dhabi races as Imola deadline passes",
-    "AS": "La F1 mantiene su final en Oriente Medio"
-   },
-   "last": "2026-11-12T22:06:36.736109+00:00"
-  },
   "S6859": {
    "title": "Brundle says a team boss is at wit's end over reliability",
    "first": "2026-11-11T10:21:28.744106+00:00",
@@ -7217,59 +7185,6 @@
     "RacingNews365": "F1 boss 'at wit's end' over chronic reliability issues which have wrecked season"
    },
    "last": "2026-11-13T15:37:41.404963+00:00"
-  },
-  "S6892": {
-   "title": "Antonelli dyes hair in Italian flag colours after title",
-   "first": "2026-11-11T13:11:22.602968+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-11T13:07:00+00:00",
-    "RacingNews365 NL": "2026-11-11T13:17:00+00:00",
-    "Crash.net": "2026-11-11T14:18:14+00:00",
-    "Motorsport-Total": "2026-11-12T17:22:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Kimi Antonelli hilariously makes radical hair change to celebrate F1 title",
-    "RacingNews365 NL": "Antonelli verrast Mercedes met opvallend nieuw kapsel na F1-titel",
-    "Crash.net": "Kimi Antonelli honours F1 title promise with hilarious Valentino Rossi look",
-    "Motorsport-Total": "Kimi Antonelli löst Versprechen ein: Mit gefärbten Haaren bei WM-Feier - Motorsport-Total.com"
-   },
-   "last": "2026-11-12T22:06:36.736240+00:00"
-  },
-  "S6898": {
-   "title": "Wolff and Russell react to Antonelli's tricolore hair change",
-   "first": "2026-11-11T13:31:21.852147+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-11T13:20:37+00:00",
-    "FormulaPassion": "2026-11-11T13:25:32+00:00",
-    "Motorsport.com Italia": "2026-11-11T15:49:43+00:00",
-    "GPblog": "2026-11-12T17:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Kimi capelli tricolore, una promessa mantenuta: la reazione di Wolff e Russell",
-    "FormulaPassion": "Promessa mantenuta! Antonelli a Brackley con i capelli tricolore",
-    "Motorsport.com Italia": "F1 | Kimi festeggia il mondiale a Brackley con la chioma tricolore: ha mantenuto la promessa",
-    "GPblog": "Antonelli leaves Toto Wolff speechless with Italian tricolour hairstyle"
-   },
-   "last": "2026-11-12T22:06:36.736181+00:00"
-  },
-  "S6911": {
-   "title": "Damon Hill says Ferrari can't win without backing Hamilton",
-   "first": "2026-11-11T14:42:06.673729+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-11T14:41:02+00:00",
-    "Motorsport-Total": "2026-11-12T16:16:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Damon Hill doubles down on Lewis Hamilton demand as Ferrari face major decision",
-    "Motorsport-Total": "Formel-1-Weltmeister erklärt: Darum muss Ferrari alles auf Hamilton setzen - Motorsport-Total.com"
-   },
-   "last": "2026-11-12T22:06:36.736244+00:00"
   },
   "S6918": {
    "title": "Mekies explains why Red Bull kept Verstappen ahead of Hadjar in Brazil",
@@ -7306,21 +7221,6 @@
     "Crash.net": "Lewis Hamilton loses 'most marketable athlete' crown and overtaken by F1 rival"
    },
    "last": "2026-11-13T10:06:53.499946+00:00"
-  },
-  "S6960": {
-   "title": "Hamilton calls Israel's Gaza actions shocking",
-   "first": "2026-11-11T19:22:44.606783+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-11T18:45:00+00:00",
-    "GPFans": "2026-11-12T18:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Hamilton: “Il genocidio di Israele a Gaza è sconvolgente. Non possiamo voltarci dall’altra parte”",
-    "GPFans": "Lewis Hamilton launches scathing attack over Gaza aid crisis: 'No excuse'"
-   },
-   "last": "2026-11-12T22:06:36.736215+00:00"
   },
   "S6971": {
    "title": "Teams let staff decide whether to skip Qatar finale trip",
@@ -7371,90 +7271,6 @@
    },
    "last": "2026-11-13T18:58:37.485408+00:00"
   },
-  "S6990": {
-   "title": "Analysis of remaining 2027 F1 driver market moves",
-   "first": "2026-11-12T22:06:36.735799+00:00",
-   "sources": {
-    "Formula 1": "2026-11-12T22:06:36.735815+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Why the F1 driver market might produce one last twist"
-   },
-   "last": "2026-11-12T22:06:36.735819+00:00"
-  },
-  "S6991": {
-   "title": "F1 trivia quiz 'False Start'",
-   "first": "2026-11-12T22:06:36.735824+00:00",
-   "sources": {
-    "Formula 1": "2026-11-12T22:06:36.735827+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Trivia: False Start"
-   },
-   "last": "2026-11-12T22:06:36.735829+00:00"
-  },
-  "S6992": {
-   "title": "Tsolov named Red Bull and Racing Bulls reserve driver",
-   "first": "2026-11-12T22:06:36.735833+00:00",
-   "sources": {
-    "Formula 1": "2026-11-12T22:06:36.735835+00:00",
-    "Motorsport Week": "2026-11-12T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Tsolov to serve as Red Bull and Racing Bulls reserve driver",
-    "Motorsport Week": "Red Bull gives junior star new responsibility with vital F1 announcement"
-   },
-   "last": "2026-11-12T22:06:36.736117+00:00"
-  },
-  "S6993": {
-   "title": "Russell launches karting academy for young racers",
-   "first": "2026-11-12T22:06:36.735840+00:00",
-   "sources": {
-    "Formula 1": "2026-11-12T22:06:36.735842+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Russell launches new karting academy for young racers"
-   },
-   "last": "2026-11-12T22:06:36.735843+00:00"
-  },
-  "S6994": {
-   "title": "Analysis of why Racing Bulls kept Lawson and Lindblad",
-   "first": "2026-11-12T22:06:36.735846+00:00",
-   "sources": {
-    "Formula 1": "2026-11-12T22:06:36.735848+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Why Racing Bulls stuck with Lawson and Lindblad"
-   },
-   "last": "2026-11-12T22:06:36.735850+00:00"
-  },
-  "S6995": {
-   "title": "Lawson and Lindblad retained at Racing Bulls for 2027",
-   "first": "2026-11-12T22:06:36.735853+00:00",
-   "sources": {
-    "Formula 1": "2026-11-12T22:06:36.735854+00:00",
-    "RacingNews365": "2026-11-12T21:00:00+00:00",
-    "Motorsport Week": "2026-11-12T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Lawson and Lindblad to remain at Racing Bulls for 2027",
-    "RacingNews365": "Liam Lawson avoids would-be brutal axe as Lewis Hamilton gets fiery - RacingNews365 Review",
-    "Motorsport Week": "Liam Lawson issues telling Red Bull message amid 2027 F1 confirmation"
-   },
-   "last": "2026-11-12T22:06:36.736114+00:00"
-  },
   "S6996": {
    "title": "England 2-1 Croatia match analysis",
    "first": "2026-11-12T22:06:36.735859+00:00",
@@ -7467,97 +7283,6 @@
     "ESPN F1": "England 2-1 Croatia (Nov 12, 2026) Game Analysis"
    },
    "last": "2026-11-12T22:55:45.135526+00:00"
-  },
-  "S6997": {
-   "title": "Hurricanes 4-1 Kraken game recap",
-   "first": "2026-11-12T22:06:36.735871+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:37:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hurricanes 4-1 Kraken (12 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-12T22:06:36.735874+00:00"
-  },
-  "S6998": {
-   "title": "Gaudreau goal for Kraken",
-   "first": "2026-11-12T22:06:36.735877+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:21:56+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Frederick Gaudreau lights the lamp for Kraken"
-   },
-   "last": "2026-11-12T22:06:36.735879+00:00"
-  },
-  "S6999": {
-   "title": "Aho goal against Kraken",
-   "first": "2026-11-12T22:06:36.735882+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:21:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sebastian Aho scores goal vs. Kraken"
-   },
-   "last": "2026-11-12T22:06:36.735884+00:00"
-  },
-  "S7000": {
-   "title": "Rodrigo Marina late goal",
-   "first": "2026-11-12T22:06:36.735887+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:19:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rodrigo Marina scores in the 90 + 2'"
-   },
-   "last": "2026-11-12T22:06:36.735890+00:00"
-  },
-  "S7001": {
-   "title": "Stephen Curry sidelined with oblique tear",
-   "first": "2026-11-12T22:06:36.735893+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T17:09:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Shams: Steph Curry to be sidelined for 2-4 weeks"
-   },
-   "last": "2026-11-12T22:06:36.735992+00:00"
-  },
-  "S7002": {
-   "title": "Rhamondre Stevenson trying to play Sunday",
-   "first": "2026-11-12T22:06:36.735899+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:06:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rhamondre Stevenson trying to play Sunday"
-   },
-   "last": "2026-11-12T22:06:36.735902+00:00"
-  },
-  "S7003": {
-   "title": "Australia friendly Jordan relocated over security",
-   "first": "2026-11-12T22:06:36.735905+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T19:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Australia friendly with Jordan relocated due to player security concerns"
-   },
-   "last": "2026-11-12T22:06:36.735908+00:00"
   },
   "S7004": {
    "title": "Wake Forest extends coach Dickert",
@@ -7584,136 +7309,6 @@
     "ESPN F1": "Arsenal hold firm to frustrate Barcelona in Camp Nou draw"
    },
    "last": "2026-11-13T00:15:46.819106+00:00"
-  },
-  "S7006": {
-   "title": "NBA and Fanatics multiyear event partnership",
-   "first": "2026-11-12T22:06:36.735934+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T19:41:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The NBA and Fanatics Studios are entering a multiyear event..."
-   },
-   "last": "2026-11-12T22:06:36.735937+00:00"
-  },
-  "S7007": {
-   "title": "FIFA loses New York court ruling against UEFA",
-   "first": "2026-11-12T22:06:36.735940+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T18:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "FIFA loses New York court ruling against UEFA in World Cup investor case"
-   },
-   "last": "2026-11-12T22:06:36.735954+00:00"
-  },
-  "S7008": {
-   "title": "Valimaki goal for Hurricanes",
-   "first": "2026-11-12T22:06:36.735946+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T18:40:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Juuso Valimaki nets goal for Hurricanes"
-   },
-   "last": "2026-11-12T22:06:36.735949+00:00"
-  },
-  "S7009": {
-   "title": "Virginia vs Notre Dame game highlights",
-   "first": "2026-11-12T22:06:36.735957+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T18:18:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Virginia vs. Notre Dame: Game Highlights"
-   },
-   "last": "2026-11-12T22:06:36.735960+00:00"
-  },
-  "S7010": {
-   "title": "Some Russian sliders allowed at luge World Cup",
-   "first": "2026-11-12T22:06:36.735963+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T18:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Some Russian sliders allowed to compete at luge World Cup"
-   },
-   "last": "2026-11-12T22:06:36.735966+00:00"
-  },
-  "S7011": {
-   "title": "Ehlers goal against Kraken",
-   "first": "2026-11-12T22:06:36.735969+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T17:44:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nikolaj Ehlers tallies goal vs. Kraken"
-   },
-   "last": "2026-11-12T22:06:36.735972+00:00"
-  },
-  "S7012": {
-   "title": "Browns' Jared Verse meets team psychiatrist",
-   "first": "2026-11-12T22:06:36.735975+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T17:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Browns' Jared Verse says he met with team psychiatrist to try to snap sack slump"
-   },
-   "last": "2026-11-12T22:06:36.735978+00:00"
-  },
-  "S7013": {
-   "title": "Scholes on Pochettino as Man United boss",
-   "first": "2026-11-12T22:06:36.735985+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T17:16:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Paul Scholes: Mauricio Pochettino has the 'presence' to be Man United boss"
-   },
-   "last": "2026-11-12T22:06:36.735988+00:00"
-  },
-  "S7014": {
-   "title": "Addison Halpern goal for Virginia",
-   "first": "2026-11-12T22:06:36.735995+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T16:53:54+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Addison Halpern slots in the goal for Virginia"
-   },
-   "last": "2026-11-12T22:06:36.735998+00:00"
-  },
-  "S7015": {
-   "title": "Jessie Bates III universal add in IDP leagues",
-   "first": "2026-11-12T22:06:36.736001+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T16:38:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why Jessie Bates III is a ‘universal add’ in IDP leagues"
-   },
-   "last": "2026-11-12T22:06:36.736008+00:00"
   },
   "S7016": {
    "title": "Balogun wants Pochettino to stay at Forest",
@@ -7770,45 +7365,6 @@
    },
    "last": "2026-11-13T20:58:35.784342+00:00"
   },
-  "S7019": {
-   "title": "Hulkenberg in points again at Interlagos",
-   "first": "2026-11-12T22:06:36.736030+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-12T17:32:28+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Hulkenberg ancora a punti: è la certezza in un’era di giovani scommesse"
-   },
-   "last": "2026-11-12T22:06:36.736032+00:00"
-  },
-  "S7020": {
-   "title": "Bourdais criticises FIA licence categorisation",
-   "first": "2026-11-12T22:06:36.736035+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-12T16:59:35+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "WEC | Bourdais critica la FIA: \"Con le sue categorizzazioni, spinge piloti come me al ritiro\""
-   },
-   "last": "2026-11-12T22:06:36.736038+00:00"
-  },
-  "S7021": {
-   "title": "Mercedes cautious about dominating 2027 cycle",
-   "first": "2026-11-12T22:06:36.736041+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-12T16:06:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Il 2027 è già iniziato: cosa spinge Mercedes a pensare che non dominerà questo ciclo tecnico"
-   },
-   "last": "2026-11-12T22:06:36.736044+00:00"
-  },
   "S7022": {
    "title": "Ricciardo explains origin of shoey",
    "first": "2026-11-12T22:06:36.736052+00:00",
@@ -7823,99 +7379,6 @@
     "RacingNews365 NL": "Ricciardo verklaart origine van beroemde 'shoey'"
    },
    "last": "2026-11-13T10:06:53.499935+00:00"
-  },
-  "S7023": {
-   "title": "Alan Jones remembered in Williams family tribute",
-   "first": "2026-11-12T22:06:36.736057+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-12T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Alan Jones remembered for 'indelible mark' in touching Williams family tribute"
-   },
-   "last": "2026-11-12T22:06:36.736060+00:00"
-  },
-  "S7024": {
-   "title": "Lawson nears century in all-time team record race",
-   "first": "2026-11-12T22:06:36.736063+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-12T18:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Liam Lawson closing in on century in tight race to beat all-time F1 record"
-   },
-   "last": "2026-11-12T22:06:36.736066+00:00"
-  },
-  "S7025": {
-   "title": "Hadjar reflects on season ending early",
-   "first": "2026-11-12T22:06:36.736070+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-12T17:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Isack Hadjar expresses sadness at all-too-soon F1 season ending"
-   },
-   "last": "2026-11-12T22:06:36.736073+00:00"
-  },
-  "S7026": {
-   "title": "Filisetti analysis of Verstappen's Brazil problems",
-   "first": "2026-11-12T22:06:36.736080+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-12T16:20:00+00:00",
-    "RacingNews365 NL": "2026-11-12T17:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Why Max Verstappen was 'high-profile victim' of Red Bull 'phenomenon' in Brazil",
-    "RacingNews365 NL": "Grote problemen Verstappen in Brazilië verklaard"
-   },
-   "last": "2026-11-12T22:06:36.736099+00:00"
-  },
-  "S7027": {
-   "title": "Ralf Schumacher on Ferrari driver tensions",
-   "first": "2026-11-12T22:06:36.736087+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-12T19:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Schumacher benoemt tekortkoming Ferrari: \"Met Verstappen in de auto...\""
-   },
-   "last": "2026-11-12T22:06:36.736090+00:00"
-  },
-  "S7028": {
-   "title": "Antonelli and Russell react to Mercedes title party",
-   "first": "2026-11-12T22:06:36.736093+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-12T18:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Antonelli en Russell jubelen na titel Mercedes: “Heeft veel van ons gevraagd”"
-   },
-   "last": "2026-11-12T22:06:36.736096+00:00"
-  },
-  "S7029": {
-   "title": "Piastri admits missing feeling after 2025 title stress",
-   "first": "2026-11-12T22:06:36.736123+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-12T20:04:32+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Oscar Piastri ‘missing that feeling’ in new admission over F1 2025 title ‘stress’"
-   },
-   "last": "2026-11-12T22:06:36.736127+00:00"
   },
   "S7030": {
    "title": "Racing Bulls confirm Liam Lawson stays for 2027",
@@ -7933,32 +7396,6 @@
     "GPFans": "F1 2027 grid with just one seat still open after double signing confirmed"
    },
    "last": "2026-11-13T01:36:05.763736+00:00"
-  },
-  "S7031": {
-   "title": "Mercedes weighs possible team orders to aid Russell",
-   "first": "2026-11-12T22:06:36.736140+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-12T16:28:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Mercedes reveals stance on potential team orders to aid George Russell"
-   },
-   "last": "2026-11-12T22:06:36.736143+00:00"
-  },
-  "S7032": {
-   "title": "Antonelli names Verstappen as biggest 2027 rival",
-   "first": "2026-11-12T22:06:36.736146+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T22:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Antonelli names the F1 rival he fears most ahead of 2027 title defence"
-   },
-   "last": "2026-11-12T22:06:36.736149+00:00"
   },
   "S7033": {
    "title": "Mercedes development driver Durksen likely to lose sponsor",
@@ -7985,71 +7422,6 @@
     "GPblog": "Leclerc loses patience with engineer in tense Brazilian GP radio exchanges"
    },
    "last": "2026-11-13T01:36:05.763731+00:00"
-  },
-  "S7035": {
-   "title": "Camara's commercial value helped secure Haas seat",
-   "first": "2026-11-12T22:06:36.736169+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T18:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Camara convinced Haas, but his speed wasn’t the only factor"
-   },
-   "last": "2026-11-12T22:06:36.736172+00:00"
-  },
-  "S7036": {
-   "title": "Melandri comments on Marquez-Bezzecchi crash",
-   "first": "2026-11-12T22:06:36.736174+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T17:40:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Marc Marquez defended over Bezzecchi crash as Aprilia boss criticised"
-   },
-   "last": "2026-11-12T22:06:36.736177+00:00"
-  },
-  "S7037": {
-   "title": "Rossi comments on daughter and Marquez rivalry",
-   "first": "2026-11-12T22:06:36.736183+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Valentino Rossi makes hilarious admission about daughter and Marc Marquez"
-   },
-   "last": "2026-11-12T22:06:36.736188+00:00"
-  },
-  "S7038": {
-   "title": "Analysis: Red Bull moves on from Helmut Marko era",
-   "first": "2026-11-12T22:06:36.736190+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T16:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Red Bull has definitively put the Helmut Marko era behind it"
-   },
-   "last": "2026-11-12T22:06:36.736193+00:00"
-  },
-  "S7039": {
-   "title": "F1 end-of-year test venue confirmed",
-   "first": "2026-11-12T22:06:36.736195+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T16:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Formula 1 has confirmed the venue for the traditional end-of-year test"
-   },
-   "last": "2026-11-12T22:06:36.736198+00:00"
   },
   "S7040": {
    "title": "Montoya says Lawson could be next Verstappen",
@@ -8090,19 +7462,6 @@
     "Motorsport Week": "Toto Wolff makes bombshell Mercedes resignation claim amid ground-effect woes"
    },
    "last": "2026-11-14T17:21:33.448671+00:00"
-  },
-  "S7042": {
-   "title": "Ole Schack reflects on final Red Bull weekend with Verstappen",
-   "first": "2026-11-12T22:06:36.736217+00:00",
-   "sources": {
-    "GPFans": "2026-11-12T17:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Red Bull mechanic reveals 'incredible' Max Verstappen story that stunned Lewis Hamilton"
-   },
-   "last": "2026-11-12T22:06:36.736220+00:00"
   },
   "S7043": {
    "title": "F1 teams' combined valuation reaches $50 billion",
@@ -12613,7 +11972,7 @@
    "titles": {
     "ESPN F1": "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'"
    },
-   "last": "2026-11-14T08:19:50.648791+00:00"
+   "last": "2026-11-14T22:12:12.213942+00:00"
   },
   "S7382": {
    "title": "Ghini and Nugnes weekly commentary on Wolff and Vasseur",
@@ -14613,9 +13972,48 @@
     "GPFans": "Mercedes boss reveals George Russell mindset after F1 title agony"
    },
    "last": "2026-11-14T22:02:13.777416+00:00"
+  },
+  "S7535": {
+   "title": "Harvard beats Pennsylvania 38-24 in game recap",
+   "first": "2026-11-14T22:12:12.213903+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T22:09:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Harvard 38-24 Pennsylvania (Nov 14, 2026) Game Recap"
+   },
+   "last": "2026-11-14T22:12:12.213922+00:00"
+  },
+  "S7536": {
+   "title": "Saints activate RB Travis Etienne off injured reserve",
+   "first": "2026-11-14T22:12:12.213926+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T22:02:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Saints RB Travis Etienne activated off IR for game vs. Panthers"
+   },
+   "last": "2026-11-14T22:12:12.213931+00:00"
+  },
+  "S7537": {
+   "title": "East Tennessee State vs Wofford full highlights",
+   "first": "2026-11-14T22:12:12.213933+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T21:52:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "East Tennessee State Buccaneers vs. Wofford Terriers: Full Highlights"
+   },
+   "last": "2026-11-14T22:12:12.213936+00:00"
   }
  },
- "story_seq": 7534,
+ "story_seq": 7537,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14734,7 +14132,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T22:02:09.418788+00:00",
+ "last_run": "2026-11-14T22:12:09.424349+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
