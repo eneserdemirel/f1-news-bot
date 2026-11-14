@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e4d1b1f24ee74a6d": "2026-10-31T11:22:12.140986+00:00",
-  "992130d557c171e0": "2026-10-31T11:22:12.140986+00:00",
   "84c25d60537ccac9": "2026-10-31T11:32:19.208807+00:00",
   "f512e59d02c0a55d": "2026-10-31T11:32:19.208807+00:00",
   "1b6c4fa8a686348f": "2026-10-31T11:37:08.560701+00:00",
@@ -7314,7 +7312,12 @@
   "bc4a735947df1285": "2026-11-14T11:10:38.272509+00:00",
   "88f176de315e4f46": "2026-11-14T11:10:38.272509+00:00",
   "c5afb244a75b7854": "2026-11-14T11:10:38.272509+00:00",
-  "87067eb0de307c28": "2026-11-14T11:20:41.175828+00:00"
+  "87067eb0de307c28": "2026-11-14T11:20:41.175828+00:00",
+  "64f2dad0047a2564": "2026-11-14T11:30:37.447987+00:00",
+  "f38eb7eb05d9191e": "2026-11-14T11:30:37.447987+00:00",
+  "6b5917f194c77bc7": "2026-11-14T11:30:37.447987+00:00",
+  "07dd6e8c7c808e88": "2026-11-14T11:30:37.447987+00:00",
+  "214f76ff9aa2dce1": "2026-11-14T11:30:37.447987+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13139,9 +13142,74 @@
     "FormulaPassion": "Verstappen: “Probabilmente correrò le 24 Ore di Spa e del Nürburgring. Le Mans non è nei miei piani, per adesso”"
    },
    "last": "2026-11-14T11:20:43.448927+00:00"
+  },
+  "S7411": {
+   "title": "SRH set to trade Harshal Patel to Gujarat Titans",
+   "first": "2026-11-14T11:30:41.428811+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T11:12:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "SRH set to trade Harshal Patel to GT"
+   },
+   "last": "2026-11-14T11:30:41.428831+00:00"
+  },
+  "S7412": {
+   "title": "Patriots 6-0 after regular-season loss under Vrabel",
+   "first": "2026-11-14T11:30:41.428836+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Patriots are 6-0 after a regular-season loss under Vrabel: Can they do it again?"
+   },
+   "last": "2026-11-14T11:30:41.428841+00:00"
+  },
+  "S7413": {
+   "title": "Hadjar cites Hamilton to challenge modern F1 adaptation myth",
+   "first": "2026-11-14T11:30:41.428844+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T11:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Isack Hadjar uses Lewis Hamilton to dismantle contentious F1 myth"
+   },
+   "last": "2026-11-14T11:30:41.428848+00:00"
+  },
+  "S7414": {
+   "title": "Davidson impressed by Verstappen's Brazil overtaking race",
+   "first": "2026-11-14T11:30:41.428850+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-14T11:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen maakt indruk op Davidson: \"Wat gaat er dan door je hoofd?\""
+   },
+   "last": "2026-11-14T11:30:41.428853+00:00"
+  },
+  "S7415": {
+   "title": "Sergio Perez announces his F1 retirement date",
+   "first": "2026-11-14T11:30:41.428855+00:00",
+   "sources": {
+    "GPFans": "2026-11-14T11:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Sergio Perez announces F1 retirement date: 'My children are the most important thing'"
+   },
+   "last": "2026-11-14T11:30:41.428858+00:00"
   }
  },
- "story_seq": 7410,
+ "story_seq": 7415,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13260,17 +13328,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T11:20:41.175828+00:00",
+ "last_run": "2026-11-14T11:30:37.447987+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T11:21:33.280120+00:00",
-   "title": "Verstappen'e Hinchcliffe'ten 'çok cesur' övgü: Norris'i kovalama",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-11T11:31:30.645197+00:00",
    "title": "Mekies: Liam Lawson'ın geleceğine kimin karar vereceğini açıkladı",
@@ -14260,6 +14323,21 @@
    "t": "2026-11-14T11:20:51.419130+00:00",
    "title": "Verstappen: Nürburgring ve Spa'da yarışmaya muhtemelen katılacak, Le Mans'a şimdilik bakmıyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-14T11:30:50.545839+00:00",
+   "title": "Hadjar, Hamilton ve Alonso ile F1'deki 'hızlı adaptasyon' efsanesini çürütüyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-14T11:30:51.119748+00:00",
+   "title": "Sergio Perez F1'den emeklilik tarihini açıkladı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-14T11:30:51.738684+00:00",
+   "title": "Davidson, Verstappen'in Brezilya'daki yarışından etkilendi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
