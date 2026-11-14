@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5bfb5d99d226c30e": "2026-10-31T19:02:53.476688+00:00",
-  "ca604ef99b725fef": "2026-10-31T19:02:53.476688+00:00",
-  "2a10b93f17b32980": "2026-10-31T19:07:54.216197+00:00",
-  "e337b74ce5dd4920": "2026-10-31T19:07:54.216197+00:00",
-  "a895219b60c2c824": "2026-10-31T19:07:54.216197+00:00",
-  "aa2306b30563b5b7": "2026-10-31T19:07:54.216197+00:00",
   "784498f23049fe8e": "2026-10-31T19:12:52.060474+00:00",
   "99dad574c72a576d": "2026-10-31T19:17:55.664322+00:00",
   "b098d688041b42bf": "2026-10-31T19:22:51.774499+00:00",
@@ -7222,7 +7216,12 @@
   "9dce24e2cf320b66": "2026-11-14T19:01:25.792326+00:00",
   "6b56d13112318c3c": "2026-11-14T19:01:25.792326+00:00",
   "af4298efe6b3098b": "2026-11-14T19:01:25.792326+00:00",
-  "780c9615df86d380": "2026-11-14T19:01:25.792326+00:00"
+  "780c9615df86d380": "2026-11-14T19:01:25.792326+00:00",
+  "32928213a5c89781": "2026-11-14T19:11:21.083503+00:00",
+  "2514aec97d5b8bf5": "2026-11-14T19:11:21.083503+00:00",
+  "c9c463da0aa9efb0": "2026-11-14T19:11:21.083503+00:00",
+  "2f4cbca5c689ab85": "2026-11-14T19:11:21.083503+00:00",
+  "54febd271b13697c": "2026-11-14T19:11:21.083503+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13100,14 +13099,16 @@
    "title": "Hadjar cites Hamilton to challenge modern F1 adaptation myth",
    "first": "2026-11-14T11:30:41.428844+00:00",
    "sources": {
-    "RacingNews365": "2026-11-14T11:20:00+00:00"
+    "RacingNews365": "2026-11-14T11:20:00+00:00",
+    "RacingNews365 NL": "2026-11-14T19:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Isack Hadjar uses Lewis Hamilton to dismantle contentious F1 myth"
+    "RacingNews365": "Isack Hadjar uses Lewis Hamilton to dismantle contentious F1 myth",
+    "RacingNews365 NL": "Hadjar wijst naar Hamilton om hardnekkige F1-mythe te ontkrachten"
    },
-   "last": "2026-11-14T11:30:41.428848+00:00"
+   "last": "2026-11-14T19:11:25.857522+00:00"
   },
   "S7414": {
    "title": "Davidson impressed by Verstappen's Brazil overtaking race",
@@ -14193,9 +14194,61 @@
     "GPFans": "Young Red Bull star handed 2027 promotion after clinching championship"
    },
    "last": "2026-11-14T19:01:29.492135+00:00"
+  },
+  "S7497": {
+   "title": "Palestine 0-2 Iran football player stats",
+   "first": "2026-11-14T19:11:25.857487+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T15:28:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Palestine 0-2 Iran (Nov 14, 2026) Player Stats"
+   },
+   "last": "2026-11-14T19:11:25.857505+00:00"
+  },
+  "S7498": {
+   "title": "Piastri dismisses link between 2025 title collapse and McLaren woes",
+   "first": "2026-11-14T19:11:25.857510+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Oscar Piastri dismisses F1 title collapse link to ongoing McLaren woes"
+   },
+   "last": "2026-11-14T19:11:25.857516+00:00"
+  },
+  "S7499": {
+   "title": "Liam Lawson wants more music performances after debut",
+   "first": "2026-11-14T19:11:25.857525+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-14T19:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Liam Lawson reveals new ambitions after ‘nerve-wracking’ music debut"
+   },
+   "last": "2026-11-14T19:11:25.857529+00:00"
+  },
+  "S7500": {
+   "title": "Allison explains Hamilton's late-career resurgence at Ferrari",
+   "first": "2026-11-14T19:11:25.857531+00:00",
+   "sources": {
+    "GPblog": "2026-11-14T19:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Ex-Hamilton ally reveals key factor behind striking Ferrari resurgence"
+   },
+   "last": "2026-11-14T19:11:25.857534+00:00"
   }
  },
- "story_seq": 7496,
+ "story_seq": 7500,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14314,7 +14367,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T19:01:25.792326+00:00",
+ "last_run": "2026-11-14T19:11:21.083503+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -15249,6 +15302,16 @@
    "t": "2026-11-14T18:11:29.176429+00:00",
    "title": "Piastri'nin Webber ile ayrılığı: Günther Steiner olası bir neden görüyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-14T19:11:35.187076+00:00",
+   "title": "Piastri, 2025 şampiyonluk çöküşünü 2026 McLaren sorunlarıyla ilişkilendirmiyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-14T19:11:35.646381+00:00",
+   "title": "Allison: Hamilton'ın Ferrari'deki yükselişinin ardındaki temel etken",
+   "source": "GPblog"
   }
  ]
 }
