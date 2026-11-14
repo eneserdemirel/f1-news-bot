@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ac9a5e8e574b6f08": "2026-10-31T17:52:55.062404+00:00",
   "a6e3d010af2d6ac4": "2026-10-31T18:02:54.025082+00:00",
   "4761d91e249418b5": "2026-10-31T18:07:51.270992+00:00",
   "b8610957027366ed": "2026-10-31T18:17:52.367311+00:00",
@@ -7232,7 +7231,10 @@
   "d03a507764256c7f": "2026-11-14T17:31:18.814311+00:00",
   "e3e8c556ff0b621e": "2026-11-14T17:41:19.147435+00:00",
   "e6c8cb78f520ecc4": "2026-11-14T17:41:19.147435+00:00",
-  "0a3939a00e448113": "2026-11-14T17:51:19.415153+00:00"
+  "0a3939a00e448113": "2026-11-14T17:51:19.415153+00:00",
+  "e2494b011f27bee5": "2026-11-14T18:01:21.281306+00:00",
+  "8a1e30878dbb8e30": "2026-11-14T18:01:21.281306+00:00",
+  "4a562286cb38b793": "2026-11-14T18:01:21.281306+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11599,14 +11601,16 @@
    "title": "PlanetF1 roundup of Stroll, Hamilton and FIA hearing news",
    "first": "2026-11-13T22:08:39.455341+00:00",
    "sources": {
-    "PlanetF1": "2026-11-13T22:00:14+00:00"
+    "PlanetF1": "2026-11-13T22:00:14+00:00",
+    "RacingNews365 NL": "2026-11-14T18:00:00+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Lawrence Stroll ‘at wit’s end’; Hamilton on alert; FIA court hearing set – roundup"
+    "PlanetF1": "Lawrence Stroll ‘at wit’s end’; Hamilton on alert; FIA court hearing set – roundup",
+    "RacingNews365 NL": "Brundle onthult gesprek met Aston Martin-eigenaar: \"Ten einde raad\""
    },
-   "last": "2026-11-13T22:08:39.455360+00:00"
+   "last": "2026-11-14T18:01:25.022474+00:00"
   },
   "S7299": {
    "title": "Steiner warns Russell and Piastri of decisive 2027 season",
@@ -12922,14 +12926,16 @@
    "title": "F1 drivers react to online abuse policy change",
    "first": "2026-11-14T09:50:40.458794+00:00",
    "sources": {
-    "RacingNews365": "2026-11-14T09:40:00+00:00"
+    "RacingNews365": "2026-11-14T09:40:00+00:00",
+    "GPFans": "2026-11-14T17:55:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "F1 drivers react to online abuse change: 'They wouldn't have the balls'"
+    "RacingNews365": "F1 drivers react to online abuse change: 'They wouldn't have the balls'",
+    "GPFans": "F1 star hits out at 'cowards' after FIA change - 'these people wouldn't have the balls'"
    },
-   "last": "2026-11-14T09:50:40.458799+00:00"
+   "last": "2026-11-14T18:01:25.022480+00:00"
   },
   "S7400": {
    "title": "Analysis: Horner's F1 paddock comeback prospects questioned",
@@ -13974,9 +13980,22 @@
     "AS": "Ralf Schumacher culpa a Hamilton"
    },
    "last": "2026-11-14T17:51:21.703335+00:00"
+  },
+  "S7480": {
+   "title": "Norway vs Wales TV channel and kick-off details",
+   "first": "2026-11-14T18:01:25.022447+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T13:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Norway vs. Wales: How to watch in UK, TV channel, kick-off time"
+   },
+   "last": "2026-11-14T18:01:25.022466+00:00"
   }
  },
- "story_seq": 7479,
+ "story_seq": 7480,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14095,17 +14114,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T17:51:19.415153+00:00",
+ "last_run": "2026-11-14T18:01:21.281306+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T17:52:14.105300+00:00",
-   "title": "Russell pes etmeyi reddediyor: \"Zor yıllar herkese olur\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-11T18:02:13.326605+00:00",
    "title": "Will Stevens: F1'de daha fazla gösterebilirdim, ama bu hayat",
