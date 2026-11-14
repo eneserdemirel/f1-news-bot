@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d1ec696adcbdea6e": "2026-10-31T12:22:11.339744+00:00",
   "6a4ac66ffd305991": "2026-10-31T12:37:09.746603+00:00",
   "ad7e9fe956d2a489": "2026-10-31T12:37:09.746603+00:00",
   "cc486c7c251a40a3": "2026-10-31T12:37:09.746603+00:00",
@@ -7312,7 +7311,10 @@
   "7c070a91814d0617": "2026-11-14T12:20:37.763111+00:00",
   "0d2e96bce00e5a5f": "2026-11-14T12:20:37.763111+00:00",
   "a8e746b5a643328f": "2026-11-14T12:20:37.763111+00:00",
-  "ed7c22878da8afb4": "2026-11-14T12:20:37.763111+00:00"
+  "ed7c22878da8afb4": "2026-11-14T12:20:37.763111+00:00",
+  "f3328a1a6fb1c4d6": "2026-11-14T12:30:39.624492+00:00",
+  "8807872e04bed5cc": "2026-11-14T12:30:39.624492+00:00",
+  "8b846bc2220a5d0b": "2026-11-14T12:30:39.624492+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -9688,7 +9690,8 @@
     "Crash.net": "2026-11-13T11:02:41+00:00",
     "Auto Motor und Sport": "2026-11-13T10:48:14+00:00",
     "GPFans": "2026-11-13T11:27:00+00:00",
-    "PlanetF1": "2026-11-14T09:15:49+00:00"
+    "PlanetF1": "2026-11-14T09:15:49+00:00",
+    "Gazzetta dello Sport": "2026-11-14T12:18:46+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -9697,9 +9700,10 @@
     "Crash.net": "F1 journalist claims he has been banned from paddock after Charles Leclerc criticism",
     "Auto Motor und Sport": "Formel 1: Skandal-Kolumne über Leclerc: FIA entzieht Reporter den Fahrerlager-Pass",
     "GPFans": "Top F1 journalist banned from races 'for criticising Ferrari star Charles Leclerc'",
-    "PlanetF1": "F1 journalist receives FIA ban in Ferrari dispute as boycott announced"
+    "PlanetF1": "F1 journalist receives FIA ban in Ferrari dispute as boycott announced",
+    "Gazzetta dello Sport": "Bufera in F1, ritirato l’accredito a un giornalista per le frasi contro Leclerc. Il Daily Mail: \"Boicottiamo il Mondiale\""
    },
-   "last": "2026-11-14T09:20:43.457636+00:00"
+   "last": "2026-11-14T12:30:44.443890+00:00"
   },
   "S7150": {
    "title": "Speculation on Piastri pressure and Zak Brown's response",
@@ -13336,9 +13340,35 @@
     "PlanetF1": "George Russell points to Lewis Hamilton example in F1 2027 recovery bid"
    },
    "last": "2026-11-14T12:20:43.297233+00:00"
+  },
+  "S7426": {
+   "title": "Vikings QB situation after Cousins trade column",
+   "first": "2026-11-14T12:30:44.443853+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Despite Cousins trade, are Vikings back to square one at QB?"
+   },
+   "last": "2026-11-14T12:30:44.443874+00:00"
+  },
+  "S7427": {
+   "title": "Hamilton told to follow Schumacher's approach to Ferrari criticism",
+   "first": "2026-11-14T12:30:44.443878+00:00",
+   "sources": {
+    "GPFans": "2026-11-14T12:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "‘Schumacher never did that’: Lewis Hamilton faces Ferrari criticism"
+   },
+   "last": "2026-11-14T12:30:44.443883+00:00"
   }
  },
- "story_seq": 7425,
+ "story_seq": 7427,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13457,17 +13487,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T12:20:37.763111+00:00",
+ "last_run": "2026-11-14T12:30:39.624492+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T12:21:35.831691+00:00",
-   "title": "Albon: Brezilya'da puan için daha sürekli yağmura ihtiyacımız vardı",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-11T12:41:28.435279+00:00",
    "title": "Bortoleto, Brezilya'daki ev sahibi yarışta pace'ten memnun ama hayal kırıklığında",
@@ -14462,6 +14487,11 @@
    "t": "2026-11-14T12:20:52.115610+00:00",
    "title": "Russell, Hamilton örneğiyle 2027'de toparlanacağını söylüyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-14T12:30:47.881200+00:00",
+   "title": "Hamilton'a Ferrari eleştirisi: \"Schumacher asla böyle yapmadı\"",
+   "source": "GPFans"
   }
  ]
 }
