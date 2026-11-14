@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5a8f589d73d1d465": "2026-10-31T04:01:03.118848+00:00",
   "e709ca14baf68c15": "2026-10-31T04:15:54.886154+00:00",
   "39c725458931e03d": "2026-10-31T04:25:54.539279+00:00",
   "9f12c6ed07cf5241": "2026-10-31T04:25:54.539279+00:00",
@@ -7380,7 +7379,8 @@
   "210287f9f9ffefad": "2026-11-14T03:49:49.613911+00:00",
   "39448c2672b00be0": "2026-11-14T03:49:49.613911+00:00",
   "68f93162d50e4046": "2026-11-14T03:59:48.409035+00:00",
-  "ebde20497fd4ac42": "2026-11-14T03:59:48.409035+00:00"
+  "ebde20497fd4ac42": "2026-11-14T03:59:48.409035+00:00",
+  "426417a12bf6fe7b": "2026-11-14T04:09:48.420657+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12258,9 +12258,22 @@
     "ESPN F1": "Lindenwood vs. Omaha (Nov 13, 2026) Live Score"
    },
    "last": "2026-11-14T03:59:49.960614+00:00"
+  },
+  "S7340": {
+   "title": "Michigan State's Jordan Scott injures right shoulder vs. Northern Iowa",
+   "first": "2026-11-14T04:09:50.031452+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T04:07:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michigan State's Jordan Scott injures right shoulder in win over Northern Iowa"
+   },
+   "last": "2026-11-14T04:09:50.031470+00:00"
   }
  },
- "story_seq": 7339,
+ "story_seq": 7340,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12379,7 +12392,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T03:59:48.409035+00:00",
+ "last_run": "2026-11-14T04:09:48.420657+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
