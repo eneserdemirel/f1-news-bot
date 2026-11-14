@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a689211baf265b35": "2026-10-31T09:21:25.130379+00:00",
   "c3989827f3596c97": "2026-10-31T09:31:26.777568+00:00",
   "e8f69637ba9b97b5": "2026-10-31T09:31:26.777568+00:00",
   "27d74167aee9a1d0": "2026-10-31T09:36:28.245938+00:00",
@@ -7356,7 +7355,9 @@
   "9c3e58225b12e4ca": "2026-11-14T09:20:38.259124+00:00",
   "6f55ccb65bd02e88": "2026-11-14T09:20:38.259124+00:00",
   "76bb37c056e6e605": "2026-11-14T09:20:38.259124+00:00",
-  "62df02d459b2cc4d": "2026-11-14T09:20:38.259124+00:00"
+  "62df02d459b2cc4d": "2026-11-14T09:20:38.259124+00:00",
+  "16c885dbdae7e461": "2026-11-14T09:30:43.333460+00:00",
+  "8e258be2f3973ba4": "2026-11-14T09:30:43.333460+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12967,9 +12968,35 @@
     "ESPN F1": "Terry McMorris gets up for the beautiful slam"
    },
    "last": "2026-11-14T09:20:43.457622+00:00"
+  },
+  "S7395": {
+   "title": "Formula E Gen4 car heads into pre-season testing",
+   "first": "2026-11-14T09:30:47.185786+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T09:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Why is Formula E’s new GEN4 regulatory cycle a real F1 scare?"
+   },
+   "last": "2026-11-14T09:30:47.185805+00:00"
+  },
+  "S7396": {
+   "title": "Sainz criticises intermediate and wet F1 tyres",
+   "first": "2026-11-14T09:30:47.185813+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-14T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Sainz critica le gomme intermedie e da bagnato: “Non sono all’altezza”"
+   },
+   "last": "2026-11-14T09:30:47.185819+00:00"
   }
  },
- "story_seq": 7394,
+ "story_seq": 7396,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13088,17 +13115,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T09:20:38.259124+00:00",
+ "last_run": "2026-11-14T09:30:43.333460+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T09:21:31.425852+00:00",
-   "title": "Verstappen'in São Paulo verileri sürüşünü destekliyor ama teşhisini desteklemiyor",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-11T09:31:30.048079+00:00",
    "title": "Formula 1'e iki Çinli marka girmek istiyor",
@@ -14113,6 +14135,11 @@
    "t": "2026-11-14T09:00:46.457782+00:00",
    "title": "Toto Wolff'un Mercedes'ten ayrılacağı öngörülüyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-14T09:30:54.327133+00:00",
+   "title": "Sainz, Pirelli'nin yağmur lastiklerini eleştirdi",
+   "source": "FormulaPassion"
   }
  ]
 }
