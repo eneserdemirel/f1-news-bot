@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "935126c8abe19824": "2026-10-31T17:37:51.663474+00:00",
-  "d88232394f4847da": "2026-10-31T17:37:51.663474+00:00",
   "4d7256638163b18b": "2026-10-31T17:42:54.557725+00:00",
   "2c6ee5759ddfa6fb": "2026-10-31T17:47:55.875141+00:00",
   "ac9a5e8e574b6f08": "2026-10-31T17:52:55.062404+00:00",
@@ -7233,7 +7231,9 @@
   "aa4540853562f7de": "2026-11-14T17:21:29.072537+00:00",
   "3d852e8d1d305c5c": "2026-11-14T17:21:29.072537+00:00",
   "42a63627f4e9fa18": "2026-11-14T17:21:29.072537+00:00",
-  "d03a507764256c7f": "2026-11-14T17:31:18.814311+00:00"
+  "d03a507764256c7f": "2026-11-14T17:31:18.814311+00:00",
+  "e3e8c556ff0b621e": "2026-11-14T17:41:19.147435+00:00",
+  "e6c8cb78f520ecc4": "2026-11-14T17:41:19.147435+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13936,9 +13936,35 @@
     "Motorsport.com Italia": "F1 | McLaren: la nuova ala non porta solo carico, ora la MCL40 è più guidabile"
    },
    "last": "2026-11-14T17:31:20.906114+00:00"
+  },
+  "S7477": {
+   "title": "Brighton vs. Liverpool team stats (Nov 14, 2026)",
+   "first": "2026-11-14T17:41:20.716966+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T17:33:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Brighton vs. Liverpool (Nov 14, 2026) Team Stats"
+   },
+   "last": "2026-11-14T17:41:20.716984+00:00"
+  },
+  "S7478": {
+   "title": "Chelsea beat Man City in WSL, Emma Hayes watching",
+   "first": "2026-11-14T17:41:20.716989+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T17:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chelsea reassert WSL dominance over Man City in front of USWNT boss Emma Hayes"
+   },
+   "last": "2026-11-14T17:41:20.716994+00:00"
   }
  },
- "story_seq": 7476,
+ "story_seq": 7478,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14057,7 +14083,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T17:31:18.814311+00:00",
+ "last_run": "2026-11-14T17:41:19.147435+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
