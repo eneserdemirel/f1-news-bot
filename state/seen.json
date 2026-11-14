@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b098d688041b42bf": "2026-10-31T19:22:51.774499+00:00",
-  "7ddb9b7ce56e14e4": "2026-10-31T19:22:51.774499+00:00",
-  "9dc615f3195d2ee8": "2026-10-31T19:22:51.774499+00:00",
-  "e1807f8e724c1ab8": "2026-10-31T19:27:54.248802+00:00",
-  "bd4ddd1166bc3def": "2026-10-31T19:27:54.248802+00:00",
-  "d2a47a0a5724564c": "2026-10-31T19:27:54.248802+00:00",
-  "f2d11f7d8da7f1c2": "2026-10-31T19:27:54.248802+00:00",
   "e4b30d6994813b4a": "2026-10-31T19:32:54.586185+00:00",
   "f9e7e6bcd534bad5": "2026-10-31T19:32:54.586185+00:00",
   "2213df1f54d21c0e": "2026-10-31T19:32:54.586185+00:00",
@@ -7221,7 +7214,10 @@
   "2f4cbca5c689ab85": "2026-11-14T19:11:21.083503+00:00",
   "54febd271b13697c": "2026-11-14T19:11:21.083503+00:00",
   "21265fbe4a35b02b": "2026-11-14T19:22:06.611037+00:00",
-  "e4c2aea5d66d92d9": "2026-11-14T19:22:06.611037+00:00"
+  "e4c2aea5d66d92d9": "2026-11-14T19:22:06.611037+00:00",
+  "2f6412c5dc760bc8": "2026-11-14T19:32:11.221692+00:00",
+  "3c2be54a5213570e": "2026-11-14T19:32:11.221692+00:00",
+  "4e88c7ff6bf1a41b": "2026-11-14T19:32:11.221692+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14065,7 +14061,7 @@
    "titles": {
     "Gazzetta dello Sport": "Una Skoda scassata, una slitta, una casa venduta e un hamburger: nacque così la dinastia Villeneuve"
    },
-   "last": "2026-11-14T18:11:24.300056+00:00"
+   "last": "2026-11-14T19:32:13.808688+00:00"
   },
   "S7487": {
    "title": "Steiner suggests reason for Piastri's split from Webber",
@@ -14261,9 +14257,35 @@
     "ESPN F1": "Sint Maarten vs. French Guiana (Nov 14, 2026) Team Stats"
    },
    "last": "2026-11-14T19:22:09.023300+00:00"
+  },
+  "S7502": {
+   "title": "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "first": "2026-11-14T19:32:13.808655+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T18:22:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ohio State's Jeremiah Smith sets Big Ten receiving record"
+   },
+   "last": "2026-11-14T19:32:13.808675+00:00"
+  },
+  "S7503": {
+   "title": "Cincinnati vs. Iowa State live score",
+   "first": "2026-11-14T19:32:13.808679+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T17:12:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cincinnati vs. Iowa State (Nov 14, 2026) Live Score"
+   },
+   "last": "2026-11-14T19:32:13.808683+00:00"
   }
  },
- "story_seq": 7501,
+ "story_seq": 7503,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14382,22 +14404,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T19:22:06.611037+00:00",
+ "last_run": "2026-11-14T19:32:11.221692+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
  "last_digest_at": "2026-11-14T19:01:30.543739+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T19:22:49.235454+00:00",
-   "title": "Hamilton: Gazze'deki İsrail soykırımı sarsıcı, yüz çeviremeyiz",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-11T19:22:49.609343+00:00",
-   "title": "Lawson, Lindblad ile Racing Bulls'taki yükselişi üzerine konuştu",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-11T20:02:46.940406+00:00",
    "title": "Christian Horner, Red Bull'daki iddiaların 'zor' olduğunu söyledi",
