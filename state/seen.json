@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "740a0fc185b861d0": "2026-10-31T11:02:12.072113+00:00",
-  "9fb6da07f8ba891c": "2026-10-31T11:02:12.072113+00:00",
-  "512764258b35f32f": "2026-10-31T11:02:12.072113+00:00",
   "39feed82097d23c2": "2026-10-31T11:12:11.313629+00:00",
   "5b73e7f28035c2bd": "2026-10-31T11:17:14.510214+00:00",
   "e4d1b1f24ee74a6d": "2026-10-31T11:22:12.140986+00:00",
@@ -7315,7 +7312,10 @@
   "cf1507be8a4d8716": "2026-11-14T10:50:37.166961+00:00",
   "85fd655b96e761a9": "2026-11-14T10:50:37.166961+00:00",
   "70ab1528d5a556a9": "2026-11-14T10:50:37.166961+00:00",
-  "4086f5288e774257": "2026-11-14T11:00:40.441810+00:00"
+  "4086f5288e774257": "2026-11-14T11:00:40.441810+00:00",
+  "bc4a735947df1285": "2026-11-14T11:10:38.272509+00:00",
+  "88f176de315e4f46": "2026-11-14T11:10:38.272509+00:00",
+  "c5afb244a75b7854": "2026-11-14T11:10:38.272509+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13101,9 +13101,35 @@
     "PlanetF1": "Imola reveals future F1 return plan after FIA announcement"
    },
    "last": "2026-11-14T10:50:40.717210+00:00"
+  },
+  "S7408": {
+   "title": "Drivers give mixed verdict on Pirelli wet tyres after Sao Paulo",
+   "first": "2026-11-14T11:10:42.182541+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-14T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "F1 drivers issue damning Pirelli verdict after torrential Sao Paulo GP"
+   },
+   "last": "2026-11-14T11:10:42.182561+00:00"
+  },
+  "S7409": {
+   "title": "Horner reveals message Wolff sent after Abu Dhabi 2021",
+   "first": "2026-11-14T11:10:42.182566+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-14T11:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Horner enthüllt: Diese Nachricht schickte Wolff nach Abu Dhabi 2021 - Motorsport-Total.com"
+   },
+   "last": "2026-11-14T11:10:42.182571+00:00"
   }
  },
- "story_seq": 7407,
+ "story_seq": 7409,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13222,17 +13248,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T11:00:40.441810+00:00",
+ "last_run": "2026-11-14T11:10:38.272509+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T11:01:30.860837+00:00",
-   "title": "Hamilton'ın Brezilya GP'deki takım telsiz konuşmaları ortaya çıktı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T11:11:28.097213+00:00",
    "title": "Hamilton'ın Ferrari'den bıkması halinde McLaren'a dönebileceği öne sürüldü",
@@ -14222,6 +14243,16 @@
    "t": "2026-11-14T10:50:48.856686+00:00",
    "title": "Imola, FIA kararının ardından F1'e dönüş planını açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-14T11:10:48.499455+00:00",
+   "title": "Sao Paulo GP sonrası F1 pilotlarından Pirelli yağmur lastiklerine karışık tepki",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-14T11:10:49.181662+00:00",
+   "title": "Horner, Wolff'un Abu Dhabi 2021 sonrası gönderdiği mesajı açıkladı",
+   "source": "Motorsport-Total"
   }
  ]
 }
