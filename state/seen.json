@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0d4f76bb700acedb": "2026-10-31T22:33:42.033480+00:00",
-  "49d0da3ca25bc283": "2026-10-31T22:33:42.033480+00:00",
-  "acf46279858227f4": "2026-10-31T22:33:42.033480+00:00",
-  "8f2e5d71fb01bafa": "2026-10-31T22:33:42.033480+00:00",
-  "c7eae524aa315e62": "2026-10-31T22:33:42.033480+00:00",
-  "4b4dfeb24db130bf": "2026-10-31T22:38:40.036517+00:00",
-  "6ad9705b14937ea0": "2026-10-31T22:38:40.036517+00:00",
   "df4a9480e824162e": "2026-10-31T22:43:44.797708+00:00",
   "95f042c92b26ee9b": "2026-10-31T22:43:44.797708+00:00",
   "190395e523233d57": "2026-10-31T22:43:44.797708+00:00",
@@ -7127,7 +7120,9 @@
   "52a89637bce74d2e": "2026-11-14T22:12:09.424349+00:00",
   "b9bc1a7a3013e97d": "2026-11-14T22:22:04.016966+00:00",
   "e3b952edaf124572": "2026-11-14T22:32:05.942758+00:00",
-  "62c077ae007d1036": "2026-11-14T22:32:05.942758+00:00"
+  "62c077ae007d1036": "2026-11-14T22:32:05.942758+00:00",
+  "1caf681b1ff83f62": "2026-11-14T22:42:07.216932+00:00",
+  "4394f73232997204": "2026-11-14T22:42:07.216932+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7467,32 +7462,6 @@
     "GPblog": "Former F1 driver drops major hint about next chapter of his racing career"
    },
    "last": "2026-11-14T18:11:24.300049+00:00"
-  },
-  "S7056": {
-   "title": "How to cast the ESPN app to Chromecast",
-   "first": "2026-11-12T22:35:46.298319+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:59:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "How to Cast the ESPN App to Chromecast"
-   },
-   "last": "2026-11-12T22:35:46.298336+00:00"
-  },
-  "S7057": {
-   "title": "Czechia vs. Spain player stats",
-   "first": "2026-11-12T22:35:46.298341+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:52:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Czechia vs. Spain (Nov 12, 2026) Player Stats"
-   },
-   "last": "2026-11-12T22:35:46.298345+00:00"
   },
   "S7058": {
    "title": "Italy 3-1 France football match analysis",
@@ -13849,7 +13818,7 @@
    "titles": {
     "ESPN F1": "Portugal 1-4 Denmark (Nov 14, 2026) Game Analysis"
    },
-   "last": "2026-11-14T22:22:06.777629+00:00"
+   "last": "2026-11-14T22:42:10.091798+00:00"
   },
   "S7539": {
    "title": "Olley says Manchester United lack culture and desire",
@@ -13876,9 +13845,22 @@
     "ESPN F1": "Rice stuns Stephen F. Austin with winner from beyond half court"
    },
    "last": "2026-11-14T22:32:07.901955+00:00"
+  },
+  "S7541": {
+   "title": "Darian Mensah's performance in Miami's win over Duke",
+   "first": "2026-11-14T22:42:10.091809+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T22:31:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Inside Darian Mensah's huge performance in Miami's win over Duke"
+   },
+   "last": "2026-11-14T22:42:10.091814+00:00"
   }
  },
- "story_seq": 7540,
+ "story_seq": 7541,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13997,17 +13979,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T22:32:05.942758+00:00",
+ "last_run": "2026-11-14T22:42:07.216932+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
  "last_digest_at": "2026-11-14T19:01:30.543739+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T22:32:47.716039+00:00",
-   "title": "Hamilton, Refah sınırı ziyaretinin ardından Gazze'ye yardım tırlarının girmesi çağrısı yaptı",
-   "source": "Sky Sports F1"
-  },
   {
    "t": "2026-11-12T22:06:58.182217+00:00",
    "title": "Mercedes, 2027 öncesi tek hâkim olamayacağından endişe ediyor",
