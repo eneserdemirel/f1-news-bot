@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e709ca14baf68c15": "2026-10-31T04:15:54.886154+00:00",
   "39c725458931e03d": "2026-10-31T04:25:54.539279+00:00",
   "9f12c6ed07cf5241": "2026-10-31T04:25:54.539279+00:00",
   "29ab6d47a7660fb1": "2026-10-31T04:30:59.209754+00:00",
@@ -7380,7 +7379,9 @@
   "39448c2672b00be0": "2026-11-14T03:49:49.613911+00:00",
   "68f93162d50e4046": "2026-11-14T03:59:48.409035+00:00",
   "ebde20497fd4ac42": "2026-11-14T03:59:48.409035+00:00",
-  "426417a12bf6fe7b": "2026-11-14T04:09:48.420657+00:00"
+  "426417a12bf6fe7b": "2026-11-14T04:09:48.420657+00:00",
+  "a0fb439d71436736": "2026-11-14T04:19:47.002520+00:00",
+  "461b86aa29f25219": "2026-11-14T04:19:47.002520+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12271,9 +12272,22 @@
     "ESPN F1": "Michigan State's Jordan Scott injures right shoulder in win over Northern Iowa"
    },
    "last": "2026-11-14T04:09:50.031470+00:00"
+  },
+  "S7341": {
+   "title": "New Zealand aim to stop India's rare overseas ODI series win",
+   "first": "2026-11-14T04:19:48.463874+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T04:17:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Streak broken, New Zealand hope to prevent rare overseas ODI series win for India"
+   },
+   "last": "2026-11-14T04:19:48.463894+00:00"
   }
  },
- "story_seq": 7340,
+ "story_seq": 7341,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12392,17 +12406,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T04:09:48.420657+00:00",
+ "last_run": "2026-11-14T04:19:47.002520+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T04:10:41.403061+00:00",
-   "title": "Verstappen'in Brezilya GP telsiz kaydı ortaya çıktı: \"Felaket bir araba\"",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T06:10:38.758079+00:00",
    "title": "Liberty CEO'su F1'in Körfez finalinden önce Katar'a gitti",
