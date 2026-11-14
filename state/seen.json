@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "77c132adb998bf15": "2026-10-31T12:17:10.577670+00:00",
-  "473eadbc69419809": "2026-10-31T12:17:10.577670+00:00",
-  "e2ed3bbd88e63ad9": "2026-10-31T12:17:10.577670+00:00",
-  "a0f718ed88758c3e": "2026-10-31T12:17:10.577670+00:00",
   "d1ec696adcbdea6e": "2026-10-31T12:22:11.339744+00:00",
   "6a4ac66ffd305991": "2026-10-31T12:37:09.746603+00:00",
   "ad7e9fe956d2a489": "2026-10-31T12:37:09.746603+00:00",
@@ -7310,7 +7306,13 @@
   "da1aa583d008edf4": "2026-11-14T12:00:42.086442+00:00",
   "fee504ef4ab01062": "2026-11-14T12:10:41.566302+00:00",
   "e1066787857f0d94": "2026-11-14T12:10:41.566302+00:00",
-  "07c056d717d002c3": "2026-11-14T12:10:41.566302+00:00"
+  "07c056d717d002c3": "2026-11-14T12:10:41.566302+00:00",
+  "fb60e2e09ab83ef0": "2026-11-14T12:20:37.763111+00:00",
+  "3955ec85a889fbd9": "2026-11-14T12:20:37.763111+00:00",
+  "7c070a91814d0617": "2026-11-14T12:20:37.763111+00:00",
+  "0d2e96bce00e5a5f": "2026-11-14T12:20:37.763111+00:00",
+  "a8e746b5a643328f": "2026-11-14T12:20:37.763111+00:00",
+  "ed7c22878da8afb4": "2026-11-14T12:20:37.763111+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11680,14 +11682,16 @@
    "title": "Steiner warns Russell and Piastri of decisive 2027 season",
    "first": "2026-11-13T22:08:39.455365+00:00",
    "sources": {
-    "GPblog": "2026-11-13T22:01:00+00:00"
+    "GPblog": "2026-11-13T22:01:00+00:00",
+    "RacingNews365 NL": "2026-11-14T12:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Russell and Piastri face ruthless ultimatum as F1 futures come under threat"
+    "GPblog": "Russell and Piastri face ruthless ultimatum as F1 futures come under threat",
+    "RacingNews365 NL": "Steiner waarschuwt Piastri: \"Dan zoekt McLaren de nieuwe Oscar...\""
    },
-   "last": "2026-11-13T22:08:39.455370+00:00"
+   "last": "2026-11-14T12:20:43.297227+00:00"
   },
   "S7300": {
    "title": "Netherlands 7-0 Greece football match analysis",
@@ -12908,14 +12912,14 @@
    "title": "Nico Paz possible first Man United signing under Pochettino",
    "first": "2026-11-14T09:20:43.457594+00:00",
    "sources": {
-    "ESPN F1": "2026-11-14T09:17:37+00:00"
+    "ESPN F1": "2026-11-14T08:57:51+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Transfer rumors, news: Como's Nico Paz to be Pochettino's first Man United summer signing?"
    },
-   "last": "2026-11-14T09:20:43.457613+00:00"
+   "last": "2026-11-14T12:20:43.297198+00:00"
   },
   "S7394": {
    "title": "Terry McMorris slam highlight",
@@ -13293,9 +13297,48 @@
     "Crash.net": "FIA boss looking to make controversial change to presidency rule"
    },
    "last": "2026-11-14T12:10:44.328498+00:00"
+  },
+  "S7423": {
+   "title": "UCLA beats Illinois 22-14 game recap",
+   "first": "2026-11-14T12:20:43.297208+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T06:48:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UCLA 22-14 Illinois (Nov 13, 2026) Game Recap"
+   },
+   "last": "2026-11-14T12:20:43.297213+00:00"
+  },
+  "S7424": {
+   "title": "Mercedes continue climbing F1 ladder after five-year wait",
+   "first": "2026-11-14T12:20:43.297217+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T12:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Mercedes continue march up F1 ladder as painful five-year wait ends"
+   },
+   "last": "2026-11-14T12:20:43.297222+00:00"
+  },
+  "S7425": {
+   "title": "Russell cites Hamilton as model for 2027 recovery",
+   "first": "2026-11-14T12:20:43.297230+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-14T12:10:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "George Russell points to Lewis Hamilton example in F1 2027 recovery bid"
+   },
+   "last": "2026-11-14T12:20:43.297233+00:00"
   }
  },
- "story_seq": 7422,
+ "story_seq": 7425,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13414,17 +13457,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T12:10:41.566302+00:00",
+ "last_run": "2026-11-14T12:20:37.763111+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T12:11:28.832866+00:00",
-   "title": "Trump'tan İran savaşına dair açıklama: F1 için sevindirici olabilir",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-11T12:21:35.831691+00:00",
    "title": "Albon: Brezilya'da puan için daha sürekli yağmura ihtiyacımız vardı",
@@ -14419,6 +14457,11 @@
    "t": "2026-11-14T12:10:50.868571+00:00",
    "title": "FIA başkanı, başkanlık yaş sınırını kaldırmak istiyor",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-14T12:20:52.115610+00:00",
+   "title": "Russell, Hamilton örneğiyle 2027'de toparlanacağını söylüyor",
+   "source": "PlanetF1"
   }
  ]
 }
