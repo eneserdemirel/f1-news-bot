@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bc46e6135b761bb1": "2026-10-31T20:43:40.360843+00:00",
-  "78be0c16d7efb609": "2026-10-31T20:48:37.369814+00:00",
-  "7f4dd14b0074c4d8": "2026-10-31T20:48:37.369814+00:00",
   "7817dffedec1bc02": "2026-10-31T21:03:39.096342+00:00",
   "beb2a763bb91febe": "2026-10-31T21:03:39.096342+00:00",
   "3298cd15502018a6": "2026-10-31T21:03:39.096342+00:00",
@@ -7156,7 +7153,9 @@
   "649f70b11d451e6d": "2026-11-14T20:12:05.152459+00:00",
   "731c58524d21189c": "2026-11-14T20:22:07.402149+00:00",
   "74590eb22e010f7f": "2026-11-14T20:32:06.076786+00:00",
-  "0748d1f4f73fc85e": "2026-11-14T20:42:10.092744+00:00"
+  "0748d1f4f73fc85e": "2026-11-14T20:42:10.092744+00:00",
+  "012c0dac0d77c2fd": "2026-11-14T20:52:05.204209+00:00",
+  "cc96b83f48873c7b": "2026-11-14T20:52:05.204209+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14287,9 +14286,35 @@
     "ESPN F1": "Georgia commit, DL Marcellus Young Casario died after 'sudden medical emergency'"
    },
    "last": "2026-11-14T20:42:11.529900+00:00"
+  },
+  "S7509": {
+   "title": "Hannah Hidalgo reaches 2,500 points, 500 rebounds, 500 assists, 500 steals",
+   "first": "2026-11-14T20:52:07.667433+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T20:46:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hannah Hidalgo first with 2,500 points, 500 rebounds, 500 assists, 500 steals"
+   },
+   "last": "2026-11-14T20:52:07.667450+00:00"
+  },
+  "S7510": {
+   "title": "Piastri jokingly reveals a 'secret' about teammate Lando Norris",
+   "first": "2026-11-14T20:52:07.667454+00:00",
+   "sources": {
+    "GPFans": "2026-11-14T20:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Oscar Piastri leaks big Lando Norris 'secret'"
+   },
+   "last": "2026-11-14T20:52:07.667458+00:00"
   }
  },
- "story_seq": 7508,
+ "story_seq": 7510,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14408,7 +14433,7 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T20:42:10.092744+00:00",
+ "last_run": "2026-11-14T20:52:05.204209+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -15337,6 +15362,11 @@
   {
    "t": "2026-11-14T20:02:16.462649+00:00",
    "title": "FSG'nin 3 milyar dolarlık Cadillac F1 hamlesi beklenmedik bir engelle karşılaşabilir",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-14T20:52:11.716670+00:00",
+   "title": "Piastri, Norris'in doğum gününde 'gizli sırrını' ifşa etti",
    "source": "GPFans"
   }
  ]
