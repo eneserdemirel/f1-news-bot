@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6f8d22626516bc64": "2026-10-31T08:56:24.368391+00:00",
-  "971557c9cb561f3a": "2026-10-31T08:56:24.368391+00:00",
   "4da0516416b57112": "2026-10-31T09:01:27.304602+00:00",
   "dcecb9715a1a8d14": "2026-10-31T09:01:27.304602+00:00",
   "7277148ae60a332f": "2026-10-31T09:06:25.027169+00:00",
@@ -7354,7 +7352,10 @@
   "138df3e7d0efad66": "2026-11-14T08:49:48.808959+00:00",
   "7256392fafbc155a": "2026-11-14T08:49:48.808959+00:00",
   "8c7956abc2f24f62": "2026-11-14T08:49:48.808959+00:00",
-  "9f6185ce2d5cd83d": "2026-11-14T08:49:48.808959+00:00"
+  "9f6185ce2d5cd83d": "2026-11-14T08:49:48.808959+00:00",
+  "24823521e657b92a": "2026-11-14T09:00:37.381427+00:00",
+  "cb3cb20972fb6013": "2026-11-14T09:00:37.381427+00:00",
+  "4af8bfb1ab25f6eb": "2026-11-14T09:00:37.381427+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12864,9 +12865,48 @@
     "PlanetF1": "‘How wrong I was’ – How Michael Schumacher took Mercedes insider by surprise"
    },
    "last": "2026-11-14T08:49:54.063680+00:00"
+  },
+  "S7388": {
+   "title": "Heat beat Cavaliers 133-121 in NBA game",
+   "first": "2026-11-14T09:00:41.035982+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T04:04:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heat 133-121 Cavaliers (Nov 13, 2026) Game Recap"
+   },
+   "last": "2026-11-14T09:00:41.036001+00:00"
+  },
+  "S7389": {
+   "title": "Wolff compares Ferrari Hamilton-Leclerc spat to Rosberg era",
+   "first": "2026-11-14T09:00:41.036007+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T08:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff draws parallel between Ferrari spat and Lewis Hamilton-Nico Rosberg era"
+   },
+   "last": "2026-11-14T09:00:41.036012+00:00"
+  },
+  "S7390": {
+   "title": "Insider expects Wolff to step down as Mercedes boss",
+   "first": "2026-11-14T09:00:41.036015+00:00",
+   "sources": {
+    "GPFans": "2026-11-14T08:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Toto Wolff Mercedes exit plan revealed as F1 commentator tips successor"
+   },
+   "last": "2026-11-14T09:00:41.036019+00:00"
   }
  },
- "story_seq": 7387,
+ "story_seq": 7390,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12985,17 +13025,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T08:50:43.848271+00:00",
+ "last_run": "2026-11-14T09:00:37.381427+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T08:51:29.031349+00:00",
-   "title": "Bottas, Herta'nın Süper Lisans puanları hakkında: 'Bilmiyorum'",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T09:01:36.237974+00:00",
    "title": "Antonelli'ye 12 milyon dolar bonus, ama maaşında artış bekleniyor",
@@ -14020,6 +14055,16 @@
    "t": "2026-11-14T08:50:01.563548+00:00",
    "title": "Antonelli'nin şampiyonluğu ve bunun anlamı: yazarlarımız yorumluyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-14T09:00:45.892587+00:00",
+   "title": "Wolff, Ferrari'deki Hamilton-Leclerc gerginliğini kendi Hamilton-Rosberg dönemiyle karşılaştırdı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-14T09:00:46.457782+00:00",
+   "title": "Toto Wolff'un Mercedes'ten ayrılacağı öngörülüyor",
+   "source": "GPFans"
   }
  ]
 }
