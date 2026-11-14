@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cc9baf1a7b13f579": "2026-10-31T14:42:10.197859+00:00",
-  "792d29bf0e97cdef": "2026-10-31T14:42:10.197859+00:00",
-  "ae6d973ba9df4e37": "2026-10-31T14:47:13.754274+00:00",
-  "f554af05ac3894af": "2026-10-31T14:47:13.754274+00:00",
-  "13aa0d08444c796f": "2026-10-31T14:47:13.754274+00:00",
-  "ee3901f0d72580a0": "2026-10-31T14:47:13.754274+00:00",
   "14b0583b72fb9251": "2026-10-31T14:52:10.589001+00:00",
   "1c4a64d5cadc4b78": "2026-10-31T14:52:10.589001+00:00",
   "ea20117a69c17263": "2026-10-31T14:52:10.589001+00:00",
@@ -7287,7 +7281,8 @@
   "e124ad8cf3aedbc3": "2026-11-14T14:11:22.119232+00:00",
   "ba5321dd90628d98": "2026-11-14T14:11:22.119232+00:00",
   "c57dbfa89df9d627": "2026-11-14T14:41:31.186888+00:00",
-  "ef964750054a3823": "2026-11-14T14:41:31.186888+00:00"
+  "ef964750054a3823": "2026-11-14T14:41:31.186888+00:00",
+  "1bc160577ae39a2f": "2026-11-14T14:51:19.621002+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13540,9 +13535,22 @@
     "Motorsport.com Italia": "F1 | La seconda giovinezza di Hamilton: perché ha ritrovato i suoi punti di forza con il regolamento 2026"
    },
    "last": "2026-11-14T14:11:25.033322+00:00"
+  },
+  "S7443": {
+   "title": "Wolff reveals when he knew Antonelli would win 2026 title",
+   "first": "2026-11-14T14:51:22.307401+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T14:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff reveals when he knew Kimi Antonelli would win 2026 F1 title"
+   },
+   "last": "2026-11-14T14:51:22.307422+00:00"
   }
  },
- "story_seq": 7442,
+ "story_seq": 7443,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13661,22 +13669,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T14:41:31.186888+00:00",
+ "last_run": "2026-11-14T14:51:19.621002+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T14:42:10.946140+00:00",
-   "title": "FIA Başkanı Ben Sulayem yaş sınırını kaldırmak istiyor",
-   "source": "Auto Motor und Sport"
-  },
-  {
-   "t": "2026-11-11T14:42:11.339494+00:00",
-   "title": "Bruno Senna, Antonelli'nin Senna ailesinin çiftliğine ziyaretini anlattı",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-11T14:52:09.029894+00:00",
    "title": "Coulthard, Verstappen'in Interlagos'taki etkileyici geri dönüşünü övdü",
@@ -14651,6 +14649,11 @@
    "t": "2026-11-14T14:11:29.345578+00:00",
    "title": "Hamilton'ın ikinci gençliği: 2026 regülasyonu eski güçlü yönlerini geri getirdi",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-14T14:51:26.866525+00:00",
+   "title": "Toto Wolff, Antonelli'nin 2026 şampiyonluğunu ne zaman fark ettiğini açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
