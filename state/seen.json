@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "eee283357c268dd5": "2026-10-31T13:42:12.919903+00:00",
-  "30eccd76f9e7afc6": "2026-10-31T13:47:15.284528+00:00",
   "59bb112422a01b5f": "2026-10-31T13:57:10.462089+00:00",
   "a57ab611e03073f9": "2026-10-31T13:57:10.462089+00:00",
   "7f9eca49d6cec33e": "2026-10-31T13:57:10.462089+00:00",
@@ -7300,7 +7298,13 @@
   "4f48bafad2f54d97": "2026-11-14T13:20:40.536174+00:00",
   "1649201ede830ffc": "2026-11-14T13:30:39.875131+00:00",
   "f3a9182e47cff138": "2026-11-14T13:40:37.320769+00:00",
-  "1a1546452e998dc3": "2026-11-14T13:40:37.320769+00:00"
+  "1a1546452e998dc3": "2026-11-14T13:40:37.320769+00:00",
+  "fa235bbea8c6aa04": "2026-11-14T13:50:36.752587+00:00",
+  "09ae7f5a0a32def2": "2026-11-14T13:50:36.752587+00:00",
+  "b3df22aa6e207dd8": "2026-11-14T13:50:36.752587+00:00",
+  "858fb049b07a4939": "2026-11-14T13:50:36.752587+00:00",
+  "d832ad6f2b5d1b54": "2026-11-14T13:50:36.752587+00:00",
+  "a28017e806df03df": "2026-11-14T13:50:36.752587+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13229,14 +13233,16 @@
    "title": "Verstappen's chief mechanic Jon Caller leaves Red Bull for Ford",
    "first": "2026-11-14T11:50:38.955798+00:00",
    "sources": {
-    "GPblog": "2026-11-14T11:46:00+00:00"
+    "GPblog": "2026-11-14T11:46:00+00:00",
+    "RacingNews365 NL": "2026-11-14T13:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Verstappen must once again say goodbye to a key figure in his garage"
+    "GPblog": "Verstappen must once again say goodbye to a key figure in his garage",
+    "RacingNews365 NL": "Hoofdmonteur Red Bull neemt afscheid"
    },
-   "last": "2026-11-14T11:50:38.955820+00:00"
+   "last": "2026-11-14T13:50:41.811762+00:00"
   },
   "S7419": {
    "title": "ESPN NFL Week 10 predictions column",
@@ -13445,9 +13451,48 @@
     "GPblog": "Hamilton slams ex-Formula 1 drivers for 'talking smack' and lacking 'empathy'"
    },
    "last": "2026-11-14T13:40:39.678828+00:00"
+  },
+  "S7435": {
+   "title": "Japan vs Brazil football team stats",
+   "first": "2026-11-14T13:50:41.811728+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T10:53:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Japan 3-2 Brazil (Nov 14, 2026) Team Stats"
+   },
+   "last": "2026-11-14T13:50:41.811755+00:00"
+  },
+  "S7436": {
+   "title": "Mercedes findings into Brazilian GP issues after investigation",
+   "first": "2026-11-14T13:50:41.811765+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-14T13:41:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Mercedes reveals findings into Brazilian GP issues after W17 investigation"
+   },
+   "last": "2026-11-14T13:50:41.811769+00:00"
+  },
+  "S7437": {
+   "title": "Rosberg recalls how Wolff shocked him in Hamilton title fight",
+   "first": "2026-11-14T13:50:41.811772+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-14T13:46:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Rosberg enthüllt: Wie Toto Wolff ihn im WM-Kampf gegen Hamilton schockte - Motorsport-Total.com"
+   },
+   "last": "2026-11-14T13:50:41.811775+00:00"
   }
  },
- "story_seq": 7434,
+ "story_seq": 7437,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13566,22 +13611,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T13:40:37.320769+00:00",
+ "last_run": "2026-11-14T13:50:36.752587+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 15:00",
  "last_digest_at": "2026-11-14T12:00:45.417816+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T13:42:12.412585+00:00",
-   "title": "Brezilya'daki yağmur kaosunun ardından 2026 F1 ne kadar tehlikeli?",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-11T13:42:12.786549+00:00",
-   "title": "Russell'ın Brezilya GP'deki pit çıkışı telsiz kayıtlarıyla netleşti",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-11T13:52:16.081807+00:00",
    "title": "Aston Martin'de performans ve güvenilirlik arasındaki çelişki",
@@ -14551,6 +14586,16 @@
    "t": "2026-11-14T13:10:45.651436+00:00",
    "title": "Red Bull eski felsefesinden giderek uzaklaşıyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-14T13:50:47.117004+00:00",
+   "title": "Mercedes, Brezilya GP sorunlarına ilişkin bulgularını açıkladı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-14T13:50:47.662867+00:00",
+   "title": "Rosberg, Toto Wolff'un Hamilton'a karşı şampiyonluk mücadelesinde kendisini nasıl şaşırttığını açıkladı",
+   "source": "Motorsport-Total"
   }
  ]
 }
