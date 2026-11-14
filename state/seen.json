@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d62b59b6cdc8f30b": "2026-10-31T07:11:24.419938+00:00",
-  "a954ff5ac1a9a136": "2026-10-31T07:11:24.419938+00:00",
-  "ac2d9c2e2e610823": "2026-10-31T07:16:25.010245+00:00",
-  "b77132dad4f20206": "2026-10-31T07:16:25.010245+00:00",
   "e2f4800c7a0b5496": "2026-10-31T07:21:23.658274+00:00",
   "6e6a84948be3cc94": "2026-10-31T07:21:23.658274+00:00",
   "ba7fbf45fd71b550": "2026-10-31T07:21:23.658274+00:00",
@@ -7382,7 +7378,10 @@
   "cfa9cb00d698c4b0": "2026-11-14T07:09:46.845717+00:00",
   "b7a29bea3b72b843": "2026-11-14T07:09:46.845717+00:00",
   "7bcced06ce5cfb0a": "2026-11-14T07:09:46.845717+00:00",
-  "8a1aee1c1240b81a": "2026-11-14T07:09:46.845717+00:00"
+  "8a1aee1c1240b81a": "2026-11-14T07:09:46.845717+00:00",
+  "ff680e6cfc8a47e1": "2026-11-14T07:19:47.695765+00:00",
+  "9d436ecf1df6cb50": "2026-11-14T07:19:47.695765+00:00",
+  "5a0bb5a4253154af": "2026-11-14T07:19:47.695765+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -12641,9 +12640,48 @@
     "FormulaPassion": "Terruzzi: “Leclerc e Hamilton fanno politica. Ma uno è coccolato in Ferrari, l’altro sta sulle balle a tanti”"
    },
    "last": "2026-11-14T07:09:51.697726+00:00"
+  },
+  "S7369": {
+   "title": "Horner casts doubt on returning to F1 paddock",
+   "first": "2026-11-14T07:19:52.042497+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-14T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Christian Horner casts serious doubt over Formula 1 paddock return"
+   },
+   "last": "2026-11-14T07:19:52.042516+00:00"
+  },
+  "S7370": {
+   "title": "Opinion: Madring €544m jackpot and F1's 2026 problems",
+   "first": "2026-11-14T07:19:52.042521+00:00",
+   "sources": {
+    "GPFans": "2026-11-14T07:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "€544m Madring jackpot proves the uncomfortable truth about F1 in 2026"
+   },
+   "last": "2026-11-14T07:19:52.042525+00:00"
+  },
+  "S7371": {
+   "title": "McLaren's 60 years in F1 and the MP4/4 legacy",
+   "first": "2026-11-14T07:19:52.042529+00:00",
+   "sources": {
+    "AS": "2026-11-14T07:08:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "60 años y ¿el mejor coche de la historia?"
+   },
+   "last": "2026-11-14T07:19:52.042532+00:00"
   }
  },
- "story_seq": 7368,
+ "story_seq": 7371,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -12762,32 +12800,12 @@
   ]
  ],
  "calendar_updated": "2026-11-13T23:08:53.665031+00:00",
- "last_run": "2026-11-14T07:09:46.845717+00:00",
+ "last_run": "2026-11-14T07:19:47.695765+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-13 22:00",
  "last_digest_at": "2026-11-13T19:08:51.022727+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-11T07:10:40.209489+00:00",
-   "title": "Vowles: Williams başarıya kapılmıştı, 2026 sadece bir aksaklık",
-   "source": "Sky Sports F1"
-  },
-  {
-   "t": "2026-11-11T07:10:40.631115+00:00",
-   "title": "Verstappen, McLaren için tehdit oluşturuyordu: \"Görüntüleri tekrar izledim\"",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-11T07:10:41.146277+00:00",
-   "title": "Red Bull baş mühendisi Monaghan art arda ikinci yarışı kaçırdı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-11T07:10:41.575025+00:00",
-   "title": "Las Vegas GP erken pazarlarında izlenmesi gereken 3 pilot",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-11T07:20:39.708911+00:00",
    "title": "Hamilton'ın 2030'da hâlâ F1'de olabileceği yönünde anket sonucu",
@@ -13797,6 +13815,16 @@
    "t": "2026-11-14T07:09:57.742455+00:00",
    "title": "Terruzzi: Leclerc ve Hamilton'ın Ferrari'deki durumu farklı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-14T07:19:58.266312+00:00",
+   "title": "McLaren'ın 60 yıllık Dünya Şampiyonası serüveni ve MP4/4",
+   "source": "AS"
+  },
+  {
+   "t": "2026-11-14T07:19:58.606979+00:00",
+   "title": "Horner, F1 paddock'a dönüşü konusunda ciddi şüphe uyandırdı",
+   "source": "RacingNews365"
   }
  ]
 }
