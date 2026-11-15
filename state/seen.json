@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "73dd32bc22a911a9": "2026-11-01T10:35:06.091187+00:00",
   "672a3010040b16de": "2026-11-01T10:55:10.724546+00:00",
   "76a45c8ca04635a1": "2026-11-01T11:25:11.242801+00:00",
   "1f1afc8fe0eda887": "2026-11-01T11:35:11.776339+00:00",
@@ -7027,7 +7026,10 @@
   "63be6924d93794f4": "2026-11-15T10:03:35.288084+00:00",
   "033838235fac4fd2": "2026-11-15T10:13:39.611273+00:00",
   "d9c6369f44946776": "2026-11-15T10:23:34.606516+00:00",
-  "00a9f0c47955ef1d": "2026-11-15T10:33:34.703328+00:00"
+  "00a9f0c47955ef1d": "2026-11-15T10:33:34.703328+00:00",
+  "4e93df3865f907d7": "2026-11-15T10:43:39.659430+00:00",
+  "c54339aefffecc03": "2026-11-15T10:43:39.659430+00:00",
+  "920248bef3c2dae1": "2026-11-15T10:43:39.659430+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7367,45 +7369,6 @@
     "GPblog": "MotoGP legend races against Sebastian Vettel's Red Bull F1 car on snow"
    },
    "last": "2026-11-13T17:38:40.310988+00:00"
-  },
-  "S7165": {
-   "title": "Red Bull wind tunnel to start operating in 2027",
-   "first": "2026-11-13T10:36:49.485654+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-13T10:32:49+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Red Bull: c'è grande attesa per la nuova galleria del vento. Entrerà in funzione nel 2027"
-   },
-   "last": "2026-11-13T10:36:49.485664+00:00"
-  },
-  "S7166": {
-   "title": "Verstappen's Interlagos performances as a recurring pattern",
-   "first": "2026-11-13T10:36:49.485668+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Electrifying Max Verstappen eerily foreshadows stunning F1 streak"
-   },
-   "last": "2026-11-13T10:36:49.485672+00:00"
-  },
-  "S7167": {
-   "title": "Steiner suggests Lawson as McLaren option if Piastri struggles",
-   "first": "2026-11-13T10:36:49.485674+00:00",
-   "sources": {
-    "GPblog": "2026-11-13T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Lawson named as future McLaren option as Piastri receives warning"
-   },
-   "last": "2026-11-13T10:36:49.485677+00:00"
   },
   "S7168": {
    "title": "NHL Tonight preview of Rangers-Canucks and Predators-Golden Knights",
@@ -13680,9 +13643,35 @@
     "GPblog": "Wolff sees F1 history in Hamilton and Verstappen's unforgettable podium moment"
    },
    "last": "2026-11-15T10:33:37.824345+00:00"
+  },
+  "S7646": {
+   "title": "Tremayne remembers Ron Dennis a decade after he left F1",
+   "first": "2026-11-15T10:43:41.673398+00:00",
+   "sources": {
+    "Formula 1": "2026-11-15T10:43:41.673413+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him"
+   },
+   "last": "2026-11-15T10:43:41.673416+00:00"
+  },
+  "S7647": {
+   "title": "Former F1 drivers take on five-way Red Bull challenge video",
+   "first": "2026-11-15T10:43:41.673421+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Former F1 drivers take on staggering five-way Red Bull challenge"
+   },
+   "last": "2026-11-15T10:43:41.673427+00:00"
   }
  },
- "story_seq": 7645,
+ "story_seq": 7647,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13801,7 +13790,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T10:33:34.703328+00:00",
+ "last_run": "2026-11-15T10:43:39.659430+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14866,6 +14855,16 @@
    "t": "2026-11-15T10:33:43.319291+00:00",
    "title": "Wolff: Hamilton ve Verstappen'in podyum anı F1 tarihine geçecek",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-15T10:43:47.164756+00:00",
+   "title": "Eski F1 pilotları Red Bull'un beş kişilik buz pisti yarışına katıldı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-15T10:43:47.658578+00:00",
+   "title": "Ron Dennis F1'den ayrılalı 10 yıl oldu: Tremayne onu özlediğini söylüyor",
+   "source": "Formula 1"
   }
  ]
 }
