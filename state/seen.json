@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f9f9bfc48b5c1018": "2026-11-01T11:45:10.086310+00:00",
-  "e70bf8a4d36744e9": "2026-11-01T11:45:10.086310+00:00",
-  "227a1bab4731228c": "2026-11-01T11:45:10.086310+00:00",
-  "009df3ac241a83d4": "2026-11-01T11:45:10.086310+00:00",
   "15d23ef9809cd619": "2026-11-01T11:55:08.797254+00:00",
   "ba7645306de4aea4": "2026-11-01T11:55:08.797254+00:00",
   "821d638d415301fa": "2026-11-01T12:00:07.452750+00:00",
@@ -6957,7 +6953,9 @@
   "e9212f3a9a427ff8": "2026-11-15T11:34:13.701515+00:00",
   "a9253a7d476176ec": "2026-11-15T11:34:13.701515+00:00",
   "64351c4cb0deb5de": "2026-11-15T11:44:23.273740+00:00",
-  "6a593efdd0d804bc": "2026-11-15T11:44:23.273740+00:00"
+  "6a593efdd0d804bc": "2026-11-15T11:44:23.273740+00:00",
+  "2aed8bbab408c953": "2026-11-15T11:54:14.800760+00:00",
+  "7bc6c301b4f229d5": "2026-11-15T11:54:14.800760+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7278,45 +7276,6 @@
     "GPblog": "MotoGP legend races against Sebastian Vettel's Red Bull F1 car on snow"
    },
    "last": "2026-11-13T17:38:40.310988+00:00"
-  },
-  "S7182": {
-   "title": "NFL Week 10 preview, picks and betting odds",
-   "first": "2026-11-13T11:36:56.439493+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T11:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips"
-   },
-   "last": "2026-11-13T11:46:52.313814+00:00"
-  },
-  "S7185": {
-   "title": "Feature profile of Toto Wolff's rise to nine titles",
-   "first": "2026-11-13T11:46:52.313789+00:00",
-   "sources": {
-    "Formula 1": "2026-11-13T11:46:52.313798+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Toto Wolff's journey from Williams to nine F1 titles"
-   },
-   "last": "2026-11-13T11:46:52.313800+00:00"
-  },
-  "S7186": {
-   "title": "NFL fantasy football deep-league pickups",
-   "first": "2026-11-13T11:46:52.313805+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T11:39:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fantasy football last-minute pickups: Twelve who can help in deep leagues"
-   },
-   "last": "2026-11-13T11:46:52.313809+00:00"
   },
   "S7187": {
    "title": "Fantasy lineup preview: Cousins' Vikings return boosts Jefferson",
@@ -13480,9 +13439,35 @@
     "Motorsport Week": "F1 set to discuss ‘ADUO for teams’ cost cap rule overhaul"
    },
    "last": "2026-11-15T11:34:16.413055+00:00"
+  },
+  "S7656": {
+   "title": "Steelers-Bengals odds and betting tips",
+   "first": "2026-11-15T11:54:17.819424+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T11:42:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Steelers-Bengals odds, analysis, betting tips and recommended props"
+   },
+   "last": "2026-11-15T11:54:17.819445+00:00"
+  },
+  "S7657": {
+   "title": "Red Bull reveals scale of 2026 F1 turnaround",
+   "first": "2026-11-15T11:54:17.819450+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-15T11:47:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Red Bull reveals remarkable scale of F1 2026 turnaround"
+   },
+   "last": "2026-11-15T11:54:17.819454+00:00"
   }
  },
- "story_seq": 7655,
+ "story_seq": 7657,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13601,7 +13586,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T11:44:23.273740+00:00",
+ "last_run": "2026-11-15T11:54:14.800760+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
