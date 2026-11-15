@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7e0861d3cf6402d2": "2026-11-01T17:36:10.668002+00:00",
-  "f7c9ddd352bcc55a": "2026-11-01T17:36:10.668002+00:00",
-  "f09f97bf65ff6f61": "2026-11-01T17:36:10.668002+00:00",
-  "9290d534abb071e4": "2026-11-01T17:41:07.837450+00:00",
   "c891eb134aa0d8e1": "2026-11-01T17:46:08.176981+00:00",
   "70088d0ab83cca6e": "2026-11-01T17:46:08.176981+00:00",
   "2fcae8a95f3fa3d0": "2026-11-01T17:46:08.176981+00:00",
@@ -6918,7 +6914,9 @@
   "121ffb68f0fb9791": "2026-11-15T17:24:44.146449+00:00",
   "8d54dc6af5e307c7": "2026-11-15T17:24:44.146449+00:00",
   "0137281bc4e4c904": "2026-11-15T17:24:44.146449+00:00",
-  "e545737129217873": "2026-11-15T17:34:45.764038+00:00"
+  "e545737129217873": "2026-11-15T17:34:45.764038+00:00",
+  "191ab272d0348426": "2026-11-15T17:45:01.017743+00:00",
+  "53693c365976a708": "2026-11-15T17:45:01.017743+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7114,23 +7112,6 @@
    },
    "last": "2026-11-14T15:51:37.065606+00:00"
   },
-  "S7163": {
-   "title": "Pedrosa races KTM MotoGP bike against F1 car on ice",
-   "first": "2026-11-13T10:26:51.253392+00:00",
-   "sources": {
-    "Crash.net": "2026-11-13T10:15:44+00:00",
-    "RacingNews365 NL": "2026-11-13T16:10:00+00:00",
-    "GPblog": "2026-11-13T17:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice",
-    "RacingNews365 NL": "Red Bull stuurt F1-auto het ijs op tegen MotoGP en rally",
-    "GPblog": "MotoGP legend races against Sebastian Vettel's Red Bull F1 car on snow"
-   },
-   "last": "2026-11-13T17:38:40.310988+00:00"
-  },
   "S7196": {
    "title": "Antonelli to meet President Mattarella at Quirinale",
    "first": "2026-11-13T12:27:38.434931+00:00",
@@ -7191,19 +7172,6 @@
     "AS": "Antonelli le teme a Verstappen"
    },
    "last": "2026-11-14T19:22:09.023307+00:00"
-  },
-  "S7261": {
-   "title": "Ranking Verstappen's three São Paulo GP performances, best verdict",
-   "first": "2026-11-13T17:38:40.310964+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T17:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen victory takes the spoils from sensational hat-trick"
-   },
-   "last": "2026-11-13T17:38:40.310980+00:00"
   },
   "S7262": {
    "title": "FIA promotes World Cup events at Macau Grand Prix",
@@ -11643,14 +11611,16 @@
    "title": "Theory that Hamilton's Mexico City comments were aimed at Ferrari",
    "first": "2026-11-15T05:32:53.979126+00:00",
    "sources": {
-    "RacingNews365": "2026-11-15T05:30:00+00:00"
+    "RacingNews365": "2026-11-15T05:30:00+00:00",
+    "RacingNews365 NL": "2026-11-15T17:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Lewis Hamilton 'message to Italy' theory raised after public Charles Leclerc fallout"
+    "RacingNews365": "Lewis Hamilton 'message to Italy' theory raised after public Charles Leclerc fallout",
+    "RacingNews365 NL": "Brundle ziet achterliggende boodschap in woede Hamilton"
    },
-   "last": "2026-11-15T05:32:53.979132+00:00"
+   "last": "2026-11-15T17:45:04.492181+00:00"
   },
   "S7601": {
    "title": "Sharks 6-5 Mammoth NHL game recap",
@@ -13148,9 +13118,22 @@
     "FormulaPassion": "Wolff è convinto che Antonelli in Italia diventerà più popolare di Schumacher"
    },
    "last": "2026-11-15T17:24:49.236235+00:00"
+  },
+  "S7714": {
+   "title": "Amari Manning in goal for North Carolina (non-F1)",
+   "first": "2026-11-15T17:45:04.492154+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T17:41:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Amari Manning slots in the goal for North Carolina"
+   },
+   "last": "2026-11-15T17:45:04.492172+00:00"
   }
  },
- "story_seq": 7713,
+ "story_seq": 7714,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13269,7 +13252,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T17:34:45.764038+00:00",
+ "last_run": "2026-11-15T17:45:01.017743+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
