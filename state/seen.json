@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3cd4ca9f9ae42f63": "2026-11-01T16:55:35.560588+00:00",
-  "4401be92fbf7580c": "2026-11-01T16:55:35.560588+00:00",
-  "96a5d39e8e96d227": "2026-11-01T16:55:35.560588+00:00",
-  "9e59e8e7ab4ce5fb": "2026-11-01T17:00:34.400107+00:00",
-  "150e77ef3f4a74ed": "2026-11-01T17:00:34.400107+00:00",
-  "d37800e2ee9d971f": "2026-11-01T17:00:34.400107+00:00",
   "a754f84fbc2ecff5": "2026-11-01T17:05:36.678577+00:00",
   "cde6a6719c113879": "2026-11-01T17:05:36.678577+00:00",
   "f0f1c015756b7341": "2026-11-01T17:05:36.678577+00:00",
@@ -6929,7 +6923,10 @@
   "d4aa0fa21224e2c8": "2026-11-15T16:34:44.519366+00:00",
   "ab0504137188f69a": "2026-11-15T16:34:44.519366+00:00",
   "045ed34ec0aeaffc": "2026-11-15T16:44:55.825774+00:00",
-  "2d2efbcad2cfa656": "2026-11-15T16:54:43.519207+00:00"
+  "2d2efbcad2cfa656": "2026-11-15T16:54:43.519207+00:00",
+  "bb08902162581080": "2026-11-15T17:04:44.166859+00:00",
+  "ba74864ae33b4fb6": "2026-11-15T17:04:44.166859+00:00",
+  "f76d742232c0737e": "2026-11-15T17:04:44.166859+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7217,19 +7214,6 @@
     "AS": "Antonelli le teme a Verstappen"
    },
    "last": "2026-11-14T19:22:09.023307+00:00"
-  },
-  "S7250": {
-   "title": "RacingNews365 poll on Ferrari number one driver policy",
-   "first": "2026-11-13T16:57:36.904308+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T16:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Should Ferrari designate a clear number one F1 driver policy?"
-   },
-   "last": "2026-11-13T16:57:36.904315+00:00"
   },
   "S7251": {
    "title": "Rossi swears on daughters over Marquez kick claim",
@@ -12340,14 +12324,16 @@
    "title": "Turkey's track revamp ahead of F1 return",
    "first": "2026-11-15T09:43:37.166337+00:00",
    "sources": {
-    "Autosport": "2026-11-15T09:39:18+00:00"
+    "Autosport": "2026-11-15T09:39:18+00:00",
+    "Motorsport.com Italia": "2026-11-15T16:59:18+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "Inside Turkey’s revamp for the return of a modern F1 classic"
+    "Autosport": "Inside Turkey’s revamp for the return of a modern F1 classic",
+    "Motorsport.com Italia": "F1 | Ecco come Istanbul sta rinnovando il suo circuito per garantirsi un futuro a lungo termine"
    },
-   "last": "2026-11-15T09:43:37.166355+00:00"
+   "last": "2026-11-15T17:04:48.327054+00:00"
   },
   "S7641": {
    "title": "Alonso comments on new Honda project",
@@ -13220,9 +13206,35 @@
     "ESPN F1": "UMBC vs. Towson (Nov 15, 2026) Live Score"
    },
    "last": "2026-11-15T16:44:57.537198+00:00"
+  },
+  "S7707": {
+   "title": "PlanetF1 roundup: Hamilton, F1 sale, Russell crossroads",
+   "first": "2026-11-15T17:04:48.327065+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-15T17:01:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Hamilton ‘causing’ Ferrari saga; F1 tipped for imminent sale; Russell crossroads – roundup"
+   },
+   "last": "2026-11-15T17:04:48.327071+00:00"
+  },
+  "S7708": {
+   "title": "Wolff says no fear of Antonelli leaving for Ferrari",
+   "first": "2026-11-15T17:04:48.327075+00:00",
+   "sources": {
+    "GPFans": "2026-11-15T16:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Toto Wolff makes stunning Kimi Antonelli claim that will shock Ferrari"
+   },
+   "last": "2026-11-15T17:04:48.327079+00:00"
   }
  },
- "story_seq": 7706,
+ "story_seq": 7708,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13341,7 +13353,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T16:54:43.519207+00:00",
+ "last_run": "2026-11-15T17:04:44.166859+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14546,6 +14558,11 @@
    "t": "2026-11-15T16:34:52.674921+00:00",
    "title": "Wolff, Horner'ın F1 şampiyonluğu mesajına saygılı yaklaştı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-15T17:04:53.618336+00:00",
+   "title": "Wolff: Antonelli'nin Ferrari'ye gitmesinden endişe duymuyorum",
+   "source": "GPFans"
   }
  ]
 }
