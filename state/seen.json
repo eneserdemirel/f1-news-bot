@@ -7004,7 +7004,9 @@
   "a89ef49dba3fe0f7": "2026-11-15T07:23:33.019821+00:00",
   "1f5a370abd80e29e": "2026-11-15T07:23:33.019821+00:00",
   "957f0a485f88eb3b": "2026-11-15T07:23:33.019821+00:00",
-  "48c644d91cf95c1f": "2026-11-15T07:33:32.707931+00:00"
+  "48c644d91cf95c1f": "2026-11-15T07:33:32.707931+00:00",
+  "010880ca6c8e0cec": "2026-11-15T07:53:35.601158+00:00",
+  "565954223ddace86": "2026-11-15T07:53:35.601158+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7281,19 +7283,6 @@
     "Motorsport Week": "Lewis Hamilton handed shocking Al Capone comparison in blunt Ferrari verdict"
    },
    "last": "2026-11-13T15:07:38.848985+00:00"
-  },
-  "S7131": {
-   "title": "Filisetti analysis: McLaren's new upgrade key after Norris Brazil win",
-   "first": "2026-11-13T07:46:48.978161+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-13T07:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "McLaren maakt verschil met cruciale upgrade"
-   },
-   "last": "2026-11-13T07:46:48.978172+00:00"
   },
   "S7132": {
    "title": "The Race analysis: Ferrari Leclerc-Hamilton tensions persist despite calm",
@@ -13771,9 +13760,35 @@
     "GPblog": "Why Ferrari must resist calls to make Hamilton their number one"
    },
    "last": "2026-11-15T07:33:35.504014+00:00"
+  },
+  "S7623": {
+   "title": "Zak Brown recalls 'toxic' McLaren working environment in 2016",
+   "first": "2026-11-15T07:53:38.694796+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-15T07:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "McLaren-baas doet boekje open over verleden: \"Giftige werksfeer\""
+   },
+   "last": "2026-11-15T07:53:38.694814+00:00"
+  },
+  "S7624": {
+   "title": "Russell's 15-month career test compared to Rosberg and Ricciardo",
+   "first": "2026-11-15T07:53:38.694819+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-15T07:43:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "George Russell faces career-defining 15 months with either Rosberg or Ricciardo outcome"
+   },
+   "last": "2026-11-15T07:53:38.694824+00:00"
   }
  },
- "story_seq": 7622,
+ "story_seq": 7624,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13892,7 +13907,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T07:43:33.064167+00:00",
+ "last_run": "2026-11-15T07:53:35.601158+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14877,6 +14892,11 @@
    "t": "2026-11-15T07:23:47.347244+00:00",
    "title": "Brundle: Stroll, Aston Martin'in güvenilirlik sorunlarından bunalmış durumda",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-15T07:53:44.177236+00:00",
+   "title": "McLaren CEO'su Zak Brown: Eski dönem \"zehirli bir çalışma ortamıydı\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
