@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2b0484bd70f3ff4d": "2026-11-01T00:03:51.400530+00:00",
-  "49574ead8707cea1": "2026-11-01T00:03:51.400530+00:00",
-  "f512be643085ca15": "2026-11-01T00:03:51.400530+00:00",
-  "4596db460d33cfaa": "2026-11-01T00:08:41.552087+00:00",
   "bfa32cfc08f647aa": "2026-11-01T00:13:39.866952+00:00",
   "fc781ae264f3cbf5": "2026-11-01T00:13:39.866952+00:00",
   "4316dbdc52c9e8ab": "2026-11-01T00:13:39.866952+00:00",
@@ -7045,7 +7041,9 @@
   "29968bbcdf541e07": "2026-11-14T23:52:12.602014+00:00",
   "2181f35616c36a11": "2026-11-14T23:52:12.602014+00:00",
   "c64504a69fe810a9": "2026-11-15T00:02:05.440543+00:00",
-  "d96ab2446d701e95": "2026-11-15T00:02:05.440543+00:00"
+  "d96ab2446d701e95": "2026-11-15T00:02:05.440543+00:00",
+  "85f51ccaac91c5aa": "2026-11-15T00:12:06.622654+00:00",
+  "704d36e31bffc6d8": "2026-11-15T00:12:06.622654+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7398,21 +7396,6 @@
     "ESPN F1": "Rockets' Marcus Smart suspended three games for punch"
    },
    "last": "2026-11-13T03:06:18.842163+00:00"
-  },
-  "S7071": {
-   "title": "Italy 3-1 France match player stats",
-   "first": "2026-11-13T00:05:46.185549+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T20:56:38+00:00",
-    "PlanetF1": "2026-11-13T00:03:40+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Italy 3-1 France (Nov 12, 2026) Player Stats",
-    "PlanetF1": "First Liam Lawson reaction as Racing Bulls makes final F1 2027 decision"
-   },
-   "last": "2026-11-13T00:05:46.185573+00:00"
   },
   "S7072": {
    "title": "NFL Commanders vs Giants Thursday Night Football preview",
@@ -13768,9 +13751,35 @@
     "ESPN F1": "Central Michigan 68-57 Northern Kentucky (Nov 14, 2026) Final Score"
    },
    "last": "2026-11-15T00:02:07.064340+00:00"
+  },
+  "S7553": {
+   "title": "Portugal 1-4 Denmark final score",
+   "first": "2026-11-15T00:12:09.193380+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T20:21:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Portugal 1-4 Denmark (14 Nov, 2026) Final Score"
+   },
+   "last": "2026-11-15T00:12:09.193398+00:00"
+  },
+  "S7554": {
+   "title": "Panthers WR Xavier Legette activated from injured reserve",
+   "first": "2026-11-15T00:12:09.193403+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T18:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR"
+   },
+   "last": "2026-11-15T00:12:09.193407+00:00"
   }
  },
- "story_seq": 7552,
+ "story_seq": 7554,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13889,7 +13898,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T00:02:05.440543+00:00",
+ "last_run": "2026-11-15T00:12:06.622654+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
