@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a56b2f322891e8ff": "2026-11-01T09:40:08.527690+00:00",
   "9b915e1b1cbddf73": "2026-11-01T09:55:04.420468+00:00",
   "bf5da9dbf8495969": "2026-11-01T10:25:06.630319+00:00",
   "977fe0c12e9d1af3": "2026-11-01T10:30:09.362534+00:00",
@@ -7024,7 +7023,9 @@
   "bf65063212e49180": "2026-11-15T09:23:33.230975+00:00",
   "b4086ae76bbb5f21": "2026-11-15T09:23:33.230975+00:00",
   "d7307b500c627ee8": "2026-11-15T09:23:33.230975+00:00",
-  "61b8b67bac02e5b2": "2026-11-15T09:23:33.230975+00:00"
+  "61b8b67bac02e5b2": "2026-11-15T09:23:33.230975+00:00",
+  "c945d3e4bd76a87d": "2026-11-15T09:43:34.818969+00:00",
+  "6356d2a59c53be8c": "2026-11-15T09:43:34.818969+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7364,19 +7365,6 @@
     "Motorsport Week": "FIA confirm F1 ban for Daily Mail journalist over Ferrari spat"
    },
    "last": "2026-11-14T15:51:37.065606+00:00"
-  },
-  "S7153": {
-   "title": "Yorkshire re-sign Hasan Ali on two-year Blast deal",
-   "first": "2026-11-13T09:36:49.216324+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T09:25:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Yorkshire confirm Hasan Ali return on two-year Blast contract"
-   },
-   "last": "2026-11-13T09:36:49.216342+00:00"
   },
   "S7154": {
    "title": "NCAA Season 102 quarterfinal matchups preview",
@@ -13765,9 +13753,35 @@
     "PlanetF1": "McLaren highlights key trait that places Lando Norris among F1’s elite"
    },
    "last": "2026-11-15T09:23:37.836338+00:00"
+  },
+  "S7640": {
+   "title": "Turkey's track revamp ahead of F1 return",
+   "first": "2026-11-15T09:43:37.166337+00:00",
+   "sources": {
+    "Autosport": "2026-11-15T09:39:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Inside Turkey’s revamp for the return of a modern F1 classic"
+   },
+   "last": "2026-11-15T09:43:37.166355+00:00"
+  },
+  "S7641": {
+   "title": "Alonso comments on new Honda project",
+   "first": "2026-11-15T09:43:37.166360+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T09:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Fernando Alonso reveals major Honda F1 move after 'hard lessons'"
+   },
+   "last": "2026-11-15T09:43:37.166365+00:00"
   }
  },
- "story_seq": 7639,
+ "story_seq": 7641,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13886,7 +13900,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T09:33:37.530552+00:00",
+ "last_run": "2026-11-15T09:43:34.818969+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14931,6 +14945,16 @@
    "t": "2026-11-15T09:23:43.377444+00:00",
    "title": "McLaren, Lando Norris'i elit sürücüler arasına koyan adaptasyon yeteneğini vurguluyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-15T09:43:42.257672+00:00",
+   "title": "Türkiye GP, 2027'de F1 takvimine dönüyor; pist yenileniyor",
+   "source": "Autosport"
+  },
+  {
+   "t": "2026-11-15T09:43:42.939849+00:00",
+   "title": "Alonso: Honda 2027 için tamamen yeni bir projeye odaklanıyor",
+   "source": "RacingNews365"
   }
  ]
 }
