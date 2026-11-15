@@ -6986,7 +6986,11 @@
   "71225e1ab29f96c2": "2026-11-15T06:03:39.895222+00:00",
   "68573585654b63f4": "2026-11-15T06:13:37.277210+00:00",
   "471fe4c0e7a2a2bf": "2026-11-15T06:23:34.360199+00:00",
-  "8569341f210de1fa": "2026-11-15T06:23:34.360199+00:00"
+  "8569341f210de1fa": "2026-11-15T06:23:34.360199+00:00",
+  "ebf8057e0c0fa49d": "2026-11-15T06:33:32.873618+00:00",
+  "ac56ea7599395cf6": "2026-11-15T06:33:32.873618+00:00",
+  "89a9573b2053b5aa": "2026-11-15T06:33:32.873618+00:00",
+  "c971138c03ee5840": "2026-11-15T06:33:32.873618+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7217,19 +7221,6 @@
    },
    "last": "2026-11-13T16:07:43.524739+00:00"
   },
-  "S7089": {
-   "title": "Panthers 5-4 Red Wings NHL game recap",
-   "first": "2026-11-13T03:26:18.612940+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T03:17:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Panthers 5-4 Red Wings (13 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-13T06:26:20.282300+00:00"
-  },
   "S7092": {
    "title": "Russia pushes to relocate or cancel world juniors over Canada ban",
    "first": "2026-11-13T03:46:20.294695+00:00",
@@ -7289,19 +7280,6 @@
     "Motorsport Week": "Lewis Hamilton handed shocking Al Capone comparison in blunt Ferrari verdict"
    },
    "last": "2026-11-13T15:07:38.848985+00:00"
-  },
-  "S7121": {
-   "title": "Verstappen names Red Bull factor behind Las Vegas car challenge",
-   "first": "2026-11-13T06:26:20.282311+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T06:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen reveals key Red Bull factor in facing major Las Vegas issue"
-   },
-   "last": "2026-11-13T06:26:20.282317+00:00"
   },
   "S7122": {
    "title": "Bo Horvat scores goal for Islanders",
@@ -12398,7 +12376,7 @@
    "titles": {
     "GPFans": "FSG’s $3bn Cadillac F1 move faces unexpected NASCAR blocker"
    },
-   "last": "2026-11-14T20:02:09.825240+00:00"
+   "last": "2026-11-15T06:33:36.921745+00:00"
   },
   "S7507": {
    "title": "Clemson QB Tait Reynolds suffers leg injury on slide",
@@ -13712,9 +13690,35 @@
     "PlanetF1": "Brundle recalls ‘sniffy’ Toto Wolff text after Christian Horner comment"
    },
    "last": "2026-11-15T06:23:36.615739+00:00"
+  },
+  "S7608": {
+   "title": "Devils 7-4 Capitals NHL game recap",
+   "first": "2026-11-15T06:33:36.921710+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T03:38:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Devils 7-4 Capitals (Nov 14, 2026) Game Recap"
+   },
+   "last": "2026-11-15T06:33:36.921729+00:00"
+  },
+  "S7609": {
+   "title": "Horner reveals unhappiness during Verstappen's dominance years",
+   "first": "2026-11-15T06:33:36.921734+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Christian Horner reveals major unhappiness during Max Verstappen dominance"
+   },
+   "last": "2026-11-15T06:33:36.921739+00:00"
   }
  },
- "story_seq": 7607,
+ "story_seq": 7609,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13833,7 +13837,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T06:23:34.360199+00:00",
+ "last_run": "2026-11-15T06:33:32.873618+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14778,6 +14782,11 @@
    "t": "2026-11-15T06:23:40.532315+00:00",
    "title": "Brundle, Toto Wolff'un eski mesajını ve Horner karşılaştırmasını anlattı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-15T06:33:41.891974+00:00",
+   "title": "Horner, Verstappen dönemindeki hoşnutsuzluğunu anlattı",
+   "source": "RacingNews365"
   }
  ]
 }
