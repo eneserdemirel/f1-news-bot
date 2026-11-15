@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b9f3716d774e662b": "2026-11-01T18:46:06.779602+00:00",
-  "059e989ed8afae53": "2026-11-01T18:51:08.912257+00:00",
-  "2b40c5eeeee50f6e": "2026-11-01T18:51:08.912257+00:00",
-  "26a34ecc8add9612": "2026-11-01T18:51:08.912257+00:00",
-  "a90e67c87523e0a1": "2026-11-01T18:51:08.912257+00:00",
   "8d50c730d5c1029c": "2026-11-01T18:56:06.166621+00:00",
   "447b8716ad242c54": "2026-11-01T19:01:08.847676+00:00",
   "34259eac9d5bd87b": "2026-11-01T19:01:08.847676+00:00",
@@ -6912,7 +6907,12 @@
   "dcc4aeefc7c1d057": "2026-11-15T18:24:50.550581+00:00",
   "77ff500c86d67463": "2026-11-15T18:24:50.550581+00:00",
   "2f6db59d84c8237a": "2026-11-15T18:24:50.550581+00:00",
-  "e5f377097ed4d970": "2026-11-15T18:34:47.258835+00:00"
+  "e5f377097ed4d970": "2026-11-15T18:34:47.258835+00:00",
+  "c1e47e61aea36b98": "2026-11-15T18:54:44.453250+00:00",
+  "63992d62c1dec0f3": "2026-11-15T18:54:44.453250+00:00",
+  "bd6e4a24b7653395": "2026-11-15T18:54:44.453250+00:00",
+  "78a4adb2a6496269": "2026-11-15T18:54:44.453250+00:00",
+  "efe73bc30127d543": "2026-11-15T18:54:44.453250+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7181,32 +7181,6 @@
     "GPblog": "British newspaper boycotts F1 as FIA bans journalist after Leclerc column"
    },
    "last": "2026-11-14T20:22:10.288800+00:00"
-  },
-  "S7276": {
-   "title": "Doug McDermott retires after 12 NBA seasons",
-   "first": "2026-11-13T18:48:37.084482+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T18:42:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ex-lottery pick Doug McDermott retires after 12 NBA seasons"
-   },
-   "last": "2026-11-13T18:48:37.084498+00:00"
-  },
-  "S7277": {
-   "title": "Oregon, Houston headline college football Week 11 uniforms",
-   "first": "2026-11-13T18:48:37.084504+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T16:50:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Oregon, Houston headline best uniforms of college football Week 11"
-   },
-   "last": "2026-11-13T18:48:37.084514+00:00"
   },
   "S7278": {
    "title": "UTSA fires head coach Claunch; Bowman takes over",
@@ -13164,9 +13138,74 @@
     "RacingNews365 NL": "Button verbaasd over toewijding Alonso: \"Weet niet hoe hij het doet\""
    },
    "last": "2026-11-15T18:34:48.816207+00:00"
+  },
+  "S7731": {
+   "title": "Molly O'Riordan hits a three-pointer",
+   "first": "2026-11-15T18:54:48.940048+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T18:49:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Molly O'Riordan drills the trey"
+   },
+   "last": "2026-11-15T18:54:48.940065+00:00"
+  },
+  "S7732": {
+   "title": "Grace O'Gara hits a long-range three-pointer",
+   "first": "2026-11-15T18:54:48.940070+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T18:49:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grace O'Gara hits from way downtown"
+   },
+   "last": "2026-11-15T18:54:48.940075+00:00"
+  },
+  "S7733": {
+   "title": "Qadence Samuels hits a three-pointer",
+   "first": "2026-11-15T18:54:48.940078+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T18:49:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Qadence Samuels nails it from behind the arc"
+   },
+   "last": "2026-11-15T18:54:48.940082+00:00"
+  },
+  "S7734": {
+   "title": "Bruno Guimarães on learning from Declan Rice",
+   "first": "2026-11-15T18:54:48.940085+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T14:46:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal's Bruno Guimarães: Learning a lot from 'machine' Declan Rice"
+   },
+   "last": "2026-11-15T18:54:48.940088+00:00"
+  },
+  "S7735": {
+   "title": "Liam Lawson's father reacts to his 2027 F1 deal",
+   "first": "2026-11-15T18:54:48.940091+00:00",
+   "sources": {
+    "GPFans": "2026-11-15T18:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Liam Lawson's dad makes emotional admission after Kiwi secures F1 future"
+   },
+   "last": "2026-11-15T18:54:48.940094+00:00"
   }
  },
- "story_seq": 7730,
+ "story_seq": 7735,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13285,7 +13324,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T18:45:09.612071+00:00",
+ "last_run": "2026-11-15T18:54:44.453250+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14540,6 +14579,11 @@
    "t": "2026-11-15T18:14:56.264379+00:00",
    "title": "Red Bull, Liam Lawson'ın dönüşünü 'inanılmaz kontrast' sözleriyle övdü",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-15T18:54:52.608551+00:00",
+   "title": "Liam Lawson 2027'de Racing Bulls'ta yarışmaya devam edecek",
+   "source": "GPFans"
   }
  ]
 }
