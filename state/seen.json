@@ -6984,7 +6984,9 @@
   "6ec330ea8fde98ea": "2026-11-15T06:03:39.895222+00:00",
   "8ce7a8c185e61c8d": "2026-11-15T06:03:39.895222+00:00",
   "71225e1ab29f96c2": "2026-11-15T06:03:39.895222+00:00",
-  "68573585654b63f4": "2026-11-15T06:13:37.277210+00:00"
+  "68573585654b63f4": "2026-11-15T06:13:37.277210+00:00",
+  "471fe4c0e7a2a2bf": "2026-11-15T06:23:34.360199+00:00",
+  "8569341f210de1fa": "2026-11-15T06:23:34.360199+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7287,19 +7289,6 @@
     "Motorsport Week": "Lewis Hamilton handed shocking Al Capone comparison in blunt Ferrari verdict"
    },
    "last": "2026-11-13T15:07:38.848985+00:00"
-  },
-  "S7120": {
-   "title": "Canadiens 5-2 Bruins NHL game recap",
-   "first": "2026-11-13T06:16:18.692014+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T03:06:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canadiens 5-2 Bruins (Nov 12, 2026) Game Recap"
-   },
-   "last": "2026-11-13T06:16:18.692033+00:00"
   },
   "S7121": {
    "title": "Verstappen names Red Bull factor behind Las Vegas car challenge",
@@ -13710,9 +13699,22 @@
     "Motorsport-Total": "Abschied bei Red Bull: Max Verstappen verschenkt Senna-Helm in Sao Paulo - Motorsport-Total.com"
    },
    "last": "2026-11-15T06:13:39.322765+00:00"
+  },
+  "S7607": {
+   "title": "Brundle recalls Toto Wolff's 'sniffy' text after Horner comment",
+   "first": "2026-11-15T06:23:36.615721+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-15T06:10:29+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Brundle recalls ‘sniffy’ Toto Wolff text after Christian Horner comment"
+   },
+   "last": "2026-11-15T06:23:36.615739+00:00"
   }
  },
- "story_seq": 7606,
+ "story_seq": 7607,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13831,7 +13833,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T06:13:37.277210+00:00",
+ "last_run": "2026-11-15T06:23:34.360199+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14771,6 +14773,11 @@
    "t": "2026-11-15T06:13:42.268226+00:00",
    "title": "Verstappen, Red Bull'a veda ederken Senna'nın kaskını Sao Paulo'da veriyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-15T06:23:40.532315+00:00",
+   "title": "Brundle, Toto Wolff'un eski mesajını ve Horner karşılaştırmasını anlattı",
+   "source": "PlanetF1"
   }
  ]
 }
