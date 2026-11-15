@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "10d5874858e6ad4c": "2026-11-01T16:35:36.457208+00:00",
-  "b58a95c1b62733e8": "2026-11-01T16:35:36.457208+00:00",
-  "20c32df5011fe935": "2026-11-01T16:40:35.854486+00:00",
-  "a4711080a12e1d17": "2026-11-01T16:40:35.854486+00:00",
   "85edf242aa48d515": "2026-11-01T16:45:39.663986+00:00",
   "9b60e6aea9a67b7b": "2026-11-01T16:45:39.663986+00:00",
   "3cd4ca9f9ae42f63": "2026-11-01T16:55:35.560588+00:00",
@@ -6933,7 +6929,8 @@
   "1f149eecd5e2e7c7": "2026-11-15T16:34:44.519366+00:00",
   "47247c0e71e28a41": "2026-11-15T16:34:44.519366+00:00",
   "d4aa0fa21224e2c8": "2026-11-15T16:34:44.519366+00:00",
-  "ab0504137188f69a": "2026-11-15T16:34:44.519366+00:00"
+  "ab0504137188f69a": "2026-11-15T16:34:44.519366+00:00",
+  "045ed34ec0aeaffc": "2026-11-15T16:44:55.825774+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7004,23 +7001,6 @@
     "GPFans": "F1 Italian GP result could be changed as FIA confirm appeal hearing"
    },
    "last": "2026-11-13T20:58:35.784342+00:00"
-  },
-  "S7040": {
-   "title": "Montoya says Lawson could be next Verstappen",
-   "first": "2026-11-12T22:06:36.736203+00:00",
-   "sources": {
-    "GPFans": "2026-11-12T20:57:00+00:00",
-    "RacingNews365 NL": "2026-11-13T13:45:00+00:00",
-    "GPblog": "2026-11-13T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Liam Lawson 'could be the next Verstappen' as F1 legend makes stunning claim",
-    "RacingNews365 NL": "Montoya bombardeert Lawson tot nieuwe Verstappen: \"Dat zou kunnen\"",
-    "GPblog": "Liam Lawson 'could be the next Max Verstappen' as F1 legend makes bold claim"
-   },
-   "last": "2026-11-13T16:37:39.639095+00:00"
   },
   "S7041": {
    "title": "Wolff reveals he offered to quit Mercedes several times",
@@ -13243,9 +13223,22 @@
     "Motorsport-Total": "David Coulthard: McLaren bevorzugte Mika - und ich verstehe das! - Motorsport-Total.com"
    },
    "last": "2026-11-15T16:34:48.543414+00:00"
+  },
+  "S7706": {
+   "title": "UMBC vs. Towson (Nov 15, 2026) live score",
+   "first": "2026-11-15T16:44:57.537181+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T16:36:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UMBC vs. Towson (Nov 15, 2026) Live Score"
+   },
+   "last": "2026-11-15T16:44:57.537198+00:00"
   }
  },
- "story_seq": 7705,
+ "story_seq": 7706,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13364,7 +13357,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T16:34:44.519366+00:00",
+ "last_run": "2026-11-15T16:44:55.825774+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
