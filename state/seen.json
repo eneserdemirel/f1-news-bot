@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "17b223ed9405ab37": "2026-11-01T13:55:33.344135+00:00",
-  "b3960ceb19c7357d": "2026-11-01T13:55:33.344135+00:00",
-  "40b078929e16edce": "2026-11-01T13:55:33.344135+00:00",
-  "b89d1abfe5d7393e": "2026-11-01T14:00:35.404826+00:00",
   "3217235fc6ff04cf": "2026-11-01T14:05:38.281291+00:00",
   "b97d288160248bca": "2026-11-01T14:10:33.399092+00:00",
   "8d174f6918942e16": "2026-11-01T14:15:37.923737+00:00",
@@ -6921,7 +6917,11 @@
   "d45468d551ef886d": "2026-11-15T13:54:13.074550+00:00",
   "97f80700e9bb3bd5": "2026-11-15T13:54:13.074550+00:00",
   "fa43112b7b267d3b": "2026-11-15T13:54:13.074550+00:00",
-  "e7086c0c09aeb18c": "2026-11-15T13:54:13.074550+00:00"
+  "e7086c0c09aeb18c": "2026-11-15T13:54:13.074550+00:00",
+  "883a018c0b1a3f33": "2026-11-15T14:04:15.581594+00:00",
+  "d862e72637835aac": "2026-11-15T14:04:15.581594+00:00",
+  "f9a1601b6477319b": "2026-11-15T14:04:15.581594+00:00",
+  "d070e826baed486a": "2026-11-15T14:04:15.581594+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7300,32 +7300,6 @@
    },
    "last": "2026-11-13T16:17:43.189546+00:00"
   },
-  "S7216": {
-   "title": "McIlroy and Hatton share Dubai golf lead",
-   "first": "2026-11-13T13:57:38.943144+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T13:24:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rory McIlroy, Tyrrell Hatton share 36-hole lead in Dubai"
-   },
-   "last": "2026-11-13T13:57:38.943165+00:00"
-  },
-  "S7217": {
-   "title": "Lane Kiffin and LSU playoff hopes",
-   "first": "2026-11-13T13:57:38.943172+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:25:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Can Lane Kiffin and LSU save their playoff hopes?"
-   },
-   "last": "2026-11-13T13:57:38.943178+00:00"
-  },
   "S7218": {
    "title": "Antonelli reveals tactic for adapting to new F1 cars",
    "first": "2026-11-13T13:57:38.943182+00:00",
@@ -7340,19 +7314,6 @@
     "FormulaPassion": "Retroscena Antonelli: dietro il titolo un mese non-stop al simulatore"
    },
    "last": "2026-11-13T16:17:43.189562+00:00"
-  },
-  "S7219": {
-   "title": "Hadjar admits Red Bull's post-Marko era changes",
-   "first": "2026-11-13T13:57:38.943197+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-13T13:53:19+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Isack Hadjar makes honest Red Bull admission in post-Marko era"
-   },
-   "last": "2026-11-13T13:57:38.943202+00:00"
   },
   "S7220": {
    "title": "Claire Williams backs James Vowles and Dorilton Capital at Williams",
@@ -12891,7 +12852,8 @@
     "RacingNews365 NL": "2026-11-15T10:00:00+00:00",
     "GPFans": "2026-11-15T09:57:00+00:00",
     "PlanetF1": "2026-11-15T10:58:04+00:00",
-    "AS": "2026-11-15T11:00:21+00:00"
+    "AS": "2026-11-15T11:00:21+00:00",
+    "Motorsport Week": "2026-11-15T13:40:27+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12899,9 +12861,10 @@
     "RacingNews365 NL": "Button verklaart twijfels over F1-toekomst Alonso",
     "GPFans": "Aston Martin figure admits doubts over Fernando Alonso F1 future",
     "PlanetF1": "Button claims Fernando Alonso ‘little bit of doubt’ ahead of Aston Martin extension",
-    "AS": "Alonso no tiene explicación"
+    "AS": "Alonso no tiene explicación",
+    "Motorsport Week": "Jenson Button makes honest admission over Fernando Alonso F1 future"
    },
-   "last": "2026-11-15T11:14:21.046010+00:00"
+   "last": "2026-11-15T14:04:19.082745+00:00"
   },
   "S7643": {
    "title": "Enrico Zanarini reflects on five decades in motorsport and F1",
@@ -13372,9 +13335,48 @@
     "RacingNews365": "Sergio Perez shares 'key' ingredient in clear demand over Cadillac team-mate"
    },
    "last": "2026-11-15T13:54:16.063415+00:00"
+  },
+  "S7679": {
+   "title": "Raiders plan to start Fernando Mendoza regardless of Cousins trade",
+   "first": "2026-11-15T14:04:19.082726+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T12:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade"
+   },
+   "last": "2026-11-15T14:04:19.082739+00:00"
+  },
+  "S7680": {
+   "title": "Rosberg says Michael Schumacher declined in Mercedes comeback",
+   "first": "2026-11-15T14:04:19.082748+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-15T14:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Michael Schumacher ‘worse at’ theory in Mercedes F1 comeback presented by Rosberg"
+   },
+   "last": "2026-11-15T14:04:19.082751+00:00"
+  },
+  "S7681": {
+   "title": "Vasseur details peace talks between Hamilton and Leclerc in Brazil",
+   "first": "2026-11-15T14:04:19.082753+00:00",
+   "sources": {
+    "Crash.net": "2026-11-15T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Has Ferrari solved its Lewis Hamilton-Charles Leclerc problem? Fred Vasseur shares peace talk details"
+   },
+   "last": "2026-11-15T14:04:19.082756+00:00"
   }
  },
- "story_seq": 7678,
+ "story_seq": 7681,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13493,7 +13495,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T13:54:13.074550+00:00",
+ "last_run": "2026-11-15T14:04:15.581594+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14648,6 +14650,16 @@
    "t": "2026-11-15T13:54:19.760439+00:00",
    "title": "Perez, Cadillac takım arkadaşında aradığı 'anahtar' özelliği açıkladı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-15T14:04:24.756280+00:00",
+   "title": "Ferrari'de Hamilton-Leclerc gerilimi: Vasseur görüşmenin detaylarını paylaştı",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-15T14:04:25.154229+00:00",
+   "title": "Rosberg: Schumacher'in zayıf yanı uyum sağlamaydı, ama zihin oyunlarında çok iyiydi",
+   "source": "PlanetF1"
   }
  ]
 }
