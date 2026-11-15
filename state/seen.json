@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a754f84fbc2ecff5": "2026-11-01T17:05:36.678577+00:00",
-  "cde6a6719c113879": "2026-11-01T17:05:36.678577+00:00",
-  "f0f1c015756b7341": "2026-11-01T17:05:36.678577+00:00",
-  "1648ffea5cecd110": "2026-11-01T17:10:37.245792+00:00",
-  "2bd7461a3a2f0db6": "2026-11-01T17:10:37.245792+00:00",
-  "ca99a2bddd282155": "2026-11-01T17:10:37.245792+00:00",
-  "4693930660020e47": "2026-11-01T17:10:37.245792+00:00",
   "0067bdcf9c7b9f8e": "2026-11-01T17:15:36.697930+00:00",
   "d76338455fc115c1": "2026-11-01T17:15:36.697930+00:00",
   "a478d7fd01c260b2": "2026-11-01T17:20:32.752722+00:00",
@@ -6926,7 +6919,9 @@
   "2d2efbcad2cfa656": "2026-11-15T16:54:43.519207+00:00",
   "bb08902162581080": "2026-11-15T17:04:44.166859+00:00",
   "ba74864ae33b4fb6": "2026-11-15T17:04:44.166859+00:00",
-  "f76d742232c0737e": "2026-11-15T17:04:44.166859+00:00"
+  "f76d742232c0737e": "2026-11-15T17:04:44.166859+00:00",
+  "25c9fb60279a5b86": "2026-11-15T17:14:45.787503+00:00",
+  "8edb140617ac1942": "2026-11-15T17:14:45.787503+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7045,21 +7040,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7080": {
-   "title": "Quote that Max would cause the most problems",
-   "first": "2026-11-13T01:36:05.763720+00:00",
-   "sources": {
-    "GPblog": "2026-11-12T22:03:22+00:00",
-    "RacingNews365 NL": "2026-11-13T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "'If I have to choose one driver, I'd say Max, the one who might cause the most problems'",
-    "RacingNews365 NL": "'Meedogenloze' Verstappen dé oplossing voor Ferrari? \"Je weet hoe Max is\""
-   },
-   "last": "2026-11-13T17:07:37.706467+00:00"
   },
   "S7134": {
    "title": "Antonelli autographed card sells for $878,400 at auction",
@@ -7214,19 +7194,6 @@
     "AS": "Antonelli le teme a Verstappen"
    },
    "last": "2026-11-14T19:22:09.023307+00:00"
-  },
-  "S7251": {
-   "title": "Rossi swears on daughters over Marquez kick claim",
-   "first": "2026-11-13T17:07:37.706479+00:00",
-   "sources": {
-    "GPblog": "2026-11-13T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Valentino Rossi swears on his daughters over Marc Marquez kick accusation"
-   },
-   "last": "2026-11-13T17:07:37.706486+00:00"
   },
   "S7252": {
    "title": "Piastri reflects on tough 2026 season and future growth",
@@ -13232,9 +13199,35 @@
     "GPFans": "Toto Wolff makes stunning Kimi Antonelli claim that will shock Ferrari"
    },
    "last": "2026-11-15T17:04:48.327079+00:00"
+  },
+  "S7709": {
+   "title": "Mark Sutton photo feature on Antonelli's title triumph",
+   "first": "2026-11-15T17:14:47.827629+00:00",
+   "sources": {
+    "Formula 1": "2026-11-15T17:14:47.827644+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Behind the lens with Mark Sutton for Antonelli's F1 title triumph"
+   },
+   "last": "2026-11-15T17:14:47.827647+00:00"
+  },
+  "S7710": {
+   "title": "NBA fantasy basketball adds and betting picks",
+   "first": "2026-11-15T17:14:47.827652+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T15:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sunday's fantasy basketball adds and bets to make in the NBA"
+   },
+   "last": "2026-11-15T17:14:47.827657+00:00"
   }
  },
- "story_seq": 7708,
+ "story_seq": 7710,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13353,7 +13346,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T17:04:44.166859+00:00",
+ "last_run": "2026-11-15T17:14:45.787503+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14563,6 +14556,11 @@
    "t": "2026-11-15T17:04:53.618336+00:00",
    "title": "Wolff: Antonelli'nin Ferrari'ye gitmesinden endişe duymuyorum",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-15T17:14:52.302967+00:00",
+   "title": "Mark Sutton, Antonelli'nin F1 şampiyonluğunu ve Monza zaferini anlatıyor",
+   "source": "Formula 1"
   }
  ]
 }
