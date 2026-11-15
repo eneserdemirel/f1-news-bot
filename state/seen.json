@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cbf0c4e179f6eeb5": "2026-11-01T17:56:09.636454+00:00",
-  "03a43caa7e583fa9": "2026-11-01T17:56:09.636454+00:00",
-  "724dd787947f9205": "2026-11-01T17:56:09.636454+00:00",
-  "dfacb3c5ba31db25": "2026-11-01T18:01:06.390360+00:00",
-  "9c97fc336d71d86b": "2026-11-01T18:01:06.390360+00:00",
-  "5b0790a42eb2f777": "2026-11-01T18:01:06.390360+00:00",
-  "6c3639be71012576": "2026-11-01T18:01:06.390360+00:00",
   "a3a48c50817b2b07": "2026-11-01T18:06:08.952762+00:00",
   "a17c7c64b2b73191": "2026-11-01T18:06:08.952762+00:00",
   "d0a701127b614805": "2026-11-01T18:16:09.004513+00:00",
@@ -6915,7 +6908,15 @@
   "53693c365976a708": "2026-11-15T17:45:01.017743+00:00",
   "ca2e5ac63828fce5": "2026-11-15T17:54:46.120965+00:00",
   "a8b5afbd7d2734c6": "2026-11-15T17:54:46.120965+00:00",
-  "a5575c6a8f327c17": "2026-11-15T17:54:46.120965+00:00"
+  "a5575c6a8f327c17": "2026-11-15T17:54:46.120965+00:00",
+  "4b3541de976007ce": "2026-11-15T18:04:45.453859+00:00",
+  "6a618a79884e1306": "2026-11-15T18:04:45.453859+00:00",
+  "5549b90cb8e64e70": "2026-11-15T18:04:45.453859+00:00",
+  "205454a0a8404277": "2026-11-15T18:04:45.453859+00:00",
+  "69488cc73d3761b5": "2026-11-15T18:04:45.453859+00:00",
+  "e51d5dc857cf3ea5": "2026-11-15T18:04:45.453859+00:00",
+  "c132002c6fcec416": "2026-11-15T18:04:45.453859+00:00",
+  "e9e7dde14da68806": "2026-11-15T18:04:45.453859+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10711,14 +10712,16 @@
    "title": "Red Bull frozen lake showdown with F1 car, MotoGP bike, rally car",
    "first": "2026-11-14T22:02:13.777355+00:00",
    "sources": {
-    "GPblog": "2026-11-14T22:01:00+00:00"
+    "GPblog": "2026-11-14T22:01:00+00:00",
+    "AS": "2026-11-15T17:44:05+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Red Bull F1 driver stunned by MotoGP legend in spectacular winter race"
+    "GPblog": "Red Bull F1 driver stunned by MotoGP legend in spectacular winter race",
+    "AS": "Pedrosa gana la carrera más loca de su vida"
    },
-   "last": "2026-11-14T22:02:13.777411+00:00"
+   "last": "2026-11-15T18:04:52.784930+00:00"
   },
   "S7534": {
    "title": "Allison praises Russell's handling of difficult season",
@@ -13130,9 +13133,87 @@
     "ESPN F1": "Aston Villa vs. Birmingham (Nov 15, 2026) Team Stats"
    },
    "last": "2026-11-15T17:54:49.301813+00:00"
+  },
+  "S7717": {
+   "title": "NFL Week 10 takeaways, questions and fantasy spin",
+   "first": "2026-11-15T18:04:52.784874+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T18:03:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games"
+   },
+   "last": "2026-11-15T18:04:52.784892+00:00"
+  },
+  "S7718": {
+   "title": "Jackson State vs. Alabama State full highlights",
+   "first": "2026-11-15T18:04:52.784897+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T18:02:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jackson State Tigers vs. Alabama State Hornets: Full Highlights"
+   },
+   "last": "2026-11-15T18:04:52.784901+00:00"
+  },
+  "S7719": {
+   "title": "Audi FIA appeal could reshape 2026 championships after Italian GP",
+   "first": "2026-11-15T18:04:52.784905+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "How Audi's FIA appeal could reshape both F1 championships months later"
+   },
+   "last": "2026-11-15T18:04:52.784909+00:00"
+  },
+  "S7720": {
+   "title": "Bearman sends Ferrari message amid Hamilton succession talk",
+   "first": "2026-11-15T18:04:52.784911+00:00",
+   "sources": {
+    "GPFans": "2026-11-15T17:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Bearman sends Ferrari message as Lewis Hamilton succession talk gathers pace"
+   },
+   "last": "2026-11-15T18:04:52.784915+00:00"
+  },
+  "S7721": {
+   "title": "Gazzetta comparison of teammate rivalries at top teams",
+   "first": "2026-11-15T18:04:52.784917+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-15T18:00:09+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Antonelli domina, in Ferrari regna l'equilibrio: il confronto tra compagni di squadra nei top team"
+   },
+   "last": "2026-11-15T18:04:52.784920+00:00"
+  },
+  "S7722": {
+   "title": "Mercedes technical chief explains Antonelli's 2026 speed over Russell",
+   "first": "2026-11-15T18:04:52.784923+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-15T18:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mercedes-Technikchef klärt auf: Darum war Antonelli 2026 schneller als Russell - Motorsport-Total.com"
+   },
+   "last": "2026-11-15T18:04:52.784926+00:00"
   }
  },
- "story_seq": 7716,
+ "story_seq": 7722,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13251,7 +13332,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T17:54:46.120965+00:00",
+ "last_run": "2026-11-15T18:04:45.453859+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14476,6 +14557,26 @@
    "t": "2026-11-15T17:24:56.151904+00:00",
    "title": "Wolff: Antonelli İtalya'da Schumacher'den daha popüler olacak",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-15T18:04:58.947438+00:00",
+   "title": "Bearman, Ferrari'ye mesaj gönderdi; Hamilton halefi tartışmaları hız kazandı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-15T18:04:59.345210+00:00",
+   "title": "Audi'nin FIA itirazı, Monza sonuçlarını ve şampiyonaları değiştirebilir",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-15T18:04:59.684092+00:00",
+   "title": "Mercedes teknik direktörü açıkladı: Antonelli 2026'da Russell'dan neden hızlıydı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-15T18:05:00.045188+00:00",
+   "title": "Antonelli dominant, Ferrari'de takım arkadaşları dengede",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
