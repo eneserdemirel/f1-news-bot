@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ae337df6a8256b09": "2026-11-01T16:05:33.400347+00:00",
-  "d735ef6b450a20b4": "2026-11-01T16:05:33.400347+00:00",
-  "7ed8c54b08679437": "2026-11-01T16:10:35.248450+00:00",
-  "6a8617ee510eaf4c": "2026-11-01T16:10:35.248450+00:00",
   "a2a4e29415daea0f": "2026-11-01T16:15:34.143353+00:00",
   "f0fdf55db7c05583": "2026-11-01T16:20:35.668940+00:00",
   "4e98b3e6ccfa75bf": "2026-11-01T16:30:36.835359+00:00",
@@ -6933,7 +6929,10 @@
   "220616190f9cf389": "2026-11-15T15:54:14.643970+00:00",
   "1cf3fc48f8f641be": "2026-11-15T15:54:42.327134+00:00",
   "bdc842cc253b9852": "2026-11-15T16:04:44.184455+00:00",
-  "39c9f4a79e3f3029": "2026-11-15T16:04:44.184455+00:00"
+  "39c9f4a79e3f3029": "2026-11-15T16:04:44.184455+00:00",
+  "c5d62f56dcec4883": "2026-11-15T16:14:46.366455+00:00",
+  "acba1dc449594ba3": "2026-11-15T16:14:46.366455+00:00",
+  "22b9028a497c5027": "2026-11-15T16:14:46.366455+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7084,19 +7083,6 @@
     "RacingNews365 NL": "'Meedogenloze' Verstappen dé oplossing voor Ferrari? \"Je weet hoe Max is\""
    },
    "last": "2026-11-13T17:07:37.706467+00:00"
-  },
-  "S7082": {
-   "title": "Empty Motorsport-Total item with no content",
-   "first": "2026-11-13T02:06:19.883121+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-13T00:31:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "- Motorsport-Total.com"
-   },
-   "last": "2026-11-13T16:07:43.524739+00:00"
   },
   "S7134": {
    "title": "Antonelli autographed card sells for $878,400 at auction",
@@ -7277,123 +7263,6 @@
     "FormulaPassion": "Retroscena Antonelli: dietro il titolo un mese non-stop al simulatore"
    },
    "last": "2026-11-13T16:17:43.189562+00:00"
-  },
-  "S7235": {
-   "title": "Lamar Jackson's return timeline after thumb surgery",
-   "first": "2026-11-13T15:27:40.136771+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T14:52:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Will Lamar Jackson be able to return this season after thumb surgery?"
-   },
-   "last": "2026-11-13T16:07:43.524660+00:00"
-  },
-  "S7239": {
-   "title": "Space Jam at 30: Jordan and Bugs Bunny legacy",
-   "first": "2026-11-13T16:07:43.524671+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michael Jordan, Bugs Bunny and the lasting legacy of 'Space Jam' at 30"
-   },
-   "last": "2026-11-13T16:07:43.524678+00:00"
-  },
-  "S7240": {
-   "title": "UFC 334 preview and picks",
-   "first": "2026-11-13T16:07:43.524683+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes"
-   },
-   "last": "2026-11-13T16:07:43.524688+00:00"
-  },
-  "S7241": {
-   "title": "Free agency lessons from 2026 MLB GM meetings",
-   "first": "2026-11-13T16:07:43.524692+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What's new in free agency? Lessons from 2026 MLB GM meetings"
-   },
-   "last": "2026-11-13T16:07:43.524696+00:00"
-  },
-  "S7242": {
-   "title": "Pochettino emotional over leaving USMNT job",
-   "first": "2026-11-13T16:07:43.524700+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tearful Pochettino on USMNT exit: 'Toughest decision of my career'"
-   },
-   "last": "2026-11-13T16:07:43.524703+00:00"
-  },
-  "S7243": {
-   "title": "Jordan Love and Mendoza NFL column",
-   "first": "2026-11-13T16:07:43.524706+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T11:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Don't be surprised if Jordan Love makes history and Mendoza performs like a QB1"
-   },
-   "last": "2026-11-13T16:07:43.524710+00:00"
-  },
-  "S7244": {
-   "title": "Donovan Mitchell and Cavs future column",
-   "first": "2026-11-13T16:07:43.524714+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T11:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Donovan Mitchell's renewed faith in Cleveland fuels the Cavs' future"
-   },
-   "last": "2026-11-13T16:07:43.524718+00:00"
-  },
-  "S7245": {
-   "title": "Analysis of Lawson's Racing Bulls contract renewal",
-   "first": "2026-11-13T16:07:43.524720+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-13T16:02:29+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | La rinvicità di Lawson è nei numeri: è un rinnovo meritato che mette tutti d'accordo"
-   },
-   "last": "2026-11-13T16:07:43.524725+00:00"
-  },
-  "S7246": {
-   "title": "Wolff shares his most important life lesson",
-   "first": "2026-11-13T16:07:43.524728+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-13T16:02:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Bei Mercedes gelernt: Toto Wolff verrät seine wichtigste Lebensweisheit - Motorsport-Total.com"
-   },
-   "last": "2026-11-13T16:07:43.524733+00:00"
   },
   "S7247": {
    "title": "Oklahoma adds Kamieon Compton-Nero to 2028 recruiting class",
@@ -13298,14 +13167,14 @@
    "title": "Drake Maye and Aidan Hutchinson injured in Munich game",
    "first": "2026-11-15T15:44:48.091435+00:00",
    "sources": {
-    "ESPN F1": "2026-11-15T15:33:45+00:00"
+    "ESPN F1": "2026-11-15T15:28:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same play in Munich"
    },
-   "last": "2026-11-15T15:44:48.091437+00:00"
+   "last": "2026-11-15T16:14:49.151054+00:00"
   },
   "S7697": {
    "title": "NFL referees double shifts after FAA ground stop",
@@ -13358,9 +13227,35 @@
     "ESPN F1": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027"
    },
    "last": "2026-11-15T15:54:44.078908+00:00"
+  },
+  "S7701": {
+   "title": "Devon Levi hockey connection and Russell Crowe praise",
+   "first": "2026-11-15T16:14:49.151027+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T15:49:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Devon Levi's connection with the ice leads to Russell Crowe praise"
+   },
+   "last": "2026-11-15T16:14:49.151045+00:00"
+  },
+  "S7702": {
+   "title": "Antonelli meets Italian President Mattarella after title win",
+   "first": "2026-11-15T16:14:49.151058+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-15T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Kimi Antonelli continues F1 title celebrations with special presidential meeting"
+   },
+   "last": "2026-11-15T16:14:49.151062+00:00"
   }
  },
- "story_seq": 7700,
+ "story_seq": 7702,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13479,7 +13374,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T16:04:44.184455+00:00",
+ "last_run": "2026-11-15T16:14:46.366455+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
