@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b61d102718349648": "2026-11-01T13:15:42.754775+00:00",
-  "cabf5fcd9c2a91ac": "2026-11-01T13:20:33.757344+00:00",
   "032fe7120f170db0": "2026-11-01T13:25:38.455193+00:00",
   "4b659e20c020281d": "2026-11-01T13:25:38.455193+00:00",
   "67c752259ed704e0": "2026-11-01T13:31:04.029591+00:00",
@@ -6961,7 +6959,8 @@
   "95121be5430d6b16": "2026-11-15T13:04:12.818504+00:00",
   "a6ad66b44c242668": "2026-11-15T13:14:14.202034+00:00",
   "812e06d97b106329": "2026-11-15T13:14:14.202034+00:00",
-  "67e172aa9a257139": "2026-11-15T13:14:14.202034+00:00"
+  "67e172aa9a257139": "2026-11-15T13:14:14.202034+00:00",
+  "537837f9ba719e7c": "2026-11-15T13:24:13.002101+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7339,32 +7338,6 @@
     "GPblog": "Antonelli visibly moved as Italy fans salute F1 world champion"
    },
    "last": "2026-11-14T12:50:43.089206+00:00"
-  },
-  "S7207": {
-   "title": "UConn men's basketball searching for identity after 3-1 start",
-   "first": "2026-11-13T13:17:37.813315+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T13:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UConn, Strong still searching for identity amid 3-1 start to season"
-   },
-   "last": "2026-11-13T13:17:37.813335+00:00"
-  },
-  "S7208": {
-   "title": "George Russell launches new kart academy programme",
-   "first": "2026-11-13T13:17:37.813342+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-13T13:03:13+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "Formel 1: Förderprogramm: So funktioniert George Russells neue Kart-Akademie"
-   },
-   "last": "2026-11-13T13:17:37.813348+00:00"
   },
   "S7209": {
    "title": "Verstappen's podiums from 18 different grid positions stat",
@@ -13436,9 +13409,22 @@
     "Motorsport-Total": "James Vowles: Warum der Williams-Rückschlag 2026 sogar positiv ist - Motorsport-Total.com"
    },
    "last": "2026-11-15T13:14:17.898436+00:00"
+  },
+  "S7672": {
+   "title": "Toto Wolff reacts to matching Ron Dennis and Frank Williams milestones",
+   "first": "2026-11-15T13:24:15.150598+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-15T13:20:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Toto Wolff reacts as Ron Dennis and Sir Frank Williams F1 landmarks achieved"
+   },
+   "last": "2026-11-15T13:24:15.150619+00:00"
   }
  },
- "story_seq": 7671,
+ "story_seq": 7672,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13557,7 +13543,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T13:14:14.202034+00:00",
+ "last_run": "2026-11-15T13:24:13.002101+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14692,6 +14678,11 @@
    "t": "2026-11-15T13:14:19.985134+00:00",
    "title": "James Vowles: Williams'ın 2026'daki gerilemesi aslında olumlu",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-15T13:24:18.969544+00:00",
+   "title": "Toto Wolff, Williams ve Dennis'in rekor sayılarına eşitlendi",
+   "source": "PlanetF1"
   }
  ]
 }
