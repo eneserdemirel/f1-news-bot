@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bd29fa83ee23251d": "2026-11-01T06:54:29.120269+00:00",
   "3784176c3faf5116": "2026-11-01T07:55:06.293684+00:00",
   "45d1ebe45e19b2e1": "2026-11-01T08:30:08.423025+00:00",
   "aac9fdd125c290d5": "2026-11-01T08:50:07.769058+00:00",
@@ -6991,7 +6990,10 @@
   "ac56ea7599395cf6": "2026-11-15T06:33:32.873618+00:00",
   "89a9573b2053b5aa": "2026-11-15T06:33:32.873618+00:00",
   "c971138c03ee5840": "2026-11-15T06:33:32.873618+00:00",
-  "99d35312fdb062d3": "2026-11-15T06:43:35.326448+00:00"
+  "99d35312fdb062d3": "2026-11-15T06:43:35.326448+00:00",
+  "899e558795c53b92": "2026-11-15T07:03:33.369898+00:00",
+  "87028185aae58fc7": "2026-11-15T07:03:33.369898+00:00",
+  "4d610b2a8597dd2b": "2026-11-15T07:03:33.369898+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13717,9 +13719,48 @@
     "ESPN F1": "Utah vs. Arizona (15 Nov, 2026) Live Score"
    },
    "last": "2026-11-15T06:43:37.192813+00:00"
+  },
+  "S7611": {
+   "title": "UFC 337 live fight coverage",
+   "first": "2026-11-15T07:03:36.762125+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T04:57:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UFC 337 Live Fight Coverage"
+   },
+   "last": "2026-11-15T07:03:36.762142+00:00"
+  },
+  "S7612": {
+   "title": "Red Bull embroiled in crucial prize-money battle in final triple-header",
+   "first": "2026-11-15T07:03:36.762147+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-15T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull verwikkeld in cruciale miljoenenstrijd"
+   },
+   "last": "2026-11-15T07:03:36.762152+00:00"
+  },
+  "S7613": {
+   "title": "Explainer on new wheel-to-wheel rules and when overtakes are illegal",
+   "first": "2026-11-15T07:03:36.762155+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-15T05:57:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Neue Zweikampf-Regeln - Wann ist ein Überholmanöver illegal?"
+   },
+   "last": "2026-11-15T07:03:36.762159+00:00"
   }
  },
- "story_seq": 7610,
+ "story_seq": 7613,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13838,7 +13879,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T06:53:35.151226+00:00",
+ "last_run": "2026-11-15T07:03:33.369898+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14788,6 +14829,16 @@
    "t": "2026-11-15T06:33:41.891974+00:00",
    "title": "Horner, Verstappen dönemindeki hoşnutsuzluğunu anlattı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-15T07:03:42.333234+00:00",
+   "title": "F1'de yeni düello kuralları: Hangi overtake yasa dışı sayılır?",
+   "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-15T07:03:42.820271+00:00",
+   "title": "Red Bull, 2026 sezonunda kritik milyon dolarlık mücadelenin ortasında",
+   "source": "RacingNews365 NL"
   }
  ]
 }
