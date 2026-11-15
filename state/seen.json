@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8805d8359baf98a1": "2026-11-01T05:24:23.431656+00:00",
-  "37cac5c91bab40e9": "2026-11-01T05:29:30.468981+00:00",
-  "5c9ed859ce8d45c5": "2026-11-01T05:29:30.468981+00:00",
   "cae7dcff69b883c0": "2026-11-01T05:34:23.194582+00:00",
   "50db00b98829ed7d": "2026-11-01T05:34:23.194582+00:00",
   "a7e5d4b90abe5606": "2026-11-01T05:49:27.696913+00:00",
@@ -6986,7 +6983,9 @@
   "fece9d461c07c445": "2026-11-15T04:42:50.477935+00:00",
   "9347e5b2eabea119": "2026-11-15T05:02:50.414468+00:00",
   "b03878c8f9568637": "2026-11-15T05:12:50.081058+00:00",
-  "1e1495b1887a578a": "2026-11-15T05:12:50.081058+00:00"
+  "1e1495b1887a578a": "2026-11-15T05:12:50.081058+00:00",
+  "83cd79b33aff18ab": "2026-11-15T05:32:49.810851+00:00",
+  "a193dca260a92659": "2026-11-15T05:32:49.810851+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13792,9 +13791,35 @@
     "ESPN F1": "Sayers backs Khawaja's claims on sandpaper, goes against Cummins"
    },
    "last": "2026-11-15T05:12:51.869306+00:00"
+  },
+  "S7599": {
+   "title": "Little Rock 84-83 Northwestern State final score",
+   "first": "2026-11-15T05:32:53.979104+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T01:21:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Little Rock 84-83 Northwestern State (Nov 14, 2026) Final Score"
+   },
+   "last": "2026-11-15T05:32:53.979120+00:00"
+  },
+  "S7600": {
+   "title": "Theory that Hamilton's Mexico City comments were aimed at Ferrari",
+   "first": "2026-11-15T05:32:53.979126+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T05:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton 'message to Italy' theory raised after public Charles Leclerc fallout"
+   },
+   "last": "2026-11-15T05:32:53.979132+00:00"
   }
  },
- "story_seq": 7598,
+ "story_seq": 7600,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13913,7 +13938,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T05:22:49.429328+00:00",
+ "last_run": "2026-11-15T05:32:49.810851+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14838,6 +14863,11 @@
    "t": "2026-11-15T04:12:57.759133+00:00",
    "title": "Ralf Schumacher: Hamilton Leclerc'ten hızlı değil, sorunu o yaratıyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-15T05:33:00.215387+00:00",
+   "title": "Hamilton'ın Leclerc sonrası \"İtalya'ya mesaj\" yorumları tartışılıyor",
+   "source": "RacingNews365"
   }
  ]
 }
