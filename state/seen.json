@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a3a48c50817b2b07": "2026-11-01T18:06:08.952762+00:00",
-  "a17c7c64b2b73191": "2026-11-01T18:06:08.952762+00:00",
   "d0a701127b614805": "2026-11-01T18:16:09.004513+00:00",
   "c282ccbb6478adab": "2026-11-01T18:16:09.004513+00:00",
   "85c13d429e75e3c1": "2026-11-01T18:16:09.004513+00:00",
@@ -6916,7 +6914,11 @@
   "69488cc73d3761b5": "2026-11-15T18:04:45.453859+00:00",
   "e51d5dc857cf3ea5": "2026-11-15T18:04:45.453859+00:00",
   "c132002c6fcec416": "2026-11-15T18:04:45.453859+00:00",
-  "e9e7dde14da68806": "2026-11-15T18:04:45.453859+00:00"
+  "e9e7dde14da68806": "2026-11-15T18:04:45.453859+00:00",
+  "bf200fe0d0714439": "2026-11-15T18:14:47.709096+00:00",
+  "f16774c27a2d269e": "2026-11-15T18:14:47.709096+00:00",
+  "b4cb3f873548cdf9": "2026-11-15T18:14:47.709096+00:00",
+  "e4bdacd5080e2e9a": "2026-11-15T18:14:47.709096+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7035,21 +7037,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7134": {
-   "title": "Antonelli autographed card sells for $878,400 at auction",
-   "first": "2026-11-13T07:56:56.574616+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-13T07:00:00+00:00",
-    "GPblog": "2026-11-13T18:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Esplode la ‘Kimi-Mania’: Topps vende la carta autografata da Antonelli a 878.400 dollari",
-    "GPblog": "Antonelli mania hits new heights as F1 collectible sells for almost $1 million"
-   },
-   "last": "2026-11-13T18:08:37.740064+00:00"
   },
   "S7135": {
    "title": "Red Bull's plans for reserve driver Nikola Tsolov explored",
@@ -7200,32 +7187,6 @@
     "ESPN F1": "Canada, Finland advance to women's hockey worlds semifinals"
    },
    "last": "2026-11-14T05:59:52.328188+00:00"
-  },
-  "S7266": {
-   "title": "Alyssa Naeher announces retirement after 16-year NWSL career",
-   "first": "2026-11-13T18:08:37.740046+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T17:13:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USWNT, NWSL legend Alyssa Naeher announces retirement after 16-year career"
-   },
-   "last": "2026-11-13T18:08:37.740051+00:00"
-  },
-  "S7267": {
-   "title": "Connelly previews NFL Week 11 make-or-break games",
-   "first": "2026-11-13T18:08:37.740055+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Connelly previews Week 11 - 32 make-or-break showdowns"
-   },
-   "last": "2026-11-13T18:08:37.740059+00:00"
   },
   "S7268": {
    "title": "Red Sox sign Jake Bauers to four-year deal",
@@ -13211,9 +13172,48 @@
     "Motorsport-Total": "Mercedes-Technikchef klärt auf: Darum war Antonelli 2026 schneller als Russell - Motorsport-Total.com"
    },
    "last": "2026-11-15T18:04:52.784926+00:00"
+  },
+  "S7723": {
+   "title": "US women's hockey beats Finland to reach worlds final",
+   "first": "2026-11-15T18:14:51.204028+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T18:08:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "U.S. blanks Finland to reach women's hockey worlds final"
+   },
+   "last": "2026-11-15T18:14:51.204167+00:00"
+  },
+  "S7724": {
+   "title": "Mekies praises Lawson's form and 'incredible contrast' at Red Bull",
+   "first": "2026-11-15T18:14:51.204173+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T18:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson hailed by Red Bull for 'incredible contrast' with F1 redemption"
+   },
+   "last": "2026-11-15T18:14:51.204178+00:00"
+  },
+  "S7725": {
+   "title": "Haas confirms Camara and Hirakawa as only reserve drivers for final races",
+   "first": "2026-11-15T18:14:51.204182+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-15T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "La Haas ha finito… i piloti: la regola che vieta altre riserve oltre a Camara e Hirakawa"
+   },
+   "last": "2026-11-15T18:14:51.204187+00:00"
   }
  },
- "story_seq": 7722,
+ "story_seq": 7725,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13332,7 +13332,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T18:04:45.453859+00:00",
+ "last_run": "2026-11-15T18:14:47.709096+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14577,6 +14577,16 @@
    "t": "2026-11-15T18:05:00.045188+00:00",
    "title": "Antonelli dominant, Ferrari'de takım arkadaşları dengede",
    "source": "Gazzetta dello Sport"
+  },
+  {
+   "t": "2026-11-15T18:14:55.901236+00:00",
+   "title": "Haas'ta pilot kadrosu daralıyor: Camara ve Hirakawa dışında kimse yarışamayacak",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-15T18:14:56.264379+00:00",
+   "title": "Red Bull, Liam Lawson'ın dönüşünü 'inanılmaz kontrast' sözleriyle övdü",
+   "source": "RacingNews365"
   }
  ]
 }
