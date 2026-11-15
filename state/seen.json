@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aa9d28c566557eb4": "2026-11-01T00:43:43.181959+00:00",
-  "91bfb2a0cace424c": "2026-11-01T00:48:46.616390+00:00",
-  "dd1c52a027be20f9": "2026-11-01T00:48:46.616390+00:00",
-  "e58123d9b7a115e1": "2026-11-01T00:48:46.616390+00:00",
   "478048cc98edda80": "2026-11-01T00:53:38.857590+00:00",
   "c28d6d067e19ea7f": "2026-11-01T00:53:38.857590+00:00",
   "3e6821e061686876": "2026-11-01T00:58:43.753347+00:00",
@@ -7030,7 +7026,10 @@
   "704d36e31bffc6d8": "2026-11-15T00:12:06.622654+00:00",
   "8d9b2b1ea2fc9def": "2026-11-15T00:22:06.801319+00:00",
   "8cf8ade68e9dc730": "2026-11-15T00:42:49.854898+00:00",
-  "2478a32050310029": "2026-11-15T00:42:49.854898+00:00"
+  "2478a32050310029": "2026-11-15T00:42:49.854898+00:00",
+  "e3d888358850865e": "2026-11-15T00:52:52.533126+00:00",
+  "d1f47eeaa459902b": "2026-11-15T00:52:52.533126+00:00",
+  "69f3c1507159a22d": "2026-11-15T00:52:52.533126+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7370,32 +7369,6 @@
     "ESPN F1": "Rockets' Marcus Smart suspended three games for punch"
    },
    "last": "2026-11-13T03:06:18.842163+00:00"
-  },
-  "S7076": {
-   "title": "Raptors vs. 76ers live score",
-   "first": "2026-11-13T00:45:43.683541+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T00:38:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Raptors vs. 76ers (13 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-13T00:45:43.683559+00:00"
-  },
-  "S7077": {
-   "title": "Cam Skattebo wears Iron Man mask before TNF",
-   "first": "2026-11-13T00:45:43.683564+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T00:29:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cam Skattebo dons custom 'Iron Man' mask for 'TNF,' leads NFL Week 10 arrivals"
-   },
-   "last": "2026-11-13T00:45:43.683568+00:00"
   },
   "S7078": {
    "title": "Chargers GM Hortiz says no enticing trade offers received",
@@ -13738,9 +13711,48 @@
     "ESPN F1": "Keith Jenkins Jr. powers past defense for 57-yard rushing touchdown"
    },
    "last": "2026-11-15T00:42:51.579681+00:00"
+  },
+  "S7558": {
+   "title": "Mavericks vs. Cavaliers live score (NBA)",
+   "first": "2026-11-15T00:52:55.066638+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T00:48:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mavericks vs. Cavaliers (15 Nov, 2026) Live Score"
+   },
+   "last": "2026-11-15T00:52:55.066656+00:00"
+  },
+  "S7559": {
+   "title": "Jets 5-4 Blackhawks final score (NHL)",
+   "first": "2026-11-15T00:52:55.066662+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T23:21:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets 5-4 Blackhawks (Nov 14, 2026) Final Score"
+   },
+   "last": "2026-11-15T00:52:55.066668+00:00"
+  },
+  "S7560": {
+   "title": "Brandon Perez makes 30-yard field goal",
+   "first": "2026-11-15T00:52:55.066672+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T19:38:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Brandon Perez kicks 30-yard field goal"
+   },
+   "last": "2026-11-15T00:52:55.066676+00:00"
   }
  },
- "story_seq": 7557,
+ "story_seq": 7560,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13859,7 +13871,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T00:42:49.854898+00:00",
+ "last_run": "2026-11-15T00:52:52.533126+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
