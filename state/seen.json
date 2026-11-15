@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "163b5f0d8c5b0d81": "2026-11-01T21:11:08.672480+00:00",
-  "90c6b6c8c4955e9c": "2026-11-01T21:11:08.672480+00:00",
   "d520bfaa47509030": "2026-11-01T21:16:07.030580+00:00",
   "f2dc9204a01e502c": "2026-11-01T21:16:07.030580+00:00",
   "5585f1780cf99dbb": "2026-11-01T21:16:07.030580+00:00",
@@ -6891,7 +6889,10 @@
   "4948905a5b888d6c": "2026-11-15T21:04:46.981770+00:00",
   "fd1cddade5d37d08": "2026-11-15T21:04:46.981770+00:00",
   "eb3478e32fea7df3": "2026-11-15T21:04:46.981770+00:00",
-  "331c62ce86532f8a": "2026-11-15T21:05:29.356625+00:00"
+  "331c62ce86532f8a": "2026-11-15T21:05:29.356625+00:00",
+  "3d67a8f9882c1f69": "2026-11-15T21:15:30.987759+00:00",
+  "b1ff87b8190f7a0c": "2026-11-15T21:15:30.987759+00:00",
+  "632d7dbcbc66a804": "2026-11-15T21:15:30.987759+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7068,21 +7069,6 @@
    },
    "last": "2026-11-14T19:22:09.023307+00:00"
   },
-  "S7264": {
-   "title": "Analysis of why Piastri trails Norris in 2026",
-   "first": "2026-11-13T17:58:39.744346+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-13T17:45:00+00:00",
-    "GPblog": "2026-11-13T21:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Waarom Piastri maar niet kan aanhaken bij Norris",
-    "GPblog": "Oscar Piastri was supposed to dethrone Verstappen, not bow to Norris"
-   },
-   "last": "2026-11-13T21:08:39.907920+00:00"
-  },
   "S7265": {
    "title": "Canada and Finland reach women's hockey worlds semifinals",
    "first": "2026-11-13T18:08:37.740021+00:00",
@@ -7149,45 +7135,6 @@
     "ESPN F1": "Serbia vs. Germany (Nov 13, 2026) Team Stats"
    },
    "last": "2026-11-13T23:39:06.866625+00:00"
-  },
-  "S7292": {
-   "title": "Muchova withdraws from WTA Finals due to illness",
-   "first": "2026-11-13T21:08:39.907879+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T21:07:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Karolina Muchova withdraws from WTA Finals due to illness"
-   },
-   "last": "2026-11-13T21:08:39.907897+00:00"
-  },
-  "S7293": {
-   "title": "Eagles to release WR Hollywood Brown per request",
-   "first": "2026-11-13T21:08:39.907902+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T19:12:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources - Eagles to release WR Hollywood Brown per request"
-   },
-   "last": "2026-11-13T21:08:39.907907+00:00"
-  },
-  "S7294": {
-   "title": "Hamilton makes Ferrari promise as drivers voice objection",
-   "first": "2026-11-13T21:08:39.907910+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T21:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton makes Ferrari promise as F1 drivers air key objection - RacingNews365 Review"
-   },
-   "last": "2026-11-13T21:08:39.907915+00:00"
   },
   "S7295": {
    "title": "Patriots enjoying themselves in Munich",
@@ -13318,9 +13265,48 @@
     "PlanetF1": "Oscar Piastri sheds light on ‘tougher than expected’ F1 2026 season"
    },
    "last": "2026-11-15T21:05:32.837406+00:00"
+  },
+  "S7761": {
+   "title": "Jets QB Geno Smith suffers ankle injury, replaced by Klubnik",
+   "first": "2026-11-15T21:15:33.385297+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T21:08:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik"
+   },
+   "last": "2026-11-15T21:15:33.385319+00:00"
+  },
+  "S7762": {
+   "title": "Clemson QB Tait Reynolds torn meniscus, Vizzina concussion",
+   "first": "2026-11-15T21:15:33.385326+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T20:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Clemson QBs Tait Reynolds has torn meniscus, Christopher Vizzina a concussion"
+   },
+   "last": "2026-11-15T21:15:33.385332+00:00"
+  },
+  "S7763": {
+   "title": "Croatia vs. Czechia (Nov 15, 2026) team stats",
+   "first": "2026-11-15T21:15:33.385336+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T20:41:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Croatia vs. Czechia (Nov 15, 2026) Team Stats"
+   },
+   "last": "2026-11-15T21:15:33.385341+00:00"
   }
  },
- "story_seq": 7760,
+ "story_seq": 7763,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13439,7 +13425,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T21:05:29.356625+00:00",
+ "last_run": "2026-11-15T21:15:30.987759+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
