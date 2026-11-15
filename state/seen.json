@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6a2335a7209b6ca9": "2026-11-01T20:46:06.705602+00:00",
-  "f07b0b1e8338479f": "2026-11-01T20:46:06.705602+00:00",
-  "6c40d2cce8ef630d": "2026-11-01T20:51:08.700844+00:00",
-  "c0ac36a32a1ab7c8": "2026-11-01T20:51:08.700844+00:00",
-  "f8ddafb58bd19f50": "2026-11-01T20:51:08.700844+00:00",
-  "73b1acf9e9ebada4": "2026-11-01T20:51:08.700844+00:00",
-  "49653dfec18b4713": "2026-11-01T20:51:08.700844+00:00",
   "458057824d0cdf5d": "2026-11-01T20:56:06.077022+00:00",
   "05b86a86f349dfdc": "2026-11-01T21:01:08.232175+00:00",
   "71b07f986e5686ee": "2026-11-01T21:01:08.232175+00:00",
@@ -6896,7 +6889,10 @@
   "cc658bfdd34ab778": "2026-11-15T20:04:44.795905+00:00",
   "d0ed865f588a131d": "2026-11-15T20:24:44.537881+00:00",
   "3b42d112ec16c93d": "2026-11-15T20:24:44.537881+00:00",
-  "a922f8fd9d80e765": "2026-11-15T20:24:44.537881+00:00"
+  "a922f8fd9d80e765": "2026-11-15T20:24:44.537881+00:00",
+  "9f49087ecfbbea6c": "2026-11-15T20:54:45.449305+00:00",
+  "cfb0778640341992": "2026-11-15T20:54:45.449305+00:00",
+  "fe48ce53b005790a": "2026-11-15T20:54:45.449305+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7183,19 +7179,6 @@
     "ESPN F1": "Serbia vs. Germany (Nov 13, 2026) Team Stats"
    },
    "last": "2026-11-13T23:39:06.866625+00:00"
-  },
-  "S7289": {
-   "title": "Chiefs RB Kenneth Walker III misses practice with groin injury",
-   "first": "2026-11-13T20:48:37.538576+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T20:18:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chiefs RB Kenneth Walker III (groin) misses practice, status uncertain"
-   },
-   "last": "2026-11-13T20:48:37.538594+00:00"
   },
   "S7290": {
    "title": "Astros manager Brad Ausmus sets World Series goal",
@@ -13300,9 +13283,48 @@
     "Motorsport.com Italia": "ALMS | Bis della Ferrari di AF in Gara 2, grandi Proton in LMP2 e McLaren-Garage 59 in GT3"
    },
    "last": "2026-11-15T20:24:47.801576+00:00"
+  },
+  "S7754": {
+   "title": "New Hampshire vs. Boston College game highlights",
+   "first": "2026-11-15T20:54:48.331663+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T20:44:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "New Hampshire Wildcats vs. Boston College Eagles: Game Highlights"
+   },
+   "last": "2026-11-15T20:54:48.331680+00:00"
+  },
+  "S7755": {
+   "title": "Chloe Kitts pass for South Carolina bucket",
+   "first": "2026-11-15T20:54:48.331685+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T20:43:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chloe Kitts makes a great pass for a South Carolina bucket"
+   },
+   "last": "2026-11-15T20:54:48.331689+00:00"
+  },
+  "S7756": {
+   "title": "Steiner gives take on Piastri-Webber management split",
+   "first": "2026-11-15T20:54:48.331693+00:00",
+   "sources": {
+    "GPFans": "2026-11-15T20:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Oscar Piastri split takes fresh twist as F1 boss makes Mark Webber claim"
+   },
+   "last": "2026-11-15T20:54:48.331698+00:00"
   }
  },
- "story_seq": 7753,
+ "story_seq": 7756,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13421,7 +13443,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T20:44:46.426093+00:00",
+ "last_run": "2026-11-15T20:54:45.449305+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
