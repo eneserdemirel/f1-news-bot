@@ -7013,7 +7013,13 @@
   "7ff2208d5e6a88a0": "2026-11-15T08:43:34.091188+00:00",
   "c2d30fa659cdc630": "2026-11-15T08:43:34.091188+00:00",
   "1bed9bc605b1dfcb": "2026-11-15T08:53:34.620948+00:00",
-  "01a8b99b0e7e3609": "2026-11-15T08:53:34.620948+00:00"
+  "01a8b99b0e7e3609": "2026-11-15T08:53:34.620948+00:00",
+  "27c8a38fbee2bfba": "2026-11-15T09:03:33.297985+00:00",
+  "5ba7b8ea99e8d702": "2026-11-15T09:03:33.297985+00:00",
+  "7d3a2005e92bdb9b": "2026-11-15T09:03:33.297985+00:00",
+  "ba2c8474f2f34ec8": "2026-11-15T09:03:33.297985+00:00",
+  "e0b8e8dae829edfd": "2026-11-15T09:03:33.297985+00:00",
+  "cbfecd7f5603088f": "2026-11-15T09:03:33.297985+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7305,45 +7311,6 @@
     "Autosport": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion"
    },
    "last": "2026-11-13T10:06:53.499924+00:00"
-  },
-  "S7145": {
-   "title": "Jameis Winston 'dogs out' fourth-down play in Commanders-Giants game",
-   "first": "2026-11-13T08:56:49.942470+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T06:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giants' Jameis Winston lets 'the dogs out' on 4th down; Commanders don't bite"
-   },
-   "last": "2026-11-13T08:56:49.942481+00:00"
-  },
-  "S7146": {
-   "title": "Wolff outlines Mercedes long-term vision, rejects fire-and-hire approach",
-   "first": "2026-11-13T08:56:49.942485+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Toto Wolff discloses 'long-term vision' for Mercedes' F1 success"
-   },
-   "last": "2026-11-13T08:56:49.942489+00:00"
-  },
-  "S7147": {
-   "title": "Nyck de Vries completes two-day McLaren test in Jerez",
-   "first": "2026-11-13T08:56:49.942491+00:00",
-   "sources": {
-    "GPFans": "2026-11-13T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Former F1 star makes surprise return with McLaren"
-   },
-   "last": "2026-11-13T08:56:49.942494+00:00"
   },
   "S7148": {
    "title": "Schumacher warns Russell he could become Antonelli's Barrichello",
@@ -11675,14 +11642,16 @@
    "title": "Steiner says Verstappen could be better Ferrari leader than Hamilton",
    "first": "2026-11-14T17:21:33.448675+00:00",
    "sources": {
-    "GPblog": "2026-11-14T17:15:00+00:00"
+    "GPblog": "2026-11-14T17:15:00+00:00",
+    "Crash.net": "2026-11-15T09:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Verstappen suggested as better fit to lead Ferrari than Hamilton"
+    "GPblog": "Verstappen suggested as better fit to lead Ferrari than Hamilton",
+    "Crash.net": "Guenther Steiner suggests Max Verstappen ‘solution’ to solve Ferrari woes"
    },
-   "last": "2026-11-14T17:21:33.448679+00:00"
+   "last": "2026-11-15T09:03:39.302828+00:00"
   },
   "S7475": {
    "title": "Steiner predicts Antonelli will eventually drive for Ferrari",
@@ -13750,9 +13719,61 @@
     "GPFans": "Did Mercedes 'trick' decide F1 world title? Verstappen scored more points than Antonelli"
    },
    "last": "2026-11-15T08:53:37.602148+00:00"
+  },
+  "S7634": {
+   "title": "Utah survives Arizona with late 70-yard TD",
+   "first": "2026-11-15T09:03:39.302785+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T07:37:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No. 2 Utah survives, stays unbeaten on late 70-yard TD in thriller vs. Arizona"
+   },
+   "last": "2026-11-15T09:03:39.302805+00:00"
+  },
+  "S7635": {
+   "title": "Luck-adjusted season analysis puts Russell ahead of Antonelli",
+   "first": "2026-11-15T09:03:39.302810+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T08:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "George Russell luck-adjusted F1 season reveals Kimi Antonelli F1 title truth"
+   },
+   "last": "2026-11-15T09:03:39.302815+00:00"
+  },
+  "S7636": {
+   "title": "Banned journalist claims Wolff sought lifetime paddock ban",
+   "first": "2026-11-15T09:03:39.302819+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T09:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Banned F1 journalist claims Toto Wolff tried to have him barred 'for life'"
+   },
+   "last": "2026-11-15T09:03:39.302823+00:00"
+  },
+  "S7637": {
+   "title": "Ricciardo reflects on F1 exit, says he doesn't want to return now",
+   "first": "2026-11-15T09:03:39.302831+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-15T09:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ricciardo sul suo ritiro: “Mi dispiace per come è finita, ma non vorrei essere in F1 adesso”"
+   },
+   "last": "2026-11-15T09:03:39.302835+00:00"
   }
  },
- "story_seq": 7633,
+ "story_seq": 7637,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13871,7 +13892,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T08:53:34.620948+00:00",
+ "last_run": "2026-11-15T09:03:33.297985+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14891,6 +14912,21 @@
    "t": "2026-11-15T08:53:42.110185+00:00",
    "title": "Mercedes'in sıkıştırma oranı tartışması Verstappen'in puanlarını etkiledi mi?",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-15T09:03:45.354188+00:00",
+   "title": "Russell'ın şanssızlıklarına göre düzeltilmiş 2026 F1 sezonu, Antonelli'nin şampiyonluğunu sorguluyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-15T09:03:45.826532+00:00",
+   "title": "Ricciardo, emekliliği hakkında: \"Bitişi üzücü ama şu an F1'de olmak istemezdim\"",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-15T09:03:46.337574+00:00",
+   "title": "McEvoy, Wolff'un kendisini paddock'tan ömür boyu yasaklatmaya çalıştığını iddia etti",
+   "source": "GPblog"
   }
  ]
 }
