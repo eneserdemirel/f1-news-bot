@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "15d23ef9809cd619": "2026-11-01T11:55:08.797254+00:00",
-  "ba7645306de4aea4": "2026-11-01T11:55:08.797254+00:00",
-  "821d638d415301fa": "2026-11-01T12:00:07.452750+00:00",
   "15969bd838ab37f4": "2026-11-01T12:05:11.054935+00:00",
   "330e97766993fdcd": "2026-11-01T12:05:11.054935+00:00",
   "8e510a85ad624920": "2026-11-01T12:10:40.880723+00:00",
@@ -6955,7 +6952,9 @@
   "64351c4cb0deb5de": "2026-11-15T11:44:23.273740+00:00",
   "6a593efdd0d804bc": "2026-11-15T11:44:23.273740+00:00",
   "2aed8bbab408c953": "2026-11-15T11:54:14.800760+00:00",
-  "7bc6c301b4f229d5": "2026-11-15T11:54:14.800760+00:00"
+  "7bc6c301b4f229d5": "2026-11-15T11:54:14.800760+00:00",
+  "8ac43c75fb28d0bd": "2026-11-15T12:04:13.777129+00:00",
+  "a77c03831546b3cb": "2026-11-15T12:04:13.777129+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7276,32 +7275,6 @@
     "GPblog": "MotoGP legend races against Sebastian Vettel's Red Bull F1 car on snow"
    },
    "last": "2026-11-13T17:38:40.310988+00:00"
-  },
-  "S7187": {
-   "title": "Fantasy lineup preview: Cousins' Vikings return boosts Jefferson",
-   "first": "2026-11-13T11:56:52.264412+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T11:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What to know to set your lineup: Cousins' Vikings return elevates Jefferson"
-   },
-   "last": "2026-11-13T11:56:52.264423+00:00"
-  },
-  "S7188": {
-   "title": "France vs South Africa rugby kick-off time and team news",
-   "first": "2026-11-13T11:56:52.264427+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T07:18:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "France vs. South Africa - Kick-off time, team news, how to watch the Springboks"
-   },
-   "last": "2026-11-13T11:56:52.264430+00:00"
   },
   "S7189": {
    "title": "ESPN fantasy football lineup Q&A promotion",
@@ -13465,9 +13438,35 @@
     "PlanetF1": "Red Bull reveals remarkable scale of F1 2026 turnaround"
    },
    "last": "2026-11-15T11:54:17.819454+00:00"
+  },
+  "S7658": {
+   "title": "Rosberg claims Hamilton feared Mercedes conspiracy during title fight",
+   "first": "2026-11-15T12:04:16.273139+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T12:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Rosberg claims Hamilton feared conspiracy during bitter F1 title fight"
+   },
+   "last": "2026-11-15T12:04:16.273162+00:00"
+  },
+  "S7659": {
+   "title": "Las Vegas GP dates and full 2026 schedule guide",
+   "first": "2026-11-15T12:04:16.273167+00:00",
+   "sources": {
+    "Crash.net": "2026-11-15T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "What time is the next F1 race? Las Vegas GP dates and full schedule"
+   },
+   "last": "2026-11-15T12:04:16.273171+00:00"
   }
  },
- "story_seq": 7657,
+ "story_seq": 7659,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13586,11 +13585,11 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T11:54:14.800760+00:00",
+ "last_run": "2026-11-15T12:04:13.777129+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-14 22:00",
- "last_digest_at": "2026-11-14T19:01:30.543739+00:00",
+ "last_digest_slot": "2026-11-15 15:00",
+ "last_digest_at": "2026-11-15T12:04:18.262119+00:00",
  "sent_log": [
   {
    "t": "2026-11-12T22:06:58.182217+00:00",
