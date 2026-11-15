@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9b915e1b1cbddf73": "2026-11-01T09:55:04.420468+00:00",
   "bf5da9dbf8495969": "2026-11-01T10:25:06.630319+00:00",
   "977fe0c12e9d1af3": "2026-11-01T10:30:09.362534+00:00",
   "73dd32bc22a911a9": "2026-11-01T10:35:06.091187+00:00",
@@ -7025,7 +7024,9 @@
   "d7307b500c627ee8": "2026-11-15T09:23:33.230975+00:00",
   "61b8b67bac02e5b2": "2026-11-15T09:23:33.230975+00:00",
   "c945d3e4bd76a87d": "2026-11-15T09:43:34.818969+00:00",
-  "6356d2a59c53be8c": "2026-11-15T09:43:34.818969+00:00"
+  "6356d2a59c53be8c": "2026-11-15T09:43:34.818969+00:00",
+  "f25d88c06d827d14": "2026-11-15T10:03:35.288084+00:00",
+  "63be6924d93794f4": "2026-11-15T10:03:35.288084+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7365,58 +7366,6 @@
     "Motorsport Week": "FIA confirm F1 ban for Daily Mail journalist over Ferrari spat"
    },
    "last": "2026-11-14T15:51:37.065606+00:00"
-  },
-  "S7154": {
-   "title": "NCAA Season 102 quarterfinal matchups preview",
-   "first": "2026-11-13T09:56:47.711398+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T09:37:40+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NCAA Season 102: Quarterfinal matchups and key statistical battles"
-   },
-   "last": "2026-11-13T09:56:47.711416+00:00"
-  },
-  "S7155": {
-   "title": "Australia ask England to bat in ODI, Beardman debuts",
-   "first": "2026-11-13T09:56:47.711420+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T08:17:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Australia ask England to bat, hand Beardman an ODI debut"
-   },
-   "last": "2026-11-13T09:56:47.711424+00:00"
-  },
-  "S7156": {
-   "title": "Newey says Honda disappointing at Aston Martin",
-   "first": "2026-11-13T09:56:47.711426+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T09:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Adrian Newey makes important claim about Aston Martin and 'disappointed' Honda"
-   },
-   "last": "2026-11-13T09:56:47.711430+00:00"
-  },
-  "S7157": {
-   "title": "Perez comments on Cadillac's three new hires",
-   "first": "2026-11-13T09:56:47.711431+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-13T09:47:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Sergio Perez makes ‘very basic’ Cadillac F1 admission over new hires"
-   },
-   "last": "2026-11-13T09:56:47.711434+00:00"
   },
   "S7158": {
    "title": "Mercedes' history of F1 success, ninth constructors' title",
@@ -13779,9 +13728,24 @@
     "RacingNews365": "Fernando Alonso reveals major Honda F1 move after 'hard lessons'"
    },
    "last": "2026-11-15T09:43:37.166365+00:00"
+  },
+  "S7642": {
+   "title": "Button doubts whether Alonso has another season in him",
+   "first": "2026-11-15T10:03:37.249828+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-15T10:00:00+00:00",
+    "GPFans": "2026-11-15T09:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Button verklaart twijfels over F1-toekomst Alonso",
+    "GPFans": "Aston Martin figure admits doubts over Fernando Alonso F1 future"
+   },
+   "last": "2026-11-15T10:03:37.249855+00:00"
   }
  },
- "story_seq": 7641,
+ "story_seq": 7642,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13900,7 +13864,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T09:53:33.978812+00:00",
+ "last_run": "2026-11-15T10:03:35.288084+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
