@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bfa32cfc08f647aa": "2026-11-01T00:13:39.866952+00:00",
-  "fc781ae264f3cbf5": "2026-11-01T00:13:39.866952+00:00",
-  "4316dbdc52c9e8ab": "2026-11-01T00:13:39.866952+00:00",
-  "22751409f5735ce9": "2026-11-01T00:18:41.097604+00:00",
   "c7eee51079c2b22d": "2026-11-01T00:23:39.447934+00:00",
   "e04dc624471a7a73": "2026-11-01T00:23:39.447934+00:00",
   "9a7ef89c43045a53": "2026-11-01T00:23:39.447934+00:00",
@@ -7043,7 +7039,8 @@
   "c64504a69fe810a9": "2026-11-15T00:02:05.440543+00:00",
   "d96ab2446d701e95": "2026-11-15T00:02:05.440543+00:00",
   "85f51ccaac91c5aa": "2026-11-15T00:12:06.622654+00:00",
-  "704d36e31bffc6d8": "2026-11-15T00:12:06.622654+00:00"
+  "704d36e31bffc6d8": "2026-11-15T00:12:06.622654+00:00",
+  "8d9b2b1ea2fc9def": "2026-11-15T00:22:06.801319+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7181,19 +7178,6 @@
     "ESPN F1": "Wake Forest awards second-year coach Dickert with extension"
    },
    "last": "2026-11-13T03:06:18.842175+00:00"
-  },
-  "S7005": {
-   "title": "Arsenal draw at Barcelona in Camp Nou",
-   "first": "2026-11-12T22:06:36.735916+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T19:48:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arsenal hold firm to frustrate Barcelona in Camp Nou draw"
-   },
-   "last": "2026-11-13T00:15:46.819106+00:00"
   },
   "S7016": {
    "title": "Balogun wants Pochettino to stay at Forest",
@@ -7396,32 +7380,6 @@
     "ESPN F1": "Rockets' Marcus Smart suspended three games for punch"
    },
    "last": "2026-11-13T03:06:18.842163+00:00"
-  },
-  "S7072": {
-   "title": "NFL Commanders vs Giants Thursday Night Football preview",
-   "first": "2026-11-13T00:15:46.819070+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T23:22:13+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "PREVIEWING Commanders vs. Giants ahead of Thursday Night Football | NFL Live"
-   },
-   "last": "2026-11-13T00:15:46.819089+00:00"
-  },
-  "S7073": {
-   "title": "Barcelona regret missed chances in draw with Arsenal",
-   "first": "2026-11-13T00:15:46.819095+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-12T22:57:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Barcelona regret missed chances against Arsenal, game we 'deserved' to win"
-   },
-   "last": "2026-11-13T00:15:46.819100+00:00"
   },
   "S7074": {
    "title": "Ahnay Adams sinks shot from downtown",
@@ -13777,9 +13735,22 @@
     "ESPN F1": "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR"
    },
    "last": "2026-11-15T00:12:09.193407+00:00"
+  },
+  "S7555": {
+   "title": "Ohio State 28-19 Northwestern game recap",
+   "first": "2026-11-15T00:22:07.898154+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-14T21:16:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ohio State 28-19 Northwestern (Nov 14, 2026) Game Recap"
+   },
+   "last": "2026-11-15T00:22:07.898173+00:00"
   }
  },
- "story_seq": 7554,
+ "story_seq": 7555,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13898,7 +13869,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T00:12:06.622654+00:00",
+ "last_run": "2026-11-15T00:22:06.801319+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
