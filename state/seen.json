@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "458057824d0cdf5d": "2026-11-01T20:56:06.077022+00:00",
-  "05b86a86f349dfdc": "2026-11-01T21:01:08.232175+00:00",
-  "71b07f986e5686ee": "2026-11-01T21:01:08.232175+00:00",
-  "a26c5fd596417667": "2026-11-01T21:01:08.232175+00:00",
-  "2c2486b80cc49e51": "2026-11-01T21:01:08.232175+00:00",
-  "132bc6a7faf55497": "2026-11-01T21:01:08.232175+00:00",
   "163b5f0d8c5b0d81": "2026-11-01T21:11:08.672480+00:00",
   "90c6b6c8c4955e9c": "2026-11-01T21:11:08.672480+00:00",
   "d520bfaa47509030": "2026-11-01T21:16:07.030580+00:00",
@@ -6892,7 +6886,11 @@
   "a922f8fd9d80e765": "2026-11-15T20:24:44.537881+00:00",
   "9f49087ecfbbea6c": "2026-11-15T20:54:45.449305+00:00",
   "cfb0778640341992": "2026-11-15T20:54:45.449305+00:00",
-  "fe48ce53b005790a": "2026-11-15T20:54:45.449305+00:00"
+  "fe48ce53b005790a": "2026-11-15T20:54:45.449305+00:00",
+  "c198ee905b932529": "2026-11-15T21:04:46.981770+00:00",
+  "4948905a5b888d6c": "2026-11-15T21:04:46.981770+00:00",
+  "fd1cddade5d37d08": "2026-11-15T21:04:46.981770+00:00",
+  "eb3478e32fea7df3": "2026-11-15T21:04:46.981770+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6914,35 +6912,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S7018": {
-   "title": "FIA sets hearing date for Audi Tsunoda appeal",
-   "first": "2026-11-12T22:06:36.736024+00:00",
-   "sources": {
-    "The Race": "2026-11-12T16:30:27+00:00",
-    "RacingNews365": "2026-11-12T16:54:00+00:00",
-    "RacingNews365 NL": "2026-11-12T17:01:00+00:00",
-    "FormulaPassion": "2026-11-13T09:15:06+00:00",
-    "PlanetF1": "2026-11-13T11:24:39+00:00",
-    "GPblog": "2026-11-13T11:30:00+00:00",
-    "Motorsport-Total": "2026-11-13T12:04:49+00:00",
-    "Motorsport Week": "2026-11-13T17:16:09+00:00",
-    "GPFans": "2026-11-13T20:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Hearing set for Audi Tsunoda appeal",
-    "RacingNews365": "FIA set hearing date with F1-comeback hero's result at risk",
-    "RacingNews365 NL": "FIA plant hoorzitting voor protest GP Italië in",
-    "FormulaPassion": "GP d’Italia 2026: la FIA conferma la data d’udienza dopo il ricorso presentato dall’Audi",
-    "PlanetF1": "FIA sets court hearing date in Audi F1 appeal against Yuki Tsunoda",
-    "GPblog": "FIA sets date for hearing that could cost Tsunoda a championship point",
-    "Motorsport-Total": "Wichtiger Termin: Audi hofft auf nachträglichen Punkt am grünen Tisch - Motorsport-Total.com",
-    "Motorsport Week": "FIA set court date for vital Yuki Tsunoda F1 decision",
-    "GPFans": "F1 Italian GP result could be changed as FIA confirm appeal hearing"
-   },
-   "last": "2026-11-13T20:58:35.784342+00:00"
-  },
   "S7041": {
    "title": "Wolff reveals he offered to quit Mercedes several times",
    "first": "2026-11-12T22:06:36.736208+00:00",
@@ -7179,32 +7148,6 @@
     "ESPN F1": "Serbia vs. Germany (Nov 13, 2026) Team Stats"
    },
    "last": "2026-11-13T23:39:06.866625+00:00"
-  },
-  "S7290": {
-   "title": "Astros manager Brad Ausmus sets World Series goal",
-   "first": "2026-11-13T20:58:35.784309+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T20:47:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Astros manager Brad Ausmus sets goal of winning World Series"
-   },
-   "last": "2026-11-13T20:58:35.784325+00:00"
-  },
-  "S7291": {
-   "title": "Amon-Ra St. Brown eyes 2028 Olympics flag football for Germany",
-   "first": "2026-11-13T20:58:35.784330+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T18:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Amon-Ra St. Brown eyes a 2028 Olympics flag football run for Germany"
-   },
-   "last": "2026-11-13T20:58:35.784336+00:00"
   },
   "S7292": {
    "title": "Muchova withdraws from WTA Finals due to illness",
@@ -13322,9 +13265,48 @@
     "GPFans": "Oscar Piastri split takes fresh twist as F1 boss makes Mark Webber claim"
    },
    "last": "2026-11-15T20:54:48.331698+00:00"
+  },
+  "S7757": {
+   "title": "Texans RB Woody Marks suffers concussion vs. Browns",
+   "first": "2026-11-15T21:04:51.994530+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T20:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Texans lose RB Woody Marks to concussion against Browns"
+   },
+   "last": "2026-11-15T21:04:51.994556+00:00"
+  },
+  "S7758": {
+   "title": "RacingNews365 daily review: Leclerc on Hamilton, Verstappen claim",
+   "first": "2026-11-15T21:04:51.994560+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T21:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Charles Leclerc shares Lewis Hamilton insight as Red Bull ally makes bold Max Verstappen claim - RacingNews365 Review"
+   },
+   "last": "2026-11-15T21:04:51.994564+00:00"
+  },
+  "S7759": {
+   "title": "Piastri says McLaren would handle 2025 title challenge differently",
+   "first": "2026-11-15T21:04:51.994567+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T21:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Piastri makes telling McLaren admission over 2025 title heartbreak"
+   },
+   "last": "2026-11-15T21:04:51.994571+00:00"
   }
  },
- "story_seq": 7756,
+ "story_seq": 7759,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13443,7 +13425,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T20:54:45.449305+00:00",
+ "last_run": "2026-11-15T21:04:46.981770+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
@@ -14723,6 +14705,11 @@
    "t": "2026-11-15T19:54:56.181832+00:00",
    "title": "Antonelli, Hamilton'ın ayrılmasıyla Mercedes'te yükselişini nasıl öğrendi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-15T21:05:00.035586+00:00",
+   "title": "Piastri, 2025 şampiyonluk kaybı hakkında McLaren'a dair dikkat çeken bir itirafta bulundu",
+   "source": "GPblog"
   }
  ]
 }
