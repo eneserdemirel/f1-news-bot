@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b38e55a9794f3bac": "2026-11-01T12:55:34.713403+00:00",
-  "d4e779bbb48b9b0a": "2026-11-01T12:55:34.713403+00:00",
-  "2254e5f1669166aa": "2026-11-01T13:00:35.723371+00:00",
   "90bf891494827a29": "2026-11-01T13:05:33.253201+00:00",
   "2b59cc83a4b64833": "2026-11-01T13:05:33.253201+00:00",
   "e5374b5dbcd91c3c": "2026-11-01T13:05:33.253201+00:00",
@@ -6964,7 +6961,10 @@
   "f1cf96e7bb37d404": "2026-11-15T12:44:25.982613+00:00",
   "556a2102a73ccc21": "2026-11-15T12:54:14.680964+00:00",
   "09159dada7ed77cb": "2026-11-15T12:54:14.680964+00:00",
-  "7614cfb346edb0ac": "2026-11-15T12:54:14.680964+00:00"
+  "7614cfb346edb0ac": "2026-11-15T12:54:14.680964+00:00",
+  "97a4b83899e4a7c1": "2026-11-15T13:04:12.818504+00:00",
+  "2f3dfbf3c29ba8d9": "2026-11-15T13:04:12.818504+00:00",
+  "95121be5430d6b16": "2026-11-15T13:04:12.818504+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7342,32 +7342,6 @@
     "GPblog": "Antonelli visibly moved as Italy fans salute F1 world champion"
    },
    "last": "2026-11-14T12:50:43.089206+00:00"
-  },
-  "S7202": {
-   "title": "Marquez reflects on career and retirement after injury comeback",
-   "first": "2026-11-13T12:57:39.049879+00:00",
-   "sources": {
-    "GPblog": "2026-11-13T12:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Marc Marquez reflects on career and retirement after remarkable injury comeback"
-   },
-   "last": "2026-11-13T12:57:39.049901+00:00"
-  },
-  "S7203": {
-   "title": "Suzuka's 130R corner naming rights sold to video game",
-   "first": "2026-11-13T12:57:39.049908+00:00",
-   "sources": {
-    "GPFans": "2026-11-13T12:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Suzuka's iconic 130R corner has been sold to a video game"
-   },
-   "last": "2026-11-13T12:57:39.049915+00:00"
   },
   "S7204": {
    "title": "JuJu Watkins projected No. 1 WNBA pick in 2027 mock draft",
@@ -13426,9 +13400,48 @@
     "GPblog": "Ferrari insider draws firm line on alleged preferential treatment for Hamilton"
    },
    "last": "2026-11-15T12:54:16.958225+00:00"
+  },
+  "S7666": {
+   "title": "ESPN NFL head coach pressure in Week 11",
+   "first": "2026-11-15T13:04:15.998240+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T07:32:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Patience starting to run thin for head coaches in Week 11"
+   },
+   "last": "2026-11-15T13:04:15.998259+00:00"
+  },
+  "S7667": {
+   "title": "Retrospective on Red Bull buying Jaguar F1 team for $1",
+   "first": "2026-11-15T13:04:15.998263+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-15T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull neemt F1-team over voor slechts één dollar - Terugblik"
+   },
+   "last": "2026-11-15T13:04:15.998267+00:00"
+  },
+  "S7668": {
+   "title": "Pirelli develops new 2027 wet-weather tyre specification",
+   "first": "2026-11-15T13:04:15.998270+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-15T13:00:01+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Gomme da bagnato, Pirelli al lavoro per il 2027"
+   },
+   "last": "2026-11-15T13:04:15.998274+00:00"
   }
  },
- "story_seq": 7665,
+ "story_seq": 7668,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13547,7 +13560,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T12:54:14.680964+00:00",
+ "last_run": "2026-11-15T13:04:12.818504+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14667,6 +14680,16 @@
    "t": "2026-11-15T12:54:21.007802+00:00",
    "title": "Ferrari'nin eski mühendisi: Elkann Hamilton'ı kayırmıyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-15T13:04:20.244842+00:00",
+   "title": "Red Bull, Jaguar Racing'i sembolik 1 dolara satın aldı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-15T13:04:20.603394+00:00",
+   "title": "Pirelli, 2027 için yağmur lastiklerinde yeni bir özellik üzerinde çalışıyor",
+   "source": "FormulaPassion"
   }
  ]
 }
