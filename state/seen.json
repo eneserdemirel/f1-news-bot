@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4e98b3e6ccfa75bf": "2026-11-01T16:30:36.835359+00:00",
-  "f83fce7871da16fa": "2026-11-01T16:30:36.835359+00:00",
-  "f8aa14544f7a76b6": "2026-11-01T16:30:36.835359+00:00",
   "10d5874858e6ad4c": "2026-11-01T16:35:36.457208+00:00",
   "b58a95c1b62733e8": "2026-11-01T16:35:36.457208+00:00",
   "20c32df5011fe935": "2026-11-01T16:40:35.854486+00:00",
@@ -6932,7 +6929,11 @@
   "acba1dc449594ba3": "2026-11-15T16:14:46.366455+00:00",
   "22b9028a497c5027": "2026-11-15T16:14:46.366455+00:00",
   "ccac3d4da78a8127": "2026-11-15T16:24:43.923139+00:00",
-  "c7d908d5629981d0": "2026-11-15T16:24:43.923139+00:00"
+  "c7d908d5629981d0": "2026-11-15T16:24:43.923139+00:00",
+  "1f149eecd5e2e7c7": "2026-11-15T16:34:44.519366+00:00",
+  "47247c0e71e28a41": "2026-11-15T16:34:44.519366+00:00",
+  "d4aa0fa21224e2c8": "2026-11-15T16:34:44.519366+00:00",
+  "ab0504137188f69a": "2026-11-15T16:34:44.519366+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10989,14 +10990,16 @@
    "title": "Allison praises Russell's handling of difficult season",
    "first": "2026-11-14T22:02:13.777413+00:00",
    "sources": {
-    "GPFans": "2026-11-14T21:57:00+00:00"
+    "GPFans": "2026-11-14T21:57:00+00:00",
+    "RacingNews365 NL": "2026-11-15T16:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Mercedes boss reveals George Russell mindset after F1 title agony"
+    "GPFans": "Mercedes boss reveals George Russell mindset after F1 title agony",
+    "RacingNews365 NL": "Mercedes prijst houding Russell in strijd met Antonelli"
    },
-   "last": "2026-11-14T22:02:13.777416+00:00"
+   "last": "2026-11-15T16:34:48.543384+00:00"
   },
   "S7535": {
    "title": "Harvard beats Pennsylvania 38-24 in game recap",
@@ -13201,9 +13204,48 @@
     "Motorsport Week": "Kimi Antonelli continues F1 title celebrations with special presidential meeting"
    },
    "last": "2026-11-15T16:14:49.151062+00:00"
+  },
+  "S7703": {
+   "title": "McLaren says Las Vegas upgrades lay foundation for 2027",
+   "first": "2026-11-15T16:34:48.543394+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-15T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "McLaren to set ‘foundations’ for F1 2027 with Las Vegas upgrades"
+   },
+   "last": "2026-11-15T16:34:48.543400+00:00"
+  },
+  "S7704": {
+   "title": "Wolff reveals Horner's private message after Mercedes double",
+   "first": "2026-11-15T16:34:48.543403+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff not surprised by message from former rival Horner after F1 title win"
+   },
+   "last": "2026-11-15T16:34:48.543407+00:00"
+  },
+  "S7705": {
+   "title": "Coulthard says McLaren favoured Hakkinen over Hakkinen rival",
+   "first": "2026-11-15T16:34:48.543410+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-15T16:25:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "David Coulthard: McLaren bevorzugte Mika - und ich verstehe das! - Motorsport-Total.com"
+   },
+   "last": "2026-11-15T16:34:48.543414+00:00"
   }
  },
- "story_seq": 7702,
+ "story_seq": 7705,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13322,7 +13364,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T16:24:43.923139+00:00",
+ "last_run": "2026-11-15T16:34:44.519366+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14517,6 +14559,16 @@
    "t": "2026-11-15T15:44:50.914611+00:00",
    "title": "Antonelli: Bir yıldızın doğuşu",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-15T16:34:52.324906+00:00",
+   "title": "David Coulthard: McLaren Mika'yı tercih etti, bunu anlıyorum",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-15T16:34:52.674921+00:00",
+   "title": "Wolff, Horner'ın F1 şampiyonluğu mesajına saygılı yaklaştı",
+   "source": "GPblog"
   }
  ]
 }
