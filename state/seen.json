@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "90bf891494827a29": "2026-11-01T13:05:33.253201+00:00",
-  "2b59cc83a4b64833": "2026-11-01T13:05:33.253201+00:00",
-  "e5374b5dbcd91c3c": "2026-11-01T13:05:33.253201+00:00",
-  "23fe894310ce4fca": "2026-11-01T13:10:35.654563+00:00",
-  "8d0e83b28b374778": "2026-11-01T13:10:35.654563+00:00",
-  "0a8557c60e133bd8": "2026-11-01T13:10:35.654563+00:00",
   "b61d102718349648": "2026-11-01T13:15:42.754775+00:00",
   "cabf5fcd9c2a91ac": "2026-11-01T13:20:33.757344+00:00",
   "032fe7120f170db0": "2026-11-01T13:25:38.455193+00:00",
@@ -6964,7 +6958,10 @@
   "7614cfb346edb0ac": "2026-11-15T12:54:14.680964+00:00",
   "97a4b83899e4a7c1": "2026-11-15T13:04:12.818504+00:00",
   "2f3dfbf3c29ba8d9": "2026-11-15T13:04:12.818504+00:00",
-  "95121be5430d6b16": "2026-11-15T13:04:12.818504+00:00"
+  "95121be5430d6b16": "2026-11-15T13:04:12.818504+00:00",
+  "a6ad66b44c242668": "2026-11-15T13:14:14.202034+00:00",
+  "812e06d97b106329": "2026-11-15T13:14:14.202034+00:00",
+  "67e172aa9a257139": "2026-11-15T13:14:14.202034+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7342,45 +7339,6 @@
     "GPblog": "Antonelli visibly moved as Italy fans salute F1 world champion"
    },
    "last": "2026-11-14T12:50:43.089206+00:00"
-  },
-  "S7204": {
-   "title": "JuJu Watkins projected No. 1 WNBA pick in 2027 mock draft",
-   "first": "2026-11-13T13:07:37.255539+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:26:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "JuJu Watkins projected No. 1 WNBA pick in latest 2027 mock draft"
-   },
-   "last": "2026-11-13T13:07:37.255559+00:00"
-  },
-  "S7205": {
-   "title": "Hamilton vows things will keep changing at Ferrari",
-   "first": "2026-11-13T13:07:37.255566+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-13T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton fires 'how it's going to be' vow after Ferrari F1 furore"
-   },
-   "last": "2026-11-13T13:07:37.255572+00:00"
-  },
-  "S7206": {
-   "title": "Hezemans expects Verstappen to contend for 2027 title",
-   "first": "2026-11-13T13:07:37.255592+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-13T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Interessante Verstappen-factor wijst op toekomstig succes: \"Dan maakt hij serieus kans\""
-   },
-   "last": "2026-11-13T13:07:37.255598+00:00"
   },
   "S7207": {
    "title": "UConn men's basketball searching for identity after 3-1 start",
@@ -13439,9 +13397,48 @@
     "FormulaPassion": "Gomme da bagnato, Pirelli al lavoro per il 2027"
    },
    "last": "2026-11-15T13:04:15.998274+00:00"
+  },
+  "S7669": {
+   "title": "Autosport opinion: Red Bull must stop treating Lawson as a failure",
+   "first": "2026-11-15T13:14:17.898401+00:00",
+   "sources": {
+    "Autosport": "2026-11-15T13:08:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Retaining Lawson isn't enough – Red Bull must stop treating him like a failure"
+   },
+   "last": "2026-11-15T13:14:17.898423+00:00"
+  },
+  "S7670": {
+   "title": "Anniversary piece: Hamilton equals Schumacher's seven titles record",
+   "first": "2026-11-15T13:14:17.898427+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton matches F1 history after Lance Stroll achieves career first"
+   },
+   "last": "2026-11-15T13:14:17.898431+00:00"
+  },
+  "S7671": {
+   "title": "Vowles says Williams' 2026 setback is actually positive",
+   "first": "2026-11-15T13:14:17.898433+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-15T13:11:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "James Vowles: Warum der Williams-Rückschlag 2026 sogar positiv ist - Motorsport-Total.com"
+   },
+   "last": "2026-11-15T13:14:17.898436+00:00"
   }
  },
- "story_seq": 7668,
+ "story_seq": 7671,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13560,7 +13557,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T13:04:12.818504+00:00",
+ "last_run": "2026-11-15T13:14:14.202034+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14690,6 +14687,11 @@
    "t": "2026-11-15T13:04:20.603394+00:00",
    "title": "Pirelli, 2027 için yağmur lastiklerinde yeni bir özellik üzerinde çalışıyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-15T13:14:19.985134+00:00",
+   "title": "James Vowles: Williams'ın 2026'daki gerilemesi aslında olumlu",
+   "source": "Motorsport-Total"
   }
  ]
 }
