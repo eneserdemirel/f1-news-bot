@@ -1,16 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "97f25a2452e31266": "2026-11-01T22:56:59.028917+00:00",
-  "0879a6cabe5a5ac3": "2026-11-01T22:56:59.028917+00:00",
-  "e3855a537daca9c3": "2026-11-01T22:56:59.028917+00:00",
-  "9f021344773f2ae4": "2026-11-01T22:56:59.028917+00:00",
-  "5702c37140bbc684": "2026-11-01T22:56:59.028917+00:00",
-  "939c7ebaf41492a8": "2026-11-01T23:01:58.910467+00:00",
-  "3a9ff1da7fe59174": "2026-11-01T23:01:58.910467+00:00",
-  "26fc3c66b1021ea6": "2026-11-01T23:01:58.910467+00:00",
-  "aaad17da4b644aa3": "2026-11-01T23:01:58.910467+00:00",
-  "08c6e9588548aae2": "2026-11-01T23:01:58.910467+00:00",
   "a01dbb6fb5e5791d": "2026-11-01T23:06:57.037555+00:00",
   "28f3dbd2657d64cc": "2026-11-01T23:06:57.037555+00:00",
   "798c18cae0915c45": "2026-11-01T23:06:57.037555+00:00",
@@ -6815,7 +6805,10 @@
   "2ec078bd1599ddf7": "2026-11-15T22:55:32.203058+00:00",
   "aaf1e79bb073851e": "2026-11-15T22:55:32.203058+00:00",
   "77fb53ac99191b6b": "2026-11-15T22:55:32.203058+00:00",
-  "7cf9a1538e7a58c5": "2026-11-15T22:55:32.203058+00:00"
+  "7cf9a1538e7a58c5": "2026-11-15T22:55:32.203058+00:00",
+  "9d25463024563e51": "2026-11-15T23:05:31.840030+00:00",
+  "8be416e7f081bffb": "2026-11-15T23:05:31.840030+00:00",
+  "1f5ba0dd8e2e8893": "2026-11-15T23:05:31.840030+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7114,45 +7107,6 @@
     "ESPN F1": "Goalkeeper banned 12 games for collision that led to Spanish player's death"
    },
    "last": "2026-11-14T00:19:06.342743+00:00"
-  },
-  "S7304": {
-   "title": "Lakers' Austin Reaves day-to-day with left heel bruise",
-   "first": "2026-11-13T22:59:05.206434+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T22:51:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lakers' Austin Reaves day-to-day with left heel bruise"
-   },
-   "last": "2026-11-13T22:59:05.206455+00:00"
-  },
-  "S7305": {
-   "title": "49ers injury report: Williams, Greenlaw questionable, Evans out",
-   "first": "2026-11-13T22:59:05.206461+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T22:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
-   },
-   "last": "2026-11-13T22:59:05.206466+00:00"
-  },
-  "S7306": {
-   "title": "Myles Garrett listed as questionable vs. Cardinals",
-   "first": "2026-11-13T22:59:05.206470+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T21:01:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Myles Garrett listed as questionable vs. Cardinals"
-   },
-   "last": "2026-11-13T22:59:05.206475+00:00"
   },
   "S7307": {
    "title": "FAA ground stop disrupts college football team air travel",
@@ -13487,9 +13441,48 @@
     "ESPN F1": "LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks"
    },
    "last": "2026-11-15T22:55:34.908708+00:00"
+  },
+  "S7789": {
+   "title": "Derrick Jones Jr. elevates for big-time block",
+   "first": "2026-11-15T23:05:35.852009+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T23:02:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Derrick Jones Jr. elevates for the big-time block"
+   },
+   "last": "2026-11-15T23:05:35.852030+00:00"
+  },
+  "S7790": {
+   "title": "College football's best races down the homestretch preview",
+   "first": "2026-11-15T23:05:35.852036+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T22:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sizing up college football's best races down the homestretch"
+   },
+   "last": "2026-11-15T23:05:35.852042+00:00"
+  },
+  "S7791": {
+   "title": "Verstappen and Norris say racing approach unchanged since 2025",
+   "first": "2026-11-15T23:05:35.852046+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T23:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen and Norris reveal why nothing has changed since 2025 title fight"
+   },
+   "last": "2026-11-15T23:05:35.852051+00:00"
   }
  },
- "story_seq": 7788,
+ "story_seq": 7791,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13608,7 +13601,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T22:55:32.203058+00:00",
+ "last_run": "2026-11-15T23:05:31.840030+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
@@ -14772,6 +14765,11 @@
   {
    "t": "2026-11-15T22:05:39.963020+00:00",
    "title": "Las Vegas'taki unutulan yarışta Piquet, şampiyonluk için neredeyse yıkılıyordu",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-15T23:05:40.833946+00:00",
+   "title": "Verstappen ve Norris: 2025 şampiyonluk mücadelesinden bu yana bir şey değişmedi",
    "source": "GPblog"
   }
  ]
