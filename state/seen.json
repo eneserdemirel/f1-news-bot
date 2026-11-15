@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6ec5f577bcde26fc": "2026-11-01T05:54:23.220492+00:00",
-  "da89d961634a3463": "2026-11-01T05:54:23.220492+00:00",
   "60e65b89e35f5ade": "2026-11-01T06:04:27.049167+00:00",
   "bd31ecf7f4f7b076": "2026-11-01T06:04:27.049167+00:00",
   "c3e867a258ab0dc6": "2026-11-01T06:04:27.049167+00:00",
@@ -6985,7 +6983,10 @@
   "a193dca260a92659": "2026-11-15T05:32:49.810851+00:00",
   "32453b90887e4032": "2026-11-15T05:43:36.130495+00:00",
   "5acbc7f084de36b5": "2026-11-15T05:43:36.130495+00:00",
-  "8907ba4c518e78b3": "2026-11-15T05:53:36.450695+00:00"
+  "8907ba4c518e78b3": "2026-11-15T05:53:36.450695+00:00",
+  "6ec330ea8fde98ea": "2026-11-15T06:03:39.895222+00:00",
+  "8ce7a8c185e61c8d": "2026-11-15T06:03:39.895222+00:00",
+  "71225e1ab29f96c2": "2026-11-15T06:03:39.895222+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7284,19 +7285,6 @@
     "FormulaPassion": "Hamilton, frecciata ad Alonso? “Ci sono piloti più anziani che parlano male dei giovani. Non voglio essere come loro”"
    },
    "last": "2026-11-13T07:56:56.574603+00:00"
-  },
-  "S7111": {
-   "title": "Blues 1-0 Mammoth NHL game recap",
-   "first": "2026-11-13T05:46:20.165710+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T05:09:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Blues 1-0 Mammoth (13 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-13T05:56:19.238720+00:00"
   },
   "S7114": {
    "title": "Lando Norris birthday tribute and 2025 title recap video",
@@ -13752,9 +13740,48 @@
     "ESPN F1": "Lakers' Austin Reaves (heel bruise) to sit out vs. Suns"
    },
    "last": "2026-11-15T05:43:37.937144+00:00"
+  },
+  "S7603": {
+   "title": "Costa Rica T20I tour of Falkland Islands at Stanley",
+   "first": "2026-11-15T06:03:43.219233+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T05:55:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2nd T20I, Costa Rica tour of Falkland Islands at Stanley, Nov 15 2026"
+   },
+   "last": "2026-11-15T06:03:43.219251+00:00"
+  },
+  "S7604": {
+   "title": "Islanders 6-2 Ducks NHL game recap",
+   "first": "2026-11-15T06:03:43.219256+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T05:52:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Islanders 6-2 Ducks (15 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-15T06:03:43.219261+00:00"
+  },
+  "S7605": {
+   "title": "Hamilton and Antonelli share bizarre championship coincidence",
+   "first": "2026-11-15T06:03:43.219264+00:00",
+   "sources": {
+    "GPblog": "2026-11-15T06:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton and Antonelli linked by bizarre F1 championship coincidence"
+   },
+   "last": "2026-11-15T06:03:43.219268+00:00"
   }
  },
- "story_seq": 7602,
+ "story_seq": 7605,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13873,7 +13900,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T05:53:36.450695+00:00",
+ "last_run": "2026-11-15T06:03:39.895222+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-14 22:00",
@@ -14803,6 +14830,11 @@
    "t": "2026-11-15T05:33:00.215387+00:00",
    "title": "Hamilton'ın Leclerc sonrası \"İtalya'ya mesaj\" yorumları tartışılıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-15T06:03:47.436800+00:00",
+   "title": "Hamilton ve Antonelli'yi şampiyonluk yolunda ilginç bir tesadüf birleştiriyor",
+   "source": "GPblog"
   }
  ]
 }
