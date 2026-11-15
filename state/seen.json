@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3cfe3254e0a30231": "2026-11-01T22:06:05.785956+00:00",
-  "277ccd80907e5144": "2026-11-01T22:06:05.785956+00:00",
-  "6ea55ee062396ccb": "2026-11-01T22:06:05.785956+00:00",
-  "7c52bc68fa418a09": "2026-11-01T22:06:05.785956+00:00",
-  "8a9b084a2354c33a": "2026-11-01T22:11:08.066451+00:00",
   "37802e1099e63eec": "2026-11-01T22:16:05.973677+00:00",
   "c32bd8bcbbaf4cb2": "2026-11-01T22:21:09.269308+00:00",
   "1244661dc468f53a": "2026-11-01T22:26:08.001297+00:00",
@@ -6873,7 +6868,9 @@
   "814a98e7f9ffe34d": "2026-11-15T22:05:31.635081+00:00",
   "565af6010292dd63": "2026-11-15T22:05:31.635081+00:00",
   "e7e170197b016238": "2026-11-15T22:05:31.635081+00:00",
-  "ad09475fff2a5c6d": "2026-11-15T22:05:31.635081+00:00"
+  "ad09475fff2a5c6d": "2026-11-15T22:05:31.635081+00:00",
+  "72861d593451c158": "2026-11-15T22:15:31.789907+00:00",
+  "d9bc704d6898e49a": "2026-11-15T22:15:31.789907+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13402,9 +13399,35 @@
     "GPblog": "The forgotten Las Vegas race where an F1 champion almost collapsed"
    },
    "last": "2026-11-15T22:05:35.501947+00:00"
+  },
+  "S7776": {
+   "title": "Colts 24-22 Dolphins game recap",
+   "first": "2026-11-15T22:15:33.952642+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T22:07:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colts 24-22 Dolphins (Nov 15, 2026) Game Recap"
+   },
+   "last": "2026-11-15T22:15:33.952667+00:00"
+  },
+  "S7777": {
+   "title": "Isaac TeSlaa sensational touchdown catch for Lions",
+   "first": "2026-11-15T22:15:33.952673+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T21:55:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Isaac TeSlaa makes sensational TD grab for the Lions"
+   },
+   "last": "2026-11-15T22:15:33.952678+00:00"
   }
  },
- "story_seq": 7775,
+ "story_seq": 7777,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13523,137 +13546,12 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T22:05:31.635081+00:00",
+ "last_run": "2026-11-15T22:15:31.789907+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-12T22:06:58.182217+00:00",
-   "title": "Mercedes, 2027 öncesi tek hâkim olamayacağından endişe ediyor",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-12T22:06:58.577620+00:00",
-   "title": "F1'in yıl sonu testi 2026'da Abu Dhabi'de yapılacak",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-12T22:06:58.994822+00:00",
-   "title": "Verstappen, Brezilya'da Red Bull'un lastik sorunundan en çok etkilenen pilot oldu",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-12T22:06:59.387433+00:00",
-   "title": "Mercedes, George Russell için takım emirlerine açık olduğunu söyledi",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-12T22:06:59.791446+00:00",
-   "title": "Tsunoda'nın Audi itirazı için duruşma tarihi belli oldu",
-   "source": "The Race"
-  },
-  {
-   "t": "2026-11-12T22:07:00.196212+00:00",
-   "title": "Grosjean: Tek koltuklu yarışlardaki kariyerim büyük ihtimalle bitti",
-   "source": "Crash.net"
-  },
-  {
-   "t": "2026-11-12T22:07:00.624209+00:00",
-   "title": "F1 takım değerlemeleri patlıyor; Ferrari 8,2 milyar dolarla zirvede",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-12T22:07:01.010742+00:00",
-   "title": "Bourdais: FIA'nın kategorileri beni emekliliğe itiyor",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-12T22:07:01.433611+00:00",
-   "title": "Hadjar, sezonun çok erken bitmesinden üzüntü duyduğunu söyledi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-12T22:07:01.828089+00:00",
-   "title": "Hülkenberg, Brezilya'da zorlu koşullarda puan topladı",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-12T22:07:02.234750+00:00",
-   "title": "Red Bull mekanikçisi, Verstappen'in 2020 Macaristan GP hikayesini anlattı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-12T22:07:02.633323+00:00",
-   "title": "Camara Haas'ı ikna etti, ama hız tek etken değildi",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-12T22:07:03.073915+00:00",
-   "title": "Liam Lawson, tüm zamanların F1 takım rekoruna yaklaşıyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-12T22:07:03.515854+00:00",
-   "title": "Antonelli F1 şampiyonu oldu, Mercedes konstrüktörler şampiyonluğunu kazandı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-12T22:07:03.946306+00:00",
-   "title": "Alan Jones, Williams ailesinin anma mesajında 'silinmez iz' bıraktığı için anıldı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-12T22:07:04.343960+00:00",
-   "title": "Schumacher: Ferrari'deki iç rekabet ve Verstappen/Antonelli varsayımı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-12T22:07:04.747288+00:00",
-   "title": "Leclerc, Brezilya GP'sinde mühendisiyle yaşadığı radyo konuşmalarında sabrını kaybetti",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-12T22:07:05.154006+00:00",
-   "title": "Wolff istifa etmek istedi ama Källenius buna izin vermedi",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-12T22:07:05.554777+00:00",
-   "title": "Mercedes pilotu Durksen'in sponsoru ciddi sorunlar yaşıyor",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-12T22:07:05.965565+00:00",
-   "title": "Piastri, 2025 şampiyonluk mücadelesinin stresini özlediğini itiraf etti",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-12T22:07:06.402116+00:00",
-   "title": "Liam Lawson'a Montoya'dan 'Verstappen olabilir' övgüsü",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-12T22:07:06.796674+00:00",
-   "title": "Racing Bulls, 2027 pilot kadrosunu Lawson ve Lindblad ile açıkladı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-12T22:07:07.185741+00:00",
-   "title": "Antonelli 2027 şampiyonluk savunmasında en çok korktuğu rakibi açıkladı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-12T22:07:07.590115+00:00",
-   "title": "Nikola Tsolov, Red Bull ve Racing Bulls'un yedek pilotu olacak",
-   "source": "Formula 1"
-  },
-  {
-   "t": "2026-11-12T22:07:08.007358+00:00",
-   "title": "Russell, genç pilotlar için karting akademisi kuruyor",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-12T23:06:07.976722+00:00",
    "title": "Lawson'a uyarı: Şampiyonluk için Red Bull'dan ayrılmalı",
