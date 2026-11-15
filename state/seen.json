@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b6fae162b08af08e": "2026-11-01T13:45:34.990216+00:00",
-  "384cd0122ec60f62": "2026-11-01T13:45:34.990216+00:00",
-  "b98ae21ecd41a8b4": "2026-11-01T13:50:38.914445+00:00",
   "17b223ed9405ab37": "2026-11-01T13:55:33.344135+00:00",
   "b3960ceb19c7357d": "2026-11-01T13:55:33.344135+00:00",
   "40b078929e16edce": "2026-11-01T13:55:33.344135+00:00",
@@ -6920,7 +6917,11 @@
   "a1bcccfee6fb8759": "2026-11-15T13:34:12.646058+00:00",
   "7f518b8b2cc197e0": "2026-11-15T13:44:25.026192+00:00",
   "fd90918ca108bc6e": "2026-11-15T13:44:25.026192+00:00",
-  "63d2b2af9b7e3f14": "2026-11-15T13:44:25.026192+00:00"
+  "63d2b2af9b7e3f14": "2026-11-15T13:44:25.026192+00:00",
+  "d45468d551ef886d": "2026-11-15T13:54:13.074550+00:00",
+  "97f80700e9bb3bd5": "2026-11-15T13:54:13.074550+00:00",
+  "fa43112b7b267d3b": "2026-11-15T13:54:13.074550+00:00",
+  "e7086c0c09aeb18c": "2026-11-15T13:54:13.074550+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7242,19 +7243,6 @@
    },
    "last": "2026-11-13T17:38:40.310988+00:00"
   },
-  "S7193": {
-   "title": "AI analysis and Blade 7 dartboard feature",
-   "first": "2026-11-13T12:27:38.434878+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "AI analysis and 10 million darts: Inside the PDC's new Blade 7 dartboard"
-   },
-   "last": "2026-11-13T13:47:37.805251+00:00"
-  },
   "S7196": {
    "title": "Antonelli to meet President Mattarella at Quirinale",
    "first": "2026-11-13T12:27:38.434931+00:00",
@@ -7311,32 +7299,6 @@
     "ESPN F1": "In Pochettino, Man United have finally hired a proper manager"
    },
    "last": "2026-11-13T16:17:43.189546+00:00"
-  },
-  "S7214": {
-   "title": "Bunting comments on Littler struggling in darts",
-   "first": "2026-11-13T13:47:37.805256+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T11:04:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'Sigh of relief' to see Littler struggle - Bunting"
-   },
-   "last": "2026-11-13T13:47:37.805260+00:00"
-  },
-  "S7215": {
-   "title": "Modrić praises Harry Kane's record-breaking achievement",
-   "first": "2026-11-13T13:47:37.805264+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T09:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luka Modrić hails record-breaker Harry Kane: 'He deserves it'"
-   },
-   "last": "2026-11-13T13:47:37.805268+00:00"
   },
   "S7216": {
    "title": "McIlroy and Hatton share Dubai golf lead",
@@ -11050,14 +11012,16 @@
    "title": "Piastri dismisses link between 2025 title collapse and McLaren woes",
    "first": "2026-11-14T19:11:25.857510+00:00",
    "sources": {
-    "RacingNews365": "2026-11-14T19:00:00+00:00"
+    "RacingNews365": "2026-11-14T19:00:00+00:00",
+    "RacingNews365 NL": "2026-11-15T13:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Oscar Piastri dismisses F1 title collapse link to ongoing McLaren woes"
+    "RacingNews365": "Oscar Piastri dismisses F1 title collapse link to ongoing McLaren woes",
+    "RacingNews365 NL": "Piastri verklaart moeizaam seizoen en ziet problemen los van titelverlies in 2025"
    },
-   "last": "2026-11-14T19:11:25.857516+00:00"
+   "last": "2026-11-15T13:54:16.063420+00:00"
   },
   "S7499": {
    "title": "Liam Lawson wants more music performances after debut",
@@ -13382,9 +13346,35 @@
     "PlanetF1": "Former F1 driver makes comeback with McLaren test"
    },
    "last": "2026-11-15T13:44:27.839267+00:00"
+  },
+  "S7677": {
+   "title": "Chiefs consulted baseball doctors on Mahomes' elbow",
+   "first": "2026-11-15T13:54:16.063387+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T12:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow"
+   },
+   "last": "2026-11-15T13:54:16.063407+00:00"
+  },
+  "S7678": {
+   "title": "Perez on key ingredient for Cadillac team-mate search",
+   "first": "2026-11-15T13:54:16.063411+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-15T13:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Sergio Perez shares 'key' ingredient in clear demand over Cadillac team-mate"
+   },
+   "last": "2026-11-15T13:54:16.063415+00:00"
   }
  },
- "story_seq": 7676,
+ "story_seq": 7678,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13503,7 +13493,7 @@
   ]
  ],
  "calendar_updated": "2026-11-14T23:11:55.050939+00:00",
- "last_run": "2026-11-15T13:44:25.026192+00:00",
+ "last_run": "2026-11-15T13:54:13.074550+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 15:00",
@@ -14653,6 +14643,11 @@
    "t": "2026-11-15T13:44:34.102827+00:00",
    "title": "Nyck de Vries McLaren testiyle F1'e geri döndü",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-15T13:54:19.760439+00:00",
+   "title": "Perez, Cadillac takım arkadaşında aradığı 'anahtar' özelliği açıkladı",
+   "source": "RacingNews365"
   }
  ]
 }
