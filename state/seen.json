@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b07e92478463ca78": "2026-11-02T09:02:45.887990+00:00",
-  "0ed0ae3590b50018": "2026-11-02T09:02:45.887990+00:00",
-  "184ddec4fa8f5574": "2026-11-02T09:02:45.887990+00:00",
-  "87f43654d02dc6c2": "2026-11-02T09:02:45.887990+00:00",
-  "f04870c71b1956ff": "2026-11-02T09:02:45.887990+00:00",
-  "ea2479177ef97447": "2026-11-02T09:02:45.887990+00:00",
-  "a62d2bd0eb99486f": "2026-11-02T09:02:45.887990+00:00",
   "0d1a125b4f162e9a": "2026-11-02T09:12:38.046360+00:00",
   "cd2b85715dbe1374": "2026-11-02T09:12:38.046360+00:00",
   "3b8fde082e0dc019": "2026-11-02T09:12:38.046360+00:00",
@@ -6721,7 +6714,10 @@
   "c01f6b25b3260a42": "2026-11-16T08:46:39.158636+00:00",
   "609ba90527efff82": "2026-11-16T08:56:49.775118+00:00",
   "f304e0baf7c26bbf": "2026-11-16T08:56:49.775118+00:00",
-  "9181ae07135e206a": "2026-11-16T08:56:49.775118+00:00"
+  "9181ae07135e206a": "2026-11-16T08:56:49.775118+00:00",
+  "32768d894615ff08": "2026-11-16T09:06:34.680003+00:00",
+  "b915381448476f25": "2026-11-16T09:06:34.680003+00:00",
+  "a46ff54a93740706": "2026-11-16T09:06:34.680003+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6996,45 +6992,6 @@
     "ESPN F1": "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'"
    },
    "last": "2026-11-14T22:12:12.213942+00:00"
-  },
-  "S7388": {
-   "title": "Heat beat Cavaliers 133-121 in NBA game",
-   "first": "2026-11-14T09:00:41.035982+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T04:04:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Heat 133-121 Cavaliers (Nov 13, 2026) Game Recap"
-   },
-   "last": "2026-11-14T09:00:41.036001+00:00"
-  },
-  "S7389": {
-   "title": "Wolff compares Ferrari Hamilton-Leclerc spat to Rosberg era",
-   "first": "2026-11-14T09:00:41.036007+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T08:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Toto Wolff draws parallel between Ferrari spat and Lewis Hamilton-Nico Rosberg era"
-   },
-   "last": "2026-11-14T09:00:41.036012+00:00"
-  },
-  "S7390": {
-   "title": "Insider expects Wolff to step down as Mercedes boss",
-   "first": "2026-11-14T09:00:41.036015+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T08:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Toto Wolff Mercedes exit plan revealed as F1 commentator tips successor"
-   },
-   "last": "2026-11-14T09:00:41.036019+00:00"
   },
   "S7391": {
    "title": "South Korea vs Belgium football live score",
@@ -13409,7 +13366,7 @@
    "titles": {
     "Motorsport-Total": "Ralf Schumacher: Bruder Michael war \"deutlich besser\" als Lewis Hamilton - Motorsport-Total.com"
    },
-   "last": "2026-11-16T05:46:14.737472+00:00"
+   "last": "2026-11-16T09:06:37.195750+00:00"
   },
   "S7876": {
    "title": "Jay Shah re-elected as ICC chairman for second term",
@@ -13888,9 +13845,22 @@
     "GPFans": "Christian Horner offered £1 to get into F1 - he walked away with £67million"
    },
    "last": "2026-11-16T08:46:40.960166+00:00"
+  },
+  "S7912": {
+   "title": "McLaren bringing Las Vegas upgrades as groundwork for 2027",
+   "first": "2026-11-16T09:06:37.195720+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-16T09:05:48+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "McLaren Las Vegas upgrades lay foundations for F1 2027"
+   },
+   "last": "2026-11-16T09:06:37.195740+00:00"
   }
  },
- "story_seq": 7911,
+ "story_seq": 7912,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14009,22 +13979,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T08:56:49.775118+00:00",
+ "last_run": "2026-11-16T09:06:34.680003+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T08:56:54.439235+00:00",
-   "title": "Toto Wolff, Mercedes'in uzun vadeli F1 vizyonunu açıkladı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-13T08:56:54.870363+00:00",
-   "title": "Nyck de Vries, McLaren ile MCL39 aracında test sürüşü yaptı",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-13T09:06:54.789135+00:00",
    "title": "FIA, Leclerc'e hakaret eden İngiliz gazeteci McEvoy'u sezon sonuna kadar askıya aldı",
