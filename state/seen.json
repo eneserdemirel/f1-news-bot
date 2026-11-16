@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c16508b4833c63fa": "2026-11-02T10:13:20.021058+00:00",
-  "5c1cd0e1553de9f6": "2026-11-02T10:13:20.021058+00:00",
-  "3a40d6b3d1356f71": "2026-11-02T10:13:20.021058+00:00",
-  "5eac9924cce00906": "2026-11-02T10:13:20.021058+00:00",
-  "202882932f3c6b8d": "2026-11-02T10:13:20.021058+00:00",
-  "4cc3eb8b936ccc1e": "2026-11-02T10:13:20.021058+00:00",
   "4e67551a2943a70f": "2026-11-02T10:23:16.768494+00:00",
   "24b61d07ede8301f": "2026-11-02T10:23:16.768494+00:00",
   "a8282fa91ef8bfd7": "2026-11-02T10:23:16.768494+00:00",
@@ -6644,7 +6638,12 @@
   "119fee6ceddb61f1": "2026-11-16T10:06:34.846186+00:00",
   "c74d81cc019f5331": "2026-11-16T10:06:34.846186+00:00",
   "f1acb53e1ac08d81": "2026-11-16T10:06:34.846186+00:00",
-  "2dd8ef794baeee37": "2026-11-16T10:06:34.846186+00:00"
+  "2dd8ef794baeee37": "2026-11-16T10:06:34.846186+00:00",
+  "20dac1c1fc56378b": "2026-11-16T10:16:34.055340+00:00",
+  "f844af10e96c639d": "2026-11-16T10:16:34.055340+00:00",
+  "17833850ac04b339": "2026-11-16T10:16:34.055340+00:00",
+  "2eb2873f02ff4203": "2026-11-16T10:16:34.055340+00:00",
+  "27bd8e48cd16f9d6": "2026-11-16T10:16:34.055340+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13124,7 +13123,7 @@
    "titles": {
     "ESPN F1": "Canucks 6-3 Golden Knights (16 Nov, 2026) Game Recap"
    },
-   "last": "2026-11-16T05:16:08.469310+00:00"
+   "last": "2026-11-16T10:16:37.603405+00:00"
   },
   "S7872": {
    "title": "Mahomes stars for Chiefs, early connection with Josh Downs",
@@ -13612,7 +13611,9 @@
     "FormulaPassion": "2026-11-16T09:10:05+00:00",
     "AS": "2026-11-16T09:34:31+00:00",
     "Autosport": "2026-11-16T09:52:30+00:00",
-    "PlanetF1": "2026-11-16T09:56:37+00:00"
+    "PlanetF1": "2026-11-16T09:56:37+00:00",
+    "Formula 1": "2026-11-16T10:16:37.603377+00:00",
+    "Sky Sports F1": "2026-11-16T09:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13627,9 +13628,11 @@
     "FormulaPassion": "La Haas riconferma Camara per il GP di Las Vegas. Hirakawa torna per le FP1",
     "AS": "Câmara repite en Las Vegas",
     "Autosport": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
-    "PlanetF1": "Haas confirm Esteban Ocon replacement for Las Vegas"
+    "PlanetF1": "Haas confirm Esteban Ocon replacement for Las Vegas",
+    "Formula 1": "Haas confirm Camara to race for the team in Las Vegas",
+    "Sky Sports F1": "Camara to drive for Haas again at Las Vegas GP"
    },
-   "last": "2026-11-16T10:06:41.845962+00:00"
+   "last": "2026-11-16T10:16:37.603409+00:00"
   },
   "S7909": {
    "title": "Italian TV channels and times for Las Vegas GP",
@@ -13818,9 +13821,22 @@
     "GPFans": "Mercedes insider reveals who pushed back on Kimi Antonelli replacing Lewis Hamilton"
    },
    "last": "2026-11-16T10:06:41.845968+00:00"
+  },
+  "S7923": {
+   "title": "Antonelli becomes first champion in 44 years with rare feat",
+   "first": "2026-11-16T10:16:37.603414+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T10:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Kimi Antonelli becomes first F1 champion in 44 years to deliver rare achivement"
+   },
+   "last": "2026-11-16T10:16:37.603418+00:00"
   }
  },
- "story_seq": 7922,
+ "story_seq": 7923,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13939,27 +13955,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T10:06:34.846186+00:00",
+ "last_run": "2026-11-16T10:16:34.055340+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T10:06:58.340762+00:00",
-   "title": "Forrest'tan F1 için çarpıcı vizyon: müze ve Formula E meydan okuması",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-13T10:06:58.733744+00:00",
-   "title": "Ricciardo, ünlü 'shoey' geleneğinin kökenini anlattı",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-13T10:06:59.300640+00:00",
-   "title": "Mercedes, Formula 1 tarihindeki dokuzuncu takımlar şampiyonluğunu kazandı",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-13T10:26:55.438161+00:00",
    "title": "Palmowski, Rodin Motorsport ile 2027'de Formula Regional'a yükseliyor",
@@ -15059,6 +15060,11 @@
    "t": "2026-11-16T10:06:46.315339+00:00",
    "title": "Mercedes'te Antonelli'nin Hamilton'ın yerine getirilmesine itiraz eden kişi kim?",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-16T10:16:42.737419+00:00",
+   "title": "Kimi Antonelli, 44 yılın ilk F1 şampiyonu oldu",
+   "source": "RacingNews365"
   }
  ]
 }
