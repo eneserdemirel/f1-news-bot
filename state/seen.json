@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "abe4a02b3a56649e": "2026-11-02T18:54:12.222630+00:00",
-  "25f17f03214a706c": "2026-11-02T18:54:12.222630+00:00",
   "2bd600292d25ce9b": "2026-11-02T19:04:07.668146+00:00",
   "67433d4d6e87d5bb": "2026-11-02T19:04:07.668146+00:00",
   "3dcb437278eef53e": "2026-11-02T19:04:07.668146+00:00",
@@ -6621,7 +6619,9 @@
   "c7f5ce0df878e5ac": "2026-11-16T18:48:10.975959+00:00",
   "16672a8f4eaae157": "2026-11-16T18:48:10.975959+00:00",
   "b8560dbf743d7613": "2026-11-16T18:48:10.975959+00:00",
-  "87371e0530ae9e7d": "2026-11-16T18:48:10.975959+00:00"
+  "87371e0530ae9e7d": "2026-11-16T18:48:10.975959+00:00",
+  "b9cdc9e28507546b": "2026-11-16T18:58:10.134024+00:00",
+  "5185bc8fcfe6568b": "2026-11-16T18:58:10.134024+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6815,19 +6815,6 @@
     "ESPN F1": "Alabama makes last-second call to start QB Keelon Russell"
    },
    "last": "2026-11-14T20:12:06.457572+00:00"
-  },
-  "S7492": {
-   "title": "Pochettino begins USMNT farewell tour against Haiti",
-   "first": "2026-11-14T18:51:25.957202+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T18:40:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Live updates: Mauricio Pochettino begins farewell tour as USMNT take on Haiti"
-   },
-   "last": "2026-11-14T18:51:25.957222+00:00"
   },
   "S7493": {
    "title": "Wisconsin sports teams generic landing page",
@@ -13254,14 +13241,14 @@
    "title": "FIFA reelection of Gianni Infantino seen as formality",
    "first": "2026-11-16T14:17:24.369650+00:00",
    "sources": {
-    "ESPN F1": "2026-11-16T14:13:39+00:00"
+    "ESPN F1": "2026-11-16T14:13:13+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino"
    },
-   "last": "2026-11-16T14:57:22.300987+00:00"
+   "last": "2026-11-16T18:58:12.092374+00:00"
   },
   "S7977": {
    "title": "Concacaf W Championship qualification format and matchups explained",
@@ -14138,9 +14125,22 @@
     "GPFans": "Liam Lawson compared to F1 champion as Mark Hughes sends compelling Red Bull message"
    },
    "last": "2026-11-16T18:48:16.635646+00:00"
+  },
+  "S8043": {
+   "title": "NFL Week 11 early betting picks and predictions",
+   "first": "2026-11-16T18:58:12.092346+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T18:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Early bets for Week 11: Will Broncos keep Raiders down? Will 49ers stay hot?"
+   },
+   "last": "2026-11-16T18:58:12.092365+00:00"
   }
  },
- "story_seq": 8042,
+ "story_seq": 8043,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14259,17 +14259,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T18:48:10.975959+00:00",
+ "last_run": "2026-11-16T18:58:10.134024+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T18:48:40.570392+00:00",
-   "title": "Kimi Antonelli, Mattarella'yı Monza'ya davet etti",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-11-13T18:58:48.461213+00:00",
    "title": "Antonelli, Cumhurbaşkanı Mattarella ile Quirinale'de buluştu",
