@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3ac1263d2bd79973": "2026-11-02T18:34:13.850214+00:00",
-  "d8f48f532d1bfa8f": "2026-11-02T18:34:13.850214+00:00",
   "43f8668e54374559": "2026-11-02T18:44:06.585447+00:00",
   "c88e1c65f17a64dc": "2026-11-02T18:44:06.585447+00:00",
   "bfc450b7b52ab1e7": "2026-11-02T18:44:06.585447+00:00",
@@ -6620,7 +6618,10 @@
   "0790b945bb179b05": "2026-11-16T18:18:10.306524+00:00",
   "708c47d9074b25f0": "2026-11-16T18:18:10.306524+00:00",
   "c5be45ade78a2c7d": "2026-11-16T18:28:10.474337+00:00",
-  "325c519567704175": "2026-11-16T18:28:10.474337+00:00"
+  "325c519567704175": "2026-11-16T18:28:10.474337+00:00",
+  "1669ecb2578e3282": "2026-11-16T18:38:06.691994+00:00",
+  "09ed62b998cc1e29": "2026-11-16T18:38:06.691994+00:00",
+  "f105131e2bd057d5": "2026-11-16T18:38:06.691994+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6802,19 +6803,6 @@
    },
    "last": "2026-11-14T19:32:13.808688+00:00"
   },
-  "S7488": {
-   "title": "Guingamp vs Rodez Aveyron odds and spread",
-   "first": "2026-11-14T18:31:24.785325+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T18:26:07+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Guingamp vs. Rodez Aveyron (Nov 20, 2026) Odds and Spread"
-   },
-   "last": "2026-11-14T18:31:24.785344+00:00"
-  },
   "S7489": {
    "title": "Alabama starts Keelon Russell at quarterback",
    "first": "2026-11-14T18:31:24.785350+00:00",
@@ -6827,19 +6815,6 @@
     "ESPN F1": "Alabama makes last-second call to start QB Keelon Russell"
    },
    "last": "2026-11-14T20:12:06.457572+00:00"
-  },
-  "S7490": {
-   "title": "McIlroy set for Race to Dubai showdown with Chacarra",
-   "first": "2026-11-14T18:31:24.785357+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T14:19:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rory McIlroy set for showdown with Eugenio Chacarra for Race to Dubai title"
-   },
-   "last": "2026-11-14T18:31:24.785361+00:00"
   },
   "S7491": {
    "title": "Hamilton says Ferrari should target P2 in constructors' standings",
@@ -14096,9 +14071,48 @@
     "ESPN F1": "Breaking down the men's 2026-27 AP week 2 Top 25 basketball poll"
    },
    "last": "2026-11-16T18:28:12.416773+00:00"
+  },
+  "S8037": {
+   "title": "Craig Bellamy urges fans to celebrate Ronaldo after Portugal exit",
+   "first": "2026-11-16T18:38:12.747212+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T18:28:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wales boss Craig Bellamy urges fans to 'just celebrate' Cristiano Ronaldo after Portugal exit"
+   },
+   "last": "2026-11-16T18:38:12.747231+00:00"
+  },
+  "S8038": {
+   "title": "Pundits say Red Bull now a title contender, rivals should worry",
+   "first": "2026-11-16T18:38:12.747236+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-16T18:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Red Bull gebombardeerd tot titelkandidaat: \"Concurrentie slaapt echt slechter!\""
+   },
+   "last": "2026-11-16T18:38:12.747241+00:00"
+  },
+  "S8039": {
+   "title": "Feature on what changed at Red Bull during Verstappen's late surge",
+   "first": "2026-11-16T18:38:12.747245+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T18:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen’s late-season surge: what changed at Red Bull?"
+   },
+   "last": "2026-11-16T18:38:12.747249+00:00"
   }
  },
- "story_seq": 8036,
+ "story_seq": 8039,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14217,17 +14231,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T18:28:10.474337+00:00",
+ "last_run": "2026-11-16T18:38:06.691994+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T18:28:44.616417+00:00",
-   "title": "Williams, Las Vegas GP için yedek pilotunu Victor Martins olarak açıkladı",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-13T18:38:44.274391+00:00",
    "title": "Tsunoda, Red Bull'da Tsolov'un atanmasıyla belirsizliğe düştü",
@@ -15307,6 +15316,11 @@
    "t": "2026-11-16T18:18:22.648523+00:00",
    "title": "Liam Lawson, Racing Bulls'ta kalıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-16T18:38:18.388431+00:00",
+   "title": "Verstappen'in sezon sonu yükselişi: Red Bull'da neler değişti?",
+   "source": "GPblog"
   }
  ]
 }
