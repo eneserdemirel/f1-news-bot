@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4e89ae82ffa2b6ae": "2026-11-02T07:07:35.758963+00:00",
   "a2926774be827a5b": "2026-11-02T07:17:35.206549+00:00",
   "b25f3d0c23f0aad6": "2026-11-02T07:17:35.206549+00:00",
   "ee23079043f46f1e": "2026-11-02T07:17:35.206549+00:00",
@@ -6739,7 +6738,11 @@
   "ed9df8a39190e914": "2026-11-16T06:56:02.356147+00:00",
   "51ffbd56f49ef08c": "2026-11-16T06:56:02.356147+00:00",
   "ce587c76c516e935": "2026-11-16T06:56:02.356147+00:00",
-  "d4edf114c8080f56": "2026-11-16T07:06:03.569200+00:00"
+  "d4edf114c8080f56": "2026-11-16T07:06:03.569200+00:00",
+  "f807f1e26974b277": "2026-11-16T07:16:04.062191+00:00",
+  "1b396d18d87c3c7e": "2026-11-16T07:16:04.062191+00:00",
+  "6a28fd930afc1c62": "2026-11-16T07:16:04.062191+00:00",
+  "903f66ba39ea5d1a": "2026-11-16T07:16:04.062191+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6808,25 +6811,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7148": {
-   "title": "Schumacher warns Russell he could become Antonelli's Barrichello",
-   "first": "2026-11-13T09:06:50.012190+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-13T09:05:11+00:00",
-    "RacingNews365 NL": "2026-11-13T12:15:00+00:00",
-    "GPblog": "2026-11-13T12:45:00+00:00",
-    "FormulaPassion": "2026-11-14T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "George Russell hit with ‘Antonelli’s Barrichello’ warning from Schumacher",
-    "RacingNews365 NL": "Russell ontvangt 'Barrichello'-waarschuwing: \"Twijfel ik geen moment aan\"",
-    "GPblog": "Russell tipped to become ‘Antonelli’s Barrichello’ in blunt verdict",
-    "FormulaPassion": "Ralf Schumacher stronca Russell: “Sarà per Antonelli ciò che Barrichello è stato per Michael”"
-   },
-   "last": "2026-11-14T07:09:51.697731+00:00"
   },
   "S7149": {
    "title": "FIA suspends journalist McEvoy for rest of season over Leclerc column",
@@ -6978,19 +6962,6 @@
    },
    "last": "2026-11-14T15:21:23.081094+00:00"
   },
-  "S7342": {
-   "title": "Mohamed Salah becomes Egypt's record goalscorer with penalty",
-   "first": "2026-11-14T04:39:51.426006+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T01:32:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mohamed Salah becomes Egypt's record goalscorer with Panenka penalty"
-   },
-   "last": "2026-11-14T07:09:51.697692+00:00"
-  },
   "S7360": {
    "title": "McLaren to bring Las Vegas upgrades laying 2027 car foundation",
    "first": "2026-11-14T06:29:48.147177+00:00",
@@ -7005,58 +6976,6 @@
     "Autosport": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas"
    },
    "last": "2026-11-14T09:20:43.457627+00:00"
-  },
-  "S7365": {
-   "title": "Red Bull closing in on 2025 points tally despite slow start",
-   "first": "2026-11-14T07:09:51.697702+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-14T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull ruikt eerherstel na moeizame start van F1-seizoen"
-   },
-   "last": "2026-11-14T07:09:51.697707+00:00"
-  },
-  "S7366": {
-   "title": "Montoya predicts Ferrari driver champion in 2027",
-   "first": "2026-11-14T07:09:51.697711+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-14T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Montoya: “Scommetterei su una Ferrari campione del mondo Piloti nel 2027”"
-   },
-   "last": "2026-11-14T07:09:51.697714+00:00"
-  },
-  "S7367": {
-   "title": "Antonelli disappointed by Imola reserve venue, mentions San Marino kart track",
-   "first": "2026-11-14T07:09:51.697717+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-14T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Antonelli su Imola: “Peccato, ci speravo”. Ma per San Marino c’è in cantiere una pista di kart”"
-   },
-   "last": "2026-11-14T07:09:51.697721+00:00"
-  },
-  "S7368": {
-   "title": "Terruzzi says Leclerc and Hamilton treated differently at Ferrari",
-   "first": "2026-11-14T07:09:51.697723+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-14T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Terruzzi: “Leclerc e Hamilton fanno politica. Ma uno è coccolato in Ferrari, l’altro sta sulle balle a tanti”"
-   },
-   "last": "2026-11-14T07:09:51.697726+00:00"
   },
   "S7369": {
    "title": "Horner casts doubt on returning to F1 paddock",
@@ -13939,9 +13858,61 @@
     "RacingNews365 NL": "Verstappen-statistiek legt indrukwekkende betrouwbaarheid Red Bull bloot"
    },
    "last": "2026-11-16T07:06:05.391294+00:00"
+  },
+  "S7893": {
+   "title": "F1 set to back new V8 engine regulations on Monday",
+   "first": "2026-11-16T07:16:07.751498+00:00",
+   "sources": {
+    "The Race": "2026-11-16T07:11:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 poised to take crucial step towards V8 engines' return"
+   },
+   "last": "2026-11-16T07:16:07.751522+00:00"
+  },
+  "S7894": {
+   "title": "Zak Brown reflects on McLaren's toxic past",
+   "first": "2026-11-16T07:16:07.751528+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren boss opens up on team's 'toxic' past: 'Recipe for disaster'"
+   },
+   "last": "2026-11-16T07:16:07.751534+00:00"
+  },
+  "S7895": {
+   "title": "Insider predicts Lawson could replace Piastri at McLaren",
+   "first": "2026-11-16T07:16:07.751538+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T07:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Piastri OUT, Lawson to McLaren: F1 insider predicts major driver moves"
+   },
+   "last": "2026-11-16T07:16:07.751542+00:00"
+  },
+  "S7896": {
+   "title": "Madrid clinic forum on physical preparation in F1",
+   "first": "2026-11-16T07:16:07.751545+00:00",
+   "sources": {
+    "AS": "2026-11-16T07:04:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "AS": "El piloto se construye desde la salud"
+   },
+   "last": "2026-11-16T07:16:07.751550+00:00"
   }
  },
- "story_seq": 7892,
+ "story_seq": 7896,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14060,22 +14031,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T07:06:03.569200+00:00",
+ "last_run": "2026-11-16T07:16:04.062191+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T07:06:54.690003+00:00",
-   "title": "Toto Wolff: Antonelli Senna değil, ama 'Senninha' olabilir",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-13T07:06:55.096094+00:00",
-   "title": "Coulthard: Verstappen için Interlagos 'favori koltuk' gibi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-13T07:16:57.498878+00:00",
    "title": "Leclerc, Hamilton'ın 'farklı yarıştığı' iddiasına yanıt vermedi",
@@ -15220,6 +15181,16 @@
    "t": "2026-11-16T07:06:10.804018+00:00",
    "title": "Verstappen'in 2026'daki dört yarış dışı kalması Red Bull'un güvenilirliğini gösteriyor",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-16T07:16:13.518072+00:00",
+   "title": "F1, V8 motorlara dönüşte kritik bir adıma hazırlanıyor",
+   "source": "The Race"
+  },
+  {
+   "t": "2026-11-16T07:16:13.851373+00:00",
+   "title": "Piastri'nin McLaren'daki yeri tartışılıyor, Lawson adı geçiyor",
+   "source": "GPFans"
   }
  ]
 }
