@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2afd1d9d230b4a7e": "2026-11-02T06:37:31.766442+00:00",
-  "59c4daf28d06042a": "2026-11-02T06:37:31.766442+00:00",
-  "f60f4236b458b596": "2026-11-02T06:37:31.766442+00:00",
-  "5fa4dcb17ba8172f": "2026-11-02T06:42:32.920993+00:00",
-  "897d3b78f78b91ea": "2026-11-02T06:42:32.920993+00:00",
   "d32e715db1fd5a8e": "2026-11-02T06:47:31.781543+00:00",
   "88fcc420ad66e6f3": "2026-11-02T06:47:31.781543+00:00",
   "b6bd52faf4e41c92": "2026-11-02T06:47:31.781543+00:00",
@@ -6747,7 +6742,8 @@
   "83ed55e0a7720216": "2026-11-16T06:26:03.877754+00:00",
   "1098a9bca3a41970": "2026-11-16T06:26:03.877754+00:00",
   "8d1bdee9a0fc5792": "2026-11-16T06:26:03.877754+00:00",
-  "6605b63d361c9d9f": "2026-11-16T06:36:04.808251+00:00"
+  "6605b63d361c9d9f": "2026-11-16T06:36:04.808251+00:00",
+  "afb9d4637a6c6e52": "2026-11-16T06:46:12.353935+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7012,19 +7008,6 @@
    },
    "last": "2026-11-14T07:09:51.697692+00:00"
   },
-  "S7357": {
-   "title": "Sooryavanshi becomes youngest men's T20 captain",
-   "first": "2026-11-14T06:09:54.992721+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T06:02:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sooryavanshi becomes youngest captain in men's T20 history"
-   },
-   "last": "2026-11-14T06:39:49.855301+00:00"
-  },
   "S7360": {
    "title": "McLaren to bring Las Vegas upgrades laying 2027 car foundation",
    "first": "2026-11-14T06:29:48.147177+00:00",
@@ -7039,32 +7022,6 @@
     "Autosport": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas"
    },
    "last": "2026-11-14T09:20:43.457627+00:00"
-  },
-  "S7361": {
-   "title": "Australia vs England 2nd ODI cricket match preview",
-   "first": "2026-11-14T06:39:49.855273+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T06:32:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Match Preview Australia vs England, 2nd ODI 2026"
-   },
-   "last": "2026-11-14T06:39:49.855292+00:00"
-  },
-  "S7362": {
-   "title": "Horner may have route back to F1 via team ownership",
-   "first": "2026-11-14T06:39:49.855305+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T06:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner return boost, Hamilton heartbreak and journalist BANNED - F1 News Today"
-   },
-   "last": "2026-11-14T06:39:49.855309+00:00"
   },
   "S7363": {
    "title": "UC San Diego vs. Utah State live score (Nov 13, 2026)",
@@ -13971,9 +13928,22 @@
     "GPFans": "Verstappen backed to fix Ferrari as Lewis Hamilton refuses to back down - F1 News Today"
    },
    "last": "2026-11-16T06:36:06.991517+00:00"
+  },
+  "S7889": {
+   "title": "Celtics 131-94 Mavericks NBA game recap",
+   "first": "2026-11-16T06:46:14.146388+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T01:41:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Celtics 131-94 Mavericks (Nov 15, 2026) Game Recap"
+   },
+   "last": "2026-11-16T06:46:14.146409+00:00"
   }
  },
- "story_seq": 7888,
+ "story_seq": 7889,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14092,7 +14062,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T06:36:04.808251+00:00",
+ "last_run": "2026-11-16T06:46:12.353935+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
