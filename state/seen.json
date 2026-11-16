@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2218bcfcaeafd733": "2026-11-02T19:24:10.313881+00:00",
   "b4ac74a6ddbc662e": "2026-11-02T19:34:10.753341+00:00",
   "855ab739892d0030": "2026-11-02T19:35:04.873915+00:00",
   "44b7cdb2a8ff32f3": "2026-11-02T19:45:03.551797+00:00",
@@ -6621,7 +6620,8 @@
   "a300fd5f35da4ca2": "2026-11-16T19:18:08.982949+00:00",
   "77ed2d3e97597059": "2026-11-16T19:18:08.982949+00:00",
   "41b60b43bdc5272a": "2026-11-16T19:18:08.982949+00:00",
-  "04ca09eff3e7de25": "2026-11-16T19:18:08.982949+00:00"
+  "04ca09eff3e7de25": "2026-11-16T19:18:08.982949+00:00",
+  "bda6636a7e141bb5": "2026-11-16T19:28:13.858877+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6667,23 +6667,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7249": {
-   "title": "Antonelli names biggest threat to his 2027 title defence",
-   "first": "2026-11-13T16:57:36.904282+00:00",
-   "sources": {
-    "Formula 1": "2026-11-13T16:57:36.904298+00:00",
-    "RacingNews365 NL": "2026-11-14T08:30:00+00:00",
-    "AS": "2026-11-14T19:05:47+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Antonelli identifies the biggest threat to his title defence",
-    "RacingNews365 NL": "Antonelli gealarmeerd door Verstappen: \"Zal voor meeste problemen zorgen!\"",
-    "AS": "Antonelli le teme a Verstappen"
-   },
-   "last": "2026-11-14T19:22:09.023307+00:00"
   },
   "S7269": {
    "title": "Daily Mail boycotts F1 coverage over McEvoy ban",
@@ -6815,19 +6798,6 @@
     "RacingNews365 NL": "Piastri verklaart moeizaam seizoen en ziet problemen los van titelverlies in 2025"
    },
    "last": "2026-11-15T13:54:16.063420+00:00"
-  },
-  "S7501": {
-   "title": "Sint Maarten vs French Guiana team stats (football)",
-   "first": "2026-11-14T19:22:09.023282+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T19:06:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sint Maarten vs. French Guiana (Nov 14, 2026) Team Stats"
-   },
-   "last": "2026-11-14T19:22:09.023300+00:00"
   },
   "S7502": {
    "title": "Ohio State's Jeremiah Smith sets Big Ten receiving record",
@@ -12698,14 +12668,16 @@
    "title": "On this day: Mercedes acquired Brawn GP in 2009",
    "first": "2026-11-16T11:56:37.373675+00:00",
    "sources": {
-    "RacingNews365": "2026-11-16T11:50:00+00:00"
+    "RacingNews365": "2026-11-16T11:50:00+00:00",
+    "RacingNews365 NL": "2026-11-16T19:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Mercedes acquire miracle £1 Formula 1 team after fairytale story"
+    "RacingNews365": "Mercedes acquire miracle £1 Formula 1 team after fairytale story",
+    "RacingNews365 NL": "Mercedes begint historisch F1-avontuur na overname sprookjesteam - terugblik"
    },
-   "last": "2026-11-16T11:56:37.373680+00:00"
+   "last": "2026-11-16T19:28:15.449706+00:00"
   },
   "S7944": {
    "title": "Bruno Guimarães on learning from Declan Rice",
@@ -14233,17 +14205,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T19:18:08.982949+00:00",
+ "last_run": "2026-11-16T19:28:13.858877+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T19:18:40.478214+00:00",
-   "title": "Lawson, Brezilya'da Verstappen'in geri dönüşüne yardım etti",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-13T19:58:42.333531+00:00",
    "title": "Peter Windsor: Mark Webber ile arkadaşlığım Piastri'nin McLaren hamlesi yüzünden bitti",
