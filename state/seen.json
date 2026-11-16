@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "eadb8f8d940c7a7f": "2026-11-02T21:45:01.974524+00:00",
-  "f2d4c0381a02e9f4": "2026-11-02T21:45:01.974524+00:00",
   "717b0ddfc3ba2872": "2026-11-02T21:55:03.355569+00:00",
   "5e68b58946f862c4": "2026-11-02T21:55:03.355569+00:00",
   "170d14f5324707cd": "2026-11-02T22:05:05.640346+00:00",
@@ -6609,7 +6607,11 @@
   "cfeb8dfdd40b5a9d": "2026-11-16T21:08:07.075975+00:00",
   "2f59ad112a8281f5": "2026-11-16T21:08:07.075975+00:00",
   "5a3deed4b31cba18": "2026-11-16T21:18:06.013124+00:00",
-  "87d2c0ea0561167e": "2026-11-16T21:18:06.013124+00:00"
+  "87d2c0ea0561167e": "2026-11-16T21:18:06.013124+00:00",
+  "e716aaf94328e5fa": "2026-11-16T21:48:07.232565+00:00",
+  "4b64f48b48e40088": "2026-11-16T21:48:07.232565+00:00",
+  "6b09a98d4fac86a9": "2026-11-16T21:48:07.232565+00:00",
+  "a41bb3b7ab5b5b34": "2026-11-16T21:48:07.232565+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6786,19 +6788,6 @@
     "GPFans": "F1 journalist ban sparks backlash as FIA decision branded 'completely mad'"
    },
    "last": "2026-11-15T16:04:46.082311+00:00"
-  },
-  "S7523": {
-   "title": "Luis de la Fuente says there is no racism in Spain",
-   "first": "2026-11-14T21:42:10.883010+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T18:24:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luis de la Fuente ahead of England clash: 'No racism in Spain'"
-   },
-   "last": "2026-11-14T21:42:10.883029+00:00"
   },
   "S7524": {
    "title": "Hurricanes 5-1 Kraken NHL game recap",
@@ -12058,7 +12047,8 @@
     "Motorsport-Total": "2026-11-16T09:42:08+00:00",
     "RacingNews365": "2026-11-16T09:50:00+00:00",
     "GPblog": "2026-11-16T09:46:00+00:00",
-    "PlanetF1": "2026-11-16T10:59:52+00:00"
+    "PlanetF1": "2026-11-16T10:59:52+00:00",
+    "GPFans": "2026-11-16T21:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12066,9 +12056,10 @@
     "Motorsport-Total": "Neues Team von Lando Norris sichert sich deutsches Formel-2-Talent - Motorsport-Total.com",
     "RacingNews365": "Former Red Bull junior secures seat at Lando Norris' F2 squad",
     "GPblog": "Former Red Bull Racing junior gets new opportunity from Lando Norris",
-    "PlanetF1": "Lando Norris signs former Red Bull junior in new F2 driver announcement"
+    "PlanetF1": "Lando Norris signs former Red Bull junior in new F2 driver announcement",
+    "GPFans": "Lando Norris announces major deal with former Red Bull star"
    },
-   "last": "2026-11-16T11:06:45.615596+00:00"
+   "last": "2026-11-16T21:48:12.411876+00:00"
   },
   "S7920": {
    "title": "Tony Popovic hints at possible return as Socceroos coach",
@@ -14083,9 +14074,48 @@
     "ESPN F1": "Texas' Manning to participate in senior day, mum on future"
    },
    "last": "2026-11-16T21:18:08.708035+00:00"
+  },
+  "S8072": {
+   "title": "Springboks coach Rassie Erasmus rants at officials before Ireland clash",
+   "first": "2026-11-16T21:48:12.411834+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T20:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sprinbgoks coach Rassie Erasmus unleashes rant on officials before Ireland clash"
+   },
+   "last": "2026-11-16T21:48:12.411853+00:00"
+  },
+  "S8073": {
+   "title": "Packers' LaFleur still plans on Micah Parsons returning Thanksgiving eve",
+   "first": "2026-11-16T21:48:12.411858+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T20:42:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Packers' Matt LaFleur still plans on Micah Parsons to return on Thanksgiving eve"
+   },
+   "last": "2026-11-16T21:48:12.411864+00:00"
+  },
+  "S8074": {
+   "title": "Analysis of Drake Maye ankle injury and Patriots' season outlook",
+   "first": "2026-11-16T21:48:12.411867+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T20:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Drake Maye ankle injury: Is the Patriots' season over? Can Tommy DeVito step up?"
+   },
+   "last": "2026-11-16T21:48:12.411871+00:00"
   }
  },
- "story_seq": 8071,
+ "story_seq": 8074,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14204,7 +14234,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T21:38:06.515999+00:00",
+ "last_run": "2026-11-16T21:48:07.232565+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15289,6 +15319,11 @@
    "t": "2026-11-16T21:18:11.158726+00:00",
    "title": "Raichandani'nin çocukluk hayalini gerçekleştirmesi: Hindistan-Pakistan",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-16T21:48:16.889557+00:00",
+   "title": "Lando Norris'in LN4 Fusion takımı Oliver Goethe'yi 2027 F2 sezonu için kadrosuna kattı",
+   "source": "GPFans"
   }
  ]
 }
