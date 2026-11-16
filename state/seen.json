@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8033d096bab03133": "2026-11-02T14:54:09.365442+00:00",
-  "1663b5ba5bd34d97": "2026-11-02T14:54:09.365442+00:00",
-  "b4b6f1130bdd7df1": "2026-11-02T14:54:09.365442+00:00",
-  "356993912d749e46": "2026-11-02T14:54:09.365442+00:00",
-  "9e07b0c10ffe09dc": "2026-11-02T14:54:09.365442+00:00",
   "6e12110d2207d3ff": "2026-11-02T15:04:08.824787+00:00",
   "036baf6073205133": "2026-11-02T15:04:08.824787+00:00",
   "85d093d27da95397": "2026-11-02T15:04:08.824787+00:00",
@@ -6618,7 +6613,11 @@
   "0269f5a47ccebd38": "2026-11-16T14:47:17.092395+00:00",
   "e618ba7a5f20b88a": "2026-11-16T14:47:17.092395+00:00",
   "807da4869f6925a0": "2026-11-16T14:47:17.092395+00:00",
-  "530865132f4ecdbd": "2026-11-16T14:47:17.092395+00:00"
+  "530865132f4ecdbd": "2026-11-16T14:47:17.092395+00:00",
+  "928825f9dc66d5d3": "2026-11-16T14:57:18.770348+00:00",
+  "0df211875ec4bf88": "2026-11-16T14:57:18.770348+00:00",
+  "9997721b23240598": "2026-11-16T14:57:18.770348+00:00",
+  "fed62047e81f447f": "2026-11-16T14:57:18.770348+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6851,19 +6850,6 @@
     "FormulaPassion": "Newey: “Ci sono molti parallelismi tra il mio arrivo in Red Bull e quello in Aston Martin”"
    },
    "last": "2026-11-15T07:23:38.432521+00:00"
-  },
-  "S7443": {
-   "title": "Wolff reveals when he knew Antonelli would win 2026 title",
-   "first": "2026-11-14T14:51:22.307401+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T14:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Toto Wolff reveals when he knew Kimi Antonelli would win 2026 F1 title"
-   },
-   "last": "2026-11-14T14:51:22.307422+00:00"
   },
   "S7444": {
    "title": "Imola vows to fight for F1 return after finale hopes end",
@@ -13779,14 +13765,16 @@
    "title": "McLaren x Etihad Boeing 787 livery makes first flight",
    "first": "2026-11-16T13:17:20.708822+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-16T13:14:44+00:00"
+    "Motorsport.com Italia": "2026-11-16T13:14:44+00:00",
+    "Motorsport-Total": "2026-11-16T14:47:38+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "Il primo aereo Etihad al mondo con livrea McLaren prende il volo dopo la vittoria di Norris"
+    "Motorsport.com Italia": "Il primo aereo Etihad al mondo con livrea McLaren prende il volo dopo la vittoria di Norris",
+    "Motorsport-Total": "Weltpremiere nach F1-Sieg: Etihad-Flugzeug im McLaren-Design hebt ab - Motorsport-Total.com"
    },
-   "last": "2026-11-16T13:17:20.708826+00:00"
+   "last": "2026-11-16T14:57:22.301018+00:00"
   },
   "S7967": {
    "title": "Five current F1 world champions on track to outscore rest of grid",
@@ -13916,7 +13904,7 @@
    "titles": {
     "ESPN F1": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino"
    },
-   "last": "2026-11-16T14:17:24.369666+00:00"
+   "last": "2026-11-16T14:57:22.300987+00:00"
   },
   "S7977": {
    "title": "Concacaf W Championship qualification format and matchups explained",
@@ -14021,9 +14009,35 @@
     "Motorsport-Total": "Istanbul-Rückkehr: Layout bleibt gleich, viele Dinge ändern sich - Motorsport-Total.com"
    },
    "last": "2026-11-16T14:47:22.478008+00:00"
+  },
+  "S7985": {
+   "title": "College football betting lines and favorites",
+   "first": "2026-11-16T14:57:22.300997+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T13:49:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Top 25 betting lines: UGA big faves over Gamecocks, Vols slim favorites vs. LSU"
+   },
+   "last": "2026-11-16T14:57:22.301003+00:00"
+  },
+  "S7986": {
+   "title": "Hinchcliffe and Palmer name Verstappen Las Vegas favourite",
+   "first": "2026-11-16T14:57:22.301007+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-16T14:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen aangewezen als ultieme topfavoriet voor GP Las Vegas"
+   },
+   "last": "2026-11-16T14:57:22.301013+00:00"
   }
  },
- "story_seq": 7984,
+ "story_seq": 7986,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14142,22 +14156,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T14:47:17.092395+00:00",
+ "last_run": "2026-11-16T14:57:18.770348+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T14:47:42.356481+00:00",
-   "title": "Bottas: Cadillac 2027'de pilot değişikliği düşünmüyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-13T14:47:42.832030+00:00",
-   "title": "F1 pilotları neden padele bu kadar düşkün?",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-13T14:57:40.981370+00:00",
    "title": "Kimi Antonelli, Ayrton Senna'nın Formula 1 aracını kullanabilir mi?",
@@ -15227,6 +15231,11 @@
    "t": "2026-11-16T14:27:41.602385+00:00",
    "title": "Verstappen'in Red Bull toparlanması 2027 şampiyonluk hedefine işaret ediyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-16T14:57:26.669454+00:00",
+   "title": "Verstappen, Las Vegas GP'de ultimate favori olarak gösteriliyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
