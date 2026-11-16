@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4577e3c47bb853bb": "2026-11-02T05:32:34.729672+00:00",
-  "b7673ce25319c3f3": "2026-11-02T05:32:34.729672+00:00",
-  "fcb554bc80ee8b47": "2026-11-02T05:32:34.729672+00:00",
   "0d1cab25d96d3b0c": "2026-11-02T05:37:32.167575+00:00",
   "7416ccace1c2b55d": "2026-11-02T05:37:32.167575+00:00",
   "83f7d2a9130f4cab": "2026-11-02T05:52:33.197539+00:00",
@@ -6747,7 +6744,9 @@
   "14ffd824f064ff54": "2026-11-16T05:16:04.791907+00:00",
   "b7328847c8a8414e": "2026-11-16T05:16:04.791907+00:00",
   "3254c889146027dd": "2026-11-16T05:16:04.791907+00:00",
-  "e2a43201d515ac38": "2026-11-16T05:26:04.082907+00:00"
+  "e2a43201d515ac38": "2026-11-16T05:26:04.082907+00:00",
+  "b8417e04dc13f0a3": "2026-11-16T05:36:05.936166+00:00",
+  "d5aeae89a91a4317": "2026-11-16T05:36:05.936166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7037,32 +7036,6 @@
     "ESPN F1": "Mohamed Salah becomes Egypt's record goalscorer with Panenka penalty"
    },
    "last": "2026-11-14T07:09:51.697692+00:00"
-  },
-  "S7351": {
-   "title": "Pakistan ask India to field first in U19 Asia Cup final",
-   "first": "2026-11-14T05:29:49.616606+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T05:22:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pakistan ask India to field in Under-19 Asia Cup final"
-   },
-   "last": "2026-11-14T05:29:49.616625+00:00"
-  },
-  "S7352": {
-   "title": "Sky, Now and TV8 broadcast times for Las Vegas GP",
-   "first": "2026-11-14T05:29:49.616631+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-14T05:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "GP Las Vegas 2026: orari Sky/Now e TV8"
-   },
-   "last": "2026-11-14T05:29:49.616635+00:00"
   },
   "S7353": {
    "title": "Darius Acuff Jr. slam vs. Trail Blazers (basketball)",
@@ -13446,7 +13419,7 @@
    "titles": {
     "ESPN F1": "Aaron Donald savors first sack in 1,050 days, but Rams' win 'felt even better'"
    },
-   "last": "2026-11-16T02:26:04.765953+00:00"
+   "last": "2026-11-16T05:36:08.285395+00:00"
   },
   "S7839": {
    "title": "Canisius Golden Griffins vs. Syracuse Orange game highlights",
@@ -13902,9 +13875,22 @@
     "ESPN F1": "Seahawks 21-13 Raiders (Nov 15, 2026) Game Recap"
    },
    "last": "2026-11-16T05:26:05.761295+00:00"
+  },
+  "S7874": {
+   "title": "Hamilton says his sole focus is Ferrari for rest of season",
+   "first": "2026-11-16T05:36:08.285405+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T05:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton discloses 'sole' Ferrari focus in determined message to team"
+   },
+   "last": "2026-11-16T05:36:08.285412+00:00"
   }
  },
- "story_seq": 7873,
+ "story_seq": 7874,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14023,7 +14009,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T05:26:04.082907+00:00",
+ "last_run": "2026-11-16T05:36:05.936166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
