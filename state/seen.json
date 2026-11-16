@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "663fcb82bc866aa9": "2026-11-02T07:37:31.455930+00:00",
-  "51db85457ca9f7b3": "2026-11-02T07:42:35.206420+00:00",
   "ff8e0151e7c51f39": "2026-11-02T07:47:34.558987+00:00",
   "60b659298905d155": "2026-11-02T07:52:37.070303+00:00",
   "9ffb2db132bc4fd8": "2026-11-02T07:52:37.070303+00:00",
@@ -6736,7 +6734,10 @@
   "903f66ba39ea5d1a": "2026-11-16T07:16:04.062191+00:00",
   "0ffe14b0f61de803": "2026-11-16T07:36:33.839593+00:00",
   "91940d31a6564890": "2026-11-16T07:36:33.839593+00:00",
-  "0fee8340297c0499": "2026-11-16T07:36:33.839593+00:00"
+  "0fee8340297c0499": "2026-11-16T07:36:33.839593+00:00",
+  "0623a5c893c729a6": "2026-11-16T07:46:34.100655+00:00",
+  "390aad02a17b4640": "2026-11-16T07:46:34.100655+00:00",
+  "8183b34f3d80a60c": "2026-11-16T07:46:34.100655+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7011,19 +7012,6 @@
     "PlanetF1": "‘That’s obscene’ – Adrian Newey Red Bull salary demand revealed in Horner book claim"
    },
    "last": "2026-11-14T17:11:24.842309+00:00"
-  },
-  "S7374": {
-   "title": "GPblog feature on Antonelli overtaking Russell at Mercedes",
-   "first": "2026-11-14T07:39:51.053762+00:00",
-   "sources": {
-    "GPblog": "2026-11-14T07:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "How wonderkid Antonelli stole the Mercedes fairytale written for Russell"
-   },
-   "last": "2026-11-14T07:39:51.053781+00:00"
   },
   "S7375": {
    "title": "Kieron Pollard signs as MI Emirates wildcard for ILT20",
@@ -11421,15 +11409,17 @@
    "first": "2026-11-15T17:04:48.327075+00:00",
    "sources": {
     "GPFans": "2026-11-15T16:59:00+00:00",
-    "FormulaPassion": "2026-11-16T06:00:00+00:00"
+    "FormulaPassion": "2026-11-16T06:00:00+00:00",
+    "Motorsport-Total": "2026-11-16T07:38:46+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPFans": "Toto Wolff makes stunning Kimi Antonelli claim that will shock Ferrari",
-    "FormulaPassion": "Wolff: “Antonelli alla Ferrari? Sono preoccupato zero, è una persona leale”"
+    "FormulaPassion": "Wolff: “Antonelli alla Ferrari? Sono preoccupato zero, è una persona leale”",
+    "Motorsport-Total": "Warum Toto Wolff keine Angst hat, Kimi Antonelli an Ferrari zu verlieren - Motorsport-Total.com"
    },
-   "last": "2026-11-16T06:26:07.890462+00:00"
+   "last": "2026-11-16T07:46:37.728680+00:00"
   },
   "S7709": {
    "title": "Mark Sutton photo feature on Antonelli's title triumph",
@@ -13917,9 +13907,35 @@
     "GPblog": "Wolff addresses Antonelli contract as title triumph raises salary question"
    },
    "last": "2026-11-16T07:36:36.743420+00:00"
+  },
+  "S7900": {
+   "title": "ESPN: 49ers offense puts up big numbers against Cowboys",
+   "first": "2026-11-16T07:46:37.728652+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T04:18:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "49ers put up big numbers vs. Cowboys, tout 'incredibly dangerous' offense"
+   },
+   "last": "2026-11-16T07:46:37.728673+00:00"
+  },
+  "S7901": {
+   "title": "Generic Motorsport-Total F1 page with no specific story",
+   "first": "2026-11-16T07:46:37.728683+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-16T06:48:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-11-16T07:46:37.728687+00:00"
   }
  },
- "story_seq": 7899,
+ "story_seq": 7901,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14038,7 +14054,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T07:36:33.839593+00:00",
+ "last_run": "2026-11-16T07:46:34.100655+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
