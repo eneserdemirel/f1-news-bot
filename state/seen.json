@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c722971fa91547fd": "2026-11-02T16:04:07.107423+00:00",
-  "d56d940c07860bda": "2026-11-02T16:04:07.107423+00:00",
-  "32c16851cece1a84": "2026-11-02T16:04:07.107423+00:00",
-  "b4e0d48b741415f5": "2026-11-02T16:04:07.107423+00:00",
   "044323620aa0f9c8": "2026-11-02T16:14:07.822059+00:00",
   "3897a8835864f120": "2026-11-02T16:14:07.822059+00:00",
   "903406bbd2731d10": "2026-11-02T16:24:10.885978+00:00",
@@ -6610,7 +6606,11 @@
   "371a3883e9e2b156": "2026-11-16T15:37:17.079806+00:00",
   "770309ede4567d42": "2026-11-16T15:47:17.731838+00:00",
   "eb7d970f73edc005": "2026-11-16T15:47:17.731838+00:00",
-  "542a1dfabe6af4e7": "2026-11-16T15:47:17.731838+00:00"
+  "542a1dfabe6af4e7": "2026-11-16T15:47:17.731838+00:00",
+  "67056e939c969d4b": "2026-11-16T16:07:17.824420+00:00",
+  "0493dab427758fc3": "2026-11-16T16:07:17.824420+00:00",
+  "0d5648dc39706bd2": "2026-11-16T16:07:17.824420+00:00",
+  "3bb6b5c9abdb3e79": "2026-11-16T16:07:17.824420+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6812,32 +6812,6 @@
     "ESPN F1": "Sources: Vikings made initial Kirk Cousins trade call to Raiders before MNF"
    },
    "last": "2026-11-14T16:31:23.474553+00:00"
-  },
-  "S7454": {
-   "title": "Brazil football team defeat to Japan and Ancelotti pressure",
-   "first": "2026-11-14T16:01:22.941454+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T13:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brazil underwhelm again in Japan defeat and Carlo Ancelotti is feeling pressure"
-   },
-   "last": "2026-11-14T16:01:22.941472+00:00"
-  },
-  "S7455": {
-   "title": "Teams split over controversial rule change ahead of F1 Commission meeting",
-   "first": "2026-11-14T16:01:22.941477+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T15:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "F1 civil war brewing as teams split over controversial rule change"
-   },
-   "last": "2026-11-14T16:01:22.941482+00:00"
   },
   "S7456": {
    "title": "Button on what keeps Alonso going at Aston Martin",
@@ -12283,15 +12257,17 @@
    "first": "2026-11-16T05:06:07.873867+00:00",
    "sources": {
     "RacingNews365": "2026-11-16T05:00:00+00:00",
-    "RacingNews365 NL": "2026-11-16T06:00:00+00:00"
+    "RacingNews365 NL": "2026-11-16T06:00:00+00:00",
+    "The Race": "2026-11-16T15:59:25+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "2026 F1 Las Vegas Grand Prix - Time Schedule",
-    "RacingNews365 NL": "F1-tijden: Zeer vroeg tijdschema F1 GP Las Vegas 2026"
+    "RacingNews365 NL": "F1-tijden: Zeer vroeg tijdschema F1 GP Las Vegas 2026",
+    "The Race": "What time is F1's 2026 Las Vegas Grand Prix? Full weekend schedule"
    },
-   "last": "2026-11-16T06:06:07.235861+00:00"
+   "last": "2026-11-16T16:07:22.831586+00:00"
   },
   "S7870": {
    "title": "Thunder 125-103 Kings NBA game recap",
@@ -12920,14 +12896,16 @@
    "title": "Analysis of the five-way fight for P2 in 2026 standings",
    "first": "2026-11-16T09:36:40.633597+00:00",
    "sources": {
-    "Autosport": "2026-11-16T09:28:44+00:00"
+    "Autosport": "2026-11-16T09:28:44+00:00",
+    "Motorsport-Total": "2026-11-16T16:04:05+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Autosport": "What is left to fight for in F1 2026?"
+    "Autosport": "What is left to fight for in F1 2026?",
+    "Motorsport-Total": "Beide WM-Titel vergeben: Um was geht es in der Formel-1-Saison 2026 noch? - Motorsport-Total.com"
    },
-   "last": "2026-11-16T09:36:40.633616+00:00"
+   "last": "2026-11-16T16:07:22.831620+00:00"
   },
   "S7916": {
    "title": "Teams discuss reserve drivers and triple-header calendar pressure",
@@ -14070,9 +14048,35 @@
     "ESPN F1": "Raiders TE Brock Bowers avoids major ankle injury, source says"
    },
    "last": "2026-11-16T15:47:20.817645+00:00"
+  },
+  "S8002": {
+   "title": "Five F1 battles to watch in final three races",
+   "first": "2026-11-16T16:07:22.831597+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T16:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Five F1 battles that could steal the show in the final three races"
+   },
+   "last": "2026-11-16T16:07:22.831604+00:00"
+  },
+  "S8003": {
+   "title": "Tyre warm-up challenge key for Las Vegas weekend",
+   "first": "2026-11-16T16:07:22.831608+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-16T16:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Scongelare le gomme: l’altra chiave del weekend di Las Vegas"
+   },
+   "last": "2026-11-16T16:07:22.831614+00:00"
   }
  },
- "story_seq": 8001,
+ "story_seq": 8003,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14191,7 +14195,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T15:57:17.617082+00:00",
+ "last_run": "2026-11-16T16:07:17.824420+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
