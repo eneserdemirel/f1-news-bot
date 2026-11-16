@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "236aa3c37304085f": "2026-11-02T08:42:34.148678+00:00",
-  "006303274c20944a": "2026-11-02T08:42:34.148678+00:00",
-  "c6c3615186a8ddf1": "2026-11-02T08:42:34.148678+00:00",
   "163898f153fae078": "2026-11-02T08:52:44.620914+00:00",
   "dc461c81be884160": "2026-11-02T08:52:44.620914+00:00",
   "1cca874dd0ea2d5b": "2026-11-02T08:52:44.620914+00:00",
@@ -6728,7 +6725,8 @@
   "c0bd3550ea66d066": "2026-11-16T08:26:35.085822+00:00",
   "1f91f7796da887de": "2026-11-16T08:36:37.207318+00:00",
   "a1b4539b98f0c30e": "2026-11-16T08:36:37.207318+00:00",
-  "aa07d27718844a40": "2026-11-16T08:36:37.207318+00:00"
+  "aa07d27718844a40": "2026-11-16T08:36:37.207318+00:00",
+  "c01f6b25b3260a42": "2026-11-16T08:46:39.158636+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6978,19 +6976,6 @@
    },
    "last": "2026-11-14T09:20:43.457632+00:00"
   },
-  "S7372": {
-   "title": "Spurs 123-85 Warriors (Nov 13) game recap",
-   "first": "2026-11-14T07:29:51.716373+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T05:25:18+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Spurs 123-85 Warriors (Nov 13, 2026) Game Recap"
-   },
-   "last": "2026-11-14T08:39:53.547064+00:00"
-  },
   "S7373": {
    "title": "Newey salary demand from Red Bull revealed in Horner book",
    "first": "2026-11-14T07:29:51.716396+00:00",
@@ -7016,19 +7001,6 @@
     "ESPN F1": "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'"
    },
    "last": "2026-11-14T22:12:12.213942+00:00"
-  },
-  "S7383": {
-   "title": "Lendeborg struggles in Warriors blowout loss to Spurs",
-   "first": "2026-11-14T08:39:53.547074+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T06:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Warriors' Yaxel Lendeborg (1-for-13) 'flustered' in blowout loss to Spurs"
-   },
-   "last": "2026-11-14T08:39:53.547080+00:00"
   },
   "S7384": {
    "title": "F1 writers give takes on Antonelli's 2026 title",
@@ -13954,9 +13926,22 @@
     "RacingNews365 NL": "F1 Commission buigt zich over opmerkelijk voorstel Williams"
    },
    "last": "2026-11-16T08:36:45.034367+00:00"
+  },
+  "S7911": {
+   "title": "Horner recalls being offered £1 to enter F1",
+   "first": "2026-11-16T08:46:40.960146+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T08:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Christian Horner offered £1 to get into F1 - he walked away with £67million"
+   },
+   "last": "2026-11-16T08:46:40.960166+00:00"
   }
  },
- "story_seq": 7910,
+ "story_seq": 7911,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14075,17 +14060,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T08:36:37.207318+00:00",
+ "last_run": "2026-11-16T08:46:39.158636+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T08:36:54.193958+00:00",
-   "title": "Steiner, Verstappen'in Brezilya performansından hayal kırıklığına uğradığını söyledi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-13T08:56:54.439235+00:00",
    "title": "Toto Wolff, Mercedes'in uzun vadeli F1 vizyonunu açıkladı",
@@ -15210,6 +15190,11 @@
    "t": "2026-11-16T08:36:51.623642+00:00",
    "title": "Haas, Las Vegas'ta FP1'de Hirakawa'yı yarıştıracak",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-16T08:46:45.821414+00:00",
+   "title": "Horner, F1'e girmek için Jordan'ın takımına 1 sterlin teklif etti",
+   "source": "GPFans"
   }
  ]
 }
