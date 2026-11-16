@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e67914c38ab09520": "2026-11-02T14:23:17.385178+00:00",
-  "0fc00a17791365ea": "2026-11-02T14:23:17.385178+00:00",
-  "8bc2121f110acdc1": "2026-11-02T14:23:17.385178+00:00",
-  "1226bede2e532c58": "2026-11-02T14:24:09.832908+00:00",
-  "0d662ccb81c0cc92": "2026-11-02T14:24:09.832908+00:00",
   "0d52703f005454de": "2026-11-02T14:34:11.394132+00:00",
   "0fa8f923a4be0999": "2026-11-02T14:34:11.394132+00:00",
   "8d50267f13d5083f": "2026-11-02T14:34:11.394132+00:00",
@@ -6621,7 +6616,10 @@
   "cda56552aaf6f480": "2026-11-16T14:17:19.088641+00:00",
   "9846ad266b7a960e": "2026-11-16T14:17:19.088641+00:00",
   "f05b3143a3474581": "2026-11-16T14:17:19.088641+00:00",
-  "f59cc46d24321d32": "2026-11-16T14:17:19.088641+00:00"
+  "f59cc46d24321d32": "2026-11-16T14:17:19.088641+00:00",
+  "d45cb3f7066be9d4": "2026-11-16T14:27:33.823361+00:00",
+  "c90aaeabdd786d14": "2026-11-16T14:27:33.823361+00:00",
+  "8640db946ac911e9": "2026-11-16T14:27:33.823361+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13141,15 +13139,17 @@
    "first": "2026-11-16T09:36:40.633628+00:00",
    "sources": {
     "Crash.net": "2026-11-16T09:22:23+00:00",
-    "RacingNews365 NL": "2026-11-16T13:56:00+00:00"
+    "RacingNews365 NL": "2026-11-16T13:56:00+00:00",
+    "GPFans": "2026-11-16T14:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Crash.net": "Lewis Hamilton makes £50m investment demand ‘the future of F1 depends on’",
-    "RacingNews365 NL": "Hamilton wil 60 miljoen van FIA en F1: \"Absoluut nog niet klaar\""
+    "RacingNews365 NL": "Hamilton wil 60 miljoen van FIA en F1: \"Absoluut nog niet klaar\"",
+    "GPFans": "Lewis Hamilton issues new F1 plea as £50m investment plan unveiled"
    },
-   "last": "2026-11-16T14:07:21.672161+00:00"
+   "last": "2026-11-16T14:27:36.876074+00:00"
   },
   "S7918": {
    "title": "Lawson compared to Verstappen after Racing Bulls extension",
@@ -13957,9 +13957,35 @@
     "ESPN F1": "Did Aidan Hutchinson's celebration lead to his injury?"
    },
    "last": "2026-11-16T14:17:24.369694+00:00"
+  },
+  "S7979": {
+   "title": "ESPN college football playoff and bowl projections",
+   "first": "2026-11-16T14:27:36.876040+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T12:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026-27 Week 11 College Football Playoff, bowl projections"
+   },
+   "last": "2026-11-16T14:27:36.876057+00:00"
+  },
+  "S7980": {
+   "title": "Analysis of Verstappen's Red Bull comeback and 2027 title hopes",
+   "first": "2026-11-16T14:27:36.876063+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T14:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Why rapid Red Bull comeback hints at Max Verstappen 2027 title push"
+   },
+   "last": "2026-11-16T14:27:36.876068+00:00"
   }
  },
- "story_seq": 7978,
+ "story_seq": 7980,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14078,17 +14104,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T14:17:19.088641+00:00",
+ "last_run": "2026-11-16T14:27:33.823361+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T14:27:39.605565+00:00",
-   "title": "Eski Liberty Media CEO'su: F1 on yıl içinde borsadan çıkabilir",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-13T14:37:45.886119+00:00",
    "title": "Red Bull, David Coulthard'ın yeni partnerini açıkladı: Alisha Palmowski",
@@ -15168,6 +15189,11 @@
    "t": "2026-11-16T13:37:29.613430+00:00",
    "title": "Antonelli, 2027'de en büyük rakibini Verstappen olarak gösterdi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-16T14:27:41.602385+00:00",
+   "title": "Verstappen'in Red Bull toparlanması 2027 şampiyonluk hedefine işaret ediyor",
+   "source": "RacingNews365"
   }
  ]
 }
