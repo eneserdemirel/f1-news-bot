@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "dc8a4fd144451fce": "2026-11-02T04:37:35.550860+00:00",
-  "acac7e3b0ec59b21": "2026-11-02T04:37:35.550860+00:00",
-  "ac4f9e50cc9bbc14": "2026-11-02T04:37:35.550860+00:00",
-  "3749c9d27ef2776f": "2026-11-02T04:37:35.550860+00:00",
-  "f6f18d2561d55529": "2026-11-02T04:37:35.550860+00:00",
-  "13a6b0485b011bf2": "2026-11-02T04:37:35.550860+00:00",
   "b68fa2e05f3ca4e1": "2026-11-02T04:47:33.238328+00:00",
   "0dfac5e06716dd87": "2026-11-02T04:57:32.040952+00:00",
   "f8b031f35e936985": "2026-11-02T05:02:35.214264+00:00",
@@ -6750,7 +6744,8 @@
   "d6ed66bad38f0eb0": "2026-11-16T04:26:03.744028+00:00",
   "dc852982498a8ca6": "2026-11-16T04:26:03.744028+00:00",
   "65f1084448ee9f14": "2026-11-16T04:26:03.744028+00:00",
-  "486f5155b363b345": "2026-11-16T04:26:03.744028+00:00"
+  "486f5155b363b345": "2026-11-16T04:26:03.744028+00:00",
+  "411f4a8eff688726": "2026-11-16T04:46:11.997177+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7027,19 +7022,6 @@
     "RacingNews365 NL": "Massa oordeelt hard over onrustig Ferrari: \"Absoluut niet goed\""
    },
    "last": "2026-11-14T15:21:23.081094+00:00"
-  },
-  "S7336": {
-   "title": "Cricket Test players' highest success percentages listicle",
-   "first": "2026-11-14T03:49:52.481799+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T03:34:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Which players had the highest success percentage in their Test careers?"
-   },
-   "last": "2026-11-14T04:39:51.425997+00:00"
   },
   "S7342": {
    "title": "Mohamed Salah becomes Egypt's record goalscorer with penalty",
@@ -13918,9 +13900,22 @@
     "ESPN F1": "Kobe Sanders soars for big Dunk"
    },
    "last": "2026-11-16T04:26:06.108690+00:00"
+  },
+  "S7866": {
+   "title": "Motorsport-Total generic F1 features page with no specific story",
+   "first": "2026-11-16T04:46:13.848287+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-16T04:00:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Formel-1-Features - Motorsport-Total.com"
+   },
+   "last": "2026-11-16T04:46:13.848306+00:00"
   }
  },
- "story_seq": 7865,
+ "story_seq": 7866,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14039,7 +14034,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T04:36:03.598334+00:00",
+ "last_run": "2026-11-16T04:46:11.997177+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
