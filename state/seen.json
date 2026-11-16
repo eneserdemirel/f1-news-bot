@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d8d84501676d5fe1": "2026-11-02T02:36:56.586765+00:00",
   "bba0bb92e989e1e7": "2026-11-02T02:46:57.072487+00:00",
   "427442058e5b2e26": "2026-11-02T02:46:57.072487+00:00",
   "29c6f106a1c06b04": "2026-11-02T02:46:57.072487+00:00",
@@ -6742,7 +6741,9 @@
   "87e1582a24060d40": "2026-11-16T02:26:02.009544+00:00",
   "bcfab9b28eb82bc4": "2026-11-16T02:26:02.009544+00:00",
   "51e49fe3f2069c4d": "2026-11-16T02:26:02.009544+00:00",
-  "d3cdafcbfc86004c": "2026-11-16T02:26:02.009544+00:00"
+  "d3cdafcbfc86004c": "2026-11-16T02:26:02.009544+00:00",
+  "824b781f47201a2c": "2026-11-16T02:46:04.953537+00:00",
+  "98e9a9f3782766d2": "2026-11-16T02:46:04.953537+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7015,58 +7016,6 @@
     "ESPN F1": "Guatemala vs. Canada (Nov 13, 2026) Team Stats"
    },
    "last": "2026-11-14T05:59:52.328194+00:00"
-  },
-  "S7325": {
-   "title": "Giannis Antetokounmpo skies for big dunk jam",
-   "first": "2026-11-14T02:39:16.687595+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T02:16:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giannis Antetokounmpo skies for big jam"
-   },
-   "last": "2026-11-14T02:39:16.687617+00:00"
-  },
-  "S7326": {
-   "title": "James Harden knocks down three-pointer highlight",
-   "first": "2026-11-14T02:39:16.687623+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T02:14:26+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "James Harden knocks down the trey"
-   },
-   "last": "2026-11-14T02:39:16.687629+00:00"
-  },
-  "S7327": {
-   "title": "Amen Thompson gets up for rejection highlight",
-   "first": "2026-11-14T02:39:16.687632+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T02:06:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Amen Thompson gets up for the rejection"
-   },
-   "last": "2026-11-14T02:39:16.687636+00:00"
-  },
-  "S7328": {
-   "title": "Alperen Sengun powerful slam versus Utah Jazz",
-   "first": "2026-11-14T02:39:16.687639+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T01:48:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alperen Sengun throws down powerful slam vs. Utah Jazz"
-   },
-   "last": "2026-11-14T02:39:16.687643+00:00"
   },
   "S7329": {
    "title": "Argentina 1-2 Uruguay (Nov 13, 2026) team stats",
@@ -13767,9 +13716,35 @@
     "ESPN F1": "Aaron Donald savors first sack in 1,050 days, but Rams' win 'felt even better'"
    },
    "last": "2026-11-16T02:26:04.765953+00:00"
+  },
+  "S7839": {
+   "title": "Canisius Golden Griffins vs. Syracuse Orange game highlights",
+   "first": "2026-11-16T02:46:06.547558+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T02:31:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canisius Golden Griffins vs. Syracuse Orange: Game Highlights"
+   },
+   "last": "2026-11-16T02:46:06.547577+00:00"
+  },
+  "S7840": {
+   "title": "Browns 27-24 Texans NFL game recap",
+   "first": "2026-11-16T02:46:06.547582+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:37:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Browns 27-24 Texans (Nov 15, 2026) Game Recap"
+   },
+   "last": "2026-11-16T02:46:06.547586+00:00"
   }
  },
- "story_seq": 7838,
+ "story_seq": 7840,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13888,7 +13863,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T02:36:02.803151+00:00",
+ "last_run": "2026-11-16T02:46:04.953537+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
