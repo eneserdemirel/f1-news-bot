@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ff16c5ddf16cce27": "2026-11-02T18:24:13.604348+00:00",
-  "d9aeed6ab3a283cf": "2026-11-02T18:24:13.604348+00:00",
-  "3e7f0fce8e10033e": "2026-11-02T18:24:13.604348+00:00",
   "3ac1263d2bd79973": "2026-11-02T18:34:13.850214+00:00",
   "d8f48f532d1bfa8f": "2026-11-02T18:34:13.850214+00:00",
   "43f8668e54374559": "2026-11-02T18:44:06.585447+00:00",
@@ -6621,7 +6618,9 @@
   "8ea89814d487420b": "2026-11-16T18:18:10.306524+00:00",
   "084321f0ab0cd214": "2026-11-16T18:18:10.306524+00:00",
   "0790b945bb179b05": "2026-11-16T18:18:10.306524+00:00",
-  "708c47d9074b25f0": "2026-11-16T18:18:10.306524+00:00"
+  "708c47d9074b25f0": "2026-11-16T18:18:10.306524+00:00",
+  "c5be45ade78a2c7d": "2026-11-16T18:28:10.474337+00:00",
+  "325c519567704175": "2026-11-16T18:28:10.474337+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13902,7 +13901,8 @@
     "RacingNews365": "2026-11-16T17:14:00+00:00",
     "RacingNews365 NL": "2026-11-16T17:15:00+00:00",
     "Formula 1": "2026-11-16T17:47:26.837977+00:00",
-    "GPblog": "2026-11-16T17:45:00+00:00"
+    "GPblog": "2026-11-16T17:45:00+00:00",
+    "Motorsport Week": "2026-11-16T18:09:46+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13910,9 +13910,10 @@
     "RacingNews365": "Williams unveil 'chrome' livery tweak for Las Vegas Grand Prix",
     "RacingNews365 NL": "Williams onthult speciale livery voor GP Las Vegas",
     "Formula 1": "Williams unveil special livery for Las Vegas Grand Prix",
-    "GPblog": "Williams reveal striking blue chrome livery for Las Vegas GP"
+    "GPblog": "Williams reveal striking blue chrome livery for Las Vegas GP",
+    "Motorsport Week": "Williams to light up night sky with special Las Vegas livery"
    },
-   "last": "2026-11-16T17:47:26.838039+00:00"
+   "last": "2026-11-16T18:28:12.416781+00:00"
   },
   "S8023": {
    "title": "Norris says Las Vegas wet tyres would be scary",
@@ -14082,9 +14083,22 @@
     "RacingNews365": "Liam Lawson handed crushing verdict over delayed Racing Bulls decision"
    },
    "last": "2026-11-16T18:18:16.044334+00:00"
+  },
+  "S8036": {
+   "title": "ESPN men's college basketball AP Top 25 poll breakdown",
+   "first": "2026-11-16T18:28:12.416753+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T18:23:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Breaking down the men's 2026-27 AP week 2 Top 25 basketball poll"
+   },
+   "last": "2026-11-16T18:28:12.416773+00:00"
   }
  },
- "story_seq": 8035,
+ "story_seq": 8036,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14203,22 +14217,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T18:18:10.306524+00:00",
+ "last_run": "2026-11-16T18:28:10.474337+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T18:19:02.601285+00:00",
-   "title": "Daily Mail, muhabirinin FIA tarafından yasaklanmasını protesto ederek F1 haberciliğini boykot ediyor",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-13T18:19:02.999859+00:00",
-   "title": "Bottas'ın 2027'de Cadillac'taki yeri tehlikede",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-11-13T18:28:44.616417+00:00",
    "title": "Williams, Las Vegas GP için yedek pilotunu Victor Martins olarak açıkladı",
