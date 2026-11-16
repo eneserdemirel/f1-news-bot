@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "49d1385e77361821": "2026-11-02T05:57:31.657580+00:00",
-  "f31794799dd3f9c4": "2026-11-02T05:57:31.657580+00:00",
-  "d1e3bb51bca13052": "2026-11-02T06:02:37.252041+00:00",
   "9f2f3b08105692f5": "2026-11-02T06:07:32.336045+00:00",
   "200c6bbc2cb727c8": "2026-11-02T06:07:32.336045+00:00",
   "349dff6faa6f4ec3": "2026-11-02T06:07:32.336045+00:00",
@@ -6746,7 +6743,13 @@
   "d5aeae89a91a4317": "2026-11-16T05:36:05.936166+00:00",
   "e2be994d89c85e55": "2026-11-16T05:46:12.802757+00:00",
   "debd8b96d2663647": "2026-11-16T05:56:05.258392+00:00",
-  "f8055e8d57e4d977": "2026-11-16T05:56:05.258392+00:00"
+  "f8055e8d57e4d977": "2026-11-16T05:56:05.258392+00:00",
+  "7ba3f704d389791c": "2026-11-16T06:06:03.462656+00:00",
+  "666c9f456dfdb45f": "2026-11-16T06:06:03.462656+00:00",
+  "d7b949a5125ecff1": "2026-11-16T06:06:03.462656+00:00",
+  "a0722652707a7b69": "2026-11-16T06:06:03.462656+00:00",
+  "cd2269f9cb197c26": "2026-11-16T06:06:03.462656+00:00",
+  "f3d64c51503c397e": "2026-11-16T06:06:03.462656+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6923,19 +6926,6 @@
    },
    "last": "2026-11-14T19:22:09.023307+00:00"
   },
-  "S7265": {
-   "title": "Canada and Finland reach women's hockey worlds semifinals",
-   "first": "2026-11-13T18:08:37.740021+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T18:02:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canada, Finland advance to women's hockey worlds semifinals"
-   },
-   "last": "2026-11-14T05:59:52.328188+00:00"
-  },
   "S7269": {
    "title": "Daily Mail boycotts F1 coverage over McEvoy ban",
    "first": "2026-11-13T18:18:57.059628+00:00",
@@ -6994,19 +6984,6 @@
    },
    "last": "2026-11-14T12:20:43.297227+00:00"
   },
-  "S7320": {
-   "title": "Guatemala vs. Canada (Nov 13, 2026) team stats",
-   "first": "2026-11-14T02:09:07.611738+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T02:01:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Guatemala vs. Canada (Nov 13, 2026) Team Stats"
-   },
-   "last": "2026-11-14T05:59:52.328194+00:00"
-  },
   "S7332": {
    "title": "Felipe Massa says something is wrong at Ferrari",
    "first": "2026-11-14T03:09:05.986491+00:00",
@@ -7036,19 +7013,6 @@
     "ESPN F1": "Mohamed Salah becomes Egypt's record goalscorer with Panenka penalty"
    },
    "last": "2026-11-14T07:09:51.697692+00:00"
-  },
-  "S7356": {
-   "title": "Spain vs England TV channel and kick-off time announced",
-   "first": "2026-11-14T05:59:52.328160+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T05:55:48+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Spain vs. England: TV channel, kick-off time (Sun Nov 15)"
-   },
-   "last": "2026-11-14T05:59:52.328179+00:00"
   },
   "S7357": {
    "title": "Sooryavanshi becomes youngest men's T20 captain",
@@ -13776,14 +13740,16 @@
    "title": "2026 F1 Las Vegas Grand Prix time schedule published",
    "first": "2026-11-16T05:06:07.873867+00:00",
    "sources": {
-    "RacingNews365": "2026-11-16T05:00:00+00:00"
+    "RacingNews365": "2026-11-16T05:00:00+00:00",
+    "RacingNews365 NL": "2026-11-16T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "2026 F1 Las Vegas Grand Prix - Time Schedule"
+    "RacingNews365": "2026 F1 Las Vegas Grand Prix - Time Schedule",
+    "RacingNews365 NL": "F1-tijden: Zeer vroeg tijdschema F1 GP Las Vegas 2026"
    },
-   "last": "2026-11-16T05:06:07.873872+00:00"
+   "last": "2026-11-16T06:06:07.235861+00:00"
   },
   "S7870": {
    "title": "Thunder 125-103 Kings NBA game recap",
@@ -13888,9 +13854,74 @@
     "ESPN F1": "Big-time offensive plays highlight top NFL plays of Week 10"
    },
    "last": "2026-11-16T05:56:06.739421+00:00"
+  },
+  "S7878": {
+   "title": "UCLA raises banner for first NCAA women's basketball title",
+   "first": "2026-11-16T06:06:07.235820+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T05:59:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UCLA raises banner for first-ever NCAA women's basketball title"
+   },
+   "last": "2026-11-16T06:06:07.235838+00:00"
+  },
+  "S7879": {
+   "title": "Bruno Fernandes transfer speculation at Man United",
+   "first": "2026-11-16T06:06:07.235843+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T03:19:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Will Bruno Fernandes stay put at Man United?"
+   },
+   "last": "2026-11-16T06:06:07.235848+00:00"
+  },
+  "S7880": {
+   "title": "Wolff says Mercedes could back Russell for second in standings",
+   "first": "2026-11-16T06:06:07.235852+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-16T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "'All the force!' - Mercedes open to prioritising Russell in final races"
+   },
+   "last": "2026-11-16T06:06:07.235856+00:00"
+  },
+  "S7881": {
+   "title": "Antonelli's Mercedes salary in spotlight after Russell defeat",
+   "first": "2026-11-16T06:06:07.235863+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-16T05:58:44+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Kimi Antonelli Mercedes salary in spotlight after Russell defeated – report"
+   },
+   "last": "2026-11-16T06:06:07.235867+00:00"
+  },
+  "S7882": {
+   "title": "Szafnauer says Hamilton won't accept Ferrari's normalised mistakes",
+   "first": "2026-11-16T06:06:07.235870+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton won't accept what Leclerc 'normalised' at Ferrari says ex-F1 team boss"
+   },
+   "last": "2026-11-16T06:06:07.235873+00:00"
   }
  },
- "story_seq": 7877,
+ "story_seq": 7882,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14009,7 +14040,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T05:56:05.258392+00:00",
+ "last_run": "2026-11-16T06:06:03.462656+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
@@ -15164,6 +15195,16 @@
    "t": "2026-11-16T05:46:17.630655+00:00",
    "title": "Ralf Schumacher: Michael, Lewis Hamilton'dan \"belirgin şekilde daha iyiydi\"",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-16T06:06:12.601060+00:00",
+   "title": "Antonelli'nin Mercedes kazancı Russell'ın gölgesinde kaldı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-16T06:06:12.930517+00:00",
+   "title": "Szafnauer: Hamilton, Leclerc'in Ferrari'de normalleştirdiği stratejik hataları kabul etmiyor",
+   "source": "GPblog"
   }
  ]
 }
