@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8549cab4b8370dc7": "2026-11-02T07:02:34.197482+00:00",
-  "67327048b893c293": "2026-11-02T07:02:34.197482+00:00",
-  "3b8c00e48b2d661c": "2026-11-02T07:02:34.197482+00:00",
   "4e89ae82ffa2b6ae": "2026-11-02T07:07:35.758963+00:00",
   "a2926774be827a5b": "2026-11-02T07:17:35.206549+00:00",
   "b25f3d0c23f0aad6": "2026-11-02T07:17:35.206549+00:00",
@@ -6741,7 +6738,8 @@
   "e3073031fc5c1be7": "2026-11-16T06:56:02.356147+00:00",
   "ed9df8a39190e914": "2026-11-16T06:56:02.356147+00:00",
   "51ffbd56f49ef08c": "2026-11-16T06:56:02.356147+00:00",
-  "ce587c76c516e935": "2026-11-16T06:56:02.356147+00:00"
+  "ce587c76c516e935": "2026-11-16T06:56:02.356147+00:00",
+  "d4edf114c8080f56": "2026-11-16T07:06:03.569200+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7007,19 +7005,6 @@
     "Autosport": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas"
    },
    "last": "2026-11-14T09:20:43.457627+00:00"
-  },
-  "S7364": {
-   "title": "East Texas A&M 94-88 Portland final score",
-   "first": "2026-11-14T06:59:49.672611+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T03:21:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "East Texas A&M 94-88 Portland (Nov 13, 2026) Final Score"
-   },
-   "last": "2026-11-14T06:59:49.672630+00:00"
   },
   "S7365": {
    "title": "Red Bull closing in on 2025 points tally despite slow start",
@@ -13941,9 +13926,22 @@
     "ESPN F1": "Joe Burrow's 4-TD effort puts him in company of Tom Brady, Peyton Manning"
    },
    "last": "2026-11-16T06:56:05.681799+00:00"
+  },
+  "S7892": {
+   "title": "Verstappen's four 2026 DNFs raise Red Bull reliability questions",
+   "first": "2026-11-16T07:06:05.391274+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-16T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen-statistiek legt indrukwekkende betrouwbaarheid Red Bull bloot"
+   },
+   "last": "2026-11-16T07:06:05.391294+00:00"
   }
  },
- "story_seq": 7891,
+ "story_seq": 7892,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14062,7 +14060,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T06:56:02.356147+00:00",
+ "last_run": "2026-11-16T07:06:03.569200+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
@@ -15217,6 +15215,11 @@
    "t": "2026-11-16T06:26:16.937139+00:00",
    "title": "Toto Wolff: Mercedes'in FIA'ya önerdiği maaş artışı kabul görmedi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-16T07:06:10.804018+00:00",
+   "title": "Verstappen'in 2026'daki dört yarış dışı kalması Red Bull'un güvenilirliğini gösteriyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
