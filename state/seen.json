@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "26db701951ad3947": "2026-11-02T20:45:05.485963+00:00",
-  "8907ed6d5ad2fc87": "2026-11-02T20:45:05.485963+00:00",
   "10a15d79dbc01dfd": "2026-11-02T20:55:06.163532+00:00",
   "1a06f2b626b26336": "2026-11-02T21:05:23.317327+00:00",
   "4ebe2f677330812a": "2026-11-02T21:05:23.317327+00:00",
@@ -6604,7 +6602,10 @@
   "321ec52d1b75a74c": "2026-11-16T20:28:09.284275+00:00",
   "79a8512ecd16baa8": "2026-11-16T20:28:09.284275+00:00",
   "73b09764a635dff0": "2026-11-16T20:28:09.284275+00:00",
-  "0808d6cb806a2941": "2026-11-16T20:28:09.284275+00:00"
+  "0808d6cb806a2941": "2026-11-16T20:28:09.284275+00:00",
+  "9062b0c09e4b138d": "2026-11-16T20:48:09.362701+00:00",
+  "d3d963033a8c8359": "2026-11-16T20:48:09.362701+00:00",
+  "4076b40faaf5dae9": "2026-11-16T20:48:09.362701+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14104,9 +14105,48 @@
     "ESPN F1": "Louisville No. 3 in women's AP Top 25 after UConn win; South Carolina still tops"
    },
    "last": "2026-11-16T20:28:11.554240+00:00"
+  },
+  "S8060": {
+   "title": "Texas DL Hero Kanu season-ending arm surgery",
+   "first": "2026-11-16T20:48:11.363223+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T19:52:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Texas DL Hero Kanu undergoes season-ending surgery on arm"
+   },
+   "last": "2026-11-16T20:48:11.363240+00:00"
+  },
+  "S8061": {
+   "title": "Michigan State rises to No. 2 in AP men's poll",
+   "first": "2026-11-16T20:48:11.363245+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T18:09:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Michigan State up to No. 2 in AP men's poll behind Florida"
+   },
+   "last": "2026-11-16T20:48:11.363251+00:00"
+  },
+  "S8062": {
+   "title": "Australian Grand Prix CEO Travis Auld resigns for global role",
+   "first": "2026-11-16T20:48:11.363254+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T20:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Australian GP boss quits in shock move as mystery new role emerges"
+   },
+   "last": "2026-11-16T20:48:11.363257+00:00"
   }
  },
- "story_seq": 8059,
+ "story_seq": 8062,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14225,7 +14265,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T20:38:08.038540+00:00",
+ "last_run": "2026-11-16T20:48:09.362701+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15305,6 +15345,11 @@
    "t": "2026-11-16T20:08:20.608569+00:00",
    "title": "Ricciardo, F1 kariyerinde bitsin istediği anı açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-16T20:48:16.386004+00:00",
+   "title": "Avustralya GP CEO'su Travis Auld görevinden ayrılıyor",
+   "source": "GPFans"
   }
  ]
 }
