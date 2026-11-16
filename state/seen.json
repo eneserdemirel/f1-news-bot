@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3e91cad3db28d842": "2026-11-02T11:53:19.875801+00:00",
-  "b810eed27894eda4": "2026-11-02T11:53:19.875801+00:00",
-  "d5d90d5352436527": "2026-11-02T11:53:19.875801+00:00",
-  "012cd0f7314e090f": "2026-11-02T11:53:19.875801+00:00",
-  "7db15eec1fa3fbcc": "2026-11-02T11:53:19.875801+00:00",
-  "9ffc9039c5688997": "2026-11-02T11:53:19.875801+00:00",
   "89ea6e2c6b631446": "2026-11-02T12:03:16.149008+00:00",
   "82f14263f61f8e1f": "2026-11-02T12:03:16.149008+00:00",
   "bbcb0a98584199bf": "2026-11-02T12:03:16.149008+00:00",
@@ -6631,7 +6625,10 @@
   "4f52c6702cfa9e04": "2026-11-16T11:46:38.262871+00:00",
   "0d98f0e70694f41d": "2026-11-16T11:46:38.262871+00:00",
   "02b7492bb2c516f0": "2026-11-16T11:46:38.262871+00:00",
-  "d360d2502a182fcf": "2026-11-16T11:46:38.262871+00:00"
+  "d360d2502a182fcf": "2026-11-16T11:46:38.262871+00:00",
+  "e9a98446dbf971bf": "2026-11-16T11:56:35.659538+00:00",
+  "f59dd20b5880aea2": "2026-11-16T11:56:35.659538+00:00",
+  "a431076594904af9": "2026-11-16T11:56:35.659538+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13856,9 +13853,35 @@
     "Motorsport-Total": "Fotostrecke: Von Jackie Stewart bis Kimi Antonelli: Die lebenden Formel-1-Weltmeister - Motorsport-Total.com"
    },
    "last": "2026-11-16T11:46:41.116078+00:00"
+  },
+  "S7942": {
+   "title": "Nike replaces Adidas as UEFA Champions League ball provider",
+   "first": "2026-11-16T11:56:37.373652+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T11:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nike replaces Adidas as UEFA ball provider to restyle Champions League"
+   },
+   "last": "2026-11-16T11:56:37.373670+00:00"
+  },
+  "S7943": {
+   "title": "On this day: Mercedes acquired Brawn GP in 2009",
+   "first": "2026-11-16T11:56:37.373675+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T11:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Mercedes acquire miracle £1 Formula 1 team after fairytale story"
+   },
+   "last": "2026-11-16T11:56:37.373680+00:00"
   }
  },
- "story_seq": 7941,
+ "story_seq": 7943,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13977,17 +14000,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T11:46:38.262871+00:00",
+ "last_run": "2026-11-16T11:56:35.659538+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T11:46:56.178112+00:00",
-   "title": "Toto Wolff, Williams'tan dokuz şampiyonluğa uzanan yolculuğu",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-13T12:17:44.117879+00:00",
    "title": "F1 pilotları Pirelli'nin yağmur lastiklerinden memnun değil",
@@ -15057,6 +15075,11 @@
    "t": "2026-11-16T11:46:48.077260+00:00",
    "title": "Alonso, Aston Martin'in şasi gelişimini övdü, Honda'ya güveniyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-16T11:56:41.591698+00:00",
+   "title": "Mercedes, Brawn GP'yi 1 sterline satın aldı",
+   "source": "RacingNews365"
   }
  ]
 }
