@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "55d6f5f117d51115": "2026-11-02T05:07:32.618122+00:00",
   "2eb44aa433da864b": "2026-11-02T05:17:32.232297+00:00",
   "2cb331164015ac90": "2026-11-02T05:22:35.320161+00:00",
   "284e209b083bf37e": "2026-11-02T05:22:35.320161+00:00",
@@ -6748,7 +6747,10 @@
   "9b3ea027b9eac4b5": "2026-11-16T05:06:05.141579+00:00",
   "0257938759b06d34": "2026-11-16T05:06:05.141579+00:00",
   "ff5c74ea75e9a9ff": "2026-11-16T05:06:05.141579+00:00",
-  "3af1ac36a1cf61ac": "2026-11-16T05:06:05.141579+00:00"
+  "3af1ac36a1cf61ac": "2026-11-16T05:06:05.141579+00:00",
+  "14ffd824f064ff54": "2026-11-16T05:16:04.791907+00:00",
+  "b7328847c8a8414e": "2026-11-16T05:16:04.791907+00:00",
+  "3254c889146027dd": "2026-11-16T05:16:04.791907+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7038,32 +7040,6 @@
     "ESPN F1": "Mohamed Salah becomes Egypt's record goalscorer with Panenka penalty"
    },
    "last": "2026-11-14T07:09:51.697692+00:00"
-  },
-  "S7348": {
-   "title": "Houston vs. Colorado (Nov 13, 2026) live score",
-   "first": "2026-11-14T05:09:48.597398+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T03:34:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Houston vs. Colorado (Nov 13, 2026) Live Score"
-   },
-   "last": "2026-11-14T05:09:48.597416+00:00"
-  },
-  "S7349": {
-   "title": "Carson Beck finds familiarity ahead of NFL debut",
-   "first": "2026-11-14T05:09:48.597421+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T00:16:58+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Carson Beck finds familiarity ahead of NFL debut"
-   },
-   "last": "2026-11-14T05:09:48.597426+00:00"
   },
   "S7350": {
    "title": "Rangers 5-1 Canucks (Nov 14, 2026) final score",
@@ -13890,9 +13866,48 @@
     "RacingNews365": "2026 F1 Las Vegas Grand Prix - Time Schedule"
    },
    "last": "2026-11-16T05:06:07.873872+00:00"
+  },
+  "S7870": {
+   "title": "Thunder 125-103 Kings NBA game recap",
+   "first": "2026-11-16T05:16:08.469281+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T05:11:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thunder 125-103 Kings (16 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-16T05:16:08.469300+00:00"
+  },
+  "S7871": {
+   "title": "Canucks 6-3 Golden Knights NHL game recap",
+   "first": "2026-11-16T05:16:08.469305+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T05:07:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canucks 6-3 Golden Knights (16 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-16T05:16:08.469310+00:00"
+  },
+  "S7872": {
+   "title": "Mahomes stars for Chiefs, early connection with Josh Downs",
+   "first": "2026-11-16T05:16:08.469313+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:41:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs"
+   },
+   "last": "2026-11-16T05:16:08.469317+00:00"
   }
  },
- "story_seq": 7869,
+ "story_seq": 7872,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14011,7 +14026,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T05:06:05.141579+00:00",
+ "last_run": "2026-11-16T05:16:04.791907+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
