@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4e67551a2943a70f": "2026-11-02T10:23:16.768494+00:00",
-  "24b61d07ede8301f": "2026-11-02T10:23:16.768494+00:00",
-  "a8282fa91ef8bfd7": "2026-11-02T10:23:16.768494+00:00",
-  "bbe5dcafff37f8e9": "2026-11-02T10:23:16.768494+00:00",
   "967479929b537408": "2026-11-02T10:33:21.591619+00:00",
   "e2ce8c50c2b2e208": "2026-11-02T10:33:21.591619+00:00",
   "a8e3876b73c9ad81": "2026-11-02T10:33:21.591619+00:00",
@@ -6643,7 +6639,9 @@
   "f844af10e96c639d": "2026-11-16T10:16:34.055340+00:00",
   "17833850ac04b339": "2026-11-16T10:16:34.055340+00:00",
   "2eb2873f02ff4203": "2026-11-16T10:16:34.055340+00:00",
-  "27bd8e48cd16f9d6": "2026-11-16T10:16:34.055340+00:00"
+  "27bd8e48cd16f9d6": "2026-11-16T10:16:34.055340+00:00",
+  "45f6df458b66b2d2": "2026-11-16T10:26:42.895834+00:00",
+  "5dd5bf89d48802d0": "2026-11-16T10:26:42.895834+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6929,19 +6927,6 @@
     "GPFans": "F1 star hits out at 'cowards' after FIA change - 'these people wouldn't have the balls'"
    },
    "last": "2026-11-14T18:01:25.022480+00:00"
-  },
-  "S7401": {
-   "title": "Jock Clear says Leclerc will be motivated by Hamilton battles",
-   "first": "2026-11-14T10:20:39.158414+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-14T10:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Ex-Ferrari employee issues Lewis Hamilton and Charles Leclerc warning"
-   },
-   "last": "2026-11-14T10:20:39.158436+00:00"
   },
   "S7402": {
    "title": "Commentary questions whether journalist's FIA ban is deserved",
@@ -10935,16 +10920,18 @@
    "sources": {
     "GPblog": "2026-11-15T16:30:00+00:00",
     "RacingNews365 NL": "2026-11-16T07:50:00+00:00",
-    "RacingNews365": "2026-11-16T09:20:00+00:00"
+    "RacingNews365": "2026-11-16T09:20:00+00:00",
+    "Crash.net": "2026-11-16T10:12:57+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Wolff not surprised by message from former rival Horner after F1 title win",
     "RacingNews365 NL": "Wolff onthult bericht Horner na dubbele titel Mercedes: \"Dat verraste me niet\"",
-    "RacingNews365": "Toto Wolff reveals Christian Horner message after Mercedes F1 renaissance"
+    "RacingNews365": "Toto Wolff reveals Christian Horner message after Mercedes F1 renaissance",
+    "Crash.net": "Toto Wolff reveals what Christian Horner told him after Kimi Antonelli’s F1 title win"
    },
-   "last": "2026-11-16T09:26:38.032649+00:00"
+   "last": "2026-11-16T10:26:45.237810+00:00"
   },
   "S7705": {
    "title": "Coulthard says McLaren favoured Hakkinen over Hakkinen rival",
@@ -13834,9 +13821,22 @@
     "RacingNews365": "Kimi Antonelli becomes first F1 champion in 44 years to deliver rare achivement"
    },
    "last": "2026-11-16T10:16:37.603418+00:00"
+  },
+  "S7924": {
+   "title": "Nico Paz as heir to Messi's Argentina No. 10 shirt",
+   "first": "2026-11-16T10:26:45.237782+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T09:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Meet Como's Nico Paz, the heir to Lionel Messi's Argentina No. 10 shirt"
+   },
+   "last": "2026-11-16T10:26:45.237803+00:00"
   }
  },
- "story_seq": 7923,
+ "story_seq": 7924,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13955,7 +13955,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T10:16:34.055340+00:00",
+ "last_run": "2026-11-16T10:26:42.895834+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
