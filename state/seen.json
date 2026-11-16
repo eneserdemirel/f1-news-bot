@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0d1cab25d96d3b0c": "2026-11-02T05:37:32.167575+00:00",
-  "7416ccace1c2b55d": "2026-11-02T05:37:32.167575+00:00",
   "83f7d2a9130f4cab": "2026-11-02T05:52:33.197539+00:00",
   "49d1385e77361821": "2026-11-02T05:57:31.657580+00:00",
   "f31794799dd3f9c4": "2026-11-02T05:57:31.657580+00:00",
@@ -6746,7 +6744,8 @@
   "3254c889146027dd": "2026-11-16T05:16:04.791907+00:00",
   "e2a43201d515ac38": "2026-11-16T05:26:04.082907+00:00",
   "b8417e04dc13f0a3": "2026-11-16T05:36:05.936166+00:00",
-  "d5aeae89a91a4317": "2026-11-16T05:36:05.936166+00:00"
+  "d5aeae89a91a4317": "2026-11-16T05:36:05.936166+00:00",
+  "e2be994d89c85e55": "2026-11-16T05:46:12.802757+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7036,32 +7035,6 @@
     "ESPN F1": "Mohamed Salah becomes Egypt's record goalscorer with Panenka penalty"
    },
    "last": "2026-11-14T07:09:51.697692+00:00"
-  },
-  "S7353": {
-   "title": "Darius Acuff Jr. slam vs. Trail Blazers (basketball)",
-   "first": "2026-11-14T05:39:52.266564+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T05:19:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Darius Acuff Jr. throws down big slam vs. Portland Trail Blazers"
-   },
-   "last": "2026-11-14T05:39:52.266584+00:00"
-  },
-  "S7354": {
-   "title": "Hamilton's form turnaround gives Norris new F1 outlook",
-   "first": "2026-11-14T05:39:52.266589+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T05:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lewis Hamilton fuels Lando Norris suspicion: 'Pretty unbelievable'"
-   },
-   "last": "2026-11-14T05:39:52.266594+00:00"
   },
   "S7355": {
    "title": "Guatemala 2-3 Canada (Nov 13, 2026) player stats",
@@ -13888,9 +13861,22 @@
     "RacingNews365": "Lewis Hamilton discloses 'sole' Ferrari focus in determined message to team"
    },
    "last": "2026-11-16T05:36:08.285412+00:00"
+  },
+  "S7875": {
+   "title": "Ralf Schumacher says Michael was 'clearly better' than Hamilton",
+   "first": "2026-11-16T05:46:14.737452+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-16T05:34:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Ralf Schumacher: Bruder Michael war \"deutlich besser\" als Lewis Hamilton - Motorsport-Total.com"
+   },
+   "last": "2026-11-16T05:46:14.737472+00:00"
   }
  },
- "story_seq": 7874,
+ "story_seq": 7875,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14009,22 +13995,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T05:36:05.936166+00:00",
+ "last_run": "2026-11-16T05:46:12.802757+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T05:36:26.902272+00:00",
-   "title": "Hamilton, akranlarını genç pilotlara 'laf atmakla' ve empati eksikliğiyle eleştirdi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-13T05:36:27.246358+00:00",
-   "title": "F1 uzmanına göre Ferrari, diğer pilotlarla daha fazla yarış kazanabilirdi",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-13T06:06:29.651826+00:00",
    "title": "Lando Norris'in 27. yaş günü: 2025 dünya şampiyonluğunu yeniden izleyin",
@@ -15169,6 +15145,11 @@
    "t": "2026-11-15T23:05:40.833946+00:00",
    "title": "Verstappen ve Norris: 2025 şampiyonluk mücadelesinden bu yana bir şey değişmedi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-16T05:46:17.630655+00:00",
+   "title": "Ralf Schumacher: Michael, Lewis Hamilton'dan \"belirgin şekilde daha iyiydi\"",
+   "source": "Motorsport-Total"
   }
  ]
 }
