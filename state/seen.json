@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "892904c802c09fb4": "2026-11-02T12:23:15.567711+00:00",
-  "b98c97e85d05a776": "2026-11-02T12:23:15.567711+00:00",
-  "e794a2a73e9a8874": "2026-11-02T12:23:15.567711+00:00",
-  "7006ecf262709977": "2026-11-02T12:23:15.567711+00:00",
-  "a579282d9dd250db": "2026-11-02T12:23:15.567711+00:00",
-  "784f7825681fd7be": "2026-11-02T12:23:15.567711+00:00",
   "a5ea1fa573d088aa": "2026-11-02T12:33:16.297195+00:00",
   "c1b66ea45e8abd7b": "2026-11-02T12:33:16.297195+00:00",
   "8b7f0f1fd76ebd75": "2026-11-02T12:33:16.297195+00:00",
@@ -6620,7 +6614,10 @@
   "92422ae7ce62ead8": "2026-11-16T12:06:34.982378+00:00",
   "9b1a74941cc0de43": "2026-11-16T12:06:34.982378+00:00",
   "f933beb855649f81": "2026-11-16T12:16:33.886667+00:00",
-  "d646f996730bea1d": "2026-11-16T12:16:33.886667+00:00"
+  "d646f996730bea1d": "2026-11-16T12:16:33.886667+00:00",
+  "1e9a4ea1b0ae9f2d": "2026-11-16T12:26:37.083198+00:00",
+  "6c1d4ab605f4880e": "2026-11-16T12:26:37.083198+00:00",
+  "3ed49c284e7f3426": "2026-11-16T12:26:37.083198+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6787,21 +6784,6 @@
    },
    "last": "2026-11-14T18:01:25.022474+00:00"
   },
-  "S7299": {
-   "title": "Steiner warns Russell and Piastri of decisive 2027 season",
-   "first": "2026-11-13T22:08:39.455365+00:00",
-   "sources": {
-    "GPblog": "2026-11-13T22:01:00+00:00",
-    "RacingNews365 NL": "2026-11-14T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Russell and Piastri face ruthless ultimatum as F1 futures come under threat",
-    "RacingNews365 NL": "Steiner waarschuwt Piastri: \"Dan zoekt McLaren de nieuwe Oscar...\""
-   },
-   "last": "2026-11-14T12:20:43.297227+00:00"
-  },
   "S7332": {
    "title": "Felipe Massa says something is wrong at Ferrari",
    "first": "2026-11-14T03:09:05.986491+00:00",
@@ -6857,19 +6839,6 @@
     "ESPN F1": "South Korea vs. Belgium (Dec 2, 2026) Live Score"
    },
    "last": "2026-11-14T13:40:39.678811+00:00"
-  },
-  "S7393": {
-   "title": "Nico Paz possible first Man United signing under Pochettino",
-   "first": "2026-11-14T09:20:43.457594+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T08:57:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Transfer rumors, news: Como's Nico Paz to be Pochettino's first Man United summer signing?"
-   },
-   "last": "2026-11-14T12:20:43.297198+00:00"
   },
   "S7399": {
    "title": "F1 drivers react to online abuse policy change",
@@ -6929,19 +6898,6 @@
    },
    "last": "2026-11-14T12:40:43.168662+00:00"
   },
-  "S7423": {
-   "title": "UCLA beats Illinois 22-14 game recap",
-   "first": "2026-11-14T12:20:43.297208+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T06:48:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UCLA 22-14 Illinois (Nov 13, 2026) Game Recap"
-   },
-   "last": "2026-11-14T12:20:43.297213+00:00"
-  },
   "S7424": {
    "title": "Mercedes continue climbing F1 ladder after five-year wait",
    "first": "2026-11-14T12:20:43.297217+00:00",
@@ -6956,19 +6912,6 @@
     "RacingNews365 NL": "Mercedes loopt uit op Red Bull met klinkende wereldtitel"
    },
    "last": "2026-11-14T14:41:35.514367+00:00"
-  },
-  "S7425": {
-   "title": "Russell cites Hamilton as model for 2027 recovery",
-   "first": "2026-11-14T12:20:43.297230+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-14T12:10:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "George Russell points to Lewis Hamilton example in F1 2027 recovery bid"
-   },
-   "last": "2026-11-14T12:20:43.297233+00:00"
   },
   "S7426": {
    "title": "Vikings QB situation after Cousins trade column",
@@ -13632,14 +13575,14 @@
    "title": "NBA transaction glossary of trade and free agency terms",
    "first": "2026-11-16T11:06:45.615580+00:00",
    "sources": {
-    "ESPN F1": "2026-11-16T10:52:45+00:00"
+    "ESPN F1": "2026-11-16T10:45:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "NBA transaction glossary: Trade, free agency, extension, CBA terms to know"
    },
-   "last": "2026-11-16T11:06:45.615585+00:00"
+   "last": "2026-11-16T12:26:39.620932+00:00"
   },
   "S7931": {
    "title": "Hadjar reflects on third podium at São Paulo Grand Prix",
@@ -13852,9 +13795,35 @@
     "Motorsport.com Italia": "F1 | Motore V8: scopriamo quali sono le regole ancora in discussione per il regolamento 2030"
    },
    "last": "2026-11-16T12:16:36.763746+00:00"
+  },
+  "S7947": {
+   "title": "FIA to propose age limit rule change for candidates",
+   "first": "2026-11-16T12:26:39.620942+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-16T12:19:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA confirms major age limits rule change set to be proposed"
+   },
+   "last": "2026-11-16T12:26:39.620947+00:00"
+  },
+  "S7948": {
+   "title": "Coulthard criticises Norris's podium celebration style",
+   "first": "2026-11-16T12:26:39.620951+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-16T12:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Coulthard bacchetta Norris: “Deve cambiare il modo in cui festeggia sul podio”"
+   },
+   "last": "2026-11-16T12:26:39.620955+00:00"
   }
  },
- "story_seq": 7946,
+ "story_seq": 7948,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13973,17 +13942,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T12:16:33.886667+00:00",
+ "last_run": "2026-11-16T12:26:37.083198+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T12:17:44.117879+00:00",
-   "title": "F1 pilotları Pirelli'nin yağmur lastiklerinden memnun değil",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-13T12:27:44.227182+00:00",
    "title": "Ben Sulayem: Çinli takım için F1 kuralları değişmeyecek",
@@ -15058,6 +15022,16 @@
    "t": "2026-11-16T12:06:43.162290+00:00",
    "title": "Hamilton, Ferrari'nin sezon sonu hedefini açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-16T12:26:46.241538+00:00",
+   "title": "Coulthard, Norris'in podyum kutlamasını eleştirdi",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-16T12:26:46.689366+00:00",
+   "title": "FIA, yaş sınırının kaldırılması önerisini getirecek",
+   "source": "PlanetF1"
   }
  ]
 }
