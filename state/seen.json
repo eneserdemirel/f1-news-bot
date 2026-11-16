@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9d277e0c0e84c847": "2026-11-02T18:14:11.188580+00:00",
-  "0f4a4727ca22ac6f": "2026-11-02T18:14:11.188580+00:00",
   "ff16c5ddf16cce27": "2026-11-02T18:24:13.604348+00:00",
   "d9aeed6ab3a283cf": "2026-11-02T18:24:13.604348+00:00",
   "3e7f0fce8e10033e": "2026-11-02T18:24:13.604348+00:00",
@@ -6619,7 +6617,11 @@
   "4d21e9617f61261d": "2026-11-16T17:47:22.034128+00:00",
   "432a612dcc5a1c22": "2026-11-16T17:58:14.463795+00:00",
   "a7e7aced1f3b608a": "2026-11-16T17:58:14.463795+00:00",
-  "807f0faa0a304c6e": "2026-11-16T18:08:08.071608+00:00"
+  "807f0faa0a304c6e": "2026-11-16T18:08:08.071608+00:00",
+  "8ea89814d487420b": "2026-11-16T18:18:10.306524+00:00",
+  "084321f0ab0cd214": "2026-11-16T18:18:10.306524+00:00",
+  "0790b945bb179b05": "2026-11-16T18:18:10.306524+00:00",
+  "708c47d9074b25f0": "2026-11-16T18:18:10.306524+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6788,58 +6790,6 @@
    },
    "last": "2026-11-14T21:02:12.328276+00:00"
   },
-  "S7482": {
-   "title": "Shanto comments on batting unit performance",
-   "first": "2026-11-14T18:11:24.300019+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T16:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Shanto: 'Very important for the whole batting unit to perform'"
-   },
-   "last": "2026-11-14T18:11:24.300025+00:00"
-  },
-  "S7483": {
-   "title": "Cost of a G League tryout for pro basketball hopefuls",
-   "first": "2026-11-14T18:11:24.300028+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T13:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The price of a pro hoop dream starts with a $200 G League tryout"
-   },
-   "last": "2026-11-14T18:11:24.300031+00:00"
-  },
-  "S7484": {
-   "title": "Liam Lawson on course for rare 2026 achievement",
-   "first": "2026-11-14T18:11:24.300035+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T18:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "The Liam Lawson fact that made it impossible for Racing Bulls to swing F1 axe"
-   },
-   "last": "2026-11-14T18:11:24.300038+00:00"
-  },
-  "S7485": {
-   "title": "Opinion on Liam Lawson potentially joining Mercedes",
-   "first": "2026-11-14T18:11:24.300040+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-14T18:01:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "OPINION: Why Mercedes could be on the horizon for Liam Lawson"
-   },
-   "last": "2026-11-14T18:11:24.300044+00:00"
-  },
   "S7486": {
    "title": "Gazzetta feature on Villeneuve family origins",
    "first": "2026-11-14T18:11:24.300053+00:00",
@@ -6852,19 +6802,6 @@
     "Gazzetta dello Sport": "Una Skoda scassata, una slitta, una casa venduta e un hamburger: nacque così la dinastia Villeneuve"
    },
    "last": "2026-11-14T19:32:13.808688+00:00"
-  },
-  "S7487": {
-   "title": "Steiner suggests reason for Piastri's split from Webber",
-   "first": "2026-11-14T18:11:24.300058+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-14T18:00:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Piastri-Trennung von Webber: Günther Steiner sieht einen möglichen Grund - Motorsport-Total.com"
-   },
-   "last": "2026-11-14T18:11:24.300061+00:00"
   },
   "S7488": {
    "title": "Guingamp vs Rodez Aveyron odds and spread",
@@ -12291,14 +12228,16 @@
    "title": "Wolff addresses Antonelli contract and possible pay rise",
    "first": "2026-11-16T07:36:36.743416+00:00",
    "sources": {
-    "GPblog": "2026-11-16T07:30:00+00:00"
+    "GPblog": "2026-11-16T07:30:00+00:00",
+    "FormulaPassion": "2026-11-16T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Wolff addresses Antonelli contract as title triumph raises salary question"
+    "GPblog": "Wolff addresses Antonelli contract as title triumph raises salary question",
+    "FormulaPassion": "Rinnovo Antonelli, apertura di Wolff: “Sarà ricompensato adeguatamente”"
    },
-   "last": "2026-11-16T08:07:08.910456+00:00"
+   "last": "2026-11-16T18:18:16.044339+00:00"
   },
   "S7900": {
    "title": "ESPN: 49ers offense puts up big numbers against Cowboys",
@@ -14104,9 +14043,48 @@
     "ESPN F1": "Litton: 'I always see crisis situations as opportunities'"
    },
    "last": "2026-11-16T18:08:10.002912+00:00"
+  },
+  "S8033": {
+   "title": "Women's AP basketball Top 25 poll breakdown",
+   "first": "2026-11-16T18:18:16.044297+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T17:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Breaking down the women's 2026-27 AP week 2 Top 25 basketball poll"
+   },
+   "last": "2026-11-16T18:18:16.044316+00:00"
+  },
+  "S8034": {
+   "title": "Week 11 power rankings (non-F1 sport)",
+   "first": "2026-11-16T18:18:16.044321+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T12:19:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Power Rankings: The top teams hold their positions in Week 11"
+   },
+   "last": "2026-11-16T18:18:16.044327+00:00"
+  },
+  "S8035": {
+   "title": "Verdict on delayed Lawson Racing Bulls decision",
+   "first": "2026-11-16T18:18:16.044330+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T18:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson handed crushing verdict over delayed Racing Bulls decision"
+   },
+   "last": "2026-11-16T18:18:16.044334+00:00"
   }
  },
- "story_seq": 8032,
+ "story_seq": 8035,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14225,7 +14203,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T18:08:08.071608+00:00",
+ "last_run": "2026-11-16T18:18:10.306524+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
@@ -15320,6 +15298,11 @@
    "t": "2026-11-16T18:08:13.164861+00:00",
    "title": "Litton: Kriz durumlarını her zaman fırsat olarak görüyorum",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-16T18:18:22.648523+00:00",
+   "title": "Liam Lawson, Racing Bulls'ta kalıyor",
+   "source": "RacingNews365"
   }
  ]
 }
