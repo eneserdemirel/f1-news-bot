@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f57cd1eab5de95c5": "2026-11-02T20:25:04.970984+00:00",
-  "abb7ca69392b7f1a": "2026-11-02T20:25:04.970984+00:00",
-  "abb65d9f93765d35": "2026-11-02T20:25:04.970984+00:00",
-  "38944fecd01c1289": "2026-11-02T20:25:04.970984+00:00",
-  "a826f2aa7e32c4b9": "2026-11-02T20:25:04.970984+00:00",
-  "60b8c6438ea5e627": "2026-11-02T20:25:04.970984+00:00",
   "ed6f185d581387ef": "2026-11-02T20:35:06.853522+00:00",
   "5359cb4e95a2c7ab": "2026-11-02T20:35:06.853522+00:00",
   "ae7d1173645f69c1": "2026-11-02T20:35:06.853522+00:00",
@@ -6609,7 +6603,12 @@
   "02c00263d58eba2f": "2026-11-16T19:58:10.057321+00:00",
   "bb8891d4f54c5388": "2026-11-16T20:08:13.565814+00:00",
   "03ec9289db06a4b9": "2026-11-16T20:08:13.565814+00:00",
-  "e5799b0a3f0c9cbc": "2026-11-16T20:08:13.565814+00:00"
+  "e5799b0a3f0c9cbc": "2026-11-16T20:08:13.565814+00:00",
+  "ffaeff4dec26c5eb": "2026-11-16T20:28:09.284275+00:00",
+  "321ec52d1b75a74c": "2026-11-16T20:28:09.284275+00:00",
+  "79a8512ecd16baa8": "2026-11-16T20:28:09.284275+00:00",
+  "73b09764a635dff0": "2026-11-16T20:28:09.284275+00:00",
+  "0808d6cb806a2941": "2026-11-16T20:28:09.284275+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6655,21 +6654,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7269": {
-   "title": "Daily Mail boycotts F1 coverage over McEvoy ban",
-   "first": "2026-11-13T18:18:57.059628+00:00",
-   "sources": {
-    "GPFans": "2026-11-13T18:10:00+00:00",
-    "GPblog": "2026-11-14T09:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Daily Mail BOYCOTTS F1 coverage after journalist banned by FIA",
-    "GPblog": "British newspaper boycotts F1 as FIA bans journalist after Leclerc column"
-   },
-   "last": "2026-11-14T20:22:10.288800+00:00"
   },
   "S7381": {
    "title": "Ole Miss-Oklahoma game moved to Sunday over AD objection",
@@ -14085,9 +14069,61 @@
     "GPblog": "Why Las Vegas is one of Formula 1’s hardest circuits to predict"
    },
    "last": "2026-11-16T20:08:15.569153+00:00"
+  },
+  "S8056": {
+   "title": "Andy Robertson breaks Kenny Dalglish's Scotland caps record",
+   "first": "2026-11-16T20:28:11.554190+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T19:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Andy Robertson beats Kenny Dalglish's Scotland caps record"
+   },
+   "last": "2026-11-16T20:28:11.554218+00:00"
+  },
+  "S8057": {
+   "title": "Guyana vs. Puerto Rico match team stats",
+   "first": "2026-11-16T20:28:11.554222+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T19:26:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Guyana vs. Puerto Rico (Nov 16, 2026) Team Stats"
+   },
+   "last": "2026-11-16T20:28:11.554226+00:00"
+  },
+  "S8058": {
+   "title": "Fantasy basketball adds and NBA bets for Monday",
+   "first": "2026-11-16T20:28:11.554229+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T18:22:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy basketball adds and NBA bets: All eyes on Tyrese Maxey on Monday"
+   },
+   "last": "2026-11-16T20:28:11.554233+00:00"
+  },
+  "S8059": {
+   "title": "Louisville No. 3 in women's AP Top 25 poll",
+   "first": "2026-11-16T20:28:11.554237+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T17:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Louisville No. 3 in women's AP Top 25 after UConn win; South Carolina still tops"
+   },
+   "last": "2026-11-16T20:28:11.554240+00:00"
   }
  },
- "story_seq": 8055,
+ "story_seq": 8059,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14206,7 +14242,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T20:18:09.689171+00:00",
+ "last_run": "2026-11-16T20:28:09.284275+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
