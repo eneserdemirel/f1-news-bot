@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "35a10db83af8975f": "2026-11-02T17:44:08.269739+00:00",
   "685ca5eb16ec9b83": "2026-11-02T17:54:09.223842+00:00",
   "1d0eeb9ef22a516d": "2026-11-02T17:54:09.223842+00:00",
   "0f8a696057934b78": "2026-11-02T17:54:09.223842+00:00",
@@ -6618,7 +6617,15 @@
   "9eeaf14f89eff74c": "2026-11-16T17:27:16.561370+00:00",
   "2d4680a0025ead2c": "2026-11-16T17:27:16.561370+00:00",
   "f8e555807d5883b7": "2026-11-16T17:37:17.050225+00:00",
-  "568b3bca3a97bfa0": "2026-11-16T17:37:17.050225+00:00"
+  "568b3bca3a97bfa0": "2026-11-16T17:37:17.050225+00:00",
+  "57e0d9076d2c8e14": "2026-11-16T17:47:22.034128+00:00",
+  "05ffcd4e0b5cf0b2": "2026-11-16T17:47:22.034128+00:00",
+  "0d0ef0864dee8e6a": "2026-11-16T17:47:22.034128+00:00",
+  "92cdf8489f56d492": "2026-11-16T17:47:22.034128+00:00",
+  "0b0c5a4886f24db5": "2026-11-16T17:47:22.034128+00:00",
+  "b62b2c68025b78d0": "2026-11-16T17:47:22.034128+00:00",
+  "e6319fb518d7b639": "2026-11-16T17:47:22.034128+00:00",
+  "4d21e9617f61261d": "2026-11-16T17:47:22.034128+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6803,32 +6810,6 @@
     "Corriere dello Sport": "\"Antonelli guiderà per la Ferrari, saranno loro a cercarlo\": la previsione dell'ex team principal fa sognare i tifosi"
    },
    "last": "2026-11-15T10:54:19.055596+00:00"
-  },
-  "S7477": {
-   "title": "Brighton vs. Liverpool team stats (Nov 14, 2026)",
-   "first": "2026-11-14T17:41:20.716966+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T17:33:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brighton vs. Liverpool (Nov 14, 2026) Team Stats"
-   },
-   "last": "2026-11-14T17:41:20.716984+00:00"
-  },
-  "S7478": {
-   "title": "Chelsea beat Man City in WSL, Emma Hayes watching",
-   "first": "2026-11-14T17:41:20.716989+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T17:04:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chelsea reassert WSL dominance over Man City in front of USWNT boss Emma Hayes"
-   },
-   "last": "2026-11-14T17:41:20.716994+00:00"
   },
   "S7479": {
    "title": "Ralf Schumacher says Hamilton is provoking Leclerc and Ferrari needs change",
@@ -13989,14 +13970,14 @@
    "title": "Bayern Munich confirm Alphonso Davies hamstring injury",
    "first": "2026-11-16T17:27:21.168624+00:00",
    "sources": {
-    "ESPN F1": "2026-11-16T17:24:02+00:00"
+    "ESPN F1": "2026-11-16T17:14:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Bayern Munich confirm Alphonso Davies hamstring injury after Canada win"
    },
-   "last": "2026-11-16T17:27:21.168656+00:00"
+   "last": "2026-11-16T17:47:26.838011+00:00"
   },
   "S8019": {
    "title": "Iceland vs. Luxembourg match team stats",
@@ -14042,15 +14023,19 @@
    "first": "2026-11-16T17:27:21.168687+00:00",
    "sources": {
     "RacingNews365": "2026-11-16T17:14:00+00:00",
-    "RacingNews365 NL": "2026-11-16T17:15:00+00:00"
+    "RacingNews365 NL": "2026-11-16T17:15:00+00:00",
+    "Formula 1": "2026-11-16T17:47:26.837977+00:00",
+    "GPblog": "2026-11-16T17:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Williams unveil 'chrome' livery tweak for Las Vegas Grand Prix",
-    "RacingNews365 NL": "Williams onthult speciale livery voor GP Las Vegas"
+    "RacingNews365 NL": "Williams onthult speciale livery voor GP Las Vegas",
+    "Formula 1": "Williams unveil special livery for Las Vegas Grand Prix",
+    "GPblog": "Williams reveal striking blue chrome livery for Las Vegas GP"
    },
-   "last": "2026-11-16T17:27:21.168696+00:00"
+   "last": "2026-11-16T17:47:26.838039+00:00"
   },
   "S8023": {
    "title": "Norris says Las Vegas wet tyres would be scary",
@@ -14077,9 +14062,74 @@
     "Motorsport-Total": "Die Botschaft an die Mercedes-Neuzugänge während der Titelflaute - Motorsport-Total.com"
    },
    "last": "2026-11-16T17:37:19.199475+00:00"
+  },
+  "S8025": {
+   "title": "Cowboys RG Booker and CB Bland have high ankle sprains",
+   "first": "2026-11-16T17:47:26.837997+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T17:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Cowboys RG Tyler Booker, CB DaRon Bland have high ankle sprains"
+   },
+   "last": "2026-11-16T17:47:26.838004+00:00"
+  },
+  "S8026": {
+   "title": "Pochettino non-committal on US players for Man United",
+   "first": "2026-11-16T17:47:26.838015+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T16:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pochettino won't be drawn on U.S. players he might bring to Manchester United"
+   },
+   "last": "2026-11-16T17:47:26.838019+00:00"
+  },
+  "S8027": {
+   "title": "Dolphins cut kicker Zane Gonzalez after costly misses",
+   "first": "2026-11-16T17:47:26.838023+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T16:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts"
+   },
+   "last": "2026-11-16T17:47:26.838027+00:00"
+  },
+  "S8028": {
+   "title": "Verstappen reminisces on Red Bull roadtrip ahead of Las Vegas",
+   "first": "2026-11-16T17:47:26.838030+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-16T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen openhartig tijdens Red Bull-roadtrip: \"Krijg er nog altijd kippenvel van!\""
+   },
+   "last": "2026-11-16T17:47:26.838034+00:00"
+  },
+  "S8029": {
+   "title": "Opinion piece on Hamilton's Ferrari problems",
+   "first": "2026-11-16T17:47:26.838042+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T17:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton's Ferrari revolution faces one HUGE problem"
+   },
+   "last": "2026-11-16T17:47:26.838046+00:00"
   }
  },
- "story_seq": 8024,
+ "story_seq": 8029,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14198,22 +14248,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T17:37:17.050225+00:00",
+ "last_run": "2026-11-16T17:47:22.034128+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T17:38:46.451069+00:00",
-   "title": "Verstappen, Interlagos'ta 21. sıradan yarışa üçüncü kez dramatik dönüşle başladı; okurların en iyi toparlanma seçildi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-13T17:38:47.045612+00:00",
-   "title": "MotoGP efsanesi Pedrosa, Vettel'in Red Bull F1 aracına karşı karlı pistte yarıştı ve kazandı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-13T17:48:56.280004+00:00",
    "title": "Cadillac'ın 3 milyar dolarlık satış fiyatı eleştirildi",
@@ -15293,6 +15333,11 @@
    "t": "2026-11-16T17:37:23.533558+00:00",
    "title": "Norris: Mevcut yağmur lastikleriyle Las Vegas GP'si \"korkutucu\" olur",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-16T17:47:31.293283+00:00",
+   "title": "Verstappen, Red Bull roadtrip'inde içini döktü",
+   "source": "RacingNews365 NL"
   }
  ]
 }
