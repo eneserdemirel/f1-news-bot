@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d32e715db1fd5a8e": "2026-11-02T06:47:31.781543+00:00",
-  "88fcc420ad66e6f3": "2026-11-02T06:47:31.781543+00:00",
-  "b6bd52faf4e41c92": "2026-11-02T06:47:31.781543+00:00",
-  "9aa7eccd6ebffe2d": "2026-11-02T06:52:37.247007+00:00",
-  "7732277bba7268e0": "2026-11-02T06:52:37.247007+00:00",
-  "a47f11931c81131d": "2026-11-02T06:52:37.247007+00:00",
-  "dd48a98f36126a58": "2026-11-02T06:52:37.247007+00:00",
   "8549cab4b8370dc7": "2026-11-02T07:02:34.197482+00:00",
   "67327048b893c293": "2026-11-02T07:02:34.197482+00:00",
   "3b8c00e48b2d661c": "2026-11-02T07:02:34.197482+00:00",
@@ -6743,7 +6736,12 @@
   "1098a9bca3a41970": "2026-11-16T06:26:03.877754+00:00",
   "8d1bdee9a0fc5792": "2026-11-16T06:26:03.877754+00:00",
   "6605b63d361c9d9f": "2026-11-16T06:36:04.808251+00:00",
-  "afb9d4637a6c6e52": "2026-11-16T06:46:12.353935+00:00"
+  "afb9d4637a6c6e52": "2026-11-16T06:46:12.353935+00:00",
+  "43e1de7bfc9fb8aa": "2026-11-16T06:56:02.356147+00:00",
+  "e3073031fc5c1be7": "2026-11-16T06:56:02.356147+00:00",
+  "ed9df8a39190e914": "2026-11-16T06:56:02.356147+00:00",
+  "51ffbd56f49ef08c": "2026-11-16T06:56:02.356147+00:00",
+  "ce587c76c516e935": "2026-11-16T06:56:02.356147+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6935,19 +6933,6 @@
    },
    "last": "2026-11-14T20:22:10.288800+00:00"
   },
-  "S7287": {
-   "title": "France vs South Africa rugby live match updates",
-   "first": "2026-11-13T20:08:36.988165+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T19:57:54+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "France vs. South Africa: LIVE updates as it happens"
-   },
-   "last": "2026-11-14T06:49:49.867756+00:00"
-  },
   "S7298": {
    "title": "PlanetF1 roundup of Stroll, Hamilton and FIA hearing news",
    "first": "2026-11-13T22:08:39.455341+00:00",
@@ -7022,19 +7007,6 @@
     "Autosport": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas"
    },
    "last": "2026-11-14T09:20:43.457627+00:00"
-  },
-  "S7363": {
-   "title": "UC San Diego vs. Utah State live score (Nov 13, 2026)",
-   "first": "2026-11-14T06:49:49.867765+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T05:04:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UC San Diego vs. Utah State (Nov 13, 2026) Live Score"
-   },
-   "last": "2026-11-14T06:49:49.867771+00:00"
   },
   "S7364": {
    "title": "East Texas A&M 94-88 Portland final score",
@@ -12560,7 +12532,7 @@
    "titles": {
     "ESPN F1": "IIHF confirms Russia won't play in world junior hockey championships in Canada"
    },
-   "last": "2026-11-15T22:45:36.715612+00:00"
+   "last": "2026-11-16T06:56:05.681790+00:00"
   },
   "S7784": {
    "title": "Devin Booker gets the basket plus the foul",
@@ -13320,14 +13292,14 @@
    "title": "NFL playoff chances tiers for all 32 teams",
    "first": "2026-11-16T03:06:06.211812+00:00",
    "sources": {
-    "ESPN F1": "2026-11-16T02:57:32+00:00"
+    "ESPN F1": "2026-11-16T02:51:19+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture"
    },
-   "last": "2026-11-16T03:06:06.211831+00:00"
+   "last": "2026-11-16T06:56:05.681804+00:00"
   },
   "S7843": {
    "title": "ESPN 2027 SC Next 100 feature",
@@ -13920,14 +13892,16 @@
    "title": "Steiner questions whether Hamilton is the right person to lead Ferrari",
    "first": "2026-11-16T06:36:06.991499+00:00",
    "sources": {
-    "GPFans": "2026-11-16T06:30:00+00:00"
+    "GPFans": "2026-11-16T06:30:00+00:00",
+    "PlanetF1": "2026-11-16T06:51:34+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Verstappen backed to fix Ferrari as Lewis Hamilton refuses to back down - F1 News Today"
+    "GPFans": "Verstappen backed to fix Ferrari as Lewis Hamilton refuses to back down - F1 News Today",
+    "PlanetF1": "Lewis Hamilton leadership questioned as Ferrari driver ‘solution’ named"
    },
-   "last": "2026-11-16T06:36:06.991517+00:00"
+   "last": "2026-11-16T06:56:05.681809+00:00"
   },
   "S7889": {
    "title": "Celtics 131-94 Mavericks NBA game recap",
@@ -13941,9 +13915,35 @@
     "ESPN F1": "Celtics 131-94 Mavericks (Nov 15, 2026) Game Recap"
    },
    "last": "2026-11-16T06:46:14.146409+00:00"
+  },
+  "S7890": {
+   "title": "Edmonton wins 15th Grey Cup title over Montreal",
+   "first": "2026-11-16T06:56:05.681762+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T06:49:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Edmonton back atop CFL, outlasts Montreal to capture 15th Grey Cup title"
+   },
+   "last": "2026-11-16T06:56:05.681781+00:00"
+  },
+  "S7891": {
+   "title": "Joe Burrow four-touchdown game compared to Brady and Manning",
+   "first": "2026-11-16T06:56:05.681794+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T06:41:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Joe Burrow's 4-TD effort puts him in company of Tom Brady, Peyton Manning"
+   },
+   "last": "2026-11-16T06:56:05.681799+00:00"
   }
  },
- "story_seq": 7889,
+ "story_seq": 7891,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14062,7 +14062,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T06:46:12.353935+00:00",
+ "last_run": "2026-11-16T06:56:02.356147+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
