@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a0c211b7c115c2cc": "2026-11-02T01:06:58.739254+00:00",
-  "93ef1dd7da906b10": "2026-11-02T01:11:57.721591+00:00",
   "1efcad750909460d": "2026-11-02T01:16:59.141128+00:00",
   "961dd0f628016199": "2026-11-02T01:16:59.141128+00:00",
   "56c5c5de15bd1d4c": "2026-11-02T01:16:59.141128+00:00",
@@ -6775,7 +6773,9 @@
   "a9e9a7307121cada": "2026-11-16T00:55:32.189724+00:00",
   "579da5336c174888": "2026-11-16T01:05:30.561611+00:00",
   "a6b85b938e2019d2": "2026-11-16T01:05:30.561611+00:00",
-  "f3df9b72743a321f": "2026-11-16T01:05:30.561611+00:00"
+  "f3df9b72743a321f": "2026-11-16T01:05:30.561611+00:00",
+  "7570400c17b3b640": "2026-11-16T01:15:33.506082+00:00",
+  "14884d45a2b33a7a": "2026-11-16T01:15:33.506082+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7035,19 +7035,6 @@
     "ESPN F1": "Hye-Jin Choi, Carlota Ciganda, Lindy Duncan share lead at The Annika"
    },
    "last": "2026-11-14T03:49:52.481850+00:00"
-  },
-  "S7318": {
-   "title": "NFL outlines steps in Jalen Hurts investigation to senator",
-   "first": "2026-11-14T01:09:05.947201+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T21:47:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL outlines steps in Jalen Hurts investigation in letter to senator"
-   },
-   "last": "2026-11-14T01:09:05.947221+00:00"
   },
   "S7319": {
    "title": "Svitolina beats Sabalenka in three sets to reach WTA Finals semis",
@@ -13696,9 +13683,35 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-16T01:05:34.489867+00:00"
+  },
+  "S7825": {
+   "title": "Jaguars 40-23 Titans game recap",
+   "first": "2026-11-16T01:15:35.559037+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:52:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jaguars 40-23 Titans (Nov 15, 2026) Game Recap"
+   },
+   "last": "2026-11-16T01:15:35.559061+00:00"
+  },
+  "S7826": {
+   "title": "Clippers 113-105 Hornets game recap",
+   "first": "2026-11-16T01:15:35.559068+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:33:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Clippers 113-105 Hornets (Nov 15, 2026) Game Recap"
+   },
+   "last": "2026-11-16T01:15:35.559074+00:00"
   }
  },
- "story_seq": 7824,
+ "story_seq": 7826,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13817,7 +13830,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T01:05:30.561611+00:00",
+ "last_run": "2026-11-16T01:15:33.506082+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
