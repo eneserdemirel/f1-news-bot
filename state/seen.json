@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "484776da08ac68e0": "2026-11-02T11:03:17.544488+00:00",
-  "73465b681e8e45d7": "2026-11-02T11:03:17.544488+00:00",
-  "0135d16cb6008ed2": "2026-11-02T11:03:17.544488+00:00",
   "7eba202707e6a503": "2026-11-02T11:13:20.418206+00:00",
   "44c10e36c037e135": "2026-11-02T11:13:20.418206+00:00",
   "21a4177cc3644dc6": "2026-11-02T11:13:20.418206+00:00",
@@ -6631,7 +6628,13 @@
   "688943c5ab8aec01": "2026-11-16T10:36:34.426957+00:00",
   "08a201f4b0f743d8": "2026-11-16T10:36:34.426957+00:00",
   "0544d6884c40a18b": "2026-11-16T10:46:42.101640+00:00",
-  "92a53a1fdb180ec0": "2026-11-16T10:56:36.577883+00:00"
+  "92a53a1fdb180ec0": "2026-11-16T10:56:36.577883+00:00",
+  "461f7951bc4e0312": "2026-11-16T11:06:39.962332+00:00",
+  "c0379b0bbc5b59c8": "2026-11-16T11:06:39.962332+00:00",
+  "8eb893ef4bc09d9b": "2026-11-16T11:06:39.962332+00:00",
+  "6300399f7abd35d0": "2026-11-16T11:06:39.962332+00:00",
+  "b046132166414619": "2026-11-16T11:06:39.962332+00:00",
+  "9dc4513102bbd67f": "2026-11-16T11:06:39.962332+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13671,16 +13674,18 @@
    "sources": {
     "Motorsport-Total": "2026-11-16T09:42:08+00:00",
     "RacingNews365": "2026-11-16T09:50:00+00:00",
-    "GPblog": "2026-11-16T09:46:00+00:00"
+    "GPblog": "2026-11-16T09:46:00+00:00",
+    "PlanetF1": "2026-11-16T10:59:52+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Neues Team von Lando Norris sichert sich deutsches Formel-2-Talent - Motorsport-Total.com",
     "RacingNews365": "Former Red Bull junior secures seat at Lando Norris' F2 squad",
-    "GPblog": "Former Red Bull Racing junior gets new opportunity from Lando Norris"
+    "GPblog": "Former Red Bull Racing junior gets new opportunity from Lando Norris",
+    "PlanetF1": "Lando Norris signs former Red Bull junior in new F2 driver announcement"
    },
-   "last": "2026-11-16T09:56:39.948687+00:00"
+   "last": "2026-11-16T11:06:45.615596+00:00"
   },
   "S7920": {
    "title": "Tony Popovic hints at possible return as Socceroos coach",
@@ -13798,9 +13803,61 @@
     "Motorsport-Total": "- Motorsport-Total.com"
    },
    "last": "2026-11-16T10:46:43.692686+00:00"
+  },
+  "S7929": {
+   "title": "Patriots defensive effort concerns if Drake Maye misses time",
+   "first": "2026-11-16T11:06:45.615555+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Patriots need to fix defensive effort -- especially if Drake Maye misses time"
+   },
+   "last": "2026-11-16T11:06:45.615576+00:00"
+  },
+  "S7930": {
+   "title": "NBA transaction glossary of trade and free agency terms",
+   "first": "2026-11-16T11:06:45.615580+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T10:52:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NBA transaction glossary: Trade, free agency, extension, CBA terms to know"
+   },
+   "last": "2026-11-16T11:06:45.615585+00:00"
+  },
+  "S7931": {
+   "title": "Hadjar reflects on third podium at São Paulo Grand Prix",
+   "first": "2026-11-16T11:06:45.615588+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Isack Hadjar makes 'against adversity' claim after having to 'dig deep'"
+   },
+   "last": "2026-11-16T11:06:45.615591+00:00"
+  },
+  "S7932": {
+   "title": "Iran attack on US base threatens F1 Middle East rounds",
+   "first": "2026-11-16T11:06:45.615598+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T11:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Iran launches attack on US base ahead of F1's Middle East rounds"
+   },
+   "last": "2026-11-16T11:06:45.615601+00:00"
   }
  },
- "story_seq": 7928,
+ "story_seq": 7932,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13919,17 +13976,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T10:56:36.577883+00:00",
+ "last_run": "2026-11-16T11:06:39.962332+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T10:56:54.035234+00:00",
-   "title": "Coulthard: Yağmurlu F1 yarışlarında FIA'nın ihtiyatlı yaklaşımı sporu zarara uğratıyor",
-   "source": "Motorsport Week"
-  },
   {
    "t": "2026-11-13T11:06:56.271728+00:00",
    "title": "Verstappen, Ferrari'nin sorununu nasıl çözerdi?",
@@ -15019,6 +15071,16 @@
    "t": "2026-11-16T10:36:42.094458+00:00",
    "title": "McLaren, Takımlar Şampiyonası'nda 3. olmak için son ana kadar mücadele edecek",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-16T11:06:50.263275+00:00",
+   "title": "Hadjar: Podyumu zorluklara karşı kazanıyorum",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-16T11:06:50.759076+00:00",
+   "title": "İran'dan ABD üssüne saldırı; F1'in Orta Doğu etapları gündemde",
+   "source": "GPblog"
   }
  ]
 }
