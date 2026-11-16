@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "72afcf168f79c883": "2026-11-01T23:57:00.080265+00:00",
-  "edc83488008e96b9": "2026-11-01T23:57:00.080265+00:00",
-  "de8428705edfc894": "2026-11-02T00:01:57.240428+00:00",
-  "342a698230009213": "2026-11-02T00:01:57.240428+00:00",
-  "559b2278f7ffac4b": "2026-11-02T00:01:57.240428+00:00",
-  "d8c34841bdf7c1d1": "2026-11-02T00:01:57.240428+00:00",
-  "d7843b8d50762251": "2026-11-02T00:01:57.240428+00:00",
   "93100288ffe32718": "2026-11-02T00:06:59.849364+00:00",
   "adf4859caa606d74": "2026-11-02T00:06:59.849364+00:00",
   "03222bdea3ef92ed": "2026-11-02T00:06:59.849364+00:00",
@@ -6774,7 +6767,12 @@
   "81710b72089fd756": "2026-11-15T23:45:30.600382+00:00",
   "714c9730387434ed": "2026-11-15T23:55:32.374319+00:00",
   "06ed6a517004d7ca": "2026-11-15T23:55:32.374319+00:00",
-  "422f1330be9de07d": "2026-11-15T23:55:32.374319+00:00"
+  "422f1330be9de07d": "2026-11-15T23:55:32.374319+00:00",
+  "68303e5264f6101c": "2026-11-16T00:05:32.539461+00:00",
+  "7b52449f809ba2a7": "2026-11-16T00:05:32.539461+00:00",
+  "7a578212c101f5e3": "2026-11-16T00:05:32.539461+00:00",
+  "c79d0e6d36c8ef9f": "2026-11-16T00:05:32.539461+00:00",
+  "aa9cb03576ff5e0a": "2026-11-16T00:05:32.539461+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7047,32 +7045,6 @@
     "ESPN F1": "Goalkeeper banned 12 games for collision that led to Spanish player's death"
    },
    "last": "2026-11-14T00:19:06.342743+00:00"
-  },
-  "S7313": {
-   "title": "Slovenia 0-0 Switzerland player stats",
-   "first": "2026-11-13T23:59:05.918211+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T21:02:20+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Slovenia 0-0 Switzerland (Nov 13, 2026) Player Stats"
-   },
-   "last": "2026-11-13T23:59:05.918232+00:00"
-  },
-  "S7314": {
-   "title": "2026-27 MLB free agency and trade grades",
-   "first": "2026-11-13T23:59:05.918238+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T20:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026-27 MLB free agency, trade grades: Offseason analysis"
-   },
-   "last": "2026-11-13T23:59:05.918243+00:00"
   },
   "S7315": {
    "title": "Choi, Ciganda and Duncan share lead at The Annika",
@@ -12177,14 +12149,16 @@
    "title": "Antonelli meets Italian President Mattarella after title win",
    "first": "2026-11-15T16:14:49.151058+00:00",
    "sources": {
-    "Motorsport Week": "2026-11-15T16:00:00+00:00"
+    "Motorsport Week": "2026-11-15T16:00:00+00:00",
+    "PlanetF1": "2026-11-16T00:01:56+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport Week": "Kimi Antonelli continues F1 title celebrations with special presidential meeting"
+    "Motorsport Week": "Kimi Antonelli continues F1 title celebrations with special presidential meeting",
+    "PlanetF1": "Kimi Antonelli meets Italian president after receiving prestigious award"
    },
-   "last": "2026-11-15T16:14:49.151062+00:00"
+   "last": "2026-11-16T00:05:41.879808+00:00"
   },
   "S7703": {
    "title": "McLaren says Las Vegas upgrades lay foundation for 2027",
@@ -13472,9 +13446,61 @@
     "ESPN F1": "Teryn Gardner sinks it from downtown"
    },
    "last": "2026-11-15T23:55:35.203148+00:00"
+  },
+  "S7802": {
+   "title": "Scottie Barnes dunk vs. Knicks highlight",
+   "first": "2026-11-16T00:05:41.879749+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:00:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Scottie Barnes throws down powerful dunk vs. New York Knicks"
+   },
+   "last": "2026-11-16T00:05:41.879772+00:00"
+  },
+  "S7803": {
+   "title": "Generic ESPN F1 page with no specific story",
+   "first": "2026-11-16T00:05:41.879778+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:00:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "espn.com"
+   },
+   "last": "2026-11-16T00:05:41.879784+00:00"
+  },
+  "S7804": {
+   "title": "Spain reaction to England loss, opinion quote",
+   "first": "2026-11-16T00:05:41.879789+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T23:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Spain 'overwhelmed' by 'exceptional' England: We also know how to lose"
+   },
+   "last": "2026-11-16T00:05:41.879794+00:00"
+  },
+  "S7805": {
+   "title": "Collin Gillespie and-1 bucket highlight",
+   "first": "2026-11-16T00:05:41.879798+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-15T23:45:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Collin Gillespie with the and-1 bucket"
+   },
+   "last": "2026-11-16T00:05:41.879802+00:00"
   }
  },
- "story_seq": 7801,
+ "story_seq": 7805,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13593,7 +13619,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-15T23:55:32.374319+00:00",
+ "last_run": "2026-11-16T00:05:32.539461+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
