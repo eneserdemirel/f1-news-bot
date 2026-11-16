@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a9c60fd1626916d5": "2026-11-02T20:05:10.298946+00:00",
-  "a641a1a03a051e3a": "2026-11-02T20:05:10.298946+00:00",
-  "226dae3c093f5bb6": "2026-11-02T20:05:10.298946+00:00",
-  "ef64283cb4d978df": "2026-11-02T20:05:10.298946+00:00",
-  "6465de4936ce2453": "2026-11-02T20:05:10.298946+00:00",
   "0c768664ceed6339": "2026-11-02T20:15:04.850207+00:00",
   "44f5f0f305de8b11": "2026-11-02T20:15:04.850207+00:00",
   "9cb723fd230ac73c": "2026-11-02T20:15:04.850207+00:00",
@@ -6614,7 +6609,10 @@
   "f96f32d75a8d3ce0": "2026-11-16T19:48:06.974842+00:00",
   "6c1c02d575d94aa4": "2026-11-16T19:58:10.057321+00:00",
   "252041551b02d067": "2026-11-16T19:58:10.057321+00:00",
-  "02c00263d58eba2f": "2026-11-16T19:58:10.057321+00:00"
+  "02c00263d58eba2f": "2026-11-16T19:58:10.057321+00:00",
+  "bb8891d4f54c5388": "2026-11-16T20:08:13.565814+00:00",
+  "03ec9289db06a4b9": "2026-11-16T20:08:13.565814+00:00",
+  "e5799b0a3f0c9cbc": "2026-11-16T20:08:13.565814+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14077,9 +14075,35 @@
     "ESPN F1": "Jets Aaron Glenn ceded defensive playcalling to DC Brian Duker on Sunday"
    },
    "last": "2026-11-16T19:58:11.936876+00:00"
+  },
+  "S8054": {
+   "title": "Ricciardo recalls F1 period when he felt exhausted and disengaged",
+   "first": "2026-11-16T20:08:15.569125+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-16T20:02:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Daniel Ricciardo reveals F1 moment he ‘just wanted to be over’"
+   },
+   "last": "2026-11-16T20:08:15.569144+00:00"
+  },
+  "S8055": {
+   "title": "Preview of why Las Vegas circuit is hard to predict for teams",
+   "first": "2026-11-16T20:08:15.569149+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T20:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Why Las Vegas is one of Formula 1’s hardest circuits to predict"
+   },
+   "last": "2026-11-16T20:08:15.569153+00:00"
   }
  },
- "story_seq": 8053,
+ "story_seq": 8055,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14198,17 +14222,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T19:58:10.057321+00:00",
+ "last_run": "2026-11-16T20:08:13.565814+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T19:58:42.333531+00:00",
-   "title": "Peter Windsor: Mark Webber ile arkadaşlığım Piastri'nin McLaren hamlesi yüzünden bitti",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-13T21:08:46.219354+00:00",
    "title": "Piastri'nin Verstappen'i devirmesi bekleniyordu, Norris'e boyun eğmesi değil",
@@ -15273,6 +15292,16 @@
    "t": "2026-11-16T19:48:12.591372+00:00",
    "title": "Horner, Cadillac iddialarına yanıt verdi: Sadece değiştirebileceksem dönerim",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-16T20:08:19.976659+00:00",
+   "title": "Las Vegas, Formula 1'in en zor tahmin edilen pistlerinden biri",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-16T20:08:20.608569+00:00",
+   "title": "Ricciardo, F1 kariyerinde bitsin istediği anı açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
