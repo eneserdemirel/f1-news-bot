@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "163898f153fae078": "2026-11-02T08:52:44.620914+00:00",
-  "dc461c81be884160": "2026-11-02T08:52:44.620914+00:00",
-  "1cca874dd0ea2d5b": "2026-11-02T08:52:44.620914+00:00",
-  "d93ae3fd4489b7cf": "2026-11-02T08:52:44.620914+00:00",
-  "6cc51f98cd1d616f": "2026-11-02T08:52:44.620914+00:00",
-  "1556664ec841b71e": "2026-11-02T08:52:44.620914+00:00",
-  "087d3c31b8615695": "2026-11-02T08:52:44.620914+00:00",
-  "e8c20726998c5d13": "2026-11-02T08:52:44.620914+00:00",
   "b07e92478463ca78": "2026-11-02T09:02:45.887990+00:00",
   "0ed0ae3590b50018": "2026-11-02T09:02:45.887990+00:00",
   "184ddec4fa8f5574": "2026-11-02T09:02:45.887990+00:00",
@@ -6726,7 +6718,10 @@
   "1f91f7796da887de": "2026-11-16T08:36:37.207318+00:00",
   "a1b4539b98f0c30e": "2026-11-16T08:36:37.207318+00:00",
   "aa07d27718844a40": "2026-11-16T08:36:37.207318+00:00",
-  "c01f6b25b3260a42": "2026-11-16T08:46:39.158636+00:00"
+  "c01f6b25b3260a42": "2026-11-16T08:46:39.158636+00:00",
+  "609ba90527efff82": "2026-11-16T08:56:49.775118+00:00",
+  "f304e0baf7c26bbf": "2026-11-16T08:56:49.775118+00:00",
+  "9181ae07135e206a": "2026-11-16T08:56:49.775118+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7001,58 +6996,6 @@
     "ESPN F1": "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'"
    },
    "last": "2026-11-14T22:12:12.213942+00:00"
-  },
-  "S7384": {
-   "title": "F1 writers give takes on Antonelli's 2026 title",
-   "first": "2026-11-14T08:49:54.063629+00:00",
-   "sources": {
-    "Formula 1": "2026-11-14T08:49:54.063645+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Our writers on Antonelli’s title success and what it means"
-   },
-   "last": "2026-11-14T08:49:54.063648+00:00"
-  },
-  "S7385": {
-   "title": "ESPN column on Pochettino's Man United to-do list",
-   "first": "2026-11-14T08:49:54.063654+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T08:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Man United, Pochettino's to-do list based on what's gone wrong this season"
-   },
-   "last": "2026-11-14T08:49:54.063659+00:00"
-  },
-  "S7386": {
-   "title": "'ADUO for teams' cost cap proposal to be debated by F1 Commission",
-   "first": "2026-11-14T08:49:54.063663+00:00",
-   "sources": {
-    "The Race": "2026-11-14T08:47:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "'ADUO for teams' plan to be discussed by F1"
-   },
-   "last": "2026-11-14T08:49:54.063667+00:00"
-  },
-  "S7387": {
-   "title": "Michael Schumacher's impact on Mercedes insider's perceptions",
-   "first": "2026-11-14T08:49:54.063676+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-14T08:43:26+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘How wrong I was’ – How Michael Schumacher took Mercedes insider by surprise"
-   },
-   "last": "2026-11-14T08:49:54.063680+00:00"
   },
   "S7388": {
    "title": "Heat beat Cavaliers 133-121 in NBA game",
@@ -13891,15 +13834,21 @@
    "first": "2026-11-16T08:26:38.554882+00:00",
    "sources": {
     "Motorsport-Total": "2026-11-16T08:23:54+00:00",
-    "RacingNews365": "2026-11-16T08:32:00+00:00"
+    "RacingNews365": "2026-11-16T08:32:00+00:00",
+    "RacingNews365 NL": "2026-11-16T08:45:00+00:00",
+    "GPblog": "2026-11-16T08:51:00+00:00",
+    "Crash.net": "2026-11-16T08:46:53+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Offiziell: Haas bestätigt Rafael Camara auch für Las Vegas - Motorsport-Total.com",
-    "RacingNews365": "Haas make Las Vegas Grand Prix driver decision with change for FP1"
+    "RacingNews365": "Haas make Las Vegas Grand Prix driver decision with change for FP1",
+    "RacingNews365 NL": "Haas met niet eerder opgestelde driemansline-up naar Las Vegas",
+    "GPblog": "Haas makes its decision and also gives world champion a chance in Vegas",
+    "Crash.net": "Haas confirms driver plans for F1 Vegas GP with two changes"
    },
-   "last": "2026-11-16T08:36:45.034359+00:00"
+   "last": "2026-11-16T08:56:53.000276+00:00"
   },
   "S7909": {
    "title": "Italian TV channels and times for Las Vegas GP",
@@ -14060,7 +14009,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T08:46:39.158636+00:00",
+ "last_run": "2026-11-16T08:56:49.775118+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
