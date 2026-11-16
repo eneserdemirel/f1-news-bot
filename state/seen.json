@@ -6588,7 +6588,9 @@
   "e16eaa648779f9d2": "2026-11-16T22:48:14.635300+00:00",
   "7739bc04d8a4c658": "2026-11-16T22:48:14.635300+00:00",
   "a89df58521aa5209": "2026-11-16T22:58:43.728839+00:00",
-  "beed0a451af080ab": "2026-11-16T23:18:45.309281+00:00"
+  "beed0a451af080ab": "2026-11-16T23:18:45.309281+00:00",
+  "d15d6050f03cd487": "2026-11-16T23:28:47.497412+00:00",
+  "53822561e487eb88": "2026-11-16T23:28:47.497412+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6782,19 +6784,6 @@
     "ESPN F1": "Inside Darian Mensah's huge performance in Miami's win over Duke"
    },
    "last": "2026-11-15T04:02:54.830250+00:00"
-  },
-  "S7546": {
-   "title": "Hannah Hidalgo reaches 2,000 points and 500 steals at Notre Dame",
-   "first": "2026-11-14T23:22:12.067769+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T20:17:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Notre Dame's Hannah Hidalgo first D-I player with 2,000 points, 500 steals"
-   },
-   "last": "2026-11-14T23:22:12.067787+00:00"
   },
   "S7547": {
    "title": "Lindenwood Lions vs UT Martin Skyhawks full highlights",
@@ -13947,9 +13936,35 @@
     "ESPN F1": "Crystal Palace appoint Thomas Frank as new head coach"
    },
    "last": "2026-11-16T23:18:47.228154+00:00"
+  },
+  "S8085": {
+   "title": "Pochettino gets advice from Guardiola on new job",
+   "first": "2026-11-16T23:28:49.724454+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T23:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'"
+   },
+   "last": "2026-11-16T23:28:49.724474+00:00"
+  },
+  "S8086": {
+   "title": "AP college football Week 11 poll reaction",
+   "first": "2026-11-16T23:28:49.724479+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T19:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "AP college football Week 11 poll reaction: What's next for Top 25"
+   },
+   "last": "2026-11-16T23:28:49.724483+00:00"
   }
  },
- "story_seq": 8084,
+ "story_seq": 8086,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14068,7 +14083,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-16T23:18:45.309281+00:00",
+ "last_run": "2026-11-16T23:28:47.497412+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
