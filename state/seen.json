@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0d1a125b4f162e9a": "2026-11-02T09:12:38.046360+00:00",
-  "cd2b85715dbe1374": "2026-11-02T09:12:38.046360+00:00",
-  "3b8fde082e0dc019": "2026-11-02T09:12:38.046360+00:00",
-  "f0c5baba0cf2d089": "2026-11-02T09:12:38.046360+00:00",
-  "cc77d0b205abb81f": "2026-11-02T09:12:38.046360+00:00",
-  "49d65accf12fe115": "2026-11-02T09:13:18.017104+00:00",
-  "18c591136b6ef508": "2026-11-02T09:13:18.017104+00:00",
-  "e5d164615375fa05": "2026-11-02T09:13:18.017104+00:00",
   "c0ddab180d65065c": "2026-11-02T09:23:19.770252+00:00",
   "a0ac3033c2b50080": "2026-11-02T09:23:19.770252+00:00",
   "17cd9f93731d02e3": "2026-11-02T09:23:19.770252+00:00",
@@ -6717,7 +6709,14 @@
   "9181ae07135e206a": "2026-11-16T08:56:49.775118+00:00",
   "32768d894615ff08": "2026-11-16T09:06:34.680003+00:00",
   "b915381448476f25": "2026-11-16T09:06:34.680003+00:00",
-  "a46ff54a93740706": "2026-11-16T09:06:34.680003+00:00"
+  "a46ff54a93740706": "2026-11-16T09:06:34.680003+00:00",
+  "6ae9343eded258cb": "2026-11-16T09:16:35.903787+00:00",
+  "80ca68a8e704ce62": "2026-11-16T09:16:35.903787+00:00",
+  "6a947a86e69f4422": "2026-11-16T09:16:35.903787+00:00",
+  "0f456c41d45ed2eb": "2026-11-16T09:16:35.903787+00:00",
+  "d3063eaa511298d1": "2026-11-16T09:16:35.903787+00:00",
+  "baf3db348932085a": "2026-11-16T09:16:35.903787+00:00",
+  "ec6afb12b3526d05": "2026-11-16T09:16:35.903787+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7005,19 +7004,6 @@
     "ESPN F1": "South Korea vs. Belgium (Dec 2, 2026) Live Score"
    },
    "last": "2026-11-14T13:40:39.678811+00:00"
-  },
-  "S7392": {
-   "title": "Giannis and Adebayo lead Heat win over Cavaliers",
-   "first": "2026-11-14T09:10:42.928740+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T06:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Giannis Antetokounmpo, Bam Adebayo help showcase Heat's potential in win vs. Cavs"
-   },
-   "last": "2026-11-14T09:10:42.928744+00:00"
   },
   "S7393": {
    "title": "Nico Paz possible first Man United signing under Pochettino",
@@ -13595,14 +13581,16 @@
    "title": "F1 set to back new V8 engine regulations on Monday",
    "first": "2026-11-16T07:16:07.751498+00:00",
    "sources": {
-    "The Race": "2026-11-16T07:11:53+00:00"
+    "The Race": "2026-11-16T07:11:53+00:00",
+    "FormulaPassion": "2026-11-16T08:55:43+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "F1 poised to take crucial step towards V8 engines' return"
+    "The Race": "F1 poised to take crucial step towards V8 engines' return",
+    "FormulaPassion": "Oggi è il giorno dei V8: atteso un primo via libera dalla F1 Commission"
    },
-   "last": "2026-11-16T07:16:07.751522+00:00"
+   "last": "2026-11-16T09:16:42.765029+00:00"
   },
   "S7894": {
    "title": "Zak Brown reflects on McLaren's toxic past",
@@ -13794,7 +13782,10 @@
     "RacingNews365": "2026-11-16T08:32:00+00:00",
     "RacingNews365 NL": "2026-11-16T08:45:00+00:00",
     "GPblog": "2026-11-16T08:51:00+00:00",
-    "Crash.net": "2026-11-16T08:46:53+00:00"
+    "Crash.net": "2026-11-16T08:46:53+00:00",
+    "The Race": "2026-11-16T09:10:12+00:00",
+    "Motorsport.com Italia": "2026-11-16T09:14:34+00:00",
+    "FormulaPassion": "2026-11-16T09:10:05+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13803,9 +13794,12 @@
     "RacingNews365": "Haas make Las Vegas Grand Prix driver decision with change for FP1",
     "RacingNews365 NL": "Haas met niet eerder opgestelde driemansline-up naar Las Vegas",
     "GPblog": "Haas makes its decision and also gives world champion a chance in Vegas",
-    "Crash.net": "Haas confirms driver plans for F1 Vegas GP with two changes"
+    "Crash.net": "Haas confirms driver plans for F1 Vegas GP with two changes",
+    "The Race": "Vegas gives Camara chance to put messy debut behind him",
+    "Motorsport.com Italia": "F1 | Haas: Camara confermato anche per Las Vegas sulla VF-26. Hirakawa disputerà la FP1",
+    "FormulaPassion": "La Haas riconferma Camara per il GP di Las Vegas. Hirakawa torna per le FP1"
    },
-   "last": "2026-11-16T08:56:53.000276+00:00"
+   "last": "2026-11-16T09:16:42.765032+00:00"
   },
   "S7909": {
    "title": "Italian TV channels and times for Las Vegas GP",
@@ -13824,14 +13818,16 @@
    "title": "F1 Commission to discuss Williams proposal for team ADUO",
    "first": "2026-11-16T08:36:45.034363+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-16T08:30:00+00:00"
+    "RacingNews365 NL": "2026-11-16T08:30:00+00:00",
+    "FormulaPassion": "2026-11-16T09:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "F1 Commission buigt zich over opmerkelijk voorstel Williams"
+    "RacingNews365 NL": "F1 Commission buigt zich over opmerkelijk voorstel Williams",
+    "FormulaPassion": "La F1 Commission discuterà l’ADUO per le squadre (ma i top team sono contro)"
    },
-   "last": "2026-11-16T08:36:45.034367+00:00"
+   "last": "2026-11-16T09:16:42.765025+00:00"
   },
   "S7911": {
    "title": "Horner recalls being offered £1 to enter F1",
@@ -13858,9 +13854,22 @@
     "PlanetF1": "McLaren Las Vegas upgrades lay foundations for F1 2027"
    },
    "last": "2026-11-16T09:06:37.195740+00:00"
+  },
+  "S7913": {
+   "title": "Rockets hold Trae Young scoreless in NBA game",
+   "first": "2026-11-16T09:16:42.764986+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T06:07:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rockets hold Wizards' Trae Young scoreless for first time in his NBA career"
+   },
+   "last": "2026-11-16T09:16:42.765005+00:00"
   }
  },
- "story_seq": 7912,
+ "story_seq": 7913,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13979,27 +13988,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T09:06:34.680003+00:00",
+ "last_run": "2026-11-16T09:16:35.903787+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T09:06:54.789135+00:00",
-   "title": "FIA, Leclerc'e hakaret eden İngiliz gazeteci McEvoy'u sezon sonuna kadar askıya aldı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-13T09:06:55.295327+00:00",
-   "title": "Piastri baskı altında mı? Zak'in yeni Oscar arayacağı iddiası",
-   "source": "Motorsport-Total"
-  },
-  {
-   "t": "2026-11-13T09:06:55.701323+00:00",
-   "title": "Schumacher: Russell, Antonelli için Barrichello olacak",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-13T09:26:54.504039+00:00",
    "title": "Coulthard: Verstappen de Le Mans'ta simülatör testinden geçmek zorunda kalabilir",
