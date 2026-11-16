@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "43f8668e54374559": "2026-11-02T18:44:06.585447+00:00",
-  "c88e1c65f17a64dc": "2026-11-02T18:44:06.585447+00:00",
-  "bfc450b7b52ab1e7": "2026-11-02T18:44:06.585447+00:00",
-  "770a559946058f67": "2026-11-02T18:44:06.585447+00:00",
   "abe4a02b3a56649e": "2026-11-02T18:54:12.222630+00:00",
   "25f17f03214a706c": "2026-11-02T18:54:12.222630+00:00",
   "2bd600292d25ce9b": "2026-11-02T19:04:07.668146+00:00",
@@ -6621,7 +6617,11 @@
   "325c519567704175": "2026-11-16T18:28:10.474337+00:00",
   "1669ecb2578e3282": "2026-11-16T18:38:06.691994+00:00",
   "09ed62b998cc1e29": "2026-11-16T18:38:06.691994+00:00",
-  "f105131e2bd057d5": "2026-11-16T18:38:06.691994+00:00"
+  "f105131e2bd057d5": "2026-11-16T18:38:06.691994+00:00",
+  "c7f5ce0df878e5ac": "2026-11-16T18:48:10.975959+00:00",
+  "16672a8f4eaae157": "2026-11-16T18:48:10.975959+00:00",
+  "b8560dbf743d7613": "2026-11-16T18:48:10.975959+00:00",
+  "87371e0530ae9e7d": "2026-11-16T18:48:10.975959+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6815,19 +6815,6 @@
     "ESPN F1": "Alabama makes last-second call to start QB Keelon Russell"
    },
    "last": "2026-11-14T20:12:06.457572+00:00"
-  },
-  "S7491": {
-   "title": "Hamilton says Ferrari should target P2 in constructors' standings",
-   "first": "2026-11-14T18:41:21.268898+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-14T18:30:06+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Lewis Hamilton discloses major Ferrari focus for final 2026 races"
-   },
-   "last": "2026-11-14T18:41:21.268918+00:00"
   },
   "S7492": {
    "title": "Pochettino begins USMNT farewell tour against Haiti",
@@ -13213,14 +13200,16 @@
    "title": "Antonelli names driver who could cause most problems in 2027",
    "first": "2026-11-16T13:37:22.379657+00:00",
    "sources": {
-    "PlanetF1": "2026-11-16T13:34:07+00:00"
+    "PlanetF1": "2026-11-16T13:34:07+00:00",
+    "Motorsport-Total": "2026-11-16T18:45:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Kimi Antonelli reveals driver who ‘might cause the most problems’ in F1 2027 title defence"
+    "PlanetF1": "Kimi Antonelli reveals driver who ‘might cause the most problems’ in F1 2027 title defence",
+    "Motorsport-Total": "Kimi Antonelli nennt seinen größten Gegner für die Titelverteidigung 2027 - Motorsport-Total.com"
    },
-   "last": "2026-11-16T13:37:22.379661+00:00"
+   "last": "2026-11-16T18:48:16.635651+00:00"
   },
   "S7973": {
    "title": "Patrese says Antonelli won't waste title money or focus",
@@ -14110,9 +14099,48 @@
     "GPblog": "Verstappen’s late-season surge: what changed at Red Bull?"
    },
    "last": "2026-11-16T18:38:12.747249+00:00"
+  },
+  "S8040": {
+   "title": "Sweden beat Finland in women's hockey worlds bronze shootout",
+   "first": "2026-11-16T18:48:16.635607+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T18:40:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sweden tops Finland in shootout to win bronze at women's hockey worlds"
+   },
+   "last": "2026-11-16T18:48:16.635627+00:00"
+  },
+  "S8041": {
+   "title": "Titans add more to QB Cam Ward's plate",
+   "first": "2026-11-16T18:48:16.635632+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T16:38:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Titans getting more after adding more to QB Cam Ward's plate"
+   },
+   "last": "2026-11-16T18:48:16.635638+00:00"
+  },
+  "S8042": {
+   "title": "Mark Hughes compares Liam Lawson to former world champion",
+   "first": "2026-11-16T18:48:16.635641+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T18:43:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Liam Lawson compared to F1 champion as Mark Hughes sends compelling Red Bull message"
+   },
+   "last": "2026-11-16T18:48:16.635646+00:00"
   }
  },
- "story_seq": 8039,
+ "story_seq": 8042,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14231,17 +14259,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T18:38:06.691994+00:00",
+ "last_run": "2026-11-16T18:48:10.975959+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T18:38:44.274391+00:00",
-   "title": "Tsunoda, Red Bull'da Tsolov'un atanmasıyla belirsizliğe düştü",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-13T18:48:40.570392+00:00",
    "title": "Kimi Antonelli, Mattarella'yı Monza'ya davet etti",
@@ -15321,6 +15344,11 @@
    "t": "2026-11-16T18:38:18.388431+00:00",
    "title": "Verstappen'in sezon sonu yükselişi: Red Bull'da neler değişti?",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-16T18:48:22.224194+00:00",
+   "title": "Liam Lawson, Mark Hughes'a göre Alan Jones'a benzetiliyor",
+   "source": "GPFans"
   }
  ]
 }
