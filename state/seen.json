@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "715f5449e8b94aef": "2026-11-02T14:03:18.036426+00:00",
-  "8ce17eb0d01eef62": "2026-11-02T14:03:18.036426+00:00",
-  "9b2c0c11423bdc9a": "2026-11-02T14:03:18.036426+00:00",
-  "a079641b6bfdc762": "2026-11-02T14:03:18.036426+00:00",
   "685f0525f7b7c3ed": "2026-11-02T14:13:18.036193+00:00",
   "5607eb30f1c8ef45": "2026-11-02T14:13:18.036193+00:00",
   "cb85c47291455751": "2026-11-02T14:13:18.036193+00:00",
@@ -6621,7 +6617,12 @@
   "f07069de6739d824": "2026-11-16T13:37:18.742780+00:00",
   "de9fb0bbbefaca51": "2026-11-16T13:37:18.742780+00:00",
   "14eea3187befc8e1": "2026-11-16T13:37:18.742780+00:00",
-  "c54c9cb013c5d2f9": "2026-11-16T13:57:18.368874+00:00"
+  "c54c9cb013c5d2f9": "2026-11-16T13:57:18.368874+00:00",
+  "49cea060e2ed892f": "2026-11-16T14:07:17.793685+00:00",
+  "2cd338c78a5aaeae": "2026-11-16T14:07:17.793685+00:00",
+  "17e6791b39e49c43": "2026-11-16T14:07:17.793685+00:00",
+  "eb28ffed243c9c75": "2026-11-16T14:07:17.793685+00:00",
+  "b30b8574e37edc96": "2026-11-16T14:07:17.793685+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6869,45 +6870,6 @@
     "FormulaPassion": "Newey: “Ci sono molti parallelismi tra il mio arrivo in Red Bull e quello in Aston Martin”"
    },
    "last": "2026-11-15T07:23:38.432521+00:00"
-  },
-  "S7435": {
-   "title": "Japan vs Brazil football team stats",
-   "first": "2026-11-14T13:50:41.811728+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T10:53:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Japan 3-2 Brazil (Nov 14, 2026) Team Stats"
-   },
-   "last": "2026-11-14T14:00:41.308177+00:00"
-  },
-  "S7438": {
-   "title": "Norris explains McLaren's 2026 trade-off in title pursuit",
-   "first": "2026-11-14T14:00:41.308187+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T13:50:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Lando Norris explains McLaren F1 trade-off in 'impossible dream' pursuit"
-   },
-   "last": "2026-11-14T14:00:41.308193+00:00"
-  },
-  "S7439": {
-   "title": "Honda admits recurring Aston Martin failure caused Stroll's Brazil retirement",
-   "first": "2026-11-14T14:00:41.308196+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T13:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Honda sound alarm over recurring Aston Martin failure"
-   },
-   "last": "2026-11-14T14:00:41.308200+00:00"
   },
   "S7440": {
    "title": "Chelsea vs Man City match team stats",
@@ -10398,7 +10360,8 @@
     "GPblog": "2026-11-15T16:30:00+00:00",
     "RacingNews365 NL": "2026-11-16T07:50:00+00:00",
     "RacingNews365": "2026-11-16T09:20:00+00:00",
-    "Crash.net": "2026-11-16T10:12:57+00:00"
+    "Crash.net": "2026-11-16T10:12:57+00:00",
+    "FormulaPassion": "2026-11-16T14:05:42+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10406,9 +10369,10 @@
     "GPblog": "Wolff not surprised by message from former rival Horner after F1 title win",
     "RacingNews365 NL": "Wolff onthult bericht Horner na dubbele titel Mercedes: \"Dat verraste me niet\"",
     "RacingNews365": "Toto Wolff reveals Christian Horner message after Mercedes F1 renaissance",
-    "Crash.net": "Toto Wolff reveals what Christian Horner told him after Kimi Antonelli’s F1 title win"
+    "Crash.net": "Toto Wolff reveals what Christian Horner told him after Kimi Antonelli’s F1 title win",
+    "FormulaPassion": "Wolff incassa i complimenti di Horner: “Mi ha scritto, il nostro rapporto è basato sul rispetto”"
    },
-   "last": "2026-11-16T10:26:45.237810+00:00"
+   "last": "2026-11-16T14:07:21.672173+00:00"
   },
   "S7705": {
    "title": "Coulthard says McLaren favoured Hakkinen over Hakkinen rival",
@@ -13004,14 +12968,16 @@
    "title": "Verstappen says Las Vegas GP will be difficult and different",
    "first": "2026-11-16T08:07:08.910429+00:00",
    "sources": {
-    "RacingNews365": "2026-11-16T08:00:00+00:00"
+    "RacingNews365": "2026-11-16T08:00:00+00:00",
+    "GPblog": "2026-11-16T14:05:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Max Verstappen pinpoints 'key' factor to overcome looming F1 'problem'"
+    "RacingNews365": "Max Verstappen pinpoints 'key' factor to overcome looming F1 'problem'",
+    "GPblog": "Verstappen reveals the one thing that could decide his Las Vegas GP"
    },
-   "last": "2026-11-16T08:07:08.910448+00:00"
+   "last": "2026-11-16T14:07:21.672167+00:00"
   },
   "S7904": {
    "title": "Hamilton refuses to accept Leclerc's 'normalised' Ferrari mistakes",
@@ -13214,14 +13180,16 @@
    "title": "Hamilton demands £50m F1 investment for paddock diversity",
    "first": "2026-11-16T09:36:40.633628+00:00",
    "sources": {
-    "Crash.net": "2026-11-16T09:22:23+00:00"
+    "Crash.net": "2026-11-16T09:22:23+00:00",
+    "RacingNews365 NL": "2026-11-16T13:56:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Lewis Hamilton makes £50m investment demand ‘the future of F1 depends on’"
+    "Crash.net": "Lewis Hamilton makes £50m investment demand ‘the future of F1 depends on’",
+    "RacingNews365 NL": "Hamilton wil 60 miljoen van FIA en F1: \"Absoluut nog niet klaar\""
    },
-   "last": "2026-11-16T09:36:40.633632+00:00"
+   "last": "2026-11-16T14:07:21.672161+00:00"
   },
   "S7918": {
    "title": "Lawson compared to Verstappen after Racing Bulls extension",
@@ -13977,9 +13945,22 @@
     "ESPN F1": "Ronaldinho: Ravenna chiefs leave door open for Brazil icon to play again"
    },
    "last": "2026-11-16T13:57:20.186314+00:00"
+  },
+  "S7975": {
+   "title": "Vinícius Júnior overwhelmed by Arsenal transfer interest",
+   "first": "2026-11-16T14:07:21.672137+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T13:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest"
+   },
+   "last": "2026-11-16T14:07:21.672153+00:00"
   }
  },
- "story_seq": 7974,
+ "story_seq": 7975,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14098,22 +14079,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T13:57:18.368874+00:00",
+ "last_run": "2026-11-16T14:07:17.793685+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T13:57:44.325207+00:00",
-   "title": "Antonelli yeni F1 araçlarına uyum sırını anlattı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-13T13:57:44.762213+00:00",
-   "title": "Hadjar: Helmut Marko'nun Red Bull'da olmamasını özlüyorum",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-13T14:07:56.675143+00:00",
    "title": "Claire Williams: Takım James Vowles ve Dorilton Capital'in elinde",
