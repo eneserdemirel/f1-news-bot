@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7eba202707e6a503": "2026-11-02T11:13:20.418206+00:00",
-  "44c10e36c037e135": "2026-11-02T11:13:20.418206+00:00",
-  "21a4177cc3644dc6": "2026-11-02T11:13:20.418206+00:00",
-  "34b15141de88db85": "2026-11-02T11:13:20.418206+00:00",
-  "2243d9ba749376d8": "2026-11-02T11:13:20.418206+00:00",
-  "dc387f4af98c6bd7": "2026-11-02T11:13:20.418206+00:00",
   "0515b502fe307237": "2026-11-02T11:23:19.519076+00:00",
   "3ca9270967e51e1e": "2026-11-02T11:23:19.519076+00:00",
   "beb6428159bbd31c": "2026-11-02T11:23:19.519076+00:00",
@@ -6634,7 +6628,10 @@
   "8eb893ef4bc09d9b": "2026-11-16T11:06:39.962332+00:00",
   "6300399f7abd35d0": "2026-11-16T11:06:39.962332+00:00",
   "b046132166414619": "2026-11-16T11:06:39.962332+00:00",
-  "9dc4513102bbd67f": "2026-11-16T11:06:39.962332+00:00"
+  "9dc4513102bbd67f": "2026-11-16T11:06:39.962332+00:00",
+  "6d98a786c7fcb907": "2026-11-16T11:16:37.146377+00:00",
+  "36a61cd66ebf4f11": "2026-11-16T11:16:37.146377+00:00",
+  "359ce79055062855": "2026-11-16T11:16:37.146377+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6920,32 +6917,6 @@
     "GPFans": "F1 star hits out at 'cowards' after FIA change - 'these people wouldn't have the balls'"
    },
    "last": "2026-11-14T18:01:25.022480+00:00"
-  },
-  "S7408": {
-   "title": "Drivers give mixed verdict on Pirelli wet tyres after Sao Paulo",
-   "first": "2026-11-14T11:10:42.182541+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-14T11:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "F1 drivers issue damning Pirelli verdict after torrential Sao Paulo GP"
-   },
-   "last": "2026-11-14T11:10:42.182561+00:00"
-  },
-  "S7409": {
-   "title": "Horner reveals message Wolff sent after Abu Dhabi 2021",
-   "first": "2026-11-14T11:10:42.182566+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-14T11:00:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Horner enthüllt: Diese Nachricht schickte Wolff nach Abu Dhabi 2021 - Motorsport-Total.com"
-   },
-   "last": "2026-11-14T11:10:42.182571+00:00"
   },
   "S7410": {
    "title": "Verstappen plans Spa and Nürburgring 24 Hours, not Le Mans",
@@ -13855,9 +13826,48 @@
     "GPblog": "Iran launches attack on US base ahead of F1's Middle East rounds"
    },
    "last": "2026-11-16T11:06:45.615601+00:00"
+  },
+  "S7933": {
+   "title": "Lukaku retires from Belgium duty as top scorer",
+   "first": "2026-11-16T11:16:40.606722+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T10:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Romelu Lukaku retires from international duty as Belgium's top scorer"
+   },
+   "last": "2026-11-16T11:16:40.606740+00:00"
+  },
+  "S7934": {
+   "title": "Verstappen's podium run unsettles F1 rivals (opinion)",
+   "first": "2026-11-16T11:16:40.606744+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-16T11:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen jaagt F1-concurrentie de stuipen op het lijf"
+   },
+   "last": "2026-11-16T11:16:40.606748+00:00"
+  },
+  "S7935": {
+   "title": "Aston Martin ambassador on Verstappen and Alonso at Le Mans",
+   "first": "2026-11-16T11:16:40.606751+00:00",
+   "sources": {
+    "AS": "2026-11-16T11:04:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "“Verstappen y Alonso, el único equipo posible”"
+   },
+   "last": "2026-11-16T11:16:40.606754+00:00"
   }
  },
- "story_seq": 7932,
+ "story_seq": 7935,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13976,17 +13986,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T11:06:39.962332+00:00",
+ "last_run": "2026-11-16T11:16:37.146377+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T11:06:56.271728+00:00",
-   "title": "Verstappen, Ferrari'nin sorununu nasıl çözerdi?",
-   "source": "AS"
-  },
   {
    "t": "2026-11-13T11:17:00.966812+00:00",
    "title": "Madring F1 Grand Prix'si 544 milyon euroluk ekonomik etki yarattı",
@@ -15081,6 +15086,16 @@
    "t": "2026-11-16T11:06:50.759076+00:00",
    "title": "İran'dan ABD üssüne saldırı; F1'in Orta Doğu etapları gündemde",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-16T11:16:45.212365+00:00",
+   "title": "Verstappen ve Alonso, olası tek takım",
+   "source": "AS"
+  },
+  {
+   "t": "2026-11-16T11:16:45.638580+00:00",
+   "title": "Verstappen rakiplerini endişelendiriyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
