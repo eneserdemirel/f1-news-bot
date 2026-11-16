@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d6086b4b7aadf688": "2026-11-02T08:02:34.750537+00:00",
-  "906c7274e3b3eb9a": "2026-11-02T08:02:34.750537+00:00",
-  "74f6b8f60ff77c0b": "2026-11-02T08:02:34.750537+00:00",
   "7237fee890d21488": "2026-11-02T08:12:34.099840+00:00",
   "21de4c120935c154": "2026-11-02T08:12:34.099840+00:00",
   "4ce6cea182d8b4cd": "2026-11-02T08:12:34.099840+00:00",
@@ -6735,7 +6732,13 @@
   "390aad02a17b4640": "2026-11-16T07:46:34.100655+00:00",
   "8183b34f3d80a60c": "2026-11-16T07:46:34.100655+00:00",
   "6fcc4c03849fbb9a": "2026-11-16T07:56:37.155670+00:00",
-  "ff6e454c93b11c83": "2026-11-16T07:56:37.155670+00:00"
+  "ff6e454c93b11c83": "2026-11-16T07:56:37.155670+00:00",
+  "61161d845d8fda4d": "2026-11-16T08:07:00.102491+00:00",
+  "8076b544fb8bfced": "2026-11-16T08:07:00.102491+00:00",
+  "b352d157d1a43dc6": "2026-11-16T08:07:00.102491+00:00",
+  "8799a1c02d9718de": "2026-11-16T08:07:00.102491+00:00",
+  "945ec714bddf8d52": "2026-11-16T08:07:00.102491+00:00",
+  "9e9d83287361acd1": "2026-11-16T08:07:00.102491+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7010,19 +7013,6 @@
     "PlanetF1": "‘That’s obscene’ – Adrian Newey Red Bull salary demand revealed in Horner book claim"
    },
    "last": "2026-11-14T17:11:24.842309+00:00"
-  },
-  "S7377": {
-   "title": "Insider says Ferrari missed a bigger prize by signing Hamilton",
-   "first": "2026-11-14T07:59:56.459339+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T07:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Ferrari signed Lewis Hamilton and missed out on the real prize - F1 insider"
-   },
-   "last": "2026-11-14T07:59:56.459358+00:00"
   },
   "S7378": {
    "title": "Russell warned next 15 months could define his F1 future",
@@ -13880,7 +13870,7 @@
    "titles": {
     "GPblog": "Wolff addresses Antonelli contract as title triumph raises salary question"
    },
-   "last": "2026-11-16T07:36:36.743420+00:00"
+   "last": "2026-11-16T08:07:08.910456+00:00"
   },
   "S7900": {
    "title": "ESPN: 49ers offense puts up big numbers against Cowboys",
@@ -13920,9 +13910,61 @@
     "PlanetF1": "Final Sector Podcast: F1 Imola decision ‘makes no sense’"
    },
    "last": "2026-11-16T07:56:39.744272+00:00"
+  },
+  "S7903": {
+   "title": "Verstappen says Las Vegas GP will be difficult and different",
+   "first": "2026-11-16T08:07:08.910429+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen pinpoints 'key' factor to overcome looming F1 'problem'"
+   },
+   "last": "2026-11-16T08:07:08.910448+00:00"
+  },
+  "S7904": {
+   "title": "Hamilton refuses to accept Leclerc's 'normalised' Ferrari mistakes",
+   "first": "2026-11-16T08:07:08.910460+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T06:04:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Lewis Hamilton refuses to accept Ferrari mistakes Charles Leclerc 'normalised'"
+   },
+   "last": "2026-11-16T08:07:08.910463+00:00"
+  },
+  "S7905": {
+   "title": "Ferrari reportedly considering lead driver choice for 2027",
+   "first": "2026-11-16T08:07:08.910466+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T07:59:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Ferrari consider major Hamilton and Leclerc shake-up for 2027"
+   },
+   "last": "2026-11-16T08:07:08.910469+00:00"
+  },
+  "S7906": {
+   "title": "How and where to watch the 2026 Las Vegas GP",
+   "first": "2026-11-16T08:07:08.910471+00:00",
+   "sources": {
+    "AS": "2026-11-16T07:50:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "¿A qué hora es el GP de Brasil de F1? TV, horario, cómo y dónde ver la carrera en vivo"
+   },
+   "last": "2026-11-16T08:07:08.910474+00:00"
   }
  },
- "story_seq": 7902,
+ "story_seq": 7906,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14041,32 +14083,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T07:56:37.155670+00:00",
+ "last_run": "2026-11-16T08:07:00.102491+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T07:57:04.154069+00:00",
-   "title": "Antonelli'nin imzalı kartı 878.400 dolara satıldı",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-13T07:57:04.582328+00:00",
-   "title": "Qatar ve Abu Dhabi finali için EASA kararı 16 Kasım'da bekleniyor",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-13T07:57:04.980323+00:00",
-   "title": "Ferrari'de Leclerc-Hamilton sorunu hâlâ çözülmüş değil",
-   "source": "The Race"
-  },
-  {
-   "t": "2026-11-13T08:06:56.439552+00:00",
-   "title": "McLaren, 2027 kurallarına geçiş öncesi riskli bir ikilemle karşı karşıya",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-13T08:16:51.806212+00:00",
    "title": "Toto Wolff, Mercedes'in FIA'ya sunduğu maliyet tavanı önerisini anlattı",
@@ -15191,6 +15213,16 @@
    "t": "2026-11-16T07:56:43.385592+00:00",
    "title": "F1, Imola'yı bekleme durumundan çıkardı; podcast eleştiriyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-16T08:07:15.437637+00:00",
+   "title": "Ferrari, 2027'de Hamilton ile Leclerc arasında lider pilot seçmeyi düşünüyor",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-16T08:07:15.926585+00:00",
+   "title": "Verstappen, Las Vegas'ta soğuk hava sorununu aşmanın anahtarını lastiklerde görüyor",
+   "source": "RacingNews365"
   }
  ]
 }
