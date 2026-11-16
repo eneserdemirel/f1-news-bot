@@ -1,15 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e8e6dc73d825083c": "2026-11-02T13:33:23.899635+00:00",
-  "f16281607ea0bbcb": "2026-11-02T13:33:23.899635+00:00",
-  "cd371f5ea333ab59": "2026-11-02T13:33:23.899635+00:00",
-  "38054675e222eb96": "2026-11-02T13:33:23.899635+00:00",
-  "1afa9c0ffd658d70": "2026-11-02T13:33:23.899635+00:00",
-  "1b75ffead8532a92": "2026-11-02T13:33:23.899635+00:00",
-  "86376cc1fe3ba187": "2026-11-02T13:33:23.899635+00:00",
-  "ceec7908d591a3b7": "2026-11-02T13:33:23.899635+00:00",
-  "558775acfbbba7e4": "2026-11-02T13:33:23.899635+00:00",
   "800077639bafdedc": "2026-11-02T13:53:16.897925+00:00",
   "9615e638b62bd8c0": "2026-11-02T13:53:16.897925+00:00",
   "9d8cc963341b6e4e": "2026-11-02T13:53:16.897925+00:00",
@@ -6627,7 +6618,12 @@
   "7db4ab126fe2fc6b": "2026-11-16T13:17:16.754234+00:00",
   "48a4cad5046d8683": "2026-11-16T13:17:16.754234+00:00",
   "85b404636562ce16": "2026-11-16T13:27:17.178216+00:00",
-  "abd9fd290f37333d": "2026-11-16T13:27:17.178216+00:00"
+  "abd9fd290f37333d": "2026-11-16T13:27:17.178216+00:00",
+  "3d2cb4fb6949558e": "2026-11-16T13:37:18.742780+00:00",
+  "64e168dc5e343a5c": "2026-11-16T13:37:18.742780+00:00",
+  "f07069de6739d824": "2026-11-16T13:37:18.742780+00:00",
+  "de9fb0bbbefaca51": "2026-11-16T13:37:18.742780+00:00",
+  "14eea3187befc8e1": "2026-11-16T13:37:18.742780+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6903,19 +6899,6 @@
     "FormulaPassion": "Newey: “Ci sono molti parallelismi tra il mio arrivo in Red Bull e quello in Aston Martin”"
    },
    "last": "2026-11-15T07:23:38.432521+00:00"
-  },
-  "S7433": {
-   "title": "Unidentified ESPN F1 item with no headline",
-   "first": "2026-11-14T13:30:41.796114+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T13:21:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "espn.com"
-   },
-   "last": "2026-11-14T13:30:41.796135+00:00"
   },
   "S7434": {
    "title": "Hamilton criticises ex-F1 drivers over treatment of young drivers",
@@ -13767,14 +13750,16 @@
    "title": "Las Vegas GP unveils neon-inspired V-shaped 2026 trophy",
    "first": "2026-11-16T12:47:24.726279+00:00",
    "sources": {
-    "The Race": "2026-11-16T12:46:13+00:00"
+    "The Race": "2026-11-16T12:46:13+00:00",
+    "Motorsport Week": "2026-11-16T13:27:08+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Las Vegas GP reveals neon-inspired trophy for 2026"
+    "The Race": "Las Vegas GP reveals neon-inspired trophy for 2026",
+    "Motorsport Week": "Las Vegas GP unveils brand new trophies ahead of F1 return"
    },
-   "last": "2026-11-16T12:47:24.726295+00:00"
+   "last": "2026-11-16T13:37:22.379653+00:00"
   },
   "S7953": {
    "title": "Ferrari reportedly opts for equal status over lead driver",
@@ -13996,9 +13981,61 @@
     "Motorsport-Total": "V8-Motoren: Welche Punkte für das Reglement 2030 sind noch offen? - Motorsport-Total.com"
    },
    "last": "2026-11-16T13:27:21.809519+00:00"
+  },
+  "S7970": {
+   "title": "Inside how an NFL referee crew worked two games in a day",
+   "first": "2026-11-16T13:37:22.379601+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T12:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Inside how one NFL ref crew worked two games in a day"
+   },
+   "last": "2026-11-16T13:37:22.379618+00:00"
+  },
+  "S7971": {
+   "title": "Wolff reveals Senna family stance on Antonelli",
+   "first": "2026-11-16T13:37:22.379624+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-16T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff reveals surprising Ayrton Senna family stance on Kimi Antonelli"
+   },
+   "last": "2026-11-16T13:37:22.379646+00:00"
+  },
+  "S7972": {
+   "title": "Antonelli names driver who could cause most problems in 2027",
+   "first": "2026-11-16T13:37:22.379657+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-16T13:34:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Kimi Antonelli reveals driver who ‘might cause the most problems’ in F1 2027 title defence"
+   },
+   "last": "2026-11-16T13:37:22.379661+00:00"
+  },
+  "S7973": {
+   "title": "Patrese says Antonelli won't waste title money or focus",
+   "first": "2026-11-16T13:37:22.379664+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-16T13:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Patrese: “Antonelli non ha idee folli su come spendere i suoi soldi, il titolo non gli farà perdere la concentrazione”"
+   },
+   "last": "2026-11-16T13:37:22.379669+00:00"
   }
  },
- "story_seq": 7969,
+ "story_seq": 7973,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14117,7 +14154,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T13:27:17.178216+00:00",
+ "last_run": "2026-11-16T13:37:18.742780+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
@@ -15217,6 +15254,21 @@
    "t": "2026-11-16T13:27:24.826527+00:00",
    "title": "2030 V8 motor reglamanında hâlâ açık kalan noktalar neler?",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-16T13:37:28.619864+00:00",
+   "title": "Patrese: Antonelli paranı nasıl harcayacağı konusunda çılgın fikirlere sahip değil",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-16T13:37:29.112522+00:00",
+   "title": "Wolff: Senna ailesi Antonelli'yi benimsedi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-16T13:37:29.613430+00:00",
+   "title": "Antonelli, 2027'de en büyük rakibini Verstappen olarak gösterdi",
+   "source": "PlanetF1"
   }
  ]
 }
