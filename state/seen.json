@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c0ddab180d65065c": "2026-11-02T09:23:19.770252+00:00",
-  "a0ac3033c2b50080": "2026-11-02T09:23:19.770252+00:00",
-  "17cd9f93731d02e3": "2026-11-02T09:23:19.770252+00:00",
-  "735e9a15ae7cadab": "2026-11-02T09:23:19.770252+00:00",
   "58a394caf034d97d": "2026-11-02T09:34:02.197482+00:00",
   "444c6def0fe2e842": "2026-11-02T09:34:02.197482+00:00",
   "e28642fc9ca337e1": "2026-11-02T09:34:02.197482+00:00",
@@ -6716,7 +6712,9 @@
   "0f456c41d45ed2eb": "2026-11-16T09:16:35.903787+00:00",
   "d3063eaa511298d1": "2026-11-16T09:16:35.903787+00:00",
   "baf3db348932085a": "2026-11-16T09:16:35.903787+00:00",
-  "ec6afb12b3526d05": "2026-11-16T09:16:35.903787+00:00"
+  "ec6afb12b3526d05": "2026-11-16T09:16:35.903787+00:00",
+  "127fafa82b617ebb": "2026-11-16T09:26:34.574854+00:00",
+  "310a852b52e7c4bc": "2026-11-16T09:26:34.574854+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6936,36 +6934,6 @@
    },
    "last": "2026-11-14T15:21:23.081094+00:00"
   },
-  "S7360": {
-   "title": "McLaren to bring Las Vegas upgrades laying 2027 car foundation",
-   "first": "2026-11-14T06:29:48.147177+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T06:20:00+00:00",
-    "Autosport": "2026-11-14T09:13:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "McLaren to deliver 'foundation' for 2027 F1 car with fresh Las Vegas updates",
-    "Autosport": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas"
-   },
-   "last": "2026-11-14T09:20:43.457627+00:00"
-  },
-  "S7369": {
-   "title": "Horner casts doubt on returning to F1 paddock",
-   "first": "2026-11-14T07:19:52.042497+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T07:10:00+00:00",
-    "RacingNews365 NL": "2026-11-14T09:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Christian Horner casts serious doubt over Formula 1 paddock return",
-    "RacingNews365 NL": "Horner zaait twijfel over spectaculaire F1-terugkeer"
-   },
-   "last": "2026-11-14T09:20:43.457632+00:00"
-  },
   "S7373": {
    "title": "Newey salary demand from Red Bull revealed in Horner book",
    "first": "2026-11-14T07:29:51.716396+00:00",
@@ -7017,19 +6985,6 @@
     "ESPN F1": "Transfer rumors, news: Como's Nico Paz to be Pochettino's first Man United summer signing?"
    },
    "last": "2026-11-14T12:20:43.297198+00:00"
-  },
-  "S7394": {
-   "title": "Terry McMorris slam highlight",
-   "first": "2026-11-14T09:20:43.457618+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T03:49:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Terry McMorris gets up for the beautiful slam"
-   },
-   "last": "2026-11-14T09:20:43.457622+00:00"
   },
   "S7395": {
    "title": "Formula E Gen4 car heads into pre-season testing",
@@ -11115,15 +11070,17 @@
    "first": "2026-11-15T16:34:48.543403+00:00",
    "sources": {
     "GPblog": "2026-11-15T16:30:00+00:00",
-    "RacingNews365 NL": "2026-11-16T07:50:00+00:00"
+    "RacingNews365 NL": "2026-11-16T07:50:00+00:00",
+    "RacingNews365": "2026-11-16T09:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Wolff not surprised by message from former rival Horner after F1 title win",
-    "RacingNews365 NL": "Wolff onthult bericht Horner na dubbele titel Mercedes: \"Dat verraste me niet\""
+    "RacingNews365 NL": "Wolff onthult bericht Horner na dubbele titel Mercedes: \"Dat verraste me niet\"",
+    "RacingNews365": "Toto Wolff reveals Christian Horner message after Mercedes F1 renaissance"
    },
-   "last": "2026-11-16T07:56:39.744255+00:00"
+   "last": "2026-11-16T09:26:38.032649+00:00"
   },
   "S7705": {
    "title": "Coulthard says McLaren favoured Hakkinen over Hakkinen rival",
@@ -13867,9 +13824,22 @@
     "ESPN F1": "Rockets hold Wizards' Trae Young scoreless for first time in his NBA career"
    },
    "last": "2026-11-16T09:16:42.765005+00:00"
+  },
+  "S7914": {
+   "title": "Dispute over FIA solo or 2.1-litre V8 engine plan",
+   "first": "2026-11-16T09:26:38.032658+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-16T09:13:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Streit über neuen F1-Motor: FIA-Alleingang oder 2,1-Liter-V8?"
+   },
+   "last": "2026-11-16T09:26:38.032664+00:00"
   }
  },
- "story_seq": 7913,
+ "story_seq": 7914,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13988,7 +13958,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T09:16:35.903787+00:00",
+ "last_run": "2026-11-16T09:26:34.574854+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
@@ -15098,6 +15068,11 @@
    "t": "2026-11-16T08:46:45.821414+00:00",
    "title": "Horner, F1'e girmek için Jordan'ın takımına 1 sterlin teklif etti",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-16T09:26:42.727177+00:00",
+   "title": "F1 yeni motor tartışması: FIA tek taraflı mı, yoksa 2,1 litrelik V8 mi?",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
