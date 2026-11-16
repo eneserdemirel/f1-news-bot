@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5278eb15e7e67d88": "2026-11-02T07:27:30.937976+00:00",
-  "54b77ef5e8cdc52d": "2026-11-02T07:27:30.937976+00:00",
-  "7768fd02cf2b60ca": "2026-11-02T07:27:30.937976+00:00",
-  "ec4fdc78413fb150": "2026-11-02T07:32:37.817808+00:00",
-  "5dbdfb0c4080c304": "2026-11-02T07:32:37.817808+00:00",
   "663fcb82bc866aa9": "2026-11-02T07:37:31.455930+00:00",
   "51db85457ca9f7b3": "2026-11-02T07:42:35.206420+00:00",
   "ff8e0151e7c51f39": "2026-11-02T07:47:34.558987+00:00",
@@ -6738,7 +6733,10 @@
   "f807f1e26974b277": "2026-11-16T07:16:04.062191+00:00",
   "1b396d18d87c3c7e": "2026-11-16T07:16:04.062191+00:00",
   "6a28fd930afc1c62": "2026-11-16T07:16:04.062191+00:00",
-  "903f66ba39ea5d1a": "2026-11-16T07:16:04.062191+00:00"
+  "903f66ba39ea5d1a": "2026-11-16T07:16:04.062191+00:00",
+  "0ffe14b0f61de803": "2026-11-16T07:36:33.839593+00:00",
+  "91940d31a6564890": "2026-11-16T07:36:33.839593+00:00",
+  "0fee8340297c0499": "2026-11-16T07:36:33.839593+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13880,9 +13878,48 @@
     "AS": "El piloto se construye desde la salud"
    },
    "last": "2026-11-16T07:16:07.751550+00:00"
+  },
+  "S7897": {
+   "title": "Iowa State coach Bill Fennelly suspended over player contact",
+   "first": "2026-11-16T07:36:36.743381+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T05:52:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Iowa State coach Bill Fennelly suspended for contact with player"
+   },
+   "last": "2026-11-16T07:36:36.743403+00:00"
+  },
+  "S7898": {
+   "title": "Fernando Mendoza vows to learn from first NFL start",
+   "first": "2026-11-16T07:36:36.743408+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T03:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raiders' Fernando Mendoza vows to learn from first NFL start, a loss to Seahawks"
+   },
+   "last": "2026-11-16T07:36:36.743413+00:00"
+  },
+  "S7899": {
+   "title": "Wolff addresses Antonelli contract and possible pay rise",
+   "first": "2026-11-16T07:36:36.743416+00:00",
+   "sources": {
+    "GPblog": "2026-11-16T07:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff addresses Antonelli contract as title triumph raises salary question"
+   },
+   "last": "2026-11-16T07:36:36.743420+00:00"
   }
  },
- "story_seq": 7896,
+ "story_seq": 7899,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14001,17 +14038,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T07:26:35.151199+00:00",
+ "last_run": "2026-11-16T07:36:33.839593+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T07:26:58.738400+00:00",
-   "title": "Kimi Antonelli: Sinner ile kartta yarışmaya hazırım, randevumuz var",
-   "source": "Corriere dello Sport"
-  },
   {
    "t": "2026-11-13T07:46:54.649234+00:00",
    "title": "McLaren, Brezilya'da kritik bir güncellemeyle fark yaratıyor",
@@ -15151,6 +15183,11 @@
    "t": "2026-11-16T07:16:13.851373+00:00",
    "title": "Piastri'nin McLaren'daki yeri tartışılıyor, Lawson adı geçiyor",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-16T07:36:41.684986+00:00",
+   "title": "Wolff, Antonelli'nin sözleşmesi hakkında konuştu: Şampiyonluk maaş sorusunu gündeme getirdi",
+   "source": "GPblog"
   }
  ]
 }
