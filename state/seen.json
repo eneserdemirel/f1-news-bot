@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a5ea1fa573d088aa": "2026-11-02T12:33:16.297195+00:00",
-  "c1b66ea45e8abd7b": "2026-11-02T12:33:16.297195+00:00",
-  "8b7f0f1fd76ebd75": "2026-11-02T12:33:16.297195+00:00",
   "580ebb83c1b258ce": "2026-11-02T12:43:17.920415+00:00",
   "6f9f766aae39b247": "2026-11-02T12:43:17.920415+00:00",
   "47067e12ec7e4e5a": "2026-11-02T12:43:17.920415+00:00",
@@ -6617,7 +6614,13 @@
   "d646f996730bea1d": "2026-11-16T12:16:33.886667+00:00",
   "1e9a4ea1b0ae9f2d": "2026-11-16T12:26:37.083198+00:00",
   "6c1d4ab605f4880e": "2026-11-16T12:26:37.083198+00:00",
-  "3ed49c284e7f3426": "2026-11-16T12:26:37.083198+00:00"
+  "3ed49c284e7f3426": "2026-11-16T12:26:37.083198+00:00",
+  "97a79ea1fbe60000": "2026-11-16T12:36:37.434427+00:00",
+  "687f54246c13e248": "2026-11-16T12:36:37.434427+00:00",
+  "6275dec698d845b4": "2026-11-16T12:36:37.434427+00:00",
+  "5fa4f0f52e3bdb12": "2026-11-16T12:36:37.434427+00:00",
+  "bc5e7570a2d480d6": "2026-11-16T12:36:37.434427+00:00",
+  "e7635c521dea24a2": "2026-11-16T12:36:37.434427+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6912,32 +6915,6 @@
     "RacingNews365 NL": "Mercedes loopt uit op Red Bull met klinkende wereldtitel"
    },
    "last": "2026-11-14T14:41:35.514367+00:00"
-  },
-  "S7426": {
-   "title": "Vikings QB situation after Cousins trade column",
-   "first": "2026-11-14T12:30:44.443853+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T11:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Despite Cousins trade, are Vikings back to square one at QB?"
-   },
-   "last": "2026-11-14T12:30:44.443874+00:00"
-  },
-  "S7427": {
-   "title": "Hamilton told to follow Schumacher's approach to Ferrari criticism",
-   "first": "2026-11-14T12:30:44.443878+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T12:27:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "‘Schumacher never did that’: Lewis Hamilton faces Ferrari criticism"
-   },
-   "last": "2026-11-14T12:30:44.443883+00:00"
   },
   "S7428": {
    "title": "Audi explains rationale after Hulkenberg penalty at Interlagos",
@@ -10646,7 +10623,8 @@
     "GPFans": "2026-11-15T16:59:00+00:00",
     "FormulaPassion": "2026-11-16T06:00:00+00:00",
     "Motorsport-Total": "2026-11-16T07:38:46+00:00",
-    "Gazzetta dello Sport": "2026-11-16T09:40:28+00:00"
+    "Gazzetta dello Sport": "2026-11-16T09:40:28+00:00",
+    "RacingNews365 NL": "2026-11-16T12:23:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10654,9 +10632,10 @@
     "GPFans": "Toto Wolff makes stunning Kimi Antonelli claim that will shock Ferrari",
     "FormulaPassion": "Wolff: “Antonelli alla Ferrari? Sono preoccupato zero, è una persona leale”",
     "Motorsport-Total": "Warum Toto Wolff keine Angst hat, Kimi Antonelli an Ferrari zu verlieren - Motorsport-Total.com",
-    "Gazzetta dello Sport": "Wolff blinda Antonelli: \"Kimi in Ferrari? Zero per cento. Appartiene alla Mercedes\"."
+    "Gazzetta dello Sport": "Wolff blinda Antonelli: \"Kimi in Ferrari? Zero per cento. Appartiene alla Mercedes\".",
+    "RacingNews365 NL": "Toto Wolff heeft bijzonder slecht Kimi Antonelli-nieuws voor Ferrari"
    },
-   "last": "2026-11-16T09:47:01.508639+00:00"
+   "last": "2026-11-16T12:36:41.842798+00:00"
   },
   "S7709": {
    "title": "Mark Sutton photo feature on Antonelli's title triumph",
@@ -13269,7 +13248,8 @@
     "Autosport": "2026-11-16T09:52:30+00:00",
     "PlanetF1": "2026-11-16T09:56:37+00:00",
     "Formula 1": "2026-11-16T10:16:37.603377+00:00",
-    "Sky Sports F1": "2026-11-16T09:50:00+00:00"
+    "Sky Sports F1": "2026-11-16T09:50:00+00:00",
+    "GPFans": "2026-11-16T12:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13286,9 +13266,10 @@
     "Autosport": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
     "PlanetF1": "Haas confirm Esteban Ocon replacement for Las Vegas",
     "Formula 1": "Haas confirm Camara to race for the team in Las Vegas",
-    "Sky Sports F1": "Camara to drive for Haas again at Las Vegas GP"
+    "Sky Sports F1": "Camara to drive for Haas again at Las Vegas GP",
+    "GPFans": "Haas confirm another driver lineup change for Las Vegas Grand Prix"
    },
-   "last": "2026-11-16T10:16:37.603409+00:00"
+   "last": "2026-11-16T12:36:41.842802+00:00"
   },
   "S7909": {
    "title": "Italian TV channels and times for Las Vegas GP",
@@ -13821,9 +13802,48 @@
     "FormulaPassion": "Coulthard bacchetta Norris: “Deve cambiare il modo in cui festeggia sul podio”"
    },
    "last": "2026-11-16T12:26:39.620955+00:00"
+  },
+  "S7949": {
+   "title": "David Fulton named Kent cricket director",
+   "first": "2026-11-16T12:36:41.842758+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T12:25:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "David Fulton named Kent director of cricket"
+   },
+   "last": "2026-11-16T12:36:41.842777+00:00"
+  },
+  "S7950": {
+   "title": "MLB teams' chances of signing Skubal",
+   "first": "2026-11-16T12:36:41.842781+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Every MLB team's chance of signing Skubal -- and their backup plans"
+   },
+   "last": "2026-11-16T12:36:41.842787+00:00"
+  },
+  "S7951": {
+   "title": "Chargers offense and Justin Herbert struggles in 2026",
+   "first": "2026-11-16T12:36:41.842790+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Five reasons why Chargers' offense, Justin Herbert have struggled in 2026 season"
+   },
+   "last": "2026-11-16T12:36:41.842793+00:00"
   }
  },
- "story_seq": 7948,
+ "story_seq": 7951,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13942,22 +13962,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T12:26:37.083198+00:00",
+ "last_run": "2026-11-16T12:36:37.434427+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
  "last_digest_at": "2026-11-16T12:06:43.162685+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T12:27:44.227182+00:00",
-   "title": "Ben Sulayem: Çinli takım için F1 kuralları değişmeyecek",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-13T12:27:44.664057+00:00",
-   "title": "Kimi Antonelli bugün Cumhurbaşkanı Mattarella ile görüşecek",
-   "source": "Gazzetta dello Sport"
-  },
   {
    "t": "2026-11-13T12:37:42.380074+00:00",
    "title": "Kimi Antonelli'nin San Siro'daki duygusal anları ve özel maillsi",
