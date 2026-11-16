@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d41f7eb97c610982": "2026-11-02T00:56:58.884739+00:00",
-  "c6592335c13bb81f": "2026-11-02T00:56:58.884739+00:00",
-  "54081b30c9856c58": "2026-11-02T01:01:56.912194+00:00",
-  "07823ccd3fd77152": "2026-11-02T01:01:56.912194+00:00",
-  "b36619cc1656e8bc": "2026-11-02T01:01:56.912194+00:00",
   "a0c211b7c115c2cc": "2026-11-02T01:06:58.739254+00:00",
   "93ef1dd7da906b10": "2026-11-02T01:11:57.721591+00:00",
   "1efcad750909460d": "2026-11-02T01:16:59.141128+00:00",
@@ -6777,7 +6772,10 @@
   "0e4a137ed4ccbae8": "2026-11-16T00:45:57.450007+00:00",
   "82e66e4fb217ed90": "2026-11-16T00:55:32.189724+00:00",
   "5891535708684d89": "2026-11-16T00:55:32.189724+00:00",
-  "a9e9a7307121cada": "2026-11-16T00:55:32.189724+00:00"
+  "a9e9a7307121cada": "2026-11-16T00:55:32.189724+00:00",
+  "579da5336c174888": "2026-11-16T01:05:30.561611+00:00",
+  "a6b85b938e2019d2": "2026-11-16T01:05:30.561611+00:00",
+  "f3df9b72743a321f": "2026-11-16T01:05:30.561611+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6982,19 +6980,6 @@
    },
    "last": "2026-11-14T20:22:10.288800+00:00"
   },
-  "S7284": {
-   "title": "Sources say Pelicans' Murray wants trade; talks ongoing",
-   "first": "2026-11-13T19:58:35.976244+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-13T19:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Murray wants trade from Pelicans; both sides working on resolution"
-   },
-   "last": "2026-11-14T00:59:11.105710+00:00"
-  },
   "S7287": {
    "title": "France vs South Africa rugby live match updates",
    "first": "2026-11-13T20:08:36.988165+00:00",
@@ -7050,32 +7035,6 @@
     "ESPN F1": "Hye-Jin Choi, Carlota Ciganda, Lindy Duncan share lead at The Annika"
    },
    "last": "2026-11-14T03:49:52.481850+00:00"
-  },
-  "S7316": {
-   "title": "Seahawks injury returns ahead of Raiders game",
-   "first": "2026-11-14T00:59:11.105671+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T00:57:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Seahawks are hurting with injuries, but two players will return vs. Raiders"
-   },
-   "last": "2026-11-14T00:59:11.105691+00:00"
-  },
-  "S7317": {
-   "title": "Holly Rowe previews Texas vs. LSU matchup",
-   "first": "2026-11-14T00:59:11.105697+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T00:24:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
-   },
-   "last": "2026-11-14T00:59:11.105702+00:00"
   },
   "S7318": {
    "title": "NFL outlines steps in Jalen Hurts investigation to senator",
@@ -13698,9 +13657,48 @@
     "ESPN F1": "Chiefs 35-13 Falcons (Nov 15, 2026) Game Recap"
    },
    "last": "2026-11-16T00:55:34.552654+00:00"
+  },
+  "S7822": {
+   "title": "Toronto Tempo win 2027 WNBA draft lottery",
+   "first": "2026-11-16T01:05:34.489824+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T01:03:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The Toronto Tempo have won the 2027 WNBA draft lottery and..."
+   },
+   "last": "2026-11-16T01:05:34.489846+00:00"
+  },
+  "S7823": {
+   "title": "49ers 46-40 Cowboys game recap",
+   "first": "2026-11-16T01:05:34.489852+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T00:59:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "49ers 46-40 Cowboys (Nov 15, 2026) Game Recap"
+   },
+   "last": "2026-11-16T01:05:34.489858+00:00"
+  },
+  "S7824": {
+   "title": "Motorsport-Total generic F1 news page with no specific story",
+   "first": "2026-11-16T01:05:34.489862+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-15T23:09:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-11-16T01:05:34.489867+00:00"
   }
  },
- "story_seq": 7821,
+ "story_seq": 7824,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13819,7 +13817,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T00:55:32.189724+00:00",
+ "last_run": "2026-11-16T01:05:30.561611+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
