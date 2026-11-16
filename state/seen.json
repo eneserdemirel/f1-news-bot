@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "860b805bb2ba2dea": "2026-11-02T19:55:10.391222+00:00",
-  "4e9cf83dc337ba17": "2026-11-02T19:55:10.391222+00:00",
-  "62f3ff57cfa12f79": "2026-11-02T19:55:10.391222+00:00",
-  "8c5bb786be8c1b9f": "2026-11-02T19:55:10.391222+00:00",
-  "29684da54e9cac34": "2026-11-02T19:55:10.391222+00:00",
   "a9c60fd1626916d5": "2026-11-02T20:05:10.298946+00:00",
   "a641a1a03a051e3a": "2026-11-02T20:05:10.298946+00:00",
   "226dae3c093f5bb6": "2026-11-02T20:05:10.298946+00:00",
@@ -6616,7 +6611,10 @@
   "41b60b43bdc5272a": "2026-11-16T19:18:08.982949+00:00",
   "04ca09eff3e7de25": "2026-11-16T19:18:08.982949+00:00",
   "bda6636a7e141bb5": "2026-11-16T19:28:13.858877+00:00",
-  "f96f32d75a8d3ce0": "2026-11-16T19:48:06.974842+00:00"
+  "f96f32d75a8d3ce0": "2026-11-16T19:48:06.974842+00:00",
+  "6c1c02d575d94aa4": "2026-11-16T19:58:10.057321+00:00",
+  "252041551b02d067": "2026-11-16T19:58:10.057321+00:00",
+  "02c00263d58eba2f": "2026-11-16T19:58:10.057321+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6793,19 +6791,6 @@
     "ESPN F1": "Austria vs. Rep Ireland (Nov 14, 2026) Team Stats"
    },
    "last": "2026-11-14T23:32:11.670536+00:00"
-  },
-  "S7505": {
-   "title": "Clinton College vs Winthrop game highlights",
-   "first": "2026-11-14T19:52:10.440079+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T18:54:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Clinton College Golden Bears vs. Winthrop Eagles: Game Highlights"
-   },
-   "last": "2026-11-14T19:52:10.440083+00:00"
   },
   "S7506": {
    "title": "FSG's $3bn Cadillac F1 bid faces NASCAR obstacle",
@@ -14053,9 +14038,48 @@
     "GPFans": "Christian Horner responds to Cadillac question as $3bn return rumours swirl"
    },
    "last": "2026-11-16T19:48:08.626093+00:00"
+  },
+  "S8051": {
+   "title": "Cignetti says Indiana narrative motivates his team",
+   "first": "2026-11-16T19:58:11.936835+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T19:02:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cignetti: Narrative surrounding Indiana serves as motivation"
+   },
+   "last": "2026-11-16T19:58:11.936858+00:00"
+  },
+  "S8052": {
+   "title": "Cardinals rookie QB Beck struggles in debut",
+   "first": "2026-11-16T19:58:11.936864+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T16:28:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cards rookie QB Beck struggles in debut, but keeps optimism"
+   },
+   "last": "2026-11-16T19:58:11.936868+00:00"
+  },
+  "S8053": {
+   "title": "Jets' Glenn ceded defensive playcalling to coordinator Duker",
+   "first": "2026-11-16T19:58:11.936872+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T16:19:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets Aaron Glenn ceded defensive playcalling to DC Brian Duker on Sunday"
+   },
+   "last": "2026-11-16T19:58:11.936876+00:00"
   }
  },
- "story_seq": 8050,
+ "story_seq": 8053,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14174,7 +14198,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T19:48:06.974842+00:00",
+ "last_run": "2026-11-16T19:58:10.057321+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
