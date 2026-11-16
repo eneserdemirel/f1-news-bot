@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fa3aa2cea6cf77f6": "2026-11-02T10:03:16.318777+00:00",
-  "f1d32c0f56e8f655": "2026-11-02T10:03:16.318777+00:00",
-  "5840a8d822e3216f": "2026-11-02T10:03:16.318777+00:00",
-  "2ae2867aaf4b0c38": "2026-11-02T10:03:16.318777+00:00",
-  "4ce9e4fd652e0822": "2026-11-02T10:03:16.318777+00:00",
-  "4e4855e8362cbd15": "2026-11-02T10:03:16.318777+00:00",
   "c16508b4833c63fa": "2026-11-02T10:13:20.021058+00:00",
   "5c1cd0e1553de9f6": "2026-11-02T10:13:20.021058+00:00",
   "3a40d6b3d1356f71": "2026-11-02T10:13:20.021058+00:00",
@@ -6646,7 +6640,11 @@
   "6abdc49abb4e05f3": "2026-11-16T09:46:56.093035+00:00",
   "a9c9499d280bb44f": "2026-11-16T09:56:36.882435+00:00",
   "f28613fcfc12fe68": "2026-11-16T09:56:36.882435+00:00",
-  "7573ce69a17f56c8": "2026-11-16T09:56:36.882435+00:00"
+  "7573ce69a17f56c8": "2026-11-16T09:56:36.882435+00:00",
+  "119fee6ceddb61f1": "2026-11-16T10:06:34.846186+00:00",
+  "c74d81cc019f5331": "2026-11-16T10:06:34.846186+00:00",
+  "f1acb53e1ac08d81": "2026-11-16T10:06:34.846186+00:00",
+  "2dd8ef794baeee37": "2026-11-16T10:06:34.846186+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6932,19 +6930,6 @@
     "GPFans": "F1 star hits out at 'cowards' after FIA change - 'these people wouldn't have the balls'"
    },
    "last": "2026-11-14T18:01:25.022480+00:00"
-  },
-  "S7400": {
-   "title": "Analysis: Horner's F1 paddock comeback prospects questioned",
-   "first": "2026-11-14T10:00:43.608369+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T09:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Christian Horner frozen out? The harsh reality of his F1 comeback dream"
-   },
-   "last": "2026-11-14T10:00:43.608391+00:00"
   },
   "S7401": {
    "title": "Jock Clear says Leclerc will be motivated by Hamilton battles",
@@ -13625,7 +13610,9 @@
     "The Race": "2026-11-16T09:10:12+00:00",
     "Motorsport.com Italia": "2026-11-16T09:14:34+00:00",
     "FormulaPassion": "2026-11-16T09:10:05+00:00",
-    "AS": "2026-11-16T09:34:31+00:00"
+    "AS": "2026-11-16T09:34:31+00:00",
+    "Autosport": "2026-11-16T09:52:30+00:00",
+    "PlanetF1": "2026-11-16T09:56:37+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13638,9 +13625,11 @@
     "The Race": "Vegas gives Camara chance to put messy debut behind him",
     "Motorsport.com Italia": "F1 | Haas: Camara confermato anche per Las Vegas sulla VF-26. Hirakawa disputerà la FP1",
     "FormulaPassion": "La Haas riconferma Camara per il GP di Las Vegas. Hirakawa torna per le FP1",
-    "AS": "Câmara repite en Las Vegas"
+    "AS": "Câmara repite en Las Vegas",
+    "Autosport": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
+    "PlanetF1": "Haas confirm Esteban Ocon replacement for Las Vegas"
    },
-   "last": "2026-11-16T09:47:01.508650+00:00"
+   "last": "2026-11-16T10:06:41.845962+00:00"
   },
   "S7909": {
    "title": "Italian TV channels and times for Las Vegas GP",
@@ -13803,9 +13792,35 @@
     "ESPN F1": "Tony Popovic hints his time as Socceroos coach might not be over"
    },
    "last": "2026-11-16T09:56:39.948676+00:00"
+  },
+  "S7921": {
+   "title": "Non-league match abandoned after player suffers serious injury",
+   "first": "2026-11-16T10:06:41.845933+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T10:02:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Non-league club's first game since player death abandoned due to serious injury"
+   },
+   "last": "2026-11-16T10:06:41.845951+00:00"
+  },
+  "S7922": {
+   "title": "Mercedes insider reveals internal pushback on Antonelli promotion",
+   "first": "2026-11-16T10:06:41.845964+00:00",
+   "sources": {
+    "GPFans": "2026-11-16T09:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Mercedes insider reveals who pushed back on Kimi Antonelli replacing Lewis Hamilton"
+   },
+   "last": "2026-11-16T10:06:41.845968+00:00"
   }
  },
- "story_seq": 7920,
+ "story_seq": 7922,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -13924,22 +13939,12 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T09:56:36.882435+00:00",
+ "last_run": "2026-11-16T10:06:34.846186+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-15 22:00",
  "last_digest_at": "2026-11-15T19:04:55.700964+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-13T09:56:51.788331+00:00",
-   "title": "Newey: Honda hayal kırıklığına uğradı ama Aston Martin ile gelecek odaklı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-13T09:56:52.201302+00:00",
-   "title": "Perez, Cadillac'ın yeni transferlerini değerlendirdi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-13T10:06:58.340762+00:00",
    "title": "Forrest'tan F1 için çarpıcı vizyon: müze ve Formula E meydan okuması",
@@ -15049,6 +15054,11 @@
    "t": "2026-11-16T09:47:08.523193+00:00",
    "title": "Lando Norris'in yeni takımı Alman Formula 2 yeteneğini kadrosuna kattı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-16T10:06:46.315339+00:00",
+   "title": "Mercedes'te Antonelli'nin Hamilton'ın yerine getirilmesine itiraz eden kişi kim?",
+   "source": "GPFans"
   }
  ]
 }
