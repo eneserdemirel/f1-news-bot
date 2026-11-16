@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5d554825e066a2a1": "2026-11-02T13:23:15.620530+00:00",
-  "a1b73d7229c9edbf": "2026-11-02T13:23:15.620530+00:00",
-  "af92ab48594d2be9": "2026-11-02T13:23:15.620530+00:00",
   "e8e6dc73d825083c": "2026-11-02T13:33:23.899635+00:00",
   "f16281607ea0bbcb": "2026-11-02T13:33:23.899635+00:00",
   "cd371f5ea333ab59": "2026-11-02T13:33:23.899635+00:00",
@@ -6628,7 +6625,9 @@
   "028ae4fb414fbb1a": "2026-11-16T13:17:16.754234+00:00",
   "53352f35791e5025": "2026-11-16T13:17:16.754234+00:00",
   "7db4ab126fe2fc6b": "2026-11-16T13:17:16.754234+00:00",
-  "48a4cad5046d8683": "2026-11-16T13:17:16.754234+00:00"
+  "48a4cad5046d8683": "2026-11-16T13:17:16.754234+00:00",
+  "85b404636562ce16": "2026-11-16T13:27:17.178216+00:00",
+  "abd9fd290f37333d": "2026-11-16T13:27:17.178216+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6904,32 +6903,6 @@
     "FormulaPassion": "Newey: “Ci sono molti parallelismi tra il mio arrivo in Red Bull e quello in Aston Martin”"
    },
    "last": "2026-11-15T07:23:38.432521+00:00"
-  },
-  "S7431": {
-   "title": "Scorchers' winning streak ends in women's cricket match",
-   "first": "2026-11-14T13:20:42.991810+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T13:12:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wolvaardt, Penna, Mushangwe end Scorchers' winning streak"
-   },
-   "last": "2026-11-14T13:20:42.991830+00:00"
-  },
-  "S7432": {
-   "title": "Sainz says he is a better driver now than at Ferrari",
-   "first": "2026-11-14T13:20:42.991835+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-14T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "Carlos Sainz makes Ferrari comparison after 2026 F1 frustrations"
-   },
-   "last": "2026-11-14T13:20:42.991840+00:00"
   },
   "S7433": {
    "title": "Unidentified ESPN F1 item with no headline",
@@ -13997,9 +13970,35 @@
     "RacingNews365 NL": "F1-wereldkampioenen gezamenlijk op weg naar bijzondere prestatie"
    },
    "last": "2026-11-16T13:17:20.708833+00:00"
+  },
+  "S7968": {
+   "title": "LSG reportedly to trade Shami to RR for Sam Curran",
+   "first": "2026-11-16T13:27:21.809489+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T13:15:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LSG set to trade Shami to RR for Sam Curran"
+   },
+   "last": "2026-11-16T13:27:21.809507+00:00"
+  },
+  "S7969": {
+   "title": "Open points remain in F1 2030 V8 engine regulations",
+   "first": "2026-11-16T13:27:21.809513+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-16T13:20:49+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "V8-Motoren: Welche Punkte für das Reglement 2030 sind noch offen? - Motorsport-Total.com"
+   },
+   "last": "2026-11-16T13:27:21.809519+00:00"
   }
  },
- "story_seq": 7967,
+ "story_seq": 7969,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14118,7 +14117,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T13:17:16.754234+00:00",
+ "last_run": "2026-11-16T13:27:17.178216+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
@@ -15213,6 +15212,11 @@
    "t": "2026-11-16T13:17:25.038119+00:00",
    "title": "McLaren livery'li ilk Etihad uçağı uçuşa geçti",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-16T13:27:24.826527+00:00",
+   "title": "2030 V8 motor reglamanında hâlâ açık kalan noktalar neler?",
+   "source": "Motorsport-Total"
   }
  ]
 }
