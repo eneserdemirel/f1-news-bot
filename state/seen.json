@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f664b9036d5525c4": "2026-11-02T17:14:08.391803+00:00",
-  "5048dc332739912d": "2026-11-02T17:14:08.391803+00:00",
-  "e87faba06dfd384a": "2026-11-02T17:14:08.391803+00:00",
-  "10f10081ca223732": "2026-11-02T17:14:08.391803+00:00",
   "b2473162774aa7b1": "2026-11-02T17:24:07.827590+00:00",
   "49644cae49915d46": "2026-11-02T17:24:07.827590+00:00",
   "cc9228946764db38": "2026-11-02T17:24:07.827590+00:00",
@@ -6615,7 +6611,11 @@
   "1256147d84510881": "2026-11-16T17:07:18.350005+00:00",
   "e030f04ac0bdfa1d": "2026-11-16T17:07:18.350005+00:00",
   "7e73c20dee96f302": "2026-11-16T17:07:18.350005+00:00",
-  "bff53122f1ba5fc8": "2026-11-16T17:07:18.350005+00:00"
+  "bff53122f1ba5fc8": "2026-11-16T17:07:18.350005+00:00",
+  "78069bb8e21dd3c3": "2026-11-16T17:17:18.903496+00:00",
+  "3742d07b2c0c63d9": "2026-11-16T17:17:18.903496+00:00",
+  "5635f7fb57ea6011": "2026-11-16T17:17:18.903496+00:00",
+  "c33203915dd6b5bf": "2026-11-16T17:17:18.903496+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6732,19 +6732,6 @@
    },
    "last": "2026-11-14T18:01:25.022474+00:00"
   },
-  "S7373": {
-   "title": "Newey salary demand from Red Bull revealed in Horner book",
-   "first": "2026-11-14T07:29:51.716396+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-14T07:22:42+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "‘That’s obscene’ – Adrian Newey Red Bull salary demand revealed in Horner book claim"
-   },
-   "last": "2026-11-14T17:11:24.842309+00:00"
-  },
   "S7381": {
    "title": "Ole Miss-Oklahoma game moved to Sunday over AD objection",
    "first": "2026-11-14T08:19:50.648786+00:00",
@@ -6804,45 +6791,6 @@
     "FormulaPassion": "Newey: “Ci sono molti parallelismi tra il mio arrivo in Red Bull e quello in Aston Martin”"
    },
    "last": "2026-11-15T07:23:38.432521+00:00"
-  },
-  "S7470": {
-   "title": "Georgia vs Hungary football team stats",
-   "first": "2026-11-14T17:11:24.842266+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T17:06:40+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Georgia vs. Hungary (Nov 14, 2026) Team Stats"
-   },
-   "last": "2026-11-14T17:11:24.842284+00:00"
-  },
-  "S7471": {
-   "title": "Colton Herta superlicence points and Cadillac F1 bid",
-   "first": "2026-11-14T17:11:24.842290+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T17:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Colton Herta explains how 'piggyback' routine is aiding his F1 bid"
-   },
-   "last": "2026-11-14T17:11:24.842295+00:00"
-  },
-  "S7472": {
-   "title": "Column on Verstappen vs Antonelli 2027 title rivalry",
-   "first": "2026-11-14T17:11:24.842299+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-14T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Titanenstrijd Verstappen en Antonelli precies wat F1 nodig heeft"
-   },
-   "last": "2026-11-14T17:11:24.842303+00:00"
   },
   "S7473": {
    "title": "Washington vs Utah college football team stats",
@@ -13055,14 +13003,16 @@
    "title": "Alonso says Honda must make big step for Aston Martin 2027",
    "first": "2026-11-16T11:46:41.116068+00:00",
    "sources": {
-    "PlanetF1": "2026-11-16T11:36:35+00:00"
+    "PlanetF1": "2026-11-16T11:36:35+00:00",
+    "Motorsport Week": "2026-11-16T17:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Fernando Alonso delivers Honda vow after ‘phenomenal’ Aston Martin claim"
+    "PlanetF1": "Fernando Alonso delivers Honda vow after ‘phenomenal’ Aston Martin claim",
+    "Motorsport Week": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim"
    },
-   "last": "2026-11-16T11:46:41.116071+00:00"
+   "last": "2026-11-16T17:17:22.518259+00:00"
   },
   "S7941": {
    "title": "Motorsport-Total photo gallery of living F1 world champions",
@@ -13588,7 +13538,7 @@
    "titles": {
     "RacingNews365": "Why rapid Red Bull comeback hints at Max Verstappen 2027 title push"
    },
-   "last": "2026-11-16T14:27:36.876068+00:00"
+   "last": "2026-11-16T17:17:22.518253+00:00"
   },
   "S7981": {
    "title": "Trafford makes England case for Pickford's No. 1 spot",
@@ -14052,9 +14002,35 @@
     "GPblog": "Why Las Vegas could be McLaren’s biggest test in the fight for third"
    },
    "last": "2026-11-16T17:07:22.998242+00:00"
+  },
+  "S8016": {
+   "title": "ACC suspends Louisville and UNC players after college brawl",
+   "first": "2026-11-16T17:17:22.518226+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T15:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "ACC suspends Louisville LB Clark, UNC DB Smith over postgame brawl"
+   },
+   "last": "2026-11-16T17:17:22.518243+00:00"
+  },
+  "S8017": {
+   "title": "Sainz says he is a better driver than in 2024",
+   "first": "2026-11-16T17:17:22.518263+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-16T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Sainz: “È una situazione frustrante, ma oggi sono un pilota migliore di quello che ero nel 2024”"
+   },
+   "last": "2026-11-16T17:17:22.518268+00:00"
   }
  },
- "story_seq": 8015,
+ "story_seq": 8017,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14173,7 +14149,7 @@
   ]
  ],
  "calendar_updated": "2026-11-15T23:15:21.733852+00:00",
- "last_run": "2026-11-16T17:07:18.350005+00:00",
+ "last_run": "2026-11-16T17:17:18.903496+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 15:00",
@@ -15268,6 +15244,11 @@
    "t": "2026-11-16T17:07:30.291097+00:00",
    "title": "F1 Playlist del direttore: Marc, Lawson ve 2026 Robin sorusu",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-16T17:17:27.015931+00:00",
+   "title": "Sainz: Bugün 2024'teki halimden daha iyi bir pilotum",
+   "source": "FormulaPassion"
   }
  ]
 }
