@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bf8d6ac6a7b535d4": "2026-11-03T08:36:18.009695+00:00",
-  "69996f957fe745aa": "2026-11-03T08:36:18.009695+00:00",
-  "f09c8ca46c5d23b3": "2026-11-03T08:36:18.009695+00:00",
-  "f6986f1ecc5ca145": "2026-11-03T08:36:18.009695+00:00",
   "34a7792d704c7983": "2026-11-03T08:46:20.043539+00:00",
   "937127172d5cb9b1": "2026-11-03T08:46:20.043539+00:00",
   "e6ab031aba4e245c": "2026-11-03T08:46:20.043539+00:00",
@@ -6586,7 +6582,10 @@
   "7ff8918ebff423d3": "2026-11-17T08:19:27.658084+00:00",
   "29097e654f7b6136": "2026-11-17T08:29:28.365107+00:00",
   "325f9bb47fc582af": "2026-11-17T08:29:28.365107+00:00",
-  "c4cef10ae39d129d": "2026-11-17T08:29:28.365107+00:00"
+  "c4cef10ae39d129d": "2026-11-17T08:29:28.365107+00:00",
+  "38f1a54afd3baf73": "2026-11-17T08:39:36.484513+00:00",
+  "bc8ec3d5101d50d1": "2026-11-17T08:39:36.484513+00:00",
+  "93c90d82dd0b52b4": "2026-11-17T08:39:36.484513+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6823,19 +6822,6 @@
     "ESPN F1": "Arch Manning leads game-winning drive as Texas stuns LSU"
    },
    "last": "2026-11-15T09:23:37.836316+00:00"
-  },
-  "S7629": {
-   "title": "Sainz says Williams is a second off midfield, Las Vegas points unlikely",
-   "first": "2026-11-15T08:33:37.393860+00:00",
-   "sources": {
-    "AS": "2026-11-15T08:24:25+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "Un Williams para olvidar"
-   },
-   "last": "2026-11-15T08:33:37.393877+00:00"
   },
   "S7630": {
    "title": "Former Liberty boss predicts F1 could be delisted within two years",
@@ -14087,7 +14073,7 @@
    "titles": {
     "Motorsport-Total": "Günther Steiner: Dieser Fahrer würde Ferrari wieder nach vorne bringen - Motorsport-Total.com"
    },
-   "last": "2026-11-17T07:59:35.256351+00:00"
+   "last": "2026-11-17T08:39:41.404428+00:00"
   },
   "S8176": {
    "title": "John McGinn says Scotland's direction is impossible to judge",
@@ -14179,9 +14165,35 @@
     "Motorsport.com Italia": "F1 | Esclusivo: il Kimi che non vediamo. Il campione raccontato da chi gli vive accanto"
    },
    "last": "2026-11-17T08:29:31.096443+00:00"
+  },
+  "S8183": {
+   "title": "Column: Ferrari's lack of titles blamed on itself",
+   "first": "2026-11-17T08:39:41.404391+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T08:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Iconisch Ferrari gooit eigen ruiten in op jacht naar volgende titel"
+   },
+   "last": "2026-11-17T08:39:41.404412+00:00"
+  },
+  "S8184": {
+   "title": "Ten years after Abu Dhabi 2016 roundtable with Georg Nolte",
+   "first": "2026-11-17T08:39:41.404417+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T08:28:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Zehn Jahre nach Abu Dhabi 2016: Formel-1-Stammtisch mit Georg Nolte - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T08:39:41.404422+00:00"
   }
  },
- "story_seq": 8182,
+ "story_seq": 8184,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14300,7 +14312,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T08:29:28.365107+00:00",
+ "last_run": "2026-11-17T08:39:36.484513+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15400,6 +15412,11 @@
    "t": "2026-11-17T08:29:36.106535+00:00",
    "title": "Antonelli'nin perde arkası: Ekibinin gözünden Kimi",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-17T08:39:44.216861+00:00",
+   "title": "Abu Dhabi 2016'nın on yılı: Georg Nolte ile F1 sohbeti",
+   "source": "Motorsport-Total"
   }
  ]
 }
