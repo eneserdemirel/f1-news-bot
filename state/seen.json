@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ad55b55451fece34": "2026-11-03T16:28:14.477997+00:00",
-  "5c04fb6e2aae559a": "2026-11-03T16:28:14.477997+00:00",
-  "bee398cd6eb9ee02": "2026-11-03T16:28:14.477997+00:00",
-  "8514b215dc04b119": "2026-11-03T16:28:14.477997+00:00",
   "209772716ded9158": "2026-11-03T16:38:16.786194+00:00",
   "6acf014c0e3521a5": "2026-11-03T16:38:16.786194+00:00",
   "b4754eb3bf58e4d9": "2026-11-03T16:38:16.786194+00:00",
@@ -6544,7 +6540,10 @@
   "90ea95a928946d19": "2026-11-17T16:10:48.544291+00:00",
   "19ffafe61e68c8b0": "2026-11-17T16:10:48.544291+00:00",
   "6366e7a7d5454b7a": "2026-11-17T16:10:48.544291+00:00",
-  "f6075f9c888678b3": "2026-11-17T16:20:52.649713+00:00"
+  "f6075f9c888678b3": "2026-11-17T16:20:52.649713+00:00",
+  "46bfebac5c0d387d": "2026-11-17T16:30:51.263527+00:00",
+  "1e305ab2984a2fad": "2026-11-17T16:30:51.263527+00:00",
+  "119b6c076586e513": "2026-11-17T16:30:51.263527+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6655,21 +6654,6 @@
     "RacingNews365": "Mercedes predict significant loss for start of new F1 season"
    },
    "last": "2026-11-15T17:24:49.236215+00:00"
-  },
-  "S7667": {
-   "title": "Retrospective on Red Bull buying Jaguar F1 team for $1",
-   "first": "2026-11-15T13:04:15.998263+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-15T13:00:00+00:00",
-    "RacingNews365": "2026-11-15T16:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull neemt F1-team over voor slechts één dollar - Terugblik",
-    "RacingNews365": "Red Bull make surprisingly-priced purchase from Ford to kick off new F1 venture - On This Day"
-   },
-   "last": "2026-11-15T16:24:47.410773+00:00"
   },
   "S7678": {
    "title": "Perez on key ingredient for Cadillac team-mate search",
@@ -14346,10 +14330,36 @@
    "titles": {
     "ESPN F1": "Stephen A. lays out his concerns about Pats, Mike Vrabel"
    },
-   "last": "2026-11-17T16:20:54.523444+00:00"
+   "last": "2026-11-17T16:30:54.462960+00:00"
+  },
+  "S8271": {
+   "title": "Williams retain Jade Jacquet for 2027 F1 Academy season",
+   "first": "2026-11-17T16:30:54.462934+00:00",
+   "sources": {
+    "Formula 1": "2026-11-17T16:30:54.462947+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Williams retain Jade Jacquet for 2027 F1 ACADEMY campaign"
+   },
+   "last": "2026-11-17T16:30:54.462951+00:00"
+  },
+  "S8272": {
+   "title": "Ferrari World Finals held at Barcelona for first time",
+   "first": "2026-11-17T16:30:54.462964+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-17T16:19:42+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "Finali Mondiali Ferrari, a Barcellona la grande festa del Cavallino Rampante"
+   },
+   "last": "2026-11-17T16:30:54.462969+00:00"
   }
  },
- "story_seq": 8270,
+ "story_seq": 8272,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14468,22 +14478,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T16:20:52.649713+00:00",
+ "last_run": "2026-11-17T16:30:51.263527+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T16:21:31.939232+00:00",
-   "title": "Bottas, Cadillac'la 2027 sözleşmesi iddiasını sürdürüyor",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-11-14T16:21:32.404947+00:00",
-   "title": "Las Vegas'ta soğuk hava ve yeni 2026 kuralları lastik yönetimini zorlaştırabilir",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-14T16:31:28.719075+00:00",
    "title": "Esteban Ocon'un F1'e dönüşü mümkün mü?",
@@ -15612,6 +15612,16 @@
   {
    "t": "2026-11-17T16:11:00.802022+00:00",
    "title": "Sphere, Las Vegas Grand Prix'nin vazgeçilmez bir parçası oldu",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-17T16:30:57.955709+00:00",
+   "title": "Ferrari Finali Mondiali ilk kez Barselona'da düzenlenecek",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-17T16:30:58.357440+00:00",
+   "title": "Williams, Jade Jacquet'yi 2027 F1 ACADEMY sezonunda tutuyor",
    "source": "Formula 1"
   }
  ]
