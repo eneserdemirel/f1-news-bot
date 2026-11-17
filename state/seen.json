@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1378094655242a77": "2026-11-03T12:47:02.799687+00:00",
-  "7c63fe5a476e534c": "2026-11-03T12:47:02.799687+00:00",
   "c7a9e264886355c1": "2026-11-03T12:57:02.758504+00:00",
   "9e1334a5e0f80a76": "2026-11-03T12:57:02.758504+00:00",
   "b4af077ba20665f1": "2026-11-03T12:57:02.758504+00:00",
@@ -6566,7 +6564,12 @@
   "194d90fc18375f6a": "2026-11-17T12:40:14.777217+00:00",
   "eca8891a9bf4872b": "2026-11-17T12:40:14.777217+00:00",
   "1ba47af8afab5896": "2026-11-17T12:40:14.777217+00:00",
-  "4a0bc4f4e42aa87d": "2026-11-17T12:40:14.777217+00:00"
+  "4a0bc4f4e42aa87d": "2026-11-17T12:40:14.777217+00:00",
+  "b0358fa835c38423": "2026-11-17T12:50:25.758357+00:00",
+  "f87be9db37323219": "2026-11-17T12:50:25.758357+00:00",
+  "8d606343e5995fea": "2026-11-17T12:50:25.758357+00:00",
+  "78fc91f8b93dfc4d": "2026-11-17T12:50:25.758357+00:00",
+  "e73912e8895fd7a5": "2026-11-17T12:50:25.758357+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14322,7 +14325,7 @@
    "titles": {
     "ESPN F1": "What the NBA's first month has revealed about all 30 teams"
    },
-   "last": "2026-11-17T12:40:20.566182+00:00"
+   "last": "2026-11-17T12:50:29.388243+00:00"
   },
   "S8227": {
    "title": "FIA considers changing F1 speed limit rule for 2027",
@@ -14336,9 +14339,48 @@
     "The Race": "F1's 'stupid' speed limit to change in 2027? What you need to know"
    },
    "last": "2026-11-17T12:40:20.566191+00:00"
+  },
+  "S8228": {
+   "title": "Opinion: USMNT doesn't need a Guardiola-style hero as manager",
+   "first": "2026-11-17T12:50:29.388253+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T08:39:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The USMNT doesn't need a hero like Pep Guardiola as its next manager"
+   },
+   "last": "2026-11-17T12:50:29.388280+00:00"
+  },
+  "S8229": {
+   "title": "Canucks 3-2 Mammoth NHL game recap",
+   "first": "2026-11-17T12:50:29.388286+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T07:05:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canucks 3-2 Mammoth (Nov 16, 2026) Game Recap"
+   },
+   "last": "2026-11-17T12:50:29.388291+00:00"
+  },
+  "S8230": {
+   "title": "Bearman's future linked to Hamilton's Ferrari plans analysis",
+   "first": "2026-11-17T12:50:29.388295+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T12:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Why Lewis Hamilton’s Ferrari future could decide Oliver Bearman’s next move"
+   },
+   "last": "2026-11-17T12:50:29.388300+00:00"
   }
  },
- "story_seq": 8227,
+ "story_seq": 8230,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14457,7 +14499,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T12:40:14.777217+00:00",
+ "last_run": "2026-11-17T12:50:25.758357+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15547,6 +15589,11 @@
    "t": "2026-11-17T12:40:24.081848+00:00",
    "title": "F1'in 'aptalca' hız sınırı 2027'de değişecek mi?",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-17T12:50:33.034370+00:00",
+   "title": "Hamilton'ın Ferrari geleceği Bearman'ın kararını etkileyebilir",
+   "source": "GPblog"
   }
  ]
 }
