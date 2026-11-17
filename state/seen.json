@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "080858acc892975c": "2026-11-03T21:08:19.737152+00:00",
-  "bc4f875b3374e2ab": "2026-11-03T21:08:19.737152+00:00",
   "89ae2660e09ad3d1": "2026-11-03T21:18:18.891044+00:00",
   "5946b726363bd54b": "2026-11-03T21:18:18.891044+00:00",
   "714d348031195c33": "2026-11-03T21:18:18.891044+00:00",
@@ -6530,7 +6528,9 @@
   "c8f320e0a99727b5": "2026-11-17T20:41:27.486468+00:00",
   "8f133eba861acfa0": "2026-11-17T20:41:27.486468+00:00",
   "036d162db512143f": "2026-11-17T21:01:30.477525+00:00",
-  "f57703433ead6c81": "2026-11-17T21:01:30.477525+00:00"
+  "f57703433ead6c81": "2026-11-17T21:01:30.477525+00:00",
+  "e0b488be8671e9b9": "2026-11-17T21:11:24.889351+00:00",
+  "969e646278467389": "2026-11-17T21:11:24.889351+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6686,32 +6686,6 @@
    },
    "last": "2026-11-15T21:25:34.366970+00:00"
   },
-  "S7757": {
-   "title": "Texans RB Woody Marks suffers concussion vs. Browns",
-   "first": "2026-11-15T21:04:51.994530+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T20:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Texans lose RB Woody Marks to concussion against Browns"
-   },
-   "last": "2026-11-15T21:04:51.994556+00:00"
-  },
-  "S7758": {
-   "title": "RacingNews365 daily review: Leclerc on Hamilton, Verstappen claim",
-   "first": "2026-11-15T21:04:51.994560+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-15T21:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Charles Leclerc shares Lewis Hamilton insight as Red Bull ally makes bold Max Verstappen claim - RacingNews365 Review"
-   },
-   "last": "2026-11-15T21:04:51.994564+00:00"
-  },
   "S7759": {
    "title": "Piastri says McLaren would handle 2025 title challenge differently",
    "first": "2026-11-15T21:04:51.994567+00:00",
@@ -6724,19 +6698,6 @@
     "GPblog": "Piastri makes telling McLaren admission over 2025 title heartbreak"
    },
    "last": "2026-11-16T00:46:05.439322+00:00"
-  },
-  "S7760": {
-   "title": "Piastri says 2026 F1 season has been tougher than expected",
-   "first": "2026-11-15T21:05:32.837383+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-15T21:00:39+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Oscar Piastri sheds light on ‘tougher than expected’ F1 2026 season"
-   },
-   "last": "2026-11-15T21:05:32.837406+00:00"
   },
   "S7761": {
    "title": "Jets QB Geno Smith suffers ankle injury, replaced by Klubnik",
@@ -14423,9 +14384,35 @@
     "GPFans": "Oscar Piastri told to become ‘Lando's wingman’ to secure McLaren future"
    },
    "last": "2026-11-17T21:01:32.501480+00:00"
+  },
+  "S8335": {
+   "title": "RacingNews365 daily review roundup of Wolff, Antonelli and Hamilton news",
+   "first": "2026-11-17T21:11:28.294648+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T21:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Wolff addresses Antonelli to Ferrari rumours as Hamilton sidelined for Las Vegas FP1 - RacingNews365 Review"
+   },
+   "last": "2026-11-17T21:11:28.294666+00:00"
+  },
+  "S8336": {
+   "title": "McLaren explains reasons for Piastri's 2026 deficit to Norris",
+   "first": "2026-11-17T21:11:28.294671+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-17T21:03:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "McLaren explains reasons for Oscar Piastri deficit to Norris in 2026"
+   },
+   "last": "2026-11-17T21:11:28.294676+00:00"
   }
  },
- "story_seq": 8334,
+ "story_seq": 8336,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14544,17 +14531,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T21:01:30.477525+00:00",
+ "last_run": "2026-11-17T21:11:24.889351+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T21:02:18.949491+00:00",
-   "title": "Ecclestone, FIA'nın F1 gazetecisi yasağını \"tamamen çılgınca\" buldu",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-14T22:02:18.519489+00:00",
    "title": "Russell, Antonelli'ye karşı zorlu sezonu ve Allison'ın övgüsünü anlatıyor",
@@ -15709,6 +15691,11 @@
    "t": "2026-11-17T21:01:38.483947+00:00",
    "title": "Wolff: Antonelli, İtalya'da Schumacher'den daha büyük olabilir",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-17T21:11:32.778705+00:00",
+   "title": "McLaren, Norris ile Piastri arasındaki 2026 farkını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
