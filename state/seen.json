@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c3a4876c9ba6381f": "2026-11-03T11:06:17.676950+00:00",
-  "afc57090d2d803c9": "2026-11-03T11:06:17.676950+00:00",
-  "ba46a50070a4d752": "2026-11-03T11:06:17.676950+00:00",
-  "c9569ccb7b3b7dc0": "2026-11-03T11:06:17.676950+00:00",
-  "f422078bce214c07": "2026-11-03T11:07:00.401696+00:00",
   "f06d10d119e3ffd3": "2026-11-03T11:16:59.842817+00:00",
   "b2711378be8b7421": "2026-11-03T11:16:59.842817+00:00",
   "0fcf73bc42bccc44": "2026-11-03T11:27:03.982893+00:00",
@@ -6571,7 +6566,10 @@
   "6afe5f2a7741453d": "2026-11-17T10:50:11.051232+00:00",
   "64725148c9b0e823": "2026-11-17T10:50:11.051232+00:00",
   "46a5690fd42c6d78": "2026-11-17T11:00:11.960884+00:00",
-  "c465f50f176e7714": "2026-11-17T11:00:11.960884+00:00"
+  "c465f50f176e7714": "2026-11-17T11:00:11.960884+00:00",
+  "c7131a90379174b8": "2026-11-17T11:10:11.542565+00:00",
+  "531019f6560816b1": "2026-11-17T11:10:11.542565+00:00",
+  "7cd0ca6f0f9f28d3": "2026-11-17T11:10:11.542565+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14167,14 +14165,16 @@
    "title": "Ecclestone tells Hamilton to think about quitting F1",
    "first": "2026-11-17T10:00:15.271368+00:00",
    "sources": {
-    "Crash.net": "2026-11-17T09:56:59+00:00"
+    "Crash.net": "2026-11-17T09:56:59+00:00",
+    "Gazzetta dello Sport": "2026-11-17T10:59:50+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Lewis Hamilton told to “think about quitting” F1 by Bernie Ecclestone"
+    "Crash.net": "Lewis Hamilton told to “think about quitting” F1 by Bernie Ecclestone",
+    "Gazzetta dello Sport": "Ciclone Ecclestone: \"Hamilton piange e si lamenta sempre: deve pensare al ritiro. E la Ferrari...\""
    },
-   "last": "2026-11-17T10:00:15.271374+00:00"
+   "last": "2026-11-17T11:10:17.062449+00:00"
   },
   "S8200": {
    "title": "Las Vegas GP tyre window challenge due to cold temperatures",
@@ -14333,9 +14333,35 @@
     "Formula 1": "The 5 drivers most likely to win in Las Vegas"
    },
    "last": "2026-11-17T11:00:13.534211+00:00"
+  },
+  "S8212": {
+   "title": "David Alonso tests Honda RC214V at Sepang",
+   "first": "2026-11-17T11:10:17.062415+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-17T11:02:21+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "MotoGP | David Alonso ha provato la Honda in un test privato a Sepang"
+   },
+   "last": "2026-11-17T11:10:17.062432+00:00"
+  },
+  "S8213": {
+   "title": "Ecclestone blames Ferrari's Italian politics for title failure",
+   "first": "2026-11-17T11:10:17.062437+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Bernie Ecclestone criticises Ferrari's Italian 'politics' over latest title failure"
+   },
+   "last": "2026-11-17T11:10:17.062443+00:00"
   }
  },
- "story_seq": 8211,
+ "story_seq": 8213,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14454,7 +14480,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T11:00:11.960884+00:00",
+ "last_run": "2026-11-17T11:10:11.542565+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15554,6 +15580,11 @@
    "t": "2026-11-17T10:50:20.740414+00:00",
    "title": "FIA, Las Vegas Grand Prix öncesi Straight Mode bölge sayısını açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T11:10:23.535377+00:00",
+   "title": "Ecclestone: Ferrari şampiyonluğu kazanmalıydı, takımda çok fazla İtalyan var",
+   "source": "RacingNews365"
   }
  ]
 }
