@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7c15ad068f8aaad6": "2026-11-03T10:06:18.200941+00:00",
-  "85e18ce6111a78c9": "2026-11-03T10:06:18.200941+00:00",
-  "fb99c6aba6d4300f": "2026-11-03T10:06:18.200941+00:00",
-  "294464852d429c68": "2026-11-03T10:06:18.200941+00:00",
-  "dc28980b3b155330": "2026-11-03T10:06:18.200941+00:00",
   "7b1ecb7f2aa79b67": "2026-11-03T10:16:17.107872+00:00",
   "f91da0a9f1eea871": "2026-11-03T10:16:17.107872+00:00",
   "99204b6f51bd6c7d": "2026-11-03T10:16:17.107872+00:00",
@@ -6577,7 +6572,12 @@
   "3b753cff80a29578": "2026-11-17T09:50:17.387299+00:00",
   "42a9954f6acb07ba": "2026-11-17T09:50:17.387299+00:00",
   "b6fe29b984d059f1": "2026-11-17T10:00:12.253166+00:00",
-  "67ec87eceb753573": "2026-11-17T10:00:12.253166+00:00"
+  "67ec87eceb753573": "2026-11-17T10:00:12.253166+00:00",
+  "eed5c09f6620f207": "2026-11-17T10:10:18.619534+00:00",
+  "b84008fd92bef2f4": "2026-11-17T10:10:18.619534+00:00",
+  "443311556eb2a7d3": "2026-11-17T10:10:18.619534+00:00",
+  "f3254c1b22be3d87": "2026-11-17T10:10:18.619534+00:00",
+  "4bbb739f57f443f0": "2026-11-17T10:10:18.619534+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -11717,7 +11717,8 @@
     "FormulaPassion": "2026-11-16T16:36:32+00:00",
     "Motorsport.com Italia": "2026-11-16T16:39:40+00:00",
     "RacingNews365 NL": "2026-11-16T16:35:00+00:00",
-    "PlanetF1": "2026-11-16T17:19:12+00:00"
+    "PlanetF1": "2026-11-16T17:19:12+00:00",
+    "Formula 1": "2026-11-17T10:10:23.520464+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11726,9 +11727,10 @@
     "FormulaPassion": "Aston Martin, spunta il bianco per Las Vegas: la GALLERY della livrea speciale",
     "Motorsport.com Italia": "F1 | Aston Martin svela la livrea ideata per il Gran Premio di Las Vegas",
     "RacingNews365 NL": "Aston Martin verrast met nieuwe look voor GP Las Vegas",
-    "PlanetF1": "Aston Martin unveils eye-catching Las Vegas Grand Prix livery"
+    "PlanetF1": "Aston Martin unveils eye-catching Las Vegas Grand Prix livery",
+    "Formula 1": "Aston Martin showcase bespoke Las Vegas Grand Prix livery"
    },
-   "last": "2026-11-16T17:27:21.168701+00:00"
+   "last": "2026-11-17T10:10:23.520477+00:00"
   },
   "S8006": {
    "title": "Verstappen wears special helmet design for Las Vegas GP",
@@ -14279,9 +14281,61 @@
     "Crash.net": "Lewis Hamilton told to “think about quitting” F1 by Bernie Ecclestone"
    },
    "last": "2026-11-17T10:00:15.271374+00:00"
+  },
+  "S8200": {
+   "title": "Las Vegas GP tyre window challenge due to cold temperatures",
+   "first": "2026-11-17T10:10:23.520484+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-17T09:59:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | GP di Las Vegas: la sfida sarà tenere le gomme nella giusta finestra d'utilizzo"
+   },
+   "last": "2026-11-17T10:10:23.520491+00:00"
+  },
+  "S8201": {
+   "title": "Stella optimistic McLaren can overcome Las Vegas struggles",
+   "first": "2026-11-17T10:10:23.520495+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T10:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren striving to make 'peace' with Las Vegas after persistent struggles"
+   },
+   "last": "2026-11-17T10:10:23.520500+00:00"
+  },
+  "S8202": {
+   "title": "Hamilton says Schumacher would never behave like this",
+   "first": "2026-11-17T10:10:23.520504+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T10:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Hamilton op zijn plek gezet: \"Schumacher zou dat nooit doen\""
+   },
+   "last": "2026-11-17T10:10:23.520509+00:00"
+  },
+  "S8203": {
+   "title": "Aston Martin Acura branding replaces Honda name for Las Vegas",
+   "first": "2026-11-17T10:10:23.520512+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T10:03:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Aston Martin: Sonderdesign für Las Vegas und Acura \"ersetzt\" Honda - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T10:10:23.520516+00:00"
   }
  },
- "story_seq": 8199,
+ "story_seq": 8203,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14400,7 +14454,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T10:00:12.253166+00:00",
+ "last_run": "2026-11-17T10:10:18.619534+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15490,6 +15544,21 @@
    "t": "2026-11-17T09:30:19.285943+00:00",
    "title": "Cadillac, Fensway Sports Group'a satılıyor mu? Keselowski veto ihtimali",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-17T10:10:31.865148+00:00",
+   "title": "Las Vegas GP'de lastiklerin doğru çalışma aralığında tutulması kritik olacak",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-17T10:10:32.467691+00:00",
+   "title": "Hamilton'a eleştiri: \"Schumacher bunu asla yapmazdı\"",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-17T10:10:32.973829+00:00",
+   "title": "McLaren, Las Vegas'ta eski sorunlarına son vermek istiyor",
+   "source": "RacingNews365"
   }
  ]
 }
