@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "387232e09ea592e5": "2026-11-03T11:37:04.307687+00:00",
-  "8a765040e710c046": "2026-11-03T11:37:04.307687+00:00",
-  "b16d5f23d5763dca": "2026-11-03T11:37:04.307687+00:00",
-  "de7bbf0fb6f9792a": "2026-11-03T11:37:04.307687+00:00",
-  "760f4928f2e330af": "2026-11-03T11:37:04.307687+00:00",
-  "d7bacf2733ec315b": "2026-11-03T11:37:04.307687+00:00",
-  "3e82f2e0f3fa6d29": "2026-11-03T11:37:04.307687+00:00",
-  "3f0a6256549ce111": "2026-11-03T11:37:04.307687+00:00",
   "f8acb423f8d4ae15": "2026-11-03T11:56:59.930239+00:00",
   "0d705ee20390fd89": "2026-11-03T11:56:59.930239+00:00",
   "a5e5c93b31d5ca13": "2026-11-03T11:56:59.930239+00:00",
@@ -6574,7 +6566,9 @@
   "a18cbf3be21fef7b": "2026-11-17T11:30:11.350815+00:00",
   "c71fac723acd2d78": "2026-11-17T11:30:11.350815+00:00",
   "3f97f4065d690bbd": "2026-11-17T11:30:11.350815+00:00",
-  "94d691103b95f928": "2026-11-17T11:30:11.350815+00:00"
+  "94d691103b95f928": "2026-11-17T11:30:11.350815+00:00",
+  "4d95d0c384060f66": "2026-11-17T11:40:11.992937+00:00",
+  "0c7e58d2e27a4875": "2026-11-17T11:40:11.992937+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6620,23 +6614,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7474": {
-   "title": "Steiner says Verstappen could be better Ferrari leader than Hamilton",
-   "first": "2026-11-14T17:21:33.448675+00:00",
-   "sources": {
-    "GPblog": "2026-11-14T17:15:00+00:00",
-    "Crash.net": "2026-11-15T09:00:00+00:00",
-    "GPFans": "2026-11-15T11:27:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen suggested as better fit to lead Ferrari than Hamilton",
-    "Crash.net": "Guenther Steiner suggests Max Verstappen ‘solution’ to solve Ferrari woes",
-    "GPFans": "Max Verstappen can fix Ferrari as F1 insider says Lewis Hamilton is not the man"
-   },
-   "last": "2026-11-15T11:34:16.413060+00:00"
   },
   "S7498": {
    "title": "Piastri dismisses link between 2025 title collapse and McLaren woes",
@@ -6875,32 +6852,6 @@
     "FormulaPassion": "Barrichello e la prima vittoria a Hockenheim nel 2000: “Ross Brawn alla radio mi disse ‘Rubens, ma quando ti fermi?'”"
    },
    "last": "2026-11-15T15:44:48.091467+00:00"
-  },
-  "S7654": {
-   "title": "Verstappen happy with new race engineer Tom Hart",
-   "first": "2026-11-15T11:34:16.413030+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-15T11:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen tevreden over nieuwe race-engineer, maar grote uitdaging wacht"
-   },
-   "last": "2026-11-15T11:34:16.413047+00:00"
-  },
-  "S7655": {
-   "title": "F1 to discuss ADUO for teams cost cap overhaul",
-   "first": "2026-11-15T11:34:16.413051+00:00",
-   "sources": {
-    "Motorsport Week": "2026-11-15T11:11:01+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport Week": "F1 set to discuss ‘ADUO for teams’ cost cap rule overhaul"
-   },
-   "last": "2026-11-15T11:34:16.413055+00:00"
   },
   "S7656": {
    "title": "Steelers-Bengals odds and betting tips",
@@ -14381,9 +14332,22 @@
     "Motorsport-Total": "Scharfe Kritik: Frederic Vasseur ist bei Ferrari \"schlichtweg überfordert\" - Motorsport-Total.com"
    },
    "last": "2026-11-17T11:30:15.579314+00:00"
+  },
+  "S8218": {
+   "title": "Pundits say Verstappen can win in Las Vegas",
+   "first": "2026-11-17T11:40:13.871638+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T11:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen kan het verschil maken in Las Vegas: \"De bite die hij nu heeft...\""
+   },
+   "last": "2026-11-17T11:40:13.871656+00:00"
   }
  },
- "story_seq": 8217,
+ "story_seq": 8218,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14502,27 +14466,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T11:30:11.350815+00:00",
+ "last_run": "2026-11-17T11:40:11.992937+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T11:30:50.545839+00:00",
-   "title": "Hadjar, Hamilton ve Alonso ile F1'deki 'hızlı adaptasyon' efsanesini çürütüyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-14T11:30:51.119748+00:00",
-   "title": "Sergio Perez F1'den emeklilik tarihini açıkladı",
-   "source": "GPFans"
-  },
-  {
-   "t": "2026-11-14T11:30:51.738684+00:00",
-   "title": "Davidson, Verstappen'in Brezilya'daki yarışından etkilendi",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-14T11:50:42.640878+00:00",
    "title": "Verstappen'in şefi Jon Caller Red Bull'dan ayrılıp Ford'a katılıyor",
@@ -15607,6 +15556,11 @@
    "t": "2026-11-17T11:30:19.894129+00:00",
    "title": "Lewis Hamilton, Kim Kardashian ile daha fazla vakit geçirmek için Los Angeles'ta ev arıyor",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-17T11:40:20.718544+00:00",
+   "title": "Verstappen Las Vegas'ta fark yaratabilir mi?",
+   "source": "RacingNews365 NL"
   }
  ]
 }
