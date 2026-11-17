@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a8fcb40327494808": "2026-11-03T22:29:27.234225+00:00",
   "81176b792f6552d2": "2026-11-03T22:39:28.125900+00:00",
   "6ef18a551d1de92b": "2026-11-03T22:39:28.125900+00:00",
   "8c5a538f40a53d49": "2026-11-03T22:39:28.125900+00:00",
@@ -6518,7 +6517,10 @@
   "85b61139b5f07117": "2026-11-17T22:11:25.302467+00:00",
   "5eea9df47030a755": "2026-11-17T22:11:25.302467+00:00",
   "bc5fa237042a5b2c": "2026-11-17T22:21:27.115885+00:00",
-  "69521abbfa45339b": "2026-11-17T22:21:27.115885+00:00"
+  "69521abbfa45339b": "2026-11-17T22:21:27.115885+00:00",
+  "bd7d8aff88479e1a": "2026-11-17T22:31:29.266762+00:00",
+  "e2f911ecc0dd8eec": "2026-11-17T22:31:29.266762+00:00",
+  "82dead8536f7c17b": "2026-11-17T22:31:29.266762+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6726,32 +6728,6 @@
    },
    "last": "2026-11-16T00:46:05.439316+00:00"
   },
-  "S7778": {
-   "title": "Autumn Fleary shot vs. Marshall Thundering Herd",
-   "first": "2026-11-15T22:25:36.688118+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:21:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Autumn Fleary drills shot vs. Marshall Thundering Herd"
-   },
-   "last": "2026-11-15T22:25:36.688140+00:00"
-  },
-  "S7779": {
-   "title": "Spurs vs. Jazz live score",
-   "first": "2026-11-15T22:25:36.688146+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:20:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Spurs vs. Jazz (15 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-15T22:25:36.688152+00:00"
-  },
   "S7780": {
    "title": "Lindy Duncan wins first LPGA Tour title at The Annika",
    "first": "2026-11-15T22:25:36.688157+00:00",
@@ -6764,32 +6740,6 @@
     "ESPN F1": "Lindy Duncan's long-awaited first LPGA Tour win comes at The Annika"
    },
    "last": "2026-11-16T03:16:15.467606+00:00"
-  },
-  "S7781": {
-   "title": "Kris Dunn and-1 play highlight",
-   "first": "2026-11-15T22:25:36.688165+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:16:33+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kris Dunn somehow gets the and-1 to fall"
-   },
-   "last": "2026-11-15T22:25:36.688168+00:00"
-  },
-  "S7782": {
-   "title": "Illinois 105-49 Southeast Missouri State game recap",
-   "first": "2026-11-15T22:25:36.688172+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:15:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Illinois 105-49 Southeast Missouri State (Nov 15, 2026) Game Recap"
-   },
-   "last": "2026-11-15T22:25:36.688176+00:00"
   },
   "S7783": {
    "title": "IIHF confirms Russia will not play in world junior championships in Canada",
@@ -14306,7 +14256,7 @@
    "titles": {
     "ESPN F1": "Titans put WR Wan'Dale Robinson on IR due to ankle injury"
    },
-   "last": "2026-11-17T22:11:27.242893+00:00"
+   "last": "2026-11-17T22:31:31.203934+00:00"
   },
   "S8344": {
    "title": "FC Cincinnati nearing deal to acquire NWSL's Racing",
@@ -14333,9 +14283,35 @@
     "ESPN F1": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer"
    },
    "last": "2026-11-17T22:21:28.231612+00:00"
+  },
+  "S8346": {
+   "title": "LSU adds RJ Luis Jr. to roster after SEC approval",
+   "first": "2026-11-17T22:31:31.203900+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T22:30:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LSU adds RJ Luis Jr. to roster after SEC OKs addition"
+   },
+   "last": "2026-11-17T22:31:31.203918+00:00"
+  },
+  "S8347": {
+   "title": "Isaiah Brown dunk highlight for Florida",
+   "first": "2026-11-17T22:31:31.203923+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T22:25:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Isaiah Brown rocks the rim for Florida"
+   },
+   "last": "2026-11-17T22:31:31.203928+00:00"
   }
  },
- "story_seq": 8345,
+ "story_seq": 8347,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14454,7 +14430,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T22:21:27.115885+00:00",
+ "last_run": "2026-11-17T22:31:29.266762+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
