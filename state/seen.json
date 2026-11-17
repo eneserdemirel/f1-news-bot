@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "df351b7430e5422e": "2026-11-03T14:07:04.782548+00:00",
-  "ed68665f131e274b": "2026-11-03T14:07:04.782548+00:00",
-  "cdb01bb2cefceb04": "2026-11-03T14:07:04.782548+00:00",
-  "214ab0c729667e9d": "2026-11-03T14:07:04.782548+00:00",
   "54c6d7ea0e3a4e42": "2026-11-03T14:17:01.111076+00:00",
   "b8d7a82879f775d0": "2026-11-03T14:17:01.111076+00:00",
   "954fd61dc1279dcd": "2026-11-03T14:17:01.111076+00:00",
@@ -6555,7 +6551,10 @@
   "985a4c014cada4a7": "2026-11-17T13:50:13.135238+00:00",
   "5e19785785b10fb3": "2026-11-17T14:00:22.807389+00:00",
   "58f141a7685310e1": "2026-11-17T14:00:22.807389+00:00",
-  "34d71233dd5e1014": "2026-11-17T14:00:22.807389+00:00"
+  "34d71233dd5e1014": "2026-11-17T14:00:22.807389+00:00",
+  "67e1894552cedb84": "2026-11-17T14:10:13.575624+00:00",
+  "8e0d8ad10e153a83": "2026-11-17T14:10:13.575624+00:00",
+  "ad42a732b4151b7a": "2026-11-17T14:10:13.575624+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6722,27 +6721,6 @@
    },
    "last": "2026-11-15T17:04:48.327054+00:00"
   },
-  "S7642": {
-   "title": "Button doubts whether Alonso has another season in him",
-   "first": "2026-11-15T10:03:37.249828+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-15T10:00:00+00:00",
-    "GPFans": "2026-11-15T09:57:00+00:00",
-    "PlanetF1": "2026-11-15T10:58:04+00:00",
-    "AS": "2026-11-15T11:00:21+00:00",
-    "Motorsport Week": "2026-11-15T13:40:27+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Button verklaart twijfels over F1-toekomst Alonso",
-    "GPFans": "Aston Martin figure admits doubts over Fernando Alonso F1 future",
-    "PlanetF1": "Button claims Fernando Alonso ‘little bit of doubt’ ahead of Aston Martin extension",
-    "AS": "Alonso no tiene explicación",
-    "Motorsport Week": "Jenson Button makes honest admission over Fernando Alonso F1 future"
-   },
-   "last": "2026-11-15T14:04:19.082745+00:00"
-  },
   "S7649": {
    "title": "Mercedes predicts major downforce loss for 2027 F1 cars",
    "first": "2026-11-15T10:54:19.055588+00:00",
@@ -6841,19 +6819,6 @@
     "GPblog": "Perez stresses 'experience is key' as he weighs in on Bottas and Herta debate"
    },
    "last": "2026-11-15T17:24:49.236221+00:00"
-  },
-  "S7679": {
-   "title": "Raiders plan to start Fernando Mendoza regardless of Cousins trade",
-   "first": "2026-11-15T14:04:19.082726+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T12:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade"
-   },
-   "last": "2026-11-15T14:04:19.082739+00:00"
   },
   "S7680": {
    "title": "Rosberg says Michael Schumacher declined in Mercedes comeback",
@@ -14370,9 +14335,48 @@
     "Auto Motor und Sport": "mercedes-f1-team-einnahmen-wert"
    },
    "last": "2026-11-17T14:00:26.325905+00:00"
+  },
+  "S8244": {
+   "title": "Khulna Division wins National Cricket League title for record eighth time",
+   "first": "2026-11-17T14:10:16.018712+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T13:49:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Khulna Division win National Cricket League title for record eighth time"
+   },
+   "last": "2026-11-17T14:10:16.018729+00:00"
+  },
+  "S8245": {
+   "title": "Honda developing new cylinder head for 2027 power unit",
+   "first": "2026-11-17T14:10:16.018735+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-17T14:07:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Honda vuole crescere nel 2027: ci sarà una nuova testata per migliorare la combustione"
+   },
+   "last": "2026-11-17T14:10:16.018741+00:00"
+  },
+  "S8246": {
+   "title": "Lewis Hamilton named global ambassador for AG1",
+   "first": "2026-11-17T14:10:16.018745+00:00",
+   "sources": {
+    "Crash.net": "2026-11-17T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton announces huge new partnership ahead of Las Vegas GP"
+   },
+   "last": "2026-11-17T14:10:16.018750+00:00"
   }
  },
- "story_seq": 8243,
+ "story_seq": 8246,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14491,22 +14495,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T14:00:22.807389+00:00",
+ "last_run": "2026-11-17T14:10:13.575624+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T14:00:47.409826+00:00",
-   "title": "Norris: McLaren 2026'yı feda ederek 2025 şampiyonluğunu korudu",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-14T14:00:47.967346+00:00",
-   "title": "Honda, Aston Martin'deki tekrarlayan arızaya dikkat çekti",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-14T14:11:29.345578+00:00",
    "title": "Hamilton'ın ikinci gençliği: 2026 regülasyonu eski güçlü yönlerini geri getirdi",
@@ -15596,6 +15590,16 @@
    "t": "2026-11-17T14:00:30.369751+00:00",
    "title": "Mercedes teknik direktörü: Psikolojik baskı ve \"öz nefret\" üzerine",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-17T14:10:19.939108+00:00",
+   "title": "Lewis Hamilton, AG1 ile küresel elçi oldu",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-17T14:10:20.510126+00:00",
+   "title": "Honda 2027'de güç açığını kapatmak için yeni bir silindir kafası hazırlıyor",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
