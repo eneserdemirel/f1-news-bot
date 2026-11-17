@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "54c6d7ea0e3a4e42": "2026-11-03T14:17:01.111076+00:00",
-  "b8d7a82879f775d0": "2026-11-03T14:17:01.111076+00:00",
-  "954fd61dc1279dcd": "2026-11-03T14:17:01.111076+00:00",
-  "7e2c907848966c6a": "2026-11-03T14:17:01.111076+00:00",
-  "dc6f52c320987044": "2026-11-03T14:17:01.111076+00:00",
   "fdaab2e098e47be2": "2026-11-03T14:27:02.184934+00:00",
   "7ac69affd5650305": "2026-11-03T14:27:02.184934+00:00",
   "533a2b9fa32e49a0": "2026-11-03T14:27:02.184934+00:00",
@@ -6554,7 +6549,10 @@
   "34d71233dd5e1014": "2026-11-17T14:00:22.807389+00:00",
   "67e1894552cedb84": "2026-11-17T14:10:13.575624+00:00",
   "8e0d8ad10e153a83": "2026-11-17T14:10:13.575624+00:00",
-  "ad42a732b4151b7a": "2026-11-17T14:10:13.575624+00:00"
+  "ad42a732b4151b7a": "2026-11-17T14:10:13.575624+00:00",
+  "e21b084e3d1b8ea7": "2026-11-17T14:20:11.187240+00:00",
+  "0abc37fcf016044d": "2026-11-17T14:20:11.187240+00:00",
+  "144f4658061ae92b": "2026-11-17T14:20:11.187240+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6849,19 +6847,6 @@
     "Motorsport Week": "Ferrari boss reveals details of crunch Lewis Hamilton and Charles Leclerc talks"
    },
    "last": "2026-11-15T19:04:50.085634+00:00"
-  },
-  "S7682": {
-   "title": "Pirelli plans more thermal tyre degradation for 2027 strategies",
-   "first": "2026-11-15T14:14:14.976431+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-15T14:00:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Il piano di Pirelli: con le gomme 2027 ci sarà più degrado termico per moltiplicare le strategie"
-   },
-   "last": "2026-11-15T14:14:14.976450+00:00"
   },
   "S7683": {
    "title": "Arsenal reportedly eye former Tottenham striker Will Lankshear",
@@ -7212,7 +7197,8 @@
     "Gazzetta dello Sport": "2026-11-16T09:40:28+00:00",
     "RacingNews365 NL": "2026-11-16T12:23:00+00:00",
     "Corriere dello Sport": "2026-11-16T14:57:39+00:00",
-    "RacingNews365": "2026-11-17T05:30:00+00:00"
+    "RacingNews365": "2026-11-17T05:30:00+00:00",
+    "Motorsport Week": "2026-11-17T14:00:29+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -7223,9 +7209,10 @@
     "Gazzetta dello Sport": "Wolff blinda Antonelli: \"Kimi in Ferrari? Zero per cento. Appartiene alla Mercedes\".",
     "RacingNews365 NL": "Toto Wolff heeft bijzonder slecht Kimi Antonelli-nieuws voor Ferrari",
     "Corriere dello Sport": "Wolff non ha dubbi: \"Antonelli alla Ferrari? Non mi preoccupa. E diventerà più popolare di Schumacher!\"",
-    "RacingNews365": "Toto Wolff adopts firm stance on prospect of Kimi Antonelli joining Ferrari"
+    "RacingNews365": "Toto Wolff adopts firm stance on prospect of Kimi Antonelli joining Ferrari",
+    "Motorsport Week": "Toto Wolff shuts down speculation of Kimi Antonelli Ferrari defection"
    },
-   "last": "2026-11-17T05:39:32.441212+00:00"
+   "last": "2026-11-17T14:20:14.234394+00:00"
   },
   "S7709": {
    "title": "Mark Sutton photo feature on Antonelli's title triumph",
@@ -14374,9 +14361,35 @@
     "Crash.net": "Lewis Hamilton announces huge new partnership ahead of Las Vegas GP"
    },
    "last": "2026-11-17T14:10:16.018750+00:00"
+  },
+  "S8247": {
+   "title": "Mercedes to bring updated turbo spec to Las Vegas, Russell unlikely to use it",
+   "first": "2026-11-17T14:20:14.234404+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T14:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff reveals which Mercedes driver will receive long-awaited ADUO engine"
+   },
+   "last": "2026-11-17T14:20:14.234410+00:00"
+  },
+  "S8248": {
+   "title": "Permane comments on Ocon's ending at Haas",
+   "first": "2026-11-17T14:20:14.234415+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Permane: “Ocon è un ragazzo adorabile. Peccato che sia finita così”"
+   },
+   "last": "2026-11-17T14:20:14.234420+00:00"
   }
  },
- "story_seq": 8246,
+ "story_seq": 8248,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14495,17 +14508,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T14:10:13.575624+00:00",
+ "last_run": "2026-11-17T14:20:11.187240+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T14:11:29.345578+00:00",
-   "title": "Hamilton'ın ikinci gençliği: 2026 regülasyonu eski güçlü yönlerini geri getirdi",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-14T14:51:26.866525+00:00",
    "title": "Toto Wolff, Antonelli'nin 2026 şampiyonluğunu ne zaman fark ettiğini açıkladı",
@@ -15600,6 +15608,16 @@
    "t": "2026-11-17T14:10:20.510126+00:00",
    "title": "Honda 2027'de güç açığını kapatmak için yeni bir silindir kafası hazırlıyor",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-17T14:20:18.159474+00:00",
+   "title": "Permane: Ocon adorable bir genç, ama böyle bitmesine üzüldüm",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T14:20:18.725712+00:00",
+   "title": "Wolff, ADUO motorunu hangi Mercedes pilotunun kullanacağını açıkladı",
+   "source": "GPblog"
   }
  ]
 }
