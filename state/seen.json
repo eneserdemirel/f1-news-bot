@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a0a731fdbf807ec1": "2026-11-03T14:37:03.711485+00:00",
-  "a564cdf52d974ac8": "2026-11-03T14:37:03.711485+00:00",
-  "d66fe54bdffd0088": "2026-11-03T14:37:03.711485+00:00",
   "2e69d3284b1ea334": "2026-11-03T14:47:00.640300+00:00",
   "e13e67620b619f62": "2026-11-03T14:47:00.640300+00:00",
   "462e0e55c80f5f7c": "2026-11-03T14:57:03.761179+00:00",
@@ -6549,7 +6546,11 @@
   "0abc37fcf016044d": "2026-11-17T14:20:11.187240+00:00",
   "144f4658061ae92b": "2026-11-17T14:20:11.187240+00:00",
   "3bd1c10e2c80a628": "2026-11-17T14:30:11.591337+00:00",
-  "18ab9564d45146b1": "2026-11-17T14:30:11.591337+00:00"
+  "18ab9564d45146b1": "2026-11-17T14:30:11.591337+00:00",
+  "04501f0bf739e6bd": "2026-11-17T14:40:51.026065+00:00",
+  "f9747608308ae553": "2026-11-17T14:40:51.026065+00:00",
+  "a4a0286abeef2b6b": "2026-11-17T14:40:51.026065+00:00",
+  "3b5439e8c59117cc": "2026-11-17T14:40:51.026065+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14353,15 +14354,19 @@
    "first": "2026-11-17T14:20:14.234404+00:00",
    "sources": {
     "GPblog": "2026-11-17T14:10:00+00:00",
-    "Crash.net": "2026-11-17T14:29:22+00:00"
+    "Crash.net": "2026-11-17T14:29:22+00:00",
+    "Motorsport.com Italia": "2026-11-17T14:31:12+00:00",
+    "RacingNews365 NL": "2026-11-17T14:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Wolff reveals which Mercedes driver will receive long-awaited ADUO engine",
-    "Crash.net": "Why George Russell won’t get Mercedes F1 engine upgrade at Las Vegas GP"
+    "Crash.net": "Why George Russell won’t get Mercedes F1 engine upgrade at Las Vegas GP",
+    "Motorsport.com Italia": "F1 | Mercedes spinge ancora: al GP di Las Vegas ecco il turbo con ADUO. Ma lo avrà solo Antonelli",
+    "RacingNews365 NL": "Mercedes bevestigt langverwachte upgrade voor GP Las Vegas"
    },
-   "last": "2026-11-17T14:30:13.854118+00:00"
+   "last": "2026-11-17T14:40:55.115101+00:00"
   },
   "S8248": {
    "title": "Permane comments on Ocon's ending at Haas",
@@ -14375,9 +14380,35 @@
     "FormulaPassion": "Permane: “Ocon è un ragazzo adorabile. Peccato che sia finita così”"
    },
    "last": "2026-11-17T14:20:14.234420+00:00"
+  },
+  "S8249": {
+   "title": "McLaren CEO Brown reflects on 2026 title defence failure",
+   "first": "2026-11-17T14:40:55.115062+00:00",
+   "sources": {
+    "Formula 1": "2026-11-17T14:40:55.115076+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Brown on why McLaren struggled to fight for title in 2026"
+   },
+   "last": "2026-11-17T14:40:55.115080+00:00"
+  },
+  "S8250": {
+   "title": "Harrison leads women's divisional rankings overhaul (non-F1)",
+   "first": "2026-11-17T14:40:55.115085+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T14:38:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Harrison returns to lead overhaul of women's divisional rankings"
+   },
+   "last": "2026-11-17T14:40:55.115091+00:00"
   }
  },
- "story_seq": 8248,
+ "story_seq": 8250,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14496,7 +14527,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T14:30:49.195724+00:00",
+ "last_run": "2026-11-17T14:40:51.026065+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15606,6 +15637,11 @@
    "t": "2026-11-17T14:20:18.725712+00:00",
    "title": "Wolff, ADUO motorunu hangi Mercedes pilotunun kullanacağını açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-17T14:41:00.236949+00:00",
+   "title": "Brown: McLaren 2026'da neden şampiyonluk mücadelesi veremedi",
+   "source": "Formula 1"
   }
  ]
 }
