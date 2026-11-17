@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "282a3e229d93421b": "2026-11-03T18:58:15.890482+00:00",
-  "fd154978ea599789": "2026-11-03T18:58:15.890482+00:00",
-  "f0498dc51bcc58eb": "2026-11-03T18:58:15.890482+00:00",
-  "cb01d27614ff48f0": "2026-11-03T18:58:15.890482+00:00",
-  "0042954ac0ea751d": "2026-11-03T18:58:15.890482+00:00",
   "f251603c003218ba": "2026-11-03T19:08:24.514792+00:00",
   "ec1aea3b88aa2d38": "2026-11-03T19:08:24.514792+00:00",
   "223e9b1b7cbe68f6": "2026-11-03T19:08:24.514792+00:00",
@@ -6560,7 +6555,11 @@
   "38a872f4fcee58d6": "2026-11-17T18:50:50.261163+00:00",
   "5dd6c21252c980a8": "2026-11-17T18:50:50.261163+00:00",
   "4f83aead360add83": "2026-11-17T18:50:50.261163+00:00",
-  "e15bbea1f7506e23": "2026-11-17T18:50:50.261163+00:00"
+  "e15bbea1f7506e23": "2026-11-17T18:50:50.261163+00:00",
+  "b3d6c0766d8c41c5": "2026-11-17T19:00:53.829393+00:00",
+  "328a6c4586547c83": "2026-11-17T19:00:53.829393+00:00",
+  "a4cfb6efbdcd3944": "2026-11-17T19:00:53.829393+00:00",
+  "eee6c858fc95b6ad": "2026-11-17T19:00:53.829393+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6732,71 +6731,6 @@
     "ESPN F1": "Ronaldinho fails to score 300th goal as comeback lasts 45 minutes"
    },
    "last": "2026-11-16T00:55:34.552662+00:00"
-  },
-  "S7731": {
-   "title": "Molly O'Riordan hits a three-pointer",
-   "first": "2026-11-15T18:54:48.940048+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T18:49:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Molly O'Riordan drills the trey"
-   },
-   "last": "2026-11-15T18:54:48.940065+00:00"
-  },
-  "S7732": {
-   "title": "Grace O'Gara hits a long-range three-pointer",
-   "first": "2026-11-15T18:54:48.940070+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T18:49:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Grace O'Gara hits from way downtown"
-   },
-   "last": "2026-11-15T18:54:48.940075+00:00"
-  },
-  "S7733": {
-   "title": "Qadence Samuels hits a three-pointer",
-   "first": "2026-11-15T18:54:48.940078+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T18:49:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Qadence Samuels nails it from behind the arc"
-   },
-   "last": "2026-11-15T18:54:48.940082+00:00"
-  },
-  "S7734": {
-   "title": "Bruno Guimarães on learning from Declan Rice",
-   "first": "2026-11-15T18:54:48.940085+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T14:46:02+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arsenal's Bruno Guimarães: Learning a lot from 'machine' Declan Rice"
-   },
-   "last": "2026-11-15T18:54:48.940088+00:00"
-  },
-  "S7735": {
-   "title": "Liam Lawson's father reacts to his 2027 F1 deal",
-   "first": "2026-11-15T18:54:48.940091+00:00",
-   "sources": {
-    "GPFans": "2026-11-15T18:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Liam Lawson's dad makes emotional admission after Kiwi secures F1 future"
-   },
-   "last": "2026-11-15T18:54:48.940094+00:00"
   },
   "S7736": {
    "title": "Arsenal 1-1 London City match analysis",
@@ -13086,7 +13020,8 @@
     "PlanetF1": "2026-11-17T11:56:21+00:00",
     "GPblog": "2026-11-17T12:01:00+00:00",
     "Motorsport.com Italia": "2026-11-17T15:30:36+00:00",
-    "FormulaPassion": "2026-11-17T15:46:29+00:00"
+    "FormulaPassion": "2026-11-17T15:46:29+00:00",
+    "GPFans": "2026-11-17T18:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13096,9 +13031,10 @@
     "PlanetF1": "Lewis Hamilton to miss Las Vegas Grand Prix FP1 as Ferrari junior steps in",
     "GPblog": "Hamilton to sit out Las Vegas FP1 as Ferrari give Beganovic another chance",
     "Motorsport.com Italia": "F1 | Ferrari: Beganovic in FP1 al posto di Hamilton. Vasseur: \"Sarà importante scaldare le gomme\"",
-    "FormulaPassion": "Beganovic, chance a Las Vegas: guiderà nelle FP1 al posto di Hamilton"
+    "FormulaPassion": "Beganovic, chance a Las Vegas: guiderà nelle FP1 al posto di Hamilton",
+    "GPFans": "Lewis Hamilton replaced as Ferrari announce Las Vegas GP change for FP1"
    },
-   "last": "2026-11-17T16:00:58.033392+00:00"
+   "last": "2026-11-17T19:00:57.797620+00:00"
   },
   "S8208": {
    "title": "F1 discusses 2.1-litre V8 engine concept for 2030",
@@ -14594,9 +14530,48 @@
     "ESPN F1": "Former Iowa State AD calls NIL system 'money laundering'"
    },
    "last": "2026-11-17T18:50:52.914195+00:00"
+  },
+  "S8319": {
+   "title": "India wins 10th SAFF Championship title with second-string team",
+   "first": "2026-11-17T19:00:57.797578+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T17:57:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Moosa Magic: How India's second string won 10th SAFF title"
+   },
+   "last": "2026-11-17T19:00:57.797597+00:00"
+  },
+  "S8320": {
+   "title": "Will Jordan to face England after New Zealand's Wales loss",
+   "first": "2026-11-17T19:00:57.797602+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T13:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Will Jordan to face England as New Zealand look to bounce back from Wales shock"
+   },
+   "last": "2026-11-17T19:00:57.797606+00:00"
+  },
+  "S8321": {
+   "title": "Perez predicts Cadillac improvement once car issues are fixed",
+   "first": "2026-11-17T19:00:57.797610+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T19:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Sergio Perez makes bold prediction once Cadillac fixes car issues"
+   },
+   "last": "2026-11-17T19:00:57.797615+00:00"
   }
  },
- "story_seq": 8318,
+ "story_seq": 8321,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14715,11 +14690,11 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T18:50:50.261163+00:00",
+ "last_run": "2026-11-17T19:00:53.829393+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-17 15:00",
- "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
+ "last_digest_slot": "2026-11-17 22:00",
+ "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
   {
    "t": "2026-11-14T19:11:35.187076+00:00",
@@ -15880,6 +15855,11 @@
    "t": "2026-11-17T18:40:55.518361+00:00",
    "title": "Las Vegas Strip devresi enerji yönetimi açısından F1 için zorlu olacak",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-17T19:01:02.231625+00:00",
+   "title": "Pérez: Cadillac, araç sorunları çözülünce beklentileri aşacak",
+   "source": "RacingNews365"
   }
  ]
 }
