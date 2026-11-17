@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "680dea52ee1d1fbf": "2026-11-03T00:05:04.239330+00:00",
   "f84d03c9b4e72c7f": "2026-11-03T00:25:03.001883+00:00",
   "e182a15f4699ae64": "2026-11-03T00:35:01.999502+00:00",
   "8bba2a972da24888": "2026-11-03T00:45:03.711887+00:00",
@@ -6591,7 +6590,10 @@
   "be207eae017a706a": "2026-11-16T23:48:45.755837+00:00",
   "89e6c0d5d49bd696": "2026-11-16T23:48:45.755837+00:00",
   "ea468b05efae5ed3": "2026-11-16T23:58:46.593473+00:00",
-  "9769e1aa6eae3a53": "2026-11-16T23:58:46.593473+00:00"
+  "9769e1aa6eae3a53": "2026-11-16T23:58:46.593473+00:00",
+  "c0fb83b8ff0b96a5": "2026-11-17T00:08:47.297772+00:00",
+  "003d9ff56cdfb5d1": "2026-11-17T00:08:47.297772+00:00",
+  "6db2f0290edc599b": "2026-11-17T00:08:47.297772+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6772,32 +6774,6 @@
     "ESPN F1": "Inside Darian Mensah's huge performance in Miami's win over Duke"
    },
    "last": "2026-11-15T04:02:54.830250+00:00"
-  },
-  "S7551": {
-   "title": "Gabby Reynolds hits a three-pointer",
-   "first": "2026-11-15T00:02:07.064314+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T22:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Gabby Reynolds drills the trey"
-   },
-   "last": "2026-11-15T00:02:07.064332+00:00"
-  },
-  "S7552": {
-   "title": "Central Michigan 68-57 Northern Kentucky final score",
-   "first": "2026-11-15T00:02:07.064336+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T20:39:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Central Michigan 68-57 Northern Kentucky (Nov 14, 2026) Final Score"
-   },
-   "last": "2026-11-15T00:02:07.064340+00:00"
   },
   "S7553": {
    "title": "Portugal 1-4 Denmark final score",
@@ -13963,9 +13939,48 @@
     "ESPN F1": "Baba Oladotun throws down the hammer"
    },
    "last": "2026-11-16T23:58:48.920151+00:00"
+  },
+  "S8092": {
+   "title": "Switzerland 4-0 Scotland football match analysis",
+   "first": "2026-11-17T00:08:49.660856+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T23:02:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Switzerland 4-0 Scotland (16 Nov, 2026) Game Analysis"
+   },
+   "last": "2026-11-17T00:08:49.660877+00:00"
+  },
+  "S8093": {
+   "title": "Piastri addresses F1 2025 hangover amid McLaren struggles",
+   "first": "2026-11-17T00:08:49.660882+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-17T00:02:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri addresses F1 2025 hangover as McLaren struggles continue"
+   },
+   "last": "2026-11-17T00:08:49.660886+00:00"
+  },
+  "S8094": {
+   "title": "Analysis of Piastri's winless 2026 season",
+   "first": "2026-11-17T00:08:49.660889+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T00:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Oscar Piastri’s winless 2026: what has kept the breakthrough out of reach?"
+   },
+   "last": "2026-11-17T00:08:49.660893+00:00"
   }
  },
- "story_seq": 8091,
+ "story_seq": 8094,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14084,7 +14099,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-16T23:58:46.593473+00:00",
+ "last_run": "2026-11-17T00:08:47.297772+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15169,6 +15184,11 @@
    "t": "2026-11-16T21:48:16.889557+00:00",
    "title": "Lando Norris'in LN4 Fusion takımı Oliver Goethe'yi 2027 F2 sezonu için kadrosuna kattı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-17T00:08:54.948261+00:00",
+   "title": "Oscar Piastri'nin 2026'da galibiyetsiz kalmasının nedenleri",
+   "source": "GPblog"
   }
  ]
 }
