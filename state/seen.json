@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6cf9fc4e37d3c00f": "2026-11-03T03:16:22.465071+00:00",
   "dbf78d9ddbff24d8": "2026-11-03T03:25:42.407814+00:00",
   "c0b6b4830a489174": "2026-11-03T03:25:42.407814+00:00",
   "17a4683103f2b178": "2026-11-03T03:25:42.407814+00:00",
@@ -6604,7 +6603,10 @@
   "77daf6e0f10c400f": "2026-11-17T02:58:45.184460+00:00",
   "2995be8db1d90dea": "2026-11-17T02:58:45.184460+00:00",
   "0e1c787767830bea": "2026-11-17T02:58:45.184460+00:00",
-  "0e49398b92261af8": "2026-11-17T03:08:44.757481+00:00"
+  "0e49398b92261af8": "2026-11-17T03:08:44.757481+00:00",
+  "72a3d955b58ca46a": "2026-11-17T03:18:43.977510+00:00",
+  "92f75f4fcbc7fc08": "2026-11-17T03:18:43.977510+00:00",
+  "e4fb3358fc72fdc8": "2026-11-17T03:18:43.977510+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6786,19 +6788,6 @@
    },
    "last": "2026-11-15T04:02:54.830250+00:00"
   },
-  "S7579": {
-   "title": "Nuggets 116-108 Pelicans game recap",
-   "first": "2026-11-15T03:12:55.100340+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T03:11:22+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nuggets 116-108 Pelicans (Nov 14, 2026) Game Recap"
-   },
-   "last": "2026-11-15T03:12:55.100357+00:00"
-  },
   "S7580": {
    "title": "Oilers 1-0 Maple Leafs game recap",
    "first": "2026-11-15T03:12:55.100363+00:00",
@@ -6811,32 +6800,6 @@
     "ESPN F1": "Oilers 1-0 Maple Leafs (Nov 14, 2026) Game Recap"
    },
    "last": "2026-11-15T03:52:57.425487+00:00"
-  },
-  "S7581": {
-   "title": "Bam Adebayo block highlight",
-   "first": "2026-11-15T03:12:55.100373+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T02:45:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bam Adebayo elevates for the big-time block"
-   },
-   "last": "2026-11-15T03:12:55.100378+00:00"
-  },
-  "S7582": {
-   "title": "USMNT player ratings after win over Haiti",
-   "first": "2026-11-15T03:12:55.100381+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T23:55:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USMNT player ratings: Christian Pulisic earns 9/10 for brace in win over Haiti"
-   },
-   "last": "2026-11-15T03:12:55.100385+00:00"
   },
   "S7583": {
    "title": "Grant Wilson delivers as Indiana beats USC, boosting CFP hopes",
@@ -13903,14 +13866,14 @@
    "title": "Iona Gaels vs. UMBC Retrievers game highlights",
    "first": "2026-11-17T01:38:46.277317+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T01:05:37+00:00"
+    "ESPN F1": "2026-11-17T00:01:59+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Iona Gaels vs. UMBC Retrievers: Game Highlights"
    },
-   "last": "2026-11-17T01:38:46.277319+00:00"
+   "last": "2026-11-17T03:18:46.545979+00:00"
   },
   "S8115": {
    "title": "Andrew Osasuyi slam dunk vs. Jacksonville Dolphins",
@@ -14119,9 +14082,35 @@
     "ESPN F1": "Jamal Murray throws down the hammer"
    },
    "last": "2026-11-17T03:08:46.281336+00:00"
+  },
+  "S8131": {
+   "title": "Imani Daniel gets the and-1 in basketball play",
+   "first": "2026-11-17T03:18:46.545942+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T02:05:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Imani Daniel gets the and-1"
+   },
+   "last": "2026-11-17T03:18:46.545964+00:00"
+  },
+  "S8132": {
+   "title": "Josh Hayes fights off defender for and-1 basketball play",
+   "first": "2026-11-17T03:18:46.545969+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:49:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Josh Hayes fights off defender for and-1"
+   },
+   "last": "2026-11-17T03:18:46.545973+00:00"
   }
  },
- "story_seq": 8130,
+ "story_seq": 8132,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14240,17 +14229,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T03:08:44.757481+00:00",
+ "last_run": "2026-11-17T03:18:43.977510+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T03:09:09.974383+00:00",
-   "title": "Massa: Ferrari'de bir şeyler yolunda değil",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-14T03:39:11.179463+00:00",
    "title": "Konstas, öğrenme sürecinin ardından Test kadrosuna geri çağrılmasını istiyor",
