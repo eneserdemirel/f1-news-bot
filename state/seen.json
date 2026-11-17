@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "de0468712f09690b": "2026-11-03T09:26:17.517646+00:00",
-  "f6aab48e6b2f7386": "2026-11-03T09:26:17.517646+00:00",
-  "cf84570e6509b494": "2026-11-03T09:26:17.517646+00:00",
-  "a3fe2dc51702036d": "2026-11-03T09:26:17.517646+00:00",
-  "4dc5814c1d5e0696": "2026-11-03T09:26:17.517646+00:00",
-  "07b37488ddf88477": "2026-11-03T09:26:17.517646+00:00",
   "d95a988445c83134": "2026-11-03T09:36:18.920265+00:00",
   "5816aa85817b790d": "2026-11-03T09:36:18.920265+00:00",
   "0018174da7666dac": "2026-11-03T09:36:18.920265+00:00",
@@ -6586,7 +6580,9 @@
   "3090f570a4e2d10f": "2026-11-17T09:19:32.266465+00:00",
   "441425a15da5a2ae": "2026-11-17T09:19:32.266465+00:00",
   "b96a125d43d7a802": "2026-11-17T09:19:32.266465+00:00",
-  "f703642965d32e5a": "2026-11-17T09:19:32.266465+00:00"
+  "f703642965d32e5a": "2026-11-17T09:19:32.266465+00:00",
+  "4e29f0568a8e79c6": "2026-11-17T09:30:12.520664+00:00",
+  "122a31313ef1e8e5": "2026-11-17T09:30:12.520664+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6811,19 +6807,6 @@
    },
    "last": "2026-11-15T15:44:48.091446+00:00"
   },
-  "S7627": {
-   "title": "Arch Manning leads game-winning drive as Texas stuns LSU",
-   "first": "2026-11-15T08:13:34.043842+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T04:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arch Manning leads game-winning drive as Texas stuns LSU"
-   },
-   "last": "2026-11-15T09:23:37.836316+00:00"
-  },
   "S7630": {
    "title": "Former Liberty boss predicts F1 could be delisted within two years",
    "first": "2026-11-15T08:43:36.970165+00:00",
@@ -6864,19 +6847,6 @@
     "GPblog": "Banned F1 journalist claims Toto Wolff tried to have him barred 'for life'"
    },
    "last": "2026-11-15T12:34:39.090878+00:00"
-  },
-  "S7639": {
-   "title": "McLaren highlights Norris's wet-weather trait after Brazil",
-   "first": "2026-11-15T09:23:37.836333+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-15T09:15:57+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "McLaren highlights key trait that places Lando Norris among F1’s elite"
-   },
-   "last": "2026-11-15T09:23:37.836338+00:00"
   },
   "S7640": {
    "title": "Turkey's track revamp ahead of F1 return",
@@ -14247,9 +14217,35 @@
     "Gazzetta dello Sport": "Le missioni di Antonelli: superare un record storico di Hamilton e aiutare Russell"
    },
    "last": "2026-11-17T09:09:35.738023+00:00"
+  },
+  "S8194": {
+   "title": "Chargers relieved after first win of season over Ravens",
+   "first": "2026-11-17T09:30:16.186237+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T06:39:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chargers relieved after beating Ravens for first win of season"
+   },
+   "last": "2026-11-17T09:30:16.186254+00:00"
+  },
+  "S8195": {
+   "title": "Cadillac F1 sale to Fensway Sports Group with Keselowski veto",
+   "first": "2026-11-17T09:30:16.186277+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-17T09:10:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "cadillac-verkauf-fensway-sports-group-keselowski-veto"
+   },
+   "last": "2026-11-17T09:30:16.186284+00:00"
   }
  },
- "story_seq": 8193,
+ "story_seq": 8195,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14368,7 +14364,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T09:20:13.353671+00:00",
+ "last_run": "2026-11-17T09:30:12.520664+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15468,6 +15464,11 @@
    "t": "2026-11-17T09:09:43.394107+00:00",
    "title": "Albon: Williams 2027 aracında 'temel' sorunlara odaklanıyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T09:30:19.285943+00:00",
+   "title": "Cadillac, Fensway Sports Group'a satılıyor mu? Keselowski veto ihtimali",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
