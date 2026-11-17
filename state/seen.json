@@ -1,16 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aa0c87aac6f4d5d1": "2026-11-03T20:58:15.687664+00:00",
-  "7b293917b7be26da": "2026-11-03T20:58:15.687664+00:00",
-  "3575c0348090ea22": "2026-11-03T20:58:15.687664+00:00",
-  "72bf5f593650d152": "2026-11-03T20:58:15.687664+00:00",
-  "c43d6f7d3b36de8b": "2026-11-03T20:58:15.687664+00:00",
-  "53858e4312b3f592": "2026-11-03T20:58:15.687664+00:00",
-  "ea9b1cc28820a8a2": "2026-11-03T20:58:15.687664+00:00",
-  "bd267fd6f3b8c366": "2026-11-03T20:58:15.687664+00:00",
-  "eb9d2e625daa3783": "2026-11-03T20:58:15.687664+00:00",
-  "4e910a8332ef1d83": "2026-11-03T20:58:15.687664+00:00",
   "080858acc892975c": "2026-11-03T21:08:19.737152+00:00",
   "bc4f875b3374e2ab": "2026-11-03T21:08:19.737152+00:00",
   "89ae2660e09ad3d1": "2026-11-03T21:18:18.891044+00:00",
@@ -6538,7 +6528,9 @@
   "361a15ce98ff2a99": "2026-11-17T20:31:28.318496+00:00",
   "a012954947d53ce7": "2026-11-17T20:41:27.486468+00:00",
   "c8f320e0a99727b5": "2026-11-17T20:41:27.486468+00:00",
-  "8f133eba861acfa0": "2026-11-17T20:41:27.486468+00:00"
+  "8f133eba861acfa0": "2026-11-17T20:41:27.486468+00:00",
+  "036d162db512143f": "2026-11-17T21:01:30.477525+00:00",
+  "f57703433ead6c81": "2026-11-17T21:01:30.477525+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6693,45 +6685,6 @@
     "ESPN F1": "LeBron James gets up for alley-oop slam vs. Indiana Pacers"
    },
    "last": "2026-11-15T21:25:34.366970+00:00"
-  },
-  "S7754": {
-   "title": "New Hampshire vs. Boston College game highlights",
-   "first": "2026-11-15T20:54:48.331663+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T20:44:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "New Hampshire Wildcats vs. Boston College Eagles: Game Highlights"
-   },
-   "last": "2026-11-15T20:54:48.331680+00:00"
-  },
-  "S7755": {
-   "title": "Chloe Kitts pass for South Carolina bucket",
-   "first": "2026-11-15T20:54:48.331685+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T20:43:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chloe Kitts makes a great pass for a South Carolina bucket"
-   },
-   "last": "2026-11-15T20:54:48.331689+00:00"
-  },
-  "S7756": {
-   "title": "Steiner gives take on Piastri-Webber management split",
-   "first": "2026-11-15T20:54:48.331693+00:00",
-   "sources": {
-    "GPFans": "2026-11-15T20:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Oscar Piastri split takes fresh twist as F1 boss makes Mark Webber claim"
-   },
-   "last": "2026-11-15T20:54:48.331698+00:00"
   },
   "S7757": {
    "title": "Texans RB Woody Marks suffers concussion vs. Browns",
@@ -14444,9 +14397,35 @@
     "ESPN F1": "Hungary vs. N Ireland (Nov 17, 2026) Team Stats"
    },
    "last": "2026-11-17T20:41:29.082786+00:00"
+  },
+  "S8333": {
+   "title": "Wolff says Antonelli could become more popular in Italy than Schumacher",
+   "first": "2026-11-17T21:01:32.501451+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T21:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Wolff firmly believes Antonelli can become bigger than Schumacher in Italy"
+   },
+   "last": "2026-11-17T21:01:32.501468+00:00"
+  },
+  "S8334": {
+   "title": "Piastri told to become Norris's wingman to secure McLaren future",
+   "first": "2026-11-17T21:01:32.501474+00:00",
+   "sources": {
+    "GPFans": "2026-11-17T20:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Oscar Piastri told to become ‘Lando's wingman’ to secure McLaren future"
+   },
+   "last": "2026-11-17T21:01:32.501480+00:00"
   }
  },
- "story_seq": 8332,
+ "story_seq": 8334,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14565,17 +14544,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T20:51:25.506345+00:00",
+ "last_run": "2026-11-17T21:01:30.477525+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T20:52:11.716670+00:00",
-   "title": "Piastri, Norris'in doğum gününde 'gizli sırrını' ifşa etti",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-14T21:02:18.949491+00:00",
    "title": "Ecclestone, FIA'nın F1 gazetecisi yasağını \"tamamen çılgınca\" buldu",
@@ -15725,6 +15699,16 @@
    "t": "2026-11-17T19:20:56.533400+00:00",
    "title": "Ferrari, Hamilton ve Leclerc arasındaki rekabet 2027 için ikilemde",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T21:01:37.983549+00:00",
+   "title": "Piastri'ye McLaren'da kalmak için Norris'in 'wingman'i olma çağrısı",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-17T21:01:38.483947+00:00",
+   "title": "Wolff: Antonelli, İtalya'da Schumacher'den daha büyük olabilir",
+   "source": "GPblog"
   }
  ]
 }
