@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fcddefae1e7d3da5": "2026-11-03T12:37:00.566104+00:00",
   "1378094655242a77": "2026-11-03T12:47:02.799687+00:00",
   "7c63fe5a476e534c": "2026-11-03T12:47:02.799687+00:00",
   "c7a9e264886355c1": "2026-11-03T12:57:02.758504+00:00",
@@ -6562,7 +6561,12 @@
   "b6d662f92430d220": "2026-11-17T12:10:11.529158+00:00",
   "69b0652976fd8cb2": "2026-11-17T12:20:24.858878+00:00",
   "a6db84a7b1c619ea": "2026-11-17T12:30:11.856162+00:00",
-  "5142e7c554b5f4b4": "2026-11-17T12:30:11.856162+00:00"
+  "5142e7c554b5f4b4": "2026-11-17T12:30:11.856162+00:00",
+  "838a8c5082b06e73": "2026-11-17T12:40:14.777217+00:00",
+  "194d90fc18375f6a": "2026-11-17T12:40:14.777217+00:00",
+  "eca8891a9bf4872b": "2026-11-17T12:40:14.777217+00:00",
+  "1ba47af8afab5896": "2026-11-17T12:40:14.777217+00:00",
+  "4a0bc4f4e42aa87d": "2026-11-17T12:40:14.777217+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6699,19 +6703,6 @@
    },
    "last": "2026-11-15T17:34:47.729667+00:00"
   },
-  "S7622": {
-   "title": "Why Ferrari must resist calls to make Hamilton number one",
-   "first": "2026-11-15T07:33:35.503997+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T07:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Why Ferrari must resist calls to make Hamilton their number one"
-   },
-   "last": "2026-11-15T12:34:39.090870+00:00"
-  },
   "S7624": {
    "title": "Russell's 15-month career test compared to Rosberg and Ricciardo",
    "first": "2026-11-15T07:53:38.694819+00:00",
@@ -6741,19 +6732,6 @@
     "RacingNews365 NL": "Norris deelt belangrijkste les na mislukte titelverdediging in F1"
    },
    "last": "2026-11-15T15:44:48.091446+00:00"
-  },
-  "S7636": {
-   "title": "Banned journalist claims Wolff sought lifetime paddock ban",
-   "first": "2026-11-15T09:03:39.302819+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T09:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Banned F1 journalist claims Toto Wolff tried to have him barred 'for life'"
-   },
-   "last": "2026-11-15T12:34:39.090878+00:00"
   },
   "S7640": {
    "title": "Turkey's track revamp ahead of F1 return",
@@ -6791,19 +6769,6 @@
    },
    "last": "2026-11-15T14:04:19.082745+00:00"
   },
-  "S7645": {
-   "title": "Wolff says Hamilton and Verstappen lifting Antonelli will be remembered",
-   "first": "2026-11-15T10:33:37.824327+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Wolff sees F1 history in Hamilton and Verstappen's unforgettable podium moment"
-   },
-   "last": "2026-11-15T12:34:39.090874+00:00"
-  },
   "S7649": {
    "title": "Mercedes predicts major downforce loss for 2027 F1 cars",
    "first": "2026-11-15T10:54:19.055588+00:00",
@@ -6832,34 +6797,6 @@
    },
    "last": "2026-11-15T15:44:48.091467+00:00"
   },
-  "S7658": {
-   "title": "Rosberg claims Hamilton feared Mercedes conspiracy during title fight",
-   "first": "2026-11-15T12:04:16.273139+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T12:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Rosberg claims Hamilton feared conspiracy during bitter F1 title fight"
-   },
-   "last": "2026-11-15T12:34:39.090862+00:00"
-  },
-  "S7659": {
-   "title": "Las Vegas GP dates and full 2026 schedule guide",
-   "first": "2026-11-15T12:04:16.273167+00:00",
-   "sources": {
-    "Crash.net": "2026-11-15T12:00:00+00:00",
-    "GPblog": "2026-11-15T11:46:12+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "What time is the next F1 race? Las Vegas GP dates and full schedule",
-    "GPblog": "Formula 1 Las Vegas GP 2026: All session times and full weekend schedule"
-   },
-   "last": "2026-11-15T12:34:39.090866+00:00"
-  },
   "S7661": {
    "title": "Former Liberty Media boss tips F1 for imminent sale",
    "first": "2026-11-15T12:24:20.466647+00:00",
@@ -6887,19 +6824,6 @@
     "ESPN F1": "Rory McIlroy wins season-long Race to Dubai title for record-tying 8th time"
    },
    "last": "2026-11-15T15:14:16.758976+00:00"
-  },
-  "S7663": {
-   "title": "Allison reveals potential reason for Mercedes' dominant start",
-   "first": "2026-11-15T12:34:39.090881+00:00",
-   "sources": {
-    "GPFans": "2026-11-15T12:33:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "James Allison exposes Mercedes advantage that F1 rivals couldn't match"
-   },
-   "last": "2026-11-15T12:34:39.090884+00:00"
   },
   "S7664": {
    "title": "ESPN predicts which teams make the College Football Playoff",
@@ -14270,14 +14194,18 @@
    "title": "Motorsport-Total says Vasseur is 'simply overwhelmed' at Ferrari",
    "first": "2026-11-17T11:30:15.579310+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-17T11:22:04+00:00"
+    "Motorsport-Total": "2026-11-17T11:22:04+00:00",
+    "GPFans": "2026-11-17T12:37:00+00:00",
+    "Crash.net": "2026-11-17T12:30:10+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Scharfe Kritik: Frederic Vasseur ist bei Ferrari \"schlichtweg überfordert\" - Motorsport-Total.com"
+    "Motorsport-Total": "Scharfe Kritik: Frederic Vasseur ist bei Ferrari \"schlichtweg überfordert\" - Motorsport-Total.com",
+    "GPFans": "Lewis Hamilton's boss 'overwhelmed' as Ferrari leadership questioned",
+    "Crash.net": "Ferrari boss Fred Vasseur “overwhelmed” by job claims Bernie Ecclestone"
    },
-   "last": "2026-11-17T11:30:15.579314+00:00"
+   "last": "2026-11-17T12:40:20.566201+00:00"
   },
   "S8218": {
    "title": "Pundits say Verstappen can win in Las Vegas",
@@ -14369,9 +14297,48 @@
     "PlanetF1": "Meet Mercedes’ quiet owner: The billionaire racing driver involved in the team’s latest success"
    },
    "last": "2026-11-17T12:30:14.526177+00:00"
+  },
+  "S8225": {
+   "title": "Iraola goes viral at grassroots football game",
+   "first": "2026-11-17T12:40:20.566153+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:21:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "'Down-to-earth fella' Iraola goes viral at grassroots game"
+   },
+   "last": "2026-11-17T12:40:20.566171+00:00"
+  },
+  "S8226": {
+   "title": "NBA first-month review of all 30 teams",
+   "first": "2026-11-17T12:40:20.566177+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:05:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What the NBA's first month has revealed about all 30 teams"
+   },
+   "last": "2026-11-17T12:40:20.566182+00:00"
+  },
+  "S8227": {
+   "title": "FIA considers changing F1 speed limit rule for 2027",
+   "first": "2026-11-17T12:40:20.566186+00:00",
+   "sources": {
+    "The Race": "2026-11-17T12:34:58+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1's 'stupid' speed limit to change in 2027? What you need to know"
+   },
+   "last": "2026-11-17T12:40:20.566191+00:00"
   }
  },
- "story_seq": 8224,
+ "story_seq": 8227,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14490,17 +14457,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T12:30:11.856162+00:00",
+ "last_run": "2026-11-17T12:40:14.777217+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T12:30:47.881200+00:00",
-   "title": "Hamilton'a Ferrari eleştirisi: \"Schumacher asla böyle yapmadı\"",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-14T12:50:47.627235+00:00",
    "title": "Audi'den Hülkenberg'in cezasına ilişkin açıklama: \"Çok tartışmalı bir durum\"",
@@ -15580,6 +15542,11 @@
    "t": "2026-11-17T12:30:18.200808+00:00",
    "title": "George Kurtz: Mercedes'in sessiz sahibi ve yarış pilotu",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T12:40:24.081848+00:00",
+   "title": "F1'in 'aptalca' hız sınırı 2027'de değişecek mi?",
+   "source": "The Race"
   }
  ]
 }
