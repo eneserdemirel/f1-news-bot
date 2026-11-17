@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fdaab2e098e47be2": "2026-11-03T14:27:02.184934+00:00",
-  "7ac69affd5650305": "2026-11-03T14:27:02.184934+00:00",
-  "533a2b9fa32e49a0": "2026-11-03T14:27:02.184934+00:00",
-  "a9d359f4cae3842d": "2026-11-03T14:27:02.184934+00:00",
-  "9b5bc39ed1efab6b": "2026-11-03T14:27:02.184934+00:00",
   "a0a731fdbf807ec1": "2026-11-03T14:37:03.711485+00:00",
   "a564cdf52d974ac8": "2026-11-03T14:37:03.711485+00:00",
   "d66fe54bdffd0088": "2026-11-03T14:37:03.711485+00:00",
@@ -6552,7 +6547,9 @@
   "ad42a732b4151b7a": "2026-11-17T14:10:13.575624+00:00",
   "e21b084e3d1b8ea7": "2026-11-17T14:20:11.187240+00:00",
   "0abc37fcf016044d": "2026-11-17T14:20:11.187240+00:00",
-  "144f4658061ae92b": "2026-11-17T14:20:11.187240+00:00"
+  "144f4658061ae92b": "2026-11-17T14:20:11.187240+00:00",
+  "3bd1c10e2c80a628": "2026-11-17T14:30:11.591337+00:00",
+  "18ab9564d45146b1": "2026-11-17T14:30:11.591337+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6847,19 +6844,6 @@
     "Motorsport Week": "Ferrari boss reveals details of crunch Lewis Hamilton and Charles Leclerc talks"
    },
    "last": "2026-11-15T19:04:50.085634+00:00"
-  },
-  "S7683": {
-   "title": "Arsenal reportedly eye former Tottenham striker Will Lankshear",
-   "first": "2026-11-15T14:24:15.384381+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T10:28:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Transfer rumors, news: Arsenal eye former Tottenham striker Will Lankshear"
-   },
-   "last": "2026-11-15T14:24:15.384400+00:00"
   },
   "S7684": {
    "title": "Colton Herta comments on European racing season amid Cadillac rumours",
@@ -13327,14 +13311,16 @@
    "title": "George Russell defends himself after losing F1 title to Antonelli",
    "first": "2026-11-17T07:29:32.848168+00:00",
    "sources": {
-    "RacingNews365": "2026-11-17T07:20:00+00:00"
+    "RacingNews365": "2026-11-17T07:20:00+00:00",
+    "GPFans": "2026-11-17T14:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "George Russell issues stern defence after crushing F1 title defeat"
+    "RacingNews365": "George Russell issues stern defence after crushing F1 title defeat",
+    "GPFans": "George Russell hits back after Kimi Antonelli title humiliation"
    },
-   "last": "2026-11-17T07:29:32.848178+00:00"
+   "last": "2026-11-17T14:30:13.854107+00:00"
   },
   "S8171": {
    "title": "Pelicans 115-94 Warriors NBA game recap",
@@ -14366,14 +14352,16 @@
    "title": "Mercedes to bring updated turbo spec to Las Vegas, Russell unlikely to use it",
    "first": "2026-11-17T14:20:14.234404+00:00",
    "sources": {
-    "GPblog": "2026-11-17T14:10:00+00:00"
+    "GPblog": "2026-11-17T14:10:00+00:00",
+    "Crash.net": "2026-11-17T14:29:22+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Wolff reveals which Mercedes driver will receive long-awaited ADUO engine"
+    "GPblog": "Wolff reveals which Mercedes driver will receive long-awaited ADUO engine",
+    "Crash.net": "Why George Russell won’t get Mercedes F1 engine upgrade at Las Vegas GP"
    },
-   "last": "2026-11-17T14:20:14.234410+00:00"
+   "last": "2026-11-17T14:30:13.854118+00:00"
   },
   "S8248": {
    "title": "Permane comments on Ocon's ending at Haas",
@@ -14508,7 +14496,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T14:20:11.187240+00:00",
+ "last_run": "2026-11-17T14:30:11.591337+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
