@@ -1,15 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "771b5f5c779f1ac8": "2026-11-03T13:07:04.014548+00:00",
-  "2fc4cf5f30062354": "2026-11-03T13:07:04.014548+00:00",
-  "db7ccffb43b0e2ce": "2026-11-03T13:07:04.014548+00:00",
-  "b92aa55ee578eeb7": "2026-11-03T13:07:04.014548+00:00",
-  "b9fe5da4dec1b919": "2026-11-03T13:07:04.014548+00:00",
-  "86941a64aa7cb40c": "2026-11-03T13:07:04.014548+00:00",
-  "c62598aa58c2e39f": "2026-11-03T13:07:04.014548+00:00",
-  "41e3054728b6e199": "2026-11-03T13:07:04.014548+00:00",
-  "83566673f5575e00": "2026-11-03T13:07:04.014548+00:00",
   "210d48768bbb9e0c": "2026-11-03T13:17:02.499251+00:00",
   "942f31f55df99707": "2026-11-03T13:17:02.499251+00:00",
   "1d72be5853613317": "2026-11-03T13:17:02.499251+00:00",
@@ -6570,7 +6561,8 @@
   "8cc4ddc1a2661d7c": "2026-11-17T13:00:14.560810+00:00",
   "06626c1fd33c05a4": "2026-11-17T13:00:14.560810+00:00",
   "544b02ebc0a60703": "2026-11-17T13:00:14.560810+00:00",
-  "3ebb89d51f9360b4": "2026-11-17T13:00:14.560810+00:00"
+  "3ebb89d51f9360b4": "2026-11-17T13:00:14.560810+00:00",
+  "b5a768c505f28839": "2026-11-17T13:10:12.301853+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6828,19 +6820,6 @@
     "ESPN F1": "Rory McIlroy wins season-long Race to Dubai title for record-tying 8th time"
    },
    "last": "2026-11-15T15:14:16.758976+00:00"
-  },
-  "S7666": {
-   "title": "ESPN NFL head coach pressure in Week 11",
-   "first": "2026-11-15T13:04:15.998240+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T07:32:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Patience starting to run thin for head coaches in Week 11"
-   },
-   "last": "2026-11-15T13:04:15.998259+00:00"
   },
   "S7667": {
    "title": "Retrospective on Red Bull buying Jaguar F1 team for $1",
@@ -14381,9 +14360,22 @@
     "RacingNews365": "Max Verstappen response to hilarious Red Bull radio: 'He doesn't speak English'"
    },
    "last": "2026-11-17T13:00:17.850509+00:00"
+  },
+  "S8233": {
+   "title": "Zak Brown says McLaren does not tolerate excuses or blame-shifting",
+   "first": "2026-11-17T13:10:14.325321+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Brown heeft lak aan excuses: \"Bullshit is niet welkom bij McLaren\""
+   },
+   "last": "2026-11-17T13:10:14.325339+00:00"
   }
  },
- "story_seq": 8232,
+ "story_seq": 8233,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14502,7 +14494,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T13:00:14.560810+00:00",
+ "last_run": "2026-11-17T13:10:12.301853+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15597,6 +15589,11 @@
    "t": "2026-11-17T13:00:22.030381+00:00",
    "title": "Verstappen, telsizde motoruna konuştuğu için güldürdü",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T13:10:19.545147+00:00",
+   "title": "Zak Brown: Andrea Stella'yı istedim, 'bullshit' McLaren'da kabul görmez",
+   "source": "RacingNews365 NL"
   }
  ]
 }
