@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9778470326a47e5a": "2026-11-03T01:15:50.998090+00:00",
-  "889cae6deaa7689c": "2026-11-03T01:15:50.998090+00:00",
   "9028b34fdeca35d6": "2026-11-03T01:45:40.429088+00:00",
   "0d2fd4166e5729ca": "2026-11-03T01:45:40.429088+00:00",
   "75bad4869e8125ad": "2026-11-03T01:55:45.951207+00:00",
@@ -6589,7 +6587,15 @@
   "f29705de0d3bbc8c": "2026-11-17T00:58:45.066873+00:00",
   "2db0df5dc7377ef1": "2026-11-17T00:58:45.066873+00:00",
   "9d3fbdd460b012d0": "2026-11-17T01:08:46.328004+00:00",
-  "6649dab0c86a8802": "2026-11-17T01:08:46.328004+00:00"
+  "6649dab0c86a8802": "2026-11-17T01:08:46.328004+00:00",
+  "992d8f64f74b088a": "2026-11-17T01:18:43.484115+00:00",
+  "84c08ee00e7ee0b3": "2026-11-17T01:18:43.484115+00:00",
+  "d6b2f99b2a3ac543": "2026-11-17T01:18:43.484115+00:00",
+  "fa027c10535adb6e": "2026-11-17T01:18:43.484115+00:00",
+  "63f8a8f0419dd675": "2026-11-17T01:18:43.484115+00:00",
+  "4132c43759dce117": "2026-11-17T01:18:43.484115+00:00",
+  "7a75a82589068fd9": "2026-11-17T01:18:43.484115+00:00",
+  "69317ac087e4c662": "2026-11-17T01:18:43.484115+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6783,19 +6789,6 @@
     "ESPN F1": "Mavericks vs. Cavaliers (15 Nov, 2026) Live Score"
    },
    "last": "2026-11-15T02:22:51.323995+00:00"
-  },
-  "S7562": {
-   "title": "Haiti 0-6 USA team stats (Nov 14, 2026)",
-   "first": "2026-11-15T01:12:53.213081+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T21:46:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Haiti 0-6 USA (Nov 14, 2026) Team Stats"
-   },
-   "last": "2026-11-15T01:12:53.213101+00:00"
   },
   "S7563": {
    "title": "Cavaliers without starting five vs. Mavericks after flight delay",
@@ -14000,9 +13993,74 @@
     "ESPN F1": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows"
    },
    "last": "2026-11-17T01:08:48.431050+00:00"
+  },
+  "S8105": {
+   "title": "Klopp says nobody questioning Germany after Dutch rout",
+   "first": "2026-11-17T01:18:46.647411+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T00:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch"
+   },
+   "last": "2026-11-17T01:18:46.647433+00:00"
+  },
+  "S8106": {
+   "title": "Bears RB Kyle Monangai on track to return Sunday",
+   "first": "2026-11-17T01:18:46.647437+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T23:05:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints"
+   },
+   "last": "2026-11-17T01:18:46.647442+00:00"
+  },
+  "S8107": {
+   "title": "Luke Littler advances at Grand Slam of Darts with checkout",
+   "first": "2026-11-17T01:18:46.647444+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T22:04:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luke Littler lands incredible triple-bull checkout, advances at Grand Slam of Darts"
+   },
+   "last": "2026-11-17T01:18:46.647448+00:00"
+  },
+  "S8108": {
+   "title": "Rivers says NC State only college job he would have taken",
+   "first": "2026-11-17T01:18:46.647451+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T21:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rivers says NC State only college job he would have taken"
+   },
+   "last": "2026-11-17T01:18:46.647454+00:00"
+  },
+  "S8109": {
+   "title": "Macdonald optimistic Sam Darnold returns after bye week",
+   "first": "2026-11-17T01:18:46.647456+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-16T21:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week"
+   },
+   "last": "2026-11-17T01:18:46.647459+00:00"
   }
  },
- "story_seq": 8104,
+ "story_seq": 8109,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14121,7 +14179,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T01:08:46.328004+00:00",
+ "last_run": "2026-11-17T01:18:43.484115+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
