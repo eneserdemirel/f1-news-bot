@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4056ccf1f556321e": "2026-11-03T18:28:23.898534+00:00",
-  "fbda5eac4fd495bf": "2026-11-03T18:28:23.898534+00:00",
   "1f9c8f6ba8061666": "2026-11-03T18:38:16.837045+00:00",
   "fe51cbf4715b9dc0": "2026-11-03T18:38:16.837045+00:00",
   "515f6bc965124a29": "2026-11-03T18:38:16.837045+00:00",
@@ -6560,7 +6558,9 @@
   "7f509acdcb284352": "2026-11-17T18:20:50.458518+00:00",
   "7c8e32e0a57134fb": "2026-11-17T18:20:50.458518+00:00",
   "827210cdac4a6adb": "2026-11-17T18:20:50.458518+00:00",
-  "f30b33410fc7e7e3": "2026-11-17T18:20:50.458518+00:00"
+  "f30b33410fc7e7e3": "2026-11-17T18:20:50.458518+00:00",
+  "93215aa83352154d": "2026-11-17T18:30:49.347482+00:00",
+  "baf241629648ed85": "2026-11-17T18:30:49.347482+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6720,19 +6720,6 @@
    },
    "last": "2026-11-15T19:24:45.968135+00:00"
   },
-  "S7726": {
-   "title": "Rob Cross darts average at Grand Slam",
-   "first": "2026-11-15T18:24:55.736976+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T18:23:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rob Cross hits stunning 114.32 average as Jonny Clayton exits Grand Slam"
-   },
-   "last": "2026-11-15T18:24:55.736994+00:00"
-  },
   "S7727": {
    "title": "Ronaldinho fails to score 300th goal in Ravenna comeback",
    "first": "2026-11-15T18:24:55.736999+00:00",
@@ -6745,32 +6732,6 @@
     "ESPN F1": "Ronaldinho fails to score 300th goal as comeback lasts 45 minutes"
    },
    "last": "2026-11-16T00:55:34.552662+00:00"
-  },
-  "S7728": {
-   "title": "Bangladesh batters Hridoy and Tanzid praised in cricket feature",
-   "first": "2026-11-15T18:24:55.737007+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T18:14:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hridoy and Tanzid give a glimpse of Bangladesh's batting future"
-   },
-   "last": "2026-11-15T18:24:55.737011+00:00"
-  },
-  "S7729": {
-   "title": "Plan to scrap FIA presidential age limit for Ben Sulayem",
-   "first": "2026-11-15T18:24:55.737014+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-15T18:23:29+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Abolire i limiti di età per la guida della FIA: la mossa con cui Ben Sulayem può restare presidente a vita"
-   },
-   "last": "2026-11-15T18:24:55.737018+00:00"
   },
   "S7730": {
    "title": "Button admires Alonso's dedication: 'don't know how he does it'",
@@ -14555,9 +14516,35 @@
     "RacingNews365": "Liam Lawson draws on 'one thing' he can boast about after Red Bull stint"
    },
    "last": "2026-11-17T18:20:55.067247+00:00"
+  },
+  "S8312": {
+   "title": "Di Giannantonio dressed down after Marquez clash in Qatar",
+   "first": "2026-11-17T18:30:51.262035+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T18:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez defended as Dovizioso criticises Rossi's VR46 rider"
+   },
+   "last": "2026-11-17T18:30:51.262054+00:00"
+  },
+  "S8313": {
+   "title": "Manager reveals Senna ruined an F1 opportunity",
+   "first": "2026-11-17T18:30:51.262059+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T18:29:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Ayrton Senna zerstörte eine Formel-1-Chance: Ein Manager packt aus - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T18:30:51.262063+00:00"
   }
  },
- "story_seq": 8311,
+ "story_seq": 8313,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14676,7 +14663,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T18:20:50.458518+00:00",
+ "last_run": "2026-11-17T18:30:49.347482+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15831,6 +15818,11 @@
    "t": "2026-11-17T18:21:00.241435+00:00",
    "title": "Liam Lawson, Red Bull dönemi sonrası gurur duyduğu tek şeyi anlattı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T18:30:53.775776+00:00",
+   "title": "Ayrton Senna bir Formula 1 fırsatını mahvetti, bir menajer konuştu",
+   "source": "Motorsport-Total"
   }
  ]
 }
