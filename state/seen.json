@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "17604a7faa327bd5": "2026-11-03T19:18:23.257261+00:00",
   "6629ae563821b225": "2026-11-03T19:28:30.404452+00:00",
   "ace0bfb4e0ceb347": "2026-11-03T19:28:30.404452+00:00",
   "96039dfbb20327fe": "2026-11-03T19:28:30.404452+00:00",
@@ -6557,7 +6556,8 @@
   "328a6c4586547c83": "2026-11-17T19:00:53.829393+00:00",
   "a4cfb6efbdcd3944": "2026-11-17T19:00:53.829393+00:00",
   "eee6c858fc95b6ad": "2026-11-17T19:00:53.829393+00:00",
-  "eeb30b72cc9f6531": "2026-11-17T19:10:49.160988+00:00"
+  "eeb30b72cc9f6531": "2026-11-17T19:10:49.160988+00:00",
+  "243f621a6a4ffcb4": "2026-11-17T19:20:50.169703+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6712,32 +6712,6 @@
     "GPblog": "Verstappen explains the Ferrari mistake he would never make as a team boss"
    },
    "last": "2026-11-16T00:46:05.439341+00:00"
-  },
-  "S7739": {
-   "title": "Tenerife pay tribute to Jesús de Miguel in first match since death",
-   "first": "2026-11-15T19:14:47.003717+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T19:10:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Tenerife pay tribute to Jesús de Miguel in first match since his death"
-   },
-   "last": "2026-11-15T19:14:47.003734+00:00"
-  },
-  "S7740": {
-   "title": "Steiner teases Lawson McLaren move, warns Piastri",
-   "first": "2026-11-15T19:14:47.003739+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-15T19:01:48+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Liam Lawson to McLaren tease as Oscar Piastri warned by Steiner"
-   },
-   "last": "2026-11-15T19:14:47.003743+00:00"
   },
   "S7741": {
    "title": "LSU's MiLaysia Fulwiley arrested for fleeing the scene",
@@ -14524,9 +14498,22 @@
     "GPblog": "Hamilton suffers sharp fall as Ferrari teammate Leclerc takes the lead"
    },
    "last": "2026-11-17T19:10:50.881267+00:00"
+  },
+  "S8323": {
+   "title": "Ferrari warned of catastrophic Hamilton-Leclerc rivalry, citing Piastri 2025",
+   "first": "2026-11-17T19:20:52.028742+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-17T19:12:45+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Ferrari warned of Piastri 2025 despite potential ‘catastrophic’ Hamilton v Leclerc rivalry"
+   },
+   "last": "2026-11-17T19:20:52.028760+00:00"
   }
  },
- "story_seq": 8322,
+ "story_seq": 8323,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14645,22 +14632,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T19:10:49.160988+00:00",
+ "last_run": "2026-11-17T19:20:50.169703+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T19:11:35.187076+00:00",
-   "title": "Piastri, 2025 şampiyonluk çöküşünü 2026 McLaren sorunlarıyla ilişkilendirmiyor",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-14T19:11:35.646381+00:00",
-   "title": "Allison: Hamilton'ın Ferrari'deki yükselişinin ardındaki temel etken",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-14T20:02:16.462649+00:00",
    "title": "FSG'nin 3 milyar dolarlık Cadillac F1 hamlesi beklenmedik bir engelle karşılaşabilir",
@@ -15815,6 +15792,11 @@
    "t": "2026-11-17T19:01:02.231625+00:00",
    "title": "Pérez: Cadillac, araç sorunları çözülünce beklentileri aşacak",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T19:20:56.533400+00:00",
+   "title": "Ferrari, Hamilton ve Leclerc arasındaki rekabet 2027 için ikilemde",
+   "source": "PlanetF1"
   }
  ]
 }
