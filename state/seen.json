@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "80e882e639150d1b": "2026-11-03T12:07:02.115845+00:00",
-  "1ae8fb2d60942f8e": "2026-11-03T12:07:02.115845+00:00",
-  "8b66db1b96b15f38": "2026-11-03T12:07:02.115845+00:00",
-  "3ba4c9071f8a13ab": "2026-11-03T12:07:02.115845+00:00",
-  "da6641439a95ab61": "2026-11-03T12:07:02.115845+00:00",
-  "d12b27211d283888": "2026-11-03T12:07:02.115845+00:00",
   "ab3e644e94802bc7": "2026-11-03T12:17:02.433435+00:00",
   "1144c120d48cd5b2": "2026-11-03T12:17:02.433435+00:00",
   "256f702e2f687491": "2026-11-03T12:27:04.507787+00:00",
@@ -6570,7 +6564,10 @@
   "0404f7bb87ba0e65": "2026-11-17T12:00:12.882539+00:00",
   "674f624876d48ddb": "2026-11-17T12:00:12.882539+00:00",
   "6f90ecd23f20db8f": "2026-11-17T12:00:12.882539+00:00",
-  "eb79869a38b01860": "2026-11-17T12:00:12.882539+00:00"
+  "eb79869a38b01860": "2026-11-17T12:00:12.882539+00:00",
+  "5560d79425f4c742": "2026-11-17T12:10:11.529158+00:00",
+  "567f8f040c2404d9": "2026-11-17T12:10:11.529158+00:00",
+  "b6d662f92430d220": "2026-11-17T12:10:11.529158+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13967,7 +13964,7 @@
     "Formula 1": "Alonso set for Dakar Rally return with Aston Martin",
     "GPFans": "Aston Martin announce Fernando Alonso to take on 'nearly impossible' task in iconic race"
    },
-   "last": "2026-11-17T11:30:15.579297+00:00"
+   "last": "2026-11-17T12:10:16.232188+00:00"
   },
   "S8192": {
    "title": "Williams targets fundamental problems with 2027 car",
@@ -14172,16 +14169,18 @@
    "sources": {
     "RacingNews365": "2026-11-17T10:24:00+00:00",
     "RacingNews365 NL": "2026-11-17T10:45:00+00:00",
-    "PlanetF1": "2026-11-17T11:56:21+00:00"
+    "PlanetF1": "2026-11-17T11:56:21+00:00",
+    "GPblog": "2026-11-17T12:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Ferrari replace Lewis Hamilton for Las Vegas GP first practice",
     "RacingNews365 NL": "Ferrari vervangt Hamilton voor eerste training GP Las Vegas",
-    "PlanetF1": "Lewis Hamilton to miss Las Vegas Grand Prix FP1 as Ferrari junior steps in"
+    "PlanetF1": "Lewis Hamilton to miss Las Vegas Grand Prix FP1 as Ferrari junior steps in",
+    "GPblog": "Hamilton to sit out Las Vegas FP1 as Ferrari give Beganovic another chance"
    },
-   "last": "2026-11-17T12:00:17.954622+00:00"
+   "last": "2026-11-17T12:10:16.232194+00:00"
   },
   "S8208": {
    "title": "F1 discusses 2.1-litre V8 engine concept for 2030",
@@ -14330,14 +14329,14 @@
    "title": "McKennie says USMNT stars inevitably linked to Man United",
    "first": "2026-11-17T11:50:15.907924+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T11:40:23+00:00"
+    "ESPN F1": "2026-11-17T10:58:48+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "McKennie: Inevitable for USMNT stars to be linked to Man United"
    },
-   "last": "2026-11-17T11:50:15.907940+00:00"
+   "last": "2026-11-17T12:10:16.232174+00:00"
   },
   "S8220": {
    "title": "Retrospective on 2019 Brazilian GP Hamilton podium stripping",
@@ -14485,7 +14484,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T12:00:12.882539+00:00",
+ "last_run": "2026-11-17T12:10:11.529158+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15580,6 +15579,11 @@
    "t": "2026-11-17T12:00:25.038942+00:00",
    "title": "2019 Brezilya GP'de Ferrari pilotları çarpıştı, Hamilton podyumu kaybetti",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T12:10:20.784148+00:00",
+   "title": "Hamilton Las Vegas FP1'de yarışmayacak, Beganovic Ferrari'de şans buluyor",
+   "source": "GPblog"
   }
  ]
 }
