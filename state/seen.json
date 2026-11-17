@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "75bad4869e8125ad": "2026-11-03T01:55:45.951207+00:00",
   "803734c31e25462b": "2026-11-03T02:05:42.096472+00:00",
   "22813ed6284f6e38": "2026-11-03T02:16:07.679914+00:00",
   "ca96baeb1f5a3935": "2026-11-03T02:16:07.679914+00:00",
@@ -6598,7 +6597,11 @@
   "1f07b77bc45c116d": "2026-11-17T01:38:43.059015+00:00",
   "7c56dacc0372869f": "2026-11-17T01:38:43.059015+00:00",
   "893fe0c8cd616da9": "2026-11-17T01:38:43.059015+00:00",
-  "b4bdac232a52f6a0": "2026-11-17T01:38:43.059015+00:00"
+  "b4bdac232a52f6a0": "2026-11-17T01:38:43.059015+00:00",
+  "1aefd4bfe38830c2": "2026-11-17T01:58:43.611906+00:00",
+  "1e661ad6218180ea": "2026-11-17T01:58:43.611906+00:00",
+  "51ff77e87a5633ee": "2026-11-17T01:58:43.611906+00:00",
+  "5622f87bc8b6bea5": "2026-11-17T01:58:43.611906+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6792,19 +6795,6 @@
     "ESPN F1": "Mavericks vs. Cavaliers (15 Nov, 2026) Live Score"
    },
    "last": "2026-11-15T02:22:51.323995+00:00"
-  },
-  "S7565": {
-   "title": "Unidentified Motorsport-Total item with no headline",
-   "first": "2026-11-15T01:52:51.643639+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-15T00:23:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "- Motorsport-Total.com"
-   },
-   "last": "2026-11-15T01:52:51.643656+00:00"
   },
   "S7566": {
    "title": "Tulane 20-17 Rice college football game recap",
@@ -14100,9 +14090,61 @@
     "ESPN F1": "Iona Gaels vs. UMBC Retrievers: Game Highlights"
    },
    "last": "2026-11-17T01:38:46.277319+00:00"
+  },
+  "S8115": {
+   "title": "Andrew Osasuyi slam dunk vs. Jacksonville Dolphins",
+   "first": "2026-11-17T01:58:46.094343+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:43:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Andrew Osasuyi throws down powerful slam vs. Jacksonville Dolphins"
+   },
+   "last": "2026-11-17T01:58:46.094362+00:00"
+  },
+  "S8116": {
+   "title": "Malick Kordel dunk vs. Western Illinois Leathernecks",
+   "first": "2026-11-17T01:58:46.094367+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:39:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Malick Kordel elevates for dunk vs. Western Illinois Leathernecks"
+   },
+   "last": "2026-11-17T01:58:46.094371+00:00"
+  },
+  "S8117": {
+   "title": "Robbie Ruisch and-1 basketball play",
+   "first": "2026-11-17T01:58:46.094374+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:33:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Robbie Ruisch somehow gets the and-1 to fall"
+   },
+   "last": "2026-11-17T01:58:46.094377+00:00"
+  },
+  "S8118": {
+   "title": "Myron Gardner basket plus the foul",
+   "first": "2026-11-17T01:58:46.094379+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:30:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Myron Gardner gets the basket plus the foul"
+   },
+   "last": "2026-11-17T01:58:46.094382+00:00"
   }
  },
- "story_seq": 8114,
+ "story_seq": 8118,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14221,7 +14263,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T01:48:46.824182+00:00",
+ "last_run": "2026-11-17T01:58:43.611906+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
