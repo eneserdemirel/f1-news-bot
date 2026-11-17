@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c67af365d8e5789e": "2026-11-03T00:55:41.674625+00:00",
-  "68062da02cfa853a": "2026-11-03T00:55:41.674625+00:00",
-  "a4a6d62c6067df46": "2026-11-03T00:55:41.674625+00:00",
-  "e4c003516f69fb62": "2026-11-03T00:55:41.674625+00:00",
   "d62ef45f90ff18d2": "2026-11-03T01:05:43.138236+00:00",
   "16b8c3156c58e3e7": "2026-11-03T01:05:43.138236+00:00",
   "9583c2fecf9c9564": "2026-11-03T01:05:43.138236+00:00",
@@ -6590,7 +6586,11 @@
   "95286339b73b5e93": "2026-11-17T00:18:44.668428+00:00",
   "738a7cdb035eee7f": "2026-11-17T00:38:45.057485+00:00",
   "dc4f4f6056f8b96f": "2026-11-17T00:38:45.057485+00:00",
-  "91b22ef193507282": "2026-11-17T00:38:45.057485+00:00"
+  "91b22ef193507282": "2026-11-17T00:38:45.057485+00:00",
+  "9731f98703ec947f": "2026-11-17T00:58:45.066873+00:00",
+  "32500632a88424ae": "2026-11-17T00:58:45.066873+00:00",
+  "f29705de0d3bbc8c": "2026-11-17T00:58:45.066873+00:00",
+  "2db0df5dc7377ef1": "2026-11-17T00:58:45.066873+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6784,32 +6784,6 @@
     "ESPN F1": "Mavericks vs. Cavaliers (15 Nov, 2026) Live Score"
    },
    "last": "2026-11-15T02:22:51.323995+00:00"
-  },
-  "S7559": {
-   "title": "Jets 5-4 Blackhawks final score (NHL)",
-   "first": "2026-11-15T00:52:55.066662+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T23:21:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jets 5-4 Blackhawks (Nov 14, 2026) Final Score"
-   },
-   "last": "2026-11-15T00:52:55.066668+00:00"
-  },
-  "S7560": {
-   "title": "Brandon Perez makes 30-yard field goal",
-   "first": "2026-11-15T00:52:55.066672+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-14T19:38:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brandon Perez kicks 30-yard field goal"
-   },
-   "last": "2026-11-15T00:52:55.066676+00:00"
   },
   "S7561": {
    "title": "Long Island University Sharks vs. George Washington Revolutionaries highlights",
@@ -13962,9 +13936,61 @@
     "ESPN F1": "Calvin Sirmans gets the basket plus the foul"
    },
    "last": "2026-11-17T00:38:47.654998+00:00"
+  },
+  "S8099": {
+   "title": "Kareem Stagg basketball play, not Formula 1 news",
+   "first": "2026-11-17T00:58:47.779660+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T00:46:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kareem Stagg gets up for the beautiful flush"
+   },
+   "last": "2026-11-17T00:58:47.779681+00:00"
+  },
+  "S8100": {
+   "title": "Whitney Hart basketball play, not Formula 1 news",
+   "first": "2026-11-17T00:58:47.779686+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T00:43:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Whitney Hart gets the hoop and the harm"
+   },
+   "last": "2026-11-17T00:58:47.779691+00:00"
+  },
+  "S8101": {
+   "title": "Karolina Padilla basketball play, not Formula 1 news",
+   "first": "2026-11-17T00:58:47.779694+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T00:33:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Karolina Padilla gets the hoop and the harm"
+   },
+   "last": "2026-11-17T00:58:47.779698+00:00"
+  },
+  "S8102": {
+   "title": "Johnny Keenan basketball play, not Formula 1 news",
+   "first": "2026-11-17T00:58:47.779700+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T00:31:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Johnny Keenan gets the hoop and the harm"
+   },
+   "last": "2026-11-17T00:58:47.779703+00:00"
   }
  },
- "story_seq": 8098,
+ "story_seq": 8102,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14083,7 +14109,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T00:48:46.210268+00:00",
+ "last_run": "2026-11-17T00:58:45.066873+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
