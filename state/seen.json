@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1ce6ed583713dfa9": "2026-11-03T04:15:41.889449+00:00",
-  "3e8155b48ce4cc11": "2026-11-03T04:15:41.889449+00:00",
-  "f63efde81404c3b7": "2026-11-03T04:15:41.889449+00:00",
   "f5d8514fe2c139e0": "2026-11-03T04:25:42.067760+00:00",
   "06cccdaecfa0b869": "2026-11-03T04:35:41.062977+00:00",
   "5d426eb857e58572": "2026-11-03T04:45:40.692584+00:00",
@@ -6604,7 +6601,10 @@
   "5a083a63f5bd5c0b": "2026-11-17T03:58:45.128280+00:00",
   "748fe7c783a2915d": "2026-11-17T03:58:45.128280+00:00",
   "e80b16c2568f0899": "2026-11-17T03:58:45.128280+00:00",
-  "762ca0e9985cd328": "2026-11-17T04:08:46.080883+00:00"
+  "762ca0e9985cd328": "2026-11-17T04:08:46.080883+00:00",
+  "6de7c8805db7b531": "2026-11-17T04:19:30.758987+00:00",
+  "061dd61afd040fa8": "2026-11-17T04:19:30.758987+00:00",
+  "fb288619a4df0c0f": "2026-11-17T04:19:30.758987+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6772,19 +6772,6 @@
     "RacingNews365 NL": "Mercedes prijst houding Russell in strijd met Antonelli"
    },
    "last": "2026-11-15T16:34:48.543384+00:00"
-  },
-  "S7593": {
-   "title": "PlanetF1: Hamilton blamed for Ferrari No.1 saga, Damon Hill theory rejected",
-   "first": "2026-11-15T04:12:51.794930+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-15T04:00:30+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Lewis Hamilton ‘causing’ Ferrari No.1 saga as Damon Hill theory rejected"
-   },
-   "last": "2026-11-15T04:12:51.794947+00:00"
   },
   "S7594": {
    "title": "Stars 2-0 Sabres NHL game recap",
@@ -14028,9 +14015,48 @@
     "PlanetF1": "Franco Colapinto makes Alpine admission ahead of Las Vegas GP"
    },
    "last": "2026-11-17T04:08:49.576763+00:00"
+  },
+  "S8139": {
+   "title": "Nikola Kusturica dunks vs. Long Beach State (college basketball)",
+   "first": "2026-11-17T04:19:33.499366+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T04:05:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nikola Kusturica elevates for dunk vs. Long Beach State Beach"
+   },
+   "last": "2026-11-17T04:19:33.499386+00:00"
+  },
+  "S8140": {
+   "title": "Calipari and Arkansas land 2027 point guard Cayden Daughtry",
+   "first": "2026-11-17T04:19:33.499391+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T03:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "John Calipari, Arkansas land 2027 5-star point guard Cayden Daughtry"
+   },
+   "last": "2026-11-17T04:19:33.499395+00:00"
+  },
+  "S8141": {
+   "title": "Motorsport-Total item with no content, only site name",
+   "first": "2026-11-17T04:19:33.499398+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T03:37:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "- Motorsport-Total.com"
+   },
+   "last": "2026-11-17T04:19:33.499402+00:00"
   }
  },
- "story_seq": 8138,
+ "story_seq": 8141,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14149,7 +14175,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T04:09:32.167889+00:00",
+ "last_run": "2026-11-17T04:19:30.758987+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
