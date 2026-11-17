@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "66f7a6aaed43d081": "2026-11-03T07:56:17.162623+00:00",
-  "9e08fd18b434fcd4": "2026-11-03T07:56:17.162623+00:00",
-  "f62a03d8cd32f20c": "2026-11-03T07:56:17.162623+00:00",
-  "4550e93f52eb605c": "2026-11-03T07:56:17.162623+00:00",
   "192b1d0473785c8b": "2026-11-03T08:06:17.397445+00:00",
   "8ca8d9718cfaa1d0": "2026-11-03T08:06:17.397445+00:00",
   "8255370d3b99c72e": "2026-11-03T08:06:17.397445+00:00",
@@ -6582,7 +6578,13 @@
   "062806ca35c79284": "2026-11-17T07:19:27.780706+00:00",
   "580a162843a08473": "2026-11-17T07:19:27.780706+00:00",
   "174f478bc0b132aa": "2026-11-17T07:29:30.994866+00:00",
-  "0cd36658827cd069": "2026-11-17T07:49:30.652461+00:00"
+  "0cd36658827cd069": "2026-11-17T07:49:30.652461+00:00",
+  "f92d61cc71344c6b": "2026-11-17T07:59:29.159426+00:00",
+  "69261f454fee4b4c": "2026-11-17T07:59:29.159426+00:00",
+  "573debbf07c282e8": "2026-11-17T07:59:29.159426+00:00",
+  "f61c578263d3a822": "2026-11-17T07:59:29.159426+00:00",
+  "ce58b199a24c4424": "2026-11-17T07:59:29.159426+00:00",
+  "d60669d9781dd200": "2026-11-17T07:59:29.159426+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6776,19 +6778,6 @@
     "GPblog": "Why Ferrari must resist calls to make Hamilton their number one"
    },
    "last": "2026-11-15T12:34:39.090870+00:00"
-  },
-  "S7623": {
-   "title": "Zak Brown recalls 'toxic' McLaren working environment in 2016",
-   "first": "2026-11-15T07:53:38.694796+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-15T07:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "McLaren-baas doet boekje open over verleden: \"Giftige werksfeer\""
-   },
-   "last": "2026-11-15T07:53:38.694814+00:00"
   },
   "S7624": {
    "title": "Russell's 15-month career test compared to Rosberg and Ricciardo",
@@ -14063,17 +14052,69 @@
    "title": "Pelicans 115-94 Warriors NBA game recap",
    "first": "2026-11-17T07:49:32.051469+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T03:54:54+00:00"
+    "ESPN F1": "2026-11-17T03:36:48+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Pelicans 115-94 Warriors (Nov 16, 2026) Game Recap"
    },
-   "last": "2026-11-17T07:49:32.051479+00:00"
+   "last": "2026-11-17T07:59:35.256324+00:00"
+  },
+  "S8172": {
+   "title": "Ecclestone praises Verstappen as far better than other drivers",
+   "first": "2026-11-17T07:59:35.256331+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T07:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen op voetstuk geplaatst: \"Zoveel beter dan alle anderen\""
+   },
+   "last": "2026-11-17T07:59:35.256335+00:00"
+  },
+  "S8173": {
+   "title": "Red Bull insider reportedly set to leave as Wheatley sends message",
+   "first": "2026-11-17T07:59:35.256339+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-17T07:55:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen insider to leave Red Bull as Jonathan Wheatley sends message"
+   },
+   "last": "2026-11-17T07:59:35.256342+00:00"
+  },
+  "S8174": {
+   "title": "Daily Mail journalist McEvoy banned from final three 2026 races",
+   "first": "2026-11-17T07:59:35.256345+00:00",
+   "sources": {
+    "GPFans": "2026-11-17T07:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Former FIA accreditation chief 'astounded' by ban on F1 journalist"
+   },
+   "last": "2026-11-17T07:59:35.256347+00:00"
+  },
+  "S8175": {
+   "title": "Steiner says which driver would bring Ferrari back to the front",
+   "first": "2026-11-17T07:59:35.256349+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T07:55:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Günther Steiner: Dieser Fahrer würde Ferrari wieder nach vorne bringen - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T07:59:35.256351+00:00"
   }
  },
- "story_seq": 8171,
+ "story_seq": 8175,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14192,17 +14233,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T07:49:30.652461+00:00",
+ "last_run": "2026-11-17T07:59:29.159426+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T07:49:55.399549+00:00",
-   "title": "Verstappen, Brezilya'da Norris'in ardından ikinci oldu",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-14T08:00:00.082319+00:00",
    "title": "Windsor: Ferrari, Hamilton yerine Newey'i seçmeliydi",
@@ -15277,6 +15313,26 @@
    "t": "2026-11-17T07:29:37.861093+00:00",
    "title": "Russell, Antonelli'ye karşı şampiyonluk kaybı sonrası savunma yaptı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T07:59:41.048684+00:00",
+   "title": "Ecclestone: Verstappen 'zoveel beter dan alle anderen'",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-17T07:59:41.595583+00:00",
+   "title": "Günther Steiner: Bu pilot Ferrari'yi yeniden öne çıkarabilir",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-17T07:59:42.207395+00:00",
+   "title": "Verstappen'in başmekanikçisi Jon Caller Red Bull'dan ayrılıyor",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T07:59:42.761737+00:00",
+   "title": "Eski FIA akreditasyon şefi, F1 gazetecisinin yasaklanmasına şaşırdı",
+   "source": "GPFans"
   }
  ]
 }
