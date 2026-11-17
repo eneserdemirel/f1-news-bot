@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6ea49e217a558032": "2026-11-03T06:36:19.023747+00:00",
-  "a5c5fb696cdd896f": "2026-11-03T06:36:19.023747+00:00",
   "1926177a3a9c2fdd": "2026-11-03T06:46:16.653237+00:00",
   "7bf3aecb59a3cb9b": "2026-11-03T06:46:16.653237+00:00",
   "9175583c151e4551": "2026-11-03T06:46:16.653237+00:00",
@@ -6595,7 +6593,9 @@
   "a17cdfe30d233f94": "2026-11-17T06:09:33.868903+00:00",
   "463afd4893113172": "2026-11-17T06:09:33.868903+00:00",
   "b30626fb1c46888c": "2026-11-17T06:09:33.868903+00:00",
-  "eb18cd5c89fdc47e": "2026-11-17T06:29:32.643861+00:00"
+  "eb18cd5c89fdc47e": "2026-11-17T06:29:32.643861+00:00",
+  "14ed75db7f4d766d": "2026-11-17T06:39:27.833921+00:00",
+  "f8c078f5734bbccb": "2026-11-17T06:39:27.833921+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6706,19 +6706,6 @@
    },
    "last": "2026-11-15T13:54:16.063420+00:00"
   },
-  "S7506": {
-   "title": "FSG's $3bn Cadillac F1 bid faces NASCAR obstacle",
-   "first": "2026-11-14T20:02:09.825220+00:00",
-   "sources": {
-    "GPFans": "2026-11-14T19:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "FSG’s $3bn Cadillac F1 move faces unexpected NASCAR blocker"
-   },
-   "last": "2026-11-15T06:33:36.921745+00:00"
-  },
   "S7517": {
    "title": "Ecclestone calls FIA McEvoy ban 'completely mad'",
    "first": "2026-11-14T21:02:12.328304+00:00",
@@ -6804,19 +6791,6 @@
     "ESPN F1": "Sharks 6-5 Mammoth (15 Nov, 2026) Game Recap"
    },
    "last": "2026-11-15T11:24:18.297570+00:00"
-  },
-  "S7608": {
-   "title": "Devils 7-4 Capitals NHL game recap",
-   "first": "2026-11-15T06:33:36.921710+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T03:38:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Devils 7-4 Capitals (Nov 14, 2026) Game Recap"
-   },
-   "last": "2026-11-15T06:33:36.921729+00:00"
   },
   "S7609": {
    "title": "Horner reveals unhappiness during Verstappen's dominance years",
@@ -14127,9 +14101,22 @@
     "RacingNews365": "Ferrari warned over 'massive handicap' in F1 title hunt: 'The stuff of nightmares'"
    },
    "last": "2026-11-17T06:29:34.886308+00:00"
+  },
+  "S8159": {
+   "title": "Ferrari reportedly considering lead driver choice for 2027 amid Hamilton-Leclerc tension",
+   "first": "2026-11-17T06:39:29.741220+00:00",
+   "sources": {
+    "GPFans": "2026-11-17T06:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Ferrari consider Hamilton-Leclerc choice, Brown lifts lid on 'toxic' McLaren - F1 News Today"
+   },
+   "last": "2026-11-17T06:39:29.741239+00:00"
   }
  },
- "story_seq": 8158,
+ "story_seq": 8159,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14248,17 +14235,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T06:29:32.643861+00:00",
+ "last_run": "2026-11-17T06:39:27.833921+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T06:29:52.249334+00:00",
-   "title": "McLaren, Las Vegas güncellemeleriyle 2027 aracının temelini atacak",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-14T07:09:56.728008+00:00",
    "title": "Red Bull, zorlu başlangıcın ardından toparlanma sinyali veriyor",
