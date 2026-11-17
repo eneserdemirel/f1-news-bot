@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "849b96a04949632a": "2026-11-03T03:55:44.045454+00:00",
-  "0a2ef926a7eae785": "2026-11-03T03:55:44.045454+00:00",
-  "e5670a4f99ee2123": "2026-11-03T03:55:44.045454+00:00",
   "1ce6ed583713dfa9": "2026-11-03T04:15:41.889449+00:00",
   "3e8155b48ce4cc11": "2026-11-03T04:15:41.889449+00:00",
   "f63efde81404c3b7": "2026-11-03T04:15:41.889449+00:00",
@@ -6602,7 +6599,11 @@
   "72a3d955b58ca46a": "2026-11-17T03:18:43.977510+00:00",
   "92f75f4fcbc7fc08": "2026-11-17T03:18:43.977510+00:00",
   "e4fb3358fc72fdc8": "2026-11-17T03:18:43.977510+00:00",
-  "1274f41546afddb3": "2026-11-17T03:38:45.540936+00:00"
+  "1274f41546afddb3": "2026-11-17T03:38:45.540936+00:00",
+  "bb997a54fc810766": "2026-11-17T03:58:45.128280+00:00",
+  "5a083a63f5bd5c0b": "2026-11-17T03:58:45.128280+00:00",
+  "748fe7c783a2915d": "2026-11-17T03:58:45.128280+00:00",
+  "e80b16c2568f0899": "2026-11-17T03:58:45.128280+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6783,32 +6784,6 @@
     "ESPN F1": "Inside Darian Mensah's huge performance in Miami's win over Duke"
    },
    "last": "2026-11-15T04:02:54.830250+00:00"
-  },
-  "S7580": {
-   "title": "Oilers 1-0 Maple Leafs game recap",
-   "first": "2026-11-15T03:12:55.100363+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T03:09:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Oilers 1-0 Maple Leafs (Nov 14, 2026) Game Recap"
-   },
-   "last": "2026-11-15T03:52:57.425487+00:00"
-  },
-  "S7590": {
-   "title": "BYU 28-7 Baylor college football game recap",
-   "first": "2026-11-15T03:52:57.425460+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T03:51:25+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "BYU 28-7 Baylor (Nov 14, 2026) Game Recap"
-   },
-   "last": "2026-11-15T03:52:57.425477+00:00"
   },
   "S7591": {
    "title": "Grizzlies 129-110 Nets NBA game recap",
@@ -14026,9 +14001,61 @@
     "ESPN F1": "Atreonia Garner with the and-1!"
    },
    "last": "2026-11-17T03:38:47.301649+00:00"
+  },
+  "S8134": {
+   "title": "Heat 128-110 Rockets NBA game recap",
+   "first": "2026-11-17T03:58:47.326827+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T03:33:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heat 128-110 Rockets (17 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-17T03:58:47.326847+00:00"
+  },
+  "S8135": {
+   "title": "Magic 115-105 Celtics NBA game recap",
+   "first": "2026-11-17T03:58:47.326851+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T02:54:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Magic 115-105 Celtics (17 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-17T03:58:47.326855+00:00"
+  },
+  "S8136": {
+   "title": "TJ Cope gets the basket plus the foul",
+   "first": "2026-11-17T03:58:47.326858+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T02:20:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "TJ Cope gets the basket plus the foul"
+   },
+   "last": "2026-11-17T03:58:47.326861+00:00"
+  },
+  "S8137": {
+   "title": "Donovan Mitchell alley-oop vs. Bulls highlight",
+   "first": "2026-11-17T03:58:47.326863+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:28:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Donovan Mitchell gets up for alley-oop vs. Chicago Bulls"
+   },
+   "last": "2026-11-17T03:58:47.326866+00:00"
   }
  },
- "story_seq": 8133,
+ "story_seq": 8137,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14147,7 +14174,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T03:48:48.258159+00:00",
+ "last_run": "2026-11-17T03:58:45.128280+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
