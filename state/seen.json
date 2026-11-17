@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "990d7679a4a72786": "2026-11-03T16:48:16.719510+00:00",
-  "ba00028ea92b70fc": "2026-11-03T16:48:16.719510+00:00",
-  "a8658a642ad82081": "2026-11-03T16:48:16.719510+00:00",
-  "96b4134c66c88654": "2026-11-03T16:48:16.719510+00:00",
-  "30fdfc277f379a46": "2026-11-03T16:48:16.719510+00:00",
   "ac27557aa96e238d": "2026-11-03T16:58:15.608424+00:00",
   "34d98a7154f4e3b8": "2026-11-03T16:58:15.608424+00:00",
   "71d9d6508bffd936": "2026-11-03T16:58:15.608424+00:00",
@@ -6544,7 +6539,13 @@
   "ac94180356eb5f56": "2026-11-17T16:40:51.052947+00:00",
   "2a308f4d811103da": "2026-11-17T16:40:51.052947+00:00",
   "9d5500fd5e6f899b": "2026-11-17T16:40:51.052947+00:00",
-  "4881e090b57f3c43": "2026-11-17T16:40:51.052947+00:00"
+  "4881e090b57f3c43": "2026-11-17T16:40:51.052947+00:00",
+  "f5e526dc7437990c": "2026-11-17T16:50:48.835096+00:00",
+  "590820b23ba97d2f": "2026-11-17T16:50:48.835096+00:00",
+  "c1e591869157797d": "2026-11-17T16:50:48.835096+00:00",
+  "4d4002c07f0d5194": "2026-11-17T16:50:48.835096+00:00",
+  "48888b7f6e1f2b4c": "2026-11-17T16:50:48.835096+00:00",
+  "36634016396c1a89": "2026-11-17T16:50:48.835096+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6738,19 +6739,6 @@
     "PlanetF1": "Toto Wolff reveals what Christian Horner messaged him after Antonelli won title"
    },
    "last": "2026-11-16T16:27:19.265331+00:00"
-  },
-  "S7706": {
-   "title": "UMBC vs. Towson (Nov 15, 2026) live score",
-   "first": "2026-11-15T16:44:57.537181+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T16:36:29+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "UMBC vs. Towson (Nov 15, 2026) Live Score"
-   },
-   "last": "2026-11-15T16:44:57.537198+00:00"
   },
   "S7707": {
    "title": "PlanetF1 roundup: Hamilton, F1 sale, Russell crossroads",
@@ -12868,14 +12856,16 @@
    "title": "Verstappen says Antonelli's records won't keep him in F1",
    "first": "2026-11-17T07:19:30.738825+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T07:01:00+00:00"
+    "ESPN F1": "2026-11-17T07:01:00+00:00",
+    "RacingNews365 NL": "2026-11-17T16:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "ESPN F1": "Verstappen: Antonelli's records won't motivate me to stay in F1"
+    "ESPN F1": "Verstappen: Antonelli's records won't motivate me to stay in F1",
+    "RacingNews365 NL": "Verstappen laat zich niet opjagen door Antonelli: \"Houd ik me niet mee bezig\""
    },
-   "last": "2026-11-17T07:19:30.738845+00:00"
+   "last": "2026-11-17T16:50:54.395091+00:00"
   },
   "S8168": {
    "title": "Suns 117-105 Nuggets NBA game recap",
@@ -14260,7 +14250,8 @@
     "RacingNews365": "2026-11-17T16:00:00+00:00",
     "RacingNews365 NL": "2026-11-17T16:00:00+00:00",
     "GPblog": "2026-11-17T16:01:00+00:00",
-    "Motorsport-Total": "2026-11-17T16:30:47+00:00"
+    "Motorsport-Total": "2026-11-17T16:30:47+00:00",
+    "Motorsport.com Italia": "2026-11-17T16:43:59+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14268,9 +14259,10 @@
     "RacingNews365": "Breaking: V8 engines set for F1 return in 2030 as key agreement reached",
     "RacingNews365 NL": "Breaking: F1 keert terug naar iconische motor",
     "GPblog": "F1's V8 engine return is now a reality as FIA announce historic agreement",
-    "Motorsport-Total": "Formel 1 plant Umrüstung auf V8-Turbomotoren schon für 2030 - Motorsport-Total.com"
+    "Motorsport-Total": "Formel 1 plant Umrüstung auf V8-Turbomotoren schon für 2030 - Motorsport-Total.com",
+    "Motorsport.com Italia": "F1 | La FIA rompe il silenzio: i motori V8 da 2,1 litri turbo entreranno in vigore dal 2030"
    },
-   "last": "2026-11-17T16:40:55.888175+00:00"
+   "last": "2026-11-17T16:50:54.395086+00:00"
   },
   "S8269": {
    "title": "Analysis of what Cadillac risks by signing Colton Herta",
@@ -14349,9 +14341,61 @@
     "RacingNews365": "George Russell delivers insight into plan to topple Kimi Antonelli"
    },
    "last": "2026-11-17T16:40:55.888160+00:00"
+  },
+  "S8275": {
+   "title": "Betting-based preview of Las Vegas qualifying favourites",
+   "first": "2026-11-17T16:50:54.395038+00:00",
+   "sources": {
+    "Formula 1": "2026-11-17T16:50:54.395053+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "The 5 drivers to back in Qualifying in Las Vegas"
+   },
+   "last": "2026-11-17T16:50:54.395057+00:00"
+  },
+  "S8276": {
+   "title": "Springboks coach Rassie Erasmus suspended over comments",
+   "first": "2026-11-17T16:50:54.395062+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T16:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Springboks coach Rassie Erasmus suspended for 'match-fixing' comments"
+   },
+   "last": "2026-11-17T16:50:54.395067+00:00"
+  },
+  "S8277": {
+   "title": "Cowboys discussing new role for DC Parker",
+   "first": "2026-11-17T16:50:54.395071+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T15:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cowboys discussing new role for DC Parker, Jones says"
+   },
+   "last": "2026-11-17T16:50:54.395075+00:00"
+  },
+  "S8278": {
+   "title": "Pakistan cricket morning reflection feature",
+   "first": "2026-11-17T16:50:54.395077+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T15:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "A morning that reminded Pakistan of what they once were"
+   },
+   "last": "2026-11-17T16:50:54.395081+00:00"
   }
  },
- "story_seq": 8274,
+ "story_seq": 8278,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14470,7 +14514,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T16:40:51.052947+00:00",
+ "last_run": "2026-11-17T16:50:48.835096+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
