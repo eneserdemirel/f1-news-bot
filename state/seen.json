@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f8acb423f8d4ae15": "2026-11-03T11:56:59.930239+00:00",
-  "0d705ee20390fd89": "2026-11-03T11:56:59.930239+00:00",
-  "a5e5c93b31d5ca13": "2026-11-03T11:56:59.930239+00:00",
   "80e882e639150d1b": "2026-11-03T12:07:02.115845+00:00",
   "1ae8fb2d60942f8e": "2026-11-03T12:07:02.115845+00:00",
   "8b66db1b96b15f38": "2026-11-03T12:07:02.115845+00:00",
@@ -6569,7 +6566,11 @@
   "94d691103b95f928": "2026-11-17T11:30:11.350815+00:00",
   "4d95d0c384060f66": "2026-11-17T11:40:11.992937+00:00",
   "0c7e58d2e27a4875": "2026-11-17T11:40:11.992937+00:00",
-  "1f17de26b8869ed3": "2026-11-17T11:50:13.987694+00:00"
+  "1f17de26b8869ed3": "2026-11-17T11:50:13.987694+00:00",
+  "0404f7bb87ba0e65": "2026-11-17T12:00:12.882539+00:00",
+  "674f624876d48ddb": "2026-11-17T12:00:12.882539+00:00",
+  "6f90ecd23f20db8f": "2026-11-17T12:00:12.882539+00:00",
+  "eb79869a38b01860": "2026-11-17T12:00:12.882539+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6853,32 +6854,6 @@
     "FormulaPassion": "Barrichello e la prima vittoria a Hockenheim nel 2000: “Ross Brawn alla radio mi disse ‘Rubens, ma quando ti fermi?'”"
    },
    "last": "2026-11-15T15:44:48.091467+00:00"
-  },
-  "S7656": {
-   "title": "Steelers-Bengals odds and betting tips",
-   "first": "2026-11-15T11:54:17.819424+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T11:42:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Steelers-Bengals odds, analysis, betting tips and recommended props"
-   },
-   "last": "2026-11-15T11:54:17.819445+00:00"
-  },
-  "S7657": {
-   "title": "Red Bull reveals scale of 2026 F1 turnaround",
-   "first": "2026-11-15T11:54:17.819450+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-15T11:47:08+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Red Bull reveals remarkable scale of F1 2026 turnaround"
-   },
-   "last": "2026-11-15T11:54:17.819454+00:00"
   },
   "S7658": {
    "title": "Rosberg claims Hamilton feared Mercedes conspiracy during title fight",
@@ -13480,14 +13455,16 @@
    "title": "Ecclestone criticises Hamilton, comments on Antonelli and Ferrari",
    "first": "2026-11-17T06:09:39.464855+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-17T06:00:00+00:00"
+    "FormulaPassion": "2026-11-17T06:00:00+00:00",
+    "Corriere dello Sport": "2026-11-17T11:52:36+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Ecclestone: “Hamilton si lagna sempre. Antonelli? La Ferrari sarà buona per lui quando avrà 50 anni…”"
+    "FormulaPassion": "Ecclestone: “Hamilton si lagna sempre. Antonelli? La Ferrari sarà buona per lui quando avrà 50 anni…”",
+    "Corriere dello Sport": "Ecclestone distrugge Hamilton e avverte Antonelli: \"Vada in Ferrari dopo i 50 anni\""
    },
-   "last": "2026-11-17T06:09:39.464858+00:00"
+   "last": "2026-11-17T12:00:17.954629+00:00"
   },
   "S8155": {
    "title": "Analysis of Ferrari's lack of titles despite Mercedes success",
@@ -14194,15 +14171,17 @@
    "first": "2026-11-17T10:30:20.291410+00:00",
    "sources": {
     "RacingNews365": "2026-11-17T10:24:00+00:00",
-    "RacingNews365 NL": "2026-11-17T10:45:00+00:00"
+    "RacingNews365 NL": "2026-11-17T10:45:00+00:00",
+    "PlanetF1": "2026-11-17T11:56:21+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Ferrari replace Lewis Hamilton for Las Vegas GP first practice",
-    "RacingNews365 NL": "Ferrari vervangt Hamilton voor eerste training GP Las Vegas"
+    "RacingNews365 NL": "Ferrari vervangt Hamilton voor eerste training GP Las Vegas",
+    "PlanetF1": "Lewis Hamilton to miss Las Vegas Grand Prix FP1 as Ferrari junior steps in"
    },
-   "last": "2026-11-17T10:50:16.428949+00:00"
+   "last": "2026-11-17T12:00:17.954622+00:00"
   },
   "S8208": {
    "title": "F1 discusses 2.1-litre V8 engine concept for 2030",
@@ -14359,9 +14338,35 @@
     "ESPN F1": "McKennie: Inevitable for USMNT stars to be linked to Man United"
    },
    "last": "2026-11-17T11:50:15.907940+00:00"
+  },
+  "S8220": {
+   "title": "Retrospective on 2019 Brazilian GP Hamilton podium stripping",
+   "first": "2026-11-17T12:00:17.954596+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T11:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton stripped of podium as Ferrari suffer intra-team collision - On This Day"
+   },
+   "last": "2026-11-17T12:00:17.954613+00:00"
+  },
+  "S8221": {
+   "title": "Several special livery designs unveiled for Las Vegas GP",
+   "first": "2026-11-17T12:00:17.954633+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T10:03:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Mehrere Sonderdesigns beim Formel-1-Rennen in Las Vegas - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T12:00:17.954638+00:00"
   }
  },
- "story_seq": 8219,
+ "story_seq": 8221,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14480,17 +14485,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T11:50:13.987694+00:00",
+ "last_run": "2026-11-17T12:00:12.882539+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
- "last_digest_slot": "2026-11-16 22:00",
- "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
+ "last_digest_slot": "2026-11-17 15:00",
+ "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T11:50:42.640878+00:00",
-   "title": "Verstappen'in şefi Jon Caller Red Bull'dan ayrılıp Ford'a katılıyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-14T12:10:50.284129+00:00",
    "title": "Verstappen ve Alonso ile Le Mans yarışı için yapılan \"seçme\" öneri olumlu karşılandı",
@@ -15575,6 +15575,11 @@
    "t": "2026-11-17T11:40:20.718544+00:00",
    "title": "Verstappen Las Vegas'ta fark yaratabilir mi?",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-17T12:00:25.038942+00:00",
+   "title": "2019 Brezilya GP'de Ferrari pilotları çarpıştı, Hamilton podyumu kaybetti",
+   "source": "RacingNews365"
   }
  ]
 }
