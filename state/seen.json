@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f1a44788ca726268": "2026-11-03T15:26:59.096541+00:00",
   "2a884e278aff1068": "2026-11-03T15:37:01.806203+00:00",
   "62c2794d1e01673e": "2026-11-03T15:37:01.806203+00:00",
   "7be258307f2ef102": "2026-11-03T15:37:01.806203+00:00",
@@ -6549,7 +6548,10 @@
   "84d66f28bd1895d6": "2026-11-17T15:10:53.356528+00:00",
   "717434b26e06f2a0": "2026-11-17T15:20:56.039575+00:00",
   "024f5610f10380cc": "2026-11-17T15:20:56.039575+00:00",
-  "7f90a4bb1900eab8": "2026-11-17T15:20:56.039575+00:00"
+  "7f90a4bb1900eab8": "2026-11-17T15:20:56.039575+00:00",
+  "f0b71c57ac4d39ad": "2026-11-17T15:30:50.921793+00:00",
+  "539088a6e92f7862": "2026-11-17T15:30:50.921793+00:00",
+  "6d8dcaaa50620aee": "2026-11-17T15:30:50.921793+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6571,31 +6573,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S7044": {
-   "title": "Grosjean says single-seater racing career likely over",
-   "first": "2026-11-12T22:06:36.736227+00:00",
-   "sources": {
-    "Crash.net": "2026-11-12T16:31:30+00:00",
-    "Motorsport-Total": "2026-11-13T13:34:05+00:00",
-    "PlanetF1": "2026-11-13T16:15:50+00:00",
-    "AS": "2026-11-14T10:45:37+00:00",
-    "GPblog": "2026-11-14T18:01:00+00:00",
-    "RacingNews365 NL": "2026-11-15T09:15:00+00:00",
-    "Motorsport Week": "2026-11-15T15:05:09+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Ex-F1 star Romain Grosjean makes significant racing career declaration",
-    "Motorsport-Total": "Grosjean zieht nach 23 Jahren einen Schlussstrich: \"Das will ich nicht mehr\" - Motorsport-Total.com",
-    "PlanetF1": "Ex-F1 star Romain Grosjean makes huge racing career declaration",
-    "AS": "Grosjean dice adiós a los monoplazas",
-    "GPblog": "Former F1 driver drops major hint about next chapter of his racing career",
-    "RacingNews365 NL": "Einde formulecarrière aanstaande voor markante oud-F1-coureur",
-    "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
-   },
-   "last": "2026-11-15T15:24:14.558155+00:00"
-  },
   "S7517": {
    "title": "Ecclestone calls FIA McEvoy ban 'completely mad'",
    "first": "2026-11-14T21:02:12.328304+00:00",
@@ -14424,9 +14401,35 @@
     "ESPN F1": "What Broncos are doing to try to make Bo Nix more consistent throughout games"
    },
    "last": "2026-11-17T15:20:58.425692+00:00"
+  },
+  "S8260": {
+   "title": "ESPN Heisman of Week 11 college football update",
+   "first": "2026-11-17T15:30:53.023459+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heisman of Week 11: Duke's Nate Sheppard has entered the running"
+   },
+   "last": "2026-11-17T15:30:53.023479+00:00"
+  },
+  "S8261": {
+   "title": "Montoya says Verstappen would never accept a different situation",
+   "first": "2026-11-17T15:30:53.023484+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T15:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Montoya stellig over Verstappen: \"Dat accepteert hij nooit\""
+   },
+   "last": "2026-11-17T15:30:53.023489+00:00"
   }
  },
- "story_seq": 8259,
+ "story_seq": 8261,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14545,17 +14548,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T15:20:56.039575+00:00",
+ "last_run": "2026-11-17T15:30:50.921793+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T15:21:26.876514+00:00",
-   "title": "Ferrari, 2026 şampiyonluğunda Mercedes'e karşı önemli bir kabul yaptı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-14T16:11:29.132681+00:00",
    "title": "Button, Alonso'yu motive eden şeyi açıkladı",
@@ -15670,6 +15668,11 @@
    "t": "2026-11-17T15:11:05.018919+00:00",
    "title": "Ferrari, Mercedes'in şampiyonluğu öncesi \"çöp yarış\" nedeniyle eleştiriliyor",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T15:30:57.313483+00:00",
+   "title": "Montoya: Verstappen, Red Bull'da kalmasının bir nedeni olarak eşit olmayan statüsünü kabul etmeyi asla kabul etmez",
+   "source": "RacingNews365 NL"
   }
  ]
 }
