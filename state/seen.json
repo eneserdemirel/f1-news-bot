@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8de5358b89d107ab": "2026-11-03T05:55:41.116961+00:00",
-  "e38b6509dcd2257f": "2026-11-03T05:55:41.116961+00:00",
   "9f2abf3933750c8a": "2026-11-03T06:06:16.892310+00:00",
   "c149543739fe4b1b": "2026-11-03T06:06:16.892310+00:00",
   "3c0debaa054c15fa": "2026-11-03T06:06:16.892310+00:00",
@@ -6597,7 +6595,9 @@
   "031031496d582e7e": "2026-11-17T05:29:34.450286+00:00",
   "d258b7d567307555": "2026-11-17T05:39:30.501164+00:00",
   "300677a6d5f7073e": "2026-11-17T05:39:30.501164+00:00",
-  "2aef8d79eee6eb1a": "2026-11-17T05:49:29.914255+00:00"
+  "2aef8d79eee6eb1a": "2026-11-17T05:49:29.914255+00:00",
+  "cd28822af4d20862": "2026-11-17T05:59:28.254519+00:00",
+  "59815c48efbf7302": "2026-11-17T05:59:28.254519+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -10730,15 +10730,17 @@
    "first": "2026-11-16T07:36:36.743416+00:00",
    "sources": {
     "GPblog": "2026-11-16T07:30:00+00:00",
-    "FormulaPassion": "2026-11-16T18:00:00+00:00"
+    "FormulaPassion": "2026-11-16T18:00:00+00:00",
+    "PlanetF1": "2026-11-17T05:54:06+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Wolff addresses Antonelli contract as title triumph raises salary question",
-    "FormulaPassion": "Rinnovo Antonelli, apertura di Wolff: “Sarà ricompensato adeguatamente”"
+    "FormulaPassion": "Rinnovo Antonelli, apertura di Wolff: “Sarà ricompensato adeguatamente”",
+    "PlanetF1": "‘No one has to worry about him’ – Toto Wolff responds to Kimi Antonelli salary question"
    },
-   "last": "2026-11-16T18:18:16.044339+00:00"
+   "last": "2026-11-17T05:59:31.720485+00:00"
   },
   "S7900": {
    "title": "ESPN: 49ers offense puts up big numbers against Cowboys",
@@ -14075,9 +14077,22 @@
     "ESPN F1": "Chargers seal victory with late forced fumble by Tarheeb Still"
    },
    "last": "2026-11-17T05:49:31.295685+00:00"
+  },
+  "S8150": {
+   "title": "Shannon carries Wolves with Edwards out, Ball struggling",
+   "first": "2026-11-17T05:59:31.720468+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T05:42:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Shannon carries Wolves with Edwards out, Ball struggling in show of versatility"
+   },
+   "last": "2026-11-17T05:59:31.720478+00:00"
   }
  },
- "story_seq": 8149,
+ "story_seq": 8150,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14196,7 +14211,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T05:49:29.914255+00:00",
+ "last_run": "2026-11-17T05:59:28.254519+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
