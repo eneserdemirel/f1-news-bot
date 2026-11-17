@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "256f702e2f687491": "2026-11-03T12:27:04.507787+00:00",
-  "b4cdc57617b100a6": "2026-11-03T12:27:04.507787+00:00",
-  "acd38dcd75f68420": "2026-11-03T12:27:04.507787+00:00",
-  "8d1634b88ef0bedc": "2026-11-03T12:27:04.507787+00:00",
-  "052f9eaca301b431": "2026-11-03T12:27:04.507787+00:00",
-  "6e0d0217a6dff2ac": "2026-11-03T12:27:04.507787+00:00",
   "fcddefae1e7d3da5": "2026-11-03T12:37:00.566104+00:00",
   "1378094655242a77": "2026-11-03T12:47:02.799687+00:00",
   "7c63fe5a476e534c": "2026-11-03T12:47:02.799687+00:00",
@@ -6566,7 +6560,9 @@
   "5560d79425f4c742": "2026-11-17T12:10:11.529158+00:00",
   "567f8f040c2404d9": "2026-11-17T12:10:11.529158+00:00",
   "b6d662f92430d220": "2026-11-17T12:10:11.529158+00:00",
-  "69b0652976fd8cb2": "2026-11-17T12:20:24.858878+00:00"
+  "69b0652976fd8cb2": "2026-11-17T12:20:24.858878+00:00",
+  "a6db84a7b1c619ea": "2026-11-17T12:30:11.856162+00:00",
+  "5142e7c554b5f4b4": "2026-11-17T12:30:11.856162+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6863,19 +6859,6 @@
     "GPblog": "Formula 1 Las Vegas GP 2026: All session times and full weekend schedule"
    },
    "last": "2026-11-15T12:34:39.090866+00:00"
-  },
-  "S7660": {
-   "title": "Hadjar reflects on three missed GPs due to injury",
-   "first": "2026-11-15T12:24:20.466622+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-15T12:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Hadjar laat ander geluid horen over F1-seizoen"
-   },
-   "last": "2026-11-15T12:24:20.466642+00:00"
   },
   "S7661": {
    "title": "Former Liberty Media boss tips F1 for imminent sale",
@@ -14360,9 +14343,35 @@
     "RacingNews365 NL": "Ecclestone haalt uit naar Hamilton: \"Begint voor de eerste bocht al te klagen\""
    },
    "last": "2026-11-17T12:20:27.620029+00:00"
+  },
+  "S8223": {
+   "title": "College Football Playoff bubble ahead of committee ranking",
+   "first": "2026-11-17T12:30:14.526147+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:06:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Who's on College Football Playoff bubble ahead of committee's third ranking?"
+   },
+   "last": "2026-11-17T12:30:14.526164+00:00"
+  },
+  "S8224": {
+   "title": "Profile of Mercedes owner George Kurtz",
+   "first": "2026-11-17T12:30:14.526171+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-17T12:26:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Meet Mercedes’ quiet owner: The billionaire racing driver involved in the team’s latest success"
+   },
+   "last": "2026-11-17T12:30:14.526177+00:00"
   }
  },
- "story_seq": 8222,
+ "story_seq": 8224,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14481,17 +14490,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T12:20:24.858878+00:00",
+ "last_run": "2026-11-17T12:30:11.856162+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T12:20:52.115610+00:00",
-   "title": "Russell, Hamilton örneğiyle 2027'de toparlanacağını söylüyor",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-14T12:30:47.881200+00:00",
    "title": "Hamilton'a Ferrari eleştirisi: \"Schumacher asla böyle yapmadı\"",
@@ -15571,6 +15575,11 @@
    "t": "2026-11-17T12:10:20.784148+00:00",
    "title": "Hamilton Las Vegas FP1'de yarışmayacak, Beganovic Ferrari'de şans buluyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-17T12:30:18.200808+00:00",
+   "title": "George Kurtz: Mercedes'in sessiz sahibi ve yarış pilotu",
+   "source": "PlanetF1"
   }
  ]
 }
