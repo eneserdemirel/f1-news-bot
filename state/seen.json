@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "905a569b9448fb54": "2026-11-03T23:40:14.167426+00:00",
-  "3c56b006dc5b9e34": "2026-11-03T23:40:14.167426+00:00",
-  "e485b85d3050e8da": "2026-11-03T23:40:14.167426+00:00",
-  "cd09b09a0af9efdb": "2026-11-03T23:40:14.167426+00:00",
   "ac23ba9f67e1c42f": "2026-11-03T23:50:15.306784+00:00",
   "9dda46b941a91c85": "2026-11-03T23:50:15.306784+00:00",
   "9cafd4586301de26": "2026-11-03T23:50:15.306784+00:00",
@@ -6534,7 +6530,8 @@
   "da6caf0e45eab337": "2026-11-17T23:21:25.491055+00:00",
   "da0b392ffe5088da": "2026-11-17T23:31:27.365311+00:00",
   "53f4dca8587205fd": "2026-11-17T23:31:27.365311+00:00",
-  "39e0e97147c7ee83": "2026-11-17T23:31:27.365311+00:00"
+  "39e0e97147c7ee83": "2026-11-17T23:31:27.365311+00:00",
+  "5ee26d42d639cb83": "2026-11-17T23:41:24.319121+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6754,32 +6751,6 @@
     "GPblog": "Verstappen and Norris reveal why nothing has changed since 2025 title fight"
    },
    "last": "2026-11-16T00:46:05.439309+00:00"
-  },
-  "S7796": {
-   "title": "Knicks vs. Raptors live score (Nov 15, 2026)",
-   "first": "2026-11-15T23:35:32.970000+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T23:30:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Knicks vs. Raptors (15 Nov, 2026) Live Score"
-   },
-   "last": "2026-11-15T23:35:32.970021+00:00"
-  },
-  "S7797": {
-   "title": "Idaho State vs. Seattle U game highlights",
-   "first": "2026-11-15T23:35:32.970027+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T23:25:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Idaho State Bengals vs. Seattle U Redhawks: Game Highlights"
-   },
-   "last": "2026-11-15T23:35:32.970034+00:00"
   },
   "S7798": {
    "title": "Imari Berry three-pointer for Louisville",
@@ -14414,9 +14385,22 @@
     "ESPN F1": "Braeden Shrewsberry knocks down the 3"
    },
    "last": "2026-11-17T23:31:29.130255+00:00"
+  },
+  "S8368": {
+   "title": "LeBron James sues makers of AI sports-betting app 'Bron'",
+   "first": "2026-11-17T23:41:25.382482+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T23:36:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "76ers' LeBron James sues makers of AI sports-betting app 'Bron'"
+   },
+   "last": "2026-11-17T23:41:25.382499+00:00"
   }
  },
- "story_seq": 8367,
+ "story_seq": 8368,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14535,7 +14519,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-17T23:31:27.365311+00:00",
+ "last_run": "2026-11-17T23:41:24.319121+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
