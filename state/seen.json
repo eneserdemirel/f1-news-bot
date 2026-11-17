@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "134c031c754a293b": "2026-11-03T22:09:30.601852+00:00",
   "a58a84c8da465ada": "2026-11-03T22:19:28.122880+00:00",
   "5200646c01467ec3": "2026-11-03T22:19:28.122880+00:00",
   "ab1fc0bfce123a16": "2026-11-03T22:19:28.122880+00:00",
@@ -6517,7 +6516,10 @@
   "5ce5eec90f4cdb51": "2026-11-17T21:51:24.932605+00:00",
   "2eeef6a21265c405": "2026-11-17T22:01:26.494425+00:00",
   "b757f089d89deb6e": "2026-11-17T22:01:26.494425+00:00",
-  "3ac43cf04dd17700": "2026-11-17T22:01:26.494425+00:00"
+  "3ac43cf04dd17700": "2026-11-17T22:01:26.494425+00:00",
+  "771cdfe7ea1c7bf0": "2026-11-17T22:11:25.302467+00:00",
+  "85b61139b5f07117": "2026-11-17T22:11:25.302467+00:00",
+  "5eea9df47030a755": "2026-11-17T22:11:25.302467+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6711,45 +6713,6 @@
     "ESPN F1": "Belgium 4-1 Italy (Nov 15, 2026) Game Analysis"
    },
    "last": "2026-11-15T23:15:38.189047+00:00"
-  },
-  "S7772": {
-   "title": "American University 70-64 Harvard final score",
-   "first": "2026-11-15T22:05:35.501916+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:02:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "American University 70-64 Harvard (Nov 15, 2026) Final Score"
-   },
-   "last": "2026-11-15T22:05:35.501922+00:00"
-  },
-  "S7773": {
-   "title": "Mateer praises Oklahoma teammates after Ole Miss win",
-   "first": "2026-11-15T22:05:35.501926+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:00:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mateer praises Witten, Oklahoma teammates after win over Ole Miss"
-   },
-   "last": "2026-11-15T22:05:35.501931+00:00"
-  },
-  "S7774": {
-   "title": "Indiana Pacers vs. Philadelphia 76ers highlights",
-   "first": "2026-11-15T22:05:35.501934+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T21:54:16+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Indiana Pacers vs. Philadelphia 76ers: Game Highlights"
-   },
-   "last": "2026-11-15T22:05:35.501939+00:00"
   },
   "S7775": {
    "title": "Forgotten 1981 Las Vegas race where Piquet won title",
@@ -14331,7 +14294,7 @@
    "titles": {
     "ESPN F1": "Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury"
    },
-   "last": "2026-11-17T22:01:28.830270+00:00"
+   "last": "2026-11-17T22:11:27.242878+00:00"
   },
   "S8341": {
    "title": "Denmark vs Norway football live score",
@@ -14358,9 +14321,35 @@
     "GPblog": "Las Vegas GP weather forecast warns of near-freezing temperatures"
    },
    "last": "2026-11-17T22:01:28.830288+00:00"
+  },
+  "S8343": {
+   "title": "Titans place WR Wan'Dale Robinson on IR with ankle injury",
+   "first": "2026-11-17T22:11:27.242887+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T21:33:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Titans put WR Wan'Dale Robinson on IR due to ankle injury"
+   },
+   "last": "2026-11-17T22:11:27.242893+00:00"
+  },
+  "S8344": {
+   "title": "FC Cincinnati nearing deal to acquire NWSL's Racing",
+   "first": "2026-11-17T22:11:27.242897+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T21:01:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing"
+   },
+   "last": "2026-11-17T22:11:27.242902+00:00"
   }
  },
- "story_seq": 8342,
+ "story_seq": 8344,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14479,17 +14468,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T22:01:26.494425+00:00",
+ "last_run": "2026-11-17T22:11:25.302467+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T22:02:18.519489+00:00",
-   "title": "Russell, Antonelli'ye karşı zorlu sezonu ve Allison'ın övgüsünü anlatıyor",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-15T04:12:57.759133+00:00",
    "title": "Ralf Schumacher: Hamilton Leclerc'ten hızlı değil, sorunu o yaratıyor",
