@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "07d6e6a1f4f73a32": "2026-11-03T17:58:20.895041+00:00",
-  "a5702b678ca46be4": "2026-11-03T17:58:20.895041+00:00",
-  "aab19a9cf377733e": "2026-11-03T17:58:20.895041+00:00",
   "d3304e45bdfd8d0b": "2026-11-03T18:08:25.946868+00:00",
   "6fa66e5f3184ab2c": "2026-11-03T18:08:25.946868+00:00",
   "793e77c6951d2435": "2026-11-03T18:08:25.946868+00:00",
@@ -6562,7 +6559,10 @@
   "24a8f0664499db93": "2026-11-17T17:50:50.754473+00:00",
   "fb791c0062a00686": "2026-11-17T17:50:50.754473+00:00",
   "e96a58bc78efdb05": "2026-11-17T17:50:50.754473+00:00",
-  "e0d4cd24a47a0c4a": "2026-11-17T17:50:50.754473+00:00"
+  "e0d4cd24a47a0c4a": "2026-11-17T17:50:50.754473+00:00",
+  "283ea016a17744be": "2026-11-17T18:00:48.924314+00:00",
+  "5560da66f96d3f0c": "2026-11-17T18:00:48.924314+00:00",
+  "e2bfab26d3752c21": "2026-11-17T18:00:48.924314+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6710,32 +6710,6 @@
     "Crash.net": "Toto Wolff offers blunt response to Kimi Antonelli to Ferrari question"
    },
    "last": "2026-11-17T15:50:51.645577+00:00"
-  },
-  "S7715": {
-   "title": "Bella Devey scores for North Carolina",
-   "first": "2026-11-15T17:54:49.301786+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T17:49:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bella Devey gets on the scoresheet for North Carolina"
-   },
-   "last": "2026-11-15T17:54:49.301803+00:00"
-  },
-  "S7716": {
-   "title": "Aston Villa vs. Birmingham team stats",
-   "first": "2026-11-15T17:54:49.301807+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T14:17:09+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Aston Villa vs. Birmingham (Nov 15, 2026) Team Stats"
-   },
-   "last": "2026-11-15T17:54:49.301813+00:00"
   },
   "S7717": {
    "title": "NFL Week 10 takeaways, questions and fantasy spin",
@@ -14556,7 +14530,7 @@
    "titles": {
     "ESPN F1": "Ice hockey federation's website down after apparent hack"
    },
-   "last": "2026-11-17T17:50:53.437484+00:00"
+   "last": "2026-11-17T18:00:53.955999+00:00"
   },
   "S8302": {
    "title": "Retrospective on Verstappen's 2025 Las Vegas GP win",
@@ -14570,9 +14544,35 @@
     "RacingNews365 NL": "'Chucky' Verstappen profiteert optimaal van blunderend McLaren - terugblik"
    },
    "last": "2026-11-17T17:50:53.437490+00:00"
+  },
+  "S8303": {
+   "title": "Fantasy basketball adds and NBA bets for Tuesday",
+   "first": "2026-11-17T18:00:53.956010+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T17:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy basketball adds and NBA bets: Ride with Doncic and Grimes on Tuesday"
+   },
+   "last": "2026-11-17T18:00:53.956016+00:00"
+  },
+  "S8304": {
+   "title": "Verstappen's number one mechanic confirms 2027 departure from Red Bull",
+   "first": "2026-11-17T18:00:53.956019+00:00",
+   "sources": {
+    "GPFans": "2026-11-17T17:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Max Verstappen loses another key Red Bull ally as departure announced"
+   },
+   "last": "2026-11-17T18:00:53.956024+00:00"
   }
  },
- "story_seq": 8302,
+ "story_seq": 8304,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14691,7 +14691,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T17:50:50.754473+00:00",
+ "last_run": "2026-11-17T18:00:48.924314+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
