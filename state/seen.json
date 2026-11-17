@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d0405bc0d071f291": "2026-11-03T18:18:18.075878+00:00",
-  "bd6a066afd78647a": "2026-11-03T18:18:18.075878+00:00",
-  "d07d209fae107af7": "2026-11-03T18:18:18.075878+00:00",
-  "38f37a68cf177ad0": "2026-11-03T18:18:18.075878+00:00",
-  "e50c1dfd963ab62b": "2026-11-03T18:18:18.075878+00:00",
-  "056da5bb566c91f9": "2026-11-03T18:18:18.075878+00:00",
-  "7e87a97e934b3dcd": "2026-11-03T18:18:18.075878+00:00",
   "4056ccf1f556321e": "2026-11-03T18:28:23.898534+00:00",
   "fbda5eac4fd495bf": "2026-11-03T18:28:23.898534+00:00",
   "1f9c8f6ba8061666": "2026-11-03T18:38:16.837045+00:00",
@@ -6561,7 +6554,13 @@
   "3bfd8584a7771645": "2026-11-17T18:10:50.502793+00:00",
   "1c68c354f88475b8": "2026-11-17T18:10:50.502793+00:00",
   "26e5d18a21e34150": "2026-11-17T18:10:50.502793+00:00",
-  "8bbe8e5911968314": "2026-11-17T18:10:50.502793+00:00"
+  "8bbe8e5911968314": "2026-11-17T18:10:50.502793+00:00",
+  "32d7e847119fe40c": "2026-11-17T18:20:50.458518+00:00",
+  "0fd53c540e37fafb": "2026-11-17T18:20:50.458518+00:00",
+  "7f509acdcb284352": "2026-11-17T18:20:50.458518+00:00",
+  "7c8e32e0a57134fb": "2026-11-17T18:20:50.458518+00:00",
+  "827210cdac4a6adb": "2026-11-17T18:20:50.458518+00:00",
+  "f30b33410fc7e7e3": "2026-11-17T18:20:50.458518+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6720,32 +6719,6 @@
     "ESPN F1": "U.S. blanks Finland to reach women's hockey worlds final"
    },
    "last": "2026-11-15T19:24:45.968135+00:00"
-  },
-  "S7724": {
-   "title": "Mekies praises Lawson's form and 'incredible contrast' at Red Bull",
-   "first": "2026-11-15T18:14:51.204173+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-15T18:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Liam Lawson hailed by Red Bull for 'incredible contrast' with F1 redemption"
-   },
-   "last": "2026-11-15T18:14:51.204178+00:00"
-  },
-  "S7725": {
-   "title": "Haas confirms Camara and Hirakawa as only reserve drivers for final races",
-   "first": "2026-11-15T18:14:51.204182+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-15T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "La Haas ha finito… i piloti: la regola che vieta altre riserve oltre a Camara e Hirakawa"
-   },
-   "last": "2026-11-15T18:14:51.204187+00:00"
   },
   "S7726": {
    "title": "Rob Cross darts average at Grand Slam",
@@ -14481,14 +14454,16 @@
    "title": "Verstappen's number one mechanic confirms 2027 departure from Red Bull",
    "first": "2026-11-17T18:00:53.956019+00:00",
    "sources": {
-    "GPFans": "2026-11-17T17:57:00+00:00"
+    "GPFans": "2026-11-17T17:57:00+00:00",
+    "Motorsport Week": "2026-11-17T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Max Verstappen loses another key Red Bull ally as departure announced"
+    "GPFans": "Max Verstappen loses another key Red Bull ally as departure announced",
+    "Motorsport Week": "Red Bull rocked by departure of key Max Verstappen aide"
    },
-   "last": "2026-11-17T18:00:53.956024+00:00"
+   "last": "2026-11-17T18:20:55.067251+00:00"
   },
   "S8305": {
    "title": "Fantasy football tight end rankings for Week 11",
@@ -14528,9 +14503,61 @@
     "GPblog": "Antonelli joins exclusive F1 club with achievement unseen for 44 years"
    },
    "last": "2026-11-17T18:10:53.558085+00:00"
+  },
+  "S8308": {
+   "title": "Fantasy football running back rankings for Week 11",
+   "first": "2026-11-17T18:20:55.067205+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T17:28:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy football rankings for Week 11: Running back"
+   },
+   "last": "2026-11-17T18:20:55.067224+00:00"
+  },
+  "S8309": {
+   "title": "Fantasy football D/ST rankings for Week 11",
+   "first": "2026-11-17T18:20:55.067229+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T16:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy football rankings for Week 11: D/ST"
+   },
+   "last": "2026-11-17T18:20:55.067234+00:00"
+  },
+  "S8310": {
+   "title": "Qatar 0-1 South Korea match team stats",
+   "first": "2026-11-17T18:20:55.067237+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T14:54:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Qatar 0-1 South Korea (Nov 17, 2026) Team Stats"
+   },
+   "last": "2026-11-17T18:20:55.067241+00:00"
+  },
+  "S8311": {
+   "title": "Liam Lawson reflects on positive Red Bull stint",
+   "first": "2026-11-17T18:20:55.067243+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T18:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson draws on 'one thing' he can boast about after Red Bull stint"
+   },
+   "last": "2026-11-17T18:20:55.067247+00:00"
   }
  },
- "story_seq": 8307,
+ "story_seq": 8311,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14649,17 +14676,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T18:10:50.502793+00:00",
+ "last_run": "2026-11-17T18:20:50.458518+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T18:11:29.176429+00:00",
-   "title": "Piastri'nin Webber ile ayrılığı: Günther Steiner olası bir neden görüyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-14T19:11:35.187076+00:00",
    "title": "Piastri, 2025 şampiyonluk çöküşünü 2026 McLaren sorunlarıyla ilişkilendirmiyor",
@@ -15799,6 +15821,16 @@
    "t": "2026-11-17T17:50:58.201567+00:00",
    "title": "Verstappen, McLaren'in hatasından yararlanarak Las Vegas'ta kazandı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-17T18:20:59.845921+00:00",
+   "title": "Red Bull'da Verstappen'in önemli ismi Jon Caller takımdan ayrılıyor",
+   "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-17T18:21:00.241435+00:00",
+   "title": "Liam Lawson, Red Bull dönemi sonrası gurur duyduğu tek şeyi anlattı",
+   "source": "RacingNews365"
   }
  ]
 }
