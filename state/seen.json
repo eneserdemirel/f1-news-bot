@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d3304e45bdfd8d0b": "2026-11-03T18:08:25.946868+00:00",
-  "6fa66e5f3184ab2c": "2026-11-03T18:08:25.946868+00:00",
-  "793e77c6951d2435": "2026-11-03T18:08:25.946868+00:00",
-  "5e012f6515f2fcb3": "2026-11-03T18:08:25.946868+00:00",
-  "a95ba675eae855d1": "2026-11-03T18:08:25.946868+00:00",
   "d0405bc0d071f291": "2026-11-03T18:18:18.075878+00:00",
   "bd6a066afd78647a": "2026-11-03T18:18:18.075878+00:00",
   "d07d209fae107af7": "2026-11-03T18:18:18.075878+00:00",
@@ -6562,7 +6557,11 @@
   "e0d4cd24a47a0c4a": "2026-11-17T17:50:50.754473+00:00",
   "283ea016a17744be": "2026-11-17T18:00:48.924314+00:00",
   "5560da66f96d3f0c": "2026-11-17T18:00:48.924314+00:00",
-  "e2bfab26d3752c21": "2026-11-17T18:00:48.924314+00:00"
+  "e2bfab26d3752c21": "2026-11-17T18:00:48.924314+00:00",
+  "3bfd8584a7771645": "2026-11-17T18:10:50.502793+00:00",
+  "1c68c354f88475b8": "2026-11-17T18:10:50.502793+00:00",
+  "26e5d18a21e34150": "2026-11-17T18:10:50.502793+00:00",
+  "8bbe8e5911968314": "2026-11-17T18:10:50.502793+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6584,21 +6583,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S7533": {
-   "title": "Red Bull frozen lake showdown with F1 car, MotoGP bike, rally car",
-   "first": "2026-11-14T22:02:13.777355+00:00",
-   "sources": {
-    "GPblog": "2026-11-14T22:01:00+00:00",
-    "AS": "2026-11-15T17:44:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Red Bull F1 driver stunned by MotoGP legend in spectacular winter race",
-    "AS": "Pedrosa gana la carrera más loca de su vida"
-   },
-   "last": "2026-11-15T18:04:52.784930+00:00"
-  },
   "S7680": {
    "title": "Rosberg says Michael Schumacher declined in Mercedes comeback",
    "first": "2026-11-15T14:04:19.082748+00:00",
@@ -6723,71 +6707,6 @@
     "ESPN F1": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games"
    },
    "last": "2026-11-15T22:35:33.327670+00:00"
-  },
-  "S7718": {
-   "title": "Jackson State vs. Alabama State full highlights",
-   "first": "2026-11-15T18:04:52.784897+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T18:02:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jackson State Tigers vs. Alabama State Hornets: Full Highlights"
-   },
-   "last": "2026-11-15T18:04:52.784901+00:00"
-  },
-  "S7719": {
-   "title": "Audi FIA appeal could reshape 2026 championships after Italian GP",
-   "first": "2026-11-15T18:04:52.784905+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T18:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "How Audi's FIA appeal could reshape both F1 championships months later"
-   },
-   "last": "2026-11-15T18:04:52.784909+00:00"
-  },
-  "S7720": {
-   "title": "Bearman sends Ferrari message amid Hamilton succession talk",
-   "first": "2026-11-15T18:04:52.784911+00:00",
-   "sources": {
-    "GPFans": "2026-11-15T17:59:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Bearman sends Ferrari message as Lewis Hamilton succession talk gathers pace"
-   },
-   "last": "2026-11-15T18:04:52.784915+00:00"
-  },
-  "S7721": {
-   "title": "Gazzetta comparison of teammate rivalries at top teams",
-   "first": "2026-11-15T18:04:52.784917+00:00",
-   "sources": {
-    "Gazzetta dello Sport": "2026-11-15T18:00:09+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Gazzetta dello Sport": "Antonelli domina, in Ferrari regna l'equilibrio: il confronto tra compagni di squadra nei top team"
-   },
-   "last": "2026-11-15T18:04:52.784920+00:00"
-  },
-  "S7722": {
-   "title": "Mercedes technical chief explains Antonelli's 2026 speed over Russell",
-   "first": "2026-11-15T18:04:52.784923+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-15T18:00:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Mercedes-Technikchef klärt auf: Darum war Antonelli 2026 schneller als Russell - Motorsport-Total.com"
-   },
-   "last": "2026-11-15T18:04:52.784926+00:00"
   },
   "S7723": {
    "title": "US women's hockey beats Finland to reach worlds final",
@@ -14237,14 +14156,14 @@
    "title": "Texans place LB Azeez Al-Shaair on injured reserve",
    "first": "2026-11-17T17:01:07.102898+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T16:57:54+00:00"
+    "ESPN F1": "2026-11-17T16:49:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Texans place LB Azeez Al-Shaair, team's leading tackler, on IR"
    },
-   "last": "2026-11-17T17:01:07.102916+00:00"
+   "last": "2026-11-17T18:10:53.558070+00:00"
   },
   "S8280": {
    "title": "Red Bull's mid-season comeback suggests hope for 2027",
@@ -14570,9 +14489,48 @@
     "GPFans": "Max Verstappen loses another key Red Bull ally as departure announced"
    },
    "last": "2026-11-17T18:00:53.956024+00:00"
+  },
+  "S8305": {
+   "title": "Fantasy football tight end rankings for Week 11",
+   "first": "2026-11-17T18:10:53.558042+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T17:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fantasy football rankings for Week 11: Tight end"
+   },
+   "last": "2026-11-17T18:10:53.558061+00:00"
+  },
+  "S8306": {
+   "title": "Japan 1-2 Paraguay match team stats",
+   "first": "2026-11-17T18:10:53.558074+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T13:34:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Japan 1-2 Paraguay (Nov 17, 2026) Team Stats"
+   },
+   "last": "2026-11-17T18:10:53.558078+00:00"
+  },
+  "S8307": {
+   "title": "Antonelli joins exclusive club of sixth-ever maiden-win champions",
+   "first": "2026-11-17T18:10:53.558081+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Antonelli joins exclusive F1 club with achievement unseen for 44 years"
+   },
+   "last": "2026-11-17T18:10:53.558085+00:00"
   }
  },
- "story_seq": 8304,
+ "story_seq": 8307,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14691,7 +14649,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T18:00:48.924314+00:00",
+ "last_run": "2026-11-17T18:10:50.502793+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
