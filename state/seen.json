@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "af59d832212fc3ab": "2026-11-03T16:07:02.329444+00:00",
-  "30273986bad3631e": "2026-11-03T16:07:02.329444+00:00",
-  "8b57a4269a008d04": "2026-11-03T16:07:02.329444+00:00",
-  "0f9e5aab8fb1b15b": "2026-11-03T16:07:02.329444+00:00",
-  "6fbd1cca6eb391df": "2026-11-03T16:07:02.329444+00:00",
-  "d5e2729e1c742b91": "2026-11-03T16:07:02.329444+00:00",
   "7a3d8d661cc9e0d3": "2026-11-03T16:17:27.520464+00:00",
   "73c659ca3225c8ba": "2026-11-03T16:17:27.520464+00:00",
   "fb42159d2dbec8d0": "2026-11-03T16:17:27.520464+00:00",
@@ -6562,7 +6556,14 @@
   "577b505f54d89c37": "2026-11-17T16:00:51.492164+00:00",
   "30829643820c8ca8": "2026-11-17T16:00:51.492164+00:00",
   "b320c8e942d5bae5": "2026-11-17T16:00:51.492164+00:00",
-  "e6179c7ea6029578": "2026-11-17T16:00:51.492164+00:00"
+  "e6179c7ea6029578": "2026-11-17T16:00:51.492164+00:00",
+  "d6f903fa068a76f8": "2026-11-17T16:10:48.544291+00:00",
+  "c241d3c0b029c0eb": "2026-11-17T16:10:48.544291+00:00",
+  "b83c4201a0fa2f13": "2026-11-17T16:10:48.544291+00:00",
+  "1d05c7f0c9784dc3": "2026-11-17T16:10:48.544291+00:00",
+  "90ea95a928946d19": "2026-11-17T16:10:48.544291+00:00",
+  "19ffafe61e68c8b0": "2026-11-17T16:10:48.544291+00:00",
+  "6366e7a7d5454b7a": "2026-11-17T16:10:48.544291+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6584,21 +6585,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S7517": {
-   "title": "Ecclestone calls FIA McEvoy ban 'completely mad'",
-   "first": "2026-11-14T21:02:12.328304+00:00",
-   "sources": {
-    "GPblog": "2026-11-14T21:01:00+00:00",
-    "GPFans": "2026-11-15T16:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Bernie Ecclestone slams FIA ban on F1 journalist as 'completely mad'",
-    "GPFans": "F1 journalist ban sparks backlash as FIA decision branded 'completely mad'"
-   },
-   "last": "2026-11-15T16:04:46.082311+00:00"
-  },
   "S7533": {
    "title": "Red Bull frozen lake showdown with F1 car, MotoGP bike, rally car",
    "first": "2026-11-14T22:02:13.777355+00:00",
@@ -13226,7 +13212,7 @@
    "titles": {
     "ESPN F1": "Jaylen Brown banged up but combines with Joel Embiid to lead 76ers past Nets"
    },
-   "last": "2026-11-17T09:09:35.737991+00:00"
+   "last": "2026-11-17T16:10:53.933380+00:00"
   },
   "S8187": {
    "title": "Hamilton hits back at older drivers over young criticism",
@@ -14324,9 +14310,65 @@
     "ESPN F1": "Wayne Rooney reveals he contemplated suicide at height of Man United career"
    },
    "last": "2026-11-17T16:00:58.033372+00:00"
+  },
+  "S8266": {
+   "title": "Feature on the Sphere's role in the Las Vegas GP",
+   "first": "2026-11-17T16:10:53.933354+00:00",
+   "sources": {
+    "Formula 1": "2026-11-17T16:10:53.933369+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How the Sphere became the heart of the Las Vegas GP"
+   },
+   "last": "2026-11-17T16:10:53.933372+00:00"
+  },
+  "S8267": {
+   "title": "Valvoline and Aston Martin partner on mechanic training",
+   "first": "2026-11-17T16:10:53.933384+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-17T16:00:19+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "Ispirare la prossima generazione di meccanici"
+   },
+   "last": "2026-11-17T16:10:53.933390+00:00"
+  },
+  "S8268": {
+   "title": "FIA and manufacturers agree in principle on 2030 V8 engines",
+   "first": "2026-11-17T16:10:53.933393+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T16:00:00+00:00",
+    "RacingNews365 NL": "2026-11-17T16:00:00+00:00",
+    "GPblog": "2026-11-17T16:01:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Breaking: V8 engines set for F1 return in 2030 as key agreement reached",
+    "RacingNews365 NL": "Breaking: F1 keert terug naar iconische motor",
+    "GPblog": "F1's V8 engine return is now a reality as FIA announce historic agreement"
+   },
+   "last": "2026-11-17T16:10:53.933404+00:00"
+  },
+  "S8269": {
+   "title": "Analysis of what Cadillac risks by signing Colton Herta",
+   "first": "2026-11-17T16:10:53.933407+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T16:05:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Was hat Cadillac zu verlieren, wenn man Colton Herta verpflichtet? - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T16:10:53.933410+00:00"
   }
  },
- "story_seq": 8265,
+ "story_seq": 8269,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14445,7 +14487,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T16:00:51.492164+00:00",
+ "last_run": "2026-11-17T16:10:48.544291+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15575,6 +15617,26 @@
    "t": "2026-11-17T16:01:01.402969+00:00",
    "title": "Beganovic, Las Vegas'ta FP1'de Hamilton'ın yerine yarışacak",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T16:10:59.624190+00:00",
+   "title": "F1'de 2030'da V8 motorlara dönüş için ön anlaşma sağlandı",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T16:10:59.994053+00:00",
+   "title": "Aston Martin ve Valvoline, yeni nesil mekanikerler için program yürütüyor",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-17T16:11:00.436168+00:00",
+   "title": "Cadillac, Colton Herta'yı kadrosuna katarsa ne kaybeder?",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-17T16:11:00.802022+00:00",
+   "title": "Sphere, Las Vegas Grand Prix'nin vazgeçilmez bir parçası oldu",
+   "source": "Formula 1"
   }
  ]
 }
