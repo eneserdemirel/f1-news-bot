@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4309c35f0ef64ddd": "2026-11-03T21:59:29.040307+00:00",
-  "431cd571d1bbcdba": "2026-11-03T21:59:29.040307+00:00",
-  "f421568c698cea82": "2026-11-03T21:59:29.040307+00:00",
   "134c031c754a293b": "2026-11-03T22:09:30.601852+00:00",
   "a58a84c8da465ada": "2026-11-03T22:19:28.122880+00:00",
   "5200646c01467ec3": "2026-11-03T22:19:28.122880+00:00",
@@ -6517,7 +6514,10 @@
   "80da637eaf9e6919": "2026-11-17T21:31:24.745593+00:00",
   "8371eaa6b90a3aa9": "2026-11-17T21:41:30.250089+00:00",
   "f52807b4a417563e": "2026-11-17T21:51:24.932605+00:00",
-  "5ce5eec90f4cdb51": "2026-11-17T21:51:24.932605+00:00"
+  "5ce5eec90f4cdb51": "2026-11-17T21:51:24.932605+00:00",
+  "2eeef6a21265c405": "2026-11-17T22:01:26.494425+00:00",
+  "b757f089d89deb6e": "2026-11-17T22:01:26.494425+00:00",
+  "3ac43cf04dd17700": "2026-11-17T22:01:26.494425+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14319,9 +14319,48 @@
     "ESPN F1": "Perk: Warriors cannot waste Steph's 'greatness'"
    },
    "last": "2026-11-17T21:51:27.154769+00:00"
+  },
+  "S8340": {
+   "title": "Jordan Phillips Dolphins season-ending injury report",
+   "first": "2026-11-17T22:01:28.830251+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T21:52:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury"
+   },
+   "last": "2026-11-17T22:01:28.830270+00:00"
+  },
+  "S8341": {
+   "title": "Denmark vs Norway football live score",
+   "first": "2026-11-17T22:01:28.830275+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T19:48:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Denmark vs. Norway (Nov 17, 2026) Live Score"
+   },
+   "last": "2026-11-17T22:01:28.830281+00:00"
+  },
+  "S8342": {
+   "title": "Las Vegas GP forecast shows near-freezing temperatures",
+   "first": "2026-11-17T22:01:28.830284+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T22:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Las Vegas GP weather forecast warns of near-freezing temperatures"
+   },
+   "last": "2026-11-17T22:01:28.830288+00:00"
   }
  },
- "story_seq": 8339,
+ "story_seq": 8342,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14440,7 +14479,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T21:51:24.932605+00:00",
+ "last_run": "2026-11-17T22:01:26.494425+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
@@ -15605,6 +15644,11 @@
    "t": "2026-11-17T21:11:32.778705+00:00",
    "title": "McLaren, Norris ile Piastri arasındaki 2026 farkını açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-17T22:01:34.019546+00:00",
+   "title": "Las Vegas GP'de hava durumu uyarısı: geceleri 4°C'ye kadar düşüş",
+   "source": "GPblog"
   }
  ]
 }
