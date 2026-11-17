@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3ff9ae8f8754402f": "2026-11-03T10:46:18.017630+00:00",
-  "33772699c126cf29": "2026-11-03T10:46:18.017630+00:00",
-  "acaec87c492bc556": "2026-11-03T10:46:18.017630+00:00",
-  "7c086b9f192c7dc6": "2026-11-03T10:46:18.017630+00:00",
-  "03c3c9e20f0282ff": "2026-11-03T10:46:18.017630+00:00",
   "218a06b2f51e662b": "2026-11-03T10:56:17.469162+00:00",
   "81810e5083d985da": "2026-11-03T10:56:17.469162+00:00",
   "20ed712d0b76fc49": "2026-11-03T10:56:17.469162+00:00",
@@ -6573,7 +6568,11 @@
   "c001fec84dc2e6f3": "2026-11-17T10:30:17.502203+00:00",
   "8da34a4ddebd1dc4": "2026-11-17T10:40:37.331489+00:00",
   "e0b6918b835d7da3": "2026-11-17T10:40:37.331489+00:00",
-  "e3f03e48ffa1a7e1": "2026-11-17T10:40:37.331489+00:00"
+  "e3f03e48ffa1a7e1": "2026-11-17T10:40:37.331489+00:00",
+  "497e8fc3f17e2dd6": "2026-11-17T10:50:11.051232+00:00",
+  "ec46fcabf3cc5e1b": "2026-11-17T10:50:11.051232+00:00",
+  "6afe5f2a7741453d": "2026-11-17T10:50:11.051232+00:00",
+  "64725148c9b0e823": "2026-11-17T10:50:11.051232+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6887,32 +6886,6 @@
     "GPblog": "Wolff sees F1 history in Hamilton and Verstappen's unforgettable podium moment"
    },
    "last": "2026-11-15T12:34:39.090874+00:00"
-  },
-  "S7646": {
-   "title": "Tremayne remembers Ron Dennis a decade after he left F1",
-   "first": "2026-11-15T10:43:41.673398+00:00",
-   "sources": {
-    "Formula 1": "2026-11-15T10:43:41.673413+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him"
-   },
-   "last": "2026-11-15T10:43:41.673416+00:00"
-  },
-  "S7647": {
-   "title": "Former F1 drivers take on five-way Red Bull challenge video",
-   "first": "2026-11-15T10:43:41.673421+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-15T10:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Former F1 drivers take on staggering five-way Red Bull challenge"
-   },
-   "last": "2026-11-15T10:43:41.673427+00:00"
   },
   "S7648": {
    "title": "Mercedes asked whether Antonelli should help Russell for P2",
@@ -10541,7 +10514,8 @@
     "RacingNews365": "2026-11-16T09:50:00+00:00",
     "GPblog": "2026-11-16T09:46:00+00:00",
     "PlanetF1": "2026-11-16T10:59:52+00:00",
-    "GPFans": "2026-11-16T21:45:00+00:00"
+    "GPFans": "2026-11-16T21:45:00+00:00",
+    "Auto Motor und Sport": "2026-11-17T10:11:24+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -10550,9 +10524,10 @@
     "RacingNews365": "Former Red Bull junior secures seat at Lando Norris' F2 squad",
     "GPblog": "Former Red Bull Racing junior gets new opportunity from Lando Norris",
     "PlanetF1": "Lando Norris signs former Red Bull junior in new F2 driver announcement",
-    "GPFans": "Lando Norris announces major deal with former Red Bull star"
+    "GPFans": "Lando Norris announces major deal with former Red Bull star",
+    "Auto Motor und Sport": "Lando Norris fördert deutsches Talent: Schafft er den Aufstieg in die Formel 1?"
    },
-   "last": "2026-11-16T21:48:12.411876+00:00"
+   "last": "2026-11-17T10:50:16.428981+00:00"
   },
   "S7920": {
    "title": "Tony Popovic hints at possible return as Socceroos coach",
@@ -14351,14 +14326,16 @@
    "title": "Ferrari to replace Hamilton with rookie in Las Vegas FP1",
    "first": "2026-11-17T10:30:20.291410+00:00",
    "sources": {
-    "RacingNews365": "2026-11-17T10:24:00+00:00"
+    "RacingNews365": "2026-11-17T10:24:00+00:00",
+    "RacingNews365 NL": "2026-11-17T10:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Ferrari replace Lewis Hamilton for Las Vegas GP first practice"
+    "RacingNews365": "Ferrari replace Lewis Hamilton for Las Vegas GP first practice",
+    "RacingNews365 NL": "Ferrari vervangt Hamilton voor eerste training GP Las Vegas"
    },
-   "last": "2026-11-17T10:30:20.291415+00:00"
+   "last": "2026-11-17T10:50:16.428949+00:00"
   },
   "S8208": {
    "title": "F1 discusses 2.1-litre V8 engine concept for 2030",
@@ -14372,9 +14349,35 @@
     "GPblog": "F1’s V8 discussions gather pace but 2030 remains a target, not a settled date"
    },
    "last": "2026-11-17T10:40:40.023878+00:00"
+  },
+  "S8209": {
+   "title": "FIA makes key decision ahead of Las Vegas Grand Prix",
+   "first": "2026-11-17T10:50:16.428959+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-17T10:46:27+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "FIA makes key decision ahead of the Las Vegas Grand Prix"
+   },
+   "last": "2026-11-17T10:50:16.428965+00:00"
+  },
+  "S8210": {
+   "title": "Vasseur says cold Las Vegas temperatures make tyre window key",
+   "first": "2026-11-17T10:50:16.428970+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T10:35:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “A Las Vegas temperature molto basse, fondamentale portare le gomme nella finestra corretta d’esercizio”"
+   },
+   "last": "2026-11-17T10:50:16.428975+00:00"
   }
  },
- "story_seq": 8208,
+ "story_seq": 8210,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14493,17 +14496,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T10:40:37.331489+00:00",
+ "last_run": "2026-11-17T10:50:11.051232+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T10:40:48.567576+00:00",
-   "title": "Verstappen, Las Vegas öncesi umut verici verilerle rakiplerinden hızlı",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-14T10:50:47.776523+00:00",
    "title": "Mercedes Brezilya'da titreme yaşamadı, Ferrari çok kötü bir yarış yaptı",
@@ -15608,6 +15606,11 @@
    "t": "2026-11-17T10:30:25.415553+00:00",
    "title": "Ferrari, Las Vegas FP1'de Hamilton yerine Beganovic'i çıkaracak",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T10:50:20.740414+00:00",
+   "title": "FIA, Las Vegas Grand Prix öncesi Straight Mode bölge sayısını açıkladı",
+   "source": "PlanetF1"
   }
  ]
 }
