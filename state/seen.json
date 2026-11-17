@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "66d942b60af39ae3": "2026-11-03T20:18:17.505225+00:00",
-  "cecc95b6a1e8a274": "2026-11-03T20:18:17.505225+00:00",
-  "8bdbd69cef002ecb": "2026-11-03T20:18:17.505225+00:00",
-  "e006c1e18860741e": "2026-11-03T20:18:17.505225+00:00",
   "03cfd34aa6be8e3c": "2026-11-03T20:28:22.760160+00:00",
   "1e962f3e213635e3": "2026-11-03T20:38:22.216252+00:00",
   "e8dfb7a34ec4e607": "2026-11-03T20:38:22.216252+00:00",
@@ -6549,7 +6545,11 @@
   "b1d37146b949c646": "2026-11-17T19:41:30.970576+00:00",
   "79c1d03752186ac1": "2026-11-17T19:51:26.081398+00:00",
   "6f4207b8ff80aaaf": "2026-11-17T20:01:26.806016+00:00",
-  "31509ff585d4d289": "2026-11-17T20:01:26.806016+00:00"
+  "31509ff585d4d289": "2026-11-17T20:01:26.806016+00:00",
+  "34c8f41ce3b01994": "2026-11-17T20:21:28.745506+00:00",
+  "d6ea469f365f4db2": "2026-11-17T20:21:28.745506+00:00",
+  "0bde13cf6331f84e": "2026-11-17T20:21:28.745506+00:00",
+  "61a4d1d3dc1d9e3a": "2026-11-17T20:21:28.745506+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13631,7 +13631,7 @@
     "Motorsport.com Italia": "F1 | La FIA rompe il silenzio: i motori V8 da 2,1 litri turbo entreranno in vigore dal 2030",
     "FormulaPassion": "I motori V8 tornano nel 2030! Raggiunto accordo di massima tra FIA, FOM e motoristi"
    },
-   "last": "2026-11-17T17:01:07.102939+00:00"
+   "last": "2026-11-17T20:21:32.143809+00:00"
   },
   "S8269": {
    "title": "Analysis of what Cadillac risks by signing Colton Herta",
@@ -14414,9 +14414,48 @@
     "ESPN F1": "Chris Pratt talks about his path to becoming an actor"
    },
    "last": "2026-11-17T20:01:28.819402+00:00"
+  },
+  "S8329": {
+   "title": "Jordan 2-0 Australia match analysis",
+   "first": "2026-11-17T20:21:32.143765+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T20:19:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jordan 2-0 Australia (Nov 17, 2026) Game Analysis"
+   },
+   "last": "2026-11-17T20:21:32.143783+00:00"
+  },
+  "S8330": {
+   "title": "Naomi Girma out of USWNT squad through injury",
+   "first": "2026-11-17T20:21:32.143789+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T17:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Naomi Girma off USWNT squad for World Cup decider due to injury"
+   },
+   "last": "2026-11-17T20:21:32.143795+00:00"
+  },
+  "S8331": {
+   "title": "Fantasy column on Derrick Henry's outlook",
+   "first": "2026-11-17T20:21:32.143799+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T17:29:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Should fantasy managers be concerned about Derrick Henry?"
+   },
+   "last": "2026-11-17T20:21:32.143803+00:00"
   }
  },
- "story_seq": 8328,
+ "story_seq": 8331,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14535,7 +14574,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T20:11:26.122887+00:00",
+ "last_run": "2026-11-17T20:21:28.745506+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
