@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bfdd17fc8fd3dee0": "2026-11-03T09:56:17.070484+00:00",
-  "741f7af7d78f7b98": "2026-11-03T09:56:17.070484+00:00",
-  "68e9f91c091aa2a5": "2026-11-03T09:56:17.070484+00:00",
-  "08750e862c023ca2": "2026-11-03T09:56:17.070484+00:00",
   "7c15ad068f8aaad6": "2026-11-03T10:06:18.200941+00:00",
   "85e18ce6111a78c9": "2026-11-03T10:06:18.200941+00:00",
   "fb99c6aba6d4300f": "2026-11-03T10:06:18.200941+00:00",
@@ -6579,7 +6575,9 @@
   "c573d15d6f9f11f6": "2026-11-17T09:40:14.196923+00:00",
   "180e7dcd87e88371": "2026-11-17T09:40:14.196923+00:00",
   "3b753cff80a29578": "2026-11-17T09:50:17.387299+00:00",
-  "42a9954f6acb07ba": "2026-11-17T09:50:17.387299+00:00"
+  "42a9954f6acb07ba": "2026-11-17T09:50:17.387299+00:00",
+  "b6fe29b984d059f1": "2026-11-17T10:00:12.253166+00:00",
+  "67ec87eceb753573": "2026-11-17T10:00:12.253166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14255,9 +14253,35 @@
     "ESPN F1": "Rangers 3-1 Canadiens (17 Nov, 2026) Game Recap"
    },
    "last": "2026-11-17T09:50:19.023513+00:00"
+  },
+  "S8198": {
+   "title": "Wolff reveals private message from Horner after Brazil title",
+   "first": "2026-11-17T10:00:15.271345+00:00",
+   "sources": {
+    "GPFans": "2026-11-17T09:57:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Toto Wolff reveals private message from F1 nemesis Christian Horner"
+   },
+   "last": "2026-11-17T10:00:15.271361+00:00"
+  },
+  "S8199": {
+   "title": "Ecclestone tells Hamilton to think about quitting F1",
+   "first": "2026-11-17T10:00:15.271368+00:00",
+   "sources": {
+    "Crash.net": "2026-11-17T09:56:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton told to “think about quitting” F1 by Bernie Ecclestone"
+   },
+   "last": "2026-11-17T10:00:15.271374+00:00"
   }
  },
- "story_seq": 8197,
+ "story_seq": 8199,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14376,17 +14400,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T09:50:17.387299+00:00",
+ "last_run": "2026-11-17T10:00:12.253166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T09:50:45.184569+00:00",
-   "title": "FIA'nın çevrimiçi istismar düzenlemesine pilotlardan destek",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-14T10:20:44.198541+00:00",
    "title": "Eski Ferrari mühendisinden Hamilton ve Leclerc için uyarı",
