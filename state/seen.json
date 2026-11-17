@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ab3e644e94802bc7": "2026-11-03T12:17:02.433435+00:00",
-  "1144c120d48cd5b2": "2026-11-03T12:17:02.433435+00:00",
   "256f702e2f687491": "2026-11-03T12:27:04.507787+00:00",
   "b4cdc57617b100a6": "2026-11-03T12:27:04.507787+00:00",
   "acd38dcd75f68420": "2026-11-03T12:27:04.507787+00:00",
@@ -6567,7 +6565,8 @@
   "eb79869a38b01860": "2026-11-17T12:00:12.882539+00:00",
   "5560d79425f4c742": "2026-11-17T12:10:11.529158+00:00",
   "567f8f040c2404d9": "2026-11-17T12:10:11.529158+00:00",
-  "b6d662f92430d220": "2026-11-17T12:10:11.529158+00:00"
+  "b6d662f92430d220": "2026-11-17T12:10:11.529158+00:00",
+  "69b0652976fd8cb2": "2026-11-17T12:20:24.858878+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6746,21 +6745,6 @@
     "RacingNews365 NL": "Norris deelt belangrijkste les na mislukte titelverdediging in F1"
    },
    "last": "2026-11-15T15:44:48.091446+00:00"
-  },
-  "S7630": {
-   "title": "Former Liberty boss predicts F1 could be delisted within two years",
-   "first": "2026-11-15T08:43:36.970165+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-15T08:30:00+00:00",
-    "RacingNews365": "2026-11-15T12:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Voormalig Liberty-baas voorspelt opvallende toekomst voor Formule 1",
-    "RacingNews365": "Former Liberty Media boss makes striking prediction for F1 future"
-   },
-   "last": "2026-11-15T12:14:16.049687+00:00"
   },
   "S7636": {
    "title": "Banned journalist claims Wolff sought lifetime paddock ban",
@@ -14363,9 +14347,22 @@
     "Motorsport-Total": "Mehrere Sonderdesigns beim Formel-1-Rennen in Las Vegas - Motorsport-Total.com"
    },
    "last": "2026-11-17T12:00:17.954638+00:00"
+  },
+  "S8222": {
+   "title": "Ecclestone says Hamilton complains before the first corner",
+   "first": "2026-11-17T12:20:27.620010+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-17T12:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Ecclestone haalt uit naar Hamilton: \"Begint voor de eerste bocht al te klagen\""
+   },
+   "last": "2026-11-17T12:20:27.620029+00:00"
   }
  },
- "story_seq": 8221,
+ "story_seq": 8222,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14484,22 +14481,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T12:10:11.529158+00:00",
+ "last_run": "2026-11-17T12:20:24.858878+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T12:10:50.284129+00:00",
-   "title": "Verstappen ve Alonso ile Le Mans yarışı için yapılan \"seçme\" öneri olumlu karşılandı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-14T12:10:50.868571+00:00",
-   "title": "FIA başkanı, başkanlık yaş sınırını kaldırmak istiyor",
-   "source": "Crash.net"
-  },
   {
    "t": "2026-11-14T12:20:52.115610+00:00",
    "title": "Russell, Hamilton örneğiyle 2027'de toparlanacağını söylüyor",
