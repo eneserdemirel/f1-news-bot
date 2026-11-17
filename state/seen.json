@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c201350588b625ff": "2026-11-03T13:37:03.647564+00:00",
-  "6649a2549e1eac58": "2026-11-03T13:37:03.647564+00:00",
-  "de6f903d242ae2cc": "2026-11-03T13:37:03.647564+00:00",
-  "b9aa7eb7ba613ce8": "2026-11-03T13:37:03.647564+00:00",
-  "9918d10b84b08d5a": "2026-11-03T13:37:03.647564+00:00",
   "b435a50be009fba7": "2026-11-03T13:47:01.119974+00:00",
   "67bfb615be4e1076": "2026-11-03T13:47:01.119974+00:00",
   "fd3fe89a38824bdc": "2026-11-03T13:57:04.020287+00:00",
@@ -6555,7 +6550,10 @@
   "b5a768c505f28839": "2026-11-17T13:10:12.301853+00:00",
   "aca009ed060497ed": "2026-11-17T13:20:13.735329+00:00",
   "460485c15856969c": "2026-11-17T13:20:13.735329+00:00",
-  "e93431821bf15836": "2026-11-17T13:20:13.735329+00:00"
+  "e93431821bf15836": "2026-11-17T13:20:13.735329+00:00",
+  "bf850c6a161de3d0": "2026-11-17T13:40:13.627430+00:00",
+  "1c00d55c05397f12": "2026-11-17T13:40:13.627430+00:00",
+  "e308d4b569c1843b": "2026-11-17T13:40:13.627430+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6841,32 +6839,6 @@
     "FormulaPassion": "Gomme da bagnato, Pirelli al lavoro per il 2027"
    },
    "last": "2026-11-15T15:44:48.091459+00:00"
-  },
-  "S7673": {
-   "title": "College Football Playoff top 12 projection after Week 11",
-   "first": "2026-11-15T13:34:15.312954+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T13:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "College Football Playoff top 12 projection after Week 11"
-   },
-   "last": "2026-11-15T13:34:15.312970+00:00"
-  },
-  "S7674": {
-   "title": "Antonelli recounts father's joke threat over track limits",
-   "first": "2026-11-15T13:34:15.312974+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T13:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Antonelli reveals father's bizarre threat: 'I'll make you ten centimetres shorter!'"
-   },
-   "last": "2026-11-15T13:34:15.312978+00:00"
   },
   "S7675": {
    "title": "Banton says he belongs at the top after ODI hundred",
@@ -14342,9 +14314,48 @@
     "FormulaPassion": "F1 troppo prudente con la pioggia, Coulthard: “Si è perso lo spirito del ‘proviamo a correre'”"
    },
    "last": "2026-11-17T13:20:16.744179+00:00"
+  },
+  "S8236": {
+   "title": "Dhoni's most memorable IPL moments retrospective",
+   "first": "2026-11-17T13:40:16.845715+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T13:34:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The making of Thala: Dhoni's most memorable IPL moments"
+   },
+   "last": "2026-11-17T13:40:16.845732+00:00"
+  },
+  "S8237": {
+   "title": "Players Era 8 first-round team matchups preview",
+   "first": "2026-11-17T13:40:16.845738+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How the teams match up in the first round of the Players Era 8"
+   },
+   "last": "2026-11-17T13:40:16.845744+00:00"
+  },
+  "S8238": {
+   "title": "Button says Aston Martin must show progress to keep Alonso",
+   "first": "2026-11-17T13:40:16.845749+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Button identifies Alonso’s 2027 motivation test: Aston Martin must show progress"
+   },
+   "last": "2026-11-17T13:40:16.845753+00:00"
   }
  },
- "story_seq": 8235,
+ "story_seq": 8238,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14463,7 +14474,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T13:30:11.771434+00:00",
+ "last_run": "2026-11-17T13:40:13.627430+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15558,6 +15569,11 @@
    "t": "2026-11-17T13:20:22.491187+00:00",
    "title": "Coulthard: F1, yağmurda 'deneme' ruhunu kaybetti",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T13:40:23.842500+00:00",
+   "title": "Button: Alonso'nun 2027 motivasyonu için Aston Martin ilerleme göstermeli",
+   "source": "GPblog"
   }
  ]
 }
