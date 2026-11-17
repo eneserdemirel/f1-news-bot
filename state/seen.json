@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0fcf73bc42bccc44": "2026-11-03T11:27:03.982893+00:00",
-  "58000de5d53556d7": "2026-11-03T11:27:03.982893+00:00",
   "387232e09ea592e5": "2026-11-03T11:37:04.307687+00:00",
   "8a765040e710c046": "2026-11-03T11:37:04.307687+00:00",
   "b16d5f23d5763dca": "2026-11-03T11:37:04.307687+00:00",
@@ -6571,7 +6569,12 @@
   "191574b326642778": "2026-11-17T11:20:11.627949+00:00",
   "a184ec8929dcd689": "2026-11-17T11:20:11.627949+00:00",
   "58da44adb17bef0e": "2026-11-17T11:20:11.627949+00:00",
-  "40dfde310ae94358": "2026-11-17T11:20:11.627949+00:00"
+  "40dfde310ae94358": "2026-11-17T11:20:11.627949+00:00",
+  "5c6fbffc89cfb8f1": "2026-11-17T11:30:11.350815+00:00",
+  "a18cbf3be21fef7b": "2026-11-17T11:30:11.350815+00:00",
+  "c71fac723acd2d78": "2026-11-17T11:30:11.350815+00:00",
+  "3f97f4065d690bbd": "2026-11-17T11:30:11.350815+00:00",
+  "94d691103b95f928": "2026-11-17T11:30:11.350815+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6709,19 +6712,6 @@
     "RacingNews365 NL": "Brundle ziet achterliggende boodschap in woede Hamilton"
    },
    "last": "2026-11-15T17:45:04.492181+00:00"
-  },
-  "S7601": {
-   "title": "Sharks 6-5 Mammoth NHL game recap",
-   "first": "2026-11-15T05:43:37.937115+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T05:32:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sharks 6-5 Mammoth (15 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-15T11:24:18.297570+00:00"
   },
   "S7609": {
    "title": "Horner reveals unhappiness during Verstappen's dominance years",
@@ -6872,19 +6862,6 @@
     "RacingNews365": "Mercedes predict significant loss for start of new F1 season"
    },
    "last": "2026-11-15T17:24:49.236215+00:00"
-  },
-  "S7652": {
-   "title": "Leclerc comments on Hamilton's sensitivity as Ferrari team-mate",
-   "first": "2026-11-15T11:24:18.297576+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-15T11:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Charles Leclerc highlights Lewis Hamilton 'sensitivity' in reflection on Ferrari team-mate"
-   },
-   "last": "2026-11-15T11:24:18.297581+00:00"
   },
   "S7653": {
    "title": "Barrichello recalls Ross Brawn radio message from Hockenheim 2000 win",
@@ -13909,7 +13886,7 @@
    "titles": {
     "ESPN F1": "Shane Deitz appointed Pakistan women's head coach"
    },
-   "last": "2026-11-17T08:29:31.096430+00:00"
+   "last": "2026-11-17T11:30:15.579273+00:00"
   },
   "S8182": {
    "title": "Motorsport.com Italia feature on Antonelli's behind-the-scenes life",
@@ -14042,7 +14019,8 @@
     "Crash.net": "2026-11-17T09:14:19+00:00",
     "Motorsport-Total": "2026-11-17T09:11:41+00:00",
     "GPblog": "2026-11-17T09:30:00+00:00",
-    "Formula 1": "2026-11-17T10:40:40.023850+00:00"
+    "Formula 1": "2026-11-17T10:40:40.023850+00:00",
+    "GPFans": "2026-11-17T11:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14057,9 +14035,10 @@
     "Crash.net": "Fernando Alonso to race in Dakar Rally for Aston Martin",
     "Motorsport-Total": "Offiziell: Fernando Alonso startet mit Aston Martin bei der Rallye Dakar 2027 - Motorsport-Total.com",
     "GPblog": "Alonso confirms Dakar return with Aston Martin as F1 star takes on another huge challenge",
-    "Formula 1": "Alonso set for Dakar Rally return with Aston Martin"
+    "Formula 1": "Alonso set for Dakar Rally return with Aston Martin",
+    "GPFans": "Aston Martin announce Fernando Alonso to take on 'nearly impossible' task in iconic race"
    },
-   "last": "2026-11-17T10:40:40.023865+00:00"
+   "last": "2026-11-17T11:30:15.579297+00:00"
   },
   "S8192": {
    "title": "Williams targets fundamental problems with 2027 car",
@@ -14363,9 +14342,48 @@
     "FormulaPassion": "Piastri, che succede?"
    },
    "last": "2026-11-17T11:20:14.851211+00:00"
+  },
+  "S8215": {
+   "title": "Melbourne Cup runner So You Are's body found in skip bin",
+   "first": "2026-11-17T11:30:15.579284+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Melbourne Cup runner So You Are's body found dumped in skip bin"
+   },
+   "last": "2026-11-17T11:30:15.579291+00:00"
+  },
+  "S8216": {
+   "title": "Hamilton reportedly house-hunting in Los Angeles",
+   "first": "2026-11-17T11:30:15.579302+00:00",
+   "sources": {
+    "Crash.net": "2026-11-17T11:28:21+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton ‘house-hunting in LA’ to spend more time with girlfriend Kim Kardashian"
+   },
+   "last": "2026-11-17T11:30:15.579307+00:00"
+  },
+  "S8217": {
+   "title": "Motorsport-Total says Vasseur is 'simply overwhelmed' at Ferrari",
+   "first": "2026-11-17T11:30:15.579310+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-17T11:22:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Scharfe Kritik: Frederic Vasseur ist bei Ferrari \"schlichtweg überfordert\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-17T11:30:15.579314+00:00"
   }
  },
- "story_seq": 8214,
+ "story_seq": 8217,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14484,17 +14502,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T11:20:11.627949+00:00",
+ "last_run": "2026-11-17T11:30:11.350815+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T11:20:51.419130+00:00",
-   "title": "Verstappen: Nürburgring ve Spa'da yarışmaya muhtemelen katılacak, Le Mans'a şimdilik bakmıyor",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-14T11:30:50.545839+00:00",
    "title": "Hadjar, Hamilton ve Alonso ile F1'deki 'hızlı adaptasyon' efsanesini çürütüyor",
@@ -15584,6 +15597,16 @@
    "t": "2026-11-17T11:20:23.033903+00:00",
    "title": "Piastri'de düşüş: Sezon boyunca galibiyet yok",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T11:30:19.390936+00:00",
+   "title": "Vasseur'e Ferrari'de 'tamamen yetersiz' eleştirisi",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-17T11:30:19.894129+00:00",
+   "title": "Lewis Hamilton, Kim Kardashian ile daha fazla vakit geçirmek için Los Angeles'ta ev arıyor",
+   "source": "Crash.net"
   }
  ]
 }
