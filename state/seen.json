@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c7a9e264886355c1": "2026-11-03T12:57:02.758504+00:00",
-  "9e1334a5e0f80a76": "2026-11-03T12:57:02.758504+00:00",
-  "b4af077ba20665f1": "2026-11-03T12:57:02.758504+00:00",
   "771b5f5c779f1ac8": "2026-11-03T13:07:04.014548+00:00",
   "2fc4cf5f30062354": "2026-11-03T13:07:04.014548+00:00",
   "db7ccffb43b0e2ce": "2026-11-03T13:07:04.014548+00:00",
@@ -6569,7 +6566,11 @@
   "f87be9db37323219": "2026-11-17T12:50:25.758357+00:00",
   "8d606343e5995fea": "2026-11-17T12:50:25.758357+00:00",
   "78fc91f8b93dfc4d": "2026-11-17T12:50:25.758357+00:00",
-  "e73912e8895fd7a5": "2026-11-17T12:50:25.758357+00:00"
+  "e73912e8895fd7a5": "2026-11-17T12:50:25.758357+00:00",
+  "8cc4ddc1a2661d7c": "2026-11-17T13:00:14.560810+00:00",
+  "06626c1fd33c05a4": "2026-11-17T13:00:14.560810+00:00",
+  "544b02ebc0a60703": "2026-11-17T13:00:14.560810+00:00",
+  "3ebb89d51f9360b4": "2026-11-17T13:00:14.560810+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6827,32 +6828,6 @@
     "ESPN F1": "Rory McIlroy wins season-long Race to Dubai title for record-tying 8th time"
    },
    "last": "2026-11-15T15:14:16.758976+00:00"
-  },
-  "S7664": {
-   "title": "ESPN predicts which teams make the College Football Playoff",
-   "first": "2026-11-15T12:54:16.958195+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T07:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Predicting the College Football Playoff: Who's most likely to make the field?"
-   },
-   "last": "2026-11-15T12:54:16.958216+00:00"
-  },
-  "S7665": {
-   "title": "Rob Smedley rejects claims Elkann favours Hamilton over Leclerc",
-   "first": "2026-11-15T12:54:16.958220+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T12:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Ferrari insider draws firm line on alleged preferential treatment for Hamilton"
-   },
-   "last": "2026-11-15T12:54:16.958225+00:00"
   },
   "S7666": {
    "title": "ESPN NFL head coach pressure in Week 11",
@@ -13413,14 +13388,16 @@
    "title": "Ferrari reportedly considering lead driver choice for 2027 amid Hamilton-Leclerc tension",
    "first": "2026-11-17T06:39:29.741220+00:00",
    "sources": {
-    "GPFans": "2026-11-17T06:30:00+00:00"
+    "GPFans": "2026-11-17T06:30:00+00:00",
+    "Motorsport-Total": "2026-11-17T12:56:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Ferrari consider Hamilton-Leclerc choice, Brown lifts lid on 'toxic' McLaren - F1 News Today"
+    "GPFans": "Ferrari consider Hamilton-Leclerc choice, Brown lifts lid on 'toxic' McLaren - F1 News Today",
+    "Motorsport-Total": "Zak Brown: McLaren war früher \"ein sehr toxisches Umfeld\" - Motorsport-Total.com"
    },
-   "last": "2026-11-17T06:39:29.741239+00:00"
+   "last": "2026-11-17T13:00:17.850516+00:00"
   },
   "S8160": {
    "title": "Eben Etzebeth to start for Springboks vs Ireland in Dublin",
@@ -14378,9 +14355,35 @@
     "GPblog": "Why Lewis Hamilton’s Ferrari future could decide Oliver Bearman’s next move"
    },
    "last": "2026-11-17T12:50:29.388300+00:00"
+  },
+  "S8231": {
+   "title": "Bryson DeChambeau to join European Tour after LIV Golf demise",
+   "first": "2026-11-17T13:00:17.850480+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:11:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bryson DeChambeau to join European tour in 2027 after demise of LIV Golf"
+   },
+   "last": "2026-11-17T13:00:17.850497+00:00"
+  },
+  "S8232": {
+   "title": "Verstappen responds to viral Red Bull radio message in Brazil",
+   "first": "2026-11-17T13:00:17.850503+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T12:50:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen response to hilarious Red Bull radio: 'He doesn't speak English'"
+   },
+   "last": "2026-11-17T13:00:17.850509+00:00"
   }
  },
- "story_seq": 8230,
+ "story_seq": 8232,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14499,17 +14502,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T12:50:25.758357+00:00",
+ "last_run": "2026-11-17T13:00:14.560810+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
  "last_digest_at": "2026-11-17T12:00:25.039351+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T12:50:47.627235+00:00",
-   "title": "Audi'den Hülkenberg'in cezasına ilişkin açıklama: \"Çok tartışmalı bir durum\"",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-14T13:10:45.091507+00:00",
    "title": "Newey, Aston Martin'de Red Bull'un geçmişine benzerlikler görüyor",
@@ -15594,6 +15592,11 @@
    "t": "2026-11-17T12:50:33.034370+00:00",
    "title": "Hamilton'ın Ferrari geleceği Bearman'ın kararını etkileyebilir",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-17T13:00:22.030381+00:00",
+   "title": "Verstappen, telsizde motoruna konuştuğu için güldürdü",
+   "source": "RacingNews365"
   }
  ]
 }
