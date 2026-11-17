@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "192b1d0473785c8b": "2026-11-03T08:06:17.397445+00:00",
-  "8ca8d9718cfaa1d0": "2026-11-03T08:06:17.397445+00:00",
-  "8255370d3b99c72e": "2026-11-03T08:06:17.397445+00:00",
-  "0dc7d489c99df77d": "2026-11-03T08:06:17.397445+00:00",
-  "030ffca0378bea71": "2026-11-03T08:06:17.397445+00:00",
-  "2233368a4a8612af": "2026-11-03T08:06:17.397445+00:00",
-  "7ff8918ebff423d3": "2026-11-03T08:06:17.397445+00:00",
-  "3fe5e5ca72e5ba3a": "2026-11-03T08:06:17.397445+00:00",
   "dd8656914c0c2133": "2026-11-03T08:16:17.264191+00:00",
   "879f39b2a77969fd": "2026-11-03T08:26:17.696538+00:00",
   "cd989130d7aa3d72": "2026-11-03T08:26:17.696538+00:00",
@@ -6584,7 +6576,9 @@
   "573debbf07c282e8": "2026-11-17T07:59:29.159426+00:00",
   "f61c578263d3a822": "2026-11-17T07:59:29.159426+00:00",
   "ce58b199a24c4424": "2026-11-17T07:59:29.159426+00:00",
-  "d60669d9781dd200": "2026-11-17T07:59:29.159426+00:00"
+  "d60669d9781dd200": "2026-11-17T07:59:29.159426+00:00",
+  "e282b78396d2c163": "2026-11-17T08:09:33.379124+00:00",
+  "ffd9b2f7d4b3d3df": "2026-11-17T08:09:33.379124+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6808,19 +6802,6 @@
     "RacingNews365 NL": "Norris deelt belangrijkste les na mislukte titelverdediging in F1"
    },
    "last": "2026-11-15T15:44:48.091446+00:00"
-  },
-  "S7626": {
-   "title": "Hamilton says he will not soften approach in fixing Ferrari",
-   "first": "2026-11-15T08:03:42.878668+00:00",
-   "sources": {
-    "GPFans": "2026-11-15T07:58:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton refuses to back down in fight to fix Ferrari: 'I'm very outspoken'"
-   },
-   "last": "2026-11-15T08:03:42.878673+00:00"
   },
   "S7627": {
    "title": "Arch Manning leads game-winning drive as Texas stuns LSU",
@@ -14112,9 +14093,35 @@
     "Motorsport-Total": "Günther Steiner: Dieser Fahrer würde Ferrari wieder nach vorne bringen - Motorsport-Total.com"
    },
    "last": "2026-11-17T07:59:35.256351+00:00"
+  },
+  "S8176": {
+   "title": "John McGinn says Scotland's direction is impossible to judge",
+   "first": "2026-11-17T08:09:35.823365+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T07:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "John McGinn: 'Impossible' to say Scotland heading in the right direction"
+   },
+   "last": "2026-11-17T08:09:35.823376+00:00"
+  },
+  "S8177": {
+   "title": "McLaren Las Vegas upgrades and third-place fight preview",
+   "first": "2026-11-17T08:09:35.823381+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "McLaren’s Las Vegas upgrades could change the fight for third"
+   },
+   "last": "2026-11-17T08:09:35.823384+00:00"
   }
  },
- "story_seq": 8175,
+ "story_seq": 8177,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14233,17 +14240,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T07:59:29.159426+00:00",
+ "last_run": "2026-11-17T08:09:33.379124+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T08:00:00.082319+00:00",
-   "title": "Windsor: Ferrari, Hamilton yerine Newey'i seçmeliydi",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-14T08:19:53.572228+00:00",
    "title": "Sag Cestas 2026-27 Kadrosunda Yer Alıyor",
