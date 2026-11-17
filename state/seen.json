@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a27970bc6fc0e15a": "2026-11-03T15:17:03.894309+00:00",
-  "761c9d8f3b43268d": "2026-11-03T15:17:03.894309+00:00",
-  "1e325f7ae070e311": "2026-11-03T15:17:03.894309+00:00",
-  "fdf40ca078a0b6f9": "2026-11-03T15:17:03.894309+00:00",
-  "0f9cb8a7d996aaca": "2026-11-03T15:17:03.894309+00:00",
-  "0c0ff05a8a514d5b": "2026-11-03T15:17:03.894309+00:00",
-  "2dc455268c1dc1df": "2026-11-03T15:17:03.894309+00:00",
-  "0377fc9b723fdd67": "2026-11-03T15:17:03.894309+00:00",
   "f1a44788ca726268": "2026-11-03T15:26:59.096541+00:00",
   "2a884e278aff1068": "2026-11-03T15:37:01.806203+00:00",
   "62c2794d1e01673e": "2026-11-03T15:37:01.806203+00:00",
@@ -6554,7 +6546,10 @@
   "2bcd85cc7f2d9e06": "2026-11-17T15:10:53.356528+00:00",
   "dfa7f9a6545c4cea": "2026-11-17T15:10:53.356528+00:00",
   "c831b40762e010b5": "2026-11-17T15:10:53.356528+00:00",
-  "84d66f28bd1895d6": "2026-11-17T15:10:53.356528+00:00"
+  "84d66f28bd1895d6": "2026-11-17T15:10:53.356528+00:00",
+  "717434b26e06f2a0": "2026-11-17T15:20:56.039575+00:00",
+  "024f5610f10380cc": "2026-11-17T15:20:56.039575+00:00",
+  "7f90a4bb1900eab8": "2026-11-17T15:20:56.039575+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6749,19 +6744,6 @@
    },
    "last": "2026-11-15T15:44:48.091450+00:00"
   },
-  "S7662": {
-   "title": "McIlroy wins Race to Dubai title for record-tying eighth time",
-   "first": "2026-11-15T12:34:39.090834+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T12:20:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rory McIlroy wins season-long Race to Dubai title for record-tying 8th time"
-   },
-   "last": "2026-11-15T15:14:16.758976+00:00"
-  },
   "S7667": {
    "title": "Retrospective on Red Bull buying Jaguar F1 team for $1",
    "first": "2026-11-15T13:04:15.998263+00:00",
@@ -6847,19 +6829,6 @@
     "ESPN F1": "Live updates, reaction as Brazil legend Ronaldinho comes out of retirement at Ravenna to chase 300th goal"
    },
    "last": "2026-11-15T15:44:48.091432+00:00"
-  },
-  "S7690": {
-   "title": "Aston Martin Valkyrie 2027 development joker plans for WEC",
-   "first": "2026-11-15T15:14:16.758985+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-15T15:00:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "WEC | Aston Martin annuncia novità per la Valkyrie 2027. Userà Joker di sviluppo: \"Saranno più di 1 e meno di 5\""
-   },
-   "last": "2026-11-15T15:14:16.758990+00:00"
   },
   "S7691": {
    "title": "Verstappen says GT racing more exciting, more nervous watching F1",
@@ -13695,14 +13664,16 @@
    "title": "Aston Martin Acura branding replaces Honda name for Las Vegas",
    "first": "2026-11-17T10:10:23.520512+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-17T10:03:04+00:00"
+    "Motorsport-Total": "2026-11-17T10:03:04+00:00",
+    "Auto Motor und Sport": "2026-11-17T15:03:39+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Aston Martin: Sonderdesign für Las Vegas und Acura \"ersetzt\" Honda - Motorsport-Total.com"
+    "Motorsport-Total": "Aston Martin: Sonderdesign für Las Vegas und Acura \"ersetzt\" Honda - Motorsport-Total.com",
+    "Auto Motor und Sport": "Formel 1: Darum fährt Aston Martin in Las Vegas nicht mit Honda-Logo"
    },
-   "last": "2026-11-17T10:10:23.520516+00:00"
+   "last": "2026-11-17T15:20:58.425697+00:00"
   },
   "S8204": {
    "title": "Ferrari reveals special Las Vegas race suits for Hamilton and Leclerc",
@@ -14427,9 +14398,35 @@
     "GPblog": "Verstappen’s daughter steals the show in new photos shared by Kelly Piquet"
    },
    "last": "2026-11-17T15:10:58.184505+00:00"
+  },
+  "S8258": {
+   "title": "Tiger Woods to return for Hero World Challenge next month",
+   "first": "2026-11-17T15:20:58.425663+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T15:06:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tiger Woods to return for next month's Hero World Challenge"
+   },
+   "last": "2026-11-17T15:20:58.425682+00:00"
+  },
+  "S8259": {
+   "title": "Broncos plans to make Bo Nix more consistent in games",
+   "first": "2026-11-17T15:20:58.425687+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "What Broncos are doing to try to make Bo Nix more consistent throughout games"
+   },
+   "last": "2026-11-17T15:20:58.425692+00:00"
   }
  },
- "story_seq": 8257,
+ "story_seq": 8259,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14548,7 +14545,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T15:10:53.356528+00:00",
+ "last_run": "2026-11-17T15:20:56.039575+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
