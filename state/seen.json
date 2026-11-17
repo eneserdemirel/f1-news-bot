@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9f2abf3933750c8a": "2026-11-03T06:06:16.892310+00:00",
-  "c149543739fe4b1b": "2026-11-03T06:06:16.892310+00:00",
-  "3c0debaa054c15fa": "2026-11-03T06:06:16.892310+00:00",
   "88244e6e4208c2de": "2026-11-03T06:16:16.786705+00:00",
   "201c256dd055648c": "2026-11-03T06:16:16.786705+00:00",
   "6838ea83cd21e67e": "2026-11-03T06:26:16.437063+00:00",
@@ -6597,7 +6594,14 @@
   "300677a6d5f7073e": "2026-11-17T05:39:30.501164+00:00",
   "2aef8d79eee6eb1a": "2026-11-17T05:49:29.914255+00:00",
   "cd28822af4d20862": "2026-11-17T05:59:28.254519+00:00",
-  "59815c48efbf7302": "2026-11-17T05:59:28.254519+00:00"
+  "59815c48efbf7302": "2026-11-17T05:59:28.254519+00:00",
+  "e68e50e0860b1818": "2026-11-17T06:09:33.868903+00:00",
+  "31fa4feb6e0df623": "2026-11-17T06:09:33.868903+00:00",
+  "11e81f2354500063": "2026-11-17T06:09:33.868903+00:00",
+  "ba0865a89776fb5d": "2026-11-17T06:09:33.868903+00:00",
+  "a17cdfe30d233f94": "2026-11-17T06:09:33.868903+00:00",
+  "463afd4893113172": "2026-11-17T06:09:33.868903+00:00",
+  "b30626fb1c46888c": "2026-11-17T06:09:33.868903+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6806,45 +6810,6 @@
     "ESPN F1": "Sharks 6-5 Mammoth (15 Nov, 2026) Game Recap"
    },
    "last": "2026-11-15T11:24:18.297570+00:00"
-  },
-  "S7603": {
-   "title": "Costa Rica T20I tour of Falkland Islands at Stanley",
-   "first": "2026-11-15T06:03:43.219233+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T05:55:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2nd T20I, Costa Rica tour of Falkland Islands at Stanley, Nov 15 2026"
-   },
-   "last": "2026-11-15T06:03:43.219251+00:00"
-  },
-  "S7604": {
-   "title": "Islanders 6-2 Ducks NHL game recap",
-   "first": "2026-11-15T06:03:43.219256+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T05:52:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Islanders 6-2 Ducks (15 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-15T06:03:43.219261+00:00"
-  },
-  "S7605": {
-   "title": "Hamilton and Antonelli share bizarre championship coincidence",
-   "first": "2026-11-15T06:03:43.219264+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T06:01:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton and Antonelli linked by bizarre F1 championship coincidence"
-   },
-   "last": "2026-11-15T06:03:43.219268+00:00"
   },
   "S7606": {
    "title": "Verstappen gives away Senna helmet at Sao Paulo farewell",
@@ -14090,9 +14055,100 @@
     "ESPN F1": "Shannon carries Wolves with Edwards out, Ball struggling in show of versatility"
    },
    "last": "2026-11-17T05:59:31.720478+00:00"
+  },
+  "S8151": {
+   "title": "Zak Brown uses Djokovic advice to help McLaren recover",
+   "first": "2026-11-17T06:09:39.464828+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Brown reveals Djokovic advice that will help McLaren after 'underperformance'"
+   },
+   "last": "2026-11-17T06:09:39.464839+00:00"
+  },
+  "S8152": {
+   "title": "Hamilton's goal: help Ferrari secure constructors' second place",
+   "first": "2026-11-17T06:09:39.464843+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton’s late-season Ferrari mission: protect second in the constructors’ standings"
+   },
+   "last": "2026-11-17T06:09:39.464847+00:00"
+  },
+  "S8153": {
+   "title": "Stella praises Lando Norris as one of the grid's best",
+   "first": "2026-11-17T06:09:39.464849+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Andrea Stella esalta “il Maestro” Lando Norris: “È uno dei migliori piloti in griglia”"
+   },
+   "last": "2026-11-17T06:09:39.464852+00:00"
+  },
+  "S8154": {
+   "title": "Ecclestone criticises Hamilton, comments on Antonelli and Ferrari",
+   "first": "2026-11-17T06:09:39.464855+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ecclestone: “Hamilton si lagna sempre. Antonelli? La Ferrari sarà buona per lui quando avrà 50 anni…”"
+   },
+   "last": "2026-11-17T06:09:39.464858+00:00"
+  },
+  "S8155": {
+   "title": "Analysis of Ferrari's lack of titles despite Mercedes success",
+   "first": "2026-11-17T06:09:39.464859+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ferrari, il digiuno continua: titoli mancati per tanti motivi"
+   },
+   "last": "2026-11-17T06:09:39.464862+00:00"
+  },
+  "S8156": {
+   "title": "Patrese says Russell has been unlucky in 2026",
+   "first": "2026-11-17T06:09:39.464864+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Patrese: “Russell in questo 2026 è stato sfortunato e le piccole cose possono fare la differenza nella testa del pilota”"
+   },
+   "last": "2026-11-17T06:09:39.464866+00:00"
+  },
+  "S8157": {
+   "title": "Antonelli warns 2027 rule changes will be like starting over",
+   "first": "2026-11-17T06:09:39.464868+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "“Sarà come ripartire da zero”: Antonelli avverte sulle regole 2027"
+   },
+   "last": "2026-11-17T06:09:39.464870+00:00"
   }
  },
- "story_seq": 8150,
+ "story_seq": 8157,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14211,7 +14267,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T05:59:28.254519+00:00",
+ "last_run": "2026-11-17T06:09:33.868903+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
@@ -15281,6 +15337,36 @@
    "t": "2026-11-17T00:08:54.948261+00:00",
    "title": "Oscar Piastri'nin 2026'da galibiyetsiz kalmasının nedenleri",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-17T06:09:44.636775+00:00",
+   "title": "McLaren patronu Brown, Djokovic'ten aldığı tavsiyeyi açıkladı",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-17T06:09:45.179014+00:00",
+   "title": "Stella, Lando Norris'i \"usta\" olarak övdü: \"Griddeki en iyi pilotlardan biri\"",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T06:09:45.734761+00:00",
+   "title": "Ecclestone: Hamilton sürekli şikayet ediyor, Antonelli için Ferrari 50 yaşında",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T06:09:46.293574+00:00",
+   "title": "Ferrari'nin şampiyonluk özlemi sürüyor: unvanlar kaçmasının nedenleri",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T06:09:46.835491+00:00",
+   "title": "Patrese: Russell 2026'da şanssızdı, küçük detaylar pilotun kafasında fark yaratıyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-17T06:09:47.390129+00:00",
+   "title": "Antonelli: 2027 regülasyonları sıfırdan başlamak gibi olacak",
+   "source": "FormulaPassion"
   }
  ]
 }
