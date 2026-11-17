@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "ab6b0ea22a286de1": "2026-11-03T17:38:18.209570+00:00",
-  "989f16647b8fbcc0": "2026-11-03T17:38:18.209570+00:00",
   "394a0da288a0bb3c": "2026-11-03T17:48:15.832110+00:00",
   "79758596d8f188f3": "2026-11-03T17:48:15.832110+00:00",
   "07d6e6a1f4f73a32": "2026-11-03T17:58:20.895041+00:00",
@@ -6547,7 +6545,22 @@
   "5ac876f2cf014c8e": "2026-11-17T17:20:53.039403+00:00",
   "b8880c51aa84e267": "2026-11-17T17:30:50.504207+00:00",
   "f73a79b0f3fed0b8": "2026-11-17T17:30:50.504207+00:00",
-  "1545e82e9397e018": "2026-11-17T17:30:50.504207+00:00"
+  "1545e82e9397e018": "2026-11-17T17:30:50.504207+00:00",
+  "ca94f8778e6f7a0a": "2026-11-17T17:40:48.948779+00:00",
+  "bd30c784817904a8": "2026-11-17T17:40:48.948779+00:00",
+  "7c9778bfa381db75": "2026-11-17T17:40:48.948779+00:00",
+  "b929662b998ff3d0": "2026-11-17T17:40:48.948779+00:00",
+  "8637331f5480688d": "2026-11-17T17:40:48.948779+00:00",
+  "2dc598b84daa065a": "2026-11-17T17:40:48.948779+00:00",
+  "034286229c7b2698": "2026-11-17T17:40:48.948779+00:00",
+  "1d8deb3ea4264f3e": "2026-11-17T17:40:48.948779+00:00",
+  "4c28d8a6fb9e9400": "2026-11-17T17:40:48.948779+00:00",
+  "95179c1fe2e89027": "2026-11-17T17:40:48.948779+00:00",
+  "6011dd6500580121": "2026-11-17T17:40:48.948779+00:00",
+  "69f95e1862bc59f5": "2026-11-17T17:40:48.948779+00:00",
+  "5b0773903c3b786d": "2026-11-17T17:40:48.948779+00:00",
+  "60cf5860c7c6acf6": "2026-11-17T17:40:48.948779+00:00",
+  "6f2eab902f780ffd": "2026-11-17T17:40:48.948779+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6598,21 +6611,6 @@
     "RacingNews365 NL": "Brundle ziet achterliggende boodschap in woede Hamilton"
    },
    "last": "2026-11-15T17:45:04.492181+00:00"
-  },
-  "S7609": {
-   "title": "Horner reveals unhappiness during Verstappen's dominance years",
-   "first": "2026-11-15T06:33:36.921734+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-15T06:20:00+00:00",
-    "Motorsport Week": "2026-11-15T17:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Christian Horner reveals major unhappiness during Max Verstappen dominance",
-    "Motorsport Week": "Christian Horner opens up on Red Bull ‘sadness’ amid Max Verstappen dominance"
-   },
-   "last": "2026-11-15T17:34:47.729667+00:00"
   },
   "S7680": {
    "title": "Rosberg says Michael Schumacher declined in Mercedes comeback",
@@ -13439,16 +13437,18 @@
    "sources": {
     "Motorsport-Total": "2026-11-17T11:22:04+00:00",
     "GPFans": "2026-11-17T12:37:00+00:00",
-    "Crash.net": "2026-11-17T12:30:10+00:00"
+    "Crash.net": "2026-11-17T12:30:10+00:00",
+    "Motorsport Week": "2026-11-17T17:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Scharfe Kritik: Frederic Vasseur ist bei Ferrari \"schlichtweg überfordert\" - Motorsport-Total.com",
     "GPFans": "Lewis Hamilton's boss 'overwhelmed' as Ferrari leadership questioned",
-    "Crash.net": "Ferrari boss Fred Vasseur “overwhelmed” by job claims Bernie Ecclestone"
+    "Crash.net": "Ferrari boss Fred Vasseur “overwhelmed” by job claims Bernie Ecclestone",
+    "Motorsport Week": "Ferrari boss Fred Vasseur handed ‘overwhelmed’ verdict by Bernie Ecclestone"
    },
-   "last": "2026-11-17T12:40:20.566201+00:00"
+   "last": "2026-11-17T17:40:53.444070+00:00"
   },
   "S8218": {
    "title": "Pundits say Verstappen can win in Las Vegas",
@@ -13678,14 +13678,14 @@
    "title": "France FA boss Diallo bids to challenge Infantino for FIFA presidency",
    "first": "2026-11-17T13:20:16.744143+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T13:07:30+00:00"
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency"
    },
-   "last": "2026-11-17T13:20:16.744160+00:00"
+   "last": "2026-11-17T17:40:53.444053+00:00"
   },
   "S8235": {
    "title": "Coulthard says F1 has lost its 'let's try to race' spirit in rain",
@@ -14464,9 +14464,100 @@
     "RacingNews365": "How Zak Brown turned McLaren from disaster into a £3 billion empire"
    },
    "last": "2026-11-17T17:30:53.464815+00:00"
+  },
+  "S8293": {
+   "title": "White Sox sign Dustin May to 3-year deal",
+   "first": "2026-11-17T17:40:53.444000+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T16:25:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Source - White Sox, Dustin May reach 3-year, $52.5M contract"
+   },
+   "last": "2026-11-17T17:40:53.444018+00:00"
+  },
+  "S8294": {
+   "title": "Lions plan Kerby Joseph season debut Sunday",
+   "first": "2026-11-17T17:40:53.444024+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T16:19:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lions plan on Kerby Joseph to make season debut Sunday, per Dan Campbell"
+   },
+   "last": "2026-11-17T17:40:53.444028+00:00"
+  },
+  "S8295": {
+   "title": "Steph Curry's final act with the Warriors",
+   "first": "2026-11-17T17:40:53.444032+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The clock is ticking on Steph Curry's final act with the Warriors"
+   },
+   "last": "2026-11-17T17:40:53.444035+00:00"
+  },
+  "S8296": {
+   "title": "Vinícius Júnior hat-trick as Brazil beat Singapore",
+   "first": "2026-11-17T17:40:53.444038+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hat-trick hero Vinícius Júnior inspires Brazil to emphatic win over Singapore"
+   },
+   "last": "2026-11-17T17:40:53.444042+00:00"
+  },
+  "S8297": {
+   "title": "Free agents to invest in during MLB offseason",
+   "first": "2026-11-17T17:40:53.444044+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Free agents to invest in, avoid during 2026-27 MLB offseason"
+   },
+   "last": "2026-11-17T17:40:53.444048+00:00"
+  },
+  "S8298": {
+   "title": "Purdue takes buses to Iowa after FAA ground stop",
+   "first": "2026-11-17T17:40:53.444057+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Purdue rolls with FAA ground stop by taking buses to Iowa"
+   },
+   "last": "2026-11-17T17:40:53.444060+00:00"
+  },
+  "S8299": {
+   "title": "Week 11 fantasy football waiver wire pickups",
+   "first": "2026-11-17T17:40:53.444062+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T11:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Live Q&A: Week 11 fantasy football waiver wire pickups"
+   },
+   "last": "2026-11-17T17:40:53.444066+00:00"
   }
  },
- "story_seq": 8292,
+ "story_seq": 8299,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14585,7 +14676,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T17:30:50.504207+00:00",
+ "last_run": "2026-11-17T17:40:48.948779+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
