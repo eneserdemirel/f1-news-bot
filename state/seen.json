@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "966aaacb119e1fd9": "2026-11-03T15:57:00.666569+00:00",
-  "48826e1719c01933": "2026-11-03T15:57:00.666569+00:00",
   "af59d832212fc3ab": "2026-11-03T16:07:02.329444+00:00",
   "30273986bad3631e": "2026-11-03T16:07:02.329444+00:00",
   "8b57a4269a008d04": "2026-11-03T16:07:02.329444+00:00",
@@ -6557,7 +6555,14 @@
   "0f19e3ebb9b1573e": "2026-11-17T15:40:51.560578+00:00",
   "a227a9c0befc7acd": "2026-11-17T15:50:48.066819+00:00",
   "8dceb151a91f2e3e": "2026-11-17T15:50:48.066819+00:00",
-  "64cbe5d5b65119dd": "2026-11-17T15:50:48.066819+00:00"
+  "64cbe5d5b65119dd": "2026-11-17T15:50:48.066819+00:00",
+  "9fab938c266cc6c2": "2026-11-17T16:00:51.492164+00:00",
+  "52967f13e8a059c4": "2026-11-17T16:00:51.492164+00:00",
+  "2c5b4002c2ff2a73": "2026-11-17T16:00:51.492164+00:00",
+  "577b505f54d89c37": "2026-11-17T16:00:51.492164+00:00",
+  "30829643820c8ca8": "2026-11-17T16:00:51.492164+00:00",
+  "b320c8e942d5bae5": "2026-11-17T16:00:51.492164+00:00",
+  "e6179c7ea6029578": "2026-11-17T16:00:51.492164+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6744,19 +6749,6 @@
    },
    "last": "2026-11-15T19:04:50.085634+00:00"
   },
-  "S7695": {
-   "title": "Zverev wins opening ATP Finals match over Jodar",
-   "first": "2026-11-15T15:44:48.091422+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T15:37:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alexander Zverev starts ATP Finals with convincing win over Rafael Jodar"
-   },
-   "last": "2026-11-15T15:54:16.869446+00:00"
-  },
   "S7696": {
    "title": "Drake Maye and Aidan Hutchinson injured in Munich game",
    "first": "2026-11-15T15:44:48.091435+00:00",
@@ -6769,32 +6761,6 @@
     "ESPN F1": "Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same play in Munich"
    },
    "last": "2026-11-15T22:35:33.327685+00:00"
-  },
-  "S7697": {
-   "title": "NFL referees double shifts after FAA ground stop",
-   "first": "2026-11-15T15:44:48.091439+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T14:54:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop"
-   },
-   "last": "2026-11-15T15:54:16.869434+00:00"
-  },
-  "S7700": {
-   "title": "Vikings want to keep Kirk Cousins, talked to QB about 2027",
-   "first": "2026-11-15T15:54:44.078890+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T12:04:07+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027"
-   },
-   "last": "2026-11-15T15:54:44.078908+00:00"
   },
   "S7701": {
    "title": "Devon Levi hockey connection and Russell Crowe praise",
@@ -13560,7 +13526,8 @@
     "RacingNews365 NL": "2026-11-17T10:45:00+00:00",
     "PlanetF1": "2026-11-17T11:56:21+00:00",
     "GPblog": "2026-11-17T12:01:00+00:00",
-    "Motorsport.com Italia": "2026-11-17T15:30:36+00:00"
+    "Motorsport.com Italia": "2026-11-17T15:30:36+00:00",
+    "FormulaPassion": "2026-11-17T15:46:29+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13569,9 +13536,10 @@
     "RacingNews365 NL": "Ferrari vervangt Hamilton voor eerste training GP Las Vegas",
     "PlanetF1": "Lewis Hamilton to miss Las Vegas Grand Prix FP1 as Ferrari junior steps in",
     "GPblog": "Hamilton to sit out Las Vegas FP1 as Ferrari give Beganovic another chance",
-    "Motorsport.com Italia": "F1 | Ferrari: Beganovic in FP1 al posto di Hamilton. Vasseur: \"Sarà importante scaldare le gomme\""
+    "Motorsport.com Italia": "F1 | Ferrari: Beganovic in FP1 al posto di Hamilton. Vasseur: \"Sarà importante scaldare le gomme\"",
+    "FormulaPassion": "Beganovic, chance a Las Vegas: guiderà nelle FP1 al posto di Hamilton"
    },
-   "last": "2026-11-17T15:40:57.290930+00:00"
+   "last": "2026-11-17T16:00:58.033392+00:00"
   },
   "S8208": {
    "title": "F1 discusses 2.1-litre V8 engine concept for 2030",
@@ -13642,14 +13610,16 @@
    "title": "Ecclestone blames Ferrari's Italian politics for title failure",
    "first": "2026-11-17T11:10:17.062437+00:00",
    "sources": {
-    "RacingNews365": "2026-11-17T11:00:00+00:00"
+    "RacingNews365": "2026-11-17T11:00:00+00:00",
+    "AS": "2026-11-17T15:44:39+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Bernie Ecclestone criticises Ferrari's Italian 'politics' over latest title failure"
+    "RacingNews365": "Bernie Ecclestone criticises Ferrari's Italian 'politics' over latest title failure",
+    "AS": "Ecclestone atiza a Ferrari: “Demasiados italianos”"
    },
-   "last": "2026-11-17T11:10:17.062443+00:00"
+   "last": "2026-11-17T16:00:58.033396+00:00"
   },
   "S8214": {
    "title": "Piastri nearly 100 points behind Norris, Italian analysis",
@@ -13752,16 +13722,20 @@
    "sources": {
     "Motorsport-Total": "2026-11-17T10:03:04+00:00",
     "RacingNews365": "2026-11-17T15:39:00+00:00",
-    "RacingNews365 NL": "2026-11-17T15:33:00+00:00"
+    "RacingNews365 NL": "2026-11-17T15:33:00+00:00",
+    "The Race": "2026-11-17T15:56:37+00:00",
+    "GPFans": "2026-11-17T15:57:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Motorsport-Total": "Mehrere Sonderdesigns beim Formel-1-Rennen in Las Vegas - Motorsport-Total.com",
     "RacingNews365": "Cadillac unveil striking livery for final 2026 home race in Las Vegas",
-    "RacingNews365 NL": "Cadillac viert laatste thuisrace 2026 met speciale livery"
+    "RacingNews365 NL": "Cadillac viert laatste thuisrace 2026 met speciale livery",
+    "The Race": "All the special liveries for F1's Las Vegas Grand Prix",
+    "GPFans": "Lewis Hamilton and Ferrari unveil striking 'night mode' for Las Vegas GP"
    },
-   "last": "2026-11-17T15:40:57.290940+00:00"
+   "last": "2026-11-17T16:00:58.033387+00:00"
   },
   "S8222": {
    "title": "Ecclestone says Hamilton complains before the first corner",
@@ -13780,14 +13754,14 @@
    "title": "College Football Playoff bubble ahead of committee ranking",
    "first": "2026-11-17T12:30:14.526147+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T12:06:59+00:00"
+    "ESPN F1": "2026-11-17T12:00:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Who's on College Football Playoff bubble ahead of committee's third ranking?"
    },
-   "last": "2026-11-17T12:30:14.526164+00:00"
+   "last": "2026-11-17T16:00:58.033378+00:00"
   },
   "S8224": {
    "title": "Profile of Mercedes owner George Kurtz",
@@ -14336,10 +14310,23 @@
    "titles": {
     "ESPN F1": "North Carolina guard Neo Avdalas (wrist) out about 2 months"
    },
-   "last": "2026-11-17T15:50:51.645571+00:00"
+   "last": "2026-11-17T16:00:58.033355+00:00"
+  },
+  "S8265": {
+   "title": "Wayne Rooney reveals he contemplated suicide during Man United career",
+   "first": "2026-11-17T16:00:58.033366+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T13:31:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wayne Rooney reveals he contemplated suicide at height of Man United career"
+   },
+   "last": "2026-11-17T16:00:58.033372+00:00"
   }
  },
- "story_seq": 8264,
+ "story_seq": 8265,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14458,7 +14445,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T15:50:48.066819+00:00",
+ "last_run": "2026-11-17T16:00:51.492164+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 15:00",
@@ -15583,6 +15570,11 @@
    "t": "2026-11-17T15:30:57.313483+00:00",
    "title": "Montoya: Verstappen, Red Bull'da kalmasının bir nedeni olarak eşit olmayan statüsünü kabul etmeyi asla kabul etmez",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-17T16:01:01.402969+00:00",
+   "title": "Beganovic, Las Vegas'ta FP1'de Hamilton'ın yerine yarışacak",
+   "source": "FormulaPassion"
   }
  ]
 }
