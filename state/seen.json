@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "06cccdaecfa0b869": "2026-11-03T04:35:41.062977+00:00",
   "5d426eb857e58572": "2026-11-03T04:45:40.692584+00:00",
   "4ea8f943b2ed0b02": "2026-11-03T04:55:44.071102+00:00",
   "78a70d8ccfa3d9ef": "2026-11-03T04:55:44.071102+00:00",
@@ -6604,7 +6603,14 @@
   "6de7c8805db7b531": "2026-11-17T04:19:30.758987+00:00",
   "061dd61afd040fa8": "2026-11-17T04:19:30.758987+00:00",
   "fb288619a4df0c0f": "2026-11-17T04:19:30.758987+00:00",
-  "f817300d553c548b": "2026-11-17T04:29:28.102826+00:00"
+  "f817300d553c548b": "2026-11-17T04:29:28.102826+00:00",
+  "4b3fbd5199e8e4cf": "2026-11-17T04:39:29.867761+00:00",
+  "0bfd960aeb3becf0": "2026-11-17T04:39:29.867761+00:00",
+  "b1de017a74c2ee74": "2026-11-17T04:39:29.867761+00:00",
+  "4059a23e3d7b6c9a": "2026-11-17T04:39:29.867761+00:00",
+  "b40d41ee5f2a8d5e": "2026-11-17T04:39:29.867761+00:00",
+  "016d3f7debb64d18": "2026-11-17T04:39:29.867761+00:00",
+  "2dbb6fe91514ee87": "2026-11-17T04:39:29.867761+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6772,19 +6778,6 @@
     "RacingNews365 NL": "Mercedes prijst houding Russell in strijd met Antonelli"
    },
    "last": "2026-11-15T16:34:48.543384+00:00"
-  },
-  "S7594": {
-   "title": "Stars 2-0 Sabres NHL game recap",
-   "first": "2026-11-15T04:32:51.387177+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T04:28:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Stars 2-0 Sabres (15 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-15T04:32:51.387196+00:00"
   },
   "S7595": {
    "title": "Jamaica 3-2 Mexico player stats",
@@ -13760,14 +13753,14 @@
    "title": "Adan Diggs, 2027 shooting guard, commits to Arizona",
    "first": "2026-11-17T02:08:46.678079+00:00",
    "sources": {
-    "ESPN F1": "2026-11-17T02:07:56+00:00"
+    "ESPN F1": "2026-11-17T01:56:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "5-star senior Adan Diggs, top shooting guard in 2027 class, commits to Arizona"
    },
-   "last": "2026-11-17T02:08:46.678096+00:00"
+   "last": "2026-11-17T04:39:32.303111+00:00"
   },
   "S8120": {
    "title": "Márquez says Mexico 'obligated to win' vs. Jamaica",
@@ -14067,9 +14060,48 @@
     "ESPN F1": "MiLaysia Fulwiley not with LSU for Tigers' first game after arrest"
    },
    "last": "2026-11-17T04:29:29.618616+00:00"
+  },
+  "S8143": {
+   "title": "Lakers rule Austin Reaves and Walker Kessler out vs. Hornets",
+   "first": "2026-11-17T04:39:32.303122+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lakers rule Austin Reaves, Walker Kessler out vs. Hornets"
+   },
+   "last": "2026-11-17T04:39:32.303127+00:00"
+  },
+  "S8144": {
+   "title": "Testimony says bettors linked to Emmanuel Clase wagered on Ortiz pitches",
+   "first": "2026-11-17T04:39:32.303130+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T01:07:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Testimony: Bettors linked to Emmanuel Clase wagered on Luis Ortiz pitches"
+   },
+   "last": "2026-11-17T04:39:32.303134+00:00"
+  },
+  "S8145": {
+   "title": "Stream Chargers vs. Ravens videos on Watch ESPN",
+   "first": "2026-11-17T04:39:32.303137+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T00:32:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stream Chargers vs. Ravens Videos on Watch ESPN"
+   },
+   "last": "2026-11-17T04:39:32.303140+00:00"
   }
  },
- "story_seq": 8142,
+ "story_seq": 8145,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14188,7 +14220,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T04:29:28.102826+00:00",
+ "last_run": "2026-11-17T04:39:29.867761+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
