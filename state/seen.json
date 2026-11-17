@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "add9cc417e16f220": "2026-11-03T07:26:16.277058+00:00",
-  "f27d48942a997110": "2026-11-03T07:26:16.277058+00:00",
-  "db13e690a919439a": "2026-11-03T07:26:16.277058+00:00",
-  "8a76d1a252c32e9a": "2026-11-03T07:26:16.277058+00:00",
-  "40591e365291b8b9": "2026-11-03T07:26:16.277058+00:00",
-  "7d2532f1b29f62a1": "2026-11-03T07:26:16.277058+00:00",
   "c0cb9fbe2f0a3fb8": "2026-11-03T07:36:16.640929+00:00",
   "6193308e405b652e": "2026-11-03T07:36:16.640929+00:00",
   "190133ff44a5e1e7": "2026-11-03T07:46:18.442893+00:00",
@@ -6593,7 +6587,8 @@
   "5cf277483793d1a0": "2026-11-17T07:09:28.655091+00:00",
   "fc85185671afbe8e": "2026-11-17T07:19:27.780706+00:00",
   "062806ca35c79284": "2026-11-17T07:19:27.780706+00:00",
-  "580a162843a08473": "2026-11-17T07:19:27.780706+00:00"
+  "580a162843a08473": "2026-11-17T07:19:27.780706+00:00",
+  "174f478bc0b132aa": "2026-11-17T07:29:30.994866+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6639,23 +6634,6 @@
     "Motorsport Week": "Ex-F1 driver teases next career move amid major career decision"
    },
    "last": "2026-11-15T15:24:14.558155+00:00"
-  },
-  "S7429": {
-   "title": "Newey sees Red Bull parallels in Aston Martin start",
-   "first": "2026-11-14T13:10:38.518545+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-14T13:00:00+00:00",
-    "Motorsport Week": "2026-11-14T18:02:35+00:00",
-    "FormulaPassion": "2026-11-15T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Adrian Newey sees echoes of Red Bull's troubled past in Aston Martin",
-    "Motorsport Week": "Adrian Newey makes Red Bull ‘parallels’ amid current Aston Martin issues",
-    "FormulaPassion": "Newey: “Ci sono molti parallelismi tra il mio arrivo in Red Bull e quello in Aston Martin”"
-   },
-   "last": "2026-11-15T07:23:38.432521+00:00"
   },
   "S7474": {
    "title": "Steiner says Verstappen could be better Ferrari leader than Hamilton",
@@ -6791,58 +6769,6 @@
     "Motorsport Week": "Christian Horner opens up on Red Bull ‘sadness’ amid Max Verstappen dominance"
    },
    "last": "2026-11-15T17:34:47.729667+00:00"
-  },
-  "S7618": {
-   "title": "Brundle questions Aston Martin's Honda-powered situation under Stroll",
-   "first": "2026-11-15T07:23:38.432474+00:00",
-   "sources": {
-    "GPFans": "2026-11-15T07:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Martin Brundle's worrying Aston Martin verdict raises more questions for Lawrence Stroll"
-   },
-   "last": "2026-11-15T07:23:38.432492+00:00"
-  },
-  "S7619": {
-   "title": "Ralf Schumacher doubts Hamilton and Leclerc are title-calibre drivers",
-   "first": "2026-11-15T07:23:38.432497+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-15T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Ralf Schumacher si interroga: “Hamilton e Leclerc sono piloti da titolo Mondiale?”"
-   },
-   "last": "2026-11-15T07:23:38.432502+00:00"
-  },
-  "S7620": {
-   "title": "Wolff admits Antonelli somewhat resembles Senna",
-   "first": "2026-11-15T07:23:38.432506+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-15T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Paragone Antonelli-Senna, alla fine pure Toto Wolff cede: “Ok, un po’ gli somiglia, ma per ora è più… Senninha”"
-   },
-   "last": "2026-11-15T07:23:38.432510+00:00"
-  },
-  "S7621": {
-   "title": "Horner revisits Abu Dhabi 2021, praises Latifi and defends Masi pressure",
-   "first": "2026-11-15T07:23:38.432513+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-15T07:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Horner torna su Abu Dhabi: “Sia ringraziato Dio per Latifi. Masi? Gli abbiamo messo pressione, ma non fu colpa nostra”"
-   },
-   "last": "2026-11-15T07:23:38.432516+00:00"
   },
   "S7622": {
    "title": "Why Ferrari must resist calls to make Hamilton number one",
@@ -14125,9 +14051,22 @@
     "GPFans": "Kimi Antonelli went from tears to the F1 title - This is how Mercedes turned things around"
    },
    "last": "2026-11-17T07:19:30.738860+00:00"
+  },
+  "S8170": {
+   "title": "George Russell defends himself after losing F1 title to Antonelli",
+   "first": "2026-11-17T07:29:32.848168+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-17T07:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "George Russell issues stern defence after crushing F1 title defeat"
+   },
+   "last": "2026-11-17T07:29:32.848178+00:00"
   }
  },
- "story_seq": 8169,
+ "story_seq": 8170,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14246,22 +14185,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T07:19:27.780706+00:00",
+ "last_run": "2026-11-17T07:29:30.994866+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T07:19:58.266312+00:00",
-   "title": "McLaren'ın 60 yıllık Dünya Şampiyonası serüveni ve MP4/4",
-   "source": "AS"
-  },
-  {
-   "t": "2026-11-14T07:19:58.606979+00:00",
-   "title": "Horner, F1 paddock'a dönüşü konusunda ciddi şüphe uyandırdı",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-14T07:29:55.373401+00:00",
    "title": "Horner'ın kitabına göre Newey'in Red Bull'a geçişinde 6 milyon sterlinlik maaş talebi",
@@ -15346,6 +15275,11 @@
    "t": "2026-11-17T07:19:35.098178+00:00",
    "title": "Kimi Antonelli, 20 yaşında F1'in en genç dünya şampiyonu oldu",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-17T07:29:37.861093+00:00",
+   "title": "Russell, Antonelli'ye karşı şampiyonluk kaybı sonrası savunma yaptı",
+   "source": "RacingNews365"
   }
  ]
 }
