@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f06d10d119e3ffd3": "2026-11-03T11:16:59.842817+00:00",
-  "b2711378be8b7421": "2026-11-03T11:16:59.842817+00:00",
   "0fcf73bc42bccc44": "2026-11-03T11:27:03.982893+00:00",
   "58000de5d53556d7": "2026-11-03T11:27:03.982893+00:00",
   "387232e09ea592e5": "2026-11-03T11:37:04.307687+00:00",
@@ -6569,7 +6567,11 @@
   "c465f50f176e7714": "2026-11-17T11:00:11.960884+00:00",
   "c7131a90379174b8": "2026-11-17T11:10:11.542565+00:00",
   "531019f6560816b1": "2026-11-17T11:10:11.542565+00:00",
-  "7cd0ca6f0f9f28d3": "2026-11-17T11:10:11.542565+00:00"
+  "7cd0ca6f0f9f28d3": "2026-11-17T11:10:11.542565+00:00",
+  "191574b326642778": "2026-11-17T11:20:11.627949+00:00",
+  "a184ec8929dcd689": "2026-11-17T11:20:11.627949+00:00",
+  "58da44adb17bef0e": "2026-11-17T11:20:11.627949+00:00",
+  "40dfde310ae94358": "2026-11-17T11:20:11.627949+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6870,19 +6872,6 @@
     "RacingNews365": "Mercedes predict significant loss for start of new F1 season"
    },
    "last": "2026-11-15T17:24:49.236215+00:00"
-  },
-  "S7651": {
-   "title": "Chatou 2026-27 squad list from ESPN F1",
-   "first": "2026-11-15T11:14:21.045986+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T08:04:23+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chatou Plantilla 2026-27"
-   },
-   "last": "2026-11-15T11:14:21.046002+00:00"
   },
   "S7652": {
    "title": "Leclerc comments on Hamilton's sensitivity as Ferrari team-mate",
@@ -11838,7 +11827,8 @@
     "RacingNews365 NL": "2026-11-16T17:15:00+00:00",
     "Formula 1": "2026-11-16T17:47:26.837977+00:00",
     "GPblog": "2026-11-16T17:45:00+00:00",
-    "Motorsport Week": "2026-11-16T18:09:46+00:00"
+    "Motorsport Week": "2026-11-16T18:09:46+00:00",
+    "PlanetF1": "2026-11-17T11:11:26+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -11847,9 +11837,10 @@
     "RacingNews365 NL": "Williams onthult speciale livery voor GP Las Vegas",
     "Formula 1": "Williams unveil special livery for Las Vegas Grand Prix",
     "GPblog": "Williams reveal striking blue chrome livery for Las Vegas GP",
-    "Motorsport Week": "Williams to light up night sky with special Las Vegas livery"
+    "Motorsport Week": "Williams to light up night sky with special Las Vegas livery",
+    "PlanetF1": "Williams unveils special Las Vegas Grand Prix livery in ground-effect throwback"
    },
-   "last": "2026-11-16T18:28:12.416781+00:00"
+   "last": "2026-11-17T11:20:14.851195+00:00"
   },
   "S8023": {
    "title": "Norris says Las Vegas wet tyres would be scary",
@@ -13489,7 +13480,7 @@
    "titles": {
     "Motorsport-Total": "Nicht Liam Lawson ist gescheitert: Was Red Bull endlich verstehen muss - Motorsport-Total.com"
    },
-   "last": "2026-11-17T05:29:36.150793+00:00"
+   "last": "2026-11-17T11:20:14.851219+00:00"
   },
   "S8149": {
    "title": "Chargers seal victory with late forced fumble by Tarheeb Still",
@@ -14359,9 +14350,22 @@
     "RacingNews365": "Bernie Ecclestone criticises Ferrari's Italian 'politics' over latest title failure"
    },
    "last": "2026-11-17T11:10:17.062443+00:00"
+  },
+  "S8214": {
+   "title": "Piastri nearly 100 points behind Norris, Italian analysis",
+   "first": "2026-11-17T11:20:14.851204+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-17T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Piastri, che succede?"
+   },
+   "last": "2026-11-17T11:20:14.851211+00:00"
   }
  },
- "story_seq": 8213,
+ "story_seq": 8214,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14480,22 +14484,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T11:10:11.542565+00:00",
+ "last_run": "2026-11-17T11:20:11.627949+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T11:10:48.499455+00:00",
-   "title": "Sao Paulo GP sonrası F1 pilotlarından Pirelli yağmur lastiklerine karışık tepki",
-   "source": "Motorsport Week"
-  },
-  {
-   "t": "2026-11-14T11:10:49.181662+00:00",
-   "title": "Horner, Wolff'un Abu Dhabi 2021 sonrası gönderdiği mesajı açıkladı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-14T11:20:51.419130+00:00",
    "title": "Verstappen: Nürburgring ve Spa'da yarışmaya muhtemelen katılacak, Le Mans'a şimdilik bakmıyor",
@@ -15585,6 +15579,11 @@
    "t": "2026-11-17T11:10:23.535377+00:00",
    "title": "Ecclestone: Ferrari şampiyonluğu kazanmalıydı, takımda çok fazla İtalyan var",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T11:20:23.033903+00:00",
+   "title": "Piastri'de düşüş: Sezon boyunca galibiyet yok",
+   "source": "FormulaPassion"
   }
  ]
 }
