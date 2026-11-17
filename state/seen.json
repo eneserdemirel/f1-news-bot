@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d0e6c35e75f4c768": "2026-11-03T22:59:28.938897+00:00",
-  "fee6abb182857758": "2026-11-03T22:59:28.938897+00:00",
   "6ba8a7fc852d7af6": "2026-11-03T23:09:26.277244+00:00",
   "c9a5fdb52a78cdfa": "2026-11-03T23:09:26.277244+00:00",
   "ee43c34efacf331e": "2026-11-03T23:09:26.277244+00:00",
@@ -6531,7 +6529,8 @@
   "f20058e147568a1d": "2026-11-17T22:51:28.889559+00:00",
   "e0003773f9d53632": "2026-11-17T22:51:28.889559+00:00",
   "c8185c406ee2fecb": "2026-11-17T22:51:28.889559+00:00",
-  "aa120dd3b626519d": "2026-11-17T22:51:28.889559+00:00"
+  "aa120dd3b626519d": "2026-11-17T22:51:28.889559+00:00",
+  "53b026191c35990d": "2026-11-17T23:01:26.774436+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6739,32 +6738,6 @@
    },
    "last": "2026-11-16T06:56:05.681790+00:00"
   },
-  "S7785": {
-   "title": "Raiders lose TE Brock Bowers to ankle injury vs. Seahawks",
-   "first": "2026-11-15T22:55:34.908652+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Raiders lose TE Brock Bowers to ankle injury vs. Seahawks"
-   },
-   "last": "2026-11-15T22:55:34.908677+00:00"
-  },
-  "S7786": {
-   "title": "FIU Panthers vs. South Florida Bulls game highlights",
-   "first": "2026-11-15T22:55:34.908684+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:46:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Florida International Panthers vs. South Florida Bulls: Game Highlights"
-   },
-   "last": "2026-11-15T22:55:34.908690+00:00"
-  },
   "S7787": {
    "title": "Kirk Cousins emotional after victory in Vikings return",
    "first": "2026-11-15T22:55:34.908694+00:00",
@@ -6777,19 +6750,6 @@
     "ESPN F1": "Kirk Cousins emotional after victory in Vikings return"
    },
    "last": "2026-11-16T03:16:15.467596+00:00"
-  },
-  "S7788": {
-   "title": "LeBron James dishes 11 assists in 76ers win",
-   "first": "2026-11-15T22:55:34.908703+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T20:41:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks"
-   },
-   "last": "2026-11-15T22:55:34.908708+00:00"
   },
   "S7789": {
    "title": "Derrick Jones Jr. elevates for big-time block",
@@ -14385,9 +14345,22 @@
     "ESPN F1": "Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts"
    },
    "last": "2026-11-17T22:51:32.964821+00:00"
+  },
+  "S8356": {
+   "title": "Australian Grand Prix Adelaide street race faces protests",
+   "first": "2026-11-17T23:01:28.320889+00:00",
+   "sources": {
+    "GPblog": "2026-11-17T22:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Australian Grand Prix hit by protests as controversy continues"
+   },
+   "last": "2026-11-17T23:01:28.320910+00:00"
   }
  },
- "story_seq": 8355,
+ "story_seq": 8356,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14506,7 +14479,7 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T22:51:28.889559+00:00",
+ "last_run": "2026-11-17T23:01:26.774436+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
