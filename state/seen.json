@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "879f39b2a77969fd": "2026-11-03T08:26:17.696538+00:00",
-  "cd989130d7aa3d72": "2026-11-03T08:26:17.696538+00:00",
   "bf8d6ac6a7b535d4": "2026-11-03T08:36:18.009695+00:00",
   "69996f957fe745aa": "2026-11-03T08:36:18.009695+00:00",
   "f09c8ca46c5d23b3": "2026-11-03T08:36:18.009695+00:00",
@@ -6585,7 +6583,10 @@
   "d9a3be5cab28b65f": "2026-11-17T08:19:27.658084+00:00",
   "6c3c2e4a55de8e3c": "2026-11-17T08:19:27.658084+00:00",
   "2233368a4a8612af": "2026-11-17T08:19:27.658084+00:00",
-  "7ff8918ebff423d3": "2026-11-17T08:19:27.658084+00:00"
+  "7ff8918ebff423d3": "2026-11-17T08:19:27.658084+00:00",
+  "29097e654f7b6136": "2026-11-17T08:29:28.365107+00:00",
+  "325f9bb47fc582af": "2026-11-17T08:29:28.365107+00:00",
+  "c4cef10ae39d129d": "2026-11-17T08:29:28.365107+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6822,19 +6823,6 @@
     "ESPN F1": "Arch Manning leads game-winning drive as Texas stuns LSU"
    },
    "last": "2026-11-15T09:23:37.836316+00:00"
-  },
-  "S7628": {
-   "title": "Kiffin says LSU's playoff hopes are dashed, understands frustration",
-   "first": "2026-11-15T08:23:37.664265+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T06:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kiffin understands frustration as LSU's playoff hopes dashed"
-   },
-   "last": "2026-11-15T08:23:37.664283+00:00"
   },
   "S7629": {
    "title": "Sainz says Williams is a second off midfield, Las Vegas points unlikely",
@@ -14008,7 +13996,7 @@
    "titles": {
     "ESPN F1": "Suns 117-105 Nuggets (Nov 16, 2026) Game Recap"
    },
-   "last": "2026-11-17T07:19:30.738853+00:00"
+   "last": "2026-11-17T08:29:31.096437+00:00"
   },
   "S8169": {
    "title": "Feature on Antonelli's tears-to-title journey and Mercedes turnaround",
@@ -14165,9 +14153,35 @@
     "RacingNews365": "F1 drivers handed ‘brutal’ warning as crazy record at risk of breaking"
    },
    "last": "2026-11-17T08:19:30.347835+00:00"
+  },
+  "S8181": {
+   "title": "Shane Deitz appointed Pakistan women's head coach",
+   "first": "2026-11-17T08:29:31.096419+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T07:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Shane Deitz appointed Pakistan women's head coach"
+   },
+   "last": "2026-11-17T08:29:31.096430+00:00"
+  },
+  "S8182": {
+   "title": "Motorsport.com Italia feature on Antonelli's behind-the-scenes life",
+   "first": "2026-11-17T08:29:31.096440+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-17T08:22:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Esclusivo: il Kimi che non vediamo. Il campione raccontato da chi gli vive accanto"
+   },
+   "last": "2026-11-17T08:29:31.096443+00:00"
   }
  },
- "story_seq": 8180,
+ "story_seq": 8182,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14286,17 +14300,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T08:19:27.658084+00:00",
+ "last_run": "2026-11-17T08:29:28.365107+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T08:19:53.572228+00:00",
-   "title": "Sag Cestas 2026-27 Kadrosunda Yer Alıyor",
-   "source": "ESPN F1"
-  },
   {
    "t": "2026-11-14T08:50:00.545511+00:00",
    "title": "Kimi Antonelli, Cumhurbaşkanı Mattarella'yı Quirinale'de kabul etti",
@@ -15386,6 +15395,11 @@
    "t": "2026-11-17T08:19:34.824922+00:00",
    "title": "Las Vegas GP'de F1 tarihinin en soğuk yarışı riski",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-17T08:29:36.106535+00:00",
+   "title": "Antonelli'nin perde arkası: Ekibinin gözünden Kimi",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
