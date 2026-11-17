@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b28bd8a7fa6c636c": "2026-11-03T09:46:17.987746+00:00",
-  "5c5157e20dd42b79": "2026-11-03T09:46:17.987746+00:00",
   "bfdd17fc8fd3dee0": "2026-11-03T09:56:17.070484+00:00",
   "741f7af7d78f7b98": "2026-11-03T09:56:17.070484+00:00",
   "68e9f91c091aa2a5": "2026-11-03T09:56:17.070484+00:00",
@@ -6579,7 +6577,9 @@
   "122a31313ef1e8e5": "2026-11-17T09:30:12.520664+00:00",
   "959b29d77af61b1c": "2026-11-17T09:40:14.196923+00:00",
   "c573d15d6f9f11f6": "2026-11-17T09:40:14.196923+00:00",
-  "180e7dcd87e88371": "2026-11-17T09:40:14.196923+00:00"
+  "180e7dcd87e88371": "2026-11-17T09:40:14.196923+00:00",
+  "3b753cff80a29578": "2026-11-17T09:50:17.387299+00:00",
+  "42a9954f6acb07ba": "2026-11-17T09:50:17.387299+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6859,19 +6859,6 @@
     "Motorsport.com Italia": "F1 | Ecco come Istanbul sta rinnovando il suo circuito per garantirsi un futuro a lungo termine"
    },
    "last": "2026-11-15T17:04:48.327054+00:00"
-  },
-  "S7641": {
-   "title": "Alonso comments on new Honda project",
-   "first": "2026-11-15T09:43:37.166360+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-15T09:40:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Fernando Alonso reveals major Honda F1 move after 'hard lessons'"
-   },
-   "last": "2026-11-15T09:43:37.166365+00:00"
   },
   "S7642": {
    "title": "Button doubts whether Alonso has another season in him",
@@ -14242,9 +14229,35 @@
     "Auto Motor und Sport": "cadillac-verkauf-fensway-sports-group-keselowski-veto"
    },
    "last": "2026-11-17T09:30:16.186284+00:00"
+  },
+  "S8196": {
+   "title": "MS Dhoni ends IPL career and becomes CSK mentor",
+   "first": "2026-11-17T09:50:19.023484+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T09:47:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "MS Dhoni ends IPL career, appointed CSK mentor"
+   },
+   "last": "2026-11-17T09:50:19.023501+00:00"
+  },
+  "S8197": {
+   "title": "Rangers 3-1 Canadiens NHL game recap",
+   "first": "2026-11-17T09:50:19.023507+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T09:06:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rangers 3-1 Canadiens (17 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-17T09:50:19.023513+00:00"
   }
  },
- "story_seq": 8195,
+ "story_seq": 8197,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14363,17 +14376,12 @@
   ]
  ],
  "calendar_updated": "2026-11-16T23:18:36.305640+00:00",
- "last_run": "2026-11-17T09:40:14.196923+00:00",
+ "last_run": "2026-11-17T09:50:17.387299+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-16 22:00",
  "last_digest_at": "2026-11-16T19:18:14.450470+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-14T09:40:44.244534+00:00",
-   "title": "Stella: McLaren, Las Vegas ile \"sonunda barışmayı\" umuyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-14T09:50:45.184569+00:00",
    "title": "FIA'nın çevrimiçi istismar düzenlemesine pilotlardan destek",
