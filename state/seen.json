@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b7df85b31a86493c": "2026-11-04T01:10:09.959365+00:00",
-  "31efe75178ef70d9": "2026-11-04T01:10:09.959365+00:00",
-  "592ab349cc31661f": "2026-11-04T01:10:09.959365+00:00",
-  "a28fb030f7ff2753": "2026-11-04T01:10:09.959365+00:00",
   "d6738737decd1b92": "2026-11-04T01:20:11.286243+00:00",
   "412854d2804489ce": "2026-11-04T01:20:11.286243+00:00",
   "796576786570a516": "2026-11-04T01:20:11.286243+00:00",
@@ -6531,7 +6527,9 @@
   "a0e368e4cff6ce5c": "2026-11-18T00:51:25.000486+00:00",
   "2221e36960a1bf66": "2026-11-18T01:02:01.189035+00:00",
   "c9ef0d2fe1f7ef89": "2026-11-18T01:02:01.189035+00:00",
-  "3edd49c902ac0545": "2026-11-18T01:02:01.189035+00:00"
+  "3edd49c902ac0545": "2026-11-18T01:02:01.189035+00:00",
+  "9f659e9b432854f0": "2026-11-18T01:12:01.580513+00:00",
+  "c39fdaea8c0ae9ae": "2026-11-18T01:12:01.580513+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6684,19 +6682,6 @@
     "ESPN F1": "49ers 46-40 Cowboys (Nov 15, 2026) Game Recap"
    },
    "last": "2026-11-16T03:16:15.467547+00:00"
-  },
-  "S7824": {
-   "title": "Motorsport-Total generic F1 news page with no specific story",
-   "first": "2026-11-16T01:05:34.489862+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-15T23:09:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "- Motorsport-Total.com"
-   },
-   "last": "2026-11-16T01:05:34.489867+00:00"
   },
   "S7825": {
    "title": "Jaguars 40-23 Titans game recap",
@@ -14162,9 +14147,35 @@
     "ESPN F1": "Dior Johnson knocks down the 3-pointer"
    },
    "last": "2026-11-18T01:02:03.175087+00:00"
+  },
+  "S8382": {
+   "title": "Saint Peter's vs. UMass Lowell game highlights",
+   "first": "2026-11-18T01:12:02.876516+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T01:02:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Saint Peter's Peacocks vs. UMass Lowell River Hawks: Game Highlights"
+   },
+   "last": "2026-11-18T01:12:02.876537+00:00"
+  },
+  "S8383": {
+   "title": "Dabo Swinney says Clemson 'gonna win a bunch more'",
+   "first": "2026-11-18T01:12:02.876543+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-17T19:48:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Defiant Dabo Swinney says Clemson's 'gonna win a bunch more'"
+   },
+   "last": "2026-11-18T01:12:02.876549+00:00"
   }
  },
- "story_seq": 8381,
+ "story_seq": 8383,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14283,7 +14294,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T01:02:01.189035+00:00",
+ "last_run": "2026-11-18T01:12:01.580513+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
