@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4113dbf9b16943f5": "2026-11-04T08:00:51.459265+00:00",
-  "00057dd475f56736": "2026-11-04T08:00:51.459265+00:00",
-  "2aced4a3f5ce17d9": "2026-11-04T08:00:51.459265+00:00",
   "693e09cca197ba81": "2026-11-04T08:11:16.622494+00:00",
   "3797ec846cd7a737": "2026-11-04T08:11:16.622494+00:00",
   "63ff9027bd0f05c6": "2026-11-04T08:11:16.622494+00:00",
@@ -6590,7 +6587,11 @@
   "ce05f98926a602da": "2026-11-18T07:42:52.941293+00:00",
   "64709a6fdc5f5218": "2026-11-18T07:42:52.941293+00:00",
   "311fab130a61bd3e": "2026-11-18T07:42:52.941293+00:00",
-  "58979a0aba10c12b": "2026-11-18T07:52:49.582736+00:00"
+  "58979a0aba10c12b": "2026-11-18T07:52:49.582736+00:00",
+  "085127203039deab": "2026-11-18T08:02:46.961102+00:00",
+  "6464b570579d99cd": "2026-11-18T08:02:46.961102+00:00",
+  "dd69ad3133111ef3": "2026-11-18T08:02:46.961102+00:00",
+  "b5eb87a9afe1eaae": "2026-11-18T08:02:46.961102+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6759,19 +6760,6 @@
     "GPFans": "Kimi Antonelli is going to get PAID, Toto Wolff drops big contract hint"
    },
    "last": "2026-11-17T20:01:28.819410+00:00"
-  },
-  "S7902": {
-   "title": "Podcast debates whether Imola race decision was wrong",
-   "first": "2026-11-16T07:56:39.744266+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-16T07:49:57+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Final Sector Podcast: F1 Imola decision ‘makes no sense’"
-   },
-   "last": "2026-11-16T07:56:39.744272+00:00"
   },
   "S7903": {
    "title": "Verstappen says Las Vegas GP will be difficult and different",
@@ -14617,9 +14605,50 @@
     "PlanetF1": "George Russell ‘bad luck’ claim under Kimi Antonelli father scrutiny"
    },
    "last": "2026-11-18T07:42:56.760884+00:00"
+  },
+  "S8490": {
+   "title": "Nigeria at risk of missing AFCON 2027 over striker woes",
+   "first": "2026-11-18T08:02:52.999759+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T07:54:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Nigeria at risk of missing AFCON 2027 as striker woes continue"
+   },
+   "last": "2026-11-18T08:02:52.999779+00:00"
+  },
+  "S8491": {
+   "title": "Ecclestone says Hamilton should consider retirement over Ferrari complaints",
+   "first": "2026-11-18T08:02:52.999786+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-18T08:00:00+00:00",
+    "GPFans": "2026-11-18T07:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lewis Hamilton told to consider retirement after Ferrari ‘whining and complaining’",
+    "GPFans": "Lewis Hamilton told to retire amid Ferrari misery: 'It's too late for him'"
+   },
+   "last": "2026-11-18T08:02:52.999799+00:00"
+  },
+  "S8492": {
+   "title": "Hamilton hits back at ex-F1 drivers criticising young stars",
+   "first": "2026-11-18T08:02:52.999803+00:00",
+   "sources": {
+    "Crash.net": "2026-11-18T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Lewis Hamilton calls out ex-F1 drivers for “talking smack” about young stars"
+   },
+   "last": "2026-11-18T08:02:52.999808+00:00"
   }
  },
- "story_seq": 8489,
+ "story_seq": 8492,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14738,17 +14767,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T07:52:49.582736+00:00",
+ "last_run": "2026-11-18T08:02:46.961102+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T07:53:44.177236+00:00",
-   "title": "McLaren CEO'su Zak Brown: Eski dönem \"zehirli bir çalışma ortamıydı\"",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-15T08:03:49.691180+00:00",
    "title": "Hamilton, Ferrari'yi düzeltme mücadelesinden geri adım atmıyor",
