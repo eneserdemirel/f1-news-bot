@@ -6611,7 +6611,10 @@
   "11b497ddc054b6a7": "2026-11-18T10:22:50.380672+00:00",
   "94fa102d612911b0": "2026-11-18T10:22:50.380672+00:00",
   "024a1e5f92727542": "2026-11-18T10:22:50.380672+00:00",
-  "c71c5a35b29a3efd": "2026-11-18T10:22:50.380672+00:00"
+  "c71c5a35b29a3efd": "2026-11-18T10:22:50.380672+00:00",
+  "e6dfed23eab014e8": "2026-11-18T10:32:48.930528+00:00",
+  "2c4f23c561bbd99c": "2026-11-18T10:32:48.930528+00:00",
+  "796f33f1a9401945": "2026-11-18T10:32:48.930528+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6869,19 +6872,6 @@
     "FormulaPassion": "La prima vittoria in F1 nell’anno del suo primo titolo: solo cinque piloti oltre Antonelli"
    },
    "last": "2026-11-16T15:07:24.794312+00:00"
-  },
-  "S7924": {
-   "title": "Nico Paz as heir to Messi's Argentina No. 10 shirt",
-   "first": "2026-11-16T10:26:45.237782+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T09:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Meet Como's Nico Paz, the heir to Lionel Messi's Argentina No. 10 shirt"
-   },
-   "last": "2026-11-16T10:26:45.237803+00:00"
   },
   "S7925": {
    "title": "McLaren pressure to secure P3 in Constructors' Championship",
@@ -14282,7 +14272,7 @@
    "titles": {
     "ESPN F1": "Argentina set tone for post-Messi era with 7-0 Costa Rica rout"
    },
-   "last": "2026-11-18T06:52:50.532384+00:00"
+   "last": "2026-11-18T10:32:51.909112+00:00"
   },
   "S8482": {
    "title": "ESPN piece on India helping Jasprit Bumrah (cricket)",
@@ -14766,7 +14756,7 @@
    "titles": {
     "ESPN F1": "Bancroft: 'I did not give a complete and truthful account'"
    },
-   "last": "2026-11-18T09:42:51.984202+00:00"
+   "last": "2026-11-18T10:32:51.909099+00:00"
   },
   "S8518": {
    "title": "Bancroft says everyone knew about sandpaper in 2018",
@@ -14923,9 +14913,22 @@
     "Motorsport-Total": "\"Ziegenpfad\" und unbezahlte Wette: Die kuriosesten Las-Vegas-Geschichten - Motorsport-Total.com"
    },
    "last": "2026-11-18T10:22:53.984372+00:00"
+  },
+  "S8530": {
+   "title": "Why the Las Vegas Grand Prix is held on a Saturday",
+   "first": "2026-11-18T10:32:51.909118+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-18T10:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Why the Las Vegas Grand Prix is held on a Saturday"
+   },
+   "last": "2026-11-18T10:32:51.909124+00:00"
   }
  },
- "story_seq": 8529,
+ "story_seq": 8530,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15044,7 +15047,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T10:22:50.380672+00:00",
+ "last_run": "2026-11-18T10:32:48.930528+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
@@ -16229,6 +16232,11 @@
    "t": "2026-11-18T10:22:59.450453+00:00",
    "title": "Las Vegas GP'de takımların lastik seçenekleri açıklandı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-18T10:32:56.186496+00:00",
+   "title": "Las Vegas Grand Prix neden cumartesi günü yapılıyor?",
+   "source": "RacingNews365"
   }
  ]
 }
