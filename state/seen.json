@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "72e29cb351ead402": "2026-11-04T06:50:44.623620+00:00",
   "16e7498002fb0541": "2026-11-04T07:00:44.616089+00:00",
   "82a23c0848b78c43": "2026-11-04T07:00:44.616089+00:00",
   "e935cc31cb607d24": "2026-11-04T07:10:47.887731+00:00",
@@ -6593,7 +6592,9 @@
   "cfafbf5ea284f64a": "2026-11-18T06:32:48.291370+00:00",
   "679ddc8e36b92544": "2026-11-18T06:32:48.291370+00:00",
   "7387dbb6b684fe3f": "2026-11-18T06:32:48.291370+00:00",
-  "f3ec3a4357293329": "2026-11-18T06:42:47.653856+00:00"
+  "f3ec3a4357293329": "2026-11-18T06:42:47.653856+00:00",
+  "18dd025731a5ba68": "2026-11-18T06:52:48.532916+00:00",
+  "e0e17acedac64a85": "2026-11-18T06:52:48.532916+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6754,19 +6755,6 @@
     "PlanetF1": "Lewis Hamilton leadership questioned as Ferrari driver ‘solution’ named"
    },
    "last": "2026-11-16T06:56:05.681809+00:00"
-  },
-  "S7889": {
-   "title": "Celtics 131-94 Mavericks NBA game recap",
-   "first": "2026-11-16T06:46:14.146388+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T01:41:11+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Celtics 131-94 Mavericks (Nov 15, 2026) Game Recap"
-   },
-   "last": "2026-11-16T06:46:14.146409+00:00"
   },
   "S7890": {
    "title": "Edmonton wins 15th Grey Cup title over Montreal",
@@ -14666,9 +14654,22 @@
     "Motorsport-Total": "Mercedes bringt neuen Turbo nach Las Vegas: Warum Russell leer ausgeht - Motorsport-Total.com"
    },
    "last": "2026-11-18T06:42:49.351996+00:00"
+  },
+  "S8481": {
+   "title": "Argentina beat Costa Rica 7-0 in post-Messi era match analysis",
+   "first": "2026-11-18T06:52:50.532365+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:36:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Argentina set tone for post-Messi era with 7-0 Costa Rica rout"
+   },
+   "last": "2026-11-18T06:52:50.532384+00:00"
   }
  },
- "story_seq": 8480,
+ "story_seq": 8481,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14787,7 +14788,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T06:42:47.653856+00:00",
+ "last_run": "2026-11-18T06:52:48.532916+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
