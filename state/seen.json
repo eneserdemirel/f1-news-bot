@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "16e7498002fb0541": "2026-11-04T07:00:44.616089+00:00",
-  "82a23c0848b78c43": "2026-11-04T07:00:44.616089+00:00",
   "e935cc31cb607d24": "2026-11-04T07:10:47.887731+00:00",
   "f61fb26e368f5413": "2026-11-04T07:10:47.887731+00:00",
   "c84b0c37dcbf01fc": "2026-11-04T07:10:47.887731+00:00",
@@ -6594,7 +6592,9 @@
   "7387dbb6b684fe3f": "2026-11-18T06:32:48.291370+00:00",
   "f3ec3a4357293329": "2026-11-18T06:42:47.653856+00:00",
   "18dd025731a5ba68": "2026-11-18T06:52:48.532916+00:00",
-  "e0e17acedac64a85": "2026-11-18T06:52:48.532916+00:00"
+  "e0e17acedac64a85": "2026-11-18T06:52:48.532916+00:00",
+  "c7d0c21c0178f9f7": "2026-11-18T07:02:47.465571+00:00",
+  "770ed7ace0e306a0": "2026-11-18T07:02:47.465571+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6670,32 +6670,6 @@
    },
    "last": "2026-11-17T15:50:51.645577+00:00"
   },
-  "S7783": {
-   "title": "IIHF confirms Russia will not play in world junior championships in Canada",
-   "first": "2026-11-15T22:45:36.715589+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:32:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "IIHF confirms Russia won't play in world junior hockey championships in Canada"
-   },
-   "last": "2026-11-16T06:56:05.681790+00:00"
-  },
-  "S7842": {
-   "title": "NFL playoff chances tiers for all 32 teams",
-   "first": "2026-11-16T03:06:06.211812+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T02:51:19+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture"
-   },
-   "last": "2026-11-16T06:56:05.681804+00:00"
-  },
   "S7869": {
    "title": "2026 F1 Las Vegas Grand Prix time schedule published",
    "first": "2026-11-16T05:06:07.873867+00:00",
@@ -6740,47 +6714,6 @@
     "Motorsport-Total": "Ralf Schumacher: Bruder Michael war \"deutlich besser\" als Lewis Hamilton - Motorsport-Total.com"
    },
    "last": "2026-11-16T09:06:37.195750+00:00"
-  },
-  "S7888": {
-   "title": "Steiner questions whether Hamilton is the right person to lead Ferrari",
-   "first": "2026-11-16T06:36:06.991499+00:00",
-   "sources": {
-    "GPFans": "2026-11-16T06:30:00+00:00",
-    "PlanetF1": "2026-11-16T06:51:34+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Verstappen backed to fix Ferrari as Lewis Hamilton refuses to back down - F1 News Today",
-    "PlanetF1": "Lewis Hamilton leadership questioned as Ferrari driver ‘solution’ named"
-   },
-   "last": "2026-11-16T06:56:05.681809+00:00"
-  },
-  "S7890": {
-   "title": "Edmonton wins 15th Grey Cup title over Montreal",
-   "first": "2026-11-16T06:56:05.681762+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T06:49:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Edmonton back atop CFL, outlasts Montreal to capture 15th Grey Cup title"
-   },
-   "last": "2026-11-16T06:56:05.681781+00:00"
-  },
-  "S7891": {
-   "title": "Joe Burrow four-touchdown game compared to Brady and Manning",
-   "first": "2026-11-16T06:56:05.681794+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T06:41:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Joe Burrow's 4-TD effort puts him in company of Tom Brady, Peyton Manning"
-   },
-   "last": "2026-11-16T06:56:05.681799+00:00"
   },
   "S7892": {
    "title": "Verstappen's four 2026 DNFs raise Red Bull reliability questions",
@@ -14667,9 +14600,35 @@
     "ESPN F1": "Argentina set tone for post-Messi era with 7-0 Costa Rica rout"
    },
    "last": "2026-11-18T06:52:50.532384+00:00"
+  },
+  "S8482": {
+   "title": "ESPN piece on India helping Jasprit Bumrah (cricket)",
+   "first": "2026-11-18T07:02:50.039287+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T06:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Can India help Bumrah be the best Bumrah he can be?"
+   },
+   "last": "2026-11-18T07:02:50.039309+00:00"
+  },
+  "S8483": {
+   "title": "Piastri to take grid penalty at Las Vegas Grand Prix",
+   "first": "2026-11-18T07:02:50.039315+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-18T06:59:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri braced for grid penalty at Las Vegas Grand Prix"
+   },
+   "last": "2026-11-18T07:02:50.039321+00:00"
   }
  },
- "story_seq": 8481,
+ "story_seq": 8483,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14788,7 +14747,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T06:52:48.532916+00:00",
+ "last_run": "2026-11-18T07:02:47.465571+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
@@ -15963,6 +15922,11 @@
    "t": "2026-11-18T06:22:57.308309+00:00",
    "title": "Verstappen, Antonelli'nin rekor kovalamasının F1 kararını etkilemediğini söyledi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-18T07:02:53.320254+00:00",
+   "title": "Piastri, Las Vegas GP'de 10 sıra cezası alacak",
+   "source": "PlanetF1"
   }
  ]
 }
