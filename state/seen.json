@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "71f294281e36e389": "2026-11-04T17:51:17.003038+00:00",
-  "f87557dfcd9f2f04": "2026-11-04T17:51:53.225973+00:00",
   "cbc45b8b439b739d": "2026-11-04T18:01:49.390597+00:00",
   "7685d195a1b0464d": "2026-11-04T18:01:49.390597+00:00",
   "80eaf49c65acb9b3": "2026-11-04T18:01:49.390597+00:00",
@@ -6558,7 +6556,14 @@
   "d5208531a4b2206e": "2026-11-18T17:44:12.500742+00:00",
   "baac143acc2e70fa": "2026-11-18T17:44:12.500742+00:00",
   "1402cfa88588cc9f": "2026-11-18T17:44:12.500742+00:00",
-  "7945660de13d1eff": "2026-11-18T17:44:12.500742+00:00"
+  "7945660de13d1eff": "2026-11-18T17:44:12.500742+00:00",
+  "c002f8cae93d1624": "2026-11-18T17:54:12.197183+00:00",
+  "b5adc315be6550ee": "2026-11-18T17:54:12.197183+00:00",
+  "e0d29899a3264790": "2026-11-18T17:54:12.197183+00:00",
+  "eb6b3ca70a7555ee": "2026-11-18T17:54:12.197183+00:00",
+  "0e9d8f774f2a70ed": "2026-11-18T17:54:12.197183+00:00",
+  "3da8879ba7d8dc4b": "2026-11-18T17:54:12.197183+00:00",
+  "92a67c0e676d082c": "2026-11-18T17:54:12.197183+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6760,19 +6765,6 @@
    },
    "last": "2026-11-17T10:10:23.520477+00:00"
   },
-  "S8018": {
-   "title": "Bayern Munich confirm Alphonso Davies hamstring injury",
-   "first": "2026-11-16T17:27:21.168624+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T17:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bayern Munich confirm Alphonso Davies hamstring injury after Canada win"
-   },
-   "last": "2026-11-16T17:47:26.838011+00:00"
-  },
   "S8022": {
    "title": "Williams unveil chrome livery tweak for Las Vegas GP",
    "first": "2026-11-16T17:27:21.168687+00:00",
@@ -6796,19 +6788,6 @@
    },
    "last": "2026-11-17T11:20:14.851195+00:00"
   },
-  "S8025": {
-   "title": "Cowboys RG Booker and CB Bland have high ankle sprains",
-   "first": "2026-11-16T17:47:26.837997+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T17:35:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Cowboys RG Tyler Booker, CB DaRon Bland have high ankle sprains"
-   },
-   "last": "2026-11-16T17:47:26.838004+00:00"
-  },
   "S8026": {
    "title": "Pochettino non-committal on US players for Man United",
    "first": "2026-11-16T17:47:26.838015+00:00",
@@ -6821,45 +6800,6 @@
     "ESPN F1": "Pochettino won't be drawn on U.S. players he might bring to Manchester United"
    },
    "last": "2026-11-17T00:18:46.911249+00:00"
-  },
-  "S8027": {
-   "title": "Dolphins cut kicker Zane Gonzalez after costly misses",
-   "first": "2026-11-16T17:47:26.838023+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T16:39:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts"
-   },
-   "last": "2026-11-16T17:47:26.838027+00:00"
-  },
-  "S8028": {
-   "title": "Verstappen reminisces on Red Bull roadtrip ahead of Las Vegas",
-   "first": "2026-11-16T17:47:26.838030+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-16T17:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Verstappen openhartig tijdens Red Bull-roadtrip: \"Krijg er nog altijd kippenvel van!\""
-   },
-   "last": "2026-11-16T17:47:26.838034+00:00"
-  },
-  "S8029": {
-   "title": "Opinion piece on Hamilton's Ferrari problems",
-   "first": "2026-11-16T17:47:26.838042+00:00",
-   "sources": {
-    "GPFans": "2026-11-16T17:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton's Ferrari revolution faces one HUGE problem"
-   },
-   "last": "2026-11-16T17:47:26.838046+00:00"
   },
   "S8030": {
    "title": "Terry Crews on America's growing love for F1",
@@ -12845,7 +12785,8 @@
     "PlanetF1": "2026-11-18T09:09:12+00:00",
     "Formula 1": "2026-11-18T14:24:57.509845+00:00",
     "Auto Motor und Sport": "2026-11-18T14:06:27+00:00",
-    "Motorsport Week": "2026-11-18T15:00:00+00:00"
+    "Motorsport Week": "2026-11-18T15:00:00+00:00",
+    "GPFans": "2026-11-18T17:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -12854,9 +12795,10 @@
     "PlanetF1": "Mercedes makes upgrade decision as Antonelli receives ADUO update",
     "Formula 1": "Why Russell won't run Mercedes' upgraded turbocharger in Vegas",
     "Auto Motor und Sport": "Formel 1: Motor-Upgrade bei Mercedes: Darum bekommt nur Antonelli den neuen Turbo",
-    "Motorsport Week": "Mercedes reveal championship ‘priority’ after leaving George Russell upgrade-less at F1 Las Vegas GP"
+    "Motorsport Week": "Mercedes reveal championship ‘priority’ after leaving George Russell upgrade-less at F1 Las Vegas GP",
+    "GPFans": "Mercedes announce Kimi Antonelli F1 engine upgrade but George Russell won't be getting it"
    },
-   "last": "2026-11-18T15:04:14.735408+00:00"
+   "last": "2026-11-18T17:54:17.437448+00:00"
   },
   "S8481": {
    "title": "Argentina beat Costa Rica 7-0 in post-Messi era match analysis",
@@ -15001,14 +14943,16 @@
    "title": "Throwback to the 1980s Caesars Palace Grand Prix in Las Vegas",
    "first": "2026-11-18T17:14:33.816877+00:00",
    "sources": {
-    "RacingNews365": "2026-11-18T17:10:00+00:00"
+    "RacingNews365": "2026-11-18T17:10:00+00:00",
+    "RacingNews365 NL": "2026-11-18T17:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Expensive fiasco in Las Vegas results in worst F1 track - Throwback"
+    "RacingNews365": "Expensive fiasco in Las Vegas results in worst F1 track - Throwback",
+    "RacingNews365 NL": "Peperduur fiasco in Las Vegas levert slechtste F1-circuit ooit op"
    },
-   "last": "2026-11-18T17:14:33.816882+00:00"
+   "last": "2026-11-18T17:54:17.437437+00:00"
   },
   "S8643": {
    "title": "Hamilton house-hunting in LA to be near Kardashian",
@@ -15087,9 +15031,61 @@
     "Motorsport-Total": "Warum Monza seit 2026 nicht mehr zu den härtesten Bremsenstrecken zählt - Motorsport-Total.com"
    },
    "last": "2026-11-18T17:44:17.057999+00:00"
+  },
+  "S8649": {
+   "title": "BK Häcken vs Man City team stats",
+   "first": "2026-11-18T17:54:17.437393+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T17:46:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "BK Häcken vs. Man City (Nov 18, 2026) Team Stats"
+   },
+   "last": "2026-11-18T17:54:17.437414+00:00"
+  },
+  "S8650": {
+   "title": "Arsenal boss Slegers warns of Lyon's athletic threat",
+   "first": "2026-11-18T17:54:17.437420+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T17:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Arsenal boss Renee Slegers warns of Lyon's 'athletic' threat ahead of clash"
+   },
+   "last": "2026-11-18T17:54:17.437425+00:00"
+  },
+  "S8651": {
+   "title": "Ravens as NFL's current worst team",
+   "first": "2026-11-18T17:54:17.437428+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T17:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The NFL's current worst team? Lamar-less Ravens making that case"
+   },
+   "last": "2026-11-18T17:54:17.437431+00:00"
+  },
+  "S8652": {
+   "title": "Alonso misses Las Vegas FP1, Crawford replaces him",
+   "first": "2026-11-18T17:54:17.437440+00:00",
+   "sources": {
+    "GPblog": "2026-11-18T17:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Alonso to miss Las Vegas FP1 as Aston Martin announce driver change"
+   },
+   "last": "2026-11-18T17:54:17.437443+00:00"
   }
  },
- "story_seq": 8648,
+ "story_seq": 8652,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15208,7 +15204,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T17:44:12.500742+00:00",
+ "last_run": "2026-11-18T17:54:12.197183+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
@@ -16443,6 +16439,16 @@
    "t": "2026-11-18T17:44:21.546743+00:00",
    "title": "F1, yeni ortaklıkla sürücü sağlık verilerini gösterecek",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-18T17:54:21.866032+00:00",
+   "title": "Alonso Las Vegas FP1'de yarışmayacak, Crawford direksiyona geçecek",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-18T17:54:22.184557+00:00",
+   "title": "Mercedes, Antonelli'ye ADUO destekli motor yükseltmesi getiriyor, Russell'a yok",
+   "source": "GPFans"
   }
  ]
 }
