@@ -6616,7 +6616,10 @@
   "2c4f23c561bbd99c": "2026-11-18T10:32:48.930528+00:00",
   "796f33f1a9401945": "2026-11-18T10:32:48.930528+00:00",
   "27b0ceba7a67f3fe": "2026-11-18T10:42:52.128166+00:00",
-  "0114aeecae84e420": "2026-11-18T10:42:52.128166+00:00"
+  "0114aeecae84e420": "2026-11-18T10:42:52.128166+00:00",
+  "78f16db3d326a3da": "2026-11-18T10:52:49.826794+00:00",
+  "f99e68d3a256c2a1": "2026-11-18T10:52:49.826794+00:00",
+  "166b794540423626": "2026-11-18T10:52:49.826794+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6874,19 +6877,6 @@
     "FormulaPassion": "La prima vittoria in F1 nell’anno del suo primo titolo: solo cinque piloti oltre Antonelli"
    },
    "last": "2026-11-16T15:07:24.794312+00:00"
-  },
-  "S7928": {
-   "title": "Generic Motorsport-Total homepage with no specific story",
-   "first": "2026-11-16T10:46:43.692667+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-16T08:46:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "- Motorsport-Total.com"
-   },
-   "last": "2026-11-16T10:46:43.692686+00:00"
   },
   "S7929": {
    "title": "Patriots defensive effort concerns if Drake Maye misses time",
@@ -14881,14 +14871,16 @@
    "title": "Why the Las Vegas Grand Prix is held on a Saturday",
    "first": "2026-11-18T10:32:51.909118+00:00",
    "sources": {
-    "RacingNews365": "2026-11-18T10:30:00+00:00"
+    "RacingNews365": "2026-11-18T10:30:00+00:00",
+    "RacingNews365 NL": "2026-11-18T10:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Why the Las Vegas Grand Prix is held on a Saturday"
+    "RacingNews365": "Why the Las Vegas Grand Prix is held on a Saturday",
+    "RacingNews365 NL": "Waarom de Formule 1 GP van Las Vegas op zaterdag verreden wordt"
    },
-   "last": "2026-11-18T10:32:51.909124+00:00"
+   "last": "2026-11-18T10:52:52.798719+00:00"
   },
   "S8531": {
    "title": "Social posts on F1's V8 2030 engine reveal deleted",
@@ -14915,9 +14907,35 @@
     "PlanetF1": "Claire Williams suffers nightmare Las Vegas GP trip in F1 paddock return"
    },
    "last": "2026-11-18T10:42:54.548806+00:00"
+  },
+  "S8533": {
+   "title": "South American Esports Championship held in Colombia",
+   "first": "2026-11-18T10:52:52.798681+00:00",
+   "sources": {
+    "FIA": "2026-11-18T10:37:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "FIA": "2026 South American Esports Championship Held in Colombia"
+   },
+   "last": "2026-11-18T10:52:52.798700+00:00"
+  },
+  "S8534": {
+   "title": "Pochettino gets USMNT send-off before Man United job",
+   "first": "2026-11-18T10:52:52.798707+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T05:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USMNT's Mauricio Pochettino gets a fitting send-off before Man United job"
+   },
+   "last": "2026-11-18T10:52:52.798712+00:00"
   }
  },
- "story_seq": 8532,
+ "story_seq": 8534,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15036,22 +15054,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T10:42:52.128166+00:00",
+ "last_run": "2026-11-18T10:52:49.826794+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T10:43:47.164756+00:00",
-   "title": "Eski F1 pilotları Red Bull'un beş kişilik buz pisti yarışına katıldı",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-15T10:43:47.658578+00:00",
-   "title": "Ron Dennis F1'den ayrılalı 10 yıl oldu: Tremayne onu özlediğini söylüyor",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-15T10:54:26.366206+00:00",
    "title": "Mercedes, 2027'de F1 takımları için büyük downforce kaybı öngörüyor",
