@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a0291f47b4cc7719": "2026-11-04T16:31:14.920166+00:00",
-  "3becc46c8797e0a0": "2026-11-04T16:31:14.920166+00:00",
-  "16440b1c1dd7d072": "2026-11-04T16:31:14.920166+00:00",
   "db9ecce1f768e850": "2026-11-04T16:41:20.161433+00:00",
   "7e49620b9db691a9": "2026-11-04T16:41:20.161433+00:00",
   "3dfda9bdba8ea8e2": "2026-11-04T16:41:20.161433+00:00",
@@ -6545,7 +6542,11 @@
   "f3fbbaf329ac21b1": "2026-11-18T16:24:13.950018+00:00",
   "9c32b5a9d0785fae": "2026-11-18T16:24:13.950018+00:00",
   "a5554c1359899d0c": "2026-11-18T16:24:13.950018+00:00",
-  "53ea37e0111ebd45": "2026-11-18T16:24:13.950018+00:00"
+  "53ea37e0111ebd45": "2026-11-18T16:24:13.950018+00:00",
+  "448e6a53673a5a4c": "2026-11-18T16:34:13.151392+00:00",
+  "bc65b76f66f203d5": "2026-11-18T16:34:13.151392+00:00",
+  "e5d1d3ef0592dfcc": "2026-11-18T16:34:13.151392+00:00",
+  "aeb3231b3cb6ca78": "2026-11-18T16:34:13.151392+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6567,31 +6568,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S7704": {
-   "title": "Wolff reveals Horner's private message after Mercedes double",
-   "first": "2026-11-15T16:34:48.543403+00:00",
-   "sources": {
-    "GPblog": "2026-11-15T16:30:00+00:00",
-    "RacingNews365 NL": "2026-11-16T07:50:00+00:00",
-    "RacingNews365": "2026-11-16T09:20:00+00:00",
-    "Crash.net": "2026-11-16T10:12:57+00:00",
-    "FormulaPassion": "2026-11-16T14:05:42+00:00",
-    "Motorsport-Total": "2026-11-16T14:27:04+00:00",
-    "PlanetF1": "2026-11-16T16:21:18+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Wolff not surprised by message from former rival Horner after F1 title win",
-    "RacingNews365 NL": "Wolff onthult bericht Horner na dubbele titel Mercedes: \"Dat verraste me niet\"",
-    "RacingNews365": "Toto Wolff reveals Christian Horner message after Mercedes F1 renaissance",
-    "Crash.net": "Toto Wolff reveals what Christian Horner told him after Kimi Antonelli’s F1 title win",
-    "FormulaPassion": "Wolff incassa i complimenti di Horner: “Mi ha scritto, il nostro rapporto è basato sul rispetto”",
-    "Motorsport-Total": "Toto Wolff: Was ihm Christian Horner nach dem WM-Titelgewinn schrieb - Motorsport-Total.com",
-    "PlanetF1": "Toto Wolff reveals what Christian Horner messaged him after Antonelli won title"
-   },
-   "last": "2026-11-16T16:27:19.265331+00:00"
-  },
   "S7708": {
    "title": "Wolff says no fear of Antonelli leaving for Ferrari",
    "first": "2026-11-15T17:04:48.327075+00:00",
@@ -14216,16 +14192,18 @@
    "sources": {
     "The Race": "2026-11-18T13:57:21+00:00",
     "PlanetF1": "2026-11-18T15:47:44+00:00",
-    "RacingNews365 NL": "2026-11-18T16:15:00+00:00"
+    "RacingNews365 NL": "2026-11-18T16:15:00+00:00",
+    "FormulaPassion": "2026-11-18T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "McLaren to sell 2027 F1 car before it races",
     "PlanetF1": "McLaren to auction F1 2027 challenger before it even races",
-    "RacingNews365 NL": "McLaren verkoopt 2027 F1-auto aan hoogste bieder"
+    "RacingNews365 NL": "McLaren verkoopt 2027 F1-auto aan hoogste bieder",
+    "FormulaPassion": "McLaren, la MCL41 non c’è…ma va già all’asta"
    },
-   "last": "2026-11-18T16:24:17.628378+00:00"
+   "last": "2026-11-18T16:34:16.215877+00:00"
   },
   "S8562": {
    "title": "Factors behind abortive 2030 F1 rules announcement",
@@ -15038,9 +15016,35 @@
     "RacingNews365": "McLaren address Mercedes partnership for next F1 power unit regulations"
    },
    "last": "2026-11-18T16:24:17.628374+00:00"
+  },
+  "S8624": {
+   "title": "Simulation of Verstappen's Las Vegas qualifying lap under 2026 rules",
+   "first": "2026-11-18T16:34:16.215841+00:00",
+   "sources": {
+    "GPblog": "2026-11-18T16:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "How Verstappen's Las Vegas qualifying lap could change under 2026 F1 rules"
+   },
+   "last": "2026-11-18T16:34:16.215861+00:00"
+  },
+  "S8625": {
+   "title": "Rosberg cancelled family race tickets before 2016 title decider",
+   "first": "2026-11-18T16:34:16.215866+00:00",
+   "sources": {
+    "GPFans": "2026-11-18T16:29:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "F1 champion admits he CANCELLED his parents' race tickets to see him win title"
+   },
+   "last": "2026-11-18T16:34:16.215871+00:00"
   }
  },
- "story_seq": 8623,
+ "story_seq": 8625,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15159,7 +15163,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T16:24:13.950018+00:00",
+ "last_run": "2026-11-18T16:34:13.151392+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
@@ -16374,6 +16378,11 @@
    "t": "2026-11-18T16:24:21.473683+00:00",
    "title": "McLaren, gelecek F1 motor regülasyonunda kendi motorunu üretmeyi planlamıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-18T16:34:19.612402+00:00",
+   "title": "Rosberg, 2016 şampiyonluk yarışı için ailesinin biletlerini iptal ettiğini itiraf etti",
+   "source": "GPFans"
   }
  ]
 }
