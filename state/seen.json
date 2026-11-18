@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b9007ed627074aa8": "2026-11-04T03:10:10.197169+00:00",
-  "7b46ed27911d9c6a": "2026-11-04T03:10:10.197169+00:00",
   "7c67f7a5e35cd663": "2026-11-04T03:20:15.794390+00:00",
   "96beb7b048764665": "2026-11-04T03:30:10.946483+00:00",
   "6d9021710a578faf": "2026-11-04T03:30:10.946483+00:00",
@@ -6558,7 +6556,12 @@
   "e7e56e39bc60d878": "2026-11-18T02:52:02.162105+00:00",
   "b84536ef96d1ce0a": "2026-11-18T02:52:02.162105+00:00",
   "cd50a252e2c82259": "2026-11-18T02:52:02.162105+00:00",
-  "3df9b476b5578810": "2026-11-18T02:52:02.162105+00:00"
+  "3df9b476b5578810": "2026-11-18T02:52:02.162105+00:00",
+  "a4ee55f80c17f9a4": "2026-11-18T03:12:01.256872+00:00",
+  "cd9147b930cea42a": "2026-11-18T03:12:01.256872+00:00",
+  "f8751a90436d400b": "2026-11-18T03:12:01.256872+00:00",
+  "22e45ad9b4936b2a": "2026-11-18T03:12:01.256872+00:00",
+  "b9e1abbf99a40a0c": "2026-11-18T03:12:01.256872+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14501,9 +14504,61 @@
     "ESPN F1": "Daniele Paunksnyte sends the shot away"
    },
    "last": "2026-11-18T02:52:06.375803+00:00"
+  },
+  "S8424": {
+   "title": "Michigan to hire Texas A&M's Trev Alberts as athletic director",
+   "first": "2026-11-18T03:12:05.231952+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:02:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Michigan to hire Texas A&M's Trev Alberts as athletic director"
+   },
+   "last": "2026-11-18T03:12:05.231972+00:00"
+  },
+  "S8425": {
+   "title": "CFP committee's third ranking: Wake Forest rises, Texas passes Notre Dame",
+   "first": "2026-11-18T03:12:05.231979+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T02:55:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wake Forest surges into CFP top 12; top 4 unchanged while Texas jumps Notre Dame"
+   },
+   "last": "2026-11-18T03:12:05.231992+00:00"
+  },
+  "S8426": {
+   "title": "Tyler Doyle gets the and-1 to fall",
+   "first": "2026-11-18T03:12:05.231996+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T02:50:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tyler Doyle gets the and-1 to fall"
+   },
+   "last": "2026-11-18T03:12:05.232001+00:00"
+  },
+  "S8427": {
+   "title": "Leclerc says Ferrari worried about Las Vegas GP prospects",
+   "first": "2026-11-18T03:12:05.232004+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-18T03:00:35+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Charles Leclerc reveals worried Ferrari stance on Las Vegas GP prospects"
+   },
+   "last": "2026-11-18T03:12:05.232008+00:00"
   }
  },
- "story_seq": 8423,
+ "story_seq": 8427,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14622,7 +14677,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T03:02:01.813102+00:00",
+ "last_run": "2026-11-18T03:12:01.256872+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
@@ -15792,6 +15847,11 @@
    "t": "2026-11-17T23:11:34.478848+00:00",
    "title": "Lawson'ın 2027 sezonu için yerini garantilemesi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-18T03:12:09.353216+00:00",
+   "title": "Leclerc, Las Vegas GP'de Ferrari için zor bir hafta sonu beklediğini söyledi",
+   "source": "PlanetF1"
   }
  ]
 }
