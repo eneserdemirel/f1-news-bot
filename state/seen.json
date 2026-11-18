@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8cc8dd9fe04ba3f8": "2026-11-04T05:00:44.564381+00:00",
   "cbba2e7a95327583": "2026-11-04T05:10:44.345710+00:00",
   "3c5507efe416cc58": "2026-11-04T05:20:50.420470+00:00",
   "2536d0ff03875471": "2026-11-04T05:20:50.420470+00:00",
@@ -6584,7 +6583,12 @@
   "d2202588d266c035": "2026-11-18T04:42:05.238536+00:00",
   "2524b3471fe224b4": "2026-11-18T04:42:05.238536+00:00",
   "511a6bcb1474a698": "2026-11-18T04:52:01.517656+00:00",
-  "cea4cf909e92bac3": "2026-11-18T04:52:01.517656+00:00"
+  "cea4cf909e92bac3": "2026-11-18T04:52:01.517656+00:00",
+  "958831dc7321ee5f": "2026-11-18T05:02:01.331172+00:00",
+  "5c1e91152a0459aa": "2026-11-18T05:02:01.331172+00:00",
+  "7a7c5a32f313d468": "2026-11-18T05:02:01.331172+00:00",
+  "6916fffb55c3a230": "2026-11-18T05:02:01.331172+00:00",
+  "69ac5d3b43f20017": "2026-11-18T05:02:01.331172+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6698,32 +6702,6 @@
     "ESPN F1": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture"
    },
    "last": "2026-11-16T06:56:05.681804+00:00"
-  },
-  "S7856": {
-   "title": "Ducks beat Flames 6-1 in game recap",
-   "first": "2026-11-16T03:46:07.211670+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T03:42:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ducks 6-1 Flames (Nov 15, 2026) Game Recap"
-   },
-   "last": "2026-11-16T04:56:05.360775+00:00"
-  },
-  "S7860": {
-   "title": "Schottenheimer frustrated by Cowboys' porous defense",
-   "first": "2026-11-16T03:56:07.266146+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T03:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Schottenheimer 'very disappointed, very frustrated' with Cowboys' porous defense"
-   },
-   "last": "2026-11-16T04:56:05.360788+00:00"
   },
   "S7867": {
    "title": "Sharks 4-2 Predators NHL game recap",
@@ -12914,7 +12892,7 @@
    "titles": {
     "Motorsport-Total": "Formel-1-Exklusiv-News und Interviews - Motorsport-Total.com"
    },
-   "last": "2026-11-18T04:12:04.644122+00:00"
+   "last": "2026-11-18T05:02:04.092815+00:00"
   },
   "S8326": {
    "title": "Fantasy football Week 11 kicker rankings",
@@ -14363,14 +14341,14 @@
    "title": "Blackhawks' Connor Bedard exits with apparent shoulder injury",
    "first": "2026-11-18T04:02:09.872433+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T03:51:42+00:00"
+    "ESPN F1": "2026-11-18T03:44:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Blackhawks' Connor Bedard exits with apparent shoulder injury, set for testing"
    },
-   "last": "2026-11-18T04:02:09.872439+00:00"
+   "last": "2026-11-18T05:02:04.092798+00:00"
   },
   "S8438": {
    "title": "Deni Avdija out vs. Timberwolves with sore foot",
@@ -14579,9 +14557,35 @@
     "ESPN F1": "Rui Hachimura rocks the rim with dunk"
    },
    "last": "2026-11-18T04:52:02.690653+00:00"
+  },
+  "S8454": {
+   "title": "Stojakovic scores 46 points, record for an opponent at Duke",
+   "first": "2026-11-18T05:02:04.092768+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T04:03:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Illinois' Andrej Stojakovic scores 46 points, most ever by an opponent at Duke"
+   },
+   "last": "2026-11-18T05:02:04.092788+00:00"
+  },
+  "S8455": {
+   "title": "Anger Index opinion on Texas Tech, Tennessee and Group of 6",
+   "first": "2026-11-18T05:02:04.092803+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Anger Index: Why Texas Tech, Tennessee and the Group of 6 should be mad"
+   },
+   "last": "2026-11-18T05:02:04.092808+00:00"
   }
  },
- "story_seq": 8453,
+ "story_seq": 8455,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14700,7 +14704,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T04:52:01.517656+00:00",
+ "last_run": "2026-11-18T05:02:01.331172+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
