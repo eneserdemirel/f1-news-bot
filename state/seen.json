@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1c3af3e069a5450e": "2026-11-04T22:51:47.821224+00:00",
-  "6d2887c3005f4e52": "2026-11-04T22:51:47.821224+00:00",
   "eb2feacea1fba376": "2026-11-04T23:01:52.878177+00:00",
   "5a7119fe36ac27ed": "2026-11-04T23:02:36.386084+00:00",
   "dc2b926e2b22beab": "2026-11-04T23:12:36.726902+00:00",
@@ -6553,7 +6551,10 @@
   "7c34383080e53348": "2026-11-18T22:32:01.245668+00:00",
   "a5bf4f3eabb05341": "2026-11-18T22:32:01.245668+00:00",
   "0e2c2e079862afe1": "2026-11-18T22:32:01.245668+00:00",
-  "5be7199e041e6950": "2026-11-18T22:42:04.714413+00:00"
+  "5be7199e041e6950": "2026-11-18T22:42:04.714413+00:00",
+  "146499d41562ab44": "2026-11-18T22:52:05.115777+00:00",
+  "2dfaf765d43b5c3b": "2026-11-18T22:52:05.115777+00:00",
+  "317a049bf40dd7be": "2026-11-18T22:52:05.115777+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6734,32 +6735,6 @@
     "ESPN F1": "Cavaliers' Evan Mobley sidelined another 7-10 days with sprained toe"
    },
    "last": "2026-11-17T02:38:46.249109+00:00"
-  },
-  "S8081": {
-   "title": "Ella Ryan sinks a three-pointer from downtown",
-   "first": "2026-11-16T22:48:16.566271+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T22:25:10+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ella Ryan sinks it from downtown"
-   },
-   "last": "2026-11-16T22:48:16.566276+00:00"
-  },
-  "S8082": {
-   "title": "Declan Rice agrees in principle to five-year Arsenal deal",
-   "first": "2026-11-16T22:48:16.566279+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T22:16:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Declan Rice agrees in principle to new five-year Arsenal deal - sources"
-   },
-   "last": "2026-11-16T22:48:16.566283+00:00"
   },
   "S8083": {
    "title": "SEC will not punish LSU for playing RJ Luis, attorney says",
@@ -15118,9 +15093,48 @@
     "ESPN F1": "Ravens' Humphrey apologizes for joking that Baltimore 'best at making criminals'"
    },
    "last": "2026-11-18T22:42:05.971975+00:00"
+  },
+  "S8709": {
+   "title": "Rueben Chinyelu alley-oop slam for Florida Gators",
+   "first": "2026-11-18T22:52:06.835742+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T22:45:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rueben Chinyelu throws down alley-oop slam for Gators"
+   },
+   "last": "2026-11-18T22:52:06.835761+00:00"
+  },
+  "S8710": {
+   "title": "MLB expects Angels sale to Kroenke to close in January",
+   "first": "2026-11-18T22:52:06.835767+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T22:33:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "MLB expects $4B Angels sale to Kroenke to close in January"
+   },
+   "last": "2026-11-18T22:52:06.835771+00:00"
+  },
+  "S8711": {
+   "title": "Alabama running back prospect AK Dear leaves team",
+   "first": "2026-11-18T22:52:06.835774+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T18:53:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Alabama running back prospect AK Dear no longer with team"
+   },
+   "last": "2026-11-18T22:52:06.835778+00:00"
   }
  },
- "story_seq": 8708,
+ "story_seq": 8711,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15239,7 +15253,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T22:42:04.714413+00:00",
+ "last_run": "2026-11-18T22:52:05.115777+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
