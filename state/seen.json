@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1ff9a3c710913fe5": "2026-11-04T07:20:44.457073+00:00",
-  "1e1cfc5c3b068e52": "2026-11-04T07:20:44.457073+00:00",
-  "28aa494b799e27dd": "2026-11-04T07:20:44.457073+00:00",
-  "15a9638c791ae11c": "2026-11-04T07:20:44.457073+00:00",
   "27c4c805e13e3d27": "2026-11-04T07:30:52.410554+00:00",
   "62a4f9ef02a7e8f9": "2026-11-04T07:30:52.410554+00:00",
   "2bc1dfc5acafe25c": "2026-11-04T07:40:50.996531+00:00",
@@ -6592,7 +6588,11 @@
   "770ed7ace0e306a0": "2026-11-18T07:02:47.465571+00:00",
   "d9bf42e3f7b8565c": "2026-11-18T07:12:47.439674+00:00",
   "c89dd7513bd8d08d": "2026-11-18T07:12:47.439674+00:00",
-  "6d8a2e98da6deb43": "2026-11-18T07:12:47.439674+00:00"
+  "6d8a2e98da6deb43": "2026-11-18T07:12:47.439674+00:00",
+  "60196f19dbd6535d": "2026-11-18T07:22:48.398783+00:00",
+  "6e4d25883bf1b8c4": "2026-11-18T07:22:48.398783+00:00",
+  "029277bacd123429": "2026-11-18T07:22:48.398783+00:00",
+  "96b9d11770222eae": "2026-11-18T07:22:48.398783+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6742,32 +6742,6 @@
     "GPFans": "Zak Brown lifts lid on McLaren chaos: 'It was a terrible environment'"
    },
    "last": "2026-11-16T11:36:42.136417+00:00"
-  },
-  "S7895": {
-   "title": "Insider predicts Lawson could replace Piastri at McLaren",
-   "first": "2026-11-16T07:16:07.751538+00:00",
-   "sources": {
-    "GPFans": "2026-11-16T07:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Piastri OUT, Lawson to McLaren: F1 insider predicts major driver moves"
-   },
-   "last": "2026-11-16T07:16:07.751542+00:00"
-  },
-  "S7896": {
-   "title": "Madrid clinic forum on physical preparation in F1",
-   "first": "2026-11-16T07:16:07.751545+00:00",
-   "sources": {
-    "AS": "2026-11-16T07:04:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "AS": "El piloto se construye desde la salud"
-   },
-   "last": "2026-11-16T07:16:07.751550+00:00"
   },
   "S7897": {
    "title": "Iowa State coach Bill Fennelly suspended over player contact",
@@ -14603,14 +14577,16 @@
    "title": "Piastri to take grid penalty at Las Vegas Grand Prix",
    "first": "2026-11-18T07:02:50.039315+00:00",
    "sources": {
-    "PlanetF1": "2026-11-18T06:59:56+00:00"
+    "PlanetF1": "2026-11-18T06:59:56+00:00",
+    "RacingNews365": "2026-11-18T07:12:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Oscar Piastri braced for grid penalty at Las Vegas Grand Prix"
+    "PlanetF1": "Oscar Piastri braced for grid penalty at Las Vegas Grand Prix",
+    "RacingNews365": "Oscar Piastri to take major F1 grid penalty at Las Vegas Grand Prix"
    },
-   "last": "2026-11-18T07:02:50.039321+00:00"
+   "last": "2026-11-18T07:22:51.781891+00:00"
   },
   "S8484": {
    "title": "Opinion: Ferrari's equal treatment of Hamilton and Leclerc questioned",
@@ -14637,9 +14613,35 @@
     "FormulaPassion": "Ferrari in difesa: a Las Vegas ci sarà da soffrire"
    },
    "last": "2026-11-18T07:12:51.587721+00:00"
+  },
+  "S8486": {
+   "title": "Speculation on Christian Horner's options after leaving Red Bull",
+   "first": "2026-11-18T07:22:51.781903+00:00",
+   "sources": {
+    "GPFans": "2026-11-18T07:14:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Christian Horner, a 'nonsensical' statement and what it means for Alpine"
+   },
+   "last": "2026-11-18T07:22:51.781909+00:00"
+  },
+  "S8487": {
+   "title": "Emma Felbermayr gets third F1 Academy season with Audi",
+   "first": "2026-11-18T07:22:51.781914+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-18T07:15:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Dank Sonderregel: Emma Felbermayr bekommt dritte Academy-Saison mit Audi - Motorsport-Total.com"
+   },
+   "last": "2026-11-18T07:22:51.781919+00:00"
   }
  },
- "story_seq": 8485,
+ "story_seq": 8487,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14758,17 +14760,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T07:12:47.439674+00:00",
+ "last_run": "2026-11-18T07:22:48.398783+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T07:13:44.596214+00:00",
-   "title": "Antonelli, en iyi galibiyetini seçti: Monza",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-15T07:23:45.844736+00:00",
    "title": "Ralf Schumacher: Hamilton ve Leclerc dünya şampiyonluğu adayı mı?",
@@ -15938,6 +15935,11 @@
    "t": "2026-11-18T07:12:59.324824+00:00",
    "title": "Ferrari, Las Vegas'ta güç ünitesi sınırlarıyla mücadele edecek",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-18T07:22:56.017757+00:00",
+   "title": "Horner: Alpine'da azınlık hissesi 'anlamsız' olur",
+   "source": "GPFans"
   }
  ]
 }
