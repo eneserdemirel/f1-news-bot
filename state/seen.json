@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "96beb7b048764665": "2026-11-04T03:30:10.946483+00:00",
-  "6d9021710a578faf": "2026-11-04T03:30:10.946483+00:00",
-  "3725658b7821ad4d": "2026-11-04T03:30:10.946483+00:00",
   "d5c7ba398c679436": "2026-11-04T03:50:10.323204+00:00",
   "7fb90f703474aef7": "2026-11-04T04:00:10.108937+00:00",
   "4199b5b6d8aed94a": "2026-11-04T04:00:10.108937+00:00",
@@ -6561,7 +6558,12 @@
   "f8751a90436d400b": "2026-11-18T03:12:01.256872+00:00",
   "22e45ad9b4936b2a": "2026-11-18T03:12:01.256872+00:00",
   "b9e1abbf99a40a0c": "2026-11-18T03:12:01.256872+00:00",
-  "382e0845bfd6ee7a": "2026-11-18T03:22:03.625088+00:00"
+  "382e0845bfd6ee7a": "2026-11-18T03:22:03.625088+00:00",
+  "81a9fc18b2e6fc57": "2026-11-18T03:32:00.258039+00:00",
+  "4f3a3d64c6b7eb14": "2026-11-18T03:32:00.258039+00:00",
+  "b7ed3a7c817d88d5": "2026-11-18T03:32:00.258039+00:00",
+  "1917e15bc21f8204": "2026-11-18T03:32:00.258039+00:00",
+  "550a82c6ae0544df": "2026-11-18T03:32:00.258039+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6688,19 +6690,6 @@
     "ESPN F1": "Steelers OL Mason McCormick carted off field with air cast on ankle"
    },
    "last": "2026-11-16T04:06:06.539322+00:00"
-  },
-  "S7855": {
-   "title": "US ice dancers Zingas and Kolesnik win Skate America gold",
-   "first": "2026-11-16T03:26:04.061431+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T02:26:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "U.S. ice dancers Zingas and Kolesnik capture Skate America gold"
-   },
-   "last": "2026-11-16T03:26:04.061435+00:00"
   },
   "S7856": {
    "title": "Ducks beat Flames 6-1 in game recap",
@@ -14314,14 +14303,14 @@
    "title": "Michigan to hire Texas A&M's Trev Alberts as athletic director",
    "first": "2026-11-18T03:12:05.231952+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T03:02:23+00:00"
+    "ESPN F1": "2026-11-18T02:58:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Sources: Michigan to hire Texas A&M's Trev Alberts as athletic director"
    },
-   "last": "2026-11-18T03:12:05.231972+00:00"
+   "last": "2026-11-18T03:32:03.350503+00:00"
   },
   "S8425": {
    "title": "CFP committee's third ranking: Wake Forest rises, Texas passes Notre Dame",
@@ -14374,9 +14363,61 @@
     "ESPN F1": "Oilers' Connor McDavid runs season-opening points streak to 23 games"
    },
    "last": "2026-11-18T03:22:04.694566+00:00"
+  },
+  "S8429": {
+   "title": "Bryant Bulldogs vs. UMass Minutemen game highlights",
+   "first": "2026-11-18T03:32:03.350472+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:24:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bryant Bulldogs vs. UMass Minutemen: Game Highlights"
+   },
+   "last": "2026-11-18T03:32:03.350493+00:00"
+  },
+  "S8430": {
+   "title": "USA 2-0 Haiti player statistics",
+   "first": "2026-11-18T03:32:03.350508+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T01:21:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USA 2-0 Haiti (Nov 17, 2026) Player Stats"
+   },
+   "last": "2026-11-18T03:32:03.350513+00:00"
+  },
+  "S8431": {
+   "title": "Jayden Jones slam dunk vs. South Florida Bulls",
+   "first": "2026-11-18T03:32:03.350517+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T00:49:16+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jayden Jones elevates for slam vs. South Florida Bulls"
+   },
+   "last": "2026-11-18T03:32:03.350521+00:00"
+  },
+  "S8432": {
+   "title": "Caroline Eaglin three-pointer from behind the arc",
+   "first": "2026-11-18T03:32:03.350524+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T00:43:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Caroline Eaglin nails it from behind the arc"
+   },
+   "last": "2026-11-18T03:32:03.350528+00:00"
   }
  },
- "story_seq": 8428,
+ "story_seq": 8432,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14495,7 +14536,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T03:22:03.625088+00:00",
+ "last_run": "2026-11-18T03:32:00.258039+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
