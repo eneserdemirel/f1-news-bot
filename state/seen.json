@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3c5507efe416cc58": "2026-11-04T05:20:50.420470+00:00",
-  "2536d0ff03875471": "2026-11-04T05:20:50.420470+00:00",
-  "a0d1b0d77be3d05d": "2026-11-04T05:20:50.420470+00:00",
   "2a4aafb77b40b6cd": "2026-11-04T05:30:45.741914+00:00",
   "995e07577c8b3f8b": "2026-11-04T05:30:45.741914+00:00",
   "a759e00711c03602": "2026-11-04T05:41:08.592533+00:00",
@@ -6593,7 +6590,9 @@
   "3e3c59d16241a81a": "2026-11-18T05:12:02.368615+00:00",
   "3b9d546965b44d9a": "2026-11-18T05:12:02.368615+00:00",
   "80c38bec56c2a63c": "2026-11-18T05:12:02.368615+00:00",
-  "187c4a94347c6474": "2026-11-18T05:12:02.368615+00:00"
+  "187c4a94347c6474": "2026-11-18T05:12:02.368615+00:00",
+  "68b3c11c52f0a598": "2026-11-18T05:22:01.225917+00:00",
+  "8f532fd9a198e3ec": "2026-11-18T05:22:01.225917+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6727,19 +6726,6 @@
    },
    "last": "2026-11-16T16:57:23.318595+00:00"
   },
-  "S7870": {
-   "title": "Thunder 125-103 Kings NBA game recap",
-   "first": "2026-11-16T05:16:08.469281+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T05:11:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Thunder 125-103 Kings (16 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-16T05:16:08.469300+00:00"
-  },
   "S7871": {
    "title": "Canucks 6-3 Golden Knights NHL game recap",
    "first": "2026-11-16T05:16:08.469305+00:00",
@@ -6752,19 +6738,6 @@
     "ESPN F1": "Canucks 6-3 Golden Knights (16 Nov, 2026) Game Recap"
    },
    "last": "2026-11-16T10:16:37.603405+00:00"
-  },
-  "S7872": {
-   "title": "Mahomes stars for Chiefs, early connection with Josh Downs",
-   "first": "2026-11-16T05:16:08.469313+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T00:41:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs"
-   },
-   "last": "2026-11-16T05:16:08.469317+00:00"
   },
   "S7873": {
    "title": "Seahawks 21-13 Raiders NFL game recap",
@@ -14640,9 +14613,35 @@
     "ESPN F1": "LaMelo Ball gets the hoop and the harm"
    },
    "last": "2026-11-18T05:12:04.964604+00:00"
+  },
+  "S8462": {
+   "title": "Luka Doncic swishes a smooth jumper for the Lakers",
+   "first": "2026-11-18T05:22:02.822431+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T04:50:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Luka Doncic swishes a smooth jumper for the Lakers"
+   },
+   "last": "2026-11-18T05:22:02.822451+00:00"
+  },
+  "S8463": {
+   "title": "Jake Bauers says Boston figured into Red Sox signing decision",
+   "first": "2026-11-18T05:22:02.822458+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jake Bauers says city of Boston figured into decision to sign with Red Sox"
+   },
+   "last": "2026-11-18T05:22:02.822464+00:00"
   }
  },
- "story_seq": 8461,
+ "story_seq": 8463,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14761,7 +14760,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T05:12:02.368615+00:00",
+ "last_run": "2026-11-18T05:22:01.225917+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
