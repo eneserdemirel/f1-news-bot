@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7fb90f703474aef7": "2026-11-04T04:00:10.108937+00:00",
-  "4199b5b6d8aed94a": "2026-11-04T04:00:10.108937+00:00",
   "4ce7dd8bbd5dce1a": "2026-11-04T04:10:10.430436+00:00",
   "3e5294a2a1148448": "2026-11-04T04:10:10.430436+00:00",
   "f542a29c81e242e4": "2026-11-04T04:20:17.551341+00:00",
@@ -6568,7 +6566,9 @@
   "65defc2e91073290": "2026-11-18T03:42:01.744643+00:00",
   "661fd957ab0d8d33": "2026-11-18T03:51:59.780741+00:00",
   "956690dbb3cb210e": "2026-11-18T03:51:59.780741+00:00",
-  "5dedea8f5c17fdf1": "2026-11-18T03:51:59.780741+00:00"
+  "5dedea8f5c17fdf1": "2026-11-18T03:51:59.780741+00:00",
+  "785b3d9f35b9fe1b": "2026-11-18T04:02:08.172628+00:00",
+  "5d20c8dc77c3a1cc": "2026-11-18T04:02:08.172628+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6708,19 +6708,6 @@
     "ESPN F1": "Ducks 6-1 Flames (Nov 15, 2026) Game Recap"
    },
    "last": "2026-11-16T04:56:05.360775+00:00"
-  },
-  "S7859": {
-   "title": "Hawks beat Bucks 113-106 in NBA game recap",
-   "first": "2026-11-16T03:56:07.266115+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T03:39:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hawks 113-106 Bucks (Nov 15, 2026) Game Recap"
-   },
-   "last": "2026-11-16T03:56:07.266155+00:00"
   },
   "S7860": {
    "title": "Schottenheimer frustrated by Cowboys' porous defense",
@@ -14433,9 +14420,35 @@
     "ESPN F1": "Capitals' Alex Ovechkin sees goal drought hit 14 games, tying longest of career"
    },
    "last": "2026-11-18T03:52:01.940147+00:00"
+  },
+  "S8436": {
+   "title": "Spurs guard Dylan Harper limps off after slip",
+   "first": "2026-11-18T04:02:09.872406+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Spurs guard Dylan Harper limps off in pain after slip on court"
+   },
+   "last": "2026-11-18T04:02:09.872426+00:00"
+  },
+  "S8437": {
+   "title": "Blackhawks' Connor Bedard exits with apparent shoulder injury",
+   "first": "2026-11-18T04:02:09.872433+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:51:42+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Blackhawks' Connor Bedard exits with apparent shoulder injury, set for testing"
+   },
+   "last": "2026-11-18T04:02:09.872439+00:00"
   }
  },
- "story_seq": 8435,
+ "story_seq": 8437,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14554,7 +14567,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T03:51:59.780741+00:00",
+ "last_run": "2026-11-18T04:02:08.172628+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
