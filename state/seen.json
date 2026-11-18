@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "34e2a1ba3c79ed96": "2026-11-04T18:41:50.675552+00:00",
-  "497dce7e1c1df784": "2026-11-04T18:41:50.675552+00:00",
-  "c7ae5bb3eeac4f39": "2026-11-04T18:41:50.675552+00:00",
-  "d767ececfb51d1d6": "2026-11-04T18:41:50.675552+00:00",
-  "8e93845b84765a8a": "2026-11-04T18:41:50.675552+00:00",
   "3803ed61d8452676": "2026-11-04T18:51:52.654910+00:00",
   "25faecb586f2f5f4": "2026-11-04T19:01:53.412627+00:00",
   "abce553202786861": "2026-11-04T19:01:53.412627+00:00",
@@ -6565,7 +6560,9 @@
   "401cbf581e1a2653": "2026-11-18T18:14:13.975002+00:00",
   "88a0b0ec239de3fa": "2026-11-18T18:14:13.975002+00:00",
   "67f44777ba94e0ff": "2026-11-18T18:24:11.978390+00:00",
-  "f51f80a9e3096a13": "2026-11-18T18:24:11.978390+00:00"
+  "f51f80a9e3096a13": "2026-11-18T18:24:11.978390+00:00",
+  "f06d77cad13c641e": "2026-11-18T18:44:12.884562+00:00",
+  "380d6bbcdeee973d": "2026-11-18T18:44:12.884562+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6815,45 +6812,6 @@
     "ESPN F1": "Breaking down the men's 2026-27 AP week 2 Top 25 basketball poll"
    },
    "last": "2026-11-16T20:58:09.453314+00:00"
-  },
-  "S8037": {
-   "title": "Craig Bellamy urges fans to celebrate Ronaldo after Portugal exit",
-   "first": "2026-11-16T18:38:12.747212+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T18:28:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wales boss Craig Bellamy urges fans to 'just celebrate' Cristiano Ronaldo after Portugal exit"
-   },
-   "last": "2026-11-16T18:38:12.747231+00:00"
-  },
-  "S8038": {
-   "title": "Pundits say Red Bull now a title contender, rivals should worry",
-   "first": "2026-11-16T18:38:12.747236+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-16T18:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Red Bull gebombardeerd tot titelkandidaat: \"Concurrentie slaapt echt slechter!\""
-   },
-   "last": "2026-11-16T18:38:12.747241+00:00"
-  },
-  "S8039": {
-   "title": "Feature on what changed at Red Bull during Verstappen's late surge",
-   "first": "2026-11-16T18:38:12.747245+00:00",
-   "sources": {
-    "GPblog": "2026-11-16T18:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Verstappen’s late-season surge: what changed at Red Bull?"
-   },
-   "last": "2026-11-16T18:38:12.747249+00:00"
   },
   "S8040": {
    "title": "Sweden beat Finland in women's hockey worlds bronze shootout",
@@ -15052,9 +15010,35 @@
     "FormulaPassion": "Montezemolo: “Non andare in Ferrari è stata la fortuna di Antonelli. A Maranello non avrebbe potuto fare ciò che ha fatto”"
    },
    "last": "2026-11-18T18:24:14.331606+00:00"
+  },
+  "S8656": {
+   "title": "Kurt Warner says Fernando Mendoza played too fast in NFL debut",
+   "first": "2026-11-18T18:44:15.757456+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T18:06:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kurt Warner: Fernando Mendoza played 'too fast' in his NFL debut"
+   },
+   "last": "2026-11-18T18:44:15.757474+00:00"
+  },
+  "S8657": {
+   "title": "Palmer warns Ferrari about Hamilton-Leclerc internal tensions",
+   "first": "2026-11-18T18:44:15.757478+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-18T18:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Palmer waarschuwt Ferrari: \"Stel je eens voor dat ze wél meedoen...\""
+   },
+   "last": "2026-11-18T18:44:15.757483+00:00"
   }
  },
- "story_seq": 8655,
+ "story_seq": 8657,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15173,7 +15157,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T18:34:12.041316+00:00",
+ "last_run": "2026-11-18T18:44:12.884562+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
@@ -16398,6 +16382,11 @@
    "t": "2026-11-18T18:24:17.548400+00:00",
    "title": "Montezemolo: Ferrari'ye gitmemek Antonelli'nin şansı",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-18T18:44:21.273654+00:00",
+   "title": "Palmer, Ferrari'yi uyardı: Hamilton ve Leclerc birlikte mücadele ederse...",
+   "source": "RacingNews365 NL"
   }
  ]
 }
