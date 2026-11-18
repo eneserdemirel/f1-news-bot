@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "32b19429b35a361b": "2026-11-04T15:21:17.061500+00:00",
-  "19886d923d744de6": "2026-11-04T15:21:17.061500+00:00",
-  "17c811f3091a93e8": "2026-11-04T15:21:17.061500+00:00",
-  "b8ccd9e04d0e5734": "2026-11-04T15:21:17.061500+00:00",
-  "96151f3e6247af81": "2026-11-04T15:21:17.061500+00:00",
-  "2cece2b4aa007f33": "2026-11-04T15:21:17.061500+00:00",
-  "fe79039c1f1cfe55": "2026-11-04T15:21:17.061500+00:00",
   "a3b49eb8b2c7d527": "2026-11-04T15:31:15.807013+00:00",
   "f3dbc85de7e22236": "2026-11-04T15:31:15.807013+00:00",
   "0e5692e12041c351": "2026-11-04T15:41:14.986886+00:00",
@@ -6547,7 +6540,12 @@
   "20ca0039291915a1": "2026-11-18T14:54:13.101893+00:00",
   "7dd26310e8823cf8": "2026-11-18T15:04:11.865120+00:00",
   "6cd6ab12bfad6927": "2026-11-18T15:04:11.865120+00:00",
-  "ff2a9d05985f5e0b": "2026-11-18T15:04:11.865120+00:00"
+  "ff2a9d05985f5e0b": "2026-11-18T15:04:11.865120+00:00",
+  "281db821becd466d": "2026-11-18T15:24:17.006773+00:00",
+  "47e5f7b3cff83826": "2026-11-18T15:24:17.006773+00:00",
+  "b0dfd2bfec20cfd2": "2026-11-18T15:24:17.006773+00:00",
+  "10dcc999a8fb7ce2": "2026-11-18T15:24:17.006773+00:00",
+  "6caf9ed1964524f4": "2026-11-18T15:24:17.006773+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13435,7 +13433,8 @@
     "Motorsport.com Italia": "2026-11-18T08:43:45+00:00",
     "Crash.net": "2026-11-18T09:31:09+00:00",
     "GPblog": "2026-11-18T09:59:00+00:00",
-    "Formula 1": "2026-11-18T11:02:51.035370+00:00"
+    "Formula 1": "2026-11-18T11:02:51.035370+00:00",
+    "Sky Sports F1": "2026-11-18T14:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13448,9 +13447,10 @@
     "Motorsport.com Italia": "F1 | McLaren avrà il turbo ADUO a Las Vegas. Piastri andrà in penalità montando anche un nuovo motore",
     "Crash.net": "Oscar Piastri set for huge Las Vegas GP grid penalty",
     "GPblog": "McLaren reveals grid penalty already certain for Las Vegas Grand Prix",
-    "Formula 1": "Piastri set for grid penalty at Las Vegas Grand Prix"
+    "Formula 1": "Piastri set for grid penalty at Las Vegas Grand Prix",
+    "Sky Sports F1": "Piastri to serve grid penalty at Las Vegas GP"
    },
-   "last": "2026-11-18T11:02:51.035386+00:00"
+   "last": "2026-11-18T15:24:19.344527+00:00"
   },
   "S8484": {
    "title": "Opinion: Ferrari's equal treatment of Hamilton and Leclerc questioned",
@@ -15051,9 +15051,48 @@
     "GPblog": "George Russell defiant despite F1 title loss to Antonelli: 'No regrets'"
    },
    "last": "2026-11-18T15:04:14.735416+00:00"
+  },
+  "S8606": {
+   "title": "Sloane Stephens home targeted in burglary attempt",
+   "first": "2026-11-18T15:24:19.344490+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T15:22:17+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sloane Stephens' home targeted in L.A. burglary attempt, per report"
+   },
+   "last": "2026-11-18T15:24:19.344507+00:00"
+  },
+  "S8607": {
+   "title": "Blackhawks 6-3 Maple Leafs game recap",
+   "first": "2026-11-18T15:24:19.344512+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T15:20:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Blackhawks 6-3 Maple Leafs (18 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-18T15:24:19.344517+00:00"
+  },
+  "S8608": {
+   "title": "Oilers 5-2 Panthers game recap",
+   "first": "2026-11-18T15:24:19.344519+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T15:17:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Oilers 5-2 Panthers (18 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-18T15:24:19.344522+00:00"
   }
  },
- "story_seq": 8605,
+ "story_seq": 8608,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15172,17 +15211,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T15:14:13.982964+00:00",
+ "last_run": "2026-11-18T15:24:17.006773+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
  "last_digest_at": "2026-11-18T14:25:20.055771+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T15:14:20.487178+00:00",
-   "title": "Verstappen: GT yarışları F1'den daha heyecanlı",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-15T15:34:19.364610+00:00",
    "title": "2026 F1 şampiyonları tarihi bir başarının eşiğinde",
@@ -16377,6 +16411,11 @@
    "t": "2026-11-18T14:54:27.789113+00:00",
    "title": "Toto Wolff: Mercedes'in planı tutmadı, 2027 daha rekabetçi olacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-18T15:24:23.943034+00:00",
+   "title": "Piastri, Las Vegas GP'de grid cezası alacak",
+   "source": "Sky Sports F1"
   }
  ]
 }
