@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1531978d61c5e431": "2026-11-04T14:51:15.728327+00:00",
-  "e53552667155a981": "2026-11-04T14:51:15.728327+00:00",
-  "8f5bce8f566018f3": "2026-11-04T14:51:15.728327+00:00",
-  "f2be3e1bd0dc4235": "2026-11-04T14:51:15.728327+00:00",
-  "cb9b6c8d6fa1cf64": "2026-11-04T14:51:15.728327+00:00",
-  "c8bc06d2a589e296": "2026-11-04T14:51:15.728327+00:00",
   "cdacbc0ce3ceef02": "2026-11-04T15:01:21.348602+00:00",
   "88be1736157a4cf9": "2026-11-04T15:01:21.348602+00:00",
   "4a64147c5bd98215": "2026-11-04T15:01:21.348602+00:00",
@@ -6554,7 +6548,13 @@
   "3eed3ae132fae34c": "2026-11-18T14:44:14.335503+00:00",
   "62eea8e7950e8888": "2026-11-18T14:44:14.335503+00:00",
   "62baf43a04de69ff": "2026-11-18T14:44:14.335503+00:00",
-  "70c4ec7b2ac61812": "2026-11-18T14:44:14.335503+00:00"
+  "70c4ec7b2ac61812": "2026-11-18T14:44:14.335503+00:00",
+  "f9eb44e1923a2902": "2026-11-18T14:54:13.101893+00:00",
+  "a06c642d8954956e": "2026-11-18T14:54:13.101893+00:00",
+  "1a9311a8d3087a74": "2026-11-18T14:54:13.101893+00:00",
+  "1ec4f7eb65eebaae": "2026-11-18T14:54:13.101893+00:00",
+  "29d58ee30e8f4eef": "2026-11-18T14:54:13.101893+00:00",
+  "20ca0039291915a1": "2026-11-18T14:54:13.101893+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6894,58 +6894,6 @@
     "RacingNews365": "Why rapid Red Bull comeback hints at Max Verstappen 2027 title push"
    },
    "last": "2026-11-16T17:17:22.518253+00:00"
-  },
-  "S7981": {
-   "title": "Trafford makes England case for Pickford's No. 1 spot",
-   "first": "2026-11-16T14:47:22.477963+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T14:43:53+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "James Trafford makes England case, but is Pickford's No. 1 spot really up for grabs?"
-   },
-   "last": "2026-11-16T14:47:22.477980+00:00"
-  },
-  "S7982": {
-   "title": "Aidan Hutchinson out for season with knee injury",
-   "first": "2026-11-16T14:47:22.477986+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T13:54:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Sources: Lions' Aidan Hutchinson out for season with knee injury"
-   },
-   "last": "2026-11-16T14:47:22.477992+00:00"
-  },
-  "S7983": {
-   "title": "Rosberg says Schumacher was 'not at his best' in comeback",
-   "first": "2026-11-16T14:47:22.477996+00:00",
-   "sources": {
-    "Crash.net": "2026-11-16T14:37:44+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Nico Rosberg highlights where Michael Schumacher “was not at his best” in F1 comeback"
-   },
-   "last": "2026-11-16T14:47:22.478001+00:00"
-  },
-  "S7984": {
-   "title": "Istanbul Park return: layout unchanged, other things shift",
-   "first": "2026-11-16T14:47:22.478004+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-16T14:35:07+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Istanbul-Rückkehr: Layout bleibt gleich, viele Dinge ändern sich - Motorsport-Total.com"
-   },
-   "last": "2026-11-16T14:47:22.478008+00:00"
   },
   "S7985": {
    "title": "College football betting lines and favorites",
@@ -15110,9 +15058,76 @@
     "Motorsport-Total": "Nico Rosberg: \"In der Formel 1 war ich zu 90 Prozent der Versager\" - Motorsport-Total.com"
    },
    "last": "2026-11-18T14:44:19.839939+00:00"
+  },
+  "S8599": {
+   "title": "Kyle Brandt dismisses Jaguars blowout of Giants talk",
+   "first": "2026-11-18T14:54:21.074787+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T14:30:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kyle Brandt dismisses notion Jags will blow out Giants on Sunday"
+   },
+   "last": "2026-11-18T14:54:21.074807+00:00"
+  },
+  "S8600": {
+   "title": "Juan Mata announces retirement at age 38",
+   "first": "2026-11-18T14:54:21.074812+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T13:01:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Juan Mata announces retirement aged 38 after glittering career"
+   },
+   "last": "2026-11-18T14:54:21.074817+00:00"
+  },
+  "S8601": {
+   "title": "Ceccarelli says Las Vegas GP is dazzling for drivers but draining for staff",
+   "first": "2026-11-18T14:54:21.074820+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-18T14:45:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Ceccarelli: \"Las Vegas è un GP scintillante per i piloti, ma molto usurante per gli addetti ai lavori\""
+   },
+   "last": "2026-11-18T14:54:21.074824+00:00"
+  },
+  "S8602": {
+   "title": "Dutch weather report for Las Vegas F1 GP forecasts autumnal conditions",
+   "first": "2026-11-18T14:54:21.074826+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-18T14:45:00+00:00",
+    "GPFans": "2026-11-18T14:54:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Weerbericht F1 GP Las Vegas 2026: herfstachtige taferelen op komst",
+    "GPFans": "F1 Las Vegas Grand Prix weather forecast: Latest from the Nevada desert"
+   },
+   "last": "2026-11-18T14:54:21.074838+00:00"
+  },
+  "S8603": {
+   "title": "Wolff says a failed Mercedes plan is not the 2027 reality",
+   "first": "2026-11-18T14:54:21.074831+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-18T14:50:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Failed Mercedes plan addressed by Toto Wolff in honest F1 2027 claim"
+   },
+   "last": "2026-11-18T14:54:21.074833+00:00"
   }
  },
- "story_seq": 8598,
+ "story_seq": 8603,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15231,17 +15246,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T14:44:14.335503+00:00",
+ "last_run": "2026-11-18T14:54:13.101893+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
  "last_digest_at": "2026-11-18T14:25:20.055771+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T14:54:25.209287+00:00",
-   "title": "Mercedes: Russell, Antonelli'nin başarısını mümkün kıldı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-15T15:04:20.112151+00:00",
    "title": "Verstappen, Norris ve diğer F1 yıldızları pistin dışında yeni projelere imza atıyor",
@@ -16436,6 +16446,16 @@
    "t": "2026-11-18T14:44:25.649502+00:00",
    "title": "Bortoleto, Antonelli'nin 'sabırsız' iddiasını reddetti",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-18T14:54:27.443892+00:00",
+   "title": "Ceccarelli: Las Vegas pilotlar için parlak, ama ekip için yorucu bir GP",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-18T14:54:27.789113+00:00",
+   "title": "Toto Wolff: Mercedes'in planı tutmadı, 2027 daha rekabetçi olacak",
+   "source": "PlanetF1"
   }
  ]
 }
