@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fd3619cf193febf5": "2026-11-04T04:40:10.983431+00:00",
-  "90d47e5b81261e49": "2026-11-04T04:40:10.983431+00:00",
   "8cc8dd9fe04ba3f8": "2026-11-04T05:00:44.564381+00:00",
   "cbba2e7a95327583": "2026-11-04T05:10:44.345710+00:00",
   "3c5507efe416cc58": "2026-11-04T05:20:50.420470+00:00",
@@ -6582,7 +6580,9 @@
   "9d8f477a409c59ce": "2026-11-18T04:32:02.334104+00:00",
   "4c8f5c92f8997f47": "2026-11-18T04:32:02.334104+00:00",
   "aa18ec121bdfd9ee": "2026-11-18T04:32:02.334104+00:00",
-  "b2bd3d1e6ed08735": "2026-11-18T04:32:02.334104+00:00"
+  "b2bd3d1e6ed08735": "2026-11-18T04:32:02.334104+00:00",
+  "d2202588d266c035": "2026-11-18T04:42:05.238536+00:00",
+  "2524b3471fe224b4": "2026-11-18T04:42:05.238536+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14538,9 +14538,35 @@
     "ESPN F1": "Prosecutors: Emmanuel Clase told bettor to send money to Dominican Republic"
    },
    "last": "2026-11-18T04:32:08.428316+00:00"
+  },
+  "S8450": {
+   "title": "Leroy Blyden Jr. triple pushes Jayhawks lead to 30",
+   "first": "2026-11-18T04:42:06.599011+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T04:30:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Leroy Blyden Jr.'s triple pushes Jayhawks' lead to 30"
+   },
+   "last": "2026-11-18T04:42:06.599031+00:00"
+  },
+  "S8451": {
+   "title": "Stars vs. Golden Knights live score (Nov 17, 2026)",
+   "first": "2026-11-18T04:42:06.599037+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:17:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stars vs. Golden Knights (Nov 17, 2026) Live Score"
+   },
+   "last": "2026-11-18T04:42:06.599043+00:00"
   }
  },
- "story_seq": 8449,
+ "story_seq": 8451,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14659,7 +14685,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T04:32:02.334104+00:00",
+ "last_run": "2026-11-18T04:42:05.238536+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
