@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "db3d7b56510a3ec3": "2026-11-04T09:20:45.947166+00:00",
-  "366eea873d05578d": "2026-11-04T09:20:45.947166+00:00",
-  "8d9ffae2e017b627": "2026-11-04T09:20:45.947166+00:00",
-  "5ac0157f1264326f": "2026-11-04T09:20:45.947166+00:00",
-  "4d49f046f7fa4183": "2026-11-04T09:20:45.947166+00:00",
   "22790d1a863f01ea": "2026-11-04T09:30:44.236122+00:00",
   "0e4f03b828a15399": "2026-11-04T09:30:44.236122+00:00",
   "7646615ed0f795be": "2026-11-04T09:30:44.236122+00:00",
@@ -6592,7 +6587,10 @@
   "30154f9626b7e925": "2026-11-18T09:12:48.952791+00:00",
   "e0c450e100d64bd6": "2026-11-18T09:12:48.952791+00:00",
   "d9ccb9de6675586c": "2026-11-18T09:12:48.952791+00:00",
-  "80e74f6b1e65b9ba": "2026-11-18T09:12:48.952791+00:00"
+  "80e74f6b1e65b9ba": "2026-11-18T09:12:48.952791+00:00",
+  "92bc5734be8beb11": "2026-11-18T09:22:47.754313+00:00",
+  "a5ccdb93480dd3f0": "2026-11-18T09:22:47.754313+00:00",
+  "564c993beaaae30d": "2026-11-18T09:22:47.754313+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6700,21 +6698,6 @@
    },
    "last": "2026-11-16T10:16:37.603405+00:00"
   },
-  "S7893": {
-   "title": "F1 set to back new V8 engine regulations on Monday",
-   "first": "2026-11-16T07:16:07.751498+00:00",
-   "sources": {
-    "The Race": "2026-11-16T07:11:53+00:00",
-    "FormulaPassion": "2026-11-16T08:55:43+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "F1 poised to take crucial step towards V8 engines' return",
-    "FormulaPassion": "Oggi è il giorno dei V8: atteso un primo via libera dalla F1 Commission"
-   },
-   "last": "2026-11-16T09:16:42.765029+00:00"
-  },
   "S7894": {
    "title": "Zak Brown reflects on McLaren's toxic past",
    "first": "2026-11-16T07:16:07.751528+00:00",
@@ -6804,34 +6787,6 @@
     "Motorsport Week": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement"
    },
    "last": "2026-11-16T15:47:20.817652+00:00"
-  },
-  "S7910": {
-   "title": "F1 Commission to discuss Williams proposal for team ADUO",
-   "first": "2026-11-16T08:36:45.034363+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-16T08:30:00+00:00",
-    "FormulaPassion": "2026-11-16T09:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "F1 Commission buigt zich over opmerkelijk voorstel Williams",
-    "FormulaPassion": "La F1 Commission discuterà l’ADUO per le squadre (ma i top team sono contro)"
-   },
-   "last": "2026-11-16T09:16:42.765025+00:00"
-  },
-  "S7913": {
-   "title": "Rockets hold Trae Young scoreless in NBA game",
-   "first": "2026-11-16T09:16:42.764986+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T06:07:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rockets hold Wizards' Trae Young scoreless for first time in his NBA career"
-   },
-   "last": "2026-11-16T09:16:42.765005+00:00"
   },
   "S7914": {
    "title": "Dispute over FIA solo or 2.1-litre V8 engine plan",
@@ -14783,9 +14738,35 @@
     "GPblog": "Verstappen returns to Red Bull factory ahead of the Las Vegas Grand Prix"
    },
    "last": "2026-11-18T09:12:53.146029+00:00"
+  },
+  "S8511": {
+   "title": "Cameron Bancroft speaks on Sandpapergate cheating scandal",
+   "first": "2026-11-18T09:22:50.038691+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T09:17:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cameron Bancroft speaks on Sandpapergate: 'It was the whole team'"
+   },
+   "last": "2026-11-18T09:22:50.038711+00:00"
+  },
+  "S8512": {
+   "title": "Kimi Antonelli's dream road car wish",
+   "first": "2026-11-18T09:22:50.038718+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-18T09:03:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Diesen Traumwagen will sich Kimi Antonelli gönnen"
+   },
+   "last": "2026-11-18T09:22:50.038723+00:00"
   }
  },
- "story_seq": 8510,
+ "story_seq": 8512,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14904,17 +14885,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T09:12:48.952791+00:00",
+ "last_run": "2026-11-18T09:22:47.754313+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T09:13:42.593408+00:00",
-   "title": "Williams, Sainz ve Albon'u test pilotuna dönüştürdü",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-15T09:23:43.377444+00:00",
    "title": "McLaren, Lando Norris'i elit sürücüler arasına koyan adaptasyon yeteneğini vurguluyor",
