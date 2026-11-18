@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cbc45b8b439b739d": "2026-11-04T18:01:49.390597+00:00",
-  "7685d195a1b0464d": "2026-11-04T18:01:49.390597+00:00",
-  "80eaf49c65acb9b3": "2026-11-04T18:01:49.390597+00:00",
   "c7be5899bad744e2": "2026-11-04T18:11:49.949896+00:00",
   "150e11113dd7c76d": "2026-11-04T18:11:49.949896+00:00",
   "0642177314d7402e": "2026-11-04T18:11:49.949896+00:00",
@@ -6563,7 +6560,11 @@
   "eb6b3ca70a7555ee": "2026-11-18T17:54:12.197183+00:00",
   "0e9d8f774f2a70ed": "2026-11-18T17:54:12.197183+00:00",
   "3da8879ba7d8dc4b": "2026-11-18T17:54:12.197183+00:00",
-  "92a67c0e676d082c": "2026-11-18T17:54:12.197183+00:00"
+  "92a67c0e676d082c": "2026-11-18T17:54:12.197183+00:00",
+  "e8cd4e753d422946": "2026-11-18T18:04:12.691933+00:00",
+  "ccb22370c8a15f37": "2026-11-18T18:04:12.691933+00:00",
+  "5de6f1438def228b": "2026-11-18T18:04:12.691933+00:00",
+  "9ac42308500ab056": "2026-11-18T18:04:12.691933+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6800,32 +6801,6 @@
     "ESPN F1": "Pochettino won't be drawn on U.S. players he might bring to Manchester United"
    },
    "last": "2026-11-17T00:18:46.911249+00:00"
-  },
-  "S8030": {
-   "title": "Terry Crews on America's growing love for F1",
-   "first": "2026-11-16T17:58:17.421064+00:00",
-   "sources": {
-    "Formula 1": "2026-11-16T17:58:17.421080+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Terry Crews on America's growing love for F1"
-   },
-   "last": "2026-11-16T17:58:17.421083+00:00"
-  },
-  "S8031": {
-   "title": "Hamilton says F1 must go further on diversity opportunities",
-   "first": "2026-11-16T17:58:17.421088+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-16T15:19:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "'Now we need to go further' - Hamilton outlines next targets to improve F1 diversity"
-   },
-   "last": "2026-11-16T17:58:17.421095+00:00"
   },
   "S8032": {
    "title": "Litton says he sees crises as opportunities",
@@ -14538,14 +14513,14 @@
    "title": "Get Up crew on Cowboys DC losing playcalling duties",
    "first": "2026-11-18T15:34:18.033280+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T15:13:56+00:00"
+    "ESPN F1": "2026-11-18T14:58:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "'Get Up' crew confused by Cowboys DC losing playcalling duties"
    },
-   "last": "2026-11-18T15:34:18.033283+00:00"
+   "last": "2026-11-18T18:04:15.624967+00:00"
   },
   "S8612": {
    "title": "Timberwolves 106-105 Trail Blazers NBA game recap",
@@ -15075,17 +15050,32 @@
    "title": "Alonso misses Las Vegas FP1, Crawford replaces him",
    "first": "2026-11-18T17:54:17.437440+00:00",
    "sources": {
-    "GPblog": "2026-11-18T17:45:00+00:00"
+    "GPblog": "2026-11-18T17:45:00+00:00",
+    "AS": "2026-11-18T17:44:37+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Alonso to miss Las Vegas FP1 as Aston Martin announce driver change"
+    "GPblog": "Alonso to miss Las Vegas FP1 as Aston Martin announce driver change",
+    "AS": "Alonso no sale en los Libres 1"
    },
-   "last": "2026-11-18T17:54:17.437443+00:00"
+   "last": "2026-11-18T18:04:15.624972+00:00"
+  },
+  "S8653": {
+   "title": "Reactions to Dhoni's IPL retirement",
+   "first": "2026-11-18T18:04:15.624937+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T17:53:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Reactions to Dhoni's IPL retirement: 'Forever the heartbeat of CSK'"
+   },
+   "last": "2026-11-18T18:04:15.624959+00:00"
   }
  },
- "story_seq": 8652,
+ "story_seq": 8653,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15204,7 +15194,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T17:54:12.197183+00:00",
+ "last_run": "2026-11-18T18:04:12.691933+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
