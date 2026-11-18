@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cf790c78c075f8c4": "2026-11-04T17:21:29.167216+00:00",
-  "66c2d1903ff6d826": "2026-11-04T17:21:29.167216+00:00",
-  "f2ac075712010b11": "2026-11-04T17:21:29.167216+00:00",
   "71989cfa4ddcbfe4": "2026-11-04T17:31:21.767043+00:00",
   "5b6973190aeb803a": "2026-11-04T17:31:21.767043+00:00",
   "efd022366950e9c8": "2026-11-04T17:41:14.273093+00:00",
@@ -6561,7 +6558,9 @@
   "40ff7478c8963196": "2026-11-18T17:04:35.572468+00:00",
   "e9f6a70037db3cb8": "2026-11-18T17:04:35.572468+00:00",
   "ef4bfb72f4767f7c": "2026-11-18T17:14:31.912225+00:00",
-  "6b826dacce739b8a": "2026-11-18T17:14:31.912225+00:00"
+  "6b826dacce739b8a": "2026-11-18T17:14:31.912225+00:00",
+  "ec7832c6e5833dd3": "2026-11-18T17:24:13.399613+00:00",
+  "daa598cc86781e1a": "2026-11-18T17:24:13.399613+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6656,21 +6655,6 @@
    },
    "last": "2026-11-17T13:50:18.931865+00:00"
   },
-  "S7940": {
-   "title": "Alonso says Honda must make big step for Aston Martin 2027",
-   "first": "2026-11-16T11:46:41.116068+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-16T11:36:35+00:00",
-    "Motorsport Week": "2026-11-16T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Fernando Alonso delivers Honda vow after ‘phenomenal’ Aston Martin claim",
-    "Motorsport Week": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim"
-   },
-   "last": "2026-11-16T17:17:22.518259+00:00"
-  },
   "S7943": {
    "title": "On this day: Mercedes acquired Brawn GP in 2009",
    "first": "2026-11-16T11:56:37.373675+00:00",
@@ -6713,19 +6697,6 @@
     "ESPN F1": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino"
    },
    "last": "2026-11-16T18:58:12.092374+00:00"
-  },
-  "S7980": {
-   "title": "Analysis of Verstappen's Red Bull comeback and 2027 title hopes",
-   "first": "2026-11-16T14:27:36.876063+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-16T14:20:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Why rapid Red Bull comeback hints at Max Verstappen 2027 title push"
-   },
-   "last": "2026-11-16T17:17:22.518253+00:00"
   },
   "S7992": {
    "title": "Perez says Cadillac's 2027 teammate needs a vital attribute",
@@ -6790,32 +6761,6 @@
     "Formula 1": "Aston Martin showcase bespoke Las Vegas Grand Prix livery"
    },
    "last": "2026-11-17T10:10:23.520477+00:00"
-  },
-  "S8016": {
-   "title": "ACC suspends Louisville and UNC players after college brawl",
-   "first": "2026-11-16T17:17:22.518226+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T15:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "ACC suspends Louisville LB Clark, UNC DB Smith over postgame brawl"
-   },
-   "last": "2026-11-16T17:17:22.518243+00:00"
-  },
-  "S8017": {
-   "title": "Sainz says he is a better driver than in 2024",
-   "first": "2026-11-16T17:17:22.518263+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-16T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Sainz: “È una situazione frustrante, ma oggi sono un pilota migliore di quello che ero nel 2024”"
-   },
-   "last": "2026-11-16T17:17:22.518268+00:00"
   },
   "S8018": {
    "title": "Bayern Munich confirm Alphonso Davies hamstring injury",
@@ -15129,9 +15074,35 @@
     "RacingNews365": "Expensive fiasco in Las Vegas results in worst F1 track - Throwback"
    },
    "last": "2026-11-18T17:14:33.816882+00:00"
+  },
+  "S8643": {
+   "title": "Hamilton house-hunting in LA to be near Kardashian",
+   "first": "2026-11-18T17:24:15.672335+00:00",
+   "sources": {
+    "GPblog": "2026-11-18T17:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "'Lewis Hamilton house-hunting in LA to be near girlfriend Kim Kardashian'"
+   },
+   "last": "2026-11-18T17:24:15.672355+00:00"
+  },
+  "S8644": {
+   "title": "Wolff praises FIA and F1 for Qatar-Abu Dhabi finale",
+   "first": "2026-11-18T17:24:15.672360+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-18T17:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Toto Wolff entusiasta del finale tra Qatar e Abu Dhabi: “Merito del grande lavoro di FIA e F1”"
+   },
+   "last": "2026-11-18T17:24:15.672364+00:00"
   }
  },
- "story_seq": 8642,
+ "story_seq": 8644,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15250,17 +15221,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T17:14:31.912225+00:00",
+ "last_run": "2026-11-18T17:24:13.399613+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
  "last_digest_at": "2026-11-18T14:25:20.055771+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T17:14:52.302967+00:00",
-   "title": "Mark Sutton, Antonelli'nin F1 şampiyonluğunu ve Monza zaferini anlatıyor",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-15T17:24:55.764420+00:00",
    "title": "Russell ve Leclerc Sprint sıralamasında 34'er puanla eşit",
@@ -16485,6 +16451,11 @@
    "t": "2026-11-18T17:14:38.237065+00:00",
    "title": "Formula 1 ve WHOOP çok yıllık ortaklık açıkladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-18T17:24:19.394214+00:00",
+   "title": "2026 F1 takvimi kesinleşti: Las Vegas, Katar ve Abu Dabi yarışları düzenlenecek",
+   "source": "FormulaPassion"
   }
  ]
 }
