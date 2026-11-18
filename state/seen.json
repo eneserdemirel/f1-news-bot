@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "418eea7c7e8e89da": "2026-11-04T06:20:44.420025+00:00",
   "d653265d0ef73283": "2026-11-04T06:30:48.542595+00:00",
   "3002294350227f3a": "2026-11-04T06:30:48.542595+00:00",
   "fdc15c243f711463": "2026-11-04T06:30:48.542595+00:00",
@@ -6589,7 +6588,11 @@
   "65d72303e551aeb6": "2026-11-18T06:02:56.098568+00:00",
   "b63eec08caa9a01d": "2026-11-18T06:02:56.098568+00:00",
   "12e757d2fd98aea3": "2026-11-18T06:02:56.098568+00:00",
-  "2b998ca65c5c1eb3": "2026-11-18T06:12:49.143468+00:00"
+  "2b998ca65c5c1eb3": "2026-11-18T06:12:49.143468+00:00",
+  "9c94d2447e3009e0": "2026-11-18T06:22:48.927430+00:00",
+  "7f0483b3ad487f64": "2026-11-18T06:22:48.927430+00:00",
+  "fe5385e0d7026677": "2026-11-18T06:22:48.927430+00:00",
+  "d375082918c41e2b": "2026-11-18T06:22:48.927430+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14251,14 +14254,14 @@
    "title": "Illinois' historic rout of Duke by the numbers",
    "first": "2026-11-18T04:32:08.428247+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T04:29:49+00:00"
+    "ESPN F1": "2026-11-18T04:20:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Illinois' historic rout of Duke by the numbers"
    },
-   "last": "2026-11-18T04:32:08.428268+00:00"
+   "last": "2026-11-18T06:22:51.855260+00:00"
   },
   "S8445": {
    "title": "Christian Bliss 3-pointer vs. UC Irvine Anteaters",
@@ -14290,14 +14293,14 @@
    "title": "Pochettino signs off with USMNT farewell win, predicts future",
    "first": "2026-11-18T04:32:08.428298+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T04:15:34+00:00"
+    "ESPN F1": "2026-11-18T04:09:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Poch signs off with 'dream' USMNT finish, predicts 'big things in the future'"
    },
-   "last": "2026-11-18T06:03:00.997324+00:00"
+   "last": "2026-11-18T06:22:51.855267+00:00"
   },
   "S8448": {
    "title": "Noah Otshudi skies for big jam",
@@ -14407,14 +14410,14 @@
    "title": "Cutter Gauthier records fourth NHL hat trick in a month",
    "first": "2026-11-18T05:12:04.964541+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T05:01:42+00:00"
+    "ESPN F1": "2026-11-18T04:57:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Ducks' Cutter Gauthier makes NHL history, records fourth hat trick in month"
    },
-   "last": "2026-11-18T05:12:04.964559+00:00"
+   "last": "2026-11-18T06:22:51.855245+00:00"
   },
   "S8457": {
    "title": "Calipari laments not calling timeout in Arkansas loss",
@@ -14662,9 +14665,22 @@
     "Motorsport Week": "Carlos Sainz lays bare pain of ‘completely unexpected’ Ferrari exit"
    },
    "last": "2026-11-18T06:12:50.717161+00:00"
+  },
+  "S8476": {
+   "title": "Verstappen commits Red Bull future to 2030, denies Antonelli link",
+   "first": "2026-11-18T06:22:51.855272+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-18T06:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Max Verstappen denies Kimi Antonelli link over F1 future decision"
+   },
+   "last": "2026-11-18T06:22:51.855277+00:00"
   }
  },
- "story_seq": 8475,
+ "story_seq": 8476,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14783,17 +14799,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T06:12:49.143468+00:00",
+ "last_run": "2026-11-18T06:22:48.927430+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T06:13:42.268226+00:00",
-   "title": "Verstappen, Red Bull'a veda ederken Senna'nın kaskını Sao Paulo'da veriyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-15T06:23:40.532315+00:00",
    "title": "Brundle, Toto Wolff'un eski mesajını ve Horner karşılaştırmasını anlattı",
@@ -15968,6 +15979,11 @@
    "t": "2026-11-18T06:12:54.723846+00:00",
    "title": "Carlos Sainz, Ferrari'den ayrılışının 'tamamen beklenmedik' olduğunu anlattı",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-18T06:22:57.308309+00:00",
+   "title": "Verstappen, Antonelli'nin rekor kovalamasının F1 kararını etkilemediğini söyledi",
+   "source": "RacingNews365"
   }
  ]
 }
