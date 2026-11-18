@@ -6607,7 +6607,11 @@
   "80536ddf377d3473": "2026-11-18T10:12:48.579718+00:00",
   "17bcd9bc9d45fdf6": "2026-11-18T10:12:48.579718+00:00",
   "1bc3ed934e28eacf": "2026-11-18T10:12:48.579718+00:00",
-  "1a8ab4390ffad65a": "2026-11-18T10:12:48.579718+00:00"
+  "1a8ab4390ffad65a": "2026-11-18T10:12:48.579718+00:00",
+  "11b497ddc054b6a7": "2026-11-18T10:22:50.380672+00:00",
+  "94fa102d612911b0": "2026-11-18T10:22:50.380672+00:00",
+  "024a1e5f92727542": "2026-11-18T10:22:50.380672+00:00",
+  "c71c5a35b29a3efd": "2026-11-18T10:22:50.380672+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6701,19 +6705,6 @@
     "Formula 1": "What time is the 2026 Las Vegas GP and how can I watch it?"
    },
    "last": "2026-11-16T16:57:23.318595+00:00"
-  },
-  "S7871": {
-   "title": "Canucks 6-3 Golden Knights NHL game recap",
-   "first": "2026-11-16T05:16:08.469305+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T05:07:54+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canucks 6-3 Golden Knights (16 Nov, 2026) Game Recap"
-   },
-   "last": "2026-11-16T10:16:37.603405+00:00"
   },
   "S7894": {
    "title": "Zak Brown reflects on McLaren's toxic past",
@@ -12471,14 +12462,16 @@
    "title": "Las Vegas GP forecast shows near-freezing temperatures",
    "first": "2026-11-17T22:01:28.830284+00:00",
    "sources": {
-    "GPblog": "2026-11-17T22:00:00+00:00"
+    "GPblog": "2026-11-17T22:00:00+00:00",
+    "Formula 1": "2026-11-18T10:22:53.984349+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Las Vegas GP weather forecast warns of near-freezing temperatures"
+    "GPblog": "Las Vegas GP weather forecast warns of near-freezing temperatures",
+    "Formula 1": "What is the weather forecast for the Las Vegas Grand Prix?"
    },
-   "last": "2026-11-17T22:01:28.830288+00:00"
+   "last": "2026-11-18T10:22:53.984354+00:00"
   },
   "S8343": {
    "title": "Titans place WR Wan'Dale Robinson on IR with ankle injury",
@@ -14891,9 +14884,48 @@
     "FormulaPassion": "Gasly: “Abbiamo bisogno di ottenere un buon risultato a Las Vegas dopo settimane difficili”"
    },
    "last": "2026-11-18T10:12:51.853080+00:00"
+  },
+  "S8527": {
+   "title": "How to stream the Las Vegas GP on F1 TV Premium",
+   "first": "2026-11-18T10:22:53.984307+00:00",
+   "sources": {
+    "Formula 1": "2026-11-18T10:22:53.984323+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How to stream the 2026 Las Vegas Grand Prix on F1 TV Premium"
+   },
+   "last": "2026-11-18T10:22:53.984327+00:00"
+  },
+  "S8528": {
+   "title": "Pirelli confirms tyre compounds for Las Vegas GP",
+   "first": "2026-11-18T10:22:53.984359+00:00",
+   "sources": {
+    "Formula 1": "2026-11-18T10:22:53.984361+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What tyres will the teams have for the Las Vegas Grand Prix?"
+   },
+   "last": "2026-11-18T10:22:53.984364+00:00"
+  },
+  "S8529": {
+   "title": "Motorsport-Total's quirky Las Vegas GP stories roundup",
+   "first": "2026-11-18T10:22:53.984367+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-18T10:19:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Ziegenpfad\" und unbezahlte Wette: Die kuriosesten Las-Vegas-Geschichten - Motorsport-Total.com"
+   },
+   "last": "2026-11-18T10:22:53.984372+00:00"
   }
  },
- "story_seq": 8526,
+ "story_seq": 8529,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15012,17 +15044,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T10:12:48.579718+00:00",
+ "last_run": "2026-11-18T10:22:50.380672+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T10:13:45.345943+00:00",
-   "title": "Zanarini: \"Her şey değişti ama pilotlar hep aynı\"",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-15T10:33:43.319291+00:00",
    "title": "Wolff: Hamilton ve Verstappen'in podyum anı F1 tarihine geçecek",
@@ -16187,6 +16214,21 @@
    "t": "2026-11-18T10:12:57.223521+00:00",
    "title": "Gasly: Zor haftalardan sonra Las Vegas'ta iyi bir sonuç almalıyız",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-18T10:22:58.482499+00:00",
+   "title": "Las Vegas'taki en tuhaf hikayeler: \"Ziegenpfad\" ve ödenmeyen bahis",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-18T10:22:58.973823+00:00",
+   "title": "2026 Las Vegas Grand Prix'si F1 TV Premium'da nasıl izlenir",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-18T10:22:59.450453+00:00",
+   "title": "Las Vegas GP'de takımların lastik seçenekleri açıklandı",
+   "source": "Formula 1"
   }
  ]
 }
