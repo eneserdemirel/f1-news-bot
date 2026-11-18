@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7c67f7a5e35cd663": "2026-11-04T03:20:15.794390+00:00",
   "96beb7b048764665": "2026-11-04T03:30:10.946483+00:00",
   "6d9021710a578faf": "2026-11-04T03:30:10.946483+00:00",
   "3725658b7821ad4d": "2026-11-04T03:30:10.946483+00:00",
@@ -6561,7 +6560,8 @@
   "cd9147b930cea42a": "2026-11-18T03:12:01.256872+00:00",
   "f8751a90436d400b": "2026-11-18T03:12:01.256872+00:00",
   "22e45ad9b4936b2a": "2026-11-18T03:12:01.256872+00:00",
-  "b9e1abbf99a40a0c": "2026-11-18T03:12:01.256872+00:00"
+  "b9e1abbf99a40a0c": "2026-11-18T03:12:01.256872+00:00",
+  "382e0845bfd6ee7a": "2026-11-18T03:22:03.625088+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6637,19 +6637,6 @@
    },
    "last": "2026-11-17T15:50:51.645577+00:00"
   },
-  "S7780": {
-   "title": "Lindy Duncan wins first LPGA Tour title at The Annika",
-   "first": "2026-11-15T22:25:36.688157+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T21:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Lindy Duncan's long-awaited first LPGA Tour win comes at The Annika"
-   },
-   "last": "2026-11-16T03:16:15.467606+00:00"
-  },
   "S7783": {
    "title": "IIHF confirms Russia will not play in world junior championships in Canada",
    "first": "2026-11-15T22:45:36.715589+00:00",
@@ -6662,45 +6649,6 @@
     "ESPN F1": "IIHF confirms Russia won't play in world junior hockey championships in Canada"
    },
    "last": "2026-11-16T06:56:05.681790+00:00"
-  },
-  "S7787": {
-   "title": "Kirk Cousins emotional after victory in Vikings return",
-   "first": "2026-11-15T22:55:34.908694+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:06:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kirk Cousins emotional after victory in Vikings return"
-   },
-   "last": "2026-11-16T03:16:15.467596+00:00"
-  },
-  "S7822": {
-   "title": "Toronto Tempo win 2027 WNBA draft lottery",
-   "first": "2026-11-16T01:05:34.489824+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T01:03:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The Toronto Tempo have won the 2027 WNBA draft lottery and..."
-   },
-   "last": "2026-11-16T03:16:15.467552+00:00"
-  },
-  "S7823": {
-   "title": "49ers 46-40 Cowboys game recap",
-   "first": "2026-11-16T01:05:34.489852+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T00:59:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "49ers 46-40 Cowboys (Nov 15, 2026) Game Recap"
-   },
-   "last": "2026-11-16T03:16:15.467547+00:00"
   },
   "S7838": {
    "title": "Aaron Donald's first sack in 1,050 days, Rams win",
@@ -6727,149 +6675,6 @@
     "ESPN F1": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture"
    },
    "last": "2026-11-16T06:56:05.681804+00:00"
-  },
-  "S7843": {
-   "title": "ESPN 2027 SC Next 100 feature",
-   "first": "2026-11-16T03:16:15.467506+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T01:59:01+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2027 SC Next 100 - ESPN"
-   },
-   "last": "2026-11-16T03:16:15.467524+00:00"
-  },
-  "S7844": {
-   "title": "NFL Week 10 winners and losers roundup",
-   "first": "2026-11-16T03:16:15.467529+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T01:50:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Week 10 winners and losers: McCaffrey, Gibbs and Mahomes dominate Sunday"
-   },
-   "last": "2026-11-16T03:16:15.467534+00:00"
-  },
-  "S7845": {
-   "title": "Bill Gramatica offers support to Aidan Hutchinson",
-   "first": "2026-11-16T03:16:15.467537+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T01:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ex-kicker Bill Gramatica sympathizes with Aidan Hutchinson, offers support"
-   },
-   "last": "2026-11-16T03:16:15.467541+00:00"
-  },
-  "S7846": {
-   "title": "Panthers discuss penalties after nearly losing to Saints",
-   "first": "2026-11-16T03:16:15.467555+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T01:08:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Panthers 'talking about' penalties after nearly squandering win vs. Saints"
-   },
-   "last": "2026-11-16T03:16:15.467558+00:00"
-  },
-  "S7847": {
-   "title": "Celtics set franchise record with 42-9 quarter lead",
-   "first": "2026-11-16T03:16:15.467561+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T00:06:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Celtics set franchise mark with 42-9 lead over Mavericks after one quarter"
-   },
-   "last": "2026-11-16T03:16:15.467564+00:00"
-  },
-  "S7848": {
-   "title": "Colts keep Daniel Jones at QB despite poor start",
-   "first": "2026-11-16T03:16:15.467566+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T23:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Citing short week, Colts sticking with Daniel Jones at QB despite dreadful start"
-   },
-   "last": "2026-11-16T03:16:15.467569+00:00"
-  },
-  "S7849": {
-   "title": "Tuchel praises England win over Spain as statement",
-   "first": "2026-11-16T03:16:15.467572+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T23:14:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "England's win over Spain is the statement Tuchel's team has been waiting for"
-   },
-   "last": "2026-11-16T03:16:15.467575+00:00"
-  },
-  "S7850": {
-   "title": "Vikings beat Packers 30-10 in game recap",
-   "first": "2026-11-16T03:16:15.467577+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T23:11:02+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Vikings 30-10 Packers (Nov 15, 2026) Game Recap"
-   },
-   "last": "2026-11-16T03:16:15.467580+00:00"
-  },
-  "S7851": {
-   "title": "Jordyn Tyson on the NFL flex radar",
-   "first": "2026-11-16T03:16:15.467583+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:45:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Why Jordyn Tyson is firmly on the flex radar"
-   },
-   "last": "2026-11-16T03:16:15.467586+00:00"
-  },
-  "S7852": {
-   "title": "2026 college football SP+ rankings released",
-   "first": "2026-11-16T03:16:15.467588+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "2026 college football SP+ rankings for all 138 FBS teams"
-   },
-   "last": "2026-11-16T03:16:15.467591+00:00"
-  },
-  "S7853": {
-   "title": "Amon-Ra St. Brown on lederhosen and Lions celebration",
-   "first": "2026-11-16T03:16:15.467598+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-15T22:03:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Amon-Ra St. Brown talks lederhosen, Lions' 'human centipede' celebration"
-   },
-   "last": "2026-11-16T03:16:15.467602+00:00"
   },
   "S7854": {
    "title": "Steelers OL Mason McCormick carted off with ankle injury",
@@ -14556,9 +14361,22 @@
     "PlanetF1": "Charles Leclerc reveals worried Ferrari stance on Las Vegas GP prospects"
    },
    "last": "2026-11-18T03:12:05.232008+00:00"
+  },
+  "S8428": {
+   "title": "Connor McDavid extends season-opening points streak to 23 games",
+   "first": "2026-11-18T03:22:04.694545+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T03:13:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Oilers' Connor McDavid runs season-opening points streak to 23 games"
+   },
+   "last": "2026-11-18T03:22:04.694566+00:00"
   }
  },
- "story_seq": 8427,
+ "story_seq": 8428,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14677,7 +14495,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T03:12:01.256872+00:00",
+ "last_run": "2026-11-18T03:22:03.625088+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
