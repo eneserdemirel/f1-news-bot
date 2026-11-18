@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2bc1dfc5acafe25c": "2026-11-04T07:40:50.996531+00:00",
-  "265d15aee4068951": "2026-11-04T07:40:50.996531+00:00",
-  "40388b8d5897be37": "2026-11-04T07:40:50.996531+00:00",
   "13f57c8fb7ddb677": "2026-11-04T07:50:44.811450+00:00",
   "f9d0f104ff7516ea": "2026-11-04T07:50:44.811450+00:00",
   "4113dbf9b16943f5": "2026-11-04T08:00:51.459265+00:00",
@@ -6591,7 +6588,10 @@
   "6e4d25883bf1b8c4": "2026-11-18T07:22:48.398783+00:00",
   "029277bacd123429": "2026-11-18T07:22:48.398783+00:00",
   "96b9d11770222eae": "2026-11-18T07:22:48.398783+00:00",
-  "888b47507c6cb03b": "2026-11-18T07:32:49.195566+00:00"
+  "888b47507c6cb03b": "2026-11-18T07:32:49.195566+00:00",
+  "ce05f98926a602da": "2026-11-18T07:42:52.941293+00:00",
+  "64709a6fdc5f5218": "2026-11-18T07:42:52.941293+00:00",
+  "311fab130a61bd3e": "2026-11-18T07:42:52.941293+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6741,32 +6741,6 @@
     "GPFans": "Zak Brown lifts lid on McLaren chaos: 'It was a terrible environment'"
    },
    "last": "2026-11-16T11:36:42.136417+00:00"
-  },
-  "S7897": {
-   "title": "Iowa State coach Bill Fennelly suspended over player contact",
-   "first": "2026-11-16T07:36:36.743381+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T05:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Iowa State coach Bill Fennelly suspended for contact with player"
-   },
-   "last": "2026-11-16T07:36:36.743403+00:00"
-  },
-  "S7898": {
-   "title": "Fernando Mendoza vows to learn from first NFL start",
-   "first": "2026-11-16T07:36:36.743408+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T03:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Raiders' Fernando Mendoza vows to learn from first NFL start, a loss to Seahawks"
-   },
-   "last": "2026-11-16T07:36:36.743413+00:00"
   },
   "S7899": {
    "title": "Wolff addresses Antonelli contract and possible pay rise",
@@ -14579,15 +14553,17 @@
    "first": "2026-11-18T07:02:50.039315+00:00",
    "sources": {
     "PlanetF1": "2026-11-18T06:59:56+00:00",
-    "RacingNews365": "2026-11-18T07:12:00+00:00"
+    "RacingNews365": "2026-11-18T07:12:00+00:00",
+    "FormulaPassion": "2026-11-18T07:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Oscar Piastri braced for grid penalty at Las Vegas Grand Prix",
-    "RacingNews365": "Oscar Piastri to take major F1 grid penalty at Las Vegas Grand Prix"
+    "RacingNews365": "Oscar Piastri to take major F1 grid penalty at Las Vegas Grand Prix",
+    "FormulaPassion": "10 posizioni di penalità in griglia a Las Vegas per Oscar Piastri: monta il turbo Mercedes con ADUO al pari di Norris e delle Alpine"
    },
-   "last": "2026-11-18T07:22:51.781891+00:00"
+   "last": "2026-11-18T07:42:56.760891+00:00"
   },
   "S8484": {
    "title": "Opinion: Ferrari's equal treatment of Hamilton and Leclerc questioned",
@@ -14640,9 +14616,35 @@
     "Motorsport-Total": "Dank Sonderregel: Emma Felbermayr bekommt dritte Academy-Saison mit Audi - Motorsport-Total.com"
    },
    "last": "2026-11-18T07:22:51.781919+00:00"
+  },
+  "S8488": {
+   "title": "Hornets vs. Lakers game highlights",
+   "first": "2026-11-18T07:42:56.760852+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T07:09:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Charlotte Hornets vs. Los Angeles Lakers: Game Highlights"
+   },
+   "last": "2026-11-18T07:42:56.760870+00:00"
+  },
+  "S8489": {
+   "title": "Russell 'bad luck' claim under Antonelli father scrutiny",
+   "first": "2026-11-18T07:42:56.760877+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-18T07:34:28+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "George Russell ‘bad luck’ claim under Kimi Antonelli father scrutiny"
+   },
+   "last": "2026-11-18T07:42:56.760884+00:00"
   }
  },
- "story_seq": 8487,
+ "story_seq": 8489,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14761,7 +14763,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T07:32:49.195566+00:00",
+ "last_run": "2026-11-18T07:42:52.941293+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
@@ -15921,6 +15923,11 @@
    "t": "2026-11-18T07:22:56.017757+00:00",
    "title": "Horner: Alpine'da azınlık hissesi 'anlamsız' olur",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-18T07:43:05.925977+00:00",
+   "title": "Piastri, Las Vegas'ta Mercedes turbo nedeniyle 10 kademe geriden başlayacak",
+   "source": "FormulaPassion"
   }
  ]
 }
