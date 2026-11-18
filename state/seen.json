@@ -6585,7 +6585,13 @@
   "cf3b8b904aef0c72": "2026-11-18T05:52:03.637757+00:00",
   "fbb75ffc0a9767a7": "2026-11-18T05:52:03.637757+00:00",
   "e1a4bda378b13b98": "2026-11-18T05:52:03.637757+00:00",
-  "819cda987adf9b0d": "2026-11-18T06:02:05.245604+00:00"
+  "819cda987adf9b0d": "2026-11-18T06:02:05.245604+00:00",
+  "3f85d25895090f6c": "2026-11-18T06:02:56.098568+00:00",
+  "67209dd72873f19e": "2026-11-18T06:02:56.098568+00:00",
+  "67ae100708f28e2c": "2026-11-18T06:02:56.098568+00:00",
+  "65d72303e551aeb6": "2026-11-18T06:02:56.098568+00:00",
+  "b63eec08caa9a01d": "2026-11-18T06:02:56.098568+00:00",
+  "12e757d2fd98aea3": "2026-11-18T06:02:56.098568+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14358,7 +14364,7 @@
    "titles": {
     "ESPN F1": "Poch signs off with 'dream' USMNT finish, predicts 'big things in the future'"
    },
-   "last": "2026-11-18T04:32:08.428302+00:00"
+   "last": "2026-11-18T06:03:00.997324+00:00"
   },
   "S8448": {
    "title": "Noah Otshudi skies for big jam",
@@ -14645,9 +14651,74 @@
     "GPblog": "Hamilton's eight-year F1 record is now within Verstappen's reach"
    },
    "last": "2026-11-18T06:02:06.777660+00:00"
+  },
+  "S8470": {
+   "title": "Naz Reid drains deep 3 for Hornets",
+   "first": "2026-11-18T06:03:00.997359+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T05:25:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Naz Reid drains deep 3 for Hornets"
+   },
+   "last": "2026-11-18T06:03:00.997366+00:00"
+  },
+  "S8471": {
+   "title": "Preview of what is still to play for in 2026 F1 season",
+   "first": "2026-11-18T06:03:00.997372+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-18T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "What's still to play for in 2026 as F1 hits Vegas?"
+   },
+   "last": "2026-11-18T06:03:00.997377+00:00"
+  },
+  "S8472": {
+   "title": "Ecclestone says Ferrari should have won title, questions Vasseur",
+   "first": "2026-11-18T06:03:00.997381+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-18T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ecclestone: “La Ferrari avrebbe dovuto vincere il mondiale. Vasseur pensa tutto il giorno al team?”"
+   },
+   "last": "2026-11-18T06:03:00.997386+00:00"
+  },
+  "S8473": {
+   "title": "Antonelli expects a ferocious, ruthless Russell in 2027",
+   "first": "2026-11-18T06:03:00.997389+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-18T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Antonelli: “Mi aspetto un Russell feroce e spietato nel 2027”"
+   },
+   "last": "2026-11-18T06:03:00.997393+00:00"
+  },
+  "S8474": {
+   "title": "Wolff on Italian presence and tradition at Mercedes",
+   "first": "2026-11-18T06:03:00.997396+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-18T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Wolff e la tradizione tricolore in Mercedes: “In palestra e al ristorante sono circondato da italiani, Kimi ha contagiato pure Bono”"
+   },
+   "last": "2026-11-18T06:03:00.997400+00:00"
   }
  },
- "story_seq": 8469,
+ "story_seq": 8474,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -14766,7 +14837,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T06:02:05.245604+00:00",
+ "last_run": "2026-11-18T06:02:56.098568+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
@@ -15941,6 +16012,16 @@
    "t": "2026-11-18T06:02:10.533084+00:00",
    "title": "Verstappen, Hamilton'ın 8 yıllık rekoruna yaklaşıyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-18T06:03:10.888184+00:00",
+   "title": "2026 F1 sezonunda Las Vegas'ta hâlâ neler çözülecek?",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-18T06:03:11.339063+00:00",
+   "title": "Wolff: Mercedes'te İtalyan geleneği güçlü, Antonelli Bono'yu bile etkiledi",
+   "source": "FormulaPassion"
   }
  ]
 }
