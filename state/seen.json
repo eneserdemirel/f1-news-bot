@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "01e75cfd04866dc6": "2026-11-04T19:31:51.195304+00:00",
-  "46a368dc564b0f40": "2026-11-04T19:31:51.195304+00:00",
-  "2b9f5ef255b2a58e": "2026-11-04T19:31:51.195304+00:00",
   "302c37b07b84f776": "2026-11-04T19:41:47.932610+00:00",
   "4d7e18532d84a3a8": "2026-11-04T19:41:47.932610+00:00",
   "2d68e05bc3980930": "2026-11-04T19:41:47.932610+00:00",
@@ -6561,7 +6558,13 @@
   "57972f0731c889b3": "2026-11-18T19:14:10.963736+00:00",
   "924984bf62782fc2": "2026-11-18T19:14:10.963736+00:00",
   "54996967fadfda80": "2026-11-18T19:24:17.638360+00:00",
-  "0183eb95e5f71798": "2026-11-18T19:24:17.638360+00:00"
+  "0183eb95e5f71798": "2026-11-18T19:24:17.638360+00:00",
+  "7ba6e8b588df071b": "2026-11-18T19:34:14.416854+00:00",
+  "83fb56e8d91e8a16": "2026-11-18T19:34:14.416854+00:00",
+  "f8f74c1bebd31e14": "2026-11-18T19:34:14.416854+00:00",
+  "350fb72dedf44ae7": "2026-11-18T19:34:14.416854+00:00",
+  "f9a865b664679957": "2026-11-18T19:34:14.416854+00:00",
+  "2c03f8c696c36c70": "2026-11-18T19:34:14.416854+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6655,21 +6658,6 @@
     "RacingNews365 NL": "Norris strikt voormalig Red Bull-junior voor F2-team"
    },
    "last": "2026-11-17T13:50:18.931865+00:00"
-  },
-  "S7943": {
-   "title": "On this day: Mercedes acquired Brawn GP in 2009",
-   "first": "2026-11-16T11:56:37.373675+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-16T11:50:00+00:00",
-    "RacingNews365 NL": "2026-11-16T19:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Mercedes acquire miracle £1 Formula 1 team after fairytale story",
-    "RacingNews365 NL": "Mercedes begint historisch F1-avontuur na overname sprookjesteam - terugblik"
-   },
-   "last": "2026-11-16T19:28:15.449706+00:00"
   },
   "S7997": {
    "title": "USMNT coaching candidates to succeed Pochettino",
@@ -14970,9 +14958,87 @@
     "ESPN F1": "East Texas A&M Lions vs. Texas A&M Aggies: Game Highlights"
    },
    "last": "2026-11-18T19:24:19.521993+00:00"
+  },
+  "S8666": {
+   "title": "Houston vs Florida live score (Nov 18, 2026)",
+   "first": "2026-11-18T19:34:18.916694+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T19:01:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Houston vs. Florida (Nov 18, 2026) Live Score"
+   },
+   "last": "2026-11-18T19:34:18.916714+00:00"
+  },
+  "S8667": {
+   "title": "Brandon Aiyuk contacts Jayden Daniels to mend friendship",
+   "first": "2026-11-18T19:34:18.916718+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T18:42:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB"
+   },
+   "last": "2026-11-18T19:34:18.916723+00:00"
+  },
+  "S8668": {
+   "title": "Urban Meyer not a candidate for Maryland job",
+   "first": "2026-11-18T19:34:18.916726+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T17:57:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources - Urban Meyer not a candidate for open Maryland job"
+   },
+   "last": "2026-11-18T19:34:18.916729+00:00"
+  },
+  "S8669": {
+   "title": "USA Basketball announces World Cup qualifying roster",
+   "first": "2026-11-18T19:34:18.916731+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T17:10:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "USA Basketball announces roster for World Cup qualifying games in Nov."
+   },
+   "last": "2026-11-18T19:34:18.916734+00:00"
+  },
+  "S8670": {
+   "title": "Sam Coffey returns to USWNT roster for qualifiers",
+   "first": "2026-11-18T19:34:18.916736+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T16:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sam Coffey returns to USWNT roster for World Cup qualifying"
+   },
+   "last": "2026-11-18T19:34:18.916740+00:00"
+  },
+  "S8671": {
+   "title": "Cowboys take playcalling duties from defensive coordinator Parker",
+   "first": "2026-11-18T19:34:18.916742+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T14:47:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "The Cowboys have taken away playcalling duties from Christian..."
+   },
+   "last": "2026-11-18T19:34:18.916745+00:00"
   }
  },
- "story_seq": 8665,
+ "story_seq": 8671,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15091,7 +15157,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T19:24:17.638360+00:00",
+ "last_run": "2026-11-18T19:34:14.416854+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
