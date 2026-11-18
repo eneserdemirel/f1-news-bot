@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "58f76aca543821e4": "2026-11-04T22:21:52.289838+00:00",
-  "d1c9bceb18304726": "2026-11-04T22:21:52.289838+00:00",
   "308b04237b72b0ec": "2026-11-04T22:31:50.887549+00:00",
   "1c3af3e069a5450e": "2026-11-04T22:51:47.821224+00:00",
   "6d2887c3005f4e52": "2026-11-04T22:51:47.821224+00:00",
@@ -6543,7 +6541,16 @@
   "0d99b737197b76ee": "2026-11-18T22:12:06.134693+00:00",
   "e9a3f9e242cdc5fd": "2026-11-18T22:12:06.134693+00:00",
   "27f7e21e55579ce5": "2026-11-18T22:12:06.134693+00:00",
-  "23afa4019e0c1019": "2026-11-18T22:12:06.134693+00:00"
+  "23afa4019e0c1019": "2026-11-18T22:12:06.134693+00:00",
+  "084223967ae7b748": "2026-11-18T22:22:02.241577+00:00",
+  "3808ca94181d0b57": "2026-11-18T22:22:02.241577+00:00",
+  "cf41ddf3e2f80bde": "2026-11-18T22:22:02.241577+00:00",
+  "7deefea57c2ba236": "2026-11-18T22:22:02.241577+00:00",
+  "0a6dd9b8c767799b": "2026-11-18T22:22:02.241577+00:00",
+  "d0578bbc15416aa3": "2026-11-18T22:22:02.241577+00:00",
+  "f857200831a06052": "2026-11-18T22:22:02.241577+00:00",
+  "616156d6ba28b6a6": "2026-11-18T22:22:02.241577+00:00",
+  "dbed8eb0bbe4481d": "2026-11-18T22:22:02.241577+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6697,19 +6704,6 @@
    },
    "last": "2026-11-17T00:18:46.911249+00:00"
   },
-  "S8075": {
-   "title": "Germany 5-0 Netherlands football match analysis",
-   "first": "2026-11-16T22:08:17.812102+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T21:57:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis"
-   },
-   "last": "2026-11-16T22:18:07.985734+00:00"
-  },
   "S8076": {
    "title": "F1 Today roundup: Hamilton-Leclerc spotlight, Haas Camara Vegas",
    "first": "2026-11-16T22:08:17.812124+00:00",
@@ -6724,19 +6718,6 @@
     "PlanetF1": "Oliver Bearman to miss Las Vegas Grand Prix FP1 as Haas reserve steps in"
    },
    "last": "2026-11-17T10:20:19.780399+00:00"
-  },
-  "S8077": {
-   "title": "PGA Tour approves revamped developmental system for top amateurs",
-   "first": "2026-11-16T22:18:07.985706+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T22:08:21+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "PGA Tour approves revamped developmental system for top amateurs"
-   },
-   "last": "2026-11-16T22:18:07.985725+00:00"
   },
   "S8078": {
    "title": "Ramey wins rain-delayed Austin Championship, earns PGA Tour exemption",
@@ -14128,14 +14109,14 @@
    "title": "Zverev formally notified of ex-partner's lawsuit in abuse case",
    "first": "2026-11-18T17:04:46.487981+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T16:53:47+00:00"
+    "ESPN F1": "2026-11-18T16:40:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Alexander Zverev officially notified of lawsuit by ex-partner in abuse case"
    },
-   "last": "2026-11-18T17:04:46.488001+00:00"
+   "last": "2026-11-18T22:22:06.567263+00:00"
   },
   "S8633": {
    "title": "Ralf Schumacher praises Mercedes' risky Antonelli rookie decision",
@@ -14670,7 +14651,7 @@
     "GPblog": "2026-11-18T20:00:00+00:00",
     "Crash.net": "2026-11-18T20:53:30+00:00",
     "FormulaPassion": "2026-11-18T21:27:28+00:00",
-    "Gazzetta dello Sport": "2026-11-18T21:00:36+00:00",
+    "Gazzetta dello Sport": "2026-11-18T20:58:24+00:00",
     "Motorsport-Total": "2026-11-18T20:01:17+00:00"
    },
    "posted": true,
@@ -14691,7 +14672,7 @@
     "Gazzetta dello Sport": "La Cadillac blinda Bottas: ufficiale il rinnovo del finlandese per il 2027: \"Storia appena iniziata\"",
     "Motorsport-Total": "Endlich offiziell: Cadillac bestätigt Valtteri Bottas für 2027 - Motorsport-Total.com"
    },
-   "last": "2026-11-18T22:12:29.928604+00:00"
+   "last": "2026-11-18T22:22:06.567268+00:00"
   },
   "S8673": {
    "title": "Best value early betting picks for Las Vegas Grand Prix",
@@ -14723,27 +14704,27 @@
    "title": "Georgia AG asks SEC to act against LSU",
    "first": "2026-11-18T22:12:29.928406+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T21:29:46+00:00"
+    "ESPN F1": "2026-11-18T21:25:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Georgia AG asks SEC to take action against LSU's 'contempt for the rules'"
    },
-   "last": "2026-11-18T22:12:29.928410+00:00"
+   "last": "2026-11-18T22:22:06.567229+00:00"
   },
   "S8676": {
    "title": "Manfred says MLB will not compromise on salary cap and floor",
    "first": "2026-11-18T22:12:29.928412+00:00",
    "sources": {
-    "ESPN F1": "2026-11-18T21:07:52+00:00"
+    "ESPN F1": "2026-11-18T20:42:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Rob Manfred: MLB will not compromise on salary cap and floor"
    },
-   "last": "2026-11-18T22:12:29.928415+00:00"
+   "last": "2026-11-18T22:22:06.567234+00:00"
   },
   "S8677": {
    "title": "Twins reunite with Sonny Gray on two-year deal",
@@ -15043,9 +15024,74 @@
     "GPFans": "Lewis Hamilton and a shock return to McLaren - how F1 star could ditch Ferrari for move home"
    },
    "last": "2026-11-18T22:12:29.928591+00:00"
+  },
+  "S8700": {
+   "title": "Alycia Baumgardner vacates junior lightweight boxing titles",
+   "first": "2026-11-18T22:22:06.567200+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T22:17:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Alycia Baumgardner vacates junior lightweight titles to make lightweight run"
+   },
+   "last": "2026-11-18T22:22:06.567220+00:00"
+  },
+  "S8701": {
+   "title": "Ravens' Flowers frustrated by late-game fumble",
+   "first": "2026-11-18T22:22:06.567238+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T20:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ravens' Flowers 'super frustrated' by latest late-game fumble"
+   },
+   "last": "2026-11-18T22:22:06.567242+00:00"
+  },
+  "S8702": {
+   "title": "Titans WR Wan'Dale Robinson out for season with ankle injury",
+   "first": "2026-11-18T22:22:06.567244+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T19:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Titans WR Wan'Dale Robinson out for season with ankle injury"
+   },
+   "last": "2026-11-18T22:22:06.567248+00:00"
+  },
+  "S8703": {
+   "title": "Miami Heat players receive GTA VI care packages from Rockstar",
+   "first": "2026-11-18T22:22:06.567250+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T18:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Miami Heat players receive GTA VI care packages from Rockstar Games"
+   },
+   "last": "2026-11-18T22:22:06.567253+00:00"
+  },
+  "S8704": {
+   "title": "NFL survivor pool power rankings for Week 11",
+   "first": "2026-11-18T22:22:06.567256+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T18:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL survivor power rankings: Why this is the week to use the Bills or the Texans"
+   },
+   "last": "2026-11-18T22:22:06.567259+00:00"
   }
  },
- "story_seq": 8699,
+ "story_seq": 8704,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15164,7 +15210,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T22:12:06.134693+00:00",
+ "last_run": "2026-11-18T22:22:02.241577+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
