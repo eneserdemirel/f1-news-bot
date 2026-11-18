@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6af2aa65fefcf938": "2026-11-04T16:01:20.131907+00:00",
-  "1520e4a2c800afbf": "2026-11-04T16:01:20.131907+00:00",
-  "0b612f839a1dc683": "2026-11-04T16:01:20.131907+00:00",
-  "840e89334f01c6e7": "2026-11-04T16:01:20.131907+00:00",
-  "72ab25d5c6929946": "2026-11-04T16:01:20.131907+00:00",
   "bc98157a9ab39a56": "2026-11-04T16:11:14.025142+00:00",
   "9e3495b0012e3380": "2026-11-04T16:11:14.025142+00:00",
   "f9d36e4d17dc8d9f": "2026-11-04T16:11:14.025142+00:00",
@@ -6546,7 +6541,10 @@
   "75ae96a511e4f644": "2026-11-18T15:44:14.505729+00:00",
   "110881884b695056": "2026-11-18T15:44:14.505729+00:00",
   "89cdf7da9ce3f0d1": "2026-11-18T15:54:12.085631+00:00",
-  "afbbde6fa7822e17": "2026-11-18T15:54:12.085631+00:00"
+  "afbbde6fa7822e17": "2026-11-18T15:54:12.085631+00:00",
+  "789a7aa49f2614e8": "2026-11-18T16:04:14.007903+00:00",
+  "7db3cbb0494a60b1": "2026-11-18T16:04:14.007903+00:00",
+  "981c8e96ffb80782": "2026-11-18T16:04:14.007903+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14985,9 +14983,48 @@
     "ESPN F1": "Unsportsmanlike with Evan, Canty and Michelle - Hour 4: Walk Around Coach"
    },
    "last": "2026-11-18T15:54:14.604719+00:00"
+  },
+  "S8617": {
+   "title": "Early betting Bet Builder picks for Las Vegas GP",
+   "first": "2026-11-18T16:04:16.365605+00:00",
+   "sources": {
+    "Formula 1": "2026-11-18T16:04:16.365623+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Our early Bet Builder picks for Las Vegas"
+   },
+   "last": "2026-11-18T16:04:16.365626+00:00"
+  },
+  "S8618": {
+   "title": "Stephen A. defends Cowboys DC Christian Parker comments",
+   "first": "2026-11-18T16:04:16.365631+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T15:50:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Stephen A. can't defend Cowboys DC Christian Parker"
+   },
+   "last": "2026-11-18T16:04:16.365634+00:00"
+  },
+  "S8619": {
+   "title": "DZE explains its F1 night race lighting business",
+   "first": "2026-11-18T16:04:16.365638+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-18T16:00:56+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "DZE: l’eccellenza italiana che da oltre 15 anni è protagonista dell’illuminazione delle gare in notturna di F1"
+   },
+   "last": "2026-11-18T16:04:16.365642+00:00"
   }
  },
- "story_seq": 8616,
+ "story_seq": 8619,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15106,7 +15143,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T15:54:12.085631+00:00",
+ "last_run": "2026-11-18T16:04:14.007903+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
@@ -16311,6 +16348,11 @@
    "t": "2026-11-18T15:44:21.758908+00:00",
    "title": "Erken şampiyonluğa rağmen Toto Wolff yeni bir Mercedes hakimiyeti görmüyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-18T16:04:19.630300+00:00",
+   "title": "DZE: 15 yılı aşkın süredir F1 gece yarışlarını aydınlatan İtalyan uzmanlık",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
