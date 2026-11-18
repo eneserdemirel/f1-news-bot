@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bc98157a9ab39a56": "2026-11-04T16:11:14.025142+00:00",
-  "9e3495b0012e3380": "2026-11-04T16:11:14.025142+00:00",
-  "f9d36e4d17dc8d9f": "2026-11-04T16:11:14.025142+00:00",
-  "111e237d547bea87": "2026-11-04T16:11:14.025142+00:00",
   "f40f006b63b78b9d": "2026-11-04T16:21:14.944963+00:00",
   "040679e7ef6f4a3b": "2026-11-04T16:21:14.944963+00:00",
   "6d88ead3de116f87": "2026-11-04T16:21:14.944963+00:00",
@@ -6544,7 +6540,11 @@
   "afbbde6fa7822e17": "2026-11-18T15:54:12.085631+00:00",
   "789a7aa49f2614e8": "2026-11-18T16:04:14.007903+00:00",
   "7db3cbb0494a60b1": "2026-11-18T16:04:14.007903+00:00",
-  "981c8e96ffb80782": "2026-11-18T16:04:14.007903+00:00"
+  "981c8e96ffb80782": "2026-11-18T16:04:14.007903+00:00",
+  "94a560f8e8862e06": "2026-11-18T16:14:13.959364+00:00",
+  "23a874aff3e1691a": "2026-11-18T16:14:13.959364+00:00",
+  "28219910ccc1d12e": "2026-11-18T16:14:13.959364+00:00",
+  "6c50a7198ae9ac0c": "2026-11-18T16:14:13.959364+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6657,21 +6657,6 @@
     "GPFans": "Kimi Antonelli is going to get PAID, Toto Wolff drops big contract hint"
    },
    "last": "2026-11-17T20:01:28.819410+00:00"
-  },
-  "S7915": {
-   "title": "Analysis of the five-way fight for P2 in 2026 standings",
-   "first": "2026-11-16T09:36:40.633597+00:00",
-   "sources": {
-    "Autosport": "2026-11-16T09:28:44+00:00",
-    "Motorsport-Total": "2026-11-16T16:04:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Autosport": "What is left to fight for in F1 2026?",
-    "Motorsport-Total": "Beide WM-Titel vergeben: Um was geht es in der Formel-1-Saison 2026 noch? - Motorsport-Total.com"
-   },
-   "last": "2026-11-16T16:07:22.831620+00:00"
   },
   "S7919": {
    "title": "Norris's new team signs German F2 talent",
@@ -6796,32 +6781,6 @@
     "ESPN F1": "Who should be the USMNT's coaching candidates to succeed Mauricio Pochettino?"
    },
    "last": "2026-11-16T20:58:09.453344+00:00"
-  },
-  "S8002": {
-   "title": "Five F1 battles to watch in final three races",
-   "first": "2026-11-16T16:07:22.831597+00:00",
-   "sources": {
-    "GPblog": "2026-11-16T16:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Five F1 battles that could steal the show in the final three races"
-   },
-   "last": "2026-11-16T16:07:22.831604+00:00"
-  },
-  "S8003": {
-   "title": "Tyre warm-up challenge key for Las Vegas weekend",
-   "first": "2026-11-16T16:07:22.831608+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-16T16:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Scongelare le gomme: l’altra chiave del weekend di Las Vegas"
-   },
-   "last": "2026-11-16T16:07:22.831614+00:00"
   },
   "S8004": {
    "title": "Feast Week college basketball where-to-watch schedule",
@@ -13219,7 +13178,8 @@
     "Crash.net": "2026-11-18T09:31:09+00:00",
     "GPblog": "2026-11-18T09:59:00+00:00",
     "Formula 1": "2026-11-18T11:02:51.035370+00:00",
-    "Sky Sports F1": "2026-11-18T14:30:00+00:00"
+    "Sky Sports F1": "2026-11-18T14:30:00+00:00",
+    "Motorsport Week": "2026-11-18T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13233,9 +13193,10 @@
     "Crash.net": "Oscar Piastri set for huge Las Vegas GP grid penalty",
     "GPblog": "McLaren reveals grid penalty already certain for Las Vegas Grand Prix",
     "Formula 1": "Piastri set for grid penalty at Las Vegas Grand Prix",
-    "Sky Sports F1": "Piastri to serve grid penalty at Las Vegas GP"
+    "Sky Sports F1": "Piastri to serve grid penalty at Las Vegas GP",
+    "Motorsport Week": "Oscar Piastri to take a significant penalty for Las Vegas GP"
    },
-   "last": "2026-11-18T15:24:19.344527+00:00"
+   "last": "2026-11-18T16:14:18.018773+00:00"
   },
   "S8484": {
    "title": "Opinion: Ferrari's equal treatment of Hamilton and Leclerc questioned",
@@ -14116,7 +14077,7 @@
    "titles": {
     "ESPN F1": "Passan: 2026-27 MLB offseason preview, free agent updates"
    },
-   "last": "2026-11-18T14:24:57.509910+00:00"
+   "last": "2026-11-18T16:14:18.018760+00:00"
   },
   "S8551": {
    "title": "College football postseason X factors",
@@ -15022,9 +14983,22 @@
     "Motorsport.com Italia": "DZE: l’eccellenza italiana che da oltre 15 anni è protagonista dell’illuminazione delle gare in notturna di F1"
    },
    "last": "2026-11-18T16:04:16.365642+00:00"
+  },
+  "S8620": {
+   "title": "Aston Martin and Williams special Las Vegas liveries for one weekend",
+   "first": "2026-11-18T16:14:18.018777+00:00",
+   "sources": {
+    "AS": "2026-11-18T15:57:18+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Colores especiales para Alonso y Sainz"
+   },
+   "last": "2026-11-18T16:14:18.018781+00:00"
   }
  },
- "story_seq": 8619,
+ "story_seq": 8620,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15143,7 +15117,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T16:04:14.007903+00:00",
+ "last_run": "2026-11-18T16:14:13.959364+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
