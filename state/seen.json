@@ -6614,7 +6614,9 @@
   "c71c5a35b29a3efd": "2026-11-18T10:22:50.380672+00:00",
   "e6dfed23eab014e8": "2026-11-18T10:32:48.930528+00:00",
   "2c4f23c561bbd99c": "2026-11-18T10:32:48.930528+00:00",
-  "796f33f1a9401945": "2026-11-18T10:32:48.930528+00:00"
+  "796f33f1a9401945": "2026-11-18T10:32:48.930528+00:00",
+  "27b0ceba7a67f3fe": "2026-11-18T10:42:52.128166+00:00",
+  "0114aeecae84e420": "2026-11-18T10:42:52.128166+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6872,45 +6874,6 @@
     "FormulaPassion": "La prima vittoria in F1 nell’anno del suo primo titolo: solo cinque piloti oltre Antonelli"
    },
    "last": "2026-11-16T15:07:24.794312+00:00"
-  },
-  "S7925": {
-   "title": "McLaren pressure to secure P3 in Constructors' Championship",
-   "first": "2026-11-16T10:36:37.181100+00:00",
-   "sources": {
-    "Formula 1": "2026-11-16T10:36:37.181116+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "McLaren determined to take fight for P3 ‘down to the wire’"
-   },
-   "last": "2026-11-16T10:36:37.181118+00:00"
-  },
-  "S7926": {
-   "title": "Nations Championship rugby reaction, Wales and All Blacks",
-   "first": "2026-11-16T10:36:37.181123+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T10:15:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Nations Championship reaction: Are Wales back? All Blacks in must-win territory"
-   },
-   "last": "2026-11-16T10:36:37.181128+00:00"
-  },
-  "S7927": {
-   "title": "Verstappen 2024 Las Vegas retrospective taunt at Brown",
-   "first": "2026-11-16T10:36:37.181130+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-16T10:25:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Kampioen Verstappen deelt plaagstoot uit aan Brown: \"Live op Sky Sports!\" - terugblik"
-   },
-   "last": "2026-11-16T10:36:37.181135+00:00"
   },
   "S7928": {
    "title": "Generic Motorsport-Total homepage with no specific story",
@@ -14926,9 +14889,35 @@
     "RacingNews365": "Why the Las Vegas Grand Prix is held on a Saturday"
    },
    "last": "2026-11-18T10:32:51.909124+00:00"
+  },
+  "S8531": {
+   "title": "Social posts on F1's V8 2030 engine reveal deleted",
+   "first": "2026-11-18T10:42:54.548775+00:00",
+   "sources": {
+    "The Race": "2026-11-18T10:35:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "What's going on with F1's confusing V8s 2030 future reveal"
+   },
+   "last": "2026-11-18T10:42:54.548794+00:00"
+  },
+  "S8532": {
+   "title": "Claire Williams returns to paddock at Las Vegas GP",
+   "first": "2026-11-18T10:42:54.548800+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-18T10:37:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Claire Williams suffers nightmare Las Vegas GP trip in F1 paddock return"
+   },
+   "last": "2026-11-18T10:42:54.548806+00:00"
   }
  },
- "story_seq": 8530,
+ "story_seq": 8532,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15047,17 +15036,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T10:32:48.930528+00:00",
+ "last_run": "2026-11-18T10:42:52.128166+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T10:33:43.319291+00:00",
-   "title": "Wolff: Hamilton ve Verstappen'in podyum anı F1 tarihine geçecek",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-15T10:43:47.164756+00:00",
    "title": "Eski F1 pilotları Red Bull'un beş kişilik buz pisti yarışına katıldı",
@@ -16237,6 +16221,11 @@
    "t": "2026-11-18T10:32:56.186496+00:00",
    "title": "Las Vegas Grand Prix neden cumartesi günü yapılıyor?",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-18T10:42:59.434130+00:00",
+   "title": "Claire Williams, Las Vegas GP'de Channel 4 için yeniden yorumcu olacak",
+   "source": "PlanetF1"
   }
  ]
 }
