@@ -6619,7 +6619,10 @@
   "0114aeecae84e420": "2026-11-18T10:42:52.128166+00:00",
   "78f16db3d326a3da": "2026-11-18T10:52:49.826794+00:00",
   "f99e68d3a256c2a1": "2026-11-18T10:52:49.826794+00:00",
-  "166b794540423626": "2026-11-18T10:52:49.826794+00:00"
+  "166b794540423626": "2026-11-18T10:52:49.826794+00:00",
+  "2fa85c6e67989311": "2026-11-18T11:02:47.280896+00:00",
+  "7b2e7f9e8cfd297e": "2026-11-18T11:02:47.280896+00:00",
+  "977983c1af9a1811": "2026-11-18T11:02:47.280896+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14251,7 +14254,8 @@
     "Autosport": "2026-11-18T08:14:39+00:00",
     "Motorsport.com Italia": "2026-11-18T08:43:45+00:00",
     "Crash.net": "2026-11-18T09:31:09+00:00",
-    "GPblog": "2026-11-18T09:59:00+00:00"
+    "GPblog": "2026-11-18T09:59:00+00:00",
+    "Formula 1": "2026-11-18T11:02:51.035370+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14263,9 +14267,10 @@
     "Autosport": "Piastri set for grid penalty at F1 Las Vegas GP",
     "Motorsport.com Italia": "F1 | McLaren avrà il turbo ADUO a Las Vegas. Piastri andrà in penalità montando anche un nuovo motore",
     "Crash.net": "Oscar Piastri set for huge Las Vegas GP grid penalty",
-    "GPblog": "McLaren reveals grid penalty already certain for Las Vegas Grand Prix"
+    "GPblog": "McLaren reveals grid penalty already certain for Las Vegas Grand Prix",
+    "Formula 1": "Piastri set for grid penalty at Las Vegas Grand Prix"
    },
-   "last": "2026-11-18T10:02:51.459683+00:00"
+   "last": "2026-11-18T11:02:51.035386+00:00"
   },
   "S8484": {
    "title": "Opinion: Ferrari's equal treatment of Hamilton and Leclerc questioned",
@@ -14933,9 +14938,22 @@
     "ESPN F1": "USMNT's Mauricio Pochettino gets a fitting send-off before Man United job"
    },
    "last": "2026-11-18T10:52:52.798712+00:00"
+  },
+  "S8535": {
+   "title": "Verstappen says he does not need Antonelli's success to be motivated",
+   "first": "2026-11-18T11:02:51.035394+00:00",
+   "sources": {
+    "Crash.net": "2026-11-18T10:48:46+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Max Verstappen’s blunt response on Kimi Antonelli F1 motivation"
+   },
+   "last": "2026-11-18T11:02:51.035401+00:00"
   }
  },
- "story_seq": 8534,
+ "story_seq": 8535,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15054,27 +15072,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T10:52:49.826794+00:00",
+ "last_run": "2026-11-18T11:02:47.280896+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-17 22:00",
  "last_digest_at": "2026-11-17T19:01:02.232003+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T10:54:26.366206+00:00",
-   "title": "Mercedes, 2027'de F1 takımları için büyük downforce kaybı öngörüyor",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-15T10:54:26.725125+00:00",
-   "title": "Mercedes'te Antonelli, Russell'a ikinci sırayı kazanmada yardım edecek mi?",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-15T10:54:27.100329+00:00",
-   "title": "Daniel Ricciardo, Red Bull'un Formula 1'deki kadrosundan çıkarılmasına bugün minnettar",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-15T11:24:22.714875+00:00",
    "title": "Barrichello, 2000 Hockenheim zaferini ve Ross Brawn'ın radyo konuşmasını anlattı",
@@ -16234,6 +16237,11 @@
    "t": "2026-11-18T10:42:59.434130+00:00",
    "title": "Claire Williams, Las Vegas GP'de Channel 4 için yeniden yorumcu olacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-18T11:02:55.747965+00:00",
+   "title": "Piastri, Las Vegas GP'de 10 sıra grid cezası alacak",
+   "source": "Formula 1"
   }
  ]
 }
