@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f148ed4905ee6a27": "2026-11-04T18:21:48.309043+00:00",
-  "78281fb037a80846": "2026-11-04T18:21:48.309043+00:00",
-  "d54b2f1b4bf61a9d": "2026-11-04T18:21:48.309043+00:00",
-  "54aec772d9c43851": "2026-11-04T18:21:48.309043+00:00",
-  "4e370f20c3532c9f": "2026-11-04T18:21:48.309043+00:00",
   "9ad0f98c8569020a": "2026-11-04T18:32:01.122166+00:00",
   "a97d6304f9d3cd6d": "2026-11-04T18:32:01.122166+00:00",
   "e0f0395ad426a5db": "2026-11-04T18:32:01.122166+00:00",
@@ -6571,7 +6566,9 @@
   "170f92c694daade9": "2026-11-18T18:14:13.975002+00:00",
   "2ab922119b696d16": "2026-11-18T18:14:13.975002+00:00",
   "401cbf581e1a2653": "2026-11-18T18:14:13.975002+00:00",
-  "88a0b0ec239de3fa": "2026-11-18T18:14:13.975002+00:00"
+  "88a0b0ec239de3fa": "2026-11-18T18:14:13.975002+00:00",
+  "67f44777ba94e0ff": "2026-11-18T18:24:11.978390+00:00",
+  "f51f80a9e3096a13": "2026-11-18T18:24:11.978390+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6808,45 +6805,6 @@
     "ESPN F1": "Pochettino won't be drawn on U.S. players he might bring to Manchester United"
    },
    "last": "2026-11-17T00:18:46.911249+00:00"
-  },
-  "S8033": {
-   "title": "Women's AP basketball Top 25 poll breakdown",
-   "first": "2026-11-16T18:18:16.044297+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T17:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Breaking down the women's 2026-27 AP week 2 Top 25 basketball poll"
-   },
-   "last": "2026-11-16T18:18:16.044316+00:00"
-  },
-  "S8034": {
-   "title": "Week 11 power rankings (non-F1 sport)",
-   "first": "2026-11-16T18:18:16.044321+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T12:19:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Power Rankings: The top teams hold their positions in Week 11"
-   },
-   "last": "2026-11-16T18:18:16.044327+00:00"
-  },
-  "S8035": {
-   "title": "Verdict on delayed Lawson Racing Bulls decision",
-   "first": "2026-11-16T18:18:16.044330+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-16T18:05:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Liam Lawson handed crushing verdict over delayed Racing Bulls decision"
-   },
-   "last": "2026-11-16T18:18:16.044334+00:00"
   },
   "S8036": {
    "title": "ESPN men's college basketball AP Top 25 poll breakdown",
@@ -15047,15 +15005,17 @@
    "first": "2026-11-18T17:54:17.437440+00:00",
    "sources": {
     "GPblog": "2026-11-18T17:45:00+00:00",
-    "AS": "2026-11-18T17:44:37+00:00"
+    "AS": "2026-11-18T17:44:37+00:00",
+    "Motorsport.com Italia": "2026-11-18T18:13:17+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Alonso to miss Las Vegas FP1 as Aston Martin announce driver change",
-    "AS": "Alonso no sale en los Libres 1"
+    "AS": "Alonso no sale en los Libres 1",
+    "Motorsport.com Italia": "F1 | Aston Martin: a Las Vegas in FP1 ci sarà Crawford sulla AMR26 di Alonso"
    },
-   "last": "2026-11-18T18:04:15.624972+00:00"
+   "last": "2026-11-18T18:24:14.331589+00:00"
   },
   "S8653": {
    "title": "Reactions to Dhoni's IPL retirement",
@@ -15082,9 +15042,22 @@
     "RacingNews365": "Liam Lawson wary of potential 'trouble' striking Las Vegas F1 grand prix"
    },
    "last": "2026-11-18T18:14:18.613129+00:00"
+  },
+  "S8655": {
+   "title": "Montezemolo says not joining Ferrari was Antonelli's luck",
+   "first": "2026-11-18T18:24:14.331599+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-18T18:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Montezemolo: “Non andare in Ferrari è stata la fortuna di Antonelli. A Maranello non avrebbe potuto fare ciò che ha fatto”"
+   },
+   "last": "2026-11-18T18:24:14.331606+00:00"
   }
  },
- "story_seq": 8654,
+ "story_seq": 8655,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15203,22 +15176,12 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T18:14:13.975002+00:00",
+ "last_run": "2026-11-18T18:24:11.978390+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
  "last_digest_at": "2026-11-18T14:25:20.055771+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-15T18:14:55.901236+00:00",
-   "title": "Haas'ta pilot kadrosu daralıyor: Camara ve Hirakawa dışında kimse yarışamayacak",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-15T18:14:56.264379+00:00",
-   "title": "Red Bull, Liam Lawson'ın dönüşünü 'inanılmaz kontrast' sözleriyle övdü",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-15T18:54:52.608551+00:00",
    "title": "Liam Lawson 2027'de Racing Bulls'ta yarışmaya devam edecek",
@@ -16433,6 +16396,11 @@
    "t": "2026-11-18T18:14:23.522441+00:00",
    "title": "Lawson, Las Vegas GP'de yağmur olursa \"sorun\" çıkabileceğinden endişeli",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-18T18:24:17.548400+00:00",
+   "title": "Montezemolo: Ferrari'ye gitmemek Antonelli'nin şansı",
+   "source": "FormulaPassion"
   }
  ]
 }
