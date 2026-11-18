@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f40f006b63b78b9d": "2026-11-04T16:21:14.944963+00:00",
-  "040679e7ef6f4a3b": "2026-11-04T16:21:14.944963+00:00",
-  "6d88ead3de116f87": "2026-11-04T16:21:14.944963+00:00",
-  "aeb3231b3cb6ca78": "2026-11-04T16:21:14.944963+00:00",
-  "d1b68849cb4ab851": "2026-11-04T16:21:14.944963+00:00",
   "a0291f47b4cc7719": "2026-11-04T16:31:14.920166+00:00",
   "3becc46c8797e0a0": "2026-11-04T16:31:14.920166+00:00",
   "16440b1c1dd7d072": "2026-11-04T16:31:14.920166+00:00",
@@ -6544,7 +6539,13 @@
   "94a560f8e8862e06": "2026-11-18T16:14:13.959364+00:00",
   "23a874aff3e1691a": "2026-11-18T16:14:13.959364+00:00",
   "28219910ccc1d12e": "2026-11-18T16:14:13.959364+00:00",
-  "6c50a7198ae9ac0c": "2026-11-18T16:14:13.959364+00:00"
+  "6c50a7198ae9ac0c": "2026-11-18T16:14:13.959364+00:00",
+  "caa10a16701a4750": "2026-11-18T16:24:13.950018+00:00",
+  "9d51cde3fb059388": "2026-11-18T16:24:13.950018+00:00",
+  "f3fbbaf329ac21b1": "2026-11-18T16:24:13.950018+00:00",
+  "9c32b5a9d0785fae": "2026-11-18T16:24:13.950018+00:00",
+  "a5554c1359899d0c": "2026-11-18T16:24:13.950018+00:00",
+  "53ea37e0111ebd45": "2026-11-18T16:24:13.950018+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14214,15 +14215,17 @@
    "first": "2026-11-18T14:24:57.509981+00:00",
    "sources": {
     "The Race": "2026-11-18T13:57:21+00:00",
-    "PlanetF1": "2026-11-18T15:47:44+00:00"
+    "PlanetF1": "2026-11-18T15:47:44+00:00",
+    "RacingNews365 NL": "2026-11-18T16:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "McLaren to sell 2027 F1 car before it races",
-    "PlanetF1": "McLaren to auction F1 2027 challenger before it even races"
+    "PlanetF1": "McLaren to auction F1 2027 challenger before it even races",
+    "RacingNews365 NL": "McLaren verkoopt 2027 F1-auto aan hoogste bieder"
    },
-   "last": "2026-11-18T15:54:14.604727+00:00"
+   "last": "2026-11-18T16:24:17.628378+00:00"
   },
   "S8562": {
    "title": "Factors behind abortive 2030 F1 rules announcement",
@@ -14891,7 +14894,7 @@
    "titles": {
     "ESPN F1": "Timberwolves 106-105 Trail Blazers (Nov 17, 2026) Game Recap"
    },
-   "last": "2026-11-18T15:34:18.033289+00:00"
+   "last": "2026-11-18T16:24:17.628343+00:00"
   },
   "S8613": {
    "title": "Verstappen prepares alone for Nürburgring 24 Hours",
@@ -14996,9 +14999,48 @@
     "AS": "Colores especiales para Alonso y Sainz"
    },
    "last": "2026-11-18T16:14:18.018781+00:00"
+  },
+  "S8621": {
+   "title": "Mets reportedly favorites to sign Tarik Skubal",
+   "first": "2026-11-18T16:24:17.628354+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T15:27:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Mets favorite to sign Tarik Skubal as teams ramp up pursuit of FA ace"
+   },
+   "last": "2026-11-18T16:24:17.628360+00:00"
+  },
+  "S8622": {
+   "title": "Opinion on Giannis and Miami's margin for error",
+   "first": "2026-11-18T16:24:17.628364+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-18T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Giannis changed everything, including Miami's margin for error"
+   },
+   "last": "2026-11-18T16:24:17.628368+00:00"
+  },
+  "S8623": {
+   "title": "McLaren weighs Mercedes partnership for next power unit rules",
+   "first": "2026-11-18T16:24:17.628371+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-18T16:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "McLaren address Mercedes partnership for next F1 power unit regulations"
+   },
+   "last": "2026-11-18T16:24:17.628374+00:00"
   }
  },
- "story_seq": 8620,
+ "story_seq": 8623,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15117,7 +15159,7 @@
   ]
  ],
  "calendar_updated": "2026-11-17T23:21:13.650264+00:00",
- "last_run": "2026-11-18T16:14:13.959364+00:00",
+ "last_run": "2026-11-18T16:24:13.950018+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 15:00",
@@ -16327,6 +16369,11 @@
    "t": "2026-11-18T16:04:19.630300+00:00",
    "title": "DZE: 15 yılı aşkın süredir F1 gece yarışlarını aydınlatan İtalyan uzmanlık",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-18T16:24:21.473683+00:00",
+   "title": "McLaren, gelecek F1 motor regülasyonunda kendi motorunu üretmeyi planlamıyor",
+   "source": "RacingNews365"
   }
  ]
 }
