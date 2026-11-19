@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "404085f99610d3fe": "2026-11-05T14:03:51.390659+00:00",
-  "ecc77242997d13c6": "2026-11-05T14:03:51.390659+00:00",
-  "f3488232374a74a5": "2026-11-05T14:03:51.390659+00:00",
-  "6a3b160e383ea067": "2026-11-05T14:03:51.390659+00:00",
   "40286d3fb692f141": "2026-11-05T14:13:49.598928+00:00",
   "649a5c2cf78c86ba": "2026-11-05T14:13:49.598928+00:00",
   "06113202ff711495": "2026-11-05T14:23:49.214336+00:00",
@@ -6646,7 +6642,10 @@
   "b82c94f942fe011f": "2026-11-19T13:50:33.599224+00:00",
   "4e2b8ab3ba0d2554": "2026-11-19T14:00:33.928232+00:00",
   "69635a698ef7f51b": "2026-11-19T14:00:33.928232+00:00",
-  "a46b617306bf2d5f": "2026-11-19T14:00:33.928232+00:00"
+  "a46b617306bf2d5f": "2026-11-19T14:00:33.928232+00:00",
+  "3c2c067ad72cc00f": "2026-11-19T14:10:38.265147+00:00",
+  "2c5411f2e60d6645": "2026-11-19T14:10:38.265147+00:00",
+  "a38f9f893a6d557f": "2026-11-19T14:10:38.265147+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7029,32 +7028,6 @@
     "ESPN F1": "Khulna Division win National Cricket League title for record eighth time"
    },
    "last": "2026-11-17T14:50:55.257966+00:00"
-  },
-  "S8245": {
-   "title": "Honda developing new cylinder head for 2027 power unit",
-   "first": "2026-11-17T14:10:16.018735+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-17T14:07:10+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Honda vuole crescere nel 2027: ci sarà una nuova testata per migliorare la combustione"
-   },
-   "last": "2026-11-17T14:10:16.018741+00:00"
-  },
-  "S8246": {
-   "title": "Lewis Hamilton named global ambassador for AG1",
-   "first": "2026-11-17T14:10:16.018745+00:00",
-   "sources": {
-    "Crash.net": "2026-11-17T14:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Lewis Hamilton announces huge new partnership ahead of Las Vegas GP"
-   },
-   "last": "2026-11-17T14:10:16.018750+00:00"
   },
   "S8247": {
    "title": "Mercedes to bring updated turbo spec to Las Vegas, Russell unlikely to use it",
@@ -14483,7 +14456,8 @@
     "GPblog": "2026-11-19T07:45:00+00:00",
     "RacingNews365": "2026-11-19T11:50:00+00:00",
     "RacingNews365 NL": "2026-11-19T12:10:00+00:00",
-    "PlanetF1": "2026-11-19T12:51:22+00:00"
+    "PlanetF1": "2026-11-19T12:51:22+00:00",
+    "Motorsport Week": "2026-11-19T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14494,9 +14468,10 @@
     "GPblog": "Alonso delivers clear verdict on staying in F1 into his 50s for V8 return",
     "RacingNews365": "Fernando Alonso makes F1 retirement decision ahead of looming V8 engine return",
     "RacingNews365 NL": "Alonso hekelt gemiste kans in Formule 1: \"Zestien jaar verloren\"",
-    "PlanetF1": "Fernando Alonso makes F1 V8s announcement as ’16 years pure racing lost’"
+    "PlanetF1": "Fernando Alonso makes F1 V8s announcement as ’16 years pure racing lost’",
+    "Motorsport Week": "Fernando Alonso reveals momentous career decision ahead of potential V8 return"
    },
-   "last": "2026-11-19T13:00:43.814078+00:00"
+   "last": "2026-11-19T14:10:41.192812+00:00"
   },
   "S8803": {
    "title": "Verstappen comments on V8 engine return to F1",
@@ -16618,9 +16593,35 @@
     "Auto Motor und Sport": "Formel 1: Alonso giftet erneut gegen die Motoren-Regeln"
    },
    "last": "2026-11-19T14:00:37.597028+00:00"
+  },
+  "S8960": {
+   "title": "Czech fan wins Heineken F1 Season Ticket 2027 at Las Vegas",
+   "first": "2026-11-19T14:10:41.192778+00:00",
+   "sources": {
+    "The Race": "2026-11-19T14:01:51+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "New F1 season ticket winner revealed"
+   },
+   "last": "2026-11-19T14:10:41.192798+00:00"
+  },
+  "S8961": {
+   "title": "Pier Guidi renews with Ferrari for WEC",
+   "first": "2026-11-19T14:10:41.192803+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-19T14:08:45+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "WEC | Ferrari: Alessandro Pier Guidi ha rinnovato e continuerà a correre per il Cavallino Rampante"
+   },
+   "last": "2026-11-19T14:10:41.192807+00:00"
   }
  },
- "story_seq": 8959,
+ "story_seq": 8961,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16739,7 +16740,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T14:00:33.928232+00:00",
+ "last_run": "2026-11-19T14:10:38.265147+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
@@ -18124,6 +18125,11 @@
    "t": "2026-11-19T14:00:41.512629+00:00",
    "title": "Alonso motor kurallarına yine tepki gösterdi",
    "source": "Auto Motor und Sport"
+  },
+  {
+   "t": "2026-11-19T14:10:44.353884+00:00",
+   "title": "Yeni F1 sezon bileti kazananı açıklandı",
+   "source": "The Race"
   }
  ]
 }
