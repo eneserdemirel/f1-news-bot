@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0be72c5195b360b0": "2026-11-05T06:23:10.169613+00:00",
-  "25415c89abd0b95b": "2026-11-05T06:23:10.169613+00:00",
-  "5899e6df028649c7": "2026-11-05T06:23:10.169613+00:00",
   "bd477aad853d062a": "2026-11-05T06:33:12.713355+00:00",
   "30998f68ccb231d3": "2026-11-05T06:33:12.713355+00:00",
   "fa5d4300f56a7c9b": "2026-11-05T06:33:12.713355+00:00",
@@ -6650,7 +6647,12 @@
   "7d315b9aa1bbd974": "2026-11-19T06:13:45.850146+00:00",
   "11de1e1a1495e44a": "2026-11-19T06:13:45.850146+00:00",
   "4d10c2dff6b59ebe": "2026-11-19T06:13:45.850146+00:00",
-  "8a0e7aa0972957e4": "2026-11-19T06:13:45.850146+00:00"
+  "8a0e7aa0972957e4": "2026-11-19T06:13:45.850146+00:00",
+  "733740e9812f2d84": "2026-11-19T06:23:41.353224+00:00",
+  "9cfc2a0b945da8c0": "2026-11-19T06:23:41.353224+00:00",
+  "0bdeafbdf390248b": "2026-11-19T06:23:41.353224+00:00",
+  "35e9f281baf6528f": "2026-11-19T06:23:41.353224+00:00",
+  "8b5767f3af5fda62": "2026-11-19T06:23:41.353224+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14794,7 +14796,8 @@
     "The Race": "2026-11-19T02:04:50+00:00",
     "Formula 1": "2026-11-19T03:02:04.862379+00:00",
     "Motorsport-Total": "2026-11-19T03:19:00+00:00",
-    "Crash.net": "2026-11-19T05:26:54+00:00"
+    "Crash.net": "2026-11-19T05:26:54+00:00",
+    "Motorsport Week": "2026-11-19T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14803,9 +14806,10 @@
     "The Race": "Bearman's strange Ferrari contract situation explained",
     "Formula 1": "Bearman frustrated by delay in confirming Haas future",
     "Motorsport-Total": "\"Keine Entschuldigung\": Bearman frustriert über fehlenden F1-Vertrag 2027 - Motorsport-Total.com",
-    "Crash.net": "Ollie Bearman “quite disappointed” by “strange” Ferrari contract situation amid Haas F1 2027 delay"
+    "Crash.net": "Ollie Bearman “quite disappointed” by “strange” Ferrari contract situation amid Haas F1 2027 delay",
+    "Motorsport Week": "Oliver Bearman airs ‘disappointment’ with prolonged Haas contract saga"
    },
-   "last": "2026-11-19T05:33:47.744733+00:00"
+   "last": "2026-11-19T06:23:46.054673+00:00"
   },
   "S8751": {
    "title": "Oliwia Pelka hits three-pointer from behind the arc",
@@ -15795,15 +15799,17 @@
    "first": "2026-11-19T04:53:45.287104+00:00",
    "sources": {
     "GPblog": "2026-11-19T04:45:00+00:00",
-    "RacingNews365 NL": "2026-11-19T05:30:00+00:00"
+    "RacingNews365 NL": "2026-11-19T05:30:00+00:00",
+    "RacingNews365": "2026-11-19T06:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Charles Leclerc breaks silence on FIA ban sparked by journalist's jibe",
-    "RacingNews365 NL": "Leclerc reageert op schorsing F1-journalist"
+    "RacingNews365 NL": "Leclerc reageert op schorsing F1-journalist",
+    "RacingNews365": "Charles Leclerc expresses surprise at explosive article which got F1 journalist banned"
    },
-   "last": "2026-11-19T05:33:47.744720+00:00"
+   "last": "2026-11-19T06:23:46.054667+00:00"
   },
   "S8827": {
    "title": "Perez announces he will retire from F1",
@@ -16157,9 +16163,48 @@
     "AS": "Alonso recupera la ilusión"
    },
    "last": "2026-11-19T06:13:51.070042+00:00"
+  },
+  "S8854": {
+   "title": "Russell wants to fight for Las Vegas victory, no new turbo",
+   "first": "2026-11-19T06:23:46.054634+00:00",
+   "sources": {
+    "Formula 1": "2026-11-19T06:23:46.054650+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "'I want to fight for the victory' in Las Vegas – Russell"
+   },
+   "last": "2026-11-19T06:23:46.054653+00:00"
+  },
+  "S8855": {
+   "title": "Celtics vs Nuggets game highlights",
+   "first": "2026-11-19T06:23:46.054657+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T05:43:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Boston Celtics vs. Denver Nuggets: Game Highlights"
+   },
+   "last": "2026-11-19T06:23:46.054662+00:00"
+  },
+  "S8856": {
+   "title": "Leclerc reveals details of meeting with Hamilton and Vasseur",
+   "first": "2026-11-19T06:23:46.054676+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T06:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Leclerc reveals what really happened in private meeting with Hamilton"
+   },
+   "last": "2026-11-19T06:23:46.054679+00:00"
   }
  },
- "story_seq": 8853,
+ "story_seq": 8856,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16278,7 +16323,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T06:13:45.850146+00:00",
+ "last_run": "2026-11-19T06:23:41.353224+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17613,6 +17658,16 @@
    "t": "2026-11-19T06:14:06.095855+00:00",
    "title": "Verstappen, F1'in 2027 biyometrik veri planına sıcak bakmıyor",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-19T06:23:51.261449+00:00",
+   "title": "Leclerc, Hamilton ile özel görüşmede yaşananları anlattı",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-19T06:23:51.821318+00:00",
+   "title": "Russell: Las Vegas'ta zafer için mücadele etmek istiyorum",
+   "source": "Formula 1"
   }
  ]
 }
