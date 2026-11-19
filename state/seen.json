@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f778dbb63db5154e": "2026-11-05T03:52:34.513923+00:00",
   "2da5a7fed8bb98c5": "2026-11-05T04:02:38.680028+00:00",
   "50c50a31f57a4787": "2026-11-05T04:02:38.680028+00:00",
   "db5e860e036ef2dc": "2026-11-05T04:23:09.912206+00:00",
@@ -6607,7 +6606,15 @@
   "59438d365f75e355": "2026-11-19T03:43:44.933461+00:00",
   "fc6bea2c2a4e674e": "2026-11-19T03:43:44.933461+00:00",
   "a12b902d139fc8b4": "2026-11-19T03:43:44.933461+00:00",
-  "22e835e4a003ca5e": "2026-11-19T03:43:44.933461+00:00"
+  "22e835e4a003ca5e": "2026-11-19T03:43:44.933461+00:00",
+  "de3dbb05451c3414": "2026-11-19T03:53:40.075914+00:00",
+  "2ce9d97501ddda20": "2026-11-19T03:53:40.075914+00:00",
+  "911e75d21e41b8d0": "2026-11-19T03:53:40.075914+00:00",
+  "640aa14baaec1a52": "2026-11-19T03:53:40.075914+00:00",
+  "1fe1ee4aebfc02f2": "2026-11-19T03:53:40.075914+00:00",
+  "29f3067789d35615": "2026-11-19T03:53:40.075914+00:00",
+  "c3c987ce3c40b3d9": "2026-11-19T03:53:40.075914+00:00",
+  "6aeb50ee645e8ba2": "2026-11-19T03:53:40.075914+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15408,14 +15415,16 @@
    "title": "Bottas says 2027 Cadillac confirmation gives him peace",
    "first": "2026-11-19T03:22:06.579752+00:00",
    "sources": {
-    "Formula 1": "2026-11-19T03:22:06.579767+00:00"
+    "Formula 1": "2026-11-19T03:22:06.579767+00:00",
+    "RacingNews365": "2026-11-19T03:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "'We can get rid of the noise' – Bottas after future confirmed"
+    "Formula 1": "'We can get rid of the noise' – Bottas after future confirmed",
+    "RacingNews365": "Valtteri Bottas explains Colton Herta 'noise' as Cadillac confirm 2027 F1 driver"
    },
-   "last": "2026-11-19T03:22:06.579771+00:00"
+   "last": "2026-11-19T03:53:45.634434+00:00"
   },
   "S8780": {
    "title": "76ers beat Magic 121-116 in NBA game recap",
@@ -15585,9 +15594,100 @@
     "PlanetF1": "Lance Stroll warns Honda power deficit could make his Las Vegas GP ‘almost dangerous’"
    },
    "last": "2026-11-19T03:43:52.249746+00:00"
+  },
+  "S8793": {
+   "title": "Warriors vs Mavericks game highlights",
+   "first": "2026-11-19T03:53:45.634378+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:32:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Golden State Warriors vs. Dallas Mavericks: Game Highlights"
+   },
+   "last": "2026-11-19T03:53:45.634396+00:00"
+  },
+  "S8794": {
+   "title": "Ace Bailey alley-oop slam highlight",
+   "first": "2026-11-19T03:53:45.634401+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:32:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ace Bailey takes flight for alley-oop slam"
+   },
+   "last": "2026-11-19T03:53:45.634404+00:00"
+  },
+  "S8795": {
+   "title": "Wichita State vs Loyola Chicago game highlights",
+   "first": "2026-11-19T03:53:45.634407+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:27:31+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wichita State Shockers vs. Loyola Chicago Ramblers: Game Highlights"
+   },
+   "last": "2026-11-19T03:53:45.634410+00:00"
+  },
+  "S8796": {
+   "title": "Marvin Bagley III and-1 basket highlight",
+   "first": "2026-11-19T03:53:45.634413+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:27:18+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Marvin Bagley III with the and-1 bucket"
+   },
+   "last": "2026-11-19T03:53:45.634416+00:00"
+  },
+  "S8797": {
+   "title": "Kenrich Williams dunk highlight",
+   "first": "2026-11-19T03:53:45.634417+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:09:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kenrich Williams rocks the rim with dunk"
+   },
+   "last": "2026-11-19T03:53:45.634420+00:00"
+  },
+  "S8798": {
+   "title": "KJ Lamonte basket plus foul highlight",
+   "first": "2026-11-19T03:53:45.634423+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:10:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "KJ Lamonte gets the basket plus the foul"
+   },
+   "last": "2026-11-19T03:53:45.634425+00:00"
+  },
+  "S8799": {
+   "title": "Finley Bizjack reverse layup for West Virginia",
+   "first": "2026-11-19T03:53:45.634427+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:56:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Finley Bizjack makes a sweet reverse layup for West Virginia"
+   },
+   "last": "2026-11-19T03:53:45.634430+00:00"
   }
  },
- "story_seq": 8792,
+ "story_seq": 8799,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15706,7 +15806,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T03:43:44.933461+00:00",
+ "last_run": "2026-11-19T03:53:40.075914+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
