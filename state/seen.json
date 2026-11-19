@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "61b37ed74eab5727": "2026-11-05T02:12:35.411862+00:00",
-  "c798055126252275": "2026-11-05T02:12:35.411862+00:00",
   "fde01a4d21f12891": "2026-11-05T02:22:37.133621+00:00",
   "03c66ba800ee77d7": "2026-11-05T02:22:37.133621+00:00",
   "d2f812e9cd13ab78": "2026-11-05T02:32:33.277192+00:00",
@@ -6586,7 +6584,8 @@
   "3c84da863236fbb8": "2026-11-19T02:12:02.296600+00:00",
   "cc0824c4fffd3699": "2026-11-19T02:12:02.296600+00:00",
   "3829faf9dda0439f": "2026-11-19T02:12:02.296600+00:00",
-  "8bf3e38b1689bd76": "2026-11-19T02:12:02.296600+00:00"
+  "8bf3e38b1689bd76": "2026-11-19T02:12:02.296600+00:00",
+  "891fd07710d38a9b": "2026-11-19T02:22:01.649971+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6793,19 +6792,6 @@
     "ESPN F1": "5-star senior Adan Diggs, top shooting guard in 2027 class, commits to Arizona"
    },
    "last": "2026-11-17T04:39:32.303111+00:00"
-  },
-  "S8121": {
-   "title": "Brooke Murrell gets the basket plus the foul",
-   "first": "2026-11-17T02:18:45.237222+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:57:36+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brooke Murrell gets the basket plus the foul"
-   },
-   "last": "2026-11-17T02:18:45.237242+00:00"
   },
   "S8122": {
    "title": "Bam Adebayo exits Heat-Rockets game with hip tightness",
@@ -15339,9 +15325,22 @@
     "ESPN F1": "Donovan Mitchell gets up for the beautiful flush"
    },
    "last": "2026-11-19T02:12:08.447601+00:00"
+  },
+  "S8761": {
+   "title": "Alonso says Dakar plans were linked to potential F1 retirement",
+   "first": "2026-11-19T02:22:04.452221+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-19T02:19:50+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Fernando Alonso admits Dakar Rally plans were linked to potential F1 retirement"
+   },
+   "last": "2026-11-19T02:22:04.452239+00:00"
   }
  },
- "story_seq": 8760,
+ "story_seq": 8761,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15460,7 +15459,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T02:12:02.296600+00:00",
+ "last_run": "2026-11-19T02:22:01.649971+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -16709,6 +16708,11 @@
   {
    "t": "2026-11-19T01:32:09.408169+00:00",
    "title": "Bearman, Haas sözleşmesindeki gecikmeden rahatsız",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-19T02:22:09.746933+00:00",
+   "title": "Alonso, Dakar planlarının F1 emeklilik ihtimaliyle bağlantılı olduğunu kabul etti",
    "source": "PlanetF1"
   }
  ]
