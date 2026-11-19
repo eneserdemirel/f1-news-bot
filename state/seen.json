@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2ce1f92a85f34764": "2026-11-05T16:25:21.456923+00:00",
-  "20125c56960ae6b9": "2026-11-05T16:25:21.456923+00:00",
-  "1c00fdbd17620f9e": "2026-11-05T16:25:21.456923+00:00",
-  "c3eb7ddfe1e9af69": "2026-11-05T16:25:21.456923+00:00",
-  "feee6fcf24550023": "2026-11-05T16:25:21.456923+00:00",
   "b319d64fe13073bf": "2026-11-05T16:35:22.779663+00:00",
   "243d2f6bc670f6b1": "2026-11-05T16:35:22.779663+00:00",
   "b691bccb2595956d": "2026-11-05T16:45:23.669640+00:00",
@@ -6661,7 +6656,11 @@
   "856455e2956ff174": "2026-11-19T16:20:54.596016+00:00",
   "24afacd7a063ee5c": "2026-11-19T16:20:54.596016+00:00",
   "9d9175f2032aa8a2": "2026-11-19T16:20:54.596016+00:00",
-  "227245c2db9f1d70": "2026-11-19T16:20:54.596016+00:00"
+  "227245c2db9f1d70": "2026-11-19T16:20:54.596016+00:00",
+  "01f579037cb12d70": "2026-11-19T16:30:36.597815+00:00",
+  "b860ac86bc52c434": "2026-11-19T16:30:36.597815+00:00",
+  "f67c2d3e1ecd15b9": "2026-11-19T16:30:36.597815+00:00",
+  "c1bbf08154fbaf72": "2026-11-19T16:30:36.597815+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15285,15 +15284,17 @@
    "first": "2026-11-19T08:33:46.131945+00:00",
    "sources": {
     "Sky Sports F1": "2026-11-19T08:00:00+00:00",
-    "GPblog": "2026-11-19T12:13:00+00:00"
+    "GPblog": "2026-11-19T12:13:00+00:00",
+    "GPFans": "2026-11-19T16:27:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Verstappen trusts F1 chiefs over plan to proceed with Middle East races",
-    "GPblog": "Verstappen 'trusts' F1 to make right call on Middle East season finale"
+    "GPblog": "Verstappen 'trusts' F1 to make right call on Middle East season finale",
+    "GPFans": "Max Verstappen gives 'trust' verdict on F1 travelling to Qatar and Abu Dhabi"
    },
-   "last": "2026-11-19T14:21:09.321613+00:00"
+   "last": "2026-11-19T16:30:39.423891+00:00"
   },
   "S8890": {
    "title": "Antonelli warns Red Bull will be strong in Las Vegas",
@@ -16624,14 +16625,14 @@
    "title": "Stephen A. urges Skattebo to stop backflips (NFL)",
    "first": "2026-11-19T16:20:58.090582+00:00",
    "sources": {
-    "ESPN F1": "2026-11-19T16:16:52+00:00"
+    "ESPN F1": "2026-11-19T16:06:43+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "'Protect yourself': Stephen A. implores Skattebo to end backflips"
    },
-   "last": "2026-11-19T16:20:58.090603+00:00"
+   "last": "2026-11-19T16:30:39.423880+00:00"
   },
   "S8992": {
    "title": "ESPN men's college basketball power rankings update",
@@ -16671,9 +16672,35 @@
     "RacingNews365 NL": "F1 leert van putdekseldrama Las Vegas met aanpassingen aan circuit"
    },
    "last": "2026-11-19T16:20:58.090624+00:00"
+  },
+  "S8995": {
+   "title": "Toby Fournier basketball highlight",
+   "first": "2026-11-19T16:30:39.423851+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T16:11:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Toby Fournier gets the hoop and the harm"
+   },
+   "last": "2026-11-19T16:30:39.423872+00:00"
+  },
+  "S8996": {
+   "title": "NFL fantasy pass catcher trust list",
+   "first": "2026-11-19T16:30:39.423883+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T11:42:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Which of these 15 pass catchers should you trust going forward?"
+   },
+   "last": "2026-11-19T16:30:39.423886+00:00"
   }
  },
- "story_seq": 8994,
+ "story_seq": 8996,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16792,7 +16819,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T16:20:54.596016+00:00",
+ "last_run": "2026-11-19T16:30:36.597815+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
