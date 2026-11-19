@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "806671568ad76e98": "2026-11-05T07:03:15.390390+00:00",
-  "c677826750586554": "2026-11-05T07:03:15.390390+00:00",
-  "b84d2945fcece059": "2026-11-05T07:03:15.390390+00:00",
-  "d88e82730f82fc07": "2026-11-05T07:03:15.390390+00:00",
-  "d6b4adf47669cb82": "2026-11-05T07:03:15.390390+00:00",
-  "5352bfc8ec86f3b3": "2026-11-05T07:03:15.390390+00:00",
   "31d22497120f15cb": "2026-11-05T07:13:09.786215+00:00",
   "420c3191eea8d05c": "2026-11-05T07:13:09.786215+00:00",
   "eafc13c3565c63b2": "2026-11-05T07:13:09.786215+00:00",
@@ -6672,7 +6666,10 @@
   "7ffbac168232d2cf": "2026-11-19T06:53:45.412362+00:00",
   "55e8519c5599b335": "2026-11-19T06:53:45.412362+00:00",
   "58868429a6ee5312": "2026-11-19T06:53:45.412362+00:00",
-  "55532cee5624e388": "2026-11-19T06:53:45.412362+00:00"
+  "55532cee5624e388": "2026-11-19T06:53:45.412362+00:00",
+  "ab9e2ace0e87c2a1": "2026-11-19T07:03:43.190948+00:00",
+  "74f512cc82f220fd": "2026-11-19T07:03:43.190948+00:00",
+  "221cc5841a9ae5d2": "2026-11-19T07:03:43.190948+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6828,19 +6825,6 @@
    },
    "last": "2026-11-17T10:20:19.780399+00:00"
   },
-  "S8122": {
-   "title": "Bam Adebayo exits Heat-Rockets game with hip tightness",
-   "first": "2026-11-17T02:58:49.144022+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T02:49:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Heat star Bam Adebayo exits vs. Rockets early with hip tightness"
-   },
-   "last": "2026-11-17T06:59:31.389211+00:00"
-  },
   "S8148": {
    "title": "Column: Lawson did not fail, Red Bull must understand why",
    "first": "2026-11-17T05:29:36.150775+00:00",
@@ -6898,58 +6882,6 @@
     "Motorsport-Total": "Zak Brown: McLaren war früher \"ein sehr toxisches Umfeld\" - Motorsport-Total.com"
    },
    "last": "2026-11-17T13:00:17.850516+00:00"
-  },
-  "S8160": {
-   "title": "Eben Etzebeth to start for Springboks vs Ireland in Dublin",
-   "first": "2026-11-17T06:59:31.389183+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T06:58:49+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ireland vs South Africa - Eben Etzebeth to start for Springboks in Dublin"
-   },
-   "last": "2026-11-17T06:59:31.389197+00:00"
-  },
-  "S8161": {
-   "title": "Jazz Gardner throws down jam vs. Portland State Vikings",
-   "first": "2026-11-17T06:59:31.389201+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T03:42:04+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jazz Gardner throws down big jam vs. Portland State Vikings"
-   },
-   "last": "2026-11-17T06:59:31.389205+00:00"
-  },
-  "S8162": {
-   "title": "Amijah Price sends the shot away",
-   "first": "2026-11-17T06:59:31.389213+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T02:35:07+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Amijah Price sends the shot away"
-   },
-   "last": "2026-11-17T06:59:31.389217+00:00"
-  },
-  "S8163": {
-   "title": "Day'Ron Sharpe gets the basket plus the foul",
-   "first": "2026-11-17T06:59:31.389218+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:24:44+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Day'Ron Sharpe gets the basket plus the foul"
-   },
-   "last": "2026-11-17T06:59:31.389221+00:00"
   },
   "S8164": {
    "title": "Verstappen chasing missing Las Vegas piece, a preview feature",
@@ -16274,14 +16206,16 @@
    "title": "Hamilton denies lack of trust with Ferrari after overriding pit wall",
    "first": "2026-11-19T06:33:50.451306+00:00",
    "sources": {
-    "Sky Sports F1": "2026-11-19T06:00:00+00:00"
+    "Sky Sports F1": "2026-11-19T06:00:00+00:00",
+    "Crash.net": "2026-11-19T07:01:03+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Sky Sports F1": "Hamilton denies lack of trust with Ferrari after strategy issues"
+    "Sky Sports F1": "Hamilton denies lack of trust with Ferrari after strategy issues",
+    "Crash.net": "Lewis Hamilton denies broken trust with Ferrari despite twice overruling strategy"
    },
-   "last": "2026-11-19T06:33:50.451309+00:00"
+   "last": "2026-11-19T07:03:46.727856+00:00"
   },
   "S8862": {
    "title": "Macau FIA GT free practice 1 results",
@@ -16412,9 +16346,35 @@
     "FormulaPassion": "Verstappen e i V8 dal 2030: “Bene, io vorrei i V10 senza turbo, ma faremmo troppo rumore e dovremmo poter fare rifornimento ai box”"
    },
    "last": "2026-11-19T06:53:50.128653+00:00"
+  },
+  "S8872": {
+   "title": "Piastri reflects on splitting from Webber management team",
+   "first": "2026-11-19T07:03:46.727824+00:00",
+   "sources": {
+    "Formula 1": "2026-11-19T07:03:46.727839+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Piastri opens up on decision to split with management team"
+   },
+   "last": "2026-11-19T07:03:46.727842+00:00"
+  },
+  "S8873": {
+   "title": "Hamilton says Ferrari–Leclerc relationship is clearly defined after Brazil talks",
+   "first": "2026-11-19T07:03:46.727847+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T07:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Hamilton sends firm message over fears of fresh tensions with Leclerc"
+   },
+   "last": "2026-11-19T07:03:46.727851+00:00"
   }
  },
- "story_seq": 8871,
+ "story_seq": 8873,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16533,7 +16493,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T06:53:45.412362+00:00",
+ "last_run": "2026-11-19T07:03:43.190948+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17883,6 +17843,16 @@
    "t": "2026-11-19T06:53:57.467356+00:00",
    "title": "Ocon'un Aston Martin'e üçüncü pilot olarak döneceği iddia ediliyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-19T07:03:51.997974+00:00",
+   "title": "Hamilton, Leclerc ile gerginlik korkularına net bir mesajla yanıt verdi",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-19T07:03:52.547859+00:00",
+   "title": "Piastri, yönetim ekibiyle ayrılma kararını anlattı",
+   "source": "Formula 1"
   }
  ]
 }
