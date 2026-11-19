@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "e235916f8fc1c054": "2026-11-05T06:43:10.258874+00:00",
   "806671568ad76e98": "2026-11-05T07:03:15.390390+00:00",
   "c677826750586554": "2026-11-05T07:03:15.390390+00:00",
   "b84d2945fcece059": "2026-11-05T07:03:15.390390+00:00",
@@ -6660,7 +6659,13 @@
   "e953dec417756a2e": "2026-11-19T06:33:41.180784+00:00",
   "195851f57d80a583": "2026-11-19T06:33:41.180784+00:00",
   "a289c4d239a7e1ab": "2026-11-19T06:33:41.180784+00:00",
-  "1e3cb6f54f550fb7": "2026-11-19T06:33:41.180784+00:00"
+  "1e3cb6f54f550fb7": "2026-11-19T06:33:41.180784+00:00",
+  "14eac1e49fc9d313": "2026-11-19T06:43:41.224712+00:00",
+  "74e55e90c40c0e24": "2026-11-19T06:43:41.224712+00:00",
+  "c07332e4eaf40711": "2026-11-19T06:43:41.224712+00:00",
+  "5708221b45ac43df": "2026-11-19T06:43:41.224712+00:00",
+  "bf7b663b60588152": "2026-11-19T06:43:41.224712+00:00",
+  "668db4390b2a716f": "2026-11-19T06:43:41.224712+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15795,16 +15800,18 @@
    "sources": {
     "GPblog": "2026-11-19T04:45:00+00:00",
     "RacingNews365 NL": "2026-11-19T05:30:00+00:00",
-    "RacingNews365": "2026-11-19T06:20:00+00:00"
+    "RacingNews365": "2026-11-19T06:20:00+00:00",
+    "Crash.net": "2026-11-19T06:34:24+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPblog": "Charles Leclerc breaks silence on FIA ban sparked by journalist's jibe",
     "RacingNews365 NL": "Leclerc reageert op schorsing F1-journalist",
-    "RacingNews365": "Charles Leclerc expresses surprise at explosive article which got F1 journalist banned"
+    "RacingNews365": "Charles Leclerc expresses surprise at explosive article which got F1 journalist banned",
+    "Crash.net": "Charles Leclerc speaks out on F1 journalist ban controversy after article criticism"
    },
-   "last": "2026-11-19T06:23:46.054667+00:00"
+   "last": "2026-11-19T06:43:47.047126+00:00"
   },
   "S8827": {
    "title": "Perez announces he will retire from F1",
@@ -16085,14 +16092,16 @@
    "title": "Verstappen opposes F1's 2027 biometric data broadcast plan",
    "first": "2026-11-19T06:13:51.070014+00:00",
    "sources": {
-    "The Race": "2026-11-19T06:13:10+00:00"
+    "The Race": "2026-11-19T06:13:10+00:00",
+    "Motorsport-Total": "2026-11-19T06:39:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Verstappen isn't a fan of F1's 2027 biometric data plan"
+    "The Race": "Verstappen isn't a fan of F1's 2027 biometric data plan",
+    "Motorsport-Total": "F1 will Live-Herzfrequenz im TV zeigen, Verstappen lehnt schon ab - Motorsport-Total.com"
    },
-   "last": "2026-11-19T06:13:51.070018+00:00"
+   "last": "2026-11-19T06:43:47.047135+00:00"
   },
   "S8849": {
    "title": "Ecclestone urges Ferrari to re-sign Sainz",
@@ -16314,9 +16323,48 @@
     "GPFans": "George Russell to miss out on Mercedes upgrade as Oscar Piastri takes major grid penalty - F1 News Today"
    },
    "last": "2026-11-19T06:33:50.451326+00:00"
+  },
+  "S8866": {
+   "title": "Mammoth 4-1 Avalanche NHL game recap",
+   "first": "2026-11-19T06:43:47.047091+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T06:01:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mammoth 4-1 Avalanche (19 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-19T06:43:47.047115+00:00"
+  },
+  "S8867": {
+   "title": "Wales defeat and All Blacks outlook analysis",
+   "first": "2026-11-19T06:43:47.047118+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T06:01:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "How Wales defeat has shifted All Blacks' outlook, Dave Rennie's rebuild"
+   },
+   "last": "2026-11-19T06:43:47.047122+00:00"
+  },
+  "S8868": {
+   "title": "Antonelli preview of mission for tenth win",
+   "first": "2026-11-19T06:43:47.047128+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-19T06:35:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Kimi e la nuova missione: la rimontona per conquistare la decima vittoria"
+   },
+   "last": "2026-11-19T06:43:47.047131+00:00"
   }
  },
- "story_seq": 8865,
+ "story_seq": 8868,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16435,7 +16483,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T06:33:41.180784+00:00",
+ "last_run": "2026-11-19T06:43:41.224712+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17770,6 +17818,11 @@
    "t": "2026-11-19T06:33:59.940213+00:00",
    "title": "Verstappen, Las Vegas'ta büyük bir F1 zorluğuna dikkat çekti",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-19T06:43:49.970343+00:00",
+   "title": "Kimi Antonelli'nin yeni hedefi: On. zaferi kovalamak",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
