@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6950b8a757abb830": "2026-11-05T00:32:33.940756+00:00",
-  "81db886dd2878554": "2026-11-05T00:32:33.940756+00:00",
-  "70dcda840b908dbe": "2026-11-05T00:32:33.940756+00:00",
-  "5a9af9603f069e2e": "2026-11-05T00:32:33.940756+00:00",
   "289262f6213d5dd1": "2026-11-05T01:12:33.940489+00:00",
   "7d6bea032237576e": "2026-11-05T01:22:38.218403+00:00",
   "d7ffd21390706d2f": "2026-11-05T01:32:34.083595+00:00",
@@ -6561,7 +6557,10 @@
   "f392703753a7bc0b": "2026-11-19T00:12:03.873503+00:00",
   "40f368b27e6ec38c": "2026-11-19T00:22:02.082186+00:00",
   "33e3ef951bf7898d": "2026-11-19T00:22:02.082186+00:00",
-  "11b548ed79e40f5e": "2026-11-19T00:32:04.432930+00:00"
+  "11b548ed79e40f5e": "2026-11-19T00:32:04.432930+00:00",
+  "ce219f1f5938559f": "2026-11-19T00:42:05.836843+00:00",
+  "8afc7a488879e23d": "2026-11-19T00:42:05.836843+00:00",
+  "9a9f73bc1c69f585": "2026-11-19T00:42:05.836843+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6742,45 +6741,6 @@
     "ESPN F1": "What does the future hold for the WTA Finals?"
    },
    "last": "2026-11-17T02:38:46.249097+00:00"
-  },
-  "S8096": {
-   "title": "Kailyn Gilbert on Texas A&M's mentality shift vs. Lamar",
-   "first": "2026-11-17T00:38:47.654966+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T00:17:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kailyn Gilbert on Texas A&M's mentality shift in win vs. Lamar"
-   },
-   "last": "2026-11-17T00:38:47.654982+00:00"
-  },
-  "S8097": {
-   "title": "Analysis of teams still in contention as CFP selection nears",
-   "first": "2026-11-17T00:38:47.654987+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T00:04:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Analyzing who's still 'stayin' alive' as CFP selection nears"
-   },
-   "last": "2026-11-17T00:38:47.654992+00:00"
-  },
-  "S8098": {
-   "title": "Calvin Sirmans gets the basket plus the foul",
-   "first": "2026-11-17T00:38:47.654995+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T00:02:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Calvin Sirmans gets the basket plus the foul"
-   },
-   "last": "2026-11-17T00:38:47.654998+00:00"
   },
   "S8099": {
    "title": "Kareem Stagg basketball play, not Formula 1 news",
@@ -15206,9 +15166,48 @@
     "ESPN F1": "Saniya Jackson gets the basket plus the foul"
    },
    "last": "2026-11-19T00:32:05.891638+00:00"
+  },
+  "S8730": {
+   "title": "Hannah Kohn gets and-one basket plus the foul",
+   "first": "2026-11-19T00:42:07.908040+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:30:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hannah Kohn gets the basket plus the foul"
+   },
+   "last": "2026-11-19T00:42:07.908060+00:00"
+  },
+  "S8731": {
+   "title": "Cedric Taylor III gets hoop and foul",
+   "first": "2026-11-19T00:42:07.908066+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:30:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cedric Taylor III gets the hoop and the harm"
+   },
+   "last": "2026-11-19T00:42:07.908070+00:00"
+  },
+  "S8732": {
+   "title": "Cutter Sisk gets hoop and foul",
+   "first": "2026-11-19T00:42:07.908073+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:14:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cutter Sisk gets the hoop and the harm"
+   },
+   "last": "2026-11-19T00:42:07.908076+00:00"
   }
  },
- "story_seq": 8729,
+ "story_seq": 8732,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15327,7 +15326,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T00:32:04.432930+00:00",
+ "last_run": "2026-11-19T00:42:05.836843+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
