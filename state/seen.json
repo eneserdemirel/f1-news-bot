@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1d9c5cbbf21f1b47": "2026-11-05T04:33:10.318503+00:00",
-  "6d4b03a56ec36730": "2026-11-05T04:33:10.318503+00:00",
   "4b2bdf8f42977e19": "2026-11-05T04:43:11.117224+00:00",
   "836046d169409f5d": "2026-11-05T04:43:11.117224+00:00",
   "41833b7651022c14": "2026-11-05T04:43:11.117224+00:00",
@@ -6628,7 +6626,15 @@
   "081d542aa3a20317": "2026-11-19T04:13:40.681564+00:00",
   "a09a68dea91dbde5": "2026-11-19T04:13:40.681564+00:00",
   "bc6a284735d78585": "2026-11-19T04:23:43.534940+00:00",
-  "32ad0a5978e29982": "2026-11-19T04:23:43.534940+00:00"
+  "32ad0a5978e29982": "2026-11-19T04:23:43.534940+00:00",
+  "a5d0e533803fa29c": "2026-11-19T04:33:39.857715+00:00",
+  "9527456ee5d53aa9": "2026-11-19T04:33:39.857715+00:00",
+  "7f8dd130511193f0": "2026-11-19T04:33:39.857715+00:00",
+  "7810999439de56de": "2026-11-19T04:33:39.857715+00:00",
+  "83d4ed9677777f4d": "2026-11-19T04:33:39.857715+00:00",
+  "736b74798f5be44a": "2026-11-19T04:33:39.857715+00:00",
+  "b76cb1353ab46eb9": "2026-11-19T04:33:39.857715+00:00",
+  "2c6a3c17db681eff": "2026-11-19T04:33:39.857715+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6809,19 +6815,6 @@
     "ESPN F1": "Heat star Bam Adebayo exits vs. Rockets early with hip tightness"
    },
    "last": "2026-11-17T06:59:31.389211+00:00"
-  },
-  "S8142": {
-   "title": "MiLaysia Fulwiley absent from LSU's first game after arrest",
-   "first": "2026-11-17T04:29:29.618576+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T03:01:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "MiLaysia Fulwiley not with LSU for Tigers' first game after arrest"
-   },
-   "last": "2026-11-17T04:29:29.618616+00:00"
   },
   "S8143": {
    "title": "Lakers rule Austin Reaves and Walker Kessler out vs. Hornets",
@@ -15755,9 +15748,100 @@
     "ESPN F1": "Luka Doncic with the and-1 bucket"
    },
    "last": "2026-11-19T04:23:44.773029+00:00"
+  },
+  "S8812": {
+   "title": "Lawson and Lindblad react to 2027 Racing Bulls confirmation",
+   "first": "2026-11-19T04:33:43.344770+00:00",
+   "sources": {
+    "Formula 1": "2026-11-19T04:33:43.344785+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Lawson and Lindblad react to being confirmed for 2027"
+   },
+   "last": "2026-11-19T04:33:43.344788+00:00"
+  },
+  "S8813": {
+   "title": "Pistons 122-109 Pelicans NBA game recap",
+   "first": "2026-11-19T04:33:43.344793+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T04:09:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pistons 122-109 Pelicans (Nov 18, 2026) Game Recap"
+   },
+   "last": "2026-11-19T04:33:43.344796+00:00"
+  },
+  "S8814": {
+   "title": "Grizzlies 124-121 Cavaliers NBA game recap",
+   "first": "2026-11-19T04:33:43.344799+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:10:29+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grizzlies 124-121 Cavaliers (Nov 18, 2026) Game Recap"
+   },
+   "last": "2026-11-19T04:33:43.344803+00:00"
+  },
+  "S8815": {
+   "title": "College football game odds and spreads",
+   "first": "2026-11-19T04:33:43.344805+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:07:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "College Football Game Odds with Spread, Moneyline, and More"
+   },
+   "last": "2026-11-19T04:33:43.344807+00:00"
+  },
+  "S8816": {
+   "title": "Fairleigh Dickinson 78-66 NJIT college basketball final",
+   "first": "2026-11-19T04:33:43.344809+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:33:46+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fairleigh Dickinson 78-66 NJIT (Nov 18, 2026) Final Score"
+   },
+   "last": "2026-11-19T04:33:43.344818+00:00"
+  },
+  "S8817": {
+   "title": "Ohio 91-77 Morehead State college basketball final",
+   "first": "2026-11-19T04:33:43.344820+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:27:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ohio 91-77 Morehead State (Nov 18, 2026) Final Score"
+   },
+   "last": "2026-11-19T04:33:43.344822+00:00"
+  },
+  "S8818": {
+   "title": "Penn State 81-74 IU Indianapolis college basketball final",
+   "first": "2026-11-19T04:33:43.344824+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:00:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Penn State 81-74 IU Indianapolis (Nov 18, 2026) Final Score"
+   },
+   "last": "2026-11-19T04:33:43.344827+00:00"
   }
  },
- "story_seq": 8811,
+ "story_seq": 8818,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15876,7 +15960,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T04:23:43.534940+00:00",
+ "last_run": "2026-11-19T04:33:39.857715+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17161,6 +17245,11 @@
    "t": "2026-11-19T04:03:54.584153+00:00",
    "title": "Liam Lawson, Racing Bulls ile 2027 sözleşmesi gecikmesi sonrası konuştu",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-19T04:33:48.808497+00:00",
+   "title": "Lawson ve Lindblad, 2027'de Racing Bulls'ta kalacaklarını açıkladı",
+   "source": "Formula 1"
   }
  ]
 }
