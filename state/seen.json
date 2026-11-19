@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "fde01a4d21f12891": "2026-11-05T02:22:37.133621+00:00",
-  "03c66ba800ee77d7": "2026-11-05T02:22:37.133621+00:00",
   "d2f812e9cd13ab78": "2026-11-05T02:32:33.277192+00:00",
   "afdb2672b575846a": "2026-11-05T02:32:33.277192+00:00",
   "9ecb32de05a56bf3": "2026-11-05T02:42:35.832528+00:00",
@@ -6585,7 +6583,10 @@
   "cc0824c4fffd3699": "2026-11-19T02:12:02.296600+00:00",
   "3829faf9dda0439f": "2026-11-19T02:12:02.296600+00:00",
   "8bf3e38b1689bd76": "2026-11-19T02:12:02.296600+00:00",
-  "891fd07710d38a9b": "2026-11-19T02:22:01.649971+00:00"
+  "891fd07710d38a9b": "2026-11-19T02:22:01.649971+00:00",
+  "e74ac1e6bcdba54a": "2026-11-19T02:32:07.695841+00:00",
+  "53ae3b51dabf97b5": "2026-11-19T02:32:07.695841+00:00",
+  "d857f62baba9fb9d": "2026-11-19T02:32:07.695841+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15338,9 +15339,48 @@
     "PlanetF1": "Fernando Alonso admits Dakar Rally plans were linked to potential F1 retirement"
    },
    "last": "2026-11-19T02:22:04.452239+00:00"
+  },
+  "S8762": {
+   "title": "VMI Keydets vs. Longwood Lancers game highlights",
+   "first": "2026-11-19T02:32:09.686271+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:24:30+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "VMI Keydets vs. Longwood Lancers: Game Highlights"
+   },
+   "last": "2026-11-19T02:32:09.686302+00:00"
+  },
+  "S8763": {
+   "title": "Pennsylvania Quakers vs. Saint Joseph's Hawks game highlights",
+   "first": "2026-11-19T02:32:09.686307+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:08:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Pennsylvania Quakers vs. Saint Joseph's Hawks: Game Highlights"
+   },
+   "last": "2026-11-19T02:32:09.686312+00:00"
+  },
+  "S8764": {
+   "title": "South Carolina QB LaNorris Sellers set to play vs. Georgia",
+   "first": "2026-11-19T02:32:09.686315+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:40:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "South Carolina star QB LaNorris Sellers set to play vs. No. 1 Georgia"
+   },
+   "last": "2026-11-19T02:32:09.686319+00:00"
   }
  },
- "story_seq": 8761,
+ "story_seq": 8764,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15459,7 +15499,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T02:22:01.649971+00:00",
+ "last_run": "2026-11-19T02:32:07.695841+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
