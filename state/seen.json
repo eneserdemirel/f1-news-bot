@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5b4ac1b6d34bbbce": "2026-11-05T16:05:25.338789+00:00",
-  "5036fd3e338f232f": "2026-11-05T16:05:25.338789+00:00",
-  "a33d797b8f44079e": "2026-11-05T16:05:25.338789+00:00",
-  "775c3f3d0c8ea942": "2026-11-05T16:05:25.338789+00:00",
-  "12c0ffbabfa7ef35": "2026-11-05T16:05:25.338789+00:00",
   "2d4227b7ac600757": "2026-11-05T16:15:21.453117+00:00",
   "82572c23553683de": "2026-11-05T16:15:21.453117+00:00",
   "e2af78e3a300558e": "2026-11-05T16:15:21.453117+00:00",
@@ -6658,7 +6653,15 @@
   "4d4a6deed6e12f71": "2026-11-19T15:40:37.346271+00:00",
   "aa89b4cba68ccf8f": "2026-11-19T15:40:37.346271+00:00",
   "557f6002f65453b9": "2026-11-19T15:50:35.595572+00:00",
-  "8b835683b4539644": "2026-11-19T16:00:38.448268+00:00"
+  "8b835683b4539644": "2026-11-19T16:00:38.448268+00:00",
+  "b9b7fc8dc14aa846": "2026-11-19T16:10:37.515391+00:00",
+  "b8152001fb8f2fa1": "2026-11-19T16:10:37.515391+00:00",
+  "1ef0e14d88612050": "2026-11-19T16:10:37.515391+00:00",
+  "6dc78e9fe97c99e7": "2026-11-19T16:10:37.515391+00:00",
+  "3baf9a41f4ff74b6": "2026-11-19T16:10:37.515391+00:00",
+  "116dbf370ed2ac91": "2026-11-19T16:10:37.515391+00:00",
+  "d2b9205db822df60": "2026-11-19T16:10:37.515391+00:00",
+  "94c2a6715873ea6e": "2026-11-19T16:10:37.515391+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6728,19 +6731,6 @@
     "RacingNews365 NL": "Verstappen laat zich niet opjagen door Antonelli: \"Houd ik me niet mee bezig\""
    },
    "last": "2026-11-17T16:50:54.395091+00:00"
-  },
-  "S8186": {
-   "title": "Jaylen Brown and Embiid lead 76ers past Nets",
-   "first": "2026-11-17T08:49:33.123109+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T03:39:26+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jaylen Brown banged up but combines with Joel Embiid to lead 76ers past Nets"
-   },
-   "last": "2026-11-17T16:10:53.933380+00:00"
   },
   "S8187": {
    "title": "Hamilton hits back at older drivers over young criticism",
@@ -6866,21 +6856,6 @@
    },
    "last": "2026-11-17T19:00:57.797620+00:00"
   },
-  "S8213": {
-   "title": "Ecclestone blames Ferrari's Italian politics for title failure",
-   "first": "2026-11-17T11:10:17.062437+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-17T11:00:00+00:00",
-    "AS": "2026-11-17T15:44:39+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Bernie Ecclestone criticises Ferrari's Italian 'politics' over latest title failure",
-    "AS": "Ecclestone atiza a Ferrari: “Demasiados italianos”"
-   },
-   "last": "2026-11-17T16:00:58.033396+00:00"
-  },
   "S8217": {
    "title": "Motorsport-Total says Vasseur is 'simply overwhelmed' at Ferrari",
    "first": "2026-11-17T11:30:15.579310+00:00",
@@ -6929,19 +6904,6 @@
    },
    "last": "2026-11-17T17:50:53.437464+00:00"
   },
-  "S8223": {
-   "title": "College Football Playoff bubble ahead of committee ranking",
-   "first": "2026-11-17T12:30:14.526147+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T12:00:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Who's on College Football Playoff bubble ahead of committee's third ranking?"
-   },
-   "last": "2026-11-17T16:00:58.033378+00:00"
-  },
   "S8232": {
    "title": "Verstappen responds to viral Red Bull radio message in Brazil",
    "first": "2026-11-17T13:00:17.850503+00:00",
@@ -6970,58 +6932,6 @@
    },
    "last": "2026-11-17T17:40:53.444053+00:00"
   },
-  "S8264": {
-   "title": "North Carolina guard Neo Avdalas out about two months with wrist injury",
-   "first": "2026-11-17T15:50:51.645545+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T15:37:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "North Carolina guard Neo Avdalas (wrist) out about 2 months"
-   },
-   "last": "2026-11-17T16:00:58.033355+00:00"
-  },
-  "S8265": {
-   "title": "Wayne Rooney reveals he contemplated suicide during Man United career",
-   "first": "2026-11-17T16:00:58.033366+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T13:31:39+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wayne Rooney reveals he contemplated suicide at height of Man United career"
-   },
-   "last": "2026-11-17T16:00:58.033372+00:00"
-  },
-  "S8266": {
-   "title": "Feature on the Sphere's role in the Las Vegas GP",
-   "first": "2026-11-17T16:10:53.933354+00:00",
-   "sources": {
-    "Formula 1": "2026-11-17T16:10:53.933369+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "How the Sphere became the heart of the Las Vegas GP"
-   },
-   "last": "2026-11-17T16:10:53.933372+00:00"
-  },
-  "S8267": {
-   "title": "Valvoline and Aston Martin partner on mechanic training",
-   "first": "2026-11-17T16:10:53.933384+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-17T16:00:19+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "Ispirare la prossima generazione di meccanici"
-   },
-   "last": "2026-11-17T16:10:53.933390+00:00"
-  },
   "S8268": {
    "title": "FIA and manufacturers agree in principle on 2030 V8 engines",
    "first": "2026-11-17T16:10:53.933393+00:00",
@@ -7044,19 +6954,6 @@
     "FormulaPassion": "I motori V8 tornano nel 2030! Raggiunto accordo di massima tra FIA, FOM e motoristi"
    },
    "last": "2026-11-17T20:21:32.143809+00:00"
-  },
-  "S8269": {
-   "title": "Analysis of what Cadillac risks by signing Colton Herta",
-   "first": "2026-11-17T16:10:53.933407+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-17T16:05:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Was hat Cadillac zu verlieren, wenn man Colton Herta verpflichtet? - Motorsport-Total.com"
-   },
-   "last": "2026-11-17T16:10:53.933410+00:00"
   },
   "S8270": {
    "title": "Stephen A. voices concerns about Patriots and Mike Vrabel",
@@ -13824,7 +13721,8 @@
     "Motorsport-Total": "2026-11-19T07:09:20+00:00",
     "Crash.net": "2026-11-19T11:19:59+00:00",
     "RacingNews365 NL": "2026-11-19T12:50:00+00:00",
-    "FormulaPassion": "2026-11-19T13:29:18+00:00"
+    "FormulaPassion": "2026-11-19T13:29:18+00:00",
+    "Motorsport Week": "2026-11-19T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13833,9 +13731,10 @@
     "Motorsport-Total": "Helmut Marko wollte anderen Fahrer: So reagiert Lawson auf seine F1-Zukunft - Motorsport-Total.com",
     "Crash.net": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat",
     "RacingNews365 NL": "Lawson reageert op uitspraken Marko: \"Blij dat hij weg is\"",
-    "FormulaPassion": "Lawson dopo la riconferma: “Sono grato che non sia più Marko a prendere le decisioni”"
+    "FormulaPassion": "Lawson dopo la riconferma: “Sono grato che non sia più Marko a prendere le decisioni”",
+    "Motorsport Week": "Liam Lawson responds to Helmut Marko: ‘I am grateful that he is not calling the shots’"
    },
-   "last": "2026-11-19T13:40:38.124235+00:00"
+   "last": "2026-11-19T16:10:47.528722+00:00"
   },
   "S8779": {
    "title": "Bottas says 2027 Cadillac confirmation gives him peace",
@@ -16634,17 +16533,95 @@
    "title": "USMNT fringe players may benefit from Pochettino's exit",
    "first": "2026-11-19T15:50:36.980045+00:00",
    "sources": {
-    "ESPN F1": "2026-11-19T15:49:21+00:00"
+    "ESPN F1": "2026-11-19T15:36:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Which USMNT fringe players stand to benefit from Mauricio Pochettino's exit?"
    },
-   "last": "2026-11-19T15:50:36.980066+00:00"
+   "last": "2026-11-19T16:10:47.528709+00:00"
+  },
+  "S8985": {
+   "title": "UEFA pressures FIFA over World Cup sell-off plan documents",
+   "first": "2026-11-19T16:10:47.528681+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T15:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UEFA pressures FIFA for World Cup sell-off plan documents"
+   },
+   "last": "2026-11-19T16:10:47.528702+00:00"
+  },
+  "S8986": {
+   "title": "Komatsu comments on Bearman's unsigned Haas contract",
+   "first": "2026-11-19T16:10:47.528713+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-19T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Haas respond to Oliver Bearman contract frustrations with unwavering stance"
+   },
+   "last": "2026-11-19T16:10:47.528717+00:00"
+  },
+  "S8987": {
+   "title": "Leclerc calls Mexico five-second penalty harsh after Lawson move",
+   "first": "2026-11-19T16:10:47.528725+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-19T16:01:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Charles Leclerc addresses ‘harsh’ FIA punishment after ‘F2’ move on Liam Lawson"
+   },
+   "last": "2026-11-19T16:10:47.528728+00:00"
+  },
+  "S8988": {
+   "title": "Vegas new F1 rules challenge Verstappen and rivals on battery and tyres",
+   "first": "2026-11-19T16:10:47.528730+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T16:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen and rivals face a tough challenge under the new F1 rules in Vegas"
+   },
+   "last": "2026-11-19T16:10:47.528733+00:00"
+  },
+  "S8989": {
+   "title": "Leclerc says Hamilton tensions were blown out of proportion",
+   "first": "2026-11-19T16:10:47.528735+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-19T16:08:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Dallo screzio alla confessione, Leclerc su Hamilton: \"Non andiamo sempre d'accordo ma è stato ingigantito tutto\""
+   },
+   "last": "2026-11-19T16:10:47.528738+00:00"
+  },
+  "S8990": {
+   "title": "Leclerc says he already wore fitness tracker in car",
+   "first": "2026-11-19T16:10:47.528740+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-19T16:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Leclerc verrät: Habe den Fitness-Tracker schon im Auto getragen - Motorsport-Total.com"
+   },
+   "last": "2026-11-19T16:10:47.528743+00:00"
   }
  },
- "story_seq": 8984,
+ "story_seq": 8990,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16763,7 +16740,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T16:00:38.448268+00:00",
+ "last_run": "2026-11-19T16:10:37.515391+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
@@ -18183,6 +18160,21 @@
    "t": "2026-11-19T15:20:46.671056+00:00",
    "title": "Hamilton, Las Vegas'ta F1 filminin ikinci bölümünün çalışıldığını açıkladı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-19T16:10:55.226016+00:00",
+   "title": "Haas, Oliver Bearman'ın sözleşme sürecinde kararlı duruşunu koruyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-19T16:10:55.677937+00:00",
+   "title": "Leclerc: Fitness takip cihazını arabada zaten takıyordum",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-19T16:10:58.407244+00:00",
+   "title": "Leclerc, Lawson'a yapılan hamle sonrası FIA cezasını 'sert' buldu",
+   "source": "PlanetF1"
   }
  ]
 }
