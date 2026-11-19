@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b691bccb2595956d": "2026-11-05T16:45:23.669640+00:00",
-  "4b92996a857a9e17": "2026-11-05T16:45:23.669640+00:00",
-  "aa9b86809c7e8f04": "2026-11-05T16:45:23.669640+00:00",
-  "89d99a39923d1b0b": "2026-11-05T16:45:23.669640+00:00",
-  "2632f71633588bea": "2026-11-05T16:45:23.669640+00:00",
-  "99246c3b6683f1e4": "2026-11-05T16:45:23.669640+00:00",
-  "bfbbdc3dcae494a3": "2026-11-05T16:45:23.669640+00:00",
   "82e697b2e2b8062a": "2026-11-05T16:55:20.986501+00:00",
   "67b4dcd5e0fc542c": "2026-11-05T16:55:20.986501+00:00",
   "1f42204db4075fcf": "2026-11-05T16:55:20.986501+00:00",
@@ -6659,7 +6652,9 @@
   "b860ac86bc52c434": "2026-11-19T16:30:36.597815+00:00",
   "f67c2d3e1ecd15b9": "2026-11-19T16:30:36.597815+00:00",
   "c1bbf08154fbaf72": "2026-11-19T16:30:36.597815+00:00",
-  "87fe64281bdd6c68": "2026-11-19T16:40:36.910219+00:00"
+  "87fe64281bdd6c68": "2026-11-19T16:40:36.910219+00:00",
+  "19055cbfe918fd56": "2026-11-19T16:50:37.576022+00:00",
+  "907cf832a8daf6e2": "2026-11-19T16:50:37.576022+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6797,25 +6792,6 @@
    },
    "last": "2026-11-17T20:31:30.647233+00:00"
   },
-  "S8199": {
-   "title": "Ecclestone tells Hamilton to think about quitting F1",
-   "first": "2026-11-17T10:00:15.271368+00:00",
-   "sources": {
-    "Crash.net": "2026-11-17T09:56:59+00:00",
-    "Gazzetta dello Sport": "2026-11-17T10:59:50+00:00",
-    "Motorsport Week": "2026-11-17T15:00:00+00:00",
-    "GPblog": "2026-11-17T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Crash.net": "Lewis Hamilton told to “think about quitting” F1 by Bernie Ecclestone",
-    "Gazzetta dello Sport": "Ciclone Ecclestone: \"Hamilton piange e si lamenta sempre: deve pensare al ritiro. E la Ferrari...\"",
-    "Motorsport Week": "Bernie Ecclestone urges Lewis Hamilton ‘to think about quitting’ F1",
-    "GPblog": "Ecclestone takes aim at 'whining' Hamilton with ruthless F1 retirement dig"
-   },
-   "last": "2026-11-17T16:40:55.888170+00:00"
-  },
   "S8206": {
    "title": "Tanzania vs Nigeria: Will Arokodare start in Zanzibar?",
    "first": "2026-11-17T10:30:20.291401+00:00",
@@ -6902,21 +6878,6 @@
    },
    "last": "2026-11-17T17:50:53.437464+00:00"
   },
-  "S8232": {
-   "title": "Verstappen responds to viral Red Bull radio message in Brazil",
-   "first": "2026-11-17T13:00:17.850503+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-17T12:50:00+00:00",
-    "Motorsport Week": "2026-11-17T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen response to hilarious Red Bull radio: 'He doesn't speak English'",
-    "Motorsport Week": "Max Verstappen delivers hilarious Red Bull engine jibe"
-   },
-   "last": "2026-11-17T16:40:55.888165+00:00"
-  },
   "S8234": {
    "title": "France FA boss Diallo bids to challenge Infantino for FIFA presidency",
    "first": "2026-11-17T13:20:16.744143+00:00",
@@ -6952,32 +6913,6 @@
     "FormulaPassion": "I motori V8 tornano nel 2030! Raggiunto accordo di massima tra FIA, FOM e motoristi"
    },
    "last": "2026-11-17T20:21:32.143809+00:00"
-  },
-  "S8273": {
-   "title": "Steven Solano basketball dunk highlight",
-   "first": "2026-11-17T16:40:55.888133+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T16:23:42+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Steven Solano gets up for the beautiful jam"
-   },
-   "last": "2026-11-17T16:40:55.888150+00:00"
-  },
-  "S8274": {
-   "title": "Russell reveals plan to topple Antonelli",
-   "first": "2026-11-17T16:40:55.888155+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-17T16:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell delivers insight into plan to topple Kimi Antonelli"
-   },
-   "last": "2026-11-17T16:40:55.888160+00:00"
   },
   "S8275": {
    "title": "Betting-based preview of Las Vegas qualifying favourites",
@@ -16013,14 +15948,16 @@
    "title": "Norris teases new podium celebration after Brazil mishap",
    "first": "2026-11-19T13:00:43.814097+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-19T12:48:45+00:00"
+    "FormulaPassion": "2026-11-19T12:48:45+00:00",
+    "GPblog": "2026-11-19T16:47:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Norris e i festeggiamenti pericolosi: “Cambiare esultanza? Lo scoprirete quando vincerò la prossima gara”"
+    "FormulaPassion": "Norris e i festeggiamenti pericolosi: “Cambiare esultanza? Lo scoprirete quando vincerò la prossima gara”",
+    "GPblog": "Norris gives cryptic answer on P1 celebration after scary Brazil incident"
    },
-   "last": "2026-11-19T13:00:43.814100+00:00"
+   "last": "2026-11-19T16:50:40.088156+00:00"
   },
   "S8948": {
    "title": "F1 paddock reacts to GTA VI, two drivers unfazed",
@@ -16658,9 +16595,22 @@
     "ESPN F1": "Which of these 15 pass catchers should you trust going forward?"
    },
    "last": "2026-11-19T16:30:39.423886+00:00"
+  },
+  "S8997": {
+   "title": "Mayweather felony charges over $200K check dismissed",
+   "first": "2026-11-19T16:50:40.088128+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T16:31:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Felony charges against Floyd Mayweather Jr. over bad $200K check dismissed"
+   },
+   "last": "2026-11-19T16:50:40.088150+00:00"
   }
  },
- "story_seq": 8996,
+ "story_seq": 8997,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16779,7 +16729,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T16:40:36.910219+00:00",
+ "last_run": "2026-11-19T16:50:37.576022+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
