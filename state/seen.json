@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "464af9afdda4e7f3": "2026-11-05T05:03:11.142070+00:00",
-  "066bb243f2277251": "2026-11-05T05:03:11.142070+00:00",
   "0b2c855f8769b1c0": "2026-11-05T05:13:10.005664+00:00",
   "5b65076d1f9c470e": "2026-11-05T05:13:10.005664+00:00",
   "120505d06e55ca21": "2026-11-05T05:23:10.373875+00:00",
@@ -6637,7 +6635,10 @@
   "2a4bd4207d826e62": "2026-11-19T04:53:40.821287+00:00",
   "54a29f4b5a78b076": "2026-11-19T04:53:40.821287+00:00",
   "18c34d0adc4d27d6": "2026-11-19T04:53:40.821287+00:00",
-  "c7c3d4dd6eef9504": "2026-11-19T04:53:40.821287+00:00"
+  "c7c3d4dd6eef9504": "2026-11-19T04:53:40.821287+00:00",
+  "2eac336087d51b85": "2026-11-19T05:03:44.205840+00:00",
+  "15804b70fe47828b": "2026-11-19T05:03:44.205840+00:00",
+  "8d1adb50868c4712": "2026-11-19T05:03:44.205840+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6805,19 +6806,6 @@
     "ESPN F1": "Heat star Bam Adebayo exits vs. Rockets early with hip tightness"
    },
    "last": "2026-11-17T06:59:31.389211+00:00"
-  },
-  "S8147": {
-   "title": "Canada 4-1 Guatemala match player stats",
-   "first": "2026-11-17T04:59:30.853498+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T02:00:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canada 4-1 Guatemala (Nov 16, 2026) Player Stats"
-   },
-   "last": "2026-11-17T04:59:30.853516+00:00"
   },
   "S8148": {
    "title": "Column: Lawson did not fail, Red Bull must understand why",
@@ -15896,9 +15884,48 @@
     "Motorsport-Total": "\"Werde V8-Antriebe nicht mehr erleben\": Sergio Perez kündigt F1-Rücktritt an - Motorsport-Total.com"
    },
    "last": "2026-11-19T04:53:45.287112+00:00"
+  },
+  "S8828": {
+   "title": "Utah Tech vs Cal State Bakersfield basketball highlights",
+   "first": "2026-11-19T05:03:46.982927+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T05:00:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Utah Tech Trailblazers vs. Cal State Bakersfield Roadrunners: Game Highlights"
+   },
+   "last": "2026-11-19T05:03:46.982948+00:00"
+  },
+  "S8829": {
+   "title": "Adam Olsen corner three for Auburn",
+   "first": "2026-11-19T05:03:46.982952+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T04:53:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Adam Olsen nets a corner 3 for Auburn"
+   },
+   "last": "2026-11-19T05:03:46.982957+00:00"
+  },
+  "S8830": {
+   "title": "Sainz hopes Williams can score points in Las Vegas",
+   "first": "2026-11-19T05:03:46.982960+00:00",
+   "sources": {
+    "AS": "2026-11-19T04:43:29+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "La mínima “esperanza” de Sainz para puntuar en Las Vegas"
+   },
+   "last": "2026-11-19T05:03:46.982963+00:00"
   }
  },
- "story_seq": 8827,
+ "story_seq": 8830,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16017,7 +16044,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T04:53:40.821287+00:00",
+ "last_run": "2026-11-19T05:03:44.205840+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17322,6 +17349,11 @@
    "t": "2026-11-19T04:53:49.411125+00:00",
    "title": "Leclerc, gazetecinin sözleri nedeniyle getirilen FIA yasağına sessizliğini bozdu",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-19T05:03:52.167028+00:00",
+   "title": "Sainz'ın Las Vegas'ta puan almak için minimum umudu",
+   "source": "AS"
   }
  ]
 }
