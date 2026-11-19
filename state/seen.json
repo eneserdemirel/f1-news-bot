@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7d6bea032237576e": "2026-11-05T01:22:38.218403+00:00",
   "d7ffd21390706d2f": "2026-11-05T01:32:34.083595+00:00",
   "f22765f3f9ec450e": "2026-11-05T02:02:34.497276+00:00",
   "61b37ed74eab5727": "2026-11-05T02:12:35.411862+00:00",
@@ -6571,7 +6570,13 @@
   "160db518772b05c3": "2026-11-19T01:22:03.902931+00:00",
   "d404926b5cc2486e": "2026-11-19T01:22:03.902931+00:00",
   "9b53bcf5718eceb1": "2026-11-19T01:22:03.902931+00:00",
-  "5c9f46debdea9cd1": "2026-11-19T01:22:03.902931+00:00"
+  "5c9f46debdea9cd1": "2026-11-19T01:22:03.902931+00:00",
+  "480cc14070ff4af1": "2026-11-19T01:32:01.270230+00:00",
+  "d374b8843685ba3e": "2026-11-19T01:32:01.270230+00:00",
+  "bc2afd92a3bf34f5": "2026-11-19T01:32:01.270230+00:00",
+  "2e174b82a0861912": "2026-11-19T01:32:01.270230+00:00",
+  "0b954707891ce169": "2026-11-19T01:32:01.270230+00:00",
+  "af0db7f26cbbfa8c": "2026-11-19T01:32:01.270230+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15229,9 +15234,87 @@
     "ESPN F1": "Justin Edwards rocks the rim with slam"
    },
    "last": "2026-11-19T01:22:06.278409+00:00"
+  },
+  "S8745": {
+   "title": "Jasaiyah Wallace rises to block a shot",
+   "first": "2026-11-19T01:32:05.082787+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:27:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jasaiyah Wallace rises to block the shot"
+   },
+   "last": "2026-11-19T01:32:05.082806+00:00"
+  },
+  "S8746": {
+   "title": "Chidi Chiakwelu elevates for alley-oop",
+   "first": "2026-11-19T01:32:05.082811+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:21:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chidi Chiakwelu elevates for alley-oop"
+   },
+   "last": "2026-11-19T01:32:05.082815+00:00"
+  },
+  "S8747": {
+   "title": "Gina Davorija gets basket plus the foul",
+   "first": "2026-11-19T01:32:05.082818+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:20:36+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Gina Davorija gets the basket plus the foul"
+   },
+   "last": "2026-11-19T01:32:05.082822+00:00"
+  },
+  "S8748": {
+   "title": "Liv McGill gets hoop and foul",
+   "first": "2026-11-19T01:32:05.082825+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:18:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Liv McGill with the hoop & harm"
+   },
+   "last": "2026-11-19T01:32:05.082828+00:00"
+  },
+  "S8749": {
+   "title": "Egor Demin gets basket plus the foul",
+   "first": "2026-11-19T01:32:05.082830+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:15:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Egor Demin gets the basket plus the foul"
+   },
+   "last": "2026-11-19T01:32:05.082834+00:00"
+  },
+  "S8750": {
+   "title": "Bearman frustrated over unsigned Haas contract, 2027 uncertainty",
+   "first": "2026-11-19T01:32:05.082837+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-19T01:24:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oliver Bearman frustrated by Haas contract delay as F1 2027 uncertainty continues"
+   },
+   "last": "2026-11-19T01:32:05.082840+00:00"
   }
  },
- "story_seq": 8744,
+ "story_seq": 8750,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15350,7 +15433,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T01:22:03.902931+00:00",
+ "last_run": "2026-11-19T01:32:01.270230+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -16595,6 +16678,11 @@
    "t": "2026-11-19T01:22:09.249975+00:00",
    "title": "Las Vegas GP öncesi canlı yayın: hazırlık süreci",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-19T01:32:09.408169+00:00",
+   "title": "Bearman, Haas sözleşmesindeki gecikmeden rahatsız",
+   "source": "PlanetF1"
   }
  ]
 }
