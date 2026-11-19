@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b37f46971459593b": "2026-11-05T04:53:12.714888+00:00",
-  "4c77c4cb98f40aa9": "2026-11-05T04:53:12.714888+00:00",
   "464af9afdda4e7f3": "2026-11-05T05:03:11.142070+00:00",
   "066bb243f2277251": "2026-11-05T05:03:11.142070+00:00",
   "0b2c855f8769b1c0": "2026-11-05T05:13:10.005664+00:00",
@@ -6633,7 +6631,13 @@
   "badb0d5459755866": "2026-11-19T04:43:42.541409+00:00",
   "7b7cec174b36516d": "2026-11-19T04:43:42.541409+00:00",
   "4e35219cdb538d1e": "2026-11-19T04:43:42.541409+00:00",
-  "6f1ff6d9d9c4270f": "2026-11-19T04:43:42.541409+00:00"
+  "6f1ff6d9d9c4270f": "2026-11-19T04:43:42.541409+00:00",
+  "9079d5b363f7bc63": "2026-11-19T04:53:40.821287+00:00",
+  "b62891320e6ef5f0": "2026-11-19T04:53:40.821287+00:00",
+  "2a4bd4207d826e62": "2026-11-19T04:53:40.821287+00:00",
+  "54a29f4b5a78b076": "2026-11-19T04:53:40.821287+00:00",
+  "18c34d0adc4d27d6": "2026-11-19T04:53:40.821287+00:00",
+  "c7c3d4dd6eef9504": "2026-11-19T04:53:40.821287+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6801,19 +6805,6 @@
     "ESPN F1": "Heat star Bam Adebayo exits vs. Rockets early with hip tightness"
    },
    "last": "2026-11-17T06:59:31.389211+00:00"
-  },
-  "S8146": {
-   "title": "Derrick Henry second rushing TD pulls Ravens closer",
-   "first": "2026-11-17T04:49:34.830646+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T03:56:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Derrick Henry's 2nd rushing TD pulls Ravens closer"
-   },
-   "last": "2026-11-17T04:49:34.830666+00:00"
   },
   "S8147": {
    "title": "Canada 4-1 Guatemala match player stats",
@@ -15827,9 +15818,87 @@
     "ESPN F1": "Texas State 84-51 Incarnate Word (Nov 18, 2026) Final Score"
    },
    "last": "2026-11-19T04:43:45.607633+00:00"
+  },
+  "S8822": {
+   "title": "Dylan Cardwell slam dunk highlight",
+   "first": "2026-11-19T04:53:45.287059+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T04:41:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dylan Cardwell rocks the rim with slam dunk"
+   },
+   "last": "2026-11-19T04:53:45.287080+00:00"
+  },
+  "S8823": {
+   "title": "Keyonte George three-pointer vs Lakers highlight",
+   "first": "2026-11-19T04:53:45.287085+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T04:11:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Keyonte George drains 3 vs. Los Angeles Lakers"
+   },
+   "last": "2026-11-19T04:53:45.287089+00:00"
+  },
+  "S8824": {
+   "title": "Cornell vs Syracuse college basketball highlights",
+   "first": "2026-11-19T04:53:45.287093+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:24:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cornell Big Red vs. Syracuse Orange: Game Highlights"
+   },
+   "last": "2026-11-19T04:53:45.287097+00:00"
+  },
+  "S8825": {
+   "title": "Noah Feddersen powerful dunk highlight",
+   "first": "2026-11-19T04:53:45.287099+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:20:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Noah Feddersen rocks the rim with powerful dunk"
+   },
+   "last": "2026-11-19T04:53:45.287102+00:00"
+  },
+  "S8826": {
+   "title": "Leclerc reacts to FIA ban on Daily Mail journalist",
+   "first": "2026-11-19T04:53:45.287104+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T04:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Charles Leclerc breaks silence on FIA ban sparked by journalist's jibe"
+   },
+   "last": "2026-11-19T04:53:45.287107+00:00"
+  },
+  "S8827": {
+   "title": "Perez announces he will retire from F1",
+   "first": "2026-11-19T04:53:45.287110+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-19T04:43:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Werde V8-Antriebe nicht mehr erleben\": Sergio Perez kündigt F1-Rücktritt an - Motorsport-Total.com"
+   },
+   "last": "2026-11-19T04:53:45.287112+00:00"
   }
  },
- "story_seq": 8821,
+ "story_seq": 8827,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15948,7 +16017,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T04:43:42.541409+00:00",
+ "last_run": "2026-11-19T04:53:40.821287+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17243,6 +17312,16 @@
    "t": "2026-11-19T04:43:49.221202+00:00",
    "title": "Norris: McLaren artık geriden kovalamak zorunda değil",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-19T04:53:48.857942+00:00",
+   "title": "Sergio Pérez F1'e veda edeceğini açıkladı",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-19T04:53:49.411125+00:00",
+   "title": "Leclerc, gazetecinin sözleri nedeniyle getirilen FIA yasağına sessizliğini bozdu",
+   "source": "GPblog"
   }
  ]
 }
