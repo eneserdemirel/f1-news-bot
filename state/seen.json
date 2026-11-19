@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6eb9e5b914c66ec0": "2026-11-05T13:23:49.174393+00:00",
-  "1e89edec63c813ca": "2026-11-05T13:23:49.174393+00:00",
   "58a29305624a7516": "2026-11-05T13:33:49.786981+00:00",
   "12ad40aabe35779b": "2026-11-05T13:33:49.786981+00:00",
   "cbece27a8e6c1d79": "2026-11-05T13:33:49.786981+00:00",
@@ -6645,7 +6643,12 @@
   "00882759a0fd4e7f": "2026-11-19T13:10:34.327009+00:00",
   "37938eb248708584": "2026-11-19T13:10:34.327009+00:00",
   "f8cf946df184f064": "2026-11-19T13:10:34.327009+00:00",
-  "5b5d63466a2e8e4c": "2026-11-19T13:20:33.975569+00:00"
+  "5b5d63466a2e8e4c": "2026-11-19T13:20:33.975569+00:00",
+  "49811d207a148928": "2026-11-19T13:30:38.378589+00:00",
+  "bc6cb1a52045c7ff": "2026-11-19T13:30:38.378589+00:00",
+  "72bfdc46c7634555": "2026-11-19T13:30:38.378589+00:00",
+  "b89037e732f31da5": "2026-11-19T13:30:38.378589+00:00",
+  "205abdb0d1dcee3e": "2026-11-19T13:30:38.378589+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16422,14 +16425,14 @@
    "title": "Historic usage rates boost Doncic and Lakers offense",
    "first": "2026-11-19T12:30:42.015841+00:00",
    "sources": {
-    "ESPN F1": "2026-11-19T12:23:59+00:00"
+    "ESPN F1": "2026-11-19T12:00:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Historic usage rates are fueling Luka Doncic and the Lakers' offense"
    },
-   "last": "2026-11-19T12:30:42.015861+00:00"
+   "last": "2026-11-19T13:30:41.537572+00:00"
   },
   "S8935": {
    "title": "Barcelona's Deco wants Araujo loan made permanent",
@@ -16627,9 +16630,61 @@
     "AS": "Por qué la F1 evita decir ‘paddock’ en Las Vegas"
    },
    "last": "2026-11-19T13:20:35.600403+00:00"
+  },
+  "S8950": {
+   "title": "Fundora chasing rings predictions and stats vs Zapotoczna",
+   "first": "2026-11-19T13:30:41.537532+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T13:23:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fundora chasing rings, not just titles: Predictions and stats vs. Zapotoczna"
+   },
+   "last": "2026-11-19T13:30:41.537552+00:00"
+  },
+  "S8951": {
+   "title": "Opinion piece on Sandpapergate cricket crisis",
+   "first": "2026-11-19T13:30:41.537556+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T13:20:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "We'll know the whole truth about Sandpapergate when pigs fly"
+   },
+   "last": "2026-11-19T13:30:41.537560+00:00"
+  },
+  "S8952": {
+   "title": "Messi vs Ronaldo debate and Man Utd hire Moyes column",
+   "first": "2026-11-19T13:30:41.537563+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   },
+   "last": "2026-11-19T13:30:41.537567+00:00"
+  },
+  "S8953": {
+   "title": "Explainer on college football clock management",
+   "first": "2026-11-19T13:30:41.537575+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Inside the complexities of clock management in college football"
+   },
+   "last": "2026-11-19T13:30:41.537577+00:00"
   }
  },
- "story_seq": 8949,
+ "story_seq": 8953,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16748,17 +16803,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T13:20:33.975569+00:00",
+ "last_run": "2026-11-19T13:30:38.378589+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T13:27:24.826527+00:00",
-   "title": "2030 V8 motor reglamanında hâlâ açık kalan noktalar neler?",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-16T13:37:28.619864+00:00",
    "title": "Patrese: Antonelli paranı nasıl harcayacağı konusunda çılgın fikirlere sahip değil",
