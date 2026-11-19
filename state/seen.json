@@ -1,13 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7ca53754f3d3a936": "2026-11-05T03:22:35.203273+00:00",
-  "caf2bf74bca2a73f": "2026-11-05T03:32:38.468958+00:00",
-  "85d2118d16357b55": "2026-11-05T03:32:38.468958+00:00",
-  "3b7f302781f85799": "2026-11-05T03:32:38.468958+00:00",
-  "b161afde1c93c153": "2026-11-05T03:32:38.468958+00:00",
-  "4ccb5fa2295a0ca7": "2026-11-05T03:42:34.218802+00:00",
-  "7d9fd7258515a693": "2026-11-05T03:42:34.218802+00:00",
   "f778dbb63db5154e": "2026-11-05T03:52:34.513923+00:00",
   "2da5a7fed8bb98c5": "2026-11-05T04:02:38.680028+00:00",
   "50c50a31f57a4787": "2026-11-05T04:02:38.680028+00:00",
@@ -6604,7 +6597,17 @@
   "023b2ba4abe7d858": "2026-11-19T03:22:02.223896+00:00",
   "c0bf0a220a204770": "2026-11-19T03:22:02.223896+00:00",
   "81316003a9d5bf55": "2026-11-19T03:22:02.223896+00:00",
-  "3191347c638e1962": "2026-11-19T03:22:02.223896+00:00"
+  "3191347c638e1962": "2026-11-19T03:22:02.223896+00:00",
+  "b6b2a407044ce76c": "2026-11-19T03:43:44.933461+00:00",
+  "9bad82b0764c0a57": "2026-11-19T03:43:44.933461+00:00",
+  "f2d67cf6d1c29c7b": "2026-11-19T03:43:44.933461+00:00",
+  "183a2c70aa6a6d79": "2026-11-19T03:43:44.933461+00:00",
+  "f47c04b8002b9e9e": "2026-11-19T03:43:44.933461+00:00",
+  "5157e5d5f77466d7": "2026-11-19T03:43:44.933461+00:00",
+  "59438d365f75e355": "2026-11-19T03:43:44.933461+00:00",
+  "fc6bea2c2a4e674e": "2026-11-19T03:43:44.933461+00:00",
+  "a12b902d139fc8b4": "2026-11-19T03:43:44.933461+00:00",
+  "22e835e4a003ca5e": "2026-11-19T03:43:44.933461+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6785,19 +6788,6 @@
     "ESPN F1": "Heat star Bam Adebayo exits vs. Rockets early with hip tightness"
    },
    "last": "2026-11-17T06:59:31.389211+00:00"
-  },
-  "S8133": {
-   "title": "Atreonia Garner gets the and-1 in basketball play",
-   "first": "2026-11-17T03:38:47.301628+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T03:21:15+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Atreonia Garner with the and-1!"
-   },
-   "last": "2026-11-17T03:38:47.301649+00:00"
   },
   "S8134": {
    "title": "Heat 128-110 Rockets NBA game recap",
@@ -15465,9 +15455,139 @@
     "ESPN F1": "LSU New Orleans vs. Texas Tech (Nov 18, 2026) Live Score"
    },
    "last": "2026-11-19T03:22:06.579795+00:00"
+  },
+  "S8783": {
+   "title": "Alonso on the daunting challenge of the Dakar Rally",
+   "first": "2026-11-19T03:43:52.249679+00:00",
+   "sources": {
+    "Formula 1": "2026-11-19T03:43:52.249695+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "‘This is another level’ – Alonso on daunting Dakar challenge"
+   },
+   "last": "2026-11-19T03:43:52.249698+00:00"
+  },
+  "S8784": {
+   "title": "Canadiens 3-2 Devils NHL game recap",
+   "first": "2026-11-19T03:43:52.249702+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:34:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canadiens 3-2 Devils (19 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-19T03:43:52.249706+00:00"
+  },
+  "S8785": {
+   "title": "La Salle 88-61 Coppin State college basketball recap",
+   "first": "2026-11-19T03:43:52.249710+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:34:28+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "La Salle 88-61 Coppin State (Nov 18, 2026) Game Recap"
+   },
+   "last": "2026-11-19T03:43:52.249714+00:00"
+  },
+  "S8786": {
+   "title": "Bruins 4-1 Red Wings NHL game recap",
+   "first": "2026-11-19T03:43:52.249716+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:33:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bruins 4-1 Red Wings (19 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-19T03:43:52.249719+00:00"
+  },
+  "S8787": {
+   "title": "Bulls 137-107 Nets NBA game recap",
+   "first": "2026-11-19T03:43:52.249722+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:24:33+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bulls 137-107 Nets (19 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-19T03:43:52.249724+00:00"
+  },
+  "S8788": {
+   "title": "Campbell vs. Oklahoma college basketball highlights",
+   "first": "2026-11-19T03:43:52.249726+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:21:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Campbell Fighting Camels vs. Oklahoma Sooners: Game Highlights"
+   },
+   "last": "2026-11-19T03:43:52.249729+00:00"
+  },
+  "S8789": {
+   "title": "Rockets 119-104 Pacers NBA game recap",
+   "first": "2026-11-19T03:43:52.249731+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:53:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rockets 119-104 Pacers (19 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-19T03:43:52.249733+00:00"
+  },
+  "S8790": {
+   "title": "Trayce Jackson-Davis elevates for slam dunk",
+   "first": "2026-11-19T03:43:52.249735+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:19:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Trayce Jackson-Davis elevates for slam"
+   },
+   "last": "2026-11-19T03:43:52.249737+00:00"
+  },
+  "S8791": {
+   "title": "Antonelli receives grid penalty for Las Vegas GP",
+   "first": "2026-11-19T03:43:52.249739+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-19T03:29:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli ontvangt gridstraf voor GP Las Vegas"
+   },
+   "last": "2026-11-19T03:43:52.249742+00:00"
+  },
+  "S8792": {
+   "title": "Stroll warns Honda power deficit could be dangerous in Vegas",
+   "first": "2026-11-19T03:43:52.249744+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-19T03:21:53+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Lance Stroll warns Honda power deficit could make his Las Vegas GP ‘almost dangerous’"
+   },
+   "last": "2026-11-19T03:43:52.249746+00:00"
   }
  },
- "story_seq": 8782,
+ "story_seq": 8792,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15586,7 +15706,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T03:22:02.223896+00:00",
+ "last_run": "2026-11-19T03:43:44.933461+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -16846,6 +16966,16 @@
    "t": "2026-11-19T03:12:35.727045+00:00",
    "title": "Lawson, Marko'nun Racing Bulls koltuğu açıklamasına yanıt verdi",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-19T03:43:58.426758+00:00",
+   "title": "Stroll: Honda'nın güç eksikliği Las Vegas'ta 'neredeyse tehlikeli' olabilir",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-19T03:43:58.967070+00:00",
+   "title": "Antonelli, Las Vegas GP'de 5 sıra cezası alacak",
+   "source": "RacingNews365 NL"
   }
  ]
 }
