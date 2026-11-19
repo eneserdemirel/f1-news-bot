@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aacd3ad73180104c": "2026-11-05T13:03:50.305272+00:00",
-  "b6da21c610d60b79": "2026-11-05T13:03:50.305272+00:00",
-  "d042f4ea4f9b43b0": "2026-11-05T13:03:50.305272+00:00",
-  "c1d89099cf2a2734": "2026-11-05T13:03:50.305272+00:00",
-  "4713869b77888840": "2026-11-05T13:03:50.305272+00:00",
-  "c2a9baa3c8d224d7": "2026-11-05T13:03:50.305272+00:00",
   "42129a6073925fdc": "2026-11-05T13:13:55.594488+00:00",
   "0c7895c86066e7a3": "2026-11-05T13:13:55.594488+00:00",
   "784030f8ba1795ad": "2026-11-05T13:13:55.594488+00:00",
@@ -6656,7 +6650,10 @@
   "ee5b3da81128155d": "2026-11-19T12:50:33.902191+00:00",
   "ea91bef150358a86": "2026-11-19T13:00:40.351412+00:00",
   "feea5760a3d7284b": "2026-11-19T13:00:40.351412+00:00",
-  "85fcf0dd0fd286db": "2026-11-19T13:00:40.351412+00:00"
+  "85fcf0dd0fd286db": "2026-11-19T13:00:40.351412+00:00",
+  "00882759a0fd4e7f": "2026-11-19T13:10:34.327009+00:00",
+  "37938eb248708584": "2026-11-19T13:10:34.327009+00:00",
+  "f8cf946df184f064": "2026-11-19T13:10:34.327009+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16557,7 +16554,7 @@
    "titles": {
     "ESPN F1": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election"
    },
-   "last": "2026-11-19T12:40:37.736692+00:00"
+   "last": "2026-11-19T13:10:37.814845+00:00"
   },
   "S8943": {
    "title": "Manchester United appoint Mauricio Pochettino",
@@ -16602,14 +16599,16 @@
    "title": "Hamilton jokes about cheese gadget steering wheel F1 explainer",
    "first": "2026-11-19T13:00:43.814089+00:00",
    "sources": {
-    "GPFans": "2026-11-19T12:58:00+00:00"
+    "GPFans": "2026-11-19T12:58:00+00:00",
+    "GPblog": "2026-11-19T13:01:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPFans": "Lewis Hamilton reveals F1 driver he would cover in cheese with steering wheel gadget"
+    "GPFans": "Lewis Hamilton reveals F1 driver he would cover in cheese with steering wheel gadget",
+    "GPblog": "Hamilton picks Verstappen as target for hilarious cheese bazooka attack"
    },
-   "last": "2026-11-19T13:00:43.814094+00:00"
+   "last": "2026-11-19T13:10:37.814857+00:00"
   },
   "S8947": {
    "title": "Norris teases new podium celebration after Brazil mishap",
@@ -16623,9 +16622,22 @@
     "FormulaPassion": "Norris e i festeggiamenti pericolosi: “Cambiare esultanza? Lo scoprirete quando vincerò la prossima gara”"
    },
    "last": "2026-11-19T13:00:43.814100+00:00"
+  },
+  "S8948": {
+   "title": "F1 paddock reacts to GTA VI, two drivers unfazed",
+   "first": "2026-11-19T13:10:37.814861+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-19T13:00:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "F1-Fahrerlager im GTA-VI-Fieber: Nur zwei Fahrer lässt es kalt - Motorsport-Total.com"
+   },
+   "last": "2026-11-19T13:10:37.814866+00:00"
   }
  },
- "story_seq": 8947,
+ "story_seq": 8948,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16744,27 +16756,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T13:00:40.351412+00:00",
+ "last_run": "2026-11-19T13:10:34.327009+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T13:07:27.902175+00:00",
-   "title": "Colapinto, Alpine'den 2027 için bir sıçrama bekliyor",
-   "source": "AS"
-  },
-  {
-   "t": "2026-11-16T13:07:28.536913+00:00",
-   "title": "Waché: Hadjar gelişiyor, sıradaki adım bir yarış kazanmak",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-16T13:07:29.076341+00:00",
-   "title": "Las Vegas GP öncesi 5 önemli gelişme",
-   "source": "Formula 1"
-  },
   {
    "t": "2026-11-16T13:17:25.038119+00:00",
    "title": "McLaren livery'li ilk Etihad uçağı uçuşa geçti",
@@ -18139,6 +18136,11 @@
    "t": "2026-11-19T13:00:52.385929+00:00",
    "title": "Hamilton, sürücü seçimi sorulunca Verstappen'i peynire bulayacağını söyledi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-19T13:10:40.167328+00:00",
+   "title": "F1 paddock'u GTA VI heyecanında: sadece iki pilot ilgisiz",
+   "source": "Motorsport-Total"
   }
  ]
 }
