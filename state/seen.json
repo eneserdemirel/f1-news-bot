@@ -6623,7 +6623,9 @@
   "3de10b563af0f42f": "2026-11-19T21:57:21.433472+00:00",
   "9317dda43058badb": "2026-11-19T21:57:21.433472+00:00",
   "630fdc9ab63442ee": "2026-11-19T21:57:21.433472+00:00",
-  "8841fd409553500e": "2026-11-19T21:57:21.433472+00:00"
+  "8841fd409553500e": "2026-11-19T21:57:21.433472+00:00",
+  "a05736eeb6fea299": "2026-11-19T22:01:53.752894+00:00",
+  "1b765d1430884898": "2026-11-19T22:01:53.752894+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6771,19 +6773,6 @@
     "ESPN F1": "Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury"
    },
    "last": "2026-11-17T22:11:27.242878+00:00"
-  },
-  "S8341": {
-   "title": "Denmark vs Norway football live score",
-   "first": "2026-11-17T22:01:28.830275+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T19:48:51+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Denmark vs. Norway (Nov 17, 2026) Live Score"
-   },
-   "last": "2026-11-17T22:01:28.830281+00:00"
   },
   "S8342": {
    "title": "Las Vegas GP forecast shows near-freezing temperatures",
@@ -15505,15 +15494,17 @@
    "first": "2026-11-19T16:10:47.528725+00:00",
    "sources": {
     "PlanetF1": "2026-11-19T16:01:36+00:00",
-    "Motorsport-Total": "2026-11-19T17:00:04+00:00"
+    "Motorsport-Total": "2026-11-19T17:00:04+00:00",
+    "GPblog": "2026-11-19T22:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Charles Leclerc addresses ‘harsh’ FIA punishment after ‘F2’ move on Liam Lawson",
-    "Motorsport-Total": "Leclerc kritisiert Brasilien-Strafe nach Lawson-Kontakt als \"etwas hart\" - Motorsport-Total.com"
+    "Motorsport-Total": "Leclerc kritisiert Brasilien-Strafe nach Lawson-Kontakt als \"etwas hart\" - Motorsport-Total.com",
+    "GPblog": "Leclerc revisits Mexico move on Hamilton as he questions 'harsh' penalty"
    },
-   "last": "2026-11-19T17:10:42.426057+00:00"
+   "last": "2026-11-19T22:01:57.959457+00:00"
   },
   "S8988": {
    "title": "Vegas new F1 rules challenge Verstappen and rivals on battery and tyres",
@@ -16364,9 +16355,22 @@
     "ESPN F1": "Puka Nacua NFL • Los Angeles Rams"
    },
    "last": "2026-11-19T21:51:57.095930+00:00"
+  },
+  "S9052": {
+   "title": "Florida vs West Virginia third-place game listing",
+   "first": "2026-11-19T22:01:57.959429+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T19:30:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thu, 11/19 - #1 Florida vs. West Virginia (3rd Place)"
+   },
+   "last": "2026-11-19T22:01:57.959449+00:00"
   }
  },
- "story_seq": 9051,
+ "story_seq": 9052,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16485,7 +16489,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T21:57:21.433472+00:00",
+ "last_run": "2026-11-19T22:01:53.752894+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
