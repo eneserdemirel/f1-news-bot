@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a94276b79f93189c": "2026-11-05T17:15:21.806082+00:00",
-  "2f4cbf3dc854fd07": "2026-11-05T17:15:21.806082+00:00",
-  "8e1a23efbd6ff524": "2026-11-05T17:15:21.806082+00:00",
   "0776548a9f679755": "2026-11-05T17:25:20.389395+00:00",
   "25d8d9769e0bbbfa": "2026-11-05T17:25:20.389395+00:00",
   "339ec1928ba9ba07": "2026-11-05T17:25:20.389395+00:00",
@@ -6655,7 +6652,11 @@
   "c300d309e2bbdd87": "2026-11-19T17:10:36.671147+00:00",
   "7cda767b3bbd8461": "2026-11-19T17:10:36.671147+00:00",
   "1b8d808e01efe96e": "2026-11-19T17:10:36.671147+00:00",
-  "a85d2b74dfcd3fa7": "2026-11-19T17:10:36.671147+00:00"
+  "a85d2b74dfcd3fa7": "2026-11-19T17:10:36.671147+00:00",
+  "9ecc3b9aa4371f6f": "2026-11-19T17:20:36.677007+00:00",
+  "4c3e5d58fd2cdf93": "2026-11-19T17:20:36.677007+00:00",
+  "58c075db49d71ac8": "2026-11-19T17:20:36.677007+00:00",
+  "8f6cb5956e5665f0": "2026-11-19T17:20:36.677007+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6912,32 +6913,6 @@
     "ESPN F1": "Texans place LB Azeez Al-Shaair, team's leading tackler, on IR"
    },
    "last": "2026-11-17T18:10:53.558070+00:00"
-  },
-  "S8282": {
-   "title": "Sainz previews 250th GP and Williams' key season",
-   "first": "2026-11-17T17:10:53.093968+00:00",
-   "sources": {
-    "Formula 1": "2026-11-17T17:10:53.093983+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Sainz on his 250th GP and Williams’ ‘most important year’"
-   },
-   "last": "2026-11-17T17:10:53.093987+00:00"
-  },
-  "S8283": {
-   "title": "Russian figure skaters barred from Finland Grand Prix",
-   "first": "2026-11-17T17:10:53.093992+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T17:09:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Seven Russian figure skaters barred from competing at Grand Prix in Finland"
-   },
-   "last": "2026-11-17T17:10:53.093997+00:00"
   },
   "S8284": {
    "title": "Vikings prepare Kirk Cousins on short notice",
@@ -13546,7 +13521,8 @@
     "RacingNews365": "2026-11-19T03:45:00+00:00",
     "PlanetF1": "2026-11-19T06:50:33+00:00",
     "ESPN F1": "2026-11-19T07:16:00+00:00",
-    "Crash.net": "2026-11-19T10:56:54+00:00"
+    "Crash.net": "2026-11-19T10:56:54+00:00",
+    "Motorsport Week": "2026-11-19T17:08:05+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13555,9 +13531,10 @@
     "RacingNews365": "Valtteri Bottas explains Colton Herta 'noise' as Cadillac confirm 2027 F1 driver",
     "PlanetF1": "Valtteri Bottas makes feelings clear on Colton Herta rumours after Cadillac announcement",
     "ESPN F1": "Valtteri Bottas to race for Cadillac in 2027 after Colton Herta 'noise'",
-    "Crash.net": "Valtteri Bottas hits out at “unnecessary noise” about Cadillac F1 future"
+    "Crash.net": "Valtteri Bottas hits out at “unnecessary noise” about Cadillac F1 future",
+    "Motorsport Week": "Valtteri Bottas ends ‘unnecessary’ discussion over Cadillac future"
    },
-   "last": "2026-11-19T12:21:20.242228+00:00"
+   "last": "2026-11-19T17:20:41.534173+00:00"
   },
   "S8780": {
    "title": "76ers beat Magic 121-116 in NBA game recap",
@@ -15346,7 +15323,7 @@
    "titles": {
     "ESPN F1": "Cummins tries to act like normal amid the chaos"
    },
-   "last": "2026-11-19T12:21:20.242044+00:00"
+   "last": "2026-11-19T17:20:41.534168+00:00"
   },
   "S8909": {
    "title": "Saqib ruled out of Test with hamstring injury",
@@ -16574,9 +16551,35 @@
     "ESPN F1": "Colts-Texans odds, best bets: Is Houston laying too many points?"
    },
    "last": "2026-11-19T17:10:42.426050+00:00"
+  },
+  "S9002": {
+   "title": "Belichick and Kraft named Hall of Fame finalists again",
+   "first": "2026-11-19T17:20:41.534141+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T17:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bill Belichick, Robert Kraft named Hall of Fame finalists for 2nd straight year"
+   },
+   "last": "2026-11-19T17:20:41.534160+00:00"
+  },
+  "S9003": {
+   "title": "Perez says some Cadillac staff must leave, welcomes two engineers",
+   "first": "2026-11-19T17:20:41.534176+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T17:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Perez criticises some Cadillac staff: 'Those people need to leave'"
+   },
+   "last": "2026-11-19T17:20:41.534179+00:00"
   }
  },
- "story_seq": 9001,
+ "story_seq": 9003,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16695,17 +16698,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T17:10:36.671147+00:00",
+ "last_run": "2026-11-19T17:20:36.677007+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T17:17:27.015931+00:00",
-   "title": "Sainz: Bugün 2024'teki halimden daha iyi bir pilotum",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-16T17:27:26.055799+00:00",
    "title": "Williams, Las Vegas Grand Prix'de özel 'krom' gövde tasarımı kullanacak",
