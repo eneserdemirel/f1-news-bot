@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "5ed36bcd0db43634": "2026-11-05T06:13:09.771287+00:00",
-  "1f895794b6d8e945": "2026-11-05T06:13:09.771287+00:00",
-  "4073b4aad63cdfef": "2026-11-05T06:13:09.771287+00:00",
-  "273d7a3b7b1ae5da": "2026-11-05T06:13:09.771287+00:00",
-  "a1c22ed96a95f387": "2026-11-05T06:13:09.771287+00:00",
-  "6d03413b0c297865": "2026-11-05T06:13:09.771287+00:00",
   "0be72c5195b360b0": "2026-11-05T06:23:10.169613+00:00",
   "25415c89abd0b95b": "2026-11-05T06:23:10.169613+00:00",
   "5899e6df028649c7": "2026-11-05T06:23:10.169613+00:00",
@@ -6648,7 +6642,15 @@
   "414578804092de16": "2026-11-19T06:03:39.545050+00:00",
   "af00c13962abe400": "2026-11-19T06:03:39.545050+00:00",
   "bd1dd1af09a53231": "2026-11-19T06:03:39.545050+00:00",
-  "4be9bb0f47e22c31": "2026-11-19T06:03:39.545050+00:00"
+  "4be9bb0f47e22c31": "2026-11-19T06:03:39.545050+00:00",
+  "61dc063d668ec832": "2026-11-19T06:13:45.850146+00:00",
+  "8927104a69d69a15": "2026-11-19T06:13:45.850146+00:00",
+  "0562bfe115914ea8": "2026-11-19T06:13:45.850146+00:00",
+  "4f369a73801fd097": "2026-11-19T06:13:45.850146+00:00",
+  "7d315b9aa1bbd974": "2026-11-19T06:13:45.850146+00:00",
+  "11de1e1a1495e44a": "2026-11-19T06:13:45.850146+00:00",
+  "4d10c2dff6b59ebe": "2026-11-19T06:13:45.850146+00:00",
+  "8a0e7aa0972957e4": "2026-11-19T06:13:45.850146+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6845,32 +6847,6 @@
    },
    "last": "2026-11-17T17:20:58.837869+00:00"
   },
-  "S8152": {
-   "title": "Hamilton's goal: help Ferrari secure constructors' second place",
-   "first": "2026-11-17T06:09:39.464843+00:00",
-   "sources": {
-    "GPblog": "2026-11-17T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton’s late-season Ferrari mission: protect second in the constructors’ standings"
-   },
-   "last": "2026-11-17T06:09:39.464847+00:00"
-  },
-  "S8153": {
-   "title": "Stella praises Lando Norris as one of the grid's best",
-   "first": "2026-11-17T06:09:39.464849+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-17T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Andrea Stella esalta “il Maestro” Lando Norris: “È uno dei migliori piloti in griglia”"
-   },
-   "last": "2026-11-17T06:09:39.464852+00:00"
-  },
   "S8154": {
    "title": "Ecclestone criticises Hamilton, comments on Antonelli and Ferrari",
    "first": "2026-11-17T06:09:39.464855+00:00",
@@ -6885,45 +6861,6 @@
     "Corriere dello Sport": "Ecclestone distrugge Hamilton e avverte Antonelli: \"Vada in Ferrari dopo i 50 anni\""
    },
    "last": "2026-11-17T12:00:17.954629+00:00"
-  },
-  "S8155": {
-   "title": "Analysis of Ferrari's lack of titles despite Mercedes success",
-   "first": "2026-11-17T06:09:39.464859+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-17T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Ferrari, il digiuno continua: titoli mancati per tanti motivi"
-   },
-   "last": "2026-11-17T06:09:39.464862+00:00"
-  },
-  "S8156": {
-   "title": "Patrese says Russell has been unlucky in 2026",
-   "first": "2026-11-17T06:09:39.464864+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-17T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "Patrese: “Russell in questo 2026 è stato sfortunato e le piccole cose possono fare la differenza nella testa del pilota”"
-   },
-   "last": "2026-11-17T06:09:39.464866+00:00"
-  },
-  "S8157": {
-   "title": "Antonelli warns 2027 rule changes will be like starting over",
-   "first": "2026-11-17T06:09:39.464868+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-17T06:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "“Sarà come ripartire da zero”: Antonelli avverte sulle regole 2027"
-   },
-   "last": "2026-11-17T06:09:39.464870+00:00"
   },
   "S8158": {
    "title": "Ferrari warned over 'massive handicap' in F1 title hunt",
@@ -16011,7 +15948,7 @@
    "titles": {
     "ESPN F1": "Luka Doncic and ref exchange words at end of first half"
    },
-   "last": "2026-11-19T05:53:41.941895+00:00"
+   "last": "2026-11-19T06:13:51.070010+00:00"
   },
   "S8838": {
    "title": "Owen Freeman lays the ball off the glass",
@@ -16129,9 +16066,100 @@
     "Autosport": "Why Verstappen's ideal F1 rules would make some circuits off-limits"
    },
    "last": "2026-11-19T06:03:43.990066+00:00"
+  },
+  "S8847": {
+   "title": "UNLV Rebels vs Auburn Tigers basketball highlights",
+   "first": "2026-11-19T06:13:51.069982+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T05:53:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "UNLV Rebels vs. Auburn Tigers: Game Highlights"
+   },
+   "last": "2026-11-19T06:13:51.070001+00:00"
+  },
+  "S8848": {
+   "title": "Verstappen opposes F1's 2027 biometric data broadcast plan",
+   "first": "2026-11-19T06:13:51.070014+00:00",
+   "sources": {
+    "The Race": "2026-11-19T06:13:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Verstappen isn't a fan of F1's 2027 biometric data plan"
+   },
+   "last": "2026-11-19T06:13:51.070018+00:00"
+  },
+  "S8849": {
+   "title": "Ecclestone urges Ferrari to re-sign Sainz",
+   "first": "2026-11-19T06:13:51.070020+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-19T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Ecclestone insiste: “Elkann e Vasseur senza coraggio e indecisi. Ferrari riprenda Sainz”"
+   },
+   "last": "2026-11-19T06:13:51.070024+00:00"
+  },
+  "S8850": {
+   "title": "Verstappen's crew chief Jon Caller leaves F1 for WEC Ford",
+   "first": "2026-11-19T06:13:51.070026+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-19T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Il ‘team Verstappen’ cambia ancora: lascia Jon Caller, il capo meccanico di Max"
+   },
+   "last": "2026-11-19T06:13:51.070029+00:00"
+  },
+  "S8851": {
+   "title": "Button praises Alonso's dedication to motorsport",
+   "first": "2026-11-19T06:13:51.070031+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-19T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Button stupito da Alonso: “La sua dedizione al motorsport è innegabile. Non so come faccia”"
+   },
+   "last": "2026-11-19T06:13:51.070033+00:00"
+  },
+  "S8852": {
+   "title": "Sainz reflects on 250th F1 GP in Las Vegas",
+   "first": "2026-11-19T06:13:51.070035+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-19T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Carlos Sainz a Las Vegas per il suo 250° GP in Formula 1: “Provo un senso di orgoglio”"
+   },
+   "last": "2026-11-19T06:13:51.070038+00:00"
+  },
+  "S8853": {
+   "title": "Alonso on Dakar test plans and V8 absence from Le Mans, Indy",
+   "first": "2026-11-19T06:13:51.070040+00:00",
+   "sources": {
+    "AS": "2026-11-19T06:01:33+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Alonso recupera la ilusión"
+   },
+   "last": "2026-11-19T06:13:51.070042+00:00"
   }
  },
- "story_seq": 8846,
+ "story_seq": 8853,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16250,22 +16278,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T06:03:39.545050+00:00",
+ "last_run": "2026-11-19T06:13:45.850146+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
  "last_digest_at": "2026-11-18T19:04:20.882756+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T06:06:12.601060+00:00",
-   "title": "Antonelli'nin Mercedes kazancı Russell'ın gölgesinde kaldı",
-   "source": "PlanetF1"
-  },
-  {
-   "t": "2026-11-16T06:06:12.930517+00:00",
-   "title": "Szafnauer: Hamilton, Leclerc'in Ferrari'de normalleştirdiği stratejik hataları kabul etmiyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-16T06:26:15.554463+00:00",
    "title": "2026 F1 sezonunda ikincilik için beş pilot 33 puanda",
@@ -17575,6 +17593,26 @@
    "t": "2026-11-19T06:03:50.181280+00:00",
    "title": "Verstappen, 2026'nın kalanı için tek hedefini açıkladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-19T06:14:04.439349+00:00",
+   "title": "Ecclestone: Ferrari'de Elkann ve Vasseur cesaretsiz ve kararsız",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-19T06:14:04.980306+00:00",
+   "title": "Button, Alonso'nun motorsporuna olan bağlılığına hayran",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-19T06:14:05.530396+00:00",
+   "title": "Carlos Sainz, Las Vegas'ta 250. Formula 1 Grand Prix'sine çıkıyor",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-19T06:14:06.095855+00:00",
+   "title": "Verstappen, F1'in 2027 biyometrik veri planına sıcak bakmıyor",
+   "source": "The Race"
   }
  ]
 }
