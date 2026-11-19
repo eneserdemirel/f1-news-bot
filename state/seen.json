@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "492470422a93c300": "2026-11-05T12:43:50.959730+00:00",
-  "be55857b3daab884": "2026-11-05T12:43:50.959730+00:00",
-  "b930070248cfef93": "2026-11-05T12:43:50.959730+00:00",
   "d01c51174974253b": "2026-11-05T12:53:49.538418+00:00",
   "46ba57e25e74bb4f": "2026-11-05T12:53:49.538418+00:00",
   "001d1ef428ee5079": "2026-11-05T12:53:49.538418+00:00",
@@ -6661,7 +6658,11 @@
   "be588899fc569ed3": "2026-11-19T12:40:34.249485+00:00",
   "acca9eec6984ba1a": "2026-11-19T12:40:34.249485+00:00",
   "a688ca3d31612a56": "2026-11-19T12:40:34.249485+00:00",
-  "abe80e042d0801e2": "2026-11-19T12:40:34.249485+00:00"
+  "abe80e042d0801e2": "2026-11-19T12:40:34.249485+00:00",
+  "d3e3a3eccf0f7dac": "2026-11-19T12:50:33.902191+00:00",
+  "5084bd6cd7819655": "2026-11-19T12:50:33.902191+00:00",
+  "b4641dae83eff59d": "2026-11-19T12:50:33.902191+00:00",
+  "ee5b3da81128155d": "2026-11-19T12:50:33.902191+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7043,58 +7044,6 @@
     "ESPN F1": "Who's on College Football Playoff bubble ahead of committee's third ranking?"
    },
    "last": "2026-11-17T16:00:58.033378+00:00"
-  },
-  "S8226": {
-   "title": "NBA first-month review of all 30 teams",
-   "first": "2026-11-17T12:40:20.566177+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T12:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "What the NBA's first month has revealed about all 30 teams"
-   },
-   "last": "2026-11-17T12:50:29.388243+00:00"
-  },
-  "S8228": {
-   "title": "Opinion: USMNT doesn't need a Guardiola-style hero as manager",
-   "first": "2026-11-17T12:50:29.388253+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T08:39:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The USMNT doesn't need a hero like Pep Guardiola as its next manager"
-   },
-   "last": "2026-11-17T12:50:29.388280+00:00"
-  },
-  "S8229": {
-   "title": "Canucks 3-2 Mammoth NHL game recap",
-   "first": "2026-11-17T12:50:29.388286+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T07:05:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Canucks 3-2 Mammoth (Nov 16, 2026) Game Recap"
-   },
-   "last": "2026-11-17T12:50:29.388291+00:00"
-  },
-  "S8230": {
-   "title": "Bearman's future linked to Hamilton's Ferrari plans analysis",
-   "first": "2026-11-17T12:50:29.388295+00:00",
-   "sources": {
-    "GPblog": "2026-11-17T12:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Why Lewis Hamilton’s Ferrari future could decide Oliver Bearman’s next move"
-   },
-   "last": "2026-11-17T12:50:29.388300+00:00"
   },
   "S8231": {
    "title": "Bryson DeChambeau to join European Tour after LIV Golf demise",
@@ -14393,16 +14342,18 @@
    "sources": {
     "RacingNews365": "2026-11-19T03:02:00+00:00",
     "Motorsport-Total": "2026-11-19T07:09:20+00:00",
-    "Crash.net": "2026-11-19T11:19:59+00:00"
+    "Crash.net": "2026-11-19T11:19:59+00:00",
+    "RacingNews365 NL": "2026-11-19T12:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Liam Lawson responds to Helmut Marko declaration over Racing Bulls F1 seat",
     "Motorsport-Total": "Helmut Marko wollte anderen Fahrer: So reagiert Lawson auf seine F1-Zukunft - Motorsport-Total.com",
-    "Crash.net": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat"
+    "Crash.net": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat",
+    "RacingNews365 NL": "Lawson reageert op uitspraken Marko: \"Blij dat hij weg is\""
    },
-   "last": "2026-11-19T12:21:20.242225+00:00"
+   "last": "2026-11-19T12:50:38.603208+00:00"
   },
   "S8779": {
    "title": "Bottas says 2027 Cadillac confirmation gives him peace",
@@ -15355,7 +15306,8 @@
     "Crash.net": "2026-11-19T07:49:02+00:00",
     "RacingNews365 NL": "2026-11-19T09:00:00+00:00",
     "PlanetF1": "2026-11-19T09:50:02+00:00",
-    "GPblog": "2026-11-19T09:15:00+00:00"
+    "GPblog": "2026-11-19T09:15:00+00:00",
+    "RacingNews365": "2026-11-19T12:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15366,9 +15318,10 @@
     "Crash.net": "Why Max Verstappen won’t be involved in F1’s new driver heath data plan after WHOOP partnership",
     "RacingNews365 NL": "Verstappen weigert nieuwe F1-innovatie: \"Mensen hoeven dat niet te weten\"",
     "PlanetF1": "‘Won’t be involved’ – Max Verstappen breaks rank over ‘landmark’ F1 2027 change",
-    "GPblog": "Verstappen rejects F1 heart-rate monitoring initiative over privacy concerns"
+    "GPblog": "Verstappen rejects F1 heart-rate monitoring initiative over privacy concerns",
+    "RacingNews365": "Max Verstappen issues F1 refusal over 'invasion of privacy' concern"
    },
-   "last": "2026-11-19T12:21:20.242209+00:00"
+   "last": "2026-11-19T12:50:38.603202+00:00"
   },
   "S8849": {
    "title": "Ecclestone urges Ferrari to re-sign Sainz",
@@ -16650,9 +16603,35 @@
     "ESPN F1": "Manchester United finally get Mauricio Pochettino after a decade of near misses"
    },
    "last": "2026-11-19T12:40:37.736697+00:00"
+  },
+  "S8944": {
+   "title": "ESPN podcast episode on GTA 6 release day",
+   "first": "2026-11-19T12:50:38.603176+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T12:41:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Unsportsmanlike with Evan, Canty and Michelle - Hour 1: GTA 6 Day"
+   },
+   "last": "2026-11-19T12:50:38.603195+00:00"
+  },
+  "S8945": {
+   "title": "Why McLaren keeps developing its current car",
+   "first": "2026-11-19T12:50:38.603210+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-19T12:05:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Warum McLaren das alte Auto immer noch weiterentwickelt"
+   },
+   "last": "2026-11-19T12:50:38.603214+00:00"
   }
  },
- "story_seq": 8943,
+ "story_seq": 8945,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16771,22 +16750,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T12:40:34.249485+00:00",
+ "last_run": "2026-11-19T12:50:33.902191+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T12:47:38.026648+00:00",
-   "title": "Hamilton ve Leclerc arasında eşit statü tartışması: okuyucu anketi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-16T12:47:38.512118+00:00",
-   "title": "Las Vegas GP, 2026 için neon ilhamlı yeni kupasını tanıttı",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-16T12:57:28.240842+00:00",
    "title": "Verstappen'in şampiyon mekanikçisi Red Bull'dan ayrılıp Ford'a geçiyor",
@@ -18171,6 +18140,11 @@
    "t": "2026-11-19T12:30:49.241746+00:00",
    "title": "F1 pilotları ilk kez LEGO minifigür olarak çıkıyor",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-19T12:50:41.745131+00:00",
+   "title": "McLaren eski aracını neden hâlâ geliştiriyor?",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
