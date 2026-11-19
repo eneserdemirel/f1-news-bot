@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c7b3796a4480e656": "2026-11-05T17:05:24.168660+00:00",
-  "6bdb08c6272a43c0": "2026-11-05T17:05:24.168660+00:00",
-  "1185d2290cca339f": "2026-11-05T17:05:24.168660+00:00",
   "a94276b79f93189c": "2026-11-05T17:15:21.806082+00:00",
   "2f4cbf3dc854fd07": "2026-11-05T17:15:21.806082+00:00",
   "8e1a23efbd6ff524": "2026-11-05T17:15:21.806082+00:00",
@@ -6653,7 +6650,12 @@
   "19055cbfe918fd56": "2026-11-19T16:50:37.576022+00:00",
   "907cf832a8daf6e2": "2026-11-19T16:50:37.576022+00:00",
   "14e3045f2412c15a": "2026-11-19T17:00:39.974839+00:00",
-  "4b578e9b00082138": "2026-11-19T17:00:39.974839+00:00"
+  "4b578e9b00082138": "2026-11-19T17:00:39.974839+00:00",
+  "f3bd75a3f12a6f40": "2026-11-19T17:10:36.671147+00:00",
+  "c300d309e2bbdd87": "2026-11-19T17:10:36.671147+00:00",
+  "7cda767b3bbd8461": "2026-11-19T17:10:36.671147+00:00",
+  "1b8d808e01efe96e": "2026-11-19T17:10:36.671147+00:00",
+  "a85d2b74dfcd3fa7": "2026-11-19T17:10:36.671147+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6910,32 +6912,6 @@
     "ESPN F1": "Texans place LB Azeez Al-Shaair, team's leading tackler, on IR"
    },
    "last": "2026-11-17T18:10:53.558070+00:00"
-  },
-  "S8280": {
-   "title": "Red Bull's mid-season comeback suggests hope for 2027",
-   "first": "2026-11-17T17:01:07.102921+00:00",
-   "sources": {
-    "RacingNews365 NL": "2026-11-17T17:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365 NL": "Razendsnelle Red Bull-comeback wijst op kansen voor 2027"
-   },
-   "last": "2026-11-17T17:01:07.102926+00:00"
-  },
-  "S8281": {
-   "title": "Pressure mounting on F1 team boss after poor 2026",
-   "first": "2026-11-17T17:01:07.102929+00:00",
-   "sources": {
-    "GPFans": "2026-11-17T16:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "'Pressure mounting' on F1 team boss after shocking 2026 struggles"
-   },
-   "last": "2026-11-17T17:01:07.102934+00:00"
   },
   "S8282": {
    "title": "Sainz previews 250th GP and Williams' key season",
@@ -16390,28 +16366,32 @@
    "first": "2026-11-19T16:10:47.528713+00:00",
    "sources": {
     "RacingNews365": "2026-11-19T16:00:00+00:00",
-    "RacingNews365 NL": "2026-11-19T16:50:00+00:00"
+    "RacingNews365 NL": "2026-11-19T16:50:00+00:00",
+    "PlanetF1": "2026-11-19T17:08:18+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Haas respond to Oliver Bearman contract frustrations with unwavering stance",
-    "RacingNews365 NL": "Haas-teambaas reageert op teleurgestelde Bearman"
+    "RacingNews365 NL": "Haas-teambaas reageert op teleurgestelde Bearman",
+    "PlanetF1": "Haas issues response to Oliver Bearman frustration over contract delay"
    },
-   "last": "2026-11-19T17:00:42.312123+00:00"
+   "last": "2026-11-19T17:10:42.426054+00:00"
   },
   "S8987": {
    "title": "Leclerc calls Mexico five-second penalty harsh after Lawson move",
    "first": "2026-11-19T16:10:47.528725+00:00",
    "sources": {
-    "PlanetF1": "2026-11-19T16:01:36+00:00"
+    "PlanetF1": "2026-11-19T16:01:36+00:00",
+    "Motorsport-Total": "2026-11-19T17:00:04+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Charles Leclerc addresses ‘harsh’ FIA punishment after ‘F2’ move on Liam Lawson"
+    "PlanetF1": "Charles Leclerc addresses ‘harsh’ FIA punishment after ‘F2’ move on Liam Lawson",
+    "Motorsport-Total": "Leclerc kritisiert Brasilien-Strafe nach Lawson-Kontakt als \"etwas hart\" - Motorsport-Total.com"
    },
-   "last": "2026-11-19T16:10:47.528728+00:00"
+   "last": "2026-11-19T17:10:42.426057+00:00"
   },
   "S8988": {
    "title": "Vegas new F1 rules challenge Verstappen and rivals on battery and tyres",
@@ -16555,9 +16535,48 @@
     "RacingNews365": "Isack Hadjar makes defiant Red Bull statement despite being 'happy' for Liam Lawson"
    },
    "last": "2026-11-19T17:00:42.312117+00:00"
+  },
+  "S8999": {
+   "title": "Devin Haney misdemeanor assault case dismissed",
+   "first": "2026-11-19T17:10:42.426021+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T17:05:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Misdemeanor assault case against Devin Haney, father dismissed"
+   },
+   "last": "2026-11-19T17:10:42.426037+00:00"
+  },
+  "S9000": {
+   "title": "Ravens send CB Humphrey home after 'criminals' comment",
+   "first": "2026-11-19T17:10:42.426041+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T17:02:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ravens send CB Humphrey home, say he'll be inactive after his 'criminals' comment"
+   },
+   "last": "2026-11-19T17:10:42.426045+00:00"
+  },
+  "S9001": {
+   "title": "Colts-Texans odds and best bets preview",
+   "first": "2026-11-19T17:10:42.426047+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T16:59:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colts-Texans odds, best bets: Is Houston laying too many points?"
+   },
+   "last": "2026-11-19T17:10:42.426050+00:00"
   }
  },
- "story_seq": 8998,
+ "story_seq": 9001,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16676,22 +16695,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T17:00:39.974839+00:00",
+ "last_run": "2026-11-19T17:10:36.671147+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T17:07:29.690743+00:00",
-   "title": "McLaren'ın Las Vegas'taki üçüncülük mücadelesindeki kritik sınavı",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-16T17:07:30.291097+00:00",
-   "title": "F1 Playlist del direttore: Marc, Lawson ve 2026 Robin sorusu",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-16T17:17:27.015931+00:00",
    "title": "Sainz: Bugün 2024'teki halimden daha iyi bir pilotum",
