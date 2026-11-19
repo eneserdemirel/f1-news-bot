@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d7ffd21390706d2f": "2026-11-05T01:32:34.083595+00:00",
   "f22765f3f9ec450e": "2026-11-05T02:02:34.497276+00:00",
   "61b37ed74eab5727": "2026-11-05T02:12:35.411862+00:00",
   "c798055126252275": "2026-11-05T02:12:35.411862+00:00",
@@ -6576,7 +6575,12 @@
   "bc2afd92a3bf34f5": "2026-11-19T01:32:01.270230+00:00",
   "2e174b82a0861912": "2026-11-19T01:32:01.270230+00:00",
   "0b954707891ce169": "2026-11-19T01:32:01.270230+00:00",
-  "af0db7f26cbbfa8c": "2026-11-19T01:32:01.270230+00:00"
+  "af0db7f26cbbfa8c": "2026-11-19T01:32:01.270230+00:00",
+  "dd06cce84ffbd0e5": "2026-11-19T01:42:02.141864+00:00",
+  "4f07e0caf3d6c606": "2026-11-19T01:42:02.141864+00:00",
+  "dc51ccbf65b0df14": "2026-11-19T01:42:02.141864+00:00",
+  "77b3dd3e524716c5": "2026-11-19T01:42:02.141864+00:00",
+  "fe96621133d8d345": "2026-11-19T01:42:02.141864+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6757,58 +6761,6 @@
     "ESPN F1": "What does the future hold for the WTA Finals?"
    },
    "last": "2026-11-17T02:38:46.249097+00:00"
-  },
-  "S8110": {
-   "title": "JT Pettigrew fights off defender for and-1 basketball play",
-   "first": "2026-11-17T01:38:46.277273+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:28:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "JT Pettigrew fights off defender for and-1"
-   },
-   "last": "2026-11-17T01:38:46.277293+00:00"
-  },
-  "S8111": {
-   "title": "Michael Zanoni and-1 basketball play",
-   "first": "2026-11-17T01:38:46.277297+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:19:38+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Michael Zanoni somehow gets the and-1 to fall"
-   },
-   "last": "2026-11-17T01:38:46.277302+00:00"
-  },
-  "S8112": {
-   "title": "Senoj Jones and-1 basketball play",
-   "first": "2026-11-17T01:38:46.277306+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:12:46+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Senoj Jones gets the and-1"
-   },
-   "last": "2026-11-17T01:38:46.277309+00:00"
-  },
-  "S8113": {
-   "title": "Solene Jackson basket plus foul basketball play",
-   "first": "2026-11-17T01:38:46.277312+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:12:31+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Solene Jackson gets the basket plus the foul"
-   },
-   "last": "2026-11-17T01:38:46.277315+00:00"
   },
   "S8114": {
    "title": "Iona Gaels vs. UMBC Retrievers game highlights",
@@ -15312,9 +15264,74 @@
     "PlanetF1": "Oliver Bearman frustrated by Haas contract delay as F1 2027 uncertainty continues"
    },
    "last": "2026-11-19T01:32:05.082840+00:00"
+  },
+  "S8751": {
+   "title": "Oliwia Pelka hits three-pointer from behind the arc",
+   "first": "2026-11-19T01:42:04.751861+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:29:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Oliwia Pelka nails it from behind the arc"
+   },
+   "last": "2026-11-19T01:42:04.751880+00:00"
+  },
+  "S8752": {
+   "title": "Kobe McDowell-White gets and-1 basket to fall",
+   "first": "2026-11-19T01:42:04.751885+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:28:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kobe McDowell-White somehow gets the and-1 to fall"
+   },
+   "last": "2026-11-19T01:42:04.751890+00:00"
+  },
+  "S8753": {
+   "title": "KJ Lamonte fights off defender for and-1",
+   "first": "2026-11-19T01:42:04.751894+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:27:11+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "KJ Lamonte fights off defender for and-1"
+   },
+   "last": "2026-11-19T01:42:04.751897+00:00"
+  },
+  "S8754": {
+   "title": "Anthony Smith III gets basket plus the foul",
+   "first": "2026-11-19T01:42:04.751900+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:27:08+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Anthony Smith III gets the basket plus the foul"
+   },
+   "last": "2026-11-19T01:42:04.751903+00:00"
+  },
+  "S8755": {
+   "title": "Charles Bassey denies Dallas Mavericks with stuff",
+   "first": "2026-11-19T01:42:04.751905+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:20:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Charles Bassey denies Dallas Mavericks with stuff"
+   },
+   "last": "2026-11-19T01:42:04.751908+00:00"
   }
  },
- "story_seq": 8750,
+ "story_seq": 8755,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15433,7 +15450,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T01:32:01.270230+00:00",
+ "last_run": "2026-11-19T01:42:02.141864+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
