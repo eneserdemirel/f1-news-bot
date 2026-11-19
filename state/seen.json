@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7dfd6737d69d203d": "2026-11-05T15:04:26.387417+00:00",
-  "ee05e5b453a08f97": "2026-11-05T15:04:26.387417+00:00",
-  "5b94c3f94aeaf454": "2026-11-05T15:04:26.387417+00:00",
-  "403c802eadebe262": "2026-11-05T15:04:26.387417+00:00",
-  "074cb291883ffc4e": "2026-11-05T15:04:26.387417+00:00",
   "3eebb43a4ebc944c": "2026-11-05T15:14:24.603138+00:00",
   "5d42f890d5521bad": "2026-11-05T15:14:24.603138+00:00",
   "e4b398f596fed6e6": "2026-11-05T15:24:24.094643+00:00",
@@ -6660,7 +6655,12 @@
   "40c895415591c4fb": "2026-11-19T14:50:53.628200+00:00",
   "3979ef192ec80464": "2026-11-19T15:00:37.802584+00:00",
   "eaa12bff6191f7bb": "2026-11-19T15:00:37.802584+00:00",
-  "0c66ea5f613e2588": "2026-11-19T15:00:37.802584+00:00"
+  "0c66ea5f613e2588": "2026-11-19T15:00:37.802584+00:00",
+  "57ac45723e3e4fa5": "2026-11-19T15:10:34.732301+00:00",
+  "b3393451e722a675": "2026-11-19T15:10:34.732301+00:00",
+  "843f953fae001e47": "2026-11-19T15:10:34.732301+00:00",
+  "a92e5b4c80280e82": "2026-11-19T15:10:34.732301+00:00",
+  "377ce6a48955432e": "2026-11-19T15:10:34.732301+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7042,19 +7042,6 @@
     "RacingNews365": "Mercedes to unleash long-awaited F1 upgrade at Las Vegas GP with a twist"
    },
    "last": "2026-11-17T15:40:57.290937+00:00"
-  },
-  "S8253": {
-   "title": "Which Schumacher record Hamilton can still equal in 2026",
-   "first": "2026-11-17T15:00:52.378643+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-17T14:59:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Welchen Schumacher-Rekord Lewis Hamilton 2026 noch einstellen kann - Motorsport-Total.com"
-   },
-   "last": "2026-11-17T15:00:52.378660+00:00"
   },
   "S8254": {
    "title": "Dan Campbell says Hutchinson injury won't prompt celebration ban",
@@ -15202,7 +15189,8 @@
     "Sky Sports F1": "2026-11-19T06:00:00+00:00",
     "Crash.net": "2026-11-19T07:01:03+00:00",
     "Autosport": "2026-11-19T11:49:02+00:00",
-    "FormulaPassion": "2026-11-19T09:00:00+00:00"
+    "FormulaPassion": "2026-11-19T09:00:00+00:00",
+    "Motorsport Week": "2026-11-19T15:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15210,9 +15198,10 @@
     "Sky Sports F1": "Hamilton denies lack of trust with Ferrari after strategy issues",
     "Crash.net": "Lewis Hamilton denies broken trust with Ferrari despite twice overruling strategy",
     "Autosport": "Hamilton insists there are no \"trust\" problems at Ferrari",
-    "FormulaPassion": "Hamilton: “Non c’è mancanza di fiducia da parte mia nei confronti del team, Carlo Santi sta facendo un lavoro straordinario”"
+    "FormulaPassion": "Hamilton: “Non c’è mancanza di fiducia da parte mia nei confronti del team, Carlo Santi sta facendo un lavoro straordinario”",
+    "Motorsport Week": "Lewis Hamilton hits back at no-trust claims at Ferrari"
    },
-   "last": "2026-11-19T12:21:20.242250+00:00"
+   "last": "2026-11-19T15:10:37.603795+00:00"
   },
   "S8862": {
    "title": "Macau FIA GT free practice 1 results",
@@ -15359,15 +15348,17 @@
    "first": "2026-11-19T07:03:46.727824+00:00",
    "sources": {
     "Formula 1": "2026-11-19T07:03:46.727839+00:00",
-    "Crash.net": "2026-11-19T10:17:50+00:00"
+    "Crash.net": "2026-11-19T10:17:50+00:00",
+    "FormulaPassion": "2026-11-19T15:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Piastri opens up on decision to split with management team",
-    "Crash.net": "Oscar Piastri explains split with Mark Webber management"
+    "Crash.net": "Oscar Piastri explains split with Mark Webber management",
+    "FormulaPassion": "Piastri sulla separazione da Webber: “Era meglio proseguire per strade diverse”"
    },
-   "last": "2026-11-19T12:21:20.242231+00:00"
+   "last": "2026-11-19T15:10:37.603800+00:00"
   },
   "S8873": {
    "title": "Hamilton says Ferrari–Leclerc relationship is clearly defined after Brazil talks",
@@ -16720,9 +16711,22 @@
     "Formula 1": "All the stories that got the Las Vegas paddock talking"
    },
    "last": "2026-11-19T15:00:40.564784+00:00"
+  },
+  "S8975": {
+   "title": "Armani Eusebio offensive guard recruiting profile",
+   "first": "2026-11-19T15:10:37.603758+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T15:07:27+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Armani Eusebio Offensive Guard Recruiting Profile"
+   },
+   "last": "2026-11-19T15:10:37.603789+00:00"
   }
  },
- "story_seq": 8974,
+ "story_seq": 8975,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16841,17 +16845,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T15:00:37.802584+00:00",
+ "last_run": "2026-11-19T15:10:34.732301+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T15:07:29.293773+00:00",
-   "title": "Ferrari, Las Vegas'ta diskalifiye kaosunun yaşandığı korkunç bir hafta sonuyla karşı karşıya",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-16T15:27:26.957521+00:00",
    "title": "Leclerc, SportsPro 2026 pazarlanabilirlik sıralamasında Hamilton'ın önüne geçti",
