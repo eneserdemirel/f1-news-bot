@@ -6599,7 +6599,12 @@
   "d8a0bd9077e458e2": "2026-11-19T03:12:26.707625+00:00",
   "671a07a8fe8403d4": "2026-11-19T03:12:26.707625+00:00",
   "5ab319c85680c053": "2026-11-19T03:12:26.707625+00:00",
-  "8936ac20ff2cf09c": "2026-11-19T03:12:26.707625+00:00"
+  "8936ac20ff2cf09c": "2026-11-19T03:12:26.707625+00:00",
+  "57543aba803b82df": "2026-11-19T03:22:02.223896+00:00",
+  "023b2ba4abe7d858": "2026-11-19T03:22:02.223896+00:00",
+  "c0bf0a220a204770": "2026-11-19T03:22:02.223896+00:00",
+  "81316003a9d5bf55": "2026-11-19T03:22:02.223896+00:00",
+  "3191347c638e1962": "2026-11-19T03:22:02.223896+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6755,19 +6760,6 @@
    },
    "last": "2026-11-17T10:20:19.780399+00:00"
   },
-  "S8114": {
-   "title": "Iona Gaels vs. UMBC Retrievers game highlights",
-   "first": "2026-11-17T01:38:46.277317+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T00:01:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Iona Gaels vs. UMBC Retrievers: Game Highlights"
-   },
-   "last": "2026-11-17T03:18:46.545979+00:00"
-  },
   "S8119": {
    "title": "Adan Diggs, 2027 shooting guard, commits to Arizona",
    "first": "2026-11-17T02:08:46.678079+00:00",
@@ -6793,32 +6785,6 @@
     "ESPN F1": "Heat star Bam Adebayo exits vs. Rockets early with hip tightness"
    },
    "last": "2026-11-17T06:59:31.389211+00:00"
-  },
-  "S8131": {
-   "title": "Imani Daniel gets the and-1 in basketball play",
-   "first": "2026-11-17T03:18:46.545942+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T02:05:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Imani Daniel gets the and-1"
-   },
-   "last": "2026-11-17T03:18:46.545964+00:00"
-  },
-  "S8132": {
-   "title": "Josh Hayes fights off defender for and-1 basketball play",
-   "first": "2026-11-17T03:18:46.545969+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T01:49:03+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Josh Hayes fights off defender for and-1"
-   },
-   "last": "2026-11-17T03:18:46.545973+00:00"
   },
   "S8133": {
    "title": "Atreonia Garner gets the and-1 in basketball play",
@@ -15071,16 +15037,18 @@
    "sources": {
     "PlanetF1": "2026-11-19T01:24:33+00:00",
     "The Race": "2026-11-19T02:04:50+00:00",
-    "Formula 1": "2026-11-19T03:02:04.862379+00:00"
+    "Formula 1": "2026-11-19T03:02:04.862379+00:00",
+    "Motorsport-Total": "2026-11-19T03:19:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Oliver Bearman frustrated by Haas contract delay as F1 2027 uncertainty continues",
     "The Race": "Bearman's strange Ferrari contract situation explained",
-    "Formula 1": "Bearman frustrated by delay in confirming Haas future"
+    "Formula 1": "Bearman frustrated by delay in confirming Haas future",
+    "Motorsport-Total": "\"Keine Entschuldigung\": Bearman frustriert über fehlenden F1-Vertrag 2027 - Motorsport-Total.com"
    },
-   "last": "2026-11-19T03:02:04.862395+00:00"
+   "last": "2026-11-19T03:22:06.579799+00:00"
   },
   "S8751": {
    "title": "Oliwia Pelka hits three-pointer from behind the arc",
@@ -15445,9 +15413,61 @@
     "RacingNews365": "Liam Lawson responds to Helmut Marko declaration over Racing Bulls F1 seat"
    },
    "last": "2026-11-19T03:12:31.348090+00:00"
+  },
+  "S8779": {
+   "title": "Bottas says 2027 Cadillac confirmation gives him peace",
+   "first": "2026-11-19T03:22:06.579752+00:00",
+   "sources": {
+    "Formula 1": "2026-11-19T03:22:06.579767+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "'We can get rid of the noise' – Bottas after future confirmed"
+   },
+   "last": "2026-11-19T03:22:06.579771+00:00"
+  },
+  "S8780": {
+   "title": "76ers beat Magic 121-116 in NBA game recap",
+   "first": "2026-11-19T03:22:06.579776+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:18:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "76ers 121-116 Magic (Nov 18, 2026) Game Recap"
+   },
+   "last": "2026-11-19T03:22:06.579781+00:00"
+  },
+  "S8781": {
+   "title": "Noah Barnett and-1 basket highlight",
+   "first": "2026-11-19T03:22:06.579784+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T02:11:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Noah Barnett with the and-1 bucket"
+   },
+   "last": "2026-11-19T03:22:06.579789+00:00"
+  },
+  "S8782": {
+   "title": "LSU New Orleans vs. Texas Tech live score",
+   "first": "2026-11-19T03:22:06.579792+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:57:47+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "LSU New Orleans vs. Texas Tech (Nov 18, 2026) Live Score"
+   },
+   "last": "2026-11-19T03:22:06.579795+00:00"
   }
  },
- "story_seq": 8778,
+ "story_seq": 8782,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15566,7 +15586,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T03:12:26.707625+00:00",
+ "last_run": "2026-11-19T03:22:02.223896+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
