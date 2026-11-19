@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c4712277bdf04510": "2026-11-05T05:43:09.481329+00:00",
   "4714685fd335406e": "2026-11-05T05:53:12.557917+00:00",
   "a5e9ef3778e051eb": "2026-11-05T05:53:12.557917+00:00",
   "8694c753186f4738": "2026-11-05T06:03:09.701173+00:00",
@@ -6647,7 +6646,9 @@
   "b0e6ecc3f869ff1d": "2026-11-19T05:33:40.127495+00:00",
   "ca046e30c2ce8466": "2026-11-19T05:33:40.127495+00:00",
   "7a1682cca65475db": "2026-11-19T05:33:40.127495+00:00",
-  "b0af9bc142e6c812": "2026-11-19T05:33:40.127495+00:00"
+  "b0af9bc142e6c812": "2026-11-19T05:33:40.127495+00:00",
+  "88a3588977a755eb": "2026-11-19T05:43:42.026905+00:00",
+  "27574bed5fd68ded": "2026-11-19T05:43:42.026905+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14161,14 +14162,16 @@
    "title": "Vasseur shares details of crunch Hamilton-Leclerc Ferrari meeting",
    "first": "2026-11-18T22:12:29.928559+00:00",
    "sources": {
-    "GPblog": "2026-11-18T22:00:00+00:00"
+    "GPblog": "2026-11-18T22:00:00+00:00",
+    "Motorsport-Total": "2026-11-19T05:33:42+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Vasseur shares details of crunch Ferrari meeting with Hamilton and Leclerc"
+    "GPblog": "Vasseur shares details of crunch Ferrari meeting with Hamilton and Leclerc",
+    "Motorsport-Total": "Ferrari-Krisengespräch in Brasilien: Nach zehn Minuten war alles geklärt - Motorsport-Total.com"
    },
-   "last": "2026-11-19T03:12:31.348101+00:00"
+   "last": "2026-11-19T05:43:46.364907+00:00"
   },
   "S8696": {
    "title": "F1 Today roundup: V8 tease and Piastri Vegas penalty",
@@ -16070,9 +16073,22 @@
     "RacingNews365": "Oscar Piastri wades into sandpaper-gate crisis engulfing Australian cricket"
    },
    "last": "2026-11-19T05:33:47.744715+00:00"
+  },
+  "S8841": {
+   "title": "Wofford 79-77 Charleston Southern college basketball final score",
+   "first": "2026-11-19T05:43:46.364884+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:40:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Wofford 79-77 Charleston Southern (Nov 18, 2026) Final Score"
+   },
+   "last": "2026-11-19T05:43:46.364901+00:00"
   }
  },
- "story_seq": 8840,
+ "story_seq": 8841,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16191,7 +16207,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T05:33:40.127495+00:00",
+ "last_run": "2026-11-19T05:43:42.026905+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
