@@ -6611,7 +6611,9 @@
   "ceda772cc2c26fce": "2026-11-19T21:21:52.955409+00:00",
   "6d45b5e4b1c35f8c": "2026-11-19T21:26:59.740096+00:00",
   "7979e5e6d58d30d0": "2026-11-19T21:26:59.740096+00:00",
-  "cf8e295b9a5db919": "2026-11-19T21:26:59.740096+00:00"
+  "cf8e295b9a5db919": "2026-11-19T21:26:59.740096+00:00",
+  "d8a41afd033cbe0f": "2026-11-19T21:31:51.572881+00:00",
+  "cdd74764324167e2": "2026-11-19T21:31:51.572881+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15757,7 +15759,8 @@
     "FIA": "2026-11-19T19:00:00+00:00",
     "Sky Sports F1": "2026-11-19T20:37:00+00:00",
     "The Race": "2026-11-19T20:23:09+00:00",
-    "RacingNews365": "2026-11-19T20:26:00+00:00"
+    "RacingNews365": "2026-11-19T20:26:00+00:00",
+    "Formula 1": "2026-11-19T21:31:53.898952+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15765,9 +15768,10 @@
     "FIA": "FIA TO INTRODUCE FULL-TIME STEWARDS TO FIA FORMULA ONE WORLD CHAMPIONSHIP FROM 2027",
     "Sky Sports F1": "FIA to introduce full-time F1 stewards",
     "The Race": "Major F1 stewarding revamp coming for 2027",
-    "RacingNews365": "Breaking: FIA to introduce full-time stewards for F1 from 2027"
+    "RacingNews365": "Breaking: FIA to introduce full-time stewards for F1 from 2027",
+    "Formula 1": "FIA to introduce full-time stewards in F1 from 2027"
    },
-   "last": "2026-11-19T20:52:42.662555+00:00"
+   "last": "2026-11-19T21:31:53.898971+00:00"
   },
   "S9006": {
    "title": "Infantino calls for fair play in FIFA elections",
@@ -16307,9 +16311,22 @@
     "ESPN F1": "Michigan WR Marsh facing misdemeanor indecent exposure charge"
    },
    "last": "2026-11-19T21:27:02.380406+00:00"
+  },
+  "S9047": {
+   "title": "Rosberg says helmet colour change helped him beat Hamilton",
+   "first": "2026-11-19T21:31:53.898977+00:00",
+   "sources": {
+    "GPFans": "2026-11-19T21:28:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Nico Rosberg reveals how changing his helmet colour helped him beat Lewis Hamilton to F1 title"
+   },
+   "last": "2026-11-19T21:31:53.898984+00:00"
   }
  },
- "story_seq": 9046,
+ "story_seq": 9047,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16428,7 +16445,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T21:26:59.740096+00:00",
+ "last_run": "2026-11-19T21:31:51.572881+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -17797,6 +17814,11 @@
   {
    "t": "2026-11-19T20:53:02.127956+00:00",
    "title": "Rob Smedley, Oscar Piastri'yi 2026'nın en hayal kırıklığı yaratan pilotu olarak gösterdi",
+   "source": "GPFans"
+  },
+  {
+   "t": "2026-11-19T21:31:56.811860+00:00",
+   "title": "Rosberg, kask rengini değiştirmenin Hamilton'ı yenmesine nasıl yardımcı olduğunu açıkladı",
    "source": "GPFans"
   }
  ]
