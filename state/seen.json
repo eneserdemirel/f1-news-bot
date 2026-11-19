@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "be9e5a49b06e8ea6": "2026-11-05T13:53:51.138151+00:00",
-  "cf32fe39029166b2": "2026-11-05T13:53:51.138151+00:00",
-  "50cd3c626c4cccb6": "2026-11-05T13:53:51.138151+00:00",
   "404085f99610d3fe": "2026-11-05T14:03:51.390659+00:00",
   "ecc77242997d13c6": "2026-11-05T14:03:51.390659+00:00",
   "f3488232374a74a5": "2026-11-05T14:03:51.390659+00:00",
@@ -6646,7 +6643,10 @@
   "f3f746748bfa15bf": "2026-11-19T13:50:33.599224+00:00",
   "3fa9c8092d8c8569": "2026-11-19T13:50:33.599224+00:00",
   "cb880c300f666d24": "2026-11-19T13:50:33.599224+00:00",
-  "b82c94f942fe011f": "2026-11-19T13:50:33.599224+00:00"
+  "b82c94f942fe011f": "2026-11-19T13:50:33.599224+00:00",
+  "4e2b8ab3ba0d2554": "2026-11-19T14:00:33.928232+00:00",
+  "69635a698ef7f51b": "2026-11-19T14:00:33.928232+00:00",
+  "a46b617306bf2d5f": "2026-11-19T14:00:33.928232+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7016,45 +7016,6 @@
     "ESPN F1": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency"
    },
    "last": "2026-11-17T17:40:53.444053+00:00"
-  },
-  "S8241": {
-   "title": "Thomas Frank says Crystal Palace job too good to refuse",
-   "first": "2026-11-17T14:00:26.325868+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T13:26:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Thomas Frank: Crystal Palace job 'too good' to turn down"
-   },
-   "last": "2026-11-17T14:00:26.325885+00:00"
-  },
-  "S8242": {
-   "title": "Mercedes technical director on psychological strain of F1 role",
-   "first": "2026-11-17T14:00:26.325891+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-17T13:52:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "\"Selbsthass\": Mercedes-Technikdirektor über psychische Belastung - Motorsport-Total.com"
-   },
-   "last": "2026-11-17T14:00:26.325897+00:00"
-  },
-  "S8243": {
-   "title": "Mercedes F1 team revenue and valuation figures reported",
-   "first": "2026-11-17T14:00:26.325900+00:00",
-   "sources": {
-    "Auto Motor und Sport": "2026-11-17T12:54:38+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Auto Motor und Sport": "mercedes-f1-team-einnahmen-wert"
-   },
-   "last": "2026-11-17T14:00:26.325905+00:00"
   },
   "S8244": {
    "title": "Khulna Division wins National Cricket League title for record eighth time",
@@ -16618,9 +16579,48 @@
     "GPblog": "McLaren wants to stop Verstappen achieving his main goal for 2026"
    },
    "last": "2026-11-19T13:50:39.544510+00:00"
+  },
+  "S8957": {
+   "title": "Footballers gaming GTA 6 on release day",
+   "first": "2026-11-19T14:00:37.596994+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T13:45:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grand Theft Auto 6: Footballers gaming on release day, 'let's play'"
+   },
+   "last": "2026-11-19T14:00:37.597014+00:00"
+  },
+  "S8958": {
+   "title": "Panthers rookie report after Week 11 NFL game",
+   "first": "2026-11-19T14:00:37.597018+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Monroe Freeling, Lee Hunter top Panthers' rookie report at Week 11"
+   },
+   "last": "2026-11-19T14:00:37.597022+00:00"
+  },
+  "S8959": {
+   "title": "Alonso again criticises F1 engine rules",
+   "first": "2026-11-19T14:00:37.597025+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-19T12:51:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Alonso giftet erneut gegen die Motoren-Regeln"
+   },
+   "last": "2026-11-19T14:00:37.597028+00:00"
   }
  },
- "story_seq": 8956,
+ "story_seq": 8959,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16739,7 +16739,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T13:50:33.599224+00:00",
+ "last_run": "2026-11-19T14:00:33.928232+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
@@ -18119,6 +18119,11 @@
    "t": "2026-11-19T13:50:45.186437+00:00",
    "title": "McLaren, Verstappen'in Red Bull ile üçüncülük hedefini engellemek istiyor",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-19T14:00:41.512629+00:00",
+   "title": "Alonso motor kurallarına yine tepki gösterdi",
+   "source": "Auto Motor und Sport"
   }
  ]
 }
