@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0b2c855f8769b1c0": "2026-11-05T05:13:10.005664+00:00",
-  "5b65076d1f9c470e": "2026-11-05T05:13:10.005664+00:00",
   "120505d06e55ca21": "2026-11-05T05:23:10.373875+00:00",
   "247154dea8079f0d": "2026-11-05T05:23:10.373875+00:00",
   "b963c77a59f57669": "2026-11-05T05:33:09.892920+00:00",
@@ -6638,7 +6636,12 @@
   "c7c3d4dd6eef9504": "2026-11-19T04:53:40.821287+00:00",
   "2eac336087d51b85": "2026-11-19T05:03:44.205840+00:00",
   "15804b70fe47828b": "2026-11-19T05:03:44.205840+00:00",
-  "8d1adb50868c4712": "2026-11-19T05:03:44.205840+00:00"
+  "8d1adb50868c4712": "2026-11-19T05:03:44.205840+00:00",
+  "6ef7aabdc89be79d": "2026-11-19T05:13:42.435744+00:00",
+  "ba843395027deaac": "2026-11-19T05:13:42.435744+00:00",
+  "e2d2aef9637da225": "2026-11-19T05:13:42.435744+00:00",
+  "0a2a0b6e8ab92bd4": "2026-11-19T05:13:42.435744+00:00",
+  "b4502a5c98286549": "2026-11-19T05:13:42.435744+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15923,9 +15926,74 @@
     "AS": "La mínima “esperanza” de Sainz para puntuar en Las Vegas"
    },
    "last": "2026-11-19T05:03:46.982963+00:00"
+  },
+  "S8831": {
+   "title": "Owen Freeman and-1 basketball highlight",
+   "first": "2026-11-19T05:13:45.137268+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T05:05:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Owen Freeman gets the and-1 to fall"
+   },
+   "last": "2026-11-19T05:13:45.137286+00:00"
+  },
+  "S8832": {
+   "title": "Tyrin Jones slam dunk vs. Auburn highlight",
+   "first": "2026-11-19T05:13:45.137291+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T05:05:12+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tyrin Jones elevates for slam dunk vs. Auburn Tigers"
+   },
+   "last": "2026-11-19T05:13:45.137295+00:00"
+  },
+  "S8833": {
+   "title": "Sandro Mamukelashvili powerful slam dunk highlight",
+   "first": "2026-11-19T05:13:45.137298+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T04:59:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sandro Mamukelashvili rocks the rim with powerful slam dunk"
+   },
+   "last": "2026-11-19T05:13:45.137302+00:00"
+  },
+  "S8834": {
+   "title": "Nick Bosa on 4-game sack drought comments",
+   "first": "2026-11-19T05:13:45.137304+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:47:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'"
+   },
+   "last": "2026-11-19T05:13:45.137307+00:00"
+  },
+  "S8835": {
+   "title": "Start time announced for 2026 Las Vegas Grand Prix",
+   "first": "2026-11-19T05:13:45.137309+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-19T05:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "2026 F1 Las Vegas Grand Prix start time"
+   },
+   "last": "2026-11-19T05:13:45.137312+00:00"
   }
  },
- "story_seq": 8830,
+ "story_seq": 8835,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16044,7 +16112,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T05:03:44.205840+00:00",
+ "last_run": "2026-11-19T05:13:42.435744+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17354,6 +17422,11 @@
    "t": "2026-11-19T05:03:52.167028+00:00",
    "title": "Sainz'ın Las Vegas'ta puan almak için minimum umudu",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-19T05:13:50.354920+00:00",
+   "title": "2026 Las Vegas Grand Prix'si saat kaçta başlayacak?",
+   "source": "RacingNews365"
   }
  ]
 }
