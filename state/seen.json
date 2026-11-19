@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bd477aad853d062a": "2026-11-05T06:33:12.713355+00:00",
-  "30998f68ccb231d3": "2026-11-05T06:33:12.713355+00:00",
-  "fa5d4300f56a7c9b": "2026-11-05T06:33:12.713355+00:00",
   "e235916f8fc1c054": "2026-11-05T06:43:10.258874+00:00",
   "806671568ad76e98": "2026-11-05T07:03:15.390390+00:00",
   "c677826750586554": "2026-11-05T07:03:15.390390+00:00",
@@ -6652,7 +6649,18 @@
   "9cfc2a0b945da8c0": "2026-11-19T06:23:41.353224+00:00",
   "0bdeafbdf390248b": "2026-11-19T06:23:41.353224+00:00",
   "35e9f281baf6528f": "2026-11-19T06:23:41.353224+00:00",
-  "8b5767f3af5fda62": "2026-11-19T06:23:41.353224+00:00"
+  "8b5767f3af5fda62": "2026-11-19T06:23:41.353224+00:00",
+  "ddc224e9b70beead": "2026-11-19T06:33:41.180784+00:00",
+  "70396bc7178dd383": "2026-11-19T06:33:41.180784+00:00",
+  "243098d0c94ed835": "2026-11-19T06:33:41.180784+00:00",
+  "81aa5bc1e43d08a9": "2026-11-19T06:33:41.180784+00:00",
+  "57d1fd58d825c75e": "2026-11-19T06:33:41.180784+00:00",
+  "c7a0b86433d7db33": "2026-11-19T06:33:41.180784+00:00",
+  "c59dbcdae249b740": "2026-11-19T06:33:41.180784+00:00",
+  "e953dec417756a2e": "2026-11-19T06:33:41.180784+00:00",
+  "195851f57d80a583": "2026-11-19T06:33:41.180784+00:00",
+  "a289c4d239a7e1ab": "2026-11-19T06:33:41.180784+00:00",
+  "1e3cb6f54f550fb7": "2026-11-19T06:33:41.180784+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6863,19 +6871,6 @@
     "Corriere dello Sport": "Ecclestone distrugge Hamilton e avverte Antonelli: \"Vada in Ferrari dopo i 50 anni\""
    },
    "last": "2026-11-17T12:00:17.954629+00:00"
-  },
-  "S8158": {
-   "title": "Ferrari warned over 'massive handicap' in F1 title hunt",
-   "first": "2026-11-17T06:29:34.886286+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-17T06:25:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Ferrari warned over 'massive handicap' in F1 title hunt: 'The stuff of nightmares'"
-   },
-   "last": "2026-11-17T06:29:34.886308+00:00"
   },
   "S8159": {
    "title": "Ferrari reportedly considering lead driver choice for 2027 amid Hamilton-Leclerc tension",
@@ -15285,14 +15280,14 @@
    "title": "Bulls 137-107 Nets NBA game recap",
    "first": "2026-11-19T03:43:52.249722+00:00",
    "sources": {
-    "ESPN F1": "2026-11-19T03:24:33+00:00"
+    "ESPN F1": "2026-11-19T03:10:29+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Bulls 137-107 Nets (19 Nov, 2026) Game Recap"
    },
-   "last": "2026-11-19T03:43:52.249724+00:00"
+   "last": "2026-11-19T06:33:50.451299+00:00"
   },
   "S8788": {
    "title": "Campbell vs. Oklahoma college basketball highlights",
@@ -16202,9 +16197,126 @@
     "GPblog": "Leclerc reveals what really happened in private meeting with Hamilton"
    },
    "last": "2026-11-19T06:23:46.054679+00:00"
+  },
+  "S8857": {
+   "title": "Giannis and Bam Adebayo put Bucks drama aside as Heat hold on",
+   "first": "2026-11-19T06:33:50.451265+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T05:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Giannis Antetokounmpo, Bam Adebayo put Bucks drama aside as Heat hold on"
+   },
+   "last": "2026-11-19T06:33:50.451281+00:00"
+  },
+  "S8858": {
+   "title": "Mavericks 116-94 Warriors NBA game recap",
+   "first": "2026-11-19T06:33:50.451285+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:42:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mavericks 116-94 Warriors (Nov 18, 2026) Game Recap"
+   },
+   "last": "2026-11-19T06:33:50.451289+00:00"
+  },
+  "S8859": {
+   "title": "Washington State 79-63 Hawai'i college basketball final score",
+   "first": "2026-11-19T06:33:50.451292+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:22:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Washington State 79-63 Hawai'i (Nov 18, 2026) Final Score"
+   },
+   "last": "2026-11-19T06:33:50.451295+00:00"
+  },
+  "S8860": {
+   "title": "Heat 137-130 Bucks NBA game recap",
+   "first": "2026-11-19T06:33:50.451302+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T03:06:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Heat 137-130 Bucks (Nov 18, 2026) Game Recap"
+   },
+   "last": "2026-11-19T06:33:50.451304+00:00"
+  },
+  "S8861": {
+   "title": "Hamilton denies lack of trust with Ferrari after overriding pit wall",
+   "first": "2026-11-19T06:33:50.451306+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-19T06:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Hamilton denies lack of trust with Ferrari after strategy issues"
+   },
+   "last": "2026-11-19T06:33:50.451309+00:00"
+  },
+  "S8862": {
+   "title": "Macau FIA GT free practice 1 results",
+   "first": "2026-11-19T06:33:50.451311+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-19T06:21:06+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "Macau | FIA GT, Libere 1: zampata della Porsche-Rexy con Heinrich"
+   },
+   "last": "2026-11-19T06:33:50.451313+00:00"
+  },
+  "S8863": {
+   "title": "Verstappen warns cold temperatures and tyres will challenge Las Vegas",
+   "first": "2026-11-19T06:33:50.451315+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-19T06:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen waarschuwt voor grote F1-uitdaging in Las Vegas"
+   },
+   "last": "2026-11-19T06:33:50.451318+00:00"
+  },
+  "S8864": {
+   "title": "Verstappen calls Las Vegas energy management painful in simulator",
+   "first": "2026-11-19T06:33:50.451320+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-19T06:24:43+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Max Verstappen calls Las Vegas GP energy management ‘painful’ in Red Bull simulator"
+   },
+   "last": "2026-11-19T06:33:50.451322+00:00"
+  },
+  "S8865": {
+   "title": "Mercedes confirm ADUO engine upgrade for Las Vegas, Russell misses out",
+   "first": "2026-11-19T06:33:50.451324+00:00",
+   "sources": {
+    "GPFans": "2026-11-19T06:27:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "George Russell to miss out on Mercedes upgrade as Oscar Piastri takes major grid penalty - F1 News Today"
+   },
+   "last": "2026-11-19T06:33:50.451326+00:00"
   }
  },
- "story_seq": 8856,
+ "story_seq": 8865,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16323,37 +16435,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T06:23:41.353224+00:00",
+ "last_run": "2026-11-19T06:33:41.180784+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
  "last_digest_at": "2026-11-18T19:04:20.882756+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T06:26:15.554463+00:00",
-   "title": "2026 F1 sezonunda ikincilik için beş pilot 33 puanda",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-16T06:26:15.920273+00:00",
-   "title": "Hamilton: 13'ten 18 inç lastiğe geçiş sürüş tarzımı değiştirmemi gerektirdi",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-16T06:26:16.246916+00:00",
-   "title": "Verstappen: \"Kendimi en iyi pilot olarak görüyorum, yoksa bırakırdım\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-16T06:26:16.573672+00:00",
-   "title": "Antonelli: Şampiyonluktan sonra daha da açım",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-16T06:26:16.937139+00:00",
-   "title": "Toto Wolff: Mercedes'in FIA'ya önerdiği maaş artışı kabul görmedi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-16T07:06:10.804018+00:00",
    "title": "Verstappen'in 2026'daki dört yarış dışı kalması Red Bull'un güvenilirliğini gösteriyor",
@@ -17668,6 +17755,21 @@
    "t": "2026-11-19T06:23:51.821318+00:00",
    "title": "Russell: Las Vegas'ta zafer için mücadele etmek istiyorum",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-19T06:33:58.839203+00:00",
+   "title": "Hamilton, Ferrari ile güven sorunu olmadığını söylüyor",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-19T06:33:59.394664+00:00",
+   "title": "Verstappen, Las Vegas GP'deki enerji yönetimini simülatörde \"acı verici\" buldu",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-19T06:33:59.940213+00:00",
+   "title": "Verstappen, Las Vegas'ta büyük bir F1 zorluğuna dikkat çekti",
+   "source": "RacingNews365 NL"
   }
  ]
 }
