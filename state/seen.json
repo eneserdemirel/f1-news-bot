@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6ab5a3c816bc6889": "2026-11-05T00:12:33.877626+00:00",
   "7965cfabdb6296ed": "2026-11-05T00:22:36.978856+00:00",
   "39b4de1d6d4365c0": "2026-11-05T00:22:36.978856+00:00",
   "9a78127b177785b7": "2026-11-05T00:22:36.978856+00:00",
@@ -6564,7 +6563,9 @@
   "101db343e13ebe13": "2026-11-18T23:52:03.409606+00:00",
   "11dcb9ae36faafcb": "2026-11-19T00:02:09.879533+00:00",
   "d029ef319e9a559a": "2026-11-19T00:02:09.879533+00:00",
-  "f392703753a7bc0b": "2026-11-19T00:12:03.873503+00:00"
+  "f392703753a7bc0b": "2026-11-19T00:12:03.873503+00:00",
+  "40f368b27e6ec38c": "2026-11-19T00:22:02.082186+00:00",
+  "33e3ef951bf7898d": "2026-11-19T00:22:02.082186+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6705,19 +6706,6 @@
    },
    "last": "2026-11-17T11:20:14.851195+00:00"
   },
-  "S8026": {
-   "title": "Pochettino non-committal on US players for Man United",
-   "first": "2026-11-16T17:47:26.838015+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T16:56:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pochettino won't be drawn on U.S. players he might bring to Manchester United"
-   },
-   "last": "2026-11-17T00:18:46.911249+00:00"
-  },
   "S8076": {
    "title": "F1 Today roundup: Hamilton-Leclerc spotlight, Haas Camara Vegas",
    "first": "2026-11-16T22:08:17.812124+00:00",
@@ -6758,19 +6746,6 @@
     "ESPN F1": "What does the future hold for the WTA Finals?"
    },
    "last": "2026-11-17T02:38:46.249097+00:00"
-  },
-  "S8095": {
-   "title": "Emi Martínez to return for Argentina after jaw injury",
-   "first": "2026-11-17T00:18:46.911220+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T23:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Emi Martínez to return for Argentina after gruesome jaw injury"
-   },
-   "last": "2026-11-17T00:18:46.911240+00:00"
   },
   "S8096": {
    "title": "Kailyn Gilbert on Texas A&M's mentality shift vs. Lamar",
@@ -15196,9 +15171,35 @@
     "ESPN F1": "New Hampshire Wildcats vs. Yale Bulldogs: Game Highlights"
    },
    "last": "2026-11-19T00:12:05.110221+00:00"
+  },
+  "S8727": {
+   "title": "Josef Newgarden agrees to extension with Team Penske",
+   "first": "2026-11-19T00:22:04.043742+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:18:22+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2-time Indy 500 winner Josef Newgarden agrees to extension with Team Penske"
+   },
+   "last": "2026-11-19T00:22:04.043761+00:00"
+  },
+  "S8728": {
+   "title": "Prince Kamate fights off defender for and-one basket",
+   "first": "2026-11-19T00:22:04.043766+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T00:08:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Prince Kamate fights off defender for and-1"
+   },
+   "last": "2026-11-19T00:22:04.043771+00:00"
   }
  },
- "story_seq": 8726,
+ "story_seq": 8728,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15317,7 +15318,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T00:12:03.873503+00:00",
+ "last_run": "2026-11-19T00:22:02.082186+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
