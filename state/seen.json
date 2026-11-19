@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a09872fe0b7854b4": "2026-11-05T22:46:08.409308+00:00",
   "9139daf43cbaf491": "2026-11-05T22:56:05.947170+00:00",
   "58c8d35d94131f52": "2026-11-05T23:06:08.259927+00:00",
   "133736e01f65967f": "2026-11-05T23:06:08.259927+00:00",
@@ -6615,7 +6614,9 @@
   "1b765d1430884898": "2026-11-19T22:01:53.752894+00:00",
   "8b5a36b0fcda4a6e": "2026-11-19T22:06:59.071566+00:00",
   "f9a1863860fb8eb8": "2026-11-19T22:36:54.725690+00:00",
-  "a302101f7596575b": "2026-11-19T22:41:51.397240+00:00"
+  "a302101f7596575b": "2026-11-19T22:41:51.397240+00:00",
+  "97d2c65500e8a5fa": "2026-11-19T22:46:59.660603+00:00",
+  "2725f81c8253875f": "2026-11-19T22:46:59.660603+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16280,9 +16281,35 @@
     "ESPN F1": "Shelton beats Jodar, joins Zverev, Alcaraz in semifinal round of ATP Finals"
    },
    "last": "2026-11-19T22:36:55.870420+00:00"
+  },
+  "S9054": {
+   "title": "England vs All Blacks Nations Championship key questions preview",
+   "first": "2026-11-19T22:47:02.564350+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T22:34:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "England vs. All Blacks: Key questions for both sides ahead of Nations Championship showdown"
+   },
+   "last": "2026-11-19T22:47:02.564370+00:00"
+  },
+  "S9055": {
+   "title": "Verstappen unsure how cold weather will affect Red Bull in Vegas",
+   "first": "2026-11-19T22:47:02.564375+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T22:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen in the dark over how cold weather will affect Las Vegas GP"
+   },
+   "last": "2026-11-19T22:47:02.564379+00:00"
   }
  },
- "story_seq": 9053,
+ "story_seq": 9055,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16401,7 +16428,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T22:41:51.397240+00:00",
+ "last_run": "2026-11-19T22:46:59.660603+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
