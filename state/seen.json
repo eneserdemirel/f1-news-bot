@@ -1,15 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "42129a6073925fdc": "2026-11-05T13:13:55.594488+00:00",
-  "0c7895c86066e7a3": "2026-11-05T13:13:55.594488+00:00",
-  "784030f8ba1795ad": "2026-11-05T13:13:55.594488+00:00",
-  "48b16c2ed725d608": "2026-11-05T13:13:55.594488+00:00",
-  "f58a1c1bcfcfb8f2": "2026-11-05T13:13:55.594488+00:00",
-  "de2ad035a847b71e": "2026-11-05T13:13:55.594488+00:00",
-  "c67ed3ef84aeb653": "2026-11-05T13:13:55.594488+00:00",
-  "23bd2eaaca2edb63": "2026-11-05T13:13:55.594488+00:00",
-  "5f69106e2810abad": "2026-11-05T13:13:55.594488+00:00",
   "6eb9e5b914c66ec0": "2026-11-05T13:23:49.174393+00:00",
   "1e89edec63c813ca": "2026-11-05T13:23:49.174393+00:00",
   "58a29305624a7516": "2026-11-05T13:33:49.786981+00:00",
@@ -6653,7 +6644,8 @@
   "85fcf0dd0fd286db": "2026-11-19T13:00:40.351412+00:00",
   "00882759a0fd4e7f": "2026-11-19T13:10:34.327009+00:00",
   "37938eb248708584": "2026-11-19T13:10:34.327009+00:00",
-  "f8cf946df184f064": "2026-11-19T13:10:34.327009+00:00"
+  "f8cf946df184f064": "2026-11-19T13:10:34.327009+00:00",
+  "5b5d63466a2e8e4c": "2026-11-19T13:20:33.975569+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7063,19 +7055,6 @@
     "ESPN F1": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency"
    },
    "last": "2026-11-17T17:40:53.444053+00:00"
-  },
-  "S8235": {
-   "title": "Coulthard says F1 has lost its 'let's try to race' spirit in rain",
-   "first": "2026-11-17T13:20:16.744174+00:00",
-   "sources": {
-    "FormulaPassion": "2026-11-17T13:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "FormulaPassion": "F1 troppo prudente con la pioggia, Coulthard: “Si è perso lo spirito del ‘proviamo a correre'”"
-   },
-   "last": "2026-11-17T13:20:16.744179+00:00"
   },
   "S8236": {
    "title": "Dhoni's most memorable IPL moments retrospective",
@@ -16635,9 +16614,22 @@
     "Motorsport-Total": "F1-Fahrerlager im GTA-VI-Fieber: Nur zwei Fahrer lässt es kalt - Motorsport-Total.com"
    },
    "last": "2026-11-19T13:10:37.814866+00:00"
+  },
+  "S8949": {
+   "title": "Why F1 avoids saying 'paddock' in Las Vegas",
+   "first": "2026-11-19T13:20:35.600383+00:00",
+   "sources": {
+    "AS": "2026-11-19T13:09:24+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "AS": "Por qué la F1 evita decir ‘paddock’ en Las Vegas"
+   },
+   "last": "2026-11-19T13:20:35.600403+00:00"
   }
  },
- "story_seq": 8948,
+ "story_seq": 8949,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16756,17 +16748,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T13:10:34.327009+00:00",
+ "last_run": "2026-11-19T13:20:33.975569+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T13:17:25.038119+00:00",
-   "title": "McLaren livery'li ilk Etihad uçağı uçuşa geçti",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-16T13:27:24.826527+00:00",
    "title": "2030 V8 motor reglamanında hâlâ açık kalan noktalar neler?",
@@ -18141,6 +18128,11 @@
    "t": "2026-11-19T13:10:40.167328+00:00",
    "title": "F1 paddock'u GTA VI heyecanında: sadece iki pilot ilgisiz",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-19T13:20:39.486311+00:00",
+   "title": "F1, Las Vegas'ta 'paddock' kelimesinden neden kaçınıyor?",
+   "source": "AS"
   }
  ]
 }
