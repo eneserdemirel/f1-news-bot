@@ -1,17 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "06113202ff711495": "2026-11-05T14:23:49.214336+00:00",
-  "9f89f36d08dcd302": "2026-11-05T14:23:49.214336+00:00",
-  "fc04174565d65d83": "2026-11-05T14:23:49.214336+00:00",
-  "9a776b6659bf800c": "2026-11-05T14:23:49.214336+00:00",
-  "b992c95787d58ad5": "2026-11-05T14:23:49.214336+00:00",
-  "e0998dd601427214": "2026-11-05T14:23:49.214336+00:00",
-  "3d4dba13a82d27b3": "2026-11-05T14:23:49.214336+00:00",
-  "23e72da6d320ba3e": "2026-11-05T14:23:49.214336+00:00",
-  "ddcbe0792c842436": "2026-11-05T14:23:49.214336+00:00",
-  "b8565b7cc9b9e9df": "2026-11-05T14:23:49.214336+00:00",
-  "c88a602ad21a8d16": "2026-11-05T14:23:49.214336+00:00",
   "4e138476ea6ce9cd": "2026-11-05T14:33:49.944642+00:00",
   "9ae23748c6d4f823": "2026-11-05T14:33:49.944642+00:00",
   "9009d96ebb727bd9": "2026-11-05T14:33:49.944642+00:00",
@@ -6666,7 +6655,12 @@
   "85f81e0b64b9a809": "2026-11-19T14:20:56.830893+00:00",
   "6275b25c6df2f45a": "2026-11-19T14:20:56.830893+00:00",
   "903fb195689de610": "2026-11-19T14:20:56.830893+00:00",
-  "b57847fa61cbe363": "2026-11-19T14:20:56.830893+00:00"
+  "b57847fa61cbe363": "2026-11-19T14:20:56.830893+00:00",
+  "102a472692c10793": "2026-11-19T14:30:35.567616+00:00",
+  "ce94dfc7d9967390": "2026-11-19T14:30:35.567616+00:00",
+  "fdea8aa14432f280": "2026-11-19T14:30:35.567616+00:00",
+  "b6ffd5f560094ecd": "2026-11-19T14:30:35.567616+00:00",
+  "d438372c7a96a3f8": "2026-11-19T14:30:35.567616+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6765,21 +6759,6 @@
     "RacingNews365 NL": "Verstappen laat zich niet opjagen door Antonelli: \"Houd ik me niet mee bezig\""
    },
    "last": "2026-11-17T16:50:54.395091+00:00"
-  },
-  "S8170": {
-   "title": "George Russell defends himself after losing F1 title to Antonelli",
-   "first": "2026-11-17T07:29:32.848168+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-17T07:20:00+00:00",
-    "GPFans": "2026-11-17T14:27:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "George Russell issues stern defence after crushing F1 title defeat",
-    "GPFans": "George Russell hits back after Kimi Antonelli title humiliation"
-   },
-   "last": "2026-11-17T14:30:13.854107+00:00"
   },
   "S8186": {
    "title": "Jaylen Brown and Embiid lead 76ers past Nets",
@@ -16718,9 +16697,61 @@
     "Motorsport-Total": "Toto Wolff betont: Sicherheit der Mitarbeiter ein Schlüssel für Erfolg - Motorsport-Total.com"
    },
    "last": "2026-11-19T14:21:09.321646+00:00"
+  },
+  "S8969": {
+   "title": "ESPN college football Week 12 game day kickoff",
+   "first": "2026-11-19T14:30:38.176270+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T12:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness"
+   },
+   "last": "2026-11-19T14:30:38.176292+00:00"
+  },
+  "S8970": {
+   "title": "College football Week 12 best bets preview",
+   "first": "2026-11-19T14:30:38.176297+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T11:44:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "CFB Week 12 best bets: Breaking down the numbers for Texas Tech, Kentucky and more"
+   },
+   "last": "2026-11-19T14:30:38.176301+00:00"
+  },
+  "S8971": {
+   "title": "Colts QB1 debate between Richardson and Jones",
+   "first": "2026-11-19T14:30:38.176305+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T11:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why can't Richardson beat out struggling Jones as Colts QB1?"
+   },
+   "last": "2026-11-19T14:30:38.176308+00:00"
+  },
+  "S8972": {
+   "title": "Russell explains extra challenges for Las Vegas GP",
+   "first": "2026-11-19T14:30:38.176311+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-19T14:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "The rarely-considered reason Las Vegas GP will be 'doubly hard' this year"
+   },
+   "last": "2026-11-19T14:30:38.176314+00:00"
   }
  },
- "story_seq": 8968,
+ "story_seq": 8972,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16839,17 +16870,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T14:20:56.830893+00:00",
+ "last_run": "2026-11-19T14:30:35.567616+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T14:27:41.602385+00:00",
-   "title": "Verstappen'in Red Bull toparlanması 2027 şampiyonluk hedefine işaret ediyor",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-16T14:57:26.669454+00:00",
    "title": "Verstappen, Las Vegas GP'de ultimate favori olarak gösteriliyor",
@@ -18254,6 +18280,11 @@
    "t": "2026-11-19T14:21:18.725424+00:00",
    "title": "F1 sürücüleri Lego minifigürlerine tepki verdi",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-19T14:30:42.632735+00:00",
+   "title": "Las Vegas GP'de lastik sıcaklığı, SM modu nedeniyle daha zor olacak",
+   "source": "RacingNews365"
   }
  ]
 }
