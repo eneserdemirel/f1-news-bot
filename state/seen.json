@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3a59cb8f3add4fed": "2026-11-05T08:33:10.012962+00:00",
-  "076f077a0972f81f": "2026-11-05T08:33:10.012962+00:00",
   "9060bf26965ac8f9": "2026-11-05T08:43:09.804057+00:00",
   "d8a7147c9f648520": "2026-11-05T08:43:09.804057+00:00",
   "80132ef162b54cf8": "2026-11-05T08:43:09.804057+00:00",
@@ -6671,7 +6669,11 @@
   "35860a0b9f04a44a": "2026-11-19T08:23:39.432445+00:00",
   "f60833ab8574faea": "2026-11-19T08:23:39.432445+00:00",
   "ee137ca6c4379fa5": "2026-11-19T08:23:39.432445+00:00",
-  "21e67441d64cf9fe": "2026-11-19T08:23:39.432445+00:00"
+  "21e67441d64cf9fe": "2026-11-19T08:23:39.432445+00:00",
+  "7107211849e33c78": "2026-11-19T08:33:41.303317+00:00",
+  "d4c08c69e09b8b04": "2026-11-19T08:33:41.303317+00:00",
+  "85eeed8c2588c63b": "2026-11-19T08:33:41.303317+00:00",
+  "5bf7a3e4f6190286": "2026-11-19T08:33:41.303317+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6900,19 +6902,6 @@
    },
    "last": "2026-11-17T16:50:54.395091+00:00"
   },
-  "S8168": {
-   "title": "Suns 117-105 Nuggets NBA game recap",
-   "first": "2026-11-17T07:19:30.738849+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T04:47:24+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Suns 117-105 Nuggets (Nov 16, 2026) Game Recap"
-   },
-   "last": "2026-11-17T08:29:31.096437+00:00"
-  },
   "S8170": {
    "title": "George Russell defends himself after losing F1 title to Antonelli",
    "first": "2026-11-17T07:29:32.848168+00:00",
@@ -6953,19 +6942,6 @@
     "ESPN F1": "Shane Deitz appointed Pakistan women's head coach"
    },
    "last": "2026-11-17T11:30:15.579273+00:00"
-  },
-  "S8182": {
-   "title": "Motorsport.com Italia feature on Antonelli's behind-the-scenes life",
-   "first": "2026-11-17T08:29:31.096440+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-17T08:22:33+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Esclusivo: il Kimi che non vediamo. Il campione raccontato da chi gli vive accanto"
-   },
-   "last": "2026-11-17T08:29:31.096443+00:00"
   },
   "S8183": {
    "title": "Column: Ferrari's lack of titles blamed on itself",
@@ -16194,15 +16170,17 @@
    "first": "2026-11-19T06:53:50.128650+00:00",
    "sources": {
     "FormulaPassion": "2026-11-19T06:40:00+00:00",
-    "Motorsport-Total": "2026-11-19T07:12:04+00:00"
+    "Motorsport-Total": "2026-11-19T07:12:04+00:00",
+    "RacingNews365": "2026-11-19T08:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "FormulaPassion": "Verstappen e i V8 dal 2030: “Bene, io vorrei i V10 senza turbo, ma faremmo troppo rumore e dovremmo poter fare rifornimento ai box”",
-    "Motorsport-Total": "Max Verstappen über V8-Pläne: Turbo und Hybrid komplett rauswerfen - Motorsport-Total.com"
+    "Motorsport-Total": "Max Verstappen über V8-Pläne: Turbo und Hybrid komplett rauswerfen - Motorsport-Total.com",
+    "RacingNews365": "Max Verstappen concedes key F1 engine wish is 'unrealistic' as V8s set to return"
    },
-   "last": "2026-11-19T07:23:52.017239+00:00"
+   "last": "2026-11-19T08:33:46.131955+00:00"
   },
   "S8872": {
    "title": "Piastri reflects on splitting from Webber management team",
@@ -16413,9 +16391,48 @@
     "Motorsport-Total": "Kampfansage nach Brasilien-Stallorder: In Las Vegas will Isack Hadjar gewinnen! - Motorsport-Total.com"
    },
    "last": "2026-11-19T08:23:46.738790+00:00"
+  },
+  "S8888": {
+   "title": "Premier League clubs eye Ronaldo successor",
+   "first": "2026-11-19T08:33:46.131921+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T08:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs"
+   },
+   "last": "2026-11-19T08:33:46.131940+00:00"
+  },
+  "S8889": {
+   "title": "Verstappen trusts F1 to proceed with Middle East races",
+   "first": "2026-11-19T08:33:46.131945+00:00",
+   "sources": {
+    "Sky Sports F1": "2026-11-19T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Sky Sports F1": "Verstappen trusts F1 chiefs over plan to proceed with Middle East races"
+   },
+   "last": "2026-11-19T08:33:46.131950+00:00"
+  },
+  "S8890": {
+   "title": "Antonelli warns Red Bull will be strong in Las Vegas",
+   "first": "2026-11-19T08:33:46.131958+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-19T08:22:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Antonelli waakzaam voor Verstappen en Red Bull: \"Zij gaan heel sterk zijn\""
+   },
+   "last": "2026-11-19T08:33:46.131962+00:00"
   }
  },
- "story_seq": 8887,
+ "story_seq": 8890,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16534,7 +16551,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T08:23:39.432445+00:00",
+ "last_run": "2026-11-19T08:33:41.303317+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17904,6 +17921,16 @@
    "t": "2026-11-19T08:23:52.461983+00:00",
    "title": "Hamilton: Ferrari sözleşme yenilemesini henüz düşünmedim",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-19T08:33:51.849079+00:00",
+   "title": "Verstappen, Orta Doğu yarışları konusunda F1 yönetimine güveniyor",
+   "source": "Sky Sports F1"
+  },
+  {
+   "t": "2026-11-19T08:33:52.400305+00:00",
+   "title": "Antonelli, Verstappen ve Red Bull'a karşı uyanık: \"Çok güçlü olacaklar\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
