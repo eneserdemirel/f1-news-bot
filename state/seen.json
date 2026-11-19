@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "289262f6213d5dd1": "2026-11-05T01:12:33.940489+00:00",
   "7d6bea032237576e": "2026-11-05T01:22:38.218403+00:00",
   "d7ffd21390706d2f": "2026-11-05T01:32:34.083595+00:00",
   "f22765f3f9ec450e": "2026-11-05T02:02:34.497276+00:00",
@@ -6568,7 +6567,11 @@
   "742e7ecf234b6ba7": "2026-11-19T01:12:01.855621+00:00",
   "7c71a7afa252a880": "2026-11-19T01:12:01.855621+00:00",
   "27862b0ba207c671": "2026-11-19T01:12:01.855621+00:00",
-  "fd837b262c92dfb8": "2026-11-19T01:12:01.855621+00:00"
+  "fd837b262c92dfb8": "2026-11-19T01:12:01.855621+00:00",
+  "160db518772b05c3": "2026-11-19T01:22:03.902931+00:00",
+  "d404926b5cc2486e": "2026-11-19T01:22:03.902931+00:00",
+  "9b53bcf5718eceb1": "2026-11-19T01:22:03.902931+00:00",
+  "5c9f46debdea9cd1": "2026-11-19T01:22:03.902931+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6749,71 +6752,6 @@
     "ESPN F1": "What does the future hold for the WTA Finals?"
    },
    "last": "2026-11-17T02:38:46.249097+00:00"
-  },
-  "S8105": {
-   "title": "Klopp says nobody questioning Germany after Dutch rout",
-   "first": "2026-11-17T01:18:46.647411+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T00:43:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch"
-   },
-   "last": "2026-11-17T01:18:46.647433+00:00"
-  },
-  "S8106": {
-   "title": "Bears RB Kyle Monangai on track to return Sunday",
-   "first": "2026-11-17T01:18:46.647437+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T23:05:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints"
-   },
-   "last": "2026-11-17T01:18:46.647442+00:00"
-  },
-  "S8107": {
-   "title": "Luke Littler advances at Grand Slam of Darts with checkout",
-   "first": "2026-11-17T01:18:46.647444+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T22:04:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luke Littler lands incredible triple-bull checkout, advances at Grand Slam of Darts"
-   },
-   "last": "2026-11-17T01:18:46.647448+00:00"
-  },
-  "S8108": {
-   "title": "Rivers says NC State only college job he would have taken",
-   "first": "2026-11-17T01:18:46.647451+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T21:06:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Rivers says NC State only college job he would have taken"
-   },
-   "last": "2026-11-17T01:18:46.647454+00:00"
-  },
-  "S8109": {
-   "title": "Macdonald optimistic Sam Darnold returns after bye week",
-   "first": "2026-11-17T01:18:46.647456+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-16T21:06:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week"
-   },
-   "last": "2026-11-17T01:18:46.647459+00:00"
   },
   "S8110": {
    "title": "JT Pettigrew fights off defender for and-1 basketball play",
@@ -15239,9 +15177,61 @@
     "ESPN F1": "Giannis finds Bam for his second 3"
    },
    "last": "2026-11-19T01:12:05.517200+00:00"
+  },
+  "S8741": {
+   "title": "Live coverage of build-up to Las Vegas GP",
+   "first": "2026-11-19T01:22:06.278366+00:00",
+   "sources": {
+    "Formula 1": "2026-11-19T01:22:06.278382+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "LIVE COVERAGE: Build-up ahead of the Las Vegas GP"
+   },
+   "last": "2026-11-19T01:22:06.278386+00:00"
+  },
+  "S8742": {
+   "title": "Yonatan Levy fights off defender for and-1",
+   "first": "2026-11-19T01:22:06.278390+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:07:50+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Yonatan Levy fights off defender for and-1"
+   },
+   "last": "2026-11-19T01:22:06.278396+00:00"
+  },
+  "S8743": {
+   "title": "Jhai Johnson rises to block the shot",
+   "first": "2026-11-19T01:22:06.278399+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:07:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jhai Johnson rises to block the shot"
+   },
+   "last": "2026-11-19T01:22:06.278403+00:00"
+  },
+  "S8744": {
+   "title": "Justin Edwards rocks the rim with slam",
+   "first": "2026-11-19T01:22:06.278406+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T01:06:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Justin Edwards rocks the rim with slam"
+   },
+   "last": "2026-11-19T01:22:06.278409+00:00"
   }
  },
- "story_seq": 8740,
+ "story_seq": 8744,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -15360,7 +15350,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T01:12:01.855621+00:00",
+ "last_run": "2026-11-19T01:22:03.902931+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -16600,6 +16590,11 @@
    "t": "2026-11-18T23:32:07.715141+00:00",
    "title": "Honda, Stroll'un batarya sorunlarını ve Brezilya'daki beklenen arızayı açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-19T01:22:09.249975+00:00",
+   "title": "Las Vegas GP öncesi canlı yayın: hazırlık süreci",
+   "source": "Formula 1"
   }
  ]
 }
