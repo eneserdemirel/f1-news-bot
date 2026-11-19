@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "313657958db964ff": "2026-11-05T08:23:18.512661+00:00",
-  "36bf1c85d972f4f8": "2026-11-05T08:23:18.512661+00:00",
-  "940d90d02d9d4f7d": "2026-11-05T08:23:18.512661+00:00",
-  "d55458816fe87d69": "2026-11-05T08:23:18.512661+00:00",
-  "e47306df0191c7d4": "2026-11-05T08:23:18.512661+00:00",
   "3a59cb8f3add4fed": "2026-11-05T08:33:10.012962+00:00",
   "076f077a0972f81f": "2026-11-05T08:33:10.012962+00:00",
   "9060bf26965ac8f9": "2026-11-05T08:43:09.804057+00:00",
@@ -6670,7 +6665,13 @@
   "bfe727ee65c55f16": "2026-11-19T08:13:42.796768+00:00",
   "84f276362ec5da58": "2026-11-19T08:13:42.796768+00:00",
   "cb7aa1f914a02225": "2026-11-19T08:13:42.796768+00:00",
-  "b15cb4bdb3118000": "2026-11-19T08:13:42.796768+00:00"
+  "b15cb4bdb3118000": "2026-11-19T08:13:42.796768+00:00",
+  "ca7856228317e181": "2026-11-19T08:23:39.432445+00:00",
+  "68221d60828e87d8": "2026-11-19T08:23:39.432445+00:00",
+  "35860a0b9f04a44a": "2026-11-19T08:23:39.432445+00:00",
+  "f60833ab8574faea": "2026-11-19T08:23:39.432445+00:00",
+  "ee137ca6c4379fa5": "2026-11-19T08:23:39.432445+00:00",
+  "21e67441d64cf9fe": "2026-11-19T08:23:39.432445+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6939,45 +6940,6 @@
     "Motorsport-Total": "Günther Steiner: Dieser Fahrer würde Ferrari wieder nach vorne bringen - Motorsport-Total.com"
    },
    "last": "2026-11-17T08:39:41.404428+00:00"
-  },
-  "S8178": {
-   "title": "Chargers 23-20 Ravens game recap (NFL)",
-   "first": "2026-11-17T08:19:30.347803+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T08:03:45+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Chargers 23-20 Ravens (Nov 16, 2026) Game Recap"
-   },
-   "last": "2026-11-17T08:19:30.347819+00:00"
-  },
-  "S8179": {
-   "title": "Kyle Hamilton says Ravens disgracing standards after loss",
-   "first": "2026-11-17T08:19:30.347824+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T07:24:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kyle Hamilton says Ravens 'disgracing' standards after losing to 0-8 Chargers"
-   },
-   "last": "2026-11-17T08:19:30.347828+00:00"
-  },
-  "S8180": {
-   "title": "Drivers warned about record at risk in chilly Las Vegas",
-   "first": "2026-11-17T08:19:30.347831+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-17T08:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "F1 drivers handed ‘brutal’ warning as crazy record at risk of breaking"
-   },
-   "last": "2026-11-17T08:19:30.347835+00:00"
   },
   "S8181": {
    "title": "Shane Deitz appointed Pakistan women's head coach",
@@ -15157,16 +15119,18 @@
    "sources": {
     "RacingNews365 NL": "2026-11-19T03:29:00+00:00",
     "RacingNews365": "2026-11-19T07:40:00+00:00",
-    "PlanetF1": "2026-11-19T07:38:15+00:00"
+    "PlanetF1": "2026-11-19T07:38:15+00:00",
+    "GPblog": "2026-11-19T08:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Antonelli ontvangt gridstraf voor GP Las Vegas",
     "RacingNews365": "Kimi Antonelli to be hit with grid penalty for Las Vegas Grand Prix",
-    "PlanetF1": "Kimi Antonelli braced for Las Vegas Grand Prix grid penalty"
+    "PlanetF1": "Kimi Antonelli braced for Las Vegas Grand Prix grid penalty",
+    "GPblog": "Antonelli's Las Vegas GP hopes take early hit following grid penalty"
    },
-   "last": "2026-11-19T07:43:47.412821+00:00"
+   "last": "2026-11-19T08:23:46.738780+00:00"
   },
   "S8792": {
    "title": "Stroll warns Honda power deficit could be dangerous in Vegas",
@@ -16257,14 +16221,16 @@
    "title": "Hamilton says Ferrari–Leclerc relationship is clearly defined after Brazil talks",
    "first": "2026-11-19T07:03:46.727847+00:00",
    "sources": {
-    "GPblog": "2026-11-19T07:00:00+00:00"
+    "GPblog": "2026-11-19T07:00:00+00:00",
+    "PlanetF1": "2026-11-19T08:15:26+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Hamilton sends firm message over fears of fresh tensions with Leclerc"
+    "GPblog": "Hamilton sends firm message over fears of fresh tensions with Leclerc",
+    "PlanetF1": "Lewis Hamilton sets record straight after eye-opening Leclerc comments"
    },
-   "last": "2026-11-19T07:03:46.727851+00:00"
+   "last": "2026-11-19T08:23:46.738776+00:00"
   },
   "S8874": {
    "title": "Peres Jepchirchir suspended three years after EPO test",
@@ -16395,9 +16361,61 @@
     "Crash.net": "Lando Norris on Brazil podium celebration mishap: “Not my finest couple of seconds”"
    },
    "last": "2026-11-19T08:13:47.195796+00:00"
+  },
+  "S8884": {
+   "title": "Pakistan vs Sri Lanka 2nd Test match report",
+   "first": "2026-11-19T08:23:46.738742+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T07:52:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 2nd Test | ESPN.com"
+   },
+   "last": "2026-11-19T08:23:46.738761+00:00"
+  },
+  "S8885": {
+   "title": "Hamilton not yet thinking about Ferrari contract renewal",
+   "first": "2026-11-19T08:23:46.738766+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-19T08:16:14+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Hamilton rimanda il discorso sul futuro: \"Al rinnovo non ho ancora pensato\""
+   },
+   "last": "2026-11-19T08:23:46.738770+00:00"
+  },
+  "S8886": {
+   "title": "Marquez vs Rossi MotoGP GOAT debate",
+   "first": "2026-11-19T08:23:46.738783+00:00",
+   "sources": {
+    "GPblog": "2026-11-19T08:15:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Marc Marquez vs Valentino Rossi: MotoGP GOAT debate settled"
+   },
+   "last": "2026-11-19T08:23:46.738785+00:00"
+  },
+  "S8887": {
+   "title": "Hadjar says he will win in Las Vegas after Brazil team orders",
+   "first": "2026-11-19T08:23:46.738788+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-19T08:10:59+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Kampfansage nach Brasilien-Stallorder: In Las Vegas will Isack Hadjar gewinnen! - Motorsport-Total.com"
+   },
+   "last": "2026-11-19T08:23:46.738790+00:00"
   }
  },
- "story_seq": 8883,
+ "story_seq": 8887,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16516,7 +16534,7 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T08:13:42.796768+00:00",
+ "last_run": "2026-11-19T08:23:39.432445+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-18 22:00",
@@ -17871,6 +17889,21 @@
    "t": "2026-11-19T08:13:52.204203+00:00",
    "title": "Lando Norris podyum kutlamasında kaza yaptı",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-19T08:23:51.331626+00:00",
+   "title": "Brezilya'daki takım emri sonrası: Hadjar Las Vegas'ta kazanmak istiyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-19T08:23:51.909896+00:00",
+   "title": "Antonelli, Las Vegas GP'de şanzıman... ceza nedeniyle geriden başlayacak",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-19T08:23:52.461983+00:00",
+   "title": "Hamilton: Ferrari sözleşme yenilemesini henüz düşünmedim",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
