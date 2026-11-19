@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "58a29305624a7516": "2026-11-05T13:33:49.786981+00:00",
-  "12ad40aabe35779b": "2026-11-05T13:33:49.786981+00:00",
-  "cbece27a8e6c1d79": "2026-11-05T13:33:49.786981+00:00",
-  "af4e32b28092297e": "2026-11-05T13:33:49.786981+00:00",
   "15baca53604d8a45": "2026-11-05T13:43:49.702278+00:00",
   "77182f4c4f0dfcab": "2026-11-05T13:43:49.702278+00:00",
   "6baffeaead76d24b": "2026-11-05T13:43:49.702278+00:00",
@@ -6648,7 +6644,10 @@
   "bc6cb1a52045c7ff": "2026-11-19T13:30:38.378589+00:00",
   "72bfdc46c7634555": "2026-11-19T13:30:38.378589+00:00",
   "b89037e732f31da5": "2026-11-19T13:30:38.378589+00:00",
-  "205abdb0d1dcee3e": "2026-11-19T13:30:38.378589+00:00"
+  "205abdb0d1dcee3e": "2026-11-19T13:30:38.378589+00:00",
+  "cf5724c1ed5dc408": "2026-11-19T13:40:34.075886+00:00",
+  "3d1113496044dd11": "2026-11-19T13:40:34.075886+00:00",
+  "af7cc136c39e64bb": "2026-11-19T13:40:34.075886+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7059,19 +7058,6 @@
    },
    "last": "2026-11-17T17:40:53.444053+00:00"
   },
-  "S8236": {
-   "title": "Dhoni's most memorable IPL moments retrospective",
-   "first": "2026-11-17T13:40:16.845715+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T13:34:59+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "The making of Thala: Dhoni's most memorable IPL moments"
-   },
-   "last": "2026-11-17T13:40:16.845732+00:00"
-  },
   "S8237": {
    "title": "Players Era 8 first-round team matchups preview",
    "first": "2026-11-17T13:40:16.845738+00:00",
@@ -7084,19 +7070,6 @@
     "ESPN F1": "How the teams match up in the first round of the Players Era 8"
    },
    "last": "2026-11-17T13:50:18.931837+00:00"
-  },
-  "S8238": {
-   "title": "Button says Aston Martin must show progress to keep Alonso",
-   "first": "2026-11-17T13:40:16.845749+00:00",
-   "sources": {
-    "GPblog": "2026-11-17T13:30:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Button identifies Alonso’s 2027 motivation test: Aston Martin must show progress"
-   },
-   "last": "2026-11-17T13:40:16.845753+00:00"
   },
   "S8239": {
    "title": "NFL Power Rankings for Week 11",
@@ -14288,7 +14261,8 @@
     "RacingNews365": "2026-11-19T03:02:00+00:00",
     "Motorsport-Total": "2026-11-19T07:09:20+00:00",
     "Crash.net": "2026-11-19T11:19:59+00:00",
-    "RacingNews365 NL": "2026-11-19T12:50:00+00:00"
+    "RacingNews365 NL": "2026-11-19T12:50:00+00:00",
+    "FormulaPassion": "2026-11-19T13:29:18+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14296,9 +14270,10 @@
     "RacingNews365": "Liam Lawson responds to Helmut Marko declaration over Racing Bulls F1 seat",
     "Motorsport-Total": "Helmut Marko wollte anderen Fahrer: So reagiert Lawson auf seine F1-Zukunft - Motorsport-Total.com",
     "Crash.net": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat",
-    "RacingNews365 NL": "Lawson reageert op uitspraken Marko: \"Blij dat hij weg is\""
+    "RacingNews365 NL": "Lawson reageert op uitspraken Marko: \"Blij dat hij weg is\"",
+    "FormulaPassion": "Lawson dopo la riconferma: “Sono grato che non sia più Marko a prendere le decisioni”"
    },
-   "last": "2026-11-19T12:50:38.603208+00:00"
+   "last": "2026-11-19T13:40:38.124235+00:00"
   },
   "S8779": {
    "title": "Bottas says 2027 Cadillac confirmation gives him peace",
@@ -16682,9 +16657,35 @@
     "ESPN F1": "Inside the complexities of clock management in college football"
    },
    "last": "2026-11-19T13:30:41.537577+00:00"
+  },
+  "S8954": {
+   "title": "Stroll on cusp of matching unwanted F1 record",
+   "first": "2026-11-19T13:40:38.124203+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-19T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Lance Stroll responds to looming slice of unwanted F1 history"
+   },
+   "last": "2026-11-19T13:40:38.124223+00:00"
+  },
+  "S8955": {
+   "title": "Russell surprised by Red Bull's rapid progress",
+   "first": "2026-11-19T13:40:38.124227+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-19T13:30:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Russell zeer verrast door stormachtige progressie Red Bull"
+   },
+   "last": "2026-11-19T13:40:38.124230+00:00"
   }
  },
- "story_seq": 8953,
+ "story_seq": 8955,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16803,27 +16804,12 @@
   ]
  ],
  "calendar_updated": "2026-11-18T23:21:50.310355+00:00",
- "last_run": "2026-11-19T13:30:38.378589+00:00",
+ "last_run": "2026-11-19T13:40:34.075886+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 15:00",
  "last_digest_at": "2026-11-19T12:21:40.993405+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-16T13:37:28.619864+00:00",
-   "title": "Patrese: Antonelli paranı nasıl harcayacağı konusunda çılgın fikirlere sahip değil",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-16T13:37:29.112522+00:00",
-   "title": "Wolff: Senna ailesi Antonelli'yi benimsedi",
-   "source": "RacingNews365"
-  },
-  {
-   "t": "2026-11-16T13:37:29.613430+00:00",
-   "title": "Antonelli, 2027'de en büyük rakibini Verstappen olarak gösterdi",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-16T14:27:41.602385+00:00",
    "title": "Verstappen'in Red Bull toparlanması 2027 şampiyonluk hedefine işaret ediyor",
@@ -18183,6 +18169,16 @@
    "t": "2026-11-19T13:20:39.486311+00:00",
    "title": "F1, Las Vegas'ta 'paddock' kelimesinden neden kaçınıyor?",
    "source": "AS"
+  },
+  {
+   "t": "2026-11-19T13:40:42.898664+00:00",
+   "title": "Lance Stroll, Aston Martin'de tarihe geçmeye yaklaşıyor",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-19T13:40:43.355206+00:00",
+   "title": "Russell, Red Bull'un sert gelişimine şaşırdığını söylüyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
