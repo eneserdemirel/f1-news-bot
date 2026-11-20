@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9b763a45beca8d7c": "2026-11-06T23:05:18.454468+00:00",
-  "5ac4d51b711fb2a2": "2026-11-06T23:05:18.454468+00:00",
   "9d44279de7c4fa49": "2026-11-06T23:10:16.098809+00:00",
   "45d56864bf6948b2": "2026-11-06T23:20:16.099632+00:00",
   "d1b06014b95b499f": "2026-11-06T23:25:17.627115+00:00",
@@ -6697,7 +6695,9 @@
   "26e9e868810737ef": "2026-11-20T23:00:52.207109+00:00",
   "3cb5bc1c9f1e2638": "2026-11-20T23:00:52.207109+00:00",
   "eaafb10b7232ea47": "2026-11-20T23:00:52.207109+00:00",
-  "929a0ea7177daa3e": "2026-11-20T23:00:52.207109+00:00"
+  "929a0ea7177daa3e": "2026-11-20T23:00:52.207109+00:00",
+  "ea980a422489b7a4": "2026-11-20T23:05:41.488595+00:00",
+  "aa828487d5e2b91d": "2026-11-20T23:05:41.488595+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16954,9 +16954,35 @@
     "ESPN F1": "Viktoria Koln vs. TSV Havelse (20/11/26) - Stream en vivo"
    },
    "last": "2026-11-20T23:00:54.464683+00:00"
+  },
+  "S9445": {
+   "title": "Tigers reach six-year, $46.5M extension with Troy Melton",
+   "first": "2026-11-20T23:05:44.005294+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T21:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources - Tigers, Troy Melton reach 6-year, $46.5M extension"
+   },
+   "last": "2026-11-20T23:05:44.005313+00:00"
+  },
+  "S9446": {
+   "title": "Lawson claims Perez brake-tested him at 2024 Mexico GP",
+   "first": "2026-11-20T23:05:44.005318+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T23:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Lawson accuses rival of once brake-testing him 'to screw my race'"
+   },
+   "last": "2026-11-20T23:05:44.005323+00:00"
   }
  },
- "story_seq": 9444,
+ "story_seq": 9446,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17075,7 +17101,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T23:00:52.207109+00:00",
+ "last_run": "2026-11-20T23:05:41.488595+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18684,6 +18710,11 @@
   {
    "t": "2026-11-20T22:45:47.226214+00:00",
    "title": "Williams ve Haas, Las Vegas'ta gece kuralını ihlal etti",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-20T23:05:47.904738+00:00",
+   "title": "Lawson, Perez'i kendi yarışını bozmak için fren testi yapmakla suçladı",
    "source": "GPblog"
   }
  ]
