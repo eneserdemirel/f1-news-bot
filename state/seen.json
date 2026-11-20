@@ -6700,7 +6700,10 @@
   "7a3f8148cf3e376b": "2026-11-20T03:22:34.602927+00:00",
   "7edbb01464e5d4e9": "2026-11-20T03:22:34.602927+00:00",
   "ee61445d414dd6fa": "2026-11-20T03:22:34.602927+00:00",
-  "53ab131677b7c6fe": "2026-11-20T03:22:34.602927+00:00"
+  "53ab131677b7c6fe": "2026-11-20T03:22:34.602927+00:00",
+  "8bc3242fd2680c01": "2026-11-20T03:27:32.454865+00:00",
+  "2b91ace09ede0d7a": "2026-11-20T03:27:32.454865+00:00",
+  "9d054e47ccd18849": "2026-11-20T03:27:32.454865+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16474,9 +16477,48 @@
     "ESPN F1": "Canucks vs. Kraken (Nov 19, 2026) Live Score"
    },
    "last": "2026-11-20T03:22:37.258752+00:00"
+  },
+  "S9140": {
+   "title": "F1 Academy season finale preview in Las Vegas",
+   "first": "2026-11-20T03:27:34.286744+00:00",
+   "sources": {
+    "Formula 1": "2026-11-20T03:27:34.286758+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What to watch out for in the F1 ACADEMY season finale"
+   },
+   "last": "2026-11-20T03:27:34.286761+00:00"
+  },
+  "S9141": {
+   "title": "Blues 5-2 Penguins NHL game recap",
+   "first": "2026-11-20T03:27:34.286766+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:25:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Blues 5-2 Penguins (20 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-20T03:27:34.286770+00:00"
+  },
+  "S9142": {
+   "title": "J.J. McCarthy's availability against the Jaguars",
+   "first": "2026-11-20T03:27:34.286774+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:23:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Will J.J. McCarthy be able to stand against the Jaguars"
+   },
+   "last": "2026-11-20T03:27:34.286778+00:00"
   }
  },
- "story_seq": 9139,
+ "story_seq": 9142,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16595,7 +16637,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T03:22:34.602927+00:00",
+ "last_run": "2026-11-20T03:27:32.454865+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18020,6 +18062,11 @@
    "t": "2026-11-20T03:12:38.841748+00:00",
    "title": "Alexander Wurz: Hızlı bir Herta, Bottas'ın yerini alırdı",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-20T03:27:37.800474+00:00",
+   "title": "F1 ACADEMY Las Vegas finalinde izlenecek önemli konular",
+   "source": "Formula 1"
   }
  ]
 }
