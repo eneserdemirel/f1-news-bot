@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "16a76c934fffce96": "2026-11-06T11:33:52.443401+00:00",
-  "3ecb687f1905d52f": "2026-11-06T11:33:52.443401+00:00",
-  "b056a407f0a95645": "2026-11-06T11:33:52.443401+00:00",
   "390357b6bdba4684": "2026-11-06T11:43:59.773767+00:00",
   "ac1d15d597a0fd46": "2026-11-06T11:43:59.773767+00:00",
   "246217896a7ae51f": "2026-11-06T11:48:53.622205+00:00",
@@ -6792,7 +6789,10 @@
   "4da26c490b643dec": "2026-11-20T11:28:43.684785+00:00",
   "0011c8d2f0c51240": "2026-11-20T11:28:43.684785+00:00",
   "7c3a466ee8da04ce": "2026-11-20T11:28:43.684785+00:00",
-  "4187aa7b81887170": "2026-11-20T11:33:39.344623+00:00"
+  "4187aa7b81887170": "2026-11-20T11:33:39.344623+00:00",
+  "bcb420e452370713": "2026-11-20T11:38:45.241575+00:00",
+  "7e1ade234cd9037d": "2026-11-20T11:38:45.241575+00:00",
+  "fdcbe2ac61a1091d": "2026-11-20T11:38:45.241575+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13151,7 +13151,7 @@
     "Formula 1": "Komatsu insists there is 'no doubt' over Bearman’s Haas seat",
     "Motorsport Week": "Haas respond to Oliver Bearman contract frustration"
    },
-   "last": "2026-11-20T11:08:40.909829+00:00"
+   "last": "2026-11-20T11:38:47.690860+00:00"
   },
   "S8987": {
    "title": "Leclerc calls Mexico five-second penalty harsh after Lawson move",
@@ -17071,7 +17071,7 @@
    "titles": {
     "Gazzetta dello Sport": "Kimi con la mano alzata in partenza: ecco perché"
    },
-   "last": "2026-11-20T10:23:43.528699+00:00"
+   "last": "2026-11-20T11:38:47.690884+00:00"
   },
   "S9271": {
    "title": "Imam-ul-Haq returns to Yorkshire for 2027 season",
@@ -17254,9 +17254,22 @@
     "The Race": "New autobiography to detail remarkable F1 crash and recovery"
    },
    "last": "2026-11-20T11:33:40.676093+00:00"
+  },
+  "S9285": {
+   "title": "MotoGP Portugal FP1 results with Bezzecchi on top",
+   "first": "2026-11-20T11:38:47.690871+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T11:35:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "MotoGP FP1 Results | Aprilia sets the pace ahead of Marquez brothers in Portugal"
+   },
+   "last": "2026-11-20T11:38:47.690876+00:00"
   }
  },
- "story_seq": 9284,
+ "story_seq": 9285,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17375,7 +17388,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T11:33:39.344623+00:00",
+ "last_run": "2026-11-20T11:38:45.241575+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
