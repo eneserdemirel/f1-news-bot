@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "aec09ddd296fd354": "2026-11-06T21:15:20.855738+00:00",
-  "e0b41d59510f2b8b": "2026-11-06T21:15:20.855738+00:00",
   "76a2164fd21050d3": "2026-11-06T21:20:16.137331+00:00",
   "5fb4bda799158311": "2026-11-06T21:25:20.421450+00:00",
   "104fc535b609f226": "2026-11-06T21:25:20.421450+00:00",
@@ -6698,7 +6696,9 @@
   "b2cb37c99991e14e": "2026-11-20T21:05:44.553979+00:00",
   "d6b1fcc193834a73": "2026-11-20T21:05:44.553979+00:00",
   "4b9a0f386fa5d31c": "2026-11-20T21:05:44.553979+00:00",
-  "5f9f6662847696d8": "2026-11-20T21:10:42.423282+00:00"
+  "5f9f6662847696d8": "2026-11-20T21:10:42.423282+00:00",
+  "ced352b85e56c21c": "2026-11-20T21:15:49.018651+00:00",
+  "f8952835e6528356": "2026-11-20T21:15:49.018651+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17129,9 +17129,35 @@
     "ESPN F1": "Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets"
    },
    "last": "2026-11-20T21:10:43.719621+00:00"
+  },
+  "S9419": {
+   "title": "Brandon Ingram expected to debut for Clippers vs. Rockets",
+   "first": "2026-11-20T21:15:52.355881+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T20:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Brandon Ingram (Achilles) expected to Clippers debut vs. Rockets"
+   },
+   "last": "2026-11-20T21:15:52.355898+00:00"
+  },
+  "S9420": {
+   "title": "Corriere dello Sport previews Las Vegas qualifying timing and TV coverage",
+   "first": "2026-11-20T21:15:52.355903+00:00",
+   "sources": {
+    "Corriere dello Sport": "2026-11-20T21:08:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Corriere dello Sport": "Qualifiche GP Las Vegas, le Ferrari corrono nella notte: orario e come vederle in diretta"
+   },
+   "last": "2026-11-20T21:15:52.355908+00:00"
   }
  },
- "story_seq": 9418,
+ "story_seq": 9420,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17250,17 +17276,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T21:10:42.423282+00:00",
+ "last_run": "2026-11-20T21:15:49.018651+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
  "last_digest_at": "2026-11-20T19:00:59.786453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T21:11:32.778705+00:00",
-   "title": "McLaren, Norris ile Piastri arasındaki 2026 farkını açıkladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-17T22:01:34.019546+00:00",
    "title": "Las Vegas GP'de hava durumu uyarısı: geceleri 4°C'ye kadar düşüş",
