@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6e5cb2d17752864a": "2026-11-06T06:18:14.111529+00:00",
-  "7641975f2947e286": "2026-11-06T06:18:14.111529+00:00",
   "28f4feab218df811": "2026-11-06T06:28:12.941270+00:00",
   "a3bc93b858f6746a": "2026-11-06T06:38:13.332262+00:00",
   "10b55caca5315811": "2026-11-06T06:48:14.107877+00:00",
@@ -6768,7 +6766,13 @@
   "7d32a099f69aab22": "2026-11-20T06:12:34.081403+00:00",
   "89644793a1dba5cc": "2026-11-20T06:17:41.036654+00:00",
   "d2709b11c730f114": "2026-11-20T06:17:41.036654+00:00",
-  "964793aeaacbdde7": "2026-11-20T06:17:41.036654+00:00"
+  "964793aeaacbdde7": "2026-11-20T06:17:41.036654+00:00",
+  "4ba5c9157bd66655": "2026-11-20T06:22:31.561282+00:00",
+  "bfe06ba3880de071": "2026-11-20T06:22:31.561282+00:00",
+  "55f42a45fcabb6c1": "2026-11-20T06:22:31.561282+00:00",
+  "94f3d36e92dbc4c1": "2026-11-20T06:22:31.561282+00:00",
+  "249aca102549c82c": "2026-11-20T06:22:31.561282+00:00",
+  "c1e64fc8fa259287": "2026-11-20T06:22:31.561282+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14139,7 +14143,8 @@
     "Motorsport.com Italia": "2026-11-20T00:30:46+00:00",
     "FormulaPassion": "2026-11-20T03:15:00+00:00",
     "RacingNews365 NL": "2026-11-20T05:30:00+00:00",
-    "GPFans": "2026-11-20T05:55:00+00:00"
+    "GPFans": "2026-11-20T05:55:00+00:00",
+    "PlanetF1": "2026-11-20T06:19:58+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14154,9 +14159,10 @@
     "Motorsport.com Italia": "F1 | C'è una svolta FIA: dal 2027 arriveranno i commissari sportivi permanenti",
     "FormulaPassion": "Svolta FIA, arrivano gli “arbitri” professionisti: dal 2027, commissari a tempo pieno in F1",
     "RacingNews365 NL": "FIA gooit hoofdpijndossier F1-coureurs rigoureus op de schop",
-    "GPFans": "Historic FIA stewards decision announced at F1 Las Vegas Grand Prix"
+    "GPFans": "Historic FIA stewards decision announced at F1 Las Vegas Grand Prix",
+    "PlanetF1": "FIA confirms permanent race stewards in major F1 2027 change"
    },
-   "last": "2026-11-20T05:57:35.628200+00:00"
+   "last": "2026-11-20T06:22:37.327910+00:00"
   },
   "S9006": {
    "title": "Infantino calls for fair play in FIFA elections",
@@ -16306,14 +16312,16 @@
    "title": "Antonelli, Bearman and Stroll get Las Vegas GP grid penalties",
    "first": "2026-11-20T05:02:40.832637+00:00",
    "sources": {
-    "Formula 1": "2026-11-20T05:02:40.832652+00:00"
+    "Formula 1": "2026-11-20T05:02:40.832652+00:00",
+    "Sky Sports F1": "2026-11-20T06:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Formula 1": "Antonelli, Bearman and Stroll set for penalties in Las Vegas"
+    "Formula 1": "Antonelli, Bearman and Stroll set for penalties in Las Vegas",
+    "Sky Sports F1": "Antonelli hit with grid penalty for Las Vegas GP"
    },
-   "last": "2026-11-20T05:02:40.832656+00:00"
+   "last": "2026-11-20T06:22:37.327905+00:00"
   },
   "S9165": {
    "title": "Timea Gardiner three-pointer highlight (basketball)",
@@ -16686,9 +16694,61 @@
     "AS": "Aston Martin no se esconde"
    },
    "last": "2026-11-20T06:17:44.471405+00:00"
+  },
+  "S9191": {
+   "title": "Stars-Golden Knights NHL game goes to overtime",
+   "first": "2026-11-20T06:22:37.327860+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T06:18:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Thomas Harley sends Stars-Golden Knights to OT with late equalizer"
+   },
+   "last": "2026-11-20T06:22:37.327878+00:00"
+  },
+  "S9192": {
+   "title": "Devin Dillon own goal vs San Diego (soccer)",
+   "first": "2026-11-20T06:22:37.327883+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T06:18:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Devin Dillon scores an unlucky own goal vs. San Diego"
+   },
+   "last": "2026-11-20T06:22:37.327888+00:00"
+  },
+  "S9193": {
+   "title": "Grand Canyon vs San Diego game highlights",
+   "first": "2026-11-20T06:22:37.327891+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T05:56:54+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grand Canyon vs. San Diego: Game Highlights"
+   },
+   "last": "2026-11-20T06:22:37.327895+00:00"
+  },
+  "S9194": {
+   "title": "Real Salt Lake beat Seattle Sounders on penalties",
+   "first": "2026-11-20T06:22:37.327897+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T05:44:32+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Real Salt Lake oust Seattle Sounders in penalty shootout"
+   },
+   "last": "2026-11-20T06:22:37.327900+00:00"
   }
  },
- "story_seq": 9190,
+ "story_seq": 9194,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16807,7 +16867,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T06:17:41.036654+00:00",
+ "last_run": "2026-11-20T06:22:31.561282+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
