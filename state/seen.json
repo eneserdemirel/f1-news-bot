@@ -1,14 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c68e388164896054": "2026-11-06T12:59:45.924340+00:00",
-  "fe40c4a4063a4634": "2026-11-06T12:59:45.924340+00:00",
-  "c7d054b6d15a4335": "2026-11-06T12:59:45.924340+00:00",
-  "31b3a022a4ae06b2": "2026-11-06T12:59:45.924340+00:00",
-  "e338f4efc2a1198b": "2026-11-06T12:59:45.924340+00:00",
-  "8e6bacb9763a0696": "2026-11-06T12:59:45.924340+00:00",
-  "83da70c92b0622ce": "2026-11-06T12:59:45.924340+00:00",
-  "33660294f0c7f1a6": "2026-11-06T12:59:45.924340+00:00",
   "4c653d278791b267": "2026-11-06T13:04:34.935392+00:00",
   "3f51213912d9c6ff": "2026-11-06T13:04:34.935392+00:00",
   "791d36aecafc5106": "2026-11-06T13:09:34.118824+00:00",
@@ -6783,7 +6775,11 @@
   "397f45144e98b08a": "2026-11-20T12:58:48.868889+00:00",
   "0a570b54fe95900e": "2026-11-20T12:58:48.868889+00:00",
   "4a3add74ba532714": "2026-11-20T12:58:48.868889+00:00",
-  "f987e578ad913c6c": "2026-11-20T12:58:48.868889+00:00"
+  "f987e578ad913c6c": "2026-11-20T12:58:48.868889+00:00",
+  "54df66208e6abd50": "2026-11-20T13:03:42.459253+00:00",
+  "e727a5a7eb350a1f": "2026-11-20T13:03:42.459253+00:00",
+  "f3b9bea32824f88d": "2026-11-20T13:03:42.459253+00:00",
+  "fdf6597b588e61ee": "2026-11-20T13:03:42.459253+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17469,9 +17465,61 @@
     "Gazzetta dello Sport": "Dall'abbigliamento alle esperienze nei GP: le iniziative della nuova partnership tra Formula 1 e Nike"
    },
    "last": "2026-11-20T12:58:54.183287+00:00"
+  },
+  "S9301": {
+   "title": "Arsenal reportedly want Nico Williams (football transfer rumour)",
+   "first": "2026-11-20T13:03:48.146058+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T08:27:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Arsenal want Athletic's World Cup winner Nico Williams"
+   },
+   "last": "2026-11-20T13:03:48.146080+00:00"
+  },
+  "S9302": {
+   "title": "Stellantis reportedly weighing exit from non-F1 racing projects",
+   "first": "2026-11-20T13:03:48.146084+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-20T13:00:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Huge motorsport group weighing up shock racing projects exit - report"
+   },
+   "last": "2026-11-20T13:03:48.146088+00:00"
+  },
+  "S9303": {
+   "title": "Verstappen explains Daytona visit, denies 24 Hours entry talks",
+   "first": "2026-11-20T13:03:48.146091+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-20T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen schept duidelijkheid over opvallend bezoek: \"Kwam perfect uit\""
+   },
+   "last": "2026-11-20T13:03:48.146109+00:00"
+  },
+  "S9304": {
+   "title": "Cadillac offers Herta reserve driver role for 2027",
+   "first": "2026-11-20T13:03:48.146113+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T13:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Cadillac Makes Herta a New Offer After Disappointing F1 Seat Decision"
+   },
+   "last": "2026-11-20T13:03:48.146116+00:00"
   }
  },
- "story_seq": 9300,
+ "story_seq": 9304,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17590,17 +17638,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T12:58:48.868889+00:00",
+ "last_run": "2026-11-20T13:03:42.459253+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
  "last_digest_at": "2026-11-20T12:03:45.450180+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T13:00:22.030381+00:00",
-   "title": "Verstappen, telsizde motoruna konuştuğu için güldürdü",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-17T13:10:19.545147+00:00",
    "title": "Zak Brown: Andrea Stella'yı istedim, 'bullshit' McLaren'da kabul görmez",
@@ -19140,6 +19183,16 @@
    "t": "2026-11-20T12:58:59.964692+00:00",
    "title": "Katar GP'de iki pit stop zorunlu olacak",
    "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-20T13:03:52.474792+00:00",
+   "title": "Verstappen'in Daytona ziyaretine açıklık getirdi: \"Tam zamanına denk geldi\"",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-20T13:03:52.888807+00:00",
+   "title": "Cadillac, Herta'ya yedek pilot teklifi sundu",
+   "source": "GPblog"
   }
  ]
 }
