@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "791d36aecafc5106": "2026-11-06T13:09:34.118824+00:00",
-  "cdcd011780992710": "2026-11-06T13:09:34.118824+00:00",
   "801b18366c153147": "2026-11-06T13:14:34.782157+00:00",
   "985f706f920e27b9": "2026-11-06T13:14:34.782157+00:00",
   "05f90daeedfe0088": "2026-11-06T13:24:35.522773+00:00",
@@ -6778,7 +6776,12 @@
   "e727a5a7eb350a1f": "2026-11-20T13:03:42.459253+00:00",
   "f3b9bea32824f88d": "2026-11-20T13:03:42.459253+00:00",
   "fdf6597b588e61ee": "2026-11-20T13:03:42.459253+00:00",
-  "1dc4b83062b09ac0": "2026-11-20T13:08:47.569472+00:00"
+  "1dc4b83062b09ac0": "2026-11-20T13:08:47.569472+00:00",
+  "5d49d2c0646bdce9": "2026-11-20T13:13:41.081829+00:00",
+  "62c4f18b5aa002e8": "2026-11-20T13:13:41.081829+00:00",
+  "0f0ac1a769650c3c": "2026-11-20T13:13:41.081829+00:00",
+  "47235e3b43f5f191": "2026-11-20T13:13:41.081829+00:00",
+  "5e0c561c6fbf3e51": "2026-11-20T13:13:41.081829+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17529,9 +17532,61 @@
     "ESPN F1": "NHL Power Rankings: Updated poll, plus fantasy hockey add/drops for all 32 teams"
    },
    "last": "2026-11-20T13:08:48.764945+00:00"
+  },
+  "S9306": {
+   "title": "F1.com analysis of early Las Vegas favourites after day one",
+   "first": "2026-11-20T13:13:45.541114+00:00",
+   "sources": {
+    "Formula 1": "2026-11-20T13:13:45.541129+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Thursday rains in Las Vegas leave teams playing catch-up"
+   },
+   "last": "2026-11-20T13:13:45.541132+00:00"
+  },
+  "S9307": {
+   "title": "NFL field director Nick Pappas on international games",
+   "first": "2026-11-20T13:13:45.541137+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T13:10:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL field director Nick Pappas tested by 9 international games"
+   },
+   "last": "2026-11-20T13:13:45.541141+00:00"
+  },
+  "S9308": {
+   "title": "Harry Kane on Champions League and England trophy ambitions",
+   "first": "2026-11-20T13:13:45.541144+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T12:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   },
+   "last": "2026-11-20T13:13:45.541148+00:00"
+  },
+  "S9309": {
+   "title": "Opinion: professional referees as F1 race stewards",
+   "first": "2026-11-20T13:13:45.541150+00:00",
+   "sources": {
+    "Auto Motor und Sport": "2026-11-20T13:10:44+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Auto Motor und Sport": "Formel 1: Sind Profi-Schiedsrichter als Rennkommissare die Lösung?"
+   },
+   "last": "2026-11-20T13:13:45.541153+00:00"
   }
  },
- "story_seq": 9305,
+ "story_seq": 9309,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17650,17 +17705,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T13:08:47.569472+00:00",
+ "last_run": "2026-11-20T13:13:41.081829+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
  "last_digest_at": "2026-11-20T12:03:45.450180+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T13:10:19.545147+00:00",
-   "title": "Zak Brown: Andrea Stella'yı istedim, 'bullshit' McLaren'da kabul görmez",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-17T13:20:22.491187+00:00",
    "title": "Coulthard: F1, yağmurda 'deneme' ruhunu kaybetti",
