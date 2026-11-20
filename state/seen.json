@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "33134efd2d413776": "2026-11-06T22:15:17.408957+00:00",
-  "3d0b9d8823d2c648": "2026-11-06T22:15:17.408957+00:00",
   "3f59d2b711525f8a": "2026-11-06T22:25:18.642431+00:00",
   "efc98aac9bf1a5dc": "2026-11-06T22:25:18.642431+00:00",
   "08297cb4bfed4466": "2026-11-06T22:25:18.642431+00:00",
@@ -6701,7 +6699,10 @@
   "3eca1580d420b711": "2026-11-20T22:05:41.986325+00:00",
   "3f3ace79f7cfc030": "2026-11-20T22:05:41.986325+00:00",
   "a313deb2e7389e0b": "2026-11-20T22:10:39.716291+00:00",
-  "3acc324eacabcd0f": "2026-11-20T22:10:39.716291+00:00"
+  "3acc324eacabcd0f": "2026-11-20T22:10:39.716291+00:00",
+  "94a0abb21cc66f38": "2026-11-20T22:15:45.950181+00:00",
+  "f0cf417a9bdc9525": "2026-11-20T22:15:45.950181+00:00",
+  "d059880bea9d300b": "2026-11-20T22:15:45.950181+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6723,41 +6724,6 @@
  },
  "last_alert": "2026-11-13T09:47:09.285231+00:00",
  "stories": {
-  "S8483": {
-   "title": "Piastri to take grid penalty at Las Vegas Grand Prix",
-   "first": "2026-11-18T07:02:50.039315+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-18T06:59:56+00:00",
-    "RacingNews365": "2026-11-18T07:12:00+00:00",
-    "FormulaPassion": "2026-11-18T07:30:00+00:00",
-    "RacingNews365 NL": "2026-11-18T07:45:00+00:00",
-    "Autosport": "2026-11-18T08:14:39+00:00",
-    "Motorsport.com Italia": "2026-11-18T08:43:45+00:00",
-    "Crash.net": "2026-11-18T09:31:09+00:00",
-    "GPblog": "2026-11-18T09:59:00+00:00",
-    "Formula 1": "2026-11-18T11:02:51.035370+00:00",
-    "Sky Sports F1": "2026-11-18T14:30:00+00:00",
-    "Motorsport Week": "2026-11-18T16:00:00+00:00",
-    "GPFans": "2026-11-18T20:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Oscar Piastri braced for grid penalty at Las Vegas Grand Prix",
-    "RacingNews365": "Oscar Piastri to take major F1 grid penalty at Las Vegas Grand Prix",
-    "FormulaPassion": "10 posizioni di penalità in griglia a Las Vegas per Oscar Piastri: monta il turbo Mercedes con ADUO al pari di Norris e delle Alpine",
-    "RacingNews365 NL": "Gridstraf voor Oscar Piastri in F1 GP Las Vegas",
-    "Autosport": "Piastri set for grid penalty at F1 Las Vegas GP",
-    "Motorsport.com Italia": "F1 | McLaren avrà il turbo ADUO a Las Vegas. Piastri andrà in penalità montando anche un nuovo motore",
-    "Crash.net": "Oscar Piastri set for huge Las Vegas GP grid penalty",
-    "GPblog": "McLaren reveals grid penalty already certain for Las Vegas Grand Prix",
-    "Formula 1": "Piastri set for grid penalty at Las Vegas Grand Prix",
-    "Sky Sports F1": "Piastri to serve grid penalty at Las Vegas GP",
-    "Motorsport Week": "Oscar Piastri to take a significant penalty for Las Vegas GP",
-    "GPFans": "Oscar Piastri 'to take 10-place grid penalty' at the Las Vegas Grand Prix"
-   },
-   "last": "2026-11-18T22:12:29.928586+00:00"
-  },
   "S8531": {
    "title": "Social posts on F1's V8 2030 engine reveal deleted",
    "first": "2026-11-18T10:42:54.548775+00:00",
@@ -6795,19 +6761,6 @@
     "Motorsport-Total": "McLaren versteigert Formel-1-Auto für 2027: Noch bevor es überhaupt existiert - Motorsport-Total.com"
    },
    "last": "2026-11-19T04:03:47.034601+00:00"
-  },
-  "S8565": {
-   "title": "Verstappen warns of different behaviours in Vegas",
-   "first": "2026-11-18T14:24:57.510010+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-18T12:10:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Max Verstappen raises 'different behaviours' warning ahead of unique F1 challenge"
-   },
-   "last": "2026-11-18T22:12:29.928530+00:00"
   },
   "S8566": {
    "title": "Lawson's tears over Verstappen and Red Bull recalled",
@@ -6907,32 +6860,6 @@
    },
    "last": "2026-11-19T13:50:39.544488+00:00"
   },
-  "S8673": {
-   "title": "Best value early betting picks for Las Vegas Grand Prix",
-   "first": "2026-11-18T22:12:29.928390+00:00",
-   "sources": {
-    "Formula 1": "2026-11-18T22:12:29.928393+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "Best value early bets for the Las Vegas Grand Prix"
-   },
-   "last": "2026-11-18T22:12:29.928395+00:00"
-  },
-  "S8674": {
-   "title": "Real Madrid need more sharpness for Women's Champions League",
-   "first": "2026-11-18T22:12:29.928399+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T21:33:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Real Madrid need more sharpness in order to compete with UWCL's best"
-   },
-   "last": "2026-11-18T22:12:29.928404+00:00"
-  },
   "S8675": {
    "title": "Georgia AG asks SEC to act against LSU",
    "first": "2026-11-18T22:12:29.928406+00:00",
@@ -6959,240 +6886,6 @@
    },
    "last": "2026-11-18T22:22:06.567234+00:00"
   },
-  "S8677": {
-   "title": "Twins reunite with Sonny Gray on two-year deal",
-   "first": "2026-11-18T22:12:29.928418+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T20:48:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Twins reunite with veteran right-hander Sonny Gray on two-year deal"
-   },
-   "last": "2026-11-18T22:12:29.928421+00:00"
-  },
-  "S8678": {
-   "title": "Jets QB Geno Smith intends to play vs Chargers",
-   "first": "2026-11-18T22:12:29.928423+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T20:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jets QB Geno Smith (ankle) intends to play vs. Chargers: 'That's the plan'"
-   },
-   "last": "2026-11-18T22:12:29.928426+00:00"
-  },
-  "S8679": {
-   "title": "Mervedi Miteo and-one basket",
-   "first": "2026-11-18T22:12:29.928428+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T20:34:14+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Mervedi Miteo gets the basket plus the foul"
-   },
-   "last": "2026-11-18T22:12:29.928431+00:00"
-  },
-  "S8680": {
-   "title": "Bobby Okereke out of Thursday injury report",
-   "first": "2026-11-18T22:12:29.928434+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T20:33:17+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Thursday injury report: DNP: LB Bobby Okereke (foot), TE..."
-   },
-   "last": "2026-11-18T22:12:29.928436+00:00"
-  },
-  "S8681": {
-   "title": "Red Sox acquire catcher Nick Fortes from Rays",
-   "first": "2026-11-18T22:12:29.928438+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T20:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Red Sox acquire catcher Nick Fortes in trade with Rays"
-   },
-   "last": "2026-11-18T22:12:29.928441+00:00"
-  },
-  "S8682": {
-   "title": "Real Madrid beat Inter to continue top four push",
-   "first": "2026-11-18T22:12:29.928444+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T20:10:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Real Madrid beat Inter to continue top four push"
-   },
-   "last": "2026-11-18T22:12:29.928446+00:00"
-  },
-  "S8683": {
-   "title": "Manchester City beat BK Häcken with Hemp and Shaw goals",
-   "first": "2026-11-18T22:12:29.928448+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T19:06:32+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Hemp & Shaw fire Manchester City to win over BK Häcken"
-   },
-   "last": "2026-11-18T22:12:29.928471+00:00"
-  },
-  "S8684": {
-   "title": "Goran Gogic pleads guilty to drug charge",
-   "first": "2026-11-18T22:12:29.928454+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T19:43:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Ex-heavyweight boxer Goran Gogic pleads guilty to drug charge, faces 10+ years"
-   },
-   "last": "2026-11-18T22:12:29.928461+00:00"
-  },
-  "S8685": {
-   "title": "Fantasy hoops: ESPN Player Rater roto and category stars",
-   "first": "2026-11-18T22:12:29.928464+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T19:42:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Fantasy hoops: Using the ESPN Player Rater to uncover 16 roto and category stars"
-   },
-   "last": "2026-11-18T22:12:29.928467+00:00"
-  },
-  "S8686": {
-   "title": "Pien Steenbergen dials from long distance",
-   "first": "2026-11-18T22:12:29.928473+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T18:41:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Pien Steenbergen dials from long distance"
-   },
-   "last": "2026-11-18T22:12:29.928477+00:00"
-  },
-  "S8687": {
-   "title": "Judge questions LSU claims SEC hallucinated citations",
-   "first": "2026-11-18T22:12:29.928479+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T18:26:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Judge questions LSU's claims the SEC 'hallucinated' citations"
-   },
-   "last": "2026-11-18T22:12:29.928482+00:00"
-  },
-  "S8688": {
-   "title": "Sirianni sticks with Milton as QB1, Mannion as playcaller",
-   "first": "2026-11-18T22:12:29.928484+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T17:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller"
-   },
-   "last": "2026-11-18T22:12:29.928487+00:00"
-  },
-  "S8689": {
-   "title": "Emma Hayes on role in USMNT coach search",
-   "first": "2026-11-18T22:12:29.928489+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T17:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'"
-   },
-   "last": "2026-11-18T22:12:29.928492+00:00"
-  },
-  "S8690": {
-   "title": "WWE Survivor Series War Games preview",
-   "first": "2026-11-18T22:12:29.928494+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T16:36:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Get Ready for WWE Survivor Series: War Games"
-   },
-   "last": "2026-11-18T22:12:29.928497+00:00"
-  },
-  "S8691": {
-   "title": "Verdict on Cadillac keeping Bottas over Herta for 2027",
-   "first": "2026-11-18T22:12:29.928503+00:00",
-   "sources": {
-    "The Race": "2026-11-18T21:33:27+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Our verdict on Cadillac keeping Bottas over Herta for F1 2027"
-   },
-   "last": "2026-11-18T22:12:29.928507+00:00"
-  },
-  "S8692": {
-   "title": "Analysis: Cadillac retaining Bottas is the logical move",
-   "first": "2026-11-18T22:12:29.928514+00:00",
-   "sources": {
-    "Autosport": "2026-11-18T20:01:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "Autosport": "Cadillac retaining Bottas for F1 2027 is the logical move"
-   },
-   "last": "2026-11-18T22:12:29.928517+00:00"
-  },
-  "S8693": {
-   "title": "Ricciardo lauds Verstappen and Red Bull-Ford alliance",
-   "first": "2026-11-18T22:12:29.928543+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-18T21:01:37+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "Daniel Ricciardo lauds Max Verstappen after Red Bull Ford F1 landmark"
-   },
-   "last": "2026-11-18T22:12:29.928548+00:00"
-  },
-  "S8694": {
-   "title": "Which drivers are confirmed for the 2027 F1 grid",
-   "first": "2026-11-18T22:12:29.928550+00:00",
-   "sources": {
-    "PlanetF1": "2026-11-18T20:02:10+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "PlanetF1": "F1 2027 driver line-up: Which drivers are already confirmed for the 2027 grid?"
-   },
-   "last": "2026-11-18T22:12:29.928554+00:00"
-  },
   "S8695": {
    "title": "Vasseur shares details of crunch Hamilton-Leclerc Ferrari meeting",
    "first": "2026-11-18T22:12:29.928559+00:00",
@@ -7207,58 +6900,6 @@
     "Motorsport-Total": "Ferrari-Krisengespräch in Brasilien: Nach zehn Minuten war alles geklärt - Motorsport-Total.com"
    },
    "last": "2026-11-19T05:43:46.364907+00:00"
-  },
-  "S8696": {
-   "title": "F1 Today roundup: V8 tease and Piastri Vegas penalty",
-   "first": "2026-11-18T22:12:29.928564+00:00",
-   "sources": {
-    "GPblog": "2026-11-18T21:00:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "F1 Today: FIA tease V8 announcement, Piastri set for Las Vegas GP penalty"
-   },
-   "last": "2026-11-18T22:12:29.928567+00:00"
-  },
-  "S8697": {
-   "title": "Opinion: Cadillac's Bottas decision is the right call",
-   "first": "2026-11-18T22:12:29.928571+00:00",
-   "sources": {
-    "GPblog": "2026-11-18T20:30:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Cadillac make the absolutely right decision after season full of bad luck"
-   },
-   "last": "2026-11-18T22:12:29.928574+00:00"
-  },
-  "S8698": {
-   "title": "Lawson says Helmut Marko terrified him at Red Bull",
-   "first": "2026-11-18T22:12:29.928579+00:00",
-   "sources": {
-    "GPFans": "2026-11-18T21:28:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Liam Lawson opens up on how Helmut Marko 'terrified' him and delivered brutal Red Bull ultimatum"
-   },
-   "last": "2026-11-18T22:12:29.928582+00:00"
-  },
-  "S8699": {
-   "title": "Speculation Hamilton could return to McLaren from Ferrari",
-   "first": "2026-11-18T22:12:29.928588+00:00",
-   "sources": {
-    "GPFans": "2026-11-18T19:57:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Lewis Hamilton and a shock return to McLaren - how F1 star could ditch Ferrari for move home"
-   },
-   "last": "2026-11-18T22:12:29.928591+00:00"
   },
   "S8700": {
    "title": "Alycia Baumgardner vacates junior lightweight boxing titles",
@@ -17383,9 +17024,48 @@
     "ESPN F1": "Erik Makke shows off the range on 3"
    },
    "last": "2026-11-20T22:10:41.664531+00:00"
+  },
+  "S9438": {
+   "title": "Carlos Alcaraz off-court fitness work ahead of ATP semis",
+   "first": "2026-11-20T22:15:47.891355+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T22:10:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Carlos Alcaraz in off-court 'challenge' to stay healthy for ATP semis"
+   },
+   "last": "2026-11-20T22:15:47.891373+00:00"
+  },
+  "S9439": {
+   "title": "Ronaldo nears 1,000 goals but misses penalty in Al Nassr loss",
+   "first": "2026-11-20T22:15:47.891379+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T21:11:20+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Cristiano Ronaldo edges closer to 1,000 goals but misses penalty in Al Nassr loss"
+   },
+   "last": "2026-11-20T22:15:47.891384+00:00"
+  },
+  "S9440": {
+   "title": "Como hit by Moise Kean injury blow",
+   "first": "2026-11-20T22:15:47.891387+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T20:47:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Champions League upstarts Como suffer Moise Kean injury blow"
+   },
+   "last": "2026-11-20T22:15:47.891391+00:00"
   }
  },
- "story_seq": 9437,
+ "story_seq": 9440,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17504,7 +17184,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T22:10:39.716291+00:00",
+ "last_run": "2026-11-20T22:15:45.950181+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
