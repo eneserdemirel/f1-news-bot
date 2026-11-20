@@ -6788,7 +6788,10 @@
   "31d32f738d5790d8": "2026-11-20T06:57:32.532412+00:00",
   "8118af3905f54059": "2026-11-20T06:57:32.532412+00:00",
   "9ac1749aca6fd8c0": "2026-11-20T06:57:32.532412+00:00",
-  "d4d6d79f129b9465": "2026-11-20T06:57:32.532412+00:00"
+  "d4d6d79f129b9465": "2026-11-20T06:57:32.532412+00:00",
+  "9c963c7afa9a693e": "2026-11-20T07:02:31.737467+00:00",
+  "b5a25188c5fb936c": "2026-11-20T07:02:31.737467+00:00",
+  "2e6ca75ba66e793e": "2026-11-20T07:02:31.737467+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16318,7 +16321,7 @@
     "Formula 1": "2026-11-20T05:22:40.067555+00:00",
     "ESPN F1": "2026-11-20T05:07:00+00:00",
     "Motorsport Week": "2026-11-20T05:08:27+00:00",
-    "Motorsport-Total": "2026-11-20T05:16:00+00:00",
+    "Motorsport-Total": "2026-11-20T05:03:07+00:00",
     "AS": "2026-11-20T05:21:14+00:00",
     "FormulaPassion": "2026-11-20T05:11:20+00:00",
     "Gazzetta dello Sport": "2026-11-20T05:37:46+00:00",
@@ -16345,7 +16348,7 @@
     "Sky Sports F1": "Russell fastest as rain limits running in Las Vegas GP practice",
     "FIA": "F1 – Russell beats Gasly and Leclerc to top spot in wet Las Vegas FP2"
    },
-   "last": "2026-11-20T06:17:44.471383+00:00"
+   "last": "2026-11-20T07:02:34.234475+00:00"
   },
   "S9168": {
    "title": "Verstappen limited to P13 in Vegas FP2 by radio problems",
@@ -16848,9 +16851,35 @@
     "ESPN F1": "Gavin Wolff scores in the 4'"
    },
    "last": "2026-11-20T06:57:36.330101+00:00"
+  },
+  "S9206": {
+   "title": "Kenya coach Benni McCarthy demands overdue payments",
+   "first": "2026-11-20T07:02:34.234441+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T06:59:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kenya coach Benni McCarthy demands overdue payments despite post-match comments"
+   },
+   "last": "2026-11-20T07:02:34.234459+00:00"
+  },
+  "S9207": {
+   "title": "Zak Brown admits McLaren missed too many opportunities",
+   "first": "2026-11-20T07:02:34.234464+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-20T07:01:05+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | McLaren, Brown ammette: “Abbiamo lasciato per strada troppe opportunità”"
+   },
+   "last": "2026-11-20T07:02:34.234469+00:00"
   }
  },
- "story_seq": 9205,
+ "story_seq": 9207,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16969,7 +16998,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T06:57:32.532412+00:00",
+ "last_run": "2026-11-20T07:02:31.737467+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18479,6 +18508,11 @@
    "t": "2026-11-20T06:47:39.459295+00:00",
    "title": "Verstappen'den Antonelli'ye: 'Bulutta yaşama' uyarısı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-20T07:02:37.897049+00:00",
+   "title": "McLaren CEO'su Brown: \"Yolda çok fırsat kaçırdık\"",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
