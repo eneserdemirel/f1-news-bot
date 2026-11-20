@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d1b0ad9214fe65ee": "2026-11-06T10:58:55.672020+00:00",
-  "aafb513cf51cc2b0": "2026-11-06T10:58:55.672020+00:00",
-  "e1f95bf3073d55cb": "2026-11-06T10:58:55.672020+00:00",
-  "672efc9fcc623757": "2026-11-06T10:58:55.672020+00:00",
   "fa6b4196206433e0": "2026-11-06T11:03:55.424891+00:00",
   "c11c9779ac4e7789": "2026-11-06T11:03:55.424891+00:00",
   "1a51f8f402ec2467": "2026-11-06T11:03:55.424891+00:00",
@@ -6788,7 +6784,10 @@
   "85564209859970cf": "2026-11-20T10:53:39.150761+00:00",
   "6f7a07d17743cb1c": "2026-11-20T10:58:41.324093+00:00",
   "506f21ed531801f2": "2026-11-20T10:58:41.324093+00:00",
-  "b9fe2110fbbe61e0": "2026-11-20T10:58:41.324093+00:00"
+  "b9fe2110fbbe61e0": "2026-11-20T10:58:41.324093+00:00",
+  "6160c0452528b55c": "2026-11-20T11:03:44.174958+00:00",
+  "f3c80c1c74cbd087": "2026-11-20T11:03:44.174958+00:00",
+  "117a6914b9cbe47d": "2026-11-20T11:03:44.174958+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17169,9 +17168,48 @@
     "ESPN F1": "Taipans flex their muscles to pile pain on Perth"
    },
    "last": "2026-11-20T10:58:45.276476+00:00"
+  },
+  "S9276": {
+   "title": "Arteta warns of drone breach risk after Man United training incident",
+   "first": "2026-11-20T11:03:47.879777+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T10:47:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mikel Arteta warns of drone breach risk after Man United training incident"
+   },
+   "last": "2026-11-20T11:03:47.879797+00:00"
+  },
+  "S9277": {
+   "title": "Brown says Verstappen's Brazil GP performance left him impressed",
+   "first": "2026-11-20T11:03:47.879802+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-20T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Brown buigt voor Verstappen: \"Dan moet je je altijd zorgen maken\""
+   },
+   "last": "2026-11-20T11:03:47.879806+00:00"
+  },
+  "S9278": {
+   "title": "Analysis of Red Bull's Las Vegas balance challenge for Verstappen and Hadjar",
+   "first": "2026-11-20T11:03:47.879808+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T11:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Red Bull's Las Vegas challenge: Finding the right balance for Verstappen and Hadjar"
+   },
+   "last": "2026-11-20T11:03:47.879812+00:00"
   }
  },
- "story_seq": 9275,
+ "story_seq": 9278,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17290,7 +17328,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T10:58:41.324093+00:00",
+ "last_run": "2026-11-20T11:03:44.174958+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
