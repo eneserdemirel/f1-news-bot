@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "d886a907261e80c0": "2026-11-06T05:18:13.680424+00:00",
   "1c5d6398bedeb4e3": "2026-11-06T05:28:12.708220+00:00",
   "b0707806e4c28d88": "2026-11-06T05:28:12.708220+00:00",
   "39521755c4a3bcff": "2026-11-06T05:38:16.460452+00:00",
@@ -6737,7 +6736,15 @@
   "a8c14cf1dd4b42e0": "2026-11-20T05:17:31.456593+00:00",
   "ed2892dbbcd23f96": "2026-11-20T05:17:31.456593+00:00",
   "c41dfcb9316c9f4f": "2026-11-20T05:17:31.456593+00:00",
-  "c43be5d7673a33e0": "2026-11-20T05:17:31.456593+00:00"
+  "c43be5d7673a33e0": "2026-11-20T05:17:31.456593+00:00",
+  "609113a629ff9680": "2026-11-20T05:22:33.829016+00:00",
+  "4814ef386b087afc": "2026-11-20T05:22:33.829016+00:00",
+  "6814ef7e711de07d": "2026-11-20T05:22:33.829016+00:00",
+  "6dfbc0511912dd1d": "2026-11-20T05:22:33.829016+00:00",
+  "0fe04a9f456a8578": "2026-11-20T05:22:33.829016+00:00",
+  "4fb73ce756595a31": "2026-11-20T05:22:33.829016+00:00",
+  "30dbea3a3c969653": "2026-11-20T05:22:33.829016+00:00",
+  "90f09f8226fdcebb": "2026-11-20T05:22:33.829016+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6889,32 +6896,6 @@
     "ESPN F1": "Arkansas' Calipari laments not calling TO late in loss: 'Still learning about my team'"
    },
    "last": "2026-11-18T05:32:02.806242+00:00"
-  },
-  "S8462": {
-   "title": "Luka Doncic swishes a smooth jumper for the Lakers",
-   "first": "2026-11-18T05:22:02.822431+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T04:50:41+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luka Doncic swishes a smooth jumper for the Lakers"
-   },
-   "last": "2026-11-18T05:22:02.822451+00:00"
-  },
-  "S8463": {
-   "title": "Jake Bauers says Boston figured into Red Sox signing decision",
-   "first": "2026-11-18T05:22:02.822458+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T03:12:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Jake Bauers says city of Boston figured into decision to sign with Red Sox"
-   },
-   "last": "2026-11-18T05:22:02.822464+00:00"
   },
   "S8464": {
    "title": "Auburn's Phoenix Stotijn details her confidence in win vs. Seton Hall",
@@ -15844,14 +15825,16 @@
    "title": "Cadillac to outline next move for Colton Herta",
    "first": "2026-11-20T02:27:38.563294+00:00",
    "sources": {
-    "RacingNews365": "2026-11-20T02:20:00+00:00"
+    "RacingNews365": "2026-11-20T02:20:00+00:00",
+    "The Race": "2026-11-20T05:20:39+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365": "Cadillac outline next move for shunned Colton Herta"
+    "RacingNews365": "Cadillac outline next move for shunned Colton Herta",
+    "The Race": "What next for Herta after 'disappointing' Bottas 2027 decision"
    },
-   "last": "2026-11-20T02:27:38.563297+00:00"
+   "last": "2026-11-20T05:22:40.067594+00:00"
   },
   "S9119": {
    "title": "FDU vs. Cornell game highlights",
@@ -16503,7 +16486,11 @@
     "PlanetF1": "2026-11-20T05:08:33+00:00",
     "The Race": "2026-11-20T05:17:01+00:00",
     "Autosport": "2026-11-20T05:15:28+00:00",
-    "Motorsport.com Italia": "2026-11-20T05:16:02+00:00"
+    "Motorsport.com Italia": "2026-11-20T05:16:02+00:00",
+    "Formula 1": "2026-11-20T05:22:40.067555+00:00",
+    "ESPN F1": "2026-11-20T05:15:01+00:00",
+    "Motorsport Week": "2026-11-20T05:08:27+00:00",
+    "Motorsport-Total": "2026-11-20T05:16:38+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16514,9 +16501,13 @@
     "PlanetF1": "George Russell steals the show with last-gasp lap in Las Vegas GP FP2",
     "The Race": "Russell denies Alpine and Gasly top spot in wet Las Vegas GP FP2",
     "Autosport": "F1 Las Vegas GP: Russell fastest in damp FP2 from Gasly",
-    "Motorsport.com Italia": "F1 | Las Vegas, Libere 2: Russell sul filo di lana davanti a Gasly in una sessione bagnata"
+    "Motorsport.com Italia": "F1 | Las Vegas, Libere 2: Russell sul filo di lana davanti a Gasly in una sessione bagnata",
+    "Formula 1": "Russell beats Gasly and Leclerc to top spot in wet FP2",
+    "ESPN F1": "Las Vegas Grand Prix: George Russell sets pace in second practice",
+    "Motorsport Week": "George Russell snatches top spot in wet-dry Las Vegas FP2",
+    "Motorsport-Total": "Donnerstag Las Vegas: Russell Schnellster, Verstappen schlägt Alarm - Motorsport-Total.com"
    },
-   "last": "2026-11-20T05:17:35.049569+00:00"
+   "last": "2026-11-20T05:22:40.067612+00:00"
   },
   "S9168": {
    "title": "Verstappen limited to P13 in Vegas FP2 by radio problems",
@@ -16530,9 +16521,22 @@
     "RacingNews365 NL": "Verstappen nauwelijks in actie in tweede training las vegas"
    },
    "last": "2026-11-20T05:07:39.665185+00:00"
+  },
+  "S9169": {
+   "title": "Seattle vs Salt Lake live score listing (MLS, not F1)",
+   "first": "2026-11-20T05:22:40.067584+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T02:36:52+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Seattle vs. Salt Lake (Nov 19, 2026) Live Score"
+   },
+   "last": "2026-11-20T05:22:40.067589+00:00"
   }
  },
- "story_seq": 9168,
+ "story_seq": 9169,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16651,7 +16655,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T05:17:31.456593+00:00",
+ "last_run": "2026-11-20T05:22:33.829016+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18126,6 +18130,11 @@
    "t": "2026-11-20T05:07:43.279704+00:00",
    "title": "Verstappen, Las Vegas ikinci antrenmanında az pist süresi yaşadı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-20T05:22:47.187290+00:00",
+   "title": "Cadillac, Bottas'ı 2027'de tutup Herta'ya yedek pilot rolü teklif etti",
+   "source": "The Race"
   }
  ]
 }
