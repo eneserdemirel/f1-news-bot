@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7f73e464d943ca0f": "2026-11-06T10:43:55.757358+00:00",
-  "22cc8d71250243d4": "2026-11-06T10:43:55.757358+00:00",
-  "e90b7b56c1c67916": "2026-11-06T10:43:55.757358+00:00",
-  "15be3cae1e7185e4": "2026-11-06T10:43:55.757358+00:00",
-  "4bb29dc13af53c2b": "2026-11-06T10:43:55.757358+00:00",
   "a55fe62395d697dd": "2026-11-06T10:48:53.665263+00:00",
   "d3a4395b0dd95cc8": "2026-11-06T10:48:53.665263+00:00",
   "983d539797e8068a": "2026-11-06T10:48:53.665263+00:00",
@@ -6790,7 +6785,9 @@
   "d91a3075b545c6c9": "2026-11-20T10:33:39.346265+00:00",
   "ae249c8d4a23e5cc": "2026-11-20T10:38:43.068695+00:00",
   "ba25d9dd7068e0a9": "2026-11-20T10:38:43.068695+00:00",
-  "4cd4bd6a0b144f6f": "2026-11-20T10:43:44.439003+00:00"
+  "4cd4bd6a0b144f6f": "2026-11-20T10:43:44.439003+00:00",
+  "b30e48ac2dcafe99": "2026-11-20T10:48:41.860255+00:00",
+  "892ee8491b1a1b21": "2026-11-20T10:48:41.860255+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14495,7 +14492,8 @@
     "Autosport": "2026-11-20T00:24:50+00:00",
     "GPblog": "2026-11-20T02:20:00+00:00",
     "Crash.net": "2026-11-20T03:43:31+00:00",
-    "FormulaPassion": "2026-11-20T10:40:15+00:00"
+    "FormulaPassion": "2026-11-20T10:40:15+00:00",
+    "RacingNews365 NL": "2026-11-20T10:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14506,9 +14504,10 @@
     "Autosport": "Nike joins F1 as apparel partner",
     "GPblog": "Formula 1 announce huge long-term deal with global sporting giant",
     "Crash.net": "Nike returns to F1 after 24 years as official apparel partner",
-    "FormulaPassion": "Nike partner ufficiale della Formula 1 dal 2027"
+    "FormulaPassion": "Nike partner ufficiale della Formula 1 dal 2027",
+    "RacingNews365 NL": "F1 slaat handen langdurig ineen met mega multinational"
    },
-   "last": "2026-11-20T10:43:46.060223+00:00"
+   "last": "2026-11-20T10:48:45.379246+00:00"
   },
   "S9079": {
    "title": "Deborah Ogayemi and-1 basketball play",
@@ -16183,15 +16182,17 @@
    "first": "2026-11-20T06:42:37.695242+00:00",
    "sources": {
     "Formula 1": "2026-11-20T06:42:37.695256+00:00",
-    "FormulaPassion": "2026-11-20T07:38:13+00:00"
+    "FormulaPassion": "2026-11-20T07:38:13+00:00",
+    "Motorsport.com Italia": "2026-11-20T10:45:26+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Piastri shares early impressions of new engine in Las Vegas",
-    "FormulaPassion": "Piastri: “Utile girare nelle FP2 per raccogliere più dati possibile dal nuovo turbo”"
+    "FormulaPassion": "Piastri: “Utile girare nelle FP2 per raccogliere più dati possibile dal nuovo turbo”",
+    "Motorsport.com Italia": "F1 | Piastri è confidente: \"Il nuovo turbo Mercedes mi sembra sia un miglioramento\""
    },
-   "last": "2026-11-20T09:39:30.481714+00:00"
+   "last": "2026-11-20T10:48:45.379234+00:00"
   },
   "S9200": {
    "title": "Red Bull has open questions after wet Las Vegas practice",
@@ -17286,7 +17287,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T10:43:44.439003+00:00",
+ "last_run": "2026-11-20T10:48:41.860255+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18836,6 +18837,11 @@
    "t": "2026-11-20T10:38:50.111805+00:00",
    "title": "Lawson, reality yıldızı Laing'in kart yarışı iddiasıyla alay etti",
    "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-20T10:48:49.809558+00:00",
+   "title": "F1, Nike ile uzun vadeli ortaklık kuruyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
