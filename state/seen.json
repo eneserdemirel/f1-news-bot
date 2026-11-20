@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "84824ab5932b1969": "2026-11-06T18:55:14.720695+00:00",
-  "90f6492b228d5541": "2026-11-06T18:55:14.720695+00:00",
-  "f75c40f69e95f467": "2026-11-06T18:55:14.720695+00:00",
   "866bd579a649370b": "2026-11-06T19:00:17.687678+00:00",
   "15f0d7567c26ff43": "2026-11-06T19:00:17.687678+00:00",
   "d509373224c4c97e": "2026-11-06T19:00:17.687678+00:00",
@@ -6741,7 +6738,8 @@
   "d128622f0aa4b459": "2026-11-20T18:35:40.544301+00:00",
   "8ccec6101d859c7a": "2026-11-20T18:40:43.262444+00:00",
   "146eb28b2140731d": "2026-11-20T18:45:50.171005+00:00",
-  "ce4702842ceb3692": "2026-11-20T18:45:50.171005+00:00"
+  "ce4702842ceb3692": "2026-11-20T18:45:50.171005+00:00",
+  "35825c23a8f8a4b5": "2026-11-20T18:55:41.926378+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6916,45 +6914,6 @@
     "Motorsport Week": "Jak Crawford to make F1 home debut for Aston Martin at Las Vegas Grand Prix"
    },
    "last": "2026-11-19T12:21:20.242166+00:00"
-  },
-  "S8658": {
-   "title": "Brett Decker Jr. knocks down a three-pointer",
-   "first": "2026-11-18T18:54:16.746025+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T18:28:55+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Brett Decker Jr. knocks down the 3"
-   },
-   "last": "2026-11-18T18:54:16.746044+00:00"
-  },
-  "S8659": {
-   "title": "Alaina Dadzie completes an and-one basket",
-   "first": "2026-11-18T18:54:16.746048+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T17:52:47+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Alaina Dadzie with the and-1 bucket"
-   },
-   "last": "2026-11-18T18:54:16.746052+00:00"
-  },
-  "S8660": {
-   "title": "Zak Brown reveals he was told he broke Norris's ribs",
-   "first": "2026-11-18T18:54:16.746055+00:00",
-   "sources": {
-    "GPFans": "2026-11-18T18:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Zak Brown reveals he broke Lando Norris's ribs: 'I thought they were joking'"
-   },
-   "last": "2026-11-18T18:54:16.746059+00:00"
   },
   "S8661": {
    "title": "Sainz warns growing F1 calendar is counterproductive",
@@ -16827,9 +16786,22 @@
     "PlanetF1": "Oscar Piastri lifts lid on FIA penalty at Las Vegas Grand Prix"
    },
    "last": "2026-11-20T18:40:46.951699+00:00"
+  },
+  "S9379": {
+   "title": "No relegation makes MLS style more careless, says Whitecaps' Müller",
+   "first": "2026-11-20T18:55:43.345739+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T14:54:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "No relegation means MLS playing style more 'careless' - Whitecaps' Müller"
+   },
+   "last": "2026-11-20T18:55:43.345757+00:00"
   }
  },
- "story_seq": 9378,
+ "story_seq": 9379,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16948,7 +16920,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T18:50:44.880664+00:00",
+ "last_run": "2026-11-20T18:55:41.926378+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
