@@ -6701,7 +6701,11 @@
   "4ae770905452f419": "2026-11-20T03:52:35.826050+00:00",
   "3f30fadfab909873": "2026-11-20T03:57:33.555468+00:00",
   "6312f55774144731": "2026-11-20T03:57:33.555468+00:00",
-  "0294f1c575eb2456": "2026-11-20T04:02:34.527170+00:00"
+  "0294f1c575eb2456": "2026-11-20T04:02:34.527170+00:00",
+  "c20847deb14b6c79": "2026-11-20T04:07:39.352526+00:00",
+  "50b7635712e0280d": "2026-11-20T04:07:39.352526+00:00",
+  "747866804bd06c89": "2026-11-20T04:07:39.352526+00:00",
+  "fed2c928aea26d44": "2026-11-20T04:07:39.352526+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16487,9 +16491,61 @@
     "ESPN F1": "Donovyn Hunter finishes through contact"
    },
    "last": "2026-11-20T04:02:35.695961+00:00"
+  },
+  "S9148": {
+   "title": "Jahari Williamson knocks down the 3 (basketball highlight)",
+   "first": "2026-11-20T04:07:42.576113+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:51:41+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jahari Williamson knocks down the 3"
+   },
+   "last": "2026-11-20T04:07:42.576134+00:00"
+  },
+  "S9149": {
+   "title": "Cadillac drops plan for own V6 hybrid engine, delays to 2030",
+   "first": "2026-11-20T04:07:42.576139+00:00",
+   "sources": {
+    "Autosport": "2026-11-20T04:01:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Autosport": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push"
+   },
+   "last": "2026-11-20T04:07:42.576144+00:00"
+  },
+  "S9150": {
+   "title": "Ferrari simplifies bargeboard for Las Vegas to cut downforce",
+   "first": "2026-11-20T04:07:42.576147+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-20T04:06:15+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Ferrari: un solo elemento verticale semplificato nel bargeboard alla ricerca dell'efficienza"
+   },
+   "last": "2026-11-20T04:07:42.576152+00:00"
+  },
+  "S9151": {
+   "title": "Russell credits Mercedes' rise to Wolff's loyalty to team",
+   "first": "2026-11-20T04:07:42.576155+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-20T04:04:08+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "George Russell: Mercedes-Aufstieg dank Toto Wolffs Loyalität zum Team - Motorsport-Total.com"
+   },
+   "last": "2026-11-20T04:07:42.576158+00:00"
   }
  },
- "story_seq": 9147,
+ "story_seq": 9151,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16608,7 +16664,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T04:02:34.527170+00:00",
+ "last_run": "2026-11-20T04:07:39.352526+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18048,6 +18104,21 @@
    "t": "2026-11-20T03:47:39.872322+00:00",
    "title": "Mercedes'in ilk kadın junior pilotu Luna Fluxa Cross, F1 ACADEMY'de debutuna hazırlanıyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-20T04:07:46.229915+00:00",
+   "title": "Cadillac, kendi V6 hibrit motorunu üretme planını erteledi",
+   "source": "Autosport"
+  },
+  {
+   "t": "2026-11-20T04:07:46.563292+00:00",
+   "title": "George Russell: Mercedes'teki yükselişi Toto Wolff'un takıma bağlılığına borçlu",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-20T04:07:46.902922+00:00",
+   "title": "Ferrari, Las Vegas'ta bargeboard'da tek dikey elemanlı düşük yük konfigürasyonunu kullandı",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
