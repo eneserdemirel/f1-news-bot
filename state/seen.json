@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "bc739df67113a4aa": "2026-11-06T01:56:07.362423+00:00",
-  "a1d8ad3640a5d6a4": "2026-11-06T01:56:07.362423+00:00",
-  "9d857351fa21c871": "2026-11-06T01:56:07.362423+00:00",
-  "96d65cde4530ee09": "2026-11-06T01:56:07.362423+00:00",
   "476d3639c1a96920": "2026-11-06T02:06:06.222929+00:00",
   "204e9c96ba830cee": "2026-11-06T02:28:16.225303+00:00",
   "b184aa2b130dd7f3": "2026-11-06T02:28:16.225303+00:00",
@@ -6682,7 +6678,8 @@
   "df659dcc038ee493": "2026-11-20T01:51:51.958105+00:00",
   "eec99dade4fcda25": "2026-11-20T01:51:51.958105+00:00",
   "898c7af9e5ed52f9": "2026-11-20T01:51:51.958105+00:00",
-  "bdfaa4f4cdd48ae5": "2026-11-20T01:51:51.958105+00:00"
+  "bdfaa4f4cdd48ae5": "2026-11-20T01:51:51.958105+00:00",
+  "4b0f4ca9502412c6": "2026-11-20T01:56:55.282498+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6782,71 +6779,6 @@
     "ESPN F1": "Kailani Lindsey sends the shot away"
    },
    "last": "2026-11-18T02:02:05.551750+00:00"
-  },
-  "S8393": {
-   "title": "Podcast segment on College Football Playoff case",
-   "first": "2026-11-18T01:52:05.236576+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T01:41:30+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Freddie and Harry - Hour 2: Making A CFP Case"
-   },
-   "last": "2026-11-18T01:52:05.236596+00:00"
-  },
-  "S8394": {
-   "title": "Samu Adler hits long three-pointer",
-   "first": "2026-11-18T01:52:05.236603+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T01:41:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Samu Adler has too much range with this long 3-pointer"
-   },
-   "last": "2026-11-18T01:52:05.236609+00:00"
-  },
-  "S8395": {
-   "title": "Kaelyn Hamilton hits three from behind the arc",
-   "first": "2026-11-18T01:52:05.236613+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T01:37:50+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Kaelyn Hamilton nails it from behind the arc"
-   },
-   "last": "2026-11-18T01:52:05.236618+00:00"
-  },
-  "S8396": {
-   "title": "Morgan Borgstadt finishes and-1 with hoop",
-   "first": "2026-11-18T01:52:05.236622+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T01:36:35+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Morgan Borgstadt gets the hoop and the harm"
-   },
-   "last": "2026-11-18T01:52:05.236626+00:00"
-  },
-  "S8397": {
-   "title": "Somto Cyril throws down slam vs. Rider",
-   "first": "2026-11-18T01:52:05.236629+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T01:34:34+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Somto Cyril throws down powerful slam vs. Rider Broncs"
-   },
-   "last": "2026-11-18T01:52:05.236633+00:00"
   },
   "S8398": {
    "title": "Junjie Wang with the and-1 bucket",
@@ -16498,9 +16430,22 @@
     "ESPN F1": "Jeeno Thitikul birdies final 5 holes, shares CME Group Tour lead"
    },
    "last": "2026-11-20T01:51:56.989424+00:00"
+  },
+  "S9109": {
+   "title": "Jean-Ernest Boyomo Keedi basket and foul highlight",
+   "first": "2026-11-20T01:56:56.685343+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T01:47:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jean-Ernest Boyomo Keedi gets the basket plus the foul"
+   },
+   "last": "2026-11-20T01:56:56.685363+00:00"
   }
  },
- "story_seq": 9108,
+ "story_seq": 9109,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16619,7 +16564,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T01:51:51.958105+00:00",
+ "last_run": "2026-11-20T01:56:55.282498+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
