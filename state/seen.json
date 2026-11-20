@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "28f4feab218df811": "2026-11-06T06:28:12.941270+00:00",
   "a3bc93b858f6746a": "2026-11-06T06:38:13.332262+00:00",
   "10b55caca5315811": "2026-11-06T06:48:14.107877+00:00",
   "4251e3dea9c018ee": "2026-11-06T07:08:12.898435+00:00",
@@ -6776,7 +6775,10 @@
   "d09dd58b667cb376": "2026-11-20T06:27:52.989287+00:00",
   "e228297895ef99da": "2026-11-20T06:27:52.989287+00:00",
   "5da7be5b7f826886": "2026-11-20T06:27:52.989287+00:00",
-  "5e1e30af0c3d7b63": "2026-11-20T06:27:52.989287+00:00"
+  "5e1e30af0c3d7b63": "2026-11-20T06:27:52.989287+00:00",
+  "9b55fc447f4971cd": "2026-11-20T06:32:31.509221+00:00",
+  "184519521a08119e": "2026-11-20T06:32:31.509221+00:00",
+  "4782faf4f6c6fa0c": "2026-11-20T06:32:31.509221+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14122,7 +14124,8 @@
     "FormulaPassion": "2026-11-20T03:15:00+00:00",
     "RacingNews365 NL": "2026-11-20T05:30:00+00:00",
     "GPFans": "2026-11-20T05:55:00+00:00",
-    "PlanetF1": "2026-11-20T06:19:58+00:00"
+    "PlanetF1": "2026-11-20T06:19:58+00:00",
+    "Gazzetta dello Sport": "2026-11-20T06:26:07+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14138,9 +14141,10 @@
     "FormulaPassion": "Svolta FIA, arrivano gli “arbitri” professionisti: dal 2027, commissari a tempo pieno in F1",
     "RacingNews365 NL": "FIA gooit hoofdpijndossier F1-coureurs rigoureus op de schop",
     "GPFans": "Historic FIA stewards decision announced at F1 Las Vegas Grand Prix",
-    "PlanetF1": "FIA confirms permanent race stewards in major F1 2027 change"
+    "PlanetF1": "FIA confirms permanent race stewards in major F1 2027 change",
+    "Gazzetta dello Sport": "Decisioni di gara più uniformi e coerenti: dal 2027 la Fia introduce i commissari a tempo pieno"
    },
-   "last": "2026-11-20T06:22:37.327910+00:00"
+   "last": "2026-11-20T06:32:36.141131+00:00"
   },
   "S9006": {
    "title": "Infantino calls for fair play in FIFA elections",
@@ -16494,15 +16498,17 @@
    "first": "2026-11-20T05:52:37.969351+00:00",
    "sources": {
     "RacingNews365": "2026-11-20T05:50:00+00:00",
-    "Crash.net": "2026-11-20T06:05:18+00:00"
+    "Crash.net": "2026-11-20T06:05:18+00:00",
+    "AS": "2026-11-20T06:24:03+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "F1 team bosses react as V8 engine return 'agreement' is reached",
-    "Crash.net": "F1 teams confirm “agreement in principle” on V8 return after deleted FIA posts cause confusion"
+    "Crash.net": "F1 teams confirm “agreement in principle” on V8 return after deleted FIA posts cause confusion",
+    "AS": "“Hay acuerdo con los V8″"
    },
-   "last": "2026-11-20T06:07:36.373881+00:00"
+   "last": "2026-11-20T06:32:36.141136+00:00"
   },
   "S9178": {
    "title": "Kraken 5-1 Canucks NHL game recap",
@@ -16750,9 +16756,22 @@
     "ESPN F1": "Colts' A.J. Haulcy snags a wild INT off his own helmet"
    },
    "last": "2026-11-20T06:27:56.831407+00:00"
+  },
+  "S9197": {
+   "title": "Mark Stone becomes Golden Knights all-time scoring leader",
+   "first": "2026-11-20T06:32:36.141105+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T06:21:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Mark Stone becomes Golden Knight's all-time scoring leader in loss to Stars"
+   },
+   "last": "2026-11-20T06:32:36.141124+00:00"
   }
  },
- "story_seq": 9196,
+ "story_seq": 9197,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16871,17 +16890,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T06:27:52.989287+00:00",
+ "last_run": "2026-11-20T06:32:31.509221+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
  "last_digest_at": "2026-11-19T20:53:02.128431+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T06:29:39.572015+00:00",
-   "title": "Ferrari'ye 'büyük bir dezavantaj' uyarısı: Hamilton ile Leclerc gerilimi",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-17T07:09:36.968969+00:00",
    "title": "Verstappen'in Las Vegas'ta pole pozisyonu eksik parçası",
