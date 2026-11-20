@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "629492ec24a9b24d": "2026-11-06T19:30:17.478262+00:00",
-  "065898e71de63696": "2026-11-06T19:30:17.478262+00:00",
   "18ef3301bf6f8cf0": "2026-11-06T19:35:15.599422+00:00",
   "ffe6f315dd4e2722": "2026-11-06T19:35:15.599422+00:00",
   "dd98e3145aa33359": "2026-11-06T19:40:15.842147+00:00",
@@ -6744,7 +6742,9 @@
   "302a4cf870d5a4b0": "2026-11-20T19:20:43.992422+00:00",
   "e88d98feeeae2ae9": "2026-11-20T19:20:43.992422+00:00",
   "c1c25b3f8a43ca61": "2026-11-20T19:25:42.680388+00:00",
-  "4bbaf33ea28a9c4c": "2026-11-20T19:25:42.680388+00:00"
+  "4bbaf33ea28a9c4c": "2026-11-20T19:25:42.680388+00:00",
+  "f8e90bcd75544234": "2026-11-20T19:30:41.544002+00:00",
+  "49d96e56b20b7fe1": "2026-11-20T19:30:41.544002+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14014,7 +14014,8 @@
     "PlanetF1": "2026-11-20T18:59:02+00:00",
     "Autosport": "2026-11-20T19:02:00+00:00",
     "Auto Motor und Sport": "2026-11-20T19:06:52+00:00",
-    "FormulaPassion": "2026-11-20T18:52:28+00:00"
+    "FormulaPassion": "2026-11-20T18:52:28+00:00",
+    "Formula 1": "2026-11-20T19:30:44.458192+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14031,9 +14032,10 @@
     "PlanetF1": "F1 makes major announcement over V8 engine return",
     "Autosport": "F1 set for V8 return from 2030",
     "Auto Motor und Sport": "Formel 1: Fans und Fahrer werden erhört: Die Rückkehr des V8 ist fix!",
-    "FormulaPassion": "La FIA “ri-annuncia” il ritorno dei V8. Ben Sulayem: “Ci riconnettiamo con il Dna della F1”"
+    "FormulaPassion": "La FIA “ri-annuncia” il ritorno dei V8. Ben Sulayem: “Ci riconnettiamo con il Dna della F1”",
+    "Formula 1": "FIA confirms unanimous agreement on 2030 PU framework"
    },
-   "last": "2026-11-20T19:20:47.759653+00:00"
+   "last": "2026-11-20T19:30:44.458207+00:00"
   },
   "S9178": {
    "title": "Kraken 5-1 Canucks NHL game recap",
@@ -16864,9 +16866,22 @@
     "ESPN F1": "Week 11 betting preview: Analysis, best bets, TD predictions for Sunday"
    },
    "last": "2026-11-20T19:20:47.759638+00:00"
+  },
+  "S9390": {
+   "title": "Racing Bulls teammate comments on Liam Lawson's points haul",
+   "first": "2026-11-20T19:30:44.458215+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-20T19:25:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson in ‘points don’t tell the story’ verdict from Racing Bulls teammate"
+   },
+   "last": "2026-11-20T19:30:44.458221+00:00"
   }
  },
- "story_seq": 9389,
+ "story_seq": 9390,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16985,7 +17000,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T19:25:42.680388+00:00",
+ "last_run": "2026-11-20T19:30:41.544002+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18535,6 +18550,16 @@
    "t": "2026-11-20T19:15:46.299136+00:00",
    "title": "Alonso'nun Dakar'a dönüşü: İlk ralli deneyimi neden bir şok oldu",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-20T19:30:50.242038+00:00",
+   "title": "Lindblad: Puanlar tüm hikayeyi anlatmıyor, Lawson'a karşı fark",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-20T19:30:50.865452+00:00",
+   "title": "FIA, 2030 motor çerçevesinde oybirliği sağlandığını açıkladı",
+   "source": "Formula 1"
   }
  ]
 }
