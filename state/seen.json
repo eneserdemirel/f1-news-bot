@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f9762f6c9147bb31": "2026-11-06T05:08:13.329910+00:00",
-  "7dc087edd6041161": "2026-11-06T05:08:13.329910+00:00",
   "d886a907261e80c0": "2026-11-06T05:18:13.680424+00:00",
   "1c5d6398bedeb4e3": "2026-11-06T05:28:12.708220+00:00",
   "b0707806e4c28d88": "2026-11-06T05:28:12.708220+00:00",
@@ -6733,7 +6731,9 @@
   "d7d22a76a4b63e53": "2026-11-20T05:07:33.086736+00:00",
   "e7760496a2749627": "2026-11-20T05:07:33.086736+00:00",
   "72de33fdbea5e5a7": "2026-11-20T05:07:33.086736+00:00",
-  "7a05f55f6a09cd88": "2026-11-20T05:07:33.086736+00:00"
+  "7a05f55f6a09cd88": "2026-11-20T05:07:33.086736+00:00",
+  "23488ed166d259bf": "2026-11-20T05:12:34.420626+00:00",
+  "fa6b68581f0bc017": "2026-11-20T05:12:34.420626+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6885,58 +6885,6 @@
     "ESPN F1": "Arkansas' Calipari laments not calling TO late in loss: 'Still learning about my team'"
    },
    "last": "2026-11-18T05:32:02.806242+00:00"
-  },
-  "S8458": {
-   "title": "Márquez scores first Mexico win, sets up Nations League semi",
-   "first": "2026-11-18T05:12:04.964576+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T04:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Márquez earns first Mexico win to set up Nations League semi vs. U.S."
-   },
-   "last": "2026-11-18T05:12:04.964581+00:00"
-  },
-  "S8459": {
-   "title": "Cal Lutheran vs. UC Santa Barbara game highlights",
-   "first": "2026-11-18T05:12:04.964585+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T04:13:23+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cal Lutheran Kingsmen vs. UC Santa Barbara Gauchos: Game Highlights"
-   },
-   "last": "2026-11-18T05:12:04.964589+00:00"
-  },
-  "S8460": {
-   "title": "England unchanged; Zampa out with back spasms for Australia",
-   "first": "2026-11-18T05:12:04.964592+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T03:40:06+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Unchanged England bat; Zampa out with back spasms for Australia"
-   },
-   "last": "2026-11-18T05:12:04.964596+00:00"
-  },
-  "S8461": {
-   "title": "LaMelo Ball gets the hoop and the harm",
-   "first": "2026-11-18T05:12:04.964600+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T01:54:28+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "LaMelo Ball gets the hoop and the harm"
-   },
-   "last": "2026-11-18T05:12:04.964604+00:00"
   },
   "S8462": {
    "title": "Luka Doncic swishes a smooth jumper for the Lakers",
@@ -16547,16 +16495,18 @@
    "sources": {
     "RacingNews365": "2026-11-20T05:00:00+00:00",
     "RacingNews365 NL": "2026-11-20T05:05:00+00:00",
-    "GPblog": "2026-11-20T05:04:00+00:00"
+    "GPblog": "2026-11-20T05:04:00+00:00",
+    "PlanetF1": "2026-11-20T05:08:33+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "2026 F1 Las Vegas Grand Prix - Free Practice 2 results",
     "RacingNews365 NL": "Uitslag tweede vrije training F1 GP Las Vegas 2026",
-    "GPblog": "Russell strikes late to deny dominant Leclerc top spot in Las Vegas FP2"
+    "GPblog": "Russell strikes late to deny dominant Leclerc top spot in Las Vegas FP2",
+    "PlanetF1": "George Russell steals the show with last-gasp lap in Las Vegas GP FP2"
    },
-   "last": "2026-11-20T05:07:39.665189+00:00"
+   "last": "2026-11-20T05:12:36.549120+00:00"
   },
   "S9168": {
    "title": "Verstappen limited to P13 in Vegas FP2 by radio problems",
@@ -16691,7 +16641,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T05:07:33.086736+00:00",
+ "last_run": "2026-11-20T05:12:34.420626+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
