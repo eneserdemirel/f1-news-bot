@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a4a7065d49076417": "2026-11-06T01:06:05.559915+00:00",
-  "66da94014aafdf64": "2026-11-06T01:06:05.559915+00:00",
   "8ec309a379957698": "2026-11-06T01:16:07.049702+00:00",
   "b57b96a0c8789769": "2026-11-06T01:26:06.144990+00:00",
   "a012b4eed30fc502": "2026-11-06T01:26:06.144990+00:00",
@@ -6659,7 +6657,9 @@
   "42e14a29f451a714": "2026-11-20T00:41:58.420234+00:00",
   "d8b725f60e6a145c": "2026-11-20T00:41:58.420234+00:00",
   "39f6dc3ad34dbabc": "2026-11-20T00:46:53.493411+00:00",
-  "b2e07290480d65c8": "2026-11-20T01:01:57.609100+00:00"
+  "b2e07290480d65c8": "2026-11-20T01:01:57.609100+00:00",
+  "d6228ffce5b64cf5": "2026-11-20T01:06:52.939259+00:00",
+  "05217169dad4b47c": "2026-11-20T01:06:52.939259+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14943,7 +14943,8 @@
     "RacingNews365": "2026-11-19T16:00:00+00:00",
     "RacingNews365 NL": "2026-11-19T16:50:00+00:00",
     "PlanetF1": "2026-11-19T17:08:18+00:00",
-    "GPblog": "2026-11-19T18:30:00+00:00"
+    "GPblog": "2026-11-19T18:30:00+00:00",
+    "Formula 1": "2026-11-20T01:06:55.380965+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14951,9 +14952,10 @@
     "RacingNews365": "Haas respond to Oliver Bearman contract frustrations with unwavering stance",
     "RacingNews365 NL": "Haas-teambaas reageert op teleurgestelde Bearman",
     "PlanetF1": "Haas issues response to Oliver Bearman frustration over contract delay",
-    "GPblog": "Haas confirms Bearman will stay for 2027, as Camara’s teammate"
+    "GPblog": "Haas confirms Bearman will stay for 2027, as Camara’s teammate",
+    "Formula 1": "Komatsu insists there is 'no doubt' over Bearman’s Haas seat"
    },
-   "last": "2026-11-19T20:52:42.662609+00:00"
+   "last": "2026-11-20T01:06:55.380982+00:00"
   },
   "S8987": {
    "title": "Leclerc calls Mexico five-second penalty harsh after Lawson move",
@@ -16395,9 +16397,22 @@
     "GPblog": "Aron leaves Alpine and emerges as a contender for a coveted race seat"
    },
    "last": "2026-11-20T01:01:59.274687+00:00"
+  },
+  "S9094": {
+   "title": "Ahnay Adams and-1 basketball play",
+   "first": "2026-11-20T01:06:55.380988+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T00:52:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ahnay Adams gets the and-1 to fall"
+   },
+   "last": "2026-11-20T01:06:55.380993+00:00"
   }
  },
- "story_seq": 9093,
+ "story_seq": 9094,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16516,7 +16531,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T01:01:57.609100+00:00",
+ "last_run": "2026-11-20T01:06:52.939259+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
