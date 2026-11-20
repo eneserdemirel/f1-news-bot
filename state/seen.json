@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a3bc93b858f6746a": "2026-11-06T06:38:13.332262+00:00",
   "10b55caca5315811": "2026-11-06T06:48:14.107877+00:00",
   "4251e3dea9c018ee": "2026-11-06T07:08:12.898435+00:00",
   "cb8de7780ef6ab85": "2026-11-06T07:08:12.898435+00:00",
@@ -6779,7 +6778,12 @@
   "9b55fc447f4971cd": "2026-11-20T06:32:31.509221+00:00",
   "184519521a08119e": "2026-11-20T06:32:31.509221+00:00",
   "4782faf4f6c6fa0c": "2026-11-20T06:32:31.509221+00:00",
-  "0c57c37cf6c294c5": "2026-11-20T06:37:34.938760+00:00"
+  "0c57c37cf6c294c5": "2026-11-20T06:37:34.938760+00:00",
+  "a212339561b1e8b2": "2026-11-20T06:42:31.605047+00:00",
+  "d5e5e0f65290865b": "2026-11-20T06:42:31.605047+00:00",
+  "52bc1b0cd59d7af1": "2026-11-20T06:42:31.605047+00:00",
+  "eb11f34e81ebaeea": "2026-11-20T06:42:31.605047+00:00",
+  "2e60dc41ab83212f": "2026-11-20T06:42:31.605047+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16349,7 +16353,7 @@
     "RacingNews365 NL": "Verstappen nauwelijks in actie in tweede training las vegas",
     "FormulaPassion": "Verstappen spazientito via radio: “Questa macchina non va bene! Ci sono gli stessi problemi del Brasile”"
    },
-   "last": "2026-11-20T06:12:40.692996+00:00"
+   "last": "2026-11-20T06:42:37.695275+00:00"
   },
   "S9169": {
    "title": "Seattle vs Salt Lake live score listing (MLS, not F1)",
@@ -16744,9 +16748,61 @@
     "ESPN F1": "Harper's Australia debut a much needed good story"
    },
    "last": "2026-11-20T06:37:37.350906+00:00"
+  },
+  "S9199": {
+   "title": "Piastri shares early impressions of new engine in Las Vegas",
+   "first": "2026-11-20T06:42:37.695242+00:00",
+   "sources": {
+    "Formula 1": "2026-11-20T06:42:37.695256+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Piastri shares early impressions of new engine in Las Vegas"
+   },
+   "last": "2026-11-20T06:42:37.695259+00:00"
+  },
+  "S9200": {
+   "title": "Red Bull has open questions after wet Las Vegas practice",
+   "first": "2026-11-20T06:42:37.695264+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-20T06:39:48+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Red Bull, ci sono diversi punti interrogativi: dalla gestione dell'energia a un bilanciamento che preoccupa Max"
+   },
+   "last": "2026-11-20T06:42:37.695268+00:00"
+  },
+  "S9201": {
+   "title": "Day one recap of Las Vegas GP practice and stewards news",
+   "first": "2026-11-20T06:42:37.695279+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T06:39:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Vegas Recap | Russell tops day one as major change to F1 stewards announced"
+   },
+   "last": "2026-11-20T06:42:37.695282+00:00"
+  },
+  "S9202": {
+   "title": "Russell says he is not the fastest despite FP2 best time",
+   "first": "2026-11-20T06:42:37.695285+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-20T06:22:06+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Russell: “Ho fatto miglior tempo, ma non sono il più veloce. McLaren e Leclerc invece…”"
+   },
+   "last": "2026-11-20T06:42:37.695288+00:00"
   }
  },
- "story_seq": 9198,
+ "story_seq": 9202,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16865,7 +16921,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T06:37:34.938760+00:00",
+ "last_run": "2026-11-20T06:42:31.605047+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18350,6 +18406,26 @@
    "t": "2026-11-20T06:37:39.820516+00:00",
    "title": "Harper'ın Avustralya debütü, ihtiyaç duyulan olumlu bir haber",
    "source": "ESPN F1"
+  },
+  {
+   "t": "2026-11-20T06:42:45.822945+00:00",
+   "title": "Russell: En hızlı turu attım ama en hızlı olan ben değilim",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-20T06:42:46.172032+00:00",
+   "title": "Red Bull, Verstappen'in Las Vegas'taki sorunlarını açıkladı",
+   "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-20T06:42:46.526559+00:00",
+   "title": "Red Bull'da Las Vegas öncesi enerji yönetimi ve denge sorunları",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-20T06:42:46.907655+00:00",
+   "title": "Piastri, Las Vegas'ta yeni motor izlenimlerini paylaştı",
+   "source": "Formula 1"
   }
  ]
 }
