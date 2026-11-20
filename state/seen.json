@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9588e9c631750966": "2026-11-06T07:18:13.979365+00:00",
-  "908b69ab908bad41": "2026-11-06T07:18:13.979365+00:00",
-  "13a2b80154ad9b60": "2026-11-06T07:18:13.979365+00:00",
   "70e2e41807790f24": "2026-11-06T07:28:14.510708+00:00",
   "383ecd9a400cf224": "2026-11-06T07:28:14.510708+00:00",
   "7acd5ffe663badc2": "2026-11-06T07:28:14.510708+00:00",
@@ -6797,7 +6794,10 @@
   "94c6b54324958780": "2026-11-20T07:12:31.235923+00:00",
   "30463bc1e7c53ebb": "2026-11-20T07:17:33.573703+00:00",
   "6ca2fab54b9e6cf0": "2026-11-20T07:17:33.573703+00:00",
-  "933f5b6c0bc546b3": "2026-11-20T07:17:33.573703+00:00"
+  "933f5b6c0bc546b3": "2026-11-20T07:17:33.573703+00:00",
+  "f73e7f98dd09ff69": "2026-11-20T07:22:31.333822+00:00",
+  "2ee96a5f1092badd": "2026-11-20T07:22:31.333822+00:00",
+  "09f160f34d2acf68": "2026-11-20T07:22:31.333822+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16225,15 +16225,17 @@
    "first": "2026-11-20T05:02:40.832637+00:00",
    "sources": {
     "Formula 1": "2026-11-20T05:02:40.832652+00:00",
-    "Sky Sports F1": "2026-11-20T06:00:00+00:00"
+    "Sky Sports F1": "2026-11-20T06:00:00+00:00",
+    "PlanetF1": "2026-11-20T07:19:33+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Antonelli, Bearman and Stroll set for penalties in Las Vegas",
-    "Sky Sports F1": "Antonelli hit with grid penalty for Las Vegas GP"
+    "Sky Sports F1": "Antonelli hit with grid penalty for Las Vegas GP",
+    "PlanetF1": "FIA confirms 35-place Las Vegas Grand Prix penalty for Oliver Bearman"
    },
-   "last": "2026-11-20T06:22:37.327905+00:00"
+   "last": "2026-11-20T07:22:34.880636+00:00"
   },
   "S9165": {
    "title": "Timea Gardiner three-pointer highlight (basketball)",
@@ -16810,14 +16812,14 @@
    "title": "Kenya coach Benni McCarthy demands overdue payments",
    "first": "2026-11-20T07:02:34.234441+00:00",
    "sources": {
-    "ESPN F1": "2026-11-20T06:59:56+00:00"
+    "ESPN F1": "2026-11-20T06:38:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Kenya coach Benni McCarthy demands overdue payments despite post-match comments"
    },
-   "last": "2026-11-20T07:02:34.234459+00:00"
+   "last": "2026-11-20T07:22:34.880614+00:00"
   },
   "S9207": {
    "title": "Zak Brown admits McLaren missed too many opportunities",
@@ -16935,9 +16937,22 @@
     "Motorsport-Total": "Zak Brown: Ich würde Lando Norris gegen niemanden eintauschen! - Motorsport-Total.com"
    },
    "last": "2026-11-20T07:17:36.314781+00:00"
+  },
+  "S9216": {
+   "title": "Wembanyama says new-look shot due to hand blister",
+   "first": "2026-11-20T07:22:34.880625+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T05:59:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Spurs' Victor Wembanyama says new-look 'shunk' done because of blister on hand"
+   },
+   "last": "2026-11-20T07:22:34.880630+00:00"
   }
  },
- "story_seq": 9215,
+ "story_seq": 9216,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17056,22 +17071,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T07:17:33.573703+00:00",
+ "last_run": "2026-11-20T07:22:31.333822+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
  "last_digest_at": "2026-11-19T20:53:02.128431+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T07:19:34.536143+00:00",
-   "title": "Verstappen: Antonelli'nin rekorları beni F1'de kalmaya motive etmeyecek",
-   "source": "ESPN F1"
-  },
-  {
-   "t": "2026-11-17T07:19:35.098178+00:00",
-   "title": "Kimi Antonelli, 20 yaşında F1'in en genç dünya şampiyonu oldu",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-17T07:29:37.861093+00:00",
    "title": "Russell, Antonelli'ye karşı şampiyonluk kaybı sonrası savunma yaptı",
@@ -18576,6 +18581,11 @@
    "t": "2026-11-20T07:17:41.717320+00:00",
    "title": "Brown, Verstappen'ı 'Chucky' benzetmesini hatırlattı",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-20T07:22:40.194486+00:00",
+   "title": "FIA, Oliver Bearman'a Las Vegas GP'de 35 pozisyonluk ceza verdi",
+   "source": "PlanetF1"
   }
  ]
 }
