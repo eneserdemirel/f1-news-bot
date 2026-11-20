@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4251e3dea9c018ee": "2026-11-06T07:08:12.898435+00:00",
-  "cb8de7780ef6ab85": "2026-11-06T07:08:12.898435+00:00",
-  "055e225362a7f029": "2026-11-06T07:08:12.898435+00:00",
   "9588e9c631750966": "2026-11-06T07:18:13.979365+00:00",
   "908b69ab908bad41": "2026-11-06T07:18:13.979365+00:00",
   "13a2b80154ad9b60": "2026-11-06T07:18:13.979365+00:00",
@@ -6792,7 +6789,12 @@
   "9c963c7afa9a693e": "2026-11-20T07:02:31.737467+00:00",
   "b5a25188c5fb936c": "2026-11-20T07:02:31.737467+00:00",
   "2e6ca75ba66e793e": "2026-11-20T07:02:31.737467+00:00",
-  "b80bf40cd6417b40": "2026-11-20T07:07:36.377489+00:00"
+  "b80bf40cd6417b40": "2026-11-20T07:07:36.377489+00:00",
+  "0acb08786d56206a": "2026-11-20T07:12:31.235923+00:00",
+  "06fc070a620d4565": "2026-11-20T07:12:31.235923+00:00",
+  "07bf6f4a6e28cb9f": "2026-11-20T07:12:31.235923+00:00",
+  "cca225acd457cfa2": "2026-11-20T07:12:31.235923+00:00",
+  "94c6b54324958780": "2026-11-20T07:12:31.235923+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16019,7 +16021,7 @@
    "titles": {
     "ESPN F1": "Spurs 124-112 Clippers (Nov 19, 2026) Game Recap"
    },
-   "last": "2026-11-20T03:57:35.543101+00:00"
+   "last": "2026-11-20T07:12:35.580687+00:00"
   },
   "S9147": {
    "title": "Donovyn Hunter finishes through contact (basketball highlight)",
@@ -16878,9 +16880,61 @@
     "Formula 1": "Red Bull working to fix Verstappen's Vegas practice issues"
    },
    "last": "2026-11-20T07:07:38.724393+00:00"
+  },
+  "S9209": {
+   "title": "Verstappen calls rain-hit Las Vegas practice day unproductive",
+   "first": "2026-11-20T07:12:35.580697+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-20T07:10:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen kan niks met verloren trainingsdag in Las Vegas"
+   },
+   "last": "2026-11-20T07:12:35.580703+00:00"
+  },
+  "S9210": {
+   "title": "Honda confirms fundamental 2027 power unit changes for Aston Martin",
+   "first": "2026-11-20T07:12:35.580706+00:00",
+   "sources": {
+    "GPFans": "2026-11-20T07:12:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Honda confirm Aston Martin F1 changes for 2027 after Lance Stroll nears unwanted record"
+   },
+   "last": "2026-11-20T07:12:35.580710+00:00"
+  },
+  "S9211": {
+   "title": "Leclerc says Ferrari restarts from zero after third in FP2",
+   "first": "2026-11-20T07:12:35.580714+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-20T07:07:07+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Leclerc: “Siamo andati bene in FP2, ma domani ripartiremo da zero”"
+   },
+   "last": "2026-11-20T07:12:35.580718+00:00"
+  },
+  "S9212": {
+   "title": "Villeneuve says Mercedes will not dominate in 2027",
+   "first": "2026-11-20T07:12:35.580721+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-20T07:06:36+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Jacques Villeneuve: Mercedes wird 2027 nicht das dominierende Team sein - Motorsport-Total.com"
+   },
+   "last": "2026-11-20T07:12:35.580724+00:00"
   }
  },
- "story_seq": 9208,
+ "story_seq": 9212,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16999,27 +17053,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T07:07:36.377489+00:00",
+ "last_run": "2026-11-20T07:12:31.235923+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
  "last_digest_at": "2026-11-19T20:53:02.128431+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T07:09:36.968969+00:00",
-   "title": "Verstappen'in Las Vegas'ta pole pozisyonu eksik parçası",
-   "source": "RacingNews365 NL"
-  },
-  {
-   "t": "2026-11-17T07:09:37.532628+00:00",
-   "title": "Russell, Las Vegas'ta iki kez başarılı olduğu pistte ikinci sıra için savaşıyor",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-17T07:09:38.081953+00:00",
-   "title": "Hamilton, Ferrari'nin 2027 planları ve P2 hedefi hakkında konuştu",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-17T07:19:34.536143+00:00",
    "title": "Verstappen: Antonelli'nin rekorları beni F1'de kalmaya motive etmeyecek",
@@ -18514,6 +18553,16 @@
    "t": "2026-11-20T07:02:37.897049+00:00",
    "title": "McLaren CEO'su Brown: \"Yolda çok fırsat kaçırdık\"",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-20T07:12:41.912870+00:00",
+   "title": "Jacques Villeneuve: Mercedes 2027'de baskın takım olmayacak",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-20T07:12:42.260101+00:00",
+   "title": "Leclerc: Pistte iyi gittik ama yarın sıfırdan başlayacağız",
+   "source": "FormulaPassion"
   }
  ]
 }
