@@ -6753,7 +6753,9 @@
   "e00002dd5c938740": "2026-11-20T05:37:33.879191+00:00",
   "5e46732bddbff0d8": "2026-11-20T05:37:33.879191+00:00",
   "b7d787c302377cbb": "2026-11-20T05:42:33.598146+00:00",
-  "a6fa02e3b302cd93": "2026-11-20T05:42:33.598146+00:00"
+  "a6fa02e3b302cd93": "2026-11-20T05:42:33.598146+00:00",
+  "585f5fa8d86e16a0": "2026-11-20T05:47:31.475301+00:00",
+  "d8ce744ac7da7901": "2026-11-20T05:47:31.475301+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16454,7 +16456,8 @@
     "Motorsport-Total": "2026-11-20T05:16:00+00:00",
     "AS": "2026-11-20T05:21:14+00:00",
     "FormulaPassion": "2026-11-20T05:11:20+00:00",
-    "Gazzetta dello Sport": "2026-11-20T05:37:46+00:00"
+    "Gazzetta dello Sport": "2026-11-20T05:37:46+00:00",
+    "Sky Sports F1": "2026-11-20T05:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16472,9 +16475,10 @@
     "Motorsport-Total": "Donnerstag Las Vegas: Russell Schnellster, Verstappen schlägt Alarm - Motorsport-Total.com",
     "AS": "La lluvia arruina los libres",
     "FormulaPassion": "GP Las Vegas 2026 – Classifica FP2: dal freddo spunta Russell, poi Gasly e Leclerc. Antonelli è 8°",
-    "Gazzetta dello Sport": "Las Vegas, libere piovose: alla fine sbuca Russell. Ferrari terza con Leclerc, Antonelli 8°"
+    "Gazzetta dello Sport": "Las Vegas, libere piovose: alla fine sbuca Russell. Ferrari terza con Leclerc, Antonelli 8°",
+    "Sky Sports F1": "Russell fastest as rain limits running in Las Vegas GP practice"
    },
-   "last": "2026-11-20T05:42:37.843070+00:00"
+   "last": "2026-11-20T05:47:33.881202+00:00"
   },
   "S9168": {
    "title": "Verstappen limited to P13 in Vegas FP2 by radio problems",
@@ -16579,9 +16583,22 @@
     "ESPN F1": "Kayleigh van Dooren heads Roma into an early lead"
    },
    "last": "2026-11-20T05:37:37.633281+00:00"
+  },
+  "S9176": {
+   "title": "Ralf Schumacher says Antonelli will eventually emancipate himself",
+   "first": "2026-11-20T05:47:33.881211+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-20T05:44:30+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Ralf Schumacher: Irgendwann wird sich auch Kimi Antonelli emanzipieren - Motorsport-Total.com"
+   },
+   "last": "2026-11-20T05:47:33.881217+00:00"
   }
  },
- "story_seq": 9175,
+ "story_seq": 9176,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16700,7 +16717,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T05:42:33.598146+00:00",
+ "last_run": "2026-11-20T05:47:31.475301+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18180,6 +18197,11 @@
    "t": "2026-11-20T05:22:47.187290+00:00",
    "title": "Cadillac, Bottas'ı 2027'de tutup Herta'ya yedek pilot rolü teklif etti",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-20T05:47:36.606637+00:00",
+   "title": "Ralf Schumacher: Kimi Antonelli er ya da geç kendini özgürleştirecek",
+   "source": "Motorsport-Total"
   }
  ]
 }
