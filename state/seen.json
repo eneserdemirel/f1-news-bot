@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2a8c01fe8fce6824": "2026-11-06T18:40:18.159768+00:00",
-  "316f323d8f024df4": "2026-11-06T18:40:18.159768+00:00",
-  "3e1eded3bba7e9cf": "2026-11-06T18:40:18.159768+00:00",
   "ec1ccdd41ed16ea0": "2026-11-06T18:45:15.846418+00:00",
   "f1e658ee1205ab30": "2026-11-06T18:50:17.788608+00:00",
   "36b20930d8313f35": "2026-11-06T18:50:17.788608+00:00",
@@ -6748,7 +6745,8 @@
   "0c5a328a1678b161": "2026-11-20T18:30:43.290281+00:00",
   "3ab304a38596924d": "2026-11-20T18:35:40.544301+00:00",
   "1850daac8f7369e9": "2026-11-20T18:35:40.544301+00:00",
-  "d128622f0aa4b459": "2026-11-20T18:35:40.544301+00:00"
+  "d128622f0aa4b459": "2026-11-20T18:35:40.544301+00:00",
+  "8ccec6101d859c7a": "2026-11-20T18:40:43.262444+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16843,9 +16841,22 @@
     "RacingNews365 NL": "Gevatte Brown doet Briatore zakelijk voorstel: \"Versnellingsbak kopen?\""
    },
    "last": "2026-11-20T18:25:44.338813+00:00"
+  },
+  "S9378": {
+   "title": "Piastri reacts to 10-place Las Vegas GP grid penalty",
+   "first": "2026-11-20T18:40:46.951682+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-20T18:36:12+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Oscar Piastri lifts lid on FIA penalty at Las Vegas Grand Prix"
+   },
+   "last": "2026-11-20T18:40:46.951699+00:00"
   }
  },
- "story_seq": 9377,
+ "story_seq": 9378,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16964,7 +16975,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T18:35:40.544301+00:00",
+ "last_run": "2026-11-20T18:40:43.262444+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
@@ -18499,6 +18510,11 @@
    "t": "2026-11-20T18:35:47.057036+00:00",
    "title": "FIA, 2030 Formula 1 güç ünitesi çerçevesinde oybirliğiyle anlaşmaya vardı",
    "source": "FIA"
+  },
+  {
+   "t": "2026-11-20T18:40:53.704993+00:00",
+   "title": "Piastri, Las Vegas GP'de FIA cezasına ilişkin konuştu",
+   "source": "PlanetF1"
   }
  ]
 }
