@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a2361ef539aa792d": "2026-11-06T12:08:53.870926+00:00",
-  "b25f1f01fb0e4c5a": "2026-11-06T12:08:53.870926+00:00",
-  "a8d72630641012eb": "2026-11-06T12:08:53.870926+00:00",
-  "f060305b059e3368": "2026-11-06T12:08:53.870926+00:00",
   "77cf14d15d816eae": "2026-11-06T12:13:57.601729+00:00",
   "901169954a0ad8fe": "2026-11-06T12:13:57.601729+00:00",
   "8ecec9596b471ba9": "2026-11-06T12:18:53.417042+00:00",
@@ -6790,7 +6786,8 @@
   "188947d8d5747437": "2026-11-20T11:53:43.017433+00:00",
   "8d9d4d67f89d4bb8": "2026-11-20T11:58:41.932087+00:00",
   "c6e28c728acc488f": "2026-11-20T11:58:41.932087+00:00",
-  "a8f51c3867410e32": "2026-11-20T11:58:41.932087+00:00"
+  "a8f51c3867410e32": "2026-11-20T11:58:41.932087+00:00",
+  "56216c5ad8269f71": "2026-11-20T12:13:43.075623+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14971,7 +14968,8 @@
     "RacingNews365": "2026-11-20T02:20:00+00:00",
     "The Race": "2026-11-20T05:20:39+00:00",
     "Crash.net": "2026-11-20T06:50:54+00:00",
-    "Formula 1": "2026-11-20T11:19:19.914123+00:00"
+    "Formula 1": "2026-11-20T11:19:19.914123+00:00",
+    "PlanetF1": "2026-11-20T12:06:54+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14979,9 +14977,10 @@
     "RacingNews365": "Cadillac outline next move for shunned Colton Herta",
     "The Race": "What next for Herta after 'disappointing' Bottas 2027 decision",
     "Crash.net": "What now for Colton Herta after Valtteri Bottas Cadillac stay for F1 2027?",
-    "Formula 1": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension"
+    "Formula 1": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
+    "PlanetF1": "Colton Herta offered Cadillac F1 reserve role with Bottas’ seat ‘open’ for 2028"
    },
-   "last": "2026-11-20T11:19:19.914139+00:00"
+   "last": "2026-11-20T12:13:46.072447+00:00"
   },
   "S9119": {
    "title": "FDU vs. Cornell game highlights",
@@ -17479,17 +17478,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T12:08:41.790910+00:00",
+ "last_run": "2026-11-20T12:13:43.075623+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
  "last_digest_at": "2026-11-20T12:03:45.450180+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T12:10:20.784148+00:00",
-   "title": "Hamilton Las Vegas FP1'de yarışmayacak, Beganovic Ferrari'de şans buluyor",
-   "source": "GPblog"
-  },
   {
    "t": "2026-11-17T12:30:18.200808+00:00",
    "title": "George Kurtz: Mercedes'in sessiz sahibi ve yarış pilotu",
@@ -19034,6 +19028,11 @@
    "t": "2026-11-20T11:48:51.241253+00:00",
    "title": "Mercedes, FIA onaylı güç ünitesi yükseltmesinin ilk değerlendirmesini paylaştı",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-20T12:13:49.568980+00:00",
+   "title": "Colton Herta'ya Cadillac F1'de yedek sürücü teklifi, 2028 için koltuk açık",
+   "source": "PlanetF1"
   }
  ]
 }
