@@ -6644,7 +6644,12 @@
   "f39f00777198cc77": "2026-11-20T00:21:58.955337+00:00",
   "39350a2c8ba6a0b2": "2026-11-20T00:21:58.955337+00:00",
   "9dca59e65586ad15": "2026-11-20T00:21:58.955337+00:00",
-  "033d008382dd0bac": "2026-11-20T00:21:58.955337+00:00"
+  "033d008382dd0bac": "2026-11-20T00:21:58.955337+00:00",
+  "eb161e9e738ff005": "2026-11-20T00:26:50.980456+00:00",
+  "16a60d04477eca21": "2026-11-20T00:26:50.980456+00:00",
+  "0bd3fa93e73e2df9": "2026-11-20T00:26:50.980456+00:00",
+  "b3b7e0d6284df2ad": "2026-11-20T00:26:50.980456+00:00",
+  "d6a1e9ef701d77c1": "2026-11-20T00:26:50.980456+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15621,7 +15626,9 @@
     "GPblog": "2026-11-19T23:31:00+00:00",
     "Crash.net": "2026-11-19T23:04:53+00:00",
     "RacingNews365 NL": "2026-11-20T00:00:00+00:00",
-    "RacingNews365": "2026-11-20T00:00:00+00:00"
+    "RacingNews365": "2026-11-20T00:00:00+00:00",
+    "Formula 1": "2026-11-20T00:26:54.547512+00:00",
+    "PlanetF1": "2026-11-20T00:23:39+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15631,9 +15638,11 @@
     "GPblog": "F1 LIVE | Follow FP1 of the Las Vegas Grand Prix here",
     "Crash.net": "F1 Las Vegas Grand Prix LIVE: Updates from Friday practice in the US",
     "RacingNews365 NL": "Live eerste vrije training F1 GP Las Vegas 2026",
-    "RacingNews365": "LIVE: 2026 F1 Las Vegas Grand Prix - Free Practice 1"
+    "RacingNews365": "LIVE: 2026 F1 Las Vegas Grand Prix - Free Practice 1",
+    "Formula 1": "LIVE COVERAGE: First practice for the Las Vegas GP",
+    "PlanetF1": "Las Vegas Grand Prix 2026: Live updates from FP1"
    },
-   "last": "2026-11-20T00:06:57.152346+00:00"
+   "last": "2026-11-20T00:26:54.547556+00:00"
   },
   "S9031": {
    "title": "Verstappen says finishing second in championship doesn't interest him",
@@ -16254,16 +16263,18 @@
    "sources": {
     "The Race": "2026-11-20T00:00:06+00:00",
     "Formula 1": "2026-11-20T00:06:57.152298+00:00",
-    "RacingNews365": "2026-11-20T00:00:00+00:00"
+    "RacingNews365": "2026-11-20T00:00:00+00:00",
+    "Autosport": "2026-11-20T00:24:50+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "The Race": "Nike to return to F1 after 24 years",
     "Formula 1": "Formula 1 and Nike join forces in long-term partnership",
-    "RacingNews365": "F1 announces key partnership as global giant ends 20-year absence"
+    "RacingNews365": "F1 announces key partnership as global giant ends 20-year absence",
+    "Autosport": "Nike joins F1 as apparel partner"
    },
-   "last": "2026-11-20T00:06:57.152350+00:00"
+   "last": "2026-11-20T00:26:54.547552+00:00"
   },
   "S9079": {
    "title": "Deborah Ogayemi and-1 basketball play",
@@ -16342,9 +16353,35 @@
     "ESPN F1": "Flames Central (19/11/26) - Stream en vivo"
    },
    "last": "2026-11-20T00:22:02.180940+00:00"
+  },
+  "S9085": {
+   "title": "Ripine Vagaia drains long three-pointer (non-F1 item)",
+   "first": "2026-11-20T00:26:54.547535+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T00:17:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ripine Vagaia drains the long 3"
+   },
+   "last": "2026-11-20T00:26:54.547541+00:00"
+  },
+  "S9086": {
+   "title": "Kate Harpring finishes through contact (non-F1 item)",
+   "first": "2026-11-20T00:26:54.547544+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T00:16:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kate Harpring finishes through contact"
+   },
+   "last": "2026-11-20T00:26:54.547548+00:00"
   }
  },
- "story_seq": 9084,
+ "story_seq": 9086,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16463,7 +16500,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T00:21:58.955337+00:00",
+ "last_run": "2026-11-20T00:26:50.980456+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -17848,6 +17885,11 @@
    "t": "2026-11-20T00:16:57.243395+00:00",
    "title": "Las Vegas Grand Prix'si ABD'de ücretsiz yayınlanacak",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-20T00:26:58.239783+00:00",
+   "title": "Nike, F1'in resmi giyim ortağı oluyor",
+   "source": "Autosport"
   }
  ]
 }
