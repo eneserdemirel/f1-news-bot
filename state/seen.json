@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9e4f63a37a1b857b": "2026-11-06T10:34:20.164170+00:00",
-  "5e99fb933a75b9c6": "2026-11-06T10:34:20.164170+00:00",
   "c5394a5d8cb51e6b": "2026-11-06T10:38:53.696386+00:00",
   "2bfb2c11400c4099": "2026-11-06T10:38:53.696386+00:00",
   "7f73e464d943ca0f": "2026-11-06T10:43:55.757358+00:00",
@@ -6791,7 +6789,9 @@
   "768c924b2b01dca6": "2026-11-20T10:23:40.698456+00:00",
   "0ba26e3320f5381e": "2026-11-20T10:23:40.698456+00:00",
   "501e4056c4ec55eb": "2026-11-20T10:23:40.698456+00:00",
-  "d91a3075b545c6c9": "2026-11-20T10:33:39.346265+00:00"
+  "d91a3075b545c6c9": "2026-11-20T10:33:39.346265+00:00",
+  "ae249c8d4a23e5cc": "2026-11-20T10:38:43.068695+00:00",
+  "ba25d9dd7068e0a9": "2026-11-20T10:38:43.068695+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14251,7 +14251,8 @@
     "RacingNews365": "2026-11-19T23:03:00+00:00",
     "Formula 1": "2026-11-20T00:22:02.180910+00:00",
     "AS": "2026-11-20T00:16:28+00:00",
-    "GPblog": "2026-11-20T01:50:00+00:00"
+    "GPblog": "2026-11-20T01:50:00+00:00",
+    "PlanetF1": "2026-11-20T10:37:08+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14259,9 +14260,10 @@
     "RacingNews365": "Third Formula 1 driver hit with Las Vegas Grand Prix grid penalty",
     "Formula 1": "Sainz handed grid penalty for Las Vegas Grand Prix",
     "AS": "Sanción en parrilla para Sainz",
-    "GPblog": "Third driver joins Antonelli and Piastri in receiving Las Vegas GP grid penalty"
+    "GPblog": "Third driver joins Antonelli and Piastri in receiving Las Vegas GP grid penalty",
+    "PlanetF1": "FIA confirms Carlos Sainz penalty at Las Vegas Grand Prix"
    },
-   "last": "2026-11-20T04:42:58.102228+00:00"
+   "last": "2026-11-20T10:38:45.757635+00:00"
   },
   "S9060": {
    "title": "LSU president tells Will Wade not to play RJ Luis Jr.",
@@ -17162,9 +17164,22 @@
     "ESPN F1": "Imam-ul-Haq returns to Yorkshire for 2027 season"
    },
    "last": "2026-11-20T10:33:40.355130+00:00"
+  },
+  "S9272": {
+   "title": "Liam Lawson mocks Jamie Laing's go-kart race claim",
+   "first": "2026-11-20T10:38:45.757646+00:00",
+   "sources": {
+    "Crash.net": "2026-11-20T10:38:23+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Crash.net": "Liam Lawson mocks reality star after claiming he could beat F1 driver in a race"
+   },
+   "last": "2026-11-20T10:38:45.757650+00:00"
   }
  },
- "story_seq": 9271,
+ "story_seq": 9272,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17283,7 +17298,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T10:33:39.346265+00:00",
+ "last_run": "2026-11-20T10:38:43.068695+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18823,6 +18838,16 @@
    "t": "2026-11-20T10:23:49.851508+00:00",
    "title": "Las Vegas'ta yağmur ve soğuk: Pirelli ve FIA pilotlara nasıl yardım etti",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-20T10:38:49.659919+00:00",
+   "title": "Carlos Sainz, Las Vegas GP'de 10 sıra geriden başlayacak",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-20T10:38:50.111805+00:00",
+   "title": "Lawson, reality yıldızı Laing'in kart yarışı iddiasıyla alay etti",
+   "source": "Crash.net"
   }
  ]
 }
