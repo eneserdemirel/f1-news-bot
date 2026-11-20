@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9911787d7a08754a": "2026-11-06T12:38:58.946882+00:00",
-  "8f9221f91741013d": "2026-11-06T12:38:58.946882+00:00",
   "bb5358c6f825a4e0": "2026-11-06T12:43:53.431994+00:00",
   "ded9fee1919ee47a": "2026-11-06T12:43:53.431994+00:00",
   "0c789ecbcfe53e1f": "2026-11-06T12:48:55.226619+00:00",
@@ -6787,7 +6785,8 @@
   "c4151e38f2773110": "2026-11-20T12:33:43.517295+00:00",
   "d89f5c9734242ddf": "2026-11-20T12:33:43.517295+00:00",
   "8c8c14f7257e322d": "2026-11-20T12:38:41.238134+00:00",
-  "57c844e13202ff01": "2026-11-20T12:38:41.238134+00:00"
+  "57c844e13202ff01": "2026-11-20T12:38:41.238134+00:00",
+  "c36586ada6f9aef9": "2026-11-20T12:43:44.625857+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17428,9 +17427,22 @@
     "ESPN F1": "Veteran GK Courtois extends Real Madrid contract to 2028"
    },
    "last": "2026-11-20T12:38:42.263970+00:00"
+  },
+  "S9298": {
+   "title": "NFL offseason free agent and trade acquisitions review",
+   "first": "2026-11-20T12:43:45.639448+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T11:51:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "NFL offseason free agent and trade acquisitions that have and have not worked"
+   },
+   "last": "2026-11-20T12:43:45.639468+00:00"
   }
  },
- "story_seq": 9297,
+ "story_seq": 9298,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17549,17 +17561,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T12:38:41.238134+00:00",
+ "last_run": "2026-11-20T12:43:44.625857+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
  "last_digest_at": "2026-11-20T12:03:45.450180+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T12:40:24.081848+00:00",
-   "title": "F1'in 'aptalca' hız sınırı 2027'de değişecek mi?",
-   "source": "The Race"
-  },
   {
    "t": "2026-11-17T12:50:33.034370+00:00",
    "title": "Hamilton'ın Ferrari geleceği Bearman'ın kararını etkileyebilir",
