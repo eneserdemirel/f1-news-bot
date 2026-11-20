@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "57cc301f6d2de3c8": "2026-11-06T00:06:10.320078+00:00",
-  "9c2710e49f053610": "2026-11-06T00:06:10.320078+00:00",
-  "8bc5b13b0479cb41": "2026-11-06T00:06:10.320078+00:00",
-  "1fc93b78b7af9bcc": "2026-11-06T00:06:10.320078+00:00",
   "7fe17fa50db67104": "2026-11-06T00:16:05.713083+00:00",
   "d38d73e0619a91ca": "2026-11-06T00:16:05.713083+00:00",
   "59a06fabda39482a": "2026-11-06T00:16:05.713083+00:00",
@@ -6637,7 +6633,14 @@
   "50053bda6dc2513c": "2026-11-20T00:01:56.018838+00:00",
   "c7954a5f5654772f": "2026-11-20T00:01:56.018838+00:00",
   "21a4a2bf12ac388c": "2026-11-20T00:01:56.018838+00:00",
-  "6e27f4448b1adc95": "2026-11-20T00:01:56.018838+00:00"
+  "6e27f4448b1adc95": "2026-11-20T00:01:56.018838+00:00",
+  "8d5d52cbd49d4d19": "2026-11-20T00:06:52.014556+00:00",
+  "cd924f14ed2b8e33": "2026-11-20T00:06:52.014556+00:00",
+  "69379967558d2760": "2026-11-20T00:06:52.014556+00:00",
+  "198d5c958611ef7f": "2026-11-20T00:06:52.014556+00:00",
+  "05e4543226313f5f": "2026-11-20T00:06:52.014556+00:00",
+  "481fad683ebe4691": "2026-11-20T00:06:52.014556+00:00",
+  "e6b4c2e6e2a3b0a9": "2026-11-20T00:06:52.014556+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -14375,14 +14378,16 @@
    "title": "Camara faces difficult decision between two series",
    "first": "2026-11-19T12:21:20.242271+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-19T09:58:37+00:00"
+    "Motorsport-Total": "2026-11-19T09:58:37+00:00",
+    "Crash.net": "2026-11-19T23:54:18+00:00"
    },
-   "posted": false,
+   "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Camara vor schwieriger Entscheidung: \"Beides ist sehr wichtig für mich!\" - Motorsport-Total.com"
+    "Motorsport-Total": "Camara vor schwieriger Entscheidung: \"Beides ist sehr wichtig für mich!\" - Motorsport-Total.com",
+    "Crash.net": "Rafa Camara still unsure about finishing 2026 F1 season"
    },
-   "last": "2026-11-19T12:21:20.242274+00:00"
+   "last": "2026-11-20T00:06:57.152353+00:00"
   },
   "S8933": {
    "title": "Antonelli expects yo-yo racing in Las Vegas",
@@ -15687,7 +15692,8 @@
     "Sky Sports F1": "2026-11-19T23:25:00+00:00",
     "GPblog": "2026-11-19T23:31:00+00:00",
     "Crash.net": "2026-11-19T23:04:53+00:00",
-    "RacingNews365 NL": "2026-11-20T00:00:00+00:00"
+    "RacingNews365 NL": "2026-11-20T00:00:00+00:00",
+    "RacingNews365": "2026-11-20T00:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15696,9 +15702,10 @@
     "Sky Sports F1": "Las Vegas GP: Rain falling ahead of first practice LIVE!",
     "GPblog": "F1 LIVE | Follow FP1 of the Las Vegas Grand Prix here",
     "Crash.net": "F1 Las Vegas Grand Prix LIVE: Updates from Friday practice in the US",
-    "RacingNews365 NL": "Live eerste vrije training F1 GP Las Vegas 2026"
+    "RacingNews365 NL": "Live eerste vrije training F1 GP Las Vegas 2026",
+    "RacingNews365": "LIVE: 2026 F1 Las Vegas Grand Prix - Free Practice 1"
    },
-   "last": "2026-11-20T00:01:59.106478+00:00"
+   "last": "2026-11-20T00:06:57.152346+00:00"
   },
   "S9031": {
    "title": "Verstappen says finishing second in championship doesn't interest him",
@@ -16315,17 +16322,60 @@
    "title": "Nike returns to F1 with new partnership after 24 years",
    "first": "2026-11-20T00:01:59.106471+00:00",
    "sources": {
-    "The Race": "2026-11-20T00:00:06+00:00"
+    "The Race": "2026-11-20T00:00:06+00:00",
+    "Formula 1": "2026-11-20T00:06:57.152298+00:00",
+    "RacingNews365": "2026-11-20T00:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Nike to return to F1 after 24 years"
+    "The Race": "Nike to return to F1 after 24 years",
+    "Formula 1": "Formula 1 and Nike join forces in long-term partnership",
+    "RacingNews365": "F1 announces key partnership as global giant ends 20-year absence"
    },
-   "last": "2026-11-20T00:01:59.106474+00:00"
+   "last": "2026-11-20T00:06:57.152350+00:00"
+  },
+  "S9079": {
+   "title": "Deborah Ogayemi and-1 basketball play",
+   "first": "2026-11-20T00:06:57.152323+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T23:48:23+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Deborah Ogayemi gets the and-1"
+   },
+   "last": "2026-11-20T00:06:57.152328+00:00"
+  },
+  "S9080": {
+   "title": "Tate Lorentz goal for Wake Forest",
+   "first": "2026-11-20T00:06:57.152331+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T23:32:01+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tate Lorentz slots in the goal for Wake Forest"
+   },
+   "last": "2026-11-20T00:06:57.152335+00:00"
+  },
+  "S9081": {
+   "title": "Bengals and Reds pay tribute to Fiona the hippo",
+   "first": "2026-11-20T00:06:57.152338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-19T23:23:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Bengals, Reds pay tribute to Fiona the hippo after her death"
+   },
+   "last": "2026-11-20T00:06:57.152341+00:00"
   }
  },
- "story_seq": 9078,
+ "story_seq": 9081,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16444,7 +16494,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T00:01:56.018838+00:00",
+ "last_run": "2026-11-20T00:06:52.014556+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -17824,6 +17874,11 @@
    "t": "2026-11-20T00:02:02.579734+00:00",
    "title": "Nike, 24 yıl aradan sonra Formula 1'e geri dönüyor",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-20T00:07:01.411430+00:00",
+   "title": "Formula 1 ve Nike uzun vadeli ortaklık kuruyor",
+   "source": "Formula 1"
   }
  ]
 }
