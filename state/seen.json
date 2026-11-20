@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1fc41401f7794eef": "2026-11-06T21:45:17.877014+00:00",
-  "6dc3c81311e815bd": "2026-11-06T21:45:17.877014+00:00",
   "68049bea33afc9de": "2026-11-06T21:50:15.187801+00:00",
   "4c457e80b467f881": "2026-11-06T21:50:15.187801+00:00",
   "60473c6d526a2d38": "2026-11-06T22:00:16.158956+00:00",
@@ -6698,7 +6696,14 @@
   "8bd6431c815301ca": "2026-11-20T21:35:42.316237+00:00",
   "ca8eb5b7e8abb20f": "2026-11-20T21:35:42.316237+00:00",
   "307eae9911ae9f59": "2026-11-20T21:40:42.814462+00:00",
-  "3b1ce0d027e0c703": "2026-11-20T21:40:42.814462+00:00"
+  "3b1ce0d027e0c703": "2026-11-20T21:40:42.814462+00:00",
+  "e3f6fb64dcb46fb5": "2026-11-20T21:45:44.258770+00:00",
+  "e963e5eb57479e70": "2026-11-20T21:45:44.258770+00:00",
+  "5eec996e9f2611a7": "2026-11-20T21:45:44.258770+00:00",
+  "52b928081e5aa328": "2026-11-20T21:45:44.258770+00:00",
+  "0dc5833f8e5966be": "2026-11-20T21:45:44.258770+00:00",
+  "58b2d17b59b8202d": "2026-11-20T21:45:44.258770+00:00",
+  "b3243c82fbe1b58f": "2026-11-20T21:45:44.258770+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13893,7 +13898,8 @@
     "FormulaPassion": "2026-11-20T18:52:28+00:00",
     "Formula 1": "2026-11-20T19:30:44.458192+00:00",
     "The Race": "2026-11-20T20:08:47+00:00",
-    "Sky Sports F1": "2026-11-20T20:10:00+00:00"
+    "Sky Sports F1": "2026-11-20T20:10:00+00:00",
+    "Corriere dello Sport": "2026-11-20T21:33:23+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -13913,9 +13919,10 @@
     "FormulaPassion": "La FIA “ri-annuncia” il ritorno dei V8. Ben Sulayem: “Ci riconnettiamo con il Dna della F1”",
     "Formula 1": "FIA confirms unanimous agreement on 2030 PU framework",
     "The Race": "F1's new V8 engine agreed – five things you need to know",
-    "Sky Sports F1": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1"
+    "Sky Sports F1": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
+    "Corriere dello Sport": "La Formula 1 ritorna ai V8 dal 2030, ora è ufficiale: \"Le abilità dei piloti al centro della competizione\""
    },
-   "last": "2026-11-20T20:30:49.615493+00:00"
+   "last": "2026-11-20T21:45:48.224929+00:00"
   },
   "S9178": {
    "title": "Kraken 5-1 Canucks NHL game recap",
@@ -15690,7 +15697,7 @@
    "titles": {
     "ESPN F1": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
    },
-   "last": "2026-11-20T13:13:45.541148+00:00"
+   "last": "2026-11-20T21:45:48.224916+00:00"
   },
   "S9309": {
    "title": "Opinion: professional referees as F1 race stewards",
@@ -16844,7 +16851,7 @@
    "titles": {
     "ESPN F1": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit"
    },
-   "last": "2026-11-20T19:45:49.592269+00:00"
+   "last": "2026-11-20T21:45:48.224923+00:00"
   },
   "S9397": {
    "title": "Verstappen praises Antonelli's qualities as new champion",
@@ -17274,9 +17281,22 @@
     "ESPN F1": "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
    },
    "last": "2026-11-20T21:40:44.471034+00:00"
+  },
+  "S9430": {
+   "title": "Ravens rule out Nnamdi Madubuike vs Panthers with hamstring",
+   "first": "2026-11-20T21:45:48.224887+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T20:04:05+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ravens rule out DT Nnamdi Madubuike (hamstring) vs Panthers"
+   },
+   "last": "2026-11-20T21:45:48.224907+00:00"
   }
  },
- "story_seq": 9429,
+ "story_seq": 9430,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17395,7 +17415,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T21:40:42.814462+00:00",
+ "last_run": "2026-11-20T21:45:44.258770+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18990,6 +19010,11 @@
    "t": "2026-11-20T21:20:48.806025+00:00",
    "title": "McLaren'da Norris ve Piastri, yağmurlu antrenmanda zorluk yaşadı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-20T21:45:54.203169+00:00",
+   "title": "Formula 1 2030'da V8 motorlara dönüyor",
+   "source": "Corriere dello Sport"
   }
  ]
 }
