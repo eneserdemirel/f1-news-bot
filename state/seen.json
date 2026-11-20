@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1c5d6398bedeb4e3": "2026-11-06T05:28:12.708220+00:00",
-  "b0707806e4c28d88": "2026-11-06T05:28:12.708220+00:00",
   "39521755c4a3bcff": "2026-11-06T05:38:16.460452+00:00",
   "3ccd6f68a9e8bc66": "2026-11-06T05:38:16.460452+00:00",
   "f143a75ce95bc941": "2026-11-06T05:38:16.460452+00:00",
@@ -6745,7 +6743,13 @@
   "4fb73ce756595a31": "2026-11-20T05:22:33.829016+00:00",
   "30dbea3a3c969653": "2026-11-20T05:22:33.829016+00:00",
   "90f09f8226fdcebb": "2026-11-20T05:22:33.829016+00:00",
-  "851923cb87388932": "2026-11-20T05:27:31.776425+00:00"
+  "851923cb87388932": "2026-11-20T05:27:31.776425+00:00",
+  "8b4f284211cebc7f": "2026-11-20T05:32:34.982655+00:00",
+  "af68a63d6cadb65a": "2026-11-20T05:32:34.982655+00:00",
+  "6e04782d724a1c19": "2026-11-20T05:32:34.982655+00:00",
+  "054523b46994bad1": "2026-11-20T05:32:34.982655+00:00",
+  "2d30425959b2ba7d": "2026-11-20T05:32:34.982655+00:00",
+  "edbc1107ed3d801a": "2026-11-20T05:32:34.982655+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6884,45 +6888,6 @@
     "ESPN F1": "Ducks' Cutter Gauthier makes NHL history, records fourth hat trick in month"
    },
    "last": "2026-11-18T06:22:51.855245+00:00"
-  },
-  "S8457": {
-   "title": "Calipari laments not calling timeout in Arkansas loss",
-   "first": "2026-11-18T05:12:04.964566+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T04:54:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arkansas' Calipari laments not calling TO late in loss: 'Still learning about my team'"
-   },
-   "last": "2026-11-18T05:32:02.806242+00:00"
-  },
-  "S8464": {
-   "title": "Auburn's Phoenix Stotijn details her confidence in win vs. Seton Hall",
-   "first": "2026-11-18T05:32:02.806254+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T02:35:52+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Auburn's Phoenix Stotijn details her confidence in win vs. Seton Hall"
-   },
-   "last": "2026-11-18T05:32:02.806261+00:00"
-  },
-  "S8465": {
-   "title": "Ecclestone says Verstappen is 'much, much better' than all others",
-   "first": "2026-11-18T05:32:02.806266+00:00",
-   "sources": {
-    "Motorsport-Total": "2026-11-18T05:27:04+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport-Total": "Ecclestone: Max Verstappen ist \"viel, viel besser\" als alle anderen - Motorsport-Total.com"
-   },
-   "last": "2026-11-18T05:32:02.806272+00:00"
   },
   "S8466": {
    "title": "Wolff dismisses hope Mercedes will fade after Red Bull revival",
@@ -14283,7 +14248,8 @@
     "GPblog": "2026-11-19T21:10:49+00:00",
     "Motorsport Week": "2026-11-20T00:15:23+00:00",
     "Motorsport.com Italia": "2026-11-20T00:30:46+00:00",
-    "FormulaPassion": "2026-11-20T03:15:00+00:00"
+    "FormulaPassion": "2026-11-20T03:15:00+00:00",
+    "RacingNews365 NL": "2026-11-20T05:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -14296,9 +14262,10 @@
     "GPblog": "FIA makes change: permanent stewards in Formula 1 from 2027",
     "Motorsport Week": "FIA to introduce major F1 steward change for 2027",
     "Motorsport.com Italia": "F1 | C'è una svolta FIA: dal 2027 arriveranno i commissari sportivi permanenti",
-    "FormulaPassion": "Svolta FIA, arrivano gli “arbitri” professionisti: dal 2027, commissari a tempo pieno in F1"
+    "FormulaPassion": "Svolta FIA, arrivano gli “arbitri” professionisti: dal 2027, commissari a tempo pieno in F1",
+    "RacingNews365 NL": "FIA gooit hoofdpijndossier F1-coureurs rigoureus op de schop"
    },
-   "last": "2026-11-20T03:42:35.617021+00:00"
+   "last": "2026-11-20T05:32:41.446830+00:00"
   },
   "S9006": {
    "title": "Infantino calls for fair play in FIFA elections",
@@ -16401,16 +16368,18 @@
    "sources": {
     "RacingNews365": "2026-11-20T04:32:00+00:00",
     "The Race": "2026-11-20T04:48:23+00:00",
-    "FormulaPassion": "2026-11-20T04:48:28+00:00"
+    "FormulaPassion": "2026-11-20T04:48:28+00:00",
+    "Crash.net": "2026-11-20T05:30:23+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "Two more F1 drivers join growing Las Vegas GP grid-penalty victim list",
     "The Race": "At least five drivers carrying grid penalties at F1's Las Vegas GP",
-    "FormulaPassion": "A Las Vegas fiera delle penalità in griglia: arretrati Antonelli, Stroll, Sainz, Piastri, Bearman"
+    "FormulaPassion": "A Las Vegas fiera delle penalità in griglia: arretrati Antonelli, Stroll, Sainz, Piastri, Bearman",
+    "Crash.net": "Five F1 drivers carrying grid penalties at Las Vegas GP"
    },
-   "last": "2026-11-20T05:07:39.665194+00:00"
+   "last": "2026-11-20T05:32:41.446835+00:00"
   },
   "S9162": {
    "title": "ESPN posts Las Vegas GP weekend results page",
@@ -16491,7 +16460,8 @@
     "Formula 1": "2026-11-20T05:22:40.067555+00:00",
     "ESPN F1": "2026-11-20T05:15:01+00:00",
     "Motorsport Week": "2026-11-20T05:08:27+00:00",
-    "Motorsport-Total": "2026-11-20T05:16:38+00:00"
+    "Motorsport-Total": "2026-11-20T05:16:38+00:00",
+    "AS": "2026-11-20T05:21:14+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16506,9 +16476,10 @@
     "Formula 1": "Russell beats Gasly and Leclerc to top spot in wet FP2",
     "ESPN F1": "Las Vegas Grand Prix: George Russell sets pace in second practice",
     "Motorsport Week": "George Russell snatches top spot in wet-dry Las Vegas FP2",
-    "Motorsport-Total": "Donnerstag Las Vegas: Russell Schnellster, Verstappen schlägt Alarm - Motorsport-Total.com"
+    "Motorsport-Total": "Donnerstag Las Vegas: Russell Schnellster, Verstappen schlägt Alarm - Motorsport-Total.com",
+    "AS": "La lluvia arruina los libres"
    },
-   "last": "2026-11-20T05:22:40.067612+00:00"
+   "last": "2026-11-20T05:32:41.446852+00:00"
   },
   "S9168": {
    "title": "Verstappen limited to P13 in Vegas FP2 by radio problems",
@@ -16548,9 +16519,35 @@
     "ESPN F1": "Harrison Barnes gets up for the beautiful jam"
    },
    "last": "2026-11-20T05:27:33.460213+00:00"
+  },
+  "S9171": {
+   "title": "Avalanche 4-0 Ducks NHL game recap",
+   "first": "2026-11-20T05:32:41.446792+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T05:29:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Avalanche 4-0 Ducks (20 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-20T05:32:41.446817+00:00"
+  },
+  "S9172": {
+   "title": "Raiders run defense concern NFL column",
+   "first": "2026-11-20T05:32:41.446821+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T05:27:58+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Why Raiders' run defense remains a concern"
+   },
+   "last": "2026-11-20T05:32:41.446825+00:00"
   }
  },
- "story_seq": 9170,
+ "story_seq": 9172,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16669,7 +16666,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T05:27:31.776425+00:00",
+ "last_run": "2026-11-20T05:32:34.982655+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
