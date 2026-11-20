@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "53166f82c920a7f2": "2026-11-06T19:45:16.151188+00:00",
-  "1a85377c9a55bf45": "2026-11-06T19:45:16.151188+00:00",
   "9a1c4b1d02fbbb0c": "2026-11-06T19:55:22.008590+00:00",
   "93c80389c3a12fa1": "2026-11-06T19:55:22.008590+00:00",
   "f1e456b2fadf63e2": "2026-11-06T20:00:36.317979+00:00",
@@ -6745,7 +6743,11 @@
   "5beeb8967d48610e": "2026-11-20T19:35:45.809225+00:00",
   "f8c9dd33dc102880": "2026-11-20T19:35:45.809225+00:00",
   "4a228a892a991a7e": "2026-11-20T19:35:45.809225+00:00",
-  "1b1d217ab3fdac13": "2026-11-20T19:35:45.809225+00:00"
+  "1b1d217ab3fdac13": "2026-11-20T19:35:45.809225+00:00",
+  "4e97ac3a44cdef9f": "2026-11-20T19:45:46.166025+00:00",
+  "e566cc6fced1793c": "2026-11-20T19:45:46.166025+00:00",
+  "0144dd3f14761a66": "2026-11-20T19:45:46.166025+00:00",
+  "864f43f1dda6d949": "2026-11-20T19:45:46.166025+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13958,7 +13960,7 @@
     "FormulaPassion": "La FIA “ri-annuncia” il ritorno dei V8. Ben Sulayem: “Ci riconnettiamo con il Dna della F1”",
     "Formula 1": "FIA confirms unanimous agreement on 2030 PU framework"
    },
-   "last": "2026-11-20T19:30:44.458207+00:00"
+   "last": "2026-11-20T19:45:49.592284+00:00"
   },
   "S9178": {
    "title": "Kraken 5-1 Canucks NHL game recap",
@@ -16854,9 +16856,48 @@
     "ESPN F1": "Can Nebraska's Matt Rhule end his drought against ranked opponents?"
    },
    "last": "2026-11-20T19:35:48.842482+00:00"
+  },
+  "S9395": {
+   "title": "Lille vs Bayern odds and spread preview",
+   "first": "2026-11-20T19:45:49.592241+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T19:40:53+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lille vs. Bayern (Nov 25, 2026) Odds and Spread"
+   },
+   "last": "2026-11-20T19:45:49.592258+00:00"
+  },
+  "S9396": {
+   "title": "Tom Brady buys shares in Chelsea",
+   "first": "2026-11-20T19:45:49.592263+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T17:55:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit"
+   },
+   "last": "2026-11-20T19:45:49.592269+00:00"
+  },
+  "S9397": {
+   "title": "Verstappen praises Antonelli's qualities as new champion",
+   "first": "2026-11-20T19:45:49.592273+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-20T19:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen ziet belangrijke kwaliteit bij kersverse wereldkampioen Antonelli"
+   },
+   "last": "2026-11-20T19:45:49.592278+00:00"
   }
  },
- "story_seq": 9394,
+ "story_seq": 9397,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16975,7 +17016,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T19:40:40.530793+00:00",
+ "last_run": "2026-11-20T19:45:46.166025+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18535,6 +18576,11 @@
    "t": "2026-11-20T19:30:50.865452+00:00",
    "title": "FIA, 2030 motor çerçevesinde oybirliği sağlandığını açıkladı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-20T19:45:56.055085+00:00",
+   "title": "FIA, F1'de 2030'dan itibaren V8 motorlara dönüşü doğruladı",
+   "source": "AS"
   }
  ]
 }
