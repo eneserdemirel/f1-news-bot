@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7fe17fa50db67104": "2026-11-06T00:16:05.713083+00:00",
-  "d38d73e0619a91ca": "2026-11-06T00:16:05.713083+00:00",
-  "59a06fabda39482a": "2026-11-06T00:16:05.713083+00:00",
   "af17f6a5fddd0e83": "2026-11-06T00:36:06.689326+00:00",
   "4af9013238917a53": "2026-11-06T00:56:06.277746+00:00",
   "a4a7065d49076417": "2026-11-06T01:06:05.559915+00:00",
@@ -6642,7 +6639,8 @@
   "481fad683ebe4691": "2026-11-20T00:06:52.014556+00:00",
   "e6b4c2e6e2a3b0a9": "2026-11-20T00:06:52.014556+00:00",
   "d33533daa65ac92f": "2026-11-20T00:11:55.912877+00:00",
-  "67373ceb9cb4ccb9": "2026-11-20T00:11:55.912877+00:00"
+  "67373ceb9cb4ccb9": "2026-11-20T00:11:55.912877+00:00",
+  "35bc47557ccde082": "2026-11-20T00:16:52.492846+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16362,9 +16360,22 @@
     "ESPN F1": "Bengals offense will be biggest test yet for Commanders' improving defense"
    },
    "last": "2026-11-20T00:11:58.324890+00:00"
+  },
+  "S9083": {
+   "title": "Las Vegas GP to stream free in US on Apple TV",
+   "first": "2026-11-20T00:16:54.030054+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-20T00:14:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "The Las Vegas Grand Prix will be streamed free in major broadcast change"
+   },
+   "last": "2026-11-20T00:16:54.030074+00:00"
   }
  },
- "story_seq": 9082,
+ "story_seq": 9083,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16483,7 +16494,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T00:11:55.912877+00:00",
+ "last_run": "2026-11-20T00:16:52.492846+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -17863,6 +17874,11 @@
    "t": "2026-11-20T00:07:01.411430+00:00",
    "title": "Formula 1 ve Nike uzun vadeli ortaklık kuruyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-20T00:16:57.243395+00:00",
+   "title": "Las Vegas Grand Prix'si ABD'de ücretsiz yayınlanacak",
+   "source": "PlanetF1"
   }
  ]
 }
