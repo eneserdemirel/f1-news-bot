@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c1b430b42d210d11": "2026-11-06T18:20:17.718903+00:00",
-  "cb249ffe91d155ed": "2026-11-06T18:20:17.718903+00:00",
-  "2e6c9099ff221e05": "2026-11-06T18:20:17.718903+00:00",
   "b84506d8a1a0c644": "2026-11-06T18:25:18.330308+00:00",
   "fdc5018f59ffc2c5": "2026-11-06T18:25:18.330308+00:00",
   "a004aac05394485c": "2026-11-06T18:35:15.321308+00:00",
@@ -6747,7 +6744,12 @@
   "b4ca8cd026419ccd": "2026-11-20T18:10:46.614788+00:00",
   "b62dd6dcf3df01f5": "2026-11-20T18:15:41.198897+00:00",
   "9f2296ba7d47be5c": "2026-11-20T18:15:41.198897+00:00",
-  "0edf2e0f56ae33f2": "2026-11-20T18:15:41.198897+00:00"
+  "0edf2e0f56ae33f2": "2026-11-20T18:15:41.198897+00:00",
+  "e88bbf6291825b3d": "2026-11-20T18:20:47.031192+00:00",
+  "6e9a83f71eaeca52": "2026-11-20T18:20:47.031192+00:00",
+  "aca240c5494715d9": "2026-11-20T18:20:47.031192+00:00",
+  "56035c3c4c2817a1": "2026-11-20T18:20:47.031192+00:00",
+  "8aa1b4f61ef2e053": "2026-11-20T18:20:47.031192+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13329,7 +13331,7 @@
     "Formula 1": "Cadillac CEO Towriss on Herta’s future and Bottas’ extension",
     "PlanetF1": "Colton Herta offered Cadillac F1 reserve role with Bottas’ seat ‘open’ for 2028"
    },
-   "last": "2026-11-20T12:13:46.072447+00:00"
+   "last": "2026-11-20T18:20:52.565925+00:00"
   },
   "S9119": {
    "title": "FDU vs. Cornell game highlights",
@@ -15702,7 +15704,7 @@
    "titles": {
     "ESPN F1": "Australia opt not to name T20I vice-captain for England series"
    },
-   "last": "2026-11-20T11:53:44.792475+00:00"
+   "last": "2026-11-20T18:20:52.565908+00:00"
   },
   "S9290": {
    "title": "Fantasy basketball pickups to trade for before they heat up",
@@ -16685,14 +16687,16 @@
    "title": "Ford names Zurlinden global motorsport director from 2027",
    "first": "2026-11-20T18:11:13.278257+00:00",
    "sources": {
-    "GPblog": "2026-11-20T17:58:00+00:00"
+    "GPblog": "2026-11-20T17:58:00+00:00",
+    "RacingNews365": "2026-11-20T18:18:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Major changes at Ford: Red Bull partner gets a new boss"
+    "GPblog": "Major changes at Ford: Red Bull partner gets a new boss",
+    "RacingNews365": "Ford Racing announces major leadership change ahead of historic programme"
    },
-   "last": "2026-11-20T18:11:13.278261+00:00"
+   "last": "2026-11-20T18:20:52.565919+00:00"
   },
   "S9366": {
    "title": "Marquez and Martin reach Q2 in Portugal MotoGP",
@@ -16810,9 +16814,22 @@
     "ESPN F1": "Shohei Ohtani extends deal with New Balance for remainder of playing career"
    },
    "last": "2026-11-20T18:15:42.425942+00:00"
+  },
+  "S9375": {
+   "title": "Vesti sees F1 opportunities as veteran drivers near exit",
+   "first": "2026-11-20T18:20:52.565931+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T18:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes talent Vesti sees F1 opportunities as veteran drivers near exit"
+   },
+   "last": "2026-11-20T18:20:52.565936+00:00"
   }
  },
- "story_seq": 9374,
+ "story_seq": 9375,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16931,7 +16948,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T18:15:41.198897+00:00",
+ "last_run": "2026-11-20T18:20:47.031192+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
@@ -18461,6 +18478,16 @@
    "t": "2026-11-20T18:11:38.127268+00:00",
    "title": "Haas: Bearman ile yeni sözleşme sadece bir formalite",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-20T18:20:58.678088+00:00",
+   "title": "Herta, Cadillac F1 kararının ardından yeni bir yön belirledi",
+   "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-20T18:20:59.257854+00:00",
+   "title": "Vesti, Mercedes'teki rolünün ileride başka bir F1 koltuğu kazandıracağına inanıyor",
+   "source": "GPblog"
   }
  ]
 }
