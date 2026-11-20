@@ -6705,7 +6705,10 @@
   "6967e2942a3d0c69": "2026-11-20T03:32:33.094852+00:00",
   "68cb29cd5a30235b": "2026-11-20T03:37:34.187538+00:00",
   "2f4ff88b7bcd5022": "2026-11-20T03:37:34.187538+00:00",
-  "a6cf57e3175414ef": "2026-11-20T03:42:33.521142+00:00"
+  "a6cf57e3175414ef": "2026-11-20T03:42:33.521142+00:00",
+  "2336eef861e96d46": "2026-11-20T03:47:31.139621+00:00",
+  "6fd0e06a0c4c7385": "2026-11-20T03:47:31.139621+00:00",
+  "1919e8f196863feb": "2026-11-20T03:47:31.139621+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15553,7 +15556,8 @@
     "Formula 1": "2026-11-20T00:06:57.152298+00:00",
     "RacingNews365": "2026-11-20T00:00:00+00:00",
     "Autosport": "2026-11-20T00:24:50+00:00",
-    "GPblog": "2026-11-20T02:20:00+00:00"
+    "GPblog": "2026-11-20T02:20:00+00:00",
+    "Crash.net": "2026-11-20T03:43:31+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15562,9 +15566,10 @@
     "Formula 1": "Formula 1 and Nike join forces in long-term partnership",
     "RacingNews365": "F1 announces key partnership as global giant ends 20-year absence",
     "Autosport": "Nike joins F1 as apparel partner",
-    "GPblog": "Formula 1 announce huge long-term deal with global sporting giant"
+    "GPblog": "Formula 1 announce huge long-term deal with global sporting giant",
+    "Crash.net": "Nike returns to F1 after 24 years as official apparel partner"
    },
-   "last": "2026-11-20T02:22:35.206328+00:00"
+   "last": "2026-11-20T03:47:35.351189+00:00"
   },
   "S9079": {
    "title": "Deborah Ogayemi and-1 basketball play",
@@ -16277,7 +16282,8 @@
     "RacingNews365": "2026-11-20T03:00:00+00:00",
     "RacingNews365 NL": "2026-11-20T03:00:00+00:00",
     "GPblog": "2026-11-20T03:00:00+00:00",
-    "FormulaPassion": "2026-11-20T03:00:00+00:00"
+    "FormulaPassion": "2026-11-20T03:00:00+00:00",
+    "PlanetF1": "2026-11-20T03:42:35+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16285,9 +16291,10 @@
     "RacingNews365": "LIVE: 2026 F1 Las Vegas Grand Prix - Free Practice 2",
     "RacingNews365 NL": "Live tweede vrije training F1 GP Las Vegas 2026",
     "GPblog": "LIVE F1 | Las Vegas GP FP2 awaits after unprecedented FP1 washout",
-    "FormulaPassion": "F1 GP Las Vegas 2026, FP2: c’è attesa per simulazioni qualifica e gara, si riparte alle 5.00 – DIRETTA"
+    "FormulaPassion": "F1 GP Las Vegas 2026, FP2: c’è attesa per simulazioni qualifica e gara, si riparte alle 5.00 – DIRETTA",
+    "PlanetF1": "Las Vegas Grand Prix 2026: Live updates from FP2"
    },
-   "last": "2026-11-20T03:37:36.749173+00:00"
+   "last": "2026-11-20T03:47:35.351183+00:00"
   },
   "S9132": {
    "title": "Jonathan Kuminga dunks with a massive stuff at the rim",
@@ -16457,9 +16464,22 @@
     "ESPN F1": "Talia Maxwell gets the and-1"
    },
    "last": "2026-11-20T03:37:36.749165+00:00"
+  },
+  "S9145": {
+   "title": "Mercedes junior Luna Fluxa Cross on F1 Academy Las Vegas debut",
+   "first": "2026-11-20T03:47:35.351158+00:00",
+   "sources": {
+    "Formula 1": "2026-11-20T03:47:35.351173+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Mercedes’ first female junior Fluxa Cross on her F1 ACADEMY debut"
+   },
+   "last": "2026-11-20T03:47:35.351176+00:00"
   }
  },
- "story_seq": 9144,
+ "story_seq": 9145,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16578,7 +16598,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T03:42:33.521142+00:00",
+ "last_run": "2026-11-20T03:47:31.139621+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
@@ -18007,6 +18027,16 @@
   {
    "t": "2026-11-20T03:27:37.800474+00:00",
    "title": "F1 ACADEMY Las Vegas finalinde izlenecek önemli konular",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-20T03:47:39.528170+00:00",
+   "title": "Nike, 24 yıl aradan sonra F1'e resmi giyim partneri olarak dönüyor",
+   "source": "Crash.net"
+  },
+  {
+   "t": "2026-11-20T03:47:39.872322+00:00",
+   "title": "Mercedes'in ilk kadın junior pilotu Luna Fluxa Cross, F1 ACADEMY'de debutuna hazırlanıyor",
    "source": "Formula 1"
   }
  ]
