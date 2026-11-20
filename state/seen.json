@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8ecec9596b471ba9": "2026-11-06T12:18:53.417042+00:00",
-  "97698783ce014267": "2026-11-06T12:18:53.417042+00:00",
   "a24da851c4852a28": "2026-11-06T12:23:57.395561+00:00",
   "57c844e13202ff01": "2026-11-06T12:28:53.464270+00:00",
   "ea6af87808944859": "2026-11-06T12:33:55.950766+00:00",
@@ -6788,7 +6786,9 @@
   "56216c5ad8269f71": "2026-11-20T12:13:43.075623+00:00",
   "5ed93498b02e62b4": "2026-11-20T12:18:40.260326+00:00",
   "c0eed9cfe4e63cac": "2026-11-20T12:18:40.260326+00:00",
-  "689b4169e7c55be1": "2026-11-20T12:18:40.260326+00:00"
+  "689b4169e7c55be1": "2026-11-20T12:18:40.260326+00:00",
+  "29b9df13b7c14204": "2026-11-20T12:23:46.961500+00:00",
+  "0a79354e929d94f3": "2026-11-20T12:23:46.961500+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15392,7 +15392,8 @@
     "Motorsport.com Italia": "2026-11-20T06:07:27+00:00",
     "PlanetF1": "2026-11-20T08:01:56+00:00",
     "FormulaPassion": "2026-11-20T08:34:13+00:00",
-    "GPblog": "2026-11-20T11:45:00+00:00"
+    "GPblog": "2026-11-20T11:45:00+00:00",
+    "RacingNews365 NL": "2026-11-20T12:20:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15402,9 +15403,10 @@
     "Motorsport.com Italia": "F1 | Cadillac cambia i piani: motori Ferrari fino al 2029, il V8 americano debutterà nel 2030",
     "PlanetF1": "Cadillac delays F1 engine debut as GM prepares for 2030 V8 switch",
     "FormulaPassion": "Cadillac modifica i propri progetti: motori Ferrari fino al 2029",
-    "GPblog": "V8 agreement prompts Cadillac to make drastic changes to its F1 plans"
+    "GPblog": "V8 agreement prompts Cadillac to make drastic changes to its F1 plans",
+    "RacingNews365 NL": "Cadillac F1 gooit eigen V6-motor in de prullenbak"
    },
-   "last": "2026-11-20T11:48:46.253574+00:00"
+   "last": "2026-11-20T12:23:49.421450+00:00"
   },
   "S9150": {
    "title": "Ferrari simplifies bargeboard for Las Vegas to cut downforce",
@@ -17386,9 +17388,22 @@
     "GPblog": "Mercedes Faces Major Headaches Over V8 Introduction"
    },
    "last": "2026-11-20T12:18:42.793682+00:00"
+  },
+  "S9295": {
+   "title": "Hamilton plays GTA VI after training session",
+   "first": "2026-11-20T12:23:49.421460+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-20T12:19:04+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "\"Bin wie ein großes Kind\": Lewis Hamilton zockt nach dem Training GTA VI - Motorsport-Total.com"
+   },
+   "last": "2026-11-20T12:23:49.421464+00:00"
   }
  },
- "story_seq": 9294,
+ "story_seq": 9295,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17507,7 +17522,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T12:18:40.260326+00:00",
+ "last_run": "2026-11-20T12:23:46.961500+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
