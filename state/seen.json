@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2112ddc68abda3db": "2026-11-06T06:08:12.703915+00:00",
-  "ca32ce86386f1112": "2026-11-06T06:08:12.703915+00:00",
-  "e22c7c257dc43a48": "2026-11-06T06:08:12.703915+00:00",
-  "bb5ccd8d058a0b09": "2026-11-06T06:08:12.703915+00:00",
   "6e5cb2d17752864a": "2026-11-06T06:18:14.111529+00:00",
   "7641975f2947e286": "2026-11-06T06:18:14.111529+00:00",
   "28f4feab218df811": "2026-11-06T06:28:12.941270+00:00",
@@ -6761,7 +6757,15 @@
   "7a9abc74a80ed529": "2026-11-20T06:07:31.161079+00:00",
   "c92ca7c93ab482dd": "2026-11-20T06:07:31.161079+00:00",
   "332eb5b71f601497": "2026-11-20T06:07:31.161079+00:00",
-  "e004f8b80d86e4bc": "2026-11-20T06:07:31.161079+00:00"
+  "e004f8b80d86e4bc": "2026-11-20T06:07:31.161079+00:00",
+  "dcf961648beaeacf": "2026-11-20T06:12:34.081403+00:00",
+  "646bfd2ccf7d8546": "2026-11-20T06:12:34.081403+00:00",
+  "55b4abda4ea12efc": "2026-11-20T06:12:34.081403+00:00",
+  "e0b10229057e2569": "2026-11-20T06:12:34.081403+00:00",
+  "eb9434fd35f7b5fd": "2026-11-20T06:12:34.081403+00:00",
+  "d1c155a10f61ed4b": "2026-11-20T06:12:34.081403+00:00",
+  "229982cbad31c312": "2026-11-20T06:12:34.081403+00:00",
+  "7d32a099f69aab22": "2026-11-20T06:12:34.081403+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16106,15 +16110,17 @@
    "first": "2026-11-20T04:07:42.576139+00:00",
    "sources": {
     "Autosport": "2026-11-20T04:01:54+00:00",
-    "Motorsport-Total": "2026-11-20T04:59:28+00:00"
+    "Motorsport-Total": "2026-11-20T04:59:28+00:00",
+    "Motorsport.com Italia": "2026-11-20T06:07:27+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push",
-    "Motorsport-Total": "Auf 2030: General Motors verschiebt eigenen Formel-1-Motor! - Motorsport-Total.com"
+    "Motorsport-Total": "Auf 2030: General Motors verschiebt eigenen Formel-1-Motor! - Motorsport-Total.com",
+    "Motorsport.com Italia": "F1 | Cadillac cambia i piani: motori Ferrari fino al 2029, il V8 americano debutterà nel 2030"
    },
-   "last": "2026-11-20T05:02:40.832679+00:00"
+   "last": "2026-11-20T06:12:40.692986+00:00"
   },
   "S9150": {
    "title": "Ferrari simplifies bargeboard for Las Vegas to cut downforce",
@@ -16357,7 +16363,7 @@
     "Autosport": "2026-11-20T05:15:28+00:00",
     "Motorsport.com Italia": "2026-11-20T05:16:02+00:00",
     "Formula 1": "2026-11-20T05:22:40.067555+00:00",
-    "ESPN F1": "2026-11-20T05:15:01+00:00",
+    "ESPN F1": "2026-11-20T05:07:00+00:00",
     "Motorsport Week": "2026-11-20T05:08:27+00:00",
     "Motorsport-Total": "2026-11-20T05:16:00+00:00",
     "AS": "2026-11-20T05:21:14+00:00",
@@ -16384,20 +16390,22 @@
     "Gazzetta dello Sport": "Las Vegas, libere piovose: alla fine sbuca Russell. Ferrari terza con Leclerc, Antonelli 8°",
     "Sky Sports F1": "Russell fastest as rain limits running in Las Vegas GP practice"
    },
-   "last": "2026-11-20T05:47:33.881202+00:00"
+   "last": "2026-11-20T06:12:40.692946+00:00"
   },
   "S9168": {
    "title": "Verstappen limited to P13 in Vegas FP2 by radio problems",
    "first": "2026-11-20T05:07:39.665180+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-20T05:05:00+00:00"
+    "RacingNews365 NL": "2026-11-20T05:05:00+00:00",
+    "FormulaPassion": "2026-11-20T05:52:53+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Verstappen nauwelijks in actie in tweede training las vegas"
+    "RacingNews365 NL": "Verstappen nauwelijks in actie in tweede training las vegas",
+    "FormulaPassion": "Verstappen spazientito via radio: “Questa macchina non va bene! Ci sono gli stessi problemi del Brasile”"
    },
-   "last": "2026-11-20T05:07:39.665185+00:00"
+   "last": "2026-11-20T06:12:40.692996+00:00"
   },
   "S9169": {
    "title": "Seattle vs Salt Lake live score listing (MLS, not F1)",
@@ -16595,9 +16603,74 @@
     "PlanetF1": "Lewis Hamilton delivers fresh update on Ferrari contract situation"
    },
    "last": "2026-11-20T06:07:36.373876+00:00"
+  },
+  "S9184": {
+   "title": "Houston vs. Kansas live score listing (NCAA basketball)",
+   "first": "2026-11-20T06:12:40.692956+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T04:23:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Houston vs. Kansas (Nov 19, 2026) Live Score"
+   },
+   "last": "2026-11-20T06:12:40.692962+00:00"
+  },
+  "S9185": {
+   "title": "Grizzlies 126-98 Warriors NBA game recap",
+   "first": "2026-11-20T06:12:40.692966+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T04:03:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Grizzlies 126-98 Warriors (Nov 19, 2026) Game Recap"
+   },
+   "last": "2026-11-20T06:12:40.692970+00:00"
+  },
+  "S9186": {
+   "title": "Knicks 102-99 Timberwolves NBA game recap",
+   "first": "2026-11-20T06:12:40.692973+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:57:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Knicks 102-99 Timberwolves (Nov 19, 2026) Game Recap"
+   },
+   "last": "2026-11-20T06:12:40.692976+00:00"
+  },
+  "S9187": {
+   "title": "Toledo 83-76 Robert Morris college basketball final score",
+   "first": "2026-11-20T06:12:40.692978+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T00:40:14+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Toledo 83-76 Robert Morris (Nov 19, 2026) Final Score"
+   },
+   "last": "2026-11-20T06:12:40.692982+00:00"
+  },
+  "S9188": {
+   "title": "Ferrari hopes Mexico effect helps in wet Las Vegas conditions",
+   "first": "2026-11-20T06:12:40.692989+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-20T06:06:10+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Las Vegas, primi indizi sul bagnato: Ferrari spera nell’effetto Messico"
+   },
+   "last": "2026-11-20T06:12:40.692992+00:00"
   }
  },
- "story_seq": 9183,
+ "story_seq": 9188,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16716,42 +16789,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T06:07:31.161079+00:00",
+ "last_run": "2026-11-20T06:12:34.081403+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
  "last_digest_at": "2026-11-19T20:53:02.128431+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T06:09:44.636775+00:00",
-   "title": "McLaren patronu Brown, Djokovic'ten aldığı tavsiyeyi açıkladı",
-   "source": "Sky Sports F1"
-  },
-  {
-   "t": "2026-11-17T06:09:45.179014+00:00",
-   "title": "Stella, Lando Norris'i \"usta\" olarak övdü: \"Griddeki en iyi pilotlardan biri\"",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-17T06:09:45.734761+00:00",
-   "title": "Ecclestone: Hamilton sürekli şikayet ediyor, Antonelli için Ferrari 50 yaşında",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-17T06:09:46.293574+00:00",
-   "title": "Ferrari'nin şampiyonluk özlemi sürüyor: unvanlar kaçmasının nedenleri",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-17T06:09:46.835491+00:00",
-   "title": "Patrese: Russell 2026'da şanssızdı, küçük detaylar pilotun kafasında fark yaratıyor",
-   "source": "FormulaPassion"
-  },
-  {
-   "t": "2026-11-17T06:09:47.390129+00:00",
-   "title": "Antonelli: 2027 regülasyonları sıfırdan başlamak gibi olacak",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-17T06:29:39.572015+00:00",
    "title": "Ferrari'ye 'büyük bir dezavantaj' uyarısı: Hamilton ile Leclerc gerilimi",
@@ -18221,6 +18264,11 @@
    "t": "2026-11-20T06:07:42.602688+00:00",
    "title": "Hadjar, Red Bull'daki 'sorunları' açıkladı",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-20T06:12:45.200103+00:00",
+   "title": "Cadillac planını değiştirdi: Ferrari motorları 2029'a kadar, V8 2030'da",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
