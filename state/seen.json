@@ -6794,7 +6794,8 @@
   "b7cb2a72e5bade0c": "2026-11-20T11:19:07.205338+00:00",
   "82928461d8f83cf2": "2026-11-20T11:19:07.205338+00:00",
   "f73125349e260728": "2026-11-20T11:19:07.205338+00:00",
-  "215b87b5824fae99": "2026-11-20T11:19:07.205338+00:00"
+  "215b87b5824fae99": "2026-11-20T11:19:07.205338+00:00",
+  "0b2068473e218e29": "2026-11-20T11:23:40.780002+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17228,9 +17229,22 @@
     "GPblog": "Hamilton admits Ferrari go into Las Vegas FP3 almost completely blind"
    },
    "last": "2026-11-20T11:19:19.914178+00:00"
+  },
+  "S9283": {
+   "title": "Drivers say Las Vegas track felt icy at 100 km/h",
+   "first": "2026-11-20T11:23:42.726720+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-20T11:17:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Beängstigend bei 100 km/h: Fahrer über Las-Vegas-Eisbahn \"wirklich schockiert\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-20T11:23:42.726741+00:00"
   }
  },
- "story_seq": 9282,
+ "story_seq": 9283,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17349,17 +17363,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T11:19:07.205338+00:00",
+ "last_run": "2026-11-20T11:23:40.780002+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
  "last_digest_at": "2026-11-19T20:53:02.128431+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T11:20:23.033903+00:00",
-   "title": "Piastri'de düşüş: Sezon boyunca galibiyet yok",
-   "source": "FormulaPassion"
-  },
   {
    "t": "2026-11-17T11:30:19.390936+00:00",
    "title": "Vasseur'e Ferrari'de 'tamamen yetersiz' eleştirisi",
@@ -18914,6 +18923,11 @@
    "t": "2026-11-20T11:19:27.536865+00:00",
    "title": "Las Vegas'ta takımların Perşembe günkü açıklamaları",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-20T11:23:45.764264+00:00",
+   "title": "Las Vegas buz pistinde 100 km/s hızda pilotlar \"gerçekten şoke oldu\"",
+   "source": "Motorsport-Total"
   }
  ]
 }
