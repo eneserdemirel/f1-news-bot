@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "39a1b139b33a27e4": "2026-11-06T03:18:14.010618+00:00",
-  "48cc6c7411982044": "2026-11-06T03:18:14.010618+00:00",
-  "7b772966c9b18453": "2026-11-06T03:18:14.010618+00:00",
   "1f57235fdef1a97a": "2026-11-06T03:28:12.025126+00:00",
   "441d0151c241a4a2": "2026-11-06T03:28:12.025126+00:00",
   "6046d07ac1b23b14": "2026-11-06T03:48:19.166483+00:00",
@@ -6698,7 +6695,12 @@
   "57c35865c78dd1b6": "2026-11-20T03:02:34.196970+00:00",
   "0fd4b961b0a0eef2": "2026-11-20T03:07:31.946605+00:00",
   "d5b4b242db444e8d": "2026-11-20T03:12:33.106528+00:00",
-  "01564a0d88606a94": "2026-11-20T03:17:31.651027+00:00"
+  "01564a0d88606a94": "2026-11-20T03:17:31.651027+00:00",
+  "ce0b2c7e5cdbbbaf": "2026-11-20T03:22:34.602927+00:00",
+  "7a3f8148cf3e376b": "2026-11-20T03:22:34.602927+00:00",
+  "7edbb01464e5d4e9": "2026-11-20T03:22:34.602927+00:00",
+  "ee61445d414dd6fa": "2026-11-20T03:22:34.602927+00:00",
+  "53ab131677b7c6fe": "2026-11-20T03:22:34.602927+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6811,19 +6813,6 @@
     "ESPN F1": "Wake Forest surges into CFP top 12; top 4 unchanged while Texas jumps Notre Dame"
    },
    "last": "2026-11-18T04:22:05.690421+00:00"
-  },
-  "S8428": {
-   "title": "Connor McDavid extends season-opening points streak to 23 games",
-   "first": "2026-11-18T03:22:04.694545+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T03:13:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Oilers' Connor McDavid runs season-opening points streak to 23 games"
-   },
-   "last": "2026-11-18T03:22:04.694566+00:00"
   },
   "S8429": {
    "title": "Bryant Bulldogs vs. UMass Minutemen game highlights",
@@ -16420,9 +16409,74 @@
     "ESPN F1": "Source: Mets reach 3-year, $12 million deal with Darwinzon Hernandez"
    },
    "last": "2026-11-20T03:17:32.855477+00:00"
+  },
+  "S9135": {
+   "title": "Jets 4-3 Islanders game recap",
+   "first": "2026-11-20T03:22:37.258708+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:19:48+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Jets 4-3 Islanders (20 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-20T03:22:37.258725+00:00"
+  },
+  "S9136": {
+   "title": "Aidan Reilly scores goal for Stanford",
+   "first": "2026-11-20T03:22:37.258730+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:17:24+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Aidan Reilly scores goal for Stanford"
+   },
+   "last": "2026-11-20T03:22:37.258734+00:00"
+  },
+  "S9137": {
+   "title": "New Mexico State vs. Arizona game highlights",
+   "first": "2026-11-20T03:22:37.258737+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:11:26+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "New Mexico State Aggies vs. Arizona Wildcats: Game Highlights"
+   },
+   "last": "2026-11-20T03:22:37.258741+00:00"
+  },
+  "S9138": {
+   "title": "Stars vs. Golden Knights live score listing",
+   "first": "2026-11-20T03:22:37.258744+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T03:07:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Stars vs. Golden Knights (Nov 19, 2026) Live Score"
+   },
+   "last": "2026-11-20T03:22:37.258747+00:00"
+  },
+  "S9139": {
+   "title": "Canucks vs. Kraken live score listing",
+   "first": "2026-11-20T03:22:37.258749+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T02:46:39+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Canucks vs. Kraken (Nov 19, 2026) Live Score"
+   },
+   "last": "2026-11-20T03:22:37.258752+00:00"
   }
  },
- "story_seq": 9134,
+ "story_seq": 9139,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16541,7 +16595,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T03:17:31.651027+00:00",
+ "last_run": "2026-11-20T03:22:34.602927+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
