@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c9e704cc842949bc": "2026-11-06T04:18:12.362173+00:00",
-  "05ccda41c73a4f5e": "2026-11-06T04:18:12.362173+00:00",
   "fba1d1261a5e4236": "2026-11-06T04:28:17.307513+00:00",
   "7533b16ae8f10898": "2026-11-06T04:58:13.570790+00:00",
   "5a3aa53f82a14d78": "2026-11-06T04:58:13.570790+00:00",
@@ -6710,7 +6708,8 @@
   "dfb4d85246cc80fc": "2026-11-20T04:12:31.306955+00:00",
   "85e2338a200e139c": "2026-11-20T04:17:35.415405+00:00",
   "7be343b700ddc260": "2026-11-20T04:17:35.415405+00:00",
-  "f2ff638c405826ba": "2026-11-20T04:17:35.415405+00:00"
+  "f2ff638c405826ba": "2026-11-20T04:17:35.415405+00:00",
+  "d5a0ad5fca43b3ff": "2026-11-20T04:22:30.575993+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6798,19 +6797,6 @@
    },
    "last": "2026-11-18T14:24:57.510017+00:00"
   },
-  "S8425": {
-   "title": "CFP committee's third ranking: Wake Forest rises, Texas passes Notre Dame",
-   "first": "2026-11-18T03:12:05.231979+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T02:45:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Wake Forest surges into CFP top 12; top 4 unchanged while Texas jumps Notre Dame"
-   },
-   "last": "2026-11-18T04:22:05.690421+00:00"
-  },
   "S8437": {
    "title": "Blackhawks' Connor Bedard exits with apparent shoulder injury",
    "first": "2026-11-18T04:02:09.872433+00:00",
@@ -6823,84 +6809,6 @@
     "ESPN F1": "Blackhawks' Connor Bedard exits with apparent shoulder injury, set for testing"
    },
    "last": "2026-11-18T05:02:04.092798+00:00"
-  },
-  "S8438": {
-   "title": "Deni Avdija out vs. Timberwolves with sore foot",
-   "first": "2026-11-18T04:22:05.690433+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T00:55:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Trail Blazers rule star Deni Avdija out vs. Timberwolves with sore foot"
-   },
-   "last": "2026-11-18T04:22:05.690440+00:00"
-  },
-  "S8439": {
-   "title": "Caleb Williams moves on from four-interception game",
-   "first": "2026-11-18T04:22:05.690445+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T00:52:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers"
-   },
-   "last": "2026-11-18T04:22:05.690451+00:00"
-  },
-  "S8440": {
-   "title": "Portugal move on from Ronaldo with new No. 7 goal",
-   "first": "2026-11-18T04:22:05.690454+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T00:41:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "CF7: Portugal move on from Ronaldo with 'special' goal from new No. 7 Forbs"
-   },
-   "last": "2026-11-18T04:22:05.690459+00:00"
-  },
-  "S8441": {
-   "title": "Miami Heat unveil 'A Night in Vice City' court",
-   "first": "2026-11-18T04:22:05.690462+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T00:19:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Miami Heat unveil 'A Night in Vice City' court, activities ahead of GTA VI release"
-   },
-   "last": "2026-11-18T04:22:05.690466+00:00"
-  },
-  "S8442": {
-   "title": "Arkansas State fires Butch Jones, names interim coach",
-   "first": "2026-11-18T04:22:05.690469+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T22:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Arkansas State fires Butch Jones, names Jalen Ortiz interim coach"
-   },
-   "last": "2026-11-18T04:22:05.690473+00:00"
-  },
-  "S8443": {
-   "title": "NBA buzz: latest trades, news, roster moves and intel",
-   "first": "2026-11-18T04:22:05.690476+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-17T22:27:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "NBA buzz: Latest on trades, news, roster moves and intel"
-   },
-   "last": "2026-11-18T04:22:05.690479+00:00"
   },
   "S8444": {
    "title": "Illinois' historic rout of Duke by the numbers",
@@ -16589,9 +16497,22 @@
     "ESPN F1": "Canadiens 2-1 Hurricanes (Nov 19, 2026) Game Recap"
    },
    "last": "2026-11-20T04:17:39.401257+00:00"
+  },
+  "S9156": {
+   "title": "North Alabama 74-67 Tusculum basketball final score",
+   "first": "2026-11-20T04:22:31.797640+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T01:17:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "North Alabama 74-67 Tusculum (Nov 19, 2026) Final Score"
+   },
+   "last": "2026-11-20T04:22:31.797658+00:00"
   }
  },
- "story_seq": 9155,
+ "story_seq": 9156,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16710,7 +16631,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T04:17:35.415405+00:00",
+ "last_run": "2026-11-20T04:22:30.575993+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
