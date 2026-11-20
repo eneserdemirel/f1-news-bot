@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a55fe62395d697dd": "2026-11-06T10:48:53.665263+00:00",
-  "d3a4395b0dd95cc8": "2026-11-06T10:48:53.665263+00:00",
-  "983d539797e8068a": "2026-11-06T10:48:53.665263+00:00",
   "4717f0f077c432bf": "2026-11-06T10:53:57.534484+00:00",
   "9882d72e5c37bc48": "2026-11-06T10:53:57.534484+00:00",
   "d1b0ad9214fe65ee": "2026-11-06T10:58:55.672020+00:00",
@@ -6787,7 +6784,10 @@
   "ba25d9dd7068e0a9": "2026-11-20T10:38:43.068695+00:00",
   "4cd4bd6a0b144f6f": "2026-11-20T10:43:44.439003+00:00",
   "b30e48ac2dcafe99": "2026-11-20T10:48:41.860255+00:00",
-  "892ee8491b1a1b21": "2026-11-20T10:48:41.860255+00:00"
+  "892ee8491b1a1b21": "2026-11-20T10:48:41.860255+00:00",
+  "fc37267e0b1071d8": "2026-11-20T10:53:39.150761+00:00",
+  "2d1eaba764f6fa1b": "2026-11-20T10:53:39.150761+00:00",
+  "85564209859970cf": "2026-11-20T10:53:39.150761+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7025,21 +7025,6 @@
    },
    "last": "2026-11-18T14:24:57.510102+00:00"
   },
-  "S8530": {
-   "title": "Why the Las Vegas Grand Prix is held on a Saturday",
-   "first": "2026-11-18T10:32:51.909118+00:00",
-   "sources": {
-    "RacingNews365": "2026-11-18T10:30:00+00:00",
-    "RacingNews365 NL": "2026-11-18T10:45:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "RacingNews365": "Why the Las Vegas Grand Prix is held on a Saturday",
-    "RacingNews365 NL": "Waarom de Formule 1 GP van Las Vegas op zaterdag verreden wordt"
-   },
-   "last": "2026-11-18T10:52:52.798719+00:00"
-  },
   "S8531": {
    "title": "Social posts on F1's V8 2030 engine reveal deleted",
    "first": "2026-11-18T10:42:54.548775+00:00",
@@ -7056,32 +7041,6 @@
     "Motorsport-Total": "F1-Motoren 2030: Was hinter der verfrühten V8-Ankündigung steckt - Motorsport-Total.com"
    },
    "last": "2026-11-19T02:12:08.447613+00:00"
-  },
-  "S8533": {
-   "title": "South American Esports Championship held in Colombia",
-   "first": "2026-11-18T10:52:52.798681+00:00",
-   "sources": {
-    "FIA": "2026-11-18T10:37:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "FIA": "2026 South American Esports Championship Held in Colombia"
-   },
-   "last": "2026-11-18T10:52:52.798700+00:00"
-  },
-  "S8534": {
-   "title": "Pochettino gets USMNT send-off before Man United job",
-   "first": "2026-11-18T10:52:52.798707+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-18T05:44:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "USMNT's Mauricio Pochettino gets a fitting send-off before Man United job"
-   },
-   "last": "2026-11-18T10:52:52.798712+00:00"
   },
   "S8535": {
    "title": "Verstappen says he does not need Antonelli's success to be motivated",
@@ -16676,15 +16635,17 @@
    "first": "2026-11-20T09:39:30.481566+00:00",
    "sources": {
     "Autosport": "2026-11-20T08:21:11+00:00",
-    "RacingNews365 NL": "2026-11-20T10:20:00+00:00"
+    "RacingNews365 NL": "2026-11-20T10:20:00+00:00",
+    "RacingNews365": "2026-11-20T10:50:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Pirelli reintroduces stint limit for F1 Qatar GP",
-    "RacingNews365 NL": "Pirelli legt F1-teams opnieuw limiet op voor GP Qatar"
+    "RacingNews365 NL": "Pirelli legt F1-teams opnieuw limiet op voor GP Qatar",
+    "RacingNews365": "F1 to re-introduce major Qatar Grand Prix rule over persistent fears"
    },
-   "last": "2026-11-20T10:23:43.528691+00:00"
+   "last": "2026-11-20T10:53:42.494395+00:00"
   },
   "S9236": {
    "title": "Ferrari Challenge Barcelona race 1 winners",
@@ -17166,9 +17127,35 @@
     "Crash.net": "Liam Lawson mocks reality star after claiming he could beat F1 driver in a race"
    },
    "last": "2026-11-20T10:38:45.757650+00:00"
+  },
+  "S9273": {
+   "title": "Player banned eight years for throwing stone at referee",
+   "first": "2026-11-20T10:53:42.494366+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T09:50:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Player banned for eight years for throwing stone at referee"
+   },
+   "last": "2026-11-20T10:53:42.494381+00:00"
+  },
+  "S9274": {
+   "title": "Houston beats Kansas to cap three-day run, claims No. 1 ranking",
+   "first": "2026-11-20T10:53:42.494386+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T07:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Houston muscles past Kansas to cap 3-day run, stamps claim to No. 1 ranking"
+   },
+   "last": "2026-11-20T10:53:42.494390+00:00"
   }
  },
- "story_seq": 9272,
+ "story_seq": 9274,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17287,17 +17274,12 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T10:48:41.860255+00:00",
+ "last_run": "2026-11-20T10:53:39.150761+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-19 22:00",
  "last_digest_at": "2026-11-19T20:53:02.128431+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-17T10:50:20.740414+00:00",
-   "title": "FIA, Las Vegas Grand Prix öncesi Straight Mode bölge sayısını açıkladı",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-17T11:10:23.535377+00:00",
    "title": "Ecclestone: Ferrari şampiyonluğu kazanmalıydı, takımda çok fazla İtalyan var",
