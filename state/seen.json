@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "77cf14d15d816eae": "2026-11-06T12:13:57.601729+00:00",
-  "901169954a0ad8fe": "2026-11-06T12:13:57.601729+00:00",
   "8ecec9596b471ba9": "2026-11-06T12:18:53.417042+00:00",
   "97698783ce014267": "2026-11-06T12:18:53.417042+00:00",
   "a24da851c4852a28": "2026-11-06T12:23:57.395561+00:00",
@@ -6787,7 +6785,10 @@
   "8d9d4d67f89d4bb8": "2026-11-20T11:58:41.932087+00:00",
   "c6e28c728acc488f": "2026-11-20T11:58:41.932087+00:00",
   "a8f51c3867410e32": "2026-11-20T11:58:41.932087+00:00",
-  "56216c5ad8269f71": "2026-11-20T12:13:43.075623+00:00"
+  "56216c5ad8269f71": "2026-11-20T12:13:43.075623+00:00",
+  "5ed93498b02e62b4": "2026-11-20T12:18:40.260326+00:00",
+  "c0eed9cfe4e63cac": "2026-11-20T12:18:40.260326+00:00",
+  "689b4169e7c55be1": "2026-11-20T12:18:40.260326+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15808,16 +15809,18 @@
    "sources": {
     "RacingNews365": "2026-11-20T05:50:00+00:00",
     "Crash.net": "2026-11-20T06:05:18+00:00",
-    "AS": "2026-11-20T06:24:03+00:00"
+    "AS": "2026-11-20T06:24:03+00:00",
+    "Motorsport Week": "2026-11-20T12:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "F1 team bosses react as V8 engine return 'agreement' is reached",
     "Crash.net": "F1 teams confirm “agreement in principle” on V8 return after deleted FIA posts cause confusion",
-    "AS": "“Hay acuerdo con los V8″"
+    "AS": "“Hay acuerdo con los V8″",
+    "Motorsport Week": "FIA confusion surrounding V8 return cleared up with ‘agreement in principle’"
    },
-   "last": "2026-11-20T06:32:36.141136+00:00"
+   "last": "2026-11-20T12:18:42.793675+00:00"
   },
   "S9178": {
    "title": "Kraken 5-1 Canucks NHL game recap",
@@ -17357,9 +17360,35 @@
     "ESPN F1": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye"
    },
    "last": "2026-11-20T11:58:43.652616+00:00"
+  },
+  "S9293": {
+   "title": "F1 X Heineken 2027 Season Ticket winner revealed",
+   "first": "2026-11-20T12:18:42.793647+00:00",
+   "sources": {
+    "Formula 1": "2026-11-20T12:18:42.793664+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Winner of the F1® X Heineken® 2027 Season Ticket revealed"
+   },
+   "last": "2026-11-20T12:18:42.793667+00:00"
+  },
+  "S9294": {
+   "title": "Analysis of Mercedes headaches from 2030 V8 introduction",
+   "first": "2026-11-20T12:18:42.793678+00:00",
+   "sources": {
+    "GPblog": "2026-11-20T12:15:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Mercedes Faces Major Headaches Over V8 Introduction"
+   },
+   "last": "2026-11-20T12:18:42.793682+00:00"
   }
  },
- "story_seq": 9292,
+ "story_seq": 9294,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17478,7 +17507,7 @@
   ]
  ],
  "calendar_updated": "2026-11-19T23:26:43.702986+00:00",
- "last_run": "2026-11-20T12:13:43.075623+00:00",
+ "last_run": "2026-11-20T12:18:40.260326+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 15:00",
