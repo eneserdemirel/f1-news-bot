@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "22b4eba965197286": "2026-11-07T11:49:14.305148+00:00",
-  "71af2e448b307cfa": "2026-11-07T11:49:14.305148+00:00",
   "58a9537e19aca74a": "2026-11-07T11:59:19.681095+00:00",
   "f03b0ce970a23cbd": "2026-11-07T11:59:19.681095+00:00",
   "204c4a5ab212bcf8": "2026-11-07T11:59:19.681095+00:00",
@@ -6888,7 +6886,9 @@
   "ba4c0d2207d5d686": "2026-11-21T11:35:16.641840+00:00",
   "dd4e6b4f0093e4bd": "2026-11-21T11:35:16.641840+00:00",
   "90bb3331f483397f": "2026-11-21T11:45:16.138874+00:00",
-  "8526eb26abfee0dc": "2026-11-21T11:45:16.138874+00:00"
+  "8526eb26abfee0dc": "2026-11-21T11:45:16.138874+00:00",
+  "4ca481d5d4a5c29f": "2026-11-21T11:50:16.188201+00:00",
+  "aaa40ad87b0f6d5c": "2026-11-21T11:50:16.188201+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16308,14 +16308,16 @@
    "title": "Villeneuve criticises Mercedes and Antonelli over qualifying tactics",
    "first": "2026-11-21T07:43:05.395456+00:00",
    "sources": {
-    "Crash.net": "2026-11-21T07:16:15+00:00"
+    "Crash.net": "2026-11-21T07:16:15+00:00",
+    "RacingNews365": "2026-11-21T11:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Crash.net": "Jacques Villeneuve slams Mercedes and ‘nasty’ Kimi Antonelli over Las Vegas qualifying tactics"
+    "Crash.net": "Jacques Villeneuve slams Mercedes and ‘nasty’ Kimi Antonelli over Las Vegas qualifying tactics",
+    "RacingNews365": "Kimi Antonelli scolded for 'nasty' George Russell ploy: 'He will be really upset'"
    },
-   "last": "2026-11-21T07:43:05.395460+00:00"
+   "last": "2026-11-21T11:50:18.997357+00:00"
   },
   "S9540": {
    "title": "Hamilton says floor damage hurt Ferrari in Vegas qualifying",
@@ -17458,9 +17460,22 @@
     "GPblog": "MotoGP Full Qualifying Results | Bezzecchi defeats Marquez to claim pole"
    },
    "last": "2026-11-21T11:45:18.755255+00:00"
+  },
+  "S9624": {
+   "title": "McLaren says plastic bag slowed Norris in Vegas qualifying",
+   "first": "2026-11-21T11:50:18.997367+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-21T11:45:32+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "McLaren klärt auf: Plastiktüte hat Lando Norris im Las-Vegas-Qualifying gebremst - Motorsport-Total.com"
+   },
+   "last": "2026-11-21T11:50:18.997372+00:00"
   }
  },
- "story_seq": 9623,
+ "story_seq": 9624,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17579,7 +17594,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T11:45:16.138874+00:00",
+ "last_run": "2026-11-21T11:50:16.188201+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -19424,6 +19439,11 @@
    "t": "2026-11-21T11:35:24.391155+00:00",
    "title": "Verstappen'in Russell'a orta parmak gösterdiği görüntüler ortaya çıktı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-21T11:50:22.580267+00:00",
+   "title": "McLaren: Plastik poşet Lando Norris'i Las Vegas sıralama turunda yavaşlattı",
+   "source": "Motorsport-Total"
   }
  ]
 }
