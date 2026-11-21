@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "939e51da3ca98bf9": "2026-11-07T16:50:00.404265+00:00",
-  "f4cbcf56c62c08af": "2026-11-07T16:50:00.404265+00:00",
-  "64ce019c0f2e25b8": "2026-11-07T16:50:00.404265+00:00",
-  "5236a5cf2b551266": "2026-11-07T16:50:00.404265+00:00",
   "b1626ea3052e918c": "2026-11-07T16:55:02.859092+00:00",
   "53735c0d58fb91e4": "2026-11-07T16:55:02.859092+00:00",
   "8800fa4b34ea534d": "2026-11-07T16:55:02.859092+00:00",
@@ -6819,7 +6815,11 @@
   "9bd873ae7cd2e035": "2026-11-21T16:43:00.706238+00:00",
   "38bbe1d328f584dc": "2026-11-21T16:43:00.706238+00:00",
   "1440816cb708768b": "2026-11-21T16:43:00.706238+00:00",
-  "3049937c0ecb7907": "2026-11-21T16:48:02.682617+00:00"
+  "3049937c0ecb7907": "2026-11-21T16:48:02.682617+00:00",
+  "1e8d66f7565e1cc1": "2026-11-21T16:53:02.157457+00:00",
+  "f670c5955677f103": "2026-11-21T16:53:02.157457+00:00",
+  "5b536be76eaefc01": "2026-11-21T16:53:02.157457+00:00",
+  "2ed12b53521562a7": "2026-11-21T16:53:02.157457+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7221,19 +7221,6 @@
     "GPblog": "Leclerc revisits Mexico move on Hamilton as he questions 'harsh' penalty"
    },
    "last": "2026-11-19T22:01:57.959457+00:00"
-  },
-  "S8997": {
-   "title": "Mayweather felony charges over $200K check dismissed",
-   "first": "2026-11-19T16:50:40.088128+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T16:31:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Felony charges against Floyd Mayweather Jr. over bad $200K check dismissed"
-   },
-   "last": "2026-11-19T16:50:40.088150+00:00"
   },
   "S8998": {
    "title": "Hadjar says he doesn't feel threatened by Red Bull seat rivals",
@@ -16625,14 +16612,14 @@
    "title": "Mark Davis unhappy with Madden movie portrayal of his father",
    "first": "2026-11-21T15:33:06.428848+00:00",
    "sources": {
-    "ESPN F1": "2026-11-21T15:23:44+00:00"
+    "ESPN F1": "2026-11-21T14:38:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie"
    },
-   "last": "2026-11-21T15:33:06.428883+00:00"
+   "last": "2026-11-21T16:53:04.936615+00:00"
   },
   "S9677": {
    "title": "Galatasaray vs. Aston Villa odds and spread",
@@ -16906,9 +16893,48 @@
     "ESPN F1": "PSG vs. AS Roma (Nov 25, 2026) Odds and Spread"
    },
    "last": "2026-11-21T16:43:02.509552+00:00"
+  },
+  "S9698": {
+   "title": "VAR review of Haaland goal against Fulham",
+   "first": "2026-11-21T16:53:04.936585+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T14:53:51+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "VAR review: Should Haaland's goal vs Fulham have been disallowed?"
+   },
+   "last": "2026-11-21T16:53:04.936606+00:00"
+  },
+  "S9699": {
+   "title": "Florentino Pérez criticises LaLiga president Tebas",
+   "first": "2026-11-21T16:53:04.936619+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T12:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
+   },
+   "last": "2026-11-21T16:53:04.936623+00:00"
+  },
+  "S9700": {
+   "title": "Antonelli responds to Wolff's team orders comments for Russell",
+   "first": "2026-11-21T16:53:04.936626+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-21T16:47:22+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Kimi Antonelli reveals stance on potential George Russell team orders"
+   },
+   "last": "2026-11-21T16:53:04.936630+00:00"
   }
  },
- "story_seq": 9697,
+ "story_seq": 9700,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17027,7 +17053,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T16:48:02.682617+00:00",
+ "last_run": "2026-11-21T16:53:02.157457+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -18812,6 +18838,11 @@
    "t": "2026-11-21T16:33:10.037855+00:00",
    "title": "Ferrari F2004 ile 499P Modificata çarpıştı, Barselona'da kaza",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-21T16:53:08.300837+00:00",
+   "title": "Antonelli, Russell için takım emirlerine uymaya hazır olduğunu söyledi",
+   "source": "PlanetF1"
   }
  ]
 }
