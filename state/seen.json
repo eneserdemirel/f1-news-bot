@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "9f770b7cc3d0f428": "2026-11-07T17:20:01.309592+00:00",
-  "46947e4d97c6e667": "2026-11-07T17:20:01.309592+00:00",
   "df3b3b1b3a64b1a7": "2026-11-07T17:25:01.184201+00:00",
   "4729c5f339061c50": "2026-11-07T17:25:01.184201+00:00",
   "e232b14fb2768444": "2026-11-07T17:30:03.272951+00:00",
@@ -6814,7 +6812,8 @@
   "fcb4f37cc72134c9": "2026-11-21T17:08:04.162809+00:00",
   "b8a4d941b2166c10": "2026-11-21T17:13:03.019406+00:00",
   "fad697b8dd173399": "2026-11-21T17:13:03.019406+00:00",
-  "9940021f368800e1": "2026-11-21T17:18:05.168427+00:00"
+  "9940021f368800e1": "2026-11-21T17:18:05.168427+00:00",
+  "8f0d7e31769f4394": "2026-11-21T17:23:01.651190+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -6862,29 +6861,6 @@
     "GPblog": "Liam Lawson 'grateful' Helmut Marko doesn't call the shots anymore"
    },
    "last": "2026-11-19T20:52:42.662606+00:00"
-  },
-  "S8779": {
-   "title": "Bottas says 2027 Cadillac confirmation gives him peace",
-   "first": "2026-11-19T03:22:06.579752+00:00",
-   "sources": {
-    "Formula 1": "2026-11-19T03:22:06.579767+00:00",
-    "RacingNews365": "2026-11-19T03:45:00+00:00",
-    "PlanetF1": "2026-11-19T06:50:33+00:00",
-    "ESPN F1": "2026-11-19T07:16:00+00:00",
-    "Crash.net": "2026-11-19T10:56:54+00:00",
-    "Motorsport Week": "2026-11-19T17:08:05+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "'We can get rid of the noise' – Bottas after future confirmed",
-    "RacingNews365": "Valtteri Bottas explains Colton Herta 'noise' as Cadillac confirm 2027 F1 driver",
-    "PlanetF1": "Valtteri Bottas makes feelings clear on Colton Herta rumours after Cadillac announcement",
-    "ESPN F1": "Valtteri Bottas to race for Cadillac in 2027 after Colton Herta 'noise'",
-    "Crash.net": "Valtteri Bottas hits out at “unnecessary noise” about Cadillac F1 future",
-    "Motorsport Week": "Valtteri Bottas ends ‘unnecessary’ discussion over Cadillac future"
-   },
-   "last": "2026-11-19T17:20:41.534173+00:00"
   },
   "S8856": {
    "title": "Leclerc reveals details of meeting with Hamilton and Vasseur",
@@ -7028,19 +7004,6 @@
     "RacingNews365": "Kimi Antonelli explains reason to fear Red Bull in Las Vegas 'outlier'"
    },
    "last": "2026-11-19T20:52:42.662570+00:00"
-  },
-  "S8908": {
-   "title": "Cummins acts normal amid cricket chaos",
-   "first": "2026-11-19T12:21:20.242041+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T10:58:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Cummins tries to act like normal amid the chaos"
-   },
-   "last": "2026-11-19T17:20:41.534168+00:00"
   },
   "S8913": {
    "title": "Lego launches F1 Speed Champions 2026 collection",
@@ -16992,9 +16955,22 @@
     "ESPN F1": "Aston Villa 0-0 Sunderland (21 Nov, 2026) Game Analysis"
    },
    "last": "2026-11-21T17:18:06.897747+00:00"
+  },
+  "S9709": {
+   "title": "Chelsea 1-4 Leeds match analysis (football)",
+   "first": "2026-11-21T17:23:03.289988+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T17:21:09+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chelsea 1-4 Leeds (Nov 21, 2026) Game Analysis"
+   },
+   "last": "2026-11-21T17:23:03.290010+00:00"
   }
  },
- "story_seq": 9708,
+ "story_seq": 9709,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17113,7 +17089,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T17:18:05.168427+00:00",
+ "last_run": "2026-11-21T17:23:01.651190+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
