@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7d00f3c1cd3ca633": "2026-11-07T18:39:58.170097+00:00",
-  "fb2d85be513dc510": "2026-11-07T18:39:58.170097+00:00",
   "944963d1d235f8d8": "2026-11-07T18:45:00.866357+00:00",
   "bfd331a120181bba": "2026-11-07T18:50:00.018348+00:00",
   "6361090f486c697a": "2026-11-07T18:50:00.018348+00:00",
@@ -6811,7 +6809,9 @@
   "7d20c18267e71810": "2026-11-21T18:33:02.396608+00:00",
   "1122a38aeb269e9f": "2026-11-21T18:33:02.396608+00:00",
   "bb8f928580b9ebc7": "2026-11-21T18:33:02.396608+00:00",
-  "85c6c3037da22e1b": "2026-11-21T18:38:02.500650+00:00"
+  "85c6c3037da22e1b": "2026-11-21T18:38:02.500650+00:00",
+  "ba62c99dbb00ac2e": "2026-11-21T18:43:00.547624+00:00",
+  "9cfb092d5185b3dc": "2026-11-21T18:43:00.547624+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16414,7 +16414,7 @@
    "titles": {
     "ESPN F1": "Chelsea vs. Leeds (Nov 21, 2026) Team Stats"
    },
-   "last": "2026-11-21T15:13:03.600537+00:00"
+   "last": "2026-11-21T18:43:02.714550+00:00"
   },
   "S9669": {
    "title": "Norris demands urgent McLaren improvements before 2027",
@@ -17247,9 +17247,22 @@
     "RacingNews365": "Oscar Piastri reveals jaw-dropping Kimi Antonelli advantage: 'Perfect example'"
    },
    "last": "2026-11-21T18:38:04.413555+00:00"
+  },
+  "S9733": {
+   "title": "Itoje says Moody gave England extra lift against All Blacks",
+   "first": "2026-11-21T18:43:02.714522+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T18:20:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Maro Itoje: Lewis Moody's presence gave England 'extra lift' in New Zealand win"
+   },
+   "last": "2026-11-21T18:43:02.714542+00:00"
   }
  },
- "story_seq": 9732,
+ "story_seq": 9733,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17368,7 +17381,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T18:38:02.500650+00:00",
+ "last_run": "2026-11-21T18:43:00.547624+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
