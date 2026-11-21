@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0d147f13f3cc23de": "2026-11-07T08:48:45.917394+00:00",
-  "3d3f374aab7ee6be": "2026-11-07T08:48:45.917394+00:00",
-  "dbe1da4ee60df5be": "2026-11-07T08:48:45.917394+00:00",
   "c6ca72b833485c49": "2026-11-07T08:58:47.763611+00:00",
   "96cb8d766c732d58": "2026-11-07T09:18:44.149738+00:00",
   "c17ea5ea615b1a86": "2026-11-07T09:18:44.149738+00:00",
@@ -6824,7 +6821,11 @@
   "86305a8594ac9045": "2026-11-21T08:35:22.295734+00:00",
   "34043ca06998175e": "2026-11-21T08:40:14.276954+00:00",
   "f7846b613cb3f838": "2026-11-21T08:45:14.870885+00:00",
-  "ce773ff7ea50f0f3": "2026-11-21T08:45:14.870885+00:00"
+  "ce773ff7ea50f0f3": "2026-11-21T08:45:14.870885+00:00",
+  "c91f6eedc72eb296": "2026-11-21T08:50:12.282628+00:00",
+  "107ac254c4a37fff": "2026-11-21T08:50:12.282628+00:00",
+  "ed8dece38a8b1252": "2026-11-21T08:50:12.282628+00:00",
+  "45f8b2d57305e55c": "2026-11-21T08:50:12.282628+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15909,16 +15910,18 @@
    "sources": {
     "Sky Sports F1": "2026-11-21T06:45:00+00:00",
     "Motorsport.com Italia": "2026-11-21T05:52:21+00:00",
-    "Corriere dello Sport": "2026-11-21T07:03:54+00:00"
+    "Corriere dello Sport": "2026-11-21T07:03:54+00:00",
+    "Crash.net": "2026-11-21T08:46:11+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "Hamilton 'devastated', Leclerc 'angry' after Ferrari Las Vegas shocker",
     "Motorsport.com Italia": "F1 | Leclerc duro dopo l'eliminazione in Q2: \"Sono incazzato. Oggi non ne abbiamo fatta una giusta\"",
-    "Corriere dello Sport": "Nuovo disastro Ferrari a Las Vegas, Leclerc si infuria: \"Son incaz... non ne abbiamo messa una dritta\""
+    "Corriere dello Sport": "Nuovo disastro Ferrari a Las Vegas, Leclerc si infuria: \"Son incaz... non ne abbiamo messa una dritta\"",
+    "Crash.net": "Charles Leclerc “very angry” as Ferrari's biggest weakness exposed in worst qualifying of F1 2026 at Las Vegas GP"
    },
-   "last": "2026-11-21T07:46:09.648338+00:00"
+   "last": "2026-11-21T08:50:16.459328+00:00"
   },
   "S9517": {
    "title": "Winners and losers from Vegas qualifying",
@@ -16815,7 +16818,7 @@
    "titles": {
     "Gazzetta dello Sport": "Verstappen fa il dito medio a Russell e finisce sotto investigazione: l'analisi"
    },
-   "last": "2026-11-21T08:15:27.258401+00:00"
+   "last": "2026-11-21T08:50:16.459334+00:00"
   },
   "S9580": {
    "title": "Alonso says Honda engine makes rivals keep safety distance",
@@ -16907,9 +16910,35 @@
     "PlanetF1": "FIA confirms double Las Vegas Grand Prix punishment after investigations"
    },
    "last": "2026-11-21T08:45:17.896897+00:00"
+  },
+  "S9587": {
+   "title": "Ghini analysis of Ferrari's Las Vegas gamble and V8 return",
+   "first": "2026-11-21T08:50:16.459294+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-21T08:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | Ghini: \"Nella scommessa di Las Vegas Ferrari senza assi nella manica\""
+   },
+   "last": "2026-11-21T08:50:16.459313+00:00"
+  },
+  "S9588": {
+   "title": "Wolff admits he has no clue how Antonelli set pole lap",
+   "first": "2026-11-21T08:50:16.459318+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-21T08:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Toto Wolff 'has no clue' how Kimi Antonelli was able to pull off impossible F1 lap"
+   },
+   "last": "2026-11-21T08:50:16.459322+00:00"
   }
  },
- "story_seq": 9586,
+ "story_seq": 9588,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17028,7 +17057,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T08:45:14.870885+00:00",
+ "last_run": "2026-11-21T08:50:12.282628+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18873,6 +18902,16 @@
    "t": "2026-11-21T08:45:22.062709+00:00",
    "title": "FIA, Las Vegas GP'de Racing Bulls ve Albon'a verilen cezaları açıkladı",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-21T08:50:22.362382+00:00",
+   "title": "Ghini: Las Vegas bahsinde Ferrari'nin elinde koz yok",
+   "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-21T08:50:22.787515+00:00",
+   "title": "Wolff: Antonelli'nin Las Vegas turunu nasıl attığını bilmiyoruz",
+   "source": "RacingNews365"
   }
  ]
 }
