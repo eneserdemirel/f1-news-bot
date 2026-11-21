@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "f3825b8435829a03": "2026-11-07T07:48:48.348010+00:00",
-  "821837250953d5cc": "2026-11-07T07:48:48.348010+00:00",
   "b745336f40769ec8": "2026-11-07T07:58:46.984392+00:00",
   "8e7025176c05a9ce": "2026-11-07T08:03:55.718222+00:00",
   "9f21f4400c11a088": "2026-11-07T08:03:55.718222+00:00",
@@ -6812,7 +6810,11 @@
   "0de3994d1f93950f": "2026-11-21T07:45:12.678281+00:00",
   "ebf8aa0c5f87ec78": "2026-11-21T07:45:12.678281+00:00",
   "ce01e9808e7280ce": "2026-11-21T07:45:12.678281+00:00",
-  "21e7a234e2539110": "2026-11-21T07:45:12.678281+00:00"
+  "21e7a234e2539110": "2026-11-21T07:45:12.678281+00:00",
+  "9f090dcb61c0ce7a": "2026-11-21T07:50:18.248953+00:00",
+  "1d864c1e850ee004": "2026-11-21T07:50:18.248953+00:00",
+  "523870d2fd82470c": "2026-11-21T07:50:18.248953+00:00",
+  "c2b3e20b20c040a6": "2026-11-21T07:50:18.248953+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16818,9 +16820,48 @@
     "Motorsport-Total": "Qualifying Vegas: Antonelli sensationell - Mercedes verweigert Russell Hilfe - Motorsport-Total.com"
    },
    "last": "2026-11-21T07:46:09.648365+00:00"
+  },
+  "S9570": {
+   "title": "Ines Derrien scores for Tennessee (soccer)",
+   "first": "2026-11-21T07:50:22.367742+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T02:24:43+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ines Derrien gets on the scoresheet for Tennessee"
+   },
+   "last": "2026-11-21T07:50:22.367761+00:00"
+  },
+  "S9571": {
+   "title": "Norris blames plastic bag and straight-line deficit for Vegas qualifying",
+   "first": "2026-11-21T07:50:22.367766+00:00",
+   "sources": {
+    "The Race": "2026-11-21T07:50:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "Plastic bag and a 'horrendous' weakness hurt Norris in Vegas"
+   },
+   "last": "2026-11-21T07:50:22.367771+00:00"
+  },
+  "S9572": {
+   "title": "Verstappen explains Vegas car problem to Dutch media, rules out one cause",
+   "first": "2026-11-21T07:50:22.367775+00:00",
+   "sources": {
+    "GPblog": "2026-11-21T07:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Verstappen knows what's wrong with his car and rules out one possibility"
+   },
+   "last": "2026-11-21T07:50:22.367779+00:00"
   }
  },
- "story_seq": 9569,
+ "story_seq": 9572,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16939,7 +16980,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T07:45:12.678281+00:00",
+ "last_run": "2026-11-21T07:50:18.248953+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18749,6 +18790,16 @@
    "t": "2026-11-21T07:46:30.240680+00:00",
    "title": "Norris, McLaren'ın düz hat hız sorunu nedeniyle Las Vegas'ta zorlu bir gün bekliyor",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-21T07:50:27.679542+00:00",
+   "title": "Verstappen, arabasındaki sorunu biliyor ama bir olasılığı eliyor",
+   "source": "GPblog"
+  },
+  {
+   "t": "2026-11-21T07:50:28.104552+00:00",
+   "title": "Norris, Las Vegas'ta düz çizgi hızı ve bir plastik poşet yüzünden pole'ü kaçırdı",
+   "source": "The Race"
   }
  ]
 }
