@@ -6823,7 +6823,10 @@
   "237c7eb9c9273fd9": "2026-11-21T08:20:13.620752+00:00",
   "53e54ac7fc820540": "2026-11-21T08:25:14.355868+00:00",
   "23c3f210e320ca29": "2026-11-21T08:25:14.355868+00:00",
-  "836ccf93d94a1f57": "2026-11-21T08:30:21.652097+00:00"
+  "836ccf93d94a1f57": "2026-11-21T08:30:21.652097+00:00",
+  "14ea09c17d046e67": "2026-11-21T08:35:22.295734+00:00",
+  "e03dc812115c3d9e": "2026-11-21T08:35:22.295734+00:00",
+  "86305a8594ac9045": "2026-11-21T08:35:22.295734+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7396,19 +7399,6 @@
     "Motorsport-Total": "Kampfansage nach Brasilien-Stallorder: In Las Vegas will Isack Hadjar gewinnen! - Motorsport-Total.com"
    },
    "last": "2026-11-19T12:21:20.242281+00:00"
-  },
-  "S8888": {
-   "title": "Premier League clubs eye Ronaldo successor",
-   "first": "2026-11-19T08:33:46.131921+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T08:23:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs"
-   },
-   "last": "2026-11-19T08:33:46.131940+00:00"
   },
   "S8889": {
    "title": "Verstappen trusts F1 to proceed with Middle East races",
@@ -16831,14 +16821,16 @@
    "title": "Wolff says Russell was in perfect position for pole",
    "first": "2026-11-21T07:55:21.294798+00:00",
    "sources": {
-    "PlanetF1": "2026-11-21T07:54:04+00:00"
+    "PlanetF1": "2026-11-21T07:54:04+00:00",
+    "GPblog": "2026-11-21T08:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "PlanetF1": "Toto Wolff insists George Russell was in ‘perfect position’ for pole"
+    "PlanetF1": "Toto Wolff insists George Russell was in ‘perfect position’ for pole",
+    "GPblog": "Wolff dismisses lack of tow for Russell as Verstappen inherits pole"
    },
-   "last": "2026-11-21T07:55:21.294802+00:00"
+   "last": "2026-11-21T08:35:25.797614+00:00"
   },
   "S9575": {
    "title": "Verstappen and Russell front row; Wolff predicts drama",
@@ -16969,9 +16961,22 @@
     "Formula 1": "What To Watch For in the Las Vegas Grand Prix"
    },
    "last": "2026-11-21T08:30:23.322511+00:00"
+  },
+  "S9585": {
+   "title": "FIA GT Macau qualification race won by Heinrich",
+   "first": "2026-11-21T08:35:25.797574+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-21T08:29:02+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "Macau | FIA GT: Heinrich vince la Qualification Race davanti ad un grande Marciello"
+   },
+   "last": "2026-11-21T08:35:25.797606+00:00"
   }
  },
- "story_seq": 9584,
+ "story_seq": 9585,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17090,17 +17095,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T08:30:21.652097+00:00",
+ "last_run": "2026-11-21T08:35:22.295734+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
  "last_digest_at": "2026-11-20T19:00:59.786453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T08:32:57.039981+00:00",
-   "title": "Takım patronu Liam Lawson kararını açıkladı",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-18T08:42:52.876376+00:00",
    "title": "Stella: Antonelli eşsiz, ama McLaren 2027 Dünya Şampiyonluğu'nu hedefliyor",
