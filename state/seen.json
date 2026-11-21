@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "4ab409a8b320273d": "2026-11-07T14:59:15.805216+00:00",
-  "56e30d2cc69fd434": "2026-11-07T14:59:15.805216+00:00",
-  "8a7f3c82ec7c966a": "2026-11-07T14:59:15.805216+00:00",
   "535df573e81e5e4b": "2026-11-07T15:04:13.347799+00:00",
   "02f5a35c27088d8a": "2026-11-07T15:04:13.347799+00:00",
   "570bcc60b218e808": "2026-11-07T15:09:14.061394+00:00",
@@ -6873,7 +6870,8 @@
   "3aecd19f08ba1619": "2026-11-21T14:52:59.998325+00:00",
   "9a8410499b2baf44": "2026-11-21T14:52:59.998325+00:00",
   "a5ec91956a62b656": "2026-11-21T14:58:02.106211+00:00",
-  "44cd4ee4889f82e3": "2026-11-21T14:58:02.106211+00:00"
+  "44cd4ee4889f82e3": "2026-11-21T14:58:02.106211+00:00",
+  "a77c8c143acb3770": "2026-11-21T15:02:59.954608+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7182,21 +7180,6 @@
    },
    "last": "2026-11-19T20:52:42.662558+00:00"
   },
-  "S8925": {
-   "title": "Norris on GTA childhood ban and GTA VI",
-   "first": "2026-11-19T12:21:20.242203+00:00",
-   "sources": {
-    "GPblog": "2026-11-19T10:00:00+00:00",
-    "GPFans": "2026-11-19T14:55:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Norris reveals childhood GTA ban as F1 drivers react to GTA VI release",
-    "GPFans": "Lando Norris reveals his Grand Theft Auto ban as GTA 6 sends gamers wild"
-   },
-   "last": "2026-11-19T15:00:40.564796+00:00"
-  },
   "S8932": {
    "title": "Camara faces difficult decision between two series",
    "first": "2026-11-19T12:21:20.242271+00:00",
@@ -7254,19 +7237,6 @@
     "RacingNews365 NL": "Russell wijst op serieuze uitdaging voor GP Las Vegas"
    },
    "last": "2026-11-19T21:06:57.076726+00:00"
-  },
-  "S8974": {
-   "title": "Las Vegas paddock talking points roundup from Wednesday",
-   "first": "2026-11-19T15:00:40.564752+00:00",
-   "sources": {
-    "Formula 1": "2026-11-19T15:00:40.564781+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Formula 1": "All the stories that got the Las Vegas paddock talking"
-   },
-   "last": "2026-11-19T15:00:40.564784+00:00"
   },
   "S8975": {
    "title": "Armani Eusebio offensive guard recruiting profile",
@@ -16791,9 +16761,22 @@
     "GPFans": "Lewis Hamilton reveals double Ferrari setback: 'When it rains it pours'"
    },
    "last": "2026-11-21T14:58:05.122936+00:00"
+  },
+  "S9663": {
+   "title": "Verstappen unhappy with Qatar and Abu Dhabi races going ahead",
+   "first": "2026-11-21T15:03:01.906427+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-21T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen kritisch op doorgang GP Qatar en Abu Dhabi: \"Zou liever thuisblijven\""
+   },
+   "last": "2026-11-21T15:03:01.906448+00:00"
   }
  },
- "story_seq": 9662,
+ "story_seq": 9663,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16912,7 +16895,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T14:58:02.106211+00:00",
+ "last_run": "2026-11-21T15:02:59.954608+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -18687,6 +18670,11 @@
    "t": "2026-11-21T14:28:10.855091+00:00",
    "title": "Verstappen, Russell ile yaşanan Las Vegas pist olayını önemsiz bularak tartışmayı reddetti",
    "source": "Motorsport.com Italia"
+  },
+  {
+   "t": "2026-11-21T15:03:05.499802+00:00",
+   "title": "Verstappen, Katar ve Abu Dhabi yarışlarının güvenliği konusunda çekincelerini dile getirdi",
+   "source": "RacingNews365 NL"
   }
  ]
 }
