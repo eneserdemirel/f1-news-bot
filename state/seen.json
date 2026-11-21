@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "59252659084e24b0": "2026-11-07T08:28:43.752867+00:00",
-  "393977ca5c0e8eb2": "2026-11-07T08:28:43.752867+00:00",
-  "86305a8594ac9045": "2026-11-07T08:28:43.752867+00:00",
   "5e28f3c33b6a1e31": "2026-11-07T08:38:51.303125+00:00",
   "7f695e343b1bf8fa": "2026-11-07T08:38:51.303125+00:00",
   "f31d40e8279000e1": "2026-11-07T08:38:51.303125+00:00",
@@ -6825,7 +6822,8 @@
   "90bd583f4ce59a6d": "2026-11-21T08:20:13.620752+00:00",
   "237c7eb9c9273fd9": "2026-11-21T08:20:13.620752+00:00",
   "53e54ac7fc820540": "2026-11-21T08:25:14.355868+00:00",
-  "23c3f210e320ca29": "2026-11-21T08:25:14.355868+00:00"
+  "23c3f210e320ca29": "2026-11-21T08:25:14.355868+00:00",
+  "836ccf93d94a1f57": "2026-11-21T08:30:21.652097+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16958,9 +16956,22 @@
     "Formula 1": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start"
    },
    "last": "2026-11-21T08:25:16.825992+00:00"
+  },
+  "S9584": {
+   "title": "Chris Medland's five things to watch in Las Vegas GP",
+   "first": "2026-11-21T08:30:23.322492+00:00",
+   "sources": {
+    "Formula 1": "2026-11-21T08:30:23.322508+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "What To Watch For in the Las Vegas Grand Prix"
+   },
+   "last": "2026-11-21T08:30:23.322511+00:00"
   }
  },
- "story_seq": 9583,
+ "story_seq": 9584,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17079,7 +17090,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T08:25:14.355868+00:00",
+ "last_run": "2026-11-21T08:30:21.652097+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18918,6 +18929,11 @@
   {
    "t": "2026-11-21T08:25:20.341030+00:00",
    "title": "Lindblad, Las Vegas sıralama turlarını 'tam bir karmaşa' olarak değerlendirdi",
+   "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-21T08:30:26.894380+00:00",
+   "title": "Las Vegas Grand Prix'de Dikkat Edilmesi Gerekenler",
    "source": "Formula 1"
   }
  ]
