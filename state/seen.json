@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "6a3247e199ec06f2": "2026-11-07T01:48:14.057950+00:00",
-  "eafb9601e1bc3ded": "2026-11-07T01:48:14.057950+00:00",
-  "41a77edbf5d7e156": "2026-11-07T01:48:14.057950+00:00",
   "ccce851ebb4ef3ae": "2026-11-07T01:58:13.032810+00:00",
   "f6e690ff6c671bad": "2026-11-07T02:03:15.488531+00:00",
   "1267cd81f810bfda": "2026-11-07T02:03:15.488531+00:00",
@@ -6729,7 +6726,16 @@
   "f1f88a99c289aef6": "2026-11-21T01:44:43.006574+00:00",
   "2b0ace2814f6bb31": "2026-11-21T01:44:43.006574+00:00",
   "09ffe74f244bf7a9": "2026-11-21T01:44:43.006574+00:00",
-  "6423ece91ace0a8c": "2026-11-21T01:44:43.006574+00:00"
+  "6423ece91ace0a8c": "2026-11-21T01:44:43.006574+00:00",
+  "46fdec5007d9593c": "2026-11-21T01:49:51.363599+00:00",
+  "b97e0c7257b931bb": "2026-11-21T01:49:51.363599+00:00",
+  "7f27d65b595614d3": "2026-11-21T01:49:51.363599+00:00",
+  "409088508523da35": "2026-11-21T01:49:51.363599+00:00",
+  "a355c4768f10ef25": "2026-11-21T01:49:51.363599+00:00",
+  "5278bab9e4c60afb": "2026-11-21T01:49:51.363599+00:00",
+  "7b7f1a31c6dbe387": "2026-11-21T01:49:51.363599+00:00",
+  "66d0a1842cf3151c": "2026-11-21T01:49:51.363599+00:00",
+  "e725b1531d9e83c9": "2026-11-21T01:49:51.363599+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16706,7 +16712,7 @@
     "RacingNews365": "Max Verstappen under investigation after 'erratic' incident with Franco Colapinto",
     "PlanetF1": "George Russell tops Las Vegas FP3 as Max Verstappen clash sparks stewards investigation"
    },
-   "last": "2026-11-21T01:44:46.406212+00:00"
+   "last": "2026-11-21T01:49:59.178996+00:00"
   },
   "S9468": {
    "title": "Raptors vs. Pistons live score (NBA)",
@@ -16832,7 +16838,11 @@
     "RacingNews365": "2026-11-21T01:30:00+00:00",
     "RacingNews365 NL": "2026-11-21T01:33:00+00:00",
     "PlanetF1": "2026-11-21T01:35:34+00:00",
-    "Crash.net": "2026-11-21T01:40:00+00:00"
+    "Crash.net": "2026-11-21T01:40:00+00:00",
+    "Autosport": "2026-11-21T01:46:05+00:00",
+    "GPblog": "2026-11-21T01:42:00+00:00",
+    "GPFans": "2026-11-21T01:45:00+00:00",
+    "FormulaPassion": "2026-11-21T01:40:00+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -16840,9 +16850,13 @@
     "RacingNews365": "2026 F1 Las Vegas Grand Prix - Free Practice 3 results",
     "RacingNews365 NL": "Uitslag derde vrije training F1 GP Las Vegas 2026",
     "PlanetF1": "F1 results: Las Vegas Grand Prix 2026 – FP3 (Las Vegas Strip Circuit)",
-    "Crash.net": "F1 Las Vegas Grand Prix: Full final practice results"
+    "Crash.net": "F1 Las Vegas Grand Prix: Full final practice results",
+    "Autosport": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
+    "GPblog": "F1 Full Results | Russell untouchable as Verstappen struggles in Las Vegas FP3",
+    "GPFans": "F1 Results Today: Las Vegas Grand Prix FP3 times and positions",
+    "FormulaPassion": "F1 GP Las Vegas 2026 – Classifica FP3: Russell vola, poi Antonelli, Norris e Leclerc"
    },
-   "last": "2026-11-21T01:44:46.406218+00:00"
+   "last": "2026-11-21T01:49:59.179009+00:00"
   },
   "S9478": {
    "title": "Commanders confident in Jayden Daniels",
@@ -16856,9 +16870,61 @@
     "ESPN F1": "Commanders confident in Jayden Daniels"
    },
    "last": "2026-11-21T01:44:46.406205+00:00"
+  },
+  "S9479": {
+   "title": "Hazlewood backs Cummins, denies ball tampering knowledge",
+   "first": "2026-11-21T01:49:59.178936+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T23:25:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hazlewood backs 'great leader' Cummins, insists no knowledge of ball tampering"
+   },
+   "last": "2026-11-21T01:49:59.178956+00:00"
+  },
+  "S9480": {
+   "title": "Rep Ireland vs. Croatia live score",
+   "first": "2026-11-21T01:49:59.178962+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T23:11:40+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rep Ireland vs. Croatia (Mar 27, 2027) Live Score"
+   },
+   "last": "2026-11-21T01:49:59.178968+00:00"
+  },
+  "S9481": {
+   "title": "Faroe Islands vs. Georgia live score",
+   "first": "2026-11-21T01:49:59.178971+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T22:47:34+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Faroe Islands vs. Georgia (Mar 27, 2027) Live Score"
+   },
+   "last": "2026-11-21T01:49:59.178976+00:00"
+  },
+  "S9482": {
+   "title": "Colorado vs. Cincinnati match live stream listing",
+   "first": "2026-11-21T01:49:59.178980+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-20T20:26:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Colorado vs. Cincinnati 21/11/26 - Mira Juego en vivo"
+   },
+   "last": "2026-11-21T01:49:59.178984+00:00"
   }
  },
- "story_seq": 9478,
+ "story_seq": 9482,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16977,7 +17043,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T01:44:43.006574+00:00",
+ "last_run": "2026-11-21T01:49:51.363599+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
