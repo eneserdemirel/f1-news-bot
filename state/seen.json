@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "52132c98f43c0b6d": "2026-11-07T15:24:22.209650+00:00",
-  "8dfc235dabfdcf16": "2026-11-07T15:24:22.209650+00:00",
   "868f25276462c971": "2026-11-07T15:34:14.685796+00:00",
   "37d931ae8a1eef66": "2026-11-07T15:34:14.685796+00:00",
   "2d621b2c29a5882f": "2026-11-07T15:34:14.685796+00:00",
@@ -6872,7 +6870,10 @@
   "11df3e6a1ae571c3": "2026-11-21T15:18:00.259686+00:00",
   "1f847781fafbb0dc": "2026-11-21T15:18:00.259686+00:00",
   "741b68965bb25ce5": "2026-11-21T15:23:02.559956+00:00",
-  "45392a306a975788": "2026-11-21T15:23:02.559956+00:00"
+  "45392a306a975788": "2026-11-21T15:23:02.559956+00:00",
+  "c028b9d0542d892c": "2026-11-21T15:28:04.638593+00:00",
+  "9bd1904c08b63145": "2026-11-21T15:28:04.638593+00:00",
+  "997c968b45f63013": "2026-11-21T15:28:04.638593+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16840,9 +16841,48 @@
     "ESPN F1": "Sources: Texas A&M expected to bench Marcel Reed, start Brady Hart"
    },
    "last": "2026-11-21T15:23:04.348923+00:00"
+  },
+  "S9673": {
+   "title": "Betis vs. Rayo (Nov 28, 2026) odds and spread",
+   "first": "2026-11-21T15:28:08.278325+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:25:13+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Betis vs. Rayo (Nov 28, 2026) Odds and Spread"
+   },
+   "last": "2026-11-21T15:28:08.278347+00:00"
+  },
+  "S9674": {
+   "title": "Lewis Moody joins England squad for Haka",
+   "first": "2026-11-21T15:28:08.278352+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:12:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Former World Cup winner Lewis Moody joins England for New Zealand Haka"
+   },
+   "last": "2026-11-21T15:28:08.278357+00:00"
+  },
+  "S9675": {
+   "title": "Hamilton blames 'combination of everything' for Vegas qualifying",
+   "first": "2026-11-21T15:28:08.278360+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T14:22:54+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Hamilton blames 'combination of everything' for 'nightmare' qualifying"
+   },
+   "last": "2026-11-21T15:28:08.278364+00:00"
   }
  },
- "story_seq": 9672,
+ "story_seq": 9675,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16961,17 +17001,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T15:23:02.559956+00:00",
+ "last_run": "2026-11-21T15:28:04.638593+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T15:24:23.943034+00:00",
-   "title": "Piastri, Las Vegas GP'de grid cezası alacak",
-   "source": "Sky Sports F1"
-  },
   {
    "t": "2026-11-18T15:34:21.901487+00:00",
    "title": "Verstappen, Nürburgring 24 Saat öncesi hazırlıklarında yalnız kalabilir",
