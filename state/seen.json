@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "de42b8517ae685a3": "2026-11-07T18:55:02.100717+00:00",
   "dfee5d7e704a3cc8": "2026-11-07T19:00:01.976429+00:00",
   "19018cd414c9fbd5": "2026-11-07T19:05:02.124652+00:00",
   "50c7a666e8ca88f1": "2026-11-07T19:05:02.124652+00:00",
@@ -6814,7 +6813,8 @@
   "3be2520280e1dbd8": "2026-11-21T18:48:02.909449+00:00",
   "309a86aa3e023b84": "2026-11-21T18:48:02.909449+00:00",
   "1866003a7818e011": "2026-11-21T18:48:02.909449+00:00",
-  "51990a1451367fee": "2026-11-21T18:48:02.909449+00:00"
+  "51990a1451367fee": "2026-11-21T18:48:02.909449+00:00",
+  "bb7d258cdf7072a0": "2026-11-21T18:58:04.242812+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17330,9 +17330,22 @@
     "ESPN F1": "Aston Villa 0-0 Sunderland (Nov 21, 2026) Player Stats"
    },
    "last": "2026-11-21T18:48:10.418341+00:00"
+  },
+  "S9739": {
+   "title": "VJ Edgecombe slam dunk highlight (basketball)",
+   "first": "2026-11-21T18:58:05.624758+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T18:46:49+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "VJ Edgecombe gets up for the beautiful slam dunk"
+   },
+   "last": "2026-11-21T18:58:05.624777+00:00"
   }
  },
- "story_seq": 9738,
+ "story_seq": 9739,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17451,17 +17464,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T18:53:02.989337+00:00",
+ "last_run": "2026-11-21T18:58:04.242812+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T18:54:18.979021+00:00",
-   "title": "Zak Brown, Lando Norris'in kaburgalarını kırdığını açıkladı",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-18T19:04:20.882341+00:00",
    "title": "Sainz: Çok fazla F1 yarışı ilgiyi azaltabilir",
