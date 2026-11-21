@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "92d65f04c33a00a4": "2026-11-07T09:48:48.730094+00:00",
-  "de195bfd9a7bffdb": "2026-11-07T09:48:48.730094+00:00",
   "b9aad89b7aac9d13": "2026-11-07T09:53:47.415391+00:00",
   "36f2d9dad7f43b8e": "2026-11-07T09:53:47.415391+00:00",
   "f8d31379b63e8468": "2026-11-07T09:58:46.453979+00:00",
@@ -6844,7 +6842,9 @@
   "42b82aa7a6fe42fa": "2026-11-21T09:35:12.230258+00:00",
   "4e0d7f5cfef58efd": "2026-11-21T09:35:12.230258+00:00",
   "b3849c0c2adb6b73": "2026-11-21T09:35:12.230258+00:00",
-  "4d1ca0fb2b80985e": "2026-11-21T09:40:14.457076+00:00"
+  "4d1ca0fb2b80985e": "2026-11-21T09:40:14.457076+00:00",
+  "f1c10d499eac3b8e": "2026-11-21T09:50:13.581463+00:00",
+  "e9f6676bb1616f2a": "2026-11-21T09:50:13.581463+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17044,9 +17044,35 @@
     "Motorsport.com Italia": "Ferrari Challenge | A Barcellona assegnati gli ultimi titoli 2026 a Schömer, Green e Rosser"
    },
    "last": "2026-11-21T09:35:15.308466+00:00"
+  },
+  "S9598": {
+   "title": "Hadjar criticises clumsy slipstream games in Vegas qualifying",
+   "first": "2026-11-21T09:50:16.330129+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-21T09:45:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Hadjar hekelt spelletjes: \"We zagen er een beetje knullig uit\""
+   },
+   "last": "2026-11-21T09:50:16.330147+00:00"
+  },
+  "S9599": {
+   "title": "Lawson says costly Q3 issue cost him a better grid spot",
+   "first": "2026-11-21T09:50:16.330153+00:00",
+   "sources": {
+    "GPblog": "2026-11-21T09:47:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPblog": "Lawson hurt by costly issue in Las Vegas: 'I need to figure it out'"
+   },
+   "last": "2026-11-21T09:50:16.330157+00:00"
   }
  },
- "story_seq": 9597,
+ "story_seq": 9599,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17165,7 +17191,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T09:45:12.752355+00:00",
+ "last_run": "2026-11-21T09:50:13.581463+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -19005,6 +19031,11 @@
    "t": "2026-11-21T09:25:19.918069+00:00",
    "title": "Las Vegas sıralamasında Antonelli'nin en hızlı turu yardımla geldi",
    "source": "The Race"
+  },
+  {
+   "t": "2026-11-21T09:50:22.047755+00:00",
+   "title": "Hadjar, Q3'te oyun oynayan takımları eleştirdi: \"Biraz beceriksiz göründük\"",
+   "source": "RacingNews365 NL"
   }
  ]
 }
