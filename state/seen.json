@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "7842f44c144416d6": "2026-11-07T19:40:00.278551+00:00",
   "3313ccf2c307ecf3": "2026-11-07T19:45:03.215454+00:00",
   "07070891e4033460": "2026-11-07T19:45:03.215454+00:00",
   "6e5c6b6926e614bd": "2026-11-07T19:50:06.164599+00:00",
@@ -6811,7 +6810,9 @@
   "9126c66f7254641e": "2026-11-21T19:18:04.289384+00:00",
   "b0fe5efd87be827a": "2026-11-21T19:18:04.289384+00:00",
   "6bf36c468f451a6a": "2026-11-21T19:18:04.289384+00:00",
-  "741d40070967c5fe": "2026-11-21T19:33:42.552596+00:00"
+  "741d40070967c5fe": "2026-11-21T19:33:42.552596+00:00",
+  "cb91fa8df081c5be": "2026-11-21T19:43:46.948981+00:00",
+  "2aab0aeee73de4fd": "2026-11-21T19:43:46.948981+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17433,9 +17434,35 @@
     "ESPN F1": "Alonso: Chelsea stopped believing after Leeds' equaliser"
    },
    "last": "2026-11-21T19:33:44.482689+00:00"
+  },
+  "S9747": {
+   "title": "De Zerbi likens Williams-Barnett to Yamal after debut",
+   "first": "2026-11-21T19:43:49.551648+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T19:07:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Tottenham's De Zerbi likens Williams-Barnett to Yamal after star stunning full debut"
+   },
+   "last": "2026-11-21T19:43:49.551666+00:00"
+  },
+  "S9748": {
+   "title": "Russell says Verstappen may have the fastest car after FP3",
+   "first": "2026-11-21T19:43:49.551671+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-21T19:40:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Russell geeft Verstappen onverwacht voordeel boven Mercedes"
+   },
+   "last": "2026-11-21T19:43:49.551676+00:00"
   }
  },
- "story_seq": 9746,
+ "story_seq": 9748,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17554,7 +17581,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T19:38:44.402139+00:00",
+ "last_run": "2026-11-21T19:43:46.948981+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 22:00",
@@ -19324,6 +19351,11 @@
    "t": "2026-11-21T19:18:16.165062+00:00",
    "title": "Verstappen-Russell FP3 temasında taraftarlar yetkililerle ayrışıyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-21T19:43:54.061732+00:00",
+   "title": "Russell: Verstappen'in sabah temposu Mercedes ile arasındaki farkı çok küçük gösteriyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
