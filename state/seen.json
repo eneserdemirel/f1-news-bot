@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "0fd5f83658d77c6b": "2026-11-07T11:34:14.117984+00:00",
-  "10a787f942d5b044": "2026-11-07T11:34:14.117984+00:00",
   "2fd1487ac01a9ed0": "2026-11-07T11:39:15.404252+00:00",
   "a52b5173318a6514": "2026-11-07T11:44:12.834820+00:00",
   "22b4eba965197286": "2026-11-07T11:49:14.305148+00:00",
@@ -6887,7 +6885,10 @@
   "186c95e87b8bd745": "2026-11-21T11:30:13.286117+00:00",
   "ecedd8a538c5b7c2": "2026-11-21T11:30:13.286117+00:00",
   "83e373db1a00044c": "2026-11-21T11:30:13.286117+00:00",
-  "486aab7e74cc0ba8": "2026-11-21T11:30:13.286117+00:00"
+  "486aab7e74cc0ba8": "2026-11-21T11:30:13.286117+00:00",
+  "b8af1199b26b2461": "2026-11-21T11:35:16.641840+00:00",
+  "ba4c0d2207d5d686": "2026-11-21T11:35:16.641840+00:00",
+  "dd4e6b4f0093e4bd": "2026-11-21T11:35:16.641840+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16713,14 +16714,16 @@
    "title": "Mercedes reportedly refused Russell help in qualifying",
    "first": "2026-11-21T07:46:09.648362+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-21T07:08:17+00:00"
+    "Motorsport-Total": "2026-11-21T07:08:17+00:00",
+    "GPblog": "2026-11-21T11:30:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Qualifying Vegas: Antonelli sensationell - Mercedes verweigert Russell Hilfe - Motorsport-Total.com"
+    "Motorsport-Total": "Qualifying Vegas: Antonelli sensationell - Mercedes verweigert Russell Hilfe - Motorsport-Total.com",
+    "GPblog": "Mercedes accused of 'doing nothing' to help Russell as questions of favouritism return"
    },
-   "last": "2026-11-21T07:46:09.648365+00:00"
+   "last": "2026-11-21T11:35:20.534430+00:00"
   },
   "S9570": {
    "title": "Ines Derrien scores for Tennessee (soccer)",
@@ -17414,9 +17417,35 @@
     "ESPN F1": "NHL Tonight: What to watch in all 14 games on Saturday"
    },
    "last": "2026-11-21T11:30:14.523844+00:00"
+  },
+  "S9621": {
+   "title": "McTominay Man United return speculation",
+   "first": "2026-11-21T11:35:20.534396+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T10:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Transfer rumors, news: Could Scott McTominay return to Man United?"
+   },
+   "last": "2026-11-21T11:35:20.534414+00:00"
+  },
+  "S9622": {
+   "title": "Untelevised footage emerges of Verstappen-Russell FP3 clash",
+   "first": "2026-11-21T11:35:20.534419+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-21T11:32:20+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Untelevised Max Verstappen footage after George Russell Las Vegas GP incident"
+   },
+   "last": "2026-11-21T11:35:20.534425+00:00"
   }
  },
- "story_seq": 9620,
+ "story_seq": 9622,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17535,7 +17564,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T11:30:13.286117+00:00",
+ "last_run": "2026-11-21T11:35:16.641840+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -19375,6 +19404,11 @@
    "t": "2026-11-21T11:10:23.389814+00:00",
    "title": "Antonelli ve Russell, Las Vegas sıralama turunda yaşanan karışıklık için Mercedes ile görüşecek",
    "source": "Autosport"
+  },
+  {
+   "t": "2026-11-21T11:35:24.391155+00:00",
+   "title": "Verstappen'in Russell'a orta parmak gösterdiği görüntüler ortaya çıktı",
+   "source": "PlanetF1"
   }
  ]
 }
