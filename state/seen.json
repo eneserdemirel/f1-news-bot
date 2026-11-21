@@ -1,11 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b81cafb2aa62b592": "2026-11-07T11:24:12.509857+00:00",
-  "d17084928cee1b67": "2026-11-07T11:24:12.509857+00:00",
-  "dc89e051284971c5": "2026-11-07T11:24:12.509857+00:00",
-  "8c7c6f5278830c3f": "2026-11-07T11:24:12.509857+00:00",
-  "61dbecc155938c8a": "2026-11-07T11:24:12.509857+00:00",
   "0611070664361f15": "2026-11-07T11:29:15.393054+00:00",
   "4e6651fdcc296ea9": "2026-11-07T11:29:15.393054+00:00",
   "954d7c1ed2013cd4": "2026-11-07T11:29:15.393054+00:00",
@@ -6884,7 +6879,10 @@
   "87b6b011bc167a6f": "2026-11-21T11:10:15.768818+00:00",
   "a4516c6343f7718e": "2026-11-21T11:10:15.768818+00:00",
   "9fe5cd276a2dc398": "2026-11-21T11:20:14.562405+00:00",
-  "068dc0862a4a80a6": "2026-11-21T11:20:14.562405+00:00"
+  "068dc0862a4a80a6": "2026-11-21T11:20:14.562405+00:00",
+  "327404fe88b40332": "2026-11-21T11:25:15.796611+00:00",
+  "e61db8d77705a561": "2026-11-21T11:25:15.796611+00:00",
+  "7d30c2c514d6bfd3": "2026-11-21T11:25:15.796611+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16808,14 +16806,16 @@
    "title": "Verstappen and Russell front row; Wolff predicts drama",
    "first": "2026-11-21T07:55:21.294805+00:00",
    "sources": {
-    "FormulaPassion": "2026-11-21T07:28:54+00:00"
+    "FormulaPassion": "2026-11-21T07:28:54+00:00",
+    "Crash.net": "2026-11-21T11:24:45+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "FormulaPassion": "Prima fila Max-Russell, Wolff: “Prevedo un grande cinema. Staremo a vedere…”"
+    "FormulaPassion": "Prima fila Max-Russell, Wolff: “Prevedo un grande cinema. Staremo a vedere…”",
+    "Crash.net": "Toto Wolff predicts ‘big cinema’ for Max Verstappen v George Russell after Las Vegas GP needle"
    },
-   "last": "2026-11-21T07:55:21.294809+00:00"
+   "last": "2026-11-21T11:25:19.537560+00:00"
   },
   "S9576": {
    "title": "Russell stunned by 'insane' tow power in Las Vegas qualifying",
@@ -17383,9 +17383,22 @@
     "GPblog": "MotoGP qualifying red-flagged after scary highside crash at Portimao"
    },
    "last": "2026-11-21T11:20:17.795142+00:00"
+  },
+  "S9619": {
+   "title": "Villeneuve calls Mercedes' refusal to help Russell 'a bit mean'",
+   "first": "2026-11-21T11:25:19.537569+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-21T11:17:38+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Jacques Villeneuve: Unterlassene Hilfe für Russell \"ein bisschen gemein\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-21T11:25:19.537575+00:00"
   }
  },
- "story_seq": 9618,
+ "story_seq": 9619,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17504,7 +17517,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T11:20:14.562405+00:00",
+ "last_run": "2026-11-21T11:25:15.796611+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
