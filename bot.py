@@ -100,11 +100,14 @@ Rules:
 2. "type": "quote" if the story is mainly about something a person said (an interview, press
    conference, statement); otherwise "news".
 3. "post_en": the English post. It must start with "🚨 | ".
+   - The whole post must be in English. Quotes in Dutch, Italian, German, Spanish or any other
+     language must be translated into English; never leave them in the original language.
    - type "quote": first line "🚨 | <Who> on <topic>:" (e.g. "🚨 | Fred Vasseur on Charles Leclerc's
      frustration after qualifying:"). Then, on the next lines, the most important parts of the
      statement, each sentence group on its own line inside curly quotes “ ” (no blank lines between). If the words are in
-     English in the text, copy them exactly. If they are in another language, translate them into
-     English staying completely faithful to the original meaning. Use only words that appear in the
+     English in the text, copy them exactly. If they are in another language (e.g. Dutch, Italian,
+     German, Spanish), ALWAYS translate them into English, staying completely faithful to the
+     original meaning. Use only words that appear in the
      text as said by that person; never invent or paraphrase them into new quotes. Do not write the
      whole statement: pick only the relevant, most important part. The whole post should normally be
      about 300-500 characters; it may go a little over 500 if needed to keep the key part intact, and
@@ -579,6 +582,33 @@ def article_text(it):
     return txt[:8000]
 
 
+# İngilizce dışında kalmış gönderileri yakalamak için yaygın kelimeler (nl, it, de, es, fr)
+FOREIGN_WORDS = set("""
+het een niet ook maar wij zijn wordt heeft hebben moeten kunnen geen nog veel goed echt naar
+il della delle che non sono abbiamo siamo anche perché molto questo questa stato degli nella
+der die das und nicht ist wir haben sind auch aber sehr wird wurde mit für auf einen eine
+el los las que muy pero también estamos tenemos hemos porque esto está fue una del
+les des est sont nous avons pas mais très aussi cette dans pour
+""".split())
+
+
+def looks_foreign(text):
+    words = re.findall(r"[a-zà-ÿ]+", (text or "").lower())
+    if len(words) < 8:
+        return False
+    hits = sum(w in FOREIGN_WORDS for w in words)
+    return hits / len(words) > 0.08
+
+
+TRANSLATE_PROMPT = """Translate every non-English part of this X post into English, staying completely
+faithful to the meaning. Keep the layout, line breaks, the "🚨 | " start and the curly quotes “ ”
+exactly as they are. Do not add or remove information. Return only the translated post.
+
+<post>
+<<POST>>
+</post>"""
+
+
 def write_post(client, model, it, effort="medium"):
     text = article_text(it) or "(no article text, headline only)"
     prompt = (WRITE_PROMPT.replace("<<SOURCE>>", it["source"])
@@ -587,6 +617,14 @@ def write_post(client, model, it, effort="medium"):
     title = (data.get("title_tr") or "").strip().lstrip("🚨| ").strip().rstrip(".")
     data["title_tr"] = title or it["title"]
     body = (data.get("post_en") or data.get("post_tr") or "").strip()
+    if looks_foreign(body):
+        try:
+            fixed = ask_claude(client, model, TRANSLATE_PROMPT.replace("<<POST>>", body), 2000,
+                               effort=effort, thinking=False).strip()
+            if fixed and not looks_foreign(fixed):
+                body = fixed
+        except Exception as ex:
+            log("Çeviri düzeltmesi başarısız:", ex)
     # Paylaşım metni: "🚨 | ..." İngilizce gönderi, boş satır, "📰 Kaynak"
     data["post_en"] = f"{fix_prefix(body)}\n\n📰 {it['source']}"
     return data
