@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "570bcc60b218e808": "2026-11-07T15:09:14.061394+00:00",
-  "3623e342af47e0f0": "2026-11-07T15:09:14.061394+00:00",
-  "067ff95a3abbd1ea": "2026-11-07T15:09:14.061394+00:00",
   "96064ddf570fdea3": "2026-11-07T15:14:12.410035+00:00",
   "2f4f3a0bb1022a3b": "2026-11-07T15:14:12.410035+00:00",
   "eaacb1ff9a130bdc": "2026-11-07T15:19:14.494490+00:00",
@@ -6869,7 +6866,14 @@
   "9a8410499b2baf44": "2026-11-21T14:52:59.998325+00:00",
   "a5ec91956a62b656": "2026-11-21T14:58:02.106211+00:00",
   "44cd4ee4889f82e3": "2026-11-21T14:58:02.106211+00:00",
-  "a77c8c143acb3770": "2026-11-21T15:02:59.954608+00:00"
+  "a77c8c143acb3770": "2026-11-21T15:02:59.954608+00:00",
+  "3877d64d341f6582": "2026-11-21T15:12:59.933974+00:00",
+  "95511a62b05b7233": "2026-11-21T15:12:59.933974+00:00",
+  "6df9c6f0e075f914": "2026-11-21T15:12:59.933974+00:00",
+  "4bcedabfd8efa93d": "2026-11-21T15:12:59.933974+00:00",
+  "f7b7018ffcc992e7": "2026-11-21T15:12:59.933974+00:00",
+  "511dc8ce3f06dea5": "2026-11-21T15:12:59.933974+00:00",
+  "a52fbdf58fccd2be": "2026-11-21T15:12:59.933974+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7235,19 +7239,6 @@
     "RacingNews365 NL": "Russell wijst op serieuze uitdaging voor GP Las Vegas"
    },
    "last": "2026-11-19T21:06:57.076726+00:00"
-  },
-  "S8975": {
-   "title": "Armani Eusebio offensive guard recruiting profile",
-   "first": "2026-11-19T15:10:37.603758+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T15:07:27+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Armani Eusebio Offensive Guard Recruiting Profile"
-   },
-   "last": "2026-11-19T15:10:37.603789+00:00"
   },
   "S8976": {
    "title": "Pirelli picks softest compounds for Las Vegas street circuit",
@@ -16772,9 +16763,87 @@
     "RacingNews365 NL": "Verstappen kritisch op doorgang GP Qatar en Abu Dhabi: \"Zou liever thuisblijven\""
    },
    "last": "2026-11-21T15:03:01.906448+00:00"
+  },
+  "S9664": {
+   "title": "Sunderland vs Jagiellonia odds and spread",
+   "first": "2026-11-21T15:13:03.600496+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:12:07+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sunderland vs. Jagiellonia (Nov 26, 2026) Odds and Spread"
+   },
+   "last": "2026-11-21T15:13:03.600513+00:00"
+  },
+  "S9665": {
+   "title": "Crystal Palace vs Real Sociedad odds and spread",
+   "first": "2026-11-21T15:13:03.600517+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:11:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "C Palace vs. Real Sociedad (Nov 26, 2026) Odds and Spread"
+   },
+   "last": "2026-11-21T15:13:03.600521+00:00"
+  },
+  "S9666": {
+   "title": "Aston Villa vs Sunderland team stats",
+   "first": "2026-11-21T15:13:03.600523+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:03:38+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Aston Villa vs. Sunderland (Nov 21, 2026) Team Stats"
+   },
+   "last": "2026-11-21T15:13:03.600526+00:00"
+  },
+  "S9667": {
+   "title": "Spurs vs Ipswich team stats",
+   "first": "2026-11-21T15:13:03.600529+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:03:37+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Spurs vs. Ipswich (Nov 21, 2026) Team Stats"
+   },
+   "last": "2026-11-21T15:13:03.600532+00:00"
+  },
+  "S9668": {
+   "title": "Chelsea vs Leeds team stats",
+   "first": "2026-11-21T15:13:03.600534+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:03:35+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chelsea vs. Leeds (Nov 21, 2026) Team Stats"
+   },
+   "last": "2026-11-21T15:13:03.600537+00:00"
+  },
+  "S9669": {
+   "title": "Norris demands urgent McLaren improvements before 2027",
+   "first": "2026-11-21T15:13:03.600539+00:00",
+   "sources": {
+    "Motorsport Week": "2026-11-21T15:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport Week": "Lando Norris demands urgent McLaren improvements amid qualifying disappointment in Las Vegas"
+   },
+   "last": "2026-11-21T15:13:03.600542+00:00"
   }
  },
- "story_seq": 9663,
+ "story_seq": 9669,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16893,7 +16962,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T15:08:02.797725+00:00",
+ "last_run": "2026-11-21T15:12:59.933974+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -18673,6 +18742,11 @@
    "t": "2026-11-21T15:03:05.499802+00:00",
    "title": "Verstappen, Katar ve Abu Dhabi yarışlarının güvenliği konusunda çekincelerini dile getirdi",
    "source": "RacingNews365 NL"
+  },
+  {
+   "t": "2026-11-21T15:13:07.692643+00:00",
+   "title": "Norris, McLaren'dan acil iyileştirme talep etti; Las Vegas'ta sıralama hayal kırıklığı",
+   "source": "Motorsport Week"
   }
  ]
 }
