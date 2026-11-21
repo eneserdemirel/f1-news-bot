@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "cf7e5b9f35569755": "2026-11-07T16:04:59.299607+00:00",
-  "abb6b73c368c9428": "2026-11-07T16:04:59.299607+00:00",
-  "11b5ee19b800a83c": "2026-11-07T16:04:59.299607+00:00",
   "cd698fe5f67d06c9": "2026-11-07T16:10:02.122558+00:00",
   "26d47fe8b6978d7a": "2026-11-07T16:10:02.122558+00:00",
   "96c97ca42e20b883": "2026-11-07T16:15:00.615176+00:00",
@@ -6853,7 +6850,8 @@
   "df23b32cc47bb0d5": "2026-11-21T15:58:02.805676+00:00",
   "629fe18b10947582": "2026-11-21T16:03:05.249292+00:00",
   "a1fdec9ebbd65dda": "2026-11-21T16:03:05.249292+00:00",
-  "34bb69dfe6740f28": "2026-11-21T16:03:05.249292+00:00"
+  "34bb69dfe6740f28": "2026-11-21T16:03:05.249292+00:00",
+  "aeb46da21755058e": "2026-11-21T16:08:00.077467+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16966,9 +16964,22 @@
     "Motorsport-Total": "Mega-Kurve \"The Blade\" nimmt Formen an: \"Zwei Jahre, dann fahren wir dort - Motorsport-Total.com"
    },
    "last": "2026-11-21T16:03:08.282107+00:00"
+  },
+  "S9689": {
+   "title": "Fulham end 15-year losing run against Man City",
+   "first": "2026-11-21T16:08:02.705724+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:43:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Fulham finally end 15-year losing run against Man City"
+   },
+   "last": "2026-11-21T16:08:02.705745+00:00"
   }
  },
- "story_seq": 9688,
+ "story_seq": 9689,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17087,17 +17098,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T16:03:05.249292+00:00",
+ "last_run": "2026-11-21T16:08:00.077467+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T16:04:19.630300+00:00",
-   "title": "DZE: 15 yılı aşkın süredir F1 gece yarışlarını aydınlatan İtalyan uzmanlık",
-   "source": "Motorsport.com Italia"
-  },
   {
    "t": "2026-11-18T16:24:21.473683+00:00",
    "title": "McLaren, gelecek F1 motor regülasyonunda kendi motorunu üretmeyi planlamıyor",
