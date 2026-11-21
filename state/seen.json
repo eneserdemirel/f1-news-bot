@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "96c6c7749c8e4ea2": "2026-11-07T14:54:12.655284+00:00",
-  "a6d995837044db44": "2026-11-07T14:54:12.655284+00:00",
-  "2ef9787c5973328d": "2026-11-07T14:54:12.655284+00:00",
-  "a1ca0087620db0c0": "2026-11-07T14:54:12.655284+00:00",
   "4ab409a8b320273d": "2026-11-07T14:59:15.805216+00:00",
   "56e30d2cc69fd434": "2026-11-07T14:59:15.805216+00:00",
   "8a7f3c82ec7c966a": "2026-11-07T14:59:15.805216+00:00",
@@ -6875,7 +6871,9 @@
   "680a6df65df301e8": "2026-11-21T14:47:58.174314+00:00",
   "0eddc672537a3829": "2026-11-21T14:47:58.174314+00:00",
   "3aecd19f08ba1619": "2026-11-21T14:52:59.998325+00:00",
-  "9a8410499b2baf44": "2026-11-21T14:52:59.998325+00:00"
+  "9a8410499b2baf44": "2026-11-21T14:52:59.998325+00:00",
+  "a5ec91956a62b656": "2026-11-21T14:58:02.106211+00:00",
+  "44cd4ee4889f82e3": "2026-11-21T14:58:02.106211+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16767,9 +16765,35 @@
     "Motorsport.com Italia": "FE | “La Gen4 è la vettura più avanzata nel motorsport”: cosa è emerso dal test che ha fatto scintille a Jarama"
    },
    "last": "2026-11-21T14:53:02.008275+00:00"
+  },
+  "S9661": {
+   "title": "Bezzecchi wins Portimao MotoGP sprint; Marquez crashes out",
+   "first": "2026-11-21T14:58:05.122910+00:00",
+   "sources": {
+    "GPblog": "2026-11-21T14:56:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "MotoGP Full Sprint Race Results | Marquez misses out on clinching the title"
+   },
+   "last": "2026-11-21T14:58:05.122928+00:00"
+  },
+  "S9662": {
+   "title": "Hamilton says Las Vegas qualifying was a double Ferrari setback",
+   "first": "2026-11-21T14:58:05.122932+00:00",
+   "sources": {
+    "GPFans": "2026-11-21T14:55:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Lewis Hamilton reveals double Ferrari setback: 'When it rains it pours'"
+   },
+   "last": "2026-11-21T14:58:05.122936+00:00"
   }
  },
- "story_seq": 9660,
+ "story_seq": 9662,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16888,22 +16912,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T14:52:59.998325+00:00",
+ "last_run": "2026-11-21T14:58:02.106211+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T14:54:27.443892+00:00",
-   "title": "Ceccarelli: Las Vegas pilotlar için parlak, ama ekip için yorucu bir GP",
-   "source": "Motorsport.com Italia"
-  },
-  {
-   "t": "2026-11-18T14:54:27.789113+00:00",
-   "title": "Toto Wolff: Mercedes'in planı tutmadı, 2027 daha rekabetçi olacak",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-18T15:24:23.943034+00:00",
    "title": "Piastri, Las Vegas GP'de grid cezası alacak",
