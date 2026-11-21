@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "eb3048aafcd27311": "2026-11-07T14:04:13.190779+00:00",
-  "976d55510e210018": "2026-11-07T14:04:13.190779+00:00",
-  "4b487199da3f2155": "2026-11-07T14:04:13.190779+00:00",
   "d469d5c3cf4dc913": "2026-11-07T14:14:12.912640+00:00",
   "909fb4b87fb0590c": "2026-11-07T14:14:12.912640+00:00",
   "4b61fa29e9ffeaf3": "2026-11-07T14:19:15.463975+00:00",
@@ -6890,7 +6887,14 @@
   "6c0a32026f71e54d": "2026-11-21T14:03:04.154677+00:00",
   "a9425c735e23a376": "2026-11-21T14:03:04.154677+00:00",
   "81d70e5e29c4b5fd": "2026-11-21T14:03:04.154677+00:00",
-  "d8ebf20fb10d8908": "2026-11-21T14:03:04.154677+00:00"
+  "d8ebf20fb10d8908": "2026-11-21T14:03:04.154677+00:00",
+  "1a002db574f056b0": "2026-11-21T14:07:58.952267+00:00",
+  "74723f8ba62f2ca4": "2026-11-21T14:07:58.952267+00:00",
+  "7fdd51efde3a0fba": "2026-11-21T14:07:58.952267+00:00",
+  "6dba9a7a8bd70685": "2026-11-21T14:07:58.952267+00:00",
+  "4c32146e7ab6d8d7": "2026-11-21T14:07:58.952267+00:00",
+  "ef52737b72156143": "2026-11-21T14:07:58.952267+00:00",
+  "bcaa1604c89e776a": "2026-11-21T14:07:58.952267+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16071,14 +16075,16 @@
    "title": "Alonso says Honda engine makes rivals keep safety distance",
    "first": "2026-11-21T08:15:27.258405+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-21T08:08:47+00:00"
+    "Motorsport-Total": "2026-11-21T08:08:47+00:00",
+    "RacingNews365": "2026-11-21T14:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Fernando Alonso: Bei einem Honda-Motor nehmen alle anderen Sicherheitsabstand - Motorsport-Total.com"
+    "Motorsport-Total": "Fernando Alonso: Bei einem Honda-Motor nehmen alle anderen Sicherheitsabstand - Motorsport-Total.com",
+    "RacingNews365": "Fernando Alonso addresses potential Honda safety concern in Las Vegas"
    },
-   "last": "2026-11-21T08:15:27.258409+00:00"
+   "last": "2026-11-21T14:08:03.119929+00:00"
   },
   "S9581": {
    "title": "Teams report back from Las Vegas practice sessions",
@@ -16979,9 +16985,74 @@
     "GPFans": "Aston Martin 'set to announce F1 driver return'"
    },
    "last": "2026-11-21T14:03:15.380997+00:00"
+  },
+  "S9649": {
+   "title": "Chaudhary matchwinning turn feature (non-F1 sport)",
+   "first": "2026-11-21T14:08:03.119881+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T13:50:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Chaudhary at home on big stage after matchwinning turn"
+   },
+   "last": "2026-11-21T14:08:03.119901+00:00"
+  },
+  "S9650": {
+   "title": "England captaincy dilemma after Jacks hand injury (rugby)",
+   "first": "2026-11-21T14:08:03.119906+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T13:35:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "England face captaincy dilemma after deputy Jacks suffers hand injury"
+   },
+   "last": "2026-11-21T14:08:03.119910+00:00"
+  },
+  "S9651": {
+   "title": "Raptors 105-102 Pistons NBA game recap",
+   "first": "2026-11-21T14:08:03.119913+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T13:18:03+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Raptors 105-102 Pistons (21 Nov, 2026) Game Recap"
+   },
+   "last": "2026-11-21T14:08:03.119916+00:00"
+  },
+  "S9652": {
+   "title": "Rahul completes SENA set (non-F1 sport)",
+   "first": "2026-11-21T14:08:03.119918+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T12:26:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Rahul trusts his technique and completes the SENA set"
+   },
+   "last": "2026-11-21T14:08:03.119921+00:00"
+  },
+  "S9653": {
+   "title": "Las Vegas GP 2026 weather update",
+   "first": "2026-11-21T14:08:03.119931+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-21T14:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Laatste weerupdate F1 GP Las Vegas 2026"
+   },
+   "last": "2026-11-21T14:08:03.119934+00:00"
   }
  },
- "story_seq": 9648,
+ "story_seq": 9653,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17100,7 +17171,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T14:03:04.154677+00:00",
+ "last_run": "2026-11-21T14:07:58.952267+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -18980,6 +19051,11 @@
    "t": "2026-11-21T14:03:23.853785+00:00",
    "title": "Verstappen, Las Vegas'ta lastik ısınma avantajıyla Russell'a karşı üstünlük kurabilir",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-21T14:08:07.623925+00:00",
+   "title": "Las Vegas GP'de hava durumu: gece yarışında çok soğuk sıcaklıklar bekleniyor",
+   "source": "RacingNews365 NL"
   }
  ]
 }
