@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b4d933ba5ed101ba": "2026-11-07T17:54:59.193801+00:00",
   "fb62cc83ea178f1e": "2026-11-07T18:05:07.480538+00:00",
   "065567f4485881d5": "2026-11-07T18:05:07.480538+00:00",
   "a6f409bb0f74d23d": "2026-11-07T18:10:01.157783+00:00",
@@ -6808,7 +6807,9 @@
   "7a468420862f8273": "2026-11-21T17:43:08.875054+00:00",
   "9444f67787e8922b": "2026-11-21T17:43:08.875054+00:00",
   "2ee3d8edb25c4a42": "2026-11-21T17:48:01.250157+00:00",
-  "a464ec3c5b1060a1": "2026-11-21T17:48:01.250157+00:00"
+  "a464ec3c5b1060a1": "2026-11-21T17:48:01.250157+00:00",
+  "0dcee4af7f9fe11d": "2026-11-21T17:58:05.989313+00:00",
+  "ab5a2920a8d19c92": "2026-11-21T17:58:05.989313+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17082,9 +17083,35 @@
     "GPFans": "FIA confirms 35-place grid penalty for British F1 star at Las Vegas Grand Prix"
    },
    "last": "2026-11-21T17:48:03.480891+00:00"
+  },
+  "S9721": {
+   "title": "Lincoln City 0-1 Wrexham match analysis",
+   "first": "2026-11-21T17:58:08.895237+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T17:53:56+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Lincoln City 0-1 Wrexham (Nov 21, 2026) Game Analysis"
+   },
+   "last": "2026-11-21T17:58:08.895257+00:00"
+  },
+  "S9722": {
+   "title": "Las Vegas GP strategy analysis: one stop, cold asphalt",
+   "first": "2026-11-21T17:58:08.895263+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-21T17:50:02+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | GP di Las Vegas, strategie: è certa una sola sosta e l'undercut sarà poco efficace"
+   },
+   "last": "2026-11-21T17:58:08.895268+00:00"
   }
  },
- "story_seq": 9720,
+ "story_seq": 9722,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17203,22 +17230,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T17:53:03.257819+00:00",
+ "last_run": "2026-11-21T17:58:05.989313+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T17:54:21.866032+00:00",
-   "title": "Alonso Las Vegas FP1'de yarışmayacak, Crawford direksiyona geçecek",
-   "source": "GPblog"
-  },
-  {
-   "t": "2026-11-18T17:54:22.184557+00:00",
-   "title": "Mercedes, Antonelli'ye ADUO destekli motor yükseltmesi getiriyor, Russell'a yok",
-   "source": "GPFans"
-  },
   {
    "t": "2026-11-18T18:14:23.522441+00:00",
    "title": "Lawson, Las Vegas GP'de yağmur olursa \"sorun\" çıkabileceğinden endişeli",
@@ -18973,6 +18990,11 @@
    "t": "2026-11-21T17:48:08.872260+00:00",
    "title": "Ollie Bearman, Las Vegas'ta 35 sıra grid cezası aldı",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-21T17:58:13.626831+00:00",
+   "title": "Las Vegas GP: Tek pit stop bekleniyor, undercut etkisiz olacak",
+   "source": "Motorsport.com Italia"
   }
  ]
 }
