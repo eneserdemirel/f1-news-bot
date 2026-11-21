@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "a986448ef4a9536d": "2026-11-07T12:09:14.611253+00:00",
-  "67f58164110d5319": "2026-11-07T12:09:14.611253+00:00",
   "7c9517490c4f662b": "2026-11-07T12:14:13.672744+00:00",
   "5157a83e1c7f09fe": "2026-11-07T12:14:13.672744+00:00",
   "70200a253d4ff1b8": "2026-11-07T12:14:13.672744+00:00",
@@ -6890,7 +6888,8 @@
   "bacc19997fda1232": "2026-11-21T12:00:19.019983+00:00",
   "1bb3805db9940ecd": "2026-11-21T12:00:19.019983+00:00",
   "dc9856db77f3ee22": "2026-11-21T12:00:19.019983+00:00",
-  "5b472908eee14177": "2026-11-21T12:00:19.019983+00:00"
+  "5b472908eee14177": "2026-11-21T12:00:19.019983+00:00",
+  "f4239bc34e104778": "2026-11-21T12:10:19.542524+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17494,9 +17493,22 @@
     "RacingNews365 NL": "Exclusief: Bearman in gesprek met F1-concurrent Haas"
    },
    "last": "2026-11-21T12:00:21.711537+00:00"
+  },
+  "S9626": {
+   "title": "Domenicali explains why F1 is returning to V8 engines",
+   "first": "2026-11-21T12:10:21.480794+00:00",
+   "sources": {
+    "The Race": "2026-11-21T12:08:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "'We are not stupid people' - Domenicali on why F1 is going back to V8s"
+   },
+   "last": "2026-11-21T12:10:21.480815+00:00"
   }
  },
- "story_seq": 9625,
+ "story_seq": 9626,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17615,7 +17627,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T12:05:12.863555+00:00",
+ "last_run": "2026-11-21T12:10:19.542524+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -19470,6 +19482,11 @@
    "t": "2026-11-21T12:00:27.195448+00:00",
    "title": "Bearman'ın Haas'tan ayrılıp Alpine'e geçebileceği iddia ediliyor",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-21T12:10:26.100093+00:00",
+   "title": "F1 CEO'su Domenicali: V8 motorlara dönüş neden hızlandırıldı",
+   "source": "The Race"
   }
  ]
 }
