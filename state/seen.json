@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c6ca72b833485c49": "2026-11-07T08:58:47.763611+00:00",
   "96cb8d766c732d58": "2026-11-07T09:18:44.149738+00:00",
   "c17ea5ea615b1a86": "2026-11-07T09:18:44.149738+00:00",
   "6ec9c5ba8d05c20d": "2026-11-07T09:18:44.149738+00:00",
@@ -6828,7 +6827,10 @@
   "45f8b2d57305e55c": "2026-11-21T08:50:12.282628+00:00",
   "eb8d1db471660ccd": "2026-11-21T08:55:13.524506+00:00",
   "1c5089c7a7133219": "2026-11-21T08:55:13.524506+00:00",
-  "4967b587461aa9dd": "2026-11-21T08:55:13.524506+00:00"
+  "4967b587461aa9dd": "2026-11-21T08:55:13.524506+00:00",
+  "7267cdafe09b7136": "2026-11-21T09:00:18.484849+00:00",
+  "cfdd11eb402e6c8f": "2026-11-21T09:00:18.484849+00:00",
+  "86dc564036bab68f": "2026-11-21T09:00:18.484849+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16700,15 +16702,17 @@
    "first": "2026-11-21T07:55:21.294798+00:00",
    "sources": {
     "PlanetF1": "2026-11-21T07:54:04+00:00",
-    "GPblog": "2026-11-21T08:30:00+00:00"
+    "GPblog": "2026-11-21T08:30:00+00:00",
+    "Sky Sports F1": "2026-11-21T08:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "PlanetF1": "Toto Wolff insists George Russell was in ‘perfect position’ for pole",
-    "GPblog": "Wolff dismisses lack of tow for Russell as Verstappen inherits pole"
+    "GPblog": "Wolff dismisses lack of tow for Russell as Verstappen inherits pole",
+    "Sky Sports F1": "'George had perfect position' - Wolff defends Mercedes' Vegas Q3 strategy"
    },
-   "last": "2026-11-21T08:35:25.797614+00:00"
+   "last": "2026-11-21T09:00:20.817974+00:00"
   },
   "S9575": {
    "title": "Verstappen and Russell front row; Wolff predicts drama",
@@ -16891,9 +16895,35 @@
     "RacingNews365": "Toto Wolff 'has no clue' how Kimi Antonelli was able to pull off impossible F1 lap"
    },
    "last": "2026-11-21T08:50:16.459322+00:00"
+  },
+  "S9589": {
+   "title": "Carmelo Anthony criticises Ravens' Humphrey over remark",
+   "first": "2026-11-21T09:00:20.817949+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T08:51:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark"
+   },
+   "last": "2026-11-21T09:00:20.817967+00:00"
+  },
+  "S9590": {
+   "title": "Leclerc responds to journalist's revoked F1 accreditation",
+   "first": "2026-11-21T09:00:20.817978+00:00",
+   "sources": {
+    "GPFans": "2026-11-21T08:58:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Charles Leclerc weighs in on controversial F1 journalist ban"
+   },
+   "last": "2026-11-21T09:00:20.817982+00:00"
   }
  },
- "story_seq": 9588,
+ "story_seq": 9590,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17012,7 +17042,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T08:55:13.524506+00:00",
+ "last_run": "2026-11-21T09:00:18.484849+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18857,6 +18887,11 @@
    "t": "2026-11-21T08:50:22.787515+00:00",
    "title": "Wolff: Antonelli'nin Las Vegas turunu nasıl attığını bilmiyoruz",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-21T09:00:24.558290+00:00",
+   "title": "Leclerc, gazeteci yasağı tartışmasına yanıt verdi",
+   "source": "GPFans"
   }
  ]
 }
