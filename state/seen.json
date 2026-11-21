@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8ac7ac72e89abe48": "2026-11-07T16:30:02.397780+00:00",
-  "d209063bb7e207f1": "2026-11-07T16:30:02.397780+00:00",
-  "9d22981318379419": "2026-11-07T16:30:02.397780+00:00",
   "3850e600dbfae8ff": "2026-11-07T16:35:04.391115+00:00",
   "7df0b9dcbbb87d70": "2026-11-07T16:35:04.391115+00:00",
   "dc03a887bc65e564": "2026-11-07T16:35:04.391115+00:00",
@@ -6825,7 +6822,9 @@
   "dfc8da1069787dc0": "2026-11-21T16:23:01.690943+00:00",
   "7d3fa1a650c4dc14": "2026-11-21T16:23:01.690943+00:00",
   "99505f3617b2a091": "2026-11-21T16:28:05.161940+00:00",
-  "c5a2d4e2e12a85c6": "2026-11-21T16:28:05.161940+00:00"
+  "c5a2d4e2e12a85c6": "2026-11-21T16:28:05.161940+00:00",
+  "9f8d5474cd74a10a": "2026-11-21T16:33:02.222314+00:00",
+  "975910bc387ba60a": "2026-11-21T16:33:02.222314+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7022,23 +7021,6 @@
     "RacingNews365 NL": "Norris geeft toe na benauwd moment: \"Niet mijn beste seconden\""
    },
    "last": "2026-11-19T20:52:42.662574+00:00"
-  },
-  "S8889": {
-   "title": "Verstappen trusts F1 to proceed with Middle East races",
-   "first": "2026-11-19T08:33:46.131945+00:00",
-   "sources": {
-    "Sky Sports F1": "2026-11-19T08:00:00+00:00",
-    "GPblog": "2026-11-19T12:13:00+00:00",
-    "GPFans": "2026-11-19T16:27:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Sky Sports F1": "Verstappen trusts F1 chiefs over plan to proceed with Middle East races",
-    "GPblog": "Verstappen 'trusts' F1 to make right call on Middle East season finale",
-    "GPFans": "Max Verstappen gives 'trust' verdict on F1 travelling to Qatar and Abu Dhabi"
-   },
-   "last": "2026-11-19T16:30:39.423891+00:00"
   },
   "S8890": {
    "title": "Antonelli warns Red Bull will be strong in Las Vegas",
@@ -7244,45 +7226,6 @@
     "GPblog": "Leclerc revisits Mexico move on Hamilton as he questions 'harsh' penalty"
    },
    "last": "2026-11-19T22:01:57.959457+00:00"
-  },
-  "S8991": {
-   "title": "Stephen A. urges Skattebo to stop backflips (NFL)",
-   "first": "2026-11-19T16:20:58.090582+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T16:06:43+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "'Protect yourself': Stephen A. implores Skattebo to end backflips"
-   },
-   "last": "2026-11-19T16:30:39.423880+00:00"
-  },
-  "S8995": {
-   "title": "Toby Fournier basketball highlight",
-   "first": "2026-11-19T16:30:39.423851+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T16:11:37+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Toby Fournier gets the hoop and the harm"
-   },
-   "last": "2026-11-19T16:30:39.423872+00:00"
-  },
-  "S8996": {
-   "title": "NFL fantasy pass catcher trust list",
-   "first": "2026-11-19T16:30:39.423883+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T11:42:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Which of these 15 pass catchers should you trust going forward?"
-   },
-   "last": "2026-11-19T16:30:39.423886+00:00"
   },
   "S8997": {
    "title": "Mayweather felony charges over $200K check dismissed",
@@ -16929,9 +16872,35 @@
     "RacingNews365 NL": "Leclerc onthult 'bizar' tijdsverlies tijdens kwalificatie Las Vegas"
    },
    "last": "2026-11-21T16:28:07.646298+00:00"
+  },
+  "S9695": {
+   "title": "Formula 1 guide to avoiding emotional betting in Las Vegas",
+   "first": "2026-11-21T16:33:05.374475+00:00",
+   "sources": {
+    "Formula 1": "2026-11-21T16:33:05.374494+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "How F1 fans can avoid emotional betting in Las Vegas"
+   },
+   "last": "2026-11-21T16:33:05.374496+00:00"
+  },
+  "S9696": {
+   "title": "Ferrari collision leads to bizarre F1 crash in Las Vegas",
+   "first": "2026-11-21T16:33:05.374501+00:00",
+   "sources": {
+    "GPFans": "2026-11-21T16:28:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "GPFans": "Ferrari collision results in bizarre F1 crash"
+   },
+   "last": "2026-11-21T16:33:05.374506+00:00"
   }
  },
- "story_seq": 9694,
+ "story_seq": 9696,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17050,7 +17019,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T16:28:05.161940+00:00",
+ "last_run": "2026-11-21T16:33:02.222314+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -18835,6 +18804,11 @@
    "t": "2026-11-21T16:23:10.670994+00:00",
    "title": "Russell, Las Vegas'ta 'her şey hâlâ mümkün' dedi; üçüncü sırada yarışacak",
    "source": "RacingNews365"
+  },
+  {
+   "t": "2026-11-21T16:33:10.037855+00:00",
+   "title": "Ferrari F2004 ile 499P Modificata çarpıştı, Barselona'da kaza",
+   "source": "GPFans"
   }
  ]
 }
