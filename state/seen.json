@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "96064ddf570fdea3": "2026-11-07T15:14:12.410035+00:00",
-  "2f4f3a0bb1022a3b": "2026-11-07T15:14:12.410035+00:00",
   "eaacb1ff9a130bdc": "2026-11-07T15:19:14.494490+00:00",
   "3e65978f96d1abd5": "2026-11-07T15:19:14.494490+00:00",
   "3887143e78730584": "2026-11-07T15:19:14.494490+00:00",
@@ -6873,7 +6871,12 @@
   "4bcedabfd8efa93d": "2026-11-21T15:12:59.933974+00:00",
   "f7b7018ffcc992e7": "2026-11-21T15:12:59.933974+00:00",
   "511dc8ce3f06dea5": "2026-11-21T15:12:59.933974+00:00",
-  "a52fbdf58fccd2be": "2026-11-21T15:12:59.933974+00:00"
+  "a52fbdf58fccd2be": "2026-11-21T15:12:59.933974+00:00",
+  "a8d3c31077cca217": "2026-11-21T15:18:00.259686+00:00",
+  "2efb87e20fe1e93e": "2026-11-21T15:18:00.259686+00:00",
+  "98d06093139ac8a6": "2026-11-21T15:18:00.259686+00:00",
+  "11df3e6a1ae571c3": "2026-11-21T15:18:00.259686+00:00",
+  "1f847781fafbb0dc": "2026-11-21T15:18:00.259686+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16202,7 +16205,7 @@
    "titles": {
     "ESPN F1": "Transfer rumors, news: Could Scott McTominay return to Man United?"
    },
-   "last": "2026-11-21T11:35:20.534414+00:00"
+   "last": "2026-11-21T15:18:02.572261+00:00"
   },
   "S9622": {
    "title": "Untelevised footage emerges of Verstappen-Russell FP3 clash",
@@ -16586,14 +16589,14 @@
    "title": "England captaincy dilemma after Jacks hand injury (rugby)",
    "first": "2026-11-21T14:08:03.119906+00:00",
    "sources": {
-    "ESPN F1": "2026-11-21T13:35:19+00:00"
+    "ESPN F1": "2026-11-21T13:22:00+00:00"
    },
    "posted": false,
    "alerted": false,
    "titles": {
     "ESPN F1": "England face captaincy dilemma after deputy Jacks suffers hand injury"
    },
-   "last": "2026-11-21T14:08:03.119910+00:00"
+   "last": "2026-11-21T15:18:02.572246+00:00"
   },
   "S9651": {
    "title": "Raptors 105-102 Pistons NBA game recap",
@@ -16841,9 +16844,22 @@
     "Motorsport Week": "Lando Norris demands urgent McLaren improvements amid qualifying disappointment in Las Vegas"
    },
    "last": "2026-11-21T15:13:03.600542+00:00"
+  },
+  "S9670": {
+   "title": "Domenicali says F1 still 'very small' in US",
+   "first": "2026-11-21T15:18:02.572267+00:00",
+   "sources": {
+    "The Race": "2026-11-21T15:13:40+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "F1 still 'very small' in US - Domenicali"
+   },
+   "last": "2026-11-21T15:18:02.572273+00:00"
   }
  },
- "story_seq": 9669,
+ "story_seq": 9670,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16962,7 +16978,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T15:12:59.933974+00:00",
+ "last_run": "2026-11-21T15:18:00.259686+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -18747,6 +18763,11 @@
    "t": "2026-11-21T15:13:07.692643+00:00",
    "title": "Norris, McLaren'dan acil iyileştirme talep etti; Las Vegas'ta sıralama hayal kırıklığı",
    "source": "Motorsport Week"
+  },
+  {
+   "t": "2026-11-21T15:18:05.261986+00:00",
+   "title": "Domenicali: F1, ABD'de hâlâ 'çok küçük', ama hızla büyüyor",
+   "source": "The Race"
   }
  ]
 }
