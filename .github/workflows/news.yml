@@ -17,6 +17,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # döngü bitince bir sonrakini kendisi başlatabilsin
 
 concurrency:
   group: f1-news-bot-${{ github.event.inputs.mode == 'test' && 'test' || 'loop' }}
@@ -68,3 +69,12 @@ jobs:
               sleep "$wait"
             fi
           done
+
+      # GitHub'ın zamanlayıcısı bazen saatlerce gecikiyor; bu yüzden döngü bitince (hata verse bile)
+      # bir sonraki döngüyü kendisi başlatır. Zamanlayıcı sadece yedek olarak kalır.
+      # Elle "Cancel" yapılırsa zincir durur.
+      - name: Sonraki döngüyü başlat
+        if: ${{ !cancelled() && github.event.inputs.mode != 'test' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run news.yml --ref main -f mode=run || echo "Yeni döngü başlatılamadı, zamanlayıcı başlatacak"
