@@ -85,30 +85,40 @@ For EVERY new item return one JSON object with:
   false for other series, road cars or other sports
 Return exactly ONE JSON array that contains the objects for all items, and nothing else."""
 
-WRITE_PROMPT = """Bir Formula 1 haberini Türkçe özetliyorsun.
+WRITE_PROMPT = """You are writing a Formula 1 news post for an English-language X account.
 
-Kaynak site: <<SOURCE>>
-Başlık: <<TITLE>>
-Haber metni:
-<metin>
+Source site: <<SOURCE>>
+Headline: <<TITLE>>
+Article text:
+<text>
 <<TEXT>>
-</metin>
+</text>
 
-Kurallar:
-1. "title_tr": haberin özünü veren kısa bir Türkçe başlık (en fazla yaklaşık 10 kelime). Haberi
-   olduğu gibi söylesin; merak uyandırmak için bilgiyi saklama, abartma, emoji kullanma.
-2. "post_tr": haberin Türkçe özeti, başlığın altına gelecek. Başlığı aynen tekrar etme. Basit bir
-   haberse 1-2 cümle, detaylı bir haberse en önemli bilgileri içeren kısa bir paragraf
-   (en fazla yaklaşık 400 karakter). Önemli bilgileri atma ama ikinci planda kalan arka plan
-   bilgilerini ve tekrarları çıkar.
-3. Sadece metinde yazanlara tamamen sadık kal. Metinde olmayan bilgi, yorum veya tahmin ekleme.
-   Metin sadece bir başlıktan ibaretse sadece başlıktaki bilgiyi aktar.
-4. Haberde önemli bir demeç varsa en önemli kısmını anlamını değiştirmeden Türkçeye çevir ve
-   kimin söylediğini belirterek özete tırnak içinde ekle. Sadece metinde geçen sözleri kullan.
-5. Hashtag, emoji, link veya kaynak satırı ekleme.
-6. "official": haber resmi bir duyuru ya da resmi açıklamaysa (takım, FIA, F1, mahkeme vb. tarafından
-   resmen açıklanmış) true, değilse false.
-Sadece JSON döndür: {"title_tr": "...", "post_tr": "...", "official": true}"""
+Rules:
+1. "title_tr": a short Turkish headline giving the core of the story (about 10 words max). State the
+   news plainly; no clickbait, no exaggeration, no emoji.
+2. "type": "quote" if the story is mainly about something a person said (an interview, press
+   conference, statement); otherwise "news".
+3. "post_en": the English post. It must start with "🚨 | ".
+   - type "quote": first line "🚨 | <Who> on <topic>:" (e.g. "🚨 | Fred Vasseur on Charles Leclerc's
+     frustration after qualifying:"). Then, on the next lines, the most important parts of the
+     statement, each sentence group on its own line inside curly quotes “ ” (no blank lines between). If the words are in
+     English in the text, copy them exactly. If they are in another language, translate them into
+     English staying completely faithful to the original meaning. Use only words that appear in the
+     text as said by that person; never invent or paraphrase them into new quotes. Do not write the
+     whole statement: pick only the relevant, most important part. The whole post should normally be
+     about 300-500 characters; it may go a little over 500 if needed to keep the key part intact, and
+     a short statement can be shorter.
+   - type "news": a summary strictly bound to the text. 1 sentence for a simple story, otherwise a
+     short first paragraph with the main news and, if needed, a second short paragraph with the key
+     details, separated by a blank line (about 400 characters max in total, 280 for simple stories).
+     Drop background and repetition but keep the important facts.
+4. Stay strictly faithful to the text. Do not add any information, interpretation, prediction or
+   context that is not in the text. If the text is only a headline, use only the headline.
+5. No hashtags, links, extra emoji or source line (the source line is added automatically).
+6. "official": true if this is an official announcement or statement (team, FIA, F1, court etc.),
+   otherwise false.
+Return only JSON: {"title_tr": "...", "type": "news", "post_en": "...", "official": false}"""
 
 
 # ---------------------------------------------------------------- helpers
@@ -570,14 +580,15 @@ def article_text(it):
 
 
 def write_post(client, model, it, effort="medium"):
-    text = article_text(it) or "(metin yok, sadece başlık var)"
+    text = article_text(it) or "(no article text, headline only)"
     prompt = (WRITE_PROMPT.replace("<<SOURCE>>", it["source"])
               .replace("<<TITLE>>", it["title"]).replace("<<TEXT>>", text))
     data = extract_json(ask_claude(client, model, prompt, 3000, effort=effort, thinking=False), "{")
-    body = (data.get("post_tr") or "").strip().lstrip("🚨| ").strip()
     title = (data.get("title_tr") or "").strip().lstrip("🚨| ").strip().rstrip(".")
-    # Paylaşım metni: "🚨 | BÜYÜK HARFLİ BAŞLIK", boş satır, özet
-    data["post_tr"] = f"{PREFIX}{tr_upper(title)}\n\n{body}" if title else fix_prefix(body)
+    data["title_tr"] = title or it["title"]
+    body = (data.get("post_en") or data.get("post_tr") or "").strip()
+    # Paylaşım metni: "🚨 | ..." İngilizce gönderi, boş satır, "📰 Kaynak"
+    data["post_en"] = f"{fix_prefix(body)}\n\n📰 {it['source']}"
     return data
 
 
@@ -614,7 +625,8 @@ def alert(state, msg, hours=3):
 def format_msg(it, p, header=""):
     e = html.escape
     official = "✅ <b>Resmi</b>\n" if p.get("official") is True else ""
-    return f'{official}<pre>{e(p["post_tr"])}</pre>\n🔗 {e(it["link"])}'
+    title = f"<b>{e(tr_upper(p['title_tr']))}</b>\n\n" if p.get("title_tr") else ""
+    return f'{official}{title}<pre>{e(p["post_en"])}</pre>\n🔗 {e(it["link"])}'
 
 
 def trend_line(story, window):
