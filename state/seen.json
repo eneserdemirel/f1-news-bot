@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "8e7025176c05a9ce": "2026-11-07T08:03:55.718222+00:00",
-  "9f21f4400c11a088": "2026-11-07T08:03:55.718222+00:00",
-  "8b919ffe4a7a2843": "2026-11-07T08:03:55.718222+00:00",
   "1eb5e38b907b918f": "2026-11-07T08:23:45.089440+00:00",
   "ab0a20815f9b8302": "2026-11-07T08:23:45.089440+00:00",
   "cbfa2824ae1995d0": "2026-11-07T08:23:45.089440+00:00",
@@ -6818,7 +6815,10 @@
   "0b928d9528077ab0": "2026-11-21T07:55:16.395370+00:00",
   "7937efaa99704401": "2026-11-21T07:55:16.395370+00:00",
   "242dd8380db91ca3": "2026-11-21T07:55:16.395370+00:00",
-  "beab7344265dac00": "2026-11-21T08:00:15.752228+00:00"
+  "beab7344265dac00": "2026-11-21T08:00:15.752228+00:00",
+  "6ff839c9b2d835d0": "2026-11-21T08:05:12.910949+00:00",
+  "5ffe702a47a491d7": "2026-11-21T08:05:12.910949+00:00",
+  "9cb27c2b1db050c3": "2026-11-21T08:05:12.910949+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7333,19 +7333,6 @@
     "Motorsport-Total": "Honda verrät: Daran arbeitet der Hersteller im Hinblick auf 2027 - Motorsport-Total.com"
    },
    "last": "2026-11-19T14:21:09.321651+00:00"
-  },
-  "S8880": {
-   "title": "Rosberg says he and Hamilton will never be best friends",
-   "first": "2026-11-19T08:03:48.364340+00:00",
-   "sources": {
-    "GPFans": "2026-11-19T07:57:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "GPFans": "Nico Rosberg reveals relationship update with Lewis Hamilton: 'We will not be best friends ever\""
-   },
-   "last": "2026-11-19T08:03:48.364345+00:00"
   },
   "S8881": {
    "title": "Cold overnight temperatures forecast for Las Vegas GP sessions",
@@ -16844,14 +16831,16 @@
    "title": "Verstappen explains Vegas car problem to Dutch media, rules out one cause",
    "first": "2026-11-21T07:50:22.367775+00:00",
    "sources": {
-    "GPblog": "2026-11-21T07:45:00+00:00"
+    "GPblog": "2026-11-21T07:45:00+00:00",
+    "RacingNews365 NL": "2026-11-21T08:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "GPblog": "Verstappen knows what's wrong with his car and rules out one possibility"
+    "GPblog": "Verstappen knows what's wrong with his car and rules out one possibility",
+    "RacingNews365 NL": "Verstappen zeer geheimzinnig over 'onoplosbaar' Red Bull-probleem"
    },
-   "last": "2026-11-21T07:50:22.367779+00:00"
+   "last": "2026-11-21T08:05:16.151230+00:00"
   },
   "S9573": {
    "title": "Coby White massive block (basketball highlight)",
@@ -16904,9 +16893,22 @@
     "Formula 1": "Russell stunned by 'insane’ tow power in Las Vegas"
    },
    "last": "2026-11-21T08:00:17.997760+00:00"
+  },
+  "S9577": {
+   "title": "Lawson says Las Vegas qualifying left him with unanswered car questions",
+   "first": "2026-11-21T08:05:16.151203+00:00",
+   "sources": {
+    "RacingNews365": "2026-11-21T08:00:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365": "Liam Lawson expresses 'buried' fear after stressful Las Vegas experience"
+   },
+   "last": "2026-11-21T08:05:16.151222+00:00"
   }
  },
- "story_seq": 9576,
+ "story_seq": 9577,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17025,7 +17027,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T08:00:15.752228+00:00",
+ "last_run": "2026-11-21T08:05:12.910949+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18860,6 +18862,11 @@
    "t": "2026-11-21T08:00:21.890137+00:00",
    "title": "Russell, Las Vegas'taki 'çılgın' slipstream gücüne şaşırdı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-21T08:05:20.986445+00:00",
+   "title": "Lawson, Las Vegas'taki Q3'te yaşanan kaosu ve 'gömülme' korkusunu anlattı",
+   "source": "RacingNews365"
   }
  ]
 }
