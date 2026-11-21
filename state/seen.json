@@ -6820,7 +6820,11 @@
   "5ffe702a47a491d7": "2026-11-21T08:05:12.910949+00:00",
   "9cb27c2b1db050c3": "2026-11-21T08:05:12.910949+00:00",
   "f350d1b808529271": "2026-11-21T08:10:14.645248+00:00",
-  "878f79037ccb1520": "2026-11-21T08:10:14.645248+00:00"
+  "878f79037ccb1520": "2026-11-21T08:10:14.645248+00:00",
+  "0c3834953a1e0931": "2026-11-21T08:15:20.752137+00:00",
+  "3e52877622aad3a0": "2026-11-21T08:15:20.752137+00:00",
+  "642999a24b50373e": "2026-11-21T08:15:20.752137+00:00",
+  "07d3ed782909acc0": "2026-11-21T08:15:20.752137+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7350,19 +7354,6 @@
     "GPblog": "Las Vegas GP weather forecast warns of near-freezing temperatures"
    },
    "last": "2026-11-19T21:47:25.405927+00:00"
-  },
-  "S8882": {
-   "title": "Cadillac's ex-Red Bull recruit starts work after Alpine saga",
-   "first": "2026-11-19T08:13:47.195784+00:00",
-   "sources": {
-    "The Race": "2026-11-19T08:09:19+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "The Race": "Ex-Red Bull hire Cadillac stole from Alpine finally joins"
-   },
-   "last": "2026-11-19T08:13:47.195789+00:00"
   },
   "S8883": {
    "title": "Norris admits Brazil podium celebration mishap was not his finest",
@@ -16016,16 +16007,18 @@
    "sources": {
     "Sky Sports F1": "2026-11-21T07:00:00+00:00",
     "RacingNews365": "2026-11-21T06:30:00+00:00",
-    "RacingNews365 NL": "2026-11-21T06:30:00+00:00"
+    "RacingNews365 NL": "2026-11-21T06:30:00+00:00",
+    "GPFans": "2026-11-21T08:14:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Sky Sports F1": "'Somebody’s got to stand up to that guy' - Russell slams Verstappen after clash",
     "RacingNews365": "George Russell reignites fiery Max Verstappen feud: 'Someone has to stand up to that guy'",
-    "RacingNews365 NL": "Russell haalt hard uit naar Verstappen: \"Iemand moet tegen die gast opstaan\""
+    "RacingNews365 NL": "Russell haalt hard uit naar Verstappen: \"Iemand moet tegen die gast opstaan\"",
+    "GPFans": "George Russell fumes after Max Verstappen incident: 'Somebody's got to stand up to that guy'"
    },
-   "last": "2026-11-21T07:46:09.648201+00:00"
+   "last": "2026-11-21T08:15:27.258393+00:00"
   },
   "S9516": {
    "title": "Hamilton devastated, Leclerc angry after Ferrari Q2 exits",
@@ -16557,15 +16550,17 @@
    "first": "2026-11-21T07:43:05.395619+00:00",
    "sources": {
     "Auto Motor und Sport": "2026-11-21T05:14:24+00:00",
-    "AS": "2026-11-21T06:06:27+00:00"
+    "AS": "2026-11-21T06:06:27+00:00",
+    "Motorsport.com Italia": "2026-11-21T08:06:39+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Auto Motor und Sport": "Formel 1: Max Verstappen erhält die Pole-Position von Kimi Antonelli",
-    "AS": "La pole del rebufo de Antonelli es para Verstappen"
+    "AS": "La pole del rebufo de Antonelli es para Verstappen",
+    "Motorsport.com Italia": "F1 | Mercedes, Antonelli sorprende tutti a Las Vegas. Russell: pole sfumata e rimpianti"
    },
-   "last": "2026-11-21T07:43:05.395657+00:00"
+   "last": "2026-11-21T08:15:27.258381+00:00"
   },
   "S9552": {
    "title": "Sainz says top-10 unrealistic after starting 20th",
@@ -16921,9 +16916,35 @@
     "Formula 1": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap"
    },
    "last": "2026-11-21T08:10:17.992361+00:00"
+  },
+  "S9579": {
+   "title": "Gazzetta reports Verstappen middle-finger gesture at Russell",
+   "first": "2026-11-21T08:15:27.258397+00:00",
+   "sources": {
+    "Gazzetta dello Sport": "2026-11-21T08:10:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Gazzetta dello Sport": "Verstappen fa il dito medio a Russell e finisce sotto investigazione: l'analisi"
+   },
+   "last": "2026-11-21T08:15:27.258401+00:00"
+  },
+  "S9580": {
+   "title": "Alonso says Honda engine makes rivals keep safety distance",
+   "first": "2026-11-21T08:15:27.258405+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-21T08:08:47+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Fernando Alonso: Bei einem Honda-Motor nehmen alle anderen Sicherheitsabstand - Motorsport-Total.com"
+   },
+   "last": "2026-11-21T08:15:27.258409+00:00"
   }
  },
- "story_seq": 9578,
+ "story_seq": 9580,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17042,7 +17063,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T08:10:14.645248+00:00",
+ "last_run": "2026-11-21T08:15:20.752137+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18887,6 +18908,16 @@
    "t": "2026-11-21T08:10:21.645447+00:00",
    "title": "Alpine, Gasly'nin Q2 turuna rağmen hayal kırıklığına uğradı",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-21T08:15:31.702979+00:00",
+   "title": "Alonso: Honda motoruyla herkes mesafe bırakıyor",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-21T08:15:32.120147+00:00",
+   "title": "Verstappen, Russell'a orta parmak gösterdi ve soruşturma altına alındı",
+   "source": "Gazzetta dello Sport"
   }
  ]
 }
