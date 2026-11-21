@@ -6837,7 +6837,9 @@
   "0fd37cbb21626825": "2026-11-21T09:15:12.338029+00:00",
   "c602afb57ccad0b5": "2026-11-21T09:20:16.099358+00:00",
   "0f362780ed01faa5": "2026-11-21T09:20:16.099358+00:00",
-  "a5959305c7f791fa": "2026-11-21T09:20:16.099358+00:00"
+  "a5959305c7f791fa": "2026-11-21T09:20:16.099358+00:00",
+  "7f2cde15770eea81": "2026-11-21T09:25:12.249145+00:00",
+  "53d419b010f2bef3": "2026-11-21T09:25:12.249145+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15874,7 +15876,8 @@
     "Motorsport.com Italia": "2026-11-21T05:52:21+00:00",
     "Corriere dello Sport": "2026-11-21T07:03:54+00:00",
     "Crash.net": "2026-11-21T08:46:11+00:00",
-    "Gazzetta dello Sport": "2026-11-21T09:09:16+00:00"
+    "Gazzetta dello Sport": "2026-11-21T09:09:16+00:00",
+    "Motorsport-Total": "2026-11-21T09:10:07+00:00"
    },
    "posted": true,
    "alerted": false,
@@ -15883,9 +15886,10 @@
     "Motorsport.com Italia": "F1 | Leclerc duro dopo l'eliminazione in Q2: \"Sono incazzato. Oggi non ne abbiamo fatta una giusta\"",
     "Corriere dello Sport": "Nuovo disastro Ferrari a Las Vegas, Leclerc si infuria: \"Son incaz... non ne abbiamo messa una dritta\"",
     "Crash.net": "Charles Leclerc “very angry” as Ferrari's biggest weakness exposed in worst qualifying of F1 2026 at Las Vegas GP",
-    "Gazzetta dello Sport": "Leclerc, frustrazione alle stelle: \"Sono incazzato, non ne abbiamo messa una dritta\""
+    "Gazzetta dello Sport": "Leclerc, frustrazione alle stelle: \"Sono incazzato, non ne abbiamo messa una dritta\"",
+    "Motorsport-Total": "Leclerc schimpft nach doppeltem Q2-Aus: \"Bin im Moment sehr wütend!\" - Motorsport-Total.com"
    },
-   "last": "2026-11-21T09:20:19.577042+00:00"
+   "last": "2026-11-21T09:25:15.280161+00:00"
   },
   "S9517": {
    "title": "Winners and losers from Vegas qualifying",
@@ -16990,9 +16994,22 @@
     "Motorsport-Total": "Max Verstappen auf der Las-Vegas-Pole: \"Der Windschatten ist verrückt\" - Motorsport-Total.com"
    },
    "last": "2026-11-21T09:15:17.619430+00:00"
+  },
+  "S9595": {
+   "title": "Analysis of how much tow was worth in Vegas qualifying",
+   "first": "2026-11-21T09:25:15.280134+00:00",
+   "sources": {
+    "The Race": "2026-11-21T09:24:16+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "What ‘crazy’ tow was actually worth in Vegas qualifying"
+   },
+   "last": "2026-11-21T09:25:15.280153+00:00"
   }
  },
- "story_seq": 9594,
+ "story_seq": 9595,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17111,7 +17128,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T09:20:16.099358+00:00",
+ "last_run": "2026-11-21T09:25:12.249145+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18955,6 +18972,11 @@
   {
    "t": "2026-11-21T09:10:22.488695+00:00",
    "title": "2026 F1 sezonunda takım arkadaşları sıralamada karşılaştırılıyor",
+   "source": "The Race"
+  },
+  {
+   "t": "2026-11-21T09:25:19.918069+00:00",
+   "title": "Las Vegas sıralamasında Antonelli'nin en hızlı turu yardımla geldi",
    "source": "The Race"
   }
  ]
