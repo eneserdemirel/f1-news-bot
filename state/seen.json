@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "be68e9b1270344f3": "2026-11-07T15:44:20.821742+00:00",
-  "a53b4b76a897f6cc": "2026-11-07T15:44:20.821742+00:00",
-  "092a8dc71036b213": "2026-11-07T15:44:20.821742+00:00",
-  "95fea781694e782d": "2026-11-07T15:44:20.821742+00:00",
-  "00e5d65d4b00abac": "2026-11-07T15:44:20.821742+00:00",
-  "e2ad18f8838066d4": "2026-11-07T15:44:20.821742+00:00",
   "cd36d0bc6c770f3a": "2026-11-07T15:50:02.357802+00:00",
   "c59bc6fe40647512": "2026-11-07T15:50:02.357802+00:00",
   "7547e7b0f117841f": "2026-11-07T15:50:02.357802+00:00",
@@ -6868,7 +6862,10 @@
   "59aece5b8da97217": "2026-11-21T15:43:02.236969+00:00",
   "2b02b1cb7a65dee8": "2026-11-21T15:43:02.236969+00:00",
   "8dd1203fddb50570": "2026-11-21T15:43:02.236969+00:00",
-  "77f4055ec9e43284": "2026-11-21T15:43:02.236969+00:00"
+  "77f4055ec9e43284": "2026-11-21T15:43:02.236969+00:00",
+  "ae935d81e40697ff": "2026-11-21T15:48:03.908703+00:00",
+  "c73aa6d29475abc8": "2026-11-21T15:48:03.908703+00:00",
+  "4c30c31b8804b8af": "2026-11-21T15:48:03.908703+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16903,9 +16900,35 @@
     "PlanetF1": "Max Verstappen reveals enlightening insight into ‘weird’ Red Bull issues"
    },
    "last": "2026-11-21T15:43:09.243524+00:00"
+  },
+  "S9683": {
+   "title": "Malachi Toney says he is almost 100% after injury",
+   "first": "2026-11-21T15:48:06.004180+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:17:59+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Malachi Toney on injury: 'I'm almost 100%'"
+   },
+   "last": "2026-11-21T15:48:06.004199+00:00"
+  },
+  "S9684": {
+   "title": "Ime Udoka criticises Rockets' defensive effort and attention to detail",
+   "first": "2026-11-21T15:48:06.004204+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T12:46:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'"
+   },
+   "last": "2026-11-21T15:48:06.004208+00:00"
   }
  },
- "story_seq": 9682,
+ "story_seq": 9684,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17024,17 +17047,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T15:43:02.236969+00:00",
+ "last_run": "2026-11-21T15:48:03.908703+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T15:44:21.758908+00:00",
-   "title": "Erken şampiyonluğa rağmen Toto Wolff yeni bir Mercedes hakimiyeti görmüyor",
-   "source": "Motorsport-Total"
-  },
   {
    "t": "2026-11-18T16:04:19.630300+00:00",
    "title": "DZE: 15 yılı aşkın süredir F1 gece yarışlarını aydınlatan İtalyan uzmanlık",
