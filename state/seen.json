@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "513e2a92e5440a99": "2026-11-07T18:15:02.395957+00:00",
-  "b065a215e8bc55a4": "2026-11-07T18:15:02.395957+00:00",
-  "ded9f5f8f30e98fc": "2026-11-07T18:15:02.395957+00:00",
-  "425d33f617f94e72": "2026-11-07T18:15:02.395957+00:00",
   "1746bab9dc6659d5": "2026-11-07T18:20:00.439346+00:00",
   "0c1f164b637374f8": "2026-11-07T18:20:00.439346+00:00",
   "f315b6749089ea9b": "2026-11-07T18:25:04.265290+00:00",
@@ -6812,7 +6808,9 @@
   "39fc1555b85493bf": "2026-11-21T18:08:02.201453+00:00",
   "dcc90bb785980e8e": "2026-11-21T18:13:01.699916+00:00",
   "9c67c2a1566a2a92": "2026-11-21T18:13:01.699916+00:00",
-  "affd38a8b3c7817a": "2026-11-21T18:13:01.699916+00:00"
+  "affd38a8b3c7817a": "2026-11-21T18:13:01.699916+00:00",
+  "0fc5f3f6cfabf7b9": "2026-11-21T18:18:07.688830+00:00",
+  "6ddd55ab18525b6a": "2026-11-21T18:18:07.688830+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15619,14 +15617,16 @@
    "title": "Verstappen identifies Ferrari weakness costing top speed in Vegas",
    "first": "2026-11-21T10:35:20.026713+00:00",
    "sources": {
-    "Motorsport-Total": "2026-11-21T10:33:55+00:00"
+    "Motorsport-Total": "2026-11-21T10:33:55+00:00",
+    "FormulaPassion": "2026-11-21T18:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport-Total": "Verstappen deckt Ferraris Schwachstelle auf: Ein Detail kostet Topspeed - Motorsport-Total.com"
+    "Motorsport-Total": "Verstappen deckt Ferraris Schwachstelle auf: Ein Detail kostet Topspeed - Motorsport-Total.com",
+    "FormulaPassion": "Verstappen: “L’aletta sullo scarico Ferrari qui è un grave svantaggio, dovrebbero capirlo da soli”"
    },
-   "last": "2026-11-21T10:35:20.026720+00:00"
+   "last": "2026-11-21T18:18:10.436530+00:00"
   },
   "S9610": {
    "title": "Hulkenberg wanted more time as Audi fall short of Q3 in Vegas",
@@ -16868,7 +16868,7 @@
    "titles": {
     "ESPN F1": "Maresca questions Haaland's disallowed goal: 'Not a foul'"
    },
-   "last": "2026-11-21T16:58:07.440040+00:00"
+   "last": "2026-11-21T18:18:10.436517+00:00"
   },
   "S9704": {
    "title": "Fantasy basketball adds and NBA bets for Saturday",
@@ -17289,17 +17289,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T18:13:01.699916+00:00",
+ "last_run": "2026-11-21T18:18:07.688830+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T18:14:23.522441+00:00",
-   "title": "Lawson, Las Vegas GP'de yağmur olursa \"sorun\" çıkabileceğinden endişeli",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-18T18:24:17.548400+00:00",
    "title": "Montezemolo: Ferrari'ye gitmemek Antonelli'nin şansı",
