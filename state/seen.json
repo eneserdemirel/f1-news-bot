@@ -6857,7 +6857,10 @@
   "4073aca859343b2e": "2026-11-21T10:40:14.478341+00:00",
   "36678c7aded9ec01": "2026-11-21T10:40:14.478341+00:00",
   "3ac5c75f949ca610": "2026-11-21T10:40:14.478341+00:00",
-  "1785a94a5987aba7": "2026-11-21T10:40:14.478341+00:00"
+  "1785a94a5987aba7": "2026-11-21T10:40:14.478341+00:00",
+  "2a72c4e87580d0ce": "2026-11-21T10:45:20.659783+00:00",
+  "92675f5498b53faf": "2026-11-21T10:45:20.659783+00:00",
+  "9370eedb6cc72c1d": "2026-11-21T10:45:20.659783+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15222,7 +15225,7 @@
     "FormulaPassion": "Duello con Russell, Verstappen se la cava con un warning",
     "Gazzetta dello Sport": "Russell-Verstappen, scintille e dito medio a Las Vegas: cosa è successo e perché la Fia ha graziato Max"
    },
-   "last": "2026-11-21T08:40:17.167335+00:00"
+   "last": "2026-11-21T10:45:26.511895+00:00"
   },
   "S9468": {
    "title": "Raptors vs. Pistons live score (NBA)",
@@ -15978,15 +15981,17 @@
    "first": "2026-11-21T07:43:05.395219+00:00",
    "sources": {
     "Autosport": "2026-11-21T06:33:00+00:00",
-    "Motorsport.com Italia": "2026-11-21T06:05:04+00:00"
+    "Motorsport.com Italia": "2026-11-21T06:05:04+00:00",
+    "FormulaPassion": "2026-11-21T10:35:37+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Autosport": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
-    "Motorsport.com Italia": "F1 | Hamilton eliminato in Q2: il fondo rotto e un problema di erogazione di energia sono stati decisivi"
+    "Motorsport.com Italia": "F1 | Hamilton eliminato in Q2: il fondo rotto e un problema di erogazione di energia sono stati decisivi",
+    "FormulaPassion": "L’analisi di Hamilton: “0”3 persi dal danno al fondo, 0″6 dal problema al deployment. E non avevo scia”"
    },
-   "last": "2026-11-21T07:46:09.648114+00:00"
+   "last": "2026-11-21T10:45:26.511906+00:00"
   },
   "S9522": {
    "title": "Russell says Verstappen acts superior after FP3 clash",
@@ -17242,9 +17247,22 @@
     "Motorsport-Total": "Audi in Vegas nicht auf Q3-Niveau: Nico Hülkenberg hätte gern mehr Zeit gehabt - Motorsport-Total.com"
    },
    "last": "2026-11-21T10:35:20.026743+00:00"
+  },
+  "S9611": {
+   "title": "Vasseur says Ferrari lacked pace but not a catastrophe",
+   "first": "2026-11-21T10:45:26.511911+00:00",
+   "sources": {
+    "FormulaPassion": "2026-11-21T10:11:13+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "FormulaPassion": "Vasseur: “Ci mancava ritmo, ma non era una catastrofe dato che in Q1 eravamo terzi”"
+   },
+   "last": "2026-11-21T10:45:26.511915+00:00"
   }
  },
- "story_seq": 9610,
+ "story_seq": 9611,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17363,17 +17381,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T10:40:14.478341+00:00",
+ "last_run": "2026-11-21T10:45:20.659783+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
  "last_digest_at": "2026-11-20T19:00:59.786453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T10:42:59.434130+00:00",
-   "title": "Claire Williams, Las Vegas GP'de Channel 4 için yeniden yorumcu olacak",
-   "source": "PlanetF1"
-  },
   {
    "t": "2026-11-18T11:02:55.747965+00:00",
    "title": "Piastri, Las Vegas GP'de 10 sıra grid cezası alacak",
@@ -19203,6 +19216,16 @@
    "t": "2026-11-21T10:35:25.593715+00:00",
    "title": "Verstappen, Ferrari'nin zayıf noktasını ortaya koydu: Tek bir detay en yüksek hızı kaybettiriyor",
    "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-21T10:45:36.011903+00:00",
+   "title": "Vasseur: Ritim eksikti ama Q1'de üçüncü olduğumuz için felaket değildi",
+   "source": "FormulaPassion"
+  },
+  {
+   "t": "2026-11-21T10:45:36.493774+00:00",
+   "title": "Hamilton, Las Vegas'ta Q2'de 12. oldu, Q3'e çıkamadı",
+   "source": "FormulaPassion"
   }
  ]
 }
