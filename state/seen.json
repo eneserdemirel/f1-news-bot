@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "944963d1d235f8d8": "2026-11-07T18:45:00.866357+00:00",
   "bfd331a120181bba": "2026-11-07T18:50:00.018348+00:00",
   "6361090f486c697a": "2026-11-07T18:50:00.018348+00:00",
   "de42b8517ae685a3": "2026-11-07T18:55:02.100717+00:00",
@@ -6811,7 +6810,13 @@
   "bb8f928580b9ebc7": "2026-11-21T18:33:02.396608+00:00",
   "85c6c3037da22e1b": "2026-11-21T18:38:02.500650+00:00",
   "ba62c99dbb00ac2e": "2026-11-21T18:43:00.547624+00:00",
-  "9cfb092d5185b3dc": "2026-11-21T18:43:00.547624+00:00"
+  "9cfb092d5185b3dc": "2026-11-21T18:43:00.547624+00:00",
+  "ba3c11a186e47a0a": "2026-11-21T18:48:02.909449+00:00",
+  "3ee8470a389854ba": "2026-11-21T18:48:02.909449+00:00",
+  "3be2520280e1dbd8": "2026-11-21T18:48:02.909449+00:00",
+  "309a86aa3e023b84": "2026-11-21T18:48:02.909449+00:00",
+  "1866003a7818e011": "2026-11-21T18:48:02.909449+00:00",
+  "51990a1451367fee": "2026-11-21T18:48:02.909449+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16223,14 +16228,16 @@
    "title": "Verstappen dismisses Russell's post-qualifying accusations as not worth time",
    "first": "2026-11-21T14:28:06.722504+00:00",
    "sources": {
-    "Motorsport.com Italia": "2026-11-21T14:24:05+00:00"
+    "Motorsport.com Italia": "2026-11-21T14:24:05+00:00",
+    "GPFans": "2026-11-21T18:45:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "Motorsport.com Italia": "F1 | Max risponde a Russell snobbando l'accaduto: \"Non vale la pena perdere tempo con questa storia\""
+    "Motorsport.com Italia": "F1 | Max risponde a Russell snobbando l'accaduto: \"Non vale la pena perdere tempo con questa storia\"",
+    "GPFans": "Max Verstappen gives blunt reaction after being blasted by George Russell"
    },
-   "last": "2026-11-21T14:28:06.722525+00:00"
+   "last": "2026-11-21T18:48:10.418347+00:00"
   },
   "S9655": {
    "title": "Gladbach vs. Dortmund match team stats",
@@ -17260,9 +17267,74 @@
     "ESPN F1": "Maro Itoje: Lewis Moody's presence gave England 'extra lift' in New Zealand win"
    },
    "last": "2026-11-21T18:43:02.714542+00:00"
+  },
+  "S9734": {
+   "title": "England record win over New Zealand at Twickenham",
+   "first": "2026-11-21T18:48:10.418294+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T18:45:44+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "England cruise to stunning record victory over New Zealand at Twickenham"
+   },
+   "last": "2026-11-21T18:48:10.418313+00:00"
+  },
+  "S9735": {
+   "title": "Dinamo Zagreb vs Leverkusen odds and spread",
+   "first": "2026-11-21T18:48:10.418318+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T18:42:25+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Dinamo Zagreb vs. Leverkusen (Nov 26, 2026) Odds and Spread"
+   },
+   "last": "2026-11-21T18:48:10.418322+00:00"
+  },
+  "S9736": {
+   "title": "Kel'el Ware skies for big dunk",
+   "first": "2026-11-21T18:48:10.418325+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T18:39:57+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Kel'el Ware skies for big flush"
+   },
+   "last": "2026-11-21T18:48:10.418329+00:00"
+  },
+  "S9737": {
+   "title": "Coventry 3-2 Crystal Palace player stats",
+   "first": "2026-11-21T18:48:10.418332+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:40:15+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Coventry 3-2 C Palace (Nov 21, 2026) Player Stats"
+   },
+   "last": "2026-11-21T18:48:10.418335+00:00"
+  },
+  "S9738": {
+   "title": "Aston Villa 0-0 Sunderland player stats",
+   "first": "2026-11-21T18:48:10.418338+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:30:10+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Aston Villa 0-0 Sunderland (Nov 21, 2026) Player Stats"
+   },
+   "last": "2026-11-21T18:48:10.418341+00:00"
   }
  },
- "story_seq": 9733,
+ "story_seq": 9738,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17381,17 +17453,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T18:43:00.547624+00:00",
+ "last_run": "2026-11-21T18:48:02.909449+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
  "last_digest_at": "2026-11-21T12:00:27.195869+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T18:44:21.273654+00:00",
-   "title": "Palmer, Ferrari'yi uyardı: Hamilton ve Leclerc birlikte mücadele ederse...",
-   "source": "RacingNews365 NL"
-  },
   {
    "t": "2026-11-18T18:54:18.979021+00:00",
    "title": "Zak Brown, Lando Norris'in kaburgalarını kırdığını açıkladı",
