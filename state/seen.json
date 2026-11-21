@@ -1,10 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "c798d9b85434d912": "2026-11-07T10:34:12.846271+00:00",
-  "52000291433de879": "2026-11-07T10:34:12.846271+00:00",
-  "c76c43d64e3caa2e": "2026-11-07T10:34:12.846271+00:00",
-  "1785a94a5987aba7": "2026-11-07T10:34:12.846271+00:00",
   "2df896beeada944f": "2026-11-07T10:39:14.315488+00:00",
   "1440797fa1993195": "2026-11-07T10:39:14.315488+00:00",
   "721f061188d436e7": "2026-11-07T10:39:14.315488+00:00",
@@ -6858,7 +6854,13 @@
   "15a420f66b406549": "2026-11-21T10:30:12.933855+00:00",
   "83587b9c14cded0d": "2026-11-21T10:30:12.933855+00:00",
   "286f6da729cef845": "2026-11-21T10:30:12.933855+00:00",
-  "826bfeb069654908": "2026-11-21T10:30:12.933855+00:00"
+  "826bfeb069654908": "2026-11-21T10:30:12.933855+00:00",
+  "bfa635e8066b1c31": "2026-11-21T10:35:16.197390+00:00",
+  "c2ed703182842dd7": "2026-11-21T10:35:16.197390+00:00",
+  "ab74cdcdfb0fd52e": "2026-11-21T10:35:16.197390+00:00",
+  "d7e1813922213f9c": "2026-11-21T10:35:16.197390+00:00",
+  "4322fd0014a76056": "2026-11-21T10:35:16.197390+00:00",
+  "c8d14fd34de7a1cd": "2026-11-21T10:35:16.197390+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17202,9 +17204,48 @@
     "ESPN F1": "NCAA Bracketology - ESPN"
    },
    "last": "2026-11-21T10:30:16.149360+00:00"
+  },
+  "S9608": {
+   "title": "Analysis: McLaren loses nearly a second on Vegas straights to Mercedes",
+   "first": "2026-11-21T10:35:20.026691+00:00",
+   "sources": {
+    "Motorsport.com Italia": "2026-11-21T10:24:45+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport.com Italia": "F1 | McLaren c’è in curva ma perde quasi un secondo sui rettilinei: ha pagato 20 km/h dalla Mercedes"
+   },
+   "last": "2026-11-21T10:35:20.026708+00:00"
+  },
+  "S9609": {
+   "title": "Verstappen identifies Ferrari weakness costing top speed in Vegas",
+   "first": "2026-11-21T10:35:20.026713+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-21T10:33:55+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Verstappen deckt Ferraris Schwachstelle auf: Ein Detail kostet Topspeed - Motorsport-Total.com"
+   },
+   "last": "2026-11-21T10:35:20.026720+00:00"
+  },
+  "S9610": {
+   "title": "Hulkenberg wanted more time as Audi fall short of Q3 in Vegas",
+   "first": "2026-11-21T10:35:20.026739+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-21T10:29:03+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Audi in Vegas nicht auf Q3-Niveau: Nico Hülkenberg hätte gern mehr Zeit gehabt - Motorsport-Total.com"
+   },
+   "last": "2026-11-21T10:35:20.026743+00:00"
   }
  },
- "story_seq": 9607,
+ "story_seq": 9610,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17323,17 +17364,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T10:30:12.933855+00:00",
+ "last_run": "2026-11-21T10:35:16.197390+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
  "last_digest_at": "2026-11-20T19:00:59.786453+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T10:32:56.186496+00:00",
-   "title": "Las Vegas Grand Prix neden cumartesi günü yapılıyor?",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-18T10:42:59.434130+00:00",
    "title": "Claire Williams, Las Vegas GP'de Channel 4 için yeniden yorumcu olacak",
@@ -19158,6 +19194,16 @@
    "t": "2026-11-21T10:25:22.378114+00:00",
    "title": "Las Vegas GP'de lastik stratejisi seçenekleri neler?",
    "source": "Formula 1"
+  },
+  {
+   "t": "2026-11-21T10:35:25.117825+00:00",
+   "title": "Audi Las Vegas'ta Q3 seviyesinde değil; Hülkenberg daha fazla zamana ihtiyaç duyduğunu söyledi",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-21T10:35:25.593715+00:00",
+   "title": "Verstappen, Ferrari'nin zayıf noktasını ortaya koydu: Tek bir detay en yüksek hızı kaybettiriyor",
+   "source": "Motorsport-Total"
   }
  ]
 }
