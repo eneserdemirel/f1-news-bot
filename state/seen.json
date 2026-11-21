@@ -1,8 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "1746bab9dc6659d5": "2026-11-07T18:20:00.439346+00:00",
-  "0c1f164b637374f8": "2026-11-07T18:20:00.439346+00:00",
   "f315b6749089ea9b": "2026-11-07T18:25:04.265290+00:00",
   "be9de4baa5b83814": "2026-11-07T18:30:00.743102+00:00",
   "962174d58becad18": "2026-11-07T18:30:00.743102+00:00",
@@ -6810,7 +6808,8 @@
   "9c67c2a1566a2a92": "2026-11-21T18:13:01.699916+00:00",
   "affd38a8b3c7817a": "2026-11-21T18:13:01.699916+00:00",
   "0fc5f3f6cfabf7b9": "2026-11-21T18:18:07.688830+00:00",
-  "6ddd55ab18525b6a": "2026-11-21T18:18:07.688830+00:00"
+  "6ddd55ab18525b6a": "2026-11-21T18:18:07.688830+00:00",
+  "8edcbaadf50561f3": "2026-11-21T18:22:59.720851+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -17168,9 +17167,22 @@
     "ESPN F1": "Jason Penza rushes in for 4-yard TD"
    },
    "last": "2026-11-21T18:13:04.000307+00:00"
+  },
+  "S9727": {
+   "title": "Verstappen faces uncertain tyre management challenge in Las Vegas",
+   "first": "2026-11-21T18:23:01.913209+00:00",
+   "sources": {
+    "RacingNews365 NL": "2026-11-21T18:20:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "RacingNews365 NL": "Verstappen staat voor onzekere uitdaging in Las Vegas"
+   },
+   "last": "2026-11-21T18:23:01.913233+00:00"
   }
  },
- "story_seq": 9726,
+ "story_seq": 9727,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17289,7 +17301,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T18:18:07.688830+00:00",
+ "last_run": "2026-11-21T18:22:59.720851+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
@@ -19054,6 +19066,11 @@
    "t": "2026-11-21T18:03:05.960338+00:00",
    "title": "Verstappen üçüncülük için McLaren'a odaklandı; Red Bull için milyonlar söz konusu",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-21T18:23:06.386287+00:00",
+   "title": "Las Vegas GP kuru koşullarda lastik grafinge yol açabilir",
+   "source": "RacingNews365 NL"
   }
  ]
 }
