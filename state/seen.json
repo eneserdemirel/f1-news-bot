@@ -6832,7 +6832,10 @@
   "cfdd11eb402e6c8f": "2026-11-21T09:00:18.484849+00:00",
   "86dc564036bab68f": "2026-11-21T09:00:18.484849+00:00",
   "452aec6b16e124cc": "2026-11-21T09:05:15.613774+00:00",
-  "3068d1568cac9361": "2026-11-21T09:05:15.613774+00:00"
+  "3068d1568cac9361": "2026-11-21T09:05:15.613774+00:00",
+  "2f676e16d4b676d5": "2026-11-21T09:10:14.247088+00:00",
+  "d696cfcba27c0b41": "2026-11-21T09:10:14.247088+00:00",
+  "ddacb6e25a869b87": "2026-11-21T09:10:14.247088+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15458,15 +15461,17 @@
    "first": "2026-11-21T07:43:05.394799+00:00",
    "sources": {
     "Formula 1": "2026-11-21T07:43:05.394802+00:00",
-    "RacingNews365 NL": "2026-11-21T05:20:00+00:00"
+    "RacingNews365 NL": "2026-11-21T05:20:00+00:00",
+    "Motorsport.com Italia": "2026-11-21T09:06:03+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "Formula 1": "Verstappen reacts to inheriting Las Vegas pole after struggles",
-    "RacingNews365 NL": "Tevreden Verstappen staat voor raadsel door Red Bull-problemen"
+    "RacingNews365 NL": "Tevreden Verstappen staat voor raadsel door Red Bull-problemen",
+    "Motorsport.com Italia": "F1 | Verstappen eredita la pole a Las Vegas, ma rivela: \"Ho problemi dal Brasile\""
    },
-   "last": "2026-11-21T07:46:09.648224+00:00"
+   "last": "2026-11-21T09:10:19.291305+00:00"
   },
   "S9487": {
    "title": "Larsen wins F1 Academy Las Vegas reverse grid race",
@@ -16660,14 +16665,16 @@
    "title": "Norris blames plastic bag and straight-line deficit for Vegas qualifying",
    "first": "2026-11-21T07:50:22.367766+00:00",
    "sources": {
-    "The Race": "2026-11-21T07:50:04+00:00"
+    "The Race": "2026-11-21T07:50:04+00:00",
+    "PlanetF1": "2026-11-21T09:05:15+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "The Race": "Plastic bag and a 'horrendous' weakness hurt Norris in Vegas"
+    "The Race": "Plastic bag and a 'horrendous' weakness hurt Norris in Vegas",
+    "PlanetF1": "Lando Norris rues ‘shocking’ McLaren flaw that thwarted Las Vegas pole bid"
    },
-   "last": "2026-11-21T07:50:22.367771+00:00"
+   "last": "2026-11-21T09:10:19.291310+00:00"
   },
   "S9572": {
    "title": "Verstappen explains Vegas car problem to Dutch media, rules out one cause",
@@ -16936,9 +16943,22 @@
     "Motorsport Week": "Cadillac to push back their engine debut as F1 plans for V8 return"
    },
    "last": "2026-11-21T09:05:17.509547+00:00"
+  },
+  "S9592": {
+   "title": "The Race compares F1 2026 team-mate qualifying head-to-heads",
+   "first": "2026-11-21T09:10:19.291281+00:00",
+   "sources": {
+    "The Race": "2026-11-21T08:49:00+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "The Race": "How F1 2026 team-mates are comparing in qualifying"
+   },
+   "last": "2026-11-21T09:10:19.291297+00:00"
   }
  },
- "story_seq": 9591,
+ "story_seq": 9592,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17057,7 +17077,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T09:05:15.613774+00:00",
+ "last_run": "2026-11-21T09:10:14.247088+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18907,6 +18927,11 @@
    "t": "2026-11-21T09:00:24.558290+00:00",
    "title": "Leclerc, gazeteci yasağı tartışmasına yanıt verdi",
    "source": "GPFans"
+  },
+  {
+   "t": "2026-11-21T09:10:22.488695+00:00",
+   "title": "2026 F1 sezonunda takım arkadaşları sıralamada karşılaştırılıyor",
+   "source": "The Race"
   }
  ]
 }
