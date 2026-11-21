@@ -1,16 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "96c97ca42e20b883": "2026-11-07T16:15:00.615176+00:00",
-  "d27cf275382576e9": "2026-11-07T16:15:00.615176+00:00",
-  "0897b6313b36d19c": "2026-11-07T16:15:00.615176+00:00",
-  "3854e44c289cd5d0": "2026-11-07T16:15:00.615176+00:00",
-  "7bfed7744c97a1da": "2026-11-07T16:15:00.615176+00:00",
-  "d4197e40115520b0": "2026-11-07T16:15:00.615176+00:00",
-  "929f1ce654a069c9": "2026-11-07T16:15:00.615176+00:00",
-  "f850883eb84af977": "2026-11-07T16:15:00.615176+00:00",
-  "682198e3440424c0": "2026-11-07T16:15:00.615176+00:00",
-  "b6a10c37cb4223cf": "2026-11-07T16:15:00.615176+00:00",
   "626d5da1d39d9b42": "2026-11-07T16:20:00.392601+00:00",
   "6fe7fde2f1a912a1": "2026-11-07T16:20:00.392601+00:00",
   "5abddcf65ec5c04d": "2026-11-07T16:20:00.392601+00:00",
@@ -6849,7 +6839,11 @@
   "629fe18b10947582": "2026-11-21T16:03:05.249292+00:00",
   "a1fdec9ebbd65dda": "2026-11-21T16:03:05.249292+00:00",
   "34bb69dfe6740f28": "2026-11-21T16:03:05.249292+00:00",
-  "aeb46da21755058e": "2026-11-21T16:08:00.077467+00:00"
+  "aeb46da21755058e": "2026-11-21T16:08:00.077467+00:00",
+  "5cc47e34e12d315f": "2026-11-21T16:18:00.788173+00:00",
+  "d7e460f8c1ce6006": "2026-11-21T16:18:00.788173+00:00",
+  "a326c705246ca33a": "2026-11-21T16:18:00.788173+00:00",
+  "9418fa672deef8f8": "2026-11-21T16:18:00.788173+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -15159,16 +15153,18 @@
    "sources": {
     "RacingNews365": "2026-11-21T01:58:00+00:00",
     "RacingNews365 NL": "2026-11-21T02:47:00+00:00",
-    "Crash.net": "2026-11-21T11:54:27+00:00"
+    "Crash.net": "2026-11-21T11:54:27+00:00",
+    "Motorsport Week": "2026-11-21T16:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365": "George Russell handed stark warning over 'making an enemy' of Max Verstappen",
     "RacingNews365 NL": "Russell gewaarschuwd na Verstappen-incident: \"Max wil je niet als vijand\"",
-    "Crash.net": "George Russell warned “you don’t want to make an enemy” of Max Verstappen"
+    "Crash.net": "George Russell warned “you don’t want to make an enemy” of Max Verstappen",
+    "Motorsport Week": "Jacques Villeneuve delivers stern warning to George Russell over Max Verstappen feud"
    },
-   "last": "2026-11-21T11:55:17.946826+00:00"
+   "last": "2026-11-21T16:18:04.320603+00:00"
   },
   "S9560": {
    "title": "Russell asked Mercedes for Antonelli slipstream, Wolff reacts",
@@ -15935,14 +15931,16 @@
    "title": "Verstappen interested in Daytona 24 Hours debut",
    "first": "2026-11-21T11:05:48.447347+00:00",
    "sources": {
-    "RacingNews365 NL": "2026-11-21T11:00:00+00:00"
+    "RacingNews365 NL": "2026-11-21T11:00:00+00:00",
+    "GPblog": "2026-11-21T16:15:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
-    "RacingNews365 NL": "Verstappen onderzoekt debuut in iconische race"
+    "RacingNews365 NL": "Verstappen onderzoekt debuut in iconische race",
+    "GPblog": "Verstappen Opens the Door to Competing in Legendary Race in 2027"
    },
-   "last": "2026-11-21T11:05:48.447353+00:00"
+   "last": "2026-11-21T16:18:04.320622+00:00"
   },
   "S9616": {
    "title": "Steelers wide receiver corps boost in Week 11 (NFL)",
@@ -16923,9 +16921,22 @@
     "ESPN F1": "Fulham finally end 15-year losing run against Man City"
    },
    "last": "2026-11-21T16:08:02.705745+00:00"
+  },
+  "S9690": {
+   "title": "How Marc Marquez can clinch MotoGP title at Portimao",
+   "first": "2026-11-21T16:18:04.320612+00:00",
+   "sources": {
+    "GPblog": "2026-11-21T16:17:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "GPblog": "How Marc Marquez can clinch the MotoGP title on Sunday at Portimao"
+   },
+   "last": "2026-11-21T16:18:04.320617+00:00"
   }
  },
- "story_seq": 9689,
+ "story_seq": 9690,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17044,7 +17055,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T16:13:06.071240+00:00",
+ "last_run": "2026-11-21T16:18:00.788173+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
