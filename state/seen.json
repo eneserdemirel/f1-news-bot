@@ -1,7 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "b745336f40769ec8": "2026-11-07T07:58:46.984392+00:00",
   "8e7025176c05a9ce": "2026-11-07T08:03:55.718222+00:00",
   "9f21f4400c11a088": "2026-11-07T08:03:55.718222+00:00",
   "8b919ffe4a7a2843": "2026-11-07T08:03:55.718222+00:00",
@@ -6818,7 +6817,8 @@
   "95897adef8047d27": "2026-11-21T07:55:16.395370+00:00",
   "0b928d9528077ab0": "2026-11-21T07:55:16.395370+00:00",
   "7937efaa99704401": "2026-11-21T07:55:16.395370+00:00",
-  "242dd8380db91ca3": "2026-11-21T07:55:16.395370+00:00"
+  "242dd8380db91ca3": "2026-11-21T07:55:16.395370+00:00",
+  "beab7344265dac00": "2026-11-21T08:00:15.752228+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -16891,9 +16891,22 @@
     "FormulaPassion": "Prima fila Max-Russell, Wolff: “Prevedo un grande cinema. Staremo a vedere…”"
    },
    "last": "2026-11-21T07:55:21.294809+00:00"
+  },
+  "S9576": {
+   "title": "Russell stunned by 'insane' tow power in Las Vegas qualifying",
+   "first": "2026-11-21T08:00:17.997740+00:00",
+   "sources": {
+    "Formula 1": "2026-11-21T08:00:17.997756+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Formula 1": "Russell stunned by 'insane’ tow power in Las Vegas"
+   },
+   "last": "2026-11-21T08:00:17.997760+00:00"
   }
  },
- "story_seq": 9575,
+ "story_seq": 9576,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17012,7 +17025,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T07:55:16.395370+00:00",
+ "last_run": "2026-11-21T08:00:15.752228+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-20 22:00",
@@ -18842,6 +18855,11 @@
    "t": "2026-11-21T07:55:27.418417+00:00",
    "title": "Wolff: Russell pole için 'mükemmel konumdaydı'",
    "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-21T08:00:21.890137+00:00",
+   "title": "Russell, Las Vegas'taki 'çılgın' slipstream gücüne şaşırdı",
+   "source": "Formula 1"
   }
  ]
 }
