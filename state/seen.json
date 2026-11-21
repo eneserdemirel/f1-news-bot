@@ -1,9 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "2321447c61e02ce5": "2026-11-07T19:15:00.617848+00:00",
-  "cc9ca7846fd60092": "2026-11-07T19:15:00.617848+00:00",
-  "eadfc95bda9de668": "2026-11-07T19:15:00.617848+00:00",
   "f8b77bccca88fcb1": "2026-11-07T19:25:05.703325+00:00",
   "70d7d2e6ac651890": "2026-11-07T19:25:05.703325+00:00",
   "98e88c581b390249": "2026-11-07T19:25:05.703325+00:00",
@@ -6815,7 +6812,12 @@
   "6622b0f36c92f3f4": "2026-11-21T19:08:03.562674+00:00",
   "d9fbcbaee04ac5a3": "2026-11-21T19:13:00.138704+00:00",
   "df1f8f6bb018a130": "2026-11-21T19:13:00.138704+00:00",
-  "bf93be012a3b8e96": "2026-11-21T19:13:00.138704+00:00"
+  "bf93be012a3b8e96": "2026-11-21T19:13:00.138704+00:00",
+  "0212623b26135b13": "2026-11-21T19:18:04.289384+00:00",
+  "4e36ca109c0d53f9": "2026-11-21T19:18:04.289384+00:00",
+  "9126c66f7254641e": "2026-11-21T19:18:04.289384+00:00",
+  "b0fe5efd87be827a": "2026-11-21T19:18:04.289384+00:00",
+  "6bf36c468f451a6a": "2026-11-21T19:18:04.289384+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -13577,7 +13579,7 @@
     "FormulaPassion": "Duello con Russell, Verstappen se la cava con un warning",
     "Gazzetta dello Sport": "Russell-Verstappen, scintille e dito medio a Las Vegas: cosa è successo e perché la Fia ha graziato Max"
    },
-   "last": "2026-11-21T12:30:45.728569+00:00"
+   "last": "2026-11-21T19:18:09.577729+00:00"
   },
   "S9468": {
    "title": "Raptors vs. Pistons live score (NBA)",
@@ -15469,16 +15471,18 @@
    "sources": {
     "RacingNews365 NL": "2026-11-21T09:45:00+00:00",
     "Crash.net": "2026-11-21T09:53:52+00:00",
-    "Motorsport-Total": "2026-11-21T10:20:25+00:00"
+    "Motorsport-Total": "2026-11-21T10:20:25+00:00",
+    "Motorsport Week": "2026-11-21T19:00:00+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "RacingNews365 NL": "Hadjar hekelt spelletjes: \"We zagen er een beetje knullig uit\"",
     "Crash.net": "Isack Hadjar says outsmarted Red Bull “looked a bit stupid” in Las Vegas GP qualifying",
-    "Motorsport-Total": "Isack Hadjar: \"Beim letzten Run haben wir dumm ausgesehen\" - Motorsport-Total.com"
+    "Motorsport-Total": "Isack Hadjar: \"Beim letzten Run haben wir dumm ausgesehen\" - Motorsport-Total.com",
+    "Motorsport Week": "Isack Hadjar admits Red Bull looked ‘stupid’ at the F1 Las Vegas GP qualifying"
    },
-   "last": "2026-11-21T10:25:17.408314+00:00"
+   "last": "2026-11-21T19:18:09.577735+00:00"
   },
   "S9599": {
    "title": "Lawson says costly Q3 issue cost him a better grid spot",
@@ -17383,9 +17387,48 @@
     "ESPN F1": "Bournemouth 2-0 Nottm Forest (21 Nov, 2026) Final Score"
    },
    "last": "2026-11-21T19:13:02.756668+00:00"
+  },
+  "S9743": {
+   "title": "Ireland beat South Africa 20-17 in rugby",
+   "first": "2026-11-21T19:18:09.577700+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T18:58:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ireland claim statement 20-17 win over South Africa"
+   },
+   "last": "2026-11-21T19:18:09.577720+00:00"
+  },
+  "S9744": {
+   "title": "Lawson calls Vegas qualifying battle impossible",
+   "first": "2026-11-21T19:18:09.577739+00:00",
+   "sources": {
+    "PlanetF1": "2026-11-21T19:06:01+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "PlanetF1": "Liam Lawson faced ‘impossible’ battle in Las Vegas qualifying"
+   },
+   "last": "2026-11-21T19:18:09.577742+00:00"
+  },
+  "S9745": {
+   "title": "Lauda's advice to Wolff: don't overcomplicate things",
+   "first": "2026-11-21T19:18:09.577745+00:00",
+   "sources": {
+    "Motorsport-Total": "2026-11-21T19:11:04+00:00"
+   },
+   "posted": true,
+   "alerted": false,
+   "titles": {
+    "Motorsport-Total": "Niki Lauda hat Toto Wolff immer gesagt: \"Du denkst und sprichst zu kompliziert\" - Motorsport-Total.com"
+   },
+   "last": "2026-11-21T19:18:09.577749+00:00"
   }
  },
- "story_seq": 9742,
+ "story_seq": 9745,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -17504,17 +17547,12 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T19:13:00.138704+00:00",
+ "last_run": "2026-11-21T19:18:04.289384+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 22:00",
  "last_digest_at": "2026-11-21T19:03:08.588002+00:00",
  "sent_log": [
-  {
-   "t": "2026-11-18T19:14:17.899061+00:00",
-   "title": "Liam Lawson'ın verileri F1 yayınlarında canlı gösterilecek",
-   "source": "RacingNews365"
-  },
   {
    "t": "2026-11-18T22:12:38.821707+00:00",
    "title": "Hamilton'ın Ferrari'deki geleceği tartışılıyor, McLaren'a dönüş ihtimali gündemde",
@@ -19264,6 +19302,21 @@
    "t": "2026-11-21T19:03:08.587555+00:00",
    "title": "Norris, Verstappen'in Las Vegas'taki kilitlenmesine radyoda alaycı tepki verdi",
    "source": "GPblog"
+  },
+  {
+   "t": "2026-11-21T19:18:15.167042+00:00",
+   "title": "Lawson, Las Vegas sıralamasında düz çizgi hızı eksikliğiyle zorlandı",
+   "source": "PlanetF1"
+  },
+  {
+   "t": "2026-11-21T19:18:15.663612+00:00",
+   "title": "Lauda, Wolff'a \"çok karmaşık düşündüğünü\" söylüyormuş",
+   "source": "Motorsport-Total"
+  },
+  {
+   "t": "2026-11-21T19:18:16.165062+00:00",
+   "title": "Verstappen-Russell FP3 temasında taraftarlar yetkililerle ayrışıyor",
+   "source": "RacingNews365"
   }
  ]
 }
