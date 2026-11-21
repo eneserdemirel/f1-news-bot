@@ -1,12 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "eaacb1ff9a130bdc": "2026-11-07T15:19:14.494490+00:00",
-  "3e65978f96d1abd5": "2026-11-07T15:19:14.494490+00:00",
-  "3887143e78730584": "2026-11-07T15:19:14.494490+00:00",
-  "0dbf63bb6dbf74ee": "2026-11-07T15:19:14.494490+00:00",
-  "9a9ed047f728443f": "2026-11-07T15:19:14.494490+00:00",
-  "43c186ebf17cc42e": "2026-11-07T15:19:14.494490+00:00",
   "52132c98f43c0b6d": "2026-11-07T15:24:22.209650+00:00",
   "8dfc235dabfdcf16": "2026-11-07T15:24:22.209650+00:00",
   "868f25276462c971": "2026-11-07T15:34:14.685796+00:00",
@@ -6876,7 +6870,9 @@
   "2efb87e20fe1e93e": "2026-11-21T15:18:00.259686+00:00",
   "98d06093139ac8a6": "2026-11-21T15:18:00.259686+00:00",
   "11df3e6a1ae571c3": "2026-11-21T15:18:00.259686+00:00",
-  "1f847781fafbb0dc": "2026-11-21T15:18:00.259686+00:00"
+  "1f847781fafbb0dc": "2026-11-21T15:18:00.259686+00:00",
+  "741b68965bb25ce5": "2026-11-21T15:23:02.559956+00:00",
+  "45392a306a975788": "2026-11-21T15:23:02.559956+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7243,19 +7239,6 @@
    },
    "last": "2026-11-19T21:06:57.076726+00:00"
   },
-  "S8976": {
-   "title": "Pirelli picks softest compounds for Las Vegas street circuit",
-   "first": "2026-11-19T15:20:39.160329+00:00",
-   "sources": {
-    "Motorsport.com Italia": "2026-11-19T15:19:14+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "Motorsport.com Italia": "F1 | Simulazione MegaRide: nella notte di Las Vegas si deve combattere il graining delle gomme"
-   },
-   "last": "2026-11-19T15:20:39.160350+00:00"
-  },
   "S8977": {
    "title": "Hezemans says Verstappen not out of contention in Las Vegas",
    "first": "2026-11-19T15:20:39.160362+00:00",
@@ -7268,32 +7251,6 @@
     "RacingNews365 NL": "Hezemans waarschuwt Mercedes voor Verstappen: \"Max is zeker niet kansloos\""
    },
    "last": "2026-11-19T17:30:37.061416+00:00"
-  },
-  "S8978": {
-   "title": "Hamilton confirms F1 movie sequel is in the works",
-   "first": "2026-11-19T15:20:39.160368+00:00",
-   "sources": {
-    "GPblog": "2026-11-19T15:15:00+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "GPblog": "Hamilton reveals big 'F1' movie sequel news in Las Vegas"
-   },
-   "last": "2026-11-19T15:20:39.160371+00:00"
-  },
-  "S8979": {
-   "title": "Orihara says Red Bull's Honda fast-burn concept fails in 2026",
-   "first": "2026-11-19T15:20:39.160374+00:00",
-   "sources": {
-    "AS": "2026-11-19T14:59:45+00:00"
-   },
-   "posted": true,
-   "alerted": false,
-   "titles": {
-    "AS": "El motor Honda de Red Bull tenía truco... y ya no funciona"
-   },
-   "last": "2026-11-19T15:20:39.160376+00:00"
   },
   "S8980": {
    "title": "Norris on which current F1 driver would be the best James Bond",
@@ -16857,9 +16814,35 @@
     "The Race": "F1 still 'very small' in US - Domenicali"
    },
    "last": "2026-11-21T15:18:02.572273+00:00"
+  },
+  "S9671": {
+   "title": "Sunderland vs. Spurs (Nov 29, 2026) odds and spread",
+   "first": "2026-11-21T15:23:04.348893+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T15:15:55+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sunderland vs. Spurs (Nov 29, 2026) Odds and Spread"
+   },
+   "last": "2026-11-21T15:23:04.348913+00:00"
+  },
+  "S9672": {
+   "title": "Texas A&M expected to bench Marcel Reed for Brady Hart",
+   "first": "2026-11-21T15:23:04.348918+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T14:29:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Sources: Texas A&M expected to bench Marcel Reed, start Brady Hart"
+   },
+   "last": "2026-11-21T15:23:04.348923+00:00"
   }
  },
- "story_seq": 9670,
+ "story_seq": 9672,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16978,7 +16961,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T15:18:00.259686+00:00",
+ "last_run": "2026-11-21T15:23:02.559956+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
