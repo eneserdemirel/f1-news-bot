@@ -1,15 +1,6 @@
 {
  "initialized": true,
  "seen": {
-  "3dd0745cd504115e": "2026-11-07T14:39:15.280527+00:00",
-  "3c12a7494aa67f92": "2026-11-07T14:39:15.280527+00:00",
-  "01cffeddffb5f743": "2026-11-07T14:39:15.280527+00:00",
-  "422171844a619d5d": "2026-11-07T14:39:15.280527+00:00",
-  "b680d8104ae36b7f": "2026-11-07T14:39:15.280527+00:00",
-  "078a12c19843fdc0": "2026-11-07T14:39:15.280527+00:00",
-  "a970b7adcf0c4697": "2026-11-07T14:39:15.280527+00:00",
-  "b0ba8bd22fb95121": "2026-11-07T14:39:15.280527+00:00",
-  "674e8bd17aac11ac": "2026-11-07T14:39:15.280527+00:00",
   "f2a9ae847e63fc03": "2026-11-07T14:44:12.054056+00:00",
   "e787c2dc3b874f27": "2026-11-07T14:44:12.054056+00:00",
   "3964bc16e2074ad6": "2026-11-07T14:44:12.054056+00:00",
@@ -6883,7 +6874,10 @@
   "bf4a03092b49ad0d": "2026-11-21T14:28:01.186260+00:00",
   "ff0bc84a3becd51f": "2026-11-21T14:28:01.186260+00:00",
   "3f5e1f54d9087b7a": "2026-11-21T14:33:06.443084+00:00",
-  "da11824d2345f17e": "2026-11-21T14:38:00.980229+00:00"
+  "da11824d2345f17e": "2026-11-21T14:38:00.980229+00:00",
+  "ba728e44393df18c": "2026-11-21T14:43:00.053120+00:00",
+  "8d19e1e84c7df68d": "2026-11-21T14:43:00.053120+00:00",
+  "51212d24f012fff2": "2026-11-21T14:43:00.053120+00:00"
  },
  "feeds": {
   "Sky Sports F1": "https://www.skysports.com/rss/12433",
@@ -7131,19 +7125,6 @@
     "RacingNews365": "Kimi Antonelli explains reason to fear Red Bull in Las Vegas 'outlier'"
    },
    "last": "2026-11-19T20:52:42.662570+00:00"
-  },
-  "S8891": {
-   "title": "Jazz end Lakers winning streak at nine games",
-   "first": "2026-11-19T08:43:50.987130+00:00",
-   "sources": {
-    "ESPN F1": "2026-11-19T07:46:00+00:00"
-   },
-   "posted": false,
-   "alerted": false,
-   "titles": {
-    "ESPN F1": "Luka Doncic's shot goes cold as Jazz end Lakers winning streak at 9"
-   },
-   "last": "2026-11-19T14:40:37.180579+00:00"
   },
   "S8908": {
    "title": "Cummins acts normal amid cricket chaos",
@@ -16035,15 +16016,17 @@
    "first": "2026-11-21T10:00:16.290082+00:00",
    "sources": {
     "GPFans": "2026-11-21T09:57:00+00:00",
-    "ESPN F1": "2026-11-21T08:36:00+00:00"
+    "ESPN F1": "2026-11-21T08:36:00+00:00",
+    "PlanetF1": "2026-11-21T14:39:47+00:00"
    },
    "posted": true,
    "alerted": false,
    "titles": {
     "GPFans": "Major limits announced for F1 Qatar Grand Prix over safety concerns",
-    "ESPN F1": "Drivers limited to 27-lap tyre stint as rule reintroduced for Qatar Grand Prix"
+    "ESPN F1": "Drivers limited to 27-lap tyre stint as rule reintroduced for Qatar Grand Prix",
+    "PlanetF1": "Pirelli announces maximum stint lengths in Qatar GP reveal"
    },
-   "last": "2026-11-21T14:03:15.380938+00:00"
+   "last": "2026-11-21T14:43:03.390455+00:00"
   },
   "S9603": {
    "title": "Dutch guide: Las Vegas GP race start time on Sunday",
@@ -16760,9 +16743,35 @@
     "ESPN F1": "Elversberg vs. Freiburg (Nov 21, 2026) Team Stats"
    },
    "last": "2026-11-21T14:38:02.721947+00:00"
+  },
+  "S9657": {
+   "title": "Ben McKinney called up to England cricket Test squad",
+   "first": "2026-11-21T14:43:03.390420+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T14:40:19+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "Ben McKinney called up to England Test squad for South Africa"
+   },
+   "last": "2026-11-21T14:43:03.390440+00:00"
+  },
+  "S9658": {
+   "title": "2026-27 English Premier League standings",
+   "first": "2026-11-21T14:43:03.390445+00:00",
+   "sources": {
+    "ESPN F1": "2026-11-21T14:40:00+00:00"
+   },
+   "posted": false,
+   "alerted": false,
+   "titles": {
+    "ESPN F1": "2026-27 English Premier League Standings"
+   },
+   "last": "2026-11-21T14:43:03.390449+00:00"
   }
  },
- "story_seq": 9656,
+ "story_seq": 9658,
  "calendar": [
   [
    "2026-03-05T19:30:00+00:00",
@@ -16881,7 +16890,7 @@
   ]
  ],
  "calendar_updated": "2026-11-21T00:04:33.435793+00:00",
- "last_run": "2026-11-21T14:38:00.980229+00:00",
+ "last_run": "2026-11-21T14:43:00.053120+00:00",
  "last_digest": "2026-10-23T11:41:28.151103+00:00",
  "last_digest_key": "ab14200c4948e0284e1a57aa5de3654285264a44",
  "last_digest_slot": "2026-11-21 15:00",
